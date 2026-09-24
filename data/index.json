@@ -1,0 +1,16 @@
+{
+  "generated": "2026-09-24",
+  "count": 1,
+  "entries": [
+    {
+      "id": "sample-001",
+      "title": "示例条目：smoothTalker 是什么",
+      "tags": [
+        "meta",
+        "sample"
+      ],
+      "summary": "占位示例。说明这个 connector 的用途和数据结构，正式内容填入后删除。",
+      "updated": "2026-09-24"
+    }
+  ]
+}

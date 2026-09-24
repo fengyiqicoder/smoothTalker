@@ -1,0 +1,89 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "smoothTalker",
+    "version": "0.1.0",
+    "description": "Static read-only knowledge connector. All endpoints are plain GET requests to static JSON files hosted on GitHub Pages. No authentication. Load /data/index.json first, filter locally, then fetch individual entries by id."
+  },
+  "servers": [
+    { "url": "https://fengyiqicoder.github.io/smoothTalker" }
+  ],
+  "paths": {
+    "/data/index.json": {
+      "get": {
+        "operationId": "listEntries",
+        "summary": "List all entries (id, title, tags, summary). Small enough to load fully; filter client-side.",
+        "responses": {
+          "200": {
+            "description": "Index of all entries",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "generated": { "type": "string", "format": "date" },
+                    "count": { "type": "integer" },
+                    "entries": {
+                      "type": "array",
+                      "items": { "$ref": "#/components/schemas/IndexItem" }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/entries/{id}.json": {
+      "get": {
+        "operationId": "getEntry",
+        "summary": "Get one entry's full body by id (ids come from listEntries).",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Full entry",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/Entry" }
+              }
+            }
+          },
+          "404": { "description": "No entry with that id" }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "IndexItem": {
+        "type": "object",
+        "required": ["id", "title", "summary"],
+        "properties": {
+          "id": { "type": "string" },
+          "title": { "type": "string" },
+          "tags": { "type": "array", "items": { "type": "string" } },
+          "summary": { "type": "string" },
+          "updated": { "type": "string", "format": "date" }
+        }
+      },
+      "Entry": {
+        "allOf": [
+          { "$ref": "#/components/schemas/IndexItem" },
+          {
+            "type": "object",
+            "required": ["body"],
+            "properties": { "body": { "type": "string" } }
+          }
+        ]
+      }
+    }
+  }
+}
