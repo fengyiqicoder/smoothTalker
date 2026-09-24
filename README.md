@@ -7,7 +7,7 @@ SmoothTalker is a library of conversation playbooks. When a Muse user asks their
 There is no server. It is an OpenAPI document plus JSON files on GitHub Pages.
 
 - Site: https://smoothtalker.000ooo.ooo/
-- Mirror (use this if the custom domain is blocked from an agent's network, which happened with Muse): https://fengyiqicoder.github.io/smoothTalker/
+- Agent-safe fetch URL (the custom domain is blocked from some agent networks, including Muse's VM, and github.io redirects to it): https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/all.json
 - OpenAPI: https://smoothtalker.000ooo.ooo/openapi.json
 - Whole library in one file: https://smoothtalker.000ooo.ooo/data/all.json
 - Index only: https://smoothtalker.000ooo.ooo/data/index.json
