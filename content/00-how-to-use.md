@@ -23,7 +23,9 @@ If a critical piece is missing and it changes the answer, ask one short question
 
 **2. Pick the closest playbook.** Match the situation to an entry using its `triggers` and `summary`. If two apply (for example "decline a request" and "set a boundary with family"), read both and blend. Always keep `01-principles` in mind.
 
-**3. Build the message from the playbook's structure.** Every playbook gives a skeleton. Fill it with the user's specifics: real names, the real reason, the real alternative. Generic messages read as insincere.
+**3. Build the message from the playbook's structure, in order.** Every playbook gives a numbered skeleton. Follow it step by step; do not skip a step because it feels optional. If a step needs a specific the user has not given (a number to counter with, a date, a reason), either ask one short question first or leave a bracket with guidance inside it, like "[your counter, e.g. $1,900; check comparable listings]". Fill everything else with the user's specifics: real names, the real reason, the real alternative. Generic messages read as insincere.
+
+**Use the playbook's examples as the quality bar.** Your output should be at least as specific, as short and as concrete as the closest example in the entry. If your draft is vaguer than the example, rewrite it.
 
 **4. Calibrate tone.** Use `02-tone-calibration`. Match the other person's register. Default to slightly warmer than the user's draft and noticeably shorter.
 
@@ -39,6 +41,14 @@ If a critical piece is missing and it changes the answer, ask one short question
 Default: offer **two versions**, one warmer and one more direct, each ready to send. Label them in three words or fewer. Add at most one line of reasoning if the choice matters. If the user asked for a single message, give one.
 
 For sensitive situations (conflict, bad news, money, romance) add one line on **what to do if the reply is negative**, because the follow-up is where most people lose the exchange.
+
+**Always end with one line naming the playbook(s) you used**, for example "Playbook: landlord-tenant-and-service-providers". This lets the user see the library is working and ask for a different one.
+
+## Style rules for the message itself
+- No em-dashes. Use a comma, a full stop or "and".
+- No "I'll have to say no", "unfortunately", "I'm afraid". State the position: "I can't agree to X" or "I'd like to propose Y".
+- Every request ends with something the other person can say yes to: a number, a date, a specific option.
+- Reasons about your value or the facts (market, record, agreement) beat reasons about your needs (budget, feelings).
 
 ## When not to smooth
 

@@ -21,7 +21,11 @@ Get the outcome while keeping the relationship workable, because you will need t
 
 ## Rent increase, pushing back
 
-**Structure:** thanks for notice → your position with a number → reason (market, condition, tenancy record) → ask.
+**Do not send a flat no.** A flat refusal to a rent increase usually ends in non-renewal. The move is a counter: a specific number, one or two strong reasons, and an easy way for the landlord to say yes. If the user has not given their current rent, the proposed rent, or comparable prices, ask for them or leave clearly labelled brackets.
+
+**Structure (all four, in order):** thanks for notice → counter with a specific number → one or two reasons that are about facts, not your budget (comparable listings, years in the unit, payment record, condition of the flat) → a concrete ask (sign for 12 months at that number, or a call this week).
+
+**Before sending:** check whether the lease allows an increase before renewal, and ask for any change in writing.
 
 > Hi Mark,
 > Thanks for letting me know about the proposed increase to $2,100. I'd like to ask you to reconsider. Comparable units in the building are listing at $1,850 to $1,950, and I've been here three years with rent always on time. I'd be glad to sign another 12 months at $1,900. Would that work for you? Happy to talk it through by phone if easier.
