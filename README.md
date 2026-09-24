@@ -6,10 +6,10 @@ SmoothTalker is a library of conversation playbooks. When a Muse user asks their
 
 There is no server. It is an OpenAPI document plus JSON files on GitHub Pages.
 
-- Site: https://fengyiqicoder.github.io/smoothTalker/
-- OpenAPI: https://fengyiqicoder.github.io/smoothTalker/openapi.json
-- Whole library in one file: https://fengyiqicoder.github.io/smoothTalker/data/all.json
-- Index only: https://fengyiqicoder.github.io/smoothTalker/data/index.json
+- Site: https://smoothtalker.000ooo.ooo/ (GitHub Pages mirror: https://fengyiqicoder.github.io/smoothTalker/)
+- OpenAPI: https://smoothtalker.000ooo.ooo/openapi.json
+- Whole library in one file: https://smoothtalker.000ooo.ooo/data/all.json
+- Index only: https://smoothtalker.000ooo.ooo/data/index.json
 
 ## Connect it to Muse
 
@@ -20,9 +20,9 @@ Copy the prompt in [`MUSE_PROMPT.md`](MUSE_PROMPT.md) and send it to Muse. Muse 
 | Category | Playbooks |
 |---|---|
 | core | how to use, principles, tone calibration, anti-patterns, phrase bank, cross-cultural notes |
-| personal | decline invitation, decline request, ask a favour, apologise, follow up, reconnect after silence, deliver bad news, condolences, disagree without conflict, de-escalate an argument, set a boundary, end a conversation, cancel or reschedule, romantic let-down, first message to a stranger, respond to criticism, ask someone to change a behaviour, give feedback kindly, money between friends, compliments and thanks, small talk, respond to passive-aggression |
-| work | negotiate salary or price, push back on your boss, say no to a client, chase late payment, angry customer, cold outreach, decline an offer or reject a candidate, feedback to a colleague, admit a mistake, ask for an extension, follow up after interview or meeting, quit or leave gracefully, client went silent, request an intro |
-| commerce | customer inquiry in DMs, refund requests, negative reviews, upsell without pushiness, creator brand deals |
+| personal | landlords/tenants/contractors, complain as a customer, ask someone out and early dating, share personal news, group chat coordination, respond to unsolicited advice, decline invitation, decline request, ask a favour, apologise, follow up, reconnect after silence, deliver bad news, condolences, disagree without conflict, de-escalate an argument, set a boundary, end a conversation, cancel or reschedule, romantic let-down, first message to a stranger, respond to criticism, ask someone to change a behaviour, give feedback kindly, money between friends, compliments and thanks, small talk, respond to passive-aggression |
+| work | ask a colleague for help or delegate, introduce yourself, negotiate salary or price, push back on your boss, say no to a client, chase late payment, angry customer, cold outreach, decline an offer or reject a candidate, feedback to a colleague, admit a mistake, ask for an extension, follow up after interview or meeting, quit or leave gracefully, client went silent, request an intro |
+| commerce | price increase and customer announcements, ask for a review or testimonial, customer inquiry in DMs, refund requests, negative reviews, upsell without pushiness, creator brand deals |
 
 Every playbook has the same shape: **Goal → Structure → Principles → Examples at several tones → Avoid → What to do if it goes badly.**
 

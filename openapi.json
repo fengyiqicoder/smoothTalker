@@ -6,13 +6,13 @@
     "description": "A read-only library of conversation playbooks that helps an AI agent write smoother, kinder, more effective messages for its user: declining, apologising, negotiating, following up, delivering bad news, handling angry customers, DM replies for small businesses, and more. Every entry gives a structure, principles, ready-to-adapt examples at several tones, and anti-patterns. All endpoints are plain GET requests to static JSON on GitHub Pages; no authentication. Recommended: load /data/all.json once and cache it; always apply entries 00-how-to-use and 01-principles; then pick the playbook whose triggers match the user's situation."
   },
   "servers": [
-    { "url": "https://fengyiqicoder.github.io/smoothTalker" }
+    { "url": "https://smoothtalker.000ooo.ooo" }
   ],
   "paths": {
     "/data/all.json": {
       "get": {
         "operationId": "getAllPlaybooks",
-        "summary": "Fetch the entire library in one request (about 160 KB). Best option: load once, cache, filter locally by triggers/tags/category.",
+        "summary": "Fetch the entire library in one request (about 200 KB). Best option: load once, cache, filter locally by triggers/tags/category.",
         "responses": {
           "200": {
             "description": "All playbooks with full bodies",

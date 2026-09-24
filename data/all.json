@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-24",
-  "count": 47,
+  "count": 57,
   "read_first": [
     "00-how-to-use",
     "01-principles"
@@ -174,6 +174,32 @@
       "body": "# Apologising\n\n## Goal\nThe other person feels that you understand what you did, that you own it, and that it is less likely to happen again. Forgiveness is their choice, not the message's goal.\n\n## Structure (all four, in order)\n1. **Name the specific thing.** \"I'm sorry I missed your call and didn't text back until today.\" Not \"sorry about earlier.\"\n2. **Own it without a \"but\".** No \"but I was busy\". If there is context they need, it goes after ownership, in one clause, framed as explanation not excuse.\n3. **Acknowledge the impact on them.** \"That left you waiting and probably wondering if I'd flaked.\"\n4. **What changes.** A concrete fix, or a concrete future behaviour. Or simply \"It won't happen again\" if that is true.\n\nOptional: **one make-good** if proportionate.\n\n## Principles\n- Scale the apology to the offence. Over-apologising for small things makes the other person manage your guilt.\n- \"I'm sorry you feel that way\" is not an apology. \"I'm sorry if\" is not an apology.\n- Do not ask for forgiveness in the same message. It turns the apology into a request.\n- Say it once. Repetition makes it about your discomfort.\n\n## Examples\n\n**Late to meet a friend, text:**\n> Sorry I kept you waiting 25 minutes, I should have texted the moment I knew I was running behind. Drinks are on me tonight.\n\n**Forgot something important:**\n> I completely dropped the ball on your birthday and I'm sorry. No excuse, I just didn't put it in my calendar and it slipped. That's not the kind of friend I want to be. Can I take you out this weekend, properly?\n\n**Hurt someone with what you said:**\n> I've been thinking about what I said on Sunday about your job. It was unfair and it came out as contempt, which isn't what I feel. I can see it stung. I'm sorry. I'd like to hear how it landed for you, when you're up for it.\n\n**Missed a deadline, work:**\n> I missed the Friday deadline on the report and I'm sorry, that put you in a bad spot with the client. It's done now and attached. Going forward I'll flag on Wednesday if anything is at risk so you're never surprised.\n\n**Small thing, keep it small:**\n> Oops, my bad, sending now.\n\n## Avoid\n- \"I'm sorry, but...\"\n- \"I'm sorry you feel...\"\n- \"Mistakes were made.\"\n- Explaining at length. The longer the explanation, the more it reads as self-defence.\n- Asking \"are we okay?\" in the same message. Give them room.\n\n## If they are still upset\n> That's fair. I'm not going to argue with how you feel about it. I'm here when you're ready.\nThen actually leave space."
     },
     {
+      "id": "ask-colleague-for-help-or-delegate",
+      "title": "Asking a colleague for help, delegating, and saying \"I don't know\"",
+      "category": "work",
+      "tags": [
+        "ask for help",
+        "delegate",
+        "colleague",
+        "teammate",
+        "don't know",
+        "handoff",
+        "workload"
+      ],
+      "triggers": [
+        "ask a coworker for help",
+        "delegate a task",
+        "hand this off",
+        "admit I don't know",
+        "ask my team to do",
+        "need help at work",
+        "ask for support from a colleague"
+      ],
+      "summary": "Clear, respectful asks between colleagues: getting help without looking helpless, delegating without sounding like a boss, and admitting you don't know without losing standing.",
+      "updated": "2026-09-24",
+      "body": "# Asking a colleague for help, delegating, saying \"I don't know\"\n\n## Asking a peer for help\n\n**Structure:** what you've tried → the specific thing you need → the size of the ask → an out.\n\n> Hey Lee, I've been stuck on the export bug for an hour and I've checked the obvious things (config, permissions). Could you look at it with me for 15 minutes today? If you're heads-down, tomorrow's fine.\n\n> Could I borrow your eyes on this deck before it goes to Sara? Mainly slides 4 to 7, where I'm not sure the story lands. Ten minutes max.\n\n**Principles**\n- Show your work first. \"I've tried X and Y\" turns \"help me\" into \"help me finish\".\n- Name the time cost. People say yes to 15 minutes and dodge \"a quick chat\".\n- Give a deadline and an out.\n- Say thanks afterwards, specifically, and ideally where their manager can see it.\n\n## Delegating (to a peer, a junior, or across teams)\n\n**Structure:** the outcome → why them → what \"done\" looks like → deadline → what support you'll give → check they can take it.\n\n> Priya, I'd like you to own the onboarding email sequence for the launch. You've done the best work on the welcome flows, so it's a natural fit. Done means: five emails drafted and reviewed by marketing by the 20th. I'll do a first pass on your drafts whenever you want, and I'll clear it with Dan so it's on your plate officially. Can you take it on, given what you've got already?\n\n**Peer, no authority:**\n> Could you take the vendor calls this week? I'm on the audit until Thursday and you've got the relationship there. I'll pick up your Friday standup in return.\n\n**Cross-team:**\n> Hi Marcus, we need the API docs updated for the release and I think your team's the right owner since you built the endpoints. Target is the 15th. Is that doable, or should we talk about what would make it possible?\n\n**Principles**\n- Describe the outcome, not the steps. People own outcomes; they resent step lists.\n- Say why them. It's not flattery, it's context.\n- Ask, and mean it. If they say they can't, negotiate scope or date.\n- Delegating and then micromanaging is worse than not delegating.\n- Take responsibility upward. If it fails, that's yours.\n\n## Saying \"I don't know\"\n\n**The formula:** I don't know + what I'll do about it + when.\n\n> I don't know off the top of my head. Let me check and I'll have an answer by 3.\n> Good question, I'm not sure. My guess is X but I don't want to give you a guess on this. I'll confirm today.\n> That's outside what I've worked on. Lee has; want me to loop them in?\n> I don't know, and I'd rather say that than make something up. What's the decision this feeds into? That'll help me get you the right thing.\n\n**Principles**\n- \"I don't know\" said fast and cleanly raises your credibility. Bluffing lowers it, later.\n- Always attach the next step.\n- In meetings, \"I'll find out\" beats a wrong answer every time.\n\n## Avoid\n- \"Sorry to bother you, I know you're busy, but...\"\n- Asking for help without saying what you've tried.\n- Delegating by dumping (\"can you just handle this?\").\n- Delegating in a group message so nobody owns it.\n- \"I think it's probably...\" when you don't know.\n- Apologising for not knowing."
+    },
+    {
       "id": "ask-for-extension",
       "title": "Asking for a deadline extension",
       "category": "work",
@@ -217,6 +243,59 @@
       "summary": "How to ask for help without sounding needy or entitled: make the ask specific, name the cost, and give a real out.",
       "updated": "2026-09-24",
       "body": "# Asking for a favour\n\n## Goal\nThey should be able to say yes in one word, or no without guilt, and either way feel respected.\n\n## Structure\n1. **Context in one line** (why you're asking them specifically, if there is a reason).\n2. **The ask, specific**: what, when, how long, what it involves.\n3. **Name the cost honestly**: \"it's about an hour\", \"you'd need a car\".\n4. **A real out.**\n5. **What you'll do in return, if natural.** Do not manufacture reciprocity.\n\n## Principles\n- Vague asks (\"could you help me with something?\") force them to say yes before they know what it is. That feels like a trap.\n- Pre-apologising (\"sorry to ask\") frames the request as an imposition. A clear ask with an out is not an imposition.\n- People like being asked for things they are good at. If that is why you are asking them, say so.\n\n## Examples\n\n**Ride to the airport, text:**\n> Any chance you could drop me at the airport Thursday around 6am? I know it's early. If it's a pain, I'll grab a cab, no problem at all. Coffee's on me either way.\n\n**Ask someone to read your work:**\n> You're the best editor I know, so I'm going to be cheeky: would you have 20 minutes this week to read a two-page draft? Honest notes only. If you're underwater, tell me and I'll ask someone else.\n\n**Ask to borrow something:**\n> Could I borrow your projector for Saturday night? I'd pick it up Friday and bring it back Sunday. If you need it that weekend, no stress.\n\n**Bigger ask, email:**\n> Hi Priya,\n> I'm applying for the residency in March and they want a reference from someone who's seen my work up close. You'd be my first choice, but I know it's a real chunk of time, probably an hour to write. The deadline is the 20th. If that's not doable, I completely understand and I'd appreciate a heads-up so I can ask elsewhere.\n> Thanks either way,\n> Leo\n\n## Avoid\n- \"I hate to ask but\"\n- Hiding the size of the ask.\n- Following up within 24 hours unless it's time-sensitive.\n- \"You owe me one\" energy.\n\n## Follow-up if no reply\nAfter 3 to 5 days: \"No worries if the airport thing doesn't work, just let me know by Tuesday so I can sort a cab.\""
+    },
+    {
+      "id": "ask-for-review-or-testimonial",
+      "title": "Asking a customer for a review, testimonial or referral",
+      "category": "commerce",
+      "tags": [
+        "review",
+        "testimonial",
+        "referral",
+        "google review",
+        "ask for feedback",
+        "case study",
+        "small business"
+      ],
+      "triggers": [
+        "ask for a review",
+        "get a testimonial",
+        "ask customers to leave a google review",
+        "request a referral from a client",
+        "ask for a case study",
+        "how to ask for reviews"
+      ],
+      "summary": "How to ask for reviews and testimonials at the right moment, make it a 60-second job, and never sound needy or transactional.",
+      "updated": "2026-09-24",
+      "body": "# Asking for a review, testimonial or referral\n\n## Goal\nThe customer does it in the next minute because it's easy and because they liked you. Nobody feels pestered.\n\n## Principles\n- **Timing:** ask right after a good moment (delivery arrived, project shipped, they said thanks). Not weeks later.\n- **One link, one platform.** Do not send three links.\n- **Tell them it's short.** \"Two sentences is plenty.\"\n- **Make the ask about the effect**, not about you: \"reviews are how small shops get found.\"\n- **Offer to draft** for testimonials; most people say yes and edit.\n- **Never incentivise reviews** on platforms that ban it (Google, most marketplaces). A thank-you after is fine.\n- **Ask once, remind once.** Then stop.\n\n## Examples\n\n**After a delivery, DM or email:**\n> So glad the lamp arrived safely! If you have a minute, a quick Google review would honestly make a difference; it's how people find us. Here's the link: [link]. Two sentences is plenty. Thank you either way.\n\n**After a service (hair, cleaning, repair):**\n> Thanks for coming in today, it was lovely to see you. If you're happy with the cut, a short review here [link] helps more than you'd think. No pressure at all.\n\n**Freelancer asking a client for a testimonial:**\n> Hi Rob, now that the site's live, could I ask a favour? A short testimonial, two or three sentences, would help me a lot with the next few clients. To make it painless, I've drafted one below you can edit or replace:\n> \"Nina rebuilt our site in six weeks; it's faster, looks better, and enquiries are up. She was easy to work with and hit every date.\"\n> If you'd rather write your own, even better. Thanks, Rob.\n\n**Asking for a referral:**\n> Hi Rob, quick ask: if you know anyone who's in the same spot you were six months ago, I'd be grateful for an intro. No need to sell me, just a \"you should talk to Nina\". And if nobody comes to mind, no worries at all.\n\n**Asking for a case study (bigger ask):**\n> The results on your project were the best I've had this year and I'd love to write it up as a short case study, with your approval on every word. It'd take about 20 minutes of your time on a call. Would you be open to it? Happy to anonymise if that's easier.\n\n**Reminder, once:**\n> Just floating this back up in case it got buried: [link]. Totally fine if it's not your thing.\n\n**After a customer leaves a review:**\n> Saw your review, thank you so much. It genuinely made my week.\n\n**Responding to \"I'll do it later\":**\n> Thanks! No rush. Here's the link again so it's easy to find: [link].\n\n## Avoid\n- \"It would mean the world to me\" (too much).\n- Asking before the product's arrived or the work's done.\n- Asking unhappy customers for public reviews (ask them for private feedback instead).\n- Multiple platforms in one ask.\n- Reminding more than once.\n- Offering discounts for reviews where it's against the rules."
+    },
+    {
+      "id": "ask-someone-out-and-early-dating",
+      "title": "Asking someone out, texting after a date, keeping it going",
+      "category": "personal",
+      "tags": [
+        "dating",
+        "ask out",
+        "first date",
+        "after the date",
+        "texting",
+        "flirting",
+        "second date"
+      ],
+      "triggers": [
+        "ask her out",
+        "ask him out",
+        "text after first date",
+        "what to text after a date",
+        "how to ask for a second date",
+        "keep the conversation going",
+        "flirty text",
+        "suggest a date",
+        "dating app conversation"
+      ],
+      "summary": "The positive side of dating messages: a clear, low-pressure ask; the text after a date; keeping a conversation alive; proposing a second date without overthinking.",
+      "updated": "2026-09-24",
+      "body": "# Asking someone out and early dating messages\n\n## The rule that runs through all of these\nBe specific and make the no easy. Confidence is a clear invitation with a real out, not a vague \"we should hang out sometime\" and not a five-paragraph text.\n\n## Asking someone out\n\n**Structure:** context → clear invitation with a specific plan → easy out.\n\n**Someone you know a bit (friend of friend, coworker's friend, class):**\n> I've really liked talking to you at [place]. Would you want to get a drink sometime, just the two of us? Thursday or Saturday if either works. No pressure at all if not.\n\n**Dating app, moving off the app:**\n> I'm enjoying this and I'd rather keep it going in person. Coffee or a drink this week? I'm free Wednesday evening or Sunday afternoon.\n\n**Someone you've met once:**\n> This is a bit forward, but I'd regret not asking: would you want to grab a coffee sometime? I'm [name], we talked about [thing] at [place].\n\n**Colleague (be careful; only if it's appropriate at your workplace):**\n> Outside of work, I'd like to take you for a drink. If that's not something you want, I'll never mention it again and nothing changes. If it is, Friday?\n\n**If they say no:**\n> No worries at all, thanks for being straight with me. See you around.\n\n## Text after a first date\n\n**Send that night or the next morning. Short. Specific. Say if you want to see them again.**\n\n> I had a really good time tonight. The [specific thing] story is going to stay with me. I'd like to do it again if you would.\n\n> Home safe. That was fun; you were right about the dumplings. Same time next week?\n\n**If you're not sure yet:**\n> Really enjoyed tonight, thanks for a good evening.\n(This is honest and keeps the door open without promising.)\n\n**If you don't want a second date:** see `romantic-let-down`.\n\n## Asking for a second date\n\n> Want to do it again? There's a [thing] on Saturday I think you'd like, or a walk and a coffee Sunday if you'd rather keep it low-key.\n\n## Keeping a conversation going (texting between dates)\n\n- Reference something they said. \"How did the presentation go?\" beats \"hey\".\n- Send things, not just questions: a photo, a link, a thought. \"This made me think of you\" is the best text there is.\n- Match their pace. If they reply in hours, don't reply in seconds every time.\n- Don't interrogate. Two questions max, then share something.\n- Know when to stop. A conversation that ends on a high beats one that fizzles.\n\n**Examples:**\n> Passed a shop with exactly the ugly lamp you described. I'm sorry I doubted you.\n> Random thought: you said you'd never been to [place]. I have opinions about this. Want to fix it Sunday?\n> How was the dinner with your sister?\n\n## Flirting without being weird\nCompliment a choice or a quality, not a body part. Tease gently, then soften. Be the one who's clearly interested but not anxious.\n> You're a lot funnier than your profile let on.\n> Okay you've got good taste in coffee, I'm reluctantly impressed.\n\n## If they go quiet\nOne light message after a few days. Then let it go.\n> Hey, no pressure, just wanted to say I enjoyed meeting you. If you're up for another drink sometime, I'm around.\n\n## Avoid\n- \"We should hang out sometime.\"\n- Paragraphs.\n- Double and triple texting.\n- \"Why haven't you replied?\"\n- Asking for a second date before the first has ended.\n- Over-planning the first date. One drink, one hour, easy exit."
     },
     {
       "id": "ask-to-change-behavior",
@@ -316,6 +395,35 @@
       "summary": "The four-line cold message: why them, what you have, proof, tiny ask. With examples for sales, partnerships, and press.",
       "updated": "2026-09-24",
       "body": "# Cold outreach\n\n## Goal\nA reply. Not a sale, not a meeting; a reply. Everything is optimised for making the reply cheap for them.\n\n## Structure (four lines, under 100 words)\n1. **Why them, specifically.** One line proving this is not a blast. Reference their work, a recent post, a problem they have publicly.\n2. **What you have**, in one plain sentence. No jargon.\n3. **Proof**, one number or one name.\n4. **Tiny ask.** A yes/no question, or \"worth a look?\" Not \"hop on a 30-minute call\".\n\n## Principles\n- Subject line: specific and short. \"Idea for [their product]'s onboarding\" beats \"Partnership opportunity\".\n- No \"I hope this finds you well.\" No \"my name is X and I'm the founder of Y\" as the opener.\n- Write it for a phone screen. If the ask is not visible without scrolling, it is too long.\n- Give them a way to say no that is not silence: \"If it's not relevant, a 'no' is genuinely helpful.\"\n- Follow up twice, spaced a week apart, each with a new piece of value. Then stop.\n- One ask. Not \"call, or demo, or intro to your team\".\n\n## Examples\n\n**Sales, email:**\n> Subject: 40% of your checkout drop-off\n> Hi Lena,\n> I noticed [brand]'s checkout asks for an account before payment; that's typically where a third of mobile buyers leave. We built a guest checkout layer that [similar brand] used to lift conversion 18% in six weeks. Worth a 10-minute look? If not relevant, a \"no\" is genuinely useful.\n> Sam\n\n**Partnership, DM:**\n> Hi Priya, your newsletter's piece on solo founders' burnout was the most shared thing in our community last month. We run a 12k-member group for exactly that audience. I have one specific idea for a joint piece that'd be easy on your side. Open to hearing it in two lines?\n\n**Press / journalist:**\n> Hi Marcus, you covered the rise of agentic shopping in June and asked what happens when Amazon opts out. We just published data from 2,000 shoppers on exactly that; the headline is [one stat]. Happy to send the full dataset, no strings. Useful?\n\n**Asking for an intro (via mutual contact):**\n> Hi Jo, could I ask a small favour? I'd love an intro to Dana at [company]; I think our onboarding tool solves the churn issue she posted about last week. I've drafted a two-line blurb you could forward so it's zero work for you. Totally fine if it's not appropriate.\n\n**Follow-up 1 (a week later):**\n> Bumping this with one more thing: we just published [resource] that's relevant to what you're doing. No pressure on the original ask.\n\n**Follow-up 2 (final):**\n> Last note from me. If the timing's off, no worries at all; I'll leave it here. Door's open if it becomes useful.\n\n## Avoid\n- Long intros about yourself.\n- Multiple links.\n- \"Let me know if you have any questions.\"\n- \"I'd love to pick your brain.\"\n- Asking for 30 minutes.\n- Flattery without specifics.\n- Sending the same message to ten people at one company."
+    },
+    {
+      "id": "complain-as-customer",
+      "title": "Complaining to a business and asking for a refund (as the customer)",
+      "category": "personal",
+      "tags": [
+        "complaint",
+        "refund",
+        "customer",
+        "airline",
+        "restaurant",
+        "delivery",
+        "faulty",
+        "compensation"
+      ],
+      "triggers": [
+        "ask for a refund",
+        "complain to the company",
+        "my order was wrong",
+        "flight was cancelled",
+        "they overcharged me",
+        "faulty product",
+        "get compensation",
+        "write a complaint email",
+        "bad service"
+      ],
+      "summary": "How to complain so you actually get the refund or fix: specific facts, a clear ask, a deadline, and a tone that makes the agent want to help you.",
+      "updated": "2026-09-24",
+      "body": "# Complaining as the customer\n\n## Goal\nThe person reading it can solve it with the information in front of them, and wants to, because you were the reasonable one.\n\n## Structure\n1. **Order/reference number, date, what you bought.** First line.\n2. **What went wrong, factually.** One or two sentences.\n3. **What you've already tried** (if anything).\n4. **What you want**, specifically: full refund, replacement, partial credit, an apology.\n5. **A reasonable deadline.**\n6. **Polite close, name, contact.**\n\n## Principles\n- Front-line agents can help you more if you are pleasant. Anger goes to the bottom of the pile or gets the script.\n- Ask for one thing. \"A refund or a replacement, your choice\" is fine; a list of demands is not.\n- Say what would make you happy. They often do not know.\n- Keep the receipts: photos, screenshots, dates. Attach them.\n- Escalate only if the first ask fails. Then: \"I'd like this escalated to a manager\" and restate.\n- Mention your loyalty once if true (\"I've ordered from you for years\"). Not as a threat.\n\n## Examples\n\n**Wrong or damaged order, email or chat:**\n> Hi,\n> Order #58213, placed 4 June, arrived today with the blue jacket instead of the black one I ordered (photo attached). I'd like the black one sent out, and I'm happy to return the blue one with a prepaid label. Could you confirm by Friday? Thanks,\n> Sam Lee, sam@email.com\n\n**Faulty product, out of warranty edge:**\n> The kettle I bought on 10 January (receipt attached) stopped working this week, so just under a year. I'd like a replacement or a refund. I've tried a different socket and a reset. Let me know what you need from me.\n\n**Restaurant, after a bad experience (email to manager):**\n> Hi, we ate at your Clapham branch on Saturday, table for four at 7:30. Two mains came out cold and one was wrong, and it took 25 minutes to get anyone's attention. Your staff were polite but clearly overstretched. I'm not looking for a fight; I'd appreciate a partial refund on the mains and I'd like to know it's been noted. Receipt attached.\n\n**Airline / travel, cancellation:**\n> Booking ref ABC123, flight LHR to JFK on 14 May, cancelled 3 hours before departure. I was rebooked to the next day and incurred a hotel night ($180, receipt attached). I'm requesting the compensation due under [regulation, if applicable] and reimbursement of the hotel. Please confirm within 14 days.\n\n**Overcharged / double charged:**\n> I was charged twice for order #58213 on 4 June ($89.00 each, statement attached). Please refund the duplicate charge. Let me know if you need anything else from me.\n\n**Subscription you couldn't cancel:**\n> I tried to cancel my subscription on the 2nd (screenshot attached) and was charged on the 5th anyway. Please cancel it, refund the $29 charge, and confirm no further charges will be taken.\n\n**Escalation after a no:**\n> Thanks for your reply. I don't think that resolves it, since [one reason]. I'd like this escalated to a manager. To restate: I'm asking for [X]. I'd rather settle this directly than through [card dispute / ombudsman / review], and I'm confident we can.\n\n**In person / phone script:**\n> Hi, I've got a problem with an order and I'm hoping you can help me sort it. [Facts]. What I'd like is [ask]. Is that something you can do?\n\n## Avoid\n- \"This is the worst service I've ever had.\"\n- Threatening a bad review or social media in the first message.\n- ALL CAPS.\n- A full timeline of your emotional journey.\n- Asking for compensation wildly out of proportion.\n- Not including the order number."
     },
     {
       "id": "condolences-and-support",
@@ -678,6 +786,34 @@
       "body": "# Giving critical feedback at work\n\n## Goal\nThe behaviour changes and the person still feels respected and backed. Feedback that is not acted on was not feedback, it was venting.\n\n## Structure (for a conversation; write it out first)\n1. **Ask for the conversation**: \"Can I give you some feedback on X?\" Consent opens ears.\n2. **The specific observation.** What you saw, when. Not a pattern word like \"always\".\n3. **The impact.** On the work, the team, the client. Not on your feelings unless relevant.\n4. **Pause and ask.** \"What's your read on that?\" Then actually listen. There is often context.\n5. **The ask.** What you want to see instead, concretely.\n6. **Support and follow-up.** \"What would help?\" and a date to check in.\n\n## Principles\n- Private, always. Praise in public, correct in private.\n- Soon. Within days of the thing, not at the quarterly review.\n- One thing per conversation.\n- Behaviour, not personality. \"The report had three errors in the totals\" not \"you're careless.\"\n- Do not sandwich with fake praise. Real positive context is fine; a manufactured compliment before the point is transparent.\n- Say it plainly. Managers who hint are experienced as unclear, not kind.\n- Written follow-up after the conversation, short and neutral.\n\n## Examples\n\n**Missed deadlines, report:**\n> Can I give you some feedback? The last three deliverables have come in a day or two after the date we agreed. The effect is that Sana's team ends up scrambling and it's starting to show up in how they talk about us. What's going on from your side?\n> [listen]\n> Okay. Going forward I need the dates to hold, or a heads-up by the Wednesday before if something's slipping. What would make that easier?\n\n**Peer who talks over people in meetings:**\n> Hey, something I've noticed and I think you'd want to know: in the last couple of meetings you've jumped in over Maya and Lee a few times before they finished. I don't think you're doing it on purpose. It's meant a couple of good points got lost. Would you be up for leaving a beat after people finish? I'll do the same.\n\n**Quality issue, senior person to junior:**\n> The deck you sent had the wrong Q2 numbers on two slides and it went to the client before we caught it. That's the kind of thing we can't let out the door. I want to work out a check that catches it: what if you send me numbers slides an hour before anything external?\n\n**Attitude / tone issue (hardest one):**\n> I want to raise something that's a bit uncomfortable. In the planning meeting, when Tom suggested the phased approach, the response came across as dismissive, and I saw him shut down after that. I don't think that's what you intended. The effect is that people stop offering ideas. Can we talk about how that landed?\n\n**Written follow-up:**\n> Thanks for the conversation earlier. To capture it: we agreed deliverable dates hold, with a heads-up by the prior Wednesday if anything's at risk. Let's check in on the 20th. Let me know if I've missed anything.\n\n## Avoid\n- \"Some people have said...\"\n- \"You always / you never.\"\n- Feedback by email when it should be a conversation.\n- Piling several issues into one meeting.\n- Ending without a clear ask.\n- Not following up. Silence after feedback reads as \"it didn't matter.\""
     },
     {
+      "id": "group-chat-coordination",
+      "title": "Group chats: organising plans, chasing decisions, handling flakes",
+      "category": "personal",
+      "tags": [
+        "group chat",
+        "organise",
+        "plans",
+        "poll",
+        "flake",
+        "whatsapp group",
+        "coordinate",
+        "decision"
+      ],
+      "triggers": [
+        "organise the group",
+        "nobody replies in the group chat",
+        "get everyone to decide",
+        "someone keeps flaking",
+        "plan a trip with friends",
+        "chase the group",
+        "pick a date",
+        "group won't commit"
+      ],
+      "summary": "How to get a group to actually decide: fewer options, deadlines, a named default, and gentle ways to handle the person who always bails.",
+      "updated": "2026-09-24",
+      "body": "# Group chats: organising and deciding\n\n## Why groups stall\nNobody replies because replying feels like committing, and everyone assumes someone else will. Fix: make the reply tiny, give a deadline, and name what happens if nobody answers.\n\n## Principles\n- **Propose, don't ask.** \"Saturday 7pm at Luca's, who's in?\" beats \"what does everyone want to do?\"\n- **Two options, max.** A poll with two choices gets answered; one with six gets ignored.\n- **Deadline with a default.** \"I'll book for 6 on Thursday unless I hear otherwise.\"\n- **Ask for a specific reaction.** \"Thumbs up if in\" makes it a one-tap reply.\n- **Name people when you need them.** \"@Sam @Priya you two haven't said\" is fine if warm.\n- **Move logistics to a smaller thread** once the plan is set.\n\n## Examples\n\n**Kick off a plan:**\n> Right, birthday dinner for Jo. Proposal: Saturday 14th, 7:30, Bar Italia. 👍 if you're in, 👎 if you can't, by Wednesday please so I can book. Silence means I assume yes and you're paying for a chair.\n\n**Chase a stalled decision:**\n> Gentle nudge: still need to lock the date. Two options: the 14th or the 21st. Thumbs on the one you prefer. Deciding tomorrow night.\n\n**Trip planning, first message:**\n> Trip: I'm proposing Lisbon, 10 to 14 October, budget around $600 each all in. This is a real proposal, not a wish; if three people say yes by Friday I'll book the flat. Say yes, no, or \"different dates\".\n\n**Someone keeps flaking, address in the group (light):**\n> @Tom you're on your third \"maybe next time\", we're starting a tally. Genuinely, come Saturday, it's not the same without you.\n\n**Someone keeps flaking, address privately (real):**\n> Hey, not a big deal but you've bailed on the last few things and I'm starting to plan around you not coming. If things are hard right now, tell me and I'll stop pestering. If you just don't fancy the group stuff, that's fine too, I'd just rather know.\n\n**Cutting through a long argument about where to eat:**\n> Okay, executive decision: Thai place, 7:30. Anyone who objects can pick next time.\n\n**Group chat that's become too noisy:**\n> Suggestion: let's keep this one for plans and start a separate chat for the memes. I keep missing actual info.\n\n**Leaving a plan you'd agreed to:**\n> I've got to drop out of Saturday, sorry all. Don't change anything for me. Next one, I promise.\n\n**Asking people to pay their share:**\n> Booking's done, $85 each. My link is [link]; no rush but before the 10th please so I'm not out of pocket for weeks.\n\n## Avoid\n- \"What does everyone think?\"\n- Open-ended questions with no deadline.\n- Re-asking the same question when nobody replied; change the question.\n- Passive-aggressive \"guess nobody's interested then\".\n- Making the decision, then reopening it because one person complained.\n- Chasing in the group when it's really about one person."
+    },
+    {
       "id": "handle-being-ghosted-by-client",
       "title": "Handling a client or prospect who went silent",
       "category": "work",
@@ -724,6 +860,63 @@
       "summary": "Saying yes fast when you can, saying no kindly when you must, and offering an alternative either way, without hiding behind policy.",
       "updated": "2026-09-24",
       "body": "# Handling a refund request\n\n## Goal\nWhether the answer is yes or no, the customer feels dealt with fairly and quickly, and would buy from you again. Policy is your reason, never your opening line.\n\n## The decision first\nAsk yourself: is the cost of this refund higher than the cost of this customer telling ten people you were difficult? Usually it is not. Say yes when you reasonably can.\n\n## Structure\n1. **Acknowledge the specific issue**, in their words.\n2. **The answer**: yes, no, or a middle option, in the first two lines.\n3. **If yes: exactly what happens and when.**\n4. **If no: one-line reason, then the alternative you can offer.**\n5. **Sign off warmly, no \"policy\" language.**\n\n## Examples\n\n**Yes, item arrived damaged:**\n> Oh no, I'm sorry the mug arrived cracked, that's not okay. I'll send a replacement today, no need to return the broken one. You'll have tracking by this evening. If you'd rather have a refund instead, just say.\n\n**Yes, changed their mind, within window:**\n> No problem at all! Send it back to [address] and I'll refund the full amount the day it arrives. Return label's attached. Sorry it wasn't right for you.\n\n**No, outside return window, offer alternative:**\n> Thanks for getting in touch. I can see the order was from March, and our returns close at 30 days, so I can't do a full refund on this one. What I can do is offer store credit for 50% of the price, or a 20% code for your next order. Would either help?\n\n**No, custom / personalised item:**\n> I'm sorry it's not what you hoped for. Because this one was made to your spec I'm not able to refund it, since I can't resell it. If there's something specific that's wrong with it, I'd genuinely like to fix it, so tell me what's off.\n\n**Cancellation before shipping:**\n> Cancelled and refunded, you'll see it back on your card in 3 to 5 days. Sorry to see you go; if it was something we did, I'd love to know.\n\n**Service cancellation with notice policy:**\n> I can cancel Thursday's session for you. Because it's under 24 hours, the deposit isn't refundable, but I'm happy to move it to another day this month instead so you don't lose it. Want to do that?\n\n**Chargeback threat:**\n> I'd really rather sort this directly with you than through the bank, and I think we can. Here's what I can offer right now: [option]. If that doesn't work, tell me what would.\n\n## Principles\n- Speed defuses. Reply within hours.\n- Never open with \"Unfortunately\" or \"As per our policy\".\n- A partial yes (credit, exchange, discount) turns most nos into acceptable outcomes.\n- Do not ask them to prove things unless the amount justifies it.\n- Do not argue about whose fault it is.\n- Refund fast when you say you will. The delay is the real complaint.\n\n## Avoid\n- Copy-pasting the policy.\n- Making them fill in a form for a $20 item.\n- \"We apologise for any inconvenience.\"\n- Silence while you \"look into it\" for days.\n- Defending the product."
+    },
+    {
+      "id": "introduce-yourself",
+      "title": "Introducing yourself (new job, new group, event, online community)",
+      "category": "work",
+      "tags": [
+        "introduce yourself",
+        "new job",
+        "first day",
+        "new team",
+        "community",
+        "hello",
+        "bio"
+      ],
+      "triggers": [
+        "introduce myself to the team",
+        "first day message",
+        "hello to the group",
+        "new to the community",
+        "introduce myself in slack",
+        "say hi to new colleagues",
+        "write a short bio"
+      ],
+      "summary": "Self-introductions that make people want to talk to you: short, one concrete thing about your work, one human thing, and an invitation.",
+      "updated": "2026-09-24",
+      "body": "# Introducing yourself\n\n## Goal\nPeople remember one thing about you and feel invited to reach out. Not a CV. Not a performance.\n\n## Structure\n1. **Name and role/reason you're here**, one line.\n2. **One concrete thing** about what you do or care about (not \"passionate about innovation\").\n3. **One human thing** that gives people a hook (a hobby, where you're from, an odd fact).\n4. **An invitation**: what you'd like to hear from them, or how to reach you.\n\n## Principles\n- Under 100 words for written intros. Thirty seconds spoken.\n- Specific beats impressive. \"I spent last year fixing our checkout flow\" beats \"I'm a results-driven product leader\".\n- The human thing is the part people remember. Pick one that invites conversation.\n- Say what you want. \"I'd love to hear what's annoying you about the current system\" makes people talk to you.\n- Match the room. A Slack intro is casual; a board intro is not.\n\n## Examples\n\n**New job, Slack or Teams:**\n> Hi all, I'm Maya, joining the platform team as an engineer today. Most recently I was at [company] working on payments infrastructure, so if anything payment-shaped is broken, I'm your person. Outside work I'm slowly restoring a 1970s bike and mostly failing. I'd love 15 minutes with anyone who wants to tell me what's annoying about the current system; DMs open.\n\n**First day, spoken to the team:**\n> Hi, I'm Maya. I've come from [company] where I spent three years on payments. I'm here to help with the platform rebuild. I'll spend the first couple of weeks mostly listening, so grab me if there's something you think I should know. I'm also new to the city, so restaurant recommendations welcome.\n\n**Online community / forum / Discord:**\n> Hey, I'm Sam, a self-taught designer working mostly on tiny apps for local businesses. I joined because I keep getting stuck on onboarding flows and this seems like the place people actually talk about it. I'll mostly lurk to start; if you have a favourite thread on onboarding, point me at it.\n\n**Networking event, spoken:**\n> I'm Sam, I do design for small shops, mostly the boring-but-important bits like checkout. What are you working on?\n\n**New to a parents' group, sports club, neighbourhood chat:**\n> Hi everyone, I'm Jo, we moved into number 14 last month with two kids (6 and 9) and a very loud dog, sorry in advance. Happy to help with anything neighbourly, and we'd love to know where the good playground is.\n\n**Short bio for a profile or panel:**\n> Maya Chen is an engineer on [company]'s platform team, where she spent three years making payments fail less often. Before that she was at [previous]. She lives in Bristol and is slowly restoring a bike that will never be ridden.\n\n**Meeting a client team for the first time:**\n> I'm Nina, I'll be leading the design work on this. I've done similar rebuilds for [two names] and the thing I care most about is that it's still easy to use in a year. I'll be asking a lot of questions this week; none of them are traps.\n\n## Avoid\n- \"Passionate about\", \"results-driven\", \"ninja\".\n- Listing every previous employer.\n- Self-deprecation past one line.\n- No invitation at the end (dead end).\n- Long paragraphs.\n- Jokes that need context."
+    },
+    {
+      "id": "landlord-tenant-and-service-providers",
+      "title": "Landlords, tenants, contractors and service providers",
+      "category": "personal",
+      "tags": [
+        "landlord",
+        "tenant",
+        "rent",
+        "repairs",
+        "deposit",
+        "contractor",
+        "plumber",
+        "quote",
+        "service provider"
+      ],
+      "triggers": [
+        "landlord wants to raise rent",
+        "ask landlord to fix",
+        "get my deposit back",
+        "rent increase",
+        "contractor didn't finish",
+        "quote is too high",
+        "plumber overcharged",
+        "tell my tenant",
+        "dispute with landlord",
+        "repair request"
+      ],
+      "summary": "Firm, documented, polite messages for housing and home-service situations: pushing back on a rent increase, requesting repairs, recovering a deposit, disputing a contractor's work or price.",
+      "updated": "2026-09-24",
+      "body": "# Landlords, tenants, contractors and service providers\n\n## Goal\nGet the outcome while keeping the relationship workable, because you will need this person again. Everything in writing, everything dated, everything calm.\n\n## Principles\n- Written, always. Text or email, never only a call. If you call, follow up with \"confirming what we discussed\".\n- Facts, dates, amounts. Feelings weaken these messages.\n- Ask for a specific thing by a specific date.\n- Reference the agreement or the law once, neutrally, not as a threat. \"Under the lease\" is enough.\n- Stay pleasant. The person who stays pleasant and precise wins most disputes.\n- Escalate in steps: request → reminder with date → formal notice. Never jump to the last step first.\n\n## Rent increase, pushing back\n\n**Structure:** thanks for notice → your position with a number → reason (market, condition, tenancy record) → ask.\n\n> Hi Mark,\n> Thanks for letting me know about the proposed increase to $2,100. I'd like to ask you to reconsider. Comparable units in the building are listing at $1,850 to $1,950, and I've been here three years with rent always on time. I'd be glad to sign another 12 months at $1,900. Would that work for you? Happy to talk it through by phone if easier.\n> Best,\n> Jess\n\n**If they hold firm:**\n> Understood. Could you meet me halfway at $2,000, with the bathroom fan repaired before the new term starts? I'd sign today on that basis.\n\n## Repair request (and follow-up)\n\n**First:**\n> Hi Mark, the kitchen tap has been leaking since Monday and it's getting worse; there's water pooling under the sink. Could you arrange a plumber this week? I'm home after 5pm any day, or can leave a key. Photos attached.\n\n**Reminder, one week later:**\n> Following up on the tap leak from the 12th. It's now damaging the cabinet base. Could you confirm a repair date by Friday? If it's easier, I can book a plumber and deduct it from rent with your written okay.\n\n**Formal, after two weeks:**\n> This is a formal repair request for the kitchen tap leak first reported on 12 May. Under the lease, repairs affecting water and fixtures are the landlord's responsibility. Please confirm a repair date within seven days. I'd much prefer to sort this informally, so do call me.\n\n## Getting a deposit back\n\n> Hi Mark, I moved out on the 30th and left the flat clean with the keys as agreed; photos from the day attached. Could you confirm when the $1,800 deposit will be returned? Under the lease it's due within 14 days. Thanks for the last three years, it was a good place to live.\n\n**If they deduct unfairly:**\n> Thanks for the breakdown. I don't agree with the $400 for repainting: the walls were in the same condition as at move-in, per the photos in the inventory and mine attached. Please return that portion. I'm happy to accept the $80 cleaning charge. If we can't agree, I'll raise it with the deposit scheme, but I'd rather settle it directly.\n\n## Contractor: quote too high / work not finished / overcharged\n\n**Quote too high:**\n> Thanks for the quote. It's above what I'd budgeted. Is there a way to bring it under $3,000, maybe by dropping [item] or using [alternative]? I'd like to work with you on this.\n\n**Work not finished:**\n> Hi Dave, the job was due to finish on the 20th and the tiling in the bathroom is still incomplete. Could you give me a date this week for completion? I'll release the final payment once it's done as agreed.\n\n**Overcharged:**\n> The invoice came in at $1,450 against the agreed $1,100. Could you walk me through the difference? If there was extra work I wasn't told about, I'd like to understand it before paying. Happy to pay the agreed $1,100 today.\n\n## Landlord to tenant (the other side)\n\n**Rent increase notice, kind version:**\n> Hi Jess, I'm writing to give notice that rent will increase to $2,000 from 1 September, in line with the market and the higher building costs this year. You've been a great tenant and I'd like you to stay. If you'd like to talk it through, I'm around.\n\n**Late rent, first message:**\n> Hi Jess, rent for May hasn't come through yet. Could you check on it? If something's changed on your side, let me know and we can work something out.\n\n## Avoid\n- \"This is unacceptable.\"\n- Threatening legal action in the first message.\n- Long emotional histories.\n- Withholding rent without written agreement or legal advice.\n- Only calling. If it isn't written, it didn't happen."
     },
     {
       "id": "leave-or-quit-gracefully",
@@ -829,6 +1022,34 @@
       "summary": "How to ask for more without sounding entitled or apologetic: anchor with a number and a reason, stay warm, and leave room for them to say yes.",
       "updated": "2026-09-24",
       "body": "# Negotiating price, rate or salary\n\n## Goal\nYou get closer to your number and the other side still wants to work with you. The tone is collaborative: \"how do we make this work\" not \"give me more\".\n\n## Structure\n1. **Enthusiasm first, genuine and short.** They need to know you want this.\n2. **The gap, factually.** \"The offer is at X; based on [market/scope/my last role], I was expecting closer to Y.\"\n3. **Your number, specific.** Not a range (they will take the bottom). Slightly above what you would accept.\n4. **One reason**, the strongest, framed as value to them.\n5. **Collaborative ask.** \"Is there flexibility there?\" or \"What would it take to get to Y?\"\n6. **Optional: name what else could move** (start date, equity, title, scope, payment terms) so a no on money is not a dead end.\n\n## Principles\n- Never apologise for negotiating. It is expected; not negotiating is the surprise.\n- Silence after your number is fine. Do not fill it by lowering your number.\n- Anchor with a number; \"more\" is not a negotiation.\n- Reasons about your needs (rent, kids) are weak. Reasons about your value or the market are strong.\n- Be the person they want to say yes to. Warm, calm, unhurried.\n- Get it in writing before you decline anything else.\n\n## Examples\n\n**Job offer, email:**\n> Hi Jordan,\n> Thank you for the offer, I'm genuinely excited about the role and the team. I want to be straightforward about one thing: the base is at $95k, and based on the scope we discussed and what I'm seeing for comparable roles, I was expecting closer to $110k. Is there flexibility to get there? If base is fixed, I'd be open to talking about a signing bonus or an earlier review. Either way I'm keen to make this work.\n> Best,\n> Alex\n\n**Freelance rate, client pushes back:**\n> I understand the budget's tight. My rate is $120/hour and that's where I need to be for this kind of work. What I can do is scope it tighter: if we drop [X], I can bring the total under your number. Would that work?\n\n**Client asks for a discount:**\n> I don't discount the rate, but I'm happy to find a version that fits your budget. What if we phase it: [smaller scope] now at [price], and the rest when it makes sense?\n\n**Buying something, private seller:**\n> I'm interested and can collect this week. Would you take £350? I know it's under asking; that's what I can do in cash today.\n\n**Raise conversation, script:**\n> I'd like to talk about my compensation. Over the last year I've [two specific results]. I've looked at the market for this role and I'm below it. I'd like to move to [number]. What would it take to get there?\n\n**They say no:**\n> Understood. Can we agree a date to revisit, say six months, with clear goals attached? And in the meantime, is there movement on [other lever]?\n\n## Avoid\n- \"I was hoping for a little more, if possible?\"\n- Giving a range.\n- Justifying with personal expenses.\n- Ultimatums you will not follow through on.\n- Accepting on the call. \"Let me review the full package and come back to you tomorrow\" is always fine.\n- Negotiating twice on the same point after they have moved once."
+    },
+    {
+      "id": "price-increase-and-customer-announcements",
+      "title": "Announcing a price increase, delay, closure or policy change to customers",
+      "category": "commerce",
+      "tags": [
+        "price increase",
+        "announcement",
+        "delay",
+        "closure",
+        "policy change",
+        "customers",
+        "newsletter",
+        "small business"
+      ],
+      "triggers": [
+        "tell customers prices are going up",
+        "announce a delay",
+        "we're closing",
+        "change our policy",
+        "notify customers",
+        "shipping delay email",
+        "raise my rates",
+        "tell clients my rate is increasing"
+      ],
+      "summary": "Customer-facing announcements that keep trust: the news early and plain, the reason in one line, what stays the same, what customers can do, and a real person's name.",
+      "updated": "2026-09-24",
+      "body": "# Announcing a price increase, delay or change to customers\n\n## Goal\nCustomers feel informed and respected, not blindsided or spun. Most people accept a change; they do not accept feeling tricked.\n\n## Structure\n1. **The change, in the first sentence.** Date and amount.\n2. **The reason, one honest line.** Costs, wages, quality. Not a paragraph.\n3. **What isn't changing** (quality, service, the thing they love).\n4. **What they can do**: lock in the old price, cancel easily, get help.\n5. **Thanks, and a real name.**\n\n## Principles\n- Early. Give real notice (30 days is standard; more for big changes).\n- Plain. \"Prices are going up 8% from 1 March\" beats \"we're adjusting our pricing structure\".\n- No apology for a fair increase. \"Sorry\" makes people think you're doing something wrong.\n- Make the exit easy. Customers who can leave easily are more likely to stay.\n- Send it from a person, not \"The Team\".\n- Do not over-justify. Every extra reason invites debate.\n\n## Price increase\n\n**Small business, email to customers:**\n> Hi Sam,\n> From 1 March, our prices are going up by about 8%: the medium candle moves from $28 to $30, and the large from $42 to $45. This is the first increase in three years and it covers what wax and shipping now cost us. Nothing about how we make them changes. If you'd like to stock up at current prices, the old prices hold on the site until the end of February. Thank you for keeping a small business going.\n> Ana\n\n**Freelancer, to an existing client:**\n> Hi Rob,\n> I'm updating my rates for the new year. From 1 January, my day rate moves from $600 to $680. For you, I'll hold the current rate through March so it doesn't affect the project in flight. I'm grateful for the work we've done together and I'm looking forward to more of it.\n> Nina\n\n**Subscription service:**\n> Your plan is changing from $9 to $11 a month from your next billing date after 1 April. Since you've been with us a while, you'll stay at $9 until July. You can cancel any time from your account page, no hoops. Here's what the extra covers: [two lines].\n\n## Delay\n\n> Hi Sam, your order #4521 is going to arrive later than promised: the new estimate is 22 May, about a week late. A supplier issue on our side, not yours. If that doesn't work for you, reply and I'll refund it in full, no questions. Otherwise, I'll send tracking the moment it ships. Sorry for the wait.\n> Ana\n\n**Bigger delay, many customers:**\n> We've hit a manufacturing delay and orders placed since 1 May will ship around 10 June instead of the end of May. If you'd rather not wait, reply to this email for an immediate full refund. If you can wait, we'll add [small make-good] to your order. We'll email again the day it ships. Thank you for your patience, and I'm sorry.\n\n## Closure or ending a service\n\n> After six years, we're closing the shop on 30 September. It's a personal decision, and a good one for us, but we'll miss this. Between now and then: everything's 20% off, gift cards can be used until the 30th (email us if you can't make it), and we'll help you find a new supplier for anything you regularly order. Thank you for six extraordinary years.\n\n## Policy change (returns, hours, minimums)\n\n> From 1 June, our return window changes from 60 days to 30. Anything ordered before 1 June keeps the 60-day window. The reason: returns after a month were mostly worn items we can't resell, and it was costing more than we could absorb. Everything else about returns stays the same: free label, fast refund.\n\n## Avoid\n- \"Due to unforeseen circumstances.\"\n- \"We regret to inform you.\"\n- Hiding the number.\n- Sending it from \"no-reply\".\n- Blaming customers or \"some people\".\n- Burying the change in a newsletter."
     },
     {
       "id": "push-back-on-boss",
@@ -1027,6 +1248,32 @@
       "body": "# Responding to passive-aggression\n\n## Goal\nYou do not escalate, you do not grovel, and you give them an off-ramp to say what they actually mean.\n\n## The three options\n1. **Take it at face value.** Respond to the literal content, warmly, as if there were no dig. This defuses most cases because it denies the dig any oxygen.\n2. **Name it gently and ask.** \"I might be reading tone into this, but are you annoyed about something? Genuinely asking.\"\n3. **Move to a richer channel.** \"Can I call you? Text is making this weirder than it needs to be.\"\n\nUse 1 for one-off snark. Use 2 when it is a pattern or clearly about something real. Use 3 for people you care about.\n\n## Principles\n- Do not match the tone. Matching is what they are (often unconsciously) inviting.\n- Do not interpret the dig out loud (\"so what you're saying is I'm useless\"). You will be told you are overreacting.\n- Short and warm beats long and defensive.\n- If they are angry about something legitimate, the passive-aggression is the wrapper; deal with the contents.\n- Silence is a legitimate response to a pure dig with no content.\n\n## Examples\n\n**\"Must be nice to have time for the gym.\"**\nFace value:\n> It really is! I've been forcing myself. Want to come Thursday?\n\n**\"Fine.\" / \"Whatever you want.\"**\nName it:\n> That sounds like not-fine. What would you actually prefer? I'd rather know.\n\n**\"Thanks for finally replying.\"**\nFace value with a small own:\n> Sorry it took me a while, this week's been a lot. What's up?\n\n**\"I guess I'll just do it myself then.\"**\nName and offer:\n> Sounds like you're frustrated I didn't get to it. Fair. Do you want me to take it now, or has that ship sailed?\n\n**A sarcastic message in a group chat aimed at you:**\nFace value, briefly, then move on:\n> Ha, fair. Anyway, Saturday: who's in?\n\n**Cold email from a colleague (\"Per my last email...\")**\nWarm and factual:\n> Thanks for resending, I'd missed it. Answers below. Let me know if anything's still unclear.\n\n**Repeated pattern with someone close:**\n> I've noticed a few messages lately that feel a bit sharp and I don't want to guess at what's going on. If something's bothering you, I'd honestly rather hear it straight. If I'm imagining it, tell me that too.\n\n## Avoid\n- \"Wow, okay.\"\n- Sarcasm back.\n- A paragraph explaining yourself.\n- \"What's that supposed to mean?\" (invites a fight; use \"are you annoyed?\" instead).\n- Screenshotting it to others before talking to them."
     },
     {
+      "id": "respond-to-unsolicited-advice",
+      "title": "Responding to unsolicited advice, nosy questions and opinions",
+      "category": "personal",
+      "tags": [
+        "unsolicited advice",
+        "nosy",
+        "when are you having kids",
+        "opinion",
+        "family",
+        "deflect",
+        "redirect"
+      ],
+      "triggers": [
+        "my mom keeps giving advice",
+        "they asked when we're having kids",
+        "nosy question",
+        "don't want their advice",
+        "respond to opinion about my life",
+        "deflect a question",
+        "they keep telling me what to do"
+      ],
+      "summary": "Graceful ways to receive, deflect or shut down advice and questions you did not ask for, from a light redirect to a firm close.",
+      "updated": "2026-09-24",
+      "body": "# Responding to unsolicited advice and nosy questions\n\n## Goal\nEnd the topic without a fight and without pretending to agree. Match the force of your response to how much it actually bothers you.\n\n## The ladder (use the lowest rung that works)\n1. **Receive and move on.** \"That's a thought, thanks.\" Then change the subject. Costs nothing.\n2. **Light deflect with humour.** Works with people you like.\n3. **Name your position, kindly.** \"I've got this one handled, but I appreciate you caring.\"\n4. **Close the topic.** \"I'm not going to discuss that, but I'd love to talk about [X].\"\n5. **Set the boundary.** See `set-boundary`.\n\n## Principles\n- You do not have to explain your choices to earn the right to make them.\n- Most unsolicited advice is love wearing bad clothes. Respond to the love, not the clothes, when you can.\n- A question is not an obligation. You can answer a different question.\n- Repeat the same short sentence rather than escalating your reasons.\n\n## Examples\n\n**\"When are you two having kids?\"**\nLight: > Ha, we'll send a press release.\nKind close: > That's one we keep between us. How's the garden coming along?\nFirm: > I'm not going to talk about that. Let's move on.\n\n**\"You should really [do X with your career/money/diet].\"**\nReceive: > Noted, thanks. I'll think about it.\nPosition: > I've looked into it and I'm doing what works for me, but I appreciate you thinking of it.\nClose: > I know you mean well. I'm not looking for advice on this one right now.\n\n**Parent who won't stop advising on how you raise your kids:**\n> Mum, I love that you care about them this much. We're doing it the way that works for us, and I need you to trust that. If I want your take, I'll ask, and I will ask.\n\n**Friend giving relationship advice you didn't ask for:**\n> I hear you, and I know you're saying it because you care. I'm not looking for advice right now, just somewhere to vent. Can you just be on my side for a minute?\n\n**Coworker with opinions on your work style:**\n> Thanks for the input. I'll keep doing it this way; it's working for me and my results are where they need to be. Happy to compare notes if you're curious how.\n\n**Stranger / acquaintance comments on your body, food, appearance:**\n> I'm good, thanks.  (then nothing)\nOr: > I don't discuss that. So, [change subject].\n\n**Someone who repeats the same advice every time you see them:**\n> You've mentioned this a few times. I've heard it, I've made my decision, and I'd really rather we talked about something else. Deal?\n\n## When the advice is actually good\n> Actually, that's fair. I hadn't thought about it that way.\nBeing able to say this makes your deflections credible the rest of the time.\n\n## Avoid\n- Over-explaining your reasons (each one is a new thing to argue with).\n- Sarcasm with people you'll see again.\n- \"Mind your own business\" unless you're done with the relationship.\n- Agreeing to end the conversation and then resenting it."
+    },
+    {
       "id": "romantic-let-down",
       "title": "Turning someone down romantically",
       "category": "personal",
@@ -1102,6 +1349,35 @@
       "summary": "How to state a limit clearly and kindly, hold it under pushback, and avoid the common trap of over-explaining.",
       "updated": "2026-09-24",
       "body": "# Setting a boundary\n\n## Goal\nThe limit is clear, it is about your behaviour (what you will do), and it survives the first round of pushback.\n\n## Structure\n1. **Warm opener** that affirms the relationship.\n2. **The boundary as something you will do**, not something they must do. \"I'm going to stop answering calls after 9pm\" holds up better than \"you need to stop calling late.\"\n3. **One short reason, optional.**\n4. **What you're offering instead** (a time that works, an alternative).\n5. **Stop.** No paragraph of justification. Justification is an invitation to negotiate.\n\n## Principles\n- A boundary is a statement of what you will do. It is not a request for permission.\n- The first time you set it, expect pushback. The pushback is not a sign you were wrong.\n- Repeat the same sentence rather than adding new reasons. New reasons are new targets.\n- You can be kind and immovable at the same time. Warm tone, firm content.\n- Do not set a boundary you will not keep. Every broken boundary makes the next one weaker.\n\n## Examples\n\n**Parent who calls constantly:**\n> Mum, I love talking to you and I want to keep it that way. I can't do daily calls with work the way it is. I'm going to call you Sundays, properly, for as long as you like. During the week I'll text.\n\n**Friend who only calls to vent:**\n> I care about you and I've noticed our calls lately are mostly you going through a hard time, which I get. I don't have the capacity to be that person every time right now. I'm still here, and I'd love for some of our time to just be fun.\n\n**Relative who comments on your body / life choices:**\n> I know you mean well. I'm not going to discuss my weight, so if it comes up I'll change the subject. Everything else, I'm all yours.\n\n**Partner, needing space:**\n> I need some evenings that are just mine, not because anything's wrong with us but because I recharge alone. Can we say Tuesdays and Thursdays are mine, and I'll be fully present the rest?\n\n**Someone who keeps asking for money:**\n> I'm not able to lend money anymore, to anyone. That's a firm one for me. I'm happy to help in other ways, like looking at a budget with you.\n\n**Group / family chat, muting:**\n> I'm going to mute this chat during work hours. If something's urgent, call me.\n\n## When they push back\nSay the same thing again, shorter.\n> I understand you're not happy about it. Sundays is what I can do.\nThird time:\n> I've said what I can do. I love you. Talk Sunday.\nThen stop replying on that thread.\n\n## Avoid\n- \"I hope that's okay?\"\n- \"I'm sorry but...\"\n- \"You always...\" (turns a boundary into an accusation)\n- A list of reasons.\n- Setting the boundary in anger. Set it calm, hold it calm.\n- Threatening consequences you will not enforce."
+    },
+    {
+      "id": "share-personal-news",
+      "title": "Sharing personal news (good and bad)",
+      "category": "personal",
+      "tags": [
+        "news",
+        "announce",
+        "engagement",
+        "pregnancy",
+        "job loss",
+        "breakup",
+        "moving",
+        "diagnosis",
+        "announcement"
+      ],
+      "triggers": [
+        "tell people I'm engaged",
+        "announce pregnancy",
+        "tell my family I got laid off",
+        "tell friends we broke up",
+        "announce I'm moving",
+        "share news",
+        "tell people about my diagnosis",
+        "group announcement"
+      ],
+      "summary": "How to share big news with the right people in the right order and tone: individually to those closest, then a short group message, with cues for how you'd like people to respond.",
+      "updated": "2026-09-24",
+      "body": "# Sharing personal news\n\n## Goal\nThe people who matter hear it from you, in the right order, with a signal for how to respond.\n\n## Principles\n- **Order matters.** Closest people first, individually. Then the group. People are hurt by hearing big news in a group chat or on social media before you told them.\n- **Tell them how to respond.** \"No need to reply\" or \"I'd love to hear from you\" or \"please don't ask about X yet\" saves everyone guessing.\n- **Short.** Big news does not need a long message. The news, one line of feeling, one line of what's next.\n- **For bad news, decide what you want**: support, space, practical help, or just to have said it. Say which.\n- **For good news, be mindful of the reader.** A pregnancy announcement to a friend struggling with fertility deserves an individual, gentle message. A new job to a friend who just lost theirs, likewise.\n\n## Good news\n\n**Engagement, individual to close friend:**\n> Wanted you to hear it from me before it's anywhere else: we're engaged! It happened last night at the lake. I'm slightly in shock and very happy. Call you tomorrow with all of it.\n\n**Engagement, group:**\n> We're engaged! Happened Saturday, we're thrilled. No plans yet beyond a lot of cake. Thank you for being our people.\n\n**Pregnancy, to a friend who's had a hard time with it:**\n> I wanted to tell you this one directly and quietly, because I know it's not a simple thing for you: I'm pregnant, due in March. You don't have to say anything, and I don't need you to be anything but honest. I love you.\n\n**New job:**\n> Some news: I've accepted a role at [company], starting in June. It's a big step and I'm nervous in a good way. Thank you for listening to me agonise about it.\n\n## Hard news\n\n**Job loss, close friends:**\n> Bit of news: I was laid off yesterday, along with about a third of the team. I'm okay, mostly, a bit winded. I'll be looking for something new from next week, so if you hear of anything, send it my way. Don't need anything else right now, just wanted you to know.\n\n**Breakup, group of friends:**\n> Sharing this once so I don't have to keep saying it: Sam and I have split up. It's sad and it's the right thing. I'm okay. I'd love company over the next few weeks; I'd rather not do a post-mortem on it. Thanks for being there.\n\n**Diagnosis:**\n> I want to tell you something and I'd rather do it in writing so I can get through it: I've been diagnosed with [X]. The plan is [one line]. I'm okay to talk about it, and I'll tell you what I need as I work it out. For now, just knowing you know helps. No need to reply with anything wise; \"I'm here\" is plenty.\n\n**Moving away:**\n> Some news I've been sitting on: I'm moving to [city] in September. It's for [reason] and it's the right move, but I'll miss you properly. Let's do a lot of things before then.\n\n**Death in the family (letting people know):**\n> I'm letting people know that my dad died on Tuesday. It was peaceful, with us there. The funeral is on the 18th at [place]; details to follow. I'm not up to much conversation right now but I'm glad you know.\n\n## Responding to someone else's news\nGood news: specific joy, one sentence, then a question. \"Congratulations! I can hear how happy you are. When do you start?\"\nHard news: acknowledge, don't fix. \"I'm so sorry. Thank you for telling me. I'm here.\" See `condolences-and-support`.\n\n## Avoid\n- Announcing on social media before telling close people.\n- Burying big news in the middle of a chatty message.\n- Explaining the whole story in the announcement.\n- \"I know this is a lot\" (they can decide).\n- Apologising for having news."
     },
     {
       "id": "small-talk",

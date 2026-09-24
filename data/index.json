@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-24",
-  "count": 47,
+  "count": 57,
   "read_first": [
     "00-how-to-use",
     "01-principles"
@@ -167,6 +167,31 @@
       "updated": "2026-09-24"
     },
     {
+      "id": "ask-colleague-for-help-or-delegate",
+      "title": "Asking a colleague for help, delegating, and saying \"I don't know\"",
+      "category": "work",
+      "tags": [
+        "ask for help",
+        "delegate",
+        "colleague",
+        "teammate",
+        "don't know",
+        "handoff",
+        "workload"
+      ],
+      "triggers": [
+        "ask a coworker for help",
+        "delegate a task",
+        "hand this off",
+        "admit I don't know",
+        "ask my team to do",
+        "need help at work",
+        "ask for support from a colleague"
+      ],
+      "summary": "Clear, respectful asks between colleagues: getting help without looking helpless, delegating without sounding like a boss, and admitting you don't know without losing standing.",
+      "updated": "2026-09-24"
+    },
+    {
       "id": "ask-for-extension",
       "title": "Asking for a deadline extension",
       "category": "work",
@@ -207,6 +232,57 @@
         "ask for a hand"
       ],
       "summary": "How to ask for help without sounding needy or entitled: make the ask specific, name the cost, and give a real out.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "ask-for-review-or-testimonial",
+      "title": "Asking a customer for a review, testimonial or referral",
+      "category": "commerce",
+      "tags": [
+        "review",
+        "testimonial",
+        "referral",
+        "google review",
+        "ask for feedback",
+        "case study",
+        "small business"
+      ],
+      "triggers": [
+        "ask for a review",
+        "get a testimonial",
+        "ask customers to leave a google review",
+        "request a referral from a client",
+        "ask for a case study",
+        "how to ask for reviews"
+      ],
+      "summary": "How to ask for reviews and testimonials at the right moment, make it a 60-second job, and never sound needy or transactional.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "ask-someone-out-and-early-dating",
+      "title": "Asking someone out, texting after a date, keeping it going",
+      "category": "personal",
+      "tags": [
+        "dating",
+        "ask out",
+        "first date",
+        "after the date",
+        "texting",
+        "flirting",
+        "second date"
+      ],
+      "triggers": [
+        "ask her out",
+        "ask him out",
+        "text after first date",
+        "what to text after a date",
+        "how to ask for a second date",
+        "keep the conversation going",
+        "flirty text",
+        "suggest a date",
+        "dating app conversation"
+      ],
+      "summary": "The positive side of dating messages: a clear, low-pressure ask; the text after a date; keeping a conversation alive; proposing a second date without overthinking.",
       "updated": "2026-09-24"
     },
     {
@@ -302,6 +378,34 @@
         "dm a brand"
       ],
       "summary": "The four-line cold message: why them, what you have, proof, tiny ask. With examples for sales, partnerships, and press.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "complain-as-customer",
+      "title": "Complaining to a business and asking for a refund (as the customer)",
+      "category": "personal",
+      "tags": [
+        "complaint",
+        "refund",
+        "customer",
+        "airline",
+        "restaurant",
+        "delivery",
+        "faulty",
+        "compensation"
+      ],
+      "triggers": [
+        "ask for a refund",
+        "complain to the company",
+        "my order was wrong",
+        "flight was cancelled",
+        "they overcharged me",
+        "faulty product",
+        "get compensation",
+        "write a complaint email",
+        "bad service"
+      ],
+      "summary": "How to complain so you actually get the refund or fix: specific facts, a clear ask, a deadline, and a tone that makes the agent want to help you.",
       "updated": "2026-09-24"
     },
     {
@@ -650,6 +754,33 @@
       "updated": "2026-09-24"
     },
     {
+      "id": "group-chat-coordination",
+      "title": "Group chats: organising plans, chasing decisions, handling flakes",
+      "category": "personal",
+      "tags": [
+        "group chat",
+        "organise",
+        "plans",
+        "poll",
+        "flake",
+        "whatsapp group",
+        "coordinate",
+        "decision"
+      ],
+      "triggers": [
+        "organise the group",
+        "nobody replies in the group chat",
+        "get everyone to decide",
+        "someone keeps flaking",
+        "plan a trip with friends",
+        "chase the group",
+        "pick a date",
+        "group won't commit"
+      ],
+      "summary": "How to get a group to actually decide: fewer options, deadlines, a named default, and gentle ways to handle the person who always bails.",
+      "updated": "2026-09-24"
+    },
+    {
       "id": "handle-being-ghosted-by-client",
       "title": "Handling a client or prospect who went silent",
       "category": "work",
@@ -693,6 +824,61 @@
         "asking for money back"
       ],
       "summary": "Saying yes fast when you can, saying no kindly when you must, and offering an alternative either way, without hiding behind policy.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "introduce-yourself",
+      "title": "Introducing yourself (new job, new group, event, online community)",
+      "category": "work",
+      "tags": [
+        "introduce yourself",
+        "new job",
+        "first day",
+        "new team",
+        "community",
+        "hello",
+        "bio"
+      ],
+      "triggers": [
+        "introduce myself to the team",
+        "first day message",
+        "hello to the group",
+        "new to the community",
+        "introduce myself in slack",
+        "say hi to new colleagues",
+        "write a short bio"
+      ],
+      "summary": "Self-introductions that make people want to talk to you: short, one concrete thing about your work, one human thing, and an invitation.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "landlord-tenant-and-service-providers",
+      "title": "Landlords, tenants, contractors and service providers",
+      "category": "personal",
+      "tags": [
+        "landlord",
+        "tenant",
+        "rent",
+        "repairs",
+        "deposit",
+        "contractor",
+        "plumber",
+        "quote",
+        "service provider"
+      ],
+      "triggers": [
+        "landlord wants to raise rent",
+        "ask landlord to fix",
+        "get my deposit back",
+        "rent increase",
+        "contractor didn't finish",
+        "quote is too high",
+        "plumber overcharged",
+        "tell my tenant",
+        "dispute with landlord",
+        "repair request"
+      ],
+      "summary": "Firm, documented, polite messages for housing and home-service situations: pushing back on a rent increase, requesting repairs, recovering a deposit, disputing a contractor's work or price.",
       "updated": "2026-09-24"
     },
     {
@@ -794,6 +980,33 @@
         "ask for a raise"
       ],
       "summary": "How to ask for more without sounding entitled or apologetic: anchor with a number and a reason, stay warm, and leave room for them to say yes.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "price-increase-and-customer-announcements",
+      "title": "Announcing a price increase, delay, closure or policy change to customers",
+      "category": "commerce",
+      "tags": [
+        "price increase",
+        "announcement",
+        "delay",
+        "closure",
+        "policy change",
+        "customers",
+        "newsletter",
+        "small business"
+      ],
+      "triggers": [
+        "tell customers prices are going up",
+        "announce a delay",
+        "we're closing",
+        "change our policy",
+        "notify customers",
+        "shipping delay email",
+        "raise my rates",
+        "tell clients my rate is increasing"
+      ],
+      "summary": "Customer-facing announcements that keep trust: the news early and plain, the reason in one line, what stays the same, what customers can do, and a real person's name.",
       "updated": "2026-09-24"
     },
     {
@@ -985,6 +1198,31 @@
       "updated": "2026-09-24"
     },
     {
+      "id": "respond-to-unsolicited-advice",
+      "title": "Responding to unsolicited advice, nosy questions and opinions",
+      "category": "personal",
+      "tags": [
+        "unsolicited advice",
+        "nosy",
+        "when are you having kids",
+        "opinion",
+        "family",
+        "deflect",
+        "redirect"
+      ],
+      "triggers": [
+        "my mom keeps giving advice",
+        "they asked when we're having kids",
+        "nosy question",
+        "don't want their advice",
+        "respond to opinion about my life",
+        "deflect a question",
+        "they keep telling me what to do"
+      ],
+      "summary": "Graceful ways to receive, deflect or shut down advice and questions you did not ask for, from a light redirect to a firm close.",
+      "updated": "2026-09-24"
+    },
+    {
       "id": "romantic-let-down",
       "title": "Turning someone down romantically",
       "category": "personal",
@@ -1056,6 +1294,34 @@
         "overstepping"
       ],
       "summary": "How to state a limit clearly and kindly, hold it under pushback, and avoid the common trap of over-explaining.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "share-personal-news",
+      "title": "Sharing personal news (good and bad)",
+      "category": "personal",
+      "tags": [
+        "news",
+        "announce",
+        "engagement",
+        "pregnancy",
+        "job loss",
+        "breakup",
+        "moving",
+        "diagnosis",
+        "announcement"
+      ],
+      "triggers": [
+        "tell people I'm engaged",
+        "announce pregnancy",
+        "tell my family I got laid off",
+        "tell friends we broke up",
+        "announce I'm moving",
+        "share news",
+        "tell people about my diagnosis",
+        "group announcement"
+      ],
+      "summary": "How to share big news with the right people in the right order and tone: individually to those closest, then a short group message, with cues for how you'd like people to respond.",
       "updated": "2026-09-24"
     },
     {
