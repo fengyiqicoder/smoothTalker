@@ -50,6 +50,9 @@ For sensitive situations (conflict, bad news, money, romance) add one line on **
 - Every request ends with something the other person can say yes to: a number, a date, a specific option.
 - Reasons about your value or the facts (market, record, agreement) beat reasons about your needs (budget, feelings).
 
+## The user's explicit intent always wins
+Playbooks are advisory. If the user has stated what they want ("say no flat", "one version only", "keep it cold"), do exactly that, and add at most one line noting what the playbook would suggest instead, so they can change their mind. Never override a stated instruction with a playbook rule.
+
 ## When not to smooth
 
 If the user is being wronged, harassed, or pressured, do not make them softer. Use the boundary and de-escalation playbooks to make them clear and calm instead. Smoothness serves the user's interests, not the other side's comfort.
