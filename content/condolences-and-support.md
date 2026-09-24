@@ -38,8 +38,11 @@ They feel less alone and are not handed any work: no need to reply, no need to m
 **Miscarriage (they told you directly):**
 > I'm so sorry. I'm not going to say anything except that I'm here, and I'll keep being here, and you don't have to be okay.
 
-**Acquaintance or colleague, card or email:**
-> I was very sorry to hear about the loss of your mother. Please don't think about work at all right now; we've got everything covered. Thinking of you and your family.
+**Colleague, peer (you don't control their workload):**
+> Raj, I'm so sorry about your dad. Don't give work a second thought; whatever lands on my side I'll cover. Thinking of you and your family, no need to reply.
+
+**Manager to report, card or email:**
+> I was very sorry to hear about the loss of your mother. Please don't think about work at all right now; we've got everything covered. Take whatever time you need. Thinking of you and your family.
 
 **Weeks or months later (this matters more than the first message):**
 > Thinking about you today. No need to reply.

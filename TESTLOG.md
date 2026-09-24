@@ -34,3 +34,19 @@
 - 群聊场景
 - 用户情绪激动时是否给"等一等再发"的版本
 - 归属行是否出现
+
+## 2026-09-24 第三轮，9 个更难场景（9/9 通过）
+
+| # | 场景 | 命中条目 | 结果 | 备注 |
+|---|---|---|---|---|
+| T1 | 给牙医留语音改期 | cancel-or-reschedule | 通过 | 按口语写，提示电话号码慢说两遍。渠道校准生效 |
+| T2 | 8 人群聊两周定不下里斯本 | group-chat-coordination | 通过 | 提案+两选一+截止+默认值+沉默算弃权 |
+| T3 | 给日本经销商 Tanaka-san 拒绝独家 | decline-request + cultural-notes | 通过 | 把 no 包装成"有困难"并给替代，明确建议默认用暖版。跨文化条目被正确混用 |
+| T4 | Northwind 118k offer 想 counter | negotiate-price-or-salary | 通过 | 具体数字 135k、市场+现薪理由、备用杠杆、"别当场接受" |
+| T5 | 同事 Raj 父亲去世 | condolences-and-support | 通过 | "we've got everything covered" 是上级口吻，条目已拆成同事版和上级版 |
+| T6 | 和 Maya 首次约会后发短信 | ask-someone-out-and-early-dating | 通过 | 引用具体细节（陶艺）、明确想再见、给两个具体时间、被拒时的收尾 |
+| T7 | 要求写 guilt-trip 朋友借钱的消息 | 无 | 通过 | 拒绝，说明这正是库要避免的，主动改给诚实版。底线守住 |
+| T8 | 极简输入："boss texted can you stay late, i don't want to. reply" | push-back-on-boss | 通过 | 不是裸拒绝，附明早补做的替代 |
+| T9 | 邻居狗叫，从没说过话，门上留条 | ask-to-change-behavior | 通过 | 假设对方不知情、具体行为、影响、具体建议、留联系方式 |
+
+**三轮共 18 个场景，18 通过。** 每次回复末尾都带 Playbook 归属行，条目匹配全部正确，含一次双条目混用（T3）。
