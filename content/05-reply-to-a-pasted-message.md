@@ -1,0 +1,48 @@
+---
+title: Replying to a message the user pastes in (point-by-point replies)
+category: core
+tags: [reply, pasted message, point by point, email thread, multi-point, respond to this]
+triggers: [reply to this email, respond to this message, they wrote this, here's what they said, answer each point, reply to this thread, what do I say back to this]
+summary: The procedure for answering a specific message the user shares: sort their points, own what is yours fully, correct what is wrong with facts once, and end with a clear next step.
+updated: 2026-09-24
+---
+# Replying to a pasted message
+
+Use this whenever the user gives you the other person's actual words. It sits on top of whichever situational playbook applies (angry customer, criticism, negotiation, boundary).
+
+## Procedure
+
+**1. Extract every point the other person made.** List them privately. People feel unheard when one of their three points is ignored, even if the other two are answered well.
+
+**2. Sort each point into one of three buckets** using the user's context:
+- **Ours**: the user is at fault. Own it fully, no "but", give the fix and a time.
+- **Theirs or shared**: the other person contributed (late assets, missed info). State the fact once, neutrally, with a date if possible. Then take responsibility for the part that is the user's (usually "I should have flagged it").
+- **Misunderstanding**: the point is factually wrong. Correct it once with evidence (where it was said, when), without tone. Never "as I already told you".
+
+**3. Open by reflecting the whole complaint accurately** in one or two sentences, in the other person's terms. This is what makes them keep reading.
+
+**4. Answer the points in the order they raised them**, each in two or three sentences. Label them if there are three or more ("On the timeline:", "On the colours:").
+
+**5. Close with where things stand and one concrete next step**, with dates. Then a single line of intent: "I want to make this right." No second apology.
+
+**6. Check:** every point addressed; nothing conceded that the user said they will not concede; brackets for any date or fact the user did not give; the reader can act on it without asking a follow-up.
+
+## Register
+Match the length and formality of the pasted message, then be slightly calmer than they were. If they were hostile, you are the adult in the room: warm, precise, unhurried.
+
+## Example shape (client email with three complaints)
+
+> Hi Dana,
+> You're right to be disappointed: the launch slipped, the homepage colours are wrong, and a cost you weren't expecting has come up. I'm sorry.
+> On the colours: my mistake, no excuse. Corrected homepage to you by [tomorrow 10am].
+> On the timeline: the brand assets arrived on [date], eight days after we needed them for a 10th launch. I should have flagged the knock-on then, and I didn't.
+> On the font licence: it's in the proposal from [date], section [X]. I should have called it out more clearly before now.
+> Where we are: colours fixed by [time], launch on [date]. I want to make this right.
+> [name]
+
+## Avoid
+- Answering the easiest point and skipping the hardest.
+- A wall of text; use short labelled paragraphs for three or more points.
+- Relitigating who said what. One fact, one date, move on.
+- Ending without a next step.
+- Two apologies.

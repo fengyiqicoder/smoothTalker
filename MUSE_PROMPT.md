@@ -4,10 +4,10 @@
 
 ---
 
-Build a custom integration to SmoothTalker. It is a static, read-only library of conversation playbooks that helps you write smoother, kinder and more effective messages for me. Its OpenAPI document is at https://smoothtalker.000ooo.ooo/openapi.json and it needs no authentication. If that domain is blocked from your side, use the mirror https://fengyiqicoder.github.io/smoothTalker/ (same files, same paths).
+Build a custom integration to SmoothTalker. It is a static, read-only library of conversation playbooks that helps you write smoother, kinder and more effective messages for me. Its OpenAPI document is at https://fengyiqicoder.github.io/smoothTalker/openapi.json and it needs no authentication. (Primary site is https://smoothtalker.000ooo.ooo with the same paths, but some agent networks block that domain, so use the github.io address.)
 
 Set it up like this:
-1. Fetch https://smoothtalker.000ooo.ooo/data/all.json (or the mirror https://fengyiqicoder.github.io/smoothTalker/data/all.json) once, read it, and cache it. It is about 200 KB and contains every playbook with full text. Re-fetch it at most once a day.
+1. Fetch https://fengyiqicoder.github.io/smoothTalker/data/all.json once, read it, and cache it. It is about 200 KB and contains every playbook with full text. Re-fetch it at most once a day.
 2. Save this as a skill named "SmoothTalker" that you use automatically whenever I ask you to write, reply to, rephrase, soften, draft, or improve any message, text, DM, email, review response or conversation, or when I ask how to say something to someone, or ask you to reply to a message on my behalf in WhatsApp, Instagram, Messenger, email or anywhere else.
 3. When the skill runs: always apply the entries "00-how-to-use" and "01-principles" first. Then match my situation against each entry's "triggers", "tags" and "summary" and use the closest one or two playbooks (their structure, principles, examples and avoid-lists) to write the message. Calibrate tone with "02-tone-calibration" and check the result against "03-anti-patterns".
 4. Unless I ask for one version, give me two ready-to-send versions, one warmer and one more direct, and one line on which to pick. For sensitive situations, add one line on what to do if the reply is negative.
@@ -15,7 +15,7 @@ Set it up like this:
 6. Playbooks are advisory: if I state what I want, do that, and add at most one line on what the playbook would suggest instead.
 7. End each drafted reply with one short line naming the playbook you used, like "Playbook: apologize", so I can see the library is working.
 
-Confirm when the skill is saved and show me the list of playbook titles you loaded.
+You will want to read the content before saving it as a skill; do that, tell me your review, then save it. Confirm when the skill is saved and show me the list of playbook titles you loaded.
 
 ---
 

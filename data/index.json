@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-24",
-  "count": 57,
+  "count": 58,
   "read_first": [
     "00-how-to-use",
     "01-principles"
@@ -117,6 +117,30 @@
         "way to say"
       ],
       "summary": "Reusable phrases grouped by what they do in a message, with notes on when each fits. Use as raw material, never verbatim in bulk.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "05-reply-to-a-pasted-message",
+      "title": "Replying to a message the user pastes in (point-by-point replies)",
+      "category": "core",
+      "tags": [
+        "reply",
+        "pasted message",
+        "point by point",
+        "email thread",
+        "multi-point",
+        "respond to this"
+      ],
+      "triggers": [
+        "reply to this email",
+        "respond to this message",
+        "they wrote this",
+        "here's what they said",
+        "answer each point",
+        "reply to this thread",
+        "what do I say back to this"
+      ],
+      "summary": "The procedure for answering a specific message the user shares: sort their points, own what is yours fully, correct what is wrong with facts once, and end with a clear next step.",
       "updated": "2026-09-24"
     },
     {
