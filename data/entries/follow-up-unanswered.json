@@ -1,0 +1,24 @@
+{
+  "id": "follow-up-unanswered",
+  "title": "Following up on an unanswered message",
+  "category": "personal",
+  "tags": [
+    "follow-up",
+    "no reply",
+    "chase",
+    "nudge",
+    "reminder"
+  ],
+  "triggers": [
+    "they haven't replied",
+    "follow up",
+    "nudge",
+    "chase",
+    "remind them",
+    "left on read",
+    "no response"
+  ],
+  "summary": "How to nudge without sounding needy or annoyed, with a three-step escalation from casual bump to graceful exit.",
+  "updated": "2026-09-24",
+  "body": "# Following up\n\n## Goal\nMake it easy for them to reply now, without making them feel bad for not replying earlier. Silence usually means busy or forgot, not rejection.\n\n## Structure\n1. **Assume the best out loud** (\"I know things are hectic\").\n2. **Restate the thing in one line** so they do not have to scroll.\n3. **Make the reply tiny**: a yes/no, a pick between two options, or \"even a 'not now' is helpful\".\n4. **Optional deadline** framed as helping you plan, not pressuring them.\n\n## Escalation ladder\n\n**Bump 1 (after 3 to 5 days), lightest touch:**\n> Bumping this in case it got buried. Thursday or Friday for the call?\n\n**Bump 2 (after another week), give a reason and an out:**\n> Hey, checking in on the draft I sent. If it's not a priority right now that's completely fine, I'd just like to know so I can plan around it.\n\n**Bump 3 (final), close the loop cleanly:**\n> Last nudge from me on this. I'll assume it's a no for now and stop pestering, but the door's open if it becomes useful later.\n\nThree is the maximum. After that, silence is the answer.\n\n## Examples\n\n**Friend who went quiet, personal:**\n> Hey, no agenda, just realised it's been a while. How are you doing?\n\n**After sending someone something they asked for:**\n> Did the file come through okay? Let me know if you need a different format.\n\n**Someone owes you an answer on plans:**\n> Need to lock the booking by tomorrow. Are you in or out? Either is fine, I just need to know.\n\n**Email, professional:**\n> Hi Marcus,\n> Following up on the proposal from the 12th. Happy to adjust scope or timing if that would help. If it's easier, a one-line \"not now\" is genuinely useful.\n> Thanks,\n> Jo\n\n## Avoid\n- \"Friendly reminder\" (never friendly).\n- \"Just checking if you saw my message?\" (they did).\n- \"?\" or \"??\" alone.\n- Restating the entire original message.\n- Following up with the same message twice.\n- Guilt: \"I guess you're too busy for me.\"\n\n## Reading the silence\nIf it is a friend and this happens repeatedly, the follow-up should eventually be about the pattern, not the message. See `reconnect-after-silence` and `set-boundary`."
+}

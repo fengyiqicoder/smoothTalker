@@ -1,21 +1,21 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "smoothTalker",
-    "version": "0.1.0",
-    "description": "Static read-only knowledge connector. All endpoints are plain GET requests to static JSON files hosted on GitHub Pages. No authentication. Load /data/index.json first, filter locally, then fetch individual entries by id."
+    "title": "SmoothTalker",
+    "version": "1.0.0",
+    "description": "A read-only library of conversation playbooks that helps an AI agent write smoother, kinder, more effective messages for its user: declining, apologising, negotiating, following up, delivering bad news, handling angry customers, DM replies for small businesses, and more. Every entry gives a structure, principles, ready-to-adapt examples at several tones, and anti-patterns. All endpoints are plain GET requests to static JSON on GitHub Pages; no authentication. Recommended: load /data/all.json once and cache it; always apply entries 00-how-to-use and 01-principles; then pick the playbook whose triggers match the user's situation."
   },
   "servers": [
     { "url": "https://fengyiqicoder.github.io/smoothTalker" }
   ],
   "paths": {
-    "/data/index.json": {
+    "/data/all.json": {
       "get": {
-        "operationId": "listEntries",
-        "summary": "List all entries (id, title, tags, summary). Small enough to load fully; filter client-side.",
+        "operationId": "getAllPlaybooks",
+        "summary": "Fetch the entire library in one request (about 160 KB). Best option: load once, cache, filter locally by triggers/tags/category.",
         "responses": {
           "200": {
-            "description": "Index of all entries",
+            "description": "All playbooks with full bodies",
             "content": {
               "application/json": {
                 "schema": {
@@ -23,10 +23,32 @@
                   "properties": {
                     "generated": { "type": "string", "format": "date" },
                     "count": { "type": "integer" },
-                    "entries": {
-                      "type": "array",
-                      "items": { "$ref": "#/components/schemas/IndexItem" }
-                    }
+                    "read_first": { "type": "array", "items": { "type": "string" }, "description": "Entry ids to always apply before any playbook" },
+                    "entries": { "type": "array", "items": { "$ref": "#/components/schemas/Entry" } }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/index.json": {
+      "get": {
+        "operationId": "listPlaybooks",
+        "summary": "Lightweight index: id, title, category, tags, triggers, summary for every playbook. Use to pick an entry, then fetch its body.",
+        "responses": {
+          "200": {
+            "description": "Index of all playbooks",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "generated": { "type": "string", "format": "date" },
+                    "count": { "type": "integer" },
+                    "read_first": { "type": "array", "items": { "type": "string" } },
+                    "entries": { "type": "array", "items": { "$ref": "#/components/schemas/IndexItem" } }
                   }
                 }
               }
@@ -37,26 +59,14 @@
     },
     "/data/entries/{id}.json": {
       "get": {
-        "operationId": "getEntry",
-        "summary": "Get one entry's full body by id (ids come from listEntries).",
+        "operationId": "getPlaybook",
+        "summary": "Fetch one playbook's full body by id (ids come from the index).",
         "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": { "type": "string" }
-          }
+          { "name": "id", "in": "path", "required": true, "schema": { "type": "string" }, "example": "decline-request" }
         ],
         "responses": {
-          "200": {
-            "description": "Full entry",
-            "content": {
-              "application/json": {
-                "schema": { "$ref": "#/components/schemas/Entry" }
-              }
-            }
-          },
-          "404": { "description": "No entry with that id" }
+          "200": { "description": "Full playbook", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/Entry" } } } },
+          "404": { "description": "No playbook with that id" }
         }
       }
     }
@@ -65,11 +75,13 @@
     "schemas": {
       "IndexItem": {
         "type": "object",
-        "required": ["id", "title", "summary"],
+        "required": ["id", "title", "category", "summary"],
         "properties": {
           "id": { "type": "string" },
           "title": { "type": "string" },
+          "category": { "type": "string", "enum": ["core", "personal", "work", "commerce"] },
           "tags": { "type": "array", "items": { "type": "string" } },
+          "triggers": { "type": "array", "items": { "type": "string" }, "description": "Phrases a user might say that indicate this playbook applies" },
           "summary": { "type": "string" },
           "updated": { "type": "string", "format": "date" }
         }
@@ -77,11 +89,7 @@
       "Entry": {
         "allOf": [
           { "$ref": "#/components/schemas/IndexItem" },
-          {
-            "type": "object",
-            "required": ["body"],
-            "properties": { "body": { "type": "string" } }
-          }
+          { "type": "object", "required": ["body"], "properties": { "body": { "type": "string", "description": "Markdown: goal, structure, principles, examples, avoid" } } }
         ]
       }
     }

@@ -1,0 +1,24 @@
+{
+  "id": "03-anti-patterns",
+  "title": "Anti-patterns that make messages sound slimy, weak or hostile",
+  "category": "core",
+  "tags": [
+    "mistakes",
+    "passive-aggressive",
+    "hedging",
+    "cliche",
+    "corporate"
+  ],
+  "triggers": [
+    "does this sound passive aggressive",
+    "does this sound rude",
+    "sounds fake",
+    "too salesy",
+    "too apologetic",
+    "sounds robotic",
+    "cringe"
+  ],
+  "summary": "The specific phrasings that undo smoothness, grouped by what they signal to the reader, with replacements.",
+  "updated": "2026-09-24",
+  "body": "# Anti-patterns\n\nSmoothness fails in three directions: too slippery, too weak, too sharp. Each has tell-tale phrases. Remove them and replace as shown.\n\n## Too slippery (reads as fake or salesy)\n\n| Remove | Why it fails | Replace with |\n|---|---|---|\n| \"I hope this email finds you well\" | Everyone knows it is filler | Delete, or one specific line (\"Hope the launch went smoothly\") |\n| \"I'd love to...\" when you would not | False enthusiasm is detectable | \"I can...\" or \"Happy to...\" |\n| \"Amazing! So excited!!\" | Inflated affect | One honest positive word |\n| \"Quick question\" before a long one | Minimising the ask | State the ask plainly |\n| \"No pressure at all!\" repeated | Over-signalling creates pressure | Say it once, or give a concrete out |\n| \"Let's circle back / touch base / synergy\" | Corporate noise | Plain verbs: \"let's talk Friday\" |\n| Compliment then immediate ask | Transparent setup | Ask first, or make the compliment specific and separate |\n\n## Too weak (reads as anxious or low status)\n\n| Remove | Why it fails | Replace with |\n|---|---|---|\n| \"Sorry to bother you\" | Pre-apologising for existing | \"Hi [name],\" then the point |\n| \"I was just wondering if maybe\" | Triple hedge | \"Could you...\" |\n| \"If that's okay?\" after every sentence | Asking permission to speak | Once at the end, or not at all |\n| \"No worries if not!!\" | Undercuts your own request | \"If this week is full, next week works\" |\n| \"I know you're busy but\" | Tells them they should say no | Delete |\n| Three exclamation marks | Nervous energy | Zero or one |\n| \"Sorry\" more than once per message | Dilutes the real apology | Apologise once, then act |\n| \"Does that make sense?\" | Invites them to say no | \"Let me know if you want more detail\" |\n\n## Too sharp (reads as passive-aggressive or hostile)\n\n| Remove | Why it fails | Replace with |\n|---|---|---|\n| \"Per my last email\" | Everyone reads this as \"you idiot\" | \"Resending the details below\" |\n| \"As I mentioned\" / \"As you know\" | Implies they forgot or are stupid | Just restate it |\n| \"Friendly reminder\" | Never friendly | \"Checking in on...\" |\n| \"I'll wait\" / \"Thanks in advance\" | Presumes compliance | \"Would you be able to... by Friday?\" |\n| \"With all due respect\" | Signals disrespect | Delete; say the disagreement plainly |\n| \"Just to clarify\" when correcting them | Condescending | \"I think we may be reading this differently\" |\n| \"Fine.\" / \"Okay.\" / \"K\" | Cold shutdown | Either say what is wrong or a full sentence |\n| \"It's not my job to\" | True but weaponised | \"That sits with [team]; I can point you to them\" |\n| Ending a text with a period when they never do | Reads as anger | Match their punctuation |\n| \"?\" alone or \"??\" | Impatience | \"Did you get a chance to see this?\" |\n\n## Structural anti-patterns\n\n- **Burying the ask** in paragraph four. Put it in the first two lines.\n- **The sandwich that is all bread**: so much cushioning that the point is lost. One sentence of cushion is enough.\n- **Explaining the whole history** before making the point. They were there.\n- **Ending on a question you already know the answer to.** \"Is that okay?\" when it has to be okay.\n- **Sending when angry.** If the user is heated, offer a version that waits, or a version that only says \"I want to think about this and reply properly tomorrow.\""
+}

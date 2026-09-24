@@ -1,0 +1,24 @@
+{
+  "id": "handle-refund-request",
+  "title": "Handling a refund, return or cancellation request",
+  "category": "commerce",
+  "tags": [
+    "refund",
+    "return",
+    "cancellation",
+    "policy",
+    "customer",
+    "small business"
+  ],
+  "triggers": [
+    "customer wants a refund",
+    "refund request",
+    "they want to return it",
+    "cancel their order",
+    "refund policy",
+    "asking for money back"
+  ],
+  "summary": "Saying yes fast when you can, saying no kindly when you must, and offering an alternative either way, without hiding behind policy.",
+  "updated": "2026-09-24",
+  "body": "# Handling a refund request\n\n## Goal\nWhether the answer is yes or no, the customer feels dealt with fairly and quickly, and would buy from you again. Policy is your reason, never your opening line.\n\n## The decision first\nAsk yourself: is the cost of this refund higher than the cost of this customer telling ten people you were difficult? Usually it is not. Say yes when you reasonably can.\n\n## Structure\n1. **Acknowledge the specific issue**, in their words.\n2. **The answer**: yes, no, or a middle option, in the first two lines.\n3. **If yes: exactly what happens and when.**\n4. **If no: one-line reason, then the alternative you can offer.**\n5. **Sign off warmly, no \"policy\" language.**\n\n## Examples\n\n**Yes, item arrived damaged:**\n> Oh no, I'm sorry the mug arrived cracked, that's not okay. I'll send a replacement today, no need to return the broken one. You'll have tracking by this evening. If you'd rather have a refund instead, just say.\n\n**Yes, changed their mind, within window:**\n> No problem at all! Send it back to [address] and I'll refund the full amount the day it arrives. Return label's attached. Sorry it wasn't right for you.\n\n**No, outside return window, offer alternative:**\n> Thanks for getting in touch. I can see the order was from March, and our returns close at 30 days, so I can't do a full refund on this one. What I can do is offer store credit for 50% of the price, or a 20% code for your next order. Would either help?\n\n**No, custom / personalised item:**\n> I'm sorry it's not what you hoped for. Because this one was made to your spec I'm not able to refund it, since I can't resell it. If there's something specific that's wrong with it, I'd genuinely like to fix it, so tell me what's off.\n\n**Cancellation before shipping:**\n> Cancelled and refunded, you'll see it back on your card in 3 to 5 days. Sorry to see you go; if it was something we did, I'd love to know.\n\n**Service cancellation with notice policy:**\n> I can cancel Thursday's session for you. Because it's under 24 hours, the deposit isn't refundable, but I'm happy to move it to another day this month instead so you don't lose it. Want to do that?\n\n**Chargeback threat:**\n> I'd really rather sort this directly with you than through the bank, and I think we can. Here's what I can offer right now: [option]. If that doesn't work, tell me what would.\n\n## Principles\n- Speed defuses. Reply within hours.\n- Never open with \"Unfortunately\" or \"As per our policy\".\n- A partial yes (credit, exchange, discount) turns most nos into acceptable outcomes.\n- Do not ask them to prove things unless the amount justifies it.\n- Do not argue about whose fault it is.\n- Refund fast when you say you will. The delay is the real complaint.\n\n## Avoid\n- Copy-pasting the policy.\n- Making them fill in a form for a $20 item.\n- \"We apologise for any inconvenience.\"\n- Silence while you \"look into it\" for days.\n- Defending the product."
+}

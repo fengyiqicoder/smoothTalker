@@ -1,15 +1,1108 @@
 {
   "generated": "2026-09-24",
-  "count": 1,
+  "count": 47,
+  "read_first": [
+    "00-how-to-use",
+    "01-principles"
+  ],
   "entries": [
     {
-      "id": "sample-001",
-      "title": "示例条目：smoothTalker 是什么",
+      "id": "00-how-to-use",
+      "title": "How to use SmoothTalker (read this first)",
+      "category": "core",
       "tags": [
         "meta",
-        "sample"
+        "process",
+        "guide"
       ],
-      "summary": "占位示例。说明这个 connector 的用途和数据结构，正式内容填入后删除。",
+      "triggers": [
+        "reply to this",
+        "help me respond",
+        "how do I say",
+        "rewrite this",
+        "make this sound better",
+        "soften this",
+        "draft a message",
+        "what should I text"
+      ],
+      "summary": "The operating procedure for turning any message request into a smooth, effective reply. Read before using any other entry.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "01-principles",
+      "title": "The principles behind every smooth message",
+      "category": "core",
+      "tags": [
+        "principles",
+        "foundation",
+        "psychology"
+      ],
+      "triggers": [
+        "why does this sound bad",
+        "make it more diplomatic",
+        "tactful",
+        "graceful",
+        "how to be persuasive",
+        "sound confident"
+      ],
+      "summary": "Nine principles that explain why some messages land and others cause friction. Apply these when no playbook fits exactly.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "02-tone-calibration",
+      "title": "Tone calibration by relationship and channel",
+      "category": "core",
+      "tags": [
+        "tone",
+        "register",
+        "formality",
+        "channel",
+        "email",
+        "text",
+        "dm"
+      ],
+      "triggers": [
+        "too formal",
+        "too casual",
+        "make it sound more professional",
+        "make it friendlier",
+        "is this too cold",
+        "is this too much",
+        "email vs text"
+      ],
+      "summary": "How to set warmth, formality and length for the relationship and channel, with side-by-side examples of the same message at different settings.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "03-anti-patterns",
+      "title": "Anti-patterns that make messages sound slimy, weak or hostile",
+      "category": "core",
+      "tags": [
+        "mistakes",
+        "passive-aggressive",
+        "hedging",
+        "cliche",
+        "corporate"
+      ],
+      "triggers": [
+        "does this sound passive aggressive",
+        "does this sound rude",
+        "sounds fake",
+        "too salesy",
+        "too apologetic",
+        "sounds robotic",
+        "cringe"
+      ],
+      "summary": "The specific phrasings that undo smoothness, grouped by what they signal to the reader, with replacements.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "04-phrase-bank",
+      "title": "Phrase bank by function",
+      "category": "core",
+      "tags": [
+        "phrases",
+        "openers",
+        "softeners",
+        "bridges",
+        "closers",
+        "templates"
+      ],
+      "triggers": [
+        "how do I start",
+        "what's a good opener",
+        "how to end the message",
+        "sign off",
+        "transition",
+        "way to say"
+      ],
+      "summary": "Reusable phrases grouped by what they do in a message, with notes on when each fits. Use as raw material, never verbatim in bulk.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "admit-mistake-at-work",
+      "title": "Admitting a mistake at work",
+      "category": "work",
+      "tags": [
+        "mistake",
+        "error",
+        "own it",
+        "boss",
+        "client",
+        "accountability"
+      ],
+      "triggers": [
+        "I made a mistake at work",
+        "tell my boss I messed up",
+        "own up to an error",
+        "I broke something",
+        "missed a deadline",
+        "sent the wrong thing"
+      ],
+      "summary": "How to report your own mistake so you come out of it looking reliable: fast, factual, with impact, fix and prevention already in hand.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "apologize",
+      "title": "Apologising properly",
+      "category": "personal",
+      "tags": [
+        "apology",
+        "sorry",
+        "mistake",
+        "hurt",
+        "late",
+        "missed"
+      ],
+      "triggers": [
+        "how to apologize",
+        "I messed up",
+        "I was late",
+        "I forgot",
+        "I hurt them",
+        "say sorry",
+        "make it up to"
+      ],
+      "summary": "The four-part apology that actually repairs things, with examples from minor lateness to real hurt, and what never to include.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "ask-for-extension",
+      "title": "Asking for a deadline extension",
+      "category": "work",
+      "tags": [
+        "extension",
+        "deadline",
+        "more time",
+        "delay",
+        "late"
+      ],
+      "triggers": [
+        "ask for more time",
+        "extend the deadline",
+        "won't make the deadline",
+        "need an extension",
+        "push the due date"
+      ],
+      "summary": "How to ask for more time early, with a specific new date and a reason that is about quality or scope rather than excuses.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "ask-for-favor",
+      "title": "Asking for a favour so it is easy to say yes",
+      "category": "personal",
+      "tags": [
+        "ask",
+        "favour",
+        "request",
+        "help",
+        "imposition"
+      ],
+      "triggers": [
+        "ask a favor",
+        "need help with",
+        "can I ask you",
+        "how to ask someone to",
+        "need a ride",
+        "ask for a hand"
+      ],
+      "summary": "How to ask for help without sounding needy or entitled: make the ask specific, name the cost, and give a real out.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "ask-to-change-behavior",
+      "title": "Asking someone to change a behaviour (roommate, neighbour, friend)",
+      "category": "personal",
+      "tags": [
+        "roommate",
+        "neighbour",
+        "noise",
+        "dishes",
+        "habit",
+        "complaint",
+        "request"
+      ],
+      "triggers": [
+        "roommate never cleans",
+        "neighbor is loud",
+        "tell them to stop",
+        "ask them to be quieter",
+        "they keep doing",
+        "it's annoying me",
+        "chores"
+      ],
+      "summary": "How to raise an annoying behaviour so the other person fixes it rather than gets defensive: specific, one thing, framed as a shared problem with a concrete ask.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "cancel-or-reschedule",
+      "title": "Cancelling or rescheduling plans",
+      "category": "personal",
+      "tags": [
+        "cancel",
+        "reschedule",
+        "plans",
+        "bail",
+        "change plans"
+      ],
+      "triggers": [
+        "need to cancel",
+        "can't make it anymore",
+        "reschedule",
+        "move our meeting",
+        "bail on plans",
+        "push back the dinner"
+      ],
+      "summary": "How to cancel or move plans so it reads as a change of logistics rather than a change of heart, with different versions for last-minute versus advance notice.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "chase-late-payment",
+      "title": "Chasing a late payment",
+      "category": "work",
+      "tags": [
+        "invoice",
+        "late payment",
+        "chase",
+        "overdue",
+        "accounts",
+        "freelance"
+      ],
+      "triggers": [
+        "invoice is overdue",
+        "chase payment",
+        "they haven't paid",
+        "remind client to pay",
+        "late invoice",
+        "payment reminder"
+      ],
+      "summary": "A three-stage escalation for overdue invoices that stays polite while getting progressively firmer, with a final notice that does not burn the relationship.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "cold-outreach",
+      "title": "Cold outreach that gets a reply (sales, partnerships, press)",
+      "category": "work",
+      "tags": [
+        "cold email",
+        "outreach",
+        "sales",
+        "partnership",
+        "pitch",
+        "dm",
+        "press"
+      ],
+      "triggers": [
+        "cold email",
+        "reach out to a company",
+        "pitch a partnership",
+        "contact a journalist",
+        "sales outreach",
+        "first contact with a prospect",
+        "dm a brand"
+      ],
+      "summary": "The four-line cold message: why them, what you have, proof, tiny ask. With examples for sales, partnerships, and press.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "condolences-and-support",
+      "title": "Condolences and supporting someone in a hard time",
+      "category": "personal",
+      "tags": [
+        "condolence",
+        "grief",
+        "loss",
+        "illness",
+        "support",
+        "sympathy"
+      ],
+      "triggers": [
+        "their parent died",
+        "sorry for your loss",
+        "someone is sick",
+        "going through a hard time",
+        "what do I say",
+        "breakup support",
+        "miscarriage"
+      ],
+      "summary": "What to say when someone is grieving, sick or struggling: specific, short, present, and offering concrete help without demanding a response.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "creator-brand-deal-reply",
+      "title": "Replying to brand deals, collab requests and sponsorship offers (creators)",
+      "category": "commerce",
+      "tags": [
+        "creator",
+        "brand deal",
+        "sponsorship",
+        "collab",
+        "influencer",
+        "rate",
+        "negotiation",
+        "decline"
+      ],
+      "triggers": [
+        "brand wants to collab",
+        "reply to sponsorship",
+        "they offered free product",
+        "my rate for a post",
+        "decline a brand deal",
+        "influencer negotiation",
+        "gifting\" offer"
+      ],
+      "summary": "Creator replies to brand outreach: asking for details, stating rates, declining product-only deals, and negotiating usage rights, all while staying easy to work with.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "de-escalate-argument",
+      "title": "De-escalating an argument with a partner or friend",
+      "category": "personal",
+      "tags": [
+        "argument",
+        "fight",
+        "partner",
+        "de-escalate",
+        "conflict",
+        "repair"
+      ],
+      "triggers": [
+        "we had a fight",
+        "they're mad at me",
+        "argument with my girlfriend",
+        "boyfriend is upset",
+        "cool things down",
+        "calm them down",
+        "make peace"
+      ],
+      "summary": "How to lower the temperature of a live argument by text or in person, without capitulating or winning, so the real conversation can happen later.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "decline-invitation",
+      "title": "Declining an invitation without hurting the relationship",
+      "category": "personal",
+      "tags": [
+        "decline",
+        "no",
+        "invitation",
+        "social",
+        "plans"
+      ],
+      "triggers": [
+        "can't make it",
+        "don't want to go",
+        "turn down invite",
+        "say no to party",
+        "skip the wedding",
+        "decline dinner"
+      ],
+      "summary": "How to say no to an event or plan so the host feels the no is about logistics or capacity, not about them.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "decline-offer-or-candidate",
+      "title": "Declining a job offer, or rejecting a candidate",
+      "category": "work",
+      "tags": [
+        "job offer",
+        "decline",
+        "reject candidate",
+        "hiring",
+        "recruiter",
+        "turn down"
+      ],
+      "triggers": [
+        "turn down the job",
+        "decline the offer",
+        "reject a candidate",
+        "tell them they didn't get it",
+        "withdraw from the process",
+        "decline recruiter"
+      ],
+      "summary": "How to decline an offer so the door stays open, and how to reject a candidate so they leave with dignity and speak well of you.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "decline-request",
+      "title": "Declining a request or favour",
+      "category": "personal",
+      "tags": [
+        "decline",
+        "no",
+        "favour",
+        "boundary",
+        "request"
+      ],
+      "triggers": [
+        "say no to a favor",
+        "don't want to help",
+        "can't lend",
+        "asked me to do something",
+        "how to refuse",
+        "turn down request"
+      ],
+      "summary": "Saying no to a request for help, money, time or effort while keeping the other person's dignity and your own limits intact.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "deliver-bad-news",
+      "title": "Delivering bad news",
+      "category": "personal",
+      "tags": [
+        "bad news",
+        "disappointing",
+        "cancel",
+        "rejection",
+        "difficult"
+      ],
+      "triggers": [
+        "have to tell them",
+        "break the news",
+        "disappoint",
+        "let them know it fell through",
+        "tell them no",
+        "cancel on them"
+      ],
+      "summary": "How to deliver news someone will not want, in a way that is clear early, kind throughout, and forward-looking at the end.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "disagree-without-conflict",
+      "title": "Disagreeing without starting a fight",
+      "category": "personal",
+      "tags": [
+        "disagree",
+        "pushback",
+        "opinion",
+        "argument",
+        "debate"
+      ],
+      "triggers": [
+        "I don't agree",
+        "push back",
+        "they're wrong",
+        "tell them I think differently",
+        "disagree with friend",
+        "argue politely"
+      ],
+      "summary": "How to state a different view so it is heard as a contribution rather than an attack, in personal and group settings.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "end-conversation-gracefully",
+      "title": "Ending a conversation gracefully",
+      "category": "personal",
+      "tags": [
+        "exit",
+        "end conversation",
+        "wrap up",
+        "leave",
+        "goodbye",
+        "too long"
+      ],
+      "triggers": [
+        "how to end the conversation",
+        "get out of this chat",
+        "wrap it up",
+        "stop texting",
+        "leave the conversation",
+        "they keep talking"
+      ],
+      "summary": "How to close a text thread, a call, or an in-person chat without being abrupt or leaving it dangling.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "first-message-to-stranger",
+      "title": "First message to a stranger (dating, networking, community)",
+      "category": "personal",
+      "tags": [
+        "cold message",
+        "first message",
+        "dating app",
+        "networking",
+        "dm",
+        "stranger",
+        "opener"
+      ],
+      "triggers": [
+        "first message on hinge",
+        "message a stranger",
+        "opener",
+        "slide into dms",
+        "reach out to someone I don't know",
+        "message someone I admire"
+      ],
+      "summary": "Openers that get replies: specific, short, easy to answer, and not about you. Dating, professional and community versions.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "follow-up-after-interview-or-meeting",
+      "title": "Following up after an interview or meeting",
+      "category": "work",
+      "tags": [
+        "interview",
+        "meeting",
+        "follow-up",
+        "thank you",
+        "recap",
+        "next steps"
+      ],
+      "triggers": [
+        "thank you after interview",
+        "follow up after the meeting",
+        "recap email",
+        "haven't heard back after interview",
+        "post-meeting email"
+      ],
+      "summary": "Short follow-ups that add something: a specific thank-you after interviews, a recap with owners after meetings, and a polite check-in when the timeline slips.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "follow-up-unanswered",
+      "title": "Following up on an unanswered message",
+      "category": "personal",
+      "tags": [
+        "follow-up",
+        "no reply",
+        "chase",
+        "nudge",
+        "reminder"
+      ],
+      "triggers": [
+        "they haven't replied",
+        "follow up",
+        "nudge",
+        "chase",
+        "remind them",
+        "left on read",
+        "no response"
+      ],
+      "summary": "How to nudge without sounding needy or annoyed, with a three-step escalation from casual bump to graceful exit.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "give-and-receive-compliments",
+      "title": "Giving and receiving compliments without awkwardness",
+      "category": "personal",
+      "tags": [
+        "compliment",
+        "praise",
+        "appreciation",
+        "thank you",
+        "gratitude"
+      ],
+      "triggers": [
+        "respond to a compliment",
+        "how to compliment",
+        "say thank you",
+        "show appreciation",
+        "they praised me",
+        "thank someone properly"
+      ],
+      "summary": "How to give a compliment that lands and receive one without deflecting, plus how to write genuine appreciation.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "give-feedback-kindly",
+      "title": "Giving honest feedback kindly (personal and creative)",
+      "category": "personal",
+      "tags": [
+        "feedback",
+        "honest",
+        "critique",
+        "friend's work",
+        "opinion",
+        "review"
+      ],
+      "triggers": [
+        "they asked what I think",
+        "give feedback on their writing",
+        "honest opinion",
+        "critique a friend's work",
+        "don't want to hurt their feelings",
+        "review their idea"
+      ],
+      "summary": "How to tell someone the truth about their work or idea in a way they can actually use, when they asked and when they did not.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "give-feedback-to-colleague",
+      "title": "Giving critical feedback to a colleague or report",
+      "category": "work",
+      "tags": [
+        "feedback",
+        "colleague",
+        "report",
+        "performance",
+        "one-on-one",
+        "manager"
+      ],
+      "triggers": [
+        "give feedback to my report",
+        "colleague keeps",
+        "tell a coworker",
+        "performance conversation",
+        "address a problem with a teammate",
+        "hard feedback at work"
+      ],
+      "summary": "How to deliver critical feedback at work that changes behaviour without damaging trust: specific, private, timely, with a clear ask and a follow-up.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "handle-being-ghosted-by-client",
+      "title": "Handling a client or prospect who went silent",
+      "category": "work",
+      "tags": [
+        "ghosted",
+        "client silent",
+        "prospect",
+        "no response",
+        "deal stalled",
+        "re-engage"
+      ],
+      "triggers": [
+        "client stopped responding",
+        "prospect went quiet",
+        "deal went cold",
+        "haven't heard from the client",
+        "re-engage a lead",
+        "they ghosted me after the proposal"
+      ],
+      "summary": "How to re-engage a silent client or prospect without desperation, and how to close the loop cleanly when it's over.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "handle-refund-request",
+      "title": "Handling a refund, return or cancellation request",
+      "category": "commerce",
+      "tags": [
+        "refund",
+        "return",
+        "cancellation",
+        "policy",
+        "customer",
+        "small business"
+      ],
+      "triggers": [
+        "customer wants a refund",
+        "refund request",
+        "they want to return it",
+        "cancel their order",
+        "refund policy",
+        "asking for money back"
+      ],
+      "summary": "Saying yes fast when you can, saying no kindly when you must, and offering an alternative either way, without hiding behind policy.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "leave-or-quit-gracefully",
+      "title": "Quitting a job, or leaving a group or commitment gracefully",
+      "category": "work",
+      "tags": [
+        "resign",
+        "quit",
+        "leave",
+        "step down",
+        "notice",
+        "committee",
+        "volunteer"
+      ],
+      "triggers": [
+        "how to resign",
+        "quit my job",
+        "resignation letter",
+        "leave the committee",
+        "step down",
+        "stop volunteering",
+        "leave the team",
+        "hand in notice"
+      ],
+      "summary": "How to leave a job, a board, a group or a volunteer role so people remember the exit as clean and generous.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "mixed-language-and-cultural-notes",
+      "title": "Cross-cultural and multilingual notes",
+      "category": "core",
+      "tags": [
+        "culture",
+        "international",
+        "directness",
+        "formality",
+        "translation",
+        "non-native"
+      ],
+      "triggers": [
+        "message a Japanese colleague",
+        "too direct for them",
+        "cultural difference",
+        "they're from",
+        "writing in my second language",
+        "translate this politely",
+        "non-native english"
+      ],
+      "summary": "Adjustments to directness, formality and structure when the other person's cultural or linguistic defaults differ from the user's. General patterns, not stereotypes.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "money-between-friends",
+      "title": "Money between friends (splitting, owed money, chasing)",
+      "category": "personal",
+      "tags": [
+        "money",
+        "owed",
+        "split bill",
+        "debt",
+        "venmo",
+        "pay back",
+        "awkward"
+      ],
+      "triggers": [
+        "they owe me money",
+        "ask a friend to pay me back",
+        "split the bill",
+        "who pays",
+        "awkward money",
+        "remind them to pay",
+        "chip in"
+      ],
+      "summary": "How to raise money with friends in a way that treats it as logistics, not character: clear numbers, easy method, no moralising.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "negotiate-price-or-salary",
+      "title": "Negotiating price, rate or salary",
+      "category": "work",
+      "tags": [
+        "negotiate",
+        "salary",
+        "rate",
+        "price",
+        "offer",
+        "counter",
+        "raise"
+      ],
+      "triggers": [
+        "negotiate salary",
+        "counter the offer",
+        "ask for more money",
+        "they lowballed me",
+        "negotiate the price",
+        "my rate is",
+        "haggle",
+        "ask for a raise"
+      ],
+      "summary": "How to ask for more without sounding entitled or apologetic: anchor with a number and a reason, stay warm, and leave room for them to say yes.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "push-back-on-boss",
+      "title": "Pushing back on your boss",
+      "category": "work",
+      "tags": [
+        "boss",
+        "manager",
+        "pushback",
+        "workload",
+        "unrealistic",
+        "disagree with manager"
+      ],
+      "triggers": [
+        "my boss asked me to",
+        "tell my manager no",
+        "unrealistic deadline",
+        "too much work",
+        "push back on my boss",
+        "disagree with my boss",
+        "overloaded"
+      ],
+      "summary": "How to say no or \"not like this\" to a manager while sounding like someone who is protecting the outcome, not avoiding the work.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "reconnect-after-silence",
+      "title": "Reconnecting after a long silence",
+      "category": "personal",
+      "tags": [
+        "reconnect",
+        "old friend",
+        "lost touch",
+        "reach out",
+        "awkward"
+      ],
+      "triggers": [
+        "haven't talked in years",
+        "reach out to old friend",
+        "reconnect",
+        "lost touch",
+        "awkward to message",
+        "been a while"
+      ],
+      "summary": "How to message someone you have not spoken to in months or years without the awkwardness swallowing the message.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "reply-to-customer-inquiry-dm",
+      "title": "Replying to a customer inquiry in DMs (Instagram, WhatsApp, Messenger)",
+      "category": "commerce",
+      "tags": [
+        "dm",
+        "instagram",
+        "whatsapp",
+        "customer inquiry",
+        "small business",
+        "sales",
+        "creator"
+      ],
+      "triggers": [
+        "customer dm",
+        "reply to inquiry",
+        "someone asked about price in dm",
+        "instagram message from customer",
+        "how much is this",
+        "is this available",
+        "respond to a lead in messages"
+      ],
+      "summary": "Fast, warm, conversion-friendly replies to price, availability and how-it-works questions in DMs, written for small businesses and creators.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "request-intro-or-referral",
+      "title": "Requesting an introduction or referral",
+      "category": "work",
+      "tags": [
+        "intro",
+        "referral",
+        "introduction",
+        "network",
+        "warm intro",
+        "recommendation"
+      ],
+      "triggers": [
+        "ask for an intro",
+        "can you introduce me",
+        "referral for a job",
+        "ask them to recommend me",
+        "connect me with",
+        "forwardable email"
+      ],
+      "summary": "How to ask someone to use their relationship for you: make it zero-effort with a forwardable blurb, give them an out, and report back.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "respond-to-angry-customer",
+      "title": "Responding to an angry customer or client",
+      "category": "work",
+      "tags": [
+        "customer",
+        "complaint",
+        "angry",
+        "support",
+        "service recovery",
+        "escalation"
+      ],
+      "triggers": [
+        "angry customer",
+        "customer complaint",
+        "they're furious",
+        "respond to a complaint",
+        "upset client",
+        "calm a customer down",
+        "service recovery"
+      ],
+      "summary": "The service-recovery sequence: acknowledge, own, fix, follow up. With examples for justified and unjustified anger.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "respond-to-criticism",
+      "title": "Responding to criticism",
+      "category": "personal",
+      "tags": [
+        "criticism",
+        "feedback",
+        "defensive",
+        "called out",
+        "blamed",
+        "accused"
+      ],
+      "triggers": [
+        "they criticized me",
+        "someone called me out",
+        "got negative feedback",
+        "they blamed me",
+        "respond to complaint about me",
+        "feel attacked"
+      ],
+      "summary": "How to respond to criticism, fair or unfair, without getting defensive: acknowledge what is true, ask about what is unclear, and hold your ground on what is wrong.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "respond-to-negative-review",
+      "title": "Responding to a negative review (public)",
+      "category": "commerce",
+      "tags": [
+        "review",
+        "negative review",
+        "google review",
+        "yelp",
+        "public response",
+        "reputation"
+      ],
+      "triggers": [
+        "respond to a bad review",
+        "one star review",
+        "negative review reply",
+        "someone left a bad review",
+        "public complaint",
+        "respond on google"
+      ],
+      "summary": "Public review replies are written for the next customer reading, not the reviewer: short, specific, non-defensive, with an offer to fix it offline.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "respond-to-passive-aggressive",
+      "title": "Responding to a passive-aggressive message",
+      "category": "personal",
+      "tags": [
+        "passive-aggressive",
+        "snarky",
+        "sarcastic",
+        "dig",
+        "tone",
+        "cold"
+      ],
+      "triggers": [
+        "they sent a passive aggressive text",
+        "snarky message",
+        "sarcastic reply",
+        "what did they mean by that",
+        "cold message",
+        "fine",
+        "respond to a dig"
+      ],
+      "summary": "How to respond to snark or a cold message without taking the bait: reply to the content, name it only if needed, and stay warm.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "romantic-let-down",
+      "title": "Turning someone down romantically",
+      "category": "personal",
+      "tags": [
+        "dating",
+        "rejection",
+        "not interested",
+        "let down",
+        "break up",
+        "friend zone"
+      ],
+      "triggers": [
+        "not interested in them",
+        "let them down gently",
+        "don't want a second date",
+        "reject politely",
+        "they asked me out",
+        "end things after a few dates",
+        "breakup text"
+      ],
+      "summary": "Kind and unambiguous rejection at each stage: after a first message, after a date or two, and ending a short relationship.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "say-no-to-client-scope",
+      "title": "Saying no to a client (scope creep, unreasonable asks, bad fit)",
+      "category": "work",
+      "tags": [
+        "client",
+        "scope creep",
+        "freelance",
+        "no",
+        "out of scope",
+        "boundaries",
+        "agency"
+      ],
+      "triggers": [
+        "client keeps adding things",
+        "out of scope",
+        "client asked for free work",
+        "tell a client no",
+        "turn down a project",
+        "scope creep",
+        "fire a client"
+      ],
+      "summary": "How to hold the line with clients while staying the person they want to keep hiring: name the scope, price the extra, or decline the project cleanly.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "set-boundary",
+      "title": "Setting a boundary with family, friends or a partner",
+      "category": "personal",
+      "tags": [
+        "boundary",
+        "limit",
+        "family",
+        "overbearing",
+        "repeated",
+        "pattern"
+      ],
+      "triggers": [
+        "set a boundary",
+        "my mom keeps",
+        "they always",
+        "stop asking me",
+        "too much",
+        "need space",
+        "they keep calling",
+        "overstepping"
+      ],
+      "summary": "How to state a limit clearly and kindly, hold it under pushback, and avoid the common trap of over-explaining.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "small-talk",
+      "title": "Small talk that goes somewhere",
+      "category": "personal",
+      "tags": [
+        "small talk",
+        "conversation starters",
+        "networking",
+        "party",
+        "awkward silence",
+        "chit chat"
+      ],
+      "triggers": [
+        "what to talk about",
+        "small talk",
+        "conversation starter",
+        "awkward silence",
+        "networking event",
+        "meet new people",
+        "break the ice"
+      ],
+      "summary": "Openers, follow-ups and exits for small talk with strangers and acquaintances, built on curiosity rather than scripts.",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "upsell-without-pushiness",
+      "title": "Suggesting an upgrade, add-on or repeat purchase without being pushy",
+      "category": "commerce",
+      "tags": [
+        "upsell",
+        "cross-sell",
+        "add-on",
+        "repeat customer",
+        "recommendation",
+        "sales"
+      ],
+      "triggers": [
+        "upsell",
+        "suggest an add-on",
+        "recommend the bigger package",
+        "get them to buy again",
+        "cross-sell",
+        "mention the premium option"
+      ],
+      "summary": "How to recommend more in a way that reads as helpful advice, not a sales script: relevance, one option, honest framing, easy no.",
       "updated": "2026-09-24"
     }
   ]

@@ -1,8 +1,0 @@
-{
-  "id": "sample-001",
-  "title": "示例条目：smoothTalker 是什么",
-  "tags": ["meta", "sample"],
-  "summary": "占位示例。说明这个 connector 的用途和数据结构，正式内容填入后删除。",
-  "body": "smoothTalker 是一个托管在 GitHub Pages 上的静态只读 connector。每条内容是 data/entries/ 下的一个 JSON 文件，包含 id、title、tags、summary、body、updated 六个字段。index.json 汇总所有条目的摘要，Agent 先读 index 筛选，再按 id 取正文。",
-  "updated": "2026-09-24"
-}

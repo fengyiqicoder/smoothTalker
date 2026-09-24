@@ -1,0 +1,57 @@
+---
+title: Saying no to a client (scope creep, unreasonable asks, bad fit)
+category: work
+tags: [client, scope creep, freelance, no, out of scope, boundaries, agency]
+triggers: [client keeps adding things, out of scope, client asked for free work, tell a client no, turn down a project, scope creep, fire a client]
+summary: How to hold the line with clients while staying the person they want to keep hiring: name the scope, price the extra, or decline the project cleanly.
+updated: 2026-09-24
+---
+# Saying no to a client
+
+## Goal
+The client hears a professional managing a project, not a contractor being difficult. Every no comes with a path to a yes at a price, or a clean exit.
+
+## Structure
+1. **Positive acknowledgement of the request.** They are not wrong to ask.
+2. **The scope fact.** "That's outside what we scoped in the [date] agreement."
+3. **The path.** Price for the extra, or a swap ("we can do this instead of X"), or a phase-two.
+4. **Ask for a decision.**
+
+## Principles
+- The tone is "of course, here's what that costs" not "no, that's not included." Same content, very different relationship.
+- Do the free version of a thing once at most, and say you're doing it as a one-off. Silent free work becomes expected free work.
+- Put it in writing every time. A verbal "sure" becomes a dispute later.
+- If the client is a bad fit, decline early. A slow fade is worse for both of you.
+
+## Examples
+
+**Scope creep, email:**
+> Hi Tom,
+> Happy to add the second landing page. It's outside the original scope (three pages, per the March SOW), so I'd quote it as an add-on: $1,400 and about four working days. If you'd rather keep the budget flat, we could swap it in for the FAQ page. Let me know which you prefer and I'll update the schedule.
+> Best,
+> Nina
+
+**Client asks for "a quick favour" that isn't quick:**
+> I can do that. It's a couple of hours of work rather than a quick one, so I'll bill it at the usual rate unless you'd rather I skip it. Just say.
+
+**Client wants unlimited revisions:**
+> The package includes two rounds of revisions and we've used both. I want you to be happy with it, so here's the plan: I'll do one more round as a courtesy, and further rounds are $X each. Does that work?
+
+**Turning down a project (bad fit):**
+> Thanks for thinking of me for this. Having looked at it, I don't think I'm the right fit; the scope leans toward [X] and you'd get better results from someone who specialises there. I can recommend two people if that's useful.
+
+**Turning down a project (red flags), no explanation:**
+> Thank you for the opportunity. I'm going to pass on this one, but I appreciate you reaching out and wish you the best with it.
+
+**Ending an ongoing client relationship:**
+> I've valued working with you over the last year. I've decided to wind down this engagement at the end of the month so I can focus on [X]. I'll make sure everything is documented and handed over cleanly, and I'm happy to introduce you to someone who could take it on.
+
+**Client asks for a discount because they're "a small business":**
+> I understand, and I work with a lot of small businesses. My rates are set for the work rather than the client, but I can scale the scope to fit your budget. What's the number you're working with?
+
+## Avoid
+- Doing the extra work and then complaining about it.
+- "I'll see what I can do" when you mean no.
+- Apologising for having a scope.
+- Explaining your costs.
+- Ghosting a bad client instead of ending it.

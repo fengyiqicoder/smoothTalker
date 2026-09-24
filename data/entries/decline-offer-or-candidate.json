@@ -1,0 +1,24 @@
+{
+  "id": "decline-offer-or-candidate",
+  "title": "Declining a job offer, or rejecting a candidate",
+  "category": "work",
+  "tags": [
+    "job offer",
+    "decline",
+    "reject candidate",
+    "hiring",
+    "recruiter",
+    "turn down"
+  ],
+  "triggers": [
+    "turn down the job",
+    "decline the offer",
+    "reject a candidate",
+    "tell them they didn't get it",
+    "withdraw from the process",
+    "decline recruiter"
+  ],
+  "summary": "How to decline an offer so the door stays open, and how to reject a candidate so they leave with dignity and speak well of you.",
+  "updated": "2026-09-24",
+  "body": "# Declining a job offer, or rejecting a candidate\n\n## Declining an offer\n\n**Goal:** they remember you as gracious, and would hire you again.\n\n**Structure:** thanks (specific) → clear decline → brief reason or none → warmth → offer to stay in touch.\n\n**Principles**\n- Decide quickly and tell them quickly. Holding an offer while you wait on another is fine for a few days; say so.\n- Do not lie about the reason. \"I've accepted another role that's a closer fit for what I'm looking for right now\" is honest and complete.\n- Do not use the decline to negotiate unless you actually would take it at a different number; if you would, say so plainly instead.\n- Thank the specific people who spent time.\n\n**Examples**\n\n*Accepted elsewhere:*\n> Hi Rachel,\n> Thank you for the offer and for the time you and the team put into the process; the conversation with Dev about the roadmap was one of the best interviews I've had. After a lot of thought I've decided to accept another role that's a closer fit for where I want to take the next few years. It wasn't an easy call. I'd love to stay in touch, and I'll be following what you build.\n> All the best,\n> Kai\n\n*Declining on compensation, honestly:*\n> I've really enjoyed the process and I'd like to be transparent: the gap on base is the one thing stopping me. If there's flexibility to get to [number] I'd accept today. If not, I completely understand and I'll have to decline, with genuine thanks.\n\n*Withdrawing mid-process:*\n> I want to let you know early rather than late: I'm withdrawing from the process. My circumstances have changed and it wouldn't be fair to keep taking your time. Thank you for the conversations so far.\n\n*Recruiter cold message:*\n> Thanks for reaching out. I'm not looking right now, but I'd be happy to hear from you in six months or so.\n\n## Rejecting a candidate\n\n**Goal:** they feel treated as a person, they know it is final, and they would apply again or recommend you.\n\n**Structure:** thanks → clear decision, early → one specific positive → one honest, useful reason if you can give one → door open (only if true).\n\n**Principles**\n- Tell them fast. Waiting weeks is the most common complaint.\n- Call finalists. Email everyone else, but personalised.\n- Be specific enough that it is clearly not a template.\n- Do not give feedback you cannot defend. If you cannot say it plainly, say less.\n- \"We'll keep your CV on file\" only if you will.\n\n**Examples**\n\n*Finalist, email after a call:*\n> Hi Mona,\n> Thank you for the time you put into the process, especially the case study, which was genuinely strong. We've decided to go with another candidate whose background is closer to the infrastructure side of the role. This was a close decision. If a role on the product side opens in the next year, I'd like to reach out, if you'd be open to it.\n> Best,\n> Theo\n\n*Early-stage, brief but human:*\n> Hi Sam, thanks for applying and for the thoughtful cover note about [specific]. We're not moving forward this time; the shortlist skewed toward candidates with [X], which isn't a comment on your ability. I hope you find the right fit soon.\n\n*After an interview that went badly:*\n> Thanks for coming in on Tuesday. We won't be taking it further. If it's useful: the role needs someone who can talk through trade-offs in real time, and that part of the conversation didn't land the way we needed. That's a skill that builds fast with practice. Best of luck.\n\n## Avoid\n- \"We had many strong candidates\" as the whole message.\n- Ghosting after an interview.\n- Feedback that is really just a list of what they lacked.\n- \"Unfortunately\" as the first word.\n- Leaving the door open when it's closed."
+}

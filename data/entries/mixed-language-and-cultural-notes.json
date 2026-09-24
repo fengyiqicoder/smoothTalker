@@ -1,0 +1,25 @@
+{
+  "id": "mixed-language-and-cultural-notes",
+  "title": "Cross-cultural and multilingual notes",
+  "category": "core",
+  "tags": [
+    "culture",
+    "international",
+    "directness",
+    "formality",
+    "translation",
+    "non-native"
+  ],
+  "triggers": [
+    "message a Japanese colleague",
+    "too direct for them",
+    "cultural difference",
+    "they're from",
+    "writing in my second language",
+    "translate this politely",
+    "non-native english"
+  ],
+  "summary": "Adjustments to directness, formality and structure when the other person's cultural or linguistic defaults differ from the user's. General patterns, not stereotypes.",
+  "updated": "2026-09-24",
+  "body": "# Cross-cultural and multilingual notes\n\nThese are tendencies, not rules. Always weight the individual's own messages over their assumed background. The mirror rule in `02-tone-calibration` still comes first.\n\n## The main dial: directness\nCultures differ most on how explicitly a no, a disagreement or a request is stated.\n\n**Higher-directness defaults** (common in the US, Netherlands, Germany, Israel, Australia): a plain \"no\" or \"I disagree\" is normal and respected. Softening too much reads as evasive or unclear.\n\n**Lower-directness defaults** (common in Japan, Korea, Thailand, Indonesia, much of the Middle East, often the UK and Canada in polite registers): a no is often implied (\"that might be difficult\", \"let me think about it\"). A blunt no can read as rude; a blunt disagreement can cause loss of face, especially in front of others.\n\n**Practical adjustments**\n- Writing to a lower-directness reader: add one sentence of acknowledgement before the point, offer the no as a difficulty or alternative rather than a flat refusal, and never disagree in a group message. Take it private.\n- Writing to a higher-directness reader: cut hedges, put the ask in line one, and do not apologise for asking.\n- Reading a message from a lower-directness sender: \"we will consider it\" and \"it may be difficult\" often mean no. Do not push for a harder answer publicly; ask privately and gently.\n\n## Formality\n- Some cultures expect titles and surnames until invited otherwise (Germany, Japan, Korea, much of Latin America in business). When unsure, start formal and mirror their reply.\n- Age and seniority carry more weight in many East Asian, South Asian and African contexts. A junior person messaging a senior one should be warmer and more formal than they would be with a peer.\n- Emoji, exclamation marks and first names are safe with peers almost everywhere under 40; be more careful with seniors and first contacts.\n\n## Structure\n- Some readers expect relationship first, business second (much of Latin America, the Middle East, South Asia): a line asking after them or their family is not filler, it is the message working. Skip it and you sound cold.\n- Others expect business first (Germany, Nordics, US business email): the pleasantries can go after the point or be omitted.\n\n## Writing to a non-native speaker\n- Short sentences. One idea each.\n- Avoid idioms, sarcasm and jokes that depend on wordplay.\n- Say the ask plainly; indirect English (\"you might want to consider\") is often missed.\n- Dates in unambiguous form: \"14 March\", not 3/14.\n\n## When the user is writing in their second language\n- Do not \"correct\" their voice into corporate English. Keep it simple and natural.\n- Suggest the version that is easiest to say and to read, not the most sophisticated.\n- If they ask for a translation of a diplomatic message, translate the intent, not the words; softeners do not map one to one.\n\n## Avoid\n- Stereotyping an individual from their name or location.\n- Over-formality as a default; many people find it distancing.\n- Assuming English-language norms of directness are neutral. They are not."
+}

@@ -1,0 +1,59 @@
+---
+title: Admitting a mistake at work
+category: work
+tags: [mistake, error, own it, boss, client, accountability]
+triggers: [I made a mistake at work, tell my boss I messed up, own up to an error, I broke something, missed a deadline, sent the wrong thing]
+summary: How to report your own mistake so you come out of it looking reliable: fast, factual, with impact, fix and prevention already in hand.
+updated: 2026-09-24
+---
+# Admitting a mistake at work
+
+## Goal
+Your manager or client learns it from you first, with the fix already in motion, and concludes you are someone who handles problems, not someone who causes them.
+
+## Structure
+1. **Headline the mistake in the first sentence.** No preamble.
+2. **Impact, factual.** What it affected, who, how much.
+3. **What you've already done.**
+4. **What you're doing next, with a time.**
+5. **Prevention**, one concrete change.
+6. **Stop.** No grovelling, no self-flagellation.
+
+## Principles
+- Speed is everything. A mistake reported in an hour is a blip; the same mistake discovered by someone else a week later is a trust problem.
+- One clean apology. Then all forward.
+- No "but". Context can come after ownership, in one clause, framed as information.
+- Do not blame tools, colleagues, or workload in the first message.
+- Bring a fix, even a partial one. "I don't know how to fix this yet, but here's what I'm checking first" counts.
+- Scale the channel: small mistake, chat message; big mistake, call then written summary.
+
+## Examples
+
+**Sent the wrong file to a client, message to boss:**
+> Heads up: I sent the client the internal pricing sheet instead of the customer version at 10:40. I've already emailed them asking to disregard it and sent the correct one, and called Dana to explain. No response yet. I'm sorry; this was a naming mix-up on my end. I've renamed the internal file with an INTERNAL prefix so it can't happen again. I'll let you know as soon as Dana replies.
+
+**Broke something in production:**
+> I pushed a change at 14:05 that broke checkout for about 12 minutes. It's rolled back and checkout is working; I'm pulling the numbers on affected orders now and will have them by 15:00. Root cause was a missing null check that the tests didn't cover. I'm adding that test today. Sorry, this one's mine.
+
+**Missed a deadline, to a client:**
+> Hi Mark,
+> I owe you the report today and I'm not going to hit that. I'm sorry. It will be with you by 10am tomorrow. The delay is on my side, not a problem with the data. I should have flagged it yesterday when I saw it slipping, and I'll do that in future.
+> Jess
+
+**Made an error that cost money:**
+> I need to flag a mistake. I booked the venue for the 18th instead of the 8th and the deposit of $2,000 is non-refundable. I've called them and they're checking if they can move it; I'll know by end of day. If not, I'll cover the difference for an alternative venue and I'm working on options now. I'm sorry; I misread the date and didn't double-check it.
+
+**Small mistake, keep it small:**
+> My mistake on the numbers in that email, corrected version below.
+
+## Avoid
+- "I just wanted to let you know that there may have been a small issue..."
+- "In my defence..."
+- "It wasn't entirely my fault."
+- Apologising in every message afterward.
+- Waiting until you have a full fix before saying anything.
+- Hiding it and hoping.
+
+## If your boss reacts badly
+> That's fair. I'd feel the same. I'll keep you updated every step until it's resolved.
+Then do exactly that.

@@ -1,0 +1,59 @@
+---
+title: Replying to brand deals, collab requests and sponsorship offers (creators)
+category: commerce
+tags: [creator, brand deal, sponsorship, collab, influencer, rate, negotiation, decline]
+triggers: [brand wants to collab, reply to sponsorship, they offered free product, my rate for a post, decline a brand deal, influencer negotiation, "gifting" offer]
+summary: Creator replies to brand outreach: asking for details, stating rates, declining product-only deals, and negotiating usage rights, all while staying easy to work with.
+updated: 2026-09-24
+---
+# Replying to brand deals and collab requests
+
+## Goal
+You come across as professional and easy, you get paid properly, and you decline mismatches without drama. Brands talk to each other; every reply is reputation.
+
+## Structure for a first reply
+1. **Thanks, brief and specific** (mention their product if you actually like it).
+2. **Ask for the details you need**: deliverables, timeline, budget, usage rights, exclusivity.
+3. **State your baseline** if they haven't given a budget: "My rate for a single in-feed post starts at $X."
+4. **Easy next step.**
+
+## Principles
+- Always ask for the budget before quoting if you can. If they refuse, quote your rate confidently.
+- "Gifting" is a no unless you genuinely want the product and it costs you nothing to post. Say no to free-product-for-work kindly and clearly.
+- Usage rights and exclusivity are where the money hides. Ask every time.
+- Rates in writing, deliverables in writing, payment terms in writing. Nothing starts until the brief is agreed.
+- Decline mismatches fast. Do not string brands along.
+- Be the creator who replies within a day and delivers on time; that gets you re-booked more than follower count.
+
+## Examples
+
+**First reply to a vague "let's collab":**
+> Hi Sarah, thanks for reaching out, I've actually used the [product] for a while. To put together a proper proposal, could you share: what deliverables you're thinking (feed post, story set, reel), timeline, whether there's paid usage or exclusivity involved, and the budget range? Once I have that I'll come back within a day.
+
+**They ask for your rate:**
+> My rates start at $800 for one reel, $400 for a story set of three, with 30 days of organic usage included. Paid usage and exclusivity are priced separately. Happy to put together a package if you tell me what you're aiming for.
+
+**Declining a gifting-only offer:**
+> Thanks for the offer, I like what you're making. I don't do content in exchange for product, since the work's the same either way, but I'd be happy to talk about a paid post if that's in budget. If not, best of luck with the launch.
+
+**Declining a brand that's not a fit:**
+> Thank you for thinking of me. It's not the right fit for my audience, so I'll pass this time, but I appreciate the reach-out.
+
+**Negotiating when their budget is under your rate:**
+> I appreciate you being upfront on budget. $300 is below where I can do a reel, but I could do a story set of three for that, or a reel with a lighter brief. Would either work?
+
+**They want unlimited usage rights:**
+> I can include 90 days of organic usage in the base rate. Perpetual or paid-media usage I price separately, usually 30% of the content fee per additional 90 days. Let me know what you'd actually use it for and I'll suggest the simplest option.
+
+**Confirming a deal:**
+> Great, to confirm: one reel plus three stories, posted between the 10th and 20th, $1,100 total, 50% upfront and 50% on delivery, 90 days organic usage, no exclusivity. I'll send an invoice for the deposit and a brief for sign-off today.
+
+**Late payment from a brand:** see `chase-late-payment`.
+
+## Avoid
+- "I'd love to work with you!!" before you know the terms.
+- Quoting before you know deliverables.
+- Accepting product as payment for real work.
+- Vague "let me think about it" replies that never resolve.
+- Public callouts of brands for low offers.
+- Working without a written brief.

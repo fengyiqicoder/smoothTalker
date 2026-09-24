@@ -1,38 +1,55 @@
-# smoothTalker
+# SmoothTalker
 
-一个纯静态的 Muse connector。没有服务器，只有一份 OpenAPI 文档和一组 JSON 文件，托管在 GitHub Pages 上。
+**A static, read-only Muse connector that makes every conversation smoother.**
 
-- 托管地址：https://fengyiqicoder.github.io/smoothTalker/
-- OpenAPI：https://fengyiqicoder.github.io/smoothTalker/openapi.json
-- 数据索引：https://fengyiqicoder.github.io/smoothTalker/data/index.json
+SmoothTalker is a library of conversation playbooks. When a Muse user asks their agent to write, reply to, soften or improve any message, the agent consults the matching playbook and produces something clearer, kinder and more effective. It covers declining, apologising, negotiating, following up, delivering bad news, setting boundaries, handling angry customers, DM replies for small businesses, brand-deal replies for creators, and more.
 
-## 接入 Muse
+There is no server. It is an OpenAPI document plus JSON files on GitHub Pages.
 
-把 `MUSE_PROMPT.md` 里的那段话发给 Muse，它会读 OpenAPI 文档、在自己的 VM 里搭好桥接、保存成 skill。不需要 API key。
+- Site: https://fengyiqicoder.github.io/smoothTalker/
+- OpenAPI: https://fengyiqicoder.github.io/smoothTalker/openapi.json
+- Whole library in one file: https://fengyiqicoder.github.io/smoothTalker/data/all.json
+- Index only: https://fengyiqicoder.github.io/smoothTalker/data/index.json
 
-## 数据结构
+## Connect it to Muse
 
-每条内容是 `data/entries/<id>.json`：
+Copy the prompt in [`MUSE_PROMPT.md`](MUSE_PROMPT.md) and send it to Muse. Muse builds the bridge in its own VM and saves it as a skill. No API key. It also works as a custom integration for any agent that can read an OpenAPI document or fetch JSON.
 
-```json
-{
-  "id": "sample-001",
-  "title": "条目标题",
-  "tags": ["标签1", "标签2"],
-  "summary": "一句话摘要，给 Agent 判断是否相关用",
-  "body": "正文，Markdown 或纯文本",
-  "updated": "2026-09-24"
-}
+## What is inside
+
+| Category | Playbooks |
+|---|---|
+| core | how to use, principles, tone calibration, anti-patterns, phrase bank, cross-cultural notes |
+| personal | decline invitation, decline request, ask a favour, apologise, follow up, reconnect after silence, deliver bad news, condolences, disagree without conflict, de-escalate an argument, set a boundary, end a conversation, cancel or reschedule, romantic let-down, first message to a stranger, respond to criticism, ask someone to change a behaviour, give feedback kindly, money between friends, compliments and thanks, small talk, respond to passive-aggression |
+| work | negotiate salary or price, push back on your boss, say no to a client, chase late payment, angry customer, cold outreach, decline an offer or reject a candidate, feedback to a colleague, admit a mistake, ask for an extension, follow up after interview or meeting, quit or leave gracefully, client went silent, request an intro |
+| commerce | customer inquiry in DMs, refund requests, negative reviews, upsell without pushiness, creator brand deals |
+
+Every playbook has the same shape: **Goal → Structure → Principles → Examples at several tones → Avoid → What to do if it goes badly.**
+
+## How the agent uses it
+
+1. Loads `all.json` once and caches it.
+2. Always applies `00-how-to-use` and `01-principles`.
+3. Matches the user's situation to a playbook via `triggers`, `tags`, `summary`.
+4. Writes the message from the playbook's structure with the user's real specifics.
+5. Calibrates tone (`02-tone-calibration`) and checks against `03-anti-patterns`.
+6. Returns two ready-to-send versions unless one was asked for.
+
+## Authoring
+
+Source of truth is `content/*.md`: YAML-style front matter (`title`, `category`, `tags`, `triggers`, `summary`, `updated`) plus a Markdown body. Run:
+
+```
+python3 scripts/build_index.py
 ```
 
-`data/index.json` 是所有条目的 id / title / tags / summary 汇总，由脚本生成，不要手改。
+It validates every entry and regenerates `data/entries/*.json`, `data/index.json` and `data/all.json`. Commit and push; GitHub Pages updates in a minute or two.
 
-## 添加内容
+## Design principles for the content
 
-1. 在 `data/entries/` 下新建一个 JSON 文件，文件名就是 id
-2. 运行 `python3 scripts/build_index.py`，它会校验字段并重新生成 `data/index.json`
-3. commit 并 push，GitHub Pages 一两分钟后生效
+- **Smooth means clear, warm and low-friction.** Never slippery, vague or manipulative.
+- **Structure over scripts.** Examples are there to be adapted, not pasted.
+- **Shorter is kinder.** Most playbooks push toward fewer words.
+- **The user's interests come first.** When the user is being wronged, the library makes them clearer, not softer.
 
-## 为什么这样设计
-
-Muse 自己有浏览器，公开小文档它直接读。静态 connector 只在"结构化、体量大、需要检索、权威一致"时才值得做。index.json 让 Agent 一次调用拿到全部摘要自行筛选，再按 id 取正文，两次请求完成检索。详见 `../research/03-社区聚合现状.md` 和聊天记录里关于静态 connector 的讨论。
+Licence: content is CC BY 4.0. Use it, fork it, improve it.

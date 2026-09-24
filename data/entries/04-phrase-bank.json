@@ -1,0 +1,24 @@
+{
+  "id": "04-phrase-bank",
+  "title": "Phrase bank by function",
+  "category": "core",
+  "tags": [
+    "phrases",
+    "openers",
+    "softeners",
+    "bridges",
+    "closers",
+    "templates"
+  ],
+  "triggers": [
+    "how do I start",
+    "what's a good opener",
+    "how to end the message",
+    "sign off",
+    "transition",
+    "way to say"
+  ],
+  "summary": "Reusable phrases grouped by what they do in a message, with notes on when each fits. Use as raw material, never verbatim in bulk.",
+  "updated": "2026-09-24",
+  "body": "# Phrase bank\n\nPick one phrase per function at most. A message built entirely of phrase-bank lines sounds assembled. Adapt to the user's voice.\n\n## Openers that create context fast\n- \"Following up on [specific thing] from [when].\"\n- \"Quick one about [topic].\"  (only if it is actually quick)\n- \"I've been thinking about what you said about [X].\"\n- \"Two things: [A] and [B].\"  (for multi-point messages, tell them the count)\n- \"Before I forget:\"  (casual, low stakes)\n- \"I owe you a reply on [X], sorry for the wait.\"  (one apology, then content)\n\n## Acknowledgement (before redirecting or disagreeing)\n- \"That makes sense, and...\"  (not \"but\")\n- \"I can see why you'd read it that way.\"\n- \"You're right that [specific true thing].\"\n- \"I hadn't thought about [X], that's fair.\"\n- \"I know this isn't the answer you were hoping for.\"\n- \"I get that this is urgent on your side.\"\n\n## Softeners that keep the point intact\n- \"My honest read is...\"\n- \"I'd push back a little on...\"\n- \"Here's my hesitation:\"\n- \"Can I offer a different take?\"\n- \"I might be wrong on this, but...\"  (use once, only when actually uncertain)\n- \"Here's what I can do:\"  (after a no)\n\n## Making an ask\n- \"Could you [specific action] by [specific time]?\"\n- \"Would you be up for [X]?\"\n- \"What would it take to [X]?\"  (when they hold the leverage)\n- \"Is there a version of this that works for you?\"\n- \"I'd really value your read on [X].\"  (asking for input, not labour)\n- \"Can I get 15 minutes this week?\"  (name the cost)\n\n## Giving an out\n- \"If this week is packed, next week is fine.\"\n- \"Totally fine to say no.\"  (once)\n- \"If it's easier, I can [alternative].\"\n- \"No need to reply if you're good with it.\"\n- \"Whichever is easier for you.\"\n\n## Declining\n- \"I'm going to pass on this one.\"\n- \"I can't take this on right now.\"\n- \"That's not something I can do, but [alternative].\"\n- \"I'm at capacity through [date].\"\n- \"I'd rather be upfront than let you down later:\"\n- \"Not this time, but please keep me in mind.\"\n\n## Bridges to next steps\n- \"So the next step on my side is [X]; on yours, [Y].\"\n- \"I'll send [X] by [when] and we can go from there.\"\n- \"Let's lock a time: [two options]?\"\n- \"Leaving this with you; no rush.\"\n\n## Closers\n- Text: nothing, or \"talk soon\", or their emoji habit\n- Warm email: \"Thanks again,\" / \"Appreciate you,\" / \"Talk soon,\"\n- Neutral email: \"Best,\" / \"Thanks,\"\n- After a boundary or a no: \"Thanks for understanding,\" (neutral, not \"Hope that's okay!!\")\n- After bad news: \"I'm around if you want to talk it through.\"\n- After an apology: \"Thanks for your patience,\" (not another sorry)\n\n## Words that quietly improve a message\n- \"and\" instead of \"but\" after an acknowledgement\n- \"when\" instead of \"if\" for things that will happen (\"when you get a chance\")\n- \"I\" statements for feelings, \"we\" statements for plans, \"you\" statements only for appreciation\n- The person's name once, early\n- A specific date instead of \"soon\", \"later\", \"sometime\""
+}

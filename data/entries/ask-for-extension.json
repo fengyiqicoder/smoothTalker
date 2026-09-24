@@ -1,0 +1,22 @@
+{
+  "id": "ask-for-extension",
+  "title": "Asking for a deadline extension",
+  "category": "work",
+  "tags": [
+    "extension",
+    "deadline",
+    "more time",
+    "delay",
+    "late"
+  ],
+  "triggers": [
+    "ask for more time",
+    "extend the deadline",
+    "won't make the deadline",
+    "need an extension",
+    "push the due date"
+  ],
+  "summary": "How to ask for more time early, with a specific new date and a reason that is about quality or scope rather than excuses.",
+  "updated": "2026-09-24",
+  "body": "# Asking for a deadline extension\n\n## Goal\nThey grant it, and think better of you for asking early with a plan rather than missing it silently.\n\n## Structure\n1. **Ask early.** The moment you know. Not the day before.\n2. **The situation in one line.** Not a story.\n3. **The specific new date.** Not \"a bit more time\".\n4. **What they get for it**, if there is a quality argument.\n5. **An alternative** if the date is hard: partial delivery, reduced scope.\n6. **Ask, not tell**, unless it is a done deal.\n\n## Principles\n- Extensions asked for early are planning; extensions asked for late are failures.\n- Specific dates only. \"By Thursday 5pm\" not \"early next week\".\n- Offer a trade: partial now, complete later. Most deadlines are about something downstream; find out what.\n- One extension. If you need a second, you have a bigger conversation to have.\n- Do not over-explain. One sentence of reason.\n\n## Examples\n\n**Boss, chat:**\n> The Q3 analysis: I can have it Friday as planned but the supplier data only came in this morning, so it'd be thin. If I can have until Tuesday, it'll be the full picture. If Friday is a hard date for the board pack, I'll send a summary Friday and the full version Tuesday. Which do you prefer?\n\n**Client, email:**\n> Hi Rob,\n> I want to give you a heads-up early rather than late. The design round is taking longer than I scoped because the brand guidelines came in a week after we planned. I'd like to move delivery from the 12th to the 16th. If the 12th is tied to something on your side, tell me and I'll prioritise the homepage so you have that on time.\n> Thanks,\n> Ava\n\n**Academic / formal:**\n> Dear Professor Lin,\n> I'm writing to ask for a three-day extension on the essay due on the 20th, to the 23rd. I've had [brief reason] this week and I'd rather submit work I'm confident in than something rushed. I understand if this isn't possible.\n> Kind regards,\n> Sam\n\n**Personal favour deadline (returning something, finishing something for a friend):**\n> I said I'd have the photos to you by Sunday and I'm going to need until Wednesday; I want to do the edits properly. Is that okay or do you need them for something sooner?\n\n**When you're already late (see also admit-mistake-at-work):**\n> I've missed today's date and I'm sorry. It'll be with you by tomorrow noon. I should have flagged this yesterday.\n\n## Avoid\n- \"Is there any chance, if it's not too much trouble, I could maybe have a little more time?\"\n- A paragraph of reasons.\n- Asking the night before.\n- \"I'll try to have it by...\"\n- Asking for a vague amount of time."
+}

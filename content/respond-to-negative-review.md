@@ -1,0 +1,58 @@
+---
+title: Responding to a negative review (public)
+category: commerce
+tags: [review, negative review, google review, yelp, public response, reputation]
+triggers: [respond to a bad review, one star review, negative review reply, someone left a bad review, public complaint, respond on google]
+summary: Public review replies are written for the next customer reading, not the reviewer: short, specific, non-defensive, with an offer to fix it offline.
+updated: 2026-09-24
+---
+# Responding to a negative review
+
+## Goal
+The next hundred people who read the review see a business that listens and fixes things. The reviewer is the audience of one; the readers are the audience that matters.
+
+## Structure
+1. **Thank them for the specific feedback** (not "for taking the time").
+2. **Acknowledge the specific problem**, in your words, briefly. Do not repeat every complaint.
+3. **Own what's yours** in one line. If it is not yours, state the fact once, neutrally.
+4. **What you've changed or offered.**
+5. **Invitation to continue offline**, with a name and a direct contact.
+6. **Sign with a real name.**
+
+## Principles
+- Reply within 48 hours. Old unanswered reviews look worse than the review itself.
+- Under 120 words. Long replies look defensive.
+- Never argue, even when they are wrong. Correct facts once, calmly, then move on.
+- Never reveal the customer's private details in a public reply.
+- Do not offer compensation publicly (it invites more one-star reviews). Offer to "make it right" and do it in private.
+- Do not copy-paste the same reply across reviews. People check.
+- Tone: calm, human, slightly warmer than the review.
+
+## Examples
+
+**Legitimate complaint, restaurant:**
+> Thank you for this, Maria, and I'm sorry: a 40-minute wait for mains on a Tuesday isn't the standard we hold ourselves to. We were short two staff that night and handled it badly. We've changed how we manage the floor when that happens. I'd like to make it right; please email me at [address] so I can. Tom, owner.
+
+**Complaint that's partly wrong:**
+> Thanks for the feedback, Jake. I'm sorry the fit wasn't what you expected. One small correction for anyone reading: we do accept returns within 30 days, and I've messaged you directly to sort that out. If anything else was off, I'd like to hear it. Sara.
+
+**Unfair or hostile review:**
+> Thanks for the review. I'm sorry your experience didn't match what most of our customers describe. I'd genuinely like to understand what happened; I've reached out directly and I'm here at [address] if you'd like to talk. Dev.
+
+**Review about something out of your control (delivery courier):**
+> I'm sorry the parcel arrived late and damaged. That's the courier's failure, but you ordered from us, so it's ours to fix. A replacement is on its way and we've raised it with the carrier. Thank you for telling us. Ana.
+
+**Review that's actually about a different business:**
+> Hi Sam, thanks for the review; I think this may be meant for a different [business type] as we don't offer [X]. If I'm wrong, please email me at [address] and I'll sort it straight away. Lee.
+
+**Reviewer was rude to staff:**
+> Thank you for the feedback. I'm sorry you left unhappy. I've spoken with the team about the evening and I'm satisfied they handled a difficult situation professionally. If you'd like to discuss it further, I'm available at [address]. Jo, manager.
+
+## Avoid
+- "We're sorry you feel that way."
+- "This is the first time anyone has complained."
+- Quoting the customer's own words back at them.
+- Explaining internal problems in detail.
+- Pointing out that they have other bad reviews.
+- Legal threats.
+- Not replying.

@@ -1,0 +1,57 @@
+---
+title: Responding to criticism
+category: personal
+tags: [criticism, feedback, defensive, called out, blamed, accused]
+triggers: [they criticized me, someone called me out, got negative feedback, they blamed me, respond to complaint about me, feel attacked]
+summary: How to respond to criticism, fair or unfair, without getting defensive: acknowledge what is true, ask about what is unclear, and hold your ground on what is wrong.
+updated: 2026-09-24
+---
+# Responding to criticism
+
+## Goal
+Whatever is true in the criticism, you own it. Whatever is unclear, you ask. Whatever is wrong, you say so calmly. The critic feels heard, and you have not shrunk.
+
+## Structure
+1. **Pause.** Do not reply in the first ten minutes if it stung.
+2. **Thank them or acknowledge the effort**, if it was offered in good faith.
+3. **Reflect the point in your own words** so they know you understood.
+4. **Sort it into three buckets** in your reply: what you agree with, what you want to understand better, what you see differently.
+5. **What you'll do next.**
+
+## Principles
+- The instinct to explain why it happened reads as an excuse. Explain only if asked.
+- "You're right about X" costs nothing and buys everything. Find the X.
+- You can accept a criticism without accepting the tone it came in.
+- For unfair criticism, you do not have to agree, but you do not have to fight either. "I see that differently" is complete.
+- Asking a question is stronger than defending. "What would you have wanted me to do instead?" moves it forward.
+
+## Examples
+
+**Fair criticism from a friend:**
+> That's fair. I've been flaky lately and I know it. Thanks for actually saying it instead of just going quiet. I'll do better, starting with Friday, which I will be at.
+
+**Criticism that is partly fair, work:**
+> Thanks for the straight feedback. You're right that the report went out late and that's on me. On the data question, I think there's a misunderstanding about the source; can we look at that together? I want to make sure I'm fixing the right thing.
+
+**Criticism you think is wrong:**
+> I appreciate you raising it directly. I see this differently: [one sentence]. I'm not trying to shut it down, I just don't want to agree with something I don't think is accurate. Happy to talk it through.
+
+**Criticism delivered harshly:**
+> I hear the point, and I'll take it on board. I'd ask that next time we talk about it before it gets to this level, because I'd genuinely rather fix things early.
+
+**Public criticism (group chat, comment):**
+> Fair point about [X]. Let me follow up with you directly so I don't clog the thread.
+
+**Criticism from a partner about a pattern:**
+> I don't love hearing this and I think you're right. I don't want to be the person who does that. Can you tell me next time it happens, in the moment, so I catch it?
+
+## Avoid
+- "I'm sorry you feel that way."
+- "But you also..."
+- "I was only trying to help."
+- Listing everything you did right.
+- Over-apologising to end the discomfort quickly.
+- Replying immediately when angry.
+
+## If you need time
+> I want to give this a proper response and not a defensive one. Can I come back to you tomorrow?

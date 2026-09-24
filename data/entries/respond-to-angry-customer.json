@@ -1,0 +1,25 @@
+{
+  "id": "respond-to-angry-customer",
+  "title": "Responding to an angry customer or client",
+  "category": "work",
+  "tags": [
+    "customer",
+    "complaint",
+    "angry",
+    "support",
+    "service recovery",
+    "escalation"
+  ],
+  "triggers": [
+    "angry customer",
+    "customer complaint",
+    "they're furious",
+    "respond to a complaint",
+    "upset client",
+    "calm a customer down",
+    "service recovery"
+  ],
+  "summary": "The service-recovery sequence: acknowledge, own, fix, follow up. With examples for justified and unjustified anger.",
+  "updated": "2026-09-24",
+  "body": "# Responding to an angry customer\n\n## Goal\nThe customer feels heard within the first two lines, sees a concrete fix, and ends up more loyal than before the problem. Anger is usually about not being heard, not about the original issue.\n\n## Structure\n1. **Acknowledge the specific problem and its impact**, in their words. No \"I understand your frustration\" boilerplate.\n2. **Own it plainly** if it is yours. No \"but\".\n3. **The fix, concrete, with a time.** What you're doing, by when.\n4. **Make-good if warranted**, proportionate.\n5. **Direct line**: your name, how to reach you.\n6. **Follow up when you said you would.**\n\n## Principles\n- Speed matters more than polish. A fast \"I'm on it, details within the hour\" beats a perfect reply tomorrow.\n- Say what you will do, not what you cannot do.\n- Never argue about whether they should be angry.\n- If they are wrong on the facts, correct gently after acknowledging, with evidence, not with tone.\n- If they are abusive, you can be firm. \"I want to fix this, and I need us to keep it civil to do that.\"\n- Take it off public channels quickly, but respond publicly first so others see you responded.\n\n## Examples\n\n**Justified complaint, email:**\n> Hi Mr. Okafor,\n> You ordered on the 3rd, were promised delivery by the 8th, and as of today you have nothing and no update from us. That's not acceptable and I'm sorry. Here's what's happening: I've located your order, it's shipping today by express, and you'll have a tracking number by 5pm. I've refunded the shipping cost in full. I'm Dana, I own this until it's resolved; reply to me directly or call [number].\n> Dana\n\n**Customer angry about something that is not your fault:**\n> I'm sorry you've had this experience, it sounds genuinely frustrating. Looking at the account, the charge came from [third party], not from us, so I can't refund it directly, but I can do two things: send you the exact transaction reference to dispute it with them, and stay on this with you until it's resolved. Would that help?\n\n**Angry DM on Instagram (public-facing, keep short):**\n> I'm really sorry about this, it's not what we want for you. I'm sending you a DM right now to get the order details and sort it today.\n\n**Customer is wrong on the facts:**\n> I completely understand why you'd expect a refund here. I've checked, and the return window on this item was 14 days and it was returned on day 22. I can't refund it, but I can offer store credit for the full amount or an exchange. Which would you prefer?\n\n**Customer is abusive:**\n> I want to help you and I'm going to. I need us to keep this respectful so I can focus on fixing it. Here's what I can do right now: [fix].\n\n**Follow-up after resolving:**\n> Just checking the replacement arrived and everything's working. If anything's off, I'm still here.\n\n## Avoid\n- \"I understand your frustration.\"\n- \"Unfortunately, our policy...\" as an opener.\n- \"We apologise for any inconvenience.\"\n- Asking them to repeat details you already have.\n- Promising a call-back time and missing it.\n- Explaining internal processes.\n- Defending the person who made the mistake."
+}

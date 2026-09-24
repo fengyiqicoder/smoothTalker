@@ -1,0 +1,23 @@
+{
+  "id": "follow-up-after-interview-or-meeting",
+  "title": "Following up after an interview or meeting",
+  "category": "work",
+  "tags": [
+    "interview",
+    "meeting",
+    "follow-up",
+    "thank you",
+    "recap",
+    "next steps"
+  ],
+  "triggers": [
+    "thank you after interview",
+    "follow up after the meeting",
+    "recap email",
+    "haven't heard back after interview",
+    "post-meeting email"
+  ],
+  "summary": "Short follow-ups that add something: a specific thank-you after interviews, a recap with owners after meetings, and a polite check-in when the timeline slips.",
+  "updated": "2026-09-24",
+  "body": "# Following up after an interview or meeting\n\n## After an interview\n\n**Send within 24 hours. Three to five sentences.**\n\nStructure: thanks (specific) → one thing from the conversation that stuck with you → optional: one thing you'd add or clarify → reaffirm interest, one line.\n\n> Hi Elena,\n> Thank you for the conversation yesterday. The point about the team moving from quarterly to continuous releases stuck with me; it's exactly the kind of shift I'd want to be part of. One thing I'd add to my answer on incident handling: at [company] I also led the post-mortem process, which I didn't get to mention. I'm very interested in the role and happy to provide anything else that would help.\n> Best,\n> Chris\n\n**Checking in when they said \"by Friday\" and it's Wednesday of the next week:**\n> Hi Elena,\n> I hope the week's going well. You mentioned you'd have an update by last Friday; I wanted to check whether there's anything further you need from me. Still very interested.\n> Best,\n> Chris\n\n**After a rejection (this is how you get the next role):**\n> Thank you for letting me know, and for the process, which was genuinely well run. If it's possible, I'd value one line of feedback. Either way, I'd be glad to hear from you if something opens up in future.\n\n## After a meeting\n\n**Send the same day. Bullet points. Owners and dates on everything.**\n\n> Hi all,\n> Thanks for today. Quick recap so we're aligned:\n> - We're going with option B (phased rollout), starting with the UK.\n> - Priya: draft comms plan by the 14th.\n> - Me: updated timeline by Thursday.\n> - Open question: whether legal needs to review the T&Cs; Sam to confirm by Tuesday.\n> Shout if I've got anything wrong.\n> Lee\n\n**After a networking coffee:**\n> Really enjoyed this morning. The [specific thing they said] has been rattling around my head since. I'll send that article I mentioned. If I can ever be useful on [their thing], say the word.\n\n**After a sales / client meeting:**\n> Thanks for your time today. As discussed: I'll send the proposal for the phased approach by Friday, including the pricing for the reduced scope you asked about. The one thing I need from you is the current traffic numbers, whenever convenient. Looking forward to it.\n\n## Principles\n- Add something: a clarification, a resource, a decision. \"Just following up\" adds nothing.\n- The recap email is where decisions become real. Write the version you want to be true.\n- Keep the interview thank-you short; a long one reads as anxious.\n- One check-in on a slipped timeline, then wait.\n\n## Avoid\n- \"Just wanted to reach out and thank you for taking the time out of your busy schedule.\"\n- Restating your whole CV.\n- Multiple check-ins in a week.\n- Recaps with no owners or dates."
+}
