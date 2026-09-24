@@ -20,8 +20,14 @@
 | 客户三点投诉邮件 | respond-to-angry-customer + admit-mistake | 通过 | 逐条回应，己方过错全认，另两点用事实纠正，末尾给下一步。已新增 05-reply-to-a-pasted-message 把这套流程固化 |
 | 表弟借钱，要求平拒绝一版 | decline-request | 通过 | 尊重用户指令，一版、无替代 |
 
-**未出现的**
-- "Playbook: xxx" 归属行（Muse 保存 skill 时该规则尚未加入 spec）。已加入 MUSE_PROMPT，并让 Muse 刷新。
+**第二轮（刷新到 58 条、加入归属行规则后）**
+
+| 场景 | 命中条目 | 结果 | 备注 |
+|---|---|---|---|
+| 姐姐骂"自私"，用户正在气头上 | respond-to-criticism | 通过 | 先给"我不想在生气时回复，明天再说"的暂缓句；两版都是清晰不软（用户被冤枉时变清晰而非变软）；给了对方加码时的处理；末尾出现 "Playbook: respond-to-criticism" |
+
+**接入地址修正**
+- github.io 地址会 301 到自定义域名，不是独立镜像。Agent 抓取地址统一改为 raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/...，Muse 已切换并确认每日刷新走该地址。
 
 **下一轮要测**
 - 语音消息/电话脚本类请求
