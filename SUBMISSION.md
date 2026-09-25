@@ -6,7 +6,7 @@
 
 | 项 | 状态 | 说明 |
 |---|---|---|
-| Work email | **缺** | 表单要求公司邮箱，Gmail 可能被拒。建议在 000ooo.ooo 域名下开一个邮箱（如 hello@000ooo.ooo，Cloudflare Email Routing 免费转发到 Gmail 即可）。定下来后我把 support.html 里的占位符换掉 |
+| Work email | 先用个人邮箱 | fengyiqicoder@gmail.com。表单提示要公司邮箱，先试；被拒再开域名邮箱（000ooo.ooo 的 DNS 在 Google Cloud DNS，MX 指向一个未知 Mailgun 账号，需先理清） |
 | Company or developer | 待定 | 个人名 "Yiqi Feng" 或品牌 "000ooo"。建议用品牌，与域名一致 |
 | Payments 下拉 | 待定 | 选"无支付 / Free"一类的选项，具体选项名要在表单里看 |
 
@@ -47,10 +47,14 @@ https://smoothtalker.000ooo.ooo
 无。选表单里表示 Free / No payments 的选项。
 
 **Your name**
-你的全名
+```
+Yiqi Feng
+```
 
 **Work email**
-见上表，待定
+```
+fengyiqicoder@gmail.com
+```
 
 **Support email or URL**
 ```
@@ -141,5 +145,5 @@ The library contains no instructions to collect data, call other tools, override
 - [x] 512×512 图标 PNG + SVG
 - [x] OpenAPI 3.0.3
 - [x] 测试日志 TESTLOG.md
-- [ ] 公司邮箱
+- [x] 邮箱：先用 fengyiqicoder@gmail.com
 - [ ] Payments 选项确认
