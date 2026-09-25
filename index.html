@@ -1,14 +1,39 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SmoothTalker</title>
-<style>:root{--fg:#1d1d1f;--bg:#fff;--mute:#6e6e73}@media(prefers-color-scheme:dark){:root{--fg:#f5f5f7;--bg:#111;--mute:#a1a1a6}}body{font:17px/1.6 -apple-system,system-ui,sans-serif;max-width:640px;margin:56px auto;padding:0 16px;color:var(--fg);background:var(--bg)}a{color:inherit}p.m{color:var(--mute)}code{font-size:.9em}</style>
-</head><body>
-<h1>SmoothTalker</h1>
-<p>A static, read-only connector that helps an AI agent write smoother, kinder, more effective messages: declining, apologising, negotiating, following up, bad news, boundaries, angry customers, DM replies, brand deals.</p>
-<p class="m">58 playbooks. No server, no auth. Plain JSON on GitHub Pages.</p>
-<ul>
-<li><a href="openapi.json">openapi.json</a></li>
-<li><a href="data/all.json">data/all.json</a> (whole library)</li>
-<li><a href="data/index.json">data/index.json</a></li>
-<li><a href="https://github.com/fengyiqicoder/smoothTalker">Source, setup prompt for Muse</a></li>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SmoothTalker</title><meta name="description" content="A read-only connector that helps your AI agent write smoother, kinder, more effective messages.">
+<link rel="icon" href="assets/icon-128.png"><link rel="stylesheet" href="style.css"></head><body>
+<nav><a href="/">Home</a><a href="support.html">Support</a><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a><a href="https://github.com/fengyiqicoder/smoothTalker">GitHub</a></nav>
+<div class="logo"><img src="assets/icon-128.png" alt=""><h1>SmoothTalker</h1></div>
+<p class="lead">Helps your AI agent write smoother, kinder, more effective messages. Declining, apologising, negotiating, following up, delivering bad news, setting boundaries, answering customers.</p>
+
+<h2>What it does</h2>
+<p>SmoothTalker is a library of 58 conversation playbooks. When you ask your agent to write, reply to, soften or improve any message, it consults the matching playbook and gives you two ready-to-send versions, one warmer and one more direct. Every playbook has the same shape: goal, structure, principles, examples at several tones, and what to avoid.</p>
+<p>Smooth means clear, warm and low-friction. It never means slippery or manipulative. When you are being wronged, SmoothTalker makes you clearer, not softer.</p>
+
+<h2>Things you can ask</h2>
+<ul class="ex">
+<li>"My landlord wants to raise rent by $300. Help me push back."</li>
+<li>"I forgot my best friend's birthday. Text her."</li>
+<li>"Reply to this customer DM, she's asking for a discount."</li>
+<li>"Draft a follow-up to the client who hasn't paid the invoice."</li>
+<li>"My roommate sent a passive-aggressive text about the dishes. Reply."</li>
+<li>"Counter this job offer, the base is below market."</li>
+<li>"Text Maya after our first date, I want a second one."</li>
+<li>"Make this email less cold."</li>
 </ul>
+
+<h2>How it works</h2>
+<div class="card">Read-only. No account, no login, no data collected. The agent fetches a static JSON library once a day and applies it locally. Nothing you write is sent to SmoothTalker.</div>
+<table>
+<tr><th>Categories</th><td>Core (6): how to use, principles, tone calibration, anti-patterns, phrase bank, cross-cultural notes<br>Personal (27), Work (16), Commerce (9)</td></tr>
+<tr><th>OpenAPI</th><td><a href="openapi.json">openapi.json</a></td></tr>
+<tr><th>Library</th><td><a href="data/all.json">data/all.json</a> (whole library) · <a href="data/index.json">data/index.json</a></td></tr>
+<tr><th>Auth</th><td>None</td></tr>
+<tr><th>Source</th><td><a href="https://github.com/fengyiqicoder/smoothTalker">github.com/fengyiqicoder/smoothTalker</a>, content CC BY 4.0</td></tr>
+</table>
+
+<h2>Use it with Muse today</h2>
+<p>Until it appears in the Muse connector directory, you can add it as a custom connector: copy the prompt from <a href="https://github.com/fengyiqicoder/smoothTalker/blob/main/MUSE_PROMPT.md">MUSE_PROMPT.md</a> and send it to Muse.</p>
+
+<footer>SmoothTalker · <a href="support.html">Support</a> · <a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Service</a></footer>
 </body></html>

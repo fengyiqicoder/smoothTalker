@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SmoothTalker Support</title><link rel="icon" href="assets/icon-128.png"><link rel="stylesheet" href="style.css"></head><body>
+<nav><a href="/">Home</a><a href="support.html">Support</a><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a></nav>
+<h1>Support</h1>
+
+<h2>Contact</h2>
+<div class="card">Email: <a href="mailto:SUPPORT_EMAIL_PLACEHOLDER">SUPPORT_EMAIL_PLACEHOLDER</a><br>Issues and requests: <a href="https://github.com/fengyiqicoder/smoothTalker/issues">github.com/fengyiqicoder/smoothTalker/issues</a></div>
+<p class="m">We aim to reply within two working days.</p>
+
+<h2>Common questions</h2>
+<p><strong>Does SmoothTalker see my messages?</strong><br>No. It is a static library your agent downloads. Drafting happens inside the agent. See the <a href="privacy.html">privacy policy</a>.</p>
+<p><strong>The agent isn't using SmoothTalker.</strong><br>Ask it directly: "Use the SmoothTalker playbooks for this." Each drafted reply should end with a line like <code>Playbook: apologize</code>. If it doesn't, the skill may not be installed; see the <a href="https://github.com/fengyiqicoder/smoothTalker/blob/main/MUSE_PROMPT.md">setup prompt</a>.</p>
+<p><strong>The advice didn't fit my situation.</strong><br>Tell the agent what you want ("say no flat", "one version only", "keep it cold"). Your stated intent always overrides the playbook. If a playbook is wrong or missing, <a href="https://github.com/fengyiqicoder/smoothTalker/issues">open an issue</a> with the situation and we'll add or fix it.</p>
+<p><strong>Can I add my own playbooks?</strong><br>Yes. The repository is public and content is CC BY 4.0. Fork it, add a Markdown file under <code>content/</code>, run the build script, and point your agent at your fork.</p>
+<p><strong>Is it free?</strong><br>Yes. No payments, no accounts.</p>
+
+<h2>Status</h2>
+<p>Library version and entry count: <a href="data/index.json">data/index.json</a>. Change history: <a href="https://github.com/fengyiqicoder/smoothTalker/commits/main">GitHub commits</a>.</p>
+<footer>SmoothTalker · <a href="support.html">Support</a> · <a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Service</a></footer>
+</body></html>
