@@ -1,5 +1,9 @@
 # SmoothTalker · Muse Connector Platform 送审材料
 
+**状态：已于 2026-09-25 提交，页面确认 "Thank you for your submission! We'll review SmoothTalker and get in touch."** 联系邮箱 fengyiqicoder@gmail.com，等 Meta 回信。截图见 assets/submission-confirmation-2026-09-25.png。
+
+实际表单第二步 Technical specs 的字段：Connection type（Raw API / Existing MCP）、API URL、OpenAPI specification（可选）、API or MCP documentation、Access requirements、Authentication methods（API keys / OAuth with PKCE / Other，可选）。第三步 Review 有三个确认勾选：授权提交与品牌素材、理解提交不保证通过、同意 Muse Connector Terms。
+
 准备日期：2026-09-25　　表单：muse.ai/platform → Submit a connector
 
 ## 送审前必须由你确认的 3 项
@@ -146,4 +150,4 @@ The library contains no instructions to collect data, call other tools, override
 - [x] OpenAPI 3.0.3
 - [x] 测试日志 TESTLOG.md
 - [x] 邮箱：先用 fengyiqicoder@gmail.com
-- [ ] Payments 选项确认
+- [x] Payments：选了 "My connector does not accept payments"
