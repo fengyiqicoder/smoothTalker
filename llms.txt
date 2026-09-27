@@ -1,0 +1,16 @@
+# SmoothTalker
+
+> A read-only library of conversation playbooks for AI agents: how to decline, apologise, negotiate, follow up, deliver bad news, set boundaries, and answer customers so the message lands well. Static JSON, no auth, CC BY 4.0.
+
+Load /data/all.json once and cache it. Always apply entries 00-how-to-use and 01-principles. Use 06-situation-router to pick the playbook when triggers do not match cleanly.
+
+## Data
+- [Whole library](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/all.json): every playbook with full Markdown body
+- [Index](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/index.json): id, title, category, tags, triggers, summary
+- [One entry](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/entries/decline-request.json): /data/entries/{id}.json
+- [OpenAPI](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/openapi.json)
+
+## Agent setup
+- [Agent Skill](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/skill/SKILL.md): drop-in SKILL.md for Claude Code, Claude.ai and other Agent Skills hosts
+- [Muse setup prompt](https://github.com/fengyiqicoder/smoothTalker/blob/main/MUSE_PROMPT.md)
+- [Source and authoring guide](https://github.com/fengyiqicoder/smoothTalker)

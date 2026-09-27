@@ -26,39 +26,43 @@ def parse(path: Path):
         meta[k.strip()] = v
     return meta, body
 
-ENTRIES.mkdir(parents=True, exist_ok=True)
-for old in ENTRIES.glob("*.json"):
-    old.unlink()
+def main():
+  ENTRIES.mkdir(parents=True, exist_ok=True)
+  for old in ENTRIES.glob("*.json"):
+      old.unlink()
 
-items, full, errors = [], [], []
-for p in sorted(CONTENT.glob("*.md")):
-    try:
-        meta, body = parse(p)
-    except Exception as ex:
-        errors.append(f"{p.name}: {ex}"); continue
-    for k in REQUIRED:
-        if not meta.get(k):
-            errors.append(f"{p.name}: 缺少字段 {k}")
-    if not body:
-        errors.append(f"{p.name}: 正文为空")
-    entry = {
-        "id": p.stem,
-        "title": meta.get("title"),
-        "category": meta.get("category", "general"),
-        "tags": meta.get("tags", []),
-        "triggers": meta.get("triggers", []),
-        "summary": meta.get("summary"),
-        "updated": meta.get("updated") or datetime.date.today().isoformat(),
-        "body": body,
-    }
-    full.append(entry)
-    items.append({k: entry[k] for k in ("id", "title", "category", "tags", "triggers", "summary", "updated")})
-    (ENTRIES / f"{p.stem}.json").write_text(json.dumps(entry, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+  items, full, errors = [], [], []
+  for p in sorted(CONTENT.glob("*.md")):
+      try:
+          meta, body = parse(p)
+      except Exception as ex:
+          errors.append(f"{p.name}: {ex}"); continue
+      for k in REQUIRED:
+          if not meta.get(k):
+              errors.append(f"{p.name}: 缺少字段 {k}")
+      if not body:
+          errors.append(f"{p.name}: 正文为空")
+      entry = {
+          "id": p.stem,
+          "title": meta.get("title"),
+          "category": meta.get("category", "general"),
+          "tags": meta.get("tags", []),
+          "triggers": meta.get("triggers", []),
+          "summary": meta.get("summary"),
+          "updated": meta.get("updated") or datetime.date.today().isoformat(),
+          "body": body,
+      }
+      full.append(entry)
+      items.append({k: entry[k] for k in ("id", "title", "category", "tags", "triggers", "summary", "updated")})
+      (ENTRIES / f"{p.stem}.json").write_text(json.dumps(entry, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
-if errors:
-    print("校验失败："); [print("  -", x) for x in errors]; sys.exit(1)
+  if errors:
+      print("校验失败："); [print("  -", x) for x in errors]; sys.exit(1)
 
-today = datetime.date.today().isoformat()
-INDEX.write_text(json.dumps({"generated": today, "count": len(items), "read_first": ["00-how-to-use", "01-principles"], "entries": items}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-ALL.write_text(json.dumps({"generated": today, "count": len(full), "read_first": ["00-how-to-use", "01-principles"], "entries": full}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-print(f"已生成 {len(items)} 条；all.json {ALL.stat().st_size // 1024} KB")
+  today = datetime.date.today().isoformat()
+  INDEX.write_text(json.dumps({"generated": today, "count": len(items), "read_first": ["00-how-to-use", "01-principles"], "entries": items}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+  ALL.write_text(json.dumps({"generated": today, "count": len(full), "read_first": ["00-how-to-use", "01-principles"], "entries": full}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+  print(f"已生成 {len(items)} 条；all.json {ALL.stat().st_size // 1024} KB")
+
+if __name__ == "__main__":
+  main()
