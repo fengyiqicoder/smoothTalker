@@ -24,11 +24,11 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - [x] ask-for-a-raise-or-promotion (separate from negotiating an offer: timing, evidence, the meeting request, the follow-up email)
 - [ ] give-notice-to-a-landlord-or-tenant (move-out notice, ending a lease early, deposit expectations)
 - [x] respond-to-a-difficult-diagnosis-or-health-news (shipped as respond-to-difficult-health-news) (from friend or family; what to say, what not to ask)
-- [ ] (claimed 2026-09-27 loop) team-announcements-as-a-manager (reorg, someone leaving, a missed target, a new policy)
-- [ ] (claimed 2026-09-27 loop) customer-onboarding-and-welcome (first message after purchase, setting expectations, asking for the info you need)
+- [x] team-announcements-as-a-manager (reorg, someone leaving, a missed target, a new policy)
+- [x] customer-onboarding-and-welcome (first message after purchase, setting expectations, asking for the info you need)
 - [ ] collect-a-debt-from-a-business-or-client-at-scale (dunning sequence: day 1, 7, 14, 30, final notice; when to stop)
 - [x] thank-you-notes (gifts, hospitality, mentorship, after a favour; handwritten vs text)
-- [ ] (claimed 2026-09-27 loop) telling-someone-something-awkward-about-themselves (body odour, food in teeth, a mistake in their public post)
+- [x] telling-someone-something-awkward-about-themselves (shipped as tell-someone-something-awkward) (body odour, food in teeth, a mistake in their public post)
 - [ ] responding-to-a-compliment-that-is-actually-a-hit-on (work context, keep it light and closed)
 - [ ] mediating-between-two-people (friends fighting, two team members)
 
@@ -56,3 +56,4 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - 2026-09-27: v1.3. Added lint (scripts/lint.py), CI, situation router (06), Agent Skill wrapper (skill/SKILL.md), llms.txt, 16 new playbooks, "If it goes badly" sections on 40 entries, Goal/Structure on the 7 that lacked them, this backlog.
 - 2026-09-27: loop run. Added roommate-and-shared-living, ask-for-a-raise-or-promotion, thank-you-notes (78 entries, all.json 347 KB); router and README updated; moved the "ask for a raise" trigger from negotiate-price-or-salary to the new entry.
 - 2026-09-27: loop run. Added neighbour-disputes, wedding-and-event-host-messages, respond-to-difficult-health-news (81 entries, all.json 348 KB); scoped ask-to-change-behavior and condolences-and-support against them; 6 new routing scenarios. Model routing check (176 requests): top-1 98.3% after scenario #134 (upstairs noise) accepts neighbour-disputes, top-2 100%; dropped "colleague" from ask-to-change-behavior's title after it pulled a peer-feedback request (#98). Two remaining misses (#76 family pressure, #139 ghosting client) are older overlaps, second choice correct.
+- 2026-09-27: loop run. Added team-announcements-as-a-manager, customer-onboarding-and-welcome, tell-someone-something-awkward (84 entries, all.json 364 KB); deliver-bad-news summary points team news to the new entry; 6 new routing scenarios. Model routing check (182 requests): top-1 100%, top-2 100%. Nine entries added since the last end-to-end simulation, so that re-run is due next.
