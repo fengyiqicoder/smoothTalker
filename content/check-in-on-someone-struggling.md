@@ -79,3 +79,4 @@ Then do exactly that. Do not defend your intent. Reappear in a couple of weeks w
 
 If you are genuinely worried about their safety, say it plainly and stay on the line:
 > I'm worried about you and I'd rather ask than wonder. Are you safe right now? I can come over, or sit on the phone with you while you call [crisis line for their country].
+Asking directly does not put the idea in their head, and it tells them they can talk about it. If they say they might act on it, or you cannot reach them and fear for their life, call your local emergency number. That one is not yours to carry alone.
