@@ -4,7 +4,7 @@ category: personal
 tags: [exit, end conversation, wrap up, leave, goodbye, too long]
 triggers: [how to end the conversation, get out of this chat, wrap it up, stop texting, leave the conversation, they keep talking]
 summary: How to close a text thread, a call, or an in-person chat without being abrupt or leaving it dangling.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Ending a conversation
 
@@ -54,3 +54,10 @@ Or: "I'm going to grab a drink, can I get you one?" (then do not come back).
 - Leaving on read after they asked something.
 - "I'll let you go" (it is you who wants to go; own it).
 - Multiple rounds of goodbye.
+
+## If they keep going, or take it badly
+If they reply to your close with a new question, answer in one line and close again, without a question of your own. If they sound hurt ("wow, okay"), do not retract the exit; give warmth without reopening. On a call, restate that you are going and then go; the second goodbye is the one that counts.
+> Ha, quick one: yes, Tuesday works. Right, I'm properly off now, night!
+> Not a brush-off, I promise. I'm just done for the day. Talk properly this weekend?
+> I've really got to go. Good to talk, bye for now.
+If someone repeatedly ignores your exits, the conversation is no longer the issue; see `set-boundary`.

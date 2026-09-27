@@ -4,7 +4,7 @@ category: work
 tags: [intro, referral, introduction, network, warm intro, recommendation]
 triggers: [ask for an intro, can you introduce me, referral for a job, ask them to recommend me, connect me with, forwardable email]
 summary: How to ask someone to use their relationship for you: make it zero-effort with a forwardable blurb, give them an out, and report back.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Requesting an introduction or referral
 
@@ -54,3 +54,9 @@ Your contact can forward one message and be done. The ask costs them almost noth
 - Following up on the intro with your contact more than once.
 - Asking for an intro and then not using it.
 - Forgetting to close the loop.
+
+## If they say no or don't reply
+A no on an intro is about their relationship with the other person, not about you. Thank them and keep the door open. If they do not reply at all, one nudge after a week, then find another route; two chasers makes them avoid you.
+> No problem at all, thanks for letting me know. If it ever feels like a better fit down the line, I'd still be glad of it.
+> Hi Jo, resurfacing this in case it got buried. Totally fine to say no, I just want to know whether to try another path.
+If they make the intro and it goes nowhere, still report back. Silence after their effort is what stops the next intro.

@@ -4,7 +4,7 @@ category: personal
 tags: [landlord, tenant, rent, repairs, deposit, contractor, plumber, quote, service provider]
 triggers: [landlord wants to raise rent, ask landlord to fix, get my deposit back, rent increase, contractor didn't finish, quote is too high, plumber overcharged, tell my tenant, dispute with landlord, repair request]
 summary: Firm, documented, polite messages for housing and home-service situations: pushing back on a rent increase, requesting repairs, recovering a deposit, disputing a contractor's work or price.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Landlords, tenants, contractors and service providers
 
@@ -78,3 +78,8 @@ Get the outcome while keeping the relationship workable, because you will need t
 - Long emotional histories.
 - Withholding rent without written agreement or legal advice.
 - Only calling. If it isn't written, it didn't happen.
+
+## If they refuse, ignore you or get hostile
+Move one step up the ladder you set out (request, dated reminder, formal notice), never two. Reply in writing even if they call, and keep everything. If they are rude, answer only the factual part. If they refuse a fair counter or a legal repair outright, say what you will do next, calmly, and then do it (deposit scheme, tenancy board, small claims). Never threaten a step you would not take.
+> I'll treat the 14 days as passed on Friday. If the deposit hasn't been returned by then, I'll open a claim with the deposit scheme, which I'd rather avoid. Happy to talk before then.
+> I'll leave the tone to one side. The leak was reported on 12 May and is still unrepaired. Please confirm a date this week.

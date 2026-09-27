@@ -4,7 +4,7 @@ category: personal
 tags: [argument, fight, partner, de-escalate, conflict, repair]
 triggers: [we had a fight, they're mad at me, argument with my girlfriend, boyfriend is upset, cool things down, calm them down, make peace]
 summary: How to lower the temperature of a live argument by text or in person, without capitulating or winning, so the real conversation can happen later.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # De-escalating an argument
 
@@ -54,3 +54,9 @@ Get both of you out of fight mode. Not to resolve the issue, not to win, not to 
 
 ## After the pause
 Come back on time. Open with: "Okay, I've been thinking. Here's what I heard you say, tell me if I've got it wrong." Then listen before you respond. See `set-boundary` if the same fight keeps recurring.
+
+## If they refuse the pause or keep going
+If they keep sending angry messages after you have proposed a pause, do not answer each one. One line, then silence until the return time. If they say "no, we're doing this now", you can still hold the pause without walking out on them: name the time and stay reachable. If they come back on time and open with a jab, let the first one go and return to your reflection line.
+> I'm not ignoring you. I said 8pm and I mean it. I'll come find you then.
+> I know you're still angry. I'm not going anywhere, I just can't do this well right now.
+If every argument ends with them refusing pauses and escalating, that is the pattern to talk about when calm, not a de-escalation problem. See `set-boundary`.

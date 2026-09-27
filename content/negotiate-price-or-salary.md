@@ -4,7 +4,7 @@ category: work
 tags: [negotiate, salary, rate, price, offer, counter, raise]
 triggers: [negotiate salary, counter the offer, ask for more money, they lowballed me, negotiate the price, my rate is, haggle, ask for a raise]
 summary: How to ask for more without sounding entitled or apologetic: anchor with a number and a reason, stay warm, and leave room for them to say yes.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Negotiating price, rate or salary
 
@@ -57,3 +57,9 @@ You get closer to your number and the other side still wants to work with you. T
 - Ultimatums you will not follow through on.
 - Accepting on the call. "Let me review the full package and come back to you tomorrow" is always fine.
 - Negotiating twice on the same point after they have moved once.
+
+## If they say no or go quiet
+A flat no on money is rarely the end. Move to the other levers you named, and get a date. If they go silent after your counter, wait two working days, then send one short nudge that keeps the offer warm.
+> Thanks for looking into it. If the base can't move, could we agree a review at six months with the target in writing, plus the earlier start date? That gets me to a yes.
+> Just checking in on the compensation question so I can give you a firm answer by Friday. Happy to talk it through on a call if that's easier.
+If they withdraw the offer over a polite counter, that tells you something useful.

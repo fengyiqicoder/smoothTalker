@@ -4,7 +4,7 @@ category: personal
 tags: [news, announce, engagement, pregnancy, job loss, breakup, moving, diagnosis, announcement]
 triggers: [tell people I'm engaged, announce pregnancy, tell my family I got laid off, tell friends we broke up, announce I'm moving, share news, tell people about my diagnosis, group announcement]
 summary: How to share big news with the right people in the right order and tone: individually to those closest, then a short group message, with cues for how you'd like people to respond.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Sharing personal news
 
@@ -59,3 +59,9 @@ Hard news: acknowledge, don't fix. "I'm so sorry. Thank you for telling me. I'm 
 - Explaining the whole story in the announcement.
 - "I know this is a lot" (they can decide).
 - Apologising for having news.
+
+## If the response hurts
+Some replies will miss: a joke about the breakup, unsolicited advice on the diagnosis, a "finally!" on the engagement, or nothing at all from someone you expected to hear from. If it is worth addressing, usually one line does it, and silence often means they did not know what to say.
+> That landed a bit hard. I know you didn't mean it that way; I'm just still raw on this one.
+> I'm not looking for advice on the treatment right now, just company. Coffee this week?
+For the friend who went quiet, reach out once, lightly: "No need to have said anything, just wanted you to know I'd love to see you." Then let them come to you.

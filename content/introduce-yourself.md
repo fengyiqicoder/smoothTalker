@@ -4,7 +4,7 @@ category: work
 tags: [introduce yourself, new job, first day, new team, community, hello, bio]
 triggers: [introduce myself to the team, first day message, hello to the group, new to the community, introduce myself in slack, say hi to new colleagues, write a short bio]
 summary: Self-introductions that make people want to talk to you: short, one concrete thing about your work, one human thing, and an invitation.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Introducing yourself
 
@@ -54,3 +54,8 @@ People remember one thing about you and feel invited to reach out. Not a CV. Not
 - No invitation at the end (dead end).
 - Long paragraphs.
 - Jokes that need context.
+
+## If the intro gets no response
+A quiet channel is normal, especially in a big Slack workspace or a busy Discord. Do not re-post or ask whether anyone saw it. Within a day or two, reply to someone else's message or ask one specific question in a relevant channel; the intro did its job as background. If someone answers with a joke at your expense or a pointed question, take it lightly and answer the real question if there is one.
+> Quick one for the platform folks: which of the current on-call runbooks is the least trustworthy? Asking so I know where to start reading.
+> Ha, fair. The bike has been "nearly done" for two years. Anyway, what's the current pain point on checkout?

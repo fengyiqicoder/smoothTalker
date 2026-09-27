@@ -4,7 +4,7 @@ category: commerce
 tags: [review, negative review, google review, yelp, public response, reputation]
 triggers: [respond to a bad review, one star review, negative review reply, someone left a bad review, public complaint, respond on google]
 summary: Public review replies are written for the next customer reading, not the reviewer: short, specific, non-defensive, with an offer to fix it offline.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Responding to a negative review
 
@@ -56,3 +56,8 @@ The next hundred people who read the review see a business that listens and fixe
 - Pointing out that they have other bad reviews.
 - Legal threats.
 - Not replying.
+
+## If they reply and escalate
+Reviewers sometimes edit the review or add a second, angrier one after your response. Reply once more, shorter, and then stop; a public back-and-forth loses you readers regardless of who is right. Move everything else to private.
+> I'm sorry it's still not resolved. I've sent you a direct message with my number so we can sort it today. Tom.
+If the review is defamatory or clearly fake, do not say so in the reply. Flag it to the platform with evidence and leave your calm first response standing. Never respond from a personal account or ask friends to pile on.

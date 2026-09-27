@@ -15,7 +15,7 @@ Fetch once per session and keep in context, or cache to disk for a day:
 https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/all.json
 ```
 
-About 250 KB of JSON: `entries[]` with `id`, `title`, `category`, `tags`, `triggers`, `summary`, `body` (Markdown). If the fetch fails, use `https://smoothtalker.000ooo.ooo/data/all.json`. If you cannot fetch at all, fall back to `reference/principles.md` in this folder, say so, and draft from the principles.
+About 336 KB of JSON: `entries[]` with `id`, `title`, `category`, `tags`, `triggers`, `summary`, `body` (Markdown). If the fetch fails, use `https://smoothtalker.000ooo.ooo/data/all.json`. If you cannot fetch at all, fall back to `reference/principles.md` in this folder, say so, and draft from the principles.
 
 ## Procedure
 

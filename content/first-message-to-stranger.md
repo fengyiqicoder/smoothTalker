@@ -4,7 +4,7 @@ category: personal
 tags: [cold message, first message, dating app, networking, dm, stranger, opener]
 triggers: [first message on hinge, message a stranger, opener, slide into dms, reach out to someone I don't know, message someone I admire]
 summary: Openers that get replies: specific, short, easy to answer, and not about you. Dating, professional and community versions.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # First message to a stranger
 
@@ -58,3 +58,9 @@ They reply. That requires: it is clearly about them, it is easy to answer, and i
 
 ## Follow-up if no reply (professional only)
 > Bumping this once in case it got lost; no worries if you're not able to.
+
+## If they don't reply, or reply badly
+No reply after one follow-up (professional) or none at all (dating) means no. Do not send a "guess not" or an "okay then"; that turns a non-event into a bad memory of you. A one-word reply on a dating app is a soft no; let it go. A curt professional reply that answers your question is a win, so thank them in one line and do not ask for more.
+> Thanks, that's exactly what I needed. Really appreciate you taking the time.
+> No worries, thanks anyway. Good luck with [their thing].
+If they tell you the message wasn't welcome, one line of apology and gone. Never argue your intent.

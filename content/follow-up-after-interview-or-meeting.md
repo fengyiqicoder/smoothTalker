@@ -4,9 +4,18 @@ category: work
 tags: [interview, meeting, follow-up, thank you, recap, next steps]
 triggers: [thank you after interview, follow up after the meeting, recap email, haven't heard back after interview, post-meeting email]
 summary: Short follow-ups that add something: a specific thank-you after interviews, a recap with owners after meetings, and a polite check-in when the timeline slips.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Following up after an interview or meeting
+
+## Goal
+The other person has one specific reason to remember you, and everyone leaves with the same picture of what happens next. Every follow-up adds one thing; none of them just checks in.
+
+## Structure
+1. **Specific thanks or a one-line opener**, tied to something they actually said.
+2. **Add one thing**: a clarification, a decision, a resource, or the recap with owners and dates.
+3. **Say what happens next**, with a date where there is one.
+4. **One-line close** that reaffirms interest or invites corrections.
 
 ## After an interview
 
@@ -58,3 +67,8 @@ Structure: thanks (specific) → one thing from the conversation that stuck with
 - Restating your whole CV.
 - Multiple check-ins in a week.
 - Recaps with no owners or dates.
+
+## If they go silent or say no
+One check-in on a slipped timeline, then wait two weeks and send a short closing note. If the answer is a rejection, reply once, ask for feedback, and stop; the graceful reply is what gets you remembered for the next opening. If a recap gets pushback ("that's not what we agreed"), do not argue in the thread. Correct the recap, thank them, and move on.
+> Hi Elena, I'll take the quiet as the timing not working out on your side. Thanks again for the process, and I'd be glad to hear from you if a similar role opens up.
+> Thanks for the correction, I've updated the notes: the UK pilot starts in Q1, not Q4. Shout if anything else is off.

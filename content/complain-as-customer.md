@@ -4,7 +4,7 @@ category: personal
 tags: [complaint, refund, customer, airline, restaurant, delivery, faulty, compensation]
 triggers: [ask for a refund, complain to the company, my order was wrong, flight was cancelled, they overcharged me, faulty product, get compensation, write a complaint email, bad service]
 summary: How to complain so you actually get the refund or fix: specific facts, a clear ask, a deadline, and a tone that makes the agent want to help you.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Complaining as the customer
 
@@ -62,3 +62,9 @@ The person reading it can solve it with the information in front of them, and wa
 - A full timeline of your emotional journey.
 - Asking for compensation wildly out of proportion.
 - Not including the order number.
+
+## If they refuse or go quiet
+One escalation, then a different channel. If the first reply is a scripted no, send the escalation message above once. If that fails, or they stop replying for a week, stop writing to the same inbox: a chargeback, the regulator or ombudsman, a formal complaints address, or a public post, in that order of restraint. Tell them the step before you take it, once.
+> I've asked twice and not had a resolution. If I don't hear back by Friday I'll raise a chargeback with my card provider for the $89 duplicate charge.
+> Thanks for confirming your position. I'll take this to [ombudsman / dispute scheme] and reference this thread.
+Keep every message factual and dated. The record you are building is what wins a dispute, not the tone.

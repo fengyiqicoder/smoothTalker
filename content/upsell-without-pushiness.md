@@ -4,7 +4,7 @@ category: commerce
 tags: [upsell, cross-sell, add-on, repeat customer, recommendation, sales]
 triggers: [upsell, suggest an add-on, recommend the bigger package, get them to buy again, cross-sell, mention the premium option]
 summary: How to recommend more in a way that reads as helpful advice, not a sales script: relevance, one option, honest framing, easy no.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Suggesting more without being pushy
 
@@ -57,3 +57,9 @@ Only suggest something that is genuinely better for them given what they've alre
 - Recommending the expensive one to everyone.
 - Multiple add-ons at once.
 - Following up on a declined suggestion.
+
+## If they say no
+A no to a suggestion is a complete answer. Confirm the original order, do not repeat the pitch, and do not add a "just in case" line. The next time they buy is where the trust you kept pays off. If they react badly to being sold to, own it in one line.
+> No problem, the standard tote it is. I'll have it out to you Tuesday.
+> Fair enough, that came across as a sell rather than a suggestion, and that wasn't the idea. Standard clean, Thursday 10am, confirmed.
+If they say no and then ask about the add-on a week later, answer as if it is the first time. No "I did mention that".

@@ -4,7 +4,7 @@ category: work
 tags: [ghosted, client silent, prospect, no response, deal stalled, re-engage]
 triggers: [client stopped responding, prospect went quiet, deal went cold, haven't heard from the client, re-engage a lead, they ghosted me after the proposal]
 summary: How to re-engage a silent client or prospect without desperation, and how to close the loop cleanly when it's over.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Client or prospect went silent
 
@@ -47,3 +47,8 @@ Either they re-engage because you made it easy, or you close the file cleanly an
 - Following up daily.
 - A long re-pitch.
 - Leaving it open forever. Close it, it's healthier and often gets a reply.
+
+## If they reply with a no, or come back after the close
+A no is the second-best outcome: thank them, ask one question about why if the relationship is warm enough, and leave the door open. Do not counter with a discount you never offered before; it teaches them that silence gets a better price. If they resurface months after the close, skip the reproach entirely and re-scope from today's facts (your availability, current rates), not last year's proposal.
+> Thanks for letting me know, I appreciate the clear answer. If it's useful, one line on what tipped it would help me. Either way, good luck with the project.
+> Good to hear from you. Happy to pick this up. My availability and rates have moved since March, so let me send a fresh version this week.

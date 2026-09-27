@@ -4,7 +4,7 @@ category: commerce
 tags: [dm, instagram, whatsapp, customer inquiry, small business, sales, creator]
 triggers: [customer dm, reply to inquiry, someone asked about price in dm, instagram message from customer, how much is this, is this available, respond to a lead in messages]
 summary: Fast, warm, conversion-friendly replies to price, availability and how-it-works questions in DMs, written for small businesses and creators.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Replying to a customer inquiry in DMs
 
@@ -58,3 +58,8 @@ Answer the question in the first line, then move them one step closer to buying 
 - Emoji overload.
 - Hard-sell pressure ("only 2 left, buy now!!").
 - Leaving inquiries unanswered for a day.
+
+## If they go quiet or get rude
+Silence after a price is normal; it is not a no. One follow-up (see above), then leave it. If they come back in a week, greet them as if no time has passed. If someone gets rude about the price or the wait, keep it short and polite, and do not defend the number.
+> That's the price for these; no hard feelings if it's not for you. Thanks for asking.
+If they argue further or start insulting you, stop replying. You do not owe a debate in your inbox, and a calm last message is what any onlooker will see.

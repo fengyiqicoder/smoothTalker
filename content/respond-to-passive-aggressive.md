@@ -4,7 +4,7 @@ category: personal
 tags: [passive-aggressive, snarky, sarcastic, dig, tone, cold]
 triggers: [they sent a passive aggressive text, snarky message, sarcastic reply, what did they mean by that, cold message, "fine", respond to a dig]
 summary: How to respond to snark or a cold message without taking the bait: reply to the content, name it only if needed, and stay warm.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Responding to passive-aggression
 
@@ -60,3 +60,9 @@ Warm and factual:
 - A paragraph explaining yourself.
 - "What's that supposed to mean?" (invites a fight; use "are you annoyed?" instead).
 - Screenshotting it to others before talking to them.
+
+## If they deny it or get sharper
+"I'm not annoyed", in a tone that clearly is. Do not push for a confession; you named it, they declined, and that is their call. Take them at their word once and carry on warmly. If the digs continue, the second time you name the pattern rather than the message, and you make it a choice for them.
+> Okay, glad to hear it. So, Thursday still good?
+> This is the second time I've asked and got a sharp reply. I'm not going to keep guessing. When you want to talk about it properly I'm here, and until then I'm going to take messages at face value.
+Then do exactly that.

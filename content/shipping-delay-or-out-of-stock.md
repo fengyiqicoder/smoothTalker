@@ -1,0 +1,72 @@
+---
+title: Telling a customer their order is delayed, lost, damaged or out of stock
+category: commerce
+tags: [shipping, delay, backorder, out of stock, lost parcel, order update, small business]
+triggers: [order is delayed tell the customer, item is out of stock email, backorder message, parcel is lost what do I say, package arrived damaged reply, tell customers about a shipping delay, sold out after they ordered, mass update to customers about delay, B2B delivery slipped]
+summary: Order-problem messages that keep the sale and the trust: the news first, a firm new date, three options with a default, and one named person who owns it until it arrives.
+updated: 2026-09-27
+---
+# Telling a customer their order is delayed, lost, damaged or out of stock
+
+## Goal
+The customer hears about the problem from you before they have to ask, knows what happens next and by when, and can choose between waiting, swapping or a refund in one reply. Most people accept a delay. They do not accept silence, a vague "soon", or having to chase.
+
+## Structure
+1. **Order number and the problem in the first line.** "Your order #4521 is delayed" beats "an update on your order".
+2. **The new date, or when you will know it.** "I'll have a date by Thursday" is a date.
+3. **One line of reason.** Supplier, courier, your mistake. No paragraph.
+4. **Three options with a default.** Wait (with tracking when it ships), swap for something in stock, or full refund. Say which happens if they do not reply.
+5. **A small make-good** if it is your fault and long enough to matter.
+6. **Your name and when they will next hear from you.**
+
+## Principles
+- Proactive beats reactive. A delay message sent the day you learn of it costs almost nothing. The same news after a "where is my order?" email costs the relationship.
+- One firm date beats a soft range. If you must give a range, give the later end and beat it.
+- Make refund the easiest option to pick. Customers who see an easy exit usually choose to wait.
+- "Lost" means the courier trace has expired, not that tracking has not moved for two days.
+- For damaged goods, ask for a photo and send the replacement. Do not make them return the broken item first.
+- Mass updates need a reply address a human reads.
+- B2B customers care less about apology and more about their own downstream plan. Give them what they need to tell their people.
+
+## Examples
+
+**Backorder, proactive email:**
+> Hi Priya,
+> Your order #4521 (the walnut desk tray) is out of stock, which we should have caught before the site took your order. The next batch lands on 14 October and yours ships the same day. Three options: wait and I'll add free express shipping; swap for the oak version, in stock and shipping tomorrow; or a full refund today. If I don't hear back by Friday I'll hold it for the 14th. Sorry for the mess.
+> Tom
+
+**Shipping delay, proactive DM (Etsy or Instagram):**
+> Hey! Quick heads up: the courier is running about four days behind in your area, so your order now looks like Tuesday rather than Friday. Tracking's in your messages. If Tuesday doesn't work, tell me and I'll refund it in full. Sorry for the wait, and thanks for ordering from a tiny shop.
+
+**Reactive, after "where is my order?":**
+> Hi Marcus, you're right to ask and I'm sorry you had to. Order #7710 left us on the 3rd and tracking stopped on the 6th, which usually means a sorting hub. I've opened a trace this morning. If it hasn't moved by Thursday I'll send a replacement by express at no cost, and if the first one turns up you keep both. I'll email you Thursday either way.
+> Elena
+
+**Item arrived damaged:**
+> Oh no, I'm sorry, that's not how it should have arrived. Could you send one photo of the damage and one of the box? Then I'll send a replacement straight away, no need to post the broken one back. If you'd prefer a refund instead, just say so.
+
+**Mass update, many customers:**
+> Subject: Your order will ship around 20 November
+> Hi [first name],
+> Orders placed since 1 November, including yours (#[number]), will ship around 20 November instead of this week. Our fabric supplier missed a delivery and the replacement arrives on the 18th. If you'd like to wait, we'll add a free tote and email tracking the day it ships. If you'd rather not, reply "refund" and I'll process it within one business day. This inbox goes to me, not a bot.
+> Hannah, owner
+
+**B2B, delivery slipped:**
+> Hi Dev,
+> PO 2291 (the 400 units for the March launch) is now due at your warehouse on 11 March instead of 4 March, a component shortage on our side. To limit the impact, I can split it: 150 units on the 4th as planned, the remaining 250 on the 11th, at no extra freight. If the full quantity on the 4th is essential, tell me by Wednesday and I'll see what I can pull from another line. Confirmed schedule tomorrow morning either way.
+> Sara
+
+**Follow-up when it ships:**
+> It's on its way! Order #4521 shipped today, tracking [link], free express applied. Thanks for waiting.
+
+## Avoid
+- "Due to unforeseen circumstances."
+- "Higher than usual demand."
+- "Soon", "in the coming weeks", "as soon as possible".
+- Making the refund hard to ask for.
+- Blaming the courier or "the system" as the whole message.
+- Sending from no-reply.
+- Waiting for the customer to notice.
+
+## If it goes badly
+If they reply angrily, do not re-explain the cause. Confirm the action and date in two lines and offer the refund again: "Understood, and I'm sorry. Your replacement ships today by express and you'll have tracking by 5pm. If you'd rather I refund it, say the word and it's done." If they go silent after a mass update, do the default you promised. If a date slips a second time, refund the shipping unasked, say so, and give a date you are certain of, even if it is later than you would like.

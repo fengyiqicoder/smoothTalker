@@ -4,7 +4,7 @@ category: work
 tags: [boss, manager, pushback, workload, unrealistic, disagree with manager]
 triggers: [my boss asked me to, tell my manager no, unrealistic deadline, too much work, push back on my boss, disagree with my boss, overloaded]
 summary: How to say no or "not like this" to a manager while sounding like someone who is protecting the outcome, not avoiding the work.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Pushing back on your boss
 
@@ -52,3 +52,8 @@ Your manager sees you as someone who raises problems early with options attached
 - Complaining about workload without a proposed fix.
 - Pushing back in front of their boss or the team.
 - Making the decision for them silently.
+
+## If they insist anyway
+Sometimes the answer is "all of it, by Thursday". Do not argue a second time. Say what will slip, confirm it in writing, and deliver what you said you could. The written record is what protects you when the deadline hits.
+> Understood, I'll make Thursday the priority. To be clear, that means the Marsh report moves to next week and this version will be rough rather than polished. I'll send it by 4pm.
+If the pattern repeats every week, raise it separately in a one-to-one as a capacity problem, not a single-task problem: "Can we look at my load overall? I'm at about 130% and I'd rather we fix that than keep triaging."

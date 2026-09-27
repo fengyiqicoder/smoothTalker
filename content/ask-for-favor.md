@@ -4,7 +4,7 @@ category: personal
 tags: [ask, favour, request, help, imposition]
 triggers: [ask a favor, need help with, can I ask you, how to ask someone to, need a ride, ask for a hand]
 summary: How to ask for help without sounding needy or entitled: make the ask specific, name the cost, and give a real out.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Asking for a favour
 
@@ -48,3 +48,9 @@ They should be able to say yes in one word, or no without guilt, and either way 
 
 ## Follow-up if no reply
 After 3 to 5 days: "No worries if the airport thing doesn't work, just let me know by Tuesday so I can sort a cab."
+
+## If they say no or go quiet
+A no is the outcome you built the out for, so treat it that way. Thank them in one line, do not ask why, and do not ask a second time in a different shape. Silence after your one follow-up means no; sort your backup plan and drop it. Next time you see them, do not mention it.
+> No worries at all, thanks for letting me know. I'll sort a cab.
+> All good, I'll ask around. See you Saturday.
+If they say yes and then pull out late, absorb it without a guilt trip. "Ah okay, no problem, I'll figure it out" keeps the door open for the next favour, in either direction.

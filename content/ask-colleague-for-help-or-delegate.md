@@ -4,9 +4,12 @@ category: work
 tags: [ask for help, delegate, colleague, teammate, don't know, handoff, workload]
 triggers: [ask a coworker for help, delegate a task, hand this off, admit I don't know, ask my team to do, need help at work, ask for support from a colleague]
 summary: Clear, respectful asks between colleagues: getting help without looking helpless, delegating without sounding like a boss, and admitting you don't know without losing standing.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Asking a colleague for help, delegating, saying "I don't know"
+
+## Goal
+You get the help, the handoff, or the honest answer you need, and you come out of it looking more capable, not less. The colleague finds it easy to say yes and easy to say "not right now".
 
 ## Asking a peer for help
 
@@ -62,3 +65,9 @@ updated: 2026-09-24
 - Delegating in a group message so nobody owns it.
 - "I think it's probably..." when you don't know.
 - Apologising for not knowing.
+
+## If they say no or don't reply
+A no from a colleague is information, not rejection. If they are too busy, ask who else knows the area, or ask for five minutes instead of fifteen. If a delegated task gets pushed back, negotiate scope or date rather than dropping it on them anyway. If nobody replies, ask one named person directly instead of re-posting to the group.
+> No problem, I know you're under it. Is there anyone else who knows the export code, or a doc you could point me at?
+> Understood, the 15th isn't workable with what's on your plate. What could you do by the 15th if we trimmed it to the two main endpoints?
+If the answer is still no, take it back and tell your manager the constraint early. That is a planning conversation, not a failure.

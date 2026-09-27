@@ -4,7 +4,7 @@ category: personal
 tags: [money, owed, split bill, debt, venmo, pay back, awkward]
 triggers: [they owe me money, ask a friend to pay me back, split the bill, who pays, awkward money, remind them to pay, chip in]
 summary: How to raise money with friends in a way that treats it as logistics, not character: clear numbers, easy method, no moralising.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Money between friends
 
@@ -56,3 +56,8 @@ The money gets sorted and nobody feels judged. Treat it as admin. The moment it 
 - Vague hints ("remember that thing I paid for?").
 - Letting it sit for months and then dumping it all at once.
 - Sending a payment request app notification with a passive-aggressive memo.
+
+## If they get defensive or keep not paying
+If they snap ("it's only £42"), do not explain your finances; agree it is small and repeat the request once. If a third reminder gets nothing, decide: write it off for real, or say plainly that you will not front money again. The pattern is the fix, not a sharper reminder. Never raise it in front of others or through a pointed payment memo, however tempting.
+> Yeah, it's not a lot, which is why I'd like to get it done. Link's above whenever you're ready.
+> I'll stop chasing the £42. Going forward I'll book and pay separately, no hard feelings, it's just easier for me.

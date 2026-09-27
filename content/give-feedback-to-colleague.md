@@ -4,7 +4,7 @@ category: work
 tags: [feedback, colleague, report, performance, one-on-one, manager]
 triggers: [give feedback to my report, colleague keeps, tell a coworker, performance conversation, address a problem with a teammate, hard feedback at work]
 summary: How to deliver critical feedback at work that changes behaviour without damaging trust: specific, private, timely, with a clear ask and a follow-up.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Giving critical feedback at work
 
@@ -54,3 +54,8 @@ The behaviour changes and the person still feels respected and backed. Feedback 
 - Piling several issues into one meeting.
 - Ending without a clear ask.
 - Not following up. Silence after feedback reads as "it didn't matter."
+
+## If they push back or the behaviour doesn't change
+Pushback with new context is useful: listen, then restate the ask if it still stands. Pushback that is only heat ("that's unfair", "everyone does that") gets a calm, short repeat and a close, not a debate. If nothing has changed by the check-in date, say so plainly, make the consequence clear, and put it in writing. Escalate through the right channel (your manager, HR) rather than having the same conversation a fourth time.
+> I hear that you see it differently. The ask stands: dates hold, or a heads-up by the Wednesday before. Let's see how the next two weeks go and talk on the 20th.
+> We agreed on the 6th that deadlines would hold, and the last two have slipped again. I need this to change now, and I'll be tracking it in our one-to-ones. What's getting in the way?

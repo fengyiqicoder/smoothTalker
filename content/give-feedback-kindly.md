@@ -4,7 +4,7 @@ category: personal
 tags: [feedback, honest, critique, friend's work, opinion, review]
 triggers: [they asked what I think, give feedback on their writing, honest opinion, critique a friend's work, don't want to hurt their feelings, review their idea]
 summary: How to tell someone the truth about their work or idea in a way they can actually use, when they asked and when they did not.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Giving honest feedback kindly
 
@@ -49,3 +49,8 @@ They come away with something they can act on and they still trust you. Kindness
 - Feedback on the person ("you're not a natural writer").
 - "I would have done it differently."
 - Delivering big feedback over text if they are anxious about it. Call.
+
+## If they get hurt or defensive
+Do not retract the point and do not add more to it. Reaffirm the goal, name that it is one reader's experience, and offer to leave it there. If they go quiet for a few days, send one warm line that is not about the work. If they push you to say it was good, hold: "I think it can be, and it isn't yet" is both honest and kind. If they say they only wanted support, take that at face value and be the cheerleader next time they ask.
+> I can hear that landed harder than I meant. It's one reader's take, and I said it because I think this is worth the work. Happy to drop it or go through it together, your call.
+> No need to reply to any of that. Coffee this week?

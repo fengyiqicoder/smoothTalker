@@ -4,7 +4,7 @@ category: commerce
 tags: [price increase, announcement, delay, closure, policy change, customers, newsletter, small business]
 triggers: [tell customers prices are going up, announce a delay, we're closing, change our policy, notify customers, shipping delay email, raise my rates, tell clients my rate is increasing]
 summary: Customer-facing announcements that keep trust: the news early and plain, the reason in one line, what stays the same, what customers can do, and a real person's name.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Announcing a price increase, delay or change to customers
 
@@ -64,3 +64,8 @@ Customers feel informed and respected, not blindsided or spun. Most people accep
 - Sending it from "no-reply".
 - Blaming customers or "some people".
 - Burying the change in a newsletter.
+
+## If customers push back
+A few will reply annoyed or threaten to leave. Answer each one personally, restate the change once, do not re-argue the reason, and make leaving genuinely easy. Most people who are given a graceful exit stay.
+> Hi Sam, I understand, and I'd rather you told me than quietly went elsewhere. The new price is what it costs us to keep making these properly, so it stands. If it no longer works for you, I'll cancel today with no fuss, and you'd be welcome back any time.
+If someone is rude, stay factual and short. One reply, then let it rest. Do not offer a secret discount to the loudest person; the others will hear about it.

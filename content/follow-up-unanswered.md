@@ -4,7 +4,7 @@ category: personal
 tags: [follow-up, no reply, chase, nudge, reminder]
 triggers: [they haven't replied, follow up, nudge, chase, remind them, left on read, no response]
 summary: How to nudge without sounding needy or annoyed, with a three-step escalation from casual bump to graceful exit.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Following up
 
@@ -57,3 +57,8 @@ Three is the maximum. After that, silence is the answer.
 
 ## Reading the silence
 If it is a friend and this happens repeatedly, the follow-up should eventually be about the pattern, not the message. See `reconnect-after-silence` and `set-boundary`.
+
+## If they reply with a no, or never reply
+A no after a bump is a success: you got an answer. Thank them in one line and do not reopen it. If they reply irritated ("I saw it, I've been busy"), do not defend the nudge; take the answer and give them room. If three bumps get nothing, send nothing more. A fourth costs you standing without changing the result, and if it is a friend, the next message should be about how they are, not about the thing.
+> Totally fine, thanks for letting me know. Door's open if it changes.
+> No problem, I'll leave it with you. Reply whenever it suits.

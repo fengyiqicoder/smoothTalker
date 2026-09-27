@@ -4,9 +4,12 @@ category: personal
 tags: [small talk, conversation starters, networking, party, awkward silence, chit chat]
 triggers: [what to talk about, small talk, conversation starter, awkward silence, networking event, meet new people, break the ice]
 summary: Openers, follow-ups and exits for small talk with strangers and acquaintances, built on curiosity rather than scripts.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Small talk that goes somewhere
+
+## Goal
+Both people leave the conversation a little lighter, with one thread worth picking up next time. The measure is whether they got to talk about something they care about, not how clever you were.
 
 ## The mechanic
 Small talk works when you ask about something they have a view on, then follow the thread they give you. It fails when you ask a question, get an answer, and ask an unrelated question. The second question should come from their first answer.
@@ -60,3 +63,9 @@ Give a little of yourself after they share; a conversation that is all questions
 - Checking your phone.
 - Asking "what do you do" first at a social event; some people hate their job.
 - Topics that require a position: politics, religion, money, unless they go there first.
+
+## If it stalls or they're not interested
+Some people are tired, shy, or waiting for someone else. Two flat answers in a row is your cue: share one thing yourself to lower the pressure, and if it stays flat, exit warmly without making it a verdict on either of you.
+> I'll let you get back to it, nice to meet you.
+> I'm going to do a lap, but come find me if you want a break from the work talk.
+If you said something that landed badly, fix it in one line and move on: "That came out wrong, sorry. What I meant was..." Do not apologise twice; it makes the moment bigger than it was.

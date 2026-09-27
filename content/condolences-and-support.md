@@ -4,7 +4,7 @@ category: personal
 tags: [condolence, grief, loss, illness, support, sympathy]
 triggers: [their parent died, sorry for your loss, someone is sick, going through a hard time, what do I say, breakup support, miscarriage]
 summary: What to say when someone is grieving, sick or struggling: specific, short, present, and offering concrete help without demanding a response.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Condolences and support
 
@@ -56,3 +56,10 @@ They feel less alone and are not handed any work: no need to reply, no need to m
 
 ## Follow-up cadence
 Day 1, then a week, then a month, then the anniversary. Most people disappear after the funeral; being the one who does not is the whole thing.
+
+## If they don't reply, or push you away
+No reply is not a signal; it is grief. Keep the cadence going without ever asking why they went quiet. If they say "I'm fine, I don't need anything", take it at face value and stay lightly present anyway. If they snap at you, do not defend yourself and do not disappear.
+> No reply needed, just thinking of you. Soup's on your porch, it freezes fine.
+> That's okay, I'm not going anywhere. I'll check in next week.
+> Sorry, that landed wrong. I'm here, and you don't have to manage me.
+If they say clearly that they want to be left alone, say "Okay. I'll be here when you want me", then wait a month or for the anniversary and send one line.

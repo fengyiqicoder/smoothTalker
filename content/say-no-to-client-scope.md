@@ -4,7 +4,7 @@ category: work
 tags: [client, scope creep, freelance, no, out of scope, boundaries, agency]
 triggers: [client keeps adding things, out of scope, client asked for free work, tell a client no, turn down a project, scope creep, fire a client]
 summary: How to hold the line with clients while staying the person they want to keep hiring: name the scope, price the extra, or decline the project cleanly.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Saying no to a client
 
@@ -55,3 +55,8 @@ The client hears a professional managing a project, not a contractor being diffi
 - Apologising for having a scope.
 - Explaining your costs.
 - Ghosting a bad client instead of ending it.
+
+## If they push back on the price
+"The last agency threw that in" or "it's only a small change" means they want the work at zero. Stay pleasant, do not lower the quote, and put the choice back to them. If they go quiet, do not start the extra work hoping they will pay.
+> I get that it feels small from the outside; it's about four days of work at our end, so $1,400 is the fair number. The swap with the FAQ page is there if the budget's fixed. Just tell me which way you'd like to go.
+If they get it done elsewhere, fine. If they keep testing the line every week, tighten the next SOW or end the engagement.

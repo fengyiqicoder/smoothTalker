@@ -4,7 +4,7 @@ category: work
 tags: [invoice, late payment, chase, overdue, accounts, freelance]
 triggers: [invoice is overdue, chase payment, they haven't paid, remind client to pay, late invoice, payment reminder]
 summary: A three-stage escalation for overdue invoices that stays polite while getting progressively firmer, with a final notice that does not burn the relationship.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Chasing a late payment
 
@@ -60,3 +60,9 @@ You get paid, the relationship survives, and you sound like a business, not a fr
 - Threats you will not follow through on.
 - Continuing to deliver new work while heavily unpaid.
 - Chasing in the same thread as friendly chat. Separate email, clear subject line: "Overdue: Invoice #1042".
+
+## If they go silent or push back
+Silence at stage 2 means you move to stage 3 on the date you said, not later. If they promise a date and miss it, reply the next morning and name the next consequence. If they get hostile, stay flat and factual: the invoice, the amount, the date. Do not respond to the tone at all.
+> The payment date you gave was Friday and it hasn't arrived. Please confirm by 5pm Wednesday whether it's been sent. Work on the next phase is paused until then.
+> I understand you're frustrated. The amount and due date haven't changed. If there's a genuine cash-flow problem, I can take $1,200 now and $1,200 on the 30th, agreed in writing.
+If the final notice date passes, do what you said. An empty threat teaches every future client that you don't mean it.

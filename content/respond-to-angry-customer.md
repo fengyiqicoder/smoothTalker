@@ -4,7 +4,7 @@ category: work
 tags: [customer, complaint, angry, support, service recovery, escalation]
 triggers: [angry customer, customer complaint, they're furious, respond to a complaint, upset client, calm a customer down, service recovery]
 summary: The service-recovery sequence: acknowledge, own, fix, follow up. With examples for justified and unjustified anger.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Responding to an angry customer
 
@@ -57,3 +57,9 @@ The customer feels heard within the first two lines, sees a concrete fix, and en
 - Promising a call-back time and missing it.
 - Explaining internal processes.
 - Defending the person who made the mistake.
+
+## If they stay angry
+Some people need to say it twice. Do not repeat your apology at length; restate the fix and the time, and ask what would make it right if the fix is not enough. If the demand is unreasonable, hold the line without the tone.
+> I hear you, and I'm still on it: the replacement ships today and I'll confirm tracking by 5pm. If there's something beyond that you need from me, tell me and I'll look at it properly.
+> I can't do a full refund and have you keep the item, but I can do [X] or [Y] today. Which works?
+If they threaten reviews or lawyers, ignore the threat. Fix the thing and stay on the facts.

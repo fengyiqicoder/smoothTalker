@@ -12,6 +12,10 @@ There is no server. It is an OpenAPI document plus JSON files on GitHub Pages.
 - Whole library in one file: https://smoothtalker.000ooo.ooo/data/all.json
 - Index only: https://smoothtalker.000ooo.ooo/data/index.json
 
+## Use it as an Agent Skill
+
+`skill/SKILL.md` is a drop-in Agent Skill for Claude Code, Claude.ai and other hosts that read the Agent Skills format. Copy the `skill/` folder into your skills directory as `smoothtalker/`. Agents that read `llms.txt` can start from https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/llms.txt.
+
 ## Connect it to Muse
 
 Copy the prompt in [`MUSE_PROMPT.md`](MUSE_PROMPT.md) and send it to Muse. Muse builds the bridge in its own VM and saves it as a skill. No API key. It also works as a custom integration for any agent that can read an OpenAPI document or fetch JSON.
@@ -20,12 +24,12 @@ Copy the prompt in [`MUSE_PROMPT.md`](MUSE_PROMPT.md) and send it to Muse. Muse 
 
 | Category | Playbooks |
 |---|---|
-| core | how to use, principles, tone calibration, anti-patterns, phrase bank, cross-cultural notes |
-| personal | landlords/tenants/contractors, complain as a customer, ask someone out and early dating, share personal news, group chat coordination, respond to unsolicited advice, decline invitation, decline request, ask a favour, apologise, follow up, reconnect after silence, deliver bad news, condolences, disagree without conflict, de-escalate an argument, set a boundary, end a conversation, cancel or reschedule, romantic let-down, first message to a stranger, respond to criticism, ask someone to change a behaviour, give feedback kindly, money between friends, compliments and thanks, small talk, respond to passive-aggression |
-| work | ask a colleague for help or delegate, introduce yourself, negotiate salary or price, push back on your boss, say no to a client, chase late payment, angry customer, cold outreach, decline an offer or reject a candidate, feedback to a colleague, admit a mistake, ask for an extension, follow up after interview or meeting, quit or leave gracefully, client went silent, request an intro |
-| commerce | price increase and customer announcements, ask for a review or testimonial, customer inquiry in DMs, refund requests, negative reviews, upsell without pushiness, creator brand deals |
+| core | how to use, principles, tone calibration, anti-patterns, phrase bank, reply to a pasted message, cross-cultural notes, situation router |
+| personal | landlords/tenants/contractors, complain as a customer, ask someone out and early dating, share personal news, group chat coordination, respond to unsolicited advice, decline invitation, decline request, ask a favour, apologise, follow up, reconnect after silence, deliver bad news, condolences, disagree without conflict, de-escalate an argument, set a boundary, end a conversation, cancel or reschedule, romantic let-down, first message to a stranger, respond to criticism, ask someone to change a behaviour, give feedback kindly, money between friends, compliments and thanks, small talk, respond to passive-aggression, check in on someone struggling, an ex or a breakup message, family pressure and nosy questions, no-shows and lateness, suspicious or scam messages, ask for a discount as a customer |
+| work | ask a colleague for help or delegate, introduce yourself, negotiate salary or price, push back on your boss, say no to a client, chase late payment, angry customer, cold outreach, decline an offer or reject a candidate, feedback to a colleague, admit a mistake, ask for an extension, follow up after interview or meeting, quit or leave gracefully, client went silent, request an intro, time off and sick leave, reply to a recruiter, ask for a reference, escalate an issue, respond to a job rejection, decline meetings, out-of-office messages |
+| commerce | price increase and customer announcements, ask for a review or testimonial, customer inquiry in DMs, refund requests, negative reviews, upsell without pushiness, creator brand deals, shipping delays and stockouts, public apology from a business, say no to a customer request |
 
-Every playbook has the same shape: **Goal → Structure → Principles → Examples at several tones → Avoid → What to do if it goes badly.**
+Every playbook has the same shape: **Goal, Structure, Principles, Examples at several tones, Avoid, and what to do if it goes badly.** `scripts/lint.py` enforces this shape.
 
 ## How the agent uses it
 
@@ -41,10 +45,11 @@ Every playbook has the same shape: **Goal → Structure → Principles → Examp
 Source of truth is `content/*.md`: YAML-style front matter (`title`, `category`, `tags`, `triggers`, `summary`, `updated`) plus a Markdown body. Run:
 
 ```
+python3 scripts/lint.py
 python3 scripts/build_index.py
 ```
 
-It validates every entry and regenerates `data/entries/*.json`, `data/index.json` and `data/all.json`. Commit and push; GitHub Pages updates in a minute or two.
+The lint checks shape and style (sections, trigger count, no em-dashes). The build validates every entry and regenerates `data/entries/*.json`, `data/index.json` and `data/all.json`. Commit and push; GitHub Pages updates in a minute or two.
 
 ## Design principles for the content
 

@@ -4,9 +4,18 @@ category: personal
 tags: [compliment, praise, appreciation, thank you, gratitude]
 triggers: [respond to a compliment, how to compliment, say thank you, show appreciation, they praised me, thank someone properly]
 summary: How to give a compliment that lands and receive one without deflecting, plus how to write genuine appreciation.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Compliments and appreciation
+
+## Goal
+The compliment lands as a gift, not a transaction: the other person feels seen for something they actually did, and when you are the one being praised, you accept it without shrinking or deflecting.
+
+## Structure
+1. **Name the specific thing** they did or chose, not a trait.
+2. **Say the effect it had on you**, one line.
+3. **Stop there**: no ask, no qualifier, no comparison.
+4. **When receiving: "thank you" plus one sentence that accepts it.** Credit others only after that.
 
 ## Giving a compliment
 
@@ -59,3 +68,8 @@ updated: 2026-09-24
 - Compliment + request in the same breath.
 - "No, you're amazing!" ping-pong.
 - Thanking so profusely they have to manage your gratitude.
+
+## If it lands awkwardly
+If they deflect your compliment ("oh, it was nothing"), do not argue them into accepting it. Repeat it once, shorter, and move on. If a compliment is misread as flirting or an angle, clarify in one plain line without apologising for having said it. If a thank-you message gets no reply, that is fine; appreciation does not need a receipt, and chasing one turns the gift into a demand.
+> I mean it, and I'll leave it there. Nice work.
+> No angle here, I just thought it was good and wanted to say so.

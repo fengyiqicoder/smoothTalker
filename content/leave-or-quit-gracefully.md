@@ -4,7 +4,7 @@ category: work
 tags: [resign, quit, leave, step down, notice, committee, volunteer]
 triggers: [how to resign, quit my job, resignation letter, leave the committee, step down, stop volunteering, leave the team, hand in notice]
 summary: How to leave a job, a board, a group or a volunteer role so people remember the exit as clean and generous.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Leaving gracefully
 
@@ -59,3 +59,8 @@ Everyone you leave behind would work with you again. The exit is short, kind, an
 - "I've been unhappy for a long time" as the opener.
 - Burning the bridge, even a bridge you never plan to cross.
 - Letting things quietly drop instead of formally leaving.
+
+## If they react badly
+Anger, guilt or a hard sell to stay all get the same response: hold the decision, keep it short, and do not re-argue the reason. If your manager goes cold for the notice period, keep doing the handover visibly and put it in writing so the record is clean. If a group takes the exit personally, one warm reply, then let it settle. Do not answer hostility with a parting speech.
+> I understand this isn't the news you wanted, and I'm not going to change my mind. I do want the next four weeks to be useful, so tell me what you'd like prioritised in the handover.
+> I know it leaves a gap for the committee and I'm sorry for that. I'll finish the grant report and brief whoever takes it on. That's what I can do, and I'll do it properly.

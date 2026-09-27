@@ -4,9 +4,19 @@ category: work
 tags: [job offer, decline, reject candidate, hiring, recruiter, turn down]
 triggers: [turn down the job, decline the offer, reject a candidate, tell them they didn't get it, withdraw from the process, decline recruiter]
 summary: How to decline an offer so the door stays open, and how to reject a candidate so they leave with dignity and speak well of you.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Declining a job offer, or rejecting a candidate
+
+## Goal
+Whichever side you are on, the other person hears a clear no early, feels treated as a person, and would work with you or recommend you later.
+
+## Structure
+1. **Specific thanks** for the time or the work.
+2. **The decision, plainly**, within the first three sentences.
+3. **One honest reason, or none.** Never a fabricated one.
+4. **One genuine positive** about them or the role.
+5. **Door open only if it is.**
 
 ## Declining an offer
 
@@ -70,3 +80,9 @@ updated: 2026-09-24
 - Feedback that is really just a list of what they lacked.
 - "Unfortunately" as the first word.
 - Leaving the door open when it's closed.
+
+## If they push back
+A declined offer sometimes brings a counter or a "what would change your mind". Answer honestly once: a number, a change, or nothing. If it is nothing, say so and do not get drawn into a second round. A rejected candidate may ask for more feedback or argue the decision. Give one more specific point if you have one; otherwise repeat the decision kindly and close.
+> I appreciate the counter, and it's a real one. My decision isn't about the package, so I'm going to hold to it. Thank you again for the process.
+> I understand it's disappointing. The decision is final, and the one thing I'd work on is [specific]. I meant what I said about reaching out if the product role opens.
+If a candidate gets angry, one short reply and no further debate.

@@ -4,7 +4,7 @@ category: personal
 tags: [dating, rejection, not interested, let down, break up, friend zone]
 triggers: [not interested in them, let them down gently, don't want a second date, reject politely, they asked me out, end things after a few dates, breakup text]
 summary: Kind and unambiguous rejection at each stage: after a first message, after a date or two, and ending a short relationship.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Turning someone down romantically
 
@@ -56,3 +56,8 @@ No ambiguity, no cruelty, no false hope, no lecture. They can walk away with dig
 - Explaining at length.
 - Offering friendship as a consolation prize when you do not want it.
 - Replying to a hostile response. One line: "I understand you're upset. I'm going to leave it here." Then done.
+
+## If they argue or keep messaging
+Some people answer a clear no with a case for why you are wrong, a request for one more chance, or a string of messages over several days. None of these need answering in kind. One calm line closing the door, then no more replies. Not replying is the message.
+> I've heard you and I'm not going to change my mind. I'm going to stop replying now, and I wish you well.
+If they turn hostile, do not respond at all, and block if needed. Being kind first does not oblige you to absorb it. If they show up in person after being told no, tell a friend and treat it as a safety question, not a manners one.

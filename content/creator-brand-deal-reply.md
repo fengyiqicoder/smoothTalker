@@ -4,7 +4,7 @@ category: commerce
 tags: [creator, brand deal, sponsorship, collab, influencer, rate, negotiation, decline]
 triggers: [brand wants to collab, reply to sponsorship, they offered free product, my rate for a post, decline a brand deal, influencer negotiation, "gifting" offer]
 summary: Creator replies to brand outreach: asking for details, stating rates, declining product-only deals, and negotiating usage rights, all while staying easy to work with.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Replying to brand deals and collab requests
 
@@ -57,3 +57,9 @@ You come across as professional and easy, you get paid properly, and you decline
 - Vague "let me think about it" replies that never resolve.
 - Public callouts of brands for low offers.
 - Working without a written brief.
+
+## If they lowball, go quiet, or push back
+If they counter below your floor after you have already offered a smaller package, decline in one line and leave it there. Do not justify your rate. If a brand goes silent after you quote, one follow-up after a week, then move on; silence is a no. If they push for more deliverables at the same price, say what the extra costs.
+> Thanks for coming back to me. $300 for a reel isn't something I can do, so I'll pass this time. If the budget changes for a future campaign, I'd be glad to hear from you.
+> Adding a second reel takes it to $1,900. Happy to do that, or to keep it at the original scope.
+If they get sharp ("other creators do it for free"), do not argue the market. "That's fair, I'm just not the right fit for this one", and stop.

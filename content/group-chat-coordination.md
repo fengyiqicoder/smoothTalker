@@ -4,9 +4,18 @@ category: personal
 tags: [group chat, organise, plans, poll, flake, whatsapp group, coordinate, decision]
 triggers: [organise the group, nobody replies in the group chat, get everyone to decide, someone keeps flaking, plan a trip with friends, chase the group, pick a date, group won't commit]
 summary: How to get a group to actually decide: fewer options, deadlines, a named default, and gentle ways to handle the person who always bails.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Group chats: organising and deciding
+
+## Goal
+The group reaches a decision that sticks, in the fewest messages, and nobody feels nagged or steamrolled.
+
+## Structure
+1. **Propose one concrete plan** (date, time, place), or two options at most.
+2. **Ask for a one-tap reply** (thumbs up, yes/no).
+3. **Set a deadline and say what happens by default** if people go quiet.
+4. **Confirm the decision in one message** once you have it, then move logistics to a smaller thread.
 
 ## Why groups stall
 Nobody replies because replying feels like committing, and everyone assumes someone else will. Fix: make the reply tiny, give a deadline, and name what happens if nobody answers.
@@ -55,3 +64,8 @@ Nobody replies because replying feels like committing, and everyone assumes some
 - Passive-aggressive "guess nobody's interested then".
 - Making the decision, then reopening it because one person complained.
 - Chasing in the group when it's really about one person.
+
+## If nobody replies, or someone reopens it
+Silence past the deadline: do what you said you would and post it once. Do not re-ask. If someone complains after the decision, acknowledge it, hold the plan, and hand them the next one. If the thread turns into an argument between two people, message each of them directly rather than refereeing in the group. If a flake drops out late again, quietly stop planning around them; announcing it in the group only makes everyone else uncomfortable.
+> Deadline was tonight, so I've booked Bar Italia for 6 at 7:30. If you didn't say and want in, message me by tomorrow and I'll ask for an extra seat.
+> Fair, Thai isn't everyone's first pick. It's booked now, so you choose next time.

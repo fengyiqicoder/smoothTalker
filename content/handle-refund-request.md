@@ -4,7 +4,7 @@ category: commerce
 tags: [refund, return, cancellation, policy, customer, small business]
 triggers: [customer wants a refund, refund request, they want to return it, cancel their order, refund policy, asking for money back]
 summary: Saying yes fast when you can, saying no kindly when you must, and offering an alternative either way, without hiding behind policy.
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 # Handling a refund request
 
@@ -58,3 +58,8 @@ Ask yourself: is the cost of this refund higher than the cost of this customer t
 - "We apologise for any inconvenience."
 - Silence while you "look into it" for days.
 - Defending the product.
+
+## If they escalate, threaten a review or dispute the charge
+Reply within hours, in the same calm tone, and restate the best offer you can make in one line. Do not match their heat and do not mention the review unless they do. If they file a chargeback, send the bank your records (order, tracking, messages) and stop negotiating in the thread. If they turn abusive, one line that ends it is enough, and you do not have to keep replying.
+> I understand you're frustrated and I'd still like to sort this. The offer is full store credit or a 50% refund, whichever suits you, and I can process either today. Let me know which.
+> I've set out the options I can offer. I'm going to leave it there, and the credit stays available if you want it.
