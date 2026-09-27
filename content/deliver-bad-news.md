@@ -3,7 +3,7 @@ title: Delivering bad news
 category: personal
 tags: [bad news, disappointing, cancel, rejection, difficult]
 triggers: [have to tell them, break the news, disappoint, let them know it fell through, tell them no, cancel on them]
-summary: How to deliver news someone will not want, in a way that is clear early, kind throughout, and forward-looking at the end.
+summary: How to deliver news someone will not want, in a way that is clear early, kind throughout, and forward-looking at the end. Announcing to a team you manage: team-announcements-as-a-manager.
 updated: 2026-09-24
 ---
 # Delivering bad news

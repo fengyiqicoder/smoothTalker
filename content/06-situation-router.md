@@ -54,7 +54,8 @@ Answer three questions, then open the entry named. When two branches apply, open
 - For being late, flaking, cancelling: `handle-no-show-or-lateness` (moving a plan in advance: `cancel-or-reschedule`)
 
 ### Deliver news
-- Bad news to a person or team: `deliver-bad-news`
+- Bad news to a person: `deliver-bad-news`
+- News to a team the user manages (someone leaving or joining, a reorg, layoffs, a missed target, a new policy): `team-announcements-as-a-manager`
 - Personal news, good or hard: `share-personal-news`
 - A price increase or policy change to customers: `price-increase-and-customer-announcements`
 - An order problem: `shipping-delay-or-out-of-stock`
@@ -91,9 +92,11 @@ Answer three questions, then open the entry named. When two branches apply, open
 ### Give feedback
 - To a colleague or report: `give-feedback-to-colleague`
 - To a friend, partner, family: `give-feedback-kindly`
+- Something embarrassing they have not noticed (food in teeth, body odour, a typo in their post): `tell-someone-something-awkward`
 
 ### Sell or serve
 - A DM asking about a product: `reply-to-customer-inquiry-dm`; adding to an order without pushing: `upsell-without-pushiness`
+- The first message after someone buys, books or signs up: `customer-onboarding-and-welcome`
 - A brand reaching out to a creator: `creator-brand-deal-reply`
 
 ### End something

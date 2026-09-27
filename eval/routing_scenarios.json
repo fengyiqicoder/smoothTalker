@@ -150,7 +150,7 @@
 {"q": "来週の部署の飲み会、正直行きたくない。幹事の先輩に角が立たない返し方を教えてほしい", "expect": ["decline-invitation"], "lang": "ja"},
 {"q": "the woman i was with for 4 years wants to get back together. i still care about her but i know it's not right. how do i say no without destroying her", "expect": ["respond-to-an-ex-or-breakup-message", "romantic-let-down"], "lang": "en"},
 {"q": "we're a 6 person startup and got 40 applicants for a designer role. need a kind 'we're not moving forward' email for the ones we didn't interview + a different one for the 3 finalists", "expect": ["decline-offer-or-candidate"], "lang": "en"},
-{"q": "have to tell my team tomorrow that our project got killed after 8 months of work. leadership decided yesterday. how do i say it without everyone feeling like it was all pointless", "expect": ["deliver-bad-news"], "lang": "en"},
+{"q": "have to tell my team tomorrow that our project got killed after 8 months of work. leadership decided yesterday. how do i say it without everyone feeling like it was all pointless", "expect": ["deliver-bad-news", "team-announcements-as-a-manager"], "lang": "en"},
 {"q": "my boyfriend goes through my phone whenever i leave it on the table. i've told him it bothers me and he laughs it off. how do i say this isn't ok without it turning into a huge fight", "expect": ["set-boundary"], "lang": "en"},
 {"q": "have a client dinner thursday and i never know what to talk about besides work. how do i keep things flowing without it feeling forced", "expect": ["small-talk"], "lang": "en"},
 {"q": "web dev here. quoted 5 pages, now they want a blog, a shop, and 'a small members area'. same budget. how do i push back", "expect": ["say-no-to-client-scope"], "lang": "en"},
@@ -174,5 +174,11 @@
 {"q": "we're doing a small wedding and my cousin wants to bring her boyfriend of 3 weeks. we said partners who live together only. how do i tell her", "expect": ["wedding-and-event-host-messages"], "lang": "en"},
 {"q": "hosting my 40th at a bar, want the invite to say no kids and that gifts aren't expected but donations to a charity are welcome. help with wording", "expect": ["wedding-and-event-host-messages"], "lang": "en"},
 {"q": "my best friend just texted me that she has stage 2 breast cancer. i don't know what to say back and i'm scared of saying the wrong thing", "expect": ["respond-to-difficult-health-news"], "lang": "en"},
-{"q": "Mi compañero de trabajo me contó en privado que tiene esclerosis múltiple. ¿Qué le respondo sin incomodarlo?", "expect": ["respond-to-difficult-health-news"], "lang": "es"}
+{"q": "Mi compañero de trabajo me contó en privado que tiene esclerosis múltiple. ¿Qué le respondo sin incomodarlo?", "expect": ["respond-to-difficult-health-news"], "lang": "es"},
+{"q": "my senior dev is leaving in 3 weeks and I need to tell the other 8 people on the team before it leaks. she's fine with me sharing where she's going", "expect": ["team-announcements-as-a-manager"], "lang": "en"},
+{"q": "公司决定下个月开始每周回办公室四天，我是组长，要在群里通知组员，大家肯定不高兴，怎么写", "expect": ["team-announcements-as-a-manager"], "lang": "zh"},
+{"q": "just started a dog grooming business. what should i text people right after they book so they know what to bring and don't no-show", "expect": ["customer-onboarding-and-welcome"], "lang": "en"},
+{"q": "Acabo de firmar con un cliente nuevo para su página web. Necesito que me mande logos, textos y accesos antes del lunes. ¿Cómo le escribo el correo de bienvenida?", "expect": ["customer-onboarding-and-welcome"], "lang": "es"},
+{"q": "the new guy on my team really smells by the afternoon and people are starting to avoid him. i'm his team lead. how do i even start this", "expect": ["tell-someone-something-awkward"], "lang": "en"},
+{"q": "my friend just posted her engagement announcement on instagram and spelled her fiance's name wrong lol. do i tell her and how", "expect": ["tell-someone-something-awkward"], "lang": "en"}
 ]
