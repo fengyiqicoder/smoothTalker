@@ -14,7 +14,7 @@ The sender knows in ten seconds whether to wait, go elsewhere, or escalate, and 
 ## Structure
 1. **Dates.** When you left, when you are back, in the sender's terms ("back Monday 12 October").
 2. **What happens to their message.** Read on return, not read, or forwarded.
-3. **Who to contact instead**, with one route each: urgent versus everything else. Name a person, not "the team".
+3. **Who to contact instead**, with one route each: urgent versus everything else. Name a person, not "the team". Working solo with nobody covering? Say so, then either give one narrow emergency route you will actually check ("text [number] if a live project breaks, I check once mid-week") or say plainly that everything waits.
 4. **One line of warmth or context** if it fits you. Optional.
 5. **Nothing else.** No apology, no list of what you are doing on holiday.
 

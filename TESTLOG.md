@@ -50,3 +50,32 @@
 | T9 | 邻居狗叫，从没说过话，门上留条 | ask-to-change-behavior | 通过 | 假设对方不知情、具体行为、影响、具体建议、留联系方式 |
 
 **三轮共 18 个场景，18 通过。** 每次回复末尾都带 Playbook 归属行，条目匹配全部正确，含一次双条目混用（T3）。
+
+## 2026-09-27 第四轮，模拟测试（非 Muse 实测，20/20 通过）
+
+**方法**：两个 Claude 代理按 MUSE_PROMPT.md 里装好的 skill 流程作答，不看预期答案：先读 00 到 03，再凭 data/index.json 选条目，读条目后回复。场景重点覆盖 v1.3 新增的 16 个条目，加上操控请求、"只要一句"、西班牙语和中文。场景和原始输出存在 eval/e2e/，可重复跑作回归测试。**这不是 Muse 里的实测**，Muse 实测第四轮等合并到 main 后再做。
+
+| # | 场景 | 命中条目 | 结果 | 备注 |
+|---|---|---|---|---|
+| S1 | 朋友被裁后在群里消失 | check-in-on-someone-struggling | 通过 | 具体邀约 + "不用回"，无说教 |
+| S2 | 前任 8 个月后说"想聊聊"，用户已有对象 | respond-to-an-ex-or-breakup-message | 通过 | 一句理由，不留余地 |
+| S3 | 中文：妈妈催婚，中秋回家 | family-pressure-and-nosy-questions | 通过 | 中文输出自然；同一句话重复挡回的策略；应对"我还不是为你好" |
+| S4 | 朋友本月第三次临时放鸽子 | handle-no-show-or-lateness | 通过 | 点明次数，不下最后通牒，问她能承诺什么 |
+| S5 | "妈，我换号了，帮我付个账" | suspicious-or-scam-message | 通过 | 不回陌生号码，改打存着的旧号码核实 |
+| S6 | 婚礼摄影师报价 4800，另一家 4100 | ask-for-a-discount-as-a-customer | 通过 | 用真实报价锚定，给了体面退路和"改要附加服务"的后手 |
+| S7 | 病假短信，只要一版 | ask-for-time-off-or-sick-leave | 通过 | 一版、三行、交接到人 |
+| S8 | 猎头约聊，底线 base 20 万 | respond-to-recruiter | 通过 | 先问薪资范围，给了两种策略的取舍 |
+| S9 | 四年没联系的前上司做推荐人，周五截止 | ask-for-reference-or-recommendation | 通过 | 承认空白期、给截止日、主动提供要点 |
+| S10 | 供应商工单 9 天没人管，每天损失 3k | escalate-an-issue | 通过 | 先给客服打招呼再升级；算出累计 2.7 万；明确要求与截止时间 |
+| S11 | 终面被拒，想要反馈 | respond-to-job-rejection | 通过 | 只问"一件事"，留门 |
+| S12 | 退出隔级领导的周会 | decline-meeting-or-protect-time | 通过 | 改看纪要，给对方说"需要你在"的机会 |
+| S13 | 独立设计师两周自动回复，无人代班 | out-of-office-and-away-messages | 通过 | 发现条目默认"有人代班"，已补"独自工作时的写法" |
+| S14 | Etsy 蜡烛店 40 单延迟 10 天 | shipping-delay-or-out-of-stock | 通过 | 三个选项 + 默认项，主动告知 |
+| S15 | 咖啡店 Instagram 冒犯社区的玩笑 | public-apology-from-a-business | 通过 | 不重复原玩笑，不说"如果有人被冒犯"，给出具体改正 |
+| S16 | 3 个月后要求退课，用户一分不退 | handle-refund-request + say-no-to-a-customer-request | 通过 | 两版都不退钱，注明条目原本会建议的折中 |
+| S17 | 邻居的施工车天天堵车道 | ask-to-change-behavior | 通过 | 回答了"找谁说"：先邻居，再施工方 |
+| S18 | 要求写让前任内疚回头的消息 | respond-to-an-ex-or-breakup-message | 通过 | 拒绝操控，给诚实版本，不说教 |
+| S19 | "告诉老板我周五请假，别问，一句话" | ask-for-time-off-or-sick-leave | 通过 | 只给一句，附一行条目原本的建议 |
+| S20 | 西班牙语：老板又让周五加班 | push-back-on-boss + set-boundary | 通过 | 全西语输出，给替代方案，重复模式另约谈 |
+
+**结论**：20 个场景的条目选择全部正确，没有用到兜底路由；用户的明确限制全部守住；无破折号、无禁用词。唯一的条目级改进是 S13 暴露的"无人代班"缺口，已修。
