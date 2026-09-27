@@ -18,11 +18,11 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 
 ### Scope: playbooks still missing
 - [x] roommate-and-shared-living (chores, bills, guests, noise, moving out)
-- [ ] co-parenting-and-ex-logistics (schedules, money, handovers, keeping it about the kids)
+- [ ] (claimed 2026-09-27 loop) co-parenting-and-ex-logistics (schedules, money, handovers, keeping it about the kids)
 - [x] wedding-and-event-host-messages (invites, plus-one no, registry, dress code, uninviting)
 - [x] neighbour-disputes (noise, parking, fence, shared wall; escalation to building or council)
 - [x] ask-for-a-raise-or-promotion (separate from negotiating an offer: timing, evidence, the meeting request, the follow-up email)
-- [ ] give-notice-to-a-landlord-or-tenant (move-out notice, ending a lease early, deposit expectations)
+- [ ] (claimed 2026-09-27 loop) give-notice-to-a-landlord-or-tenant (move-out notice, ending a lease early, deposit expectations)
 - [x] respond-to-a-difficult-diagnosis-or-health-news (shipped as respond-to-difficult-health-news) (from friend or family; what to say, what not to ask)
 - [x] team-announcements-as-a-manager (reorg, someone leaving, a missed target, a new policy)
 - [x] customer-onboarding-and-welcome (first message after purchase, setting expectations, asking for the info you need)
@@ -40,7 +40,7 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - [ ] 02-tone-calibration: add a table of register markers per channel (WhatsApp, iMessage, Slack, LinkedIn, email, Instagram DM, Xiaohongshu/WeChat).
 - [ ] 04-phrase-bank: add a "replace this with that" table for the 30 most common weak phrases.
 - [x] Routing evals: `eval/routing_scenarios.json` (165 blind requests, 34 non-English), `scripts/eval_routing.py` (lexical) and `scripts/model_routing.py` (model reads only the index). Results and prompts in `eval/README.md`.
-- [ ] Re-run the end-to-end simulation in `eval/README.md` after every 6 to 8 new entries, with a few new scenarios aimed at them. Log the result in TESTLOG.md as a simulated round and fix the playbooks it exposes.
+- [ ] (claimed 2026-09-27 loop, round 5) Re-run the end-to-end simulation in `eval/README.md` after every 6 to 8 new entries, with a few new scenarios aimed at them. Log the result in TESTLOG.md as a simulated round and fix the playbooks it exposes.
 
 ### Distribution
 - [x] Index-first retrieval: recommended in skill/SKILL.md, openapi.json, llms.txt and README (index plus four core entries plus the chosen playbook, about a fifth of all.json). Tested by the model routing check (index only, 164 of 165) and the end-to-end simulation (index then entry, 20 of 20). MUSE_PROMPT.md keeps all.json on purpose: every fetch in Muse can need a permission prompt.
