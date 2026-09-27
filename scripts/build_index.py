@@ -9,6 +9,7 @@ ENTRIES = ROOT / "data" / "entries"
 INDEX = ROOT / "data" / "index.json"
 ALL = ROOT / "data" / "all.json"
 REQUIRED = ["title", "summary", "tags", "triggers"]
+BUDGET_WARN_KB, BUDGET_FAIL_KB = 450, 600  # agents load all.json whole; see BACKLOG.md
 
 def parse(path: Path):
     text = path.read_text(encoding="utf-8")
@@ -62,7 +63,12 @@ def main():
   today = datetime.date.today().isoformat()
   INDEX.write_text(json.dumps({"generated": today, "count": len(items), "read_first": ["00-how-to-use", "01-principles"], "entries": items}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
   ALL.write_text(json.dumps({"generated": today, "count": len(full), "read_first": ["00-how-to-use", "01-principles"], "entries": full}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-  print(f"已生成 {len(items)} 条；all.json {ALL.stat().st_size // 1024} KB")
+  kb = ALL.stat().st_size // 1024
+  print(f"已生成 {len(items)} 条；all.json {kb} KB")
+  if kb > BUDGET_FAIL_KB:
+    print(f"all.json 超过 {BUDGET_FAIL_KB} KB 上限：合并或精简条目，不要再加。见 BACKLOG.md 的 Size budget。"); sys.exit(1)
+  if kb > BUDGET_WARN_KB:
+    print(f"注意：all.json 超过 {BUDGET_WARN_KB} KB，优先合并和精简。")
 
 if __name__ == "__main__":
   main()

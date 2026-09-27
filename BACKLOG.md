@@ -5,10 +5,12 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 ## Rules for every iteration
 - Content quality beats count. One excellent playbook beats three thin ones.
 - Every change passes `python3 scripts/lint.py` and `python3 scripts/build_index.py`; commit `data/` with the content.
-- Keep `README.md`, `index.html` and `SUBMISSION.md` counts in sync with `data/index.json`.
+- Keep counts and the all.json size in sync in `README.md`, `index.html`, `openapi.json`, `MUSE_PROMPT.md` and `skill/SKILL.md`. Never edit `SUBMISSION.md`'s submitted text; it records what was sent on 2026-09-25.
 - Never change the shape of `data/*.json` fields or the OpenAPI paths (agents depend on them).
 - No em-dashes anywhere in content. No manipulative or deceptive advice, ever.
 - Push to the working branch only; a human merges to `main` (the live site).
+- Size budget: agents load `all.json` whole, so every entry costs context for every user. `build_index.py` warns above 450 KB and fails above 600 KB. Near the budget, merge overlapping entries, trim padding and improve quality instead of adding. Growth past the budget needs the index-first retrieval item below first.
+- Items marked "claimed" are being done by another session; skip them.
 
 ## Queue (top first)
 
@@ -29,15 +31,16 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - [ ] mediating-between-two-people (friends fighting, two team members)
 
 ### Effectiveness: make existing entries land better
-- [ ] Add a 3-line "Quick version" at the top of the 10 most-used entries (apologize, decline-request, follow-up-unanswered, negotiate-price-or-salary, respond-to-angry-customer, landlord-tenant, push-back-on-boss, decline-invitation, set-boundary, reply-to-customer-inquiry-dm) so an agent can answer a one-line request without reading the whole body.
-- [ ] Audit every entry's `triggers` against how people actually type (short, lowercase, typos, "wtf do I say"). Add 2-3 colloquial triggers per entry where missing.
+- [ ] (claimed 2026-09-27) Add a 3-line "Quick version" at the top of the 10 most-used entries (apologize, decline-request, follow-up-unanswered, negotiate-price-or-salary, respond-to-angry-customer, landlord-tenant, push-back-on-boss, decline-invitation, set-boundary, reply-to-customer-inquiry-dm) so an agent can answer a one-line request without reading the whole body.
+- [ ] (claimed 2026-09-27) Audit every entry's `triggers` against how people actually type (short, lowercase, typos, "wtf do I say"). Add 2-3 colloquial triggers per entry where missing.
 - [ ] Add a voice-note / phone-call variant to entries where the channel is often voice (cancel-or-reschedule, condolences, deliver-bad-news, apologize).
-- [ ] Add non-English trigger phrases (zh, es, pt, de, fr, ja) to the 15 most-used entries so matching works for non-English users. Keep bodies in English.
+- [ ] (claimed 2026-09-27) Add non-English trigger phrases (zh, es, pt, de, fr, ja) to the 15 most-used entries so matching works for non-English users. Keep bodies in English.
 - [ ] 02-tone-calibration: add a table of register markers per channel (WhatsApp, iMessage, Slack, LinkedIn, email, Instagram DM, Xiaohongshu/WeChat).
 - [ ] 04-phrase-bank: add a "replace this with that" table for the 30 most common weak phrases.
-- [ ] Write `scripts/eval_scenarios.json`: 40 scenarios with expected playbook ids, and `scripts/eval_match.py` that checks trigger/tag matching picks the expected entry with simple keyword overlap. Use it to tune triggers.
+- [ ] (claimed 2026-09-27) Write `scripts/eval_scenarios.json`: 40 scenarios with expected playbook ids, and `scripts/eval_match.py` that checks trigger/tag matching picks the expected entry with simple keyword overlap. Use it to tune triggers.
 
 ### Distribution
+- [ ] Index-first retrieval: document and test a flow where the agent loads `index.json` (small), picks entries, then fetches `entries/{id}.json`, so the library can grow past the all.json budget. Update the OpenAPI descriptions, `skill/SKILL.md` and `MUSE_PROMPT.md` to recommend it once the library passes about 110 entries. Keep `all.json` published for existing installs.
 - [ ] Add `skill/` folder to a zip release so it can be installed in Claude Code with one command; document in README.
 - [ ] Add a "Try it without Muse" section to index.html: paste-a-playbook prompt for ChatGPT/Claude/Gemini users.
 - [ ] Register with other agent connector directories when they open (record URLs and status here).
