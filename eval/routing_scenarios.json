@@ -168,5 +168,11 @@
 {"q": "想和交往两年的男朋友分手，他没做错什么，就是感觉不对了，怎么开口", "expect": ["respond-to-an-ex-or-breakup-message"], "lang": "zh"},
 {"q": "matched on hinge, one date, he wants a second. i don't. what do i text", "expect": ["romantic-let-down"], "lang": "en"},
 {"q": "my ex from college messaged asking if we could try again. it's been 3 years. i'm not interested", "expect": ["respond-to-an-ex-or-breakup-message"], "lang": "en"},
-{"q": "we've been seeing each other about 3 weeks, nothing official, i want to end it kindly", "expect": ["romantic-let-down"], "lang": "en"}
+{"q": "we've been seeing each other about 3 weeks, nothing official, i want to end it kindly", "expect": ["romantic-let-down"], "lang": "en"},
+{"q": "the guy in 4B has had parties till 3am basically every friday for two months. i left a note, nothing changed. what do i send to the building management", "expect": ["neighbour-disputes"], "lang": "en"},
+{"q": "隔壁邻居的车老是停在我家车位上，我们只打过一次招呼，怎么留言比较好不伤和气", "expect": ["neighbour-disputes"], "lang": "zh"},
+{"q": "we're doing a small wedding and my cousin wants to bring her boyfriend of 3 weeks. we said partners who live together only. how do i tell her", "expect": ["wedding-and-event-host-messages"], "lang": "en"},
+{"q": "hosting my 40th at a bar, want the invite to say no kids and that gifts aren't expected but donations to a charity are welcome. help with wording", "expect": ["wedding-and-event-host-messages"], "lang": "en"},
+{"q": "my best friend just texted me that she has stage 2 breast cancer. i don't know what to say back and i'm scared of saying the wrong thing", "expect": ["respond-to-difficult-health-news"], "lang": "en"},
+{"q": "Mi compañero de trabajo me contó en privado que tiene esclerosis múltiple. ¿Qué le respondo sin incomodarlo?", "expect": ["respond-to-difficult-health-news"], "lang": "es"}
 ]

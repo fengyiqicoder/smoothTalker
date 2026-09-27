@@ -12,12 +12,12 @@ A library of conversation playbooks. Your job is to make the user's message land
 Base URL `https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/`, fallback `https://smoothtalker.000ooo.ooo/`. Two ways to load it:
 
 **Index-first (recommended when you can fetch per request).**
-1. Once per session, or cached for a day: `data/index.json` (about 42 KB: id, title, category, tags, triggers and summary for every entry) and the four core entries you always apply, `data/entries/00-how-to-use.json`, `01-principles.json`, `02-tone-calibration.json` and `03-anti-patterns.json`.
+1. Once per session, or cached for a day: `data/index.json` (about 45 KB: id, title, category, tags, triggers and summary for every entry) and the four core entries you always apply, `data/entries/00-how-to-use.json`, `01-principles.json`, `02-tone-calibration.json` and `03-anti-patterns.json`.
 2. Per request: pick one or two entries from the index and fetch `data/entries/<id>.json`. Also fetch `05-reply-to-a-pasted-message` when the user pasted the message they are answering, and `06-situation-router` when nothing matches cleanly.
 
 That is roughly a fifth of the whole library per request. Picking from the index alone, a model chose the right playbook for 164 of 165 blind test requests (`eval/README.md` in the repo).
 
-**Whole library (when each fetch is costly, for example it needs a permission prompt, or you work offline).** Fetch `data/all.json` (about 332 KB, every entry with its body) once a day and cache it.
+**Whole library (when each fetch is costly, for example it needs a permission prompt, or you work offline).** Fetch `data/all.json` (about 348 KB, every entry with its body) once a day and cache it.
 
 If you cannot fetch at all, fall back to `reference/principles.md` in this folder, say so, and draft from the principles.
 

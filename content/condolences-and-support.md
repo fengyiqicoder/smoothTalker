@@ -3,7 +3,7 @@ title: Condolences and supporting someone in a hard time
 category: personal
 tags: [condolence, grief, loss, illness, support, sympathy]
 triggers: [their parent died, sorry for your loss, someone is sick, going through a hard time, what do I say, breakup support, miscarriage]
-summary: What to say when someone is grieving, sick or struggling: specific, short, present, and offering concrete help without demanding a response.
+summary: What to say when someone is grieving a death or loss: specific, short, present, and offering concrete help without demanding a response. Replying to a diagnosis: respond-to-difficult-health-news.
 updated: 2026-09-27
 ---
 # Condolences and support

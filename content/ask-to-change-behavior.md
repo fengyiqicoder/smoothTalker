@@ -1,9 +1,9 @@
 ---
-title: Asking someone to change a behaviour (roommate, neighbour, friend)
+title: Asking someone to change a behaviour (friend, partner, colleague, housemate)
 category: personal
 tags: [roommate, neighbour, noise, dishes, habit, complaint, request]
-triggers: [roommate never cleans, neighbor is loud, tell them to stop, ask them to be quieter, they keep doing, it's annoying me, chores]
-summary: How to raise an annoying behaviour so the other person fixes it rather than gets defensive: specific, one thing, framed as a shared problem with a concrete ask.
+triggers: [roommate never cleans, ask a friend to stop, tell them to stop, ask them to be quieter, they keep doing, it's annoying me, chores]
+summary: How to raise an annoying behaviour so the other person fixes it rather than gets defensive: specific, one thing, framed as a shared problem with a concrete ask. An ongoing neighbour problem: neighbour-disputes.
 updated: 2026-09-27
 ---
 # Asking someone to change a behaviour
@@ -57,4 +57,4 @@ They change the specific thing, and the relationship is not damaged. Being right
 Do not match the heat. Restate the specific ask once, same friendly register, and let it sit. If they say "you do it too", agree where it is true and go back to the one thing. If it slips after a week, raise it again briefly rather than stewing.
 > I'm not saying you're messy, I'm just asking for same-day dishes. That's all it is.
 > Fair, I've left mine too. Can we both do same day from today?
-If a neighbour ignores two polite notes, go to the building manager or landlord with dates. If a roommate ignores everything, the real conversation is whether the living setup works. See `set-boundary`.
+If a neighbour ignores two polite notes, escalate in writing with dates (see `neighbour-disputes`). If a roommate ignores everything, the real conversation is whether the living setup works. See `set-boundary`.

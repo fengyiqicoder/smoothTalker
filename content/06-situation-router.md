@@ -19,7 +19,7 @@ Answer three questions, then open the entry named. When two branches apply, open
 ## Question 2: What is the user trying to do?
 
 ### Say no
-- To an invitation, event, wedding, trip: `decline-invitation`
+- To an invitation, event, wedding, trip: `decline-invitation` (as the host saying no plus-ones, no kids, or cutting the list: `wedding-and-event-host-messages`)
 - To a favour, loan, request for time or help: `decline-request`
 - To a client asking for more work, a change, a rush: `say-no-to-client-scope`
 - To a customer asking for a refund, exception, custom order, feature: `say-no-to-a-customer-request` (refunds specifically: `handle-refund-request`)
@@ -42,7 +42,7 @@ Answer three questions, then open the entry named. When two branches apply, open
 - A review or testimonial from customers: `ask-for-review-or-testimonial`
 - A better price or a waived fee, as the buyer: `ask-for-a-discount-as-a-customer`
 - Higher pay or a higher price, as the seller or employee: `negotiate-price-or-salary` (a raise or promotion in your current job: `ask-for-a-raise-or-promotion`)
-- Someone to stop or change a behaviour: `ask-to-change-behavior` (a roommate, or chores, bills and guests in a shared home: `roommate-and-shared-living`)
+- Someone to stop or change a behaviour: `ask-to-change-behavior` (a roommate, or chores, bills and guests in a shared home: `roommate-and-shared-living`; a neighbour, or escalating to the building or council: `neighbour-disputes`)
 - A decision from a group: `group-chat-coordination`
 - Someone to fix a problem they caused (landlord, contractor, shop): `landlord-tenant-and-service-providers` or `complain-as-customer`
 - A decision from someone senior, or a stuck problem unstuck: `escalate-an-issue`
@@ -81,6 +81,7 @@ Answer three questions, then open the entry named. When two branches apply, open
 
 ### Support someone
 - A death: `condolences-and-support`
+- Someone just told the user about a diagnosis or health scare: `respond-to-difficult-health-news`
 - A hard time that is not a death: `check-in-on-someone-struggling`
 
 ### Follow up

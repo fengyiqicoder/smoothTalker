@@ -3,7 +3,7 @@
   "info": {
     "title": "SmoothTalker",
     "version": "1.3.0",
-    "description": "A read-only library of conversation playbooks that helps an AI agent write smoother, kinder, more effective messages for its user: declining, apologising, negotiating, following up, delivering bad news, handling angry customers, DM replies for small businesses, and more. Every entry gives a structure, principles, ready-to-adapt examples at several tones, anti-patterns and what to do if the reply goes badly. All endpoints are plain GET requests to static JSON; no authentication. Two ways to use it. Index-first, the lightest: load /data/index.json (the index, about 42 KB) and the core entries 00-how-to-use, 01-principles, 02-tone-calibration and 03-anti-patterns, then fetch /data/entries/{id}.json for the one or two playbooks whose triggers and summary match the user's situation. Or load /data/all.json once a day and cache it, which needs the fewest requests. Always apply 00-how-to-use and 01-principles; if nothing matches cleanly, read 06-situation-router."
+    "description": "A read-only library of conversation playbooks that helps an AI agent write smoother, kinder, more effective messages for its user: declining, apologising, negotiating, following up, delivering bad news, handling angry customers, DM replies for small businesses, and more. Every entry gives a structure, principles, ready-to-adapt examples at several tones, anti-patterns and what to do if the reply goes badly. All endpoints are plain GET requests to static JSON; no authentication. Two ways to use it. Index-first, the lightest: load /data/index.json (the index, about 45 KB) and the core entries 00-how-to-use, 01-principles, 02-tone-calibration and 03-anti-patterns, then fetch /data/entries/{id}.json for the one or two playbooks whose triggers and summary match the user's situation. Or load /data/all.json once a day and cache it, which needs the fewest requests. Always apply 00-how-to-use and 01-principles; if nothing matches cleanly, read 06-situation-router."
   },
   "servers": [
     { "url": "https://smoothtalker.000ooo.ooo", "description": "Public site" },
@@ -13,7 +13,7 @@
     "/data/all.json": {
       "get": {
         "operationId": "getAllPlaybooks",
-        "summary": "Fetch the entire library in one request (about 332 KB). Use when each fetch is costly: load once a day, cache, and filter locally by triggers, tags and summary.",
+        "summary": "Fetch the entire library in one request (about 348 KB). Use when each fetch is costly: load once a day, cache, and filter locally by triggers, tags and summary.",
         "responses": {
           "200": {
             "description": "All playbooks with full bodies",
@@ -37,7 +37,7 @@
     "/data/index.json": {
       "get": {
         "operationId": "listPlaybooks",
-        "summary": "Recommended entry point (the index, about 42 KB): id, title, category, tags, triggers and summary for every playbook. Pick one or two, then fetch their bodies from /data/entries/{id}.json.",
+        "summary": "Recommended entry point (the index, about 45 KB): id, title, category, tags, triggers and summary for every playbook. Pick one or two, then fetch their bodies from /data/entries/{id}.json.",
         "responses": {
           "200": {
             "description": "Index of all playbooks",
