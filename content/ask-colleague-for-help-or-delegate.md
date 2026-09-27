@@ -67,7 +67,7 @@ You get the help, the handoff, or the honest answer you need, and you come out o
 - Apologising for not knowing.
 
 ## If they say no or don't reply
-A no from a colleague is information, not rejection. If they are too busy, ask who else knows the area, or ask for five minutes instead of fifteen. If a delegated task gets pushed back, negotiate scope or date rather than dropping it on them anyway. If nobody replies, ask one named person directly instead of re-posting to the group.
+A no from a colleague is information, not rejection. If they are too busy, ask who else knows the area, or ask for five minutes instead of fifteen. If a delegated task gets pushed back, negotiate scope or date. If nobody replies, ask one named person directly instead of re-posting to the group.
 > No problem, I know you're under it. Is there anyone else who knows the export code, or a doc you could point me at?
-> Understood, the 15th isn't workable with what's on your plate. What could you do by the 15th if we trimmed it to the two main endpoints?
-If the answer is still no, take it back and tell your manager the constraint early. That is a planning conversation, not a failure.
+> Understood, the 15th isn't workable. What could you do by then if we trimmed it to the two main endpoints?
+If it is still no, flag the constraint to your manager early.

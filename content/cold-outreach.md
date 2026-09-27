@@ -58,8 +58,7 @@ A reply. Not a sale, not a meeting; a reply. Everything is optimised for making 
 - Sending the same message to ten people at one company.
 
 ## If they say no, or never reply
-No reply after two follow-ups is a no. Do not send a third with "just checking in". A quick no is a gift; thank them and leave the door open in one line, without asking why. If they say "not now", ask when, set a reminder, and actually go away until then. If they say you've got the wrong person, ask for the right one.
+No reply after two follow-ups is a no. Do not send a third with "just checking in". A quick no is a gift; thank them and leave the door open in one line, without asking why. If they say "not now", ask when, set a reminder, and actually go away until then.
 > Thanks for the straight answer, genuinely helpful. If it ever becomes relevant, I'm easy to find.
 > Got it. Is Q1 a better time? I'll come back then and not before.
-> No problem. Is there someone on the team who owns checkout I should talk to instead?
 If they respond sharply ("stop emailing me"), reply once with "Done, apologies" and remove them from every list.

@@ -61,5 +61,4 @@ Day 1, then a week, then a month, then the anniversary. Most people disappear af
 No reply is not a signal; it is grief. Keep the cadence going without ever asking why they went quiet. If they say "I'm fine, I don't need anything", take it at face value and stay lightly present anyway. If they snap at you, do not defend yourself and do not disappear.
 > No reply needed, just thinking of you. Soup's on your porch, it freezes fine.
 > That's okay, I'm not going anywhere. I'll check in next week.
-> Sorry, that landed wrong. I'm here, and you don't have to manage me.
-If they say clearly that they want to be left alone, say "Okay. I'll be here when you want me", then wait a month or for the anniversary and send one line.
+If they ask clearly to be left alone, say "Okay, I'll be here when you want me", then send one line in a month.

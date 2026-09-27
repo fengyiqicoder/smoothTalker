@@ -8,15 +8,15 @@ updated: 2026-09-27
 ---
 # Asking for a review, testimonial or referral
 
+## Goal
+The customer does it in the next minute because it's easy and because they liked you. Nobody feels pestered.
+
 ## Structure
 1. **Thank them for something specific** about the purchase or the project.
 2. **The ask, framed by its effect**: what a review does for a small business.
 3. **One link and a time estimate.** "Two sentences, about a minute."
 4. **A genuine out.** "Thank you either way."
 5. **For testimonials, a draft they can edit** so the work is already done.
-
-## Goal
-The customer does it in the next minute because it's easy and because they liked you. Nobody feels pestered.
 
 ## Principles
 - **Timing:** ask right after a good moment (delivery arrived, project shipped, they said thanks). Not weeks later.
@@ -64,7 +64,7 @@ The customer does it in the next minute because it's easy and because they liked
 - Offering discounts for reviews where it's against the rules.
 
 ## If they ignore it or say no
-No reply after the one reminder is a no; drop it and ask the next customer. If they decline outright, thank them and do not ask what stopped them. If they reply with a complaint instead, treat it as a support ticket, not a review request: fix the problem first, and do not send the link again until it is fixed and they are happy.
+No reply after the one reminder is a no; drop it and ask the next customer. If they decline outright, thank them and do not ask what stopped them. If they reply with a complaint instead, treat it as a support ticket, not a review request: fix the problem first.
 > Totally understood, thanks for letting me know. Enjoy the lamp.
 > Sorry, I didn't know about the flicker. Let me sort that first; could you send a quick photo?
 If they leave a lukewarm public review, reply publicly with thanks and one line on what you'll do about it. See `respond-to-negative-review`.

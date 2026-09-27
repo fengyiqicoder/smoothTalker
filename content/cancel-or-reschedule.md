@@ -55,7 +55,7 @@ They know immediately, they know it is not about them, and they have a new time 
 - Cancelling via a third party.
 
 ## If they're upset or stop replying
-A short, sharp reply ("fine") after a same-day cancel is fair. Do not argue with it or over-apologise; own it once, then act. Book the new time yourself and confirm it, so the burden of rescheduling is not on them. If they go quiet on your alternatives, send one more message with a specific plan, then leave it with them.
+A short, sharp reply ("fine") after a same-day cancel is fair. Do not argue with it or over-apologise; own it once, then act. Book the new time yourself and confirm it, so the burden of rescheduling is not on them.
 > I get it, and I'm sorry. I've booked Thursday at 7 at Marco's, my treat. If that doesn't work, tell me a night and I'll move it.
 > No reply needed now. If Sunday works I'll see you at 2; if not, just say and I'll find another one.
 If this is the third cancel and they've stopped responding, the repair is showing up next time, not another message.

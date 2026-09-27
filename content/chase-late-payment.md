@@ -62,7 +62,7 @@ You get paid, the relationship survives, and you sound like a business, not a fr
 - Chasing in the same thread as friendly chat. Separate email, clear subject line: "Overdue: Invoice #1042".
 
 ## If they go silent or push back
-Silence at stage 2 means you move to stage 3 on the date you said, not later. If they promise a date and miss it, reply the next morning and name the next consequence. If they get hostile, stay flat and factual: the invoice, the amount, the date. Do not respond to the tone at all.
+Silence at stage 2 means stage 3 on the date you said. If they promise a date and miss it, reply the next morning with the next consequence. If they get hostile, stay factual: invoice, amount, date. Ignore the tone.
 > The payment date you gave was Friday and it hasn't arrived. Please confirm by 5pm Wednesday whether it's been sent. Work on the next phase is paused until then.
-> I understand you're frustrated. The amount and due date haven't changed. If there's a genuine cash-flow problem, I can take $1,200 now and $1,200 on the 30th, agreed in writing.
-If the final notice date passes, do what you said. An empty threat teaches every future client that you don't mean it.
+> I understand you're frustrated. The amount and due date haven't changed. If cash flow is the issue, I can take $1,200 now and $1,200 on the 30th, in writing.
+If the final notice date passes, do what you said.

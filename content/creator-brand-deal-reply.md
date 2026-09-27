@@ -59,7 +59,7 @@ You come across as professional and easy, you get paid properly, and you decline
 - Working without a written brief.
 
 ## If they lowball, go quiet, or push back
-If they counter below your floor after you have already offered a smaller package, decline in one line and leave it there. Do not justify your rate. If a brand goes silent after you quote, one follow-up after a week, then move on; silence is a no. If they push for more deliverables at the same price, say what the extra costs.
-> Thanks for coming back to me. $300 for a reel isn't something I can do, so I'll pass this time. If the budget changes for a future campaign, I'd be glad to hear from you.
-> Adding a second reel takes it to $1,900. Happy to do that, or to keep it at the original scope.
-If they get sharp ("other creators do it for free"), do not argue the market. "That's fair, I'm just not the right fit for this one", and stop.
+If they counter below your floor after you have already offered a smaller package, decline in one line and leave it there. If a brand goes silent after you quote, one follow-up after a week, then move on; silence is a no.
+> Thanks for coming back. $300 isn't something I can do for a reel, so I'll pass this time. If the budget changes for a future campaign, I'd be glad to hear from you.
+If they get sharp ("other creators do it for free"), do not argue the market:
+> That's fair, I'm just not the right fit for this one. Best of luck with the launch.

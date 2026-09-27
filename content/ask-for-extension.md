@@ -57,7 +57,7 @@ They grant it, and think better of you for asking early with a plan rather than 
 - Asking for a vague amount of time.
 
 ## If they say no
-Take it cleanly, do not re-argue, and switch to the trade. Ask what they need most by the original date, deliver that, and say exactly when the rest lands. If they go quiet, assume the original date stands and ship what you have with a note. Never let the deadline pass while you wait for an answer.
+Take it cleanly, do not re-argue, and switch to the trade. Ask what they need most by the original date, deliver that, and say exactly when the rest lands. If they go quiet, assume the original date stands and ship what you have with a note.
 > Understood, Friday stands. I'll send the summary and the first two sections by 5pm Friday and the full version Tuesday morning, unless you'd rather I hold everything for Friday and cut scope.
 If they are annoyed you asked at all, one line and move on:
 > Fair, I should have caught this earlier. Friday it is.

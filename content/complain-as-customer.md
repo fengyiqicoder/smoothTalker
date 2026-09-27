@@ -67,4 +67,3 @@ The person reading it can solve it with the information in front of them, and wa
 One escalation, then a different channel. If the first reply is a scripted no, send the escalation message above once. If that fails, or they stop replying for a week, stop writing to the same inbox: a chargeback, the regulator or ombudsman, a formal complaints address, or a public post, in that order of restraint. Tell them the step before you take it, once.
 > I've asked twice and not had a resolution. If I don't hear back by Friday I'll raise a chargeback with my card provider for the $89 duplicate charge.
 > Thanks for confirming your position. I'll take this to [ombudsman / dispute scheme] and reference this thread.
-Keep every message factual and dated. The record you are building is what wins a dispute, not the tone.

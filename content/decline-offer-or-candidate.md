@@ -82,7 +82,6 @@ Whichever side you are on, the other person hears a clear no early, feels treate
 - Leaving the door open when it's closed.
 
 ## If they push back
-A declined offer sometimes brings a counter or a "what would change your mind". Answer honestly once: a number, a change, or nothing. If it is nothing, say so and do not get drawn into a second round. A rejected candidate may ask for more feedback or argue the decision. Give one more specific point if you have one; otherwise repeat the decision kindly and close.
-> I appreciate the counter, and it's a real one. My decision isn't about the package, so I'm going to hold to it. Thank you again for the process.
-> I understand it's disappointing. The decision is final, and the one thing I'd work on is [specific]. I meant what I said about reaching out if the product role opens.
-If a candidate gets angry, one short reply and no further debate.
+A declined offer sometimes brings a counter or "what would change your mind". Answer honestly once: a number, a change, or nothing. If nothing, say so and do not get drawn into a second round. A rejected candidate may argue or ask for more feedback: one more specific point if you have one, then repeat the decision kindly and close.
+> I appreciate the counter, and it's a real one. My decision isn't about the package, so I'm going to hold to it. Thank you again.
+> I understand it's disappointing. The decision is final, and the one thing I'd work on is [specific]. I meant what I said about the product role.

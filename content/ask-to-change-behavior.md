@@ -54,7 +54,7 @@ They change the specific thing, and the relationship is not damaged. Being right
 - Threats ("or I'm moving out") unless you mean it.
 
 ## If they get defensive or nothing changes
-Do not match the heat. Restate the specific ask once, in the same friendly register, and let it sit. If they say "you do it too", agree where it is true and go back to the one thing. If it changes for a week and then slips, that is normal; raise it again briefly rather than stewing.
+Do not match the heat. Restate the specific ask once, same friendly register, and let it sit. If they say "you do it too", agree where it is true and go back to the one thing. If it slips after a week, raise it again briefly rather than stewing.
 > I'm not saying you're messy, I'm just asking for same-day dishes. That's all it is.
 > Fair, I've left mine too. Can we both do same day from today?
-If a neighbour ignores two polite notes, stop writing notes and go to the building manager or landlord with dates. For a roommate, if it is a pattern across everything, the conversation is about whether the living setup works, not about dishes. See `set-boundary`.
+If a neighbour ignores two polite notes, go to the building manager or landlord with dates. If a roommate ignores everything, the real conversation is whether the living setup works. See `set-boundary`.

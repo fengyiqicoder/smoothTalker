@@ -9,7 +9,7 @@ updated: 2026-09-27
 # Telling a customer their order is delayed, lost, damaged or out of stock
 
 ## Goal
-The customer hears about the problem from you before they have to ask, knows what happens next and by when, and can choose between waiting, swapping or a refund in one reply. Most people accept a delay. They do not accept silence, a vague "soon", or having to chase.
+The customer hears about the problem from you before they have to ask, knows what happens next and by when, and can choose between waiting, swapping or a refund in one reply. People accept a delay. They do not accept silence, a vague "soon", or having to chase.
 
 ## Structure
 1. **Order number and the problem in the first line.** "Your order #4521 is delayed" beats "an update on your order".
@@ -20,13 +20,12 @@ The customer hears about the problem from you before they have to ask, knows wha
 6. **Your name and when they will next hear from you.**
 
 ## Principles
-- Proactive beats reactive. A delay message sent the day you learn of it costs almost nothing. The same news after a "where is my order?" email costs the relationship.
+- Proactive beats reactive. A delay message sent the day you learn of it costs almost nothing. The same news after "where is my order?" costs the relationship.
 - One firm date beats a soft range. If you must give a range, give the later end and beat it.
 - Make refund the easiest option to pick. Customers who see an easy exit usually choose to wait.
-- "Lost" means the courier trace has expired, not that tracking has not moved for two days.
+- "Lost" means the courier trace has expired, not that tracking has paused.
 - For damaged goods, ask for a photo and send the replacement. Do not make them return the broken item first.
-- Mass updates need a reply address a human reads.
-- B2B customers care less about apology and more about their own downstream plan. Give them what they need to tell their people.
+- B2B customers care less about apology than about their own downstream plan. Give them what they need to tell their people.
 
 ## Examples
 
@@ -56,9 +55,6 @@ The customer hears about the problem from you before they have to ask, knows wha
 > PO 2291 (the 400 units for the March launch) is now due at your warehouse on 11 March instead of 4 March, a component shortage on our side. To limit the impact, I can split it: 150 units on the 4th as planned, the remaining 250 on the 11th, at no extra freight. If the full quantity on the 4th is essential, tell me by Wednesday and I'll see what I can pull from another line. Confirmed schedule tomorrow morning either way.
 > Sara
 
-**Follow-up when it ships:**
-> It's on its way! Order #4521 shipped today, tracking [link], free express applied. Thanks for waiting.
-
 ## Avoid
 - "Due to unforeseen circumstances."
 - "Higher than usual demand."
@@ -69,4 +65,4 @@ The customer hears about the problem from you before they have to ask, knows wha
 - Waiting for the customer to notice.
 
 ## If it goes badly
-If they reply angrily, do not re-explain the cause. Confirm the action and date in two lines and offer the refund again: "Understood, and I'm sorry. Your replacement ships today by express and you'll have tracking by 5pm. If you'd rather I refund it, say the word and it's done." If they go silent after a mass update, do the default you promised. If a date slips a second time, refund the shipping unasked, say so, and give a date you are certain of, even if it is later than you would like.
+If they reply angrily, do not re-explain the cause. Confirm the action and date and offer the refund again: "Understood, and I'm sorry. Your replacement ships today by express and you'll have tracking by 5pm. If you'd rather I refund it, say the word and it's done." If they go silent, do the default you promised. If a date slips a second time, refund the shipping unasked and give a date you are certain of, even if it is later than you would like.
