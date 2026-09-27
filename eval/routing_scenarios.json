@@ -104,7 +104,7 @@
 {"q": "me and my bf are in the middle of a huge fight over text abt his friends bachelor party. every message is making it worse. what do i send to calm this down", "expect": ["de-escalate-argument"], "lang": "en"},
 {"q": "Can you help me ask a client for one more week on the brand guidelines deliverable? We're still waiting on their legal team's input, but I don't want it to read as us dropping the ball.", "expect": ["ask-for-extension"], "lang": "en"},
 {"q": "有个自称是我老板的人加我微信，说在开会不方便接电话，让我先帮他转两万给一个供应商，这是不是有问题？要怎么回？", "expect": ["suspicious-or-scam-message"], "lang": "zh"},
-{"q": "the guy i share an apartment with leaves dishes in the sink for days untill they smell. i've hinted twice. how do i just say it without making living together awful", "expect": ["ask-to-change-behavior"], "lang": "en"},
+{"q": "the guy i share an apartment with leaves dishes in the sink for days untill they smell. i've hinted twice. how do i just say it without making living together awful", "expect": ["ask-to-change-behavior", "roommate-and-shared-living"], "lang": "en"},
 {"q": "取引先に送った見積書の金額、一桁ずれていました。上司への報告と先方へのお詫びメールを書きたいです。", "expect": ["admit-mistake-at-work"], "lang": "ja"},
 {"q": "my friend has been canceling on everything for a month and barely answers texts. i think she might be depressed. what do i say that doesnt feel like pressure", "expect": ["check-in-on-someone-struggling"], "lang": "en"},
 {"q": "\"after careful consideration we've decided to move forward with another candidate\" — got this from my dream company after 5 rounds. should i reply? what would i even say", "expect": ["respond-to-job-rejection"], "lang": "en"},

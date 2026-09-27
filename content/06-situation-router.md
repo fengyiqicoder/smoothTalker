@@ -26,7 +26,8 @@ Answer three questions, then open the entry named. When two branches apply, open
 - To a job offer, or telling a candidate no: `decline-offer-or-candidate`
 - To a meeting, a "quick call", a recurring sync: `decline-meeting-or-protect-time`
 - To a boss's ask (stay late, take on more, an unrealistic deadline): `push-back-on-boss`
-- To a romantic advance, a second date, getting back together: `romantic-let-down` (ex reaching out: `respond-to-an-ex-or-breakup-message`)
+- To a romantic advance or a second date, early dating: `romantic-let-down`
+- To an ex who wants to talk or get back together: `respond-to-an-ex-or-breakup-message`
 - To a relative's pressure (marriage, kids, money, career): `family-pressure-and-nosy-questions`
 - To a repeated intrusion on time, space, or feelings: `set-boundary`
 
@@ -95,6 +96,7 @@ Answer three questions, then open the entry named. When two branches apply, open
 - A brand reaching out to a creator: `creator-brand-deal-reply`
 
 ### End something
+- A relationship: `respond-to-an-ex-or-breakup-message` (only a few dates in: `romantic-let-down`)
 - A conversation that will not end: `end-conversation-gracefully`
 
 ## Question 3: What is the temperature?

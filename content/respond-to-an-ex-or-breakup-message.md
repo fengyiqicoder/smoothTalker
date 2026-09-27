@@ -1,12 +1,12 @@
 ---
-title: Responding to an ex or sending a breakup message
+title: Breaking up by message, or responding to an ex
 category: personal
 tags: [ex, breakup, relationship, closure, get-back-together, stay-friends, belongings]
-triggers: [my ex texted me, ex reached out, how to reply to my ex, break up over text, want to end it by message, ex wants to get back together, stay friends with my ex, get my stuff back from my ex, closing the door with an ex]
-summary: Replying when an ex reaches out, breaking up by message when a call is not possible, declining a reunion, deciding on friendship, and sorting belongings, with close-the-door and reopen-carefully versions.
+triggers: [break up with my boyfriend, break up with my girlfriend, end my relationship, break up over text, want to end it by message, my ex texted me, ex reached out, how to reply to my ex, ex wants to get back together, stay friends with my ex, get my stuff back from my ex, closing the door with an ex]
+summary: Ending an established relationship by message, replying when an ex reaches out, declining a reunion, deciding on friendship, and sorting belongings. Early dating let-downs are romantic-let-down.
 updated: 2026-09-27
 ---
-# Responding to an ex or sending a breakup message
+# Breaking up by message, or responding to an ex
 
 ## Goal
 You say what you actually want, with no cruelty and no false hope. They know where they stand after one read.

@@ -2,11 +2,11 @@
 
 > A read-only library of conversation playbooks for AI agents: how to decline, apologise, negotiate, follow up, deliver bad news, set boundaries, and answer customers so the message lands well. Static JSON, no auth, CC BY 4.0.
 
-Load /data/all.json once and cache it. Always apply entries 00-how-to-use and 01-principles. Use 06-situation-router to pick the playbook when triggers do not match cleanly.
+Load /data/index.json and the core entries 00-how-to-use, 01-principles, 02-tone-calibration and 03-anti-patterns, pick one or two playbooks by their triggers and summary, then fetch /data/entries/{id}.json. If each fetch is costly, load /data/all.json once a day instead. Use 06-situation-router when nothing matches cleanly.
 
 ## Data
 - [Whole library](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/all.json): every playbook with full Markdown body
-- [Index](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/index.json): id, title, category, tags, triggers, summary
+- [Index](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/index.json): id, title, category, tags, triggers, summary. Start here
 - [One entry](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/entries/decline-request.json): /data/entries/{id}.json
 - [OpenAPI](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/openapi.json)
 

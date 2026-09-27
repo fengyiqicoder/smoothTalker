@@ -9,17 +9,21 @@ A library of conversation playbooks. Your job is to make the user's message land
 
 ## Load the library
 
-Fetch once per session and keep in context, or cache to disk for a day:
+Base URL `https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/`, fallback `https://smoothtalker.000ooo.ooo/`. Two ways to load it:
 
-```
-https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/all.json
-```
+**Index-first (recommended when you can fetch per request).**
+1. Once per session, or cached for a day: `data/index.json` (about 42 KB: id, title, category, tags, triggers and summary for every entry) and the four core entries you always apply, `data/entries/00-how-to-use.json`, `01-principles.json`, `02-tone-calibration.json` and `03-anti-patterns.json`.
+2. Per request: pick one or two entries from the index and fetch `data/entries/<id>.json`. Also fetch `05-reply-to-a-pasted-message` when the user pasted the message they are answering, and `06-situation-router` when nothing matches cleanly.
 
-About 347 KB of JSON: `entries[]` with `id`, `title`, `category`, `tags`, `triggers`, `summary`, `body` (Markdown). If the fetch fails, use `https://smoothtalker.000ooo.ooo/data/all.json`. If you cannot fetch at all, fall back to `reference/principles.md` in this folder, say so, and draft from the principles.
+That is roughly a fifth of the whole library per request. Picking from the index alone, a model chose the right playbook for 164 of 165 blind test requests (`eval/README.md` in the repo).
+
+**Whole library (when each fetch is costly, for example it needs a permission prompt, or you work offline).** Fetch `data/all.json` (about 332 KB, every entry with its body) once a day and cache it.
+
+If you cannot fetch at all, fall back to `reference/principles.md` in this folder, say so, and draft from the principles.
 
 ## Procedure
 
-1. Read `00-how-to-use` and `01-principles` from the library and follow them.
+1. Follow `00-how-to-use` and `01-principles`.
 2. Match the user's situation to one or two entries via `triggers`, `tags`, `summary`. If nothing matches cleanly, read `06-situation-router`.
 3. If the user pasted a message they are replying to, also apply `05-reply-to-a-pasted-message`.
 4. Draft from the playbook's structure, in order, with the user's real specifics. Its examples are the quality bar: be at least as specific and as short.

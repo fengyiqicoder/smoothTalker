@@ -11,6 +11,7 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - Push to the working branch only; a human merges to `main` (the live site).
 - Size budget: agents load `all.json` whole, so every entry costs context for every user. `build_index.py` warns above 450 KB and fails above 600 KB. Near the budget, merge overlapping entries, trim padding and improve quality instead of adding. Growth past the budget needs the index-first retrieval item below first.
 - Items marked "claimed" are being done by another session; skip them.
+- Routing: after adding an entry that overlaps an existing one, or changing titles, summaries or triggers, run the model routing check in `eval/README.md` and fix any confusion it finds (split the entries' scope in their summaries and triggers, and update `06-situation-router`). Add new scenarios to `eval/routing_scenarios.json` for each new entry.
 
 ## Queue (top first)
 
@@ -31,16 +32,17 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - [ ] mediating-between-two-people (friends fighting, two team members)
 
 ### Effectiveness: make existing entries land better
-- [ ] (claimed 2026-09-27) Add a 3-line "Quick version" at the top of the 10 most-used entries (apologize, decline-request, follow-up-unanswered, negotiate-price-or-salary, respond-to-angry-customer, landlord-tenant, push-back-on-boss, decline-invitation, set-boundary, reply-to-customer-inquiry-dm) so an agent can answer a one-line request without reading the whole body.
-- [ ] (claimed 2026-09-27) Audit every entry's `triggers` against how people actually type (short, lowercase, typos, "wtf do I say"). Add 2-3 colloquial triggers per entry where missing.
+- [x] ~~Quick version at the top of the 10 most-used entries~~ Dropped 2026-09-27: it repeats each entry's Structure section and costs size budget for every user.
+- [ ] (optional, low priority) Colloquial triggers. The model routing check scores 99.4% top-1 on 165 blind requests, so only add triggers for confusions it finds. The lexical eval (`scripts/eval_routing.py`) shows keyword gaps if you want to help weak keyword matchers, but do not stuff triggers to raise it.
 - [ ] Add a voice-note / phone-call variant to entries where the channel is often voice (cancel-or-reschedule, condolences, deliver-bad-news, apologize).
-- [ ] (claimed 2026-09-27) Add non-English trigger phrases (zh, es, pt, de, fr, ja) to the 15 most-used entries so matching works for non-English users. Keep bodies in English.
+- [ ] (optional, low priority) Non-English triggers. A model routes non-English requests correctly (33 of 34 in the check) without them; they only help keyword matching. If done, add 1 or 2 Chinese triggers per entry first, since Chinese is the second audience.
 - [ ] 02-tone-calibration: add a table of register markers per channel (WhatsApp, iMessage, Slack, LinkedIn, email, Instagram DM, Xiaohongshu/WeChat).
 - [ ] 04-phrase-bank: add a "replace this with that" table for the 30 most common weak phrases.
-- [ ] (claimed 2026-09-27) Write `scripts/eval_scenarios.json`: 40 scenarios with expected playbook ids, and `scripts/eval_match.py` that checks trigger/tag matching picks the expected entry with simple keyword overlap. Use it to tune triggers.
+- [x] Routing evals: `eval/routing_scenarios.json` (165 blind requests, 34 non-English), `scripts/eval_routing.py` (lexical) and `scripts/model_routing.py` (model reads only the index). Results and prompts in `eval/README.md`.
+- [ ] Re-run the end-to-end simulation in `eval/README.md` after every 6 to 8 new entries, with a few new scenarios aimed at them. Log the result in TESTLOG.md as a simulated round and fix the playbooks it exposes.
 
 ### Distribution
-- [ ] Index-first retrieval: document and test a flow where the agent loads `index.json` (small), picks entries, then fetches `entries/{id}.json`, so the library can grow past the all.json budget. Update the OpenAPI descriptions, `skill/SKILL.md` and `MUSE_PROMPT.md` to recommend it once the library passes about 110 entries. Keep `all.json` published for existing installs.
+- [ ] (claimed 2026-09-27) Index-first retrieval: document and test a flow where the agent loads `index.json` (small), picks entries, then fetches `entries/{id}.json`, so the library can grow past the all.json budget. Update the OpenAPI descriptions, `skill/SKILL.md` and `MUSE_PROMPT.md` to recommend it once the library passes about 110 entries. Keep `all.json` published for existing installs.
 - [ ] Add `skill/` folder to a zip release so it can be installed in Claude Code with one command; document in README.
 - [ ] Add a "Try it without Muse" section to index.html: paste-a-playbook prompt for ChatGPT/Claude/Gemini users.
 - [ ] Register with other agent connector directories when they open (record URLs and status here).

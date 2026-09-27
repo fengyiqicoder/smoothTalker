@@ -32,13 +32,15 @@ DOC_PATTERNS = [
   ("index.html", r"library of \d+ conversation playbooks", "library of {n} conversation playbooks"),
   ("index.html", r"Core \(\d+\)", "Core ({core})"),
   ("index.html", r"Personal \(\d+\), Work \(\d+\), Commerce \(\d+\)", "Personal ({personal}), Work ({work}), Commerce ({commerce})"),
-  ("MUSE_PROMPT.md", r"about \d+ KB", "about {kb} KB"),
-  ("skill/SKILL.md", r"About \d+ KB", "About {kb} KB"),
-  ("openapi.json", r"about \d+ KB", "about {kb} KB"),
+  ("MUSE_PROMPT.md", r"It is about \d+ KB", "It is about {kb} KB"),
+  ("skill/SKILL.md", r"`data/all\.json` \(about \d+ KB", "`data/all.json` (about {kb} KB"),
+  ("skill/SKILL.md", r"`data/index\.json` \(about \d+ KB", "`data/index.json` (about {index_kb} KB"),
+  ("openapi.json", r"in one request \(about \d+ KB\)", "in one request (about {kb} KB)"),
+  ("openapi.json", r"the index, about \d+ KB", "the index, about {index_kb} KB"),
 ]
 
 def sync_docs(full, kb):
-  counts = {"n": len(full), "kb": kb, "core": 0, "personal": 0, "work": 0, "commerce": 0}
+  counts = {"n": len(full), "kb": kb, "index_kb": round(INDEX.stat().st_size / 1024), "core": 0, "personal": 0, "work": 0, "commerce": 0}
   for e in full:
     counts[e["category"]] = counts.get(e["category"], 0) + 1
   changed = []
@@ -53,6 +55,12 @@ def sync_docs(full, kb):
       changed.append(rel)
   if changed:
     print("已同步文档中的数字：" + ", ".join(sorted(set(changed))))
+
+def dump_listing(today, entries):
+  """One entry per line: valid JSON, line-based diffs, and no indentation for agents to pay tokens for."""
+  head = json.dumps({"generated": today, "count": len(entries), "read_first": ["00-how-to-use", "01-principles"]}, ensure_ascii=False)
+  lines = ",\n".join(json.dumps(e, ensure_ascii=False, separators=(",", ":")) for e in entries)
+  return head[:-1] + ',"entries":[\n' + lines + "\n]}\n"
 
 def main():
   ENTRIES.mkdir(parents=True, exist_ok=True)
@@ -88,8 +96,8 @@ def main():
       print("校验失败："); [print("  -", x) for x in errors]; sys.exit(1)
 
   today = datetime.date.today().isoformat()
-  INDEX.write_text(json.dumps({"generated": today, "count": len(items), "read_first": ["00-how-to-use", "01-principles"], "entries": items}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-  ALL.write_text(json.dumps({"generated": today, "count": len(full), "read_first": ["00-how-to-use", "01-principles"], "entries": full}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+  INDEX.write_text(dump_listing(today, items), encoding="utf-8")
+  ALL.write_text(dump_listing(today, full), encoding="utf-8")
   kb = ALL.stat().st_size // 1024
   print(f"已生成 {len(items)} 条；all.json {kb} KB")
   sync_docs(full, kb)

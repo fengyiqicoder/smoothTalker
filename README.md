@@ -10,7 +10,7 @@ There is no server. It is an OpenAPI document plus JSON files on GitHub Pages.
 - Agent-safe fetch URL (the custom domain is blocked from some agent networks, including Muse's VM, and github.io redirects to it): https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/all.json
 - OpenAPI: https://smoothtalker.000ooo.ooo/openapi.json
 - Whole library in one file: https://smoothtalker.000ooo.ooo/data/all.json
-- Index only: https://smoothtalker.000ooo.ooo/data/index.json
+- Index only (the recommended entry point for agents that fetch per request): https://smoothtalker.000ooo.ooo/data/index.json
 
 ## Use it as an Agent Skill
 
@@ -33,12 +33,13 @@ Every playbook has the same shape: **Goal, Structure, Principles, Examples at se
 
 ## How the agent uses it
 
-1. Loads `all.json` once and caches it.
-2. Always applies `00-how-to-use` and `01-principles`.
-3. Matches the user's situation to a playbook via `triggers`, `tags`, `summary`.
-4. Writes the message from the playbook's structure with the user's real specifics.
-5. Calibrates tone (`02-tone-calibration`) and checks against `03-anti-patterns`.
-6. Returns two ready-to-send versions unless one was asked for.
+1. Loads the index (`data/index.json`, small) and the core entries `00-how-to-use`, `01-principles`, `02-tone-calibration` and `03-anti-patterns`. Agents that pay for every fetch, such as Muse with its permission prompts, load `data/all.json` once a day instead.
+2. Matches the user's situation to one or two playbooks via `triggers`, `tags` and `summary`, or `06-situation-router` when nothing matches cleanly, and fetches `data/entries/<id>.json`.
+3. Writes the message from the playbook's structure with the user's real specifics.
+4. Calibrates tone and checks against the anti-patterns.
+5. Returns two ready-to-send versions unless one was asked for, and names the playbook used.
+
+How well this works is measured in `eval/`: a model picking from the index alone chose the right playbook for 164 of 165 blind requests, and simulated end-to-end replies passed 20 of 20. See `eval/README.md` and `TESTLOG.md`.
 
 ## Authoring
 

@@ -1,9 +1,9 @@
 ---
 title: Turning someone down romantically
 category: personal
-tags: [dating, rejection, not interested, let down, break up, friend zone]
-triggers: [not interested in them, let them down gently, don't want a second date, reject politely, they asked me out, end things after a few dates, breakup text]
-summary: Kind and unambiguous rejection at each stage: after a first message, after a date or two, and ending a short relationship.
+tags: [dating, rejection, not interested, let down, early dating, friend zone]
+triggers: [not interested in them, let them down gently, don't want a second date, reject politely, they asked me out, end things after a few dates, no spark after a few dates, turn down a date]
+summary: Kind and unambiguous rejection in early dating: after a first message, after a date or two, or a few weeks in. Ending an established relationship is respond-to-an-ex-or-breakup-message.
 updated: 2026-09-27
 ---
 # Turning someone down romantically
