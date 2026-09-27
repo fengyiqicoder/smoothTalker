@@ -3,7 +3,7 @@ title: Neighbour disputes (noise, parking, fences, shared walls, escalation)
 category: personal
 tags: [neighbour, neighbor, noise, parking, fence, building]
 triggers: [neighbor keeps parking in my spot, note to my upstairs neighbour about noise, neighbour's dog barks all day, their tree is over my fence, complain to the building about a neighbor, neighbour ignored my note, write to the council about my neighbour, neighbor party every weekend]
-summary: Raising an ongoing problem with a neighbour (noise, parking, fences, pets, shared walls), then escalating in writing to the building, landlord or council. A friend's or colleague's habit: ask-to-change-behavior.
+summary: Raising an ongoing problem with a neighbour (noise, parking, fences, pets, shared walls), then escalating in writing to the building, landlord or council. A friend's or housemate's habit: ask-to-change-behavior.
 updated: 2026-09-27
 ---
 # Neighbour disputes
@@ -11,7 +11,7 @@ updated: 2026-09-27
 ## Goal
 The problem stops and you can still nod at each other by the bins. You will probably live next to this person for years, and they can make your home miserable in ways a colleague never could, so the first message is friendly, specific and easy to agree to. If friendliness fails, the escalation is calm, dated and in writing.
 
-Living with the person: `roommate-and-shared-living`. A habit of a friend or colleague: `ask-to-change-behavior`.
+Living with the person: `roommate-and-shared-living`. A habit of a friend or family member: `ask-to-change-behavior`.
 
 ## Structure
 1. **Introduce yourself if you have not met.** Name and flat or house number. People are kinder to a face than to "the neighbour."

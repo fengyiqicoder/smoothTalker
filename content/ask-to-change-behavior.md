@@ -1,5 +1,5 @@
 ---
-title: Asking someone to change a behaviour (friend, partner, colleague, housemate)
+title: Asking someone to change a behaviour (friend, partner, family, housemate)
 category: personal
 tags: [roommate, neighbour, noise, dishes, habit, complaint, request]
 triggers: [roommate never cleans, ask a friend to stop, tell them to stop, ask them to be quieter, they keep doing, it's annoying me, chores]
