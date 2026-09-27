@@ -45,6 +45,7 @@ Answer three questions, then open the entry named. When two branches apply, open
 - Someone to stop or change a behaviour: `ask-to-change-behavior` (a roommate, or chores, bills and guests in a shared home: `roommate-and-shared-living`; a neighbour, or escalating to the building or council: `neighbour-disputes`)
 - A decision from a group: `group-chat-coordination`
 - Someone to fix a problem they caused (landlord, contractor, shop): `landlord-tenant-and-service-providers` or `complain-as-customer`
+- A co-parent to agree a swap, a handover time or a shared cost: `co-parenting-and-ex-logistics`
 - A decision from someone senior, or a stuck problem unstuck: `escalate-an-issue`
 
 ### Apologise or own something
@@ -60,6 +61,7 @@ Answer three questions, then open the entry named. When two branches apply, open
 - A price increase or policy change to customers: `price-increase-and-customer-announcements`
 - An order problem: `shipping-delay-or-out-of-stock`
 - Resigning or leaving a group: `leave-or-quit-gracefully`
+- Moving out of a rental, ending a lease early, or a landlord not renewing: `give-notice-to-a-landlord-or-tenant`
 - Availability while away: `out-of-office-and-away-messages`
 
 ### Respond to heat

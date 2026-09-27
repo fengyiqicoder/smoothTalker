@@ -9,7 +9,7 @@ updated: 2026-09-27
 # Neighbour disputes
 
 ## Goal
-The problem stops and you can still nod at each other by the bins. You will probably live next to this person for years, and they can make your home miserable in ways a colleague never could, so the first message is friendly, specific and easy to agree to. If friendliness fails, the escalation is calm, dated and in writing.
+The problem stops and you can still nod at each other by the bins. You may live next to them for years, so the first message is friendly, specific and easy to agree to. If friendliness fails, the escalation is calm, dated and in writing.
 
 Living with the person: `roommate-and-shared-living`. A habit of a friend or family member: `ask-to-change-behavior`.
 
@@ -22,8 +22,9 @@ Living with the person: `roommate-and-shared-living`. A habit of a friend or fam
 
 ## Principles
 - Knock or leave a friendly note first. Going straight to the landlord, the building or the council turns a fixable annoyance into a feud.
-- Pick a calm moment. Not at 2am in your dressing gown, and not the morning after while you are still angry.
-- Offer a trade where you can. "If we can do quiet after 11, I'm happy to give you a heads-up before our kids' party."
+- Pick a calm moment, not at 2am and not while you are still angry.
+- Ask for what they can actually do. Parents cannot stop a toddler running; they can add a rug or keep play away from your bedroom.
+- Speak only for neighbours who agreed. A letter signed by three named households carries more weight than "everyone on the street", and a claim others did not sign up to will come out.
 - Keep a simple log from the start: dates, times, what happened. You hope never to need it.
 - Know who actually decides. Parking may be the building's rules, trees and fences local law, noise the council. Check before you threaten anything.
 - Escalate one step at a time, and tell them before you do. Surprise complaints end relationships; announced ones often fix the problem.
@@ -37,7 +38,7 @@ Living with the person: `roommate-and-shared-living`. A habit of a friend or fam
 > Hi, I'm Tom from number 12. The bay by the gate is ours on the lease, and it's been taken a few evenings this week. Could you use the visitor spaces instead? Easy mistake, the markings are faded.
 
 **Dog barking while they're at work:**
-> Hi, I live next door at 8. Just so you know, Rufus barks a lot during the day while you're out, often for an hour or so around noon. I figured you'd want to know. Happy to text you if it happens again so you can see the times.
+> Hi, I live next door at 8. Just so you know, Rufus barks a lot during the day while you're out, often for an hour or so around noon. I figured you'd want to know.
 
 **Tree or hedge over the fence:**
 > Hi Mr Okafor, your oak is hanging quite low over our side now and dropping into the gutter. Would you be OK with us trimming back the branches over our fence line? We'll cover the cost and hand back anything you'd like to keep.
@@ -60,6 +61,6 @@ Living with the person: `roommate-and-shared-living`. A habit of a friend or fam
 - Threatening legal action or the police over things they do not handle.
 
 ## If it goes badly
-If they react angrily at the door, do not argue the facts on the doorstep. Say you will leave it with them and walk away; follow up in writing a few days later. If they ignore two polite messages, escalate one step (building manager, landlord, managing agent, then council or mediation service), with your log and copies of what you sent. Many areas offer free community mediation for neighbours, which works better than it sounds. If you ever feel threatened or there is harassment, stop engaging directly and contact the police or your local authority.
+If they react angrily at the door, do not argue the facts on the doorstep. Say you will leave it with them and walk away; follow up in writing a few days later. If they ignore two polite messages, escalate one step (building manager, landlord, managing agent, then council or mediation service), with your log and copies of what you sent. Many areas offer free community mediation, which works better than it sounds. If you ever feel threatened or there is harassment, stop engaging directly and contact the police or your local authority.
 > I can see this has landed badly, that wasn't my aim. I'll leave it with you and we can talk another time.
 > Since our chat hasn't changed things, I've asked the building manager to help. It's not personal, I'd just like a fix that works for both of us.

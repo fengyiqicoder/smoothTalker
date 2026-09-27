@@ -180,5 +180,9 @@
 {"q": "just started a dog grooming business. what should i text people right after they book so they know what to bring and don't no-show", "expect": ["customer-onboarding-and-welcome"], "lang": "en"},
 {"q": "Acabo de firmar con un cliente nuevo para su página web. Necesito que me mande logos, textos y accesos antes del lunes. ¿Cómo le escribo el correo de bienvenida?", "expect": ["customer-onboarding-and-welcome"], "lang": "es"},
 {"q": "the new guy on my team really smells by the afternoon and people are starting to avoid him. i'm his team lead. how do i even start this", "expect": ["tell-someone-something-awkward"], "lang": "en"},
-{"q": "my friend just posted her engagement announcement on instagram and spelled her fiance's name wrong lol. do i tell her and how", "expect": ["tell-someone-something-awkward"], "lang": "en"}
+{"q": "my friend just posted her engagement announcement on instagram and spelled her fiance's name wrong lol. do i tell her and how", "expect": ["tell-someone-something-awkward"], "lang": "en"},
+{"q": "my ex wants to take our daughter to his mum's on my weekend and just told her before asking me. i want to say yes but not let this become the norm", "expect": ["co-parenting-and-ex-logistics"], "lang": "en"},
+{"q": "离婚两年了，孩子的补习班费用每次都是我先垫，前夫总拖着不给他那一半。怎么发微信提醒他不吵起来？", "expect": ["co-parenting-and-ex-logistics"], "lang": "zh"},
+{"q": "got a job in another city and need out of my apartment 4 months before the lease is up. landlord is kind of strict. what do i send", "expect": ["give-notice-to-a-landlord-or-tenant"], "lang": "en"},
+{"q": "I own a small rental house and I'm moving my mother into it, so I can't renew my tenants' lease in the spring. They've been great. How do I tell them?", "expect": ["give-notice-to-a-landlord-or-tenant"], "lang": "en"}
 ]

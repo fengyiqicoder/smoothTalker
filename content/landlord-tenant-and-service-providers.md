@@ -3,7 +3,7 @@ title: Landlords, tenants, contractors and service providers
 category: personal
 tags: [landlord, tenant, rent, repairs, deposit, contractor, plumber, quote, service provider]
 triggers: [landlord wants to raise rent, ask landlord to fix, get my deposit back, rent increase, contractor didn't finish, quote is too high, plumber overcharged, tell my tenant, dispute with landlord, repair request]
-summary: Firm, documented, polite messages for housing and home-service situations: pushing back on a rent increase, requesting repairs, recovering a deposit, disputing a contractor's work or price.
+summary: Firm, documented, polite messages for housing and home-service situations: pushing back on a rent increase, requesting repairs, recovering a deposit, disputing a contractor. Ending a tenancy: give-notice-to-a-landlord-or-tenant.
 updated: 2026-09-27
 ---
 # Landlords, tenants, contractors and service providers

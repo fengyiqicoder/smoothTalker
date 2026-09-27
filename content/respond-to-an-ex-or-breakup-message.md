@@ -3,7 +3,7 @@ title: Breaking up by message, or responding to an ex
 category: personal
 tags: [ex, breakup, relationship, closure, get-back-together, stay-friends, belongings]
 triggers: [break up with my boyfriend, break up with my girlfriend, end my relationship, break up over text, want to end it by message, my ex texted me, ex reached out, how to reply to my ex, ex wants to get back together, stay friends with my ex, get my stuff back from my ex, closing the door with an ex]
-summary: Ending an established relationship by message, replying when an ex reaches out, declining a reunion, deciding on friendship, and sorting belongings. Early dating let-downs are romantic-let-down.
+summary: Ending an established relationship by message, replying when an ex reaches out, declining a reunion, deciding on friendship, and sorting belongings. Early dating: romantic-let-down. Arranging things for your children: co-parenting-and-ex-logistics.
 updated: 2026-09-27
 ---
 # Breaking up by message, or responding to an ex
