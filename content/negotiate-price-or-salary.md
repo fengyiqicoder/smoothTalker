@@ -2,7 +2,7 @@
 title: Negotiating price, rate or salary
 category: work
 tags: [negotiate, salary, rate, price, offer, counter, raise]
-triggers: [negotiate salary, counter the offer, ask for more money, they lowballed me, negotiate the price, my rate is, haggle, ask for a raise]
+triggers: [negotiate salary, counter the offer, ask for more money, they lowballed me, negotiate the price, my rate is, haggle, negotiate my rate]
 summary: How to ask for more without sounding entitled or apologetic: anchor with a number and a reason, stay warm, and leave room for them to say yes.
 updated: 2026-09-27
 ---

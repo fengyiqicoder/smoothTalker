@@ -40,8 +40,8 @@ Answer three questions, then open the entry named. When two branches apply, open
 - A reference, recommendation, testimonial from a person: `ask-for-reference-or-recommendation`
 - A review or testimonial from customers: `ask-for-review-or-testimonial`
 - A better price or a waived fee, as the buyer: `ask-for-a-discount-as-a-customer`
-- Higher pay or a higher price, as the seller or employee: `negotiate-price-or-salary`
-- Someone to stop or change a behaviour: `ask-to-change-behavior`
+- Higher pay or a higher price, as the seller or employee: `negotiate-price-or-salary` (a raise or promotion in your current job: `ask-for-a-raise-or-promotion`)
+- Someone to stop or change a behaviour: `ask-to-change-behavior` (a roommate, or chores, bills and guests in a shared home: `roommate-and-shared-living`)
 - A decision from a group: `group-chat-coordination`
 - Someone to fix a problem they caused (landlord, contractor, shop): `landlord-tenant-and-service-providers` or `complain-as-customer`
 - A decision from someone senior, or a stuck problem unstuck: `escalate-an-issue`
@@ -75,7 +75,7 @@ Answer three questions, then open the entry named. When two branches apply, open
 - Small talk, keeping a chat alive: `small-talk`
 - Someone the user has not spoken to in a long time: `reconnect-after-silence`
 - Dating, from asking out to the text after date one: `ask-someone-out-and-early-dating`
-- Thanks, praise, receiving praise: `give-and-receive-compliments`
+- Thanks, praise, receiving praise: `give-and-receive-compliments` (a thank-you note or card for a gift, host, mentor or favour: `thank-you-notes`)
 - A recruiter wrote: `respond-to-recruiter`; after a rejection: `respond-to-job-rejection`
 
 ### Support someone

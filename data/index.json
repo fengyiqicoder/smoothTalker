@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-27",
-  "count": 75,
+  "count": 78,
   "read_first": [
     "00-how-to-use",
     "01-principles"
@@ -261,6 +261,31 @@
         "ask a SaaS company for a discount"
       ],
       "summary": "How to ask any seller for a lower price or a perk: anchor on a real fact, name a specific number, make yes easy, and stay gracious if the answer is no.",
+      "updated": "2026-09-27"
+    },
+    {
+      "id": "ask-for-a-raise-or-promotion",
+      "title": "Asking for a raise or promotion (in your current job)",
+      "category": "work",
+      "tags": [
+        "raise",
+        "promotion",
+        "pay rise",
+        "career",
+        "manager",
+        "performance review"
+      ],
+      "triggers": [
+        "ask for a raise",
+        "how do I ask my boss for more money",
+        "ask for a promotion",
+        "I deserve a raise",
+        "email my manager about a pay rise",
+        "underpaid compared to my coworkers",
+        "follow up after asking for a raise",
+        "they said no to my raise"
+      ],
+      "summary": "How to ask your current employer for more pay or a bigger role: pick the timing, book the meeting, bring evidence and one number, and follow up in writing whatever the answer.",
       "updated": "2026-09-27"
     },
     {
@@ -1239,7 +1264,7 @@
         "negotiate the price",
         "my rate is",
         "haggle",
-        "ask for a raise"
+        "negotiate my rate"
       ],
       "summary": "How to ask for more without sounding entitled or apologetic: anchor with a number and a reason, stay warm, and leave room for them to say yes.",
       "updated": "2026-09-27"
@@ -1644,6 +1669,31 @@
       "updated": "2026-09-27"
     },
     {
+      "id": "roommate-and-shared-living",
+      "title": "Roommates and shared living (chores, bills, guests, noise, moving out)",
+      "category": "personal",
+      "tags": [
+        "roommate",
+        "flatmate",
+        "housemate",
+        "chores",
+        "bills",
+        "shared house"
+      ],
+      "triggers": [
+        "my roommate keeps",
+        "flatmate won't clean",
+        "housemate never pays bills",
+        "roommate's partner basically lives here",
+        "tell my roommate I'm moving out",
+        "roommate is too loud at night",
+        "house chat about chores",
+        "split utilities with roommates"
+      ],
+      "summary": "How to raise chores, bills, guests, noise and moving out with people you live with, as shared-house admin with a proposal, so the home stays livable while you sort it.",
+      "updated": "2026-09-27"
+    },
+    {
       "id": "say-no-to-a-customer-request",
       "title": "Saying no to a customer request without losing the customer",
       "category": "commerce",
@@ -1824,6 +1874,31 @@
         "reply to suspicious message"
       ],
       "summary": "Whether and how to reply to a message that may be a scam or a hacked account: verify through a channel you already had, do not engage, warn the real friend, and talk to a relative without shaming them.",
+      "updated": "2026-09-27"
+    },
+    {
+      "id": "thank-you-notes",
+      "title": "Thank-you notes (gifts, hospitality, mentors, favours, late thanks)",
+      "category": "personal",
+      "tags": [
+        "thank you",
+        "gratitude",
+        "gift",
+        "card",
+        "host",
+        "mentor"
+      ],
+      "triggers": [
+        "write a thank you note",
+        "thank you card message",
+        "thank them for the gift",
+        "thank you for having us",
+        "thank my mentor",
+        "thank you message for a favour",
+        "belated thank you",
+        "what to write in a thank you card"
+      ],
+      "summary": "How to write a thank-you that feels personal: name the specific thing, say what it did for you, and look ahead. Covers gifts, hosts, mentors, favours, weddings and very late thanks.",
       "updated": "2026-09-27"
     },
     {

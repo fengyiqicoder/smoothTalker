@@ -15,17 +15,17 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 ## Queue (top first)
 
 ### Scope: playbooks still missing
-- [ ] (claimed 2026-09-27 loop) roommate-and-shared-living (chores, bills, guests, noise, moving out)
+- [x] roommate-and-shared-living (chores, bills, guests, noise, moving out)
 - [ ] co-parenting-and-ex-logistics (schedules, money, handovers, keeping it about the kids)
 - [ ] wedding-and-event-host-messages (invites, plus-one no, registry, dress code, uninviting)
 - [ ] neighbour-disputes (noise, parking, fence, shared wall; escalation to building or council)
-- [ ] (claimed 2026-09-27 loop) ask-for-a-raise-or-promotion (separate from negotiating an offer: timing, evidence, the meeting request, the follow-up email)
+- [x] ask-for-a-raise-or-promotion (separate from negotiating an offer: timing, evidence, the meeting request, the follow-up email)
 - [ ] give-notice-to-a-landlord-or-tenant (move-out notice, ending a lease early, deposit expectations)
 - [ ] respond-to-a-difficult-diagnosis-or-health-news (from friend or family; what to say, what not to ask)
 - [ ] team-announcements-as-a-manager (reorg, someone leaving, a missed target, a new policy)
 - [ ] customer-onboarding-and-welcome (first message after purchase, setting expectations, asking for the info you need)
 - [ ] collect-a-debt-from-a-business-or-client-at-scale (dunning sequence: day 1, 7, 14, 30, final notice; when to stop)
-- [ ] (claimed 2026-09-27 loop) thank-you-notes (gifts, hospitality, mentorship, after a favour; handwritten vs text)
+- [x] thank-you-notes (gifts, hospitality, mentorship, after a favour; handwritten vs text)
 - [ ] telling-someone-something-awkward-about-themselves (body odour, food in teeth, a mistake in their public post)
 - [ ] responding-to-a-compliment-that-is-actually-a-hit-on (work context, keep it light and closed)
 - [ ] mediating-between-two-people (friends fighting, two team members)
@@ -51,3 +51,4 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 
 ## Log
 - 2026-09-27: v1.3. Added lint (scripts/lint.py), CI, situation router (06), Agent Skill wrapper (skill/SKILL.md), llms.txt, 16 new playbooks, "If it goes badly" sections on 40 entries, Goal/Structure on the 7 that lacked them, this backlog.
+- 2026-09-27: loop run. Added roommate-and-shared-living, ask-for-a-raise-or-promotion, thank-you-notes (78 entries, all.json 347 KB); router and README updated; moved the "ask for a raise" trigger from negotiate-price-or-salary to the new entry.
