@@ -5,7 +5,7 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 ## Rules for every iteration
 - Content quality beats count. One excellent playbook beats three thin ones.
 - Every change passes `python3 scripts/lint.py` and `python3 scripts/build_index.py`; commit `data/` with the content.
-- Keep counts and the all.json size in sync in `README.md`, `index.html`, `openapi.json`, `MUSE_PROMPT.md` and `skill/SKILL.md`. Never edit `SUBMISSION.md`'s submitted text; it records what was sent on 2026-09-25.
+- `build_index.py` keeps the entry counts and the all.json size in `index.html`, `openapi.json`, `MUSE_PROMPT.md` and `skill/SKILL.md` in sync; commit what it changes. Never edit `SUBMISSION.md`'s submitted text; it records what was sent on 2026-09-25.
 - Never change the shape of `data/*.json` fields or the OpenAPI paths (agents depend on them).
 - No em-dashes anywhere in content. No manipulative or deceptive advice, ever.
 - Push to the working branch only; a human merges to `main` (the live site).

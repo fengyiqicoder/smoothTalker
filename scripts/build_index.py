@@ -27,6 +27,33 @@ def parse(path: Path):
         meta[k.strip()] = v
     return meta, body
 
+# Counts and sizes quoted in the docs. build keeps them in sync so nobody edits numbers by hand.
+DOC_PATTERNS = [
+  ("index.html", r"library of \d+ conversation playbooks", "library of {n} conversation playbooks"),
+  ("index.html", r"Core \(\d+\)", "Core ({core})"),
+  ("index.html", r"Personal \(\d+\), Work \(\d+\), Commerce \(\d+\)", "Personal ({personal}), Work ({work}), Commerce ({commerce})"),
+  ("MUSE_PROMPT.md", r"about \d+ KB", "about {kb} KB"),
+  ("skill/SKILL.md", r"About \d+ KB", "About {kb} KB"),
+  ("openapi.json", r"about \d+ KB", "about {kb} KB"),
+]
+
+def sync_docs(full, kb):
+  counts = {"n": len(full), "kb": kb, "core": 0, "personal": 0, "work": 0, "commerce": 0}
+  for e in full:
+    counts[e["category"]] = counts.get(e["category"], 0) + 1
+  changed = []
+  for rel, pat, tmpl in DOC_PATTERNS:
+    f = ROOT / rel
+    if not f.exists():
+      continue
+    text = f.read_text(encoding="utf-8")
+    new_text = re.sub(pat, tmpl.format(**counts), text)
+    if new_text != text:
+      f.write_text(new_text, encoding="utf-8")
+      changed.append(rel)
+  if changed:
+    print("已同步文档中的数字：" + ", ".join(sorted(set(changed))))
+
 def main():
   ENTRIES.mkdir(parents=True, exist_ok=True)
   for old in ENTRIES.glob("*.json"):
@@ -65,6 +92,7 @@ def main():
   ALL.write_text(json.dumps({"generated": today, "count": len(full), "read_first": ["00-how-to-use", "01-principles"], "entries": full}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
   kb = ALL.stat().st_size // 1024
   print(f"已生成 {len(items)} 条；all.json {kb} KB")
+  sync_docs(full, kb)
   if kb > BUDGET_FAIL_KB:
     print(f"all.json 超过 {BUDGET_FAIL_KB} KB 上限：合并或精简条目，不要再加。见 BACKLOG.md 的 Size budget。"); sys.exit(1)
   if kb > BUDGET_WARN_KB:
