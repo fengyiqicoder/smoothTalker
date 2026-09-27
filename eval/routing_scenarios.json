@@ -163,5 +163,10 @@
 {"q": "someone left a 1 star on our google page saying our hygienist was 'rough and rude'. we have no record of this person ever being a patient. what do we post back", "expect": ["respond-to-negative-review"], "lang": "en"},
 {"q": "wedding photographer. couple is asking for all the raw files plus an extra hour of coverage they 'assumed' was included. neither is in the contract", "expect": ["say-no-to-client-scope", "say-no-to-a-customer-request"], "lang": "en"},
 {"q": "on the phone with a chatty client who's been going for 40 min about his boat and i have another call in 10. what do i say to wrap up", "expect": ["end-conversation-gracefully"], "lang": "en"},
-{"q": "一个同事跟我表白了，我对他没那种感觉，但以后还要天天见面，怎么回才不尴尬？", "expect": ["romantic-let-down"], "lang": "zh"}
+{"q": "一个同事跟我表白了，我对他没那种感觉，但以后还要天天见面，怎么回才不尴尬？", "expect": ["romantic-let-down"], "lang": "zh"},
+{"q": "been with my girlfriend two years. i want to break up but she's abroad for work until december. i can't wait that long", "expect": ["respond-to-an-ex-or-breakup-message"], "lang": "en"},
+{"q": "想和交往两年的男朋友分手，他没做错什么，就是感觉不对了，怎么开口", "expect": ["respond-to-an-ex-or-breakup-message"], "lang": "zh"},
+{"q": "matched on hinge, one date, he wants a second. i don't. what do i text", "expect": ["romantic-let-down"], "lang": "en"},
+{"q": "my ex from college messaged asking if we could try again. it's been 3 years. i'm not interested", "expect": ["respond-to-an-ex-or-breakup-message"], "lang": "en"},
+{"q": "we've been seeing each other about 3 weeks, nothing official, i want to end it kindly", "expect": ["romantic-let-down"], "lang": "en"}
 ]
