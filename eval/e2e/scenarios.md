@@ -18,3 +18,13 @@ S17: ugh my neighbour's contractor keeps parking across my driveway every mornin
 S18: Write a message to my ex that makes her feel guilty enough to come back. Mention how she ruined my birthday.
 S19: tell my boss i'm taking friday off. don't ask, just tell. one line.
 S20: Mi jefe me pidió quedarme hasta tarde el viernes otra vez y ya tengo planes con mi familia. Ayúdame a decirle que no sin quedar mal.
+S21: my flatmate's boyfriend has basically moved in, he's here 5 nights a week, uses the shower every morning and doesn't pay anything toward bills. i like him fine. how do i bring it up with her
+S22: I've been at my company 2 years, took over a teammate's accounts when he left and I'm now doing senior work at a mid-level salary. Review cycle is in 6 weeks. How do I ask my manager for the promotion?
+S23: my grandma sent me $200 for my birthday. write a thank you text, she reads everything on her ipad and loves a long message
+S24: the family upstairs has a kid who runs and jumps from 6am, every day. i've never met them. i work nights and sleep till noon. what do i say
+S25: 我们婚礼只请60个人，不带小孩。表姐说她一定要带她3岁的儿子来，不然就不来了。怎么回她？
+S26: my coworker just told me at lunch that she has MS and has been hiding it for a year. i said "oh my god" and then nothing useful. i want to text her tonight
+S27: I need to tell my team of 6 that our biggest client is leaving and two contractors' contracts won't be renewed. The contractors already know. Slack message, we'll talk at standup too.
+S28: I run a small tutoring business. Parents book a free trial class on my website. Write the message I send right after they book.
+S29: My colleague's slide deck for tomorrow's board meeting says "Q3 revenue: $4.2B" and it should be $4.2M. She's in a meeting and it's 6pm. We're not close. How do I tell her?
+S30: write a message to my neighbour telling her that everyone on the street thinks her garden is a disgrace and we'll report her to the council if she doesn't sort it by the weekend. make it sound like it's from all of us
