@@ -15,7 +15,7 @@ You say what you actually want, with no cruelty and no false hope. They know whe
 1. **Acknowledge briefly.** "Good to hear you're doing well."
 2. **State the position in one sentence.** "I'm not in a place to be in touch."
 3. **No reason, or one clean reason.** Reasons are debate material.
-4. **A kind full stop.** "I wish you well." Then do not reply to the reply.
+4. **A kind full stop.** Then do not reply to the reply.
 
 ## Ex reaches out, you are open to it
 1. **Warmth, honestly sized.** Do not overplay it.
@@ -70,7 +70,7 @@ Logistics only. Date, method, done.
 > I've got your books, the grey hoodie and the charger in a bag. I can leave it with [neighbour / at reception] on Thursday, or you can collect it Saturday 2 to 4. Which suits?
 
 **Ex who treated you badly, no warmth required:**
-> Please don't contact me again. I won't be replying to this or to future messages.
+> Please don't contact me again. I won't be replying.
 
 ## Avoid
 - "I still care about you but..." It reads as a hook.
@@ -78,10 +78,10 @@ Logistics only. Date, method, done.
 - "Let's see how things go" when you know how things go.
 - Asking how they feel about it in the same message. Say your part and give them room.
 - Replying within minutes at midnight. Wait for daylight.
-- Blocking without a line, when a line is safe to send. One sentence spares them weeks of guessing. If they are unsafe, skip the sentence and block.
+- Blocking without a line, when a line is safe to send. One sentence spares them weeks of guessing. If they are unsafe, just block.
 
 ## If they push back
-If they argue, bargain or send a long reply, you do not need to answer each point.
+If they argue or bargain, you do not need to answer each point.
 > I've heard you and I'm not going to argue it. My answer is the same.
 
 If they keep messaging after you asked them to stop, send one final line, then mute or block:
