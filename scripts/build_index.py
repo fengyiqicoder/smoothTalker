@@ -101,6 +101,11 @@ def main():
   kb = ALL.stat().st_size // 1024
   print(f"已生成 {len(items)} 条；all.json {kb} KB")
   sync_docs(full, kb)
+  principles = next(e for e in full if e["id"] == "01-principles")["body"] + "\n"
+  ref = ROOT / "skill" / "reference" / "principles.md"
+  if ref.parent.exists() and (not ref.exists() or ref.read_text(encoding="utf-8") != principles):
+    ref.write_text(principles, encoding="utf-8")
+    print("已更新 skill/reference/principles.md")
   if kb > BUDGET_FAIL_KB:
     print(f"all.json 超过 {BUDGET_FAIL_KB} KB 上限：合并或精简条目，不要再加。见 BACKLOG.md 的 Size budget。"); sys.exit(1)
   if kb > BUDGET_WARN_KB:

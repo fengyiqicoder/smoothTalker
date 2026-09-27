@@ -35,5 +35,15 @@
 <h2>Use it with Muse today</h2>
 <p>Until it appears in the Muse connector directory, you can add it as a custom connector: copy the prompt from <a href="https://github.com/fengyiqicoder/smoothTalker/blob/main/MUSE_PROMPT.md">MUSE_PROMPT.md</a> and send it to Muse.</p>
 
+<h2>Use it with other agents</h2>
+<p><strong>Claude Code, or any host that reads Agent Skills.</strong> Install the skill once. It loads the index and fetches only the playbook each request needs.</p>
+<pre>mkdir -p ~/.claude/skills/smoothtalker/reference
+cd ~/.claude/skills/smoothtalker
+curl -fsSLO https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/skill/SKILL.md
+curl -fsSL -o reference/principles.md https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/skill/reference/principles.md</pre>
+<p><strong>ChatGPT, Claude or Gemini projects.</strong> Download <a href="data/all.json">all.json</a>, add it as a file to a project (or a custom GPT's knowledge, or a Gem), and paste this into its instructions:</p>
+<pre class="wrap">When I ask you to write, reply to, soften or improve a message, use the SmoothTalker playbooks in all.json. Always follow the entries 00-how-to-use and 01-principles. Pick the one or two playbooks whose triggers and summary fit my situation (06-situation-router if unsure), build the message from the playbook's structure with my real details, and give me two ready-to-send versions, one warmer and one more direct, unless I ask for one. If I say what I want, do that. Never make me softer when I'm being wronged, and never write anything manipulative. End with the id of the playbook you used.</pre>
+<p class="m">Download a fresh copy now and then; the library keeps growing.</p>
+
 <footer>SmoothTalker · <a href="support.html">Support</a> · <a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Service</a></footer>
 </body></html>

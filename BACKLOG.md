@@ -42,9 +42,9 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - [ ] Re-run the end-to-end simulation in `eval/README.md` after every 6 to 8 new entries, with a few new scenarios aimed at them. Log the result in TESTLOG.md as a simulated round and fix the playbooks it exposes.
 
 ### Distribution
-- [ ] (claimed 2026-09-27) Index-first retrieval: document and test a flow where the agent loads `index.json` (small), picks entries, then fetches `entries/{id}.json`, so the library can grow past the all.json budget. Update the OpenAPI descriptions, `skill/SKILL.md` and `MUSE_PROMPT.md` to recommend it once the library passes about 110 entries. Keep `all.json` published for existing installs.
-- [ ] Add `skill/` folder to a zip release so it can be installed in Claude Code with one command; document in README.
-- [ ] Add a "Try it without Muse" section to index.html: paste-a-playbook prompt for ChatGPT/Claude/Gemini users.
+- [x] Index-first retrieval: recommended in skill/SKILL.md, openapi.json, llms.txt and README (index plus four core entries plus the chosen playbook, about a fifth of all.json). Tested by the model routing check (index only, 164 of 165) and the end-to-end simulation (index then entry, 20 of 20). MUSE_PROMPT.md keeps all.json on purpose: every fetch in Muse can need a permission prompt.
+- [x] One-command install for Claude Code: a curl snippet in README and index.html fetches skill/SKILL.md and its reference file (works once the branch is on main). A GitHub release zip would need the owner to publish it.
+- [x] "Use it with other agents" on index.html and README: the Claude Code install, and a project prompt for ChatGPT, Claude and Gemini with all.json as a file. Fixed the landing, support, privacy and terms pages overflowing sideways on phones (long URLs in the table and support card).
 - [ ] Register with other agent connector directories when they open (record URLs and status here).
 
 ### Housekeeping

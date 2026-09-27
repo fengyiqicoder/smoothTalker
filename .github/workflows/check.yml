@@ -11,4 +11,4 @@ jobs:
       - name: build and check data/ and doc counts are committed
         run: |
           python3 scripts/build_index.py
-          git diff --exit-code --ignore-matching-lines='"generated"' -- data/ index.html MUSE_PROMPT.md skill/SKILL.md openapi.json || (echo "data/ or doc counts are stale: run python3 scripts/build_index.py and commit" && exit 1)
+          git diff --exit-code --ignore-matching-lines='"generated"' -- data/ index.html MUSE_PROMPT.md skill/ openapi.json || (echo "data/ or doc counts are stale: run python3 scripts/build_index.py and commit" && exit 1)

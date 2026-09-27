@@ -12,9 +12,18 @@ There is no server. It is an OpenAPI document plus JSON files on GitHub Pages.
 - Whole library in one file: https://smoothtalker.000ooo.ooo/data/all.json
 - Index only (the recommended entry point for agents that fetch per request): https://smoothtalker.000ooo.ooo/data/index.json
 
-## Use it as an Agent Skill
+## Use it with other agents
 
-`skill/SKILL.md` is a drop-in Agent Skill for Claude Code, Claude.ai and other hosts that read the Agent Skills format. Copy the `skill/` folder into your skills directory as `smoothtalker/`. Agents that read `llms.txt` can start from https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/llms.txt.
+**Claude Code, or any host that reads Agent Skills.** `skill/SKILL.md` is a drop-in skill that loads the index and fetches only the playbook each request needs:
+
+```
+mkdir -p ~/.claude/skills/smoothtalker/reference
+cd ~/.claude/skills/smoothtalker
+curl -fsSLO https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/skill/SKILL.md
+curl -fsSL -o reference/principles.md https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/skill/reference/principles.md
+```
+
+**ChatGPT, Claude or Gemini projects.** Add `data/all.json` as a file to a project (or a custom GPT's knowledge, or a Gem) and paste the instructions shown on the [landing page](https://smoothtalker.000ooo.ooo/). Agents that read `llms.txt` can start from https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/llms.txt.
 
 ## Connect it to Muse
 
