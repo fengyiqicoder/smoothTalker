@@ -18,11 +18,11 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 
 ### Scope: playbooks still missing
 - [x] roommate-and-shared-living (chores, bills, guests, noise, moving out)
-- [ ] (claimed 2026-09-27 loop) co-parenting-and-ex-logistics (schedules, money, handovers, keeping it about the kids)
+- [x] co-parenting-and-ex-logistics (schedules, money, handovers, keeping it about the kids)
 - [x] wedding-and-event-host-messages (invites, plus-one no, registry, dress code, uninviting)
 - [x] neighbour-disputes (noise, parking, fence, shared wall; escalation to building or council)
 - [x] ask-for-a-raise-or-promotion (separate from negotiating an offer: timing, evidence, the meeting request, the follow-up email)
-- [ ] (claimed 2026-09-27 loop) give-notice-to-a-landlord-or-tenant (move-out notice, ending a lease early, deposit expectations)
+- [x] give-notice-to-a-landlord-or-tenant (move-out notice, ending a lease early, deposit expectations)
 - [x] respond-to-a-difficult-diagnosis-or-health-news (shipped as respond-to-difficult-health-news) (from friend or family; what to say, what not to ask)
 - [x] team-announcements-as-a-manager (reorg, someone leaving, a missed target, a new policy)
 - [x] customer-onboarding-and-welcome (first message after purchase, setting expectations, asking for the info you need)
@@ -40,7 +40,7 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - [ ] 02-tone-calibration: add a table of register markers per channel (WhatsApp, iMessage, Slack, LinkedIn, email, Instagram DM, Xiaohongshu/WeChat).
 - [ ] 04-phrase-bank: add a "replace this with that" table for the 30 most common weak phrases.
 - [x] Routing evals: `eval/routing_scenarios.json` (165 blind requests, 34 non-English), `scripts/eval_routing.py` (lexical) and `scripts/model_routing.py` (model reads only the index). Results and prompts in `eval/README.md`.
-- [ ] (claimed 2026-09-27 loop, round 5) Re-run the end-to-end simulation in `eval/README.md` after every 6 to 8 new entries, with a few new scenarios aimed at them. Log the result in TESTLOG.md as a simulated round and fix the playbooks it exposes.
+- [ ] Re-run the end-to-end simulation in `eval/README.md` after every 6 to 8 new entries, with a few new scenarios aimed at them. Log the result in TESTLOG.md as a simulated round and fix the playbooks it exposes.
 
 ### Distribution
 - [x] Index-first retrieval: recommended in skill/SKILL.md, openapi.json, llms.txt and README (index plus four core entries plus the chosen playbook, about a fifth of all.json). Tested by the model routing check (index only, 164 of 165) and the end-to-end simulation (index then entry, 20 of 20). MUSE_PROMPT.md keeps all.json on purpose: every fetch in Muse can need a permission prompt.
@@ -57,3 +57,4 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - 2026-09-27: loop run. Added roommate-and-shared-living, ask-for-a-raise-or-promotion, thank-you-notes (78 entries, all.json 347 KB); router and README updated; moved the "ask for a raise" trigger from negotiate-price-or-salary to the new entry.
 - 2026-09-27: loop run. Added neighbour-disputes, wedding-and-event-host-messages, respond-to-difficult-health-news (81 entries, all.json 348 KB); scoped ask-to-change-behavior and condolences-and-support against them; 6 new routing scenarios. Model routing check (176 requests): top-1 98.3% after scenario #134 (upstairs noise) accepts neighbour-disputes, top-2 100%; dropped "colleague" from ask-to-change-behavior's title after it pulled a peer-feedback request (#98). Two remaining misses (#76 family pressure, #139 ghosting client) are older overlaps, second choice correct.
 - 2026-09-27: loop run. Added team-announcements-as-a-manager, customer-onboarding-and-welcome, tell-someone-something-awkward (84 entries, all.json 364 KB); deliver-bad-news summary points team news to the new entry; 6 new routing scenarios. Model routing check (182 requests): top-1 100%, top-2 100%. Nine entries added since the last end-to-end simulation, so that re-run is due next.
+- 2026-09-27: loop run. Simulated round 5 (S21-S30, aimed at the nine entries added since round 4): 10/10 passed, including a refused "from all of us" letter; neighbour-disputes gained two principles it exposed (ask for what they can do; speak only for neighbours who agreed). Added co-parenting-and-ex-logistics and give-notice-to-a-landlord-or-tenant (86 entries, all.json 375 KB); 4 routing scenarios. Model routing check (186 requests): top-1 99.5%, top-2 100%; the one miss (#139, a client stalled on files, routed to follow-up-unanswered in 2 of 3 runs today) fixed by scoping the two summaries, confirmed on a targeted re-check. Next e2e round due after 6 to 8 more entries.

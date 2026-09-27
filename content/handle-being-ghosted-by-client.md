@@ -2,8 +2,8 @@
 title: Handling a client or prospect who went silent
 category: work
 tags: [ghosted, client silent, prospect, no response, deal stalled, re-engage]
-triggers: [client stopped responding, prospect went quiet, deal went cold, haven't heard from the client, re-engage a lead, they ghosted me after the proposal]
-summary: How to re-engage a silent client or prospect without desperation, and how to close the loop cleanly when it's over.
+triggers: [client stopped responding, prospect went quiet, deal went cold, haven't heard from the client, re-engage a lead, they ghosted me after the proposal, client not sending the files we need]
+summary: How to re-engage a silent client or prospect without desperation, including a live project stalled waiting on their files or approval, and how to close the loop cleanly when it's over.
 updated: 2026-09-27
 ---
 # Client or prospect went silent

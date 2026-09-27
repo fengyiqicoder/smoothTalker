@@ -3,7 +3,7 @@ title: Following up on an unanswered message
 category: personal
 tags: [follow-up, no reply, chase, nudge, reminder]
 triggers: [they haven't replied, follow up, nudge, chase, remind them, left on read, no response]
-summary: How to nudge without sounding needy or annoyed, with a three-step escalation from casual bump to graceful exit.
+summary: How to nudge without sounding needy or annoyed, with a three-step escalation from casual bump to graceful exit. A client or prospect gone silent on a project or deal: handle-being-ghosted-by-client.
 updated: 2026-09-27
 ---
 # Following up
