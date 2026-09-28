@@ -4,7 +4,7 @@ category: personal
 tags: [feedback, honest, critique, friend's work, opinion, review]
 triggers: [they asked what I think, give feedback on their writing, honest opinion, critique a friend's work, don't want to hurt their feelings, review their idea]
 summary: How to tell someone the truth about their work, cooking, writing or idea in a way they can actually use, when they asked and when they did not.
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 # Giving honest feedback kindly
 
@@ -23,7 +23,7 @@ They come away with something they can act on and they still trust you. Kindness
 - Describe your experience ("I got confused here") rather than pronounce a verdict ("this is confusing"). Experience cannot be argued with.
 - Specific praise makes specific criticism credible. Generic praise ("it's great!") makes everything else suspect.
 - If they did not ask, ask permission first. "Want a couple of thoughts, or are you happy with it?"
-- Do not feedback the thing they cannot change (their voice, the deadline that passed).
+- Skip what they cannot change now (their voice, the deadline that passed, the dress they are already wearing).
 
 ## Examples
 
@@ -41,6 +41,9 @@ They come away with something they can act on and they still trust you. Kindness
 
 **When they didn't ask:**
 > Do you want thoughts, or are you done with it? Happy either way.
+
+**Cooking, someone proud of a dish:**
+> I love that Sunday chicken is your thing. Can I suggest one tweak? I think it'd be even better a bit juicier, maybe ten minutes less in the oven or brined overnight. Want to try it together next week?
 
 ## Avoid
 - The compliment sandwich with a fake bottom slice ("but overall great!!"). They only hear the middle and distrust the bread.

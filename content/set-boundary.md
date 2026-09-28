@@ -4,7 +4,7 @@ category: personal
 tags: [boundary, limit, family, overbearing, repeated, pattern]
 triggers: [set a boundary, my mom keeps, they always, stop asking me, too much, need space, they keep calling, overstepping]
 summary: How to state a limit clearly and kindly, hold it under pushback, and avoid the common trap of over-explaining.
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 # Setting a boundary
 
@@ -51,6 +51,9 @@ Say the same thing again, shorter.
 Third time:
 > I've said what I can do. I love you. Talk Sunday.
 Then stop replying on that thread.
+
+If they go cold, guilt-trip ("after everything I've done") or recruit others to pressure you, do not reopen the boundary to win them back. Stay warm about everything else and let the silence pass; most people adjust within a few weeks.
+> I know you're upset, and I love you. This part isn't changing. I'll call Sunday.
 
 ## Avoid
 - "I hope that's okay?"

@@ -4,7 +4,7 @@ category: personal
 tags: [cancel, reschedule, plans, bail, change plans]
 triggers: [need to cancel, can't make it anymore, reschedule, move our meeting, bail on plans, push back the dinner]
 summary: How to cancel or move plans so it reads as a change of logistics rather than a change of heart, with different versions for last-minute versus advance notice.
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 # Cancelling or rescheduling
 
@@ -22,7 +22,8 @@ They know immediately, they know it is not about them, and they have a new time 
 - The earlier you tell them, the shorter the apology needs to be.
 - Cancelling twice in a row requires you to be the one who reschedules and shows up.
 - Do not over-explain. "Work thing came up" is a complete sentence.
-- Do not cancel by leaving them hanging. A cancel that comes 3 hours late is two offences.
+- Tell them the moment you know. A cancel that arrives three hours after you decided is two offences.
+- If they have already paid or travelled for it (a booking, a babysitter, a train), offer to cover it.
 
 ## Examples
 
@@ -30,11 +31,11 @@ They know immediately, they know it is not about them, and they have a new time 
 > Need to move Thursday, something's come up. Could do Friday or Sunday afternoon?
 
 **Same day, friend:**
-> I'm so sorry to do this on the day: I have to cancel tonight, I've been hit with a migraine. I know you'd planned around it. Can I take you out next week, my treat? Tuesday or Thursday?
+> I have to cancel tonight, I've been hit with a migraine. I'm really sorry to do it on the day, I know you'd planned around it. Can I take you out next week, my treat? Tuesday or Thursday?
 
 **Reschedule with a client / professional:**
 > Hi Maria,
-> I need to move our 2pm on Wednesday, a conflict I can't shift has come up. I'm sorry for the short notice. I'm free Thursday 10 to 12 or Friday afternoon. Would either work? If neither does, send me a couple of times and I'll make one fit.
+> I need to move our 2pm on Wednesday, a conflict I can't shift has come up. Sorry for the short notice. I'm free Thursday 10 to 12 or Friday afternoon. If neither works, send me a couple of times and I'll make one fit.
 > Thanks for your flexibility,
 > Ben
 

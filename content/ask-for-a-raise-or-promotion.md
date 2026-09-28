@@ -4,12 +4,12 @@ category: work
 tags: [raise, promotion, pay rise, career, manager, performance review]
 triggers: [ask for a raise, how do I ask my boss for more money, ask for a promotion, I deserve a raise, email my manager about a pay rise, underpaid compared to my coworkers, follow up after asking for a raise, they said no to my raise]
 summary: How to ask your current employer for more pay or a bigger role: pick the timing, book the meeting, bring evidence and one number, and follow up in writing whatever the answer.
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 # Asking for a raise or promotion
 
 ## Goal
-Your manager leaves the conversation with a specific number or title, the evidence to defend it to their own boss, and a date for an answer. Most raises are decided by someone your manager has to convince, so you are writing their case for them.
+Your manager leaves with a specific number or title, the evidence to defend it upstairs, and a date for an answer. You are writing their case for them.
 
 For negotiating a new job offer, use `negotiate-price-or-salary`.
 
@@ -19,14 +19,13 @@ For negotiating a new job offer, use `negotiate-price-or-salary`.
 3. **Evidence, three items maximum.** Outcomes with numbers or scope: what changed because of you, and what you now own beyond your job description.
 4. **The ask, as a specific number or title.** Anchored in the role and the market, not your personal costs.
 5. **Invite the path.** "If that's not possible now, what would it take and by when?"
-6. **Follow up in writing** the same day, with what was agreed and the date for an answer.
+6. **Follow up in writing** the same day, with what was agreed and the date for an answer. "I'll get back to you" is fine; "by when?" is the follow-up.
 
 ## Principles
 - Timing matters more than wording. Best moments: after a clear win, before budget planning, at review season, or when your role has already grown. Worst: the week of a layoff or a bad quarter.
 - Ask for a number, not "a bit more". A specific figure (or a salary band level) gives your manager something to take upstairs.
 - Market data and scope beat need. "The role now includes managing two people" works; "rent went up" does not, even when it is true.
 - A promotion is a title plus scope plus pay. Ask which of the three is on the table, and do not accept the title alone without talking about the other two.
-- If your manager needs to check, that is normal. Agree a date, not "I'll get back to you."
 - Never bluff about an outside offer. If you have a real one, you may mention it once, calmly, and only if you would take it.
 
 ## Examples
@@ -58,7 +57,6 @@ For negotiating a new job offer, use `negotiate-price-or-salary`.
 - Ultimatums you do not mean.
 - Apologising for asking, or opening with "I know it's a bad time, but...".
 - Asking by email only. Book the conversation, then confirm it in writing.
-- Accepting a vague "we'll see" without a date.
 
 ## If it goes badly
 A no is information, not a verdict. Stay calm, ask what would change the answer, and get the criteria and a review date in writing. If you get a flat no with no path, or the path moves every time you reach it, that tells you the ceiling here: start looking quietly, and do not threaten to leave before you have somewhere to go. If the conversation turns tense, end it kindly and follow up in writing the next day.

@@ -17,7 +17,7 @@ Base URL `https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/`, f
 
 That is roughly a fifth of the whole library per request. Picking from the index alone, a model chose the right playbook for 164 of 165 blind test requests (`eval/README.md` in the repo).
 
-**Whole library (when each fetch is costly, for example it needs a permission prompt, or you work offline).** Fetch `data/all.json` (about 384 KB, every entry with its body) once a day and cache it.
+**Whole library (when each fetch is costly, for example it needs a permission prompt, or you work offline).** Fetch `data/all.json` (about 385 KB, every entry with its body) once a day and cache it.
 
 If you cannot fetch at all, fall back to `reference/principles.md` in this folder, say so, and draft from the principles.
 
