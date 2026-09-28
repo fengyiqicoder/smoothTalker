@@ -191,6 +191,6 @@
 {"q": "a recruiter is calling me tomorrow as a reference for an ex-teammate. he was good with clients but honestly unreliable with deadlines. what do i say", "expect": ["write-a-recommendation-or-reference"], "lang": "en"},
 {"q": "my daughter says her maths teacher ignores her when she puts her hand up and she's started hating school. how do i write to the teacher without sounding like a crazy parent", "expect": ["messages-to-teachers-and-schools"], "lang": "en"},
 {"q": "孩子班主任在家长群里点名批评我儿子作业没交，我想私下给老师发个消息说明情况，怎么说比较好？", "expect": ["messages-to-teachers-and-schools"], "lang": "zh"},
-{"q": "a client keeps telling me i look 'stunning' on our video calls and it's making me uncomfortable. how do i respond next time without making the project awkward", "expect": ["give-and-receive-compliments"], "lang": "en"},
+{"q": "a client keeps telling me i look 'stunning' on our video calls and it's making me uncomfortable. how do i respond next time without making the project awkward", "expect": ["give-and-receive-compliments", "set-boundary"], "lang": "en"},
 {"q": "my friend sent me a long voice note about her new job three weeks ago and i never answered. how do i reply now without it being weird", "expect": ["apologize"], "lang": "en"}
 ]
