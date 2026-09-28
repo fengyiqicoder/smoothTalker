@@ -3,8 +3,8 @@ title: Reconnecting after a long silence
 category: personal
 tags: [reconnect, old friend, lost touch, reach out, awkward]
 triggers: [haven't talked in years, reach out to old friend, reconnect, lost touch, awkward to message, been a while]
-summary: How to message someone you have not spoken to in months or years without the awkwardness swallowing the message.
-updated: 2026-09-24
+summary: How to message someone you have not spoken to in months or years without the awkwardness swallowing the message. Answering a message you left for days or weeks: apologize.
+updated: 2026-09-28
 ---
 # Reconnecting after silence
 

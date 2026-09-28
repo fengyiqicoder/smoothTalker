@@ -3,8 +3,8 @@ title: Asking someone out, texting after a date, keeping it going
 category: personal
 tags: [dating, ask out, first date, after the date, texting, flirting, second date]
 triggers: [ask her out, ask him out, text after first date, what to text after a date, how to ask for a second date, keep the conversation going, flirty text, suggest a date, dating app conversation]
-summary: The positive side of dating messages: a clear, low-pressure ask; the text after a date; keeping a conversation alive; proposing a second date without overthinking.
-updated: 2026-09-27
+summary: The positive side of dating messages: a clear, low-pressure ask; the text after a date; keeping a conversation alive; proposing a second date without overthinking. The very first opener on an app: first-message-to-stranger.
+updated: 2026-09-28
 ---
 # Asking someone out and early dating messages
 
