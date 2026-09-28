@@ -43,7 +43,14 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - [x] 02-tone-calibration: add a table of register markers per channel (WhatsApp, iMessage, Slack, LinkedIn, email, Instagram DM, Xiaohongshu/WeChat).
 - [x] 04-phrase-bank: add a "replace this with that" table for the 30 most common weak phrases.
 - [x] Routing evals: `eval/routing_scenarios.json` (165 blind requests, 34 non-English), `scripts/eval_routing.py` (lexical) and `scripts/model_routing.py` (model reads only the index). Results and prompts in `eval/README.md`.
-- [ ] Re-run the end-to-end simulation in `eval/README.md` after every 6 to 8 new entries, with a few new scenarios aimed at them. Log the result in TESTLOG.md as a simulated round and fix the playbooks it exposes.
+- [ ] (claimed 2026-09-28 loop, round 6) Re-run the end-to-end simulation in `eval/README.md` after every 6 to 8 new entries, with a few new scenarios aimed at them. Log the result in TESTLOG.md as a simulated round and fix the playbooks it exposes.
+
+### Size budget: make room before adding (all.json near 400 KB of 450)
+- [ ] (claimed 2026-09-28 loop) Overlap audit of first-message-to-stranger, cold-outreach and introduce-yourself: sharpen scope lines or merge if two say the same thing.
+- [ ] (claimed 2026-09-28 loop) Trim every entry over 870 words to 850 or less by cutting repetition, not examples that teach something.
+- [ ] Shorten summaries over 220 characters in the index (they are loaded for every request under index-first retrieval).
+- [ ] Audit say-no-to-a-customer-request, handle-refund-request and say-no-to-client-scope for overlap; same approach.
+- [ ] Once 15 KB or more is freed: parent-teacher messages are done; next scope candidates are responding to a condolence message (what to say back), asking someone to return borrowed things, and a group-chat exit.
 
 ### Distribution
 - [x] Index-first retrieval: recommended in skill/SKILL.md, openapi.json, llms.txt and README (index plus four core entries plus the chosen playbook, about a fifth of all.json). Tested by the model routing check (index only, 164 of 165) and the end-to-end simulation (index then entry, 20 of 20). MUSE_PROMPT.md keeps all.json on purpose: every fetch in Muse can need a permission prompt.
