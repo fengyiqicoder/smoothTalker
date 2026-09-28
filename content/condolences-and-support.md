@@ -4,7 +4,7 @@ category: personal
 tags: [condolence, grief, loss, illness, support, sympathy]
 triggers: [their parent died, sorry for your loss, someone is sick, going through a hard time, what do I say, breakup support, miscarriage]
 summary: What to say when someone is grieving a death or loss: specific, short, present, and offering concrete help without demanding a response. Replying to a diagnosis: respond-to-difficult-health-news.
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 # Condolences and support
 
@@ -43,6 +43,9 @@ They feel less alone and are not handed any work: no need to reply, no need to m
 
 **Manager to report, card or email:**
 > I was very sorry to hear about the loss of your mother. Please don't think about work at all right now; we've got everything covered. Take whatever time you need. Thinking of you and your family.
+
+**Voice note, close friend (spoken, no need to call back):**
+> Hey, it's me. I just heard about your mum. I'm so sorry. You don't need to call me back, I just wanted you to hear my voice. I'll drop some food round on Thursday. Love you.
 
 **Weeks or months later (this matters more than the first message):**
 > Thinking about you today. No need to reply.

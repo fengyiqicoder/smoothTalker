@@ -29,16 +29,16 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - [x] ~~collect-a-debt-from-a-business-or-client-at-scale~~ Folded into chase-late-payment 2026-09-28: it already had the staged sequence; added an automated-reminders variation instead of a near-duplicate entry.
 - [x] thank-you-notes (gifts, hospitality, mentorship, after a favour; handwritten vs text)
 - [x] telling-someone-something-awkward-about-themselves (shipped as tell-someone-something-awkward) (body odour, food in teeth, a mistake in their public post)
-- [ ] (claimed 2026-09-28 loop) responding-to-a-compliment-that-is-actually-a-hit-on (work context, keep it light and closed)
+- [x] ~~responding-to-a-compliment-that-is-actually-a-hit-on~~ Folded into give-and-receive-compliments 2026-09-28 (size budget): a short section plus two triggers.
 - [x] write-a-recommendation-or-reference-for-someone (shipped as write-a-recommendation-or-reference) (LinkedIn recommendation, reference letter, a reference call when you have reservations; honest without sinking them)
 - [x] messages-to-teachers-and-schools (a concern about your child, asking for a meeting, absence notes, disagreeing with a grade or a decision)
-- [ ] (claimed 2026-09-28 loop) apologise-for-a-slow-reply (the days-or-weeks-late reply: one line of ownership, then the answer; personal and work)
+- [x] ~~apologise-for-a-slow-reply~~ Folded into apologize 2026-09-28 (size budget) (the days-or-weeks-late reply: one line of ownership, then the answer; personal and work)
 - [x] mediating-between-two-people (friends fighting, two team members)
 
 ### Effectiveness: make existing entries land better
 - [x] ~~Quick version at the top of the 10 most-used entries~~ Dropped 2026-09-27: it repeats each entry's Structure section and costs size budget for every user.
 - [ ] (optional, low priority) Colloquial triggers. The model routing check scores 99.4% top-1 on 165 blind requests, so only add triggers for confusions it finds. The lexical eval (`scripts/eval_routing.py`) shows keyword gaps if you want to help weak keyword matchers, but do not stuff triggers to raise it.
-- [ ] (claimed 2026-09-28 loop) Add a voice-note / phone-call variant to entries where the channel is often voice (cancel-or-reschedule, condolences, deliver-bad-news, apologize).
+- [x] Add a voice-note / phone-call variant to entries where the channel is often voice (cancel-or-reschedule, condolences, deliver-bad-news, apologize).
 - [ ] (optional, low priority) Non-English triggers. A model routes non-English requests correctly (33 of 34 in the check) without them; they only help keyword matching. If done, add 1 or 2 Chinese triggers per entry first, since Chinese is the second audience.
 - [x] 02-tone-calibration: add a table of register markers per channel (WhatsApp, iMessage, Slack, LinkedIn, email, Instagram DM, Xiaohongshu/WeChat).
 - [x] 04-phrase-bank: add a "replace this with that" table for the 30 most common weak phrases.

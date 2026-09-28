@@ -50,7 +50,7 @@ Answer three questions, then open the entry named. When two branches apply, open
 - A decision from someone senior, or a stuck problem unstuck: `escalate-an-issue`
 
 ### Apologise or own something
-- Personal: `apologize`
+- Personal, including a reply that is days or weeks late: `apologize`
 - At work: `admit-mistake-at-work`
 - As a business, in public: `public-apology-from-a-business`
 - For being late, flaking, cancelling: `handle-no-show-or-lateness` (moving a plan in advance: `cancel-or-reschedule`)
@@ -80,7 +80,7 @@ Answer three questions, then open the entry named. When two branches apply, open
 - Small talk, keeping a chat alive: `small-talk`
 - Someone the user has not spoken to in a long time: `reconnect-after-silence`
 - Dating, from asking out to the text after date one: `ask-someone-out-and-early-dating`
-- Thanks, praise, receiving praise: `give-and-receive-compliments` (a thank-you note or card for a gift, host, mentor or favour: `thank-you-notes`)
+- Thanks, praise, receiving praise, or a compliment that is really a hit-on: `give-and-receive-compliments` (a thank-you note or card for a gift, host, mentor or favour: `thank-you-notes`)
 - A recruiter wrote: `respond-to-recruiter`; after a rejection: `respond-to-job-rejection`
 
 ### Support someone

@@ -4,7 +4,7 @@ category: personal
 tags: [check-in, support, friend, burnout, breakup, depression, going-quiet]
 triggers: [friend is going through a hard time, check in on a friend, my friend went quiet, what to say to someone who is depressed, friend lost their job, friend got dumped, they said they're fine, offer help to a friend, friend is burnt out]
 summary: Reaching out to a friend or relative who is having a hard time, from the first text to what to do when they go silent or say "I'm fine", with concrete offers instead of vague ones.
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 # Checking in on someone who is struggling
 
@@ -29,7 +29,7 @@ They feel seen without feeling like a project. The message asks nothing of them,
 3. If the behaviour and the word clearly disagree, name it once, gently, and stop.
 
 ## Offering concrete help
-"Let me know if you need anything" hands them a task: identify what they need, decide it is not too much, ask for it. Most people in a hole will not do that. Instead offer one specific thing with a time attached, that they only have to accept or decline. Food, a lift, a walk, a school pickup, the phone call they've been dreading.
+"Let me know if you need anything" hands them a task most people in a hole will not do. Offer one specific thing with a time attached, that they only have to accept or decline: food, a lift, a walk, a school pickup.
 
 ## Principles
 - Their pace, not yours. You are a lamp in the hallway, not a search party.
@@ -65,7 +65,6 @@ They feel seen without feeling like a project. The message asks nothing of them,
 > Okay, I believe you. And if fine stops being true at 2am, you can text me without a reason. Same offer stands for the walk on Saturday.
 
 ## Avoid
-- "Let me know if you need anything." It sounds kind and delivers nothing.
 - "Everything happens for a reason", "at least", "you're so strong", "have you tried".
 - Comparing to your own hard time unless they ask.
 - Asking for updates. They are not obliged to report.
@@ -75,7 +74,7 @@ They feel seen without feeling like a project. The message asks nothing of them,
 ## If it goes badly
 If they snap at you or push you away:
 > That's fair, I'll back off. The offer doesn't expire. I'm not going anywhere.
-Then do exactly that. Do not defend your intent. Reappear in a couple of weeks with something small and undemanding.
+Then do exactly that, without defending your intent. Reappear in a couple of weeks with something small.
 
 If you are genuinely worried about their safety, say it plainly and stay on the line:
 > I'm worried about you and I'd rather ask than wonder. Are you safe right now? I can come over, or sit on the phone with you while you call [crisis line for their country].

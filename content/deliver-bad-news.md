@@ -4,7 +4,7 @@ category: personal
 tags: [bad news, disappointing, cancel, rejection, difficult]
 triggers: [have to tell them, break the news, disappoint, let them know it fell through, tell them no, cancel on them]
 summary: How to deliver news someone will not want, in a way that is clear early, kind throughout, and forward-looking at the end. Announcing to a team you manage: team-announcements-as-a-manager.
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 # Delivering bad news
 
@@ -38,6 +38,9 @@ They understand the news in the first two lines, feel it was delivered with care
 
 **Telling someone a mutual friend is unwell, message:**
 > I wanted you to hear this from me rather than through the grapevine. Tom's been diagnosed with [X]. He's okay to talk about it and asked me to let people close to him know. Call me if you want to talk it through.
+
+**Phone call opener, when it is too big for a text:**
+> Have you got five minutes? I've got some news that isn't good, and I wanted to tell you myself. The house sale fell through this morning. Here's what happens next.
 
 **Email, project cancelled:**
 > Hi team,

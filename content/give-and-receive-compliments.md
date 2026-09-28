@@ -2,9 +2,9 @@
 title: Giving and receiving compliments without awkwardness
 category: personal
 tags: [compliment, praise, appreciation, thank you, gratitude]
-triggers: [respond to a compliment, how to compliment, say thank you, show appreciation, they praised me, thank someone properly]
+triggers: [respond to a compliment, how to compliment, say thank you, show appreciation, they praised me, thank someone properly, coworker keeps commenting on my looks, compliment feels like flirting]
 summary: How to give a compliment that lands and receive one without deflecting, plus how to write genuine appreciation.
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 # Compliments and appreciation
 
@@ -44,6 +44,10 @@ The compliment lands as a gift, not a transaction: the other person feels seen f
 > Thank you, that means a lot coming from you.
 > Thanks, I worked hard on that bit, so I'm glad it showed.
 > That's really kind, thank you. I'm still learning but I'm getting there.
+
+**When a compliment is really a hit-on (a colleague, a client, someone you don't want to encourage):** keep it light, short and closed. Thank them briefly or not at all, steer back to the task, and give nothing to build on. If it repeats, say plainly that you'd rather keep things professional; if it continues after that, it is a workplace issue for your manager or HR, not a messaging one.
+> Ha, thanks. Anyway, about the Q3 numbers...
+> I'd rather keep comments to the work, thanks. So, Thursday's deck?
 
 ## Writing genuine appreciation (thank-you message)
 

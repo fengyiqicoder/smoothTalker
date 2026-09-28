@@ -2,9 +2,9 @@
 title: Apologising properly
 category: personal
 tags: [apology, sorry, mistake, hurt, late, missed]
-triggers: [how to apologize, I messed up, I was late, I forgot, I hurt them, say sorry, make it up to]
-summary: The four-part apology that actually repairs things, with examples from minor lateness to real hurt, and what never to include.
-updated: 2026-09-24
+triggers: [how to apologize, I messed up, I was late, I forgot, I hurt them, say sorry, make it up to, sorry for the late reply, took me weeks to reply]
+summary: The four-part apology that actually repairs things, with examples from minor lateness and slow replies to real hurt, by text or voice, and what never to include.
+updated: 2026-09-28
 ---
 # Apologising
 
@@ -41,6 +41,13 @@ Optional: **one make-good** if proportionate.
 
 **Small thing, keep it small:**
 > Oops, my bad, sending now.
+
+**Replying days or weeks late (one line of ownership, then the answer):**
+> Sorry for going quiet, this one got buried. Yes to Saturday, and I'll bring dessert.
+> Apologies for the slow reply, Mark. The answer is yes: we can start on the 14th, and I've attached the revised quote.
+
+**Voice note or call, for real hurt (spoken, short clauses):**
+> Hey, it's me. I've been thinking about Sunday. What I said about your job was unfair, and I'm sorry. You don't need to call back. I just didn't want it sitting there.
 
 ## Avoid
 - "I'm sorry, but..."

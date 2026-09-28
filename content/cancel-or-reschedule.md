@@ -45,6 +45,9 @@ They know immediately, they know it is not about them, and they have a new time 
 **Cancelling something you don't want to reschedule:**
 > I'm going to pull out of Sunday. Nothing dramatic, I just need a quiet weekend. Enjoy it, and let's find another time soon.
 
+**Voice note or voicemail (dentist, salon, a friend who prefers voice):**
+> Hi, it's Sam Lee, I've got an appointment Thursday at 10 with Dr Park. I need to move it, sorry for the short notice. Any morning next week works. My number is 07700 900 123, again 07700 900 123. Thanks.
+
 **Group plan, you're the one dropping:**
 > I've got to drop out of Saturday, sorry all. Don't change anything for me, have a great time.
 
