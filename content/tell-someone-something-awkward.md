@@ -3,7 +3,7 @@ title: Telling someone something awkward about themselves (hygiene, food in teet
 category: personal
 tags: [awkward, embarrassing, hygiene, body odour, typo, discreet]
 triggers: [how to tell someone they have body odor, tell a coworker they smell, friend has bad breath how do i say it, tell someone they have food in their teeth, there's a typo in their linkedin post should i tell them, how to tell my friend her fly is down, tell someone their post has a mistake, awkward thing to tell a colleague]
-summary: Telling someone an embarrassing thing about themselves (body odour, breath, food in teeth, a typo in their post) privately and kindly, so they can fix it and move on. Behaviour or work feedback: give-feedback-kindly.
+summary: Telling someone an embarrassing thing about themselves (body odour, breath, food in teeth, a typo in their post) privately and kindly, so they can fix it and move on. Opinions on something they made (cooking, writing, a speech): give-feedback-kindly.
 updated: 2026-09-27
 ---
 # Telling someone something awkward about themselves

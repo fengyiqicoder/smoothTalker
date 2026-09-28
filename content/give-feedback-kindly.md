@@ -3,7 +3,7 @@ title: Giving honest feedback kindly (personal and creative)
 category: personal
 tags: [feedback, honest, critique, friend's work, opinion, review]
 triggers: [they asked what I think, give feedback on their writing, honest opinion, critique a friend's work, don't want to hurt their feelings, review their idea]
-summary: How to tell someone the truth about their work or idea in a way they can actually use, when they asked and when they did not.
+summary: How to tell someone the truth about their work, cooking, writing or idea in a way they can actually use, when they asked and when they did not.
 updated: 2026-09-27
 ---
 # Giving honest feedback kindly
