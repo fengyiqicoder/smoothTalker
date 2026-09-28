@@ -75,7 +75,7 @@ Answer three questions, then open the entry named. When two branches apply, open
 - A message that might be a scam or a hacked account: `suspicious-or-scam-message`
 
 ### Connect or warm up
-- First message to a stranger, cold email, a pitch: `first-message-to-stranger`, `cold-outreach`
+- First message to a stranger (dating, someone you admire, a community): `first-message-to-stranger`; a business pitch (sales, partnership, press): `cold-outreach`; an intro through someone you know: `request-intro-or-referral`
 - Introducing yourself: `introduce-yourself`
 - Small talk, keeping a chat alive: `small-talk`
 - Someone the user has not spoken to in a long time: `reconnect-after-silence`

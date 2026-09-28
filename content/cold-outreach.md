@@ -3,7 +3,7 @@ title: Cold outreach that gets a reply (sales, partnerships, press)
 category: work
 tags: [cold email, outreach, sales, partnership, pitch, dm, press]
 triggers: [cold email, reach out to a company, pitch a partnership, contact a journalist, sales outreach, first contact with a prospect, dm a brand]
-summary: The four-line cold message: why them, what you have, proof, tiny ask. With examples for sales, partnerships, and press.
+summary: The four-line business pitch to someone who does not know you: why them, what you have, proof, tiny ask. Sales, partnerships, press. Personal or social first contact: first-message-to-stranger.
 updated: 2026-09-27
 ---
 # Cold outreach
@@ -38,9 +38,6 @@ A reply. Not a sale, not a meeting; a reply. Everything is optimised for making 
 
 **Press / journalist:**
 > Hi Marcus, you covered the rise of agentic shopping in June and asked what happens when Amazon opts out. We just published data from 2,000 shoppers on exactly that; the headline is [one stat]. Happy to send the full dataset, no strings. Useful?
-
-**Asking for an intro (via mutual contact):**
-> Hi Jo, could I ask a small favour? I'd love an intro to Dana at [company]; I think our onboarding tool solves the churn issue she posted about last week. I've drafted a two-line blurb you could forward so it's zero work for you. Totally fine if it's not appropriate.
 
 **Follow-up 1 (a week later):**
 > Bumping this with one more thing: we just published [resource] that's relevant to what you're doing. No pressure on the original ask.

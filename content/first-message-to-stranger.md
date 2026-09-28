@@ -3,7 +3,7 @@ title: First message to a stranger (dating, networking, community)
 category: personal
 tags: [cold message, first message, dating app, networking, dm, stranger, opener]
 triggers: [first message on hinge, message a stranger, opener, slide into dms, reach out to someone I don't know, message someone I admire]
-summary: Openers that get replies: specific, short, easy to answer, and not about you. Dating, professional and community versions.
+summary: Personal first contact that gets a reply: dating apps, someone you admire, a community or event. Specific, short, easy to answer. A business pitch (sales, press, partnership): cold-outreach.
 updated: 2026-09-27
 ---
 # First message to a stranger
