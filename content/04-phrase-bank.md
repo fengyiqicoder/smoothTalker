@@ -2,9 +2,9 @@
 title: Phrase bank by function
 category: core
 tags: [phrases, openers, softeners, bridges, closers, templates]
-triggers: [how do I start, what's a good opener, how to end the message, sign off, transition, way to say]
-summary: Reusable phrases grouped by what they do in a message, with notes on when each fits. Use as raw material, never verbatim in bulk.
-updated: 2026-09-24
+triggers: [how do I start, what's a good opener, how to end the message, sign off, transition, way to say, better way to say this, sounds weak]
+summary: Reusable phrases grouped by what they do in a message, with notes on when each fits, and a replace-this-with-that table for the 30 most common weak phrases. Use as raw material, never verbatim in bulk.
+updated: 2026-09-28
 ---
 # Phrase bank
 
@@ -77,3 +77,40 @@ Pick one phrase per function at most. A message built entirely of phrase-bank li
 - "I" statements for feelings, "we" statements for plans, "you" statements only for appreciation
 - The person's name once, early
 - A specific date instead of "soon", "later", "sometime"
+
+## Replace this with that
+The 30 weak phrases that most often sink a draft. Swap them on the final check.
+
+| Weak | Stronger | Why |
+|---|---|---|
+| Just checking in | Following up on [X]: could you [ask] by [date]? | Names the thing and the ask |
+| Sorry to bother you | Quick question about [X]: | Apologising for existing lowers the ask |
+| I was just wondering if maybe | Could you | One clear verb |
+| No worries if not! | Either way is fine, just let me know by [date] | Keeps the out, keeps the deadline |
+| I hope that makes sense | Tell me if anything's unclear | Invites questions without doubting yourself |
+| Does that make sense? | What do you think? | Asks for their view, not approval |
+| I'm sorry, but | I understand, and | "But" erases the first half |
+| Per my last email | As mentioned on [date], [restate the point] | Same fact, no edge |
+| As I said before | To recap: | Summarises without scolding |
+| To be honest | (delete) | Implies the rest was not |
+| Unfortunately, we can't | We can't do X; we can do Y | Leads with the alternative |
+| I'm afraid that | (delete, state it) | Hedge with no content |
+| I'll have to say no | I'm going to pass on this one | Owns the choice |
+| I'll try to | I will / I can't | Commit or decline |
+| ASAP | by [day, time] | A date gets met; ASAP gets argued |
+| Whenever you get a chance | by Thursday if you can | Soft and specific |
+| Let me know if you have any questions | Happy to walk you through it on a call | A real offer beats a reflex line |
+| Hope you're well! (in a complaint) | (start with the point) | Warmth that clashes with the content reads as sarcasm |
+| I just feel like | I think | Owns the view |
+| You always / you never | The last three times, [specific] | Facts invite a fix; absolutes invite a defence |
+| You need to | Could you | A request, not an order |
+| Calm down | I can hear this is frustrating | Names the feeling instead of dismissing it |
+| With all due respect | (delete, then disagree plainly) | Signals disrespect |
+| No offense, but | (delete) | Guarantees offence |
+| Thanks in advance | Thanks, [name] | Presumes the yes |
+| Let's circle back | Let's pick this up on [date] | A date, not a loop |
+| Going forward | From [date] | Specific start |
+| Sorry for the late reply!!! | Thanks for your patience | One line, no grovel, then the answer |
+| Feel free to reach out | Reply here or call me on [number] | Tells them how |
+| Hope this helps! | (delete, or name the next step) | Ends on the action |
+

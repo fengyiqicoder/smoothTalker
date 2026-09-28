@@ -44,6 +44,9 @@ for p in sorted(CONTENT.glob("*.md")):
         seen_triggers.setdefault(key, p.name)
     if "—" in body or "—" in " ".join(str(v) for v in meta.values()):
         err(p, "em-dash found; the style rules forbid it")
+    for line in body.splitlines():
+        if line.startswith(">") and re.search(r"\b(unfortunately|i'm afraid|i'll have to)\b", line, re.I):
+            err(p, f"banned phrase in an example: {line[:60]}")
     words = len(body.split())
     if words < MIN_WORDS: err(p, f"body too short ({words} words)")
     if words > MAX_WORDS: warn(p, f"body long ({words} words)")

@@ -29,7 +29,7 @@ The host should finish reading and think "fair enough, they still like me", not 
 > Ah, I can't do Saturday, I've already got plans I can't move. Gutted to miss it. Let's do a proper catch-up the week after? I'll cook.
 
 **Wedding, message to a not-close friend:**
-> Thank you so much for inviting us, it means a lot. Unfortunately we won't be able to make it on the 14th. We'll be thinking of you both and would love to take you out to celebrate once you're back.
+> Thank you so much for inviting us, it means a lot. We can't make it on the 14th. We'll be thinking of you both and would love to take you out to celebrate once you're back.
 
 **Recurring thing you want to stop going to, no reason:**
 > I'm going to sit this one out. Have a great time and send me photos.

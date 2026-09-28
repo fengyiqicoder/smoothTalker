@@ -3,7 +3,7 @@ title: Chasing a late payment
 category: work
 tags: [invoice, late payment, chase, overdue, accounts, freelance]
 triggers: [invoice is overdue, chase payment, they haven't paid, remind client to pay, late invoice, payment reminder]
-summary: A three-stage escalation for overdue invoices that stays polite while getting progressively firmer, with a final notice that does not burn the relationship.
+summary: A three-stage escalation for overdue invoices that stays polite while getting progressively firmer, with a final notice that does not burn the relationship, plus automated reminders for many customers.
 updated: 2026-09-27
 ---
 # Chasing a late payment
@@ -35,7 +35,7 @@ You get paid, the relationship survives, and you sound like a business, not a fr
 
 **Stage 3: 30 days late (firm, with consequence):**
 > Hi Sarah,
-> Invoice #1042 ($2,400) is now 30 days overdue. I need to receive payment by Friday 14 June. If it's not received by then, I'll have to pause work on the current phase and apply the late fee set out in our agreement. I'd much rather not do either, so please let me know today if there's a problem I can help resolve.
+> Invoice #1042 ($2,400) is now 30 days overdue. I need to receive payment by Friday 14 June. If it's not received by then, I'll pause work on the current phase and apply the late fee set out in our agreement. I'd much rather not do either, so please let me know today if there's a problem I can help resolve.
 > Regards,
 > Mia
 
@@ -49,6 +49,10 @@ You get paid, the relationship survives, and you sound like a business, not a fr
 
 **Client disputes the amount:**
 > Happy to go through it. Which line are you querying? The rest of the invoice isn't in dispute, so could that portion be paid now while we sort the remainder?
+
+**Automated reminders for many customers (subscriptions, memberships, small invoices):**
+Use the same four stages on a schedule (due date, day 7, day 14, day 30) with the amount, a one-click payment link and a real reply-to address in every message. Each message is shorter than the last. After the final notice, stop emailing and switch to a pause of service or one personal message; a sixth automated reminder only teaches people to ignore you.
+> Hi Leo, your March payment of £29 didn't go through, usually an expired card. You can update it here in a minute: [link]. Your membership stays active in the meantime. Any questions, just reply.
 
 **Friend or informal client:**
 > Hey, the $600 for the design work was due last week. Can you sort it this week? Bank details are in the invoice.

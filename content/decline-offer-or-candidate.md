@@ -39,7 +39,7 @@ Whichever side you are on, the other person hears a clear no early, feels treate
 > Kai
 
 *Declining on compensation, honestly:*
-> I've really enjoyed the process and I'd like to be transparent: the gap on base is the one thing stopping me. If there's flexibility to get to [number] I'd accept today. If not, I completely understand and I'll have to decline, with genuine thanks.
+> I've really enjoyed the process and I'd like to be transparent: the gap on base is the one thing stopping me. If there's flexibility to get to [number] I'd accept today. If not, I completely understand, and I'll decline with genuine thanks.
 
 *Withdrawing mid-process:*
 > I want to let you know early rather than late: I'm withdrawing from the process. My circumstances have changed and it wouldn't be fair to keep taking your time. Thank you for the conversations so far.

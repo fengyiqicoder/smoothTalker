@@ -3,7 +3,7 @@ title: De-escalating an argument with a partner or friend
 category: personal
 tags: [argument, fight, partner, de-escalate, conflict, repair]
 triggers: [we had a fight, they're mad at me, argument with my girlfriend, boyfriend is upset, cool things down, calm them down, make peace]
-summary: How to lower the temperature of a live argument by text or in person, without capitulating or winning, so the real conversation can happen later.
+summary: How to lower the temperature of a live argument by text or in person, without capitulating or winning, so the real conversation can happen later. Two other people fighting: mediating-between-two-people.
 updated: 2026-09-27
 ---
 # De-escalating an argument

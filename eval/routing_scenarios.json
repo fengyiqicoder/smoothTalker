@@ -184,5 +184,7 @@
 {"q": "my ex wants to take our daughter to his mum's on my weekend and just told her before asking me. i want to say yes but not let this become the norm", "expect": ["co-parenting-and-ex-logistics"], "lang": "en"},
 {"q": "离婚两年了，孩子的补习班费用每次都是我先垫，前夫总拖着不给他那一半。怎么发微信提醒他不吵起来？", "expect": ["co-parenting-and-ex-logistics"], "lang": "zh"},
 {"q": "got a job in another city and need out of my apartment 4 months before the lease is up. landlord is kind of strict. what do i send", "expect": ["give-notice-to-a-landlord-or-tenant"], "lang": "en"},
-{"q": "I own a small rental house and I'm moving my mother into it, so I can't renew my tenants' lease in the spring. They've been great. How do I tell them?", "expect": ["give-notice-to-a-landlord-or-tenant"], "lang": "en"}
+{"q": "I own a small rental house and I'm moving my mother into it, so I can't renew my tenants' lease in the spring. They've been great. How do I tell them?", "expect": ["give-notice-to-a-landlord-or-tenant"], "lang": "en"},
+{"q": "my two best friends had a huge fight over a wedding and now both text me every day complaining about the other. i love them both, what do i say to each of them", "expect": ["mediating-between-two-people"], "lang": "en"},
+{"q": "我手下两个组员因为一个项目吵翻了，现在开会都不说话，影响进度。我作为组长该怎么分别跟他们说？", "expect": ["mediating-between-two-people"], "lang": "zh"}
 ]
