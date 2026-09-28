@@ -3,7 +3,7 @@ title: Asking for a reference or recommendation
 category: work
 tags: [reference, recommendation, linkedin recommendation, former manager, professor, testimonial, case study]
 triggers: [ask for a reference, ask my old boss to be a reference, linkedin recommendation request, ask a professor for a recommendation letter, ask a client for a testimonial, case study quote, reference after years, they said no to being a reference]
-summary: Asking a former manager, professor or client to vouch for you, making it a ten-minute job for them, and handling a long gap, a hesitation, or a no.
+summary: Asking a former manager, professor or client to vouch for you, making it a ten-minute job for them, and handling a long gap, a hesitation, or a no. Writing one for someone else: write-a-recommendation-or-reference.
 updated: 2026-09-27
 ---
 # Asking for a reference or recommendation

@@ -186,5 +186,9 @@
 {"q": "got a job in another city and need out of my apartment 4 months before the lease is up. landlord is kind of strict. what do i send", "expect": ["give-notice-to-a-landlord-or-tenant"], "lang": "en"},
 {"q": "I own a small rental house and I'm moving my mother into it, so I can't renew my tenants' lease in the spring. They've been great. How do I tell them?", "expect": ["give-notice-to-a-landlord-or-tenant"], "lang": "en"},
 {"q": "my two best friends had a huge fight over a wedding and now both text me every day complaining about the other. i love them both, what do i say to each of them", "expect": ["mediating-between-two-people"], "lang": "en"},
-{"q": "我手下两个组员因为一个项目吵翻了，现在开会都不说话，影响进度。我作为组长该怎么分别跟他们说？", "expect": ["mediating-between-two-people"], "lang": "zh"}
+{"q": "我手下两个组员因为一个项目吵翻了，现在开会都不说话，影响进度。我作为组长该怎么分别跟他们说？", "expect": ["mediating-between-two-people"], "lang": "zh"},
+{"q": "my former intern is applying for a data science masters and asked me for a letter. she was great but only with me for 3 months. what do i write", "expect": ["write-a-recommendation-or-reference"], "lang": "en"},
+{"q": "a recruiter is calling me tomorrow as a reference for an ex-teammate. he was good with clients but honestly unreliable with deadlines. what do i say", "expect": ["write-a-recommendation-or-reference"], "lang": "en"},
+{"q": "my daughter says her maths teacher ignores her when she puts her hand up and she's started hating school. how do i write to the teacher without sounding like a crazy parent", "expect": ["messages-to-teachers-and-schools"], "lang": "en"},
+{"q": "孩子班主任在家长群里点名批评我儿子作业没交，我想私下给老师发个消息说明情况，怎么说比较好？", "expect": ["messages-to-teachers-and-schools"], "lang": "zh"}
 ]

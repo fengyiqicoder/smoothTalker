@@ -38,7 +38,8 @@ Answer three questions, then open the entry named. When two branches apply, open
 - More time on a deadline: `ask-for-extension`
 - Time off, sick day, leave: `ask-for-time-off-or-sick-leave`
 - An introduction or referral: `request-intro-or-referral`
-- A reference, recommendation, testimonial from a person: `ask-for-reference-or-recommendation`
+- A reference, recommendation, testimonial from a person: `ask-for-reference-or-recommendation` (writing one for someone else: `write-a-recommendation-or-reference`)
+- A teacher or school to act on a concern, meet, or reconsider a decision: `messages-to-teachers-and-schools`
 - A review or testimonial from customers: `ask-for-review-or-testimonial`
 - A better price or a waived fee, as the buyer: `ask-for-a-discount-as-a-customer`
 - Higher pay or a higher price, as the seller or employee: `negotiate-price-or-salary` (a raise or promotion in your current job: `ask-for-a-raise-or-promotion`)

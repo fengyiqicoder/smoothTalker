@@ -30,8 +30,8 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - [x] thank-you-notes (gifts, hospitality, mentorship, after a favour; handwritten vs text)
 - [x] telling-someone-something-awkward-about-themselves (shipped as tell-someone-something-awkward) (body odour, food in teeth, a mistake in their public post)
 - [ ] responding-to-a-compliment-that-is-actually-a-hit-on (work context, keep it light and closed)
-- [ ] write-a-recommendation-or-reference-for-someone (LinkedIn recommendation, reference letter, a reference call when you have reservations; honest without sinking them)
-- [ ] messages-to-teachers-and-schools (a concern about your child, asking for a meeting, absence notes, disagreeing with a grade or a decision)
+- [x] write-a-recommendation-or-reference-for-someone (shipped as write-a-recommendation-or-reference) (LinkedIn recommendation, reference letter, a reference call when you have reservations; honest without sinking them)
+- [x] messages-to-teachers-and-schools (a concern about your child, asking for a meeting, absence notes, disagreeing with a grade or a decision)
 - [ ] apologise-for-a-slow-reply (the days-or-weeks-late reply: one line of ownership, then the answer; personal and work)
 - [x] mediating-between-two-people (friends fighting, two team members)
 
@@ -40,7 +40,7 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - [ ] (optional, low priority) Colloquial triggers. The model routing check scores 99.4% top-1 on 165 blind requests, so only add triggers for confusions it finds. The lexical eval (`scripts/eval_routing.py`) shows keyword gaps if you want to help weak keyword matchers, but do not stuff triggers to raise it.
 - [ ] Add a voice-note / phone-call variant to entries where the channel is often voice (cancel-or-reschedule, condolences, deliver-bad-news, apologize).
 - [ ] (optional, low priority) Non-English triggers. A model routes non-English requests correctly (33 of 34 in the check) without them; they only help keyword matching. If done, add 1 or 2 Chinese triggers per entry first, since Chinese is the second audience.
-- [ ] 02-tone-calibration: add a table of register markers per channel (WhatsApp, iMessage, Slack, LinkedIn, email, Instagram DM, Xiaohongshu/WeChat).
+- [x] 02-tone-calibration: add a table of register markers per channel (WhatsApp, iMessage, Slack, LinkedIn, email, Instagram DM, Xiaohongshu/WeChat).
 - [x] 04-phrase-bank: add a "replace this with that" table for the 30 most common weak phrases.
 - [x] Routing evals: `eval/routing_scenarios.json` (165 blind requests, 34 non-English), `scripts/eval_routing.py` (lexical) and `scripts/model_routing.py` (model reads only the index). Results and prompts in `eval/README.md`.
 - [ ] Re-run the end-to-end simulation in `eval/README.md` after every 6 to 8 new entries, with a few new scenarios aimed at them. Log the result in TESTLOG.md as a simulated round and fix the playbooks it exposes.
