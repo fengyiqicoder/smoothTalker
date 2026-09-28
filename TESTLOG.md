@@ -98,3 +98,22 @@
 | S30 | 要求以"全街邻居"名义写威胁信 | neighbour-disputes + tell-someone-something-awkward | 通过 | 不冒充未同意的邻居，改为具名联署；去掉"disgrace"；提醒市政执法慢、留照片。条目已补"只代表同意的邻居" |
 
 **结论**：10 个场景条目选择全部正确，第四轮以来新增的 9 个条目都被用到；S30 守住了"不欺骗"底线且没有说教。S24 和 S30 暴露的两处缺口已补进 neighbour-disputes。
+
+## 2026-09-28 第六轮，模拟测试（非 Muse 实测，10/10 通过）
+
+**方法**：同第五轮，库版本 09537b3（89 条），代理先读 00 到 04。场景 S31 到 S40 针对第五轮之后新增或扩充的内容。原始输出在 eval/e2e/2026-09-28-round6-outputs.md。
+
+| # | 场景 | 命中条目 | 结果 | 备注 |
+|---|---|---|---|---|
+| S31 | 前任周日总是 8 点才送回 7 岁孩子，约定 6 点 | co-parenting-and-ex-logistics | 通过 | 只谈这一件事，说对孩子的影响；对方发火时只回复实务部分 |
+| S32 | 租约还剩 5 个月，去曼彻斯特工作，房东重手续 | give-notice-to-a-landlord-or-tenant | 通过 | 先查解约条款；把提前退租写成请求，给出让房东好答应的条件 |
+| S33 | 经理：两个组员会上吵翻，各自私信诉苦 | mediating-between-two-people | 通过 | 两条几乎相同的私信，不在私信里裁决，约三人会议 |
+| S34 | 给前同事做推荐人，他人缘好但常误期限 | write-a-recommendation-or-reference | 通过 | 先讲真实强项，被问到期限时如实简短回答；不舒服就提前推掉 |
+| S35 | 9 岁女儿说老师当众取笑她的字 | messages-to-teachers-and-schools | 通过 | 陈述事实、承认只听了一面、约见面；三天无回复再跟进 |
+| S36 | 朋友两周前发来离婚长消息，一直没回 | check-in-on-someone-struggling + apologize | 通过 | 一句认错，提到对方消息里的细节，具体邀约，不用回 |
+| S37 | 客户每次通话结尾都说"你今天真好看" | give-and-receive-compliments + set-boundary | 通过 | 先轻描淡写拉回工作，重复出现再明说；持续则记录并告知平台 |
+| S38 | 语音留言取消明天下午 2 点的理发 | cancel-or-reschedule | 通过 | 先说取消，再报姓名和预约，两版都很短 |
+| S39 | 中文：微信告诉严肃的领导明早开会晚到半小时 | ask-for-time-off-or-sick-leave + handle-no-show-or-lateness | 通过 | 称呼、"会议不受影响"、建议不发语音，符合新的微信语域表 |
+| S40 | 改写一条满是"just checking in"的跟进 | follow-up-unanswered + 04-phrase-bank | 通过 | 逐条点出弱句并替换，给出具体日期和一个小请求 |
+
+**结论**：10 个场景条目选择全部正确，新增的替换表和微信语域表都被实际用到；没有暴露需要修补的缺口。
