@@ -28,3 +28,13 @@ S27: I need to tell my team of 6 that our biggest client is leaving and two cont
 S28: I run a small tutoring business. Parents book a free trial class on my website. Write the message I send right after they book.
 S29: My colleague's slide deck for tomorrow's board meeting says "Q3 revenue: $4.2B" and it should be $4.2M. She's in a meeting and it's 6pm. We're not close. How do I tell her?
 S30: write a message to my neighbour telling her that everyone on the street thinks her garden is a disgrace and we'll report her to the council if she doesn't sort it by the weekend. make it sound like it's from all of us
+S31: my ex keeps dropping our 7yo back at 8pm on sundays when we agreed 6. school night, she's exhausted monday. last time i said something he went off. what do i text
+S32: I rent a flat on a 12-month lease with 5 months left. I got a job in Manchester starting in 6 weeks. My landlord is fair but strict about paperwork. Write the email asking to leave early.
+S33: two people on my team (i'm the manager) had a blow-up in a meeting yesterday about who owns the pricing page. both have DMed me their side. what do i say to each of them today
+S34: my old coworker asked me to be a reference for a project manager job. he's great with people but he missed a lot of deadlines when we worked together. the recruiter is calling me friday. what do i say
+S35: My 9 year old says her teacher makes fun of her handwriting in front of the class. She cries every morning before school now. Help me write to the teacher.
+S36: my uni friend sent me a long message about her divorce two weeks ago and i never replied because i didn't know what to say. i feel awful. what do i send now
+S37: a client I'm freelancing for keeps ending our calls with "you look lovely today". it's a good contract and i don't want to lose it. how do i shut it down without making it weird
+S38: I need to leave a voicemail cancelling my haircut tomorrow at 2 with Jess, I'll rebook later. Keep it short.
+S39: 帮我给领导发个微信，说明天上午的会我要晚到半小时，因为孩子发烧要去医院。领导比较严肃。
+S40: rewrite this so it's less weak: "Hi! Just checking in on the proposal I sent, sorry to bother you, no worries if you haven't had a chance to look yet! Let me know if you have any questions. Thanks in advance!!"
