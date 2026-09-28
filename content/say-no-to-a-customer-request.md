@@ -2,8 +2,8 @@
 title: Saying no to a customer request without losing the customer
 category: commerce
 tags: [decline, customer request, policy, feature request, custom order, exception, support]
-triggers: [say no to a customer, decline a feature request, can't do a custom order, decline a rush job, discount code expired what do I say, return outside the window, request violates our policy, make an exception for a customer, tell a customer we don't do that]
-summary: Declining a customer's request so they stay a customer: the no in one clear line, the real reason, what you can do instead, and how to grant an exception without making it the new rule.
+triggers: [say no to a customer, decline a feature request, can't do a custom order, discount code expired what do I say, request violates our policy, make an exception for a customer, tell a customer we don't do that]
+summary: Declining a customer's request (a feature, a custom order, an expired code, a policy exception) so they stay a customer. Refunds and returns: handle-refund-request. A client's rush or extra work: say-no-to-client-scope.
 updated: 2026-09-28
 ---
 # Saying no to a customer request without losing the customer
@@ -36,18 +36,8 @@ The customer gets a clear answer, understands it is not personal, and leaves wit
 **Custom order, DM:**
 > Thanks for asking! I don't do custom sizes on the ceramic planters, the kiln setup makes one-offs cost more than anyone would pay. The closest I have is the 22cm, which fits most windowsills. Send me a photo of the spot and I'll tell you honestly whether it'll work.
 
-**Rush job, email:**
-> Hi Dan, I can't turn this around by Friday. Done properly it takes six working days and I have two projects ahead of you. What I can do: deliver on Wednesday the 18th, or, if Friday is fixed, the first section by Friday and the rest the following week. Which is more useful?
-> Ruth
-
 **Expired discount code:**
 > Hi Sam, that code ended on 30 June, so it won't apply to this order. The SUMMER10 code is live until the 15th and takes 10% off. Here's the link with it applied [link]. If you already paid full price, reply with the order number and I'll refund the difference.
-
-**Return outside the window:**
-> Hi Jess, the return window is 30 days and this was delivered 47 days ago, so I can't take it back for a refund. I can offer store credit for the full amount, valid for a year, or 30% off a replacement if the fit was the problem. Which would you prefer?
-
-**Return outside the window, exception granted:**
-> Hi Jess, the window is 30 days and this is at 47, so normally this would be a no. Since you've ordered six times and never returned anything, I'll make an exception this once and refund in full. Label attached. Going forward the 30 days is firm, so there's no surprise next time.
 
 **Request that violates policy (a second user on a personal plan):**
 > Thanks for asking rather than just doing it. I can't add a second login to a personal plan; it's one seat, and the team plan exists exactly for this. Team for two is $18 a month, $6 more than now, and I can apply the upgrade with the rest of this month free. Want me to do that?
@@ -61,4 +51,4 @@ The customer gets a clear answer, understands it is not personal, and leaves wit
 - Apologising more than once.
 
 ## If they push back
-Restate the no in one line, repeat the alternative, and add no new reasons. "I understand, and the answer's still that I can't refund it. The store credit is yours whenever you want it." If they threaten a bad review, hold the answer: "That's your call. I'd still like to sort this with the credit or the exchange, and either is ready when you are." If they bring a genuinely new fact (the item was faulty, your site gave wrong information), reconsider on that fact and say so: "That changes it. If the size guide said 42, I'll take it back."
+Restate the no in one line, repeat the alternative, and add no new reasons. "I understand, and the answer's still no on the custom size. The 22cm planter is ready whenever you want it." If they threaten a bad review, hold the answer: "That's your call. I'd still like to sort this with the alternative, and it's ready when you are." If they bring a genuinely new fact (the item was faulty, your site gave wrong information), reconsider on that fact and say so: "That changes it. If the listing said custom sizes were available, I'll make one."

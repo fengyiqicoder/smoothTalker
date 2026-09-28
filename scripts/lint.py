@@ -62,6 +62,16 @@ for p in sorted(CONTENT.glob("*.md")):
         if not any(h.lower().startswith(("if ", "when ", "what to do")) for h in heads):
             warn(p, "no 'If it goes badly' style section")
 
+router = CONTENT / "06-situation-router.md"
+if router.exists():
+    rtext = router.read_text(encoding="utf-8")
+    for p in sorted(CONTENT.glob("*.md")):
+        try:
+            if parse(p)[0].get("category") != "core" and f"`{p.stem}`" not in rtext:
+                err(p, "not named in 06-situation-router.md; add a routing line")
+        except Exception:
+            pass
+
 for w in warnings: print("warn:", w)
 for e in errors: print("ERROR:", e)
 print(f"{len(list(CONTENT.glob('*.md')))} entries, {len(errors)} errors, {len(warnings)} warnings")

@@ -192,5 +192,12 @@
 {"q": "my daughter says her maths teacher ignores her when she puts her hand up and she's started hating school. how do i write to the teacher without sounding like a crazy parent", "expect": ["messages-to-teachers-and-schools"], "lang": "en"},
 {"q": "孩子班主任在家长群里点名批评我儿子作业没交，我想私下给老师发个消息说明情况，怎么说比较好？", "expect": ["messages-to-teachers-and-schools"], "lang": "zh"},
 {"q": "a client keeps telling me i look 'stunning' on our video calls and it's making me uncomfortable. how do i respond next time without making the project awkward", "expect": ["give-and-receive-compliments", "set-boundary"], "lang": "en"},
-{"q": "my friend sent me a long voice note about her new job three weeks ago and i never answered. how do i reply now without it being weird", "expect": ["apologize"], "lang": "en"}
+{"q": "my friend sent me a long voice note about her new job three weeks ago and i never answered. how do i reply now without it being weird", "expect": ["apologize"], "lang": "en"},
+{"q": "my housemate never buys toilet paper or dish soap, i always end up getting it. there are four of us. how do i suggest a system without calling her out", "expect": ["roommate-and-shared-living"], "lang": "en"},
+{"q": "合租的室友男朋友几乎天天来住，水电费还是我们三个人平摊，怎么在群里提比较好？", "expect": ["roommate-and-shared-living"], "lang": "zh"},
+{"q": "my aunt knitted my baby a blanket and sent it from overseas. what do i write in the card", "expect": ["thank-you-notes"], "lang": "en"},
+{"q": "my old boss wrote the reference that got me my new job. i want to thank her properly now that i've started", "expect": ["thank-you-notes"], "lang": "en"},
+{"q": "i've been doing my manager's job since she went on leave 4 months ago and nobody has mentioned pay. how do i bring it up", "expect": ["ask-for-a-raise-or-promotion"], "lang": "en"},
+{"q": "Ich arbeite seit drei Jahren im Team und habe deutlich mehr Verantwortung als bei der Einstellung. Wie bitte ich meine Chefin um eine Gehaltserhöhung?", "expect": ["ask-for-a-raise-or-promotion"], "lang": "de"},
+{"q": "my best friend always shows up 30 to 40 minutes late to everything and i'm tired of waiting. how do i ask her to change without a fight", "expect": ["ask-to-change-behavior", "handle-no-show-or-lateness"], "lang": "en"}
 ]

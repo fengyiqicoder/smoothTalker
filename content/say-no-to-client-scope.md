@@ -2,9 +2,9 @@
 title: Saying no to a client (scope creep, unreasonable asks, bad fit)
 category: work
 tags: [client, scope creep, freelance, no, out of scope, boundaries, agency]
-triggers: [client keeps adding things, out of scope, client asked for free work, tell a client no, turn down a project, scope creep, fire a client]
+triggers: [client keeps adding things, out of scope, client asked for free work, tell a client no, turn down a project, scope creep, fire a client, client wants it rushed]
 summary: How to hold the line with clients while staying the person they want to keep hiring: name the scope, price the extra, or decline the project cleanly.
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 # Saying no to a client
 
@@ -33,6 +33,10 @@ The client hears a professional managing a project, not a contractor being diffi
 
 **Client asks for "a quick favour" that isn't quick:**
 > I can do that. It's a couple of hours of work rather than a quick one, so I'll bill it at the usual rate unless you'd rather I skip it. Just say.
+
+**Rush request:**
+> Hi Dan, I can't turn this around by Friday. Done properly it takes six working days and I have two projects ahead of you. What I can do: deliver on Wednesday the 18th, or, if Friday is fixed, the first section by Friday and the rest the following week. Which is more useful?
+> Ruth
 
 **Client wants unlimited revisions:**
 > The package includes two rounds of revisions and we've used both. I want you to be happy with it, so here's the plan: I'll do one more round as a courtesy, and further rounds are $X each. Does that work?

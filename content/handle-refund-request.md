@@ -2,9 +2,9 @@
 title: Handling a refund, return or cancellation request
 category: commerce
 tags: [refund, return, cancellation, policy, customer, small business]
-triggers: [customer wants a refund, refund request, they want to return it, cancel their order, refund policy, asking for money back]
+triggers: [customer wants a refund, refund request, they want to return it, cancel their order, refund policy, asking for money back, return outside the window, make an exception on a return]
 summary: Saying yes fast when you can, saying no kindly when you must, and offering an alternative either way, without hiding behind policy.
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 # Handling a refund request
 
@@ -31,6 +31,9 @@ Ask yourself: is the cost of this refund higher than the cost of this customer t
 
 **No, outside return window, offer alternative:**
 > Thanks for getting in touch. I can see the order was from March, and our returns close at 30 days, so I can't do a full refund on this one. What I can do is offer store credit for 50% of the price, or a 20% code for your next order. Would either help?
+
+**Outside the window, exception granted (without making it the new rule):**
+> Hi Jess, the window is 30 days and this is at 47, so normally this would be a no. Since you've ordered six times and never returned anything, I'll make an exception this once and refund in full. Label attached. Going forward the 30 days is firm, so there's no surprise next time.
 
 **No, custom / personalised item:**
 > I'm sorry it's not what you hoped for. Because this one was made to your spec I'm not able to refund it, since I can't resell it. If there's something specific that's wrong with it, I'd genuinely like to fix it, so tell me what's off.
