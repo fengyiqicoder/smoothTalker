@@ -4,7 +4,7 @@ category: personal
 tags: [scam, phishing, hacked account, fraud, safety, verification, family]
 triggers: [is this a scam, friend asking for money on whatsapp, someone sent me a code request, bank text looks fake, delivery text with a link, wrong number text, job offer too good to be true, my aunt is being scammed, reply to suspicious message]
 summary: Whether and how to reply to a message that may be a scam or a hacked account: verify through a channel you already had, do not engage, warn the real friend, and talk to a relative without shaming them.
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 # Replying to a suspicious or scam message
 
@@ -37,14 +37,14 @@ You lose nothing, the real person behind a hacked account gets warned, and any r
 > Your Instagram is sending "I need a favour" messages to people. It's not you, right? Change the password and turn on two-step, and tell your followers from another account so nobody sends money.
 
 **"Bank" or "delivery" text with a link:**
-Send nothing. Open the bank app or type the courier site yourself. If you want to report it, forward the text to your carrier's spam number or your bank's fraud line, then delete it.
+Send nothing. Open the bank app or type the courier site yourself. To report it, forward the text to your carrier's spam number or your bank's fraud line, then delete it.
 
 **Wrong-number opener from a stranger ("Hi, is this David from the gym?"):**
 Send nothing. If it is a real wrong number, they will find the right one. If you must, one line and then block:
 > Wrong number.
 
 **Too-good job offer by DM ("$4,000 a week, no experience, reply YES"):**
-Send nothing. Look up the company on your own and message its official careers address if you are curious:
+Send nothing. Look up the company yourself and message its official careers address if curious:
 > Hi, I received a message claiming to be from your recruiting team about a remote position. Can you confirm whether it's genuine?
 
 **A relative's account seems hacked (message them on another channel you already had):**
@@ -58,12 +58,12 @@ Send nothing. Look up the company on your own and message its official careers a
 
 ## Avoid
 - Clicking to "just see" what the link is.
-- Replying "STOP" or "wrong number" to unknown numbers, which confirms yours is live.
-- Sending any code, even to someone who seems to be a friend, even "just this once".
+- Replying "STOP" to unknown numbers, which confirms yours is live.
+- Sending any code, even "just this once".
 - Arguing with, mocking or baiting the scammer.
 - "How could you fall for that?" to a relative. It ends the conversation and the next scam goes unreported.
 
 ## If it goes badly
 If the relative gets defensive:
 > You're right, it's your money and your decision. I'm not going to nag. I just want you to know that if anything about it starts to feel off, you can tell me and I won't say I told you so.
-Then stay in contact and check in again in a week. If they have already sent money, help them call the bank first and talk about it later. If a stranger keeps messaging after you ignore them, block and report; do not send a final reply.
+Then check in again in a week. If they have already sent money, help them call the bank first and talk about it later. If a stranger keeps messaging after you ignore them, block and report; do not send a final reply.

@@ -4,12 +4,12 @@ category: personal
 tags: [discount, price match, fee waiver, buyer, vendor, negotiation, perk]
 triggers: [ask for a better price, ask for a discount, price match request, can you waive the fee, ask the dealer for a lower price, ask the wedding vendor for a discount, ask for a loyalty discount, get a hotel upgrade, ask a SaaS company for a discount]
 summary: How to ask any seller for a lower price or a perk: anchor on a real fact, name a specific number, make yes easy, and stay gracious if the answer is no.
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 # Asking a vendor for a discount, price match or fee waiver
 
 ## Goal
-You get a lower price, a waived fee or a perk, and the seller feels they did a reasonable thing for a reasonable person. The ask is specific, based on something true, and easy to say yes to. If they say no, you have lost nothing and they still like you.
+You get a lower price, a waived fee or a perk, and the seller feels they did a reasonable thing for a reasonable person. If they say no, you have lost nothing and they still like you.
 
 ## Structure
 1. **Signal you want to buy.** "I'm ready to book." Sellers discount buyers, not browsers.
@@ -25,8 +25,7 @@ You get a lower price, a waived fee or a perk, and the seller feels they did a r
 - If price is fixed, ask for perks: delivery, a longer warranty, an upgrade, an extra month, waived setup.
 - Ask the person who can say yes: a manager, owner or retention team.
 - Timing: end of month for dealers, off-season for wedding vendors, the renewal window for SaaS.
-- Keep it brief and pleasant. It is a normal thing normal people say.
-- When they say no, thank them and decide. Sulking costs the goodwill you need for the next ask.
+- Keep it brief and pleasant; it is a normal ask.
 
 ## Examples
 
@@ -34,7 +33,7 @@ You get a lower price, a waived fee or a perk, and the seller feels they did a r
 > I'd like to take the two chairs and the side table together. Is there any room on price if I take all three today? I was thinking $520 for the set.
 
 **Competitor quote, email to a vendor:**
-> Hi Rachel, I'd like to go with you for the kitchen fitting. One thing: [other firm] quoted $6,800 for the same scope, and yours is $7,400. If you can meet them at $6,800, or get close, I'll sign and pay the deposit this week. If not, tell me what's different about your quote and I'll take it into account.
+> Hi Rachel, I'd like to go with you for the kitchen fitting. One thing: [other firm] quoted $6,800 for the same scope, and yours is $7,400. If you can meet them at $6,800, or get close, I'll sign and pay the deposit this week. If not, tell me what's different about yours.
 > Ben
 
 **Car dealer, email before visiting:**
@@ -61,7 +60,6 @@ You get a lower price, a waived fee or a perk, and the seller feels they did a r
 ## Avoid
 - Inventing a competitor quote or a budget you do not have.
 - "Can you do anything on price?" with no number.
-- Pleading or sad stories with no other lever.
 - Threatening a bad review to get a discount.
 - Asking twice after a clear no.
 - Insulting the product to justify the ask.

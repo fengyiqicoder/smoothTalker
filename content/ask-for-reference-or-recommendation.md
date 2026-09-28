@@ -4,7 +4,7 @@ category: work
 tags: [reference, recommendation, linkedin recommendation, former manager, professor, testimonial, case study]
 triggers: [ask for a reference, ask my old boss to be a reference, linkedin recommendation request, ask a professor for a recommendation letter, ask a client for a testimonial, case study quote, reference after years, they said no to being a reference]
 summary: Asking a former manager, professor or client to vouch for you, making it a ten-minute job for them, and handling a long gap, a hesitation, or a no. Writing one for someone else: write-a-recommendation-or-reference.
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 # Asking for a reference or recommendation
 
@@ -12,16 +12,16 @@ updated: 2026-09-27
 They say yes in one reply, know exactly what to say and by when, and feel good about being asked. The request is a ten-minute job for them, not a homework assignment.
 
 ## Structure
-1. **Context in one line.** What you are applying for, or why you need the recommendation.
+1. **Context in one line.** What you are applying for, or why you need it.
 2. **The specific ask.** A phone reference, a written letter, a LinkedIn recommendation, a quote. Name it.
 3. **Make it easy.** Three bullet points of what you would love them to mention, the deadline, and an offer of a draft they can edit.
-4. **The exit.** "If the timing doesn't work, no problem at all." Give them a clean way out, and mean it.
+4. **The exit.** "If the timing doesn't work, no problem at all." Mean it.
 5. **After they agree:** send the details in one place. Who will contact them, when, the job title, the bullets.
 
 ## Principles
 - A reference request is a favour with a deadline. State the deadline in the first message, not after they agree.
 - Bullets beat memory. They remember you were good; they do not remember the number you moved. Give them the number.
-- Offer a draft for written recommendations. Most people accept and lightly edit it, and everyone's time is saved.
+- Offer a draft for written recommendations. Most people accept and lightly edit it.
 - Ask before you list them. Being called out of the blue about someone you have not spoken to in three years is a bad experience.
 - After a long gap, lead with the reconnection and a reminder of what you worked on together. Do not pretend no time has passed.
 - Do not stack asks. One reference, one deadline, one message.
@@ -48,10 +48,9 @@ They say yes in one reply, know exactly what to say and by when, and feel good a
 
 ## Avoid
 - "Could you maybe say a few words about me sometime?" with no role, no deadline, no format.
-- Listing someone as a reference without asking.
 - Sending the draft before they have said yes. Offer it, then send it.
 - Chasing more than twice.
-- Forgetting to close the loop. A one-line "I got the job, thank you" is the thing that makes them say yes next time.
+- Forgetting to close the loop. A one-line "I got the job, thank you" earns the next yes.
 
 ## If they hesitate or decline
 
@@ -59,7 +58,7 @@ They say yes in one reply, know exactly what to say and by when, and feel good a
 > That's fair. Would it help if I sent you a draft and the three points they'll ask about? If it still doesn't feel right, I'll ask someone else, no problem.
 
 **They decline:**
-> Understood, and thank you for telling me straight. I appreciate it.
+> Understood, and thank you for telling me straight.
 Do not ask why. Ask someone else the same day. A reluctant reference is worse than a missing one.
 
 **Silence after two messages:**

@@ -9,7 +9,7 @@ updated: 2026-09-28
 # Checking in on someone who is struggling
 
 ## Goal
-They feel seen without feeling like a project. The message asks nothing of them, gives them an easy way to respond or not, and leaves a door open they can walk through later.
+They feel seen without feeling like a project. The message asks nothing, makes replying optional, and leaves a door open for later.
 
 ## First check-in
 1. **Say why you're writing, in one line.** "I heard about the redundancy" or "You've been quiet and I've been thinking about you."
@@ -21,7 +21,7 @@ They feel seen without feeling like a project. The message asks nothing of them,
 1. Wait at least a few days. Silence is not rejection, it is often the only energy they have.
 2. Send something that needs zero response: a photo, a memory, a "still here."
 3. Never mention the unanswered message. "Did you get my text?" turns your care into a debt.
-4. Keep the rhythm gentle: once a week or so, not daily, unless you are genuinely worried about their safety.
+4. About once a week, not daily, unless you fear for their safety.
 
 ## When they say "I'm fine"
 1. Take it at face value the first time. Pushing makes the next "fine" more defended.
@@ -29,19 +29,19 @@ They feel seen without feeling like a project. The message asks nothing of them,
 3. If the behaviour and the word clearly disagree, name it once, gently, and stop.
 
 ## Offering concrete help
-"Let me know if you need anything" hands them a task most people in a hole will not do. Offer one specific thing with a time attached, that they only have to accept or decline: food, a lift, a walk, a school pickup.
+"Let me know if you need anything" hands them a task. Offer one specific thing with a time attached, that they only have to accept or decline: food, a lift, a walk, a school pickup.
 
 ## Principles
 - Their pace, not yours. You are a lamp in the hallway, not a search party.
 - Presence beats advice. Do not fix, reframe, or find the silver lining.
 - Shorter is kinder. A long message asks for a long reply.
-- Be consistent more than intense. Three small texts across a month do more than one essay.
-- Professional help gets one warm line, offered as an option, never as a verdict on them. You do not name conditions and you do not diagnose.
+- Consistent beats intense: three small texts in a month beat one essay.
+- Professional help gets one warm line, offered as an option, never as a verdict on them.
 
 ## Examples
 
 **Friend went quiet:**
-> Hey, you've gone a bit quiet and I've been thinking about you. No need to reply to this. I'm around all weekend if you want company, or silence in the same room, either is fine.
+> Hey, you've gone a bit quiet and I've been thinking about you. No need to reply to this. I'm around all weekend if you want company, or silence in the same room.
 
 **Job loss:**
 > Heard about Tuesday. That's rubbish and it's not a verdict on you. I'm making a big pot of curry Thursday, can I drop some at yours around 7?
@@ -67,7 +67,6 @@ They feel seen without feeling like a project. The message asks nothing of them,
 ## Avoid
 - "Everything happens for a reason", "at least", "you're so strong", "have you tried".
 - Comparing to your own hard time unless they ask.
-- Asking for updates. They are not obliged to report.
 - Sending a check-in and then going silent when they finally open up.
 - Naming a condition. "You sound depressed" is a diagnosis, and it is not yours to make.
 

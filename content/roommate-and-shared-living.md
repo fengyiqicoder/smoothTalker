@@ -4,7 +4,7 @@ category: personal
 tags: [roommate, flatmate, housemate, chores, bills, shared house]
 triggers: [my roommate keeps, flatmate won't clean, housemate never pays bills, roommate's partner basically lives here, tell my roommate I'm moving out, roommate is too loud at night, house chat about chores, split utilities with roommates]
 summary: How to raise chores, bills, guests, noise and moving out with people you live with, as shared-house admin with a proposal, so the home stays livable while you sort it.
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 # Roommates and shared living
 
@@ -35,7 +35,7 @@ The problem gets fixed and you can still make toast in the same kitchen tomorrow
 > Hey, can I raise something small? The dishes have been piling up a few days at a time and I've ended up doing most of them. Could we agree nothing stays in the sink overnight? Happy to do the same.
 
 **Bills, a late payment:**
-> Hi Sam, the electricity bill came out on the 3rd, your share is £46. Can you send it over by Friday? I've set up a split in Splitwise so it's all tracked from now on.
+> Hi Sam, the electricity bill came out on the 3rd, your share is £46. Can you send it over by Friday? I've set up Splitwise so it's all tracked from now on.
 
 **A partner who has effectively moved in:**
 > I really like Jo, and I get why they're here a lot. It's been 4 or 5 nights a week for a while now, which changes the bills and the bathroom queue. Can we either keep it to a couple of nights, or talk about Jo chipping in for utilities?
@@ -53,8 +53,6 @@ The problem gets fixed and you can still make toast in the same kitchen tomorrow
 - Passive-aggressive notes on the fridge or in the kitchen.
 - "Some people in this house..." in the group chat. Everyone knows who you mean, including them.
 - Raising it at 1am when you are woken up. Say "could you turn it down, I'm sleeping" then, and have the real conversation tomorrow.
-- Keeping a tally of every wrong and producing it all at once.
-- Speaking for other roommates who have not agreed to it.
 - Threatening to tell the landlord as an opening move.
 
 ## If it goes badly

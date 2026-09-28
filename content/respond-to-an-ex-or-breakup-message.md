@@ -3,8 +3,8 @@ title: Breaking up by message, or responding to an ex
 category: personal
 tags: [ex, breakup, relationship, closure, get-back-together, stay-friends, belongings]
 triggers: [break up with my boyfriend, break up with my girlfriend, end my relationship, break up over text, want to end it by message, my ex texted me, ex reached out, how to reply to my ex, ex wants to get back together, stay friends with my ex, get my stuff back from my ex, closing the door with an ex]
-summary: Ending an established relationship by message, replying when an ex reaches out, declining a reunion, deciding on friendship, and sorting belongings. Early dating: romantic-let-down. Arranging things for your children: co-parenting-and-ex-logistics.
-updated: 2026-09-27
+summary: Ending an established relationship by message, replying when an ex reaches out, declining a reunion, friendship, belongings. Early dating: romantic-let-down. Kids' logistics: co-parenting-and-ex-logistics.
+updated: 2026-09-28
 ---
 # Breaking up by message, or responding to an ex
 
@@ -20,7 +20,7 @@ You say what you actually want, with no cruelty and no false hope. They know whe
 ## Ex reaches out, you are open to it
 1. **Warmth, honestly sized.** Do not overplay it.
 2. **Name the limit up front.** Friendship, a coffee, a conversation about what happened. Say which.
-3. **One concrete next step** with a date, so it does not drift into midnight texting.
+3. **One concrete next step** with a date, so it does not drift.
 4. **Keep it slow.** Nothing you would regret if they went quiet.
 
 ## Breaking up by message (when a call is not possible)
@@ -31,7 +31,7 @@ You say what you actually want, with no cruelty and no false hope. They know whe
 5. **No "let's stay friends" unless you mean it now.**
 
 ## Declining to get back together
-The answer is no, it is not a negotiation, and one line of respect. Do not list their faults and do not leave "maybe someday" hanging unless it is true.
+A clear no, not a negotiation, plus one line of respect. Do not list their faults and do not leave "maybe someday" hanging unless it is true.
 
 ## Friends or not
 Say which you can honestly do, and when. "Not now" is a legitimate answer. "Yes" should come with a shape: occasional, in groups, no late-night messages.
@@ -55,13 +55,13 @@ Logistics only. Date, method, done.
 > It's nice to hear from you. I'm open to a coffee and a proper catch-up, as friends, no expectations either way. Are you free Saturday around 11 at [cafe]?
 
 **Breakup by message, call not possible:**
-> I need to say this now rather than wait until you're back in three weeks, and I'm sorry it's by message. I don't want to carry on the relationship. I've felt for a while that we want different things, and I've stopped being honest with myself about it. This isn't about anything you did. I'll pack your things and can drop them at [place] on [date], or your sister can collect them, whichever you'd prefer.
+> I need to say this now rather than wait until you're back in three weeks, and I'm sorry it's by message. I don't want to carry on the relationship. I've felt for a while that we want different things, and I've stopped being honest with myself about it. This isn't about anything you did. I'll pack your things and can drop them at [place] on [date], or your sister can collect them.
 
 **Declining to get back together:**
-> I've read your message a few times and I want to give you a straight answer instead of a maybe. The answer is no. It's not to hurt you, it's what I know about myself. I'd rather you hear that clearly than keep hoping.
+> I've read your message a few times and want to give you a straight answer, not a maybe. The answer is no. It's not to hurt you, it's what I know about myself.
 
 **Agreeing to stay friends, with shape:**
-> I'd like to stay friends, and I think it works best if we keep it to group things and daytime for a while. Come to [name]'s birthday on the 14th if you're up for it.
+> I'd like to stay friends, and I think it works best as group things and daytime for a while. Come to [name]'s birthday on the 14th if you're up for it.
 
 **Not staying friends, kindly:**
 > I don't think I can do friends, at least not for a long time. That's about me needing distance, not about you. I hope you've got good people around you.
@@ -74,10 +74,8 @@ Logistics only. Date, method, done.
 
 ## Avoid
 - "I still care about you but..." It reads as a hook.
-- Explaining the decision at length. One reason, then stop.
 - "Let's see how things go" when you know how things go.
-- Asking how they feel about it in the same message. Say your part and give them room.
-- Replying within minutes at midnight. Wait for daylight.
+- Asking how they feel about it in the same message.
 - Blocking without a line, when a line is safe to send. One sentence spares them weeks of guessing. If they are unsafe, just block.
 
 ## If they push back

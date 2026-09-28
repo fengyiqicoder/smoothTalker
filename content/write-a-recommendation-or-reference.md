@@ -9,7 +9,7 @@ updated: 2026-09-28
 # Writing a recommendation or reference
 
 ## Goal
-The reader believes you, because you are specific, and the person you recommend is helped, because the evidence fits the role. A reference is only worth something if it is honest, so the kindest reference is a truthful one with the strongest true things put first.
+The reader believes you because you are specific, and the person is helped because the evidence fits the role. The kindest reference is a truthful one with the strongest true things first.
 
 Asking someone to be your referee: `ask-for-reference-or-recommendation`.
 
@@ -22,12 +22,11 @@ Asking someone to be your referee: `ask-for-reference-or-recommendation`.
 
 ## Principles
 - Specific beats superlative. "She cut our month-end close from nine days to five" does more than "exceptional".
-- Ask them for a short brief: the role, the deadline, and two or three things they would like you to mention. Then only write what you can stand behind.
-- Describe what you saw. Do not claim to know about work you did not observe.
+- Ask them for a short brief: the role, the deadline, and two or three things they would like you to mention. Then write only what you saw and can stand behind.
 - Match length to format: LinkedIn is 3 to 5 sentences, a letter is under a page, a reference call is short answers with one example each.
 - If you cannot recommend someone, say no to the request early and kindly, rather than writing something lukewarm. A faint reference hurts more than no reference.
 - With reservations, narrow the scope instead of lying: recommend them for what they were good at and stay silent or factual on the rest. Never invent strengths, and never hide something serious that a reader has a right to know, such as a safeguarding concern.
-- Check your company's policy before giving a reference for a former employee; some allow only dates and title.
+- Check company policy for former employees; some allow only dates and title.
 
 ## Examples
 
@@ -59,7 +58,6 @@ Asking someone to be your referee: `ask-for-reference-or-recommendation`.
 - Coded faint praise ("punctual and always well dressed") instead of an honest no.
 - Stretching what you saw, or signing a draft they wrote that says things you do not believe.
 - Mentioning protected characteristics, health or family circumstances.
-- Promising a reference and then missing the deadline.
 
 ## If it goes badly
 If you realise after agreeing that you cannot write a strong reference, tell them now, privately, and help them find a better referee. If a reference call asks something you cannot answer honestly in their favour, answer briefly and factually, or say it is outside what you saw. If they ask to see what you wrote and you would not be comfortable showing them, rewrite it until you would.

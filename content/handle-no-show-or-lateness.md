@@ -4,7 +4,7 @@ category: personal
 tags: [no-show, late, flaked, cancel, reschedule, reliability, client]
 triggers: [friend keeps cancelling, they didn't show up, stood me up, I was late and missed it, I no-showed, friend is always late, client didn't turn up, vendor no-show, running late text, flaked on me again]
 summary: Messaging someone who flaked, is running late, or keeps cancelling; owning it when you are the one who was late; naming a pattern without an ultimatum; and handling a client or vendor no-show.
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 # Handling a no-show or lateness
 
@@ -40,7 +40,6 @@ The plan gets rescued or rescheduled, the other person knows what you noticed, a
 - Sarcasm feels good for a minute and costs you the conversation.
 - Numbers beat adjectives. "Always" gets argued; "three of the last four" does not.
 - Say what you will do, not what they must do. That is the difference between a boundary and a demand.
-- If you are the one who flaked, the apology is short and the fix is specific. Long apologies make them comfort you.
 - A professional no-show is a business matter. Keep it in business language and put it in writing.
 
 ## Examples
@@ -71,9 +70,8 @@ The plan gets rescued or rescheduled, the other person knows what you noticed, a
 
 ## Avoid
 - "No worries!" when there are worries. It teaches them the flaking is free.
-- "Typical" or "as usual". You lose the moral high ground and the point.
+- "Typical" or "as usual".
 - Asking "why?" They will give a reason and you will have to accept it.
-- An ultimatum with a friend. "If you cancel again we're done" makes the next cancellation a crisis.
 - Over-apologising when you were late by five minutes. Match the size.
 - Waiting silently for an hour then exploding. Set the limit early and out loud.
 

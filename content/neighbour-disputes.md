@@ -4,28 +4,28 @@ category: personal
 tags: [neighbour, neighbor, noise, parking, fence, building]
 triggers: [neighbor keeps parking in my spot, note to my upstairs neighbour about noise, neighbour's dog barks all day, their tree is over my fence, complain to the building about a neighbor, neighbour ignored my note, write to the council about my neighbour, neighbor party every weekend]
 summary: Raising an ongoing problem with a neighbour (noise, parking, fences, pets, shared walls), then escalating in writing to the building, landlord or council. A friend's or housemate's habit: ask-to-change-behavior.
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 # Neighbour disputes
 
 ## Goal
-The problem stops and you can still nod at each other by the bins. You may live next to them for years, so the first message is friendly, specific and easy to agree to. If friendliness fails, the escalation is calm, dated and in writing.
+The problem stops and you can still nod at each other by the bins. You may live next to them for years, so start friendly, specific and easy to agree to. If that fails, escalate calmly, dated and in writing.
 
 Living with the person: `roommate-and-shared-living`. A habit of a friend or family member: `ask-to-change-behavior`.
 
 ## Structure
 1. **Introduce yourself if you have not met.** Name and flat or house number. People are kinder to a face than to "the neighbour."
-2. **Assume they do not know.** Sound carries differently through walls; most people have no idea.
+2. **Assume they do not know.** Most people have no idea how sound carries.
 3. **The specific issue, with times or examples.** "Music after midnight on weeknights," not "constant noise."
 4. **One small, concrete ask.** A time, a spot, a trim, a rug.
 5. **An open door.** "Let me know if anything from our side bothers you too."
 
 ## Principles
 - Knock or leave a friendly note first. Going straight to the landlord, the building or the council turns a fixable annoyance into a feud.
-- Pick a calm moment, not at 2am and not while you are still angry.
+- Pick a calm moment, not 2am and not while angry.
 - Ask for what they can actually do. Parents cannot stop a toddler running; they can add a rug or keep play away from your bedroom.
 - Speak only for neighbours who agreed. A letter signed by three named households carries more weight than "everyone on the street", and a claim others did not sign up to will come out.
-- Keep a simple log from the start: dates, times, what happened. You hope never to need it.
+- Keep a simple log from the start: dates, times, what happened.
 - Know who actually decides. Parking may be the building's rules, trees and fences local law, noise the council. Check before you threaten anything.
 - Escalate one step at a time, and tell them before you do. Surprise complaints end relationships; announced ones often fix the problem.
 
@@ -38,13 +38,13 @@ Living with the person: `roommate-and-shared-living`. A habit of a friend or fam
 > Hi, I'm Tom from number 12. The bay by the gate is ours on the lease, and it's been taken a few evenings this week. Could you use the visitor spaces instead? Easy mistake, the markings are faded.
 
 **Dog barking while they're at work:**
-> Hi, I live next door at 8. Just so you know, Rufus barks a lot during the day while you're out, often for an hour or so around noon. I figured you'd want to know.
+> Hi, I live next door at 8. Rufus barks a lot while you're out, often for an hour or so around noon. I figured you'd want to know.
 
 **Tree or hedge over the fence:**
 > Hi Mr Okafor, your oak is hanging quite low over our side now and dropping into the gutter. Would you be OK with us trimming back the branches over our fence line? We'll cover the cost and hand back anything you'd like to keep.
 
 **Follow-up when it keeps happening:**
-> Hi again, I wanted to check in about the late music. It's been past midnight three times this fortnight (the 4th, 9th and 11th). Is there anything that would make 11 easier for you?
+> Hi again, about the late music. It's been past midnight three times this fortnight (the 4th, 9th and 11th). Is there anything that would make 11 easier for you?
 
 **Telling them before you escalate:**
 > I've asked a couple of times about the noise after midnight and it's still happening most weekends. I'd rather sort it between us, but if it carries on I'll raise it with the building manager.
@@ -58,7 +58,6 @@ Living with the person: `roommate-and-shared-living`. A habit of a friend or fam
 - Retaliating with your own noise, blocking their car, or cutting their plants without asking.
 - Posting about them in the neighbourhood group chat.
 - Exaggeration ("every single night") that the log does not support.
-- Threatening legal action or the police over things they do not handle.
 
 ## If it goes badly
 If they react angrily at the door, do not argue the facts on the doorstep. Say you will leave it with them and walk away; follow up in writing a few days later. If they ignore two polite messages, escalate one step (building manager, landlord, managing agent, then council or mediation service), with your log and copies of what you sent. Many areas offer free community mediation, which works better than it sounds. If you ever feel threatened or there is harassment, stop engaging directly and contact the police or your local authority.
