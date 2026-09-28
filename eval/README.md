@@ -26,7 +26,7 @@ python3 scripts/model_routing.py score /tmp/mr
 
 Prompt for each agent:
 
-> You are the playbook-selection step of an AI assistant that has the SmoothTalker skill installed. Read `data/index.json` and ignore entries whose category is "core". Do not open any other repo file. For each request in `<queries file>` (number, tab, request; some are not in English), choose the best playbook id and a second-best id, judging by what the user actually needs to write. Write `<answers file>`, one line per request: number, tab, best id, tab, second id. Every id must exist in the index.
+> You are the playbook-selection step of an AI assistant that has the SmoothTalker skill installed. Read `data/index.json` and ignore entries whose category is "core". Do not open any other repo file. For each request in `<queries file>` (number, tab, request; some are not in English), choose the best playbook id and a second-best id, judging by what the user actually needs to write. Write `<answers file>`, one line per request: number, tab, best id, tab, second id. Use the exact request number from the queries file; do not renumber from 0 or 1. Every id must exist in the index.
 
 2026-09-27, 78 entries: top-1 99.4% (164 of 165), top-2 100%, 33 of 34 non-English at top-1. The one miss was a Chinese request to break up after six months, routed to `romantic-let-down` first. The two entries both claimed breakups; their titles, summaries and triggers now split early dating from an established relationship. A re-check on the new index put all 6 breakup and let-down scenarios, plus 5 new boundary requests (a two-year breakup in English and Chinese, one date, three weeks, an ex asking to try again), in the right entry; those 5 are now in the scenario set, which has 170 requests.
 
