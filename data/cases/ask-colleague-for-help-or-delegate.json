@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -22,6 +22,13 @@
    "reply": "Hi Carla, on your question about enterprise churn in Q2: I didn't have the number in my head and didn't want to guess. I'm pulling it from the billing data with Ahmed now and will send you the exact figure, with the three biggest accounts we lost, by 4pm today. Is this for the board deck, or something else I should shape it for?",
    "lang": "en",
    "note": "The 'I don't know' formula: say it cleanly, name the next step and a time, and ask what the answer feeds into."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-004",
+   "situation": "I'm a marketing manager and need someone from legal to review the rules for our October giveaway before it goes live on Monday Oct 12. Nobody in legal reports to me and I've never worked with them. The legal ops contact is Grace Liu.",
+   "reply": "Hi Grace, I'm running the Harvest giveaway for marketing, launching Monday 12 October, and we need a legal review of the official rules before it goes live. It's a two-page doc adapted from the spring giveaway your team approved in April, and I've highlighted the three sections that changed. Could someone on your team review it by end of day Wednesday 7 October? If that's too tight with your current queue, tell me what date works and I'll plan the launch around it.",
+   "lang": "en",
+   "note": "Cross-team you have no authority, so make the job small, say exactly what done looks like, and let them name the date if yours doesn't fit."
   }
  ]
 }

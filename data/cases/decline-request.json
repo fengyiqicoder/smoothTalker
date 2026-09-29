@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "decline-request-001",
@@ -22,6 +22,13 @@
    "reply": "I understand you're disappointed, Greg, and I do appreciate the referrals. My answer's the same. If you'd like to book the tweaks, it's a one-hour job at $90 and I can fit it in this week.",
    "lang": "en",
    "note": "After a guilt-trip, don't re-explain. State it once, keep the paid option, then stop replying on that thread."
+  },
+  {
+   "id": "decline-request-004",
+   "situation": "My mother-in-law, Carol, asked if we'll host Christmas again this year, 14 people. We've done it three years running and I'm worn out. Want to say no by text but still contribute something.",
+   "reply": "Hi Carol, thanks for thinking of us. We're going to pass on hosting Christmas this year; after three years in a row we'd love a turn as guests. We're happy to bring the ham and the desserts wherever it ends up, and I can come early on the 24th to help set up. Love to you both.",
+   "lang": "en",
+   "note": "A real smaller yes, the food and the setup, keeps the no generous. Don't nominate another host; that's her call."
   }
  ]
 }

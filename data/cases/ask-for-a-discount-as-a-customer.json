@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -22,6 +22,13 @@
    "reply": "你好，我是用了五年的老用户，宽带账号尾号3417，下个月到期，我打算继续用。现在给我的续约价是一年1,680元，官网上新用户同样的300兆套餐是1,200元。老用户能按1,200元续吗？可以的话我现在就在电话里办好。如果办不了也理解，麻烦帮我转一下能处理续约优惠的同事。",
    "lang": "zh",
    "note": "如果对方说价格定死了，退一步要附加项：送三个月或者免费提速。"
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-004",
+   "situation": "Our wedding photographer, Lena, quoted $3,900 for 8 hours. I asked if she could do $3,500 and she said her price is firm. We still want her. Wedding is May 22, 2027.",
+   "reply": "Understood, thanks for being straight with me. We'd still love to have you. If the price is firm, could you include the engagement shoot you normally offer as a $350 add-on? Either way we're ready to book, so send over the contract and I'll pay the deposit this week.",
+   "lang": "en",
+   "note": "After a clear no on price, one perk ask, and say you'll book either way so it costs her nothing to refuse."
   }
  ]
 }

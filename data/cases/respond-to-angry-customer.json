@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -22,6 +22,13 @@
    "reply": "您好，您的酸菜鱼晚到了40分钟，送到时已经凉了，这是我们的问题，对不起。这单我现在就全额退款，另外给您发一张30元无门槛券，下次可以用。我想把这件事处理好，也希望我们能好好沟通。后续有任何问题，直接在这里回复我就行，我是店长老周。",
    "lang": "zh",
    "note": "对骂人的话不接，只回应事实和补救。如果对方继续辱骂，说明你会解决，但需要保持文明沟通。"
+  },
+  {
+   "id": "respond-to-angry-customer-004",
+   "situation": "I run a small bakery. A customer, Jess, commented on our latest Instagram post that the birthday cake she picked up Saturday said 'Happy Birthday Kayla' instead of 'Kaylee' and her daughter cried. Our order form says Kaylee. The comment has 20 likes.",
+   "reply": "Jess, we spelled Kaylee's name wrong on her birthday cake, and that's our mistake. I'm so sorry it happened on her day. I'd like to make it right with a fresh cake for Kaylee, on us, any day this week that suits you. I've sent you a DM to sort the details, or you can call me at the shop on 555-0142. Maria, owner",
+   "lang": "en",
+   "note": "Reply in public first so onlookers see it owned, then move the details to DMs. Name the exact mistake rather than 'any inconvenience'."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -22,6 +22,13 @@
    "reply": "I can't front it this time, I'm keeping things tight this month. The presale opens Thursday at 10, want to both jump on at the same time and grab tickets next to each other?",
    "lang": "en",
    "note": "When it's a pattern, the fix is to stop fronting money, not a sharper reminder. Keep the plan, drop the float."
+  },
+  {
+   "id": "money-between-friends-004",
+   "situation": "I reminded my friend Priya about the $64 she owes for her share of the Airbnb in Asheville and she replied 'wow, you're really chasing me over $64?' Not sure how to answer without it turning into a thing.",
+   "reply": "Ha, fair, it's not a lot, which is exactly why I'd like to get it off the list. My Venmo is @tess-marlow whenever you're ready. Looking forward to tacos on Saturday.",
+   "lang": "en",
+   "note": "When they get defensive, agree it's small, repeat the ask once and don't explain your finances. If it still doesn't come, decide whether to write it off for real."
   }
  ]
 }

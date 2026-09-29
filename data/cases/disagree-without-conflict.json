@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -22,6 +22,13 @@
    "reply": "I don't think we're going to agree on this one, Dad, and that's fine. I'd rather keep things easy between us than win the point. Still on for the game Sunday?",
    "lang": "en",
    "note": "When it escalates, stop adding reasons. Saying it once was enough."
+  },
+  {
+   "id": "disagree-without-conflict-004",
+   "situation": "部门群里大家都赞成把周会从周三挪到周一早上8点半，领导也说挺好。我觉得不合适，因为我们组周一上午要跟华南区对账，想在群里说一下。",
+   "reply": "周一开会，一周一开始就把重点对齐，这个思路我挺认同的。我这边有一个顾虑：我们组周一上午9点到11点要跟华南区对账，8点半开会很容易跟对账撞上。能不能改到周一下午2点？如果大家觉得早上更合适，我也想听听主要是考虑哪方面。",
+   "lang": "zh",
+   "note": "大家都赞成的方案，先认同目标，只讲自己组的一个具体冲突，给替代时间，再真心问对方的考虑。"
   }
  ]
 }

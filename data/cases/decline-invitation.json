@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -22,6 +22,13 @@
    "reply": "I really can't this year, Aunt Carol, and I'll miss your pecan pie. Can I call you that afternoon and say hi to everyone?",
    "lang": "en",
    "note": "When they push, repeat the no once and add no new reasons; new reasons are new things to negotiate."
+  },
+  {
+   "id": "decline-invitation-004",
+   "situation": "Unsere neue Nachbarin, Frau Becker, hat uns für Sonntag, den 4. Oktober, zum Kaffee eingeladen. Da sind wir bei meinen Schwiegereltern in Kassel, aber wir würden sie wirklich gern kennenlernen. Ich will ihr eine Karte in den Briefkasten werfen.",
+   "reply": "Liebe Frau Becker, vielen Dank für die nette Einladung! Am Sonntag, den 4. Oktober, schaffen wir es nicht, da sind wir bei der Familie in Kassel. Wir würden Sie aber sehr gern kennenlernen: Hätten Sie Lust, am Sonntag, den 11. Oktober, gegen 15 Uhr zu uns auf einen Kaffee zu kommen? Herzliche Grüße, Anna und Jonas Hoffmann aus dem 2. Stock",
+   "lang": "de",
+   "note": "Wer an einem anderen Tag gern käme, schlägt einen konkreten Termin vor; so ist klar, dass das Nein nur dem Datum gilt."
   }
  ]
 }

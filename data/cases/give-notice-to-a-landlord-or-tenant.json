@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -22,6 +22,13 @@
    "reply": "王阿姨您好，公司把我调到深圳工作，所以想跟您商量能不能在11月30日提前退租。我可以帮您找下一位租客，配合带看，房租一直交到新租客入住为止。押金的事也想跟您商量一个两边都合适的办法，这周六上午方便通个电话吗？",
    "lang": "zh",
    "note": "提前退租是请求不是通知：先把对方的损失补上，再谈押金。谈妥的内容一定要落到书面。"
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-004",
+   "situation": "I emailed my landlord Mr Okoye yesterday giving a month's notice to leave my flat in Bristol on 28 October. He says it's invalid because it's a rolling tenancy and notice has to end on the last day of a rent period. Rent is due on the 15th. I think he's right.",
+   "reply": "Hi Mr Okoye, thanks for pointing that out. I've checked, and you're right that notice needs to end on the last day of a rent period. Please treat this email as my notice to leave 7 Cotham Road, Flat 3, with the tenancy ending on Saturday 14 November 2026. I'll pay the rent due on 15 October as usual and return both sets of keys on the 14th. Could you confirm in writing that you've received this?",
+   "lang": "en",
+   "note": "When they're right about the rule, re-serve correctly straight away instead of arguing. Check Shelter or Citizens Advice if you're unsure of the dates."
   }
  ]
 }

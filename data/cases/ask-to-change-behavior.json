@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -22,6 +22,13 @@
    "reply": "Hey Sam, I mentioned the bike in the hallway a few weeks ago and it's crept back. I'm not trying to nag, I've actually tripped on it twice this week. Could we put up a wall hook in your room or the storage cupboard this weekend? I'll pick one up and help you mount it.",
    "lang": "en",
    "note": "Second ask: name that it slipped, restate the effect, and offer a fix that makes the new habit easier."
+  },
+  {
+   "id": "ask-to-change-behavior-004",
+   "situation": "楼上邻居最近每天晚上11点以后还在拖椅子、走路很响，我12点前要睡，早上6点起。跟他们不认识，只知道是1802，想在他家门上贴张纸条。",
+   "reply": "1802的邻居您好，我是楼下1702的小林。最近晚上11点以后，楼上拖椅子和走路的声音在我家听得挺清楚，我早上6点要起床，有时会被吵醒。能不能11点以后稍微轻一点？我多买了一包椅子脚垫，如果您用得上，我放在您门口。谢谢您！",
+   "lang": "zh",
+   "note": "不认识的邻居就用纸条，默认对方不知道；只说一个具体行为和时间段，再附一个很容易做到的办法。"
   }
  ]
 }

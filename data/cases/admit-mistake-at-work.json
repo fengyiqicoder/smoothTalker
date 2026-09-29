@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -22,6 +22,13 @@
    "reply": "王总，向您报告一个我的失误：昨天给华诚包装付款时重复提交了一次，多付了38,000元，今天上午对账时发现的。我已经联系了对方财务刘姐，她确认收到两笔，同意本周五前退回，我会盯到到账。原因是我提交前没有核对付款记录。以后每笔付款提交前，我都先在系统里查一遍历史记录。钱到账后我第一时间告诉您。",
    "lang": "zh",
    "note": "先说错误和金额，再说已经做了什么，最后一句防范措施，不要反复道歉。"
+  },
+  {
+   "id": "admit-mistake-at-work-004",
+   "situation": "I'm a freelance email marketer. This morning I sent my client Rachel's newsletter to 8,400 subscribers with the code FALL40 instead of FALL14. 31 orders have already used it. I need to email her now.",
+   "reply": "Hi Rachel, I made a mistake in this morning's newsletter: the discount code went out as FALL40, 40% off, instead of FALL14. So far 31 orders have used it, roughly $1,100 more in discounts than planned. I turned FALL40 off at 11:20, so no new orders can use it. I'll send you the full list of those 31 orders by 2pm, and I'll credit the extra discount against this month's invoice. From now on I'll send you a test email with the live code before every send. I'm sorry about this one.",
+   "lang": "en",
+   "note": "To a client, lead with the number and the fix already made, offer to carry the cost, and apologise once, at the end."
   }
  ]
 }

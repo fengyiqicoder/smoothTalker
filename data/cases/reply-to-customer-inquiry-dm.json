@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -22,6 +22,13 @@
    "reply": "Totally fair, they're not for everyone. $38 is the price for these, and no hard feelings either way. Thanks for asking!",
    "lang": "en",
    "note": "Don't defend the number. If they keep arguing or get insulting, stop replying."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-004",
+   "situation": "I run a mobile dog grooming van. Someone just DMed 'hey r u free this sat? golden retriever, pretty matted'",
+   "reply": "Hey! Yes, I've got 9am or 1pm this Saturday, the 3rd. A full groom for a golden is $110, and heavy matting can add up to $20, which I'll confirm when I see the coat. Want the 9am or the 1pm?",
+   "lang": "en",
+   "note": "Two exact slots, the matting cost flagged up front so there's no surprise, and one easy question."
   }
  ]
 }

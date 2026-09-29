@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -22,6 +22,13 @@
    "reply": "I understand it's been a stressful month. The amount and due date haven't changed: invoice #0917, $4,000, due 1 September. If cash flow is the issue, I can take $2,000 by Friday 2 October and $2,000 by 30 October, confirmed in writing. Phase 2 starts once the first payment arrives.",
    "lang": "en",
    "note": "Ignore the tone, restate the facts, offer one real way to pay, and hold the work."
+  },
+  {
+   "id": "chase-late-payment-004",
+   "situation": "Freelance translator. Invoice #0417 for €2,400 was due September 1. Their accounts person, Lukas, said on the 10th it was 'being processed' and then nothing. It's now four weeks late.",
+   "reply": "Subject: Overdue: Invoice #0417\n\nHi Lukas,\nFollowing up on invoice #0417 for €2,400, due 1 September and now four weeks overdue. On 10 September you mentioned it was being processed. Could you confirm the date it's scheduled to be paid? If anything is holding it up, such as a PO number or updated bank details, tell me today and I'll send it straight over. If payment hasn't arrived by Friday 9 October, I'll pause work on the October brochure until it clears. Invoice attached again for convenience.\n\nThanks,\nElena Rossi",
+   "lang": "en",
+   "note": "'Being processed' gets a request for a specific pay date, an offer to remove any blocker, and the next consequence with a date you will keep."
   }
  ]
 }

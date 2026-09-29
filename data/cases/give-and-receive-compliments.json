@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -21,6 +21,13 @@
    "reply": "I'd rather keep things to the project, thanks. Speaking of which, countertop templating is booked for Thursday at 9.",
    "lang": "en",
    "note": "Plain, short and back to the work. If it happens again, say it once more and keep a record of the messages."
+  },
+  {
+   "id": "give-and-receive-compliments-004",
+   "situation": "When I was in hospital for 5 days in August, my neighbour Glen walked and fed my dog Biscuit twice a day without me having to ask twice. Now I'm back on my feet I want to send him a proper thank-you text.",
+   "reply": "Glen, I've been meaning to say this properly. When I was in hospital in August, knowing Biscuit was being walked and fed twice a day by someone she adores meant I could actually rest instead of lying there worrying. She still pulls towards your door every time we pass it. Thank you, truly.",
+   "lang": "en",
+   "note": "What he did, what it made possible, one line about him, and no favour or gift attached, so it stays a thank-you."
   }
  ]
 }

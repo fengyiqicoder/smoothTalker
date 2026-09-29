@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -22,6 +22,13 @@
    "reply": "I'm not ignoring you. I said I'd call at 7 and I will. I just can't do this well right now.",
    "lang": "en",
    "note": "One line, then silence until 7. Answering each text restarts the fight."
+  },
+  {
+   "id": "de-escalate-argument-004",
+   "situation": "Mi socio Martín y yo tenemos una cafetería en Valencia. Estamos discutiendo por WhatsApp si subir los precios en octubre, le dije que 'no tiene ni idea de números' y ahora está muy enfadado. Quiero parar esto antes de que se complique.",
+   "reply": "Martín, nos estamos calentando los dos, y lo de que no tienes ni idea de números sobró. Lo siento. Entiendo que sientes que no valoro lo bien que conoces a los clientes. ¿Lo hablamos mañana a las 9, antes de abrir, con las cuentas delante? La cafetería es de los dos y quiero que la decisión también lo sea.",
+   "lang": "es",
+   "note": "Retirar la frase concreta que dolió, sin tocar todavía el tema de los precios, y fijar una hora para retomarlo."
   }
  ]
 }

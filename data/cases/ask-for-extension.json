@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -22,6 +22,13 @@
    "reply": "Hey Jess, I said I'd have the slideshow done by Saturday and I'm going to need until next Thursday; I want to do the music timing properly, not rush it. That still leaves two weeks before the wedding. Is that okay, or do you need it sooner for the rehearsal?",
    "lang": "en",
    "note": "Personal deadlines get the same shape, just warmer and shorter. No paragraph of guilt."
+  },
+  {
+   "id": "ask-for-extension-004",
+   "situation": "在职读MBA，《管理会计》课程论文昨天周一晚上12点截止，因为公司季度结账连续加班没交上。想给任课的陈老师发邮件，问能不能周四交。",
+   "reply": "陈老师您好，我是周末班的李晓雯。《管理会计》课程论文昨晚12点截止，我没有按时提交，也没有提前跟您说明，这是我的问题。这周公司季度结账，连续加班耽误了进度。能否允许我在本周四，10月1日晚上12点前提交？如果不方便延期，我今晚先把已完成的部分发给您，逾期扣分我也接受。谢谢老师。",
+   "lang": "zh",
+   "note": "已经逾期时，先认没提前说，再给一个具体新时间和部分交付的备选，理由只写一句。"
   }
  ]
 }

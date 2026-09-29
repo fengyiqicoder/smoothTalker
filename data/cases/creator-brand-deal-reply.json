@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -21,6 +21,13 @@
    "reply": "谢谢你们直接说预算。2000的话，我可以做一篇图文笔记，含30天自然流量授权，不含投流。如果需要投流或更长的授权，一般按内容费的30%每90天另计。你们大概打算投多久？我按实际需要给一个最简单的方案。",
    "lang": "zh",
    "note": "授权和投流是钱藏着的地方：保住底价，用缩小交付范围来匹配预算。"
+  },
+  {
+   "id": "creator-brand-deal-reply-004",
+   "situation": "I'm a fitness creator on TikTok, 120k followers, a lot of them 16 to 20. A sports betting app, BetBlitz, offered $2,500 for one video. Their contact is Jordan. Easy money but not right for my audience.",
+   "reply": "Hi Jordan, thanks for the offer and the clear brief. Sports betting isn't a fit for my audience, so I'm going to pass on this one. Wishing you a good campaign.",
+   "lang": "en",
+   "note": "Decline mismatches fast, with no lecture about their product and no counteroffer; brands talk, and a clean no protects your reputation."
   }
  ]
 }
