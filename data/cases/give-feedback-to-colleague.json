@@ -1,0 +1,27 @@
+{
+ "playbook": "give-feedback-to-colleague",
+ "count": 3,
+ "cases": [
+  {
+   "id": "give-feedback-to-colleague-001",
+   "situation": "My coworker Jen presented our joint churn analysis to the VP yesterday and kept saying 'I found' for work I did. We're peers. I want to raise it with her one on one.",
+   "reply": "Hey Jen, can I give you some feedback on yesterday's VP review? When you walked through the churn analysis, the cohort work I built came out as 'I found', and Marta left thinking it was all yours. I don't think you meant it that way. What's your read? For the next one, could we split the slides so each of us presents our own part?",
+   "lang": "en",
+   "note": "Observation, impact, then pause for her side before the ask; there may be context you don't have."
+  },
+  {
+   "id": "give-feedback-to-colleague-002",
+   "situation": "Just had a feedback conversation with my report Kevin about typos in client emails. Need the short written follow-up.",
+   "reply": "Thanks for the chat this afternoon, Kevin. To capture it: client emails get a read-aloud check before sending, and for the next month anything to a new client comes to me for a quick look first. Let's check in on 13 November. Tell me if I've missed anything.",
+   "lang": "en",
+   "note": "Neutral and short. The follow-up records the agreement, not the criticism."
+  },
+  {
+   "id": "give-feedback-to-colleague-003",
+   "situation": "Three weeks ago I told my direct report Aisha she needs to stop showing up 20 minutes late to standup. It's still happening. I want to say it firmly in our 1:1.",
+   "reply": "On 8 September we agreed you'd be at standup by 9:30, and you've been late four times since, including today. I need this to change now, and I'll be tracking it in our one-to-ones. What's getting in the way?",
+   "lang": "en",
+   "note": "Name the agreement and the facts, make the consequence clear, and put it in writing after. If it continues, go to HR rather than repeating the conversation."
+  }
+ ]
+}

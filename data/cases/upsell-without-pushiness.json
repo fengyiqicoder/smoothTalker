@@ -1,0 +1,27 @@
+{
+ "playbook": "upsell-without-pushiness",
+ "count": 3,
+ "cases": [
+  {
+   "id": "upsell-without-pushiness-001",
+   "situation": "I work at a small camera shop. A customer wants the $1,200 telephoto lens to shoot his kid's school soccer games, but the $450 one would do fine.",
+   "reply": "For school soccer from the sideline, the 70 to 300 at $450 will honestly do the job; it's sharp and light enough to carry all game. The $1,200 one earns its price in low light, so if you'll be shooting a lot of indoor or evening games, that's when it's worth it. Either one will get you great shots.",
+   "lang": "en",
+   "note": "The honest downsell is what makes your next recommendation believable."
+  },
+  {
+   "id": "upsell-without-pushiness-002",
+   "situation": "I'm the receptionist at a hair salon. A client booked a cut and mentioned she wants to go lighter for her sister's wedding next month. She's never had colour.",
+   "reply": "You're booked with Ines for a cut on Saturday at 11. Since you mentioned going lighter for the wedding, she could add face-framing highlights in the same visit: it's $95 more and adds about an hour. Totally fine to just do the cut and decide on colour another time.",
+   "lang": "en",
+   "note": "One suggestion tied to what she said, with the cost and time stated plainly."
+  },
+  {
+   "id": "upsell-without-pushiness-003",
+   "situation": "小さなお米屋をやっています。常連の田中さんが3ヶ月前に10kg買っていったので、そろそろかなと思ってLINEしたい。今年の新米も入りました。",
+   "reply": "田中さん、こんにちは。前回10kgお求めいただいてから3ヶ月ほど経ったので、そろそろかなと思ってご連絡しました。今年の新米のコシヒカリが入っています。前回と同じお米でも新米でも、ご希望があればお届けします。まだ残っていたら、気にせずスルーしてくださいね。",
+   "lang": "ja",
+   "note": "A reminder with a real reason beats a discount; the easy no keeps the next order warm."
+  }
+ ]
+}

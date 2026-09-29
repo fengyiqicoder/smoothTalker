@@ -1,0 +1,27 @@
+{
+ "playbook": "decline-offer-or-candidate",
+ "count": 3,
+ "cases": [
+  {
+   "id": "decline-offer-or-candidate-001",
+   "situation": "I'm the hiring manager. Need to reject Daniel, a finalist for our senior marketing role. He was great, but the other candidate has B2B SaaS experience. I called him, now I need the follow-up email.",
+   "reply": "Hi Daniel, thanks again for the time you gave us, especially the launch plan you presented on Thursday, which the team is still talking about. As I said on the phone, we've offered the role to another candidate whose background is in B2B SaaS, which is where most of this role's work sits. It was a close decision. If we open the consumer marketing lead role in the spring, I'd like to contact you first, if you're open to that. Best, Farah",
+   "lang": "en",
+   "note": "Only offer the spring role if it's real; a door left open falsely is worse than none."
+  },
+  {
+   "id": "decline-offer-or-candidate-002",
+   "situation": "手上有两个offer，决定去另一家了，要拒绝这家的HR张女士。面试时跟他们的李总聊得很好，不想把关系弄僵。",
+   "reply": "张女士您好，非常感谢您和团队这段时间的安排，特别是和李总聊产品规划的那一轮，是我这次求职里收获最大的一次面试。经过慎重考虑，我决定接受另一家公司的offer，那个岗位和我接下来几年想做的方向更贴近。这个决定并不容易。希望以后还有机会合作，也祝团队一切顺利。",
+   "lang": "zh",
+   "note": "理由真实但简短，不说对方哪里不好，点名感谢具体的人。"
+  },
+  {
+   "id": "decline-offer-or-candidate-003",
+   "situation": "J'ai refusé une offre dans une agence à Lyon. La DRH, Claire, m'a rappelé pour proposer 5 000 euros de plus. Ma décision n'a rien à voir avec le salaire, j'ai choisi un poste en télétravail.",
+   "reply": "Merci beaucoup, Claire, c'est une vraie proposition et j'y suis sensible. Ma décision ne tient pas à la rémunération mais au format du poste, donc je la maintiens. Merci encore à vous et à l'équipe pour votre accueil, j'espère qu'on se recroisera.",
+   "lang": "fr",
+   "note": "Answer the counter once and honestly; saying it isn't about money closes the second round."
+  }
+ ]
+}

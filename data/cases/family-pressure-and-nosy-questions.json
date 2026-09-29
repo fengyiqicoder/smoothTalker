@@ -1,0 +1,27 @@
+{
+ "playbook": "family-pressure-and-nosy-questions",
+ "count": 3,
+ "cases": [
+  {
+   "id": "family-pressure-and-nosy-questions-001",
+   "situation": "My aunt Linda comments on my weight at every family dinner. I've deflected it at least five times. Thanksgiving is next month and I want to text her before then.",
+   "reply": "Aunt Linda, I know you mean well, and I need you to stop commenting on my weight. It's off the table. I'd love to talk about anything else at Thanksgiving. See you on the 26th.",
+   "lang": "en",
+   "note": "This is the firmer version; if it comes up at the table anyway, go help in the kitchen, no announcement."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-002",
+   "situation": "每年过年大伯都当着一桌人问我一个月挣多少，我不想说，也不想让场面尴尬。",
+   "reply": "哈哈，大伯又来查账了。够我明年请您吃饭的。对了，您那个小菜园今年收成怎么样？听我爸说您种的辣椒特别好。",
+   "lang": "zh",
+   "note": "如果他再问一次，用几乎一样的话再说一遍，一致比换花样更能让话题结束。"
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-003",
+   "situation": "実家に帰るたびに母から「結婚はまだ？」と聞かれます。けんかにはしたくないけど、そろそろやめてほしい。",
+   "reply": "お母さん、心配してくれてるのはわかってるよ。でも結婚の話はしばらくお休みにさせて。それ以外ならなんでも話したいから。そういえば、この前の旅行の写真見せてよ。",
+   "lang": "ja",
+   "note": "In many families a soft close like this is already firm; keep the blunter version for someone who keeps pushing."
+  }
+ ]
+}

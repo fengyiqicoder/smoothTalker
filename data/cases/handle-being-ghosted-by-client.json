@@ -1,0 +1,27 @@
+{
+ "playbook": "handle-being-ghosted-by-client",
+ "count": 3,
+ "cases": [
+  {
+   "id": "handle-being-ghosted-by-client-001",
+   "situation": "I'm a freelance photographer. Sent restaurant owner Luis a $2,200 quote for a new menu shoot on Sept 12. He loved it on the call, then nothing, even after one bump.",
+   "reply": "Hi Luis, since I sent the menu shoot quote, I finished a similar shoot for Bodega Norte, and orders for the photographed dishes went up about 20% in the first month. Is a new menu shoot still on your list for this autumn? A quick yes, no or not yet is all I need.",
+   "lang": "en",
+   "note": "Touch two adds something new and shrinks the reply to one word."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-002",
+   "situation": "我做室内设计，9月19号把效果图发给客户赵先生，十天了一直没回，施工队那边还在等排期。",
+   "reply": "赵先生您好，9月19号发给您的效果图还没收到回复，想确认一下进度。如果您需要多点时间考虑完全没问题，告诉我一声，我好安排施工队的档期。如果想先暂停，也直接说就行。",
+   "lang": "zh",
+   "note": "项目中途客户沉默，给他一个说“暂停”的台阶，比追问效果图看没看更容易得到回复。"
+  },
+  {
+   "id": "handle-being-ghosted-by-client-003",
+   "situation": "Mandei uma proposta de site para uma clínica veterinária há um mês e meio. Já mandei dois follow-ups e nada. Quero encerrar com elegância.",
+   "reply": "Oi, Dra. Paula, vou considerar que o momento não é o ideal e encerrar a proposta por aqui, para não lotar sua caixa de entrada. Se o site voltar à pauta, vou gostar muito de ajudar, é só responder este e-mail. Boa sorte com a nova unidade da clínica!",
+   "lang": "pt",
+   "note": "The clean close often gets the reply the follow-ups didn't. If she comes back later, re-scope from today's rates."
+  }
+ ]
+}

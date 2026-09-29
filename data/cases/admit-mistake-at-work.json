@@ -1,0 +1,27 @@
+{
+ "playbook": "admit-mistake-at-work",
+ "count": 3,
+ "cases": [
+  {
+   "id": "admit-mistake-at-work-001",
+   "situation": "I replied-all on a client thread and it went to their whole distribution list, including my boss Karen's joke that their CFO is 'hard work'. Need to tell Karen on Slack right now.",
+   "reply": "Karen, heads up: at 11:20 I replied-all on the Northwind thread and it went to their full distribution list, including your line about their CFO. I've recalled it, which caught about half the recipients, and I've drafted a short note to Priya at Northwind that I'd like you to see before it goes. I can have it in your DMs in 10 minutes. Sorry, this one's mine. From now on I strip external addresses before replying on any internal thread.",
+   "lang": "en",
+   "note": "A recall is only a partial fix, so say exactly how partial; overclaiming the fix is the second mistake."
+  },
+  {
+   "id": "admit-mistake-at-work-002",
+   "situation": "I put the wrong date for the team offsite in the calendar invite I sent to everyone. Small thing but people might book trains. Posting in the team channel.",
+   "reply": "Correction: the offsite is Thursday 29 October, not Friday. My mistake, the invite's updated. If you've already booked travel for Friday, message me and I'll sort the change.",
+   "lang": "en",
+   "note": "Small mistake, small message. One line of ownership, then the fix."
+  },
+  {
+   "id": "admit-mistake-at-work-003",
+   "situation": "我是公司出纳，昨天给供应商重复付了一笔货款，多付了38,000元，今天对账才发现。要跟财务总监王总说，怎么开口？",
+   "reply": "王总，向您报告一个我的失误：昨天给华诚包装付款时重复提交了一次，多付了38,000元，今天上午对账时发现的。我已经联系了对方财务刘姐，她确认收到两笔，同意本周五前退回，我会盯到到账。原因是我提交前没有核对付款记录。以后每笔付款提交前，我都先在系统里查一遍历史记录。钱到账后我第一时间告诉您。",
+   "lang": "zh",
+   "note": "先说错误和金额，再说已经做了什么，最后一句防范措施，不要反复道歉。"
+  }
+ ]
+}

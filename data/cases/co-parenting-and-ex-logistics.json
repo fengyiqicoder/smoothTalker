@@ -1,0 +1,27 @@
+{
+ "playbook": "co-parenting-and-ex-logistics",
+ "count": 3,
+ "cases": [
+  {
+   "id": "co-parenting-and-ex-logistics-001",
+   "situation": "Need my ex Mark to split our daughter Ava's braces. Total $4,800, $1,200 deposit due Nov 1, rest monthly. He usually argues about money.",
+   "reply": "Hi Mark, Dr Patel has recommended braces for Ava. The total is $4,800: a $1,200 deposit due 1 November, then $200 a month for 18 months. Quote attached. As per our agreement on medical costs, could you send your half of the deposit, $600, by 30 October? Please let me know by Friday. Thanks.",
+   "lang": "en",
+   "note": "Every number is in writing with the quote attached, which leaves little to argue about."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-002",
+   "situation": "My ex sent a long angry text about me 'turning the kids against her', and at the very end asked if I'm still dropping them off Sunday at 5.",
+   "reply": "Yes, I'll drop Noah and Ella at yours on Sunday at 5 as planned.",
+   "lang": "en",
+   "note": "Answer the logistics, ignore the rest. If the accusations continue, keep a record and raise it through mediation, not by text."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-003",
+   "situation": "离婚两年，孩子朵朵平时跟前妻住，我隔周周末接她。10月17、18日那个周末我要出差，想和前妻换到24、25日。",
+   "reply": "你好，10月17、18日那个周末我要出差，想和你换一下：我改接24、25日，17、18日朵朵留在你那边。可以的话周三前回我一下，谢谢。",
+   "lang": "zh",
+   "note": "一条消息只谈一件事，给出具体日期和回复期限，不提以往。"
+  }
+ ]
+}

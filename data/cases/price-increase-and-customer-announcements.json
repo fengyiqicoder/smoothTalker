@@ -1,0 +1,27 @@
+{
+ "playbook": "price-increase-and-customer-announcements",
+ "count": 3,
+ "cases": [
+  {
+   "id": "price-increase-and-customer-announcements-001",
+   "situation": "I'm a dog walker raising my 30-minute walk from $22 to $25 on Jan 1. First increase in 2 years. Texting my regular clients.",
+   "reply": "Hi Megan, a heads up: from 1 January my 30-minute walks go from $22 to $25. It's my first increase in two years, and it covers insurance and fuel going up. Same walks, same photos of Pepper mid-zoomies. If you'd like to prepay any December walks at the current rate, just tell me. Thanks for trusting me with him. Jess",
+   "lang": "en",
+   "note": "No apology for a fair increase; the prepay option is the easy win."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-002",
+   "situation": "我是钢琴老师，一节课从200元涨到230元，明年3月开始，要在家长群里发通知。",
+   "reply": "各位家长好，通知一件事：从明年3月1日起，一对一钢琴课课时费由每节200元调整为230元。这是四年来第一次调整，主要是琴房房租上涨了。上课时间、内容和每学期的汇报演出都不变。已经买了课时包的家长，剩余课时按原价上完。有任何问题欢迎私信我。谢谢大家一直以来的信任。林老师",
+   "lang": "zh",
+   "note": "第一句就说清日期和金额，原因一句话，已买课时包按原价是最重要的善意。"
+  },
+  {
+   "id": "price-increase-and-customer-announcements-003",
+   "situation": "Small coffee roaster. Raised our subscription from $18 to $21. A customer of 3 years, Donna, emailed that it's a rip-off and she'll cancel.",
+   "reply": "Hi Donna, I understand, and I'd rather you told me than quietly left. The new price is what green coffee and shipping cost us now, so it stands. If it no longer works for you, reply 'cancel' and I'll do it today, no fuss. After three years of your orders, you'd be welcome back any time. Theo",
+   "lang": "en",
+   "note": "Don't offer a quiet discount to the loudest customer; the others will hear about it."
+  }
+ ]
+}

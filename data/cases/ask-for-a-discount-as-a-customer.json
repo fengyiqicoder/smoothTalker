@@ -1,0 +1,27 @@
+{
+ "playbook": "ask-for-a-discount-as-a-customer",
+ "count": 3,
+ "cases": [
+  {
+   "id": "ask-for-a-discount-as-a-customer-001",
+   "situation": "Moving on Nov 8. Swift Movers quoted $1,650, Harbor Moving quoted $1,380 for the same job. I'd rather go with Swift (better reviews), want to ask them to come down.",
+   "reply": "Hi Carla, I'd like to book Swift for our move on 8 November. One thing: Harbor quoted $1,380 for the same two-bed and the same addresses, and yours is $1,650. If you can do $1,400, I'll sign today and pay the deposit this afternoon. If not, I understand, and I'd still like to know what your price covers that theirs doesn't.",
+   "lang": "en",
+   "note": "The quote is real and named; asking what's different gives them a way to hold price and still win you."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-002",
+   "situation": "Le quiero encargar 80 empanadas a una señora del barrio para el cumple de mi papá. Me cobra 1.200 pesos cada una. ¿Cómo le pido un precio por cantidad sin quedar mal?",
+   "reply": "Hola, doña Marta. Le quiero encargar 80 empanadas para el cumpleaños de mi papá, el sábado 17. Como es un pedido grande y las paso a buscar yo, ¿me las dejaría a 1.050 cada una? Si le parece bien, le transfiero la seña hoy mismo. Y si no se puede, no pasa nada, se las encargo igual.",
+   "lang": "es",
+   "note": "With a neighbour you'll see again, the out is generous on purpose: the relationship is worth more than the 12,000 pesos."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-003",
+   "situation": "宽带合约下个月到期，续约报价一年1,680元，但官网新用户同样的套餐只要1,200。我用了五年了，想打客服电话要个优惠。",
+   "reply": "你好，我是用了五年的老用户，宽带账号尾号3417，下个月到期，我打算继续用。现在给我的续约价是一年1,680元，官网上新用户同样的300兆套餐是1,200元。老用户能按1,200元续吗？可以的话我现在就在电话里办好。如果办不了也理解，麻烦帮我转一下能处理续约优惠的同事。",
+   "lang": "zh",
+   "note": "如果对方说价格定死了，退一步要附加项：送三个月或者免费提速。"
+  }
+ ]
+}

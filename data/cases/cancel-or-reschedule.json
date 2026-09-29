@@ -1,0 +1,27 @@
+{
+ "playbook": "cancel-or-reschedule",
+ "count": 3,
+ "cases": [
+  {
+   "id": "cancel-or-reschedule-001",
+   "situation": "I already cancelled dinner with my friend Dani last month and now I have to cancel tomorrow's too because my son has a fever. I feel terrible.",
+   "reply": "Dani, I have to cancel tomorrow, Leo's got a fever and I can't leave him. I know that's twice now and I hate it, so this one's on me to fix: I've booked Saturday the 10th at 7 at Osteria Lupa, and I'll be there first. If that night's bad for you, pick one and I'll move it.",
+   "lang": "en",
+   "note": "Second cancel in a row means you do the rebooking, not them."
+  },
+  {
+   "id": "cancel-or-reschedule-002",
+   "situation": "明天下午两点约了客户陈总谈合同，结果老板临时让我去上海出差，得跟陈总改时间。微信说。",
+   "reply": "陈总您好，明天下午两点的会面我需要改一下时间，公司临时安排我去上海出差，这么晚才通知您很抱歉。周四上午10点到12点，或者周五下午，我都可以，您看哪个方便？如果都不合适，您给我两个时间，我来配合。",
+   "lang": "zh",
+   "note": "对客户第一句就说改期，理由一句带过，然后直接给两个具体时间。"
+  },
+  {
+   "id": "cancel-or-reschedule-003",
+   "situation": "Committed to a camping trip with friends this weekend, cabin split is $80 each. I'm burnt out and want to drop out, don't want to reschedule. Group chat.",
+   "reply": "I've got to drop out of the Big Sur trip this weekend, sorry all. Nothing wrong, I'm just running on empty and need a quiet one. I'm still paying my $80 for the cabin, Venmo coming tonight. Have the best time and send me sunset photos.",
+   "lang": "en",
+   "note": "Covering your share is what makes a late drop-out land as honest rather than flaky."
+  }
+ ]
+}

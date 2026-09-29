@@ -1,0 +1,27 @@
+{
+ "playbook": "de-escalate-argument",
+ "count": 3,
+ "cases": [
+  {
+   "id": "de-escalate-argument-001",
+   "situation": "My roommate and I are fighting over text about dishes. I got sarcastic, she's getting angrier. I want to stop it before it blows up.",
+   "reply": "I don't want to keep doing this over text, and I'm sorry I got sarcastic. I get that you feel like you're the only one keeping the kitchen going. Can we talk tonight around 8 when you're home? You matter more to me than a sink.",
+   "lang": "en",
+   "note": "Reflect her feeling without conceding the facts; the facts get sorted at 8."
+  },
+  {
+   "id": "de-escalate-argument-002",
+   "situation": "跟老公因为今年过年回谁家在微信上吵起来了，他越说越激动，我也说了他妈妈的难听话。想先停一下。",
+   "reply": "我们先别在微信上吵了，刚才我说你妈那句话太冲了，对不起。我知道你觉得每年都是在迁就我家。今晚吃完饭我们好好聊，好吗？回哪家过年，都没有我们俩重要。",
+   "lang": "zh",
+   "note": "先认自己那一句的错，再说出对方的感受，最后给一个明确的时间继续谈。"
+  },
+  {
+   "id": "de-escalate-argument-003",
+   "situation": "My sister and I fought about who's hosting Mom's 70th. I said I needed a break and would call at 7, and she's sent 6 more angry texts since.",
+   "reply": "I'm not ignoring you. I said I'd call at 7 and I will. I just can't do this well right now.",
+   "lang": "en",
+   "note": "One line, then silence until 7. Answering each text restarts the fight."
+  }
+ ]
+}

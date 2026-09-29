@@ -1,0 +1,27 @@
+{
+ "playbook": "romantic-let-down",
+ "count": 3,
+ "cases": [
+  {
+   "id": "romantic-let-down-001",
+   "situation": "A guy from another department asked me to dinner. He's nice but I'm not interested, and we'll keep running into each other at the coffee machine.",
+   "reply": "That's really kind of you, and I'm flattered you asked. I don't see us that way, though, so I'll say no. I hope it doesn't make the coffee machine weird.",
+   "lang": "en",
+   "note": "A clear no plus a light nod to the shared space lets you both carry on normally at work."
+  },
+  {
+   "id": "romantic-let-down-002",
+   "situation": "相亲认识的男生，见了三次面，人挺好，但我没感觉。他约我周末去看展。",
+   "reply": "谢谢你这几次的安排，和你聊天很舒服。我认真想了想，对我们之间没有那种感觉，不想拖着让你误会，所以周末就不去了。真心祝你一切顺利。",
+   "lang": "zh",
+   "note": "不给理由清单，不说“以后再说”，含糊才是最伤人的。"
+  },
+  {
+   "id": "romantic-let-down-003",
+   "situation": "Après deux rendez-vous avec un gars rencontré sur une appli, je lui ai dit que je ne voulais pas continuer. Il m'envoie des messages pour avoir une autre chance.",
+   "reply": "Je t'ai bien entendu, et je ne vais pas changer d'avis. Je vais arrêter de répondre maintenant, et je te souhaite le meilleur.",
+   "lang": "fr",
+   "note": "One calm closing line, then no more replies. If he turns hostile, block."
+  }
+ ]
+}

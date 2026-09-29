@@ -1,0 +1,27 @@
+{
+ "playbook": "negotiate-price-or-salary",
+ "count": 3,
+ "cases": [
+  {
+   "id": "negotiate-price-or-salary-001",
+   "situation": "Freelance copywriter. A startup offered $3,000 for a 12-page website. My rate would put it at $4,500. They say the budget is fixed.",
+   "reply": "Thanks, Priya, I'd really like to write this one. For 12 pages with the customer interviews we discussed, my price is $4,500, and that's where I need to be to do it well. If $3,000 is fixed, I can scope to fit: the six core pages for $3,000 now, and the rest as a second phase when you're ready. Would that work?",
+   "lang": "en",
+   "note": "Hold the rate, move the scope. Lowering the price for the same work resets every future quote."
+  },
+  {
+   "id": "negotiate-price-or-salary-002",
+   "situation": "在公司两年了，今年负责的项目帮公司省了120万成本。现在月薪18k，市场上同岗位大概22k到25k，想跟刘总谈加薪。",
+   "reply": "刘总，我想和您聊一下我的薪资。过去一年，我负责的供应链系统项目为公司节省了120万成本，另外带新人把交付周期缩短了两周。我了解了一下市场，同岗位大概在22k到25k，我现在是18k。我希望调整到24k。您看需要怎样才能做到？",
+   "lang": "zh",
+   "note": "给一个具体数字而不是范围，理由讲贡献和市场，不讲房贷。说完数字后可以沉默，等对方先开口。"
+  },
+  {
+   "id": "negotiate-price-or-salary-003",
+   "situation": "Ich will ein gebrauchtes Rennrad kaufen, angeboten für 850 Euro auf Kleinanzeigen. Ich kann morgen bar zahlen und würde gern um die 700 bieten.",
+   "reply": "Hallo Herr Wagner, das Rennrad interessiert mich sehr, und ich könnte es morgen Abend abholen. Würden Sie es für 720 Euro abgeben? Das liegt unter Ihrem Preis, dafür zahle ich bar und sofort.",
+   "lang": "de",
+   "note": "A specific number plus the real lever (cash, tomorrow) beats asking whether the price is negotiable."
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "playbook": "follow-up-unanswered",
+ "count": 3,
+ "cases": [
+  {
+   "id": "follow-up-unanswered-001",
+   "situation": "I've emailed a local bookstore owner, Ruth, twice about hosting a reading of my novel. No reply in 3 weeks. Want to send one last email.",
+   "reply": "Hi Ruth, last nudge from me on the reading. I'll assume the timing isn't right and stop filling your inbox, but if a slot opens up in the new year, I'd still love to do it at Chapter House. Thanks, Nadia",
+   "lang": "en",
+   "note": "Third and final bump: close the loop yourself, and don't send a fourth."
+  },
+  {
+   "id": "follow-up-unanswered-002",
+   "situation": "周六组织同学聚餐，今天必须跟饭店订包间，老王还没回我来不来。",
+   "reply": "老王，周六的包间我今晚8点前要跟饭店确认，你来不来？来不来都行，回个字就好。",
+   "lang": "zh",
+   "note": "把回复变得很小，截止时间是为了订位，不是为了催人。"
+  },
+  {
+   "id": "follow-up-unanswered-003",
+   "situation": "I followed up with my contractor about the kitchen quote and he snapped back 'I saw it, I've been slammed.' I still need it before I can book anyone.",
+   "reply": "Totally understand. No rush from me before the 20th; after that I'll need to start lining someone up, so a rough date for the quote would help whenever you get a sec.",
+   "lang": "en",
+   "note": "Don't defend the nudge. Take the answer, give room, and state the real planning date once."
+  }
+ ]
+}

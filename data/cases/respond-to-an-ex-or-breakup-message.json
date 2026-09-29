@@ -1,0 +1,27 @@
+{
+ "playbook": "respond-to-an-ex-or-breakup-message",
+ "count": 3,
+ "cases": [
+  {
+   "id": "respond-to-an-ex-or-breakup-message-001",
+   "situation": "Broke up 3 weeks ago. I still have my ex Jordan's guitar, bike helmet and a box of books. Want to hand it all back without a big conversation.",
+   "reply": "Hi Jordan, I've got your guitar, the bike helmet and the box of books ready. I can leave them with the front desk on Thursday after 5, or you can pick them up Saturday between 10 and 12. Which works?",
+   "lang": "en",
+   "note": "Belongings are logistics only: items, date, method, done."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-002",
+   "situation": "分手半年了，前男友突然发了一大段话，说他变了，想复合。我不想，但也不想伤人。",
+   "reply": "你的消息我认真看了几遍，想给你一个明确的回答，而不是模棱两可。我的答案是不。不是为了让你难过，是我很清楚自己想要什么。祝你一切都好。",
+   "lang": "zh",
+   "note": "清楚就是善意。如果他继续争取，不用逐条回应，只说“我听到了，我的答案不变”。"
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-003",
+   "situation": "My college ex Mateo texted after 4 years saying he's moving back to Chicago and would love to catch up. I'm open to being friends, nothing more.",
+   "reply": "Mateo, nice to hear from you, and welcome back! I'd be up for a catch-up as friends, no expectations either way. Coffee on Saturday at 11? There's a good place on Armitage.",
+   "lang": "en",
+   "note": "Name the limit up front and pin a date, so it doesn't drift into something vaguer."
+  }
+ ]
+}
