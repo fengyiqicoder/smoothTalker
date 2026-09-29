@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Tanya, a quick one before your renewal on October 12. You've been with us 14 months on the monthly plan, so it looks like the tool is here to stay. On the annual plan you'd pay $890 for the year instead of $1,068, which saves $178. The trade-off is paying it all up front, and it's only refundable in the first 30 days. If monthly suits your cash flow better, nothing changes and there's no need to reply.",
    "lang": "en",
    "note": "B2B renewal: the reason is their own 14-month history, the saving and the catch are both in numbers, and silence is a valid answer."
+  },
+  {
+   "id": "upsell-without-pushiness-007",
+   "situation": "I run a cleaning service. Last week Nora booked a standard clean and said no when I mentioned the $40 oven add-on. Now she's texted 'how much was the oven thing again? could you add it Thursday?'",
+   "reply": "Of course. The oven clean is $40 on top of your $110 standard clean and adds about 45 minutes. I'll put it on Thursday 1 October at 10am, $150 in total. Reply yes and it's booked.",
+   "lang": "en",
+   "note": "Answer as if it's the first time she's asked: no 'as I mentioned', and no extra pitch while she's saying yes."
   }
  ]
 }

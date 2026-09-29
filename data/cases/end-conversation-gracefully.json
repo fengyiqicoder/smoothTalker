@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -43,6 +43,13 @@
    "reply": "Martin, I need to jump off in a couple of minutes for a 3 o'clock. Great session today, and I'll send the revised timeline by Thursday as agreed. Good luck with the race next month. Talk soon, bye.",
    "lang": "en",
    "note": "A recap line signals the ending, the real reason is given because you're cutting in, and the last line is not a question."
+  },
+  {
+   "id": "end-conversation-gracefully-007",
+   "situation": "儿子去年就不在那个少儿足球队踢了，但家长微信群还在，每天几十条消息。群里家长人都挺好的，想退群又不想显得突然。",
+   "reply": "各位家长好，乐乐已经不在队里踢球了，我就先退群啦。这两年谢谢大家的照顾，比赛日场边的加油声我们会一直记得。有事随时私信我，小区里碰到再聊！",
+   "lang": "zh",
+   "note": "退群时一句真实原因加一句感谢就够了，不用多解释，最后一句不要用问句。"
   }
  ]
 }

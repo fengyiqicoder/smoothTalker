@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -42,6 +42,13 @@
    "reply": "No worries at all, sounds like a big week. I'd still love to get that drink, so if things calm down, tell me a night that works and I'll pick the place.",
    "lang": "en",
    "note": "After a soft maybe, hand the next move to them once. If no night comes back, that is the answer; don't ask again."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-007",
+   "situation": "上周六和在朋友婚礼上认识的女生小林第一次约会，一起看了个展，又吃了顿饭，聊了四个小时。第二天她还把展上拍的照片发给了我。想约第二次，国庆假期我都在北京。",
+   "reply": "你拍的那张装置照片我存了，比我拍的好看多了。想再见你一次：10月3日周六晚上798有个夜间市集，要不要一起去逛逛？如果想轻松点，找个下午喝杯咖啡也行，看你。",
+   "lang": "zh",
+   "note": "约第二次也是具体计划加一个更轻的选项；开头接住她发来的照片，而不是问“还想见面吗”。"
   }
  ]
 }

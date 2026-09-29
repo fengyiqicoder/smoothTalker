@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -42,6 +42,13 @@
    "reply": "Hi Sophie, I coach the Riverside Robins, the under-10s who play on Harlow Rec every Saturday morning, just up the road from you. We're looking for a local sponsor for new kits this season: £600 covers shirts for all 18 kids, with Crumb & Co on the front. Last season's sponsor, Park Lane Cycles, told us the Saturday crowd of parents was their best local advertising. Would you be open to it? A no is completely fine too.",
    "lang": "en",
    "note": "Exact cost, what she gets, one piece of proof, one yes/no question. The easy no matters more when you're asking a neighbourhood business."
+  },
+  {
+   "id": "cold-outreach-007",
+   "situation": "I run a volunteer repair café in Bristol; we've fixed 1,240 items this year. Amy Clarke at the Bristol Post wrote last week about households binning broken appliances because repair costs more than buying new. I want to email her.",
+   "reply": "Subject: 1,240 things Bristol didn't throw away\n\nHi Amy,\nYour piece last week on people binning appliances because repair costs more than new is exactly what we see every month. We run a free volunteer repair café in Easton and have fixed 1,240 items since January, mostly lamps, kettles and toasters. You'd be welcome at our next session on Saturday 10 October, or I can send the numbers. Useful for a follow-up? A quick no is helpful too.\nSam",
+   "lang": "en",
+   "note": "Press pitch: tie it to her own story, give one number, and offer her something usable instead of asking for coverage."
   }
  ]
 }

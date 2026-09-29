@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -43,6 +43,13 @@
    "reply": "Hallo, ich möchte heute den 24-Monats-Vertrag für 34,90 € abschließen. Im August hatten Sie eine Aktion ohne Anmeldegebühr, darüber hat mein Kollege unterschrieben. Könnten Sie mir die 49 € auch erlassen? Dann unterschreibe ich gleich jetzt. Wenn das nicht geht, ist es auch in Ordnung.",
    "lang": "de",
    "note": "Ein echter Anker plus sofortige Unterschrift. Bei einem Nein nach einem Extra fragen, etwa einem Gratismonat, statt nachzuverhandeln."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-007",
+   "situation": "想在4S店买一台白色卡罗拉双擎，销售王经理报的落地价是14.8万。我打算全款，明天就能去签，想谈到14.2万左右。",
+   "reply": "王经理您好，那台白色卡罗拉双擎我已经决定买了，全款，不走贷款。您报的落地价是14.8万，如果能做到14.0万，我明天9月30号上午就过去签合同、当场付款，正好赶在月底前。实在做不到也理解，您给我回一个能做到的价就行。",
+   "lang": "zh",
+   "note": "没有竞品报价就别编，用全款和月底成交做筹码；如果价格不动，再退一步只要一个附加项，比如贴膜或首保。"
   }
  ]
 }

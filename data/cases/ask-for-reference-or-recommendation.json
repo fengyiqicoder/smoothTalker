@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -42,6 +42,13 @@
    "reply": "Hola Marta, estoy buscando mi primer trabajo, los fines de semana en la Librería Nápoles, y me piden una referencia. Como nunca he trabajado, eres quien mejor conoce cómo trabajo, por estos dos años de sábados en el banco de alimentos. ¿Te parece bien que dé tu nombre y tu correo? Seguramente te contacten antes del viernes 9 de octubre. Si quieres, te paso la oferta y un par de cosas que podrías mencionar, como que coordiné el reparto de Navidad. Y si no te viene bien, lo entiendo perfectamente.",
    "lang": "es",
    "note": "Sin historial laboral, el voluntariado cuenta: di por qué ella, la fecha, ofrécele material para que le sea fácil y deja una salida sin culpa."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-007",
+   "situation": "I asked my old head of department, Mrs. Okonkwo, to be a reference for a teaching job at Riverside Academy. I emailed her on Sept 15 and followed up on Sept 22. Nothing. The application closes Friday Oct 9, and my placement mentor, Mr. Hale, would probably say yes.",
+   "reply": "Hi Mrs. Okonkwo, no worries at all if my note got buried at the start of term. I've asked someone else for this one, so there's nothing you need to do. I'd still love to catch up sometime, and I hope Year 11 are treating you well.",
+   "lang": "en",
+   "note": "After two unanswered messages, treat it as a no: ask Mr. Hale today and send one line that closes the ask without guilt."
   }
  ]
 }

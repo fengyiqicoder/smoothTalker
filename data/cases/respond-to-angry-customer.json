@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Fiona,\nOn Monday 40 of your people were paid a day late because of us, and some of them had to explain that to a landlord. That's ours: a bug in Monday's release stopped the payment file reaching the bank. It's fixed, and every payment landed this morning. We'll cover any late fees or overdraft charges your staff were hit with; they can send receipts straight to me and I'll reimburse within five working days. We're also waiving your October subscription. You'll have the full incident report from me by Friday. My direct line is 0161 496 0142.\nRuth Adeyemi, Head of Support",
    "lang": "en",
    "note": "B2B: the real impact is on her employees, so the make-good goes to them first, then to the account. Answer from a named person, not the CEO's inbox."
+  },
+  {
+   "id": "respond-to-angry-customer-007",
+   "situation": "我在淘宝开店卖茶叶。一位顾客收到货后发消息骂人，说快递盒被压扁了，两罐茶叶罐都凹了，要给差评。物流记录显示是中转时压坏的，不是我们打包的问题，但她确实是吃亏的那个。",
+   "reply": "您好，盒子压扁了，两罐茶叶罐都凹了，好好的东西收到时变成这样，确实让人窝火。物流记录显示是在中转站压坏的，跟快递公司索赔的事我来办，不用您操心。两罐新的我今天就用加厚箱给您重新发，发出后把单号发您；原来那两罐如果茶叶本身没受潮，您留着喝就好。我是店主阿秀，后面有任何问题直接在这里找我。",
+   "lang": "zh",
+   "note": "不是你的错也先接住她的损失，再平静说一次事实，然后把能做的做到位；差评的威胁不用回应。"
   }
  ]
 }

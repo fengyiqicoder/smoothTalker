@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -43,6 +43,13 @@
    "reply": "各位街坊好，我是洗衣店老陈。店开了8年，决定在11月30日关店，这是我个人的决定。到那天之前收衣送衣一切照常；会员卡余额可以继续用，用不完的，12月15日前来店里或微信找我，按余额全额退。附近靠谱的干洗店我也问好了，需要的私信我。谢谢大家这8年的照顾。",
    "lang": "zh",
    "note": "关店通知：第一句说日期，余额怎么处理写清楚，退款要简单；原因一句就够。"
+  },
+  {
+   "id": "price-increase-and-customer-announcements-007",
+   "situation": "I'm a freelance video editor. I've done monthly work for a marketing agency, Northlight, at $450 a day for two years. From January 1 I'm moving to $520. My contact is Aaron, and they have a big campaign with me running through December.",
+   "reply": "Hi Aaron,\nI'm updating my rates for the new year: from 1 January 2027, my day rate moves from $450 to $520. It's my first increase since we started working together two years ago. The winter campaign stays at $450 through December as quoted, so nothing changes for the work in flight. I've really enjoyed working with the Northlight team and I'm looking forward to more of it.\nMaya",
+   "lang": "en",
+   "note": "Existing client: date and number first, one honest line, the current rate held for work in flight, and no apology."
   }
  ]
 }

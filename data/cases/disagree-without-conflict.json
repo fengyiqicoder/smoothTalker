@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -43,6 +43,13 @@
    "reply": "Linda, thank you for taking Leo on Saturday, it's a real gift to have you. I know you raised three kids who slept on their tummies and turned out great. Where we land differently is that Dr. Shah was very clear that for Leo it's back only, and we'd feel much better sticking to that for every nap. Is there anything that makes back sleeping tricky for you with him? I'm happy to show you how we swaddle him so he settles.",
    "lang": "en",
    "note": "When the point isn't negotiable, aim the curiosity at practical obstacles, not at the rule itself."
+  },
+  {
+   "id": "disagree-without-conflict-007",
+   "situation": "GitHub code review. A senior engineer, Sam, commented on my PR asking me to switch our date formatting to moment.js. I think native Intl.DateTimeFormat is better: moment is in maintenance mode and would add a lot to our bundle. I don't want to look like I'm fighting a senior dev in a public thread.",
+   "reply": "Thanks, Sam, and agreed that we want one consistent way to format dates across the app. Where I land differently is the library: I'd lean towards native Intl.DateTimeFormat, mainly because moment is in maintenance mode and would add around 70 KB minified for the three formats we use. Is there a case you have in mind that Intl handles badly? If so, I'm happy to switch, or we can talk it through on a quick call.",
+   "lang": "en",
+   "note": "In a public review thread, the shared goal first, one reason with a number, then a real question that lets the senior person agree or correct you without losing face."
   }
  ]
 }

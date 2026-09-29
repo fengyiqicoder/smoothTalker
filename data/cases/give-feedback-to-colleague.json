@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -43,6 +43,13 @@
    "reply": "老吴，有空聊五分钟吗？想说说上周四评审会的事。你说小林的方案“完全没想过用户”，我知道你是着急方案有问题，但她刚来两个月，当着全组听到这句，这几天改稿都不太敢拿出来了。你当时主要觉得哪块有问题？以后评审遇到这种情况，能不能直接说具体是哪个环节，或者会后单独跟我说，我带她改。下周评审完我们再碰一下，看看效果。",
    "lang": "zh",
    "note": "对平级同事：先征得同意，说具体一句话和它对团队的影响，先问他的看法，再提具体做法，并约好回头看。"
+  },
+  {
+   "id": "give-feedback-to-colleague-007",
+   "situation": "I manage a dev team. Marcus, a senior engineer, left three comments on junior dev Leah's pull request last Thursday that just said 'wrong, redo'. She told me she's now nervous about opening PRs. I'm raising it in our 1:1 tomorrow.",
+   "reply": "Can I give you some feedback on code reviews? On Leah's pull request last Thursday, three of your comments said 'wrong, redo' with no explanation. She spent most of Friday guessing what you meant, and she's started sitting on PRs instead of opening them. What's your read on it? Going forward, I'd like every blocking comment to say what's wrong and point to one direction for the fix. Let's look at a couple of your reviews together on Tuesday 13 October.",
+   "lang": "en",
+   "note": "A 1:1 script: pause after 'What's your read on it?' and actually listen before giving the ask; keep Leah's name out of it if he'd take it out on her."
   }
  ]
 }

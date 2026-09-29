@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -43,6 +43,13 @@
    "reply": "Hi, I'm on parental leave until Monday 1 February and won't be reading email while I'm away. For month-end close and reporting, please contact Marcus Lee at marcus.lee@example.org. For invoices and supplier payments, email ap@example.org. Thanks, Sofia",
    "lang": "en",
    "note": "A long leave needs a plain 'won't be read' and two named routes. No baby details in an auto-reply."
+  },
+  {
+   "id": "out-of-office-and-away-messages-007",
+   "situation": "我开了一间定制西装工作室，中秋休息了5天（9月24日到28日），今天刚回来。客户王先生25号发微信问西装能不能在10月10日他婚礼前改好，昨天又发了一句“都好几天了也没人回”。",
+   "reply": "王先生您好，让您等了好几天，确实着急，谢谢您耐心等我们回来。今天一到店我就先看了您的西装：袖长和腰身10月6日（周二）前能改好，您7日或8日来试穿，如果还要微调，9日前一定交到您手上，赶得上10日的婚礼。您看哪天过来方便？",
+   "lang": "zh",
+   "note": "对方等急了：先承认等得久，不为放假道歉，也不解释，直接给具体日期和下一步。"
   }
  ]
 }

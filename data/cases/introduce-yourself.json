@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -43,6 +43,13 @@
    "reply": "赵经理您好，我是佛山木森家具的陈晓。上周四在广州家具展3号馆，我们聊过您那边新开的两家酒店餐厅要换椅子。我们厂专做实木餐椅，给酒店做的款主要是好打理、耐磕碰。我自己是木工学徒出身，椅子每一步怎么做的都能讲清楚。您方便的话，我下周把三款酒店常用的样册发您看看？",
    "lang": "zh",
    "note": "先帮对方想起你是谁（时间、地点、聊了什么），只讲一件具体的事，最后给一个很小的下一步。"
+  },
+  {
+   "id": "introduce-yourself-007",
+   "situation": "I'm on a panel about small-business websites at a local startup meetup on Thursday Oct 15. The organiser wants a third-person bio under 60 words. I'm a freelance developer in Bristol, six years in, mostly bakeries and cafés.",
+   "reply": "Lena Novak is a freelance web developer who has spent six years building sites for bakeries, cafés and other small food businesses. Her latest, an online ordering system for three Bristol bakeries, now takes 40% of their orders. She lives in Bristol with a sourdough starter she has kept alive since 2019.",
+   "lang": "en",
+   "note": "A bio still needs one concrete result and one human hook; the hook is what the moderator will use to introduce you."
   }
  ]
 }

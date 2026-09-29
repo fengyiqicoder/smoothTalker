@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Jordan, this is a final notice for invoice #0932 for $2,750, due 14 August and now 46 days overdue. If payment isn't received by Friday 9 October, I'll file a small claims case for the full amount plus the late fee set out in our agreement. I'd still rather settle this directly: a call this week, or a payment plan confirmed in writing, would be enough. Bank details are on the attached invoice. Mei",
    "lang": "en",
    "note": "Final notice: one date, one consequence you will actually take, and a last easy way to settle."
+  },
+  {
+   "id": "chase-late-payment-007",
+   "situation": "我做企业培训，给一家公司上了两天课，发票号HX-0826，金额18,000元，8月31日到期。对方行政赵经理说好上周五9月25日付，到今天还没到账。他们10月下旬还约了第二期。",
+   "reply": "赵经理您好，发票HX-0826的18,000元，您之前说9月25日付款，目前我这边还没有收到。麻烦您明天9月30日（周三）下午5点前确认一下是否已经付出，我同时抄送了贵司财务部的李姐。款项到账前，第二期课程的日期我先不做确认。",
+   "lang": "zh",
+   "note": "对方给的日期一过就发，只写发票、金额、日期和下一步后果；截止时间放在国庆长假之前，免得一拖就是一周。"
   }
  ]
 }

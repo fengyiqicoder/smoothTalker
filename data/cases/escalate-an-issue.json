@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -43,6 +43,13 @@
    "reply": "Subject: Decision needed by Fri 2 Oct: website launch date\n\nHi Linda, the 2 November launch is at risk. We still need the product copy and photos for 40 pages, originally due 8 September. Josh and I have spoken three times since, and he knows I'm raising the timeline with you. Two options: launch on the 2nd with the 15 core pages and add the rest by 20 November, or move launch to Monday 16 November. I recommend the phased launch, and we'd need the core page content by Friday 9 October. Could you let me know which by this Friday?",
    "lang": "en",
    "note": "Escalating to a client's sponsor is about the date, not Josh: say he knows, give two options and a recommendation."
+  },
+  {
+   "id": "escalate-an-issue-007",
+   "situation": "我在一个家居品牌定制了衣柜，合同写9月10日安装，全款23,600元已付。安装师傅两次爽约，客服工单开了三个，一直说在协调。国庆要接父母来住。想发一条能真正被升级处理的投诉。",
+   "reply": "您好，这是我第三次就同一订单反映问题，请转交主管或售后负责人处理。订单号YJ20260812，定制衣柜，全款23,600元已于8月12日付清，合同约定9月10日安装。之后约好的9月15日、9月22日两次安装都没有上门，也没有提前通知。已有工单号：GD0915、GD0922、GD0926。请在9月30日（周三）下班前给我一个确定的安装日期，并由负责人电话联系我。如果届时没有答复，我会向12315投诉。",
+   "lang": "zh",
+   "note": "顾客升级投诉：订单号、金额、爽约日期和工单号列清楚，只提一个要求和一个截止时间，说出的后果要真的会去做。"
   }
  ]
 }

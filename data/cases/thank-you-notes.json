@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Tomas, it's Rachel, whose wallet you rescued from the 14 bus on Saturday. Thank you for driving it all the way over instead of just handing it in. Getting my licence and cards back saved me a week of phone calls, and your note honestly made my day. If you're ever near Fairview, I'd love to buy you a coffee. Either way, thank you.",
    "lang": "en",
    "note": "A stranger: say who you are first, name the extra effort he chose, and keep any offer light and optional."
+  },
+  {
+   "id": "thank-you-notes-007",
+   "situation": "婆婆给我织了一件大红色的毛衣，织了两个月，颜色和款式我都不太会穿。想发微信谢谢她，但不想假装特别喜欢，不然以后得一直穿给她看。",
+   "reply": "妈，毛衣收到了，谢谢您。听建国说您每天晚上看电视的时候一针一针织，织了整整两个月，想到这个我心里特别暖。天凉了您也多注意身体，国庆我们回去看您。",
+   "lang": "zh",
+   "note": "不喜欢的礼物：谢她的心思和付出，不编造对毛衣本身的喜爱，免得以后一直演下去；结尾落在见面上。"
   }
  ]
 }

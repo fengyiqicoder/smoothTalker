@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Paul, a small thing I wanted to raise privately. You've called me 'kiddo' a few times in client meetings, most recently with the Hollis team last Thursday. I know it's meant warmly, but in front of clients it undercuts me as the lead on their project. Would you mind just using Anna? Thanks, I appreciate it.",
    "lang": "en",
    "note": "Upward and across a power gap: private, one dated example, the effect on the work rather than on feelings, and an ask that is easy to say yes to."
+  },
+  {
+   "id": "ask-to-change-behavior-007",
+   "situation": "I asked my girlfriend Mei to put her phone on silent after we're in bed because the buzzing keeps waking me. She shot back: 'well, you snore and I never complain.'",
+   "reply": "Fair, the snoring is real, and I'll book a GP appointment about it this week. I'm not having a go at you; it's just the buzzing that keeps waking me. Could we try silent after we're in bed from tonight?",
+   "lang": "en",
+   "note": "When they say 'you do it too', concede what's true and go back to the one ask instead of trading grievances."
   }
  ]
 }

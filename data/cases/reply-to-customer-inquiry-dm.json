@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -43,6 +43,13 @@
    "reply": "单个就是380，价格不打折哈。买两个的话送两个同色钥匙扣，顺丰包邮，一般3天到。你想要什么颜色？我拍现货给你看。",
    "lang": "zh",
    "note": "先答价格不绕弯，不降价但给一个买两个的实在好处，最后一个问题推进下单。"
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-007",
+   "situation": "I'm a florist. On Sunday a bride, Hannah, asked on WhatsApp about flowers for her wedding on October 17. I quoted $1,450 for her bouquet, 4 bridesmaid posies and 20 table centrepieces. Blue ticks, no reply. That's my last free Saturday in October.",
+   "reply": "Hi Hannah, just checking whether you'd like me to hold Saturday 17 October for your flowers. It's my last free Saturday that month, so I can keep it for you until Friday. Totally fine if you've gone another way.",
+   "lang": "en",
+   "note": "One follow-up about 48 hours after the price, with a true reason to reply and an easy no. If nothing comes back, leave it."
   }
  ]
 }

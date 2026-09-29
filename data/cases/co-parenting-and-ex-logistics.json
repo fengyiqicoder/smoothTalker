@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -43,6 +43,13 @@
    "reply": "Oi Rafael, entendido, o fim de semana de 17 e 18 de outubro fica como está. Vamos comemorar o aniversário da minha mãe no sábado 24, quando a Clara e o Theo estiverem comigo. Obrigada.",
    "lang": "pt",
    "note": "Ignore o 'sempre', aceite o não em uma linha e se organize em volta dele. Uma recusa não é um padrão."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-007",
+   "situation": "Our daughter Maya (10) lives with me during the week. Her teacher, Ms. Reyes, emailed that Maya has missed 6 homework assignments since school started and wants a parent conference Thursday Oct 8 at 4:15. I want my ex, Daniel, to come too, without it sounding like I'm blaming his weekends.",
+   "reply": "Hi Daniel, Maya's teacher, Ms. Reyes, has asked for a parent conference on Thursday Oct 8 at 4:15 at school. She says Maya has missed 6 homework assignments since term started and wants to agree a plan with us. I'd like us both to be there so we hear the same thing. Can you let me know by Friday whether you can make it? Thanks.",
+   "lang": "en",
+   "note": "School concerns go to the co-parent as facts plus one yes-or-no question. No guessing in writing about whose days the homework slipped on."
   }
  ]
 }

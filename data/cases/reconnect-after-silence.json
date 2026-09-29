@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -43,6 +43,13 @@
    "reply": "Leah, I've been quiet for most of this year and I'm sorry I left your messages hanging; it was a rough stretch and I went to ground. I'm doing a lot better now. Those pumpkins from your allotment are ridiculous, by the way. Could I buy you a coffee soon, maybe Saturday the 10th or Sunday the 11th? No rush to reply.",
    "lang": "en",
    "note": "When you were the one who went silent, one line of ownership is enough. A long apology makes her comfort you; a specific reason and a small plan move it forward."
+  },
+  {
+   "id": "reconnect-after-silence-007",
+   "situation": "My cousin Aisha and I were really close as kids but haven't talked since our grandmother's funeral five years ago. No fight, we just drifted; she's in Manchester and I'm in Toronto. I saw on Instagram that she ran her first half marathon on Sunday.",
+   "reply": "Aisha! Just saw your half marathon photos, huge congratulations. It made me think of Nani timing us racing round her garden, and how you always won. It's been far too long. How did it feel crossing the line? No rush to reply, I just wanted to say I'm proud of you.",
+   "lang": "en",
+   "note": "Family drift gets the same shape as friends: the gap named once, one shared memory, one easy question, and no apology spiral."
   }
  ]
 }

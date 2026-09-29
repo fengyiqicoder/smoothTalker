@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -43,6 +43,13 @@
    "reply": "嫂子，孩子有事你第一个想到问我，我挺高兴的。想跟你说一下，以后我不在微信上看病了，隔着照片看不准，万一耽误了孩子我心里过不去。孩子不舒服就直接去医院挂儿科，如果不知道去哪家、挂哪个号，你随时问我，我帮你推荐。",
    "lang": "zh",
    "note": "边界说的是“我不在微信上看病”，是自己的做法，不是要求她别问；再问时重复同一句，不加新理由。"
+  },
+  {
+   "id": "set-boundary-007",
+   "situation": "My boyfriend Josh and I moved in together in August. He wants to do something together every single evening and I'm running on empty; I need some nights alone. Nothing is wrong between us.",
+   "reply": "I love living with you, and I want to keep loving it. I need a couple of evenings a week that are just mine, because that's how I recharge, not because anything's wrong. I'm going to keep Mondays and Wednesdays for myself, and the other nights I'm all yours.",
+   "lang": "en",
+   "note": "State it as what you will do, with one reason; if he pushes, repeat the same sentence rather than adding new ones."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -43,6 +43,13 @@
    "reply": "Mom, I'm glad you've had someone to talk to, and I'm not trying to take that away. Before any money goes anywhere, can we do one thing together: ask Richard for a live video call, not a photo or a voice note. If he is who he says, that's easy for him. I can come over Saturday and we'll set it up together.",
    "lang": "en",
    "note": "Don't say 'scam' to someone emotionally invested; agree on one test the real person would pass and do it with her."
+  },
+  {
+   "id": "suspicious-or-scam-message-007",
+   "situation": "Someone texted pretending to be WhatsApp support and I gave them my 6-digit code. Now I'm locked out and my account is messaging my contacts asking for money. I've reported it to WhatsApp. What do I post on Instagram and text to my family?",
+   "reply": "My WhatsApp was taken over this morning, so any message from it asking for money, codes or favours is not me. Please don't send anything or reply to it. If you're not sure whether a message is really from me, call me on my usual number. I'm working on getting the account back and I'll post here when it's sorted.",
+   "lang": "en",
+   "note": "Warn people on channels the scammer can't reach, say exactly what to ignore and give one way to verify. Skip the story of how it happened; nobody needs it to stay safe."
   }
  ]
 }

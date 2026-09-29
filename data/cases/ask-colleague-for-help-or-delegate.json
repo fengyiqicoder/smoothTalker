@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -43,6 +43,13 @@
    "reply": "李总，想跟您对一下我手上三个项目的优先级。官网改版、双十一活动页、供应商系统对接目前都排在10月30号前，按我估的工作量，一个人能保证两个按时高质量交付。我的建议是：活动页优先，因为11月1号要开始预热；官网按原计划；供应商对接推到11月中，或者请技术部小王先接前期的接口梳理。您看哪个方案合适？今天能定的话，我明天一早就按新排期推进。",
    "lang": "zh",
    "note": "向上求助要带上工作量判断和一个推荐方案，让领导做选择题，而不是把问题整个丢过去。"
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-007",
+   "situation": "I'm the new team lead and about 20 years older than most of my team. My report Maya is the Figma expert and I need to be able to edit our prototypes before the Harlow client review on Thursday Oct 8. Asking someone junior to teach me feels strange.",
+   "reply": "Hi Maya, could you teach me something? I need to make small edits to the onboarding prototype before the Harlow review on Thursday Oct 8, and you know Figma far better than I do. I've done the basics tutorial, so it's mainly components and how the flows link up that I'm stuck on. Could you spare 30 minutes, maybe Thursday or Friday this week? If you're heads-down, a pointer to a good walkthrough would help too.",
+   "lang": "en",
+   "note": "Asking down uses the same shape as asking across: what you've tried, the exact gap, the time cost and an out. Saying she knows it better is context, not flattery."
   }
  ]
 }

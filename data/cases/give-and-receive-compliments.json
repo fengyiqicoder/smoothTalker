@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -42,6 +42,13 @@
    "reply": "刘老师，想正式跟您说声谢谢。开学那几周乐乐每天早上都哭，您每天在门口接他，还让他管图书角，现在他七点就催我出门，说要去整理书。这一个月的变化我们在家看得特别清楚，您真的很用心。",
    "lang": "zh",
    "note": "感谢要具体：她做了什么、带来了什么变化、一句关于她本人；不附带任何请求。"
+  },
+  {
+   "id": "give-and-receive-compliments-007",
+   "situation": "I told Ben, a colleague on another team, that his talk at the product offsite was the clearest explanation of our pricing I'd ever heard. He DM'd back 'haha careful, people will think you're flirting'. I'm married and it really wasn't that. We work together on a project next month.",
+   "reply": "Ha, no angle here, I just thought it was good and wanted to say so. The slide with the three customer examples is what finally made our pricing click for me.",
+   "lang": "en",
+   "note": "Clarify in one plain line without apologising for the compliment, then restate the specific thing so it stays about the work."
   }
  ]
 }

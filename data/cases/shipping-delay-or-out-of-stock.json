@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -43,6 +43,13 @@
    "reply": "Subject: Your Night Market preorder now ships around November 13\nHi everyone,\nYour Night Market preorder is delayed: it will ship around November 13 instead of early October. The first print run failed our quality check (the colours came out muddy), and I'd rather reprint than send a game I'm not proud of. You can wait and get tracking the day it ships, swap to Harbour Lights, which is in stock and ships this week, or reply 'refund' for your full $34 within two days. If I don't hear from you, your order stays as it is. Every order will include the promo expansion as a thank-you. I'll email again on October 30 with a firm date.\nMaya, Lanternfly Games",
    "lang": "en",
    "note": "A mass email to many buyers: the delay in the subject line, one line of reason, three options and a default, so nobody has to reply."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-007",
+   "situation": "Customer Dana ordered a linen dress (#6203) on Sept 14 for a trip this Saturday. I emailed yesterday that it's delayed to Oct 5 because the fabric is late. She replied: 'This is ridiculous, I ordered it specifically for my trip. Terrible service.' The sage colour is in stock.",
+   "reply": "Understood, Dana, and I'm sorry: you ordered it for the trip and we've let you down. The sage version is in stock, and if you'd like it I'll send it by express today so it reaches you by Friday 2 October. Otherwise the original ships Monday 5 October, or say the word and I'll refund the full $128 today. I'll check in tomorrow morning either way.",
+   "lang": "en",
+   "note": "Don't re-explain the delay to an angry customer; give the one option that still fixes her real problem, a firm date, and the refund again."
   }
  ]
 }

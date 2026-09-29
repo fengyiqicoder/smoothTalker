@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Callum, thanks for asking rather than letting it get weird at work. I'm not up for a drink or a talk about us, and I'd rather be clear than vague about it. At work I'm glad to keep things normal and friendly, standups, the launch, all of it. Outside of work I need some distance for a while.",
    "lang": "en",
    "note": "An ex you see every day: close the door on the personal part and give the working relationship a clear, friendly shape."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-007",
+   "situation": "Last week I told my ex Dylan I'm not in a place to be in touch. He's sent four long messages since, saying I never gave him a fair chance, listing things he's changed, and asking me to at least meet once to talk.",
+   "reply": "Dylan, I've read what you sent and I've heard you. I'm not going to argue it point by point, and I won't be meeting up. My answer is the same. I won't reply further, and I do hope things go well for you.",
+   "lang": "en",
+   "note": "Don't answer each point; points invite rebuttal. Restate once, then go quiet, and mute if the messages keep coming."
   }
  ]
 }

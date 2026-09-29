@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Derek, thanks for being straight with me that it hasn't fitted into your routine. Annual plans can only be refunded in the first 14 days, so a full refund of the $120 isn't something I can do. What I can do is switch off auto-renew now so you're never charged again, and pause your remaining eight months so they start whenever you're ready to use them. Shall I set that up?",
    "lang": "en",
    "note": "Subscription middle option: the no is one line, and the alternative protects what he paid for rather than offering a discount."
+  },
+  {
+   "id": "handle-refund-request-007",
+   "situation": "Je vends du thé en ligne. Une cliente, Mme Roussel, a acheté un coffret à 45 € il y a six semaines (retours sous 14 jours), elle l'a ouvert et n'aime pas le goût. Elle exige un remboursement et menace de laisser un avis une étoile.",
+   "reply": "Bonjour Madame Roussel, je comprends votre déception et je tiens à trouver une solution avec vous. Le coffret a été ouvert et commandé il y a six semaines, je ne peux donc pas le rembourser. En revanche, je peux vous faire un avoir de 45 € sur la boutique, ou vous envoyer gratuitement trois échantillons d'autres mélanges pour trouver celui qui vous plaît. Dites-moi ce qui vous convient et je m'en occupe aujourd'hui.",
+   "lang": "fr",
+   "note": "Face à une menace d'avis, on n'en parle pas : réponse rapide, ton calme et la meilleure offre possible, prête à être traitée le jour même."
   }
  ]
 }

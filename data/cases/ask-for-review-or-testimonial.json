@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -43,6 +43,13 @@
    "reply": "李阿姨您好，空调这两天用着还好吧？第一次没能一次修好，让您多等了一趟，谢谢您的耐心。我们是小店，美团上的评价对新客人挑师傅特别有用，如果您愿意写两句，一分钟就够，搜“老陈家电维修”就能找到。不方便也完全没关系，以后家里电器有问题直接找我。",
    "lang": "zh",
    "note": "出过问题又解决了的客人：先用一句话认下那次失误，再提请求，并给一个真心的退路。"
+  },
+  {
+   "id": "ask-for-review-or-testimonial-007",
+   "situation": "I run a two-person bookkeeping firm. We moved a family hardware store, Hollis & Sons, off spreadsheets and their month-end close went from 12 days to 4. The owner, Gail, thanked us last week. I'd love to write it up as a case study for our website.",
+   "reply": "Hi Gail, getting your month-end close from 12 days down to 4 is the best result we've had this year, and I'd love to write it up as a short case study for our website. You'd approve every word before it goes live, and it would take about 20 minutes of your time on a call; Thursday 8 or Friday 9 October both work for me. If you'd rather keep the numbers private, I'm happy to call you 'a family hardware store' instead. And if it's not for you, no problem at all.",
+   "lang": "en",
+   "note": "A case study is the bigger ask: name the result, the time it costs her and her approval rights, and offer anonymity as a second out."
   }
  ]
 }

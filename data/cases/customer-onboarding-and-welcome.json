@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Lena, welcome aboard, and thanks for choosing us for all four Harbor Physio clinics. Next steps: a 45-minute kickoff call this week, then we build your clinics and booking rules by Friday Oct 23, and you go live Monday Nov 2. To keep that date I need two things by Friday Oct 9: your staff list as a spreadsheet (name, email, clinic, role) and any treatment types longer than 60 minutes. Does Thursday Oct 1 or Friday Oct 2 at 10am work for the kickoff? I'm your contact throughout and reply within one business day.",
    "lang": "en",
    "note": "B2B onboarding: one named contact, dated milestones, and the inputs tied to the go-live date so they have a reason to send them."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-007",
+   "situation": "I run small-group puppy training classes. Tom just booked our 6-week Puppy Foundations course for his cockapoo, Biscuit (14 weeks old). First class is Saturday Oct 10 at 9am at Elm Park community hall. I need his vaccination record before the first class.",
+   "reply": "Hi Tom, thanks for booking Biscuit into Puppy Foundations, we can't wait to meet him. The first class is Saturday Oct 10 at 9am at Elm Park community hall, and the course runs every Saturday until Nov 14. Could you send a photo of Biscuit's vaccination record by Wednesday Oct 7? We ask every owner so the whole group stays safe. On the day, bring a flat collar or harness, a normal lead and a pocket of his favourite small treats. Any questions, reply here or text me on 07700 900456; I usually reply the same day.\nJess",
+   "lang": "en",
+   "note": "Date and place, the one thing needed with a deadline and a reason, and what to bring as the small welcome touch. No upsell to private sessions yet."
   }
  ]
 }

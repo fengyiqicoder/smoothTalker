@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -43,6 +43,13 @@
    "reply": "周小姐您好，去年10月您联系过我聊高级数据分析的机会，当时时机不合适，谢谢您还记得我。我现在开始看新的机会，方向是电商或金融公司的数据团队负责人，base上海，年薪期望55万左右。如果您手上有合适的，这周四或周五下午都方便电话聊15分钟。",
    "lang": "zh",
    "note": "主动回头找猎头：直接说方向、城市和薪资，方便她匹配；裁员的事不必解释。"
+  },
+  {
+   "id": "respond-to-recruiter-007",
+   "situation": "Recruiter Maya from a fintech shared the band for a Senior Data Engineer role: $140k to $155k base. I'm on $160k now and wouldn't move for under $175k. The role itself sounds good.",
+   "reply": "Thanks for sharing the band, Maya. It's below what I'd need to move; my floor is $175k base. If there's flexibility on that, I'm happy to talk this week. If not, no hard feelings, and please keep me in mind for roles at that level.",
+   "lang": "en",
+   "note": "Give your floor, not your current pay, and leave one clear door open."
   }
  ]
 }

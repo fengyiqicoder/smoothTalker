@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -43,6 +43,13 @@
    "reply": "Hey Tom, tiny thing: it's Nicola, not Nicole. Really easy mix-up, and I should have said something weeks ago! See you at standup.",
    "lang": "en",
    "note": "Private, one line, and share the blame for the delay so he doesn't feel he's been embarrassing himself for weeks. Never mention it again."
+  },
+  {
+   "id": "tell-someone-something-awkward-007",
+   "situation": "好朋友小婷刚在我们大学同学群里发了婚礼电子请柬，上面写的是“10月18日（星期六）”，可我查了，今年10月18日是星期日。群里有三十多个人，她可能还发给了长辈。",
+   "reply": "婷婷，恭喜恭喜！小提醒一下：请柬上写的是10月18日星期六，我查了今年18号是星期日。你确认一下是日期还是星期写错了，趁大家还没安排行程赶紧改一下。",
+   "lang": "zh",
+   "note": "马上能改的错误，要马上私聊说；一句话讲清楚，不在群里指出，说完就不再提。"
   }
  ]
 }

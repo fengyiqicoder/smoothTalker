@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -43,6 +43,13 @@
    "reply": "Ha, Gary, you'll make a lawn man of me yet. I'm keeping it low effort this year, dandelions and all. How did your tomatoes end up doing?",
    "lang": "en",
    "note": "Low stakes and someone you like: receive it with humour and hand him a topic he enjoys. Save the firmer rungs for if it keeps eating your Saturdays."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-007",
+   "situation": "Mein Schwiegervater Klaus hat mir beim Sonntagsessen ungefragt gesagt, ich solle meinen Stromvertrag wechseln, ich würde viel zu viel zahlen. Ich habe abgewinkt, aber zu Hause nachgerechnet: Er hat recht, ich spare rund 280 Euro im Jahr. Ich will ihm kurz schreiben.",
+   "reply": "Hallo Klaus, du hattest recht mit dem Stromvertrag. Ich habe es nachgerechnet, ich spare rund 280 Euro im Jahr und habe heute gewechselt. Danke, dass du es angesprochen hast, auch wenn ich am Sonntag erst abgewunken habe. Beim nächsten Essen bringe ich den Kuchen mit.",
+   "lang": "de",
+   "note": "When the unsolicited advice was right, say so plainly and credit him; it is what makes your future deflections credible."
   }
  ]
 }

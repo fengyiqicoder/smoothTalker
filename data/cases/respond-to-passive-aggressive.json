@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Mark, understood, you'd like the logo bigger than it is in v3. So I get it right this round: should it fill about a third of the header width, or closer to half? I'll send the revised version by 3pm tomorrow, Wednesday.",
    "lang": "en",
    "note": "Answer the request, not the tone, and turn a vague 'bigger' into a choice so there is no v4. Raise the v2 approval only if extra rounds become a billing question."
+  },
+  {
+   "id": "respond-to-passive-aggressive-007",
+   "situation": "I joined standup 5 minutes late this morning because a customer call ran over. Right after, my manager Colleen posted in the team channel: 'Friendly reminder that standup starts at 9:30, for those who forgot.' Obviously aimed at me. First time I've been late in months.",
+   "reply": "Hi Colleen, that one was me, sorry for joining late this morning. A call with Brightwater ran over and I should have given you a heads-up. If it ever happens again, I'll message you before 9:30.",
+   "lang": "en",
+   "note": "Reply privately, not in the channel. A small, fair complaint sits inside the dig, so own it in one line and deal with the contents; no comment on the tone."
   }
  ]
 }

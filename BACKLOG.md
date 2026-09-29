@@ -92,3 +92,4 @@ The owner wants the library to reach 1000 cases. Cases are concrete situations w
 - 2026-09-29: loop run. 60 new cases (every playbook now has at least 4; 39 have 5; 15 zh, 6 other languages), 363 in total. Spot-checked: a boss asking the user to mislead a client gets an honest pushback with two truthful options.
 - 2026-09-29: loop run. 60 new cases (15 zh, 6 other languages), 423 in total; every playbook now has 5 or more.
 - 2026-09-29: loop run. 60 new cases (15 zh, 6 other languages), 483 in total; every playbook has 6 or more. Reviewed by hand the 6 written without a full read of their playbook: all consistent.
+- 2026-09-29: loop run. 60 new cases (15 zh, 6 other languages), 543 in total; every playbook now has 6 or 7 (correction to the previous line: 3 playbooks had 5 until this run).

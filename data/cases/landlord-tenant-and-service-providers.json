@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -43,6 +43,13 @@
    "reply": "王姐您好，卖房的事收到了，我理解，也愿意配合。10月底前找房加搬家时间比较紧，我想11月15号前搬完。按合同第八条，房东提前解约需赔付一个月租金4,500元，麻烦您在我交钥匙当天把押金和这4,500元一起退给我。这段时间带人看房我都配合，提前一天说一声就行。您看这样可以吗？周五前回我一下，我好开始安排。",
    "lang": "zh",
    "note": "合同只引用一次、语气平和，把要求落到具体日期和金额；配合看房是让对方好答应的筹码。"
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-007",
+   "situation": "Hired a kitchen fitter, Wes, for £9,200. I've paid £6,000 so far and the last £3,200 is due on completion. He was meant to finish on 18 September. The worktops and sink still aren't in and his texts have been vague for a week.",
+   "reply": "Hi Wes, the kitchen was due to be finished on Friday 18 September, and the worktops and sink still aren't in, so we're washing up in the bathroom. Could you give me a completion date by Thursday 1 October? I'll pay the final £3,200 as soon as the job's done, as agreed.",
+   "lang": "en",
+   "note": "Facts, the agreed payment as the lever, one dated ask. If Thursday passes, move one step up to a formal written deadline, not a threat."
   }
  ]
 }

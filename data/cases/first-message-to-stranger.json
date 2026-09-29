@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Hannah, I'm Kate, Zoe's mum from Class 1B. Zoe comes home every day with a new story about her and Oscar running the dinosaur park at break; apparently he's the T. rex expert. Would Oscar like to come to ours after school one day next week? Wednesday or Thursday would work, and I'm happy to do the pickup.",
    "lang": "en",
    "note": "Proof you looked is the kids' own story; the ask is small, concrete and easy to decline."
+  },
+  {
+   "id": "first-message-to-stranger-007",
+   "situation": "Just moved to Leeds and found a board game group on Meetup. The organiser, Tom, posted about a Wingspan night on Thursday Oct 8. I've never been to one of these and want to message him first.",
+   "reply": "Hi Tom, saw the Wingspan night on Thursday the 8th. I've played it twice and still end up with a sad little handful of birds. Is it fine to turn up as a fairly new player, or is that night more for regulars?",
+   "lang": "en",
+   "note": "Community first contact: one detail from his post, one clause about you, one question he can answer in a line."
   }
  ]
 }

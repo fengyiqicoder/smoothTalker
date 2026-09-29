@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -43,6 +43,13 @@
    "reply": "小陈，上周问你10月8号周四帮我代开客户周会的事，你那边不方便的话完全没关系，麻烦周五前跟我说一声就行，我好去问问其他人。能帮的话，我周五下班前把议程和客户背景发你，大概半小时就能看完。",
    "lang": "zh",
    "note": "没回复时跟进一次，重申退路，给一个明确的回复时间；如果还是没回，就当作不行，换人问。"
+  },
+  {
+   "id": "ask-for-favor-007",
+   "situation": "My friend Marcus said he'd help me move tomorrow morning with his truck. He just texted that he can't make it, his daughter Ellie has a fever. I'm stressed and a bit annoyed but I don't want to guilt-trip him.",
+   "reply": "Oh no, hope Ellie's fever breaks soon. No problem at all, I'll book a van for the morning. Give her a hug from me.",
+   "lang": "en",
+   "note": "When a yes turns into a late no, absorb it in one line. No guilt trip keeps the door open for the next favour, in either direction."
   }
  ]
 }

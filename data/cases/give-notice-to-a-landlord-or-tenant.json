@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -43,6 +43,13 @@
    "reply": "Sehr geehrte Frau Brandt,\nhiermit kündige ich das Mietverhältnis über die Wohnung Karl-Heine-Straße 48, 2. OG links, 04229 Leipzig, fristgerecht zum 31. Dezember 2026, gemäß der gesetzlichen Kündigungsfrist von drei Monaten (§ 573c BGB). Das unterschriebene Original geht Ihnen heute per Einschreiben zu. Für Besichtigungen mit Nachmietern bin ich werktags ab 17 Uhr flexibel. Für die Übergabe mit Zählerablesung schlage ich Montag, den 28. Dezember, vor. Bitte bestätigen Sie mir den Eingang der Kündigung schriftlich.\nVielen Dank für die angenehmen Jahre hier.\nMit freundlichen Grüßen\nJonas Weber",
    "lang": "de",
    "note": "In Deutschland braucht die Kündigung die Schriftform mit Unterschrift; die E-Mail ist nur die Vorabinfo, der Brief muss bis zum dritten Werktag im Oktober ankommen."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-007",
+   "situation": "I asked my landlord Greg if I could end my lease on Nov 30 instead of March 31 because I'm moving to Denver for work. He replied 'A lease is a lease, you owe rent through March.' Rent is $1,850. I don't want a fight.",
+   "reply": "Hi Greg, I understand you'd rather keep the lease as it is, and I'm not asking you to lose money on the unit. Would you agree to release me from the lease once I find a replacement tenant who passes your usual checks? I'd keep paying the $1,850 rent until they move in, handle the listing and show the apartment around your schedule. If that works for you, I'm happy to put it in writing this week.",
+   "lang": "en",
+   "note": "After a no to leaving early, ask what would make it work; a vetted replacement answers his real worry. Get any deal in writing, and check your state's rules on a landlord's duty to re-let."
   }
  ]
 }

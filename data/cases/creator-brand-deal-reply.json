@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -42,6 +42,13 @@
    "reply": "小林你好，确认一下我们谈好的内容：一条抖音视频加三篇小红书图文，10月15日到25日之间发布，总价8000元，签约后预付50%，交付后付剩余50%，含30天自然流量授权，不含投流，不排他。今天我会把预付款的发票和内容脚本发你，脚本确认后就开始拍。如果哪一项和你的理解不一样，直接告诉我。",
    "lang": "zh",
    "note": "条款、付款方式和授权范围都落在文字里再开工，确认消息本身就是合同的草稿。"
+  },
+  {
+   "id": "creator-brand-deal-reply-007",
+   "situation": "A protein bar brand, Fuelwell, offered $1,200 for one YouTube integration on my running channel (80k subs). Their contract, from Nina, asks for 6 months of category exclusivity covering all nutrition brands. I already have an ongoing paid partnership with an electrolyte brand.",
+   "reply": "Hi Nina, thanks for sending the contract, the integration itself looks great. The one sticking point is exclusivity: I have an ongoing nutrition partnership, so six months across all nutrition brands isn't possible for me. Two options: 60 days of exclusivity on protein bars and snacks, included at $1,200, or six months on protein bars and snacks for $1,800. Which suits Fuelwell better?",
+   "lang": "en",
+   "note": "Exclusivity is where the money hides: narrow the category, price the longer term, and keep existing partners out of it."
   }
  ]
 }

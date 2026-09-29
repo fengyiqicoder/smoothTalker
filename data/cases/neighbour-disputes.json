@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Mr. Brennan, it's Sofia from 3A. Thank you for the kind note, and sorry about the early wake-ups; we had no idea how much carries. We've ordered a thick rug for the hallway that arrives Friday, and we'll keep Leo playing in his room at the back until 7. It won't be silent, he's three, but it should be a lot better. Please knock if it's still bad after the weekend.",
    "lang": "en",
    "note": "When you're the noise: thank them, say exactly what you'll change and by when, and be honest about what you can't."
+  },
+  {
+   "id": "neighbour-disputes-007",
+   "situation": "我们家在地下车库买了B-117车位，最近两周有四个晚上被一辆白色SUV占了。问了保安，说是3单元602的车。我不认识他们，想写张纸条塞他家门缝里。",
+   "reply": "602的邻居您好，我是5单元1101的陈磊。地下车库B-117是我们家的车位，最近两周有四个晚上停了一辆白色SUV，保安说可能是您家的车。车位上的编号有点淡，确实不太好认。以后能麻烦您停到访客车位吗？谢谢！我们这边如果有什么打扰到您，也请直接找我，微信号chenlei1101。",
+   "lang": "zh",
+   "note": "第一次先塞门缝或当面说，不贴车窗；给对方一个台阶（编号淡），只提一个具体请求，并留下联系方式。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -43,6 +43,13 @@
    "reply": "Hi all, I wanted you to hear this from me: I've been diagnosed with breast cancer. It was caught early and the outlook is good. I'm having surgery on Wednesday, Oct 14, and will be off for about six weeks; Rohan is covering my projects and has everything he needs. I'd rather not go into details, but kind messages are very welcome and you don't need to find the perfect words. I'll send a short note when I'm back.",
    "lang": "en",
    "note": "Hard news at work: the fact, the practical plan, and a clear signal for how to respond."
+  },
+  {
+   "id": "share-personal-news-007",
+   "situation": "Last week I told my close friends' group chat that I'd been laid off. Most were lovely, but Jake replied 'lol enjoy the paid vacation, wish that was me'. It stung because I'm genuinely worried about money. He's a good friend, just clumsy. Should I say something?",
+   "reply": "Hey Jake, that one landed a bit hard. I know you didn't mean it that way, I'm just still raw on this and money's a real worry right now. Fancy a pint on Thursday? I could do with the company.",
+   "lang": "en",
+   "note": "Name it in one line, privately rather than in the group, assume good intent, and turn straight back to the friendship."
   }
  ]
 }

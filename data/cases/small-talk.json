@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "small-talk-001",
@@ -43,6 +43,13 @@
    "reply": "姐夫，听我姐说你在深圳做无人机？我一直挺好奇的，你们做的是航拍那种，还是送快递、给庄稼打药那种？",
    "lang": "zh",
    "note": "问他有自己看法的事，然后顺着他的回答追问“当初怎么入的这行”；分享一句自己的，再把话头还给他。"
+  },
+  {
+   "id": "small-talk-007",
+   "situation": "At my neighbour's barbecue I just asked a woman I met ten minutes ago, Grace, when her baby is due. She said 'I'm not pregnant' with a tight smile and now we're both standing by the grill in silence. What do I say right now?",
+   "reply": "That came out wrong, and I'm sorry, I shouldn't have assumed. So how do you know Mark and Deb?",
+   "lang": "en",
+   "note": "Fix it in one line and hand her a new thread straight away. A second apology makes the moment bigger than it was."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -43,6 +43,13 @@
    "reply": "Pilar, lo siento muchísimo por Andrés. Me acuerdo de lo orgulloso que estaba cuando abrió el segundo taller en 2022. Del trimestre no te preocupes: presento yo la declaración del 20 de octubre con lo que ya tengo, y lo que falte lo vemos en noviembre. No hace falta que me contestes.",
    "lang": "es",
    "note": "Con una clienta, la oferta concreta es quitarle el trabajo de encima, no ofrecer ayuda en general."
+  },
+  {
+   "id": "condolences-and-support-007",
+   "situation": "My sister-in-law Amy texted me that she lost the baby at 11 weeks. She and my brother had only told close family. I have no idea what to say.",
+   "reply": "Amy, I'm so sorry. Thank you for telling me. There's nothing you need to say or do, and you don't have to be okay. I'll leave a pot of soup on your step Thursday evening; no need to answer the door or reply to this.",
+   "lang": "en",
+   "note": "Don't explain the loss ('at least it was early', 'it wasn't meant to be'); presence plus one practical thing is the whole message."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -43,6 +43,13 @@
    "reply": "Hey Ellie, I know it's a heavy week. Are your 4 survey slides on track? We're merging the deck tomorrow at 7pm. If it's easier, send whatever you have, even rough numbers, and Tom and I will do the formatting.",
    "lang": "en",
    "note": "Move from the group chat to a direct message, make the reply tiny, and take work off her plate. If nothing by tomorrow noon, split her slides between you and stop chasing."
+  },
+  {
+   "id": "follow-up-unanswered-007",
+   "situation": "My friend Chloe moved to Berlin in June. I've texted her twice since August and she hasn't answered. I don't need anything from her, I just miss her and don't want to sound hurt.",
+   "reply": "Hey Chloe, no agenda, just thinking of you and wondering how Berlin's treating you. No need for a proper reply, a photo of your street or your favourite bakery would make my week.",
+   "lang": "en",
+   "note": "With a friend, drop the old thread entirely; the follow-up is about her, with a reply so small it costs nothing."
   }
  ]
 }

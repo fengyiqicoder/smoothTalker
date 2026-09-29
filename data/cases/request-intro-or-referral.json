@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -36,6 +36,13 @@
    "reply": "Totally fair, Priya, and thanks for being straight with me. I know your name's on the line with those. No awkwardness at all on my side, and I'm still up for that ramen on Thursday.",
    "lang": "en",
    "note": "A no on a referral is about her reputation, not your worth. Thank her, don't argue, and move the friendship straight back to normal."
+  },
+  {
+   "id": "request-intro-or-referral-006",
+   "situation": "I'm raising a pre-seed round for my scheduling app for home-care nurses. I met a founder, Olu Adeyemi, once at a meetup in June and we've swapped a few LinkedIn messages since. He's close with Rachel Stein, an angel who backed two home-care startups. Is it too much to ask him for an intro?",
+   "reply": "Hi Olu,\nCould I ask a favour? Please say no if it's too much, given we've only met once. I'm raising a pre-seed round for Shiftwell and I'd love an intro to Rachel Stein, since she backed Carely and knows home care better than almost anyone. The ask for her would be a 20-minute call in the next few weeks, nothing more.\nIf you're up for it, here's a blurb you can forward or edit:\n\"Rachel, I'd like to introduce Maya Chen. Maya runs Shiftwell, a scheduling and handover app for home-care nurses, with 14 agencies on a paid pilot. She's raising a pre-seed round and would value 20 minutes of your view on the space. Happy to connect you if you're open to it.\"\nEither way, I'll let you know how the raise goes. Thanks, Olu.\nMaya",
+   "lang": "en",
+   "note": "A weak tie asking for an investor intro: the out comes first and the blurb carries one real traction number, so his reputation risk stays small."
   }
  ]
 }

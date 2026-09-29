@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -43,6 +43,13 @@
    "reply": "Let's stop here for today. I don't think we'll get further right now, and that's okay; it's obvious you both care about this garden. I'd like to try again on Saturday the 10th after the workday, just on the shed schedule. If it helps, I can ask someone from the council's free mediation service to sit in.",
    "lang": "en",
    "note": "Pause kindly, name the shared goal, and offer a narrower second try or a neutral professional. Don't rule on the shed in the room."
+  },
+  {
+   "id": "mediating-between-two-people-007",
+   "situation": "I manage a small sales team. Priya and Luke have been fighting over who owns the Harmon Foods account since the territory change. In our joint meeting today we agreed Priya owns it from Oct 1, Luke hands over his notes and joins the next two calls, and disputes come to me instead of the team chat. I want it in writing to both.",
+   "reply": "Thanks both for today. To confirm what we agreed: Priya owns the Harmon Foods account from Thursday 1 October. Luke will share his account notes and contacts by Friday 2 October and join the next two Harmon calls to make the introductions. If anything about the account is unclear from here, bring it to me rather than the team channel. Let's check in together on Tuesday 13 October.",
+   "lang": "en",
+   "note": "The written summary goes to both at once, in the same words: neutral on who was right, clear on who does what next."
   }
  ]
 }

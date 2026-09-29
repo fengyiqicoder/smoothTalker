@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -43,6 +43,13 @@
    "reply": "Understood, Monday's review is fixed. Here's what I can do: by Friday 5pm you'll have the full comparison for the four vendors who've sent pricing, with Corvel and Brightpath marked as pending. I've chased both again today, and if their numbers arrive over the weekend I'll add them before 8am Monday. Does that work for the review?",
    "lang": "en",
    "note": "After a no, stop asking for time and offer the partial version that fits the downstream deadline."
+  },
+  {
+   "id": "ask-for-extension-007",
+   "situation": "I run a small literacy nonprofit. Our annual grant report to the Hollins Foundation is due Thursday Oct 15, but our auditor is behind and the audited financials won't be final until Oct 23. Our program officer is Ms. Adebayo. I want to ask now rather than at the last minute.",
+   "reply": "Dear Ms. Adebayo,\nI'm writing early about our annual report, due Thursday 15 October. Our audit is running late, and the audited financials won't be final until 23 October. Could we submit the full report by Monday 26 October? If the 15th feeds into your committee's timeline, I can send the narrative and outcomes sections on the 15th and the financials on the 26th.\nThank you for considering it.\nKind regards,\nLaila Hassan\nDirector, Open Pages Literacy",
+   "lang": "en",
+   "note": "Asked two weeks out with one line of reason, an exact date, and a split delivery in case the original date feeds something downstream."
   }
  ]
 }

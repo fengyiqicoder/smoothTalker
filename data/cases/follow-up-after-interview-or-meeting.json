@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -43,6 +43,13 @@
    "reply": "Subject: Energy figures for the Aster laundry refit\n\nHi Priyanka, thanks for stopping by our stand at HospitalityX yesterday. You asked about energy use: our HX-40 washers use about 30 percent less power per load than the 2018 models most hotels are replacing, and the one-page spec with the figures is attached. If it would help your spring planning, I can send an estimate for all three properties by Friday 16 October. Would that be useful?",
    "lang": "en",
    "note": "Answer the one question she actually asked, then offer a small next step, not a demo call."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-007",
+   "situation": "After Monday's kickoff with our design agency I sent a recap saying they'd deliver wireframes by Friday Oct 9. Their lead, Tom, replied-all: 'That's not what we agreed, we said the 9th for the homepage only and the other pages the week after.' Thinking back, he's probably right.",
+   "reply": "Thanks for the correction, Tom. I've updated the notes: homepage wireframes by Friday Oct 9, the remaining pages by Friday Oct 16. Everything else in the recap stands. Shout if anything else is off.",
+   "lang": "en",
+   "note": "When a recap gets pushback, correct it, thank them and move on. Arguing about who said what in a reply-all costs more than the date."
   }
  ]
 }

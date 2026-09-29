@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -43,6 +43,13 @@
    "reply": "Beth, I wanted to tell you in person: I've decided to leave, and I'm giving my two weeks' notice today, so my last day would be Wednesday 14 October. The role has turned out to be different from what I'm looking for, and I'd rather say that early than let it drag. Before I go I'll write up the status of all 23 open accounts and hand over the Harlow onboarding properly. Thank you for all the time you've put into getting me started.",
    "lang": "en",
    "note": "A short tenure needs less explanation, not more: one honest line about fit, a clear date, a concrete handover, no apology tour."
+  },
+  {
+   "id": "leave-or-quit-gracefully-007",
+   "situation": "大学3年生で、駅前のカフェで2年間アルバイトをしている。就活に集中したいので11月末で辞めたい。店長の佐藤さんにはとてもお世話になった。明日のシフト後に直接話すつもりだけど、何と言えばいい？",
+   "reply": "佐藤さん、少しお時間よろしいですか。就職活動に集中するため、11月30日の勤務を最後に辞めさせていただきたいと思っています。早めにお伝えしたくて、今日お話ししました。それまでのシフトはこれまで通り入りますし、新しい方が入ったら、レジと閉店作業は私がお教えします。2年間、未経験の私に一から教えてくださって、本当にありがとうございました。",
+   "lang": "ja",
+   "note": "A part-time job gets the same shape as any resignation: in person, the date first, one reason, a concrete handover and a specific thanks."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -43,6 +43,13 @@
    "reply": "刘总，想跟您对一下我这边的工作安排。这三个月我一直在帮您订差旅、整理报销，偶尔急用我很乐意帮忙，但现在每周要占五六个小时，周报和月度经营分析经常只能挪到周末赶。想请您定一下：要么正式把这部分算进我的工作，相应调整报表的优先级；要么交回行政部。我更倾向于交回行政，这样月报能保证每月5号出。您看哪种合适？",
    "lang": "zh",
    "note": "说清占用的时间和因此被挤掉的核心工作，给两个选项和自己的倾向，让老板来做选择。"
+  },
+  {
+   "id": "push-back-on-boss-007",
+   "situation": "For six weeks my manager Priya has added 'urgent' requests every Monday, and every week I've had to triage and push other things back. I'm working most evenings. We have a 1:1 on Thursday and I want to send her the topic ahead so it's not a surprise.",
+   "reply": "Hi Priya, for our 1:1 on Thursday I'd like to talk about my overall load rather than any single task. For the last six weeks we've re-prioritised every Monday, and I've been finishing most weeks in the evenings, which isn't sustainable and puts quality at risk. I'll bring a list of everything on my plate with rough hours, plus two options: moving the vendor reporting to Tom, or a fixed Monday slot where new requests get ranked against what's already there. Could we use the time to pick one to try?",
+   "lang": "en",
+   "note": "When pushback happens every week, raise it once as a capacity problem, with data and options, and let her choose."
   }
  ]
 }

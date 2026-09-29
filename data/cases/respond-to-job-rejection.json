@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -42,6 +42,13 @@
    "reply": "周老师您好，谢谢您这么快回复，还专门看了我的材料。今年名额的情况我明白了。我对您组里土壤修复的工作一直很感兴趣，明年九月如果您组里有名额，我可以再给您发邮件吗？不方便的话不用回复。祝您工作顺利。",
    "lang": "zh",
    "note": "学术场合同样适用：谢具体的事，一句接受，只提一个小请求，并允许对方不回。"
+  },
+  {
+   "id": "respond-to-job-rejection-007",
+   "situation": "J'étais en dernière étape pour un poste de chef de projet digital chez un éditeur à Lyon. La recruteuse, Camille, m'écrit que le poste est gelé jusqu'à nouvel ordre pour des raisons de budget. J'aimerais qu'elle pense à moi pour la suite.",
+   "reply": "Bonjour Camille, merci de m'avoir prévenu aussi vite, et pour la clarté des échanges tout au long du processus. Je comprends tout à fait. Pourriez-vous me garder en tête si le poste rouvre, ou pour un rôle similaire de chef de projet digital dans les prochains mois ? Je vous enverrai volontiers un CV à jour quand ce sera utile. Belle journée à vous.",
+   "lang": "fr",
+   "note": "Poste gelé : une seule demande, être gardé en tête, sans réclamer de retour sur les entretiens dans le même message."
   }
  ]
 }

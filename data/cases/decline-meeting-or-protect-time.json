@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Arjun, thanks for reaching out, and good luck with the raise. I'm not taking calls like this at the moment, but I'm happy to help by email: send me your two most pressing questions about the Series A and I'll reply by Friday.",
    "lang": "en",
    "note": "Strangers asking for time: decline the call, cap the help at two questions, and give a date you can keep."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-006",
+   "situation": "I'm a freelance designer. My client Daniel just emailed at 2pm asking to 'jump on a quick call at 5 today' about the brochure, no agenda. I'm booked all afternoon on another client's work, and the brochure proofs are due to him Thursday anyway.",
+   "reply": "Hi Daniel, I can't do 5 today. If it's about the brochure, send me the questions or changes you have in mind and I'll reply in writing by 10am tomorrow, Wednesday. The full proofs are still on track for Thursday. If one thing truly can't wait until tomorrow, tell me what it is and I'll answer it tonight. Does that work?",
+   "lang": "en",
+   "note": "A client's same-day 'quick call' is usually habit: ask for the question, answer it in writing, and keep one narrow path open in case it really is urgent."
   }
  ]
 }
