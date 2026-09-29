@@ -1,12 +1,12 @@
 ---
-title: Responding to unsolicited advice, nosy questions and opinions
+title: Responding to unsolicited advice and opinions
 category: personal
-tags: [unsolicited advice, nosy, when are you having kids, opinion, family, deflect, redirect]
-triggers: [my mom keeps giving advice, they asked when we're having kids, nosy question, don't want their advice, respond to opinion about my life, deflect a question, they keep telling me what to do]
-summary: Graceful ways to receive, deflect or shut down advice and questions you did not ask for, from a light redirect to a firm close.
+tags: [unsolicited advice, opinion, parenting advice, deflect, redirect, coworker]
+triggers: [my mom keeps giving advice, don't want their advice, respond to opinion about my life, they keep telling me what to do, mil criticises how i parent, coworker comments on how i work, everyone has an opinion on my wedding]
+summary: Receiving, deflecting or shutting down advice and opinions you did not ask for, from a light redirect to a firm close. Relatives quizzing you about marriage, kids or money: family-pressure-and-nosy-questions.
 updated: 2026-09-29
 ---
-# Responding to unsolicited advice and nosy questions
+# Responding to unsolicited advice and opinions
 
 ## Goal
 End the topic without a fight and without pretending to agree. Match the force of your response to how much it actually bothers you.
@@ -25,11 +25,6 @@ End the topic without a fight and without pretending to agree. Match the force o
 - Repeat the same short sentence rather than escalating your reasons.
 
 ## Examples
-
-**"When are you two having kids?" (light, kind close, firm):**
-> Ha, we'll send a press release.
-> That's one we keep between us. How's the garden coming along?
-> I'm not going to talk about that. Let's move on.
 
 **"You should really get out of renting and buy." (receive, position, close):**
 > Noted, thanks. I'll think about it.

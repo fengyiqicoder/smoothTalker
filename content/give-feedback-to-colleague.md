@@ -3,8 +3,8 @@ title: Giving critical feedback to a colleague or report
 category: work
 tags: [feedback, colleague, report, performance, one-on-one, manager]
 triggers: [give feedback to my report, colleague keeps, tell a coworker, performance conversation, address a problem with a teammate, hard feedback at work]
-summary: How to deliver critical feedback at work that changes behaviour without damaging trust: specific, private, timely, with a clear ask and a follow-up.
-updated: 2026-09-27
+summary: How to deliver critical feedback at work that changes behaviour without damaging trust: specific, private, timely, with a clear ask and a follow-up. Hygiene or other embarrassing personal things: tell-someone-something-awkward.
+updated: 2026-09-29
 ---
 # Giving critical feedback at work
 

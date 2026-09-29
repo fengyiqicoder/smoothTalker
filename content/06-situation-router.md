@@ -70,7 +70,7 @@ Answer three questions, then open the entry named. When two branches apply, open
 - Criticism aimed at the user: `respond-to-criticism`
 - Passive-aggressive tone: `respond-to-passive-aggressive`
 - An argument in progress: `de-escalate-argument` (two other people fighting, with the user in the middle: `mediating-between-two-people`)
-- Unsolicited advice: `respond-to-unsolicited-advice`
+- Unsolicited advice or opinions (on parenting, work, plans): `respond-to-unsolicited-advice`; relatives quizzing you about life milestones: `family-pressure-and-nosy-questions`
 - A disagreement the user wants to voice: `disagree-without-conflict`
 - A message that might be a scam or a hacked account: `suspicious-or-scam-message`
 
