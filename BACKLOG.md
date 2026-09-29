@@ -52,8 +52,10 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - [x] Audit say-no-to-a-customer-request, handle-refund-request and say-no-to-client-scope for overlap; same approach.
 - [x] Lint: fail if a non-core entry is not named in 06-situation-router (no orphans as the library grows).
 - [x] Routing scenarios for entries with fewer than 2 (roommate-and-shared-living, thank-you-notes, ask-for-a-raise-or-promotion, ask-to-change-behavior).
-- [ ] Replace [placeholder] brackets in examples with concrete details where the bracket is not a genuine fill-in field (first-message-to-stranger, ask-someone-out-and-early-dating, small-talk have the most).
-- [ ] Audit decline-request, decline-invitation and set-boundary for overlap; same approach.
+- [ ] (claimed 2026-09-29 loop) Replace [placeholder] brackets in examples with concrete details where the bracket is not a genuine fill-in field (first-message-to-stranger, ask-someone-out-and-early-dating, small-talk have the most).
+- [ ] (claimed 2026-09-29 loop) Audit decline-request, decline-invitation and set-boundary for overlap; same approach.
+- [ ] Audit give-feedback-kindly, give-feedback-to-colleague and tell-someone-something-awkward for overlap (the routing check has confused them twice).
+- [ ] Audit respond-to-criticism, respond-to-passive-aggressive and de-escalate-argument for overlap.
 - [ ] Once 15 KB or more is freed: parent-teacher messages are done; next scope candidates are responding to a condolence message (what to say back), asking someone to return borrowed things, and a group-chat exit.
 
 ### Distribution
