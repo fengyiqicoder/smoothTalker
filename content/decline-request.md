@@ -3,8 +3,8 @@ title: Declining a request or favour
 category: personal
 tags: [decline, no, favour, boundary, request]
 triggers: [say no to a favor, don't want to help, can't lend, asked me to do something, how to refuse, turn down request]
-summary: Saying no to a request for help, money, time or effort while keeping the other person's dignity and your own limits intact.
-updated: 2026-09-24
+summary: Saying no to a one-off request for help, money, time or effort, keeping their dignity and your limits intact. An event: decline-invitation. The same ask again and again: set-boundary.
+updated: 2026-09-29
 ---
 # Declining a request
 

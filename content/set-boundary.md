@@ -3,8 +3,8 @@ title: Setting a boundary with family, friends or a partner
 category: personal
 tags: [boundary, limit, family, overbearing, repeated, pattern]
 triggers: [set a boundary, my mom keeps, they always, stop asking me, too much, need space, they keep calling, overstepping]
-summary: How to state a limit clearly and kindly, hold it under pushback, and avoid the common trap of over-explaining.
-updated: 2026-09-28
+summary: How to state a limit on a repeated pattern (calls, comments, visits, money, access to your home) clearly and kindly, hold it under pushback, and not over-explain. A one-off no: decline-request.
+updated: 2026-09-29
 ---
 # Setting a boundary
 

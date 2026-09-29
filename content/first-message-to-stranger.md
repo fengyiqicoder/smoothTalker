@@ -4,7 +4,7 @@ category: personal
 tags: [cold message, first message, dating app, networking, dm, stranger, opener]
 triggers: [first message on hinge, message a stranger, opener, slide into dms, reach out to someone I don't know, message someone I admire]
 summary: Personal first contact that gets a reply: dating apps, someone you admire, a community or event. Specific, short, easy to answer. A business pitch (sales, press, partnership): cold-outreach.
-updated: 2026-09-27
+updated: 2026-09-29
 ---
 # First message to a stranger
 
@@ -36,16 +36,16 @@ They reply. That requires: it is clearly about them, it is easy to answer, and i
 > Your profile is mysterious, so I'll go first: I'm the kind of person who reads restaurant menus in advance. What's your equivalent?
 
 **Professional cold DM / email to someone you admire:**
-> Hi Rosa, your talk on onboarding flows at Config changed how we run our first-week emails; the "delay the tour" idea alone moved our activation rate. I'm building something similar for a nonprofit and had one specific question about [X]. Would you be open to a two-line reply? Totally understand if not.
+> Hi Rosa, your talk on onboarding flows at Config changed how we run our first-week emails; the "delay the tour" idea alone moved our activation rate. I'm building something similar for a nonprofit and had one specific question: how long did you wait before the first check-in email? Would you be open to a two-line reply? Totally understand if not.
 
 **Networking, someone at a company you're interested in:**
-> Hi Dev, I saw you moved to [company] last year. I'm looking at a similar move and would love 15 minutes of your honest take on the culture, at a time that suits you. Happy to send questions in advance so it's quick.
+> Hi Dev, I saw you moved to Monzo last year. I'm looking at a similar move and would love 15 minutes of your honest take on the culture, at a time that suits you. Happy to send questions in advance so it's quick.
 
 **Community (forum, Discord, hobby group):**
-> Your write-up on [thing] was the first one that actually made [concept] click for me. Quick question if you have a sec: [specific].
+> Your write-up on sourdough hydration was the first one that actually made it click for me. Quick question if you have a sec: do you drop to 70% for rye?
 
 **Someone you saw at an event:**
-> Hi, we didn't get to talk at [event] but I caught your question about [X] and thought it was the sharpest one in the room. Would be up for a coffee if you're ever around [area].
+> Hi, we didn't get to talk at the climate tech meetup, but I caught your question about grid storage and thought it was the sharpest one in the room. Up for a coffee if you're ever around Shoreditch?
 
 ## Avoid
 - "Hey" / "Hi" / "How are you" alone.
@@ -62,5 +62,5 @@ They reply. That requires: it is clearly about them, it is easy to answer, and i
 ## If they don't reply, or reply badly
 No reply after one follow-up (professional) or none at all (dating) means no. Do not send a "guess not" or an "okay then"; that turns a non-event into a bad memory of you. A one-word reply on a dating app is a soft no; let it go. A curt professional reply that answers your question is a win, so thank them in one line and do not ask for more.
 > Thanks, that's exactly what I needed. Really appreciate you taking the time.
-> No worries, thanks anyway. Good luck with [their thing].
+> No worries, thanks anyway. Good luck with the launch.
 If they tell you the message wasn't welcome, one line of apology and gone.

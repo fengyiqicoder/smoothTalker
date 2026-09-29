@@ -3,8 +3,8 @@ title: Declining an invitation without hurting the relationship
 category: personal
 tags: [decline, no, invitation, social, plans]
 triggers: [can't make it, don't want to go, turn down invite, say no to party, skip the wedding, decline dinner]
-summary: How to say no to an event or plan so the host feels the no is about logistics or capacity, not about them.
-updated: 2026-09-24
+summary: How to say no to an event or plan so the host feels the no is about logistics or capacity, not about them. A favour or loan: decline-request.
+updated: 2026-09-29
 ---
 # Declining an invitation
 

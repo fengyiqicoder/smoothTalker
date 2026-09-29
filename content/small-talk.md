@@ -4,7 +4,7 @@ category: personal
 tags: [small talk, conversation starters, networking, party, awkward silence, chit chat]
 triggers: [what to talk about, small talk, conversation starter, awkward silence, networking event, meet new people, break the ice]
 summary: Openers, follow-ups and exits for small talk with strangers and acquaintances, built on curiosity rather than scripts.
-updated: 2026-09-27
+updated: 2026-09-29
 ---
 # Small talk that goes somewhere
 
@@ -17,20 +17,20 @@ Small talk works when you ask about something they have a view on, then follow t
 ## Openers by setting
 
 **Party / social, mutual host:**
-> How do you know [host]?
-> What's the story with [thing in the room: the dog, the record collection, the food]?
+> How do you know Priya?
+> What's the story with the dog? (or the record collection, or the food: whatever is in the room)
 
 **Work event / networking:**
 > What are you working on at the moment that you actually care about?
 > What brought you to this one?
-> What's been the surprising part of [their role/industry] this year?
+> What's been the surprising part of nursing this year?
 
 **Waiting somewhere (queue, lobby, before a meeting):**
 > Is this your first time at one of these?
 > Any tips? I'm new to this.
 
 **Someone you vaguely know:**
-> Last time we spoke you were about to [thing]. How did it go?  (this one is gold; people remember you remembered)
+> Last time we spoke you were about to move to Leeds. How did it go?  (this one is gold; people remember you remembered)
 
 **Instead of "what do you do":**
 > What does a normal week look like for you?
@@ -53,8 +53,8 @@ Give a little of yourself after they share; a conversation that is all questions
 
 ## Exiting
 > I'm going to grab a drink, it was really good to meet you.
-> I should go say hi to [person] before they leave. Let's talk again.
-> I won't keep you, but I'm glad we met. Are you on [platform]?
+> I should go say hi to Tom before he leaves. Let's talk again.
+> I won't keep you, but I'm glad we met. Are you on LinkedIn?
 
 ## Avoid
 - Weather, traffic, "busy?" as more than a warm-up.

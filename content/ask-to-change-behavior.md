@@ -3,8 +3,8 @@ title: Asking someone to change a behaviour (friend, partner, family, housemate)
 category: personal
 tags: [roommate, neighbour, noise, dishes, habit, complaint, request]
 triggers: [roommate never cleans, ask a friend to stop, tell them to stop, ask them to be quieter, they keep doing, it's annoying me, chores]
-summary: How to raise an annoying behaviour so the other person fixes it rather than gets defensive: specific, one thing, framed as a shared problem with a concrete ask. An ongoing neighbour problem: neighbour-disputes.
-updated: 2026-09-27
+summary: Raising an annoying behaviour so they fix it rather than get defensive: specific, one thing, a shared problem with a concrete ask. Ongoing neighbour problems: neighbour-disputes. Family overstepping: set-boundary.
+updated: 2026-09-29
 ---
 # Asking someone to change a behaviour
 

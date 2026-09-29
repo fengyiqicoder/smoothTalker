@@ -4,7 +4,7 @@ category: personal
 tags: [dating, ask out, first date, after the date, texting, flirting, second date]
 triggers: [ask her out, ask him out, text after first date, what to text after a date, how to ask for a second date, keep the conversation going, flirty text, suggest a date, dating app conversation]
 summary: The positive side of dating messages: a clear, low-pressure ask; the text after a date; keeping a conversation alive; proposing a second date without overthinking. The very first opener on an app: first-message-to-stranger.
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 # Asking someone out and early dating messages
 
@@ -19,13 +19,13 @@ Be specific and make the no easy. Confidence is a clear invitation with a real o
 **Structure:** context → clear invitation with a specific plan → easy out.
 
 **Someone you know a bit (friend of friend, coworker's friend, class):**
-> I've really liked talking to you at [place]. Would you want to get a drink sometime, just the two of us? Thursday or Saturday if either works. No pressure at all if not.
+> I've really liked our chats at the climbing wall. Would you want to get a drink sometime, just the two of us? Thursday or Saturday if either works. No pressure at all if not.
 
 **Dating app, moving off the app:**
 > I'm enjoying this and I'd rather keep it going in person. Coffee or a drink this week? I'm free Wednesday evening or Sunday afternoon.
 
 **Someone you've met once:**
-> This is a bit forward, but I'd regret not asking: would you want to grab a coffee sometime? I'm [name], we talked about [thing] at [place].
+> This is a bit forward, but I'd regret not asking: would you want to grab a coffee sometime? I'm Sam, we talked about terrible sci-fi at Nina's party.
 
 **Colleague (be careful; only if it's appropriate at your workplace):**
 > Outside of work, I'd like to take you for a drink. If that's not something you want, I'll never mention it again and nothing changes. If it is, Friday?
@@ -37,7 +37,7 @@ Be specific and make the no easy. Confidence is a clear invitation with a real o
 
 **Send that night or the next morning. Short. Specific. Say if you want to see them again.**
 
-> I had a really good time tonight. The [specific thing] story is going to stay with me. I'd like to do it again if you would.
+> I had a really good time tonight. The story about your grandad's boat is going to stay with me. I'd like to do it again if you would.
 
 > Home safe. That was fun; you were right about the dumplings. Same time next week?
 
@@ -49,7 +49,7 @@ Be specific and make the no easy. Confidence is a clear invitation with a real o
 
 ## Asking for a second date
 
-> Want to do it again? There's a [thing] on Saturday I think you'd like, or a walk and a coffee Sunday if you'd rather keep it low-key.
+> Want to do it again? There's a night market on Saturday I think you'd like, or a walk and a coffee Sunday if you'd rather keep it low-key.
 
 ## Keeping a conversation going (texting between dates)
 
@@ -61,7 +61,7 @@ Be specific and make the no easy. Confidence is a clear invitation with a real o
 
 **Examples:**
 > Passed a shop with exactly the ugly lamp you described. I'm sorry I doubted you.
-> Random thought: you said you'd never been to [place]. I have opinions about this. Want to fix it Sunday?
+> Random thought: you said you'd never been to the Lido. I have opinions about this. Want to fix it Sunday?
 > How was the dinner with your sister?
 
 ## Flirting without being weird
