@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -50,6 +50,13 @@
    "reply": "My WhatsApp was taken over this morning, so any message from it asking for money, codes or favours is not me. Please don't send anything or reply to it. If you're not sure whether a message is really from me, call me on my usual number. I'm working on getting the account back and I'll post here when it's sorted.",
    "lang": "en",
    "note": "Warn people on channels the scammer can't reach, say exactly what to ignore and give one way to verify. Skip the story of how it happened; nobody needs it to stay safe."
+  },
+  {
+   "id": "suspicious-or-scam-message-008",
+   "situation": "Me ha llegado un WhatsApp de un número que no conozco diciendo que son de Recursos Humanos de Hogar Sur, la cadena de tiendas, y que me ofrecen trabajar desde casa dando 'me gusta' a vídeos por 350 euros al día. Me piden que conteste SÍ. Me huele raro, pero estoy buscando trabajo de verdad.",
+   "reply": "Hola: he recibido un WhatsApp desde el número +34 612 48 03 17 que dice ser del equipo de Recursos Humanos de Hogar Sur y me ofrece un trabajo desde casa por 350 euros al día. ¿Podéis confirmarme si es un mensaje vuestro? No he contestado ni he pulsado ningún enlace. Gracias, Lucía Romero",
+   "lang": "es",
+   "note": "No se contesta al número: este correo va a la dirección de empleo que aparece en la web oficial, escrita a mano. Si confirman que es falso, bloquear y denunciar el número en WhatsApp."
   }
  ]
 }

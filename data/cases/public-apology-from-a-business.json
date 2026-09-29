@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -57,6 +57,13 @@
    "reply": "Yesterday from 10am to 2:30pm, nobody could send invoices from Ledgerly, and about 900 invoices went out hours late. Sorry, that's on us: a database update failed and we were too slow to roll it back. Every delayed invoice kept its original date, so your payment terms aren't affected. We now test every update on a copy of live data first, and roll back automatically after 10 minutes of errors. If a client says yours never arrived, email me at sam@ledgerly.app and I'll sort it the same day. Sam, founder",
    "lang": "en",
    "note": "Match the size: a half-day outage gets a short post, one sorry, and a change you can actually verify."
+  },
+  {
+   "id": "public-apology-from-a-business-009",
+   "situation": "We run Ridgeback Outdoor, a small online gear shop. From Sunday evening to Monday afternoon our site showed the Trailbase 3-person tent at $39 instead of $390, a typo in a bulk price update. 62 orders came in and we're honouring them, but people who saw the price jump mid-checkout are annoyed on Facebook. I'm the owner, Sam.",
+   "reply": "From Sunday evening until Monday afternoon, our site showed the Trailbase 3-person tent at $39 instead of $390, after a typo in a price update. We're honouring all 62 orders placed at that price, and they ship this week. Sorry to anyone who watched the price change mid-checkout; that's a frustrating thing to see. From now on, a second person checks every bulk price change before it goes live. Questions: sam@ridgebackoutdoor.com. Sam, owner.",
+   "lang": "en",
+   "note": "A pricing slip needs a short post: the facts, one sorry, what you're honouring, and one check you can actually keep."
   }
  ]
 }

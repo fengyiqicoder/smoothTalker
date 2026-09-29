@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -50,6 +50,13 @@
    "reply": "Thinking of you today, Dan. No need to reply. I'm dropping a lasagne on your porch Saturday around noon, and I won't knock unless you text me to.",
    "lang": "en",
    "note": "Weeks in, silence is usually exhaustion: keep sending short no-reply messages with one concrete thing, and never ask why he's gone quiet."
+  },
+  {
+   "id": "respond-to-difficult-health-news-008",
+   "situation": "My friend Priya had a mastectomy two weeks ago. I've texted a few times and she just replied: 'Thank you, I love you, but I need to go quiet for a while and not talk about it.' I don't want to disappear, but I want to respect it.",
+   "reply": "Of course, Priya. Thank you for telling me what you need. I'll go quiet, and I'm still right here. Unless you tell me otherwise, I'll send one short hello in early November, with no reply needed then either. Love you.",
+   "lang": "en",
+   "note": "When they ask for space, honour it in a few words and name when you'll check back, so quiet never turns into disappearing."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -50,6 +50,13 @@
    "reply": "各位家长好，乐乐已经不在队里踢球了，我就先退群啦。这两年谢谢大家的照顾，比赛日场边的加油声我们会一直记得。有事随时私信我，小区里碰到再聊！",
    "lang": "zh",
    "note": "退群时一句真实原因加一句感谢就够了，不用多解释，最后一句不要用问句。"
+  },
+  {
+   "id": "end-conversation-gracefully-008",
+   "situation": "I'm at an industry conference mixer and a software sales rep, Phil, has been pitching me for 20 minutes. I'm not interested, and I just saw my former colleague Ana walk in. How do I get out of this?",
+   "reply": "Phil, I'm going to go catch Ana before she disappears, I've been hoping to see her all day. Thanks for walking me through it. Enjoy the rest of the conference.",
+   "lang": "en",
+   "note": "In person: a true reason, a warm close, and no question at the end. If he asks to book a demo, one line: 'I'll pass for now, thanks.' Then go."
   }
  ]
 }

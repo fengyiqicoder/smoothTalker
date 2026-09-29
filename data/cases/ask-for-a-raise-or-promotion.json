@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -50,6 +50,13 @@
    "reply": "Thanks for being straight with me about where it stands. In March we agreed that shipping the data platform migration was the bar for Staff this fall, and it went live on 18 August. Since the criteria have shifted, could we write down exactly what's needed now, what cross-org influence looks like in practice, and the date you'll decide, so we're both working to the same list? I'd like it settled before November calibration.",
    "lang": "en",
    "note": "Name the original agreement as a fact, not an accusation, and get the new bar in writing with a date. If it moves again, that tells you the ceiling here."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-008",
+   "situation": "我在一家设计公司做了四年，今年三月开始带两个新人。上周刘总说给我升'设计组长'，但工资不变，明年再看。我现在月薪1.5万，公司其他组长大概1.8万。明天约了他谈。",
+   "reply": "刘总，谢谢您给我这个机会，组长这个角色我很想做好。从三月开始我已经在带小吴和小赵，他们的稿子都是我审，上个季度组里的准时交付率从80%提到了95%。升组长之后责任和范围都变了，我希望薪资同步调整到1.8万，和公司其他组长一致。如果现在调不了，我们能不能把条件和时间定下来，比如明年一月的调薪就按这个执行？",
+   "lang": "zh",
+   "note": "晋升是头衔、职责加薪资；只给头衔时不要直接接受，先谈薪资，谈不下来就把条件和日期写下来。"
   }
  ]
 }

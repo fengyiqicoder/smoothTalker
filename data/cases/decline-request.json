@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "decline-request-001",
@@ -50,6 +50,13 @@
    "reply": "阿杰，谢谢你想着我，也看得出你对这份工作很上心。保险我就不买了，我给自己定了个规矩：不跟朋友买保险和理财，对谁都一样，这样朋友就只是朋友。我爸妈和表哥那边我也不帮忙介绍了，你别介意。下次吃饭我请，咱们聊点别的。",
    "lang": "zh",
    "note": "用“规矩”拒绝，没法在理由上讨价还价；自己买和介绍家人两件事一次说清，不说“我考虑考虑”。"
+  },
+  {
+   "id": "decline-request-008",
+   "situation": "My friend Jordan asked me to be the guarantor on his new apartment lease, $2,400 a month. I love him, but I don't co-sign anything for anyone. He's texting me and the lease signing is Friday.",
+   "reply": "I can tell how much you want this place, and I'm glad you asked me straight. I'm going to say no to being your guarantor. I don't co-sign leases or loans for anyone, family included; it's a rule I keep so money never sits between me and people I care about. If it helps, I'm free tonight to help you ask the landlord whether a larger deposit could replace a guarantor before Friday.",
+   "lang": "en",
+   "note": "A rule, not a comment on his finances, leaves nothing to argue with. Only offer the help tonight if you actually mean to give it."
   }
  ]
 }

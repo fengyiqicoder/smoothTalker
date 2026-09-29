@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -50,6 +50,13 @@
    "reply": "爸，前三章我认真看完了。写您1978年进厂当学徒那段特别好，师傅让您拿锉刀锉了一整天铁块，我读的时候好像都能听见那个声音。我读着有点吃力的是后面几章，一年一年往下记，事情一多，反而看不出哪些对您最重要。要不每章就挑一两件您印象最深的事，像锉铁块那样展开写？这本东西值得写好，以后我想拿给朵朵看。",
    "lang": "zh",
    "note": "对长辈也是一样：先说一处真实具体的好，再只提一个问题，用'我读着'描述感受，最后回到这件事的意义。"
+  },
+  {
+   "id": "give-feedback-kindly-008",
+   "situation": "My friend Dani did her first open mic last week and asked what I thought. I told her the dentist opener killed but the middle bit about dating apps felt like stuff we've heard before. Now she's texting 'so you thought it was bad?? just tell me it was good'.",
+   "reply": "I don't think it was bad. The dentist bit was the best thing I heard all night, and people were still quoting it at the bar. The middle isn't there yet, and I think it can be, which is the only reason I said it. If you want a cheerleader for the next one, just say and I'll be the loudest person in the room.",
+   "lang": "en",
+   "note": "When they push you to say it was good, hold the point without adding to it, and offer to be the cheerleader next time if that's what they want."
   }
  ]
 }

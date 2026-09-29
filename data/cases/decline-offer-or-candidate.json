@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -50,6 +50,13 @@
    "reply": "Hi Leah, thank you for the offer, and please thank Marcus for the product case discussion, which is what sold me on the team. I'd like to be transparent: the base is the one thing stopping me. At $130,000 I'd accept today, since that's what I'd be leaving behind. If there's no flexibility, I completely understand, and I'll decline with genuine thanks by Friday 2 October.",
    "lang": "en",
    "note": "Only name a number you would actually sign at. This is the real condition, not a bluff, so be ready to say yes if they meet it."
+  },
+  {
+   "id": "decline-offer-or-candidate-008",
+   "situation": "I verbally accepted an operations analyst offer from Coastline Logistics last Thursday, start date Oct 19, but haven't signed anything. Yesterday the company I've wanted for years made me an offer and I took it. I need to email the hiring manager, Greg, today and I feel awful.",
+   "reply": "Hi Greg,\nI'm writing to withdraw my acceptance of the operations analyst role. Yesterday I received an offer for a role I've been pursuing for over a year, and I've accepted it. I know I said yes to you on Thursday, and backing out now costs you time and a start date you'd planned around, so I wanted you to hear it today rather than later. Thank you for the time you and Renee put into the process; the warehouse walk-through was the best part of any interview I've had. I'm sorry for the disruption, and I wish you and the team the best.\nKind regards,\nMaya",
+   "lang": "en",
+   "note": "Reneging on a verbal yes: tell them the day you decide, name the cost to them, and give the true reason rather than a softer invented one. Call first if you can, then send this."
   }
  ]
 }

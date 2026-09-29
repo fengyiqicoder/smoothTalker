@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -50,6 +50,13 @@
    "reply": "Thanks so much for inviting Noah, Rachel. He has a football tournament all day on the 10th, so we can't make it, and he'll be gutted. Would Ava like to come to ours for a play after school one day the week after? Hope she has a brilliant birthday.",
    "lang": "en",
    "note": "You'd happily say yes on another day, so the no comes with one concrete alternative; one true reason, no second apology."
+  },
+  {
+   "id": "decline-invitation-008",
+   "situation": "前同事小何11月14号周六在成都办婚礼，给我发了电子请柬。我们两年前一起做过项目，我离职后基本没联系了。我在深圳，不打算去，但想礼数周到一点，准备随个红包。",
+   "reply": "小何，恭喜恭喜！谢谢你还想着我，收到请柬挺开心的。11月14号我去不了成都，没法到现场喝你们的喜酒了。红包刚在微信上转给你，一点心意，祝你们新婚快乐、白头偕老！",
+   "lang": "zh",
+   "note": "不太熟的婚礼：不用编理由，一句“去不了”加一份心意就够了，人不到礼到是很常见的体面做法；不需要再补一句道歉。"
   }
  ]
 }

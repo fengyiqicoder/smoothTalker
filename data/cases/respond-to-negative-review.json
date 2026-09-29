@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -50,6 +50,13 @@
    "reply": "谢谢您把照片发上来，收到一只碎掉的杯子，换谁都会失望。外箱是在运输途中被压坏的，但杯子是在我们店买的，就该由我们负责。新杯子今天已经寄出。从这周起，所有杯子都改成双层气泡膜加纸格固定。后续有任何问题，旺旺直接找我。店主 阿禾",
    "lang": "zh",
    "note": "快递的问题只陈述一次，然后把责任接过来；包装确实能改进，就写出具体改了什么，其余私下处理。"
+  },
+  {
+   "id": "respond-to-negative-review-008",
+   "situation": "I own a café, Juniper & Rye. A 1-star Google review says our barista was 'rude and refused to serve me'. What happened: he shouted at her for ten minutes because we'd run out of oat milk, and my shift manager asked him to leave. My staff handled it well.",
+   "reply": "Thank you for the feedback. I'm sorry you left unhappy, and that we'd run out of oat milk that morning; we've since doubled our standing order. I've spoken with the team about the visit and I'm satisfied they handled a difficult situation professionally. If you'd like to talk it through, I'm at hello@juniperandrye.com. Leah, owner.",
+   "lang": "en",
+   "note": "Back your staff without describing the customer's behaviour in public, own the part that was yours, and stop there."
   }
  ]
 }

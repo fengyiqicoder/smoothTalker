@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -50,6 +50,13 @@
    "reply": "¡Hola, chicas! Antes de que empiece la temporada de calefacción, os propongo algo para que la factura del gas no se dispare como en enero, que llegó a 186 euros. ¿Qué tal si ponemos el termostato a 21 grados cuando estemos en casa y a 17 por la noche o cuando no haya nadie? Si preferís otros números lo ajustamos, y si os parece bien empezamos el jueves 1 de octubre.",
    "lang": "es",
    "note": "La factura es un hecho de la casa, no un juicio sobre Irene; llegar con números concretos convierte la queja en una decisión de las tres."
+  },
+  {
+   "id": "roommate-and-shared-living-008",
+   "situation": "My roommate Kayla owes me $214 for August and September utilities. I reminded her in the house chat on Sept 8 and by text on Sept 20, and both times she said 'yeah will send'. We're both on the lease. I want to be firm without blowing up the flat.",
+   "reply": "Hi Kayla, coming back to the utilities: it's $214 in total, $102 for August and $112 for September. I've asked a couple of times now and I need it by Thursday 8 October. If it's still outstanding then, I'll ask Marsh Property about putting the bills into separate accounts, since we're both on the lease. If paying it all at once is tricky right now, tell me and we can do half now and half on the 15th.",
+   "lang": "en",
+   "note": "Past two reminders: exact amounts, a due date and the next step in writing, plus one real way to make paying possible. No comment on her reliability."
   }
  ]
 }

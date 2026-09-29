@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -50,6 +50,13 @@
    "reply": "Hi Maya, could you teach me something? I need to make small edits to the onboarding prototype before the Harlow review on Thursday Oct 8, and you know Figma far better than I do. I've done the basics tutorial, so it's mainly components and how the flows link up that I'm stuck on. Could you spare 30 minutes, maybe Thursday or Friday this week? If you're heads-down, a pointer to a good walkthrough would help too.",
    "lang": "en",
    "note": "Asking down uses the same shape as asking across: what you've tried, the exact gap, the time cost and an out. Saying she knows it better is context, not flattery."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-008",
+   "situation": "Yesterday I posted in our #data-help Slack channel asking why the Salesforce sync drops leads created on weekends. Nobody replied. Tomás built the original sync but moved to the payments team in June.",
+   "reply": "Hi Tomás, quick one about the Salesforce sync you built. It's dropping leads created on weekends, 43 of them last Saturday and Sunday. I've checked the field mappings and the API limits and both look fine, so I suspect the scheduler. Could you look at it with me for 15 minutes on Thursday or Friday? If payments has you swamped, a pointer to where the scheduler config lives would already help a lot.",
+   "lang": "en",
+   "note": "When a group post gets silence, don't re-post: ask one named person directly, with what you've ruled out and a small, time-boxed ask."
   }
  ]
 }

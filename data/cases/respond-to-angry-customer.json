@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -57,6 +57,13 @@
    "reply": "Hi Mrs Dunn, it's Alan Price, the owner of Price Plumbing, returning your call. Rob fitted your new tap yesterday and this morning you've got water under the sink, after you'd already taken a day off for us. That's our job not done properly, and I'm sorry. I can have a plumber with you by 11 today, no charge, and I'll come myself to check it's right. If anything under the sink got damaged, tell me and we'll cover it. This is my mobile, 07700 900542, so you can reach me directly.",
    "lang": "en",
    "note": "On the phone the sequence is the same, said out loud: her words back, own it, a fix with a time today, a make-good, and a direct number."
+  },
+  {
+   "id": "respond-to-angry-customer-009",
+   "situation": "Last Tuesday a customer, Mr Haddad, was furious that his meal-prep box from us had the wrong allergen labels. I apologised, refunded the week, and promised I'd personally check his next box. It was delivered yesterday. I want to follow up.",
+   "reply": "Hi Mr Haddad, Dana here from Greenfork. Just checking yesterday's box arrived and everything was right this time; I packed it and checked every label myself. If anything's off, reply to me directly or call 0161 496 0188 and I'll sort it the same day.",
+   "lang": "en",
+   "note": "Follow up when you said you would, keep it short, and don't reopen the apology; the direct line is the point."
   }
  ]
 }

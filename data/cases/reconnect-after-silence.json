@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -50,6 +50,13 @@
    "reply": "Aisha! Just saw your half marathon photos, huge congratulations. It made me think of Nani timing us racing round her garden, and how you always won. It's been far too long. How did it feel crossing the line? No rush to reply, I just wanted to say I'm proud of you.",
    "lang": "en",
    "note": "Family drift gets the same shape as friends: the gap named once, one shared memory, one easy question, and no apology spiral."
+  },
+  {
+   "id": "reconnect-after-silence-008",
+   "situation": "林姐是我第一份工作的带教，四年没怎么联系了。她在上海，我在杭州。今天在朋友圈看到她升了市场总监，想发微信恭喜一下，但不想显得像是有事求她。",
+   "reply": "林姐，好久不见，一晃都四年了！刚看到你升了市场总监，真心替你高兴。到现在我写方案都还是先写一句话结论，这是你当年教我的。下次来杭州出差跟我说一声，我请你喝咖啡。不急着回哈。",
+   "lang": "zh",
+   "note": "恭喜本身就是理由，不附带任何请求；一个具体的回忆比一句“恭喜恭喜”更让人记住你。"
   }
  ]
 }

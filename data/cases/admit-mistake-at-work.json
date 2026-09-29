@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -57,6 +57,13 @@
    "reply": "Priya, I need to flag something: last night I deleted your six slides in the shared Harlow deck while I was tidying it up. I've restored four from version history, slides 12 to 15, and they're exactly as you left them. Slides 16 and 17, the pricing comparison, didn't come back. I'm sorry, that's on me. I can rebuild them from the pricing sheet this morning and have them to you by 1pm for you to check, if that helps. From now on I'll make my own copy before I tidy a shared deck.",
    "lang": "en",
    "note": "To a peer whose work you broke: the damage precisely, what's already recovered, an offer to do the rebuild yourself, and one prevention step."
+  },
+  {
+   "id": "admit-mistake-at-work-009",
+   "situation": "我是后端开发。今天上午10:15上线订单提醒功能时发送任务配置写错了，大约12000个用户每人收到了三条一样的短信。10:32我已经回滚。要马上在工作群里跟技术负责人周总说。",
+   "reply": "周总，报告一个我的失误：今天上午10:15上线订单提醒功能时，我把发送任务配置错了，大约12000个用户每人重复收到三条相同的短信，多出的短信费约1200元。10:32已经回滚，之后没有再发出重复短信。客服的统一回复口径我已经发给小林，11点前把受影响用户名单和费用明细发您。对不起，这次是我的问题。以后批量发送类功能上线前，我都先在测试环境按真实用户量跑一遍，再请一位同事复核配置。",
+   "lang": "zh",
+   "note": "先说错误和影响范围，再说已经止损和下一步的时间，最后一条具体的防范措施；只道歉一次，不解释为什么会写错。"
   }
  ]
 }

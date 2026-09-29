@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -57,6 +57,13 @@
    "reply": "张阿姨您好，我9月20号退的房，钥匙当面交给您，您当时也看过房子，退房那天拍的照片附在后面。合同里写押金6000元在退房后7天内退还，麻烦您在10月9日（周五）前转到我之前交房租的那张招行卡上。这两年住得很舒心，谢谢您的照顾。",
    "lang": "zh",
    "note": "第一次正式提：事实、合同写的期限、一个带日期的具体请求，语气客气。到期还没退，再往上走一步，写明会去哪里投诉。"
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-009",
+   "situation": "Roofer Carlos quoted $6,800 to replace the flat roof on our garage. Another roofer quoted $5,200 for the same job, but Carlos was much more thorough and explained the flashing issues. I'd rather hire him if he can come down.",
+   "reply": "Hi Carlos, thanks for coming out on Friday and for the detailed quote. At $6,800 it's above what I can do; I have another quote at $5,200 for the same scope. I'd rather go with you, given how carefully you went through the flashing. Could you get it to $5,800, perhaps by reusing the existing gutters? If so, I can confirm today for the week of 12 October.",
+   "lang": "en",
+   "note": "Quote too high: name the competing number once, say why you prefer them, and ask for a specific figure with a way to reach it."
   }
  ]
 }

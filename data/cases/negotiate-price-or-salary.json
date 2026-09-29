@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -57,6 +57,13 @@
    "reply": "Hi Jordan,\nThank you for the offer, I'm genuinely excited about the role and about joining Maya's team. I want to be straightforward about one thing: the base is at $112k, and for this scope in Denver I was expecting closer to $126k. The launch I led this year doubled trial sign-ups, and that's the work I'd be doing for Tandem from the first week. Is there flexibility to get there? If base is fixed, I'd be open to talking about a signing bonus. Either way, I'm keen to make this work.\nBest,\nAlex",
    "lang": "en",
    "note": "First counter on a written offer: one number slightly above your floor, the strongest reason framed as value to them, and a second lever so a no isn't a dead end."
+  },
+  {
+   "id": "negotiate-price-or-salary-009",
+   "situation": "我做短视频剪辑，一家健身房的王老板要做10条宣传短视频，我报价8000。他说太贵了，问能不能打个八折，6400。我不想降单价。",
+   "reply": "王老板，谢谢您的信任，这10条我很想给您做好。单价我这边不打折，每条800元包括脚本梳理、剪辑、调色和两轮修改。如果预算是6400，我建议先做8条，正好6400元，效果好了剩下两条下个月再做。您看这样可以吗？",
+   "lang": "zh",
+   "note": "守住单价，调整范围：直接打折会让之后每次报价都从折后价开始谈。"
   }
  ]
 }

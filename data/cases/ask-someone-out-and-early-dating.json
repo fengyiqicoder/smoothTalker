@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -56,6 +56,13 @@
    "reply": "Hey Ravi, this is a non-work message: I'd like to take you for a drink sometime, just the two of us. If that's not something you want, I'll never mention it again and nothing changes at Friday lunch. If it is, how's Thursday after work?",
    "lang": "en",
    "note": "A colleague needs the out stated plainly, and meant: if it's a no, it really is never mentioned again."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-009",
+   "situation": "Had two dates with Maya. On the second she told me she's running her first half marathon on Sunday Oct 4 and is nervous about it. We haven't set a third date yet. I want to text her something this week that isn't just 'hey'.",
+   "reply": "Good luck on Sunday! I'm told the secret is not sprinting the first mile just because the crowd's cheering. Let me know how it goes, and if you're up for it next week, the celebratory pancakes are on me.",
+   "lang": "en",
+   "note": "Between dates, pick up something she told you, send a thought rather than a question, and hang the next plan loosely on her news."
   }
  ]
 }

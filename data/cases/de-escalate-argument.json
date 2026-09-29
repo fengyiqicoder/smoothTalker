@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -50,6 +50,13 @@
    "reply": "I can tell you're really upset with me, and I don't want to brush past that. I'm not going to argue. I honestly don't know what I missed, and I want to. Can I call you at 8 tonight so you can tell me the worst part? You matter way too much to me to let this sit.",
    "lang": "en",
    "note": "When you don't know the cause, don't guess and don't defend: name her feeling, ask for the worst part, and give a time."
+  },
+  {
+   "id": "de-escalate-argument-008",
+   "situation": "昨晚女朋友面试完，我一直忘了问她结果，她生气了，我还说了句'你太敏感了'，吵起来。后来我说先冷静一下，今晚8点再好好聊。现在快8点了，第一句该怎么说？",
+   "reply": "我想了一下昨晚的事。先说一句：'你太敏感了'这句话是我不对，对不起。我听到你的意思是，你面试完一整天都在等我问一句，我却一直没问，让你觉得你的事在我这里不重要。我理解得对吗？你说，我先听。",
+   "lang": "zh",
+   "note": "暂停之后准时回来，先认自己那句话，再复述你听到的，请她纠正；她说完之前不要解释。"
   }
  ]
 }

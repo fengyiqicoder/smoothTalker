@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -50,6 +50,13 @@
    "reply": "王先生您好，让您等了好几天，确实着急，谢谢您耐心等我们回来。今天一到店我就先看了您的西装：袖长和腰身10月6日（周二）前能改好，您7日或8日来试穿，如果还要微调，9日前一定交到您手上，赶得上10日的婚礼。您看哪天过来方便？",
    "lang": "zh",
    "note": "对方等急了：先承认等得久，不为放假道歉，也不解释，直接给具体日期和下一步。"
+  },
+  {
+   "id": "out-of-office-and-away-messages-008",
+   "situation": "Friday Oct 2 is my last day as an account manager at Brightline Media. My work email stays live for 30 days after I leave. Clients should go to Keisha Moore; everything else to the general inbox. Need an auto-reply.",
+   "reply": "Thanks for your email. As of Friday 2 October I've left Brightline Media, and this inbox is no longer read. For client accounts, please contact Keisha Moore (keisha.moore@brightlinemedia.com). For anything else, hello@brightlinemedia.com will route you. It's been a pleasure working with you.",
+   "lang": "en",
+   "note": "Leaving for good: the date, a plain 'no longer read', and two named routes. No new contact details unless your employer is happy with that."
   }
  ]
 }

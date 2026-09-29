@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -50,6 +50,13 @@
    "reply": "Bonjour Madame Roussel, je comprends votre déception et je tiens à trouver une solution avec vous. Le coffret a été ouvert et commandé il y a six semaines, je ne peux donc pas le rembourser. En revanche, je peux vous faire un avoir de 45 € sur la boutique, ou vous envoyer gratuitement trois échantillons d'autres mélanges pour trouver celui qui vous plaît. Dites-moi ce qui vous convient et je m'en occupe aujourd'hui.",
    "lang": "fr",
    "note": "Face à une menace d'avis, on n'en parle pas : réponse rapide, ton calme et la meilleure offre possible, prête à être traitée le jour même."
+  },
+  {
+   "id": "handle-refund-request-008",
+   "situation": "我在微信上卖手工茶具。9月18号答应顾客周小姐，给她寄到时摔破的茶壶退168元，结果我忘了操作。她今天发消息问：“说好的退款呢？”",
+   "reply": "周小姐，您说得对，是我的问题：9月18日答应给您退的168元我忘了操作，还让您来追着问，真的很抱歉。刚刚已经原路退回到您的微信零钱，一般几分钟就到账，今晚之前没看到的话直接告诉我。另外送您一张20元无门槛券，下次选茶具时用。",
+   "lang": "zh",
+   "note": "答应了却没退，拖延本身才是真正的投诉：先认错，马上办好，说清什么时候到账。"
   }
  ]
 }

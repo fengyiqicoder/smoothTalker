@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -56,6 +56,13 @@
    "reply": "谢谢周总直接回复我，这对我很有帮助。想问一下，贵司明年大概几月开始定培训预算？我到时候再联系您，在那之前就不打扰了。",
    "lang": "zh",
    "note": "对方说“不是现在”，就问清楚什么时候，记个提醒，然后真的等到那时再联系，中间不要“顺便问问”。"
+  },
+  {
+   "id": "cold-outreach-009",
+   "situation": "I'm a sports dietitian and want to pitch myself as a guest to Tom Reyes, who hosts a mid-size running podcast, Long Run Home. On his episode last month he said he wished someone would explain race-day fueling properly.",
+   "reply": "Subject: Guest idea: why marathoners hit the wall at mile 20\n\nHi Tom, at the end of your episode with the Boston 3:05 runner last month, you said you wished someone would explain race-day fueling properly. I'm a sports dietitian and I've worked with over 300 marathoners on exactly that; most of their problems come down to one timing mistake. Would a 30-minute episode on it fit your spring lineup? If it's not a fit, a quick 'no' is genuinely helpful.\nLena Park, RD",
+   "lang": "en",
+   "note": "Podcast pitch: his own words as the why-you, one line of proof, and a yes-or-no ask about the show rather than a call."
   }
  ]
 }

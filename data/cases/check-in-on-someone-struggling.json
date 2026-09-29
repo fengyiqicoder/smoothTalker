@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -50,6 +50,13 @@
    "reply": "Leo, I'm really glad you told me. I'm worried about you and I'd rather ask than wonder: are you thinking about ending your life? Whatever the answer is, you can tell me. I'm awake, and I can be at yours in 20 minutes, or stay on the phone with you while you call or text 988. Reply with anything and I'll call you straight away.",
    "lang": "en",
    "note": "Ask directly; it does not plant the idea. If he says yes, or you can't reach him and fear for his life, call 911. That one is not yours to carry alone."
+  },
+  {
+   "id": "check-in-on-someone-struggling-008",
+   "situation": "好朋友阿敏生完孩子两个多月，朋友圈好久没更新。上次视频她一直哭，说没睡过一个整觉。我们住同一个城市，我想帮点实际的忙。",
+   "reply": "阿敏，这几天一直惦记你，不用回我。周六上午10点我过去帮你抱两个小时娃，你去睡一觉，午饭我从你楼下那家粥铺带上来。不方便的话回个“改天”就行，一点不用客气。",
+   "lang": "zh",
+   "note": "不问“你还好吗”，只给一个带时间、容易接受也容易拒绝的具体帮忙。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -50,6 +50,13 @@
    "reply": "Hey Jake, that one landed a bit hard. I know you didn't mean it that way, I'm just still raw on this and money's a real worry right now. Fancy a pint on Thursday? I could do with the company.",
    "lang": "en",
    "note": "Name it in one line, privately rather than in the group, assume good intent, and turn straight back to the friendship."
+  },
+  {
+   "id": "share-personal-news-008",
+   "situation": "I had a miscarriage last week at 11 weeks. I'd told my three closest friends about the pregnancy a couple of weeks ago, so they need to know. I don't want to talk about it much yet and I don't want them to be weird around me.",
+   "reply": "I need to tell you something hard, and I'd rather do it in writing: I lost the pregnancy last week. Physically I'm okay, and Tom and I are taking it a day at a time. I'm not ready to talk about it much yet, so please don't worry about finding the right words; a heart or an 'I'm here' is plenty. What would help most is you being normal with me, so yes, I'm still coming to book club on Thursday.",
+   "lang": "en",
+   "note": "Hard news to people who knew the good news: the fact in one line, then a clear signal of the support wanted, which here is normality."
   }
  ]
 }

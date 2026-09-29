@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -50,6 +50,13 @@
    "reply": "Thanks for the correction, Tom. I've updated the notes: homepage wireframes by Friday Oct 9, the remaining pages by Friday Oct 16. Everything else in the recap stands. Shout if anything else is off.",
    "lang": "en",
    "note": "When a recap gets pushback, correct it, thank them and move on. Arguing about who said what in a reply-all costs more than the date."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-008",
+   "situation": "Had my 1:1 with my manager Dana today about getting promoted to senior engineer. She said if I lead the billing migration and mentor our new hire Theo, she'll put me forward in the March cycle. I want it in writing without sounding like I'm lawyering her.",
+   "reply": "Hi Dana,\nThanks for the time today, it was really useful to hear exactly what the path to senior looks like. Quick recap so we're aligned:\n- I'll lead the billing migration, with cutover planned for 15 January.\n- I'll mentor Theo through his first quarter, and we'll review how that's going at the end of December.\n- If both land, you'll put me forward in the March promotion cycle.\nShout if I've got anything wrong. I'll bring a progress update to our 1:1 on Tuesday 3 November.\nMaya",
+   "lang": "en",
+   "note": "A career conversation is a meeting too: the recap with owners and dates is what turns 'if you do this' into something both of you remember the same way."
   }
  ]
 }

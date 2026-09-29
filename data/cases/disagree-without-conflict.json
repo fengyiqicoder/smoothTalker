@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -50,6 +50,13 @@
    "reply": "Thanks, Sam, and agreed that we want one consistent way to format dates across the app. Where I land differently is the library: I'd lean towards native Intl.DateTimeFormat, mainly because moment is in maintenance mode and would add around 70 KB minified for the three formats we use. Is there a case you have in mind that Intl handles badly? If so, I'm happy to switch, or we can talk it through on a quick call.",
    "lang": "en",
    "note": "In a public review thread, the shared goal first, one reason with a number, then a real question that lets the senior person agree or correct you without losing face."
+  },
+  {
+   "id": "disagree-without-conflict-008",
+   "situation": "My 17-year-old daughter Ava just told me she's not applying to college this fall; she wants a gap year teaching at a surf school in Portugal. I actually like the gap year idea, I just think she should apply now and defer. She gets defensive fast.",
+   "reply": "I love that you want to do something real before more school, and honestly I think a gap year could be great for you. Where I land differently is the timing of applications: I'd rather you apply this fall and defer, because doing it now, with Ms Carter and your teachers around to help, is much easier than from Portugal next year. What worries you about applying now?",
+   "lang": "en",
+   "note": "With a teenager, agree with the part you genuinely support, disagree on one practical point, and end on a real question instead of a ruling."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "apologize-001",
@@ -50,6 +50,13 @@
    "reply": "小顾，抱歉，你三周前的消息我拖到今天才回，是我的问题。简历你直接发我，我明晚之前看完，把修改意见写给你。岗位10月9号截止，时间还来得及。",
    "lang": "zh",
    "note": "回复晚了几周：一句具体的认错，然后直接给答复和一个能兑现的时间，不用长篇解释为什么忘了。"
+  },
+  {
+   "id": "apologize-008",
+   "situation": "At Sunday dinner at our parents' place I said my brother Sam's new girlfriend, Mei, was 'another one who won't last'. Mei was in the kitchen and heard it. Sam hasn't answered my texts since. He prefers voice notes, so I'm sending one.",
+   "reply": "Hey Sam, it's me. I've been thinking about Sunday. What I said about Mei was cruel. And she heard it, on a night that was meant to welcome her. I'm sorry. I'd like to say sorry to her too, in person, if you're both okay with that. You don't need to call back. I just didn't want it sitting there.",
+   "lang": "en",
+   "note": "Real hurt by voice note: short spoken clauses, no 'I was only joking', and the make-good to Mei offered, not imposed."
   }
  ]
 }

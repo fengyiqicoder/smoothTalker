@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -57,6 +57,13 @@
    "reply": "Hi Marta, your October payment of $39 still hasn't gone through, which usually means an expired or replaced card. You can update it in about a minute with the button below. Your membership stays active in the meantime, so you won't miss Thursday's conversation class. Any questions, just reply and you'll reach me, not a bot.\nLucía",
    "lang": "en",
    "note": "Day 7 in an automated sequence: amount, one-click fix, a real reply-to, and shorter than the first. Keep the pause for the final message."
+  },
+  {
+   "id": "chase-late-payment-009",
+   "situation": "Freelance copywriter. Invoice #3317 for $1,600 to a skincare brand was due Friday Sept 25. Nothing has come in yet. My contact is their marketing lead, Hannah. This is my first reminder.",
+   "reply": "Hi Hannah,\nA quick note that invoice #3317 for $1,600 was due on Friday 25 September and I haven't seen it come through yet. It may just be in the queue; if so, please ignore this. I've attached the invoice again with the bank details for convenience.\nThanks,\nOwen",
+   "lang": "en",
+   "note": "Stage 1 assumes admin error: everything needed to pay, no apology for asking, and no consequence yet."
   }
  ]
 }

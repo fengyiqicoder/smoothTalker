@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -50,6 +50,13 @@
    "reply": "Hi,\nMy annual Lingora Plus plan, account maya.reyes@mailbox.com, auto-renewed on 26 September for $119. That's my mistake: I meant to cancel before the renewal and missed it. I haven't used the app since June and haven't opened it since the charge. Could you cancel the plan and refund the $119 as a one-off? I'd be grateful for a reply by Friday 2 October.\nThanks,\nMaya Reyes",
    "lang": "en",
    "note": "When the slip is partly yours, say so in one line; owning it is what makes a goodwill refund easy to grant."
+  },
+  {
+   "id": "complain-as-customer-008",
+   "situation": "Returned a $219 pair of hiking boots to Trailhead Outfitters on Sept 4, tracking shows they got them Sept 8. I emailed on Sept 15 and Sept 22 asking where my refund is and got no reply to either. Order TO-88412.",
+   "reply": "Hi,\nOrder TO-88412: I returned the Ridgeline hiking boots on 4 September, and tracking shows you received them on 8 September (screenshot attached). I emailed on 15 and 22 September about the $219 refund and haven't had a reply. Please refund the $219 to my original card. If it hasn't been issued by Friday 9 October, I'll raise a chargeback with my card provider.\nThanks,\nDaniel Ortiz, 555-0163",
+   "lang": "en",
+   "note": "After two unanswered emails, stop repeating the ask: name the next step and its date once, then take it if the date passes."
   }
  ]
 }

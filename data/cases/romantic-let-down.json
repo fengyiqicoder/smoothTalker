@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -50,6 +50,13 @@
    "reply": "Gracias por lo del sábado, Diego, me lo pasé bien y la ruta de vermut por Malasaña fue todo un acierto. Te soy sincera: no siento una conexión romántica, así que prefiero no quedar otra vez. Nos seguiremos viendo con Carla y el grupo, y por mi parte todo normal.",
    "lang": "es",
    "note": "Con amigos en común: un no claro, sin lista de motivos, y una línea para que los planes de grupo sigan siendo cómodos. No se usa a Carla de mensajera."
+  },
+  {
+   "id": "romantic-let-down-008",
+   "situation": "相亲认识的男生，见了两次面，上周我跟他说没感觉，不继续了。今天他发微信问：'能告诉我到底哪里不好吗？我可以改。'",
+   "reply": "谢谢你这么坦诚地问。我觉得列一堆理由对我们俩都没什么帮助，真的不是你哪里做得不好需要改，只是我们不合适。我的想法不会变，祝你一切都好。",
+   "lang": "zh",
+   "note": "对方追问原因时不给清单，一句话说明是合不合适的问题，再把门关上；之后他再发，不必回复。"
   }
  ]
 }

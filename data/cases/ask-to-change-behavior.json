@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -57,6 +57,13 @@
    "reply": "Hey Leila, small thing before Sunday, not a big deal: at most of our brunches you've got there 20 to 40 minutes after we said, and I end up alone at the table fending off the waiter. Could you text me when you're actually leaving home? Then I'll set off to match and we'll arrive together. Still on for 11 at Maple?",
    "lang": "en",
    "note": "One behaviour, the effect on you, and a shared system that doesn't require her to become punctual overnight."
+  },
+  {
+   "id": "ask-to-change-behavior-009",
+   "situation": "我和室友小雅合租两居室，房租水电平摊。她男朋友阿凯最近基本每周住五天，早上洗手间要排队，上个月电费也多了快一百。我跟她关系挺好，不想闹僵。",
+   "reply": "小雅，跟你商量个事哈，不是要闹什么。最近阿凯差不多每周住五天，早上洗手间经常要排队，上个月电费也多了快一百块。我们能不能定个规矩，一周留宿最多两晚？要是他想常来，水电费分成三份也可以，你看哪种更顺？我这边朋友来住也按同样的规矩来。",
+   "lang": "zh",
+   "note": "只说一件事和对自己的影响，把请求说成两个人共同的规矩，并给对方一个选项。"
   }
  ]
 }

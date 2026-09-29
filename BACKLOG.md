@@ -94,3 +94,4 @@ The owner wants the library to reach 1000 cases. Cases are concrete situations w
 - 2026-09-29: loop run. 60 new cases (15 zh, 6 other languages), 483 in total; every playbook has 6 or more. Reviewed by hand the 6 written without a full read of their playbook: all consistent.
 - 2026-09-29: loop run. 60 new cases (15 zh, 6 other languages), 543 in total; every playbook now has 6 or 7 (correction to the previous line: 3 playbooks had 5 until this run).
 - 2026-09-29: loop run. 60 new cases (15 zh, 6 other languages), 603 in total; every playbook now has 7 or 8. Checked by hand: a self-drafted recommendation that overstates the colleague's role (edited to what the writer saw), and a 1am suicide-risk check-in (asks directly, 988, 911 in the note).
+- 2026-09-29: loop run. 60 new cases (15 zh, 6 other languages), 663 in total; every playbook now has 8 or 9.

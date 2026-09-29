@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -50,6 +50,13 @@
    "reply": "Hi Karen, I wanted you to hear this from me before the list goes out tomorrow, and it isn't the news Zoe was hoping for. She didn't make the travel squad this season. We had 26 girls for 16 spots, and it came down to speed on the ball, which is something she can absolutely build. I know how much the team means to her after two seasons. She has a spot on the rec team, and I'd love her at our Thursday skills sessions so she's ready for spring tryouts. Happy to call tonight if you'd like to talk it through.",
    "lang": "en",
    "note": "Warn, give the news in line two, one honest reason framed as something she can work on, then a real path forward and a call."
+  },
+  {
+   "id": "deliver-bad-news-008",
+   "situation": "I'm in the second year of a law degree and my parents put in $12,000 a year toward it. I've decided to leave at the end of this semester and start an electrician apprenticeship in January. I'm calling them Sunday, what do I actually say?",
+   "reply": "Have you both got a few minutes? I've got news you probably won't love, and I wanted to tell you myself rather than by text. I'm leaving law school at the end of this semester, in December. I've been thinking about it since the summer, and I've been offered an electrician apprenticeship with Carver Electric starting in January. I know you've put $12,000 a year into this and believed in it, and I don't take that lightly. From January I'll cover my own costs, and I'd like to walk you through the whole plan.",
+   "lang": "en",
+   "note": "Too big for a text: a call, the news by the third line, one reason, what it means for them, then the plan. Let them react before you explain more."
   }
  ]
 }

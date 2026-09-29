@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -49,6 +49,13 @@
    "reply": "Hi Mrs. Okonkwo, no worries at all if my note got buried at the start of term. I've asked someone else for this one, so there's nothing you need to do. I'd still love to catch up sometime, and I hope Year 11 are treating you well.",
    "lang": "en",
    "note": "After two unanswered messages, treat it as a no: ask Mr. Hale today and send one line that closes the ask without guilt."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-008",
+   "situation": "Mein früherer Chef, Herr Wagner, war letzte Woche meine Referenz bei Hausmann Logistik. Heute habe ich die Zusage als Teamleiter Disposition bekommen, Start am 1. November. Die Personalerin, Frau Berger, meinte, er habe sehr konkret über unsere Umstellung der Tourenplanung gesprochen. Ich will mich bei ihm bedanken.",
+   "reply": "Hallo Herr Wagner, ich wollte Ihnen gleich Bescheid geben: Ich habe die Stelle als Teamleiter Disposition bei Hausmann Logistik bekommen und fange am 1. November an. Frau Berger hat erzählt, wie konkret Sie über die Umstellung der Tourenplanung gesprochen haben, und das hat offenbar viel ausgemacht. Vielen Dank, dass Sie sich die Zeit genommen haben. Wenn ich mich einmal revanchieren kann, sagen Sie einfach Bescheid.",
+   "lang": "de",
+   "note": "Close the loop the same day, with the one thing they did that helped. It's what earns the next yes."
   }
  ]
 }

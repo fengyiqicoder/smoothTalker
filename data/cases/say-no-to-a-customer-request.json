@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -50,6 +50,13 @@
    "reply": "Hi Olivia, thanks for the order, and for asking. FALL15 ended at midnight on Sunday 27 September, so it can't go on this one; I keep end dates firm so it stays fair to everyone who used it in time. What I can do is tuck a free wick trimmer into your parcel, which ships Thursday. The next newsletter code goes out on Thursday 15 October, if you'd like to use it on your next order.",
    "lang": "en",
    "note": "The no in the second sentence, the real reason (fairness) in one clause, and a small gift offered before she has to push."
+  },
+  {
+   "id": "say-no-to-a-customer-request-008",
+   "situation": "I sell leather wallets on Etsy. A customer, Derek, asked me to emboss his initials on the bifold he bought and I told him I don't personalise that model. He just sent a screenshot of my own listing saying 'personalisation available'. It's old text I forgot to update.",
+   "reply": "You're right, Derek, and thanks for sending the screenshot. The listing still said personalisation was available, which is my mistake, so I'll emboss D.M.K. on your wallet at no charge. It adds two days, so it ships Friday 2 October instead of tomorrow. I've corrected the listing so nobody else gets the same mixed message.",
+   "lang": "en",
+   "note": "A genuinely new fact changes the answer: say so, honour it without fuss, and fix the source so the exception doesn't become the baseline."
   }
  ]
 }

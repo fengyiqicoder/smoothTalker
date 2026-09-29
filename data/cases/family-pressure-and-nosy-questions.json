@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -50,6 +50,13 @@
    "reply": "妈，我知道您是担心我，想让我稳当点。工作这块我现在挺好的，有什么变化第一个告诉您。对了，您上次说想学用手机拍视频，这次回去我教您，顺便给您和我爸拍几张好看的照片。",
    "lang": "zh",
    "note": "不解释理由，解释就是在邀请对方给建议；她第二次问，就用几乎一样的话再说一遍。"
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-008",
+   "situation": "Minha sogra, dona Célia, pergunta toda semana quando vamos batizar a Lívia, que tem seis meses. A gente ainda não decidiu se vai batizar e não quer discutir isso com ela. Domingo tem almoço na casa dela.",
+   "reply": "Ah, dona Célia, a senhora não esquece nunca, né? Quando a gente tiver novidade, a senhora vai ser a primeira a saber. Agora me conta, é hoje que sai aquele pavê de sobremesa?",
+   "lang": "pt",
+   "note": "Não explicar a dúvida sobre o batismo: explicação vira convite para conselho. Se ela voltar ao assunto, repetir a mesma frase quase igual."
   }
  ]
 }

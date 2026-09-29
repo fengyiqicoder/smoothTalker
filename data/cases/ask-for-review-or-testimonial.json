@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -57,6 +57,13 @@
    "reply": "Thanks for telling me, Nina, and sorry, I should have caught that before I left. I'd like to even it up for free. I'm in your area Thursday afternoon and Saturday morning, would either suit Biscuit? Ignore the review request for now; let's get his ears right first.",
    "lang": "en",
    "note": "A complaint in reply to a review request is a support ticket: fix it first and withdraw the ask, and don't bring the review up again unless she does."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-009",
+   "situation": "Tenho uma pousada pequena em Paraty, com 6 quartos. Um casal, a Juliana e o Pedro, fez o check-out hoje depois de 4 noites e disse que foi a melhor viagem do ano. Quero mandar uma mensagem no WhatsApp pedindo uma avaliação no Booking.",
+   "reply": "Juliana e Pedro, foi um prazer receber vocês! Espero que a volta para São Paulo tenha sido tranquila. Se tiverem um minutinho, uma avaliação no Booking faz muita diferença para uma pousada pequena como a nossa, é assim que novos hóspedes nos encontram. O Booking manda o link por e-mail, e duas frases já bastam. Obrigada de qualquer forma, e voltem sempre!",
+   "lang": "pt",
+   "note": "Pedido no mesmo dia do check-out, uma plataforma só, quanto tempo leva e uma saída sincera."
   }
  ]
 }

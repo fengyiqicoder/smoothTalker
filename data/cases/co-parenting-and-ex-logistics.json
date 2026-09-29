@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -50,6 +50,13 @@
    "reply": "Hi Daniel, Maya's teacher, Ms. Reyes, has asked for a parent conference on Thursday Oct 8 at 4:15 at school. She says Maya has missed 6 homework assignments since term started and wants to agree a plan with us. I'd like us both to be there so we hear the same thing. Can you let me know by Friday whether you can make it? Thanks.",
    "lang": "en",
    "note": "School concerns go to the co-parent as facts plus one yes-or-no question. No guessing in writing about whose days the homework slipped on."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-008",
+   "situation": "和前夫离婚一年，儿子乐乐7岁，这周跟我住。今天下午他发烧38.5度，带去看了医生，说是病毒性感冒，要吃三天药。周五晚上6点轮到他爸接。想给前夫发条消息说一下。",
+   "reply": "你好，说一下乐乐的情况。他今天下午发烧到38.5度，4点带他看了儿科，医生说是病毒性感冒，开了退烧药（超过38.5度再吃）和止咳糖浆，一天三次，吃到周五。周五交接时药和医嘱我放在他书包里。如果周五他还在发烧，你是按原计划6点接，还是改到周六上午？周四晚上前告诉我就行。谢谢。",
+   "lang": "zh",
+   "note": "医疗情况只写事实：诊断、用药、交接安排，再加一个带期限的问题；不评价对方，不提过去。"
   }
  ]
 }

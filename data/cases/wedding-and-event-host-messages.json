@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -50,6 +50,13 @@
    "reply": "Dress code: 1920s glamour, as much or as little as you like. Think a sharp suit, a dress with some sparkle, or your best going-out outfit plus a feather or a flat cap. Normal party clothes are completely welcome. The top deck is open-air and the river gets cold after dark, so bring a layer. We board at 7pm from Butler's Wharf and the boat leaves at 7:30.",
    "lang": "en",
    "note": "One rule stated for everyone, specific enough to follow, with an easy minimum so the costume-haters don't feel singled out or stay home."
+  },
+  {
+   "id": "wedding-and-event-host-messages-008",
+   "situation": "Our wedding is Saturday Nov 14, and we're at 90 guests, the venue's limit. My mom keeps asking to add three friends from her book club. My fiancé Dan and I agreed no more additions from anyone. She texted about it again today.",
+   "reply": "Mom, I know how much your book club means to you, and I love that you want them there. Dan and I are at 90, which is the venue's limit, and we're not adding anyone else from either side. That's our final answer on the list. We'd love to have the three of them over for a drink when we're back from the honeymoon.",
+   "lang": "en",
+   "note": "Agree the answer with your co-host first, give it once as a rule for both sides, and if she asks again, repeat it shorter without new reasons."
   }
  ]
 }

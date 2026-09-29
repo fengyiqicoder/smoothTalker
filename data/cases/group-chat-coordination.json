@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -50,6 +50,13 @@
    "reply": "Oi, pessoal! Vamos marcar a dedetização do prédio. Duas opções: sábado, 17 de outubro, ou sábado, 24 de outubro, sempre das 8h às 12h. Respondam 1 ou 2 até quinta-feira, dia 8. Se ninguém se manifestar, fica o dia 17 e eu confirmo com a empresa na sexta. Quem não puder abrir o apartamento no dia, me chama no privado que a gente combina a chave.",
    "lang": "pt",
    "note": "Two options, a one-tap reply, a deadline and a default; individual logistics go to a private message, not the group."
+  },
+  {
+   "id": "group-chat-coordination-008",
+   "situation": "Organising a ski trip for 8 of us in our WhatsApp group. Found a chalet in Morzine, Jan 23 to 30, £3,360 total, so £420 each. The owner needs a £1,000 deposit by Monday Oct 12, and everyone keeps replying 'sounds fun!' without actually committing.",
+   "reply": "Ski trip, real proposal: the chalet in Morzine, Saturday 23 to Saturday 30 January, £420 each for the house. The owner needs a £1,000 deposit by Monday 12 October. If you're in, send £125 to my Monzo by Friday 9 October and 👍 this message once you have. I'll book with whoever's paid by then, and if we're short I'll offer the spare beds to the wider group.",
+   "lang": "en",
+   "note": "'Sounds fun' isn't a yes: turn commitment into a small payment with a deadline and a stated default."
   }
  ]
 }

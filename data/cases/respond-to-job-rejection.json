@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -49,6 +49,13 @@
    "reply": "Bonjour Camille, merci de m'avoir prévenu aussi vite, et pour la clarté des échanges tout au long du processus. Je comprends tout à fait. Pourriez-vous me garder en tête si le poste rouvre, ou pour un rôle similaire de chef de projet digital dans les prochains mois ? Je vous enverrai volontiers un CV à jour quand ce sera utile. Belle journée à vous.",
    "lang": "fr",
    "note": "Poste gelé : une seule demande, être gardé en tête, sans réclamer de retour sur les entretiens dans le même message."
+  },
+  {
+   "id": "respond-to-job-rejection-008",
+   "situation": "I'm a freelance journalist. I pitched a feature on rural bus cuts to Dana, features editor at Northline Magazine. She replied 'Not quite right for us, but thanks for thinking of us.' I'd really like to write for them eventually.",
+   "reply": "Thanks for the quick answer, Dana, and for reading it. Understood on the bus piece. One quick question, only if it takes you under a minute: is there a kind of story you're short of for the winter issues? A single line is plenty, and it's fine to skip it.",
+   "lang": "en",
+   "note": "A pitch rejection: ask what they need, not why they said no. Editors answer that question, and it makes the next pitch land."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -50,6 +50,13 @@
    "reply": "I love living with you, and I want to keep loving it. I need a couple of evenings a week that are just mine, because that's how I recharge, not because anything's wrong. I'm going to keep Mondays and Wednesdays for myself, and the other nights I'm all yours.",
    "lang": "en",
    "note": "State it as what you will do, with one reason; if he pushes, repeat the same sentence rather than adding new ones."
+  },
+  {
+   "id": "set-boundary-008",
+   "situation": "My dad keeps posting photos of my kids, 4 and 7, on his public Facebook, sometimes with their school uniform showing. I've mentioned it twice casually and nothing changed. I want to say it properly.",
+   "reply": "Dad, I love how proud you are of the kids, and I know the photos come from a good place. We've decided we don't want their pictures online, especially with the school visible. So I'm going to stop posting photos in the family group and send them to you directly, just for you and Mum. Could you take down the ones that are up now? Show them off on your phone as much as you like.",
+   "lang": "en",
+   "note": "The rule is about what you'll do with the photos, and there's one concrete ask. If he pushes back, repeat the same line shorter, with no new reasons."
   }
  ]
 }

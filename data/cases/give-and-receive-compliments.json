@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -49,6 +49,13 @@
    "reply": "Ha, no angle here, I just thought it was good and wanted to say so. The slide with the three customer examples is what finally made our pricing click for me.",
    "lang": "en",
    "note": "Clarify in one plain line without apologising for the compliment, then restate the specific thing so it stays about the work."
+  },
+  {
+   "id": "give-and-receive-compliments-008",
+   "situation": "My friend Hana played her first open mic on Saturday and was genuinely great, especially her own song about her grandmother. I texted her that and she replied 'omg no, I was so off-key in the second verse, it was a mess'.",
+   "reply": "I mean it, the song about your grandmother gave me chills, second verse and all. Nice work.",
+   "lang": "en",
+   "note": "When they deflect, don't argue them into accepting it. Repeat it once, shorter, and leave it."
   }
  ]
 }

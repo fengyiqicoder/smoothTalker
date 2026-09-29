@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -49,6 +49,13 @@
    "reply": "Hi Nina, thanks for sending the contract, the integration itself looks great. The one sticking point is exclusivity: I have an ongoing nutrition partnership, so six months across all nutrition brands isn't possible for me. Two options: 60 days of exclusivity on protein bars and snacks, included at $1,200, or six months on protein bars and snacks for $1,800. Which suits Fuelwell better?",
    "lang": "en",
    "note": "Exclusivity is where the money hides: narrow the category, price the longer term, and keep existing partners out of it."
+  },
+  {
+   "id": "creator-brand-deal-reply-008",
+   "situation": "Skincare brand Lumen paid $1,200 for one TikTok. They approved my script, I filmed it and did the one round of revisions in our contract on Sept 24. Now their manager Ellie wants a full reshoot with a different outfit and a new opening hook.",
+   "reply": "Hi Ellie, happy to help get this one right. The brief included one round of revisions, which we used on 24 September, so a full reshoot sits outside the original scope. I can reshoot with the new outfit and hook for $400, delivered by Friday 2 October. If you'd rather stay within the current budget, I can recut the existing footage with a new text hook at no charge by tomorrow. Which would you prefer?",
+   "lang": "en",
+   "note": "Scope creep after delivery: point to the brief once, price the extra work, and offer a free smaller fix so saying yes is easy either way."
   }
  ]
 }
