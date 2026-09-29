@@ -1,0 +1,27 @@
+{
+ "playbook": "roommate-and-shared-living",
+ "count": 3,
+ "cases": [
+  {
+   "id": "roommate-and-shared-living-001",
+   "situation": "Roommate Tyler hasn't paid his half of September's internet and electric, $87. I paid the whole thing on the 5th. We get along fine otherwise.",
+   "reply": "Hey Tyler, September's internet and electric came out on the 5th, your half is $87. Can you Venmo me by Friday? I'll set up Splitwise so we can both see it from next month.",
+   "lang": "en",
+   "note": "Amount, date and a system, with no commentary. Money goes in writing."
+  },
+  {
+   "id": "roommate-and-shared-living-002",
+   "situation": "合租室友的男朋友阿杰最近一周要住四五天，早上洗澡要排队，水电费也涨了。我和室友关系还不错，不想弄僵。",
+   "reply": "跟你商量个小事哈。我挺喜欢阿杰的，也理解他常来。不过最近他差不多一周住四五天，早上洗澡要排队，水电也涨了不少。要不我们定一下：一周最多住两晚，或者多住的话他分摊一部分水电？你觉得哪种更合适都行。",
+   "lang": "zh",
+   "note": "说的是房子里的事实，不评价人；带着两个方案去，抱怨就变成了一起做决定。"
+  },
+  {
+   "id": "roommate-and-shared-living-003",
+   "situation": "I asked my roommate about the dishes piling up and she snapped 'I do loads, you just don't notice'. I don't want a fight, I just want a clean kitchen.",
+   "reply": "Fair, I'm sure I miss some of it. Want to try a rota for October, kitchen on alternate weeks, so we can both see it? If it's annoying we'll ditch it.",
+   "lang": "en",
+   "note": "Don't argue the tally. Agree the goal and let the system do the nagging."
+  }
+ ]
+}

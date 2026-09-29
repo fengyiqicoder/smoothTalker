@@ -1,0 +1,27 @@
+{
+ "playbook": "tell-someone-something-awkward",
+ "count": 3,
+ "cases": [
+  {
+   "id": "tell-someone-something-awkward-001",
+   "situation": "My colleague Kim just sent the all-company email for Friday's town hall, and the Zoom link goes to last month's meeting, which is expired. She's a peer.",
+   "reply": "Hey Kim, quick heads up: the Zoom link in the town hall email goes to last month's meeting and shows as expired when I click it. Easy fix with a quick resend. Happens to all of us!",
+   "lang": "en",
+   "note": "Private DM, straight away, one plain sentence, then move on."
+  },
+  {
+   "id": "tell-someone-something-awkward-002",
+   "situation": "好朋友小雨最近口气有点重，下周三我们要一起做模拟面试，我觉得应该告诉她。想私下发微信。",
+   "reply": "有件小事有点不好意思开口，但换成是我也希望你告诉我：最近你说话时口气有点重，可能是上火或者牙齿的问题，面试前去看看牙医也许有帮助。就这个，没别的啦，周三模拟面试见！",
+   "lang": "zh",
+   "note": "只说一次、私下说、给个可能的原因，然后马上转到别的话题。"
+  },
+  {
+   "id": "tell-someone-something-awkward-003",
+   "situation": "I manage a small warehouse office team. One of my reports, Derek, has had noticeable body odour for a few weeks and two people have mentioned it to me. I need to raise it with him privately.",
+   "reply": "Derek, can I raise something a bit personal? It stays between us. Over the last few weeks I've noticed a body odour at times, mostly in the afternoons. I'm not assuming anything about the reason. If something's going on, a health thing or something at home, tell me and we'll work out what helps. Otherwise, can we agree you'll keep an eye on it, and that's the end of it?",
+   "lang": "en",
+   "note": "Never mention that others complained. Say it once, in person, and don't bring it up again if it's fixed."
+  }
+ ]
+}

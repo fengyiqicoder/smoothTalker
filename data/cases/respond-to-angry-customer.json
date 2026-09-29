@@ -1,0 +1,27 @@
+{
+ "playbook": "respond-to-angry-customer",
+ "count": 3,
+ "cases": [
+  {
+   "id": "respond-to-angry-customer-001",
+   "situation": "We're a small airport shuttle company. A customer, Ms Alvarez, booked a 5am pickup Saturday, the driver never showed, she missed her flight to Denver and paid $340 to rebook. She's emailed furious. It was our scheduling error.",
+   "reply": "Hi Ms Alvarez,\nYou booked our 5am pickup on Saturday, no driver arrived, and you missed your flight to Denver and had to pay $340 to rebook. That's on us, and I'm sorry. I've refunded your $65 fare today, and I'll reimburse the $340 within two working days of you replying with the rebooking receipt. I'm Kevin, the owner; reply to me directly or call 555-0142.\nKevin",
+   "lang": "en",
+   "note": "Her whole cost is covered, not just the fare, and the internal cause stays out of it."
+  },
+  {
+   "id": "respond-to-angry-customer-002",
+   "situation": "ネットで服を売っています。セール品のワンピースを買ったお客様が「返品できないなんて詐欺だ」と怒っています。返品不可は商品ページにも注文確認メールにも書いてあります。",
+   "reply": "楽しみにしていただいたワンピースが合わず、残念な思いをさせてしまいました。確認したところ、こちらはセール品で、商品ページと9月18日の注文確認メールに「返品不可」と記載しておりました。返金はできかねますが、サイズ交換でしたら送料は当店負担で承ります。ご希望のサイズを返信でお知らせいただけますか。",
+   "lang": "ja",
+   "note": "事実の誤りは、気持ちを受け止めてから証拠で静かに正す。できないことより、できることを具体的に。"
+  },
+  {
+   "id": "respond-to-angry-customer-003",
+   "situation": "我开外卖店。顾客在平台上骂得很难听，说送到的酸菜鱼是凉的，要全额退款还要赔偿。确实比预计晚送了40分钟。",
+   "reply": "您好，您的酸菜鱼晚到了40分钟，送到时已经凉了，这是我们的问题，对不起。这单我现在就全额退款，另外给您发一张30元无门槛券，下次可以用。我想把这件事处理好，也希望我们能好好沟通。后续有任何问题，直接在这里回复我就行，我是店长老周。",
+   "lang": "zh",
+   "note": "对骂人的话不接，只回应事实和补救。如果对方继续辱骂，说明你会解决，但需要保持文明沟通。"
+  }
+ ]
+}

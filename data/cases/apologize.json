@@ -1,0 +1,27 @@
+{
+ "playbook": "apologize",
+ "count": 3,
+ "cases": [
+  {
+   "id": "apologize-001",
+   "situation": "I snapped at my coworker Dana in standup this morning when she asked about the API timeline. Said something like 'maybe if design had delivered on time'. Whole team heard it, want to DM her on Slack.",
+   "reply": "Dana, I'm sorry for how I answered you in standup this morning. Your question about the API timeline was fair, and I made it sound like design was to blame in front of the whole team, which wasn't right or accurate. I'll say that in tomorrow's standup too, and you'll have a straight answer on the timeline from me by 3pm today.",
+   "lang": "en",
+   "note": "A public jab gets a public correction; the make-good matches where the harm happened."
+  },
+  {
+   "id": "apologize-002",
+   "situation": "答应周六去高铁站接我妈，结果睡过头了，她等了半小时自己打车回的家。她在家族群里什么都没说，但我知道她不高兴，想给她发个微信。",
+   "reply": "妈，周六说好去高铁站接你，我睡过头没去，对不起。让你拎着箱子等了半小时，最后还得自己打车，是我的错。下周日你去姨妈家，我早上九点到楼下送你，闹钟已经定好了。",
+   "lang": "zh",
+   "note": "长辈不需要长篇解释：点明具体的事、承认影响、给一个能兑现的补偿。"
+  },
+  {
+   "id": "apologize-003",
+   "situation": "I already apologized to my girlfriend for joking about her cooking in front of her parents. She just replied 'whatever, it's fine' and it's clearly not fine. What do I send now?",
+   "reply": "It doesn't sound fine, and that's fair. Making a joke about your cooking in front of your parents was a cheap laugh at your expense, and I'm sorry. I'm not going to push you to talk about it tonight. I'm here when you're ready.",
+   "lang": "en",
+   "note": "Second message after a cold reply: don't defend, don't ask 'are we okay', then actually leave space."
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "playbook": "landlord-tenant-and-service-providers",
+ "count": 3,
+ "cases": [
+  {
+   "id": "landlord-tenant-and-service-providers-001",
+   "situation": "Landlord Ray emailed that my rent goes from $1,650 to $1,950 at renewal in December. Similar 1-beds on my block are $1,700 to $1,800. I've been here 4 years and never paid late.",
+   "reply": "Hi Ray,\nThanks for the heads-up about the increase to $1,950. I'd like to ask you to reconsider. Comparable one-bedrooms on this block are listed at $1,700 to $1,800, and I've paid on time for four years. I'd be glad to sign another 12 months at $1,750. Would that work? Happy to talk by phone.\nBest,\nNina",
+   "lang": "en",
+   "note": "Counter with a number and facts, not a flat no. If he holds firm, meet halfway and attach a repair to it."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-002",
+   "situation": "Bin Ende August ausgezogen. Mein Vermieter Herr Vogt will 350 € fürs Streichen von der Kaution (1.200 €) abziehen, obwohl die Wände laut Übergabeprotokoll in Ordnung waren. Die 60 € für die Reinigung sind okay.",
+   "reply": "Sehr geehrter Herr Vogt,\nvielen Dank für die Abrechnung. Den Abzug von 350 € für das Streichen kann ich nicht akzeptieren: Im Übergabeprotokoll vom 31. August sind die Wände als einwandfrei vermerkt, die Fotos hänge ich an. Die 60 € für die Reinigung akzeptiere ich. Bitte überweisen Sie mir die verbleibenden 1.140 € bis zum 16. Oktober. Ich würde das gern direkt mit Ihnen klären, rufen Sie mich gern an.\nMit freundlichen Grüßen\nLena Hoffmann",
+   "lang": "de",
+   "note": "Den berechtigten Posten anzuerkennen macht den Widerspruch beim Rest glaubwürdiger."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-003",
+   "situation": "装修师傅报价说好全屋刷墙8000，现在结账要10500，说是多加了一遍腻子。之前完全没跟我提过要加钱。",
+   "reply": "李师傅，这段时间辛苦了。当时说好的全屋刷墙是8000，这次的单子是10500，多出来的2500能跟我说说具体是哪几项吗？加腻子的事之前没跟我确认过。说好的8000我今天就先转给您，剩下的咱们对一下再说。",
+   "lang": "zh",
+   "note": "先付没有争议的部分，只对差额提问，不指责对方故意多收。"
+  }
+ ]
+}

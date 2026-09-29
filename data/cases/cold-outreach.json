@@ -1,0 +1,26 @@
+{
+ "playbook": "cold-outreach",
+ "count": 3,
+ "cases": [
+  {
+   "id": "cold-outreach-001",
+   "situation": "I'm a freelance email copywriter. Found a skincare brand, Fern & Salt, whose welcome email is just a discount code. Want to pitch the founder, Olivia.",
+   "reply": "Subject: Fern & Salt's welcome email\n\nHi Olivia,\nI signed up last week and your welcome email is a single 10% code, with none of the seaweed-sourcing story that makes your product pages so good. I write welcome sequences for skincare brands; the last one, for Kind Botanics, lifted first-order rate from 3.1% to 5.4%. Want a two-line idea for yours? If it's not relevant, a 'no' is genuinely useful.\nTom",
+   "lang": "en"
+  },
+  {
+   "id": "cold-outreach-002",
+   "situation": "J'anime des ateliers de céramique à Lyon. Je veux proposer une collab à Claire, une créatrice Instagram (30k abonnés) qui fait des vidéos sur les loisirs créatifs lents.",
+   "reply": "Bonjour Claire, ta vidéo sur le tricot comme pause anti-écran m'a vraiment parlé, c'est exactement l'esprit de nos ateliers de céramique à Lyon. Trois créatrices lyonnaises ont déjà filmé une séance chez nous, la dernière vidéo a fait 80 000 vues. J'ai une idée simple, avec un atelier offert pour toi et une amie. Je te l'explique en deux lignes ?",
+   "lang": "fr",
+   "note": "Le « pourquoi toi » d'abord, une preuve chiffrée, puis une toute petite demande."
+  },
+  {
+   "id": "cold-outreach-003",
+   "situation": "Emailed the head of People at a 200-person company about our onboarding software a week ago. No reply. Want to follow up once with something actually useful.",
+   "reply": "Hi Grace, bumping this with one more thing: we just published a two-page checklist on cutting first-week IT tickets, based on 40 mid-size rollouts. It's attached and free to use whether or not we ever talk. No pressure on the original ask.",
+   "lang": "en",
+   "note": "Follow-up 1 adds value instead of 'just checking in'. One more after a week, then stop."
+  }
+ ]
+}
