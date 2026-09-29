@@ -2,9 +2,9 @@
 title: Family pressure and nosy questions
 category: personal
 tags: [family, relatives, boundary, holidays, marriage, kids, deflection]
-triggers: [relatives keep asking when I'm getting married, family asking about kids, nosy aunt, holiday dinner questions, mum keeps asking about my weight, family pressure to move home, dad asks about my salary, relatives push religion, how to deflect family questions]
-summary: Warm deflection lines for relatives who push on marriage, kids, career, weight, money, religion or moving home, plus a firmer version for repeat offenders and a note on when soft is the right call.
-updated: 2026-09-27
+triggers: [relatives keep asking when I'm getting married, family asking about kids, nosy aunt, holiday dinner questions, mum keeps asking about my weight, family pressure to move home, dad asks about my salary, relatives push religion, how to deflect family questions, parents pushing me to change careers]
+summary: Warm lines for relatives who push on marriage, kids, career choices, weight, money, religion or moving home, a firmer version for repeat offenders, and when soft is right. Other repeated intrusions: set-boundary.
+updated: 2026-09-29
 ---
 # Family pressure and nosy questions
 
