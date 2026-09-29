@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -71,6 +71,13 @@
    "reply": "Kyle, I tried to call first because this deserves a conversation. After what happened with Jess at the bachelor party, Anna and I have decided it's best that you don't come to the wedding on the 24th. I know that's painful to read, and we didn't decide it lightly. I'd rather tell you straight than have you hear it any other way.",
    "lang": "en",
    "note": "Uninviting: call first, give the real reason in one line, take the decision on yourselves, and don't reopen it if he argues."
+  },
+  {
+   "id": "wedding-and-event-host-messages-011",
+   "situation": "We're having a small backyard wedding on Saturday Oct 17. We've lived together five years and have everything we need. I want the website to say no gifts, but people keep asking, so if they insist, a contribution to our Lisbon honeymoon.",
+   "reply": "Gifts: Having you with us on the 17th is truly all we want, so please don't feel you need to bring anything. If you'd still like to mark the day, we're saving for a week in Lisbon next spring, and there's a small honeymoon fund linked below. Either way, we can't wait to celebrate with you.",
+   "lang": "en",
+   "note": "Website, not the invitation card: gifts framed as optional, one preference, placed where guests will actually look."
   }
  ]
 }

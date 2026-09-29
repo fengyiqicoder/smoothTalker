@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Dana, you're the only lawyer I know who does commercial leases, so I'm going to ask: would you have 30 minutes before Friday Oct 9 to skim the 4-page lease for the bakery and flag anything that would worry you? Not a full review, just 'I'd push back on this clause'. If you'd rather keep work and friends separate, or you'd want to bill it as a normal job, say so, both are completely fine. Dinner at Osteria Nove is on me either way.",
    "lang": "en",
    "note": "When the favour is someone's profession, keep the scope narrow and make paying or declining as easy as saying yes."
+  },
+  {
+   "id": "ask-for-favor-010",
+   "situation": "我在火锅店做服务员，10月10号周六是我的晚班，那天我表妹订婚，想去。想问同事小敏能不能跟我换班，她下周二10月13号是早班，我可以替她上。",
+   "reply": "小敏，想请你帮个忙：10月10号周六的晚班你能跟我换吗？那天我表妹订婚。你13号周二的早班我来上，你那天能睡个懒觉。周六晚上人多挺累的，不方便就直说，我再问问别人。周四前告诉我就行。",
+   "lang": "zh",
+   "note": "换班请求把日期、代价（周六晚班累）和回报一次说清，再给一个真的出口和答复期限。"
   }
  ]
 }

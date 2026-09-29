@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "small-talk-001",
@@ -71,6 +71,13 @@
    "reply": "Don Manuel, me han contado que fue usted pescador en Cádiz toda la vida. ¿Qué es lo que más echa de menos del mar?",
    "lang": "es",
    "note": "Pregunta por algo sobre lo que él tiene opinión, y saca la siguiente pregunta de su respuesta, no de una lista."
+  },
+  {
+   "id": "small-talk-011",
+   "situation": "Matched with Sam on Hinge. We've done 'how was your weekend' / 'good, you?' twice and it's dying. Their profile says they just got back from climbing in Kalymnos and are learning Greek 'badly'.",
+   "reply": "Okay, I have to ask about Kalymnos. Was it the climbing that got you there, or did the Greek come first? I did a month of Duolingo Greek once and can mostly say 'the cat drinks milk'.",
+   "lang": "en",
+   "note": "Swap generic questions for something they chose to show you, share one small thing back, and end on a question they'll enjoy answering."
   }
  ]
 }

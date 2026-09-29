@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -64,6 +64,13 @@
    "reply": "Daniel, thank you for inviting me, it really means a lot that you'd want me there. I won't be coming on the 21st, but I'm so happy for you both. I hope it's a brilliant day.",
    "lang": "en",
    "note": "No reason and no alternative date, because you wouldn't go on any date; the warmth does the work, and there's no second apology."
+  },
+  {
+   "id": "decline-invitation-010",
+   "situation": "My friend Jess asked me to be one of her bridesmaids for her wedding on June 12 next year. I'd love to go as a guest, but the dress, the hen weekend and all the planning are more than I can take on right now. I want to say no to the role, not the wedding.",
+   "reply": "Jess, I'm so touched you asked me, it really means a lot. I'm going to say no to being a bridesmaid, it's more than I can take on right now. I'll absolutely be there on June 12, probably crying in the third row. If there's one small job I can take off your plate nearer the day, like the table plan, I'd love to.",
+   "lang": "en",
+   "note": "Declining a role rather than the event: separate the two in the first lines so the no doesn't read as a no to the friendship."
   }
  ]
 }

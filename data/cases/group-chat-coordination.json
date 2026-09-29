@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -64,6 +64,13 @@
    "reply": "接龙截止了，一共14位。我已经订好：10月10日周六晚上6点半，福满楼二楼，两桌，费用AA，当天现场结。没接上但想来的，10月7日周三前私聊我，我去跟饭店加位。群里就不再刷屏了，具体安排到时候拉个小群说。",
    "lang": "zh",
    "note": "截止后照说好的办，结果只在群里发一次，不重新问一遍；想来的人给一个私聊补报的窗口。"
+  },
+  {
+   "id": "group-chat-coordination-010",
+   "situation": "I'm maid of honour organising Chloe's hen weekend in a WhatsApp group of 9. Two bridesmaids, Amy and Jess, have started arguing in the chat about whether £250 each is too much. Everyone else has gone silent.",
+   "reply": "Let's take the budget back-and-forth out of here, I'll message Amy and Jess directly. For everyone: two options for the weekend of 7 November. A: Bath spa weekend, £250 each. B: a cottage near Bristol with a cooked dinner, £160 each. Thumbs on A or B by Friday night and I'll book whichever wins on Saturday morning.",
+   "lang": "en",
+   "note": "Pull the argument out of the group, then turn it into two priced options with a deadline; talk to Amy and Jess one at a time."
   }
  ]
 }

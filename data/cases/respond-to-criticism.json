@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -71,6 +71,13 @@
    "reply": "张阿姨，谢谢您直接跟我说，没憋在心里。您是觉得周末的班总轮不到老同志，这个我明白。偏心这点我想说清楚：排班一直按报名先后，我没有挑人。但您提醒得对，晚上十点开放报名，对早睡的人确实不公平。下个月起我改成上午九点开放，再给每人每月留一个周末班。您看这样行吗？",
    "lang": "zh",
    "note": "三个桶分开放：认下对的（开放时间），平静说明不同意的（偏心），再给出具体的改法。"
+  },
+  {
+   "id": "respond-to-criticism-011",
+   "situation": "Our downstairs neighbour Mr. Hughes left a note saying our kids stomp 'all day and night' and we're inconsiderate. They do run around between 5 and 7pm, but they're in bed by 8 and the flat is quiet after that.",
+   "reply": "Hi Mr. Hughes, thank you for the note, and I'm sorry the noise has been getting to you. You're right that the kids are loud between about 5 and 7, and we've ordered thick rugs for the living room and hallway that arrive this week. They're asleep by 8, so if you're hearing noise late at night it may be coming from elsewhere. Could you let me know roughly when? I'd like to sort this properly.\nEmma, flat 2",
+   "lang": "en",
+   "note": "Own the part that's true with a concrete fix, disagree on the rest with a question, and leave 'inconsiderate' alone."
   }
  ]
 }

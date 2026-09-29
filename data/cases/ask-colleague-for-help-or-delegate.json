@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -71,6 +71,13 @@
    "reply": "Hi Deborah, on your question about the new Colorado overtime rules from January: I don't know off the top of my head, and I'd rather check than guess on something that affects your payroll. I've asked our compliance lead, Marcus Webb, and I'll come back to you with a clear answer by Thursday 1 October. Which pay run do you need it confirmed for? That will help us check the right thing.",
    "lang": "en",
    "note": "\"I don't know\" works with clients too: say it cleanly, name who you're asking and when they'll hear back."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-011",
+   "situation": "I'm three weeks into managing a team of 5. In our team Slack, Omar asked whether unused holiday days roll over into next year. I have no idea and I don't want to guess.",
+   "reply": "Good question, Omar, and I don't know yet. I'd rather check than guess on something that affects your leave. I've asked Priya in HR and I'll post the answer here by Thursday, so everyone sees the same thing.",
+   "lang": "en",
+   "note": "A new manager earns credibility with a fast 'I don't know' plus a named source and a date; answering in the same thread keeps it fair for everyone."
   }
  ]
 }

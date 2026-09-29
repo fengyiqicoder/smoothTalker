@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -64,6 +64,13 @@
    "reply": "Thanks for saying this, Marcus. I read it properly and I believe you mean it. I've moved on and I'm not looking to be in touch, so I'll leave it here. I hope the work you're doing goes well.",
    "lang": "en",
    "note": "An apology with no ask still gets a kind full stop: acknowledge it, close the door in one sentence, don't reply to the reply. Draft tonight, send in the morning."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-010",
+   "situation": "I met my ex Hana for coffee on Saturday as friends, a year after we broke up, and it was nice. Since then she's texted every night, said 'I miss us' last night, and wants dinner just the two of us on Friday. I'm not looking to get back together.",
+   "reply": "I'm glad we had coffee on Saturday, it was good to see you. I want to be straight so there's no confusion: I'm not looking to get back together, so I'll pass on dinner Friday. I'd still like to be friends, the daytime coffee every few weeks kind, and I'd rather we skip the nightly texts.",
+   "lang": "en",
+   "note": "The door was reopened as friends, so restate the limit plainly and give the friendship a shape; no 'maybe later'."
   }
  ]
 }

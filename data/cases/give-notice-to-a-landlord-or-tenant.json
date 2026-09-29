@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -64,6 +64,13 @@
    "reply": "Estimado don Alfonso:\nLe comunico que dejaré la vivienda de la calle Embajadores 112, 3.º B, y que el contrato terminará el 31 de octubre de 2026, conforme al preaviso de 30 días de la cláusula 4. Le envío también este aviso por burofax para que quede constancia. Pagaré el alquiler de octubre como siempre, y le propongo hacer la revisión del piso, la lectura de contadores y la entrega de llaves el sábado 31 a las 11:00. ¿Me podría confirmar por escrito que ha recibido este aviso?\nGracias por estos casi dos años, ha sido un placer.\nLucía Ortega",
    "lang": "es",
    "note": "Fecha exacta, cláusula y constancia por escrito primero; la amabilidad va al final. Si el contrato prevé una indemnización por salida anticipada, revísala antes de enviar."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-010",
+   "situation": "我在杭州有套两居室出租，租客小林住了三年，房租每次都按时交。合同12月31日到期，约定到期前一个月通知。我儿子明年结婚要住这里，不打算续租了。想先微信跟他说，再寄书面通知。",
+   "reply": "小林你好，跟你说件事：我儿子明年结婚要住这套房，所以12月31日合同到期后就不续租了。合同约定提前一个月通知，我想早点告诉你，好让你有足够时间找房，正式的书面通知这周寄给你。如果你找到房子想提前搬，跟我说一声，日期一起商量，房租按实际住的天数算。交房那天我们一起验房、抄水电燃气表，押金当场退。这三年你一直按时交租，新房东需要证明的话我随时帮你写。收到麻烦回我一下。",
+   "lang": "zh",
+   "note": "房东不续租：到期日写清楚、理由一句、提前量多于合同要求，再把验房、退押金和推荐这些实际帮助说明白，并请对方确认收到。"
   }
  ]
 }

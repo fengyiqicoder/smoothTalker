@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -71,6 +71,13 @@
    "reply": "This is Sarah, Dave's daughter. Dad died on Sunday, peacefully, after a short illness. Thursday nights with all of you were the highlight of his week for twenty years. The funeral is on Friday 9 October at 11am at St Mary's, Harrow, and you'd all be very welcome. No need to message me individually; I'll pass on anything you post here to Mum.",
    "lang": "en",
    "note": "Telling someone else's circle: who you are first, the fact plainly, the arrangements, and how you'd like them to respond."
+  },
+  {
+   "id": "share-personal-news-011",
+   "situation": "I'm gay and I'm planning to come out to my parents in person at Thanksgiving. I want to tell my older sister Megan first, by text tonight since she lives in Denver, and ask her not to say anything to Mom and Dad yet.",
+   "reply": "Megs, I want you to be the first to know, before Mom and Dad: I'm gay. I've known for a while and honestly I'm happy. I'm planning to tell them in person at Thanksgiving, so please keep it between us until then. Call me tomorrow night if you're free? I'd love to hear your voice.",
+   "lang": "en",
+   "note": "Closest person first, the news in the first line, and a clear cue for how to respond: keep it private until the parents hear it in person."
   }
  ]
 }

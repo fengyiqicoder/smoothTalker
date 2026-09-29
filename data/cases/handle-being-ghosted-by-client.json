@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -71,6 +71,13 @@
    "reply": "Guten Tag Frau Krüger,\nich hole mein Angebot vom 15. September für die englische Fassung Ihres Herbstkatalogs noch einmal nach oben, falls es untergegangen ist. Umfang und Zeitplan passe ich gern an. Wäre ein kurzes Telefonat von 15 Minuten hilfreich, oder klären wir offene Fragen lieber per E-Mail?\nViele Grüße\nAnna Weber",
    "lang": "de",
    "note": "Erste Nachfrage: davon ausgehen, dass die Mail untergegangen ist, kein Vorwurf, und die Antwort so klein wie möglich machen."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-011",
+   "situation": "我做企业宣传片。9月8日给一家茶叶公司的市场部陈经理发了报价，一条3分钟的片子4.8万。15号跟进过一次，没回。上周刚给另一家茶企拍完一条类似的片子，上线一周播放量二十多万。",
+   "reply": "陈经理您好，上周我们刚给另一家茶企做完一条类似的3分钟宣传片，上线一周播放量二十多万，想着也许对您有参考价值，片子我附在这条消息后面。想问一下，宣传片今年还在计划里吗？回我一句“在做”“不做了”或者“晚点再说”就行。",
+   "lang": "zh",
+   "note": "第二次跟进要带点新东西，并把问题缩小到一句话就能回答；再没回音，两周后礼貌收尾。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -64,6 +64,13 @@
    "reply": "跟大家介绍一位新同事：赵一鸣10月12日周一入职，担任高级后端工程师。他之前在支付公司做了六年清结算，来了以后负责对账系统。阿伟，这半年对账一直是你一个人扛着，辛苦了，一鸣第一周会先跟你交接。大家第一周有空的话约他喝杯咖啡聊15分钟，帮他快点熟悉。",
    "lang": "zh",
    "note": "新人公告：谁、哪天、做什么放在最前面，顺带认可之前一个人扛活的同事，再告诉大家怎么帮新人上手。"
+  },
+  {
+   "id": "team-announcements-as-a-manager-010",
+   "situation": "Reorg: from Monday Nov 2, two of my 9 analysts, Hugo and Rina, move to the Growth team under Carmen and take the marketing dashboards with them. The other seven stay with me. I told Hugo and Rina 1:1 yesterday. Posting in team Slack after today's meeting.",
+   "reply": "As we covered in this morning's meeting: from Monday Nov 2, Hugo and Rina move to the Growth team under Carmen, and the marketing dashboards go with them. Growth needs analysts inside the team, and I agreed with the move. For the other seven of you, your role, pay and manager stay the same; what changes is that marketing requests will go to Growth instead of our queue. Hugo and Rina will run handover sessions the weeks of Oct 12 and Oct 19, and I'll share the schedule by Friday. Questions here or in a 1:1, and I'm booking 20 minutes with each of you next week anyway.",
+   "lang": "en",
+   "note": "The people moving heard it first; the post leads with the news, owns the decision and spends most of its words on what changes for those who stay."
   }
  ]
 }

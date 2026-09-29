@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -63,6 +63,13 @@
    "reply": "Dear Joanne, I wanted to thank you for how you cared for my mother, Linda Price, on the cardiac ward in September. You explained every new medication to her in plain words, and for the first time in months she understood her own treatment. The night before her surgery you came back after your shift just to check on her. She still tells everyone about that visit. Thank you. With gratitude, Emma Price",
    "lang": "en",
    "note": "Copying the manager makes the thanks count where it matters to her; keep it to what she did and what it changed, with nothing asked."
+  },
+  {
+   "id": "give-and-receive-compliments-010",
+   "situation": "姑姑在家族群里发了我们国庆前聚会的照片，还@我说'瘦了好多，比以前好看多了！'。其实我是前段时间生病才瘦的，不想在群里解释，也不想冷场。",
+   "reply": "谢谢姑姑！我现在挺好的，照片也拍得好看。对了，上次您说表妹要去杭州读研，定下来了吗？",
+   "lang": "zh",
+   "note": "收下好意，不解释原因，也不纠正她；一句感谢后把话题交还给对方，病情可以只和想说的人私下讲。"
   }
  ]
 }

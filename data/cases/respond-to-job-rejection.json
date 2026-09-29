@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -63,6 +63,13 @@
    "reply": "王女士您好，想跟您确认一下产品运营岗位的结果，之前您提到9月22日前会有消息。如果这次没有通过，回我一句就好，我也好安排后面的计划。感谢您这段时间的安排。",
    "lang": "zh",
    "note": "过了对方给的日期几个工作日再问，只问一次，把“没通过”说成可以轻松回复的选项；一周后仍无回音就发结束语，不再追。"
+  },
+  {
+   "id": "respond-to-job-rejection-010",
+   "situation": "Founder here. Kara, a partner at Northfield Ventures, passed on our seed round after two meetings. Her email said 'too early for us, love the team.' I'd like her to invest later without sounding desperate.",
+   "reply": "Thanks, Kara, and thank you for two genuinely useful meetings; your question about repeat purchase rates changed how we're tracking the pilot. Understood on timing. Would it be alright if I sent you a short update in January, once we have three months of paying customers? If not, no need to reply. Good luck with the new fund.",
+   "lang": "en",
+   "note": "An investor pass is usually a timing no: ask for one permission to update, tied to a date and a milestone, and skip the feedback ask."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -71,6 +71,13 @@
    "reply": "Guys, I'd rather tell you now than fade out: with the baby due in December I can't keep up with rehearsals, so the Halloween gig on the 31st will be my last. I'll have the new set properly learned for it, and I'm happy to sit in with whoever you try out and pass on all my charts. I've loved every minute of this band, and I'll be front row at your next gig.",
    "lang": "en",
    "note": "Leaving a shared commitment with friends: a clear last date, a real handover, and warmth without over-explaining."
+  },
+  {
+   "id": "leave-or-quit-gracefully-011",
+   "situation": "I've been treasurer of our neighborhood association for two years, and the term runs to next June. A new job means I can't keep doing it. I want to step down at the Nov 10 meeting and tell the chair, Linda, before the rest of the board.",
+   "reply": "Hi Linda, I wanted you to hear this from me before the rest of the board: I'm going to step down as treasurer at the Tuesday Nov 10 meeting. I've started a new job with long hours and I can't give the books the attention they need, so I'd rather hand over cleanly than let things slip. Before then I'll reconcile the accounts through October and write up the bank access steps, vendor list and the insurance renewal due in January. I'm happy to spend two evenings with whoever takes over. Thank you for two good years.\nPaul",
+   "lang": "en",
+   "note": "Chair first, a fixed date, one line of reason and a handover concrete enough that nobody has to chase you."
   }
  ]
 }

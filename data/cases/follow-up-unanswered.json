@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -64,6 +64,13 @@
    "reply": "小陈，知道季度末你们财务最忙。还是三季度各区域退款数据的事，我的报告10月12日要交，如果明天下班前能给我就能赶上；来不及的话，给我一个大概时间也行，我好排进度。实在排不开也没关系，告诉我找谁拿更方便。",
    "lang": "zh",
    "note": "第二次提醒：先替对方想到忙，一句话说清要什么，截止时间是为了排期，再留一个体面的出口。"
+  },
+  {
+   "id": "follow-up-unanswered-010",
+   "situation": "Two weeks ago I messaged Rachel, a former colleague who's now at Stripe, asking for a 20-minute chat about their data team. She said 'sure, ping me next week', I did last Tuesday, and nothing since. She's doing me a favour so I don't want to be a pest.",
+   "reply": "Hi Rachel, I know things get hectic, so one more try on the chat about the data team. Would 20 minutes on Thursday Oct 8 or Friday Oct 9 work, any time after 11? If the next few weeks are packed, a quick 'not now' is completely fine and I'll leave it there.",
+   "lang": "en",
+   "note": "Second bump to someone doing you a favour: two concrete slots and an easy out, because she owes you nothing."
   }
  ]
 }

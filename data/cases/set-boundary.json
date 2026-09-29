@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -64,6 +64,13 @@
    "reply": "小凯，你来北京我挺高兴的，吃饭逛街随时叫我。跟你说一声，以后我这儿不留人过夜了，一室一厅两个人住已经挺挤。你下个月来，我帮你在我家附近找家快捷酒店，第一天晚上我请你吃烤鸭。",
    "lang": "zh",
    "note": "说成自己的规矩（不留人过夜），而不是说他添麻烦；他再磨，就把同一句话缩短了再说一遍。"
+  },
+  {
+   "id": "set-boundary-010",
+   "situation": "Two weeks ago I told my mom I'm not hosting Christmas this year, after doing it five years running. Now my brother Mark has texted: 'Mom's really hurt, would it kill you to host one more time?'",
+   "reply": "I get that you're caught in the middle, Mark, and I know Mom's upset. I'm not hosting this year, and that part isn't changing. I'll be there all day wherever it ends up, and I'll bring dessert and help plan the menu.",
+   "lang": "en",
+   "note": "When others are recruited to push, repeat the same boundary with no new reasons, stay warm, and don't reopen it to win anyone back."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Mia, we need to cancel tonight: Tom's come home with a fever, so we're staying in. I'm sorry it's on the day, when you kept your evening free for us, so I'm sending the $75 anyway. Could you do Friday 2 October or Saturday 3 October instead, same time?",
    "lang": "en",
    "note": "Same-day cancel on someone paid for their time: pay for the evening she held without making her ask, then give two dates."
+  },
+  {
+   "id": "cancel-or-reschedule-010",
+   "situation": "Tengo una primera cita con Lucía, a la que conocí en una app, el jueves 1 de octubre a las 20h, pero en el hospital me han cambiado el turno y trabajo esa noche. No quiero que piense que me estoy echando atrás.",
+   "reply": "Lucía, tengo que mover lo del jueves: en el hospital me han cambiado el turno y esa noche trabajo. Siento el cambio, sé que ya lo tenías apuntado. Tengo muchas ganas de conocerte, así que te propongo el viernes 2 o el sábado 3, a las 20h en el mismo sitio. ¿Cuál te va mejor?",
+   "lang": "es",
+   "note": "En una primera cita, dos fechas concretas en el mismo mensaje son lo que demuestra que el cambio es logística y no falta de interés."
   }
  ]
 }

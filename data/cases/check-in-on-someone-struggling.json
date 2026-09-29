@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -71,6 +71,13 @@
    "reply": "No sorry needed, I'm really glad you told me. Can I call you tonight around 8? If talking feels like too much, just reply 'text' and we'll do it this way instead.",
    "lang": "en",
    "note": "When they finally open up, show up fast and small: no advice, no questions that need a report, one concrete offer with an easy way to shrink it."
+  },
+  {
+   "id": "check-in-on-someone-struggling-011",
+   "situation": "好朋友小雅上周流产了，是她老公告诉我的。她在上海，我在北京，一时过不去。她只在朋友圈发了一句“晚安”，别的什么都没说。",
+   "reply": "小雅，听说了上周的事，心里很难受，一直在想你。不用回我。我给你点了明天中午的外卖，是你喜欢的那家云南米线，12点左右送到，不想吃就放着。我一直都在。",
+   "lang": "zh",
+   "note": "不问“你还好吗”，不找安慰的角度，只给一个不需要回应的具体行动；过几天再发一条不需要回复的消息。"
   }
  ]
 }

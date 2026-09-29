@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -71,6 +71,13 @@
    "reply": "你问我真实意见，那我就直说啦。照片选得特别好，第二张在大理骑车那张，一看就是你。最可以改的是自我介绍：现在写的大多是“不要什么”，读下来有点像在设门槛。要不改成三件你真正喜欢做的事，比如周末爬山、做饭请朋友吃？我是觉得你这么有意思的人，资料应该让人一眼就看出来。",
    "lang": "zh",
    "note": "先说一个具体的优点，只挑最重要的一个问题，用“我读下来的感受”来讲，再给一个能直接改的建议。"
+  },
+  {
+   "id": "give-feedback-kindly-011",
+   "situation": "My friend Nadia just launched her jewelry shop on Etsy and posted the link in our group chat. The pieces are lovely, but the photos are dark and shot on a busy floral tablecloth. She didn't ask for feedback.",
+   "reply": "Nadia, congrats on the launch! The hammered silver hoops are gorgeous, I'd wear them tomorrow. I've got one small thought about the photos if you want it, or I can just be your cheerleader today. Either is fine.",
+   "lang": "en",
+   "note": "Unasked means ask first, and in a private message, not the group; if she says yes, give only the one point: daylight and a plain background."
   }
  ]
 }

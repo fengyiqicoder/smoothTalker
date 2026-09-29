@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -71,6 +71,13 @@
    "reply": "Hi, it's Dan from 3B. Got your note, and you're right, we ran late on Saturday. Sorry about that. Next time we have people over I'll let you know in advance and we'll wrap up by 11. If it's ever too loud, just knock or text me on 07700 900312.",
    "lang": "en",
    "note": "The snark wraps a fair complaint, so answer the contents, own it once, and give her a direct channel so the next one isn't a note."
+  },
+  {
+   "id": "respond-to-passive-aggressive-011",
+   "situation": "I'm a team lead. At 3pm on Friday I asked my report Jamal to update the client deck for Monday at 10, because the client had just moved the meeting up. He replied in Slack: 'Sure, I'll just cancel my weekend then 🙂'. Honestly, it is a lot to drop on him.",
+   "reply": "Sounds like that landed badly, and that's fair, it's a lot to drop on you at 3 on a Friday. Your weekend stays yours. Could you update just the pricing slide before you log off today? I'll do the rest myself first thing Monday.",
+   "lang": "en",
+   "note": "When the snark wraps a legitimate grievance, name it, concede the fair part and change the ask; don't answer the tone."
   }
  ]
 }

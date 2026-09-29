@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -64,6 +64,13 @@
    "reply": "Kelly, I just saw your post about Noah. I'm so sorry, what a week for all of you. I'll take Ava to and from school for the rest of the week, so that's one thing off your list; just tell me if you'd rather I didn't. Otherwise no need to reply.",
    "lang": "en",
    "note": "When it's a child's diagnosis, the parent is the one you support: a practical offer that happens by default, and no questions about the medical side."
+  },
+  {
+   "id": "respond-to-difficult-health-news-010",
+   "situation": "好朋友小敏的老公上周五突然中风，现在还在ICU，她一个人在医院守着，两个孩子暂时托给婆婆。她今天在群里简单说了一句情况，我想私信她。",
+   "reply": "小敏，刚看到你说的，太突然了，心疼你。谢谢你告诉我们。这周六我可以去你婆婆家接两个孩子出来玩半天，让老人歇一歇，你同意我就直接跟婆婆约时间。不用回我，等你有空再说。",
+   "lang": "zh",
+   "note": "照顾者同样需要被看见：不问病情细节，给一个具体的帮忙，并免去她回复的负担。"
   }
  ]
 }

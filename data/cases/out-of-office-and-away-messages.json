@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -64,6 +64,13 @@
    "reply": "Hi, the clinic is closed from Wednesday 30 September to Friday 2 October as I'm unwell, and reopens Monday 5 October. If you're booked on those days, I'll message you by Monday to rebook, so there's nothing you need to do. For new pain or an injury that can't wait, please contact your GP or call NHS 111. Sam",
    "lang": "en",
    "note": "Solo and sick: the dates, no symptoms, a real route for urgent cases since nobody covers, and the rebooking work taken off patients."
+  },
+  {
+   "id": "out-of-office-and-away-messages-010",
+   "situation": "I've been called for jury duty from Monday Oct 5 to Friday Oct 16. I'm a paralegal at a small firm, Hall & Moore, and I'll be away from my desk during court hours but can check email in the evenings. Kevin Tran is covering deadlines.",
+   "reply": "I'm on jury duty from Monday 5 October to Friday 16 October and away from my desk during the day. I check email once each evening and will reply to anything that can't wait. For filings or court deadlines, please contact Kevin Tran at kevin.tran@hallmoore.com. Back at my desk Monday 19 October.",
+   "lang": "en",
+   "note": "Partial availability stated concretely, once each evening, instead of 'limited access', with deadlines routed to one named person."
   }
  ]
 }

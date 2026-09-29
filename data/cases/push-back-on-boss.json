@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -71,6 +71,13 @@
    "reply": "Derek, can I flag one thing about the 9am standup before it starts Monday? I like getting everyone together earlier in the day, but 9 Eastern is 6am in Seattle for June and Rafael, every day, and they've both said it'll be tough. If there's a reason it has to be 9, I'll get behind it. If not, two options: 11:30 Eastern, which is 8:30 for them and still before lunch here, or 9am live with Seattle posting updates async. My vote is 11:30. Which would you prefer?",
    "lang": "en",
    "note": "Disagreeing with a decision: privately, before it takes effect, the cost in plain facts, room for a reason you don't know, and options with a recommendation."
+  },
+  {
+   "id": "push-back-on-boss-011",
+   "situation": "国庆10月1日到8日我请的假早就批了，机票也订了回成都。今天周二下午王总突然说系统10月5日上线，让我假期每天在线盯着。我是后端，上线主要涉及我负责的支付模块。",
+   "reply": "王总，上线很重要，我也希望5号稳稳上线。现在的情况是我1号到8号的假已经批了，机票也订了。我想了两个办法：一是明天下班前把支付模块的上线手册和回滚方案写好，跟小李过一遍，5号由他值守，上线当天上午10点到12点我远程在线；二是如果必须由我全程盯，上线改到9月30日或10月9日。我建议第一个，您看哪个合适？",
+   "lang": "zh",
+   "note": "先认同目标，再把冲突和两个选项摆出来并给出建议，让老板来选；定下来后发一条文字确认。"
   }
  ]
 }

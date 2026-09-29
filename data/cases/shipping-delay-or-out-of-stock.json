@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -71,6 +71,13 @@
    "reply": "Hi Hannah, you're right, order #5532 should have been the navy scarf and I sent grey, that's my mistake. The navy one goes out today by express and will be with you by Thursday 1 October, in time for Saturday. Keep the grey one, no need to send it back. If you'd rather have a full refund instead, just say and I'll process it today. I'll email you tracking by 5pm.\nMaya",
    "lang": "en",
    "note": "Your mistake: own it in one line, fix it before the deadline that matters to them, and let the make-good (keep the wrong one) do the apologising."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-011",
+   "situation": "I sell handmade leather bags from the UK. Customer Chris in Toronto, order #3308, is stuck in Canadian customs, and they want him to pay $38 CAD in duties that my checkout never mentioned. He hasn't messaged me yet.",
+   "reply": "Hi Chris,\nYour order #3308 has reached Canada but is being held at customs, and they're asking for $38 CAD in import duties before releasing it. That's on me: the checkout should have warned you and it didn't. If you pay through the courier's link in their email and send me the receipt, I'll refund the $38 the same day. If you'd rather not, reply 'cancel' and I'll refund the whole order today. I'll check the tracking on Thursday and email you then either way.\nLaura",
+   "lang": "en",
+   "note": "Proactive, owns the missing warning, and the make-good covers the surprise fee; refund stays the easiest option to pick."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Grace,\nFrom Monday 2 November, the salon will be closed on Mondays, and on Thursdays we'll stay open until 8pm instead of 6. We're a team of three, and this gives each of us a proper weekend, which keeps us at our best for you. Everything else stays the same: same stylists, same prices, same online booking. If you have a Monday appointment after 2 November, I'll message you this week to move it to a time that suits you, and the late Thursday slots are open to book now. Thank you for sitting in our chairs.\nLeila, Loose Ends Hair",
    "lang": "en",
    "note": "An hours change is a policy change: the new days first, one honest line, what stays the same, and you do the rebooking for the people it hits."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-010",
+   "situation": "I make soap and sell online. We're discontinuing our best-selling Lavender Oat bar on Nov 30 because the small mill that supplied our oats closed and I can't match the quality. Lots of regulars buy it monthly. Emailing our list.",
+   "reply": "Hi Sam,\nThe Lavender Oat bar is being discontinued, and the last day to order it is Monday Nov 30. The small mill that supplied our oats has closed, and I haven't found oats that make the same creamy bar, so I'd rather stop than make a lesser one. Everything else in the range stays exactly as it is. We've made one final batch of 600 bars, and they keep well for a year if you'd like to stock up. The closest bar we make is Honey Chamomile; reply to this email and I'll put a free one in your next order to try.\nThank you for loving this one as much as we did.\nMaya",
+   "lang": "en",
+   "note": "Discontinuing a favourite follows the announcement shape: date first, one honest reason, what stays the same, and a real way to keep going."
   }
  ]
 }

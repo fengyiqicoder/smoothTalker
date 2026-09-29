@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -64,6 +64,13 @@
    "reply": "小罗，背调的事我又想了想，想提前跟你说清楚。你做应收那两年的专业能力我可以很有底气地讲，比如你把月底对账从六天压到了三天。但这个岗位要带五个人，管理这块我没见你做过，对方要是重点问，我只能如实说不在我看到的范围里。要不要再加一位见过你带项目、协调别人的推荐人，比如王姐？专业这部分我照样全力讲。",
    "lang": "zh",
    "note": "答应后才发现只能讲一部分：提前私下说清能讲什么、不能讲什么，再帮她找一位能补上的推荐人。"
+  },
+  {
+   "id": "write-a-recommendation-or-reference-010",
+   "situation": "The hiring manager at Fenwick Studio, Laura Grant, emailed asking me for a reference for Tariq Hassan, who's applying for Design Lead. We worked at the same agency for two years on different teams, and we're also close friends. I want to be upfront about that without weakening the reference.",
+   "reply": "Hi Laura,\nThanks for getting in touch about Tariq. So you can weigh this properly: Tariq and I worked at Northlight Agency from 2023 to 2025 on neighbouring teams, me on product and him on brand, and we've since become close friends. I saw his work most closely on the Halden Bank rebrand, where he led three designers and delivered the full identity in ten weeks, a month ahead of plan. He was also the person juniors went to for crits; two designers he mentored were promoted within a year. I wasn't on his team, so I can't speak to his day-to-day management. For a design lead role I recommend him strongly, and I'm glad to talk: 07700 900318 or m.shaw@example.com.\nBest,\nMegan Shaw",
+   "lang": "en",
+   "note": "Disclosing the friendship and naming what you did not see makes the specific evidence more credible, not less."
   }
  ]
 }

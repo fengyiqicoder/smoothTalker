@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -71,6 +71,13 @@
    "reply": "Hi Marta, thanks for booking with us! Your first clean is Thursday 8 October, 9am to 12, then every other Thursday at the same time. Could you reply by Monday the 5th with three things: how we'll get in (you at home, a key safe or a spare key), any pets we should know about, and any rooms or products to avoid? Each visit covers the kitchen, bathrooms, dusting, floors and bins; ovens and inside windows are extras we can quote for any time. Questions, text me on 07700 900456, I usually reply within a couple of hours. Ines",
    "lang": "en",
    "note": "One list, one deadline, and what's included said once up front, so nobody is disappointed on the first visit."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-011",
+   "situation": "Arrendei o meu T1 em Lisboa, na Rua de Arroios, à Inês Carvalho. Ela entra quinta-feira, 1 de outubro, e já pagou a caução e a primeira renda. Quero mandar uma mensagem de boas-vindas e preciso que me envie a leitura do contador da luz no dia em que entrar.",
+   "reply": "Olá Inês, bem-vinda e obrigada pela confiança! Fica combinado assim: na quinta, 1 de outubro, a D. Rosa, a porteira, entrega-lhe as chaves a partir das 14h. No próprio dia só preciso de uma coisa: uma foto da leitura do contador da luz, para a primeira fatura ficar certa. Para qualquer avaria ou dúvida, ligue ou mande mensagem para o 912 345 678; costumo responder no mesmo dia. Boa mudança! Marta",
+   "lang": "pt",
+   "note": "Primeira mensagem curta: data e hora concretas, um único pedido com o motivo e o contacto de uma pessoa; o inventário vai em anexo, não na mensagem."
   }
  ]
 }

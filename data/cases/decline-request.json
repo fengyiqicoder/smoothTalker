@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "decline-request-001",
@@ -71,6 +71,13 @@
    "reply": "刘先生您好，谢谢您信得过我。照猫这件事我就不接了，别人家的宠物我一向不帮忙照看，怕万一有情况担不起。小区门口的'喵星球'宠物店有上门喂养服务，您可以去问问。国庆愉快！",
    "lang": "zh",
    "note": "不太熟的邻居：用一条规矩拒绝，不用编理由；有真实可用的去处就给一个，简短收尾。"
+  },
+  {
+   "id": "decline-request-011",
+   "situation": "Mi cuñado Andrés me pidió prestado el coche una semana, del 10 al 17 de octubre, para irse a la costa con unos amigos. No presto el coche a nadie y el seguro solo me cubre a mí.",
+   "reply": "Andrés, gracias por preguntarme directamente. Te voy a decir que no: el coche no lo presto, es una regla que tengo con todo el mundo, y además el seguro solo me cubre a mí. Si te sirve, te paso el contacto de la agencia donde alquilé el verano pasado, tenían buen precio por semana. ¡Que lo paséis genial en la costa!",
+   "lang": "es",
+   "note": "Una regla para todos es difícil de discutir; la alternativa es pequeña y real. Si insiste: 'Te entiendo, pero mi respuesta es la misma'."
   }
  ]
 }

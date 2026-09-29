@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -64,6 +64,13 @@
    "reply": "小陈，还剩两节课了。这两个月你深蹲从40公斤到了70公斤，腰也不疼了，进步真的很明显。如果接下来想继续练增肌，比较合适的是再买20节的课包，一共5400元，每节比单买便宜30元。说实话，现在动作你都掌握了，自己按计划练也完全可以，我可以把接下来两个月的计划写好发你。你考虑看看，不续也没关系。",
    "lang": "zh",
    "note": "在效果最好的时候提，只提一个选项，价格说清楚，同时给出不花钱的选择；诚实的替代方案才让建议可信。"
+  },
+  {
+   "id": "upsell-without-pushiness-010",
+   "situation": "I'm a heating engineer. Mr. Okafor had his boiler serviced last Oct 14 and hasn't booked this year's. The boiler is 11 years old. I want to text a reminder that doesn't read like a sales pitch.",
+   "reply": "Hi Mr. Okafor, it's Dan from Warmway Heating. Your boiler's yearly service comes up around Oct 14, and it's worth doing before the first cold week, since that's when an 11-year-old boiler is most likely to play up. Same $95 as last year. I have Thursday Oct 8 at 9am or Tuesday Oct 13 at 2pm; if you'd rather leave it for now, no problem at all.",
+   "lang": "en",
+   "note": "A repeat-service nudge works on a real reason and real dates, not a discount, and the easy no stays in."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -64,6 +64,13 @@
    "reply": "Marco! It's been about four years, which is ridiculous. I'm in Lisbon for work from Friday 16 October to the Monday, and my first thought was you and all those pastel de nata photos you used to send the group chat. Any chance you're free for a coffee or a beer on the Saturday or Sunday? No pressure at all if the timing's bad.",
    "lang": "en",
    "note": "A trip to their city is a natural reason to reach out: name the gap once, one shared memory, specific days, and an easy no."
+  },
+  {
+   "id": "reconnect-after-silence-010",
+   "situation": "Ich habe meiner alten Mitbewohnerin Katrin nach drei Jahren Funkstille geschrieben. Sie hat nur kurz geantwortet: 'Hey, lange nicht gehört! Alles gut hier, und bei dir?' Ich weiß nicht, ob sie überhaupt Lust auf Kontakt hat.",
+   "reply": "Bei mir alles gut, danke! Ich wohne seit März in Leipzig und arbeite jetzt in einer Buchhandlung, was mir erstaunlich gut gefällt. Machst du eigentlich noch deine Sonntagspfannkuchen? Ich denke jedes Mal an dich, wenn ich welche mache.",
+   "lang": "de",
+   "note": "Eine kurze Antwort ist kein Nein: Länge spiegeln, ein konkretes Detail, eine leichte Frage. Antwortet sie wärmer, im nächsten Schritt ein konkretes Telefonat oder Treffen vorschlagen."
   }
  ]
 }

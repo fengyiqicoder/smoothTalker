@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "apologize-001",
@@ -71,6 +71,13 @@
    "reply": "You're right, and I'm so sorry. You told me about the IVF in confidence and I repeated it to Chloe on Friday. That was yours to share, not mine, and I took that choice away from you at a time that's already hard. I won't bring it up with anyone again. I'm here whenever you want to talk, or not.",
    "lang": "en",
    "note": "Breaking a confidence: no 'I thought she knew', name what you took from her, and don't ask if you're okay."
+  },
+  {
+   "id": "apologize-011",
+   "situation": "我是小区志愿者群的负责人。上周六（9月26日）的垃圾分类宣传活动，我在群里把集合时间写成了早上8点，其实是9点，十几位邻居白白早到，在门口等了一个小时。想在群里正式道个歉。",
+   "reply": "各位邻居，上周六活动的集合时间是我在群里写错了，写成了8点，实际是9点，让十几位邻居一早赶过来，又在门口多等了一个小时，真的对不起。以后每次活动通知，我发之前先跟社区王主任核对一遍，活动前一晚再在群里提醒一次时间。下次活动的早饭我来准备。",
+   "lang": "zh",
+   "note": "群里道歉：说清具体错在哪、给大家带来的影响，再给一个以后怎么避免的做法，不用解释是怎么写错的。"
   }
  ]
 }

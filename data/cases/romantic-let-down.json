@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -64,6 +64,13 @@
    "reply": "Thanks for asking, and I owe you a straighter answer than the one I gave last time. I'm not feeling a romantic connection, so I don't think we should go on a second date. I should have said that two weeks ago instead of blaming exams. I really did enjoy hearing about your Hanoi trip, and I wish you well.",
    "lang": "en",
    "note": "When you gave a soft maybe, correct it once and cleanly; owning the dodge in one line beats inventing a new excuse."
+  },
+  {
+   "id": "romantic-let-down-010",
+   "situation": "I work in a bookshop and a regular, Owen, asked me out at the till on Tuesday. I panicked and said I'd think about it. He comes in every Saturday, so I want to give him a clear no in person and keep things normal when he's in the shop.",
+   "reply": "Hi Owen, I owe you a straight answer to what you asked on Tuesday. Thank you, that was kind of you. I don't see us that way, so it's a no from me. You're always welcome here, and I'll keep setting the new crime novels aside for you.",
+   "lang": "en",
+   "note": "'I'll think about it' is a maybe that makes him wait; correct it at the next chance, in person since that's where he asked, and signal the shop stays normal."
   }
  ]
 }

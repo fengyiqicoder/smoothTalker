@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -71,6 +71,13 @@
    "reply": "Dev, I'm so sorry about your dad. I keep thinking about the two of you at Edgbaston every summer. You don't need to say anything, I just wanted to be here.",
    "lang": "en",
    "note": "In a receiving line, two or three sentences. If you never met the person, something the griever told you about them does the work of a memory."
+  },
+  {
+   "id": "condolences-and-support-011",
+   "situation": "一起共事了十年的同事老周上周突发心梗走了。我没见过他太太，想请同事转一封信给她，说说老周在单位是什么样的人。",
+   "reply": "周太太您好，我是老周在设计院的同事李明，和他共事了十年。听到消息，我们都很难过。老周是我们组最靠得住的人，谁的图纸出了问题，他都会留下来陪着改到半夜，第二天还拎一兜包子来。他常说起您和女儿，说周末最盼的就是一家人去爬紫金山。我们都会记得他。单位这边的手续，您告诉王主任一声，我们来跑。您不用回信。",
+   "lang": "zh",
+   "note": "写给不认识的家属，最珍贵的是具体的往事和他在别人眼里的样子；先说明自己是谁，免去回复。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -70,6 +70,13 @@
    "reply": "Hi Ben, last note from me on this. If route planning isn't a priority for Northgate right now, no worries at all, and I'll leave it here. If it becomes one, the Halden Freight numbers (11% fewer miles in their first quarter) will still be on our site. Door's open.",
    "lang": "en",
    "note": "The final follow-up is short, carries no guilt, leaves one reason to come back later, and then you actually stop."
+  },
+  {
+   "id": "cold-outreach-011",
+   "situation": "I run a 3,000-member Slack group for indie bookshop owners. I cold-DMed Hannah, who writes the Shelf Life newsletter about bookselling, asking if she'd hear a two-line idea for a joint piece. She replied: 'Sure, what's the idea?'",
+   "reply": "Thanks, Hannah. The idea: a short survey of our 3,000 members on how they price secondhand books, with the results published first in Shelf Life in November. We'd write and run the survey; you'd only need to share the link once. Interested?",
+   "lang": "en",
+   "note": "Once they say 'go on', keep the promise you made: two lines, what it costs them, and a yes/no question."
   }
  ]
 }

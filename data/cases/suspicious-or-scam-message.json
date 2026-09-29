@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Dana, quick check: I just got a text from (415) 555 0192 signed as you, asking me to buy five $100 Apple gift cards and send the codes. I haven't bought anything or replied. I'm guessing that wasn't you? I'll forward it to IT unless you tell me otherwise.",
    "lang": "en",
    "note": "Send this on Slack or Teams, never to the number. Gift cards, urgency and a new number are the tell; new starters are targeted because they don't want to ask, and asking never looks stupid."
+  },
+  {
+   "id": "suspicious-or-scam-message-010",
+   "situation": "我在闲鱼上卖一台二手iPad，标价2300。有个买家说要走'担保交易'，让我加他微信，再点他发的链接'开通商家保证金'，还说不开通的话货款会被冻结。",
+   "reply": "不用了，我只在闲鱼里交易。您直接在平台拍下付款就行，同城的话也可以当面验货付款。其他链接我不会点。",
+   "lang": "zh",
+   "note": "要你离开平台、点陌生链接、先交'保证金'，三个信号占全了。回一句守住平台规则就停，不争论，然后在闲鱼里举报并拉黑；要确认规则就自己打开闲鱼App查。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -71,6 +71,13 @@
    "reply": "Thanks for asking first, it sounds like a lovely first piece. We can't tattoo anyone under 18, even with a parent's consent; that's UK law, not a studio rule. What we can do is design the moon with her now and book her in for Saturday 21 November, the day after her birthday. Want me to hold that slot?",
    "lang": "en",
    "note": "When the no is the law, say so in one clause; the alternative is the same tattoo on the first day it's allowed."
+  },
+  {
+   "id": "say-no-to-a-customer-request-011",
+   "situation": "我在南京做手作蛋糕，只送主城区15公里以内。有位客人订了10月3日（周六）的生日蛋糕，想让我送到溧水，大概60公里。我一个人做一个人送，那天还有别的单。",
+   "reply": "谢谢您选我们家的蛋糕！溧水我这边送不了，我是一个人做一个人送，来回三个小时会耽误当天其他客人的蛋糕。可以这样：10月3日下午2点后您来店里自提，我用保温箱加冰袋装好，路上一个多小时没问题；或者您约个跑腿，我负责打包好交给师傅。您看哪个方便？",
+   "lang": "zh",
+   "note": "先说送不了，理由一句讲清楚，再主动给两个能落地的办法，不让客人自己去想。"
   }
  ]
 }

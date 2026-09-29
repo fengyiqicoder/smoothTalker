@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -71,6 +71,13 @@
    "reply": "Subject: Tidepool is shipping late, and why\nHi everyone,\nTidepool won't ship by October 15 as promised; it will ship on November 26. We approved a print proof with the wrong colours on the reef cards and didn't catch it, so the whole run is being reprinted. I'm sorry, that miss was ours. You don't need to do anything: your order stands, and every copy will include an extra promo card. If you'd rather not wait, reply 'refund' any time before it ships and your money will be back within five days. From now on we check a printed proof, not just the PDF, before anything goes to press.\nLeah, co-founder",
    "lang": "en",
    "note": "A broken promise is a public apology too: the new date first, own the miss without blaming the printer, and make the refund one word."
+  },
+  {
+   "id": "public-apology-from-a-business-011",
+   "situation": "We run Marlow Books. At our author event on Saturday the step-free side door was locked and nobody was on it, so a wheelchair user, Dee, waited 25 minutes outside and missed the reading. She posted about it on Instagram and tagged us. I'm the owner, Sophie.",
+   "reply": "Dee, you're right and I'm sorry. On Saturday our step-free door was locked with nobody there to open it, so you waited 25 minutes outside and missed the reading you came for. That's on us as a shop. I've sent you a DM to refund your ticket and to send you a signed copy of the book if you'd like one. From this week the side door is unlocked and staffed from 30 minutes before every event. Sophie, owner.",
+   "lang": "en",
+   "note": "Reply where she posted, own it as the business without blaming a staff member, name one concrete change, and move the refund to DM."
   }
  ]
 }

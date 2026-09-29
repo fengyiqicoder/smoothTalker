@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -71,6 +71,13 @@
    "reply": "谢谢王女士把情况写得这么具体。烫完第二天发尾就干枯打结，这不是我们该给您的结果；烫前没有好好评估您的发质，是我们的问题。现在店里所有烫染前都会先做发质检测，受损的头发会先建议护理再做。想当面帮您看看怎么修护，麻烦直接打店里电话021-6288 4130找我。店长 林悦",
    "lang": "zh",
    "note": "公开回复只认一次错、说改了什么，补偿和修护放到私下谈；也不在公开回复里提她漂过色这样的细节。"
+  },
+  {
+   "id": "respond-to-negative-review-011",
+   "situation": "I own a bookshop, Lark Books. 2-star Google review from 'Tom R.': he uses a wheelchair, couldn't get over our front step, and the staff member at the till didn't know we had a portable ramp. We do have one, it was in the back room.",
+   "reply": "Thank you for telling us, Tom, and I'm sorry. You should have been able to come straight in, and our team not knowing about the ramp was our failure, not yours. The ramp now lives by the front door, there's a bell and a sign outside, and every member of staff has practised setting it up. I'd like to make it right; please email me at sophie@larkbooks.co.uk. Sophie, owner.",
+   "lang": "en",
+   "note": "Own an accessibility failure fully in public and say what physically changed, so the next wheelchair user reading knows they can get in."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -71,6 +71,13 @@
    "reply": "今天真的太开心了，谢谢你们俩过来！我得收个尾了，我们俩有点撑不住，明天中午还要去我妈那儿吃饭。下次换你们家，我这就帮你们叫车。",
    "lang": "zh",
    "note": "做主人也要自己收尾：先暖暖地总结一句，再给真实的理由，最后用一个具体动作（叫车）结束，而不是等对方领会暗示。"
+  },
+  {
+   "id": "end-conversation-gracefully-011",
+   "situation": "I'm on a five-hour flight to Denver and the woman next to me, Linda, has been chatting for about an hour, mostly about her granddaughter's dance recital. She's lovely, but I need to sleep before a presentation first thing tomorrow. What do I say?",
+   "reply": "It's been really nice chatting, Linda. I've got a presentation first thing tomorrow, so I'm going to put my headphones in and try to sleep for a bit. I hope the recital is wonderful.",
+   "lang": "en",
+   "note": "When you can't physically leave, a warm recap plus a visible signal (headphones in) closes it; don't end on a question."
   }
  ]
 }

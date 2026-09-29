@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -71,6 +71,13 @@
    "reply": "Fair, I should have flagged it last week when the photos slipped. The full guide will be with you by 10am Wednesday Oct 7, and I'll send the logo and colour pages on Friday so your team can start on the signage.",
    "lang": "en",
    "note": "When they're annoyed you asked late: one line of ownership, the date, a partial delivery, and no defence."
+  },
+  {
+   "id": "ask-for-extension-011",
+   "situation": "租的房子10月31日到期，已经跟房东张阿姨说好不续了，月租4500。结果新房装修延期，要11月14日才能搬进去。想问她能不能让我多住两周，房租按天算。",
+   "reply": "张阿姨您好，想早点跟您商量一件事。我新房的装修延期了，要到11月14日（周六）才能入住。能不能让我多住两周，11月14日搬走？房租按天算，这两周是2,100元，我10月31日前一次付清。如果您已经约了新租客或者有别的安排，也请直接告诉我，我再想办法。",
+   "lang": "zh",
+   "note": "越早问越好：一句原因、一个具体日期、钱怎么算说清楚，再给对方一个方便说不的台阶。"
   }
  ]
 }

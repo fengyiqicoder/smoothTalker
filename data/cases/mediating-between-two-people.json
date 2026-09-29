@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -71,6 +71,13 @@
    "reply": "Heads up so there are no surprises: I've invited Mia to my 30th on Saturday the 17th as well. I'm not trying to set anything up, and I'm telling her the same about you. I'd really love you there. If it feels like too much, I get it, and we'll do dinner just us the week after.",
    "lang": "en",
    "note": "Same words to both, sent separately: no ambush, no engineered reunion, and a real out that protects your friendship with each."
+  },
+  {
+   "id": "mediating-between-two-people-011",
+   "situation": "My sons, Ethan (16) and Leo (13), have been at war for weeks over the shared Xbox, slamming doors and texting me separately to complain about each other. I've heard each of them out. Tonight after dinner I'm sitting them down together. How do I open it?",
+   "reply": "Thanks for sitting down, both of you. I'm not here to decide who's right, and I'm not going to keep passing complaints back and forth. Tonight we're only talking about the Xbox, nothing else. One person talks at a time, no interrupting, and let's try to leave the table with one thing we agree on, even if it's just who has it this Saturday.",
+   "lang": "en",
+   "note": "Even as the parent, stay neutral on who's right: one topic, one speaker at a time, and aim for one small agreement rather than a full peace deal."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -70,6 +70,13 @@
    "reply": "Understood, and thank you for telling me straight, Rachel. That's genuinely helpful, and I'll ask Anton instead. Hope the new role is treating you well.",
    "lang": "en",
    "note": "A no gets one line of thanks, no 'why', and the next name gets asked the same day."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-011",
+   "situation": "我在悄悄看机会，一家新公司已经到背调阶段，要一位现同事做证明人。想请隔壁组的赵姐帮忙，我们一起做过去年的会员系统项目。但我还没跟领导说在找工作。",
+   "reply": "赵姐，想请你帮个忙：我在看外面的一个机会，已经到背调阶段，对方需要一位现在的同事接个电话，大概15分钟，下周内都可以。我们一起做过去年的会员系统，对方可能会问三点：我负责的数据迁移、跟产品组的协作、项目赶工时我怎么排优先级。这事我还没跟领导说，麻烦先帮我保密。如果你觉得为难，完全没关系，我再找别人。",
+   "lang": "zh",
+   "note": "在职背调：一次说清要做什么、多长时间、会被问什么，保密的请求说在明处，出口要真心。"
   }
  ]
 }

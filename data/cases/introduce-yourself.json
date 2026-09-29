@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -64,6 +64,13 @@
    "reply": "Ha, fair, three managers in two years would make me skeptical too, Gary. I'm planning to stick around long enough to get annoying. Since you've watched all three of us come and go, what's the one thing on the floor you'd fix first? I'm on the night shift Thursday, happy to hear it over a coffee.",
    "lang": "en",
    "note": "Take the jab lightly, agree with the true part, and make the skeptic the first person whose opinion you ask for."
+  },
+  {
+   "id": "introduce-yourself-010",
+   "situation": "10月1日（木）に中途入社して、営業企画部に配属されます。初日に部署の約30人へ自己紹介メールを送る予定です。堅すぎず、でも失礼のない感じにしたいです。",
+   "reply": "営業企画部の皆さま、本日より営業企画部に配属となりました佐藤美穂と申します。前職では食品メーカーで6年間、スーパー向けの販促企画を担当し、売場ごとの数字とにらめっこしてきました。休日は多摩川沿いを走っていて、11月のハーフマラソンに向けて練習中です。早く皆さまのお仕事を知りたいので、ランチなどでお話を聞かせていただけたら嬉しいです。どうぞよろしくお願いいたします。",
+   "lang": "ja",
+   "note": "丁寧語は守りつつ、具体的な仕事の話を一つ、人柄が見える話を一つ、最後に声をかけやすい誘いを入れる。"
   }
  ]
 }

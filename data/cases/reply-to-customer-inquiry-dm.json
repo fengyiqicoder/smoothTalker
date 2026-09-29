@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Jenna! Yes, wholesale is $16 a candle, with a 24-candle minimum that you can mix across scents. Orders ship within a week, and the fig one is our bestseller, so it's a good pick. Want me to send over the wholesale sheet with all 9 scents?",
    "lang": "en",
    "note": "Wholesale inquiry: answer with the price and minimum first, add the one fact a shop owner needs next, then one easy next step."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-010",
+   "situation": "I sell linen aprons on Instagram. Someone DMed 'hi! is the rust apron back in stock? it's for my mom's bday on oct 10'. The rust restock doesn't arrive until Oct 16.",
+   "reply": "Hi! The rust one is back on Oct 16, so it won't make the 10th, sorry. The terracotta is in stock, a shade lighter, and orders by Monday Oct 5 arrive in time. Want a photo of the two side by side?",
+   "lang": "en",
+   "note": "Answer first even when it's a no, then the nearest option that meets their real deadline, and one easy question."
   }
  ]
 }

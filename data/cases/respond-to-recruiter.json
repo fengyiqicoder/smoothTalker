@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -64,6 +64,13 @@
    "reply": "Thanks for reaching out, Marcus. This one isn't for me, I'm not looking right now. A former colleague, Tanvi Rao, led QA on our mobile apps for three years and is open to new roles; I'll check with her today and, if she's keen, introduce you both by email. Feel free to keep me in mind for engineering management roles later on.",
    "lang": "en",
    "note": "A no can still be useful to them: answer first, and offer a referral only after checking with the person you're naming."
+  },
+  {
+   "id": "respond-to-recruiter-010",
+   "situation": "ビズリーチ経由で、エージェントの田中さんから物流系SaaS企業のプロダクトマネージャー職のスカウトが来た。興味はあるけど、自分はPM歴5年で今は3人のチームのリード。募集要項を見るとメンバークラスっぽいので、面談の前にレベル感と年収レンジを確認したい。",
+   "reply": "田中様\nご連絡ありがとうございます。物流領域には関心があり、前向きに検討したいと考えています。面談の前に2点確認させてください。1点目はポジションのレベルです。現在PMとして5年、3名のチームのリードをしておりますので、リード以上のポジションを想定されているかを伺えますか。2点目は想定年収レンジです。この2点が合うようでしたら、10月6日（火）か7日（水）の19時以降にお話しできれば幸いです。\nよろしくお願いいたします。\n山本",
+   "lang": "ja",
+   "note": "レベルと年収レンジを面談前に聞いておけば、合わない場合にお互いの時間を使わずに済む。"
   }
  ]
 }

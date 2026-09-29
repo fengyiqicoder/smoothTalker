@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -71,6 +71,13 @@
    "reply": "Hey, small car thing before Saturday. It's come back on the fuel light a few times lately, and twice this month that's made me late for work on Monday morning. Could we go with a simple rule: it comes back with at least a quarter tank? Happy to keep lending it, that's the only ask.",
    "lang": "en",
    "note": "One behaviour, the concrete effect on you, and a rule that's easy to check, with the lending itself not in question."
+  },
+  {
+   "id": "ask-to-change-behavior-011",
+   "situation": "My teammate Ryan keeps cutting me off in our Monday planning meetings, usually just as I get to my recommendation. It's happened three weeks running. We're peers and get along fine. Want to DM him on Slack before next Monday.",
+   "reply": "Hey Ryan, small thing before Monday. In the last few planning meetings you've come in just as I was getting to my recommendation, so the team ends up hearing half the idea. I doubt it's noticeable from your side. Could you let me finish the point, then jump in? Happy to do the same for you, and tell me if I'm going on too long.",
+   "lang": "en",
+   "note": "One observable behaviour, a private channel, and an ask he can act on in the moment; offering the same back keeps it between peers."
   }
  ]
 }

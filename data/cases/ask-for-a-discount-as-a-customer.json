@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -71,6 +71,13 @@
    "reply": "张老板您好，我们公司定了10月20日、21日（周二、周三）两晚团建，22个人，很想就定在您家包栋。报价是每晚8,800元，因为是国庆后的工作日，想问能不能按每晚7,500元，两晚一共15,000元？可以的话，我今天就把定金转给您。如果价格不好动，也没关系，跟我说一声就行。",
    "lang": "zh",
    "note": "没有竞品报价就不编，用淡季工作日和当天付定金做筹码；价格不动就只再要一个附加项，比如含早餐或延迟退房。"
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-011",
+   "situation": "I want the Hayes 3-seater sofa at a furniture store, listed at $1,899. The floor model has a scuff on the back leg and a pulled thread on one cushion. I'd happily take the floor model today if they knock something off.",
+   "reply": "Hi, I'd like to buy the Hayes sofa today and I'm happy to take the floor model as it is. It has a scuff on the back left leg and a pulled thread on one cushion, so would you do $1,550 for it? If yes, I'll pay now and book delivery for this Saturday.",
+   "lang": "en",
+   "note": "The wear is the anchoring fact, stated plainly without running the sofa down. If the price is firm, ask for free delivery before paying."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -71,6 +71,13 @@
    "reply": "Hey Josh, for Sophie's bag: it came to £240, so £40 each. My details are sort code 20-45-77, account 41558203. I'm clearing it off my card this weekend, so before Saturday would be great. Hope the new job's going well!",
    "lang": "en",
    "note": "Chase group-gift stragglers one at a time, in private, with the number and how to pay; never in the group chat."
+  },
+  {
+   "id": "money-between-friends-011",
+   "situation": "下周六10月10日和大学同学六个人聚餐，每次都AA。上次他们点了两瓶红酒一千多，我不喝酒也跟着均摊了。这次想提前在群里说，酒水单独算。",
+   "reply": "周六见！提前说个小事：我不喝酒，这次酒水能不能喝的人单独分，饭菜还是六个人AA？我来负责结账，吃完在群里发明细，大家转我就行。",
+   "lang": "zh",
+   "note": "饭前定规则比买单时再算轻松得多；只讲办法，不翻上次的账，自己揽下结账让大家更容易同意。"
   }
  ]
 }

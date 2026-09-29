@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -71,6 +71,13 @@
    "reply": "Bonjour Julien, merci de me le dire franchement, c'est plus simple pour tous les deux. Je peux accepter un paiement en trois fois pour la facture n°2026-114 (3 600 €) : 1 200 € le vendredi 2 octobre, 1 200 € le lundi 2 novembre et 1 200 € le mardi 1er décembre. Pouvez-vous me confirmer cet échéancier par retour de mail d'ici jeudi 1er octobre ? Dès réception du premier versement, je lance la phase 2 comme prévu.",
    "lang": "fr",
    "note": "Un « dès que possible » devient un échéancier daté et écrit : on accepte le plan, pas le flou, et la suite du travail dépend du premier versement."
+  },
+  {
+   "id": "chase-late-payment-011",
+   "situation": "I rent out a one-bed flat to Jordan, who's paid $1,450 on the 20th every month for two years without fail. September's rent hasn't arrived and it's now 9 days late. I don't want to sound like I'm accusing him.",
+   "reply": "Hi Jordan, a quick note that September's rent of $1,450, due on the 20th, hasn't come through on my side yet. You've always been spot on, so it may just be a transfer that didn't go through. Could you check and let me know by Friday when it's on its way? If something's come up, tell me and we'll work out a plan.",
+   "lang": "en",
+   "note": "Stage one with a long clean record: assume admin error, give the amount and due date, and leave room for a real problem."
   }
  ]
 }
