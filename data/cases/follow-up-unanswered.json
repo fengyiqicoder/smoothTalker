@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Dr. Hayes,\nI know the start of term is hectic. A quick note on the recommendation for the Urban Planning MA at Northfield: the portal still shows it as pending, and the deadline is Thursday 15 October. I've pasted the upload link below so you don't have to dig for it. If a short list of the projects I did in your seminar would save you time, I can send it today.\nThank you again,\nSofia",
    "lang": "en",
    "note": "Assume busy, restate the thing and the date in one line, and make doing it easier than postponing it. Don't ask whether they're still willing."
+  },
+  {
+   "id": "follow-up-unanswered-005",
+   "situation": "10天前微信问大学室友小敏愿不愿意明年5月当我伴娘，她显示已读但一直没回。她最近刚换工作。我有点慌，怕她不想又不好意思拒绝。",
+   "reply": "小敏，知道你刚换工作肯定忙翻了。上次问你明年5月当伴娘的事，你别有压力，愿意、不方便、还要再想想，哪个答案都完全没问题。11月15日前告诉我一声就行，我好安排礼服。",
+   "lang": "zh",
+   "note": "给她一个体面说“不”的出口，截止时间说成是为了安排礼服，不是催她。"
   }
  ]
 }

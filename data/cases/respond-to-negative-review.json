@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -29,6 +29,13 @@
    "reply": "感谢您写下这次的经历，拔牙后疼了三天确实很难受，术后电话没能及时接通也是我们的问题。出于对患者隐私的保护，我们不在公开平台讨论具体诊疗情况，但我很想亲自了解您现在的恢复。我是诊所负责人陈立新医生，您可以直接打我的电话 0571-8826 3310，工作日9点到18点我都在，需要的话我们安排免费复查。陈立新",
    "lang": "zh",
    "note": "Medical and legal settings: never confirm treatment details in public; own the phone issue, move the rest offline."
+  },
+  {
+   "id": "respond-to-negative-review-005",
+   "situation": "I run a plumbing company. I replied politely to a 2-star review from 'Derek P.' about a technician arriving late. He's now edited it to 1 star, calling our reply 'corporate BS' and saying his leak still isn't fixed.",
+   "reply": "Derek, I'm sorry this still isn't fixed. I've sent you a direct message with my mobile number, and I can have a technician at yours tomorrow morning if that suits. Luis, owner.",
+   "lang": "en",
+   "note": "The second public reply is shorter than the first; don't defend the first one, and move everything else to private."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -29,6 +29,13 @@
    "reply": "是我这份，财务的数据昨天下午才给到，我今天中午12点前发到群里。晚了一天，耽误大家汇总了，不好意思。",
    "lang": "zh",
    "note": "The dig has a real complaint inside it, so answer the contents with a time; do not comment on his tone in front of the group."
+  },
+  {
+   "id": "respond-to-passive-aggressive-005",
+   "situation": "My sister texted 'Don't worry, I'll host Thanksgiving AGAIN, it's fine, someone has to.' She's hosted three years running and I did say I'd take a turn. I'd rather not do this over text.",
+   "reply": "That sounds like it's not fine, and fair enough: you've hosted three years in a row and I said I'd take a turn. Can I call you tonight after 8? I'd like to sort out this year properly, and I'm happy for it to be at mine.",
+   "lang": "en",
+   "note": "The dig wraps a legitimate point, so own it and move to a call; over text this one turns into a fight."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "small-talk-001",
@@ -29,6 +29,13 @@
    "reply": "Arjun tells me you restore old Royal Enfields. Which one's in the garage at the moment?",
    "lang": "en",
    "note": "Open on the thing he cares about, then let the next question come from his answer (\"How long does one take, start to finish?\") and share one small thing back before returning to him."
+  },
+  {
+   "id": "small-talk-005",
+   "situation": "First video call with my new team and I'm always early. It'll probably be just me and Inês, who's based in Lisbon, waiting for a few minutes. All I know is she's the data analyst.",
+   "reply": "Hi Inês, looks like we're the early ones. I'm new this week, so I'll just ask: what's one thing about this team you wish someone had told you in your first month?",
+   "lang": "en",
+   "note": "Asks for a view she actually has, which gives a thread to follow; the next question should come from her answer."
   }
  ]
 }

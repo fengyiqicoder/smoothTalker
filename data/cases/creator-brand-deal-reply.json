@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -35,6 +35,13 @@
    "reply": "Hi Priya, just following up on the proposal I sent on 21 September for the Oakfield cast iron video. If the budget or timing has shifted, tell me and I'm happy to suggest a smaller option, like a story set of three. If it's not going ahead, no problem at all, and I'd be glad to hear from you for a future campaign.",
    "lang": "en",
    "note": "One follow-up after a week, with an easy smaller option and an easy no. If this gets silence too, treat it as a no and move on."
+  },
+  {
+   "id": "creator-brand-deal-reply-006",
+   "situation": "和一个露营装备品牌谈好了：一条抖音视频加三篇小红书图文，10月15号到25号之间发，总价8000元，先付一半，含30天授权，不排他。对接人是小林，想发条消息把条款确认下来。",
+   "reply": "小林你好，确认一下我们谈好的内容：一条抖音视频加三篇小红书图文，10月15日到25日之间发布，总价8000元，签约后预付50%，交付后付剩余50%，含30天自然流量授权，不含投流，不排他。今天我会把预付款的发票和内容脚本发你，脚本确认后就开始拍。如果哪一项和你的理解不一样，直接告诉我。",
+   "lang": "zh",
+   "note": "条款、付款方式和授权范围都落在文字里再开工，确认消息本身就是合同的草稿。"
   }
  ]
 }

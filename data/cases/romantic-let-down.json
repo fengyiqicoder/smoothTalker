@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -29,6 +29,13 @@
    "reply": "Theo, thank you for telling me, I know that took guts. I don't feel the same way, and I'd rather be straight with you than leave it hanging. I really value you as a friend and I'd love to keep climbing on Thursdays, but if you want to skip a few weeks first, that's completely fine.",
    "lang": "en",
    "note": "Friendship is offered only because she genuinely wants it, and the space line lets him step back without it meaning anything."
+  },
+  {
+   "id": "romantic-let-down-005",
+   "situation": "Been seeing Marcus for about 10 weeks. He's lovely but I'm just not feeling it. We have dinner booked Thursday and I don't want to do it there, so I'm calling him tonight. What do I actually say?",
+   "reply": "Marcus, I want to be straight with you, because you deserve that. I've realised I'm not in this the way I'd want to be, and it isn't fair to either of us for me to keep going, so I don't think we should do dinner on Thursday. You've been really kind to me these last couple of months. I'm sorry.",
+   "lang": "en",
+   "note": "After a couple of months, a call rather than a text, and before the booked dinner so he isn't told over a table he can't leave. If he asks why, it's fit, not a list."
   }
  ]
 }

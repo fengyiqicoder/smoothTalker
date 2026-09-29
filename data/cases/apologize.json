@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "apologize-001",
@@ -36,6 +36,13 @@
    "reply": "Ethan, I'm sorry I yelled at you last night. The dishes were a small thing and I blew it up because I'd had a rough day, which isn't on you. I know it made you feel like you couldn't do anything right, and that's not true. Pizza and the match tonight, just us?",
    "lang": "en",
    "note": "Kids need the same four parts as adults: the specific thing, ownership, the impact, and something that repairs. The context goes in one clause, after ownership."
+  },
+  {
+   "id": "apologize-006",
+   "situation": "I'm a team lead. In yesterday's leadership meeting I presented the churn analysis my report Aisha did and never mentioned her. She found out from the meeting notes. I want to message her before our 1:1 tomorrow.",
+   "reply": "Aisha, I presented your churn analysis at yesterday's leadership meeting without crediting you, and I'm sorry. It was your work and your insight, and your name should have been on it in that room. It probably felt like I took it, and in effect I did. I've emailed the leadership group this morning to say the analysis is yours, and when it goes to the board on 15 October I'd like you to present it.",
+   "lang": "en",
+   "note": "Names the exact failure, owns it without a 'but', and the fix is public because the harm was public."
   }
  ]
 }

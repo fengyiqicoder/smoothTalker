@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -29,6 +29,13 @@
    "reply": "1802的邻居您好，我是楼下1702的小林。最近晚上11点以后，楼上拖椅子和走路的声音在我家听得挺清楚，我早上6点要起床，有时会被吵醒。能不能11点以后稍微轻一点？我多买了一包椅子脚垫，如果您用得上，我放在您门口。谢谢您！",
    "lang": "zh",
    "note": "不认识的邻居就用纸条，默认对方不知道；只说一个具体行为和时间段，再附一个很容易做到的办法。"
+  },
+  {
+   "id": "ask-to-change-behavior-005",
+   "situation": "My mum keeps posting photos of our 4-month-old, Leo, on her public Facebook. She's so proud and I don't want to hurt her, but we'd rather he wasn't online. Texting her.",
+   "reply": "Hi Mum, small thing, and definitely not a telling-off: the photos of Leo on your Facebook, we'd rather keep him off public posts for now. We just feel better keeping his pictures within the family. Could you share them in the family WhatsApp instead? I'll keep sending you plenty, I promise.",
+   "lang": "en",
+   "note": "With a parent, name the one behaviour, give them a better place for the pride, and keep the reason about your comfort, not their judgement."
   }
  ]
 }

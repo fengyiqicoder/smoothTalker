@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -28,6 +28,13 @@
    "reply": "I'm enjoying this and I'd rather keep it going in person. A drink this week? I'm free Thursday evening or Sunday afternoon, and there's a bar on Elm Street that screens terrible horror movies on Sundays, which feels like a sign. No pressure if you'd rather keep chatting here a bit longer.",
    "lang": "en",
    "note": "Moving off the app: two specific slots, one hook from your own chat, and an easy out so a yes costs nothing."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-005",
+   "situation": "Met a woman called Ines at my friend Kofi's birthday on Saturday, we talked about bouldering for like an hour. Kofi gave me her Instagram. I want to DM her and ask her out without being creepy.",
+   "reply": "Hi Ines, it's Daniel from Kofi's birthday on Saturday, the one who got a full lecture on why bouldering beats the gym. This is a bit forward, but I'd regret not asking: would you want to get a drink with me this week? Thursday evening or Sunday afternoon both work. No pressure at all if not.",
+   "lang": "en",
+   "note": "Someone you've met once: remind her who you are with a detail from the night, one clear plan, and an out she can take in a word."
   }
  ]
 }

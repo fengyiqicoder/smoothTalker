@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -29,6 +29,13 @@
    "reply": "林女士您好，我是苍洱小院的阿雯，谢谢您订了我们的洱海景观房！跟您确认一下：10月2日周五入住，下午两点后可以进房；10月4日周日中午12点前退房，两晚房费1360元已收到。为了提前安排，麻烦您10月1日前发我两样信息：大概几点到店，以及入住人的姓名和身份证号，入住登记要用。有任何问题直接微信我，白天一般一小时内回复。小贴士：国庆古城人多，建议下午五点前到，正好赶上洱海边的日落。",
    "lang": "zh",
    "note": "付款后马上确认日期和金额，一次列清要的信息和截止时间，写明怎么找到人，最后给一个小贴士，不推销。"
+  },
+  {
+   "id": "customer-onboarding-and-welcome-005",
+   "situation": "Kitchen fitter. Client Ruth paid her deposit two weeks ago and the install starts Monday Oct 12. She's emailed twice this week asking if everything is still on track and whether the cabinets have arrived.",
+   "reply": "Hi Ruth, yes, everything is on track for Monday 12 October. The cabinets arrived at our workshop on Friday and I checked them against your order myself. Jake and I arrive at 8am on the 12th to take out the old units, and the worktops get templated on Thursday the 15th. The one thing I need from you is a clear kitchen by Sunday evening. Any question before then, text me on 07700 900456 and I'll answer the same day. Dan",
+   "lang": "en",
+   "note": "Anxiety before the start is about uncertainty, so answer fast and restate the next steps with dates."
   }
  ]
 }

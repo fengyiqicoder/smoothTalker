@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Mei, bit of an awkward ask, so I'll just say it. My new job starts Monday but the first paycheck doesn't land until 30 October, and rent is due on Thursday. Could you lend me $2,000 to cover rent and groceries until then? I'd pay it all back on 31 October and set up the transfer that day so you never have to chase me. Totally fine to say no if it's a stretch right now.",
    "lang": "en",
    "note": "Money from family: exact amount, exact repayment date, and an out that doesn't need a reason."
+  },
+  {
+   "id": "ask-for-favor-006",
+   "situation": "上周五在微信上问同事小陈，10月8号周四我出差，能不能帮我代开一下客户周会，他一直没回。周会前我还得交接材料。",
+   "reply": "小陈，上周问你10月8号周四帮我代开客户周会的事，你那边不方便的话完全没关系，麻烦周五前跟我说一声就行，我好去问问其他人。能帮的话，我周五下班前把议程和客户背景发你，大概半小时就能看完。",
+   "lang": "zh",
+   "note": "没回复时跟进一次，重申退路，给一个明确的回复时间；如果还是没回，就当作不行，换人问。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -36,6 +36,13 @@
    "reply": "Hi all, I'm Nadia, and from today I'm managing the payments team. I spent the last five years leading the checkout team at Brightline, so I know how much of this work is invisible until it breaks. Outside work I'm usually at the climbing wall or failing at sourdough. I'll book 30 minutes with each of you over the next two weeks, and mostly I want to hear what's working that I shouldn't touch.",
    "lang": "en",
    "note": "New manager of an inherited team: signal listening over change, and don't single out the internal candidate in a group post."
+  },
+  {
+   "id": "introduce-yourself-006",
+   "situation": "上周在广州家具展上跟一个做酒店采购的赵经理聊了几句，加了微信，但他应该不记得我了。我们是做实木餐椅的工厂，想发个自我介绍，别像群发广告。",
+   "reply": "赵经理您好，我是佛山木森家具的陈晓。上周四在广州家具展3号馆，我们聊过您那边新开的两家酒店餐厅要换椅子。我们厂专做实木餐椅，给酒店做的款主要是好打理、耐磕碰。我自己是木工学徒出身，椅子每一步怎么做的都能讲清楚。您方便的话，我下周把三款酒店常用的样册发您看看？",
+   "lang": "zh",
+   "note": "先帮对方想起你是谁（时间、地点、聊了什么），只讲一件具体的事，最后给一个很小的下一步。"
   }
  ]
 }

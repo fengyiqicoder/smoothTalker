@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -36,6 +36,13 @@
    "reply": "¡Hola Valentina! Sí, tengo lugar para el sábado 10. Una torta temática de Frozen para 40 personas sale $3.800 e incluye la decoración y el cartel con el nombre. Para reservar la fecha pido una seña de $1.500; ¿te paso los datos para transferir?",
    "lang": "es",
    "note": "Custom order with a date: confirm availability and price first, then make the deposit the single next step."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-006",
+   "situation": "我在小红书卖手工皮具，一个长钱包380元。有人私信：'能便宜点吗？买两个呢'",
+   "reply": "单个就是380，价格不打折哈。买两个的话送两个同色钥匙扣，顺丰包邮，一般3天到。你想要什么颜色？我拍现货给你看。",
+   "lang": "zh",
+   "note": "先答价格不绕弯，不降价但给一个买两个的实在好处，最后一个问题推进下单。"
   }
  ]
 }

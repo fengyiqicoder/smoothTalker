@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Megan, thanks for telling me where you're at. You're right that the booking page went live on September 8 instead of September 1, and I'm sorry for that week. The scope and price we agreed on July 20 didn't change, so invoice #1108 stays at $3,200. The $2,400 isn't in dispute, so could you pay that by Friday, October 2, to the bank details on the invoice? I'm free for a 15 minute call on Thursday to settle the remaining $800.",
    "lang": "en",
    "note": "Dispute: own the real delay without discounting unasked, get the undisputed portion paid now, and move the rest to a call."
+  },
+  {
+   "id": "chase-late-payment-006",
+   "situation": "Illustrator. Invoice #0932 for $2,750 to a small agency was due August 14. I've sent a reminder, a follow-up and a firm one with a Sept 25 deadline that passed. Contact is Jordan, nothing back.",
+   "reply": "Hi Jordan, this is a final notice for invoice #0932 for $2,750, due 14 August and now 46 days overdue. If payment isn't received by Friday 9 October, I'll file a small claims case for the full amount plus the late fee set out in our agreement. I'd still rather settle this directly: a call this week, or a payment plan confirmed in writing, would be enough. Bank details are on the attached invoice. Mei",
+   "lang": "en",
+   "note": "Final notice: one date, one consequence you will actually take, and a last easy way to settle."
   }
  ]
 }

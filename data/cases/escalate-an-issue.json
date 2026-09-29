@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -29,6 +29,13 @@
    "reply": "Betreff: Dritte Meldung, Anschluss seit 10. September ausgefallen, Kundennummer 4471 2290\nSehr geehrte Damen und Herren,\ndies ist meine dritte Meldung zum Ausfall meines Internetanschlusses seit dem 10. September. Bisherige Ticketnummern: 88120 und 88341. Der Technikertermin am 22. September wurde ohne Nachricht nicht wahrgenommen. Ich arbeite von zu Hause und bin seit drei Wochen auf mobile Daten angewiesen. Bitte leiten Sie den Fall an Ihr Beschwerdemanagement weiter und bestätigen Sie mir bis Freitag, 2. Oktober, einen verbindlichen Technikertermin. Andernfalls wende ich mich an die Schlichtungsstelle der Bundesnetzagentur.\nMit freundlichen Grüßen\nSabine Krause",
    "lang": "de",
    "note": "Ticketnummern und Daten statt Adjektive, eine Bitte mit Frist, und nur einen nächsten Schritt ankündigen, den man auch wirklich geht."
+  },
+  {
+   "id": "escalate-an-issue-005",
+   "situation": "I escalated to my director Paul that our Quantix data contract lapses Oct 15 and legal needs to review the renewal. He replied 'not a priority this week, Q4 planning first.' If it lapses, the trading desk loses its daily pricing feed.",
+   "reply": "Understood, Q4 planning comes first this week. So I can plan: if legal hasn't reviewed the Quantix renewal by Tuesday 13 October, the contract lapses on the 15th and the trading desk loses its daily pricing feed. Can you confirm in writing that we're accepting that risk, or tell me who else can approve legal's time? I want to make sure it's a decision and not a default.",
+   "lang": "en",
+   "note": "When they say it isn't a priority, don't argue: restate the dated consequence and ask for the risk to be accepted in writing, or for another decision-maker."
   }
  ]
 }

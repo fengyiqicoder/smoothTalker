@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -29,6 +29,13 @@
    "reply": "I know, Dad, and I love that you're looking out for me. I've done the numbers and I've made my decision. What would really help is you coming to taste the menu on Sunday 11 October.",
    "lang": "en",
    "note": "Agree with the intention, keep the position, and give him a way to help that isn't advice. Don't send back counter-statistics."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-005",
+   "situation": "跟男朋友吵了一架，找闺蜜小雨吐槽了几句，她就一直劝我分手，说'这种男的你还留着干嘛'。我只是想发泄一下，并没打算分。",
+   "reply": "我知道你是心疼我才这么说，谢谢你。不过我现在不是要建议，也没打算分，就是想吐吐槽。你先站我这边听我说完好不好？周六奶茶我请。",
+   "lang": "zh",
+   "note": "回应她的关心，不解释为什么不分；说清楚'我要的是倾听'，比争论他好不好有用。"
   }
  ]
 }

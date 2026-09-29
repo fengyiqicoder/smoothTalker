@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Mrs Hughes, it's Dan from number 14 next door, we've waved but never properly met. Your hedge has grown quite a way over our fence and is shading most of our vegetable beds now. Would you be OK with us having our gardener trim it back to the fence line on our side, at our cost? He's coming Saturday 10 October, and we'll leave your side exactly as it is. Do knock if anything from our side ever bothers you.",
    "lang": "en",
    "note": "Introduce yourself, make the ask small and costless for her, and give the date so she isn't surprised by the noise."
+  },
+  {
+   "id": "neighbour-disputes-006",
+   "situation": "Our downstairs neighbour, Mr. Brennan in 2A, left a polite note saying our 3-year-old's running and thumping wakes him before 7am. He's right, our son is up at 6. We can't stop a toddler running, but we want to fix what we can.",
+   "reply": "Hi Mr. Brennan, it's Sofia from 3A. Thank you for the kind note, and sorry about the early wake-ups; we had no idea how much carries. We've ordered a thick rug for the hallway that arrives Friday, and we'll keep Leo playing in his room at the back until 7. It won't be silent, he's three, but it should be a lot better. Please knock if it's still bad after the weekend.",
+   "lang": "en",
+   "note": "When you're the noise: thank them, say exactly what you'll change and by when, and be honest about what you can't."
   }
  ]
 }

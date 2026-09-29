@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -28,6 +28,13 @@
    "reply": "陈老师好，看到山野酿造说桂花小麦下个月上新，你们几款酒的风味都很有故事，现在的酒标却是纯文字，我觉得有点可惜。我是做手绘插画的，去年给木岸咖啡画了三款豆袋包装，那个系列上架后三个月销量涨了三成。想针对桂花小麦画一版草图给你们看看，感兴趣吗？如果不需要，回我一句“不用”也很有帮助。",
    "lang": "zh",
    "note": "为什么是他们、我能做什么、一个数字做证据、一个很小的问题，再给一个不用沉默的拒绝方式。"
+  },
+  {
+   "id": "cold-outreach-005",
+   "situation": "I'm a backend engineer looking for my next job. Rachel Okafor, an engineering manager at Loomly, wrote a great LinkedIn post about moving their job queue off Postgres. They have no open roles listed. I want to message her.",
+   "reply": "Hi Rachel, your post on moving Loomly's job queue off Postgres was the clearest write-up of that trade-off I've read this year. I'm a backend engineer; at Parcelwise I led a similar migration to SQS that cut p95 job latency from 40 seconds to 3. Is your team hiring backend engineers in the next few months? A quick yes or no is genuinely helpful.",
+   "lang": "en",
+   "note": "A job search is still cold outreach: prove you read her work, give one number, and ask a yes/no question instead of asking for a call."
   }
  ]
 }

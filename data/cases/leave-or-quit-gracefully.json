@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Carla,\nThanks for taking my call yesterday. To confirm in writing: I'll be ending our bookkeeping arrangement, and December will be my last month. I'll close out the year-end accounts before I go, write up a handover for whoever takes over, and I'm happy to spend an hour with them in person. If it helps, I can recommend two bookkeepers I'd trust with Ferro's. Thank you for five really good years, and for all the Friday focaccia.\nBest,\nDev",
    "lang": "en",
    "note": "Ending a client relationship follows the same shape as a resignation: tell them by phone, then a written note with the date, a real handover and a specific thanks."
+  },
+  {
+   "id": "leave-or-quit-gracefully-005",
+   "situation": "I gave notice yesterday, last day is Friday Oct 23. My manager Dave just replied on Slack: 'Honestly didn't expect this from you, leaving right before the Q4 launch really puts us in a hole.' I've been there 3 years.",
+   "reply": "I understand the timing is hard, Dave, and I'm sorry it lands right before the launch. My decision is made and my last day stays Friday 23 October. I want these weeks to be useful, so I've started a handover doc for the launch checklist and can walk Leila through the vendor contacts on Thursday. Tell me what you'd most like prioritised and I'll start there.",
+   "lang": "en",
+   "note": "After a guilt-trip, hold the date, don't re-argue the reason, and turn the conversation into a handover question."
   }
  ]
 }

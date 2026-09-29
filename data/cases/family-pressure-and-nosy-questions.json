@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -29,6 +29,13 @@
    "reply": "Mum, I love you and I want our calls to be good ones. That's exactly why I'm asking for this one subject to rest. Ask me anything else, any time, and I'm still coming home for Christmas, my flight lands on the 19th.",
    "lang": "en",
    "note": "When a parent hears the boundary as rejection, speak to the relationship, not the topic, and don't reopen the subject to comfort her."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-005",
+   "situation": "My husband's parents ask 'so when are you giving us a grandchild?' at every family dinner. We're in the middle of IVF and don't want to tell anyone yet. Diwali dinner is at their place in a few weeks.",
+   "reply": "Ha, when there's news, you'll be the first to know, Mummy-ji. Now tell me, are you making the kaju katli yourself this year, or did Dev finally get the recipe out of you?",
+   "lang": "en",
+   "note": "No reason given, since 'we're trying' invites advice; if it comes back, repeat the same line nearly word for word."
   }
  ]
 }

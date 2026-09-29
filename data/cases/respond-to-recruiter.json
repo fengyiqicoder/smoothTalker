@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -29,6 +29,13 @@
    "reply": "Thanks, Nadia, glad this is moving. I'd rather not share my current salary, but I can tell you what I'm targeting: $150k base for this role. If that fits the band, I'm happy to speak with the hiring manager this week; Thursday or Friday afternoon works for me.",
    "lang": "en",
    "note": "Share the target, never the current number; stay clearly interested so the redirect doesn't read as a no."
+  },
+  {
+   "id": "respond-to-recruiter-005",
+   "situation": "Gestern hatte ich ein Erstgespräch mit Frau Keller, Recruiterin bei einer Unternehmensberatung, für eine Senior-Consultant-Stelle. Klang gut, aber die Rolle hat 60 Prozent Reisetätigkeit und das passt mit meinen zwei kleinen Kindern nicht. Ich will höflich absagen.",
+   "reply": "Guten Tag Frau Keller, vielen Dank für das Gespräch gestern. Ich habe es mir gut überlegt und möchte die Stelle nicht weiterverfolgen: 60 Prozent Reisetätigkeit passt in meiner jetzigen Lebensphase nicht. Wenn Sie eine vergleichbare Rolle mit überwiegend regionalen Projekten haben, höre ich sehr gern wieder von Ihnen. Viele Grüße, Jana Hoffmann",
+   "lang": "de",
+   "note": "Absage nach dem Gespräch: die Antwort in den ersten zwei Zeilen, ein kurzer Grund, und eine konkrete Tür für passende Rollen."
   }
  ]
 }

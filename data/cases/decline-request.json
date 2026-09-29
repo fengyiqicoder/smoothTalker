@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "decline-request-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Josh, thanks for thinking of me, and congrats on getting to the final round at Carver. I'm going to say no to being a reference this time. We only worked together on the one project, so I couldn't give them the detail a strong reference needs. Priya, who managed you on the rollout, would do you far more good. Good luck on Thursday.",
    "lang": "en",
    "note": "Declining a reference: give the true reason that doesn't judge the work, and point to someone better placed."
+  },
+  {
+   "id": "decline-request-006",
+   "situation": "Denise, the PTA chair at my kids' school, asked me to be treasurer this year. I've run the bake sale for 3 years, but I'm back at work full time now and I don't want a role with weekly hours.",
+   "reply": "Thanks for thinking of me, Denise, I can see the treasurer spot needs filling. I'm going to say no to that one; with a full-time job this year I can't take on a role with weekly hours. I can still run the bake sale table on Saturday 7 November, if that helps.",
+   "lang": "en",
+   "note": "A true reason that isn't up for debate, and a smaller yes that's real. Skip the offer if you don't actually want the bake sale either."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -29,6 +29,13 @@
    "reply": "我明白你觉得被单独挑出来了。其他人的周报有问题，我也会单独找他们谈，这里不拿你跟别人比。我们说的是你这边：最近三份周报都有数据算错，其中一处客户已经来问过。要求还是一样，另外加一步：接下来两周，周报周五下午四点前先发我过一遍再发出去。10月16号周五我们再聊聊效果。",
    "lang": "zh",
    "note": "只有情绪、没有新信息的反驳：平静重复要求，给一个具体的支持措施和复盘日期，不展开辩论。"
+  },
+  {
+   "id": "give-feedback-to-colleague-005",
+   "situation": "My manager Greg keeps sending me 'urgent for Monday' tasks on Slack after 6pm on Fridays. Third week running, I worked Sunday again. I want to raise it in our 1:1 this Thursday without sounding like I'm complaining.",
+   "reply": "Can I give you some feedback on how Friday requests reach me? The last three Fridays, urgent tasks have come in on Slack after 6pm for Monday morning, and I've ended up working Sundays to hit them. What's driving the timing on your side? If those could reach me by 3pm on Friday, or carry a Tuesday deadline when they land later, I can plan around them properly and still turn them round fast.",
+   "lang": "en",
+   "note": "Upward feedback uses the same shape: ask first, the facts with a count, the impact, a real question, then an ask that makes his job easier too."
   }
  ]
 }

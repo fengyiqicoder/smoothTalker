@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -29,6 +29,13 @@
    "reply": "Hey all, quick house thing: I've started early shifts at the hospital with a 5am alarm, so late noise on weeknights is hitting me harder than it used to. Could we try quiet hours from 11pm to 7am, Sunday to Thursday nights, starting this Sunday? Weekends stay as they are. Happy to tweak it if it clashes with anyone's schedule.",
    "lang": "en",
    "note": "Group chat, several housemates: frame it as your schedule change and propose a rule for the house, not a complaint about one person."
+  },
+  {
+   "id": "roommate-and-shared-living-005",
+   "situation": "我和两个室友合租，下个月底要搬走了，押金是三个人一起交给房东的。想在群里说一声，顺便把房间交接和最后的水电费说清楚，别到时候扯皮。",
+   "reply": "跟大家说个事：我10月31日搬走，这周会正式跟房东说。你们要是想找熟人来住我那间，我很乐意配合带看。走之前想约个时间一起看看房间和客厅厨房的状况，10月30日周五晚上可以吗？卫生间我走前会彻底打扫，10月的水电按账单算好我这份转给你们，押金我们到时候三个人一起跟房东确认。这两年住得很开心，谢谢你们！",
+   "lang": "zh",
+   "note": "搬走前把日期、交接检查和最后的账单都落在群里，押金三个人一起跟房东对，免得之后各说各话。"
   }
  ]
 }

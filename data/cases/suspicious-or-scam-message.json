@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Marcus, we received an email today from what looks like your accounts address, asking us to pay the $6,420 invoice into a new bank account by Thursday. We're holding the payment until we've confirmed it with you by phone, so could you call me on 555 0148 today or tomorrow? If that email didn't come from you, your mailbox may be compromised and it's worth telling your IT people.",
    "lang": "en",
    "note": "Send this to the contact details already on file, never to the reply address or number in the suspicious email."
+  },
+  {
+   "id": "suspicious-or-scam-message-005",
+   "situation": "我姑姑昨天接到一个电话，声音特别像我表弟，说在外地出了车祸要她马上转3万，还不让告诉别人。幸好她打了表弟本人电话。想在家族群里提醒长辈们，但不想让姑姑难堪。",
+   "reply": "各位长辈，提醒大家一件事：最近有骗子用AI模仿孩子的声音打电话，说出了车祸或者被派出所扣了，要马上转钱，还叮嘱别告诉家里人。咱们家这两天就接到过一次，好在及时识破了。以后不管声音多像，只要是要钱，先挂掉，再用自己手机里存的号码打回去确认，或者在群里问一声。这种骗局很专业，谁都可能碰上，拿不准就随时打给我。",
+   "lang": "zh",
+   "note": "群里提醒只讲骗局的套路和核实办法，不点名是谁接到的；让长辈觉得遇到了可以说，而不是怕丢面子。"
   }
  ]
 }

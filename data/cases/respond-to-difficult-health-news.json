@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -29,6 +29,13 @@
    "reply": "You're not the worst friend, not even close. I'm sorry your body's making everything this hard. No apologising for cancelling, ever. I'll keep inviting you, and if a sofa and a takeaway at yours sounds more doable, I'm free Saturday. No need to reply tonight.",
    "lang": "en",
    "note": "Release her from the guilt first, then offer a lower-energy version of the plan instead of just rescheduling the same one."
+  },
+  {
+   "id": "respond-to-difficult-health-news-005",
+   "situation": "Mi amigo Javi me escribió por WhatsApp: 'Me han encontrado un tumor, casi seguro benigno, me operan el 14 de octubre. Lo bueno es que ya tengo excusa para no ir a la cena de empresa.' Quiero contestarle bien.",
+   "reply": "Solo tú podrías anunciar una operación con un chiste sobre la cena de empresa. Siento mucho que estés pasando por esto, y me apunto al humor negro todo lo que haga falta. También me apunto a llevarte al hospital el 14 y a recogerte después, solo dime la hora. No hace falta que contestes esta noche.",
+   "lang": "es",
+   "note": "Si lo cuenta con humor, acompaña el tono, pero sin quitarle peso: reconoce la noticia, ofrece algo concreto con fecha y libéralo de contestar."
   }
  ]
 }

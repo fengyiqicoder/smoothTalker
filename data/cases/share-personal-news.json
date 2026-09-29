@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -29,6 +29,13 @@
    "reply": "Mom, Dad, I want to tell you something before our call on Sunday so you have time to take it in: I'm leaving Deloitte on October 30 to run the bakery full time. I've saved eight months of expenses and the Saturday market stall already covers its own costs. I know how much you gave for that degree, and I'll be using every bit of it on my own business. On Sunday I'd love your questions, and I'd love it if we could start from being happy for me.",
    "lang": "en",
    "note": "News likely to worry the reader: lead with the fact, give the two numbers that answer the first fear, and say how you hope they'll respond."
+  },
+  {
+   "id": "share-personal-news-005",
+   "situation": "我刚拿到一家大厂的offer，11月2号入职。最好的朋友小雨上个月刚被裁，还在找工作。想单独先告诉她，不想让她从朋友圈看到。",
+   "reply": "雨，想先单独跟你说一声，不想你从朋友圈看到：我拿到了新offer，11月2号入职。我知道你这阵子找工作很累，所以想自己先告诉你，你不用急着回，也不用勉强说恭喜。周六我请你吃饭吧，想听听你那边怎么样，不聊我的事也完全可以。",
+   "lang": "zh",
+   "note": "好消息遇上处境难的读者：单独先说，简短，不铺陈细节，并明确告诉她不用做出反应。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -29,6 +29,13 @@
    "reply": "Thanks for asking. The way you pulled the action items together at the end was really clear, it's the first retro where I knew exactly who owned what. One thing I noticed: when Jun and Aroha started to speak, the discussion moved on before they'd finished, and I don't think their points made it onto the board. Maybe a quick round where everyone gets a minute before the open discussion? I'm only raising it because these retros are getting genuinely useful.",
    "lang": "en",
    "note": "Describe what you saw, not a trait ('you talk over people'), and give one fix he can try next sprint."
+  },
+  {
+   "id": "give-feedback-kindly-005",
+   "situation": "Ma responsable Claire a demandé à chacun un retour honnête sur la nouvelle réunion d'équipe du lundi. Elle dure 1h30 et la première moitié, c'est la lecture de chiffres qu'on reçoit déjà par mail le vendredi.",
+   "reply": "Merci de demander, Claire. Ce qui marche vraiment, c'est le tour de table sur les blocages : grâce à lui, j'ai réglé le souci de facturation avec Karim en dix minutes. Là où je décroche, c'est la première partie, parce que les chiffres sont déjà dans le mail du vendredi. Et si on partait du principe que tout le monde l'a lu, en gardant seulement les questions sur ces chiffres ? On finirait sans doute en 45 minutes, avec le meilleur de la réunion.",
+   "lang": "fr",
+   "note": "Retour vers sa responsable : un point fort précis, un seul problème vécu, une proposition formulée en question."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -36,6 +36,13 @@
    "reply": "I hear you, and I'm not going to push. I love you both and I'm staying out of the house question. The offer stands if you ever want it, and either way I'll see you for Sunday lunch on the 11th like we planned.",
    "lang": "en",
    "note": "When one side refuses, drop it cleanly and protect your own relationship with her; the offer stays open without pressure."
+  },
+  {
+   "id": "mediating-between-two-people-006",
+   "situation": "I chair our community garden committee. I got two members, Frank and Delia, together to sort out their fight over the shared tool shed, and 10 minutes in they're talking over each other and Frank just said 'this is pointless'. I need to stop it.",
+   "reply": "Let's stop here for today. I don't think we'll get further right now, and that's okay; it's obvious you both care about this garden. I'd like to try again on Saturday the 10th after the workday, just on the shed schedule. If it helps, I can ask someone from the council's free mediation service to sit in.",
+   "lang": "en",
+   "note": "Pause kindly, name the shared goal, and offer a narrower second try or a neutral professional. Don't rule on the shed in the room."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Chris, I wanted you to hear this from me first. I've been seeing someone, Dan, for about a year, and I'm planning for him to meet Leo briefly at the park on Saturday 17 October, about an hour, nothing framed as a big deal. If you have any concerns, can you let me know by Sunday 11 October so we can talk before then? Thanks.",
    "lang": "en",
    "note": "Informing, not asking permission: give the date and a window to raise concerns, and keep it free of relationship detail."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-006",
+   "situation": "Pedi para o meu ex, Rafael, trocar o fim de semana de 17 e 18 de outubro por causa do aniversário da minha mãe. Ele disse que não e que eu 'sempre mudo tudo em cima da hora'. Nossos filhos são a Clara (8) e o Theo (5).",
+   "reply": "Oi Rafael, entendido, o fim de semana de 17 e 18 de outubro fica como está. Vamos comemorar o aniversário da minha mãe no sábado 24, quando a Clara e o Theo estiverem comigo. Obrigada.",
+   "lang": "pt",
+   "note": "Ignore o 'sempre', aceite o não em uma linha e se organize em volta dele. Uma recusa não é um padrão."
   }
  ]
 }

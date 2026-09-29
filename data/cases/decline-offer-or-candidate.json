@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -36,6 +36,13 @@
    "reply": "小吴，谢谢你今天愿意坐下来聊，也谢谢你为这次竞聘准备的架构方案，写得非常扎实。就像当面说的，技术主管这次选了外部候选人，主要是这个岗位一上来就要带8个人，需要更多带团队的经验。这不影响我对你技术能力的判断。如果你愿意，下个季度我们让你牵头支付重构那个小组，先带两三个人，明年再有机会时你会更有底气。有什么想法，随时找我。",
    "lang": "zh",
    "note": "内部候选人要先当面说，再用书面补充：理由真实具体，给一个真实的下一步，而不是空泛的“以后还有机会”。"
+  },
+  {
+   "id": "decline-offer-or-candidate-006",
+   "situation": "I'm hiring for a junior accountant. I rejected Ben after the second interview and he emailed back asking for detailed feedback, saying he thinks he was a strong fit. The one real issue: two balances in his reconciliation exercise didn't tie out.",
+   "reply": "Hi Ben, I understand it's disappointing, and I appreciate you asking directly. The one specific thing I'd point to is the reconciliation exercise: two of the balances didn't tie out, and that kind of accuracy is most of this role day to day. The decision is final, but it's a skill that sharpens quickly with practice, and I wish you the best with the search. Best, Farah",
+   "lang": "en",
+   "note": "A candidate who pushes back gets one more specific point you can defend, then the decision repeated kindly. Don't reopen it or promise a future role you aren't planning."
   }
  ]
 }

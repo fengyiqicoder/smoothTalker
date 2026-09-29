@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -29,6 +29,13 @@
    "reply": "林女士您好，您的订单（尾号5816）出了问题：顺丰今天确认包裹在中转站丢失了，我们刚查到，先跟您说一声。我今天下午给您重新发一份，走顺丰特快，10月1日前送到，赶得上您朋友3号的生日。如果您更想退款，回我“退款”两个字，我当天原路退回。今晚之前没收到回复的话，我就按重发处理，单号发您；原来那份如果后来到了，您留着就好。给您添麻烦了。店主小周",
    "lang": "zh",
    "note": "Proactive, before she has to ask: the fix is built around her gift date, refund is one word, and the default is stated."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-005",
+   "situation": "I make custom oak dining tables. Customer Marcus was promised Oct 2 after I already pushed it once from Sept 18. Now the tabletop finish needs redoing and it'll be Oct 16. He's hosting family on the 17th.",
+   "reply": "Hi Marcus, your table won't make 2 October, and I know this is the second time I've moved it. The finish on the top didn't cure evenly and I'm redoing it. It will be delivered on Friday 16 October, a date I'm certain of, the day before your family arrives. I've refunded the $150 delivery fee today. If you'd rather not wait, I'll refund the whole order instead; if I don't hear back, the 16th stands. I'll send you photos of the finished top on Monday 12 October. Tom",
+   "lang": "en",
+   "note": "On a second slip, refund something unasked and give only a date you are sure you can keep."
   }
  ]
 }

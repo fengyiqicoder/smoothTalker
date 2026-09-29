@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -36,6 +36,13 @@
    "reply": "Rachel, I want Thursday's call with Brightline to go well and keep their trust. Right now QA has 14 blocking bugs open, and my honest estimate for launch is November 3, not October 20. If we say on track and then slip, it will cost us more with them than two weeks will. Two options: tell them Thursday about the new date with the fix plan, or launch the core flows on the 20th and ship payments on the 3rd. I'd go with the second. Could you decide by tomorrow so I can prepare the deck?",
    "lang": "en",
    "note": "Pushing back on being asked to mislead a client: frame it around the relationship both of you want to protect, and give options that are all honest."
+  },
+  {
+   "id": "push-back-on-boss-006",
+   "situation": "我是公司的数据分析师，三个月来老板一直让我顺手帮他订差旅、整理报销，现在每周要花五六个小时，数据报表经常拖到周末做。想跟他提一下。",
+   "reply": "刘总，想跟您对一下我这边的工作安排。这三个月我一直在帮您订差旅、整理报销，偶尔急用我很乐意帮忙，但现在每周要占五六个小时，周报和月度经营分析经常只能挪到周末赶。想请您定一下：要么正式把这部分算进我的工作，相应调整报表的优先级；要么交回行政部。我更倾向于交回行政，这样月报能保证每月5号出。您看哪种合适？",
+   "lang": "zh",
+   "note": "说清占用的时间和因此被挤掉的核心工作，给两个选项和自己的倾向，让老板来做选择。"
   }
  ]
 }

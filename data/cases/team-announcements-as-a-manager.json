@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -29,6 +29,13 @@
    "reply": "跟大家说一件事：今年的年终奖推迟发放，从原定的1月底改到明年3月31日前，金额按原来的方案算，不打折。原因是四季度有两笔大客户回款要到2月才能到账，公司想先保证现金流。这个决定我是同意的，不是上面压下来我照转。对大家来说，推迟的是时间，不是钱；有房贷、学费这类具体安排受影响的，这周单独找我，我们一起看看能不能先预支一部分。10月15日前我会把书面说明发到每个人邮箱。有任何问题，群里问或者私下找我都行。",
    "lang": "zh",
    "note": "坏消息第一句就说清，讲明不变的部分，经理要为自己同意的决定担当，再给私下沟通的出口。"
+  },
+  {
+   "id": "team-announcements-as-a-manager-005",
+   "situation": "I've resigned and my last day is Oct 30. I've told my boss Dana and she'll be interim manager for my team of 6 until they hire. Need to tell the team in our Thursday meeting and then post it in Slack.",
+   "reply": "Some news I wanted you to hear from me first: I've resigned, and my last day is Friday 30 October. I'm going to lead the data team at a smaller company, and leaving you all was the hardest part of the decision. From 2 November, Dana will be your interim manager; your roles, projects and review dates stay exactly as they are. Hiring for my replacement starts next week, and two of you will sit on the panel. I'll hold a 1:1 with each of you before 16 October to hand over anything that matters to you, so ask me anything, here or privately.",
+   "lang": "en",
+   "note": "When the news is your own exit, the team's first worry is who they report to next, so answer that before anyone has to ask."
   }
  ]
 }

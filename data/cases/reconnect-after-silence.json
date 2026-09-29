@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -36,6 +36,13 @@
    "reply": "So good to hear from you, and Bristol is basically next door now. Want to grab lunch on Saturday 10 October? I'll come to you, and you can show me whichever pub has replaced the Crown in your affections.",
    "lang": "en",
    "note": "When they reply warmly, suggest one specific day within two messages, or the momentum dies."
+  },
+  {
+   "id": "reconnect-after-silence-006",
+   "situation": "I went quiet on my friend Leah for about 8 months during a rough patch, she texted a few times and I never replied. I'm doing better now and saw her allotment photos on Instagram. I want to reach out without a huge apology.",
+   "reply": "Leah, I've been quiet for most of this year and I'm sorry I left your messages hanging; it was a rough stretch and I went to ground. I'm doing a lot better now. Those pumpkins from your allotment are ridiculous, by the way. Could I buy you a coffee soon, maybe Saturday the 10th or Sunday the 11th? No rush to reply.",
+   "lang": "en",
+   "note": "When you were the one who went silent, one line of ownership is enough. A long apology makes her comfort you; a specific reason and a small plan move it forward."
   }
  ]
 }

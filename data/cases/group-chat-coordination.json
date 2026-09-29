@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -29,6 +29,13 @@
    "reply": "¡La bici de Carmen ya está comprada y bien escondida! 🚲 Gracias a los que ya habéis pagado. Faltan 4 aportaciones de 15 euros: por Bizum al 612 345 678 o en mano en mi mesa. Si podéis antes del miércoles 7, cierro las cuentas antes de la fiesta del viernes. Pulgar arriba cuando esté hecho y os tacho de la lista.",
    "lang": "es",
    "note": "Cobrar en el grupo sin señalar a nadie: importe, cómo pagar, fecha límite y una reacción de un toque. A quien siga sin pagar el miércoles, mensaje privado."
+  },
+  {
+   "id": "group-chat-coordination-005",
+   "situation": "I run a monthly board game night with 6 friends. Ollie has said yes and then bailed on the day for the last three. It's messing up the numbers for 4-player games. I want to message him privately, not call him out in the group.",
+   "reply": "Hey Ollie, not a big deal, but you've dropped out on the day for the last three game nights and I've started planning the tables around you not coming. If things are hard right now, tell me and I'll stop pestering. If game night just isn't your thing at the moment, that's fine too, I'd rather know. Want me to count you in for Friday 23 October, or sit this one out?",
+   "lang": "en",
+   "note": "A pattern with one person goes to a private message with a real out, never a callout in the group."
   }
  ]
 }

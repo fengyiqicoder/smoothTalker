@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -29,6 +29,13 @@
    "reply": "谢谢您提前告诉我们行程，又来住我们很开心！周六上午十点入住这次安排不了，前一组客人中午十二点退房，保洁需要两个小时，最早下午两点可以进房间。您十点到了可以先把行李放在前台，去西湖边走走、吃个午饭，房间一收拾好我马上微信通知您。如果前一组客人提前退房，我第一时间告诉您。",
    "lang": "zh",
    "note": "Holiday weekend, returning guest: say no in the second sentence, then make the four hours useful."
+  },
+  {
+   "id": "say-no-to-a-customer-request-005",
+   "situation": "I own a small climbing gym. Hannah, a member for 6 years, asked to freeze her membership for 3 months while she recovers from shoulder surgery. Our max freeze is 1 month but I'd like to help her.",
+   "reply": "Hi Hannah, sorry to hear about the shoulder, and thanks for asking before cancelling. Our freeze is normally capped at one month, because memberships are limited and a frozen spot is one we can't offer to the waitlist. After six years with us, I'm making an exception: your membership is frozen from 1 October to 31 December at no charge and restarts on 1 January. Heal properly and we'll see you on the wall.",
+   "lang": "en",
+   "note": "When you bend a rule for a good reason, decide fast and call it an exception so it doesn't become the new baseline."
   }
  ]
 }

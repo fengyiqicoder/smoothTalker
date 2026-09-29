@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -29,6 +29,13 @@
    "reply": "Helen, your Slack notifications are showing on the shared screen. Sharing just the slides window will hide them, it catches everyone on Zoom.",
    "lang": "en",
    "note": "Senior person, live meeting: private chat, one line, the fix included, and never mention what the notification said."
+  },
+  {
+   "id": "tell-someone-something-awkward-005",
+   "situation": "I told my gym buddy Marcus, privately, that there's been a strong smell after our sessions lately. He replied 'wow, ok, thanks for that I guess' and has been short with me since. We train together Tuesdays and Thursdays.",
+   "reply": "Marcus, I didn't mean to upset you. I only said it because I'd want someone to tell me. That's all, I won't mention it again. Still on for Thursday at 6?",
+   "lang": "en",
+   "note": "When they get defensive, don't repeat the details or add evidence. One line, then straight back to normal."
   }
  ]
 }

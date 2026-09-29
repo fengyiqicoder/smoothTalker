@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Dr. Brennan, a quick one on the website copy: pages 1 to 3 have been with you since September 14, and I'm holding time to finish pages 4 to 6. To keep things on schedule I need your notes by Friday, October 9; if you're happy with them as they are, a one-word \"approved\" is plenty. If the project has moved down your list, just tell me and I'll pause it and pick it back up when you're ready.",
    "lang": "en",
    "note": "Mid-project silence: a real date tied to your schedule, the smallest possible reply, and an explicit pause option."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-006",
+   "situation": "I'm a freelance developer. Hannah, who runs a boutique hotel, went quiet on my $8,000 booking system proposal for three weeks. Today she replied: 'Sorry for the silence, we've decided to hold off this year.'",
+   "reply": "Thanks for letting me know, Hannah, I appreciate the clear answer. If it's useful, one line on what tipped it, timing or budget, would help me. Either way, good luck with the winter season, and if the booking system comes back up for 2027, I'd be glad to help.",
+   "lang": "en",
+   "note": "A no after silence is the second-best outcome: thank her, ask one light question, and don't counter with a discount you never offered, which teaches clients that silence gets a better price."
   }
  ]
 }

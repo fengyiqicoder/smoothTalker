@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -29,6 +29,13 @@
    "reply": "I'm on leave until Thursday 15 October and not reading email. For anything active, please contact Tanya Brooks (tanya.brooks@kestrelgroup.com). Messages here won't be forwarded, so do resend anything important.",
    "lang": "en",
    "note": "For bereavement, less detail, not more. Colleagues who need to know will hear it from your team."
+  },
+  {
+   "id": "out-of-office-and-away-messages-005",
+   "situation": "Freelance copywriter, fully booked until mid-November. I'm getting lots of new inquiries and want an auto-reply that doesn't lose them.",
+   "reply": "Thanks for getting in touch. I'm fully booked until Friday 13 November, so I can't start anything new before then. If your timeline allows, reply with two lines about the project and your deadline, and I'll hold you a slot from Monday 16 November. Need someone sooner? Say so and I'll suggest a copywriter I trust. Hana",
+   "lang": "en",
+   "note": "An at-capacity auto-reply is still a sales message: the next free date and one easy way to claim it."
   }
  ]
 }

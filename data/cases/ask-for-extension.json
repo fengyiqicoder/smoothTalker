@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -29,6 +29,13 @@
    "reply": "陈老师您好，我是周末班的李晓雯。《管理会计》课程论文昨晚12点截止，我没有按时提交，也没有提前跟您说明，这是我的问题。这周公司季度结账，连续加班耽误了进度。能否允许我在本周四，10月1日晚上12点前提交？如果不方便延期，我今晚先把已完成的部分发给您，逾期扣分我也接受。谢谢老师。",
    "lang": "zh",
    "note": "已经逾期时，先认没提前说，再给一个具体新时间和部分交付的备选，理由只写一句。"
+  },
+  {
+   "id": "ask-for-extension-005",
+   "situation": "My employer switched payroll systems and my September pay is delayed until October 9. Rent ($1,650) is due October 1 to my landlord, Mr. Delgado, who's been easy to deal with for two years. I want to ask now, not on the 1st.",
+   "reply": "Hi Mr. Delgado, a heads-up now rather than on the 1st: my employer's payroll switch has pushed my September pay to October 9. Could I pay October's rent on Friday October 9 instead? If it helps, I can send $600 on the 1st and the remaining $1,050 on the 9th. Would either of those work for you?",
+   "lang": "en",
+   "note": "Money deadlines get the same shape: ask before the due date, one line of reason, an exact new date and a partial payment as the trade."
   }
  ]
 }

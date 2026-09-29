@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -36,6 +36,13 @@
    "reply": "Dmitri, we're both getting heated and this thread isn't helping either of us. I came in sharp earlier, that's on me. I can see you're worried we'd ship something broken. Can we jump on a call at 3 today and post the decision here after?",
    "lang": "en",
    "note": "At work in public: own your part, reflect his worry, and move it to a call with a time and a promise to report back to the channel."
+  },
+  {
+   "id": "de-escalate-argument-006",
+   "situation": "My 15-year-old, Zoe, and I are yelling in the kitchen about her coming home at midnight instead of 10. I told her she's 'acting like a spoiled brat'. She's crying and shouting back. I want to stop this right now, in person.",
+   "reply": "Okay. We're both really heated, and calling you a spoiled brat was out of line. I'm sorry. I can tell you feel like I don't trust you at all. We still need to talk about the curfew, but I need twenty minutes first. I'll knock on your door at 9 and we'll talk properly. I love you, that part's not up for debate.",
+   "lang": "en",
+   "note": "Own the insult specifically, reflect her feeling without conceding the curfew, and say exactly when you'll come back."
   }
  ]
 }

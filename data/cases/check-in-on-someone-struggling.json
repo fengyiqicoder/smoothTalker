@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -29,6 +29,13 @@
    "reply": "Tienes razón, me pasé de insistente. Me echo para atrás. La oferta no caduca y aquí sigo, sin prisa y sin preguntas.",
    "lang": "es",
    "note": "No defiendas tu intención. Cumple lo que dices y reaparece en un par de semanas con algo pequeño que no tenga nada que ver con el trabajo."
+  },
+  {
+   "id": "check-in-on-someone-struggling-005",
+   "situation": "妈妈走了半年，爸爸一个人住在老家。每次打电话他都说'挺好的，你别操心'，但邻居说他最近很少出门。国庆我能回去几天。",
+   "reply": "爸，我10月2号下午到家，待到6号。这几天你别做饭，我带你去老街吃那家羊肉粉，再陪你去河边钓两天鱼。你什么都不用准备。平时想说说话了，随时打给我，不用找理由。",
+   "lang": "zh",
+   "note": "他说'挺好的'就先接受，不追问；直接给一个带日期的具体安排，再留一扇门。"
   }
  ]
 }

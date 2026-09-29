@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -36,6 +36,13 @@
    "reply": "Thanks, Sam, it was really nice to hear from you and I'm glad things are going well. I'm going to leave it here though, I don't think a drink is a good idea for me. Take care of yourself.",
    "lang": "en",
    "note": "An ending without a future hook. Say no to the drink once, plainly, and don't close with a question that restarts it."
+  },
+  {
+   "id": "end-conversation-gracefully-006",
+   "situation": "Video call with a client, Martin. The agenda was done 15 minutes ago and he keeps telling stories about his sailing trip. I have another call at 3 and it's 2:52.",
+   "reply": "Martin, I need to jump off in a couple of minutes for a 3 o'clock. Great session today, and I'll send the revised timeline by Thursday as agreed. Good luck with the race next month. Talk soon, bye.",
+   "lang": "en",
+   "note": "A recap line signals the ending, the real reason is given because you're cutting in, and the last line is not a question."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -36,6 +36,13 @@
    "reply": "王经理，我奶奶昨晚去世了，需要回衡阳老家处理后事。想请明天9月30日和节后10月8日、9日的丧假，10月12日周一回来上班。原定明天交的渠道方案，我今晚把初稿发给小刘，后面的修改由她跟进。我今天在系统里提交申请，麻烦您批一下。",
    "lang": "zh",
    "note": "Bereavement: the fact in one line, exact dates around the National Day holiday, the handover, and the system request; no detail beyond that."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-006",
+   "situation": "Texted my manager Kevin this morning that I'm sick and not coming in. He replied 'What's going on? You seemed fine yesterday.' I don't want to go into it.",
+   "reply": "Nothing I need help with, just unwell today. Priya has the 11am client call and the notes are in the shared drive. I'll check messages once this afternoon and update you tomorrow morning.",
+   "lang": "en",
+   "note": "Answers the question without a diagnosis or a defence, then restates cover and the next check-in."
   }
  ]
 }

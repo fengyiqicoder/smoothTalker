@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -29,6 +29,13 @@
    "reply": "Nick, I've got some news you won't love: I scraped the passenger door of your car reversing out of the Tesco car park this afternoon. There's a scratch about a hand's width long and a small dent, photos attached. I'm really sorry, I know you only just got it back from the garage. I'll pay for the repair in full, at whichever garage you trust, and I can drop it there myself. Call me tonight if you want to talk it through.",
    "lang": "en",
    "note": "When it's your fault, say it plainly with no excuse, and offer to pay before he has to ask."
+  },
+  {
+   "id": "deliver-bad-news-005",
+   "situation": "我和室友小周合租两年了，合同明年1月15号到期。我决定到期不续了，要搬去和男朋友住，她得自己找新室友或者换房子。她挺喜欢这套房子的。",
+   "reply": "小周，有件事想早点告诉你，可能不是你想听的：1月15号合同到期后，我不打算续租了，要搬去和男朋友一起住。我知道这样你得重新找室友或者换房，挺折腾的，所以提前三个多月跟你说。找室友我可以帮你发朋友圈、一起见人，跟房东交接押金的事也我来跑。今晚回来我们当面聊聊？",
+   "lang": "zh",
+   "note": "消息放在前两句，承认对她的影响，再给具体的帮忙；大事发完消息还要当面聊。"
   }
  ]
 }
