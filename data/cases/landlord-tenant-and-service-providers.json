@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -85,6 +85,13 @@
    "reply": "刘姐，理解您的考虑。那我们各让一步，5600续签一年，您看行吗？另外阳台那扇关不严的推拉门，如果能在新合同开始前修好，我这周就可以签。",
    "lang": "zh",
    "note": "对方态度变硬时不争谁对：给一个折中数字，附一个具体的修缮请求，并说明你马上可以签。"
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-013",
+   "situation": "Swift Movers moved us on Sept 25. They cracked the glass top of our dining table and dented the fridge door; the crew lead, Marco, noted both on the delivery sheet before I signed. New glass is quoted at $420, and the contract says damage claims must be in writing within 30 days.",
+   "reply": "Hi,\nI'm filing a damage claim for our move on 25 September, job 48213. During the move the glass top of our dining table was cracked and the fridge door was dented; your crew lead, Marco, noted both on the delivery sheet before I signed. Photos, the signed sheet and a $420 quote for replacement glass are attached, and I'll send a repair estimate for the fridge door next week. I'm filing within the 30 days set out in our contract. Could you confirm receipt and your next steps by Friday 9 October? I'd much rather settle this directly with you.\nThanks,\nElena Park",
+   "lang": "en",
+   "note": "A service-provider claim: dated facts, their own paperwork as evidence, the contract cited once. Check whether the contract caps payouts before accepting an offer."
   }
  ]
 }

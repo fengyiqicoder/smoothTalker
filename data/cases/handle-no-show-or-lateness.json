@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -85,6 +85,13 @@
    "reply": "小李，你平时干活我一直挺放心的。想跟你说个事：这两周早班迟到了三次，9月17日、22日和今天，每次20分钟左右，开店那会儿就我一个人顶着，实在忙不过来。以后早班请8点45前到，万一要迟到，提前半小时给我发个消息。如果9点的早班对你来说确实难赶，直接跟我说，我们看看排班能不能调。",
    "lang": "zh",
    "note": "对员工也是对人温和、对规律清楚：给具体日期，不说“老是”；讲清期待，再留一个可以商量的出口，不追问为什么。"
+  },
+  {
+   "id": "handle-no-show-or-lateness-013",
+   "situation": "I own a café and had an interview booked with a barista candidate, Jordan, yesterday at 3pm. He didn't show or message. His CV is strong and we're short-staffed, so I'm open to one more try.",
+   "reply": "Hi Jordan, we had your interview at Hearth Coffee booked for 3pm yesterday, and I waited until 3:20. Hope everything's okay. I'm still keen to talk, and I can do Friday 2 October at 10am. If that works, reply to confirm by tomorrow evening, and if you've taken another job, a quick note is completely fine too.",
+   "lang": "en",
+   "note": "One second chance, one slot, no lecture. If he misses this one too, move on without another message."
   }
  ]
 }

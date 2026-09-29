@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -85,6 +85,13 @@
    "reply": "さくら不動産 佐藤様\nいつもお世話になっております。メゾン中野302号室の山田健太です。転勤のため、賃貸借契約を2026年11月30日（月）をもって解約したく、ご連絡いたしました。契約書第12条の「1ヶ月前までに書面で通知」に沿って手続きしたいので、所定の解約通知書をお送りいただけますでしょうか。届き次第記入し、今週中に返送いたします。退去立会いは11月30日の午前中を希望しております。本メールを受け取られた旨、ご返信いただけますと幸いです。\n4年間大変お世話になりました。\n山田健太",
    "lang": "ja",
    "note": "メールは事前連絡。契約書が書面を求めているなら、解約通知書が期限までに届いて初めて有効になるので、控えも残しておく。"
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-013",
+   "situation": "My apartment lease in Austin ends Dec 31. It auto-renews month-to-month at $150 more unless I give written notice at least 60 days before the end date. The complex is run by Cedar Point Residential; there's a notice-to-vacate form in the resident portal, but I also want to email the leasing manager, Tasha.",
+   "reply": "Hi Tasha,\nI'm writing to give notice that I will not renew my lease for 1840 Riverside Dr, Apt 2214, and will vacate on Thursday 31 December 2026, the end date of the current lease. This meets the 60-day written notice in section 3 of the lease, and I've also submitted the notice-to-vacate form in the resident portal today, so please don't convert the lease to month-to-month. I'll pay December's rent as usual and would like to book the move-out inspection for the afternoon of the 31st. My forwarding address for the deposit is 522 Maple Lane, Round Rock, TX 78664. Could you confirm in writing that you've received this notice?\nThanks,\nDaniel Ortiz",
+   "lang": "en",
+   "note": "With an auto-renewal clause, say 'will not renew' in the first line, serve it every way the lease allows, and screenshot the portal submission."
   }
  ]
 }

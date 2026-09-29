@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -85,6 +85,13 @@
    "reply": "Hey Theo, got the repair quote back for the lens: $210 at Kelso Camera, invoice attached. Venmo is easiest, I'm @maya-lin. I'd like to book the repair before my shoot on the 17th, so sometime next week would be great. The glacier shots came out amazing, by the way.",
    "lang": "en",
    "note": "Sending the invoice makes the number a fact rather than a judgement about the accident, and the deadline is about your shoot, not his lapse."
+  },
+  {
+   "id": "money-between-friends-013",
+   "situation": "Since his promotion my friend Dan grabs the bill every time we go out. He's paid the last four dinners, around $300 in total, and it's starting to feel uneven. I'd like to pay for dinner this Friday without making it a big deal.",
+   "reply": "Heads up for Friday: dinner's on me this time, no arguments. You've got the last four and I'd like to keep it even so I can keep saying yes. If you really insist we can split it, but you're not getting the whole bill.",
+   "lang": "en",
+   "note": "Money awkwardness runs both ways: when a friend keeps paying, say plainly what you'll do and keep it light, without a speech about fairness."
   }
  ]
 }

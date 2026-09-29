@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -84,6 +84,13 @@
    "reply": "Eli, I keep thinking about Saturday. Every time one of the younger guys missed, you were the first one there, pulling him up and talking him back into the game. That's the kind of teammate people remember, and I was really proud watching it.",
    "lang": "en",
    "note": "Praise the choice he made, not the score, and keep any 'next time' advice out of the same message."
+  },
+  {
+   "id": "give-and-receive-compliments-013",
+   "situation": "Aisha, who has reported to me for three years, is leaving for a job in Lisbon. On Slack today she wrote 'you're honestly the best manager I've ever had, I learned so much from you'. I tend to brush this stuff off and I don't want to this time.",
+   "reply": "Thank you, Aisha, that really means a lot to read. I've tried hard to be the manager I wish I'd had early on, so I'm glad it showed. Keep in touch, I want to hear how Lisbon goes.",
+   "lang": "en",
+   "note": "Receiving praise from someone junior: accept it plainly and don't bounce it straight back; save your praise of her for its own message."
   }
  ]
 }

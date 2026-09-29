@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -85,6 +85,13 @@
    "reply": "哈哈，婶婶又来考我们小宇了。成绩的事我们回家自己说，他这学期挺用功的。对了小宇，你搭的那个航母模型不是拍了照片吗？拿给奶奶和婶婶看看。",
    "lang": "zh",
    "note": "问题冲着孩子来时由大人接住，一句挡掉，再把话题转到孩子愿意说的事上；第二次再问就原话再说一遍。"
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-013",
+   "situation": "I've been sober for eight months. At every family barbecue my uncle Dave hands me a beer, and when I say no he jokes 'what, you pregnant or something?' His 60th is on Saturday and I don't want to explain my recovery to the whole patio.",
+   "reply": "Ha, nope, not pregnant, just on the lemonade today, Uncle Dave. Pass me one of those, would you? And tell me about the boat, did you ever get the motor running?",
+   "lang": "en",
+   "note": "No reason for not drinking, since a reason invites a debate; if he pushes again, repeat the same line and keep a drink of your own in hand."
   }
  ]
 }

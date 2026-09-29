@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -85,6 +85,13 @@
    "reply": "Dear Mr Okonkwo,\nYou arrived at 11pm on Saturday with a confirmed room, we didn't have it for you, and you ended up in a taxi with your two children at midnight. That's our failure, and I'm sorry. I've refunded your booking in full today, and I'll reimburse the taxi and anything you paid at the other hotel as soon as you send me the receipts. If you'd like to stay with us again, your next two nights are on us, with the room guaranteed. I'm Clara Weiss, the general manager, and my direct line is 020 7946 0873.\nClara Weiss",
    "lang": "en",
    "note": "Name the midnight taxi with the kids, because that's what he's angry about, and keep the overbooking mechanics out of it."
+  },
+  {
+   "id": "respond-to-angry-customer-013",
+   "situation": "I'm a wedding photographer. I promised Priya and Tom their gallery by Sept 5, six weeks after their July 25 wedding. It's now over nine weeks, and Priya emailed furious that her mother-in-law keeps asking and my updates have been vague. The backlog is my fault.",
+   "reply": "Hi Priya,\nI promised your gallery by 5 September, it's now more than nine weeks since your wedding, and my updates have been vague while your family keeps asking. That's on me, and I'm sorry. Tonight I'll send you 30 finished favourites so you have something to share this weekend, and the full gallery will be in your inbox by 6pm on Friday 9 October. I'm also adding a 20-page printed album at no charge. If you'd like to talk, I'm on 07700 900617 any time.\nAnna",
+   "lang": "en",
+   "note": "Name the vagueness, since that is what made her furious, then a firm date plus something she can share now. Hit both deadlines."
   }
  ]
 }

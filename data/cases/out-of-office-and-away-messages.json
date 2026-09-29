@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -85,6 +85,13 @@
    "reply": "Our factory is closed for China's National Day holiday from 1 to 8 October, and I'm back on Friday 9 October. Confirmed orders ship on the dates in your contract; the holiday is already built in. New quotes will be answered by Tuesday 13 October. For a shipment already at the port, please contact Leo Zhang at Pearl Freight, leo.zhang@pearlfreight.com. Lily Chen, Export Sales",
    "lang": "en",
    "note": "For a public holiday abroad, answer the buyer's real worry (does my shipment move?) before anything else."
+  },
+  {
+   "id": "out-of-office-and-away-messages-013",
+   "situation": "我是大学老师，10月12日到25日带研究生去青海做野外考察，山里基本没信号。课程的事找助教张琳，课题组实验和经费的事找博士后刘洋。想设一个邮件自动回复。",
+   "reply": "您好，我10月12日至25日在青海野外考察，期间基本没有信号，不看邮件，10月26日（周一）回来后统一回复。课程和作业问题请联系助教张琳（zhanglin@example.edu.cn）；课题组实验和经费事务请联系刘洋博士（liuyang@example.edu.cn）。谢谢！",
+   "lang": "zh",
+   "note": "没信号就直说不看邮件，回来的日期写上星期几，两类事各给一个具体的人。"
   }
  ]
 }

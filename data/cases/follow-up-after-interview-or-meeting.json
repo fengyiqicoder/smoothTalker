@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -85,6 +85,13 @@
    "reply": "Hi Sofia, thanks for yesterday, and for pushing on churn; it's the right question to ask us. Attached is monthly cohort retention for every cohort since January 2025, with one line on the March dip: we lost two customers when their payroll platform shut down. If anything else would help before your partner meeting on Monday 12 October, tell me and I'll turn it around within a day. We'd very much like to work with Northbeam. Best, Arun",
    "lang": "en",
    "note": "After a pitch, send exactly what they asked for, meet the hardest question head on, and anchor to their next date."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-013",
+   "situation": "J'ai passé hier un entretien pour un poste de chargée de communication à la mairie de Villeurbanne, devant un jury de trois personnes : la directrice de la communication, Mme Garnier, un élu, M. Delorme, et une RH, Mme Haddad. Mme Garnier a beaucoup parlé de la refonte du journal municipal. Je voudrais envoyer un remerciement sans en faire trop.",
+   "reply": "Madame Garnier,\nJe vous remercie, ainsi que M. Delorme et Mme Haddad, pour l'entretien d'hier. Ce que vous avez dit de la refonte du journal municipal, pour qu'il parle davantage aux habitants des quartiers nord, m'a particulièrement marquée. J'ajoute un point à ma réponse sur les réseaux sociaux : à la communauté de communes du Val d'Ozon, j'ai aussi rédigé la charte de modération, ce que je n'ai pas eu le temps de mentionner. Ce poste m'intéresse vivement et je reste à votre disposition pour tout complément.\nJe vous prie d'agréer, Madame, l'expression de mes salutations distinguées.\nClaire Martin",
+   "lang": "fr",
+   "note": "Devant un jury, un seul message à la personne qui pilote le recrutement, en nommant les autres membres ; dans le public, le registre formel est attendu."
   }
  ]
 }

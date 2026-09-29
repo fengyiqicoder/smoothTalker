@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -85,6 +85,13 @@
    "reply": "Ruth is home from her hip operation on Monday 5 October, and her daughter says dinners would help most for the first two weeks. Proposal: one household drops off a dinner each weeknight, 5 to 6pm, in the cool box by her front door so she doesn't have to get up. I've pinned a sign-up list with the 10 dates, 5 to 16 October: put your name against one by Thursday 1 October. I'll post the final rota on Friday and cover any gaps myself. Please don't knock or ring for now; Ruth will say in here when she's up for visitors.",
    "lang": "en",
    "note": "One concrete plan, a one-slot action, a deadline and a default, plus the one rule that protects the person being helped."
+  },
+  {
+   "id": "group-chat-coordination-013",
+   "situation": "I organised a birthday dinner for Mia this Saturday, table for 8 at Nonna's at 7:30, booked under my name with a £10 deposit each already paid. My shift just got changed and I can't go. Lena said privately she's happy to be the contact for the restaurant.",
+   "reply": "Bad news from me: my shift has moved and I can't make Saturday, sorry all. Don't change a thing. The table at Nonna's is still booked for 8 at 7:30, and I've told them Lena is the contact now, so any changes go to her. My deposit stays in, so nobody's out of pocket. Have the best night, Mia, I'll take you for a birthday drink next week.",
+   "lang": "en",
+   "note": "Dropping out of a plan you organised: hand the logistics to a named person you've already asked, and change nothing for everyone else."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -85,6 +85,13 @@
    "reply": "Hi Ms Carter, I'm Jonah Price's dad (5C). Jonah has mentioned a few times this month that he often finishes his maths early and isn't sure what to do next, and I suspect that's when the chatting happens. Have you noticed the same thing? If so, could there be an extension task he moves on to when he's done? At home we do a bit of puzzle maths at weekends, which he loves. I'm free for a quick call after 4pm any day. Thanks, Ben Price",
    "lang": "en",
    "note": "Ask what she sees before proposing a fix, and own the chatting rather than excusing it."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-013",
+   "situation": "儿子陈浩刚上一年级，对花生严重过敏，医生开了肾上腺素笔。班主任是周老师，听说下周学校组织秋游还会发零食，我想提前跟老师说清楚。",
+   "reply": "周老师您好，我是一年级（2）班陈浩的妈妈。浩浩对花生严重过敏，医生说哪怕一点点也可能引起严重反应，他的肾上腺素笔放在书包侧袋里，医院证明和用法说明我明天让他带给您。听说下周秋游会发零食，想问一下学校对过敏的孩子有没有固定的处理流程？我可以单独给他准备一份零食。您哪天放学后方便，我当面跟您演示一下笔怎么用。谢谢您！",
+   "lang": "zh",
+   "note": "健康安全的事要具体：过敏原、严重程度、药放在哪，再问学校的流程，并主动分担。"
   }
  ]
 }

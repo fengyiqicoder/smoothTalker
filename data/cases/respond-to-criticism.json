@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -85,6 +85,13 @@
    "reply": "You're right that I've been on my phone at dinner way too much lately, and I'm glad you said it instead of giving up on talking to me. I don't think I never listen, but I get why it feels that way when half my attention is on work emails. From tonight my phone stays in the kitchen drawer during dinner. And I still want to hear about the audition, properly, whenever you're ready.",
    "lang": "en",
    "note": "With a teenager, agree with the part that's true, name the difference in one line, and make the change something she can see tonight."
+  },
+  {
+   "id": "respond-to-criticism-013",
+   "situation": "I'm a freelance designer. A client, Gareth, emailed about my first three logo concepts for his furniture brand Oakline: 'these look like clip art, not what we paid for'. Harsh, but concept B does use a pretty generic tree shape.",
+   "reply": "Thanks for the frank feedback, Gareth. What I'm hearing is that the concepts feel generic rather than the hand-made, premium look you described for Oakline. You're right about concept B, the tree shape is too stock and I'll drop it. Before I start round two, could you send me two or three logos you love, from any industry? I want to be sure I'm fixing the right thing, and you'll have new concepts by Friday 9 October.",
+   "lang": "en",
+   "note": "Client criticism of your work: reflect the real point, concede the fair part, ask for references instead of defending, and give a date."
   }
  ]
 }

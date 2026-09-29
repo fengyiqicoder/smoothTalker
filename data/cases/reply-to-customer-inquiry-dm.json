@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -85,6 +85,13 @@
    "reply": "Olá, Inês! Enviamos, sim. O frete para Portugal sai R$ 180 por luminária, com rastreio, e chega em 15 a 25 dias úteis. Pode haver imposto de importação cobrado na entrega, então vale confirmar com os CTT. Quer que eu te mande o link com o valor total já calculado?",
    "lang": "pt",
    "note": "Pedido internacional: sim ou não na primeira linha, depois frete e prazo, e o aviso sobre taxas para não haver surpresa."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-013",
+   "situation": "我在朋友圈和小红书卖自己设计的连衣裙，一条459元。有人私信：“不合适能退吗？我在S和M之间，怕买错。”",
+   "reply": "可以的，收到7天内没穿过、吊牌还在，退或换码都行，换码的来回运费我出。你方便说下身高体重和平时穿的码吗？我帮你挑一个更稳的。",
+   "lang": "zh",
+   "note": "先答能不能退，再把换码运费这个顾虑提前解决，最后只问一个问题帮她选码。"
   }
  ]
 }

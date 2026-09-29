@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -85,6 +85,13 @@
    "reply": "Maribel, qué alegría me ha dado tu mensaje, y gracias por acordarte de mí. Te tengo mucho cariño, y aun así no voy a ir a las comidas de los domingos; creo que ahora es lo mejor para todos, también para Álvaro. Me quedo con todo lo que compartimos estos años. Si nos cruzamos por el barrio, me encantará darte un abrazo.",
    "lang": "es",
    "note": "Con la familia del ex, la misma claridad que con el ex: cariño sincero, un no concreto a la invitación y ningún 'ya veremos'."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-013",
+   "situation": "My ex Jamie and I broke up in May after four years. I kept our dog, Biscuit, and Jamie just texted asking if they could see her sometime because they miss her. I'm okay with that, but I don't want it turning into us hanging out.",
+   "reply": "Hi Jamie, of course you miss her, and she'd love to see you. Let's do a walk: I can bring Biscuit to Victoria Park on Sunday the 11th at 10, and you take her round the lake for an hour while I grab a coffee. If it goes well, we could make it a once-a-month thing. Does the 11th work?",
+   "lang": "en",
+   "note": "A shared pet is logistics with feelings attached: yes to the dog, a clear shape for the visit, and you stay out of the hour."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -85,6 +85,13 @@
    "reply": "Karen, thank you for telling us so openly, and I'm really sorry you're facing this. On the work side, I'm happy to run the Monday team meeting and cover the vendor calls while you're on reduced hours, just say the word. No need to reply to this. Thinking of you.",
    "lang": "en",
    "note": "Upward, keep it short: warmth, one practical offer within your role, no questions about the diagnosis, and nothing that needs an answer."
+  },
+  {
+   "id": "respond-to-difficult-health-news-013",
+   "situation": "My close friend Owen texted that he's checking into a 28-day residential program for his drinking on Monday. He said only his sister and I know, and asked me not to tell anyone. We've been friends since school.",
+   "reply": "Owen, thank you for telling me. That took guts, and I'm really proud of you. It stays with me. I can have Rufus for the 28 days, or pop round to water the plants and grab your post, whichever helps; just tell me which. No need to reply tonight.",
+   "lang": "en",
+   "note": "Treat it like any health news: thanks, privacy said out loud, one practical offer, and no questions about how bad it got."
   }
  ]
 }

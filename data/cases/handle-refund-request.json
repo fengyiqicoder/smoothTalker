@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -85,6 +85,13 @@
    "reply": "Hi Mrs. Haddad, congratulations on the move, and thank you for telling me early. Yes, I'll refund the six lessons Jamal hasn't used, $300, back to your card by Friday 2 October. If he'd like to keep going online after you've settled, just say and we'll find a time. Wishing you all a smooth move. Daniel",
    "lang": "en",
    "note": "A fair request with nothing to weigh: the yes and the exact amount go in the first lines so there's nothing to negotiate."
+  },
+  {
+   "id": "handle-refund-request-013",
+   "situation": "我开了家小理发店。顾客李先生昨天剪了个168元的造型，今天发照片说两边剪得太短，要求全额退款。头发已经剪了，我觉得全退不合适，但确实比他说的要短。",
+   "reply": "李先生您好，照片我看了，两侧确实比您要求的短，这是我们没沟通到位，抱歉。剪掉的没法恢复，全额退款这次就不做了，给您两个选择：退一半84元，今天原路退回；或者两周后头发长一点，店长亲自给您免费修型。您选哪个都行，告诉我就马上安排。",
+   "lang": "zh",
+   "note": "服务已经用掉时，先认下具体的问题，再给退一部分或免费补救两个选项，不争是谁的错。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -85,6 +85,13 @@
    "reply": "Hi Dev, it's Hannah from number 18 next door. I noticed the new camera on your side wall looks straight into our garden and kitchen window, which feels a bit strange when the kids are playing out there. Would you mind angling it so it only covers your side path, or blocking out our side in the app if it has that option? Thanks, and let me know if anything from our side ever bothers you.",
    "lang": "en",
    "note": "Ask for a two-minute adjustment, not removal, and leave the law out of a first message. If it stays as it is, check your local guidance before escalating."
+  },
+  {
+   "id": "neighbour-disputes-013",
+   "situation": "隣の203号室の方が、燃えるゴミを収集日の前の晩に出していて、夜のうちにカラスが袋を破り集積所が散らかっています。今週も月曜の夜に出ていました。まだちゃんと話したことがないので、手紙をポストに入れたいです。",
+   "reply": "203号室の方へ\n隣の202号室の中村と申します。ご挨拶が遅れてすみません。最近、燃えるゴミが収集日の前の晩に出ていることがあり、夜のうちにカラスが袋を破って集積所が散らかってしまっています。ご存じなかったかもしれませんが、掲示板にある通り、当日の朝8時までに出していただけると助かります。こちらの生活音などで気になることがあれば、いつでも声をかけてください。\n202号室 中村",
+   "lang": "ja",
+   "note": "名乗って、責めずに事実とお願いを一つだけ。管理会社に言うのは、直接伝えても変わらなかったとき。"
   }
  ]
 }

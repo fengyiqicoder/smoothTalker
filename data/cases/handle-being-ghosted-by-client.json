@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -85,6 +85,13 @@
    "reply": "Hi Dana, it's Marco Ruiz from Clearline Cleaning, on 555 0148. I'm calling about the cleaning proposal for your four clinics that I sent on September 1. I don't want to keep filling your inbox, so this is my last follow-up. If it's still on your list, a quick call back or a one-line email is all I need; if the timing's wrong, no need to call, and I'll close it on my side. Again, Marco, 555 0148. Thanks.",
    "lang": "en",
    "note": "Switching to voicemail for the close: name and number at both ends, one line on what it's about, and offer the no so she doesn't have to call to say it."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-013",
+   "situation": "I'm a freelance illustrator. I sent Megan, marketing lead at Pine & Pillar Coffee, a $2,800 quote for packaging art on Sept 3 and bumped it once. No reply, and today LinkedIn says she left the company last month. Her replacement is Jordan Reyes, who has never heard of me.",
+   "reply": "Hi Jordan, congratulations on the new role at Pine & Pillar. I'm Lena Park, an illustrator; before she left, Megan and I were discussing new artwork for your seasonal bag range, and I've attached the $2,800 quote I sent her on 3 September so you have the context. I know you've inherited a lot, so no pressure: is packaging art still on the plan for this season? A quick yes, no or not yet is all I need.",
+   "lang": "en",
+   "note": "When your contact has left, the silence wasn't about you: start fresh with the new person, give the context in one line, and keep the reply to one word."
   }
  ]
 }

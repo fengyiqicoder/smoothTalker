@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -85,6 +85,13 @@
    "reply": "各位好，我是小满曲奇的阿琳。跟大家说一件事：从11月1日起，曲奇礼盒从一盒12块改为一盒10块，价格还是88元。原因是今年黄油和包装都涨了不少。配方、用的黄油和每块的大小都不变。10月31日前下的单，全部按12块一盒发。谢谢大家一直照顾一家小店。阿琳",
    "lang": "zh",
    "note": "减量也是涨价，要像涨价一样放在第一句说清楚，并给一个按旧规格下单的截止日期。"
+  },
+  {
+   "id": "price-increase-and-customer-announcements-013",
+   "situation": "I'm the volunteer treasurer of our amateur football club, about 60 adult members. Annual subs go from £120 to £150 for the season starting 1 January, because the council raised pitch hire by about a third. Posting in the members' WhatsApp group.",
+   "reply": "Hi all, Priya here, wearing my treasurer hat. From the season starting 1 January, annual subs go from £120 to £150. The council has put pitch hire up by about a third, and subs are what pay for it. Nothing else changes: same pitches, same Tuesday training, same kit. You can pay in three instalments of £50 if that's easier, and if the new amount is a real problem for you, message me privately and we'll sort something out, no questions asked. Thanks for keeping the club going.",
+   "lang": "en",
+   "note": "In a member-run club, the hardship option goes in the announcement for everyone, so it's a policy rather than a quiet deal for whoever complains."
   }
  ]
 }

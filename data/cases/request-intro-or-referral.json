@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -85,6 +85,13 @@
    "reply": "小雅，想请你帮个忙：我11月要调到成都了，那边一个人都不认识，能不能把我介绍给阿楠？我主要想请她吃顿饭，问问住哪个区方便，别的不多打扰。你们要是最近联系不多、不好开口，直接说就行，我自己慢慢摸索。\n\n方便的话，这段可以直接转给她：“阿楠，介绍一下我大学室友林晓，11月从杭州调到成都做设计。她想找个本地人问问租房和生活，顺便认识个爬山搭子，想请你吃顿饭。你愿意的话我拉个群。”\n\n见完一定跟你汇报！",
    "lang": "zh",
    "note": "不是为工作的引荐也一样：说清要对方花多少时间，附一段能直接转发的介绍，给一个真的退路。"
+  },
+  {
+   "id": "request-intro-or-referral-013",
+   "situation": "I'm applying for a flat in Bristol and the letting agent wants a reference from a previous landlord by Monday Oct 5. I rented from Mr. Okafor for three years, 2021 to 2024, always paid on time, but we haven't been in touch since I moved out.",
+   "reply": "Hi Mr. Okafor, could I ask a favour? I'm applying for a flat in Bristol and the letting agent, Harbour Lettings, has asked for a reference from a previous landlord by Monday 5 October. Would you be willing to give one? It's a short email form confirming that I rented Flat 3 on Kingsley Road from 2021 to 2024 and paid rent on time. If it's not convenient, no problem at all, just let me know and I'll ask elsewhere. I'll tell you how it goes either way. Thanks, Priya",
+   "lang": "en",
+   "note": "A reference from someone you've lost touch with: the ask and deadline first, exactly what they'd confirm, and an easy out."
   }
  ]
 }

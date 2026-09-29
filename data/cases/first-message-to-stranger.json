@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -85,6 +85,13 @@
    "reply": "你好！看了你们去保山挑豆子那篇，最喜欢在咖啡园里晒豆的那张照片。我是杭州的插画师，平时常给小店画菜单和包装，想问一句：店里的菜单有考虑过做一版手绘的吗？有兴趣的话我发三张以前的作品给你看，没有也完全理解。",
    "lang": "zh",
    "note": "陌生的生意私信：先证明认真看过对方的内容，自我介绍一句，只问一个好回答的小问题，第一条不报价。"
+  },
+  {
+   "id": "first-message-to-stranger-013",
+   "situation": "Matched with a guy on Tinder and he opened with just 'hey'. His profile says he's a firefighter and his photos are mostly bowls he's made on a pottery wheel. I want to reply with something better than 'hey' back.",
+   "reply": "Hey! A firefighter whose hobby involves a 1,200-degree kiln feels like a busman's holiday. What got you into pottery?",
+   "lang": "en",
+   "note": "When they open with 'hey', don't mirror it: pick up one detail and hand them an easy question."
   }
  ]
 }

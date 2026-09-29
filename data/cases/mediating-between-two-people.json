@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -85,6 +85,13 @@
    "reply": "Jade, thank you for telling me, and I'm really sorry this has been happening. What you've described isn't a disagreement I can sort out between the two of you; it has to go through the company, and that's what protects you. I'm taking it to our general manager, Lisa, today, and I'll keep it as private as I can. Until it's dealt with, I won't put you and Ryan on the same shifts. Is there anything else you need from me right now?",
    "lang": "en",
    "note": "Comments about her body and unwanted touching are not a two-sided dispute: don't hold a joint sit-down; report it through the channel your workplace policy names."
+  },
+  {
+   "id": "mediating-between-two-people-013",
+   "situation": "我妈从老家过来帮我们带刚满半岁的孩子，跟我老婆因为孩子穿多少、什么时候加辅食天天闹别扭，两个人都私下跟我抱怨对方。刚才我妈又拉着我说：“你得管管你媳妇，她根本不听我的。”",
+   "reply": "妈，我知道您大老远过来帮我们带孩子，受了委屈，您跟我说我都明白。不过我不想在您和小丽之间传话，传来传去意思就变了。孩子穿多少、什么时候加辅食，这周六孩子睡午觉的时候，咱们三个坐下来一起商量个规矩，一件一件说，一个人说完另一个再说，拿不准的就一起听儿保医生的。我也会跟小丽说一样的话，不偏向谁。",
+   "lang": "zh",
+   "note": "婆媳之间，你是孩子的爸爸，可以有自己的意见，但不当传话筒，把两个人拉到一张桌上一起定规矩。"
   }
  ]
 }
