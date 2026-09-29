@@ -1,0 +1,27 @@
+{
+ "playbook": "give-feedback-kindly",
+ "count": 3,
+ "cases": [
+  {
+   "id": "give-feedback-kindly-001",
+   "situation": "My friend Tara sent me her wedding speech draft for her sister, asked for honest thoughts. It's sweet but 7 minutes long and half of it is inside jokes nobody will get.",
+   "reply": "I read it twice and the bit about teaching her to ride a bike on Elm Street made me tear up, keep that exactly as it is. Where I got a bit lost was the middle, with the camp stories: I didn't know the references, and I think a lot of the room won't either. If you kept one of those and cut the rest, you'd land around four minutes and the bike story would hit even harder. This is going to be lovely.",
+   "lang": "en",
+   "note": "Specific praise first, one main issue as her experience as a listener, one concrete fix, and the goal restated."
+  },
+  {
+   "id": "give-feedback-kindly-002",
+   "situation": "我带的实习生小吴做了一份竞品分析PPT，下周要给总监汇报。数据很扎实，但结论埋在第15页，前面全是表格。她没主动问我意见。",
+   "reply": "小吴，汇报前想给你一点意见，你想听吗？数据这块做得很扎实，特别是价格对比那张表，比我们之前的都清楚。我唯一的担心是结论在第15页，总监很可能前面就开始问'所以呢'。要不要把第15页的三条结论挪到第2页，后面的表格作为支撑？这份东西底子很好，调一下顺序就会很出彩。",
+   "lang": "zh",
+   "note": "对方没主动问，先征得同意；只挑最重要的一条，给一个具体改法。"
+  },
+  {
+   "id": "give-feedback-kindly-003",
+   "situation": "Gave my brother feedback on his food truck business plan, said the location costs look way too low. He got defensive and said 'I thought you'd be supportive'.",
+   "reply": "I can hear that landed harder than I meant. It's one person's take, and I only said it because I think the truck could really work and I'd hate for rent to be the thing that trips it up. Happy to drop it, or go through the numbers together over a beer on Saturday, your call.",
+   "lang": "en",
+   "note": "Don't retract the point and don't add to it. Reaffirm the goal and offer to leave it there."
+  }
+ ]
+}

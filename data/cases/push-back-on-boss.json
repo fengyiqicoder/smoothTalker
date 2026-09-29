@@ -1,0 +1,27 @@
+{
+ "playbook": "push-back-on-boss",
+ "count": 3,
+ "cases": [
+  {
+   "id": "push-back-on-boss-001",
+   "situation": "My manager just asked me on Slack to build the competitor pricing dashboard by Friday. I already have the quarterly board report due Thursday and a client migration Wednesday. It's realistically 3 days of work.",
+   "reply": "Happy to take the pricing dashboard, I think it'll be useful. Quick priority check though: I've got the Norland migration Wednesday and the board report Thursday, and the dashboard is about three days' work on its own. Options: I deliver a first version with the top five competitors Friday and the full one next Wednesday, or the board report moves to Monday and I focus on the dashboard. My recommendation is the first. Which do you prefer?",
+   "lang": "en",
+   "note": "Align, name the constraint in days, show the trade-off, recommend, and ask them to choose."
+  },
+  {
+   "id": "push-back-on-boss-002",
+   "situation": "老板在会上决定把我们产品的免费试用期从30天砍到7天，我觉得会严重影响转化，但会上没好意思说。想会后私聊他。",
+   "reply": "张总，关于试用期改成7天的决定，想在正式执行前提一个顾虑。我们的数据里，付费用户有将近一半是在第10到25天之间转化的，改成7天可能会直接砍掉这部分。如果这个已经考虑过了，我就全力配合推进。如果还没有，可以先拿一个渠道试行两周，看数据再全面推，您觉得呢？",
+   "lang": "zh",
+   "note": "私下提，不当众；用数据说风险，给出一个低成本的替代方案，并留出'已考虑过就配合'的台阶。"
+  },
+  {
+   "id": "push-back-on-boss-003",
+   "situation": "Pushed back on my boss about delivering the grant application and the donor newsletter both by Monday. She said 'I need both, figure it out.' I'm a program coordinator at a nonprofit.",
+   "reply": "Understood, I'll make Monday the priority for both. To be clear, that means the newsletter goes out with three stories instead of five, and the volunteer training schedule moves to Wednesday. I'll send the grant application for your review by 2pm Monday.",
+   "lang": "en",
+   "note": "When they insist, don't argue a second time. Say what slips, in writing, and deliver what you said."
+  }
+ ]
+}

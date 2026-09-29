@@ -1,0 +1,27 @@
+{
+ "playbook": "ask-to-change-behavior",
+ "count": 3,
+ "cases": [
+  {
+   "id": "ask-to-change-behavior-001",
+   "situation": "My coworker Dave takes speakerphone calls at his desk in our open office almost every morning. I sit right next to him and can't focus. We get along fine.",
+   "reply": "Hey Dave, small thing: the speakerphone calls in the mornings carry right over to my desk and I lose my train of thought when I'm writing. Could you take them on headphones, or grab one of the phone booths? Happy to return the favour if I'm ever the noisy one.",
+   "lang": "en",
+   "note": "One behaviour, the effect in first person, and a concrete alternative with two easy options."
+  },
+  {
+   "id": "ask-to-change-behavior-002",
+   "situation": "我老公每次跟我妈吃饭都一直刷手机，我妈嘴上不说但我看得出她不开心。想跟他提一下但不想吵架。",
+   "reply": "老公，跟你说个小事，不是要吵架哈。每次跟我妈吃饭的时候你基本都在看手机，我妈其实挺在意的，我坐旁边也有点难受。以后跟她吃饭那一个多小时，手机能不能先放兜里？有急事的话跟她说一声再看就行，我也一样。",
+   "lang": "zh",
+   "note": "只说一个具体行为和对自己的影响，请求具体到那一个多小时，并把自己也放进同一个规则里。"
+  },
+  {
+   "id": "ask-to-change-behavior-003",
+   "situation": "I already asked my roommate Sam a month ago to stop leaving his bike in the hallway, he did for a week and now it's back. I trip on it every morning.",
+   "reply": "Hey Sam, I mentioned the bike in the hallway a few weeks ago and it's crept back. I'm not trying to nag, I've actually tripped on it twice this week. Could we put up a wall hook in your room or the storage cupboard this weekend? I'll pick one up and help you mount it.",
+   "lang": "en",
+   "note": "Second ask: name that it slipped, restate the effect, and offer a fix that makes the new habit easier."
+  }
+ ]
+}

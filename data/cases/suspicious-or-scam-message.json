@@ -1,0 +1,27 @@
+{
+ "playbook": "suspicious-or-scam-message",
+ "count": 3,
+ "cases": [
+  {
+   "id": "suspicious-or-scam-message-001",
+   "situation": "Got a WhatsApp from my friend Priya's number saying she's stuck abroad, lost her wallet and needs $600 wired today, and please don't tell anyone because it's embarrassing. Doesn't sound like her.",
+   "reply": "Hey, I just got a message from your WhatsApp asking me to wire $600 today. I'm guessing that wasn't you? Ring me when you can.",
+   "lang": "en",
+   "note": "Money, urgency and secrecy together. Don't reply in the WhatsApp thread; send this by SMS or call her saved number."
+  },
+  {
+   "id": "suspicious-or-scam-message-002",
+   "situation": "我爸最近总跟我说他在一个'理财群'里跟着'老师'炒股赚了不少，还说老师让他加大投入、别跟家里人说。我很担心，但他很好面子。",
+   "reply": "爸，想跟你聊聊那个理财群的事，我保证不是来说教的。那个老师有没有让你往他给的账户里转钱，或者让你别告诉家里人？现在这种骗子都很专业，很多聪明人都被骗过。不管情况怎样，我们一起想办法，我周六回家陪你一起看看。",
+   "lang": "zh",
+   "note": "目标是让他愿意跟你说实话。羞辱会让他把下一个骗局藏起来。"
+  },
+  {
+   "id": "suspicious-or-scam-message-003",
+   "situation": "My neighbour Gary (retired, 70s) just told me he clicked a 'Royal Mail' text link yesterday and paid a £1.99 redelivery fee with his card. Now he's worried.",
+   "reply": "Don't be hard on yourself, Gary, these texts are built to look exactly like the real thing. Call the number on the back of your card right now and tell them what happened, so they can block it before anything else goes through. Then forward the text to 7726 and delete it. I'm home all afternoon if you want me to sit with you while you call.",
+   "lang": "en",
+   "note": "Act first, talk later. Calling the bank fast is what limits the damage."
+  }
+ ]
+}

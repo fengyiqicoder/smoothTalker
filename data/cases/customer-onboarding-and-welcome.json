@@ -1,0 +1,27 @@
+{
+ "playbook": "customer-onboarding-and-welcome",
+ "count": 3,
+ "cases": [
+  {
+   "id": "customer-onboarding-and-welcome-001",
+   "situation": "I'm a wedding photographer. Couple (Priya and Ben) just paid the deposit for their June 14 wedding. I need their timeline, shot list, and venue contact eventually. Want a welcome email that isn't a novel.",
+   "reply": "Hi Priya and Ben, thank you for booking me for 14 June, I'm genuinely excited about the Hollins Barn setting. Here's what happens next: we'll have a 30-minute planning call in April, and your engagement shoot can be any weekend in May you like. Before the call, could you send me three things by 31 March: your rough day timeline, a list of must-have family groupings, and your venue coordinator's contact? Any questions, reply here or text me on 0161 496 0718; I usually answer within a day. Maria",
+   "lang": "en",
+   "note": "Next steps with dates, everything needed in one list with a deadline, and a real person to reach."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-002",
+   "situation": "Ich gebe Online-Nachhilfe in Mathe. Eine Mutter, Frau Becker, hat gerade für ihren Sohn Luca (10. Klasse) ein Paket mit 10 Stunden gebucht. Erste Stunde soll nächste Woche sein.",
+   "reply": "Liebe Frau Becker, vielen Dank für die Buchung, ich freue mich auf die Stunden mit Luca. Die erste Stunde ist am Dienstag, 6. Oktober, um 16:30 Uhr per Zoom; den Link bekommen Sie am Vortag. Damit ich gezielt vorbereiten kann, schicken Sie mir bitte bis Sonntag ein Foto der letzten Mathearbeit und das aktuelle Thema im Unterricht. Bei Fragen erreichen Sie mich per WhatsApp unter 0176 5550 2231, ich antworte meistens noch am selben Tag. Viele Grüße, Jana Hofmann",
+   "lang": "de",
+   "note": "Termin, Link, eine kurze Liste mit Frist und ein Mensch zum Erreichen. Kein Upsell auf ein größeres Paket."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-003",
+   "situation": "Web design client (Dev, runs a bakery) was supposed to send his photos and menu text last Friday for the site launch on Oct 20. Nothing yet. I don't want to sound annoyed.",
+   "reply": "Hi Dev, quick nudge on the photos and menu text for the site. If I have them by Wednesday, we're still on track to launch on 20 October; after that it moves to the 27th. Phone photos are completely fine, and if writing the menu is the hard part, send me a picture of the chalkboard and I'll type it up.",
+   "lang": "en",
+   "note": "One friendly reminder with the concrete consequence, not a warning, plus a way to make the task smaller."
+  }
+ ]
+}
