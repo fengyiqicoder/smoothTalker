@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -78,6 +78,13 @@
    "reply": "刘女士您好，希望您这周一切顺利。上次您提到上周五前会有结果，想确认一下是否还需要我补充什么材料。另外坦白说明一下：我手上有另一家公司的offer，需要在10月9日前答复，但我更希望加入贵司的供应链团队。如果方便，能否在那之前告诉我大概的进展？谢谢您！\n陈宇",
    "lang": "zh",
    "note": "时间线过了只问一次，赶在国庆前发；另一家offer是真的才提，说清日期和你的偏好，不施压。"
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-012",
+   "situation": "Pitched my B2B invoicing startup yesterday to Sofia Marin, a partner at Northbeam Ventures. She pushed hard on our churn and asked to see monthly cohort retention. She said their partner meeting is Monday Oct 12.",
+   "reply": "Hi Sofia, thanks for yesterday, and for pushing on churn; it's the right question to ask us. Attached is monthly cohort retention for every cohort since January 2025, with one line on the March dip: we lost two customers when their payroll platform shut down. If anything else would help before your partner meeting on Monday 12 October, tell me and I'll turn it around within a day. We'd very much like to work with Northbeam. Best, Arun",
+   "lang": "en",
+   "note": "After a pitch, send exactly what they asked for, meet the hardest question head on, and anchor to their next date."
   }
  ]
 }

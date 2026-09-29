@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -78,6 +78,13 @@
    "reply": "各位，周会时间我来提两个选项：A 每周二北京时间晚上10点（柏林下午4点，旧金山早上7点）；B 每周四北京时间晚上11点（柏林下午5点，旧金山早上8点）。都避开了三地的半夜，北京这边会晚一点。请在周三中午（北京时间）前回A或B，按多数定；没人回的话就定A，下周二开始，会议邀请我来发。",
    "lang": "zh",
    "note": "跨时区时把每个时区的时间都写出来，别让大家自己换算；截止时间也注明时区。"
+  },
+  {
+   "id": "group-chat-coordination-012",
+   "situation": "Our neighbour Ruth, 78, comes home from hip surgery on Monday Oct 5. Her daughter says dinners would help most for the first two weeks. I want to set up a rota in our street's WhatsApp group of 14 households without swamping Ruth with visitors.",
+   "reply": "Ruth is home from her hip operation on Monday 5 October, and her daughter says dinners would help most for the first two weeks. Proposal: one household drops off a dinner each weeknight, 5 to 6pm, in the cool box by her front door so she doesn't have to get up. I've pinned a sign-up list with the 10 dates, 5 to 16 October: put your name against one by Thursday 1 October. I'll post the final rota on Friday and cover any gaps myself. Please don't knock or ring for now; Ruth will say in here when she's up for visitors.",
+   "lang": "en",
+   "note": "One concrete plan, a one-slot action, a deadline and a default, plus the one rule that protects the person being helped."
   }
  ]
 }

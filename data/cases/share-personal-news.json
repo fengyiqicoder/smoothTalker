@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -78,6 +78,13 @@
    "reply": "Megs, I want you to be the first to know, before Mom and Dad: I'm gay. I've known for a while and honestly I'm happy. I'm planning to tell them in person at Thanksgiving, so please keep it between us until then. Call me tomorrow night if you're free? I'd love to hear your voice.",
    "lang": "en",
    "note": "Closest person first, the news in the first line, and a clear cue for how to respond: keep it private until the parents hear it in person."
+  },
+  {
+   "id": "share-personal-news-012",
+   "situation": "My wife died three years ago. I've been seeing a woman named Carol for four months and I'd like to bring her to Thanksgiving. I want to tell my two adult kids first, separately, starting with my daughter Anna tonight by text.",
+   "reply": "Anna, I wanted you to hear this from me before it comes up any other way: I've been seeing someone. Her name is Carol, we met at the library book group, and it's been about four months. It doesn't change anything about how much I miss your mom. I'd love for you to meet her before Thanksgiving, maybe lunch, just the three of us, but only when you're ready. Call me whenever you want to talk, or take some time first, both are fine.",
+   "lang": "en",
+   "note": "Tell each child individually before any gathering, and say plainly that either a call or some space is a fine response."
   }
  ]
 }

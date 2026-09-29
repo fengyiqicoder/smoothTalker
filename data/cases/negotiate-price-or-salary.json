@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -78,6 +78,13 @@
    "reply": "Hi Tom, ahead of Thursday: in March we agreed to revisit my compensation in September against three goals. The partner portal launched on 14 August, the ticket backlog has been under 200 since July and is at 146 today, and Priya and Jonah are both fully onboarded. Based on that and the market for this role, I'd like to move from $92k to $102k. Could we use part of Thursday's 1:1 to talk about getting there?",
    "lang": "en",
    "note": "Revisiting an agreed review: the written targets and the evidence first, then one number. If budget is the blocker, ask for an effective date, not another open-ended review."
+  },
+  {
+   "id": "negotiate-price-or-salary-012",
+   "situation": "I have a written offer from Norrland Games for senior QA lead at $98k, and it's where I want to work. I also have a written offer from Cobalt Systems at $108k. I'd happily sign with Norrland at $104k. The recruiter is Hannah.",
+   "reply": "Hi Hannah,\nThank you for the offer. Norrland is my first choice and I'd really like to make this work. I want to be open with you: I have a written offer from another company at $108k base. If you can get to $106k, I'm ready to sign this week. Is there flexibility there? If base is fixed, I'd be glad to talk about a signing bonus to close the gap.\nBest,\nSam",
+   "lang": "en",
+   "note": "Only mention a competing offer if it's real and in writing, and say which one you prefer; it's context for your number, not a threat."
   }
  ]
 }

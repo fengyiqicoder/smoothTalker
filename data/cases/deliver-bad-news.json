@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -78,6 +78,13 @@
    "reply": "Hi everyone,\nI've got news I hoped I'd never send: Crumb & Co will close for good on Saturday 31 October. Our rent is doubling at renewal, and a bakery our size can't carry that. After seven years of your Saturday queues and birthday cake orders, I know this is a loss for many of you too. We're open as normal until the 31st, every cake order already placed will be made, and loyalty cards can be used right up to closing. Come in and say hello before then, I'd love to see you.\nRuth",
    "lang": "en",
    "note": "With hundreds of readers, the news goes in line one and the practical questions (orders, loyalty cards) are answered before anyone has to ask."
+  },
+  {
+   "id": "deliver-bad-news-012",
+   "situation": "我和老公在多伦多，今年春节不回国了，三月我要论文答辩，机票也贵了一倍。我爸妈每年从十月就开始盼、开始准备年货。想先在微信上跟他们说清楚，再约视频。",
+   "reply": "爸妈，有件事想早点跟你们说，免得你们白准备：今年春节我们不回去了。主要是我三月份论文答辩，那段时间走不开，机票也比平时贵了一倍多。我知道你们一直盼着过年一家人团聚，这次让你们失望了。我们打算五一放假回去住两个星期，好好陪你们。这周六晚上你们那边九点，视频聊聊好吗？",
+   "lang": "zh",
+   "note": "家人会提前准备的事，坏消息越早说越好；文字先说清楚，再约视频，给对方消化的时间。"
   }
  ]
 }

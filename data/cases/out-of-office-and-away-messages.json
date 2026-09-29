@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -78,6 +78,13 @@
    "reply": "At a conference in Singapore 12 to 16 October, back at my desk Monday 19 October. I check Slack once a day, around 10am UK time, so expect replies then. For incidents or anything that can't wait until that check, go to Priya Shah.",
    "lang": "en",
    "note": "Partly available is its own promise: say exactly when you look, in the reader's time zone, and name the cover once."
+  },
+  {
+   "id": "out-of-office-and-away-messages-012",
+   "situation": "I run export sales at a furniture factory in Foshan. We close for National Day from Oct 1 to 8 and I'm back Friday Oct 9. Confirmed orders already have the holiday built into their ship dates, but overseas buyers worry every year. Our freight forwarder, Leo Zhang, stays open for anything already at the port.",
+   "reply": "Our factory is closed for China's National Day holiday from 1 to 8 October, and I'm back on Friday 9 October. Confirmed orders ship on the dates in your contract; the holiday is already built in. New quotes will be answered by Tuesday 13 October. For a shipment already at the port, please contact Leo Zhang at Pearl Freight, leo.zhang@pearlfreight.com. Lily Chen, Export Sales",
+   "lang": "en",
+   "note": "For a public holiday abroad, answer the buyer's real worry (does my shipment move?) before anything else."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -78,6 +78,13 @@
    "reply": "Dear Priya,\nI'm writing to give notice that we will vacate 3/41 Albert Street, Brunswick, on Monday 30 November, in line with the 28 days' written notice in our rental agreement. Rent will be paid through to the 30th, and we'll hand back all keys at the final inspection that day if that suits. One request about viewings: I work night shifts and we have a three-month-old, so could they be kept to Tuesdays and Saturdays between 11am and 1pm, with the usual notice? We'll have the place tidy for them. Please confirm you've received this notice. Thanks for three easy years.\nSam Nguyen",
    "lang": "en",
    "note": "The notice stands on its own in the first sentence; the viewing times are a separate request, so a no on those doesn't muddy the notice."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-012",
+   "situation": "東京の賃貸マンションに住んでいます。契約書では解約は1ヶ月前までに書面で通知することになっています。転勤で11月30日に退去したいです。管理会社はさくら不動産の佐藤さんで、まずメールで連絡したいです。",
+   "reply": "さくら不動産 佐藤様\nいつもお世話になっております。メゾン中野302号室の山田健太です。転勤のため、賃貸借契約を2026年11月30日（月）をもって解約したく、ご連絡いたしました。契約書第12条の「1ヶ月前までに書面で通知」に沿って手続きしたいので、所定の解約通知書をお送りいただけますでしょうか。届き次第記入し、今週中に返送いたします。退去立会いは11月30日の午前中を希望しております。本メールを受け取られた旨、ご返信いただけますと幸いです。\n4年間大変お世話になりました。\n山田健太",
+   "lang": "ja",
+   "note": "メールは事前連絡。契約書が書面を求めているなら、解約通知書が期限までに届いて初めて有効になるので、控えも残しておく。"
   }
  ]
 }

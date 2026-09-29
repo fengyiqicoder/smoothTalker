@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -78,6 +78,13 @@
    "reply": "Hi Mr. Hughes, thank you for the note, and I'm sorry the noise has been getting to you. You're right that the kids are loud between about 5 and 7, and we've ordered thick rugs for the living room and hallway that arrive this week. They're asleep by 8, so if you're hearing noise late at night it may be coming from elsewhere. Could you let me know roughly when? I'd like to sort this properly.\nEmma, flat 2",
    "lang": "en",
    "note": "Own the part that's true with a concrete fix, disagree on the rest with a question, and leave 'inconsiderate' alone."
+  },
+  {
+   "id": "respond-to-criticism-012",
+   "situation": "My 15-year-old daughter Lily snapped at dinner that I 'never listen' and I'm 'always on my phone'. I have been answering work emails at the table a lot lately. I don't think I never listen, but I want to reply by text after she's cooled off in her room.",
+   "reply": "You're right that I've been on my phone at dinner way too much lately, and I'm glad you said it instead of giving up on talking to me. I don't think I never listen, but I get why it feels that way when half my attention is on work emails. From tonight my phone stays in the kitchen drawer during dinner. And I still want to hear about the audition, properly, whenever you're ready.",
+   "lang": "en",
+   "note": "With a teenager, agree with the part that's true, name the difference in one line, and make the change something she can see tonight."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -78,6 +78,13 @@
    "reply": "Leo, I've been thinking about what you asked the other night, and I want to give you a straight answer. I've really enjoyed these six weeks, especially the Sunday market mornings. But I don't see this becoming a relationship for me, and since you want more, it isn't fair to keep going as we are. So I'd like to end it here. I'm sorry it's not the answer you were hoping for.",
    "lang": "en",
    "note": "When someone asks for more, 'let's keep it casual' is the ambiguous option; a clean end respects what he told you he wants."
+  },
+  {
+   "id": "romantic-let-down-012",
+   "situation": "我妈的同事王阿姨给我介绍了个男生小刘，加了微信也见了一次面，我没感觉。现在王阿姨发微信问我：“觉得小刘怎么样？他对你印象挺好的。”我不想让王阿姨难做，也不想拖着。",
+   "reply": "王阿姨，谢谢您费心张罗，小刘人很有礼貌，那天聊得也挺愉快。不过我对他没有那种感觉，就不继续接触了。我今天也会自己给他发条消息说清楚，不让您夹在中间为难。辛苦您了，改天请您喝茶。",
+   "lang": "zh",
+   "note": "介绍人问起时给明确答案，不说“再看看”；已经直接联系过对方的，自己再跟他说一句。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -78,6 +78,13 @@
    "reply": "Dear Mrs Ellis, I'm writing with a safeguarding concern about my daughter, Maya Grant, in Year 9. Since Sunday evening an edited photo of Maya with unkind captions has been shared in a class group chat and screenshotted into other chats; I've saved copies and can send them today. Maya is very distressed. Could you let me know the school's process, and could we speak today or tomorrow? At home we've reported the posts to the app and she's off the chat for now. I'm on 07700 900 461 all day. Thank you, Rachel Grant",
    "lang": "en",
    "note": "Online bullying goes straight to the safeguarding lead: dates, evidence on offer, a question about process and a prompt time frame, without naming the other children yet."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-012",
+   "situation": "My son Jonah (Year 5, Ms Carter's class) keeps saying he finishes his maths work early and then gets bored, and he's been told off twice this month for chatting. I don't want to come across as the pushy 'my kid is gifted' parent.",
+   "reply": "Hi Ms Carter, I'm Jonah Price's dad (5C). Jonah has mentioned a few times this month that he often finishes his maths early and isn't sure what to do next, and I suspect that's when the chatting happens. Have you noticed the same thing? If so, could there be an extension task he moves on to when he's done? At home we do a bit of puzzle maths at weekends, which he loves. I'm free for a quick call after 4pm any day. Thanks, Ben Price",
+   "lang": "en",
+   "note": "Ask what she sees before proposing a fix, and own the chatting rather than excusing it."
   }
  ]
 }

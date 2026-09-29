@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -78,6 +78,13 @@
    "reply": "Hi Marisol, I'm sorry your candles haven't turned up, that's frustrating. I'll send a replacement out tomorrow morning and you'll have the new tracking by the afternoon. Tracking on the first parcel shows it delivered to your mailbox on 24 September, so it may be worth a quick word with neighbours in case it went to the wrong door. If it does turn up, keep it as a spare, on me.",
    "lang": "en",
    "note": "For a small amount and a repeat customer, resending costs less than asking her to prove anything; on a big order, open a carrier claim first."
+  },
+  {
+   "id": "handle-refund-request-012",
+   "situation": "I tutor maths. Jamal's parents bought a 10-lesson bundle for $500 (single lessons are $60) and he's had 4. They're moving abroad next month and asked if they can get money back for the rest. The bundle terms don't mention refunds either way.",
+   "reply": "Hi Mrs. Haddad, congratulations on the move, and thank you for telling me early. Yes, I'll refund the six lessons Jamal hasn't used, $300, back to your card by Friday 2 October. If he'd like to keep going online after you've settled, just say and we'll find a time. Wishing you all a smooth move. Daniel",
+   "lang": "en",
+   "note": "A fair request with nothing to weigh: the yes and the exact amount go in the first lines so there's nothing to negotiate."
   }
  ]
 }

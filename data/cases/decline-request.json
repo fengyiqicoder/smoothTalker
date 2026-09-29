@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "decline-request-001",
@@ -78,6 +78,13 @@
    "reply": "Andrés, gracias por preguntarme directamente. Te voy a decir que no: el coche no lo presto, es una regla que tengo con todo el mundo, y además el seguro solo me cubre a mí. Si te sirve, te paso el contacto de la agencia donde alquilé el verano pasado, tenían buen precio por semana. ¡Que lo paséis genial en la costa!",
    "lang": "es",
    "note": "Una regla para todos es difícil de discutir; la alternativa es pequeña y real. Si insiste: 'Te entiendo, pero mi respuesta es la misma'."
+  },
+  {
+   "id": "decline-request-012",
+   "situation": "My friend Ben asked me to help him move out of his third-floor walk-up on Saturday October 10. I don't want to spend the day carrying boxes, but I'm free that evening and would genuinely like to help in some other way.",
+   "reply": "Thanks for asking me, Ben, and congrats on the new place. I'm going to say no to the carrying on Saturday. I can come over that evening with pizza and help build the bed and unpack the kitchen, if that's useful.",
+   "lang": "en",
+   "note": "No reason owed for the no; the evening help is the smaller yes, and it's only there because you actually want to give it."
   }
  ]
 }

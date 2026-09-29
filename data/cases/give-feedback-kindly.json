@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -78,6 +78,13 @@
    "reply": "Nadia, congrats on the launch! The hammered silver hoops are gorgeous, I'd wear them tomorrow. I've got one small thought about the photos if you want it, or I can just be your cheerleader today. Either is fine.",
    "lang": "en",
    "note": "Unasked means ask first, and in a private message, not the group; if she says yes, give only the one point: daylight and a plain background."
+  },
+  {
+   "id": "give-feedback-kindly-012",
+   "situation": "My direct report Kwame asked in our 1:1 how he's doing. His technical work is excellent, but his code review comments are blunt ('this is wrong, redo') and two junior engineers have quietly told me they dread his reviews. I don't want to name them.",
+   "reply": "Since you asked: your reviews catch things nobody else does, and the race condition you spotted in the payments PR last week saved us a real incident. The one thing I'd work on is tone in the comments. A few, like 'this is wrong, redo', read harsher than I think you mean, and I've noticed newer people going quiet on PRs you review. Adding one line on why, or asking 'what happens if two requests hit this at once?', gets the same fix and teaches more. I'm raising it because you could be the reviewer people actually want on their code.",
+   "lang": "en",
+   "note": "Describe the pattern you have seen yourself, and leave the people who confided in you out of it."
   }
  ]
 }

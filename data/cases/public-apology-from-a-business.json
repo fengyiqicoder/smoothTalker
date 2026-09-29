@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -78,6 +78,13 @@
    "reply": "Dee, you're right and I'm sorry. On Saturday our step-free door was locked with nobody there to open it, so you waited 25 minutes outside and missed the reading you came for. That's on us as a shop. I've sent you a DM to refund your ticket and to send you a signed copy of the book if you'd like one. From this week the side door is unlocked and staffed from 30 minutes before every event. Sophie, owner.",
    "lang": "en",
    "note": "Reply where she posted, own it as the business without blaming a staff member, name one concrete change, and move the refund to DM."
+  },
+  {
+   "id": "public-apology-from-a-business-012",
+   "situation": "我们是一家连锁瑜伽馆，会员都在小程序上续费。9月28日续费系统出错，大约310位月卡会员被重复扣了一次月费，每人299元。已经有会员在群里和小红书上问了。我是创始人周蔓，想发一条公告。",
+   "reply": "9月28日，我们小程序的续费系统出错，约310位月卡会员被重复扣了一次299元的月费。对不起，这是我们的问题。多扣的款会在10月2日（周五）前原路退回，不需要任何操作，到账时会收到短信。从今天起，每次续费扣款前系统都会先核对有没有重复订单。10月2日后还没收到退款，请私信小程序客服或加我微信 zhouman_yoga，我亲自处理。创始人 周蔓",
+   "lang": "zh",
+   "note": "扣错钱的道歉：先说金额和人数，一句道歉，退款自动完成并给出日期，改进只写一条做得到的。"
   }
  ]
 }

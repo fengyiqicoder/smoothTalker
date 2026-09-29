@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -78,6 +78,13 @@
    "reply": "Asunto: Decisión necesaria hoy: carretilla 3 con el freno de mano averiado\nHola, Elena: la carretilla elevadora número 3 tiene el freno de mano fallando desde el 15 de septiembre; en la rampa del muelle 2 se desplaza con carga. Se lo comuniqué a Raúl el 15 y el 22, mantenimiento aún no la ha revisado y se sigue usando en todos los turnos. Raúl sabe que te escribo. Te pido que la retires del servicio hoy hasta que mantenimiento confirme que es segura. Mi recomendación: etiquetarla como fuera de servicio y cubrir su trabajo con la carretilla 5, que está libre por las tardes.\nGracias,\nAndrés Molina, turno de mañana",
    "lang": "es",
    "note": "Con un riesgo de seguridad el plazo es hoy: hechos con fechas, lo ya intentado y una sola petición. Si no hay respuesta, el siguiente paso es el delegado de prevención."
+  },
+  {
+   "id": "escalate-an-issue-012",
+   "situation": "Freelance illustrator. Invoice #1042 for $3,800 to Harlow Books was due Aug 28 under the 30-day terms in our contract. I emailed their accounts payable on Sept 1, 10 and 21 with no reply, and my art director Megan says she chased finance on Sept 15. I've told Megan I'm writing to their head of finance, Paul Grant, today.",
+   "reply": "Subject: Payment date needed by Fri 9 Oct: invoice #1042\nHi Paul, invoice #1042 for $3,800 (cover illustrations for the spring list) was due on 28 August under the 30-day terms in our contract. I emailed accounts payable on 1, 10 and 21 September with no reply, and Megan Doyle kindly chased internally on 15 September. It is now 32 days overdue. Could you confirm a payment date, or tell me who can, by Friday 9 October? The simplest fix is a bank transfer to the details on the attached invoice. Megan is copied. Thanks, Jo Park",
+   "lang": "en",
+   "note": "Money owed by a client: facts and dates only, one ask with a deadline, and the heads-up to your friendly contact goes first."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -78,6 +78,13 @@
    "reply": "Olá Inês, bem-vinda e obrigada pela confiança! Fica combinado assim: na quinta, 1 de outubro, a D. Rosa, a porteira, entrega-lhe as chaves a partir das 14h. No próprio dia só preciso de uma coisa: uma foto da leitura do contador da luz, para a primeira fatura ficar certa. Para qualquer avaria ou dúvida, ligue ou mande mensagem para o 912 345 678; costumo responder no mesmo dia. Boa mudança! Marta",
    "lang": "pt",
    "note": "Primeira mensagem curta: data e hora concretas, um único pedido com o motivo e o contacto de uma pessoa; o inventário vai em anexo, não na mensagem."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-012",
+   "situation": "我在网上卖手机摄影课，399元，8节录播加两次直播答疑。学员刘先生刚付款。第一次直播是10月11日周日晚8点，我需要他进学员群，并在直播前交一张自己拍的照片当点评素材。",
+   "reply": "刘先生您好，我是阿宁，谢谢您报名手机摄影课！课程已经开通，用付款的手机号登录就能看8节录播，建议先看前两节，每节20分钟左右。第一次直播答疑是10月11日周日晚上8点。直播前麻烦您做两件事：通过助理小周的好友申请，她今天会拉您进学员群；10月9日周五前往群里发一张您自己拍的照片，直播时我会挑来点评。有问题直接回复这条消息，工作日一般两小时内回复。",
+   "lang": "zh",
+   "note": "自助类产品先告诉对方现在就能做什么，再给下一个带日期的节点，要的东西一次列清。"
   }
  ]
 }

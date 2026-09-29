@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -78,6 +78,13 @@
    "reply": "小周，今天下午4点的一对一我得改一下，刚被叫去一个推不掉的紧急会，这么晚才说，抱歉。我知道你为晋升这件事准备了很久，不想匆匆忙忙聊。明天上午10点或者下午3点，我都给你留出完整的一个小时，你挑一个？",
    "lang": "zh",
    "note": "上级改下属的会，更要第一句说清楚、点出对方的准备，并由你给出具体时间，别让他觉得这件事不重要。"
+  },
+  {
+   "id": "cancel-or-reschedule-012",
+   "situation": "I'm hosting a dinner party this Saturday for six friends and a pipe burst under my kitchen sink last night; the kitchen's out of action for at least a week. One couple, Ana and Raf, have already booked a babysitter. Posting in our group chat.",
+   "reply": "Bad news, I have to cancel Saturday's dinner: a pipe burst under the sink last night and the kitchen's out of action for at least a week. Sorry to pull it with four days to go. Ana and Raf, I know you booked a sitter, so if you can't cancel without paying, tell me the cost and I'll cover it. Could we do Saturday 17 October or Saturday 24 October instead? Reply with a date and I'll lock it in.",
+   "lang": "en",
+   "note": "When you're the host, you cancel for everyone: cover the cost you caused and give the group two dates to say yes to."
   }
  ]
 }

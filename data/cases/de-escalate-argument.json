@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -78,6 +78,13 @@
    "reply": "爸，刚才电话里我话说得太冲了，“早晚出事”那句不该说，对不起。我知道你是觉得我把你当老人看，要把你的自由拿走。开不开车不用今天定，周六我回家吃饭，咱们当面慢慢聊。我就是太在乎你了。",
    "lang": "zh",
    "note": "跟长辈吵架，先认具体那句话，说出他真正在意的面子和自由，开车的事留到当面谈。"
+  },
+  {
+   "id": "de-escalate-argument-012",
+   "situation": "My wife Mel and I are arguing in the car about my mum staying with us for three weeks at Christmas, and I made a crack about her mum's visit last summer. We've got two more hours of driving to her parents' place and the kids are in the back with headphones on. I can't exactly walk away.",
+   "reply": "Mel, I don't want to do this in the car with the kids right behind us. Bringing up your mum's visit was a cheap shot, and I'm sorry. I can hear that three weeks feels like a lot to you. Can we park it until tonight, once the kids are in bed at your parents'? I'm on your side in this, even if it hasn't sounded like it.",
+   "lang": "en",
+   "note": "When you can't leave the room, pause the topic instead: agree a time, then talk about anything else until then."
   }
  ]
 }

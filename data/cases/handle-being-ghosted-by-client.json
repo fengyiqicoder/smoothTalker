@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -78,6 +78,13 @@
    "reply": "陈经理您好，上周我们刚给另一家茶企做完一条类似的3分钟宣传片，上线一周播放量二十多万，想着也许对您有参考价值，片子我附在这条消息后面。想问一下，宣传片今年还在计划里吗？回我一句“在做”“不做了”或者“晚点再说”就行。",
    "lang": "zh",
    "note": "第二次跟进要带点新东西，并把问题缩小到一句话就能回答；再没回音，两周后礼貌收尾。"
+  },
+  {
+   "id": "handle-being-ghosted-by-client-012",
+   "situation": "I run a commercial cleaning company. I sent Dana, facilities manager for a dental group with four clinics, a $3,800/month proposal on Sept 1, then followed up twice by email. Nothing. I have her direct line and want to leave one voicemail as my last touch.",
+   "reply": "Hi Dana, it's Marco Ruiz from Clearline Cleaning, on 555 0148. I'm calling about the cleaning proposal for your four clinics that I sent on September 1. I don't want to keep filling your inbox, so this is my last follow-up. If it's still on your list, a quick call back or a one-line email is all I need; if the timing's wrong, no need to call, and I'll close it on my side. Again, Marco, 555 0148. Thanks.",
+   "lang": "en",
+   "note": "Switching to voicemail for the close: name and number at both ends, one line on what it's about, and offer the no so she doesn't have to call to say it."
   }
  ]
 }

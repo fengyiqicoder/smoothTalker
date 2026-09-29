@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -78,6 +78,13 @@
    "reply": "Hi Margaret, a small thing I wanted to mention. I noticed you'd been in my room a couple of times this week while I was out, for the radiator. I'd feel more comfortable if you could text me before going in, and I'm happy to be there or leave the door open for you at a time that suits. Does that work?",
    "lang": "en",
    "note": "When the other person is also your landlord, keep it a small, specific request about the house; if it continues, check your tenancy agreement or local renter guidance."
+  },
+  {
+   "id": "roommate-and-shared-living-012",
+   "situation": "合租室友小周晚上回来经常不反锁大门，这周有两次早上起来发现门只是虚掩着。我们住一楼，我有点担心安全。我们俩平时关系挺好。",
+   "reply": "小周，跟你说个小事哈。这周有两次早上起来看到大门是虚掩着的，咱们住一楼，我有点不放心。以后最后一个回家的人负责把门反锁好，行吗？你要是觉得有更方便的办法，也可以说说。",
+   "lang": "zh",
+   "note": "安全的事要早说、说小：讲发生了什么，提一个两个人都遵守的规矩，不评价对方粗心。"
   }
  ]
 }

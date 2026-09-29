@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -78,6 +78,13 @@
    "reply": "姐妹们，这个群安静两年了，我来冒个泡。今天翻到高三运动会咱们五个穿同款红T恤的照片，笑了半天。我国庆回南京，待到6号，有谁在的话，找个下午去老门东喝杯茶？不在南京的也说说近况就好，不急着回。",
    "lang": "zh",
    "note": "重启一个沉寂的群，一张具体的老照片比“好久不见”好接，邀请要具体，但不要求每个人都来。"
+  },
+  {
+   "id": "reconnect-after-silence-012",
+   "situation": "My old college friend Nate's dad died about a year ago. I saw it on Facebook at the time and never reached out, and we haven't talked since. It's been eating at me and I want to message him now.",
+   "reply": "Nate, I've been meaning to write this for a long time. I saw last year that your dad had died, and I never reached out, which I regret. I'm so sorry, for your loss and for going quiet. I still think about him driving us both back to campus in that ancient Volvo, singing along to the radio. No need to reply, but if you ever fancy a beer, I'd love that.",
+   "lang": "en",
+   "note": "Name what you missed once, briefly, then offer a real memory of the person; don't make him reassure you."
   }
  ]
 }

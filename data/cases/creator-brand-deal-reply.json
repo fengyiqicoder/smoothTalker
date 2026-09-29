@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -77,6 +77,13 @@
    "reply": "谢谢邀请，你们家的每日坚果我自己确实一直在吃。合作的内容我都会标注，这一点没法调整：平台有规定，粉丝也是因为信任才看我的推荐。如果走蒲公英下单，一篇图文笔记1500元我可以接，含30天授权，内容照样按我平时的风格写真实感受。你看这样可以吗？不方便的话也理解，祝新品大卖。",
    "lang": "zh",
    "note": "只拒绝“不标注广告”这一点，不说教；给出合规的做法和原价，让对方选。"
+  },
+  {
+   "id": "creator-brand-deal-reply-012",
+   "situation": "A luggage brand, Voyant, agreed $2,000 for one YouTube integration on my 60k travel channel. The contract from Alex in partnerships says payment net 90 after the video goes live, nothing upfront. I normally take 50% upfront.",
+   "reply": "Hi Alex, thanks for sending the contract, the deliverables and usage all look good. The one change I need is the payment terms: with new partners I work with 50% on signing and 50% within 30 days of the video going live. If net 90 is fixed on your side, I could instead do the full $2,000 within 30 days of publishing, with no deposit. Which is easier for your finance team?",
+   "lang": "en",
+   "note": "Payment terms are part of the rate: name your standard, offer one fallback, and don't start filming until the signed contract reflects it."
   }
  ]
 }

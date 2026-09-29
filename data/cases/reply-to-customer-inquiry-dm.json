@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -78,6 +78,13 @@
    "reply": "Hi Tara! I can't stitch Bluey, since it's a licensed character I don't have permission to use, but I can do a little blue heeler pup in a similar spirit with Theo's name, same $65. It takes about 8 days to make plus 3 for shipping. Want me to send you a quick sketch first?",
    "lang": "en",
    "note": "When the answer is no, still answer first, then offer the closest thing you can legally make and one easy next step."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-012",
+   "situation": "Vendo luminárias de cerâmica feitas à mão pelo Instagram, aqui em Belo Horizonte, a R$ 290 cada. A Inês, de Lisboa, mandou DM: \"Olá! Enviam para Portugal?\"",
+   "reply": "Olá, Inês! Enviamos, sim. O frete para Portugal sai R$ 180 por luminária, com rastreio, e chega em 15 a 25 dias úteis. Pode haver imposto de importação cobrado na entrega, então vale confirmar com os CTT. Quer que eu te mande o link com o valor total já calculado?",
+   "lang": "pt",
+   "note": "Pedido internacional: sim ou não na primeira linha, depois frete e prazo, e o aviso sobre taxas para não haver surpresa."
   }
  ]
 }

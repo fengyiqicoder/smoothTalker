@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -78,6 +78,13 @@
    "reply": "Hi Tom,\nFrom Monday 2 November, our wholesale croissant price moves from $1.60 to $1.85 each. Butter has gone up about 40% this year, and we'd rather pay it than switch to a cheaper one. Delivery times, minimum order and the recipe all stay the same. I'm giving five weeks' notice so you have time to update your menu; if you'd like to change or pause your standing order, reply and I'll sort it the same day. Thank you for putting our croissants on your counter.\nRosa, Crumb & Co.",
    "lang": "en",
    "note": "Business customers reprice their own menus, so extra notice and an easy change to the standing order are the practical courtesy."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-012",
+   "situation": "我在网上卖手工曲奇礼盒，一盒12块卖88元。黄油和包装都涨了，11月1日起改成一盒10块，价格不变。想在客户群里直接说清楚，不想被人发现后说我偷偷减量。",
+   "reply": "各位好，我是小满曲奇的阿琳。跟大家说一件事：从11月1日起，曲奇礼盒从一盒12块改为一盒10块，价格还是88元。原因是今年黄油和包装都涨了不少。配方、用的黄油和每块的大小都不变。10月31日前下的单，全部按12块一盒发。谢谢大家一直照顾一家小店。阿琳",
+   "lang": "zh",
+   "note": "减量也是涨价，要像涨价一样放在第一句说清楚，并给一个按旧规格下单的截止日期。"
   }
  ]
 }

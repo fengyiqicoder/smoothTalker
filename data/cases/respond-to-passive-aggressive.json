@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -78,6 +78,13 @@
    "reply": "Sounds like that landed badly, and that's fair, it's a lot to drop on you at 3 on a Friday. Your weekend stays yours. Could you update just the pricing slide before you log off today? I'll do the rest myself first thing Monday.",
    "lang": "en",
    "note": "When the snark wraps a legitimate grievance, name it, concede the fair part and change the ask; don't answer the tone."
+  },
+  {
+   "id": "respond-to-passive-aggressive-012",
+   "situation": "下周我要去成都出差四天，跟老婆说了以后，她回了一句：“去吧去吧，反正家里两个孩子我一个人弄惯了。”这个月我确实已经出差三次了。",
+   "reply": "听起来你是真累了。这个月我出差三次，家里的事都压在你一个人身上，这不公平。回来那个周末两个孩子我全包，你好好歇两天。今晚孩子睡了我们聊聊，看以后出差怎么安排，才不会总是你一个人扛，好吗？",
+   "lang": "zh",
+   "note": "抱怨里有真实内容时，先接住内容，给一个具体补偿，再约时间谈根本的安排。"
   }
  ]
 }

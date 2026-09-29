@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -78,6 +78,13 @@
    "reply": "Thanks for thinking of me for the panel, Laura, I'm flattered. I'm going to say no this time; my plate is full through the end of the year. I hope the night goes brilliantly, and I'm happy to share the event on LinkedIn if that helps fill the room.",
    "lang": "en",
    "note": "A professional no with no new date offered, since you wouldn't do it later either; a small, real bit of help keeps it warm."
+  },
+  {
+   "id": "decline-invitation-012",
+   "situation": "高中毕业二十年聚会，班长在群里@我，10月24日周六在老家县城办，问我去不去。我在广州，跟大部分同学早就没联系了，也不太想去。想私聊回班长。",
+   "reply": "班长，谢谢你张罗这么大一场，还特意@我。24号的聚会我就不去了，祝大家聚得开心！多拍点照片发群里，我也看看大家现在的样子。",
+   "lang": "zh",
+   "note": "不想去就不必编理由；也不提改天再聚，因为换个日子你也不会去，热情放在祝福和照片上就够了。"
   }
  ]
 }

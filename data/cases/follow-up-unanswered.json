@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -78,6 +78,13 @@
    "reply": "Hi Helen and James,\nI know autumn gets busy, so just a quick one on the garden quote from 17 September. I'm filling my November slots this week and would be glad to hold one for you. If the timing or budget isn't right, a one-line 'not now' is genuinely helpful, and I'm happy to rework the scope, for example the patio this year and the planting in spring.\nBest,\nOwen",
    "lang": "en",
    "note": "Second bump from the seller's side: a real reason, a smaller option and an easy no. If this gets nothing, send one closing note and stop."
+  },
+  {
+   "id": "follow-up-unanswered-012",
+   "situation": "I had a final-round interview for a marketing manager role at Halden Foods on Friday Sept 18. The recruiter, Chris, said they'd decide by the end of last week, and I've heard nothing. I also have another offer I need to answer by Monday Oct 5.",
+   "reply": "Hi Chris,\nI know hiring decisions often take longer than planned. I'm following up on the marketing manager role after my final interview on 18 September. I'm still very keen, and I have another offer I need to answer by Monday 5 October, so any update on your timeline before then would help me plan. Even a rough date is useful.\nThanks,\nJordan Lee",
+   "lang": "en",
+   "note": "A competing deadline is a real reason to nudge: say it once, plainly, as planning information rather than an ultimatum."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -77,6 +77,13 @@
    "reply": "Hey Nadia, heard back from Brightline, it's a no after round two. Thank you for putting my name in, it got me a real interview and I liked the team a lot. Please don't feel you need to dig into it or put in a word, you've already done plenty. Drinks on me Friday?",
    "lang": "en",
    "note": "The referrer is the relationship to protect: thank her, release her from chasing it, and take any feedback ask to the hiring manager instead."
+  },
+  {
+   "id": "respond-to-job-rejection-012",
+   "situation": "I interviewed for Marketing Manager at Fernhill Foods. The hiring manager, Grace, emailed that they went with someone with more team management experience, but suggested I apply for a Senior Marketing Specialist role opening next month. I'm deflated, but I'd consider it.",
+   "reply": "Hi Grace, thanks for letting me know, and for thinking of me for the specialist role; I really enjoyed our conversation about the spring launches. I understand the decision. I'd like to be considered for the Senior Marketing Specialist position, so could you let me know when it opens? Good luck to your new manager.",
+   "lang": "en",
+   "note": "Take the pointer seriously but don't commit to a lower title yet; ask to be considered, then judge the role once you see the pay and scope."
   }
  ]
 }

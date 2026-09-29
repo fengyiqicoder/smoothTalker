@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -78,6 +78,13 @@
    "reply": "Hi Marco, I'm with you on the goal, the whole point of the site is getting people through the door. Where I land differently is hiding the prices: in my experience people choosing a restaurant for the first time tend to pick one where they can see what dinner will cost. I could be wrong about your crowd, though. What's behind the change, is it the new prices from October?",
    "lang": "en",
    "note": "With a client, disagree once with one reason and a real question, then build what they decide."
+  },
+  {
+   "id": "disagree-without-conflict-012",
+   "situation": "My 9-year-old Maya's teacher, Mr. Evans, emailed that he's moving her out of the advanced reading group because she 'rushes through the comprehension questions'. At home she reads chapter books for an hour most nights and loves it. I want to push back without making him defensive.",
+   "reply": "Hi Mr. Evans, thanks for letting me know, and for keeping such a close eye on how Maya works. I agree the rushing is something she needs to work on. Where I see it a little differently is the move itself: she reads chapter books for an hour most nights, and I worry that leaving the group would take away the challenge that keeps her keen. Could we try a few more weeks with a clear target on the comprehension questions first? You see her in class and I don't, so I'd really welcome your view.",
+   "lang": "en",
+   "note": "Agree with the real concern first, offer a trial instead of a verdict, and give him room to know something you don't."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -78,6 +78,13 @@
    "reply": "I'm not keeping score to punish you, promise. I'd rather say it than quietly stop inviting you, because I like seeing you. Let's try the coffee idea: Wednesday at 12:30 near yours? If that doesn't suit, tell me what would.",
    "lang": "en",
    "note": "When they get defensive about the pattern, restate the intent once, don't argue the count, and move straight to a concrete plan."
+  },
+  {
+   "id": "handle-no-show-or-lateness-012",
+   "situation": "我是奶茶店店长。店员小李这两周早班迟到了三次，9月17日、22日和今天，每次20分钟左右，开店时就我一个人手忙脚乱。他平时干活挺好的，想在微信上跟他说一下。",
+   "reply": "小李，你平时干活我一直挺放心的。想跟你说个事：这两周早班迟到了三次，9月17日、22日和今天，每次20分钟左右，开店那会儿就我一个人顶着，实在忙不过来。以后早班请8点45前到，万一要迟到，提前半小时给我发个消息。如果9点的早班对你来说确实难赶，直接跟我说，我们看看排班能不能调。",
+   "lang": "zh",
+   "note": "对员工也是对人温和、对规律清楚：给具体日期，不说“老是”；讲清期待，再留一个可以商量的出口，不追问为什么。"
   }
  ]
 }

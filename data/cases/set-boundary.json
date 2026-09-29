@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -78,6 +78,13 @@
    "reply": "闺女，我特别愿意帮你们带小满，能看着他长大我也高兴。不过周一到周五全天我身体顶不住，周二周四我还有书法课。我能做的是每周一、三、五白天过来带他，周末你们想出去也可以送来。周二周四怎么安排，咱们一起看看托班或者钟点工。",
    "lang": "zh",
    "note": "边界说成“我能做什么”，理由一句就够；她再劝，就重复“一三五我来”，不要加新理由。"
+  },
+  {
+   "id": "set-boundary-012",
+   "situation": "A senior colleague, Greg, greets me with a hug most mornings and sometimes puts his hand on my shoulder in meetings. It feels friendly, not creepy, but I don't like being touched at work. I want to say something that sticks without making it a big deal.",
+   "reply": "Greg, I like working with you and I don't want this to be awkward. I'm not a hugger at work, so from now on I'll stick to a wave or a handshake. Morning coffee chats are still very much on.",
+   "lang": "en",
+   "note": "Say it once, lightly, and step back if a hug comes anyway. If it keeps happening after you've said it, take it to your manager or HR."
   }
  ]
 }

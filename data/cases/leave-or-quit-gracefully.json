@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -78,6 +78,13 @@
    "reply": "Hi Linda, I wanted you to hear this from me before the rest of the board: I'm going to step down as treasurer at the Tuesday Nov 10 meeting. I've started a new job with long hours and I can't give the books the attention they need, so I'd rather hand over cleanly than let things slip. Before then I'll reconcile the accounts through October and write up the bank access steps, vendor list and the insurance renewal due in January. I'm happy to spend two evenings with whoever takes over. Thank you for two good years.\nPaul",
    "lang": "en",
    "note": "Chair first, a fixed date, one line of reason and a handover concrete enough that nobody has to chase you."
+  },
+  {
+   "id": "leave-or-quit-gracefully-012",
+   "situation": "我在一家私教工作室跟李教练练了两年，现在想换到公司楼下的健身房自己练，省时间也省钱。课包还剩3节，想上完就结束，但不知道怎么开口。",
+   "reply": "李教练，跟你说一声：剩下这三节上完，我就先不续课了。公司楼下开了健身房，我想试试自己练，时间上方便很多。这两年你帮我把深蹲从空杆练到80公斤，真的很感谢。最后三节能不能帮我排一个我自己照着练的计划？",
+   "lang": "zh",
+   "note": "结束服务关系：一句话说决定，理由一句就够，具体地感谢，再提一个让最后几次课有用的请求。"
   }
  ]
 }

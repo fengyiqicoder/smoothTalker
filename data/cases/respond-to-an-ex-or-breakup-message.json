@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -78,6 +78,13 @@
    "reply": "看到你的消息了，希望你的项目能挺过这一关。钱我不借，这个我想得很清楚，也不想和你再有金钱上的往来。祝你顺利。",
    "lang": "zh",
    "note": "不给理由、不谈金额、不留“以后再说”；他再追问，就回一句“我的回答不变”，然后不再回复。"
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-012",
+   "situation": "Lo dejé con Álvaro en junio después de cuatro años. Su madre, Maribel, con la que me llevaba muy bien, me ha escrito por WhatsApp invitándome a comer el domingo 'como siempre'. Le tengo cariño, pero no quiero seguir yendo a las comidas familiares.",
+   "reply": "Maribel, qué alegría me ha dado tu mensaje, y gracias por acordarte de mí. Te tengo mucho cariño, y aun así no voy a ir a las comidas de los domingos; creo que ahora es lo mejor para todos, también para Álvaro. Me quedo con todo lo que compartimos estos años. Si nos cruzamos por el barrio, me encantará darte un abrazo.",
+   "lang": "es",
+   "note": "Con la familia del ex, la misma claridad que con el ex: cariño sincero, un no concreto a la invitación y ningún 'ya veremos'."
   }
  ]
 }

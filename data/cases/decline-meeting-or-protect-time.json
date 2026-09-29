@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -78,6 +78,13 @@
    "reply": "Hi Helen, I don't work Fridays, so I'll miss Friday's planning meeting. My part is the program outcomes section: I'll have the draft and the three outcome figures you'll likely need in the grant folder by 4pm Thursday. For future sessions, Tuesday or Wednesday mornings work well if you'd like me there live. Does that cover what you need for Friday?",
    "lang": "en",
    "note": "A part-time schedule is a fact, not a favour to ask: decline the slot, send the substance the day before, and name when you can join, once."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-012",
+   "situation": "Ich bin Einkäufer. Unser Verpackungslieferant will das Quartalsgespräch zu den Preisen für 2027 persönlich bei sich in Stuttgart machen, am Donnerstag, 15. Oktober. Das sind für mich zweieinhalb Stunden Fahrt pro Richtung für eine Stunde Gespräch.",
+   "reply": "Hallo Herr Wagner, danke für die Einladung nach Stuttgart. Das Quartalsgespräch würde ich diesmal gern per Video führen, gleicher Tag, Donnerstag, 15. Oktober, um 10 Uhr. Wenn Sie mir Ihre Preisvorschläge für 2027 bis Dienstag, 13. Oktober schicken, komme ich mit konkreten Rückmeldungen statt nur mit Fragen. Für einen Besuch vor Ort nehme ich mir gern Zeit, wenn wir im Frühjahr die neue Linie abnehmen. Passt Ihnen das?",
+   "lang": "de",
+   "note": "Das Format ablehnen, nicht die Beziehung: gleicher Termin per Video, Unterlagen vorab und ein echter Anlass für den nächsten Besuch."
   }
  ]
 }

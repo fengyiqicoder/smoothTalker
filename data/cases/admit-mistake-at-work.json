@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -78,6 +78,13 @@
    "reply": "You should have heard it from me yesterday, Deepa, and that's on me. Monday's batch failed for 46 invoices, about $38,000, because I uploaded the file with last quarter's tax code. I've corrected the file and it's re-running now; finance will confirm by 3pm and I'll forward it to you straight away. From now on I'll flag a problem the moment I see it, even before I have the fix.",
    "lang": "en",
    "note": "When your boss finds out first, own the delay as its own mistake in the first line, then give the facts and the fix."
+  },
+  {
+   "id": "admit-mistake-at-work-012",
+   "situation": "Ich bin Werkstudentin in einer kleinen Webagentur und kümmere mich um die Domainverlängerungen. Die Domain unseres Kunden Bäckerei Hoffmann ist heute Nacht abgelaufen, weil die hinterlegte Kreditkarte ungültig war und ich die Warnmail übersehen habe. Website und E-Mail sind seit 6 Uhr down, und ich muss es meinem Chef Herrn Brandt sagen.",
+   "reply": "Herr Brandt, ich muss Ihnen einen Fehler melden: Die Domain von Bäckerei Hoffmann ist heute Nacht abgelaufen, weil die hinterlegte Karte ungültig war und ich die Warnmail vom 15. September übersehen habe. Website und Postfächer sind seit etwa 6 Uhr nicht erreichbar. Ich habe die Domain um 8:40 mit der Firmenkarte verlängert; laut Anbieter kann es bis zu 24 Stunden dauern, bis alles wieder läuft, und ich melde mich um 12 Uhr mit dem Stand. Soll ich Frau Hoffmann selbst anrufen, oder möchten Sie das übernehmen? Es tut mir leid. Ab heute stehen alle Ablaufdaten im Teamkalender, mit Erinnerung zwei Wochen vorher.",
+   "lang": "de",
+   "note": "Wenn die Lösung noch läuft: sagen, was schon getan ist, wann das nächste Update kommt, und beim Kundenkontakt fragen statt eigenmächtig handeln."
   }
  ]
 }

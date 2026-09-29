@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -78,6 +78,13 @@
    "reply": "谢谢您想到我。这个方向我挺感兴趣的，约电话前想先确认一点：这个岗位是双休还是大小周，平时一般几点下班？我目前不考虑大小周的团队。如果是双休，这周三或周四晚上8点后都可以通话。",
    "lang": "zh",
    "note": "硬性条件在约电话之前问，一句话说清楚底线，对双方都省时间。"
+  },
+  {
+   "id": "respond-to-recruiter-012",
+   "situation": "An agency recruiter, Liam, messaged that he'd 'love to put me forward' for a product analyst role at Harbor Health. Before I replied, Harbor Health's HR emailed saying they'd received my CV from his agency. I never agreed, and I might have wanted to apply directly.",
+   "reply": "Hi Liam, thanks for thinking of me. I've just heard from Harbor Health's HR that my CV reached them through your agency, and I hadn't agreed to that. Please don't send my CV anywhere without my written okay first. If you have other roles that fit, I'm happy to hear about them and decide each one with you.",
+   "lang": "en",
+   "note": "Keep the reply in writing. A submission you didn't approve can complicate applying directly, so tell the company's HR yourself if you want to go direct."
   }
  ]
 }

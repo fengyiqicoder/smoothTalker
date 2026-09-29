@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -78,6 +78,13 @@
    "reply": "鈴木様\nお問い合わせありがとうございます。発注前に品質を確認されたいお気持ちはよく分かります。無料のトライアルは1ページ（約300語）までとしており、それでよろしければ10月2日（金）までにお送りします。10ページすべてをご希望の場合は、有償トライアルとして通常料金の半額、2万円で承ります。この2万円は本発注の際に全額差し引きます。どちらで進めるか、ご希望をお聞かせください。\n山本",
    "lang": "ja",
    "note": "無料の範囲を先に示し、それを超える分は価格と扱いを明記して相手に選んでもらう。黙って10ページ無料で訳さない。"
+  },
+  {
+   "id": "say-no-to-client-scope-012",
+   "situation": "I'm a freelance brand designer in final review of a new logo and brand guide for a coffee chain. The contract covers two concept routes and two revision rounds, and we've used both. Their new CMO, Derek, joined today's final call and wants a completely new direction.",
+   "reply": "Hi Derek and Sarah,\nThanks for today's call, and Derek, it's good to have you involved before this goes live. A new direction would be a fresh concept route rather than a revision: our 12 May agreement covers two routes and two revision rounds, and we've used both. I can add a third route for $3,200, about three weeks of work, or we can finish the approved route now and revisit the look in the new year. Which would you prefer?\nBest,\nNina",
+   "lang": "en",
+   "note": "A new stakeholder's new direction is new scope: welcome them, point to the agreement, and give two paths to choose from."
   }
  ]
 }

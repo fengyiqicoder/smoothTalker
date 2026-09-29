@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -78,6 +78,13 @@
    "reply": "Gerald, can I give you some feedback on the pickup table? On Saturday I heard you tell a mum to hurry up because others were waiting, and she left without her box. For a lot of people, coming here at all takes courage, so feeling rushed can be enough to keep them away. What's your read on Saturday? Going forward, when the line builds up, could you grab me or Ana to open a second table instead of speeding people along? Let's catch up after the shift on the 10th.",
    "lang": "en",
    "note": "A volunteer gets the same shape as staff: private, one dated example, the real impact, and an ask that uses his strength with logistics."
+  },
+  {
+   "id": "give-feedback-to-colleague-012",
+   "situation": "我在运营组，同级的市场部同事阿伟最近三次在邮件里跟我有不同意见时，都直接抄送了我的领导和他的领导，其实当面五分钟就能说清。明天想约他喝咖啡聊一下。",
+   "reply": "阿伟，想跟你聊件事，可以吗？最近三次我们在邮件里有分歧，比如上周预热海报尺寸那次，邮件都抄送了两边领导。结果小事变成了要领导表态的事，我们俩也都多花时间写解释。你那边是怎么考虑的？是不是之前有过说好的事没落实？以后有分歧，我们先打电话或者当面聊十分钟，定不下来再一起找领导，你看行吗？两周后我们再碰一下看看效果。",
+   "lang": "zh",
+   "note": "对同级先问原因，抄送领导往往有背景，比如之前被放过鸽子；听完再提具体做法。"
   }
  ]
 }

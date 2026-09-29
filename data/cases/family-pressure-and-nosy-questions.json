@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -78,6 +78,13 @@
    "reply": "Ah, Aunt Rosa, straight in. It's done, I'm doing well, and that's the whole story. Now you have to tell me how you got Uncle Sal onto the dance floor, I've never seen that in thirty years.",
    "lang": "en",
    "note": "If she asks again, repeat 'It's done, I'm doing well' word for word; any reason you give becomes the next question."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-012",
+   "situation": "国庆回老家，一大家子吃饭时，我婶婶每次都当着我儿子小宇（10岁）的面问他期中考了第几名，还拿他跟表哥比，说表哥次次第一。孩子每次都低着头不说话。这次想提前想好怎么接。",
+   "reply": "哈哈，婶婶又来考我们小宇了。成绩的事我们回家自己说，他这学期挺用功的。对了小宇，你搭的那个航母模型不是拍了照片吗？拿给奶奶和婶婶看看。",
+   "lang": "zh",
+   "note": "问题冲着孩子来时由大人接住，一句挡掉，再把话题转到孩子愿意说的事上；第二次再问就原话再说一遍。"
   }
  ]
 }

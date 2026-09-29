@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -78,6 +78,13 @@
    "reply": "Aaron, thank you for the offer, and for those two dinners walking me through the plan for Pantry; I can tell how much thought has gone into it. I'm going to say no. I want to see the Meridian launch through next year, and you deserve someone who's all in from day one. I think what you're building is really good, and if you ever want a second pair of eyes on an ops problem, I'm a phone call away.",
    "lang": "en",
    "note": "With a friend the no still comes early, the reason is about your timing rather than their company, and you only offer help you'd actually give."
+  },
+  {
+   "id": "decline-offer-or-candidate-012",
+   "situation": "我是一家贸易公司的部门经理，老板把他外甥小赵的简历转给我，让我“看看合不合适”。外贸专员这个岗位要求三年经验，他刚毕业，我面了一轮决定不录用。他对市场挺有感觉，明年春天公司可能招管培生，他很合适。要给小赵本人发邮件。",
+   "reply": "小赵你好，谢谢你上周来面谈，也谢谢你准备的那份东南亚市场小调研，看得出花了心思。这次外贸专员的岗位我们决定不录用：这个岗位一上来就要独立跟海外客户，需要至少三年的外贸经验，这是岗位的硬要求。你对市场的敏感度很不错，明年春天如果公司开放管培生岗位，我会第一时间告诉你。祝求职顺利。",
+   "lang": "zh",
+   "note": "关系户也按正常标准拒，信里只讲岗位要求；跟老板那边另外单独说明，不写进给候选人的信里。"
   }
  ]
 }

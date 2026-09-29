@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -78,6 +78,13 @@
    "reply": "陈总，谢谢您抽时间。我很喜欢这里的工作，也想在测试这块继续做深。过去一年我搭了接口自动化测试，回归时间从两天缩到了半天；这个季度的新同事也是我在带。我看了一下，同职级测试工程师的市场薪资在1.8万到2万之间，我希望把月薪调到1.9万。如果现在调不了，需要满足哪些条件、什么时候能再看？",
    "lang": "zh",
    "note": "同事的工资只是提醒你该谈了，不是论据；在谈话里只讲自己的成果、职级和市场数据，永远不点名比较。"
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-012",
+   "situation": "In August my manager Tom agreed my raise from $70k to $78k from September 1, and HR sent a confirmation letter on August 21. My September payslip still shows $70k, and Tom has said 'HR is on it' twice in two weeks. I want to follow up in writing without sounding pushy.",
+   "reply": "Hi Tom, following up on my raise to $78,000 from 1 September, confirmed in HR's letter of 21 August. My September payslip still shows $70,000, so I was paid about $667 short before tax. Could you or HR confirm by Friday 2 October that the October payroll will include the new salary and the September back pay? Happy to forward the letter and the payslip if that helps.",
+   "lang": "en",
+   "note": "Once a raise is agreed, the follow-up is admin: the letter, the gap, one dated ask. If October passes, go to HR directly with both documents."
   }
  ]
 }

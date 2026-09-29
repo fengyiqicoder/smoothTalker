@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -78,6 +78,13 @@
    "reply": "It's been really nice chatting, Linda. I've got a presentation first thing tomorrow, so I'm going to put my headphones in and try to sleep for a bit. I hope the recital is wonderful.",
    "lang": "en",
    "note": "When you can't physically leave, a warm recap plus a visible signal (headphones in) closes it; don't end on a question."
+  },
+  {
+   "id": "end-conversation-gracefully-012",
+   "situation": "A salesman from a solar panel company called my mobile and has been talking for five minutes about a free roof survey. I don't want one, and I'd rather they didn't call again. How do I get off the phone?",
+   "reply": "Thanks, I'm going to stop you there. I'm not interested in a survey, and please take this number off your call list. Bye now.",
+   "lang": "en",
+   "note": "A clean close with no hook: no reason to argue with, one request to be removed, then say bye and hang up without waiting for him to finish."
   }
  ]
 }

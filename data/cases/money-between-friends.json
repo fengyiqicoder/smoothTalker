@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -78,6 +78,13 @@
    "reply": "周六见！提前说个小事：我不喝酒，这次酒水能不能喝的人单独分，饭菜还是六个人AA？我来负责结账，吃完在群里发明细，大家转我就行。",
    "lang": "zh",
    "note": "饭前定规则比买单时再算轻松得多；只讲办法，不翻上次的账，自己揽下结账让大家更容易同意。"
+  },
+  {
+   "id": "money-between-friends-012",
+   "situation": "I lent my friend Theo my camera for his trip to Iceland and he dropped it. The lens repair quote is $210. At the time he said he'd pay 'whatever it costs', but it's been three weeks and he hasn't mentioned it.",
+   "reply": "Hey Theo, got the repair quote back for the lens: $210 at Kelso Camera, invoice attached. Venmo is easiest, I'm @maya-lin. I'd like to book the repair before my shoot on the 17th, so sometime next week would be great. The glacier shots came out amazing, by the way.",
+   "lang": "en",
+   "note": "Sending the invoice makes the number a fact rather than a judgement about the accident, and the deadline is about your shoot, not his lapse."
   }
  ]
 }

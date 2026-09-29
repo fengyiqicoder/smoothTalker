@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -78,6 +78,13 @@
    "reply": "张先生，您周六早上7点的私教课，教练临时请假，我们没提前通知您，让您白跑一趟，这是我们的错，对不起。这节课已经给您补回账户，另外再送一节，周二或周四晚上7点您看哪个方便。前台小王是按我们的安排做事，请不要再对她说那样的话，有不满直接找我，我来解决。我是店长李伟，这件事我负责跟到底。",
    "lang": "zh",
    "note": "对方辱骂员工时，先认错、给补救，再平静地划清界限，把火力引到负责的人身上。"
+  },
+  {
+   "id": "respond-to-angry-customer-012",
+   "situation": "I manage a 40-room hotel. A guest, Mr Okonkwo, arrived at 11pm on Saturday with a confirmed booking, but we'd overbooked, so the night staff sent him to a hotel 15 minutes away. He's emailed furious that he had to take a taxi with his two kids at midnight.",
+   "reply": "Dear Mr Okonkwo,\nYou arrived at 11pm on Saturday with a confirmed room, we didn't have it for you, and you ended up in a taxi with your two children at midnight. That's our failure, and I'm sorry. I've refunded your booking in full today, and I'll reimburse the taxi and anything you paid at the other hotel as soon as you send me the receipts. If you'd like to stay with us again, your next two nights are on us, with the room guaranteed. I'm Clara Weiss, the general manager, and my direct line is 020 7946 0873.\nClara Weiss",
+   "lang": "en",
+   "note": "Name the midnight taxi with the kids, because that's what he's angry about, and keep the overbooking mechanics out of it."
   }
  ]
 }
