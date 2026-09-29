@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -43,6 +43,13 @@
    "reply": "Hey Sam, thanks for asking, and I've enjoyed hearing about your sourdough disasters. I'm going to pass on meeting up though, I'm not feeling the spark I'd want before a first date. Good luck with the next loaf.",
    "lang": "en",
    "note": "Before a first meeting, a short kind no beats ghosting; no reason needed beyond fit."
+  },
+  {
+   "id": "romantic-let-down-007",
+   "situation": "Mi amiga Carla me presentó a su compañero de piso, Diego. Tuvimos una cita el sábado y hoy me ha escrito para quedar otra vez. Es majo, pero no siento nada, y nos vamos a seguir viendo en los planes del grupo.",
+   "reply": "Gracias por lo del sábado, Diego, me lo pasé bien y la ruta de vermut por Malasaña fue todo un acierto. Te soy sincera: no siento una conexión romántica, así que prefiero no quedar otra vez. Nos seguiremos viendo con Carla y el grupo, y por mi parte todo normal.",
+   "lang": "es",
+   "note": "Con amigos en común: un no claro, sin lista de motivos, y una línea para que los planes de grupo sigan siendo cómodos. No se usa a Carla de mensajera."
   }
  ]
 }

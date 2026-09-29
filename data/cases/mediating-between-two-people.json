@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -50,6 +50,13 @@
    "reply": "Thanks both for today. To confirm what we agreed: Priya owns the Harmon Foods account from Thursday 1 October. Luke will share his account notes and contacts by Friday 2 October and join the next two Harmon calls to make the introductions. If anything about the account is unclear from here, bring it to me rather than the team channel. Let's check in together on Tuesday 13 October.",
    "lang": "en",
    "note": "The written summary goes to both at once, in the same words: neutral on who was right, clear on who does what next."
+  },
+  {
+   "id": "mediating-between-two-people-008",
+   "situation": "我不是领导，只是组里的普通同事。小王和小李为了一个项目排期闹得很僵，两个人都私下跟我抱怨对方。今天小王又来找我，说：“你评评理，是不是他太过分了？”",
+   "reply": "我知道这事让你挺窝火的，你愿意跟我说我明白。不过我跟你俩都是同事，谁对谁错我真不好评，评了反而帮倒忙，你跟我说的我也不会传给小李。排期的事还是你俩直接聊最快，要不约个会议室把时间线摊开对一对？需要的话，我可以帮你想想怎么开口。",
+   "lang": "zh",
+   "note": "同级同事被拉去评理：先接住情绪，说明不站队、不传话，再把他推向直接沟通；领导的角色留给领导。"
   }
  ]
 }

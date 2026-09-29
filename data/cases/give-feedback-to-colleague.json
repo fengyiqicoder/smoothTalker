@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -50,6 +50,13 @@
    "reply": "Can I give you some feedback on code reviews? On Leah's pull request last Thursday, three of your comments said 'wrong, redo' with no explanation. She spent most of Friday guessing what you meant, and she's started sitting on PRs instead of opening them. What's your read on it? Going forward, I'd like every blocking comment to say what's wrong and point to one direction for the fix. Let's look at a couple of your reviews together on Tuesday 13 October.",
    "lang": "en",
    "note": "A 1:1 script: pause after 'What's your read on it?' and actually listen before giving the ask; keep Leah's name out of it if he'd take it out on her."
+  },
+  {
+   "id": "give-feedback-to-colleague-008",
+   "situation": "Yesterday I told my report Hannah that her weekly client reports keep arriving Monday afternoon instead of by 9am. She explained her kid's school start moved and she can't be online before 10 now. I didn't know. I want to follow up in writing with a revised ask.",
+   "reply": "Thanks for telling me about the school run yesterday, that's useful context and I'm glad I know. What still matters is that clients have their reports when their week starts. So here's the adjusted ask: finish them by Friday 5pm and schedule them to send at 9am Monday, starting this week. If a Friday gets tight, tell me by Thursday and we'll move something off your plate. Let's check how it's going on Friday 16 October.",
+   "lang": "en",
+   "note": "When pushback brings real context, change the ask, not the goal, and still put a check-in date on it."
   }
  ]
 }

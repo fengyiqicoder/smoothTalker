@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -50,6 +50,13 @@
    "reply": "您好，盒子压扁了，两罐茶叶罐都凹了，好好的东西收到时变成这样，确实让人窝火。物流记录显示是在中转站压坏的，跟快递公司索赔的事我来办，不用您操心。两罐新的我今天就用加厚箱给您重新发，发出后把单号发您；原来那两罐如果茶叶本身没受潮，您留着喝就好。我是店主阿秀，后面有任何问题直接在这里找我。",
    "lang": "zh",
    "note": "不是你的错也先接住她的损失，再平静说一次事实，然后把能做的做到位；差评的威胁不用回应。"
+  },
+  {
+   "id": "respond-to-angry-customer-008",
+   "situation": "I own a small plumbing company. Our tech, Rob, replaced Mrs Dunn's kitchen tap yesterday and she's left an angry voicemail: water's pooling under the sink this morning and she'd taken the day off for him. I'm calling her back now, what do I say?",
+   "reply": "Hi Mrs Dunn, it's Alan Price, the owner of Price Plumbing, returning your call. Rob fitted your new tap yesterday and this morning you've got water under the sink, after you'd already taken a day off for us. That's our job not done properly, and I'm sorry. I can have a plumber with you by 11 today, no charge, and I'll come myself to check it's right. If anything under the sink got damaged, tell me and we'll cover it. This is my mobile, 07700 900542, so you can reach me directly.",
+   "lang": "en",
+   "note": "On the phone the sequence is the same, said out loud: her words back, own it, a fix with a time today, a make-good, and a direct number."
   }
  ]
 }

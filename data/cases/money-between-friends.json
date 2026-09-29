@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -43,6 +43,13 @@
    "reply": "阿杰，那3,000块说好这周还你，但公司这个月工资推迟到10月15号发，我得晚两周。15号到账当天我就转给你。拖了真不好意思，要是你这几天急用，跟我说一声，我先想办法凑一部分给你。",
    "lang": "zh",
    "note": "欠钱的一方要在对方开口前主动说，给确定日期，并给对方说急需的空间。"
+  },
+  {
+   "id": "money-between-friends-007",
+   "situation": "My roommate Kai and I split utilities 50/50. The electric bill for August and September came to $236 and it came out of my account. I want to ask for his $118 and also suggest a setup so I'm not the one chasing every month.",
+   "reply": "Hey Kai, the electric bill for August and September came in at $236, so your half is $118. My Venmo's @ana-ruiz, anytime this week works. Going forward, want to both put $150 into a shared bills account on the 1st? Then neither of us has to chase the other.",
+   "lang": "en",
+   "note": "Number, what it was for and how to pay, then a system proposed up front, which prevents the next awkward reminder better than any wording."
   }
  ]
 }

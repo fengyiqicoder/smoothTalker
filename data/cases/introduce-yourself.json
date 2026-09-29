@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -50,6 +50,13 @@
    "reply": "Lena Novak is a freelance web developer who has spent six years building sites for bakeries, cafés and other small food businesses. Her latest, an online ordering system for three Bristol bakeries, now takes 40% of their orders. She lives in Bristol with a sourdough starter she has kept alive since 2019.",
    "lang": "en",
    "note": "A bio still needs one concrete result and one human hook; the hook is what the moderator will use to introduce you."
+  },
+  {
+   "id": "introduce-yourself-008",
+   "situation": "I'm a freelance UX designer starting a 10-week redesign of a regional credit union's mobile app. Kickoff video call is Thursday Oct 1 with about eight people from their team, and most have never worked with an outside designer. I get about a minute to introduce myself.",
+   "reply": "Hi everyone, I'm Priya, and I'll be leading the design on the app redesign for the next ten weeks. I've done similar work for two other credit unions, and the thing I care most about is that your members can still find their balance without thinking a year from now. Before design I was a bank teller for three years, so I've heard every complaint about banking apps in person. I'll be asking a lot of questions this week, and none of them are traps. If there's one thing members call you about more than anything, I'd love to hear it today.",
+   "lang": "en",
+   "note": "With a client team wary of outsiders: one relevant credential, one human hook that shows you get their members, and an invitation to talk."
   }
  ]
 }

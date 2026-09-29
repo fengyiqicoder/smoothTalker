@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Marco, could we sit down for 30 minutes before service this week, Wednesday or Thursday around 2? I'd like to talk about my role since June, with the menus and the ordering, and where it goes from here, including title and pay. I love this kitchen and want to keep building it with you, so I'd rather do this properly than mid-shift.",
    "lang": "en",
    "note": "The booking text names the topic so it isn't an ambush; save the food-cost numbers and the $62k for the meeting itself."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-007",
+   "situation": "In March my manager Rob said if I delivered the data platform migration I'd be put up for Staff Engineer in the fall cycle. It went live on August 18. Now he says I also need to 'show more cross-org influence'. It feels like the goalposts moved. We have a 1:1 on Thursday.",
+   "reply": "Thanks for being straight with me about where it stands. In March we agreed that shipping the data platform migration was the bar for Staff this fall, and it went live on 18 August. Since the criteria have shifted, could we write down exactly what's needed now, what cross-org influence looks like in practice, and the date you'll decide, so we're both working to the same list? I'd like it settled before November calibration.",
+   "lang": "en",
+   "note": "Name the original agreement as a fact, not an accusation, and get the new bar in writing with a date. If it moves again, that tells you the ceiling here."
   }
  ]
 }

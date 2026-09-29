@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -43,6 +43,13 @@
    "reply": "Hola, Marcos. Gracias por contarlo: una paella cruda y un trato así serían inaceptables en nuestra casa. Una aclaración para quien lea esto: el domingo 20 de septiembre estuvimos cerrados por vacaciones, así que creo que esta reseña puede ser de otro restaurante. Si me equivoco, escríbeme a reservas@labarracadepepa.es y lo hablamos en persona. Pepa, propietaria.",
    "lang": "es",
    "note": "Se corrige el dato una sola vez, con calma y sin llamarle mentiroso; si parece falsa, se denuncia a Google aparte y se deja esta respuesta."
+  },
+  {
+   "id": "respond-to-negative-review-007",
+   "situation": "我开了一家卖手工陶瓷杯的淘宝店。有个买家给了差评，说杯子寄到时碎了，“包装太敷衍”。外箱是被快递压扁的，但我们的包装确实只有一层气泡膜。",
+   "reply": "谢谢您把照片发上来，收到一只碎掉的杯子，换谁都会失望。外箱是在运输途中被压坏的，但杯子是在我们店买的，就该由我们负责。新杯子今天已经寄出。从这周起，所有杯子都改成双层气泡膜加纸格固定。后续有任何问题，旺旺直接找我。店主 阿禾",
+   "lang": "zh",
+   "note": "快递的问题只陈述一次，然后把责任接过来；包装确实能改进，就写出具体改了什么，其余私下处理。"
   }
  ]
 }

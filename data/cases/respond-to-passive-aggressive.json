@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -50,6 +50,13 @@
    "reply": "Hi Colleen, that one was me, sorry for joining late this morning. A call with Brightwater ran over and I should have given you a heads-up. If it ever happens again, I'll message you before 9:30.",
    "lang": "en",
    "note": "Reply privately, not in the channel. A small, fair complaint sits inside the dig, so own it in one line and deal with the contents; no comment on the tone."
+  },
+  {
+   "id": "respond-to-passive-aggressive-008",
+   "situation": "我妈在家族群里发：“现在都是大忙人了，一个月也想不起来给妈打个电话。” 明显是说我，确实最近加班很少打电话。不想在群里接这个话。",
+   "reply": "妈，最近确实打得少了，是我不好。今晚八点我给您打视频，好好聊聊，让朵朵给您看看她新学的舞。",
+   "lang": "zh",
+   "note": "私聊回，不在群里接；她的不满有道理，就认一句，再换成更亲近的方式联系，不解释加班。"
   }
  ]
 }

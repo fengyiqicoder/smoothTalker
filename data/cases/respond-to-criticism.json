@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -50,6 +50,13 @@
    "reply": "爸，昨天吃饭的事我想了一晚上。您担心我存款不够，这点您说得对，六个月的生活费确实不宽裕。我会把每个月的收入和开支记下来，到明年三月如果收入还不稳定，就先找份兼职顶上。做摄影这个决定我是认真想过的，这点咱们看法不一样。另外想跟您提个请求：以后这种事咱们单独聊，别当着亲戚的面，好吗？我周六回家，想跟您好好说说我的计划。",
    "lang": "zh",
    "note": "三个桶分开放：认下对的（存款），平静说出不同意的（这个决定），对当众批评的方式提一个请求；不逐条辩解。"
+  },
+  {
+   "id": "respond-to-criticism-008",
+   "situation": "My husband Ben said last night that I keep making weekend plans for both of us without checking with him. I did just commit us to my sister Claire's on Saturday the 10th without asking. He's right. Want to text him from work.",
+   "reply": "I've been thinking about what you said last night, and you're right. I've been booking our weekends and telling you afterwards, and Claire's on the 10th is the latest one. I don't want to be the person who does that. So, starting now: do you want to go on the 10th, or shall I tell her another weekend works better? And if I do it again, tell me right then.",
+   "lang": "en",
+   "note": "Pattern criticism from a partner: agree plainly with no explanation, prove it on the very next decision, and ask to be caught in the moment."
   }
  ]
 }

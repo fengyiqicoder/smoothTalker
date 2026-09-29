@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Victor, the Jubilee line is suspended and I'm going to be about 20 minutes late, so around 2:20. Sorry to eat into your afternoon. If that squeezes you, I can do the kickoff by phone at 2 instead and we meet in person next week. Whichever is easier for you.",
    "lang": "en",
    "note": "Warn before the start time, not after, with a real ETA and an option that protects their schedule."
+  },
+  {
+   "id": "handle-no-show-or-lateness-007",
+   "situation": "Mon amie Claire arrive toujours avec 30 à 40 minutes de retard. On a réservé un resto vendredi 2 octobre à 20h. Je ne veux pas me fâcher, mais je ne veux plus attendre seule devant une carafe d'eau.",
+   "reply": "J'ai réservé chez Paulette vendredi à 20h ! Je te préviens gentiment : à 20h15 je commande, que tu sois là ou pas, comme ça je ne reste pas devant une assiette vide. Hâte de te voir !",
+   "lang": "fr",
+   "note": "Dire ce que tu vas faire, pas ce qu'elle doit faire, et le dire avant le dîner plutôt qu'après 40 minutes d'attente."
   }
  ]
 }

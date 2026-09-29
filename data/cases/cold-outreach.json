@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -49,6 +49,13 @@
    "reply": "Subject: 1,240 things Bristol didn't throw away\n\nHi Amy,\nYour piece last week on people binning appliances because repair costs more than new is exactly what we see every month. We run a free volunteer repair café in Easton and have fixed 1,240 items since January, mostly lamps, kettles and toasters. You'd be welcome at our next session on Saturday 10 October, or I can send the numbers. Useful for a follow-up? A quick no is helpful too.\nSam",
    "lang": "en",
    "note": "Press pitch: tie it to her own story, give one number, and offer her something usable instead of asking for coverage."
+  },
+  {
+   "id": "cold-outreach-008",
+   "situation": "我做企业管理培训。上周给一家物流公司的HR总监周女士发了私信，推荐我们的新任主管培训课。她回复：“今年预算已经定了，明年再说吧。”",
+   "reply": "谢谢周总直接回复我，这对我很有帮助。想问一下，贵司明年大概几月开始定培训预算？我到时候再联系您，在那之前就不打扰了。",
+   "lang": "zh",
+   "note": "对方说“不是现在”，就问清楚什么时候，记个提醒，然后真的等到那时再联系，中间不要“顺便问问”。"
   }
  ]
 }

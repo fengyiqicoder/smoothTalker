@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -50,6 +50,13 @@
    "reply": "佐藤さん、少しお時間よろしいですか。就職活動に集中するため、11月30日の勤務を最後に辞めさせていただきたいと思っています。早めにお伝えしたくて、今日お話ししました。それまでのシフトはこれまで通り入りますし、新しい方が入ったら、レジと閉店作業は私がお教えします。2年間、未経験の私に一から教えてくださって、本当にありがとうございました。",
    "lang": "ja",
    "note": "A part-time job gets the same shape as any resignation: in person, the date first, one reason, a concrete handover and a specific thanks."
+  },
+  {
+   "id": "leave-or-quit-gracefully-008",
+   "situation": "J'ai annoncé ma démission à ma manager il y a deux semaines, mon dernier jour est vendredi 9 octobre. Je veux envoyer un mot d'au revoir à toute l'équipe (une quinzaine de personnes) par mail.",
+   "reply": "Bonjour à tous,\nVendredi 9 octobre sera mon dernier jour chez Atelier Nova. Merci pour ces quatre années, et en particulier pour le lancement de l'appli l'an dernier, où j'ai appris plus qu'en dix formations. Mes dossiers sont repris par Camille, qui a tout en main. Vous pouvez me joindre sur LinkedIn ou au 06 12 34 56 78, et je serais ravie de garder le contact. À très vite, j'espère.\nSophie",
+   "lang": "fr",
+   "note": "The farewell to the team comes after the manager knows: date, one specific thanks, who has your work, and how to reach you. No reasons, no score-settling."
   }
  ]
 }

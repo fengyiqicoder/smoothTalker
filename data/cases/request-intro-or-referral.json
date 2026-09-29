@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Olu,\nCould I ask a favour? Please say no if it's too much, given we've only met once. I'm raising a pre-seed round for Shiftwell and I'd love an intro to Rachel Stein, since she backed Carely and knows home care better than almost anyone. The ask for her would be a 20-minute call in the next few weeks, nothing more.\nIf you're up for it, here's a blurb you can forward or edit:\n\"Rachel, I'd like to introduce Maya Chen. Maya runs Shiftwell, a scheduling and handover app for home-care nurses, with 14 agencies on a paid pilot. She's raising a pre-seed round and would value 20 minutes of your view on the space. Happy to connect you if you're open to it.\"\nEither way, I'll let you know how the raise goes. Thanks, Olu.\nMaya",
    "lang": "en",
    "note": "A weak tie asking for an investor intro: the out comes first and the blurb carries one real traction number, so his reputation risk stays small."
+  },
+  {
+   "id": "request-intro-or-referral-007",
+   "situation": "I'm in the final round for a senior analyst job at Ridgeway Bank and they want two references by Friday. My old manager, Priya Shah, left my last company a year ago and we haven't spoken since her farewell drinks. I want to ask her by email.",
+   "reply": "Hi Priya,\nCould I ask a favour? I'm in the final round for a senior analyst role at Ridgeway Bank, and they've asked for references by Friday 2 October. Would you be willing to be one? You saw my work on the credit risk dashboards more closely than anyone, and that's exactly what this team cares about. It would be one call of about 15 minutes sometime next week. If the timing or anything else makes it awkward, no problem at all; a quick heads-up is all I need so I can ask someone else.\nIf yes, I'll send you the job description and a two-line summary of the projects they're likely to ask about.\nI'll let you know how it turns out either way.\nDaniel",
+   "lang": "en",
+   "note": "A reference puts her voice on the line: say why her specifically, keep the ask to one short call, and give the out before she has to look for one."
   }
  ]
 }

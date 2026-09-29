@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -50,6 +50,13 @@
    "reply": "Thanks for the offer, Luis, and cash works well for me. $14,000 is too far under for this car: it has 48,000 miles, a full service history, and private-party value is around $17,000. I can do $16,900 if you can pick it up this week. Want to come and see it Thursday after 5?",
    "lang": "en",
    "note": "Seller side: don't split the difference with a lowball. Counter once with a specific number just above your floor and one fact about value, then hold."
+  },
+  {
+   "id": "negotiate-price-or-salary-008",
+   "situation": "Got a written offer for Product Marketing Manager at Tandem Health in Denver: $112k base, start Oct 19. Market data for the role is about $120k to $130k, and I led a launch at my current job that doubled trial sign-ups. I'd accept $122k.",
+   "reply": "Hi Jordan,\nThank you for the offer, I'm genuinely excited about the role and about joining Maya's team. I want to be straightforward about one thing: the base is at $112k, and for this scope in Denver I was expecting closer to $126k. The launch I led this year doubled trial sign-ups, and that's the work I'd be doing for Tandem from the first week. Is there flexibility to get there? If base is fixed, I'd be open to talking about a signing bonus. Either way, I'm keen to make this work.\nBest,\nAlex",
+   "lang": "en",
+   "note": "First counter on a written offer: one number slightly above your floor, the strongest reason framed as value to them, and a second lever so a no isn't a dead end."
   }
  ]
 }

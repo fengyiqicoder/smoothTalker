@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -50,6 +50,13 @@
    "reply": "Hi Hannah, just checking whether you'd like me to hold Saturday 17 October for your flowers. It's my last free Saturday that month, so I can keep it for you until Friday. Totally fine if you've gone another way.",
    "lang": "en",
    "note": "One follow-up about 48 hours after the price, with a true reason to reply and an easy no. If nothing comes back, leave it."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-008",
+   "situation": "我在成都开陶艺工作室，周末有体验课。有人在小红书私信：'你们的体验课是怎么上的？零基础可以吗'",
+   "reply": "可以的，体验课就是给零基础准备的！每周六下午2点到5点，298元一位，含材料和烧制，老师手把手带你拉坯，做好的杯子或碗三周后来店里取，或者包邮寄给你。每场最多6个人。这周六10月3号还剩2个位置，要帮你留一个吗？",
+   "lang": "zh",
+   "note": "先答'可以'，再补上时间、价格和她会想知道的取件方式，最后只问一个问题推进报名。"
   }
  ]
 }

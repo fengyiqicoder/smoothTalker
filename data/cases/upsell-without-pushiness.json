@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -50,6 +50,13 @@
    "reply": "Of course. The oven clean is $40 on top of your $110 standard clean and adds about 45 minutes. I'll put it on Thursday 1 October at 10am, $150 in total. Reply yes and it's booked.",
    "lang": "en",
    "note": "Answer as if it's the first time she's asked: no 'as I mentioned', and no extra pitch while she's saying yes."
+  },
+  {
+   "id": "upsell-without-pushiness-008",
+   "situation": "Tenho uma oficina de bicicletas em Curitiba. O Fernando perguntou qual a diferença entre a revisão básica (R$ 120) e a completa (R$ 280). Ele usa a bike só para ir ao trabalho, 5 km por dia, e ela tem um ano.",
+   "reply": "Oi, Fernando! A completa custa R$ 160 a mais, e a diferença real é que desmontamos e engraxamos os rolamentos do movimento central e das rodas. Para uma bike de um ano rodando 5 km por dia, a básica resolve bem: freios, marchas, lubrificação e calibragem. A completa começa a valer a pena no segundo ou terceiro ano, ou se aparecer algum barulho. Quer que eu agende a básica para sábado, dia 3, de manhã?",
+   "lang": "pt",
+   "note": "Quando perguntam a diferença: uma diferença concreta e a verdade sobre quando vale a pena. O downsell honesto é o que dá credibilidade à próxima recomendação."
   }
  ]
 }

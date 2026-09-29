@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -50,6 +50,13 @@
    "reply": "Thanks for sharing the band, Maya. It's below what I'd need to move; my floor is $175k base. If there's flexibility on that, I'm happy to talk this week. If not, no hard feelings, and please keep me in mind for roles at that level.",
    "lang": "en",
    "note": "Give your floor, not your current pay, and leave one clear door open."
+  },
+  {
+   "id": "respond-to-recruiter-008",
+   "situation": "Recruiter Sam had me interview with Keystone Logistics for an operations manager role on Thursday Sept 17. He said I'd hear back by the end of that week. Nothing in 12 days. I also have another offer I need to answer by Tuesday Oct 6, and Keystone is my first choice.",
+   "reply": "Hi Sam, checking in on the operations manager role at Keystone Logistics. I interviewed with them on Thursday 17 September and you mentioned an update by the end of that week. Is the position still open? I have another offer to answer by Tuesday 6 October and Keystone is still my first choice, so any update before then would really help. If it's moved on, no problem, just let me know so I can plan.",
+   "lang": "en",
+   "note": "The follow-up names the date of the last promise; a real competing deadline, stated plainly, is fine. Bluffing one is not."
   }
  ]
 }

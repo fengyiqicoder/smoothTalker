@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -43,6 +43,13 @@
    "reply": "Nothing I need help with, just unwell today. Priya has the 11am client call and the notes are in the shared drive. I'll check messages once this afternoon and update you tomorrow morning.",
    "lang": "en",
    "note": "Answers the question without a diagnosis or a defence, then restates cover and the next check-in."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-007",
+   "situation": "我爸10月19号在老家做髋关节置换手术，家里就我一个孩子，得回去照顾两周。年假只剩5天，剩下的想请事假。领导是周总，我手上负责双十一的活动页。",
+   "reply": "周总，想跟您请10月19日到30日两周的假，11月2日周一回来上班。我父亲19日做手术，家里需要我照顾。年假我还有5天，剩下5天按事假走。双十一活动页的设计稿我16日周五前交完，后面的开发对接由小林跟进，我已经跟她过了一遍。您看可以批吗？可以的话我今天就在系统里提交。",
+   "lang": "zh",
+   "note": "照顾家人的长假：日期、返岗日、假期怎么算、交接都写清楚，家里的事一句带过，不讲病情细节。"
   }
  ]
 }

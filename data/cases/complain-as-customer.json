@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -43,6 +43,13 @@
    "reply": "Hi, I'm Priya Nair, I've just checked into room 614 for three nights, out on Friday. I booked a non-smoking room, and 614 smells strongly of cigarette smoke, enough that I can't sleep in it. I'd like to move to a non-smoking room tonight, ideally within the hour since I have an early start. I'm happy to wait here while you check.",
    "lang": "en",
    "note": "In person the same structure works out loud: who you are, the fact, the specific fix and a time, then stay calm and stay at the desk."
+  },
+  {
+   "id": "complain-as-customer-007",
+   "situation": "My language app (Lingora) auto-renewed my annual plan for $119 on Sept 26. I forgot to cancel, which is on me, and I haven't opened it since June. I want to ask for a refund without pretending it was their fault.",
+   "reply": "Hi,\nMy annual Lingora Plus plan, account maya.reyes@mailbox.com, auto-renewed on 26 September for $119. That's my mistake: I meant to cancel before the renewal and missed it. I haven't used the app since June and haven't opened it since the charge. Could you cancel the plan and refund the $119 as a one-off? I'd be grateful for a reply by Friday 2 October.\nThanks,\nMaya Reyes",
+   "lang": "en",
+   "note": "When the slip is partly yours, say so in one line; owning it is what makes a goodwill refund easy to grant."
   }
  ]
 }

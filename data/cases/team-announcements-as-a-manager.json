@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -43,6 +43,13 @@
    "reply": "Team news: Marisol is our new Support Team Lead from Monday, Oct 5. She's run the escalation queue since spring and cut first responses on escalations from 9 hours to 3. From the week of Oct 12 your weekly 1:1s move to her, and she'll own scheduling and escalations; I'll still meet each of you monthly. New calendar invites go out by Friday. Questions here or in a DM, and I'm happy to grab 15 minutes with anyone this week. Congrats, Marisol!",
    "lang": "en",
    "note": "Tell the other candidates privately first, and never mention who else applied in the public post."
+  },
+  {
+   "id": "team-announcements-as-a-manager-007",
+   "situation": "This morning we laid off 3 people from my team of 11: Jonah, Wei and Carla. I told each of them myself at 9, then held a call with the other 8 at 11. Now I need the written summary for our team Slack. No more cuts are planned for us, but I can't see past March.",
+   "reply": "As we covered on the 11am call: this morning Jonah, Wei and Carla were let go as part of cuts across the company. I told each of them myself before we spoke. It's a hard day. The reason is that the Northwind contract ended in August and revenue fell below what our plan could carry; I agreed with the decision, and I hate what it means for three people we value. Your roles and pay don't change. Their accounts move to Priti, Sam and me, with a handover list by Friday 2 October. No further cuts are planned for our team; I can't see past March yet, and I'll share what I know at the all-hands on 15 October. My calendar is open for 1:1s all week, and no question is too awkward.",
+   "lang": "en",
+   "note": "Written summary after the live call: say the affected people heard first, own the decision, and be honest about how far ahead you can see."
   }
  ]
 }

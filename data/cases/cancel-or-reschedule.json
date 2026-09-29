@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -43,6 +43,13 @@
    "reply": "各位，这周六（10月3日）的莫干山徒步取消了：台风预报当天有暴雨，山路太危险。大巴公司同意免费改期，所以大家的120元我先留着，改到这两个时间之一：1是10月17日（周六），2是10月24日（周六）。想退钱的也完全没问题，今晚私信我，明天就转回去。大家在群里回1或2，周四晚上前定下来。",
    "lang": "zh",
    "note": "组织者取消：第一句说结果，钱的事在别人问之前说清楚，再给两个具体日期。"
+  },
+  {
+   "id": "cancel-or-reschedule-007",
+   "situation": "I have a final-round interview tomorrow (Wed) at 2pm with a recruiter named Hannah at Brightline, and I just got summoned for jury duty the same day. I really want this job. Email.",
+   "reply": "Hi Hannah,\nI need to move tomorrow's 2pm interview: I've been called for jury duty on Wednesday and can't defer it at this notice. I'm sorry for the late change, and I'm still very keen on the role. I'm free Thursday 1 October any time after 1pm, or Monday 5 October in the morning. If neither suits the panel, send me a couple of times and I'll make one work.\nBest,\nDaniel Osei",
+   "lang": "en",
+   "note": "Candidate rescheduling: lead with the change, one true reason, restate your interest once, then give concrete slots so the recruiter doesn't have to chase you."
   }
  ]
 }

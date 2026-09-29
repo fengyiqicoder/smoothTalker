@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -50,6 +50,13 @@
    "reply": "妈，毛衣收到了，谢谢您。听建国说您每天晚上看电视的时候一针一针织，织了整整两个月，想到这个我心里特别暖。天凉了您也多注意身体，国庆我们回去看您。",
    "lang": "zh",
    "note": "不喜欢的礼物：谢她的心思和付出，不编造对毛衣本身的喜爱，免得以后一直演下去；结尾落在见面上。"
+  },
+  {
+   "id": "thank-you-notes-008",
+   "situation": "My dad spent 9 days on Ward 7 at St. James's after a stroke and is home now. The nurses were incredible, especially Grace on nights, who sat with him when he was frightened. I want to leave a card with a box of chocolates for the whole team.",
+   "reply": "To everyone on Ward 7,\nThank you for looking after my dad, Peter Walsh, for the nine days he was with you. You kept him safe, and you also kept him laughing, which he'll tell anyone who listens. A special thank you to Grace, who sat with him at 3am when he was frightened; he still talks about it. He's home now and walking to the end of the road and back every morning. We'll never forget what you did for our family.\nWith love and thanks,\nClaire Walsh and family",
+   "lang": "en",
+   "note": "A card for a team: thank everyone, name the one person and the moment, and give them the update they rarely get, how the patient is doing now."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Aunt Carol, that's Mike's story to tell, not mine, so I'll leave it with him. He's doing okay, and I know he'd love to hear from you directly. How's the kitchen renovation going?",
    "lang": "en",
    "note": "When the nosy question is about someone else, decline on their behalf, point her to the person, and change the subject. No hints about who was at fault."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-007",
+   "situation": "我在上海做游戏策划，干得挺开心。每次打电话我妈都劝我回老家考公务员，说图个稳定。国庆要回家待五天，我不想一回去就吵起来。",
+   "reply": "妈，我知道您是担心我，想让我稳当点。工作这块我现在挺好的，有什么变化第一个告诉您。对了，您上次说想学用手机拍视频，这次回去我教您，顺便给您和我爸拍几张好看的照片。",
+   "lang": "zh",
+   "note": "不解释理由，解释就是在邀请对方给建议；她第二次问，就用几乎一样的话再说一遍。"
   }
  ]
 }

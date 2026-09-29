@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -50,6 +50,13 @@
    "reply": "Fair, the snoring is real, and I'll book a GP appointment about it this week. I'm not having a go at you; it's just the buzzing that keeps waking me. Could we try silent after we're in bed from tonight?",
    "lang": "en",
    "note": "When they say 'you do it too', concede what's true and go back to the one ask instead of trading grievances."
+  },
+  {
+   "id": "ask-to-change-behavior-008",
+   "situation": "My friend Leila turns up 20 to 40 minutes late to basically every Sunday brunch we do. I've never said anything and I end up holding a table on my own. Next one is this Sunday, October 4, at 11.",
+   "reply": "Hey Leila, small thing before Sunday, not a big deal: at most of our brunches you've got there 20 to 40 minutes after we said, and I end up alone at the table fending off the waiter. Could you text me when you're actually leaving home? Then I'll set off to match and we'll arrive together. Still on for 11 at Maple?",
+   "lang": "en",
+   "note": "One behaviour, the effect on you, and a shared system that doesn't require her to become punctual overnight."
   }
  ]
 }

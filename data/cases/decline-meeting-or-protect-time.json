@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -43,6 +43,13 @@
    "reply": "Hi Daniel, I can't do 5 today. If it's about the brochure, send me the questions or changes you have in mind and I'll reply in writing by 10am tomorrow, Wednesday. The full proofs are still on track for Thursday. If one thing truly can't wait until tomorrow, tell me what it is and I'll answer it tonight. Does that work?",
    "lang": "en",
    "note": "A client's same-day 'quick call' is usually habit: ask for the question, answer it in writing, and keep one narrow path open in case it really is urgent."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-007",
+   "situation": "我是项目的产品负责人。市场部的小赵约了明天周三下午两点一小时的“上线沟通会”，拉了八个人。其实现在只剩上线日期一个问题没定。",
+   "reply": "小赵，明天的会能不能改成20分钟？现在只剩上线日期这一个点没定。我今晚把两个备选日期和各自的风险写成一页发到群里，大家提前看一下，会上直接定下来就行。你看可以吗？",
+   "lang": "zh",
+   "note": "作为关键参会人，缩短比拒绝更好：点明只剩哪个问题，提前把材料给出去，最后请组织者确认。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -43,6 +43,13 @@
    "reply": "Oi Renata, adoro ver você tão animada com os treinos! Acompanhamento pelo WhatsApp fora das aulas eu não consigo incluir no pacote atual: é o tempo que uso para preparar as aulas de todos os alunos. O que posso fazer é te mandar uma ficha para os dias sem aula, que eu atualizo uma vez por mês. Se um dia quiser acompanhamento online completo, tenho um plano de R$ 180 por mês e te explico como funciona.",
    "lang": "pt",
    "note": "O não vem cedo, com o motivo real, e ela sai com uma alternativa grátis e uma paga."
+  },
+  {
+   "id": "say-no-to-a-customer-request-007",
+   "situation": "I sell hand-poured candles online. A customer, Olivia, emailed that her code FALL15 didn't work. It expired Sunday night (Sept 27), she placed the $64 order at full price today anyway, and she's asking if I can still apply the 15%.",
+   "reply": "Hi Olivia, thanks for the order, and for asking. FALL15 ended at midnight on Sunday 27 September, so it can't go on this one; I keep end dates firm so it stays fair to everyone who used it in time. What I can do is tuck a free wick trimmer into your parcel, which ships Thursday. The next newsletter code goes out on Thursday 15 October, if you'd like to use it on your next order.",
+   "lang": "en",
+   "note": "The no in the second sentence, the real reason (fairness) in one clause, and a small gift offered before she has to push."
   }
  ]
 }

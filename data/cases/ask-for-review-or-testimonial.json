@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -50,6 +50,13 @@
    "reply": "Hi Gail, getting your month-end close from 12 days down to 4 is the best result we've had this year, and I'd love to write it up as a short case study for our website. You'd approve every word before it goes live, and it would take about 20 minutes of your time on a call; Thursday 8 or Friday 9 October both work for me. If you'd rather keep the numbers private, I'm happy to call you 'a family hardware store' instead. And if it's not for you, no problem at all.",
    "lang": "en",
    "note": "A case study is the bigger ask: name the result, the time it costs her and her approval rights, and offer anonymity as a second out."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-008",
+   "situation": "I run a mobile dog grooming van. After grooming a client's poodle, Biscuit, I texted asking for a Google review. The owner, Nina, replied that one ear looks noticeably shorter than the other.",
+   "reply": "Thanks for telling me, Nina, and sorry, I should have caught that before I left. I'd like to even it up for free. I'm in your area Thursday afternoon and Saturday morning, would either suit Biscuit? Ignore the review request for now; let's get his ears right first.",
+   "lang": "en",
+   "note": "A complaint in reply to a review request is a support ticket: fix it first and withdraw the ask, and don't bring the review up again unless she does."
   }
  ]
 }

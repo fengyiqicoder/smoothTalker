@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -50,6 +50,13 @@
    "reply": "王经理您好，那台白色卡罗拉双擎我已经决定买了，全款，不走贷款。您报的落地价是14.8万，如果能做到14.0万，我明天9月30号上午就过去签合同、当场付款，正好赶在月底前。实在做不到也理解，您给我回一个能做到的价就行。",
    "lang": "zh",
    "note": "没有竞品报价就别编，用全款和月底成交做筹码；如果价格不动，再退一步只要一个附加项，比如贴膜或首保。"
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-008",
+   "situation": "I'm self-employed with a high-deductible plan, and I got a $2,480 bill from St. Mary's for an ER visit in August. I can pay in full now but it hurts. Want to ask their billing office for a discount.",
+   "reply": "Hi, I'm calling about account 7730412, my ER visit on 14 August, with a balance of $2,480. I'd like to pay it in full today by card. Do you offer a prompt-pay discount for settling the whole balance at once? I was hoping for around 30 percent, so $1,736. If that's not something you do, could you tell me what discount you can offer, or whether I qualify for your financial assistance program?",
+   "lang": "en",
+   "note": "Paying in full today is the lever billing offices respond to; ask for a number, then a named fallback if they can't meet it."
   }
  ]
 }

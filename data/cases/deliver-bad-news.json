@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -43,6 +43,13 @@
    "reply": "Mom, I've got some news you won't love. I can't host Thanksgiving this year. My knee surgery got booked for November 20 and I'll be on crutches for at least three weeks after. I know it's the day you look forward to all year, and I hate breaking the tradition. Rachel says she'd love to host at hers if you and Dad are up for the drive, and I'll still bring the pies. Can I call you tonight after 7 to talk it through?",
    "lang": "en",
    "note": "A family tradition breaking is news, not logistics: say it in line two, name what it means to her, then offer the plan and a call."
+  },
+  {
+   "id": "deliver-bad-news-007",
+   "situation": "I coach my town's U12 girls' soccer team. Tryouts were last weekend and 11-year-old Zoe didn't make the travel squad. She's been on the team two seasons. I need to text her mom, Karen, before the list goes out tomorrow.",
+   "reply": "Hi Karen, I wanted you to hear this from me before the list goes out tomorrow, and it isn't the news Zoe was hoping for. She didn't make the travel squad this season. We had 26 girls for 16 spots, and it came down to speed on the ball, which is something she can absolutely build. I know how much the team means to her after two seasons. She has a spot on the rec team, and I'd love her at our Thursday skills sessions so she's ready for spring tryouts. Happy to call tonight if you'd like to talk it through.",
+   "lang": "en",
+   "note": "Warn, give the news in line two, one honest reason framed as something she can work on, then a real path forward and a call."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -50,6 +50,13 @@
    "reply": "Hi Priya, for our 1:1 on Thursday I'd like to talk about my overall load rather than any single task. For the last six weeks we've re-prioritised every Monday, and I've been finishing most weeks in the evenings, which isn't sustainable and puts quality at risk. I'll bring a list of everything on my plate with rough hours, plus two options: moving the vendor reporting to Tom, or a fixed Monday slot where new requests get ranked against what's already there. Could we use the time to pick one to try?",
    "lang": "en",
    "note": "When pushback happens every week, raise it once as a capacity problem, with data and options, and let her choose."
+  },
+  {
+   "id": "push-back-on-boss-008",
+   "situation": "今日の午後、佐藤課長と口頭で話して、新規顧客向けの提案書を10月9日（金）に初版、10月16日（金）に完成版で出す代わりに、9月分の月次レポートの締め切りを10月14日（水）に後ろ倒しすることになった。あとで食い違わないようにメールで残したい。",
+   "reply": "佐藤課長\nお疲れさまです。本日の打ち合わせで決まった内容を、確認のためお送りします。\n・新規顧客向け提案書：10月9日（金）に初版、10月16日（金）に完成版を提出\n・9月分の月次レポート：締め切りを10月14日（水）に変更\n認識に違いがあれば、お手数ですがご指摘ください。\n田中",
+   "lang": "ja",
+   "note": "口頭で決めた優先順位は、その日のうちに確認の形で文字に残す。何かずれた時に自分を守るのはこの記録。"
   }
  ]
 }

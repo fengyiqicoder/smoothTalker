@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -50,6 +50,13 @@
    "reply": "赵经理您好，发票HX-0826的18,000元，您之前说9月25日付款，目前我这边还没有收到。麻烦您明天9月30日（周三）下午5点前确认一下是否已经付出，我同时抄送了贵司财务部的李姐。款项到账前，第二期课程的日期我先不做确认。",
    "lang": "zh",
    "note": "对方给的日期一过就发，只写发票、金额、日期和下一步后果；截止时间放在国庆长假之前，免得一拖就是一周。"
+  },
+  {
+   "id": "chase-late-payment-008",
+   "situation": "I run an online Spanish conversation club, $39 a month, about 300 members. I'm writing the automated email that goes out 7 days after a card payment fails. The due-date one already exists.",
+   "reply": "Hi Marta, your October payment of $39 still hasn't gone through, which usually means an expired or replaced card. You can update it in about a minute with the button below. Your membership stays active in the meantime, so you won't miss Thursday's conversation class. Any questions, just reply and you'll reach me, not a bot.\nLucía",
+   "lang": "en",
+   "note": "Day 7 in an automated sequence: amount, one-click fix, a real reply-to, and shorter than the first. Keep the pause for the final message."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -43,6 +43,13 @@
    "reply": "Thanks for getting back to me so quickly, Mr. Hale, that's useful to know, 45 minutes is a lot less than we're seeing. This week I'll keep a simple log of what Mia works on and for how long, with her phone in the kitchen, and send it to you on Friday. If it's still well over, could we meet for 15 minutes next week to see where she's getting stuck?",
    "lang": "en",
    "note": "Don't argue with the implied criticism; turn it into shared evidence and a small next step."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-007",
+   "situation": "儿子乐乐上四年级，10月15号、16号（周四周五）要回老家参加外婆八十大寿，得请两天假。班主任是李老师。想提前说一声，也问问落下的功课怎么补。",
+   "reply": "李老师您好，我是四年级三班王乐乐的妈妈。乐乐外婆10月17日过八十大寿，我们要回老家一趟，想给他请10月15日周四和16日周五两天假，19日周一正常上学。想问一下这两天的作业和课堂内容，能不能麻烦您提前告诉我们，或者让同桌帮忙记一下？我们会在路上带着他补上。给您添麻烦了，谢谢！",
+   "lang": "zh",
+   "note": "计划中的请假要提前说，给出准确日期和返校日，再主动问怎么补课，老师更好安排。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "apologize-001",
@@ -43,6 +43,13 @@
    "reply": "Aisha, I presented your churn analysis at yesterday's leadership meeting without crediting you, and I'm sorry. It was your work and your insight, and your name should have been on it in that room. It probably felt like I took it, and in effect I did. I've emailed the leadership group this morning to say the analysis is yours, and when it goes to the board on 15 October I'd like you to present it.",
    "lang": "en",
    "note": "Names the exact failure, owns it without a 'but', and the fix is public because the harm was public."
+  },
+  {
+   "id": "apologize-007",
+   "situation": "前同事小顾三周前微信问我能不能帮她看一下简历，她想投我们公司的市场岗。我一直忙，看完就忘了回，今天才想起来。岗位10月9号截止。",
+   "reply": "小顾，抱歉，你三周前的消息我拖到今天才回，是我的问题。简历你直接发我，我明晚之前看完，把修改意见写给你。岗位10月9号截止，时间还来得及。",
+   "lang": "zh",
+   "note": "回复晚了几周：一句具体的认错，然后直接给答复和一个能兑现的时间，不用长篇解释为什么忘了。"
   }
  ]
 }

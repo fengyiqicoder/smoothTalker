@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -43,6 +43,13 @@
    "reply": "Okay. We're both really heated, and calling you a spoiled brat was out of line. I'm sorry. I can tell you feel like I don't trust you at all. We still need to talk about the curfew, but I need twenty minutes first. I'll knock on your door at 9 and we'll talk properly. I love you, that part's not up for debate.",
    "lang": "en",
    "note": "Own the insult specifically, reflect her feeling without conceding the curfew, and say exactly when you'll come back."
+  },
+  {
+   "id": "de-escalate-argument-007",
+   "situation": "My best friend Hana has been giving me one-word replies all day and just texted 'forget it, you clearly don't care'. I honestly don't know what I did. I don't want to get defensive.",
+   "reply": "I can tell you're really upset with me, and I don't want to brush past that. I'm not going to argue. I honestly don't know what I missed, and I want to. Can I call you at 8 tonight so you can tell me the worst part? You matter way too much to me to let this sit.",
+   "lang": "en",
+   "note": "When you don't know the cause, don't guess and don't defend: name her feeling, ask for the worst part, and give a time."
   }
  ]
 }

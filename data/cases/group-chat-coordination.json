@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -43,6 +43,13 @@
    "reply": "Proposal so we stop sorting it week by week. October drivers: Tue 6 Anna, Thu 8 me, Tue 13 Raj, Thu 15 Kemi, Tue 20 Luis, Thu 22 Dana, then Tue 27 Anna and Thu 29 me. Thumbs up if your date works, or reply with a swap by Thursday evening. If nobody objects by then, this is the rota, and any later swaps happen directly between the two drivers.",
    "lang": "en",
    "note": "Post a complete draft instead of asking who can drive; the default kicks in if people stay quiet."
+  },
+  {
+   "id": "group-chat-coordination-007",
+   "situation": "Sou síndica de um prédio pequeno, 12 apartamentos, com grupo de WhatsApp dos moradores. Preciso marcar a dedetização das áreas comuns e dos apartamentos, e toda vez que pergunto a data ninguém responde.",
+   "reply": "Oi, pessoal! Vamos marcar a dedetização do prédio. Duas opções: sábado, 17 de outubro, ou sábado, 24 de outubro, sempre das 8h às 12h. Respondam 1 ou 2 até quinta-feira, dia 8. Se ninguém se manifestar, fica o dia 17 e eu confirmo com a empresa na sexta. Quem não puder abrir o apartamento no dia, me chama no privado que a gente combina a chave.",
+   "lang": "pt",
+   "note": "Two options, a one-tap reply, a deadline and a default; individual logistics go to a private message, not the group."
   }
  ]
 }

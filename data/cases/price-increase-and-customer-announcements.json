@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -50,6 +50,13 @@
    "reply": "Hi Aaron,\nI'm updating my rates for the new year: from 1 January 2027, my day rate moves from $450 to $520. It's my first increase since we started working together two years ago. The winter campaign stays at $450 through December as quoted, so nothing changes for the work in flight. I've really enjoyed working with the Northlight team and I'm looking forward to more of it.\nMaya",
    "lang": "en",
    "note": "Existing client: date and number first, one honest line, the current rate held for work in flight, and no apology."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-008",
+   "situation": "I run a small veg box delivery with about 180 weekly subscribers at $32. From Monday Nov 2 it goes to $35 because our partner farms raised their prices. I want to keep members who've been with us over two years at $32 until the end of February.",
+   "reply": "Hi Ruth,\nFrom Monday 2 November, your weekly veg box goes from $32 to $35. Our partner farms have raised their prices this season, and this is what it costs to keep paying them fairly. Because you've been with us for over two years, you'll stay at $32 until the end of February. The box itself doesn't change: same farms, same Tuesday delivery. If you'd like to pause or cancel, it takes two clicks on your account page, no questions asked. Thank you for eating with us all this time.\nMarco, Green Crate",
+   "lang": "en",
+   "note": "Subscription increase: price and date first, one honest reason, a loyalty hold for long-time members and an exit that is genuinely easy."
   }
  ]
 }

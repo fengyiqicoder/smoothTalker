@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -50,6 +50,13 @@
    "reply": "Understood, Dana, and I'm sorry: you ordered it for the trip and we've let you down. The sage version is in stock, and if you'd like it I'll send it by express today so it reaches you by Friday 2 October. Otherwise the original ships Monday 5 October, or say the word and I'll refund the full $128 today. I'll check in tomorrow morning either way.",
    "lang": "en",
    "note": "Don't re-explain the delay to an angry customer; give the one option that still fixes her real problem, a firm date, and the refund again."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-008",
+   "situation": "I sell leather wallets on my own Shopify site. Customer Ben emailed: tracking says order #2194 was delivered Friday but he never got it. Nothing on the doorstep, neighbours haven't seen it. It was $85.",
+   "reply": "Hi Ben, I'm sorry, that's frustrating after watching the tracking. Tracking shows order #2194 delivered on Friday 25 September, so I've opened a claim with the courier this morning and asked for the GPS drop point. Could you check once with your building manager or mailroom? If it hasn't turned up by Thursday 1 October, I'll send a replacement by express that day, and if the first one appears you keep both. Or say 'refund' and I'll refund the $85 today. I'll email you Thursday either way.\nLeah",
+   "lang": "en",
+   "note": "'Delivered but not received' is still yours to fix: one reasonable check for him, a claim for you, a firm date for the replacement and refund as an easy exit."
   }
  ]
 }

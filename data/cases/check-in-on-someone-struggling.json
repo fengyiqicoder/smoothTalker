@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -43,6 +43,13 @@
    "reply": "Priyanka, I'm thinking of you and your mum this week. No need to reply to this. I've moved the Kessler report to October 16 and Jamal is covering Thursday's client call, so both are off your plate. If you want to take days, just tell me which ones; you don't need to explain.",
    "lang": "en",
    "note": "From a manager the most useful concrete help is taking work away, done already, not offered. No questions she has to answer."
+  },
+  {
+   "id": "check-in-on-someone-struggling-007",
+   "situation": "My friend Leo texted me at 1am 'honestly I don't see the point of any of it anymore' and then nothing. He lost his job in August and his girlfriend moved out last month. We're both in Chicago, he's 20 minutes from me.",
+   "reply": "Leo, I'm really glad you told me. I'm worried about you and I'd rather ask than wonder: are you thinking about ending your life? Whatever the answer is, you can tell me. I'm awake, and I can be at yours in 20 minutes, or stay on the phone with you while you call or text 988. Reply with anything and I'll call you straight away.",
+   "lang": "en",
+   "note": "Ask directly; it does not plant the idea. If he says yes, or you can't reach him and fear for his life, call 911. That one is not yours to carry alone."
   }
  ]
 }

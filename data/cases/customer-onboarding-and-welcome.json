@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -50,6 +50,13 @@
    "reply": "Hi Tom, thanks for booking Biscuit into Puppy Foundations, we can't wait to meet him. The first class is Saturday Oct 10 at 9am at Elm Park community hall, and the course runs every Saturday until Nov 14. Could you send a photo of Biscuit's vaccination record by Wednesday Oct 7? We ask every owner so the whole group stays safe. On the day, bring a flat collar or harness, a normal lead and a pocket of his favourite small treats. Any questions, reply here or text me on 07700 900456; I usually reply the same day.\nJess",
    "lang": "en",
    "note": "Date and place, the one thing needed with a deadline and a reason, and what to bring as the small welcome touch. No upsell to private sessions yet."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-008",
+   "situation": "我是自由插画师，9月21号接了一个茶饮品牌的包装插画，当时在欢迎邮件里跟客户陈经理说10月9号交初稿。现在印刷厂的刀版图10月8号才能给我，初稿得推到10月14号。想趁早跟她说。",
+   "reply": "陈经理您好，提前跟您同步一下：初稿会从10月9日推迟到10月14日（周三）。原因是印刷厂的刀版图10月8日才能出，我想直接按最终尺寸来画，免得初稿之后再大改。之后的节奏不变，初稿后您有一周时间反馈，定稿日期我周五前跟您重新确认。我宁可现在告诉您，也不想让它悄悄拖着。",
+   "lang": "zh",
+   "note": "发现当初的承诺做不到，要在对方开口问之前说，给新日期和一句原因，并重申后面的节奏。"
   }
  ]
 }

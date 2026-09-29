@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -49,6 +49,13 @@
    "reply": "你拍的那张装置照片我存了，比我拍的好看多了。想再见你一次：10月3日周六晚上798有个夜间市集，要不要一起去逛逛？如果想轻松点，找个下午喝杯咖啡也行，看你。",
    "lang": "zh",
    "note": "约第二次也是具体计划加一个更轻的选项；开头接住她发来的照片，而不是问“还想见面吗”。"
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-008",
+   "situation": "Ravi is in the design team, I'm in engineering, and we always end up chatting at the Friday team lunch. Neither of us manages the other and dating isn't against company rules. I want to ask him out by Slack DM without making work awkward.",
+   "reply": "Hey Ravi, this is a non-work message: I'd like to take you for a drink sometime, just the two of us. If that's not something you want, I'll never mention it again and nothing changes at Friday lunch. If it is, how's Thursday after work?",
+   "lang": "en",
+   "note": "A colleague needs the out stated plainly, and meant: if it's a no, it really is never mentioned again."
   }
  ]
 }

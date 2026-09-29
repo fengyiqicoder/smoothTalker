@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 6,
+ "count": 7,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -43,6 +43,13 @@
    "reply": "各位亲友好，10月24日（周六）婚礼的仪式大约20分钟，想请大家这段时间把手机收起来，陪我们在现场好好看着就好。摄影师阿峰会把每个瞬间拍下来，婚礼后一周内把照片发到群里，大家随便下载。仪式结束后的宴席随便拍，欢迎多多合影！那天见。",
    "lang": "zh",
    "note": "规则说成活动本身的安排、对所有人一样，再告诉大家能得到什么（照片），长辈就不会觉得被针对。"
+  },
+  {
+   "id": "wedding-and-event-host-messages-007",
+   "situation": "I'm hosting my husband's 40th on a river boat on Saturday Oct 24, 7pm, about 60 guests. I want a 1920s Gatsby theme, but half our friends hate dressing up. I need the dress code line for the invite.",
+   "reply": "Dress code: 1920s glamour, as much or as little as you like. Think a sharp suit, a dress with some sparkle, or your best going-out outfit plus a feather or a flat cap. Normal party clothes are completely welcome. The top deck is open-air and the river gets cold after dark, so bring a layer. We board at 7pm from Butler's Wharf and the boat leaves at 7:30.",
+   "lang": "en",
+   "note": "One rule stated for everyone, specific enough to follow, with an easy minimum so the costume-haters don't feel singled out or stay home."
   }
  ]
 }

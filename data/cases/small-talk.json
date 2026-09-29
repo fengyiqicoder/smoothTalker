@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "small-talk-001",
@@ -50,6 +50,13 @@
    "reply": "That came out wrong, and I'm sorry, I shouldn't have assumed. So how do you know Mark and Deb?",
    "lang": "en",
    "note": "Fix it in one line and hand her a new thread straight away. A second apology makes the moment bigger than it was."
+  },
+  {
+   "id": "small-talk-008",
+   "situation": "Tomorrow I'm driving two hours with my new boss, Graham, to a client site in Leeds. I've been here three weeks and barely know him, except that he mentioned in my first week he's training for the York marathon. How do I start?",
+   "reply": "So how's the training for York going? You mentioned it in my first week and I've been wondering how far the long runs are up to now.",
+   "lang": "en",
+   "note": "Open with the one thing you remember, follow his answer ('What got you into running?'), share one small thing back, and on a long drive let a quiet stretch be quiet."
   }
  ]
 }

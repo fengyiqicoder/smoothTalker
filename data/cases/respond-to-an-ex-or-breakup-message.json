@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 7,
+ "count": 8,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -50,6 +50,13 @@
    "reply": "Dylan, I've read what you sent and I've heard you. I'm not going to argue it point by point, and I won't be meeting up. My answer is the same. I won't reply further, and I do hope things go well for you.",
    "lang": "en",
    "note": "Don't answer each point; points invite rebuttal. Restate once, then go quiet, and mute if the messages keep coming."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-008",
+   "situation": "和前女友小雅分手两个月了，是和平分手。我们在同一个羽毛球群里，她问我能不能继续做朋友，至少打球的时候别互相躲着。我也愿意，但不想又走得太近。",
+   "reply": "谢谢你先开口。我也想做朋友，不过这段时间我觉得在群里、在球场上正常相处就好，单独吃饭和深夜聊天先放一放。周六上午的球我照常去，到时候见，分到一组打双打也没问题。",
+   "lang": "zh",
+   "note": "答应做朋友时要给出形状：哪些场合可以、哪些先不做，再落到一个具体的下一次见面。"
   }
  ]
 }
