@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -36,6 +36,13 @@
    "reply": "Some news I wanted you to hear from me first: I've resigned, and my last day is Friday 30 October. I'm going to lead the data team at a smaller company, and leaving you all was the hardest part of the decision. From 2 November, Dana will be your interim manager; your roles, projects and review dates stay exactly as they are. Hiring for my replacement starts next week, and two of you will sit on the panel. I'll hold a 1:1 with each of you before 16 October to hand over anything that matters to you, so ask me anything, here or privately.",
    "lang": "en",
    "note": "When the news is your own exit, the team's first worry is who they report to next, so answer that before anyone has to ask."
+  },
+  {
+   "id": "team-announcements-as-a-manager-006",
+   "situation": "I'm promoting Marisol to lead of our 5-person support team starting Monday Oct 5. Dev and Kate also applied and I've already told them 1:1. Slack post to the team.",
+   "reply": "Team news: Marisol is our new Support Team Lead from Monday, Oct 5. She's run the escalation queue since spring and cut first responses on escalations from 9 hours to 3. From the week of Oct 12 your weekly 1:1s move to her, and she'll own scheduling and escalations; I'll still meet each of you monthly. New calendar invites go out by Friday. Questions here or in a DM, and I'm happy to grab 15 minutes with anyone this week. Congrats, Marisol!",
+   "lang": "en",
+   "note": "Tell the other candidates privately first, and never mention who else applied in the public post."
   }
  ]
 }

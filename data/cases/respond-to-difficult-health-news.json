@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -36,6 +36,13 @@
    "reply": "Solo tú podrías anunciar una operación con un chiste sobre la cena de empresa. Siento mucho que estés pasando por esto, y me apunto al humor negro todo lo que haga falta. También me apunto a llevarte al hospital el 14 y a recogerte después, solo dime la hora. No hace falta que contestes esta noche.",
    "lang": "es",
    "note": "Si lo cuenta con humor, acompaña el tono, pero sin quitarle peso: reconoce la noticia, ofrece algo concreto con fecha y libéralo de contestar."
+  },
+  {
+   "id": "respond-to-difficult-health-news-006",
+   "situation": "我带的组员小何私聊我，说确诊了中度抑郁，医生建议休息两周，想从下周一开始请假。她不想让组里其他人知道原因。",
+   "reply": "谢谢你愿意告诉我，这不容易。你安心休息，假我批了，10月5号到16号。手上的月报我安排别人接，你把在跟的事列个简单清单发我就行，不用写得很细。组里我只说你请假，不会提原因。想聊或者需要什么随时找我，不回消息也完全没关系。",
+   "lang": "zh",
+   "note": "上级回应下属的健康消息：先接住，再把假期、交接、保密一次说清，最后给她不用回复的自由。"
   }
  ]
 }

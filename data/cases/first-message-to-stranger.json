@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -36,6 +36,13 @@
    "reply": "Vale, me has dejado con la intriga: si el mejor pescaíto frito no está en Cádiz, ¿dónde está? Y el galgo, ¿opina lo mismo?",
    "lang": "es",
    "note": "Una pregunta concreta sobre algo que ella misma dejó abierto, fácil de responder y sin hablar de su físico."
+  },
+  {
+   "id": "first-message-to-stranger-006",
+   "situation": "My 6-year-old keeps talking about a boy in her class, Oscar, they play dinosaurs every break. I don't know his parents. The class WhatsApp shows his mum is Hannah. I'd like to suggest a playdate.",
+   "reply": "Hi Hannah, I'm Kate, Zoe's mum from Class 1B. Zoe comes home every day with a new story about her and Oscar running the dinosaur park at break; apparently he's the T. rex expert. Would Oscar like to come to ours after school one day next week? Wednesday or Thursday would work, and I'm happy to do the pickup.",
+   "lang": "en",
+   "note": "Proof you looked is the kids' own story; the ask is small, concrete and easy to decline."
   }
  ]
 }

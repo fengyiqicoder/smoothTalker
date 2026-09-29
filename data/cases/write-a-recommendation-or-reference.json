@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -36,6 +36,13 @@
    "reply": "Hello, I'm happy to give a reference for Aisha Bello. She has rented my one-bedroom flat at 14 Grove Road since October 2023, and I've managed the tenancy myself throughout. In those three years her rent of £1,150 a month has been paid on time every month. When a pipe burst in the kitchen last winter, she shut off the water, called me within minutes and kept a photo log for the insurer, which saved us both a great deal of trouble. I'd let to her again without hesitation, and you're welcome to call me on 07700 900318. Best regards, Martin Hale",
    "lang": "en",
    "note": "A landlord reference is still how you know them, specific evidence, and a clear endorsement; stick to what a letting agent actually needs and nothing personal."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-006",
+   "situation": "My former manager Dana was just laid off in a restructure and is job hunting. I want to write her a LinkedIn recommendation. She managed me for 3 years at Quill, pushed me into my first conference talk, and got our team through a messy platform migration without losing anyone.",
+   "reply": "Dana managed me for three years on the data team at Quill, and she is the best manager I've had. She led our team of seven through a platform migration that ran four months over, and nobody left, which says a lot about how she treats people under pressure. She also saw something in me before I did: she pushed me to give my first conference talk and spent two evenings rehearsing it with me. Any team hiring a hands-on engineering manager would be lucky to have her.",
+   "lang": "en",
+   "note": "Upward recommendations carry weight because the writer was the one managed: one example about delivery, one about people. Leave the layoff out."
   }
  ]
 }

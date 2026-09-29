@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -36,6 +36,13 @@
    "reply": "Understood, Ravi, the migration comes first. Could we trim it to just the monthly churn chart by plan tier, from the existing billing table? If that's doable by Friday 9 October, I'll handle the formatting and the rest of the deck. If even that doesn't fit, is there someone else on your team who knows that table?",
    "lang": "en",
    "note": "When a delegated task gets a no, negotiate scope or ask who else, instead of repeating the original ask. If it's still no, flag it to your manager today."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-006",
+   "situation": "我手上同时有三个项目：官网改版、双十一活动页、还有领导上周又加给我的供应商系统对接，都说要10月底前完成，我一个人肯定做不完。想让李总定优先级，但不想显得在推活。",
+   "reply": "李总，想跟您对一下我手上三个项目的优先级。官网改版、双十一活动页、供应商系统对接目前都排在10月30号前，按我估的工作量，一个人能保证两个按时高质量交付。我的建议是：活动页优先，因为11月1号要开始预热；官网按原计划；供应商对接推到11月中，或者请技术部小王先接前期的接口梳理。您看哪个方案合适？今天能定的话，我明天一早就按新排期推进。",
+   "lang": "zh",
+   "note": "向上求助要带上工作量判断和一个推荐方案，让领导做选择题，而不是把问题整个丢过去。"
   }
  ]
 }

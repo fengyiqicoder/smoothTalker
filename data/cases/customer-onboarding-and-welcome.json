@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Ruth, yes, everything is on track for Monday 12 October. The cabinets arrived at our workshop on Friday and I checked them against your order myself. Jake and I arrive at 8am on the 12th to take out the old units, and the worktops get templated on Thursday the 15th. The one thing I need from you is a clear kitchen by Sunday evening. Any question before then, text me on 07700 900456 and I'll answer the same day. Dan",
    "lang": "en",
    "note": "Anxiety before the start is about uncertainty, so answer fast and restate the next steps with dates."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-006",
+   "situation": "I run customer success at a small scheduling software company. Harbor Physio (4 clinics) just signed an annual contract; their ops manager is Lena. We need their staff list and a kickoff call booked, and go-live target is Monday Nov 2.",
+   "reply": "Hi Lena, welcome aboard, and thanks for choosing us for all four Harbor Physio clinics. Next steps: a 45-minute kickoff call this week, then we build your clinics and booking rules by Friday Oct 23, and you go live Monday Nov 2. To keep that date I need two things by Friday Oct 9: your staff list as a spreadsheet (name, email, clinic, role) and any treatment types longer than 60 minutes. Does Thursday Oct 1 or Friday Oct 2 at 10am work for the kickoff? I'm your contact throughout and reply within one business day.",
+   "lang": "en",
+   "note": "B2B onboarding: one named contact, dated milestones, and the inputs tied to the go-live date so they have a reason to send them."
   }
  ]
 }

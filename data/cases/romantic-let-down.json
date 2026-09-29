@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -36,6 +36,13 @@
    "reply": "Marcus, I want to be straight with you, because you deserve that. I've realised I'm not in this the way I'd want to be, and it isn't fair to either of us for me to keep going, so I don't think we should do dinner on Thursday. You've been really kind to me these last couple of months. I'm sorry.",
    "lang": "en",
    "note": "After a couple of months, a call rather than a text, and before the booked dinner so he isn't told over a table he can't leave. If he asks why, it's fit, not a list."
+  },
+  {
+   "id": "romantic-let-down-006",
+   "situation": "Matched with Sam on Hinge, we've been texting for five days and he just asked to meet for a drink Saturday. I've realised I'm not into it and we've never actually met.",
+   "reply": "Hey Sam, thanks for asking, and I've enjoyed hearing about your sourdough disasters. I'm going to pass on meeting up though, I'm not feeling the spark I'd want before a first date. Good luck with the next loaf.",
+   "lang": "en",
+   "note": "Before a first meeting, a short kind no beats ghosting; no reason needed beyond fit."
   }
  ]
 }

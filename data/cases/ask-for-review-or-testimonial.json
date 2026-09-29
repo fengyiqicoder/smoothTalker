@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Sofia, hope Q4 planning is going okay without me! Would you be up for writing me a short LinkedIn recommendation? I'm interviewing for ops lead roles this month and it would carry real weight coming from you. To save you time, here's a draft you can edit or bin: \"Ana ran our Midlands warehouse scheduling for three years and cut overtime by 18% by rebuilding the shift model. She's who I went to when a plan had to work on the floor.\" No worries at all if you're swamped.",
    "lang": "en",
    "note": "Former manager: a ready draft with one real number turns a 20-minute favour into a 2-minute one."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-006",
+   "situation": "我做家电上门维修。李阿姨家的空调第一次没修好，我第二次上门免费换了零件，现在好了，她挺满意。想请她在美团上给个评价，但毕竟第一次出了问题，不太好意思开口。",
+   "reply": "李阿姨您好，空调这两天用着还好吧？第一次没能一次修好，让您多等了一趟，谢谢您的耐心。我们是小店，美团上的评价对新客人挑师傅特别有用，如果您愿意写两句，一分钟就够，搜“老陈家电维修”就能找到。不方便也完全没关系，以后家里电器有问题直接找我。",
+   "lang": "zh",
+   "note": "出过问题又解决了的客人：先用一句话认下那次失误，再提请求，并给一个真心的退路。"
   }
  ]
 }

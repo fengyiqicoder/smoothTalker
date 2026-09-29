@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Tessa, thanks for sending the renewal. I'd like to stay another year. Given three years of on-time rent and that 4B is listed at $2,250, could we do $2,200 on a 12-month lease? If that works I'll sign this week. If not, I understand, just let me know where you can land.",
    "lang": "en",
    "note": "Two real anchors (track record and a live listing), a specific number below the comparable, and a quick signature as the reason to say yes."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-006",
+   "situation": "Ich will mich im Fitnessstudio FitWerk bei mir um die Ecke anmelden, 24-Monats-Vertrag für 34,90 € im Monat. Dazu kommt eine Anmeldegebühr von 49 €. Mein Kollege hat im August ohne Gebühr unterschrieben, weil da eine Aktion lief.",
+   "reply": "Hallo, ich möchte heute den 24-Monats-Vertrag für 34,90 € abschließen. Im August hatten Sie eine Aktion ohne Anmeldegebühr, darüber hat mein Kollege unterschrieben. Könnten Sie mir die 49 € auch erlassen? Dann unterschreibe ich gleich jetzt. Wenn das nicht geht, ist es auch in Ordnung.",
+   "lang": "de",
+   "note": "Ein echter Anker plus sofortige Unterschrift. Bei einem Nein nach einem Extra fragen, etwa einem Gratismonat, statt nachzuverhandeln."
   }
  ]
 }

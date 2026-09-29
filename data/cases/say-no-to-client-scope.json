@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Priya, lovely to hear from you, and the candles look great. My rate is set for the work rather than who it's for, so a full day of product shots is $900. If that's more than you'd planned, I can do a half day for $500 covering your 10 bestsellers on a white background, which is usually what a shop needs first. Which would suit you better?",
    "lang": "en",
    "note": "Hold the price and scale the scope. A friend discount given once becomes the rate everyone in that circle expects."
+  },
+  {
+   "id": "say-no-to-client-scope-006",
+   "situation": "I've done bookkeeping for a small landscaping company for 18 months at $600 a month. The owner, Gary, has paid late five of the last six months, August's invoice is still unpaid, and he keeps adding payroll questions that aren't in our agreement. I want to end it.",
+   "reply": "Hi Gary,\nI've valued working with you over the last 18 months. I've decided to wind down our engagement at the end of October, so October's books will be my last. Before then I'll close out September and October and send you a written handover: accounts, logins and the monthly checklist, so whoever takes over can start cleanly. The August invoice for $600 is still open; please settle it along with October's by Friday, November 6. If it helps, I can introduce you to Dana Whitfield, who handles bookkeeping and payroll together.\nBest,\nMeera",
+   "lang": "en",
+   "note": "Ending the relationship, not a scope fight: no list of grievances, a clean end date, a proper handover and one clear ask about the money owed."
   }
  ]
 }

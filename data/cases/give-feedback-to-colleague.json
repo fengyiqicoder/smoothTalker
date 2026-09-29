@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -36,6 +36,13 @@
    "reply": "Can I give you some feedback on how Friday requests reach me? The last three Fridays, urgent tasks have come in on Slack after 6pm for Monday morning, and I've ended up working Sundays to hit them. What's driving the timing on your side? If those could reach me by 3pm on Friday, or carry a Tuesday deadline when they land later, I can plan around them properly and still turn them round fast.",
    "lang": "en",
    "note": "Upward feedback uses the same shape: ask first, the facts with a count, the impact, a real question, then an ask that makes his job easier too."
+  },
+  {
+   "id": "give-feedback-to-colleague-006",
+   "situation": "我是设计组长。同级的产品经理老吴上周四在需求评审会上当着大家说我组里新来的设计师小林的方案“完全没想过用户”，小林会后哭了。老吴人不坏，就是说话冲，我想私下跟他聊聊。",
+   "reply": "老吴，有空聊五分钟吗？想说说上周四评审会的事。你说小林的方案“完全没想过用户”，我知道你是着急方案有问题，但她刚来两个月，当着全组听到这句，这几天改稿都不太敢拿出来了。你当时主要觉得哪块有问题？以后评审遇到这种情况，能不能直接说具体是哪个环节，或者会后单独跟我说，我带她改。下周评审完我们再碰一下，看看效果。",
+   "lang": "zh",
+   "note": "对平级同事：先征得同意，说具体一句话和它对团队的影响，先问他的看法，再提具体做法，并约好回头看。"
   }
  ]
 }

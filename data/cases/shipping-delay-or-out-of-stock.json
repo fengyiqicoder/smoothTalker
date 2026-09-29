@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Marcus, your table won't make 2 October, and I know this is the second time I've moved it. The finish on the top didn't cure evenly and I'm redoing it. It will be delivered on Friday 16 October, a date I'm certain of, the day before your family arrives. I've refunded the $150 delivery fee today. If you'd rather not wait, I'll refund the whole order instead; if I don't hear back, the 16th stands. I'll send you photos of the finished top on Monday 12 October. Tom",
    "lang": "en",
    "note": "On a second slip, refund something unasked and give only a date you are sure you can keep."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-006",
+   "situation": "I make a small-batch card game. 312 people preordered for early October delivery. The factory just told me the print run failed quality check and needs reprinting, so shipping moves to around Nov 13. Need to email everyone.",
+   "reply": "Subject: Your Night Market preorder now ships around November 13\nHi everyone,\nYour Night Market preorder is delayed: it will ship around November 13 instead of early October. The first print run failed our quality check (the colours came out muddy), and I'd rather reprint than send a game I'm not proud of. You can wait and get tracking the day it ships, swap to Harbour Lights, which is in stock and ships this week, or reply 'refund' for your full $34 within two days. If I don't hear from you, your order stays as it is. Every order will include the promo expansion as a thank-you. I'll email again on October 30 with a firm date.\nMaya, Lanternfly Games",
+   "lang": "en",
+   "note": "A mass email to many buyers: the delay in the subject line, one line of reason, three options and a default, so nobody has to reply."
   }
  ]
 }

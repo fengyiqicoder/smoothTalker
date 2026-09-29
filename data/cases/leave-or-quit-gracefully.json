@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -36,6 +36,13 @@
    "reply": "I understand the timing is hard, Dave, and I'm sorry it lands right before the launch. My decision is made and my last day stays Friday 23 October. I want these weeks to be useful, so I've started a handover doc for the launch checklist and can walk Leila through the vendor contacts on Thursday. Tell me what you'd most like prioritised and I'll start there.",
    "lang": "en",
    "note": "After a guilt-trip, hold the date, don't re-argue the reason, and turn the conversation into a handover question."
+  },
+  {
+   "id": "leave-or-quit-gracefully-006",
+   "situation": "I started at a logistics startup in June and I'm quitting after 4 months. The role turned out to be mostly sales, which isn't what I signed up for. My manager Beth has been kind and I feel terrible. Meeting her tomorrow, what do I say?",
+   "reply": "Beth, I wanted to tell you in person: I've decided to leave, and I'm giving my two weeks' notice today, so my last day would be Wednesday 14 October. The role has turned out to be different from what I'm looking for, and I'd rather say that early than let it drag. Before I go I'll write up the status of all 23 open accounts and hand over the Harlow onboarding properly. Thank you for all the time you've put into getting me started.",
+   "lang": "en",
+   "note": "A short tenure needs less explanation, not more: one honest line about fit, a clear date, a concrete handover, no apology tour."
   }
  ]
 }

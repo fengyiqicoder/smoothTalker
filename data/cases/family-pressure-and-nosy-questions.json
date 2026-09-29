@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -36,6 +36,13 @@
    "reply": "Ha, when there's news, you'll be the first to know, Mummy-ji. Now tell me, are you making the kaju katli yourself this year, or did Dev finally get the recipe out of you?",
    "lang": "en",
    "note": "No reason given, since 'we're trying' invites advice; if it comes back, repeat the same line nearly word for word."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-006",
+   "situation": "My brother Mike and his wife just separated. Aunt Carol texted me 'So what really happened with Mike and Jen?? Was it her?' I'm not going to gossip about my brother.",
+   "reply": "Hi Aunt Carol, that's Mike's story to tell, not mine, so I'll leave it with him. He's doing okay, and I know he'd love to hear from you directly. How's the kitchen renovation going?",
+   "lang": "en",
+   "note": "When the nosy question is about someone else, decline on their behalf, point her to the person, and change the subject. No hints about who was at fault."
   }
  ]
 }

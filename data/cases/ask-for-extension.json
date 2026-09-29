@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Mr. Delgado, a heads-up now rather than on the 1st: my employer's payroll switch has pushed my September pay to October 9. Could I pay October's rent on Friday October 9 instead? If it helps, I can send $600 on the 1st and the remaining $1,050 on the 9th. Would either of those work for you?",
    "lang": "en",
    "note": "Money deadlines get the same shape: ask before the due date, one line of reason, an exact new date and a partial payment as the trade."
+  },
+  {
+   "id": "ask-for-extension-006",
+   "situation": "I asked my manager Nadia if the vendor comparison report could move from Friday to next Tuesday because two vendors still haven't sent pricing. She said no, leadership reviews it Monday morning. What do I say back?",
+   "reply": "Understood, Monday's review is fixed. Here's what I can do: by Friday 5pm you'll have the full comparison for the four vendors who've sent pricing, with Corvel and Brightpath marked as pending. I've chased both again today, and if their numbers arrive over the weekend I'll add them before 8am Monday. Does that work for the review?",
+   "lang": "en",
+   "note": "After a no, stop asking for time and offer the partial version that fits the downstream deadline."
   }
  ]
 }

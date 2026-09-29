@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -36,6 +36,13 @@
    "reply": "Hey Ollie, not a big deal, but you've dropped out on the day for the last three game nights and I've started planning the tables around you not coming. If things are hard right now, tell me and I'll stop pestering. If game night just isn't your thing at the moment, that's fine too, I'd rather know. Want me to count you in for Friday 23 October, or sit this one out?",
    "lang": "en",
    "note": "A pattern with one person goes to a private message with a real out, never a callout in the group."
+  },
+  {
+   "id": "group-chat-coordination-006",
+   "situation": "I'm in a WhatsApp group with 5 other parents for the soccer practice carpool, Tuesdays and Thursdays at 5:30. Every week it's chaos over who drives. I want to lock in a rota for October.",
+   "reply": "Proposal so we stop sorting it week by week. October drivers: Tue 6 Anna, Thu 8 me, Tue 13 Raj, Thu 15 Kemi, Tue 20 Luis, Thu 22 Dana, then Tue 27 Anna and Thu 29 me. Thumbs up if your date works, or reply with a swap by Thursday evening. If nobody objects by then, this is the rota, and any later swaps happen directly between the two drivers.",
+   "lang": "en",
+   "note": "Post a complete draft instead of asking who can drive; the default kicks in if people stay quiet."
   }
  ]
 }

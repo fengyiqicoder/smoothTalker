@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -36,6 +36,13 @@
    "reply": "来对个账～民宿3晚3,800，租车1,800，一共5,600，四个人每人1,400。大家出发前（10月1号前）微信转我就行。路上油费和过路费谁付谁记在群里，回来再一起算。",
    "lang": "zh",
    "note": "Settling the split before the trip, with the number and a date, prevents most of the awkwardness afterwards."
+  },
+  {
+   "id": "money-between-friends-006",
+   "situation": "上个月找好朋友阿杰借了3,000块周转，说好9月底还。结果公司工资推迟到10月15号才发，这周还不上。他还没催我，我想主动跟他说。",
+   "reply": "阿杰，那3,000块说好这周还你，但公司这个月工资推迟到10月15号发，我得晚两周。15号到账当天我就转给你。拖了真不好意思，要是你这几天急用，跟我说一声，我先想办法凑一部分给你。",
+   "lang": "zh",
+   "note": "欠钱的一方要在对方开口前主动说，给确定日期，并给对方说急需的空间。"
   }
  ]
 }

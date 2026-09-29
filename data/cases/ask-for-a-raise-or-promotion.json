@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -36,6 +36,13 @@
    "reply": "王姐，我很喜欢现在的工作，也想在这个团队长期做下去。过去一年我搭了广告投放的归因看板，投放组的获客成本降了大约15%，新人的数据培训现在也是我在带。坦白说，上周我拿到了另一家公司月薪2.4万的offer，但我更想留下，所以想先跟您谈：能不能把我的月薪调到2.3万？需要什么材料去跟张总申请，我这周都可以准备。那边要我10月12日前答复，所以想请您10月9日周五前给我一个结果。",
    "lang": "zh",
    "note": "外部offer只提一次，语气平静，先说想留下；只有真的会去才提，否则就别拿它当筹码。"
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-006",
+   "situation": "Sous chef at a 30-seat restaurant, 3 years. Since our head chef left in June I've written the menus and done all the ordering, food cost went from 34% to 29%. I want the head chef title and $62k (I'm on $51k). Owner Marco runs everything; I want to text him to set up the talk.",
+   "reply": "Hi Marco, could we sit down for 30 minutes before service this week, Wednesday or Thursday around 2? I'd like to talk about my role since June, with the menus and the ordering, and where it goes from here, including title and pay. I love this kitchen and want to keep building it with you, so I'd rather do this properly than mid-shift.",
+   "lang": "en",
+   "note": "The booking text names the topic so it isn't an ambush; save the food-cost numbers and the $62k for the meeting itself."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -36,6 +36,13 @@
    "reply": "Derek, I'm sorry this still isn't fixed. I've sent you a direct message with my mobile number, and I can have a technician at yours tomorrow morning if that suits. Luis, owner.",
    "lang": "en",
    "note": "The second public reply is shorter than the first; don't defend the first one, and move everything else to private."
+  },
+  {
+   "id": "respond-to-negative-review-006",
+   "situation": "Tengo un restaurante de arroces en Valencia. Un tal Marcos nos ha puesto una estrella en Google diciendo que la paella del domingo 20 estaba cruda y que el camarero se rió de ellos. Ese domingo estuvimos cerrados por vacaciones y no hay ninguna reserva a su nombre.",
+   "reply": "Hola, Marcos. Gracias por contarlo: una paella cruda y un trato así serían inaceptables en nuestra casa. Una aclaración para quien lea esto: el domingo 20 de septiembre estuvimos cerrados por vacaciones, así que creo que esta reseña puede ser de otro restaurante. Si me equivoco, escríbeme a reservas@labarracadepepa.es y lo hablamos en persona. Pepa, propietaria.",
+   "lang": "es",
+   "note": "Se corrige el dato una sola vez, con calma y sin llamarle mentiroso; si parece falsa, se denuncia a Google aparte y se deja esta respuesta."
   }
  ]
 }

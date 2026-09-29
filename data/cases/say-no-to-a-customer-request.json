@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Hannah, sorry to hear about the shoulder, and thanks for asking before cancelling. Our freeze is normally capped at one month, because memberships are limited and a frozen spot is one we can't offer to the waitlist. After six years with us, I'm making an exception: your membership is frozen from 1 October to 31 December at no charge and restarts on 1 January. Heal properly and we'll see you on the wall.",
    "lang": "en",
    "note": "When you bend a rule for a good reason, decide fast and call it an exception so it doesn't become the new baseline."
+  },
+  {
+   "id": "say-no-to-a-customer-request-006",
+   "situation": "Sou personal trainer. Uma aluna, a Renata, pediu para eu mandar treinos pelo WhatsApp e responder dúvidas a qualquer hora, sem custo extra, além das duas aulas por semana. Não dá para mim.",
+   "reply": "Oi Renata, adoro ver você tão animada com os treinos! Acompanhamento pelo WhatsApp fora das aulas eu não consigo incluir no pacote atual: é o tempo que uso para preparar as aulas de todos os alunos. O que posso fazer é te mandar uma ficha para os dias sem aula, que eu atualizo uma vez por mês. Se um dia quiser acompanhamento online completo, tenho um plano de R$ 180 por mês e te explico como funciona.",
+   "lang": "pt",
+   "note": "O não vem cedo, com o motivo real, e ela sai com uma alternativa grátis e uma paga."
   }
  ]
 }

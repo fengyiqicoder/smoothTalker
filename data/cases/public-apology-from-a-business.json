@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -36,6 +36,13 @@
    "reply": "Am Samstag, 26. September, war unsere Halle wegen eines Wasserschadens geschlossen, und wir haben das erst um 9 Uhr auf Instagram gepostet, als viele von euch schon vor der Tür standen. Rund 60 Leute sind umsonst gekommen, manche mit Kindern und langer Anfahrt. Das tut mir leid. Alle, die für Samstag gebucht hatten, bekommen den Eintritt bis Freitag, 2. Oktober, automatisch erstattet. Wer ohne Buchung da war, schreibt uns an hallo@kletterwerk-leipzig.de und bekommt einen Freieintritt. Schließungen schicken wir ab sofort per E-Mail und SMS an alle Buchungen und stellen sie auf die Startseite, nicht nur auf Instagram. Bei Fragen erreicht ihr mich direkt unter 0341 2298 410.\nJonas Berger, Inhaber",
    "lang": "de",
    "note": "Local business, informal 'ihr': the refund is automatic and the fix is about the channel that failed."
+  },
+  {
+   "id": "public-apology-from-a-business-006",
+   "situation": "Our bakery's Instagram posted a joke yesterday calling gluten-free customers 'crazy'. A coeliac customer called it out and it's been shared about 300 times. I'm the owner, Dana, and I wrote the post.",
+   "reply": "Yesterday this account posted a joke calling gluten-free customers 'crazy'. I wrote it, and it was wrong: for people with coeliac disease gluten-free is a medical need, and many of you trust us with exactly that. I'm sorry. The post is deleted, and from today every post is checked by a second person on our team before it goes up. If you want to tell me directly how this landed, I read every email at dana@crumbhousebakery.com. Dana, owner",
+   "lang": "en",
+   "note": "The owner names herself as the author; no 'it was meant as a joke' defence."
   }
  ]
 }

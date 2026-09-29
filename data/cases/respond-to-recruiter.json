@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -36,6 +36,13 @@
    "reply": "Guten Tag Frau Keller, vielen Dank für das Gespräch gestern. Ich habe es mir gut überlegt und möchte die Stelle nicht weiterverfolgen: 60 Prozent Reisetätigkeit passt in meiner jetzigen Lebensphase nicht. Wenn Sie eine vergleichbare Rolle mit überwiegend regionalen Projekten haben, höre ich sehr gern wieder von Ihnen. Viele Grüße, Jana Hoffmann",
    "lang": "de",
    "note": "Absage nach dem Gespräch: die Antwort in den ersten zwei Zeilen, ein kurzer Grund, und eine konkrete Tür für passende Rollen."
+  },
+  {
+   "id": "respond-to-recruiter-006",
+   "situation": "去年10月猎头周小姐找过我一个岗位，我当时婉拒了，说保持联系。现在公司在裁员，我想主动找她，但不想显得很急。",
+   "reply": "周小姐您好，去年10月您联系过我聊高级数据分析的机会，当时时机不合适，谢谢您还记得我。我现在开始看新的机会，方向是电商或金融公司的数据团队负责人，base上海，年薪期望55万左右。如果您手上有合适的，这周四或周五下午都方便电话聊15分钟。",
+   "lang": "zh",
+   "note": "主动回头找猎头：直接说方向、城市和薪资，方便她匹配；裁员的事不必解释。"
   }
  ]
 }

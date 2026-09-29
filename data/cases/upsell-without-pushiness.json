@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -36,6 +36,13 @@
    "reply": "Fair enough, that came across as a sell rather than a suggestion, and that wasn't the idea. You're all set with the 6-hour package for Saturday 17 October, and I'll make sure the ceremony and speeches are covered from the best angles. I'll send the draft shot list by Friday.",
    "lang": "en",
    "note": "After a no that stings, own it in one line and confirm the original booking; never raise the second shooter again unless they ask."
+  },
+  {
+   "id": "upsell-without-pushiness-006",
+   "situation": "I'm an account manager at a small scheduling software company. A dental practice, Bright Smile Dental, has paid our monthly plan ($89) for 14 months and renews Oct 12. Annual is $890. Their office manager Tanya has never asked about it.",
+   "reply": "Hi Tanya, a quick one before your renewal on October 12. You've been with us 14 months on the monthly plan, so it looks like the tool is here to stay. On the annual plan you'd pay $890 for the year instead of $1,068, which saves $178. The trade-off is paying it all up front, and it's only refundable in the first 30 days. If monthly suits your cash flow better, nothing changes and there's no need to reply.",
+   "lang": "en",
+   "note": "B2B renewal: the reason is their own 14-month history, the saving and the catch are both in numbers, and silence is a valid answer."
   }
  ]
 }

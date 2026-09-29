@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -36,6 +36,13 @@
    "reply": "我知道你是心疼我才这么说，谢谢你。不过我现在不是要建议，也没打算分，就是想吐吐槽。你先站我这边听我说完好不好？周六奶茶我请。",
    "lang": "zh",
    "note": "回应她的关心，不解释为什么不分；说清楚'我要的是倾听'，比争论他好不好有用。"
+  },
+  {
+   "id": "respond-to-unsolicited-advice-006",
+   "situation": "My retired neighbour Gary gives me lawn tips every time I'm out front on a Saturday (aerate, overseed, mow higher). He's sweet and it's harmless, I just don't want a 20 minute lecture every weekend.",
+   "reply": "Ha, Gary, you'll make a lawn man of me yet. I'm keeping it low effort this year, dandelions and all. How did your tomatoes end up doing?",
+   "lang": "en",
+   "note": "Low stakes and someone you like: receive it with humour and hand him a topic he enjoys. Save the firmer rungs for if it keeps eating your Saturdays."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -36,6 +36,13 @@
    "reply": "刘叔，爸走的那几天家里乱成一团，是您前后跑了三天，联系殡仪馆，又站在门口一位位招呼厂里来送他的老工友。好多叔叔阿姨我都叫不上名字，有您在，我们才没有失礼。爸生前常说您是厂里最靠得住的老哥们，这回我们全家是真切体会到了。等过了这阵，我和妈想请您来家里吃顿便饭。",
    "lang": "zh",
    "note": "丧事后的感谢要具体到对方做的事，再带一句逝者对他的评价，最后留一个往后的约定。"
+  },
+  {
+   "id": "thank-you-notes-006",
+   "situation": "A stranger, Tomas, found my wallet on the 14 bus Saturday and drove it over to my flat because my licence had the address. Everything was still in it. He left his number on a note.",
+   "reply": "Hi Tomas, it's Rachel, whose wallet you rescued from the 14 bus on Saturday. Thank you for driving it all the way over instead of just handing it in. Getting my licence and cards back saved me a week of phone calls, and your note honestly made my day. If you're ever near Fairview, I'd love to buy you a coffee. Either way, thank you.",
+   "lang": "en",
+   "note": "A stranger: say who you are first, name the extra effort he chose, and keep any offer light and optional."
   }
  ]
 }

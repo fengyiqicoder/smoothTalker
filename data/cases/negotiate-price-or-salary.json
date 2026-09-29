@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -36,6 +36,13 @@
    "reply": "Thanks for checking, Megan, and for going back to them. I'm excited about this role, so let's look at the rest of the package. Would they do a $7,500 signing bonus and a formal salary review at six months instead of twelve? With those two in writing, I'm ready to sign this week.",
    "lang": "en",
    "note": "After a firm no on base salary: move to one-off money and timing, and make the path to yes explicit."
+  },
+  {
+   "id": "negotiate-price-or-salary-006",
+   "situation": "我开咖啡店，现在的烘豆商报价每公斤128元，我每月大概用40公斤。另一家报115，但我更喜欢现在这家的豆子。想谈到118左右。",
+   "reply": "刘经理，您家的埃塞豆子客人一直很喜欢，我很想继续长期合作。现在每月大概40公斤，报价是每公斤128元；我这边看到的同类报价在115左右，所以想跟您商量能不能做到116。如果我签六个月的固定订单、每月1号提前付款，价格这边有没有空间？",
+   "lang": "zh",
+   "note": "买方开价略低于自己能接受的数，同时拿出对方在意的东西（固定量、提前付款）来换。"
   }
  ]
 }

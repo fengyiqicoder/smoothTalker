@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -36,6 +36,13 @@
    "reply": "你好，我已经到山海小馆了，坐在靠窗的位置。路上还顺利吧？我等到7点45，要是今天赶不过来也没关系，我们改天再约。",
    "lang": "zh",
    "note": "First meeting, one-off: assume good faith, state your cut-off time, and leave an easy way to rebook."
+  },
+  {
+   "id": "handle-no-show-or-lateness-006",
+   "situation": "I'm meeting a new client, Victor, at his office at 2pm for a project kickoff. The Jubilee line is suspended and I'll be about 20 minutes late. It's 1:40 now.",
+   "reply": "Hi Victor, the Jubilee line is suspended and I'm going to be about 20 minutes late, so around 2:20. Sorry to eat into your afternoon. If that squeezes you, I can do the kickoff by phone at 2 instead and we meet in person next week. Whichever is easier for you.",
+   "lang": "en",
+   "note": "Warn before the start time, not after, with a real ETA and an option that protects their schedule."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Omar, thanks for telling me straight away, and I'm sorry about the shifts. The $700 balance for September is still outstanding, and October's $1,400 is due Thursday 1 October. Could we agree a plan in writing by Friday? One option: the $700 split into two payments of $350, added to your October and November rent. If something else works better for you, tell me and we'll work it out.",
    "lang": "en",
    "note": "Landlord side: exact amounts and dates, one concrete plan offered, and room for his version."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-006",
+   "situation": "房东突然说要卖房，让我10月底前搬走。合同签到明年2月底，里面写了房东提前解约要提前一个月通知并赔一个月租金（4,500元）。我可以搬，但时间太紧，想争取一下。",
+   "reply": "王姐您好，卖房的事收到了，我理解，也愿意配合。10月底前找房加搬家时间比较紧，我想11月15号前搬完。按合同第八条，房东提前解约需赔付一个月租金4,500元，麻烦您在我交钥匙当天把押金和这4,500元一起退给我。这段时间带人看房我都配合，提前一天说一声就行。您看这样可以吗？周五前回我一下，我好开始安排。",
+   "lang": "zh",
+   "note": "合同只引用一次、语气平和，把要求落到具体日期和金额；配合看房是让对方好答应的筹码。"
   }
  ]
 }

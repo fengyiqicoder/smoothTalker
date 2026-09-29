@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -35,6 +35,13 @@
    "reply": "Hi Ines, it's Daniel from Kofi's birthday on Saturday, the one who got a full lecture on why bouldering beats the gym. This is a bit forward, but I'd regret not asking: would you want to get a drink with me this week? Thursday evening or Sunday afternoon both work. No pressure at all if not.",
    "lang": "en",
    "note": "Someone you've met once: remind her who you are with a detail from the night, one clear plan, and an out she can take in a word."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-006",
+   "situation": "Asked Jordan (we met at a friend's housewarming) if she wanted to get a drink Thursday. She said 'this week's crazy, maybe another time?' Not sure if that's a no. How do I reply without pushing?",
+   "reply": "No worries at all, sounds like a big week. I'd still love to get that drink, so if things calm down, tell me a night that works and I'll pick the place.",
+   "lang": "en",
+   "note": "After a soft maybe, hand the next move to them once. If no night comes back, that is the answer; don't ask again."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Owen, I'm writing on behalf of the tenants at 42 Linden Street. Tomás Ruiz is moving out at the end of November, and Aoife Byrne and I would like to stay on. Could we replace Tomás on the lease with a new tenant, Hana Mori, from Tuesday 1 December 2026? She can send her references and ID this week for your checks. Please let us know what paperwork you need, and whether Tomás should also give notice separately. Could you confirm the next steps in writing? Thanks, Maya Collins",
    "lang": "en",
    "note": "Changing a joint tenancy is a request, not a notice. Get the new arrangement confirmed in writing before Tomás hands back his keys, since one tenant's notice can end the whole tenancy in some places."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-006",
+   "situation": "Ich wohne in Leipzig zur Miete, unbefristeter Vertrag, gesetzliche Kündigungsfrist drei Monate. Ich ziehe für einen neuen Job nach Hamburg und will zum 31. Dezember raus. Die Hausverwaltung ist Mahler Immobilien, zuständig ist Frau Brandt.",
+   "reply": "Sehr geehrte Frau Brandt,\nhiermit kündige ich das Mietverhältnis über die Wohnung Karl-Heine-Straße 48, 2. OG links, 04229 Leipzig, fristgerecht zum 31. Dezember 2026, gemäß der gesetzlichen Kündigungsfrist von drei Monaten (§ 573c BGB). Das unterschriebene Original geht Ihnen heute per Einschreiben zu. Für Besichtigungen mit Nachmietern bin ich werktags ab 17 Uhr flexibel. Für die Übergabe mit Zählerablesung schlage ich Montag, den 28. Dezember, vor. Bitte bestätigen Sie mir den Eingang der Kündigung schriftlich.\nVielen Dank für die angenehmen Jahre hier.\nMit freundlichen Grüßen\nJonas Weber",
+   "lang": "de",
+   "note": "In Deutschland braucht die Kündigung die Schriftform mit Unterschrift; die E-Mail ist nur die Vorabinfo, der Brief muss bis zum dritten Werktag im Oktober ankommen."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -36,6 +36,13 @@
    "reply": "小敏，知道你刚换工作肯定忙翻了。上次问你明年5月当伴娘的事，你别有压力，愿意、不方便、还要再想想，哪个答案都完全没问题。11月15日前告诉我一声就行，我好安排礼服。",
    "lang": "zh",
    "note": "给她一个体面说“不”的出口，截止时间说成是为了安排礼服，不是催她。"
+  },
+  {
+   "id": "follow-up-unanswered-006",
+   "situation": "Uni group project, presentation is Thursday at 10am. I asked Ellie in the group chat on Friday and again Sunday for her 4 slides on the survey results. She's read both, no reply. We're putting the deck together tomorrow night.",
+   "reply": "Hey Ellie, I know it's a heavy week. Are your 4 survey slides on track? We're merging the deck tomorrow at 7pm. If it's easier, send whatever you have, even rough numbers, and Tom and I will do the formatting.",
+   "lang": "en",
+   "note": "Move from the group chat to a direct message, make the reply tiny, and take work off her plate. If nothing by tomorrow noon, split her slides between you and stop chasing."
   }
  ]
 }

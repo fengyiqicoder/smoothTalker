@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -36,6 +36,13 @@
    "reply": "That sounds like it's not fine, and fair enough: you've hosted three years in a row and I said I'd take a turn. Can I call you tonight after 8? I'd like to sort out this year properly, and I'm happy for it to be at mine.",
    "lang": "en",
    "note": "The dig wraps a legitimate point, so own it and move to a call; over text this one turns into a fight."
+  },
+  {
+   "id": "respond-to-passive-aggressive-006",
+   "situation": "Freelance designer. Client Mark emailed 'As I've already said twice, the logo needs to be bigger. Not sure how else to put it.' I did make it bigger in v2 and he approved v2 on Friday. Now we're on v3.",
+   "reply": "Hi Mark, understood, you'd like the logo bigger than it is in v3. So I get it right this round: should it fill about a third of the header width, or closer to half? I'll send the revised version by 3pm tomorrow, Wednesday.",
+   "lang": "en",
+   "note": "Answer the request, not the tone, and turn a vague 'bigger' into a choice so there is no v4. Raise the v2 approval only if extra rounds become a billing question."
   }
  ]
 }

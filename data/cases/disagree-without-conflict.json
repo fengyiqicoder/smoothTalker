@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -36,6 +36,13 @@
    "reply": "Je suis d'accord avec toi qu'il faut remplir le carnet de commandes d'ici décembre. Là où je vois les choses autrement, c'est sur les 20 % : avec nos marges autour de 25 %, on travaillerait presque à perte sur chaque chantier. Qu'est-ce qui te fait penser que le prix est le frein principal ? Si tu as eu des retours de clients là-dessus, j'aimerais qu'on les regarde ensemble avant de trancher.",
    "lang": "fr",
    "note": "Business partner: agree on the goal, give the one number that matters, then ask for his evidence instead of arguing."
+  },
+  {
+   "id": "disagree-without-conflict-006",
+   "situation": "My mother-in-law Linda keeps saying we should put our 4-month-old on his tummy to sleep because 'all my kids were fine'. Our pediatrician said back only. She's babysitting Saturday and I need to say something by text without starting a war.",
+   "reply": "Linda, thank you for taking Leo on Saturday, it's a real gift to have you. I know you raised three kids who slept on their tummies and turned out great. Where we land differently is that Dr. Shah was very clear that for Leo it's back only, and we'd feel much better sticking to that for every nap. Is there anything that makes back sleeping tricky for you with him? I'm happy to show you how we swaddle him so he settles.",
+   "lang": "en",
+   "note": "When the point isn't negotiable, aim the curiosity at practical obstacles, not at the rule itself."
   }
  ]
 }

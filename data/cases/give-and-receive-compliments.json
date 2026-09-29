@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -35,6 +35,13 @@
    "reply": "Carla, thank you for today's all-hands. When you said the timing of the announcement was your call and the wrong one, the room noticeably relaxed. It made the rest of what you said much easier to trust.",
    "lang": "en",
    "note": "To someone senior: short, one specific moment and its effect, and nothing asked in return."
+  },
+  {
+   "id": "give-and-receive-compliments-006",
+   "situation": "儿子乐乐上二年级，开学时每天早上哭着不肯去。班主任刘老师这一个月每天在校门口接他，还让他当了图书角管理员，现在他天天催着出门。想在微信上好好谢谢刘老师。",
+   "reply": "刘老师，想正式跟您说声谢谢。开学那几周乐乐每天早上都哭，您每天在门口接他，还让他管图书角，现在他七点就催我出门，说要去整理书。这一个月的变化我们在家看得特别清楚，您真的很用心。",
+   "lang": "zh",
+   "note": "感谢要具体：她做了什么、带来了什么变化、一句关于她本人；不附带任何请求。"
   }
  ]
 }

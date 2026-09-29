@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Jess, I need to move tomorrow's 10am: my daughter's school has called me in for a meeting at the same time. I know that's inside your 24 hours, so please charge the late fee, that's only fair. Could you do Thursday at 10 or Friday at 2 instead?",
    "lang": "en",
    "note": "Last-minute with a professional: offer the fee before they have to raise it, then two concrete times."
+  },
+  {
+   "id": "cancel-or-reschedule-006",
+   "situation": "我组织了本周六10月3日去莫干山徒步，8个人，订了大巴，每人已经收了120块。台风预报周六有暴雨，我要取消改期，在群里发。",
+   "reply": "各位，这周六（10月3日）的莫干山徒步取消了：台风预报当天有暴雨，山路太危险。大巴公司同意免费改期，所以大家的120元我先留着，改到这两个时间之一：1是10月17日（周六），2是10月24日（周六）。想退钱的也完全没问题，今晚私信我，明天就转回去。大家在群里回1或2，周四晚上前定下来。",
+   "lang": "zh",
+   "note": "组织者取消：第一句说结果，钱的事在别人问之前说清楚，再给两个具体日期。"
   }
  ]
 }

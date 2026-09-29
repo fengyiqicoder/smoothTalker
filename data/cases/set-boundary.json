@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Linda, we love having you close by and the kids adore seeing so much of you. From now on we're going to keep the door latched from the inside when we're home, so the key won't open it. Text before you come over and we'll let you in, or leave things on the porch bench. You're still our emergency key holder.",
    "lang": "en",
    "note": "The boundary is what you will do with the door, not a rule for her. If she pushes back, repeat the same line shorter: text first and we'll open up."
+  },
+  {
+   "id": "set-boundary-006",
+   "situation": "我是儿科医生。表嫂经常半夜在微信上发孩子的照片问我该吃什么药，这周已经问了三次。我想以后不在微信上看病了，但不想得罪亲戚。",
+   "reply": "嫂子，孩子有事你第一个想到问我，我挺高兴的。想跟你说一下，以后我不在微信上看病了，隔着照片看不准，万一耽误了孩子我心里过不去。孩子不舒服就直接去医院挂儿科，如果不知道去哪家、挂哪个号，你随时问我，我帮你推荐。",
+   "lang": "zh",
+   "note": "边界说的是“我不在微信上看病”，是自己的做法，不是要求她别问；再问时重复同一句，不加新理由。"
   }
  ]
 }

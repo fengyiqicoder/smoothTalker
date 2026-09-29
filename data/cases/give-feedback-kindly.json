@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -36,6 +36,13 @@
    "reply": "Merci de demander, Claire. Ce qui marche vraiment, c'est le tour de table sur les blocages : grâce à lui, j'ai réglé le souci de facturation avec Karim en dix minutes. Là où je décroche, c'est la première partie, parce que les chiffres sont déjà dans le mail du vendredi. Et si on partait du principe que tout le monde l'a lu, en gardant seulement les questions sur ces chiffres ? On finirait sans doute en 45 minutes, avec le meilleur de la réunion.",
    "lang": "fr",
    "note": "Retour vers sa responsable : un point fort précis, un seul problème vécu, une proposition formulée en question."
+  },
+  {
+   "id": "give-feedback-kindly-006",
+   "situation": "Hired a freelance designer, Amara, for our cafe logo. The first round of 3 concepts came in and none feel right, they're all very corporate. Round two is included and I don't want to crush her.",
+   "reply": "Hi Amara, thanks for these. The lettering on concept 2 is lovely, and I can see the care in the spacing. Seeing all three together made me realise they feel more corporate than we are: we're a tiny neighbourhood cafe with mismatched mugs and a chalkboard menu, so I think the logo should feel hand-made and warm. Could round two push in that direction, maybe starting from the concept 2 lettering? Happy to do a 15-minute call if that's easier.",
+   "lang": "en",
+   "note": "With a paid creative, describe the direction you want, not just 'not quite it', and keep one real thing to build on."
   }
  ]
 }

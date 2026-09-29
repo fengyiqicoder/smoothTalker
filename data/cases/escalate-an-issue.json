@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -36,6 +36,13 @@
    "reply": "Understood, Q4 planning comes first this week. So I can plan: if legal hasn't reviewed the Quantix renewal by Tuesday 13 October, the contract lapses on the 15th and the trading desk loses its daily pricing feed. Can you confirm in writing that we're accepting that risk, or tell me who else can approve legal's time? I want to make sure it's a decision and not a default.",
    "lang": "en",
    "note": "When they say it isn't a priority, don't argue: restate the dated consequence and ask for the risk to be accepted in writing, or for another decision-maker."
+  },
+  {
+   "id": "escalate-an-issue-006",
+   "situation": "I run a small agency rebuilding a client's website. Their marketing lead, Josh, owes us the product copy and photos, 3 weeks late now, and launch is Nov 2. He keeps saying 'this week'. I told Josh yesterday I'd raise the timeline with their COO, Linda. Now the email to her.",
+   "reply": "Subject: Decision needed by Fri 2 Oct: website launch date\n\nHi Linda, the 2 November launch is at risk. We still need the product copy and photos for 40 pages, originally due 8 September. Josh and I have spoken three times since, and he knows I'm raising the timeline with you. Two options: launch on the 2nd with the 15 core pages and add the rest by 20 November, or move launch to Monday 16 November. I recommend the phased launch, and we'd need the core page content by Friday 9 October. Could you let me know which by this Friday?",
+   "lang": "en",
+   "note": "Escalating to a client's sponsor is about the date, not Josh: say he knows, give two options and a recommendation."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -36,6 +36,13 @@
    "reply": "Dear Mr Okafor, I'm Kai Tanaka's mum (10B). Kai has a Saturday detention on 3 October for refusing to take off his hoodie in class on Monday. He has an eczema flare on his arms at the moment and was embarrassed to show it, which he should have explained rather than just refusing. Could the detention be reconsidered, and could he wear a plain long-sleeved top under his blazer until it clears? I can send a note from his GP, and I'm free to talk any afternoon this week. Thank you, Emi Tanaka",
    "lang": "en",
    "note": "Disagreeing with a sanction: give the missing fact, concede Kai's part, and ask for a decision plus a practical fix."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-006",
+   "situation": "I emailed my daughter Mia's Grade 7 teacher, Mr. Hale, that she's spending 3 hours a night on homework. He replied the assignments are designed for 45 minutes and maybe she's distracted at home. I don't want a fight.",
+   "reply": "Thanks for getting back to me so quickly, Mr. Hale, that's useful to know, 45 minutes is a lot less than we're seeing. This week I'll keep a simple log of what Mia works on and for how long, with her phone in the kitchen, and send it to you on Friday. If it's still well over, could we meet for 15 minutes next week to see where she's getting stuck?",
+   "lang": "en",
+   "note": "Don't argue with the implied criticism; turn it into shared evidence and a small next step."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -36,6 +36,13 @@
    "reply": "Thanks for asking, and for reaching out before the wedding. I'm not ready to be friends right now and I don't know when I will be. At Dani's on the 24th I'll say hi and be friendly, and I hope we can both just enjoy the day. I hope you're doing okay.",
    "lang": "en",
    "note": "\"Not now\" is a real answer; the wedding line gives shape to the one meeting they can't avoid."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-006",
+   "situation": "My ex, Callum, and I split up in August after a year. We're on the same product team with standups every day. He messaged asking to 'grab a drink after work Friday and properly talk things through'. I don't want to.",
+   "reply": "Hi Callum, thanks for asking rather than letting it get weird at work. I'm not up for a drink or a talk about us, and I'd rather be clear than vague about it. At work I'm glad to keep things normal and friendly, standups, the launch, all of it. Outside of work I need some distance for a while.",
+   "lang": "en",
+   "note": "An ex you see every day: close the door on the personal part and give the working relationship a clear, friendly shape."
   }
  ]
 }

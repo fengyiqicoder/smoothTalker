@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -36,6 +36,13 @@
    "reply": "Marcus, I didn't mean to upset you. I only said it because I'd want someone to tell me. That's all, I won't mention it again. Still on for Thursday at 6?",
    "lang": "en",
    "note": "When they get defensive, don't repeat the details or add evidence. One line, then straight back to normal."
+  },
+  {
+   "id": "tell-someone-something-awkward-006",
+   "situation": "A teammate who joined six weeks ago, Tom, keeps calling me Nicole. My name is Nicola. I let it go too long and he's now said it in meetings a dozen times. We get on well.",
+   "reply": "Hey Tom, tiny thing: it's Nicola, not Nicole. Really easy mix-up, and I should have said something weeks ago! See you at standup.",
+   "lang": "en",
+   "note": "Private, one line, and share the blame for the delay so he doesn't feel he's been embarrassing himself for weeks. Never mention it again."
   }
  ]
 }

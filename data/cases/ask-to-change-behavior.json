@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Mum, small thing, and definitely not a telling-off: the photos of Leo on your Facebook, we'd rather keep him off public posts for now. We just feel better keeping his pictures within the family. Could you share them in the family WhatsApp instead? I'll keep sending you plenty, I promise.",
    "lang": "en",
    "note": "With a parent, name the one behaviour, give them a better place for the pride, and keep the reason about your comfort, not their judgement."
+  },
+  {
+   "id": "ask-to-change-behavior-006",
+   "situation": "A senior director, Paul, calls me 'kiddo' in meetings, including in front of clients. I'm 31 and the project lead. He's friendly and probably doesn't realise. Want to message him privately on Teams.",
+   "reply": "Hi Paul, a small thing I wanted to raise privately. You've called me 'kiddo' a few times in client meetings, most recently with the Hollis team last Thursday. I know it's meant warmly, but in front of clients it undercuts me as the lead on their project. Would you mind just using Anna? Thanks, I appreciate it.",
+   "lang": "en",
+   "note": "Upward and across a power gap: private, one dated example, the effect on the work rather than on feelings, and an ask that is easy to say yes to."
   }
  ]
 }

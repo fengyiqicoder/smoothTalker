@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "small-talk-001",
@@ -36,6 +36,13 @@
    "reply": "Hi Inês, looks like we're the early ones. I'm new this week, so I'll just ask: what's one thing about this team you wish someone had told you in your first month?",
    "lang": "en",
    "note": "Asks for a view she actually has, which gives a thread to follow; the next question should come from her answer."
+  },
+  {
+   "id": "small-talk-006",
+   "situation": "国庆回老家吃团圆饭，我旁边坐的是表姐的新老公，第一次见，只知道他在深圳做无人机。我怕冷场。",
+   "reply": "姐夫，听我姐说你在深圳做无人机？我一直挺好奇的，你们做的是航拍那种，还是送快递、给庄稼打药那种？",
+   "lang": "zh",
+   "note": "问他有自己看法的事，然后顺着他的回答追问“当初怎么入的这行”；分享一句自己的，再把话头还给他。"
   }
  ]
 }

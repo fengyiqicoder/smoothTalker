@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -36,6 +36,13 @@
    "reply": "刘老师，谢谢您今天抽出一个小时跟我聊。您说的“找一个产品从头到尾拆一遍”对我特别有用，我这周就按《用户体验要素》把飞书文档拆一遍，周日前整理好发您看看。您提到可以介绍陈磊，我先写一段简短的自我介绍发您，您觉得合适再转给他就好。",
    "lang": "zh",
    "note": "Networking follow-up: quote her own advice back, show you're acting on it with a date, and make the introduction easy for her to pass on."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-006",
+   "situation": "At a trade show yesterday I talked for 10 minutes at our booth with Priyanka, head of procurement at Aster Hotels. We sell commercial laundry equipment. She said they're replacing machines at 3 properties next spring and asked about energy use. I have her card.",
+   "reply": "Subject: Energy figures for the Aster laundry refit\n\nHi Priyanka, thanks for stopping by our stand at HospitalityX yesterday. You asked about energy use: our HX-40 washers use about 30 percent less power per load than the 2018 models most hotels are replacing, and the one-page spec with the figures is attached. If it would help your spring planning, I can send an estimate for all three properties by Friday 16 October. Would that be useful?",
+   "lang": "en",
+   "note": "Answer the one question she actually asked, then offer a small next step, not a demo call."
   }
  ]
 }

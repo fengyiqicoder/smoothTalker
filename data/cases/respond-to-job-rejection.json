@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 5,
+ "count": 6,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -35,6 +35,13 @@
    "reply": "That's useful, Omar, thank you for being straight with me. Naming the target and how I'd measure it before anything else is exactly what I'll work on. If the team is hiring again in the spring, I'd like another shot.",
    "lang": "en",
    "note": "Replying to feedback that stings: thank him, repeat the point back so he knows it landed, and don't defend the old answers."
+  },
+  {
+   "id": "respond-to-job-rejection-006",
+   "situation": "想申请明年的直博，给北大环境学院的周教授发邮件自荐，他很快回复说今年名额已经满了，建议我考虑其他老师。我还是很想跟他做土壤修复方向。",
+   "reply": "周老师您好，谢谢您这么快回复，还专门看了我的材料。今年名额的情况我明白了。我对您组里土壤修复的工作一直很感兴趣，明年九月如果您组里有名额，我可以再给您发邮件吗？不方便的话不用回复。祝您工作顺利。",
+   "lang": "zh",
+   "note": "学术场合同样适用：谢具体的事，一句接受，只提一个小请求，并允许对方不回。"
   }
  ]
 }
