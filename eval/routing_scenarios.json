@@ -75,7 +75,7 @@
 {"q": "applying to grad school and need a letter from a professor i took 2 classes with in 2021. she probably doesn't remember me. how do i ask", "expect": ["ask-for-reference-or-recommendation"], "lang": "en"},
 {"q": "mi mejor amigo perdió el trabajo hace un mes y casi no habla con nadie desde entonces. quiero escribirle pero sin que parezca que le tengo lástima, me ayudas?", "expect": ["check-in-on-someone-struggling"], "lang": "es"},
 {"q": "buying a 2019 civic from a private seller on marketplace, he's asking 17.5k and kbb says 15.8k. what do i message him", "expect": ["negotiate-price-or-salary", "ask-for-a-discount-as-a-customer"], "lang": "en"},
-{"q": "我妈天天催我考公务员，说私企不稳定。我在互联网公司干得挺好的，也不想考，怎么跟她沟通？", "expect": ["family-pressure-and-nosy-questions"], "lang": "zh"},
+{"q": "我妈天天催我考公务员，说私企不稳定。我在互联网公司干得挺好的，也不想考，怎么跟她沟通？", "expect": ["family-pressure-and-nosy-questions", "respond-to-unsolicited-advice"], "lang": "zh"},
 {"q": "there's a girl in my climbing class i've been chatting with for a few weeks. how do i see if she wants to grab a drink sometime without making class awkward if she says no", "expect": ["ask-someone-out-and-early-dating"], "lang": "en"},
 {"q": "internet bill is $95/mo now and new signups get the same plan for $50. what do i say in the chat to get them to lower mine", "expect": ["ask-for-a-discount-as-a-customer"], "lang": "en"},
 {"q": "my new director keeps asking me stuff in meetings that i don't have the answer to and i panic and ramble. how do i just say i need to check without sounding clueless", "expect": ["ask-colleague-for-help-or-delegate"], "lang": "en"},
