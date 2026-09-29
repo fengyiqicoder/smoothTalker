@@ -54,9 +54,9 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - [x] Routing scenarios for entries with fewer than 2 (roommate-and-shared-living, thank-you-notes, ask-for-a-raise-or-promotion, ask-to-change-behavior).
 - [x] Replace [placeholder] brackets in examples with concrete details where the bracket is not a genuine fill-in field (first-message-to-stranger, ask-someone-out-and-early-dating, small-talk have the most).
 - [x] Audit decline-request, decline-invitation and set-boundary for overlap; same approach.
-- [ ] Audit give-feedback-kindly, give-feedback-to-colleague and tell-someone-something-awkward for overlap (the routing check has confused them twice).
+- [ ] (claimed 2026-09-29 loop) Audit give-feedback-kindly, give-feedback-to-colleague and tell-someone-something-awkward for overlap (the routing check has confused them twice).
 - [ ] Audit respond-to-criticism, respond-to-passive-aggressive and de-escalate-argument for overlap.
-- [ ] Merge audit: respond-to-unsolicited-advice and family-pressure-and-nosy-questions overlap heavily (routing check #76 has split between them in four runs). Consider folding family pressure into one entry with a family section; frees size budget.
+- [ ] (claimed 2026-09-29 loop) Merge audit: respond-to-unsolicited-advice and family-pressure-and-nosy-questions overlap heavily (routing check #76 has split between them in four runs). Consider folding family pressure into one entry with a family section; frees size budget.
 - [ ] Once 15 KB or more is freed: parent-teacher messages are done; next scope candidates are responding to a condolence message (what to say back), asking someone to return borrowed things, and a group-chat exit.
 
 ### Distribution
