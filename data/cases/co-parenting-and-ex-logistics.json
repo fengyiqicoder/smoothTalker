@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -85,6 +85,13 @@
    "reply": "Hi Omar, about Zara's phone for her birthday on 14 November. I'd like us to use the same basic rules at both houses so she isn't switching between two systems. My proposal: the phone charges outside her bedroom from 9pm, no social media accounts until we both agree, and we both know her passcode. Does that work for you, or is there anything you'd change? It'd be good to settle it by 31 October so we can tell her together. Thanks.",
    "lang": "en",
    "note": "Agreeing rules before the phone arrives is one topic with a deadline; the details can move, the consistency is the point."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-013",
+   "situation": "离婚协议写的是前夫每月5号前转2,000元抚养费给女儿小雨。9月的到今天还没收到，他之前从来没拖过。想发微信提醒一下，不想吵。",
+   "reply": "你好，9月份小雨的抚养费2,000元我这边还没收到，按约定是每月5号前。可能是转账漏了，麻烦你这周五10月2日前转一下，转好跟我说一声就行。谢谢。",
+   "lang": "zh",
+   "note": "第一次没按时付：只讲金额、约定和期限，不猜原因、不威胁；如果之后反复拖欠，保留记录，通过调解或律师处理，而不是在微信上升级。"
   }
  ]
 }

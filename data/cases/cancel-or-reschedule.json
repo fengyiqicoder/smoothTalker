@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -85,6 +85,13 @@
    "reply": "Bad news, I have to cancel Saturday's dinner: a pipe burst under the sink last night and the kitchen's out of action for at least a week. Sorry to pull it with four days to go. Ana and Raf, I know you booked a sitter, so if you can't cancel without paying, tell me the cost and I'll cover it. Could we do Saturday 17 October or Saturday 24 October instead? Reply with a date and I'll lock it in.",
    "lang": "en",
    "note": "When you're the host, you cancel for everyone: cover the cost you caused and give the group two dates to say yes to."
+  },
+  {
+   "id": "cancel-or-reschedule-013",
+   "situation": "I RSVP'd yes for two to my college friend Jess's wedding on Saturday Oct 17, plated dinner at about $140 a head. My dad's surgery has just been scheduled for the 16th and I need to be with him that weekend. The RSVP deadline was two weeks ago.",
+   "reply": "Jess, I can't make the wedding on the 17th, and I'm so sorry to tell you after the RSVP deadline. My dad's surgery has just been booked for the 16th and I need to be with him that weekend. Your caterer numbers are probably locked, so please let me cover our two places; I'm sending $280 tonight. When you're back from the honeymoon, I'd love to take you and Sam out to celebrate, any night you pick, my treat.",
+   "lang": "en",
+   "note": "When the event can't move, the make-up is covering the cost you caused and offering a real celebration later, both in the first message."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -85,6 +85,13 @@
    "reply": "小薇，谢谢你愿意告诉我，听到这个消息我真的很难过。你一直是我们几个里最能扛事的人，但这次你不用一个人扛。化疗第一周的周六我去杭州陪你，买菜做饭跑腿都交给我。这条不用回，周末我再给你发消息。",
    "lang": "zh",
    "note": "不要说“一定会好的”，也不要讲别人的抗癌故事；给一个具体的陪伴安排，并免除她回复的负担。"
+  },
+  {
+   "id": "condolences-and-support-013",
+   "situation": "My friend Kara's younger brother Josh died by suicide last week. I met Josh a few times; at her birthday last year he spent ages teaching me to make proper espresso. I don't know what to say or whether to mention how he died.",
+   "reply": "Kara, I'm so sorry about Josh. I keep thinking of him at your birthday, patiently teaching me to pull an espresso shot and laughing at my first three attempts. I'm dropping dinner at yours on Thursday evening, no need to answer the door. You don't have to reply to this, I'm just here.",
+   "lang": "en",
+   "note": "Say his name and a real memory, don't ask what happened or offer explanations, and if she brings up how he died, follow her lead."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -85,6 +85,13 @@
    "reply": "Hi Tom, following up on my raise to $78,000 from 1 September, confirmed in HR's letter of 21 August. My September payslip still shows $70,000, so I was paid about $667 short before tax. Could you or HR confirm by Friday 2 October that the October payroll will include the new salary and the September back pay? Happy to forward the letter and the payslip if that helps.",
    "lang": "en",
    "note": "Once a raise is agreed, the follow-up is admin: the letter, the gap, one dated ask. If October passes, go to HR directly with both documents."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-013",
+   "situation": "I asked my manager Denise for $82k (I'm on $70k) after taking over our two biggest client accounts. She emailed back today offering $75k from January, saying it's what she could get approved. I want to take it but not drop the rest.",
+   "reply": "Thanks, Denise, I appreciate you taking it to finance and coming back so quickly. I'm glad to accept $75,000 from January. I'd still like to close the gap to $82,000, since that's where this scope sits in the market. Could we agree in writing what you'd need to see from me by the July review to get there?",
+   "lang": "en",
+   "note": "Accept what's on the table, keep your number, and turn the rest into written criteria with a date."
   }
  ]
 }

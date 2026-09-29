@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -84,6 +84,13 @@
    "reply": "Hi Alex, thanks for sending the contract, the deliverables and usage all look good. The one change I need is the payment terms: with new partners I work with 50% on signing and 50% within 30 days of the video going live. If net 90 is fixed on your side, I could instead do the full $2,000 within 30 days of publishing, with no deposit. Which is easier for your finance team?",
    "lang": "en",
    "note": "Payment terms are part of the rate: name your standard, offer one fallback, and don't start filming until the signed contract reflects it."
+  },
+  {
+   "id": "creator-brand-deal-reply-013",
+   "situation": "A candle brand, Hearth & Co, paid me $600 per reel for three reels last autumn. Their contact Marisa wants to rebook for the holidays. I've grown from 40k to 95k followers since then and my reel rate is now $1,100.",
+   "reply": "Hi Marisa, so good to hear from you again, the autumn reels were some of my favourite to make. I'd love to do the holiday campaign. Since we last worked together my audience has grown from 40k to 95k, so my reel rate is now $1,100 with 30 days of organic usage. As a returning partner, I can do three reels for $3,000. Could you share the timeline and whether you'd want any paid usage?",
+   "lang": "en",
+   "note": "A rebooking is the natural moment to reset your rate: give the reason in one number and a small loyalty package, not last year's price."
   }
  ]
 }

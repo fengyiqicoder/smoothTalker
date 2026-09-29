@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -85,6 +85,13 @@
    "reply": "Herr Brandt, ich muss Ihnen einen Fehler melden: Die Domain von Bäckerei Hoffmann ist heute Nacht abgelaufen, weil die hinterlegte Karte ungültig war und ich die Warnmail vom 15. September übersehen habe. Website und Postfächer sind seit etwa 6 Uhr nicht erreichbar. Ich habe die Domain um 8:40 mit der Firmenkarte verlängert; laut Anbieter kann es bis zu 24 Stunden dauern, bis alles wieder läuft, und ich melde mich um 12 Uhr mit dem Stand. Soll ich Frau Hoffmann selbst anrufen, oder möchten Sie das übernehmen? Es tut mir leid. Ab heute stehen alle Ablaufdaten im Teamkalender, mit Erinnerung zwei Wochen vorher.",
    "lang": "de",
    "note": "Wenn die Lösung noch läuft: sagen, was schon getan ist, wann das nächste Update kommt, und beim Kundenkontakt fragen statt eigenmächtig handeln."
+  },
+  {
+   "id": "admit-mistake-at-work-013",
+   "situation": "In standup this morning our lead Anna said Leo's deploy broke staging yesterday. It was actually my config change at 4:10pm; Leo deployed right after me and it surfaced then. Leo looked embarrassed and didn't say anything. I want to message Anna now.",
+   "reply": "Anna, a correction to this morning: staging broke yesterday because of my config change at 4:10pm, not Leo's deploy. His went out right after mine, which is why it looked like his. I reverted my change at 9:20 today and staging has been green since. I'm sorry, and I'm sorry Leo took the heat for it in standup. I'd like to say this in the team channel too so the record is straight, unless you'd rather do it. From now on I'll post in #deploys before any config change to staging.",
+   "lang": "en",
+   "note": "When someone else was blamed for your mistake, correcting the record the same day, publicly and to them, is part of the fix."
   }
  ]
 }

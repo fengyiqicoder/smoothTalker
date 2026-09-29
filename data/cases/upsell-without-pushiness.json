@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -78,6 +78,13 @@
    "reply": "Hi Mrs. Patel, your Corolla's ready: oil and filter changed, $79 as quoted. One thing we noticed: the front brake pads are at 4mm, which is fine for now, but they'll need replacing in the next three to four months depending on how much you drive. It's $180 fitted, and we can do it today or at your next visit, whichever suits you. I just didn't want it to come as a surprise.",
    "lang": "en",
    "note": "Honest timing is the whole point: say what's safe now and when it won't be, and never turn 'soon' into 'today'."
+  },
+  {
+   "id": "upsell-without-pushiness-012",
+   "situation": "我在大理开民宿。客人刘先生订了10月16日到18日两晚标准间，每晚380元，备注说是结婚十周年。那两晚海景房还空着，每晚580元。想入住前在微信上提一下，不想像推销。",
+   "reply": "刘先生您好，我是半山民宿的老周，您10月16日到18日两晚的标准间已经确认好了。看到备注说是结婚十周年，先恭喜二位！那两晚我们的海景房还空着，躺在床上就能看到洱海日出，每晚580元，比标准间多200元。标准间采光好也安静，住着完全舒服。想换的话回我一句就行，不换也没关系，到时候见。",
+   "lang": "zh",
+   "note": "入住前提一次、只提一个选项，理由来自客人自己的备注，差价说清楚，并诚实说明原房间也很好。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -84,6 +84,13 @@
    "reply": "Hi Lena, I hope things are going well at Corvo. I'm in the final round for an engineering manager role at Tallyfield, and they've asked for a reference from someone I managed. Would you be open to being that person? It would be one 15-minute call, likely between 5 and 9 October. If you say yes, the things they care most about are how I ran our 1:1s, the on-call rotation we rebuilt, and how I supported your move to senior. Please feel free to say no; I know it's different being asked by a former manager, and it won't change anything between us.",
    "lang": "en",
    "note": "Asking someone you used to manage: make the out extra explicit, because the old power gap can make a no feel harder to say."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-013",
+   "situation": "I worked alongside Kofi on the same analytics team for three years; he left in June and we still get on well. I've started job hunting and want a LinkedIn recommendation from him, since my manager there is hard to reach.",
+   "reply": "Hi Kofi, hope the new job is going well! I've started looking for my next role and I'm updating my LinkedIn, and a short recommendation from you would carry a lot of weight, since we built the churn dashboard together. Three or four sentences is plenty. If it helps, I can send a draft you can edit or throw out. Any time before 16 October would be perfect, and if the timing's bad, no problem at all.",
+   "lang": "en",
+   "note": "A peer can speak to how you work day to day; offer the draft, but only send it once he says yes."
   }
  ]
 }

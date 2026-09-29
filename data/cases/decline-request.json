@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "decline-request-001",
@@ -85,6 +85,13 @@
    "reply": "Thanks for asking me, Ben, and congrats on the new place. I'm going to say no to the carrying on Saturday. I can come over that evening with pizza and help build the bed and unpack the kitchen, if that's useful.",
    "lang": "en",
    "note": "No reason owed for the no; the evening help is the smaller yes, and it's only there because you actually want to give it."
+  },
+  {
+   "id": "decline-request-013",
+   "situation": "表姨让我帮她儿子在我们公司内推，还想让我跟HR打个招呼“关照一下”。表弟专业不太对口，我不想去打招呼，但也不想让表姨觉得我不帮忙。",
+   "reply": "表姨，我知道您是为表弟着急。跟HR打招呼这件事我不能做，公司招人我一向不插手，对谁都一样。表弟要是想试试，我把官网上正在招的岗位链接发给他，他自己投简历就行，投之前我可以帮他看一眼简历。",
+   "lang": "zh",
+   "note": "拒绝的是“打招呼”，用一条对谁都一样的规矩；发链接和看简历是真能给的小帮助，不想做就别提。"
   }
  ]
 }

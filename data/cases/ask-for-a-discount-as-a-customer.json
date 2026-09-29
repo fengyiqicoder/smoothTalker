@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -85,6 +85,13 @@
    "reply": "王老师您好，试听之后两个孩子都很喜欢您，这学期想给哥哥和妹妹一起报名，每人16节，原价一共6,400元，我可以开课前一次性交清。两人同报的话，能不能按每节180元算，也就是5,760元？可以的话我这周六就来签。如果不方便也完全理解，我们就按原价上。",
    "lang": "zh",
    "note": "没有别家报价时，用“两人同报加一次付清”做筹码，报一个具体数字，并给老师留面子的退路。"
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-013",
+   "situation": "J'ai acheté un manteau en laine chez Maison Verne il y a six jours, 240 €. Il est maintenant affiché à 180 € sur leur site. Je ne sais pas s'ils font des ajustements de prix, je voudrais leur écrire.",
+   "reply": "Bonjour, j'ai acheté le manteau Alma en laine, taille M, le 23 septembre pour 240 € (commande 50412), et je l'adore. Je vois qu'il est aujourd'hui affiché à 180 € sur votre site. Pourriez-vous me rembourser la différence de 60 € sur ma carte ? Si ce n'est pas possible, un avoir du même montant me conviendrait très bien. Et si vous ne pratiquez pas d'ajustement de prix, je comprends tout à fait. Merci d'avance, Claire Morel",
+   "lang": "fr",
+   "note": "Après l'achat, le fait d'ancrage est leur propre prix affiché : demander la différence, proposer l'avoir en repli, sans menacer de retourner l'article."
   }
  ]
 }

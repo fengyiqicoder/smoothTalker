@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -78,6 +78,13 @@
    "reply": "Gifts: Having you with us on the 17th is truly all we want, so please don't feel you need to bring anything. If you'd still like to mark the day, we're saving for a week in Lisbon next spring, and there's a small honeymoon fund linked below. Either way, we can't wait to celebrate with you.",
    "lang": "en",
    "note": "Website, not the invitation card: gifts framed as optional, one preference, placed where guests will actually look."
+  },
+  {
+   "id": "wedding-and-event-host-messages-012",
+   "situation": "My daughter Isla turns 6 and we've invited her whole class of 24 to a party at a soft-play centre on Saturday Oct 17. The centre charges per child and we're at our limit. Two parents have asked if they can bring younger siblings. I want to post once in the class WhatsApp group.",
+   "reply": "Hi everyone, thank you for all the lovely replies for Isla's party on Saturday 17 October! A quick note, since a couple of people have asked: the soft-play centre charges per child and we're at our limit, so we can only include children from the class this time, not brothers and sisters. Parents are very welcome to stay for a coffee, or drop off and pick up at 4pm. Isla can't wait to see everyone.",
+   "lang": "en",
+   "note": "Answer the whole group once, as a rule for everyone, so the two parents who asked don't feel singled out."
   }
  ]
 }

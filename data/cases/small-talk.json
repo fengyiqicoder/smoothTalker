@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "small-talk-001",
@@ -78,6 +78,13 @@
    "reply": "Okay, I have to ask about Kalymnos. Was it the climbing that got you there, or did the Greek come first? I did a month of Duolingo Greek once and can mostly say 'the cat drinks milk'.",
    "lang": "en",
    "note": "Swap generic questions for something they chose to show you, share one small thing back, and end on a question they'll enjoy answering."
+  },
+  {
+   "id": "small-talk-012",
+   "situation": "At a friend's housewarming on Saturday, someone will definitely ask 'so what do you do?' I was laid off from my bank job in August and haven't found anything yet. I don't want to lie or kill the conversation.",
+   "reply": "Right now I'm between jobs. I was at Halden Bank for six years until August, and the upside is I've finally had time to learn to bake bread. How do you know Nadia?",
+   "lang": "en",
+   "note": "One honest sentence, one small thing you'd happily talk about, then hand the thread back to them."
   }
  ]
 }

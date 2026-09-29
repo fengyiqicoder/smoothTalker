@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -85,6 +85,13 @@
    "reply": "I'm always going to be here for our Thursday calls, that's not changing. I also think you deserve more support than me and a glass of wine. If you ever want a hand finding someone to talk to, I'll help you look, or sit with you while you book it. No judgment, just an offer, and I won't bring it up again unless you do.",
    "lang": "en",
    "note": "Professional help gets one warm line, as an option, never a verdict. If she ever talks about not wanting to be here, ask her directly whether she's safe."
+  },
+  {
+   "id": "check-in-on-someone-struggling-013",
+   "situation": "My friend Emma has been caring for her dad, who has dementia, since the spring, on top of her full-time job. Whenever I ask how she is, she only talks about him. I live ten minutes away.",
+   "reply": "Emma, I've been thinking about you, not just your dad. You're carrying so much, and no need to reply properly to this. I'm free Saturday afternoon and could sit with him from 2 to 5 so you can do whatever you like, even if that's sleeping. Just reply 'yes' or 'not this week', both are completely fine.",
+   "lang": "en",
+   "note": "Caregivers deflect to the patient; name her, and offer help that frees her time rather than more talk."
   }
  ]
 }

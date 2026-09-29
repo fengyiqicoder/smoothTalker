@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -84,6 +84,13 @@
    "reply": "跟你聊天挺开心的，想约你当面喝杯咖啡。先说一下我的情况：我有个六岁的女儿，隔周的周末她在她妈妈那边，所以我比较方便的是10月10日周六下午，或者工作日的晚上。如果有孩子这一点让你觉得不合适，直接说就好，完全理解。",
    "lang": "zh",
    "note": "有孩子、时间受限的情况在见面前一句话说清，比见面后再说更尊重对方，也让对方更容易拒绝。"
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-013",
+   "situation": "Second date with Priya is set for this Thursday, Oct 1, at a Thai place she picked. My boss just sent me to Denver Wednesday to Friday for a client issue. I don't want her to think I'm losing interest.",
+   "reply": "Bad news: work is sending me to Denver Wednesday to Friday, so I have to cancel Thursday, and I'm genuinely annoyed about it. I still really want to try your Thai place. Could we do Saturday Oct 3 or Tuesday Oct 6 instead? If neither works, send me a night that does.",
+   "lang": "en",
+   "note": "Cancel and rebook in the same message: a concrete new date is what shows you're still keen."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -85,6 +85,13 @@
    "reply": "Thanks, I'm going to stop you there. I'm not interested in a survey, and please take this number off your call list. Bye now.",
    "lang": "en",
    "note": "A clean close with no hook: no reason to argue with, one request to be removed, then say bye and hang up without waiting for him to finish."
+  },
+  {
+   "id": "end-conversation-gracefully-013",
+   "situation": "I run a small bike repair shop. A regular, Gerald, has been chatting at the counter for 20 minutes about his cycling trip while three customers wait behind him. He's lovely and spends a lot here.",
+   "reply": "Gerald, I want the rest of the Alps story, but I've got a queue building and these folks have been patient. Your chain will be ready Thursday after 2. Come by then and tell me how the Galibier went.",
+   "lang": "en",
+   "note": "In a service setting, name the queue as the reason, give him the next concrete touchpoint, and turn to the next customer as you finish the sentence."
   }
  ]
 }

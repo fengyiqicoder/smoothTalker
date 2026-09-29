@@ -14,8 +14,12 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - Quality pass: every sixth loop run (count the "loop run" lines in the Log), add nothing. Instead pick 5 existing entries at random, compare each with the quality bar (examples specific and short, structure followed in order, no padding, recovery section useful) and tighten them. Log what changed.
 - Routing: after adding an entry that overlaps an existing one, or changing titles, summaries or triggers, run the model routing check in `eval/README.md` and fix any confusion it finds (split the entries' scope in their summaries and triggers, and update `06-situation-router`). For every new entry, add 2 requests to `eval/routing_scenarios.json`, written the way a user would type them without reusing the entry's triggers; if the new entry takes over a situation an existing scenario covers, add its id as an acceptable second answer there. If a new entry overlaps an existing one, make each summary say where its scope ends and name the other entry.
 
-## Goal: 1000 worked cases (set 2026-09-29)
+## Goal: 1000 worked cases (set 2026-09-29; reached 2026-09-29)
 The owner wants the library to reach 1000 cases. Cases are concrete situations with ready-to-send replies in `cases/<playbook-id>.jsonl` (format and quality bar in `cases/README.md`); they live outside all.json, so they do not touch the size budget. Every run adds 30 to 60 new cases, spread across playbooks with the fewest cases first, about a quarter not in English. Quality over count: each new case must teach an angle the playbook's existing cases do not. Playbooks still grow slowly under the size budget; a new situation that has no playbook gets a playbook first, then cases.
+
+After 1000: keep adding 20 to 30 cases a run to the thinnest playbooks, and spend the rest of each run on the case audit below.
+
+- [ ] Case audit: per playbook, read all cases side by side; merge or rewrite any two that teach the same angle, check dates against weekdays, and soften any law or policy stated as a general fact. Log which playbooks are done here.
 
 ## Queue (top first)
 
@@ -100,3 +104,4 @@ The owner wants the library to reach 1000 cases. Cases are concrete situations w
 - 2026-09-29: loop run. 60 new cases (15 zh, 6 other languages), 843 in total; every playbook now has 10 to 11. Checked by hand: a customer asking for cashback in exchange for a review (declined as the platform bans it, honest review invited).
 - 2026-09-29 20:40: 60 new worked cases, one per playbook with the fewest (903 total, every playbook now has 11 to 12); 21 in Chinese, 4 in other languages; hand-checked the safety, health, law and money cases and made the licensed-character wording in reply-to-customer-inquiry-dm-011 accurate.
 - 2026-09-29 21:45: 60 new worked cases, one per playbook with the fewest (963 total, every playbook now has 11 to 12); 21 in Chinese, 5 in other languages; hand-checked the harassment, allergy, lone-working, overbooking and unpaid-raise cases; all fine as written.
+- 2026-09-29 22:50: 37 new worked cases (1000 total, goal reached; every playbook has 11 to 13); 12 in Chinese, 3 in other languages; hand-checked the suicide condolence, child-support, colleague-death and deposit cases; suspicious-or-scam-message, thank-you-notes and write-a-recommendation-or-reference got no case this run because a permission check stopped the agent reading them, so they stay at 11. Added the post-1000 plan and a case-audit item.

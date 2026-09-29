@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -85,6 +85,13 @@
    "reply": "Mel, I don't want to do this in the car with the kids right behind us. Bringing up your mum's visit was a cheap shot, and I'm sorry. I can hear that three weeks feels like a lot to you. Can we park it until tonight, once the kids are in bed at your parents'? I'm on your side in this, even if it hasn't sounded like it.",
    "lang": "en",
    "note": "When you can't leave the room, pause the topic instead: agree a time, then talk about anything else until then."
+  },
+  {
+   "id": "de-escalate-argument-013",
+   "situation": "My girlfriend Ines is in Lisbon and I'm in Toronto. We're fighting on WhatsApp because I missed our video call again, and I snapped 'I'm not your 24/7 support line'. It's almost midnight for her, she's upset, and I have a work meeting in ten minutes.",
+   "reply": "Ines, the 'support line' comment was unkind and I'm sorry. I know missing another call made you feel like you come last. It's nearly midnight for you and I've got a meeting in ten minutes, so can I call you tomorrow at 7pm your time, 2pm mine, and we talk properly? I love you, and that's not in question.",
+   "lang": "en",
+   "note": "Across time zones, give the return time in both zones so the pause reads as a plan, not as you rushing off to a meeting."
   }
  ]
 }

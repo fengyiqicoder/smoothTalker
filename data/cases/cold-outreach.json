@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -84,6 +84,13 @@
    "reply": "Subject: Your reef temperature logger paper\n\nHi Professor Nakamura,\nYour 2025 paper on low-cost loggers for reef monitoring is the reason I added a marine science minor. I'm a second-year engineering student, and last spring I built and calibrated a similar logger for my embedded systems class, accurate to 0.1°C in our tank tests. Would you consider taking an undergraduate volunteer in your lab this summer? If there's no room, a quick no is genuinely helpful.\nBest,\nAisha Rahman",
    "lang": "en",
    "note": "Student to professor: prove you read their work, show one thing you've built, and ask a single yes/no question."
+  },
+  {
+   "id": "cold-outreach-013",
+   "situation": "我是一家做宠物医院管理系统的创业公司的CTO，想招一位后端负责人。GitHub上有个开发者“林工”维护一个开源排班库，我们自己一直在用，他上个月刚修了一个跨时区的bug。想在他主页留的邮箱给他发封信。",
+   "reply": "标题：你的排班库，和一个后端负责人的位置\n\n林工你好，我们团队一直在用你维护的排班库，上个月你修的跨时区bug正好解决了我们线上的一个问题。我们做宠物医院管理系统，现在全国有1,200家诊所在用，正在找一位后端负责人，年薪40万到55万。想问一下，你最近对新机会开放吗？不考虑的话，回一句“不用”也很有帮助。",
+   "lang": "zh",
+   "note": "招人也是冷启动私信：先证明你真用过他的东西，给一个数字和薪资范围，只问一个是或否的问题。"
   }
  ]
 }

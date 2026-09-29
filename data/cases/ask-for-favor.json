@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -85,6 +85,13 @@
    "reply": "Hi team, a genuinely optional ask: I need two people to help me run our stand at the Leeds Home Show on Saturday 17 October, 9am to 3pm. It's mostly chatting to visitors and handing out brochures, on your feet most of the day, with travel paid. Anyone who does it gets a full day off in lieu, on a date of their choosing. If nobody fancies it, that's completely fine, it won't come up at review time and I'll book temp staff instead. Message me privately by Friday 9 October if you're up for it.",
    "lang": "en",
    "note": "When you have power over the person, the out has to be explicit, and private replies mean nobody feels watched saying no."
+  },
+  {
+   "id": "ask-for-favor-013",
+   "situation": "I'm an ICU nurse thinking about moving into UX research. I found Jordan Lee on LinkedIn, a UX researcher at a health-tech company who used to be a nurse too. We've never met. I want to ask for a short call.",
+   "reply": "Hi Jordan, I'm an ICU nurse in Leeds looking at a move into UX research, and your path from nursing into research at Carewell is the closest match to mine I've found. Would you be open to a 20-minute video call sometime in the next few weeks? I have three specific questions, mostly about how you landed your first research role, and I'll fit around your schedule. If you're too busy, no problem at all, and thanks for reading this either way.",
+   "lang": "en",
+   "note": "A stranger owes you nothing: say why them, cap the time, and make ignoring the message painless."
   }
  ]
 }

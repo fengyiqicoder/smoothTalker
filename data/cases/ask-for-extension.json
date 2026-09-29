@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -85,6 +85,13 @@
    "reply": "Hi Ruth, I'm writing now rather than in November: my mother has been seriously ill since the summer and I've lost about two months of writing time. I'd like to ask to move the manuscript from 1 December to 15 February. If the schedule needs something sooner, I can send the first eight chapters, about two-thirds of the book, by 1 December so editing can start. Would either of those work?",
    "lang": "en",
    "note": "Big deadline, months out: one line of reason with no medical detail, a firm new date, and a partial delivery as the trade."
+  },
+  {
+   "id": "ask-for-extension-013",
+   "situation": "去年找大学同学阿强借了2万块，说好今年10月底前还清。我9月换了工作，新公司第一个月工资11月底才发，想跟他说延到12月15日还，又怕伤感情。",
+   "reply": "阿强，提前跟你说件事：借你的2万，原本说好10月底还清，我想跟你商量延到12月15日。我9月换了工作，新公司第一笔工资11月底才发，10月底手上凑不齐全部。10月31日前我先转你5000，剩下的15000在12月15日前一次还清。如果你这段时间正好要用钱，直接跟我说，我再想别的办法。",
+   "lang": "zh",
+   "note": "A partial payment on the original date shows good faith; the offer to find another way keeps his interests first."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -78,6 +78,13 @@
    "reply": "Hi Chris,\nYour order #3308 has reached Canada but is being held at customs, and they're asking for $38 CAD in import duties before releasing it. That's on me: the checkout should have warned you and it didn't. If you pay through the courier's link in their email and send me the receipt, I'll refund the $38 the same day. If you'd rather not, reply 'cancel' and I'll refund the whole order today. I'll check the tracking on Thursday and email you then either way.\nLaura",
    "lang": "en",
    "note": "Proactive, owns the missing warning, and the make-good covers the surprise fee; refund stays the easiest option to pick."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-012",
+   "situation": "I make engraved name necklaces on my own. I sprained my wrist on Saturday and can't engrave until Monday Oct 12. Customer Olivia ordered #1187 ($68) for her mum's birthday on Friday Oct 9, and I promised dispatch on Oct 1.",
+   "reply": "Hi Olivia, your order #1187 (the engraved name necklace) won't reach you before your mum's birthday on Friday 9 October, and I'm sorry. I sprained my wrist on Saturday and can't engrave until Monday 12 October; it would ship that day by express and arrive by Wednesday the 14th. Three options: wait, and I'll email you a printable card with a photo of her necklace today so you have something to give her on the 9th; swap for the unengraved birthstone pendant, which ships tomorrow and arrives in time; or a full refund of the $68 today. If I don't hear back by Thursday, I'll keep your order for the 12th. I'll email you tracking the day it ships.\nNina",
+   "lang": "en",
+   "note": "When the deadline can't be met, say so first, give the personal reason in one plain line, and build the options around her real date."
   }
  ]
 }

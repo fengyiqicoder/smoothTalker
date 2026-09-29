@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -85,6 +85,13 @@
    "reply": "刘先生您好，我是阿宁，谢谢您报名手机摄影课！课程已经开通，用付款的手机号登录就能看8节录播，建议先看前两节，每节20分钟左右。第一次直播答疑是10月11日周日晚上8点。直播前麻烦您做两件事：通过助理小周的好友申请，她今天会拉您进学员群；10月9日周五前往群里发一张您自己拍的照片，直播时我会挑来点评。有问题直接回复这条消息，工作日一般两小时内回复。",
    "lang": "zh",
    "note": "自助类产品先告诉对方现在就能做什么，再给下一个带日期的节点，要的东西一次列清。"
+  },
+  {
+   "id": "customer-onboarding-and-welcome-013",
+   "situation": "I'm a self-employed accountant. My new client Mr. Hughes, 81, has hired me for his tax return and doesn't use email, so I'm posting him a welcome letter. I need his pension statements and bank interest letters by Friday Oct 30.",
+   "reply": "Dear Mr. Hughes, thank you for asking me to prepare your tax return, and for the tea when we met last week. Here is what happens next: once I have your papers, I'll prepare the return, post you a copy by mid-November, and go through it with you by phone before anything is submitted. What I need from you by Friday 30 October: your pension statements for the year and any letters from your bank about interest paid, in the enclosed prepaid envelope, or I can collect them on Wednesday 28 October if that's easier. If you have a question at any time, ring the office number at the top of this letter, weekdays 9 to 5, and I'll call you back the same day. Kind regards, Sarah Lin",
+   "lang": "en",
+   "note": "Offline client: a posted letter, a prepaid envelope and a collection option remove every step he'd need help with."
   }
  ]
 }

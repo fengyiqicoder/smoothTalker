@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "apologize-001",
@@ -85,6 +85,13 @@
    "reply": "Jess, I've wanted to say this for a long time. When your dad died three years ago, I didn't call and I didn't come to the funeral, and I'm sorry. You got me through four years of college, and when it was your turn to need someone, I disappeared. You don't owe me a reply. I'm here now, and if you ever want to talk about him, or about anything, I'll listen.",
    "lang": "en",
    "note": "A years-late apology still needs the specific thing and its impact; don't ask for forgiveness or a reply, just leave the door open."
+  },
+  {
+   "id": "apologize-013",
+   "situation": "取引先の山本部長に送った9月分の請求書で、正しくは42万円のところを48万円と書いてしまった。先方の経理の方から指摘があった。メールでお詫びと訂正をしたい。",
+   "reply": "山本部長\nいつもお世話になっております。9月分の請求書で、正しくは42万円のところを48万円と誤って記載しておりました。大変申し訳ございません。経理の皆様にも確認のお手間をおかけしてしまいました。訂正した請求書を本日中にお送りいたします。今後は発行前に担当者二名で金額を照合いたします。",
+   "lang": "ja",
+   "note": "取引先へのお詫びも四つの要素で十分：具体的な誤り、言い訳なしの謝罪、相手の手間、再発防止策。経緯の説明は求められたら答える。"
   }
  ]
 }

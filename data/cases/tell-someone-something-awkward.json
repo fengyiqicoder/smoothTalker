@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -78,6 +78,13 @@
    "reply": "Sabine, quick one before you go up: the size sticker from your blazer is still on the back of the collar. Want me to get it? Happens with every new jacket.",
    "lang": "en",
    "note": "Client or not, a five-second fix gets told immediately and quietly; offering to remove it saves her twisting round in the wings."
+  },
+  {
+   "id": "tell-someone-something-awkward-012",
+   "situation": "My mother-in-law, Linda, just posted a photo of her new credit card in the family WhatsApp group (about 30 people) to say it finally arrived. You can see the full card number and the expiry date.",
+   "reply": "Linda, quick heads up: the photo of your new card in the family group shows the full number and the expiry date. Worth deleting it for everyone now: press and hold the photo and tap 'Delete for everyone'. Easy thing to miss on a phone. Happy to call and do it with you if that's easier.",
+   "lang": "en",
+   "note": "Private message, straight away, with the fix included. If it was up for a while, suggesting she call her bank can wait for a second message once the photo is gone."
   }
  ]
 }

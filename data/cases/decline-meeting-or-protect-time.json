@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -85,6 +85,13 @@
    "reply": "Hallo Herr Wagner, danke für die Einladung nach Stuttgart. Das Quartalsgespräch würde ich diesmal gern per Video führen, gleicher Tag, Donnerstag, 15. Oktober, um 10 Uhr. Wenn Sie mir Ihre Preisvorschläge für 2027 bis Dienstag, 13. Oktober schicken, komme ich mit konkreten Rückmeldungen statt nur mit Fragen. Für einen Besuch vor Ort nehme ich mir gern Zeit, wenn wir im Frühjahr die neue Linie abnehmen. Passt Ihnen das?",
    "lang": "de",
    "note": "Das Format ablehnen, nicht die Beziehung: gleicher Termin per Video, Unterlagen vorab und ein echter Anlass für den nächsten Besuch."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-013",
+   "situation": "前同事阿凯发微信想约我这周吃饭“聊聊”，我猜是想让我帮他内推我们公司的数据分析岗。我这周每天加班，也不想为这事专门吃顿饭。",
+   "reply": "阿凯，这周我天天加班，饭先不约了。如果是想了解我们公司的数据分析岗，你把简历发我，我对着岗位要求帮你看看，合不合适都跟你说实话，合适的话我帮你走内推。有具体问题也可以直接微信问，我晚上统一回你。你看这样行吗？",
+   "lang": "zh",
+   "note": "Name the likely need and meet it in writing; a guess phrased as 'if' lets him correct you without awkwardness."
   }
  ]
 }

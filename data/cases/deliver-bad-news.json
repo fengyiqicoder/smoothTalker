@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -85,6 +85,13 @@
    "reply": "爸妈，有件事想早点跟你们说，免得你们白准备：今年春节我们不回去了。主要是我三月份论文答辩，那段时间走不开，机票也比平时贵了一倍多。我知道你们一直盼着过年一家人团聚，这次让你们失望了。我们打算五一放假回去住两个星期，好好陪你们。这周六晚上你们那边九点，视频聊聊好吗？",
    "lang": "zh",
    "note": "家人会提前准备的事，坏消息越早说越好；文字先说清楚，再约视频，给对方消化的时间。"
+  },
+  {
+   "id": "deliver-bad-news-013",
+   "situation": "I'm an account manager. Our biggest client, Norland Freight, worth $180k a year, just told me they won't renew in January because a competitor quoted them lower. I need to tell my VP, Dana, before Friday's forecast call.",
+   "reply": "Hi Dana, I've got bad news and wanted you to hear it from me before Friday's forecast call: Norland Freight told me this morning they won't renew in January. The reason is price; Carrow quoted them about 30% less. That takes $180k out of next year's number, and I know it lands hard on the forecast. I've asked their COO for a call next week to see whether anything short of matching price would change it, and I'll have a revised forecast to you by Thursday noon. Can we take 15 minutes tomorrow to talk it through?",
+   "lang": "en",
+   "note": "Upward bad news: the number, the reason and your next move in one message, before the meeting where it would surface."
   }
  ]
 }
