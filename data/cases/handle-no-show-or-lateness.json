@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -71,6 +71,13 @@
    "reply": "Nadia, I left you waiting at Central for 40 minutes on Sunday with two suitcases, and I'm really sorry. I overslept, which is no excuse. You gave up your time and paid for a taxi you shouldn't have needed, so I've just sent you the €35. Can I take you to dinner on Friday, my treat, and hear about the trip properly?",
    "lang": "en",
    "note": "When you're the no-show: name it with the specifics, own it without a 'but', cover their real cost, and put a dated fix on the table so she doesn't do the rescheduling."
+  },
+  {
+   "id": "handle-no-show-or-lateness-011",
+   "situation": "I told my friend Sam that three of our last four plans got cancelled on the day and suggested weekday coffees near her office instead. She replied 'wow, didn't realise you were keeping a tally.' I don't want a fight.",
+   "reply": "I'm not keeping score to punish you, promise. I'd rather say it than quietly stop inviting you, because I like seeing you. Let's try the coffee idea: Wednesday at 12:30 near yours? If that doesn't suit, tell me what would.",
+   "lang": "en",
+   "note": "When they get defensive about the pattern, restate the intent once, don't argue the count, and move straight to a concrete plan."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -71,6 +71,13 @@
    "reply": "Hi Mr. Okafor, it's Dan from Warmway Heating. Your boiler's yearly service comes up around Oct 14, and it's worth doing before the first cold week, since that's when an 11-year-old boiler is most likely to play up. Same $95 as last year. I have Thursday Oct 8 at 9am or Tuesday Oct 13 at 2pm; if you'd rather leave it for now, no problem at all.",
    "lang": "en",
    "note": "A repeat-service nudge works on a real reason and real dates, not a discount, and the easy no stays in."
+  },
+  {
+   "id": "upsell-without-pushiness-011",
+   "situation": "I own a small garage. Mrs. Patel brought her 2019 Corolla in for an oil change. Her front brake pads are at 4mm, so they'll need doing in the next few months, not today. Fitted pads are $180. I want to mention it without scaring her into it.",
+   "reply": "Hi Mrs. Patel, your Corolla's ready: oil and filter changed, $79 as quoted. One thing we noticed: the front brake pads are at 4mm, which is fine for now, but they'll need replacing in the next three to four months depending on how much you drive. It's $180 fitted, and we can do it today or at your next visit, whichever suits you. I just didn't want it to come as a surprise.",
+   "lang": "en",
+   "note": "Honest timing is the whole point: say what's safe now and when it won't be, and never turn 'soon' into 'today'."
   }
  ]
 }

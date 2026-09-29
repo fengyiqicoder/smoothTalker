@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -78,6 +78,13 @@
    "reply": "Hi, I'd like to buy the Hayes sofa today and I'm happy to take the floor model as it is. It has a scuff on the back left leg and a pulled thread on one cushion, so would you do $1,550 for it? If yes, I'll pay now and book delivery for this Saturday.",
    "lang": "en",
    "note": "The wear is the anchoring fact, stated plainly without running the sofa down. If the price is firm, ask for free delivery before paying."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-012",
+   "situation": "想给两个孩子（7岁和9岁）在小区附近的琴行报钢琴课，一对一每节200元，一学期16节。我打算两个孩子一起报、一次性交清，想问问王老师能不能便宜点。",
+   "reply": "王老师您好，试听之后两个孩子都很喜欢您，这学期想给哥哥和妹妹一起报名，每人16节，原价一共6,400元，我可以开课前一次性交清。两人同报的话，能不能按每节180元算，也就是5,760元？可以的话我这周六就来签。如果不方便也完全理解，我们就按原价上。",
+   "lang": "zh",
+   "note": "没有别家报价时，用“两人同报加一次付清”做筹码，报一个具体数字，并给老师留面子的退路。"
   }
  ]
 }

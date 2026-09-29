@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -70,6 +70,13 @@
    "reply": "Thanks, Kara, and thank you for two genuinely useful meetings; your question about repeat purchase rates changed how we're tracking the pilot. Understood on timing. Would it be alright if I sent you a short update in January, once we have three months of paying customers? If not, no need to reply. Good luck with the new fund.",
    "lang": "en",
    "note": "An investor pass is usually a timing no: ask for one permission to update, tied to a date and a milestone, and skip the feedback ask."
+  },
+  {
+   "id": "respond-to-job-rejection-011",
+   "situation": "My friend Nadia referred me for an analyst role at her company, Brightline. I got rejected after the second round yesterday. I want to thank her without making her feel bad or like she has to find out why.",
+   "reply": "Hey Nadia, heard back from Brightline, it's a no after round two. Thank you for putting my name in, it got me a real interview and I liked the team a lot. Please don't feel you need to dig into it or put in a word, you've already done plenty. Drinks on me Friday?",
+   "lang": "en",
+   "note": "The referrer is the relationship to protect: thank her, release her from chasing it, and take any feedback ask to the hiring manager instead."
   }
  ]
 }

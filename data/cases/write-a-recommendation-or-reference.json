@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -71,6 +71,13 @@
    "reply": "Hi Laura,\nThanks for getting in touch about Tariq. So you can weigh this properly: Tariq and I worked at Northlight Agency from 2023 to 2025 on neighbouring teams, me on product and him on brand, and we've since become close friends. I saw his work most closely on the Halden Bank rebrand, where he led three designers and delivered the full identity in ten weeks, a month ahead of plan. He was also the person juniors went to for crits; two designers he mentored were promoted within a year. I wasn't on his team, so I can't speak to his day-to-day management. For a design lead role I recommend him strongly, and I'm glad to talk: 07700 900318 or m.shaw@example.com.\nBest,\nMegan Shaw",
    "lang": "en",
    "note": "Disclosing the friendship and naming what you did not see makes the specific evidence more credible, not less."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-011",
+   "situation": "My neighbour's daughter, Ella Moore (16), has babysat our two kids about twice a month for a year. She's applying for her first job at Beanstalk Café and the manager, Ms Carter, wants a personal reference by email. She's never had a job before.",
+   "reply": "Dear Ms Carter,\nI'm writing in support of Ella Moore's application. Ella has babysat our two children, aged 5 and 8, about twice a month for the past year, so I know her as a neighbour and as someone we trust with our kids. She has never once been late, and when our son cut his hand on a glass last spring, she cleaned and bandaged it calmly and called us straight away with a clear update. I'd expect her to be just as reliable behind a café counter, and I recommend her warmly. I'm happy to talk on 07700 900312.\nKind regards,\nDaniel Price",
+   "lang": "en",
+   "note": "With no work history, a personal reference does what a CV can't: a pattern of reliability and one moment under pressure."
   }
  ]
 }

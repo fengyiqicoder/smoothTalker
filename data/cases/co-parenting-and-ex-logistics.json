@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -78,6 +78,13 @@
    "reply": "Hi Tom, the last three Friday pickups were between 6:10 and 6:40 instead of 5:30. Ben waits by the window with his bag, so not knowing the time is hard on him. Can we either stick to 5:30 or move pickup to 6:30, starting this Friday, Oct 2? Either works for me as long as it's consistent. Can you let me know by Thursday? Thanks.",
    "lang": "en",
    "note": "Times and dates instead of 'always'; offering a later fixed time makes the fix easy to say yes to, and the message reads fine on the record."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-012",
+   "situation": "Our daughter Zara turns 12 on Nov 14, and my ex Omar and I agreed she'll get her first phone for her birthday. She splits the week between our homes. I want us to agree the same basic rules at both houses before she gets it.",
+   "reply": "Hi Omar, about Zara's phone for her birthday on 14 November. I'd like us to use the same basic rules at both houses so she isn't switching between two systems. My proposal: the phone charges outside her bedroom from 9pm, no social media accounts until we both agree, and we both know her passcode. Does that work for you, or is there anything you'd change? It'd be good to settle it by 31 October so we can tell her together. Thanks.",
+   "lang": "en",
+   "note": "Agreeing rules before the phone arrives is one topic with a deadline; the details can move, the consistency is the point."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -71,6 +71,13 @@
    "reply": "As we covered in this morning's meeting: from Monday Nov 2, Hugo and Rina move to the Growth team under Carmen, and the marketing dashboards go with them. Growth needs analysts inside the team, and I agreed with the move. For the other seven of you, your role, pay and manager stay the same; what changes is that marketing requests will go to Growth instead of our queue. Hugo and Rina will run handover sessions the weeks of Oct 12 and Oct 19, and I'll share the schedule by Friday. Questions here or in a 1:1, and I'm booking 20 minutes with each of you next week anyway.",
    "lang": "en",
    "note": "The people moving heard it first; the post leads with the news, owns the decision and spends most of its words on what changes for those who stay."
+  },
+  {
+   "id": "team-announcements-as-a-manager-011",
+   "situation": "My report Daniel is going on medical leave from Monday Oct 5 for about three months. He's asked me to say only that it's a health matter and that he'd rather not be asked about it. I've already told Aisha and Ben, who are covering his work. Posting in our team Slack of 7.",
+   "reply": "Some news: Daniel is taking medical leave from Monday 5 October, for about three months. He's asked me to share only that it's a health matter and that he'd rather not be asked about it, so please respect that; a kind message with no questions is welcome. Aisha will cover the Harwick and Lume accounts and Ben takes the Friday reporting, and I'll share the handover notes by Thursday. If this changes your workload in a way that doesn't work, tell me this week and we'll sort it.",
+   "lang": "en",
+   "note": "Share only what he agreed to, say plainly what not to do, and spend the rest of the post on who covers what."
   }
  ]
 }

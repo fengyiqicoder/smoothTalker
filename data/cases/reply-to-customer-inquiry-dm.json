@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -71,6 +71,13 @@
    "reply": "Hi! The rust one is back on Oct 16, so it won't make the 10th, sorry. The terracotta is in stock, a shade lighter, and orders by Monday Oct 5 arrive in time. Want a photo of the two side by side?",
    "lang": "en",
    "note": "Answer first even when it's a no, then the nearest option that meets their real deadline, and one easy question."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-011",
+   "situation": "I sell custom embroidered baby blankets on Instagram for $65. A customer, Tara, DMed asking if I can do one with Bluey on it and her nephew's name, Theo. I don't stitch licensed characters.",
+   "reply": "Hi Tara! I can't stitch Bluey, since it's a licensed character I don't have permission to use, but I can do a little blue heeler pup in a similar spirit with Theo's name, same $65. It takes about 8 days to make plus 3 for shipping. Want me to send you a quick sketch first?",
+   "lang": "en",
+   "note": "When the answer is no, still answer first, then offer the closest thing you can legally make and one easy next step."
   }
  ]
 }

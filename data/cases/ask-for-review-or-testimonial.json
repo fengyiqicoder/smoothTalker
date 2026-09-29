@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -71,6 +71,13 @@
    "reply": "哈哈刘姐，大众点评不让商家给好评返现，查到了店铺会被处罚，所以这个真给不了。您愿意的话写两句真实感受就好，一分钟的事；不写也完全没关系，谢谢您一直照顾我们生意。",
    "lang": "zh",
    "note": "平台禁止的激励不能给，也别换个名头给；讲清规则，重申写起来很短、不写也没关系，照样道谢。"
+  },
+  {
+   "id": "ask-for-review-or-testimonial-011",
+   "situation": "Je répare des vélos à Lyon. Une cliente, Claire, m'a dit oui pour un avis Google après la révision de son vélo cargo, mais elle m'écrit : « Avec plaisir, mais je ne sais pas du tout quoi écrire. »",
+   "reply": "Merci Claire ! Pas besoin d'un long texte : vous pouvez simplement dire ce qui clochait sur le vélo et comment il roule maintenant. Deux phrases, c'est parfait. Voici le lien : https://g.page/r/atelier-roue-libre/review. Et merci d'avance, quoi que vous écriviez.",
+   "lang": "fr",
+   "note": "Pour un avis public, donnez des pistes plutôt qu'un texte tout fait, pour que l'avis reste dans ses mots."
   }
  ]
 }

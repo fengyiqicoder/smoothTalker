@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "apologize-001",
@@ -78,6 +78,13 @@
    "reply": "各位邻居，上周六活动的集合时间是我在群里写错了，写成了8点，实际是9点，让十几位邻居一早赶过来，又在门口多等了一个小时，真的对不起。以后每次活动通知，我发之前先跟社区王主任核对一遍，活动前一晚再在群里提醒一次时间。下次活动的早饭我来准备。",
    "lang": "zh",
    "note": "群里道歉：说清具体错在哪、给大家带来的影响，再给一个以后怎么避免的做法，不用解释是怎么写错的。"
+  },
+  {
+   "id": "apologize-012",
+   "situation": "My college roommate Jess's dad died three years ago and I never called, didn't go to the funeral, and we just drifted after that. She was the person who got me through college. I want to message her now, even though it's late.",
+   "reply": "Jess, I've wanted to say this for a long time. When your dad died three years ago, I didn't call and I didn't come to the funeral, and I'm sorry. You got me through four years of college, and when it was your turn to need someone, I disappeared. You don't owe me a reply. I'm here now, and if you ever want to talk about him, or about anything, I'll listen.",
+   "lang": "en",
+   "note": "A years-late apology still needs the specific thing and its impact; don't ask for forgiveness or a reply, just leave the door open."
   }
  ]
 }

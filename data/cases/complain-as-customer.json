@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -78,6 +78,13 @@
    "reply": "Hi, I'm writing about account 7710-2294. My August bill came to $412 on an estimated read; my usual monthly bill is about $95. I photographed the meter this morning, Tuesday September 29, and it reads 18,442 (photo attached). Please reissue the August bill using this actual reading, and hold the $412 autopay until it's corrected. Could you confirm by Friday, October 2? Thanks, Dana Morales, 555-0142",
    "lang": "en",
    "note": "An estimated bill is usually fixed by one dated, photographed reading; ask for the reissue, not a discount."
+  },
+  {
+   "id": "complain-as-customer-012",
+   "situation": "My broadband provider Fibrenet charged me a £96 early exit fee when I left on 1 September, but my contract ended on 30 June and I have the contract PDF. I emailed, then asked for a manager; today their complaints team sent a 'final response' saying the fee stands.",
+   "reply": "Thanks for confirming your position. My contract on account FN-603118 ended on 30 June (page 2 of the contract, attached again), so an early exit fee doesn't apply to my leaving on 1 September. As this is your final response, I'll take the £96 charge to the Communications Ombudsman and reference this thread. If you'd rather settle it directly, a refund to my original card by Friday 9 October would close it on my side.\nKind regards,\nImogen Hart",
+   "lang": "en",
+   "note": "After a final response, stop arguing with the same inbox: name the next step once, leave one clean way to settle, then take it."
   }
  ]
 }

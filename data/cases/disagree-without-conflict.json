@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -71,6 +71,13 @@
    "reply": "妈，我知道您是想让我们早点有自己的家，这份心我特别感激。这件事我想法有点不一样：老房子是您和爸住了三十年的地方，也是你们养老的底，我不想为了首付让你们没了退路。我们俩再攒一年半，首付也能凑够。您是担心房价还会涨吗？",
    "lang": "zh",
    "note": "先接住她想帮忙的心意，只讲一个最重要的理由，最后用一个真心的问题了解她的顾虑。"
+  },
+  {
+   "id": "disagree-without-conflict-011",
+   "situation": "I'm a freelance web designer. My client Marco, who owns an Italian restaurant, wants me to take the prices off the online menu so people 'come in and see'. I think it'll cost him bookings, but it's his call and I want to keep the relationship good. Email.",
+   "reply": "Hi Marco, I'm with you on the goal, the whole point of the site is getting people through the door. Where I land differently is hiding the prices: in my experience people choosing a restaurant for the first time tend to pick one where they can see what dinner will cost. I could be wrong about your crowd, though. What's behind the change, is it the new prices from October?",
+   "lang": "en",
+   "note": "With a client, disagree once with one reason and a real question, then build what they decide."
   }
  ]
 }

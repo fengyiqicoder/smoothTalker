@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -71,6 +71,13 @@
    "reply": "Hi Rachel, I know things get hectic, so one more try on the chat about the data team. Would 20 minutes on Thursday Oct 8 or Friday Oct 9 work, any time after 11? If the next few weeks are packed, a quick 'not now' is completely fine and I'll leave it there.",
    "lang": "en",
    "note": "Second bump to someone doing you a favour: two concrete slots and an easy out, because she owes you nothing."
+  },
+  {
+   "id": "follow-up-unanswered-011",
+   "situation": "I'm a garden designer. I sent a £4,200 quote to a couple, Helen and James Patterson, on Sept 17 after a site visit, and bumped it once on the 24th. Nothing since, and I'm booking my November slots this week.",
+   "reply": "Hi Helen and James,\nI know autumn gets busy, so just a quick one on the garden quote from 17 September. I'm filling my November slots this week and would be glad to hold one for you. If the timing or budget isn't right, a one-line 'not now' is genuinely helpful, and I'm happy to rework the scope, for example the patio this year and the planting in spring.\nBest,\nOwen",
+   "lang": "en",
+   "note": "Second bump from the seller's side: a real reason, a smaller option and an easy no. If this gets nothing, send one closing note and stop."
   }
  ]
 }

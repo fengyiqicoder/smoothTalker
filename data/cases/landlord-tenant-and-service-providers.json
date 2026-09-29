@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -71,6 +71,13 @@
    "reply": "Hi Gary,\nI'll leave the tone to one side. The black mould on the bedroom wall was first reported on 3 September and again on 17 September, with photos, and it has spread since. We open the windows every day and it is still growing. Under the tenancy agreement, damp repairs are the landlord's responsibility. Please confirm a date for someone to inspect it by Friday 2 October. If I haven't heard by then, I'll ask the council's private housing team to inspect, which I'd rather avoid.\nThanks,\nPriya",
    "lang": "en",
    "note": "A hostile reply gets only the facts, one step up the ladder, and a next step you would actually take."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-011",
+   "situation": "我租的房子，房东周叔这个月两次趁我上班时自己开门进来，说是看看热水器，事先都没说。合同第六条写了进屋需提前24小时通知。我不想闹翻，但这样不行。",
+   "reply": "周叔您好，9月12日和9月26日您在我上班时进过屋，我事先都不知道。您关心热水器我很感谢，但屋里有我的私人物品，没人在时有人进来我会很不安。合同第六条约定进屋要提前24小时通知，以后麻烦您先发微信约个时间，我工作日晚上7点后和周末都在。热水器如果需要检修，这周六上午10点您方便吗？",
+   "lang": "zh",
+   "note": "事实加日期，合同只引用一次，给一个具体的替代做法和时间，不指责、不威胁。"
   }
  ]
 }

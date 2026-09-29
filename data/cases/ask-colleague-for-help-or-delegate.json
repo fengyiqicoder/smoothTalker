@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -78,6 +78,13 @@
    "reply": "Good question, Omar, and I don't know yet. I'd rather check than guess on something that affects your leave. I've asked Priya in HR and I'll post the answer here by Thursday, so everyone sees the same thing.",
    "lang": "en",
    "note": "A new manager earns credibility with a fast 'I don't know' plus a named source and a date; answering in the same thread keeps it fair for everyone."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-012",
+   "situation": "上周我们组的报表系统出故障，隔壁数据组的阿杰连着加了两个晚上班帮我们修好，赶上了周一给客户的月报。这不是他的活。想在部门群里谢谢他，也让他领导孙姐看到。",
+   "reply": "@阿杰 正式谢谢你！上周报表系统出故障，你连着两个晚上帮我们排查，定位到是数据同步任务的时区设置，周一给恒达的月报才按时发出去。这本来不是你的活，你还顺手写了一份排查文档，以后我们组自己就能处理。@孙姐 想让您也知道，这次阿杰真的帮了大忙。下次你们组需要人手，随时叫我们。",
+   "lang": "zh",
+   "note": "感谢要具体到他做了什么、带来了什么结果，并且发在他领导看得到的地方。"
   }
  ]
 }

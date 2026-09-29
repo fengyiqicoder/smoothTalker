@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -70,6 +70,13 @@
    "reply": "Hi Marcus, thanks for the details. My rate is $450 per UGC video, so $1,350 for three, with one round of revisions each. That includes 30 days of paid-ad usage; each extra 30 days is $200 per video, and running ads through my handle is priced separately. If you tell me how long the ads will run, I'll send one clean package price today.",
    "lang": "en",
    "note": "With UGC the money is in paid usage, so the quote separates the content fee from the usage window instead of giving one lump number."
+  },
+  {
+   "id": "creator-brand-deal-reply-011",
+   "situation": "一个坚果品牌找我在小红书发一篇测评，给1500元，但要求不走蒲公英平台、私下转账，笔记里也不要标注合作，说“写成自己买的更真实”。我有3万粉，他们家的坚果我自己确实常吃。",
+   "reply": "谢谢邀请，你们家的每日坚果我自己确实一直在吃。合作的内容我都会标注，这一点没法调整：平台有规定，粉丝也是因为信任才看我的推荐。如果走蒲公英下单，一篇图文笔记1500元我可以接，含30天授权，内容照样按我平时的风格写真实感受。你看这样可以吗？不方便的话也理解，祝新品大卖。",
+   "lang": "zh",
+   "note": "只拒绝“不标注广告”这一点，不说教；给出合规的做法和原价，让对方选。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -71,6 +71,13 @@
    "reply": "Sorry, that was out of line. I'll leave you be.",
    "lang": "en",
    "note": "When they say it wasn't welcome: one line of apology, no explanation, and no further messages."
+  },
+  {
+   "id": "first-message-to-stranger-011",
+   "situation": "我在HelloTalk上找日语语伴。看到一个在学中文的日本女生，资料里写上个月刚爬完富士山，还说《龙猫》看了二十遍。想发第一条消息。",
+   "reply": "你好！看到你上个月刚爬完富士山，还有《龙猫》看了二十遍，这个次数我服了。我也是宫崎骏迷，正在学日语。想问问：你爬富士山是半夜出发去山顶看日出的那种吗？",
+   "lang": "zh",
+   "note": "语伴也是陌生人：接住资料里的一个具体细节，问一个好回答的问题，先不急着约练习时间。"
   }
  ]
 }

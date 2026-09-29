@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -71,6 +71,13 @@
    "reply": "Raj, you're unmuted, we can all hear you!",
    "lang": "en",
    "note": "Quick fix, so speed is kindness: private chat, one line, and never mention it again unless he laughs about it first."
+  },
+  {
+   "id": "tell-someone-something-awkward-011",
+   "situation": "I'm at a trade fair with a client, Sabine, who's about to go on stage for a 20-minute talk. The size sticker from her new blazer is still on the back of the collar, a big 'M'. She's the client and I don't know her that well.",
+   "reply": "Sabine, quick one before you go up: the size sticker from your blazer is still on the back of the collar. Want me to get it? Happens with every new jacket.",
+   "lang": "en",
+   "note": "Client or not, a five-second fix gets told immediately and quietly; offering to remove it saves her twisting round in the wings."
   }
  ]
 }

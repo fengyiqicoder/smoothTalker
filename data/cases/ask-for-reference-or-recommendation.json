@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -77,6 +77,13 @@
    "reply": "赵姐，想请你帮个忙：我在看外面的一个机会，已经到背调阶段，对方需要一位现在的同事接个电话，大概15分钟，下周内都可以。我们一起做过去年的会员系统，对方可能会问三点：我负责的数据迁移、跟产品组的协作、项目赶工时我怎么排优先级。这事我还没跟领导说，麻烦先帮我保密。如果你觉得为难，完全没关系，我再找别人。",
    "lang": "zh",
    "note": "在职背调：一次说清要做什么、多长时间、会被问什么，保密的请求说在明处，出口要真心。"
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-012",
+   "situation": "I'm in the final round for an engineering manager role at Tallyfield, and they want a reference from someone I managed. Lena reported to me for two years at Corvo before I left in March; she's now a senior engineer there. I want to ask her by email.",
+   "reply": "Hi Lena, I hope things are going well at Corvo. I'm in the final round for an engineering manager role at Tallyfield, and they've asked for a reference from someone I managed. Would you be open to being that person? It would be one 15-minute call, likely between 5 and 9 October. If you say yes, the things they care most about are how I ran our 1:1s, the on-call rotation we rebuilt, and how I supported your move to senior. Please feel free to say no; I know it's different being asked by a former manager, and it won't change anything between us.",
+   "lang": "en",
+   "note": "Asking someone you used to manage: make the out extra explicit, because the old power gap can make a no feel harder to say."
   }
  ]
 }

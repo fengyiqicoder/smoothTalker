@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -71,6 +71,13 @@
    "reply": "Let's take the budget back-and-forth out of here, I'll message Amy and Jess directly. For everyone: two options for the weekend of 7 November. A: Bath spa weekend, £250 each. B: a cottage near Bristol with a cooked dinner, £160 each. Thumbs on A or B by Friday night and I'll book whichever wins on Saturday morning.",
    "lang": "en",
    "note": "Pull the argument out of the group, then turn it into two priced options with a deadline; talk to Amy and Jess one at a time."
+  },
+  {
+   "id": "group-chat-coordination-011",
+   "situation": "我在一个跨时区项目群里，成员分别在北京、柏林和旧金山，一共7个人。周会时间讨论了一周还没定，每次都有人说“我都行”。想把时间定下来。",
+   "reply": "各位，周会时间我来提两个选项：A 每周二北京时间晚上10点（柏林下午4点，旧金山早上7点）；B 每周四北京时间晚上11点（柏林下午5点，旧金山早上8点）。都避开了三地的半夜，北京这边会晚一点。请在周三中午（北京时间）前回A或B，按多数定；没人回的话就定A，下周二开始，会议邀请我来发。",
+   "lang": "zh",
+   "note": "跨时区时把每个时区的时间都写出来，别让大家自己换算；截止时间也注明时区。"
   }
  ]
 }

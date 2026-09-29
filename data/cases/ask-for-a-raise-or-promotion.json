@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -71,6 +71,13 @@
    "reply": "Lucy, I really love working with you and the kids and I'd like to keep doing it for a long time. Since September I've taken on school pickup and homework as well as childcare, and Maya has gone from struggling with reading to finishing a chapter book a week. Based on that and what nannies with this scope earn around here, I'd like to move to $23 an hour from November. What do you think, and if it's not possible now, what would it take?",
    "lang": "en",
    "note": "A household employer is still an employer: commitment first, scope and results as evidence, one number, and an invitation to the path."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-011",
+   "situation": "我在一家SaaS公司做测试工程师三年，月薪1.6万。上个月来了个同职级的新同事，我在带他熟悉系统，无意中知道他月薪1.9万。我查了招聘网站，同职级大概1.8万到2万。明天约了领导陈总谈，不想拿同事说事。",
+   "reply": "陈总，谢谢您抽时间。我很喜欢这里的工作，也想在测试这块继续做深。过去一年我搭了接口自动化测试，回归时间从两天缩到了半天；这个季度的新同事也是我在带。我看了一下，同职级测试工程师的市场薪资在1.8万到2万之间，我希望把月薪调到1.9万。如果现在调不了，需要满足哪些条件、什么时候能再看？",
+   "lang": "zh",
+   "note": "同事的工资只是提醒你该谈了，不是论据；在谈话里只讲自己的成果、职级和市场数据，永远不点名比较。"
   }
  ]
 }

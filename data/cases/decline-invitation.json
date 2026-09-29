@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -71,6 +71,13 @@
    "reply": "Jess, I'm so touched you asked me, it really means a lot. I'm going to say no to being a bridesmaid, it's more than I can take on right now. I'll absolutely be there on June 12, probably crying in the third row. If there's one small job I can take off your plate nearer the day, like the table plan, I'd love to.",
    "lang": "en",
    "note": "Declining a role rather than the event: separate the two in the first lines so the no doesn't read as a no to the friendship."
+  },
+  {
+   "id": "decline-invitation-011",
+   "situation": "A former colleague, Laura, asked me to speak on a panel at her unpaid product meetup on October 20. I'm swamped through the end of the year and honestly wouldn't take on a talk any time soon. We're on good terms and I'd like to keep it that way. LinkedIn message.",
+   "reply": "Thanks for thinking of me for the panel, Laura, I'm flattered. I'm going to say no this time; my plate is full through the end of the year. I hope the night goes brilliantly, and I'm happy to share the event on LinkedIn if that helps fill the room.",
+   "lang": "en",
+   "note": "A professional no with no new date offered, since you wouldn't do it later either; a small, real bit of help keeps it warm."
   }
  ]
 }

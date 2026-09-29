@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -78,6 +78,13 @@
    "reply": "Hey Ryan, small thing before Monday. In the last few planning meetings you've come in just as I was getting to my recommendation, so the team ends up hearing half the idea. I doubt it's noticeable from your side. Could you let me finish the point, then jump in? Happy to do the same for you, and tell me if I'm going on too long.",
    "lang": "en",
    "note": "One observable behaviour, a private channel, and an ask he can act on in the moment; offering the same back keeps it between peers."
+  },
+  {
+   "id": "ask-to-change-behavior-012",
+   "situation": "My friend Tasha sends me 5 to 8 minute voice notes several times a day, mostly while I'm at work and can't listen. I love her, but they pile up into a 40-minute backlog and I feel guilty. I want to ask her to text for quick stuff.",
+   "reply": "Can I ask something small without it being a thing? I love your voice notes, but I'm at work most of the day and can't listen, so they pile up and I end up replying a day late. Could quick stuff be a text, and the long ones wait for the evening? I'll get back to you much faster that way.",
+   "lang": "en",
+   "note": "Frame it as a system that gets her quicker replies, not as a complaint about how much she talks."
   }
  ]
 }

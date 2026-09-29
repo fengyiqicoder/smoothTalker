@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -71,6 +71,13 @@
    "reply": "Dear Mrs Adeyemi and Mr Hart,\nThank you for your time today; it was reassuring to hear how well Oliver has settled this term. A quick recap so we're all on the same page:\n- School: three extra reading sessions a week with the TA, starting Monday 5 October.\n- Home: 15 minutes of reading with me each evening, noted in his reading record.\n- All of us: review meeting on Monday 16 November.\nPlease let me know if I've got anything wrong.\nBest wishes,\nRachel Moore",
    "lang": "en",
    "note": "A recap works outside the office too: owners and dates on every point, so the plan survives a busy term."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-011",
+   "situation": "9月22日终面了一家新能源车企的供应链岗位，HR刘女士说上周五前给结果，到今天还没消息，我还没催过。手上另一家的offer要10月9日前答复，但我更想去这家。国庆马上放假了。",
+   "reply": "刘女士您好，希望您这周一切顺利。上次您提到上周五前会有结果，想确认一下是否还需要我补充什么材料。另外坦白说明一下：我手上有另一家公司的offer，需要在10月9日前答复，但我更希望加入贵司的供应链团队。如果方便，能否在那之前告诉我大概的进展？谢谢您！\n陈宇",
+   "lang": "zh",
+   "note": "时间线过了只问一次，赶在国庆前发；另一家offer是真的才提，说清日期和你的偏好，不施压。"
   }
  ]
 }

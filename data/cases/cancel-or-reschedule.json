@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -71,6 +71,13 @@
    "reply": "Lucía, tengo que mover lo del jueves: en el hospital me han cambiado el turno y esa noche trabajo. Siento el cambio, sé que ya lo tenías apuntado. Tengo muchas ganas de conocerte, así que te propongo el viernes 2 o el sábado 3, a las 20h en el mismo sitio. ¿Cuál te va mejor?",
    "lang": "es",
    "note": "En una primera cita, dos fechas concretas en el mismo mensaje son lo que demuestra que el cambio es logística y no falta de interés."
+  },
+  {
+   "id": "cancel-or-reschedule-011",
+   "situation": "我是团队主管，今天下午4点本来要和下属小周做季度一对一，他提前说要聊晋升的事，准备了挺久。结果我刚被叫去开一个推不掉的紧急会，要在企业微信上跟他说改时间。",
+   "reply": "小周，今天下午4点的一对一我得改一下，刚被叫去一个推不掉的紧急会，这么晚才说，抱歉。我知道你为晋升这件事准备了很久，不想匆匆忙忙聊。明天上午10点或者下午3点，我都给你留出完整的一个小时，你挑一个？",
+   "lang": "zh",
+   "note": "上级改下属的会，更要第一句说清楚、点出对方的准备，并由你给出具体时间，别让他觉得这件事不重要。"
   }
  ]
 }

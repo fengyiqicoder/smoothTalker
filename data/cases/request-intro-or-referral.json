@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -71,6 +71,13 @@
    "reply": "王姐，想请您帮个忙：听说您跟豆子咖啡的周老板挺熟，他最近在找人做会员小程序，方便帮我引荐一下吗？如果不好开口，完全没关系，直接跟我说就行。\n\n要是方便，这段可以直接转给他：'周老板，介绍一下小林，我们店的点单小程序就是他做的，上线一个月线上订单占了三成，做事很靠谱。他想跟你聊20分钟，看看会员系统怎么做合适。'\n\n不管结果怎样，我都会跟您说一声。谢谢王姐！",
    "lang": "zh",
    "note": "向满意的客户要引荐：开头就说请求，附一段带真实数字、可直接转发的介绍，给她说不的余地，并承诺回报结果。"
+  },
+  {
+   "id": "request-intro-or-referral-011",
+   "situation": "I'm applying for PhDs in marine ecology this winter. My undergrad thesis advisor, Dr. Chen, did her postdoc with Prof. Adaeze Okafor, whose lab at Dalhousie is my first choice. I'd like to ask Chen for an intro before I apply.",
+   "reply": "Hi Dr. Chen,\nCould I ask a favour? I'd love an intro to Prof. Okafor at Dalhousie. Her lab's work on kelp forest recovery is the closest match to my thesis, and I'd like to ask whether she's taking PhD students for fall 2027 before I apply. If it's not a good moment to reach out to her, no problem at all, just say.\nIf you're up for it, here's a blurb you can forward:\n\"Adaeze, I'd like to introduce Jordan Lee, who did an honours thesis with me on urchin grazing in kelp beds. Jordan is applying for PhDs this winter and would value a 15-minute call, or a short email, about whether your lab is taking students next year.\"\nI'll let you know how it goes either way.\nJordan",
+   "lang": "en",
+   "note": "Academic intros follow the same shape: one small, specific ask of the professor, a blurb in the advisor's voice, and a real out."
   }
  ]
 }

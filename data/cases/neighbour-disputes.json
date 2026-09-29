@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -71,6 +71,13 @@
    "reply": "Hi Graham, I'm Priya from no. 12, next door to your flat. You may not hear about this from the guests, so I wanted to let you know directly: there were loud parties past 2am on Saturday 12, 19 and 26 September, with music and people out on the balcony. Could you add quiet hours after 11pm to the house rules and the welcome message? Thanks, and do let me know if anything from our side ever causes trouble for your guests.",
    "lang": "en",
    "note": "An absent owner usually doesn't know: introduce yourself, give dated facts, and ask for something he controls, like the house rules."
+  },
+  {
+   "id": "neighbour-disputes-011",
+   "situation": "我家卫生间天花板这两周一直往下渗水，吊顶都鼓起来了。物业来看过，说大概率是楼上702卫生间防水坏了。我不认识702的住户，想先给他们留张纸条约个时间。",
+   "reply": "您好，我是楼下602的住户，姓孙。这两周我家卫生间天花板一直在渗水，吊顶已经鼓起来了，物业看过说可能是楼上卫生间防水的问题，您那边可能完全没察觉。能不能这周找个时间，让物业的师傅上去看一下？方便的话打我电话13812345678，晚上和周末都可以。也欢迎您下来看看我家的情况，给您添麻烦了。",
+   "lang": "zh",
+   "note": "漏水越拖越严重，先友好约时间，同时拍照并请物业留记录，之后谈维修费用时有据可查。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -71,6 +71,13 @@
    "reply": "小林你好，跟你说件事：我儿子明年结婚要住这套房，所以12月31日合同到期后就不续租了。合同约定提前一个月通知，我想早点告诉你，好让你有足够时间找房，正式的书面通知这周寄给你。如果你找到房子想提前搬，跟我说一声，日期一起商量，房租按实际住的天数算。交房那天我们一起验房、抄水电燃气表，押金当场退。这三年你一直按时交租，新房东需要证明的话我随时帮你写。收到麻烦回我一下。",
    "lang": "zh",
    "note": "房东不续租：到期日写清楚、理由一句、提前量多于合同要求，再把验房、退押金和推荐这些实际帮助说明白，并请对方确认收到。"
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-011",
+   "situation": "Renting a unit in Brunswick, Melbourne, now on a periodic agreement that says 28 days' written notice. We want to leave Nov 30. I work night shifts and we have a 3-month-old, so I also want to ask the agent, Priya at Northside Realty, to keep viewings to set times.",
+   "reply": "Dear Priya,\nI'm writing to give notice that we will vacate 3/41 Albert Street, Brunswick, on Monday 30 November, in line with the 28 days' written notice in our rental agreement. Rent will be paid through to the 30th, and we'll hand back all keys at the final inspection that day if that suits. One request about viewings: I work night shifts and we have a three-month-old, so could they be kept to Tuesdays and Saturdays between 11am and 1pm, with the usual notice? We'll have the place tidy for them. Please confirm you've received this notice. Thanks for three easy years.\nSam Nguyen",
+   "lang": "en",
+   "note": "The notice stands on its own in the first sentence; the viewing times are a separate request, so a no on those doesn't muddy the notice."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -71,6 +71,13 @@
    "reply": "I'm on jury duty from Monday 5 October to Friday 16 October and away from my desk during the day. I check email once each evening and will reply to anything that can't wait. For filings or court deadlines, please contact Kevin Tran at kevin.tran@hallmoore.com. Back at my desk Monday 19 October.",
    "lang": "en",
    "note": "Partial availability stated concretely, once each evening, instead of 'limited access', with deadlines routed to one named person."
+  },
+  {
+   "id": "out-of-office-and-away-messages-011",
+   "situation": "I'm based in London and I'll be at a conference in Singapore from Oct 12 to 16, back at my desk Monday Oct 19. I'll check Slack once a day around 10am UK time. My teammate Priya Shah covers incidents. I want a Slack status and a short note in the team channel.",
+   "reply": "At a conference in Singapore 12 to 16 October, back at my desk Monday 19 October. I check Slack once a day, around 10am UK time, so expect replies then. For incidents or anything that can't wait until that check, go to Priya Shah.",
+   "lang": "en",
+   "note": "Partly available is its own promise: say exactly when you look, in the reader's time zone, and name the cover once."
   }
  ]
 }

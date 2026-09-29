@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -71,6 +71,13 @@
    "reply": "Sam, I made a mistake: at 11:20 I sent Maya Chen our rejection email, which was meant for another candidate. I've emailed her to say it was sent in error and she's very much still in the process, and I've asked for a 10-minute call today. No reply yet. I'm sorry, I picked the wrong name from the dropdown. From now on I'm checking every rejection against the tracker before it goes. I'll update you as soon as I've spoken to her.",
    "lang": "en",
    "note": "Headline first, the fix already in motion, one apology and one prevention step; Sam hears it from you before Maya has to raise it."
+  },
+  {
+   "id": "admit-mistake-at-work-011",
+   "situation": "My manager Deepa just messaged me 'Why am I hearing from finance that Monday's invoice batch failed?' I spotted it yesterday afternoon and was planning to fix it before telling her. 46 invoices, about $38,000, didn't go out.",
+   "reply": "You should have heard it from me yesterday, Deepa, and that's on me. Monday's batch failed for 46 invoices, about $38,000, because I uploaded the file with last quarter's tax code. I've corrected the file and it's re-running now; finance will confirm by 3pm and I'll forward it to you straight away. From now on I'll flag a problem the moment I see it, even before I have the fix.",
+   "lang": "en",
+   "note": "When your boss finds out first, own the delay as its own mistake in the first line, then give the facts and the fix."
   }
  ]
 }

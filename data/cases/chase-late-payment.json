@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -78,6 +78,13 @@
    "reply": "Hi Jordan, a quick note that September's rent of $1,450, due on the 20th, hasn't come through on my side yet. You've always been spot on, so it may just be a transfer that didn't go through. Could you check and let me know by Friday when it's on its way? If something's come up, tell me and we'll work out a plan.",
    "lang": "en",
    "note": "Stage one with a long clean record: assume admin error, give the amount and due date, and leave room for a real problem."
+  },
+  {
+   "id": "chase-late-payment-012",
+   "situation": "6月份大学室友阿杰修车，我借了他5000块，他说8月底前还，到现在快10月了也没提。我们关系一直挺好，不想闹僵，但这钱得要回来。",
+   "reply": "阿杰，6月借你的那5000块，你当时说8月底还，我这边还没收到。这周能先转给我吗？一次不方便的话，分两次也行，10月15号前还清就好，你定个时间告诉我。",
+   "lang": "zh",
+   "note": "借给朋友的钱也按催款来：金额、原定时间、一个具体的新日期，不说情绪，也不在闲聊里夹着提。"
   }
  ]
 }

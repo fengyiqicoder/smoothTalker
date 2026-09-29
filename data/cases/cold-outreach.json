@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -77,6 +77,13 @@
    "reply": "Thanks, Hannah. The idea: a short survey of our 3,000 members on how they price secondhand books, with the results published first in Shelf Life in November. We'd write and run the survey; you'd only need to share the link once. Interested?",
    "lang": "en",
    "note": "Once they say 'go on', keep the promise you made: two lines, what it costs them, and a yes/no question."
+  },
+  {
+   "id": "cold-outreach-012",
+   "situation": "I'm a second-year engineering student and want summer research experience. Professor Kenji Nakamura in the marine science department wrote a 2025 paper on low-cost temperature loggers for reef monitoring. I built a similar logger in my embedded systems class. I've never emailed a professor cold.",
+   "reply": "Subject: Your reef temperature logger paper\n\nHi Professor Nakamura,\nYour 2025 paper on low-cost loggers for reef monitoring is the reason I added a marine science minor. I'm a second-year engineering student, and last spring I built and calibrated a similar logger for my embedded systems class, accurate to 0.1°C in our tank tests. Would you consider taking an undergraduate volunteer in your lab this summer? If there's no room, a quick no is genuinely helpful.\nBest,\nAisha Rahman",
+   "lang": "en",
+   "note": "Student to professor: prove you read their work, show one thing you've built, and ask a single yes/no question."
   }
  ]
 }

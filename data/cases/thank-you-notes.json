@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -71,6 +71,13 @@
    "reply": "Chère Martine, cher Gérard,\nMerci mille fois pour ce week-end à Quimper. Le kouign-amann maison restera dans les annales, et la balade au phare d'Eckmühl samedi matin, dans le vent et avec vos histoires sur la côte, a été mon moment préféré. Merci surtout de m'avoir accueillie si simplement, je me suis tout de suite sentie à l'aise. Hugo et moi serions ravis de vous recevoir à Nantes cet hiver.\nBien amicalement,\nClara",
    "lang": "fr",
    "note": "Premier séjour chez la belle-famille : une carte manuscrite, un détail précis pour chacun, et une invitation en retour."
+  },
+  {
+   "id": "thank-you-notes-011",
+   "situation": "Had my second-round interview yesterday for a senior product designer role at Northbeam with Elena Park, their head of design. She walked me through how they ran an accessibility audit on checkout and was very open about their messy legacy design system. Want to send a thank-you email today.",
+   "reply": "Hi Elena,\nThank you for your time yesterday. Hearing how your team ran the accessibility audit on checkout, with screen reader users testing in the room, made the role much more concrete for me, and it's exactly the kind of work I want to be doing. I also appreciated how openly you talked about the legacy design system; it's the part of the job I'd most like to dig into. I'm looking forward to hearing about next steps.\nBest,\nJordan Lee",
+   "lang": "en",
+   "note": "A post-interview thank-you works when it names one real detail from the conversation, not a restated cover letter."
   }
  ]
 }

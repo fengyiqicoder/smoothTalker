@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -71,6 +71,13 @@
    "reply": "Thanks, Kerry! He's a happy little napper either way, and this works for us right now. Hope your two are doing well.",
    "lang": "en",
    "note": "In a public comment, stay on the lowest rung: receive it, one line of position, a warm close. Never debate it in the comments."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-011",
+   "situation": "我今年63岁，刚退休，决定拿8万块钱报一个半年的老年大学游学团，去云南和欧洲。女儿知道后天天发消息劝我把钱存定期，说“这钱要留着养老”。钱是我自己攒的，退休金也够花。",
+   "reply": "闺女，妈知道你是担心我，这份心我收下了。这笔账我算过，退休金和存款都够，游学团也报好了，我想趁还走得动出去看看。你要真想帮我，就帮我挑个好用的翻译软件吧，到了欧洲我怕看不懂菜单。",
+   "lang": "zh",
+   "note": "回应关心，不摊开账本逐条解释；把她的在意引到一件能帮上忙的具体小事上。"
   }
  ]
 }

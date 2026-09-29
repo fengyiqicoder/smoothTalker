@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -71,6 +71,13 @@
    "reply": "Jonas, darf ich dir kurz Feedback zu etwas geben? Letzte Woche hat meine Frage zur API-Freigabe von Montag bis Mittwoch auf eine Antwort gewartet, und dadurch ist unser Release von Donnerstag auf Freitag gerutscht. Ich weiß, dass bei euch gerade viel los ist. Wie siehst du das? ... Wäre es machbar, dass Fragen mit dem Label „blockiert“ innerhalb eines Arbeitstags eine kurze Antwort bekommen, auch wenn es nur „schaue ich mir Freitag an“ ist? Lass uns am Dienstag, 13. Oktober, kurz schauen, ob das klappt.",
    "lang": "de",
    "note": "Unter Gleichrangigen: erst fragen, dann ein datiertes Beispiel mit seiner Folge, bei den drei Punkten wirklich zuhören, dann eine konkrete Bitte und ein Termin zum Nachfassen."
+  },
+  {
+   "id": "give-feedback-to-colleague-011",
+   "situation": "I coordinate volunteers at our food bank. Gerald, a retired volunteer of six years who's brilliant at logistics, told a mum at the pickup table on Saturday to 'hurry up, other people are waiting', and she left without her box. He's unpaid and I don't want to lose him.",
+   "reply": "Gerald, can I give you some feedback on the pickup table? On Saturday I heard you tell a mum to hurry up because others were waiting, and she left without her box. For a lot of people, coming here at all takes courage, so feeling rushed can be enough to keep them away. What's your read on Saturday? Going forward, when the line builds up, could you grab me or Ana to open a second table instead of speeding people along? Let's catch up after the shift on the 10th.",
+   "lang": "en",
+   "note": "A volunteer gets the same shape as staff: private, one dated example, the real impact, and an ask that uses his strength with logistics."
   }
  ]
 }

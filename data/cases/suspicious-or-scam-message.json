@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -71,6 +71,13 @@
    "reply": "不用了，我只在闲鱼里交易。您直接在平台拍下付款就行，同城的话也可以当面验货付款。其他链接我不会点。",
    "lang": "zh",
    "note": "要你离开平台、点陌生链接、先交'保证金'，三个信号占全了。回一句守住平台规则就停，不争论，然后在闲鱼里举报并拉黑；要确认规则就自己打开闲鱼App查。"
+  },
+  {
+   "id": "suspicious-or-scam-message-011",
+   "situation": "I'm moving to Lisbon and found a one-bed on Facebook for €750 a month, well below other listings. The 'landlord', Mark, says he's working in Dubai, can't do viewings, and wants a €1,500 deposit by Wise today to hold it, then he'll post the keys.",
+   "reply": "Thanks, Mark. I'm interested, and I only pay a deposit after I've viewed a flat in person and signed a contract. I'm free to view this Saturday or Sunday; if you're away, an agent or friend showing it is fine.",
+   "lang": "en",
+   "note": "Money, urgency and no viewing is the classic rental scam; if he refuses a viewing, send nothing, stop replying and report the listing to Facebook."
   }
  ]
 }

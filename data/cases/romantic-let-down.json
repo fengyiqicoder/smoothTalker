@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -71,6 +71,13 @@
    "reply": "Hi Owen, I owe you a straight answer to what you asked on Tuesday. Thank you, that was kind of you. I don't see us that way, so it's a no from me. You're always welcome here, and I'll keep setting the new crime novels aside for you.",
    "lang": "en",
    "note": "'I'll think about it' is a maybe that makes him wait; correct it at the next chance, in person since that's where he asked, and signal the shop stays normal."
+  },
+  {
+   "id": "romantic-let-down-011",
+   "situation": "I've been seeing Leo casually for about six weeks, maybe eight dates. Last night he asked if we could be exclusive. I like him, but I don't see it becoming a relationship, and since he wants more I'd rather end it. We're meeting for coffee Saturday.",
+   "reply": "Leo, I've been thinking about what you asked the other night, and I want to give you a straight answer. I've really enjoyed these six weeks, especially the Sunday market mornings. But I don't see this becoming a relationship for me, and since you want more, it isn't fair to keep going as we are. So I'd like to end it here. I'm sorry it's not the answer you were hoping for.",
+   "lang": "en",
+   "note": "When someone asks for more, 'let's keep it casual' is the ambiguous option; a clean end respects what he told you he wants."
   }
  ]
 }

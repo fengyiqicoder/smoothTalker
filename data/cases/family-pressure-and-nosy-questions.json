@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -71,6 +71,13 @@
    "reply": "哈哈，二姨您比我们还着急。有消息一定第一个告诉您。对了，表妹下个月办婚礼，酒店定好了吗？",
    "lang": "zh",
    "note": "群里当众问，就在群里轻松一句带过、马上换话题，不解释；她私聊再问，就用几乎一样的话再说一遍。"
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-011",
+   "situation": "My divorce from Mark was finalised in June. At my cousin's wedding on Saturday my great-aunt Rosa will definitely ask what happened, probably at the dinner table. I don't want to talk about it or make a scene.",
+   "reply": "Ah, Aunt Rosa, straight in. It's done, I'm doing well, and that's the whole story. Now you have to tell me how you got Uncle Sal onto the dance floor, I've never seen that in thirty years.",
+   "lang": "en",
+   "note": "If she asks again, repeat 'It's done, I'm doing well' word for word; any reason you give becomes the next question."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -71,6 +71,13 @@
    "reply": "I'm glad we had coffee on Saturday, it was good to see you. I want to be straight so there's no confusion: I'm not looking to get back together, so I'll pass on dinner Friday. I'd still like to be friends, the daytime coffee every few weeks kind, and I'd rather we skip the nightly texts.",
    "lang": "en",
    "note": "The door was reopened as friends, so restate the limit plainly and give the friendship a shape; no 'maybe later'."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-011",
+   "situation": "分手一年多的前男友突然微信找我，说创业资金周转不开，想借两万块，说下个月就还。我们分手时还算和平，但我不想借，也不想再有牵扯。",
+   "reply": "看到你的消息了，希望你的项目能挺过这一关。钱我不借，这个我想得很清楚，也不想和你再有金钱上的往来。祝你顺利。",
+   "lang": "zh",
+   "note": "不给理由、不谈金额、不留“以后再说”；他再追问，就回一句“我的回答不变”，然后不再回复。"
   }
  ]
 }

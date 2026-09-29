@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -71,6 +71,13 @@
    "reply": "Bei mir alles gut, danke! Ich wohne seit März in Leipzig und arbeite jetzt in einer Buchhandlung, was mir erstaunlich gut gefällt. Machst du eigentlich noch deine Sonntagspfannkuchen? Ich denke jedes Mal an dich, wenn ich welche mache.",
    "lang": "de",
    "note": "Eine kurze Antwort ist kein Nein: Länge spiegeln, ein konkretes Detail, eine leichte Frage. Antwortet sie wärmer, im nächsten Schritt ein konkretes Telefonat oder Treffen vorschlagen."
+  },
+  {
+   "id": "reconnect-after-silence-011",
+   "situation": "高中时我们五个女生有个微信群叫“三班五朵金花”，已经两年没人说话了。国庆我回南京待到10月6号，想在群里冒个泡，看大家有没有空聚一下。",
+   "reply": "姐妹们，这个群安静两年了，我来冒个泡。今天翻到高三运动会咱们五个穿同款红T恤的照片，笑了半天。我国庆回南京，待到6号，有谁在的话，找个下午去老门东喝杯茶？不在南京的也说说近况就好，不急着回。",
+   "lang": "zh",
+   "note": "重启一个沉寂的群，一张具体的老照片比“好久不见”好接，邀请要具体，但不要求每个人都来。"
   }
  ]
 }

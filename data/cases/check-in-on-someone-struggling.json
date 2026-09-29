@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -78,6 +78,13 @@
    "reply": "小雅，听说了上周的事，心里很难受，一直在想你。不用回我。我给你点了明天中午的外卖，是你喜欢的那家云南米线，12点左右送到，不想吃就放着。我一直都在。",
    "lang": "zh",
    "note": "不问“你还好吗”，不找安慰的角度，只给一个不需要回应的具体行动；过几天再发一条不需要回复的消息。"
+  },
+  {
+   "id": "check-in-on-someone-struggling-012",
+   "situation": "My friend Jess has been really low since her divorce in the spring. We talk every Thursday and she keeps saying she can't sleep and can't see it getting better, but she's never mentioned therapy. I want to suggest it once without it sounding like I'm handing her off.",
+   "reply": "I'm always going to be here for our Thursday calls, that's not changing. I also think you deserve more support than me and a glass of wine. If you ever want a hand finding someone to talk to, I'll help you look, or sit with you while you book it. No judgment, just an offer, and I won't bring it up again unless you do.",
+   "lang": "en",
+   "note": "Professional help gets one warm line, as an option, never a verdict. If she ever talks about not wanting to be here, ask her directly whether she's safe."
   }
  ]
 }

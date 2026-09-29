@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -71,6 +71,13 @@
    "reply": "Let's stop doing this over text. The comment about Hannah was a cheap shot and I'm sorry. I get that you feel like my plans keep eating into your weekends. Can I call you at 8:30 tonight, once Lily's asleep, and we sort Saturday then? We both want her to have a good weekend.",
    "lang": "en",
    "note": "With a co-parent, the line about what's bigger than the fight is the child: own the jab, reflect his grievance, and put a time on the call."
+  },
+  {
+   "id": "de-escalate-argument-011",
+   "situation": "我爸72岁了，上个月倒车蹭了两次。刚才我在电话里劝他别开车了，说了句“你这样早晚出事”，他火了，说我咒他，把电话挂了。想发条微信先缓一缓。",
+   "reply": "爸，刚才电话里我话说得太冲了，“早晚出事”那句不该说，对不起。我知道你是觉得我把你当老人看，要把你的自由拿走。开不开车不用今天定，周六我回家吃饭，咱们当面慢慢聊。我就是太在乎你了。",
+   "lang": "zh",
+   "note": "跟长辈吵架，先认具体那句话，说出他真正在意的面子和自由，开车的事留到当面谈。"
   }
  ]
 }

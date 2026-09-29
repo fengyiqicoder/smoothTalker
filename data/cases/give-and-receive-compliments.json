@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -70,6 +70,13 @@
    "reply": "谢谢姑姑！我现在挺好的，照片也拍得好看。对了，上次您说表妹要去杭州读研，定下来了吗？",
    "lang": "zh",
    "note": "收下好意，不解释原因，也不纠正她；一句感谢后把话题交还给对方，病情可以只和想说的人私下讲。"
+  },
+  {
+   "id": "give-and-receive-compliments-011",
+   "situation": "My wife Maya hosted her first Diwali dinner last night, 14 people including my parents. She made my dad his own mild dal because he can't do spice, and my mum said in the car it was the best Diwali she's had in years. I want to text Maya today.",
+   "reply": "Maya, I keep thinking about last night. You cooked for fourteen, remembered Dad can't do spice and made him his own dal, and still found time to sit down and laugh with everyone. Mum told me in the car it was the best Diwali she's had in years. I'm so proud of you.",
+   "lang": "en",
+   "note": "Partners get generic praise most of all; name the choices she made and pass on the effect, with nothing attached."
   }
  ]
 }

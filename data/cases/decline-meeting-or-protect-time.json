@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 10,
+ "count": 11,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -71,6 +71,13 @@
    "reply": "Hi Paul, I'm on leave that week, 12 to 16 October, so I'll miss the planning session. My part is the ops budget, so I'll put the numbers and the three assumptions behind them in the planning doc by Friday 9 October, and Hana can take any questions on the day. Does that cover what you need?",
    "lang": "en",
    "note": "Leave is a fact, not something to defend: decline the slot, send the substance early, and name who covers."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-011",
+   "situation": "I work part-time, Monday to Thursday, at a nonprofit. Our development director Helen keeps scheduling the grant planning meeting on Fridays at 10, and this week's invite is for Friday Oct 2. My part is the program outcomes section.",
+   "reply": "Hi Helen, I don't work Fridays, so I'll miss Friday's planning meeting. My part is the program outcomes section: I'll have the draft and the three outcome figures you'll likely need in the grant folder by 4pm Thursday. For future sessions, Tuesday or Wednesday mornings work well if you'd like me there live. Does that cover what you need for Friday?",
+   "lang": "en",
+   "note": "A part-time schedule is a fact, not a favour to ask: decline the slot, send the substance the day before, and name when you can join, once."
   }
  ]
 }
