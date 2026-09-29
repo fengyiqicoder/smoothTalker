@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -57,6 +57,13 @@
    "reply": "苏晴你好，上周六在三里屯那场播客分享会上听了你讲怎么从听众来信里挑选题，那是我当天笔记记得最多的一段。我自己在做一个聊城市散步的小播客，想请教一个具体问题：来信那么多，你是按什么标准判断哪一封能做成一期的？方便的话回我一两句就很感谢，没空也完全理解。",
    "lang": "zh",
    "note": "活动后的第一条私信：先说清在哪儿见过、记住了她讲的哪一点，再问一个一两句就能答完的问题，不约电话。"
+  },
+  {
+   "id": "first-message-to-stranger-009",
+   "situation": "Matched with Sam on Hinge. His profile is almost empty: one photo of him holding a cello in what looks like a kitchen, and the only prompt answer is 'ask me'. No idea what to open with.",
+   "reply": "You said ask, so: is the cello a serious thing, or a kitchen concert for one? Secretly hoping for the second.",
+   "lang": "en",
+   "note": "With a near-empty profile, use the one detail there is and make the answer easy. No compliment on looks, no ask."
   }
  ]
 }

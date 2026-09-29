@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -57,6 +57,13 @@
    "reply": "Hi, this is Marcus Bell. I have a cleaning with Dr. Okafor this Thursday, October 1, at 9:30. I need to move it, a work commitment has come up that morning, and I'm sorry for the short notice. Any afternoon next week works for me. My number is 555 0172, again, 555 0172. Thanks.",
    "lang": "en",
    "note": "Voicemail: name and appointment first so they can find it, one short reason, a flexible window, and the number said twice, slowly."
+  },
+  {
+   "id": "cancel-or-reschedule-009",
+   "situation": "We booked our babysitter Mia, a college student, for tonight 6 to 11 for our anniversary dinner. My husband Tom just came home with a fever, so we're staying in. It's 2pm. She usually gets $75 for the evening.",
+   "reply": "Hi Mia, we need to cancel tonight: Tom's come home with a fever, so we're staying in. I'm sorry it's on the day, when you kept your evening free for us, so I'm sending the $75 anyway. Could you do Friday 2 October or Saturday 3 October instead, same time?",
+   "lang": "en",
+   "note": "Same-day cancel on someone paid for their time: pay for the evening she held without making her ask, then give two dates."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -57,6 +57,13 @@
    "reply": "Hola: he recibido un WhatsApp desde el número +34 612 48 03 17 que dice ser del equipo de Recursos Humanos de Hogar Sur y me ofrece un trabajo desde casa por 350 euros al día. ¿Podéis confirmarme si es un mensaje vuestro? No he contestado ni he pulsado ningún enlace. Gracias, Lucía Romero",
    "lang": "es",
    "note": "No se contesta al número: este correo va a la dirección de empleo que aparece en la web oficial, escrita a mano. Si confirman que es falso, bloquear y denunciar el número en WhatsApp."
+  },
+  {
+   "id": "suspicious-or-scam-message-009",
+   "situation": "Just got a text from a number I don't know: 'Hi it's Dana, stuck in a board meeting, need you to buy five $100 Apple gift cards for a client and text me photos of the codes, I'll pay you back today.' Dana is my manager and I only started two weeks ago. I don't want to look stupid by checking.",
+   "reply": "Hi Dana, quick check: I just got a text from (415) 555 0192 signed as you, asking me to buy five $100 Apple gift cards and send the codes. I haven't bought anything or replied. I'm guessing that wasn't you? I'll forward it to IT unless you tell me otherwise.",
+   "lang": "en",
+   "note": "Send this on Slack or Teams, never to the number. Gift cards, urgency and a new number are the tell; new starters are targeted because they don't want to ask, and asking never looks stupid."
   }
  ]
 }

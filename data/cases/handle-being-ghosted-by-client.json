@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -57,6 +57,13 @@
    "reply": "No apology needed, Omar, I know how busy the season gets. To catch up July and August I need two things: the fuel and supplier receipts for both trucks, and the Square payout reports for those two months. Phone photos are fine. If I have them by Monday 5 October, your books will be up to date by Friday 9 October.",
    "lang": "en",
    "note": "When they come back: skip the reproach, answer 'what do you need' with a short list and a date, and make picking up easy."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-009",
+   "situation": "I run brand workshops. A bakery owner, Priya, signed and paid a $1,500 deposit on Sept 1 for a half-day workshop. I sent kickoff date options on Sept 8 and nudged once on Sept 15. Nothing since.",
+   "reply": "Hi Priya, I'd love to get your brand workshop on the calendar before the holiday rush. To keep it simple, here are two options: Tuesday 13 October or Thursday 22 October, both 9am to 1pm at your Main Street shop. Just reply 13 or 22. If this needs to wait until the new year, that's fine too, your deposit stays credited to the workshop, just let me know so I can plan.",
+   "lang": "en",
+   "note": "A client who has already paid and gone quiet usually just has too much on: shrink the reply to one word and offer the pause openly."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -57,6 +57,13 @@
    "reply": "Hi Kate, could we look at the Tuesday planning slot? 8am Chicago is 9pm here in Singapore. Two options: I put my updates and blockers in the planning doc by my end of day Monday so they're there before the call, and I join live only when something needs me; or we alternate weeks, with every other call at 7pm Chicago, which is 8am Wednesday for me. Which works better for the team?",
    "lang": "en",
    "note": "Time zones: name the cost once, without complaint, and give the organiser two workable alternatives rather than a bare no."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-009",
+   "situation": "A peer PM, Luis, keeps booking 'quick syncs' over my Tuesday and Thursday 9 to 12 focus blocks, even though they're on my calendar. He just put one in for this Thursday at 10. I'm a staff engineer and I don't want to be precious about it.",
+   "reply": "Hi Luis, I'll skip Thursday at 10. If what you need is my go or no-go on the rollout flag, I'll post it in the channel by 5pm Wednesday. Tuesday and Thursday mornings are heads-down for me, so for anything live, 2 to 4 any afternoon works. Does that cover it?",
+   "lang": "en",
+   "note": "Decline the slot, answer the likely question in writing, and name the window that does work, once, without a speech about focus time."
   }
  ]
 }

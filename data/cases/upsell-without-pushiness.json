@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -57,6 +57,13 @@
    "reply": "Oi, Fernando! A completa custa R$ 160 a mais, e a diferença real é que desmontamos e engraxamos os rolamentos do movimento central e das rodas. Para uma bike de um ano rodando 5 km por dia, a básica resolve bem: freios, marchas, lubrificação e calibragem. A completa começa a valer a pena no segundo ou terceiro ano, ou se aparecer algum barulho. Quer que eu agende a básica para sábado, dia 3, de manhã?",
    "lang": "pt",
    "note": "Quando perguntam a diferença: uma diferença concreta e a verdade sobre quando vale a pena. O downsell honesto é o que dá credibilidade à próxima recomendação."
+  },
+  {
+   "id": "upsell-without-pushiness-009",
+   "situation": "我是健身房私教，学员小陈买的20节课还剩2节。两个月里他深蹲从40公斤练到了70公斤，腰也不疼了。我想提一下续课，但不想像在推销。",
+   "reply": "小陈，还剩两节课了。这两个月你深蹲从40公斤到了70公斤，腰也不疼了，进步真的很明显。如果接下来想继续练增肌，比较合适的是再买20节的课包，一共5400元，每节比单买便宜30元。说实话，现在动作你都掌握了，自己按计划练也完全可以，我可以把接下来两个月的计划写好发你。你考虑看看，不续也没关系。",
+   "lang": "zh",
+   "note": "在效果最好的时候提，只提一个选项，价格说清楚，同时给出不花钱的选择；诚实的替代方案才让建议可信。"
   }
  ]
 }

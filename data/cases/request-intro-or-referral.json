@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -57,6 +57,13 @@
    "reply": "周姐，想请您帮个忙：能不能帮我引荐一下产品部的何总？我以后想往产品方向发展，想先跟何总聊30分钟，了解他们团队需要什么样的人。手上的双十一项目我会负责到底，这个不会变。您要是觉得现在不合适，直接跟我说就好。\n如果方便，下面这段可以直接转给何总：\n“何总，介绍一下我们组的林悦。她做了三年用户增长，今年的会员拉新活动是她牵头的，转化率比去年高了40%。她对产品方向很感兴趣，想约您30分钟聊聊，您看方便吗？”\n不管结果怎样，聊完我都跟您说一声。",
    "lang": "zh",
    "note": "请现任领导引荐内部转岗：先说清手上的工作不受影响，给她说不的空间，附一段能直接转发的介绍。"
+  },
+  {
+   "id": "request-intro-or-referral-009",
+   "situation": "Three weeks ago my friend Hannah introduced me by email to Tom Reyes, a director at a solar company, for a chat about switching into the industry. I emailed Tom on Sept 9 and again last week, no reply. Meanwhile I've lined up a call with someone at SunPeak on Monday. Hannah just texted 'did you two ever talk?'",
+   "reply": "Not yet! I emailed Tom on the 9th and again last week, no reply so far, which is totally fine, so I'll leave it there rather than chase him. Thank you again for the intro. It got me thinking about who else to talk to, and I've got a call with someone at SunPeak on Monday. I'll let you know how it goes.",
+   "lang": "en",
+   "note": "Report back even when the intro went nowhere: no complaint about Tom, no asking her to nudge him, and a next step so her effort feels worth it."
   }
  ]
 }

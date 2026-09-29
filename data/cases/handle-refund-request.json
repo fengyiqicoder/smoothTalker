@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -57,6 +57,13 @@
    "reply": "周小姐，您说得对，是我的问题：9月18日答应给您退的168元我忘了操作，还让您来追着问，真的很抱歉。刚刚已经原路退回到您的微信零钱，一般几分钟就到账，今晚之前没看到的话直接告诉我。另外送您一张20元无门槛券，下次选茶具时用。",
    "lang": "zh",
    "note": "答应了却没退，拖延本身才是真正的投诉：先认错，马上办好，说清什么时候到账。"
+  },
+  {
+   "id": "handle-refund-request-009",
+   "situation": "I'm a wedding photographer. Nadia paid a $1,500 non-refundable deposit to hold June 12 next year. She's just emailed that the wedding is off and asked if she can have the deposit back. I turned away two other couples for that date.",
+   "reply": "Hi Nadia, I'm so sorry to hear the wedding is off; that can't have been an easy email to write. The deposit held your date, and I turned other couples away for it, so I can't refund the full $1,500. What I can do is refund $750 this week, or keep the whole $1,500 as credit for any shoot in the next two years, whether that's portraits, family photos or another celebration. Tell me which suits you and I'll sort it straight away.",
+   "lang": "en",
+   "note": "A life event isn't a policy argument: the human line first, the no in one clause, two real alternatives. Never ask what happened."
   }
  ]
 }

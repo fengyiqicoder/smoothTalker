@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -57,6 +57,13 @@
    "reply": "Sehr geehrte Frau Krüger,\nich weiß, dass bei Ihnen gerade viel los ist, und melde mich noch einmal wegen meiner Mietkaution für die Wohnung Kochstraße 14, 2. OG links. Die Übergabe war am 31. Juli ohne Mängel, die Kaution beträgt 1.650 Euro. Könnten Sie mir kurz sagen, bis wann ich mit der Rückzahlung rechnen kann? Ein ungefähres Datum reicht mir völlig, damit ich planen kann. Meine IBAN steht in der Mail vom 1. September, ich schicke sie aber gern noch einmal.\nMit freundlichen Grüßen\nTobias Lange",
    "lang": "de",
    "note": "Zweiter Anstoß: das Anliegen in einer Zeile und eine winzige Antwort (ein Datum). Ein Teil darf bis zur Nebenkostenabrechnung einbehalten werden, deshalb nach einem Datum fragen statt sofortige Zahlung fordern."
+  },
+  {
+   "id": "follow-up-unanswered-009",
+   "situation": "我在做季度经营分析，一周前在钉钉上找财务部的小陈要三季度各区域的退款数据，三天前又提醒过一次，都没回。报告10月12日周一要交。",
+   "reply": "小陈，知道季度末你们财务最忙。还是三季度各区域退款数据的事，我的报告10月12日要交，如果明天下班前能给我就能赶上；来不及的话，给我一个大概时间也行，我好排进度。实在排不开也没关系，告诉我找谁拿更方便。",
+   "lang": "zh",
+   "note": "第二次提醒：先替对方想到忙，一句话说清要什么，截止时间是为了排期，再留一个体面的出口。"
   }
  ]
 }

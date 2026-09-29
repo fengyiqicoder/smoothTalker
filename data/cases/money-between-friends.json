@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -57,6 +57,13 @@
    "reply": "Hey Marco, about the $200 from April: please forget it, we're square. You've bailed me out more times than I can count, and you've got enough on your plate right now. Beers are on me Friday if you're up for it.",
    "lang": "en",
    "note": "Writing it off works only if you actually let it go: say it once, clearly, and never mention the amount again."
+  },
+  {
+   "id": "money-between-friends-009",
+   "situation": "Mon pote Hugo, qu'on connaît depuis la fac, me demande de lui prêter 800 euros pour la caution de son nouvel appart. Je ne peux pas, je rembourse encore mon prêt étudiant, et je ne veux pas que ça crée un malaise entre nous.",
+   "reply": "Trop content pour l'appart, Hugo ! Pour les 800 euros, je ne peux pas, je rembourse encore mon prêt étudiant et je n'ai pas cette marge en ce moment. Par contre, regarde l'avance Loca-Pass d'Action Logement, ça sert justement à avancer le dépôt de garantie et tu y as peut-être droit. Et samedi je suis dispo avec la voiture pour le déménagement.",
+   "lang": "fr",
+   "note": "Un non clair avec une seule raison courte, sans détailler ses finances, puis une aide concrète qui ne coûte pas d'argent."
   }
  ]
 }

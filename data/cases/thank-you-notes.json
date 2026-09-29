@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -57,6 +57,13 @@
    "reply": "To everyone on Ward 7,\nThank you for looking after my dad, Peter Walsh, for the nine days he was with you. You kept him safe, and you also kept him laughing, which he'll tell anyone who listens. A special thank you to Grace, who sat with him at 3am when he was frightened; he still talks about it. He's home now and walking to the end of the road and back every morning. We'll never forget what you did for our family.\nWith love and thanks,\nClaire Walsh and family",
    "lang": "en",
    "note": "A card for a team: thank everyone, name the one person and the moment, and give them the update they rarely get, how the patient is doing now."
+  },
+  {
+   "id": "thank-you-notes-009",
+   "situation": "My friend's brother Omar referred me for a product manager role at Fielding and spent half an hour on the phone prepping me the night before my final round. I didn't get it; they went with an internal candidate. I still want to thank him.",
+   "reply": "Hi Omar, I wanted to let you know I didn't get the Fielding role; they went with someone internal. I still wanted to thank you properly for the referral, and for the half hour on the phone the night before my final round explaining how the product team works. It's the reason I got as far as I did. If I can ever return the favour, I will, and I'll let you know where I land.",
+   "lang": "en",
+   "note": "Thank the effort, not the outcome. The bad news goes in one plain line so he isn't left wondering, then the specific thing he did."
   }
  ]
 }

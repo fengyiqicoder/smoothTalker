@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -57,6 +57,13 @@
    "reply": "I need to tell you something hard, and I'd rather do it in writing: I lost the pregnancy last week. Physically I'm okay, and Tom and I are taking it a day at a time. I'm not ready to talk about it much yet, so please don't worry about finding the right words; a heart or an 'I'm here' is plenty. What would help most is you being normal with me, so yes, I'm still coming to book club on Thursday.",
    "lang": "en",
    "note": "Hard news to people who knew the good news: the fact in one line, then a clear signal of the support wanted, which here is normality."
+  },
+  {
+   "id": "share-personal-news-009",
+   "situation": "我和女朋友小林上周领证结婚了，决定不办婚礼，两个人去旅行就算了。爸妈提前知道，也支持。现在想在家族群里说一声，怕长辈们觉得没被尊重。",
+   "reply": "各位长辈、兄弟姐妹：跟大家报个喜，我和小林上周领证结婚了！我们商量后决定不办婚礼，两个人去云南走一走当蜜月。爸妈之前已经知道，也很支持我们。春节回老家的时候，我们俩一起给大家敬酒、发喜糖。谢谢大家一直以来的关心！",
+   "lang": "zh",
+   "note": "先告诉爸妈，再发家族群；喜讯放第一句，“不办婚礼”一句说清，再给长辈一个具体的见面场合，比解释原因更显尊重。"
   }
  ]
 }

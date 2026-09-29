@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -57,6 +57,13 @@
    "reply": "Ha, that barn is gorgeous, Brooke. We've booked the courthouse for 11 December and it's exactly what we want, so we're done looking at venues. I'd love your eye on something else though: would you help me pick the flowers for the lunch afterwards?",
    "lang": "en",
    "note": "Name the decision once, kindly, and give her care somewhere useful to go, but only if you want her involved. If the photos keep coming: 'We've decided, let's leave venues there.'"
+  },
+  {
+   "id": "respond-to-unsolicited-advice-009",
+   "situation": "I'm five months pregnant. Brenda, a coworker from another team I barely know, saw my latte in the office kitchen and said 'you really shouldn't be having caffeine, it's bad for the baby'. My midwife said one coffee a day is fine.",
+   "reply": "Thanks, Brenda, my midwife and I have it covered. How's the move to the new floor going?",
+   "lang": "en",
+   "note": "For an acquaintance, the lowest rungs of the ladder: one short line of position and a new subject. Quoting guidelines would only give her something to argue with."
   }
  ]
 }

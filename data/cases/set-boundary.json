@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -57,6 +57,13 @@
    "reply": "Dad, I love how proud you are of the kids, and I know the photos come from a good place. We've decided we don't want their pictures online, especially with the school visible. So I'm going to stop posting photos in the family group and send them to you directly, just for you and Mum. Could you take down the ones that are up now? Show them off on your phone as much as you like.",
    "lang": "en",
    "note": "The rule is about what you'll do with the photos, and there's one concrete ask. If he pushes back, repeat the same line shorter, with no new reasons."
+  },
+  {
+   "id": "set-boundary-009",
+   "situation": "表弟在北京实习，这半年已经来我家住了三次，每次一住就是一个多星期。我家一室一厅，我和女朋友住，很不方便。他说下个月还要来。我想以后不留他在家住了，但不想伤感情。",
+   "reply": "小凯，你来北京我挺高兴的，吃饭逛街随时叫我。跟你说一声，以后我这儿不留人过夜了，一室一厅两个人住已经挺挤。你下个月来，我帮你在我家附近找家快捷酒店，第一天晚上我请你吃烤鸭。",
+   "lang": "zh",
+   "note": "说成自己的规矩（不留人过夜），而不是说他添麻烦；他再磨，就把同一句话缩短了再说一遍。"
   }
  ]
 }

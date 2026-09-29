@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -57,6 +57,13 @@
    "reply": "Thanks for telling me about the school run yesterday, that's useful context and I'm glad I know. What still matters is that clients have their reports when their week starts. So here's the adjusted ask: finish them by Friday 5pm and schedule them to send at 9am Monday, starting this week. If a Friday gets tight, tell me by Thursday and we'll move something off your plate. Let's check how it's going on Friday 16 October.",
    "lang": "en",
    "note": "When pushback brings real context, change the ask, not the goal, and still put a check-in date on it."
+  },
+  {
+   "id": "give-feedback-to-colleague-009",
+   "situation": "I manage an account manager, Dev. Twice this month he's promised clients a delivery date on the call without checking with production, and last Friday we had to walk back the Kessler date, which made us look bad. We have our 1:1 tomorrow.",
+   "reply": "Can I give you some feedback on client commitments? On the Kessler call two weeks ago you confirmed delivery for 9 October before checking with production, and on Friday we had to tell them it's now the 16th. Their ops lead asked me whether our dates can be trusted. What's your read on how it happened? Going forward, when a client asks for a date, tell them you'll confirm within 24 hours, and check with Anna in production first. Let's look at your next two commitments together on Tuesday 13 October.",
+   "lang": "en",
+   "note": "One behaviour, one dated example with its real cost, a genuine question, then a line he can use on the very next call."
   }
  ]
 }

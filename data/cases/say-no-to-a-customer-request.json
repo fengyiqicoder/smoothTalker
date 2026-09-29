@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -57,6 +57,13 @@
    "reply": "You're right, Derek, and thanks for sending the screenshot. The listing still said personalisation was available, which is my mistake, so I'll emboss D.M.K. on your wallet at no charge. It adds two days, so it ships Friday 2 October instead of tomorrow. I've corrected the listing so nobody else gets the same mixed message.",
    "lang": "en",
    "note": "A genuinely new fact changes the answer: say so, honour it without fuss, and fix the source so the exception doesn't become the baseline."
+  },
+  {
+   "id": "say-no-to-a-customer-request-009",
+   "situation": "我们做一款给小餐馆用的收银小程序。老客户李老板开了三家面馆，要我们加一个按门店分开的会员积分功能。今年开发排期满了，而且这个功能只有很少客户需要，不打算做。",
+   "reply": "李老板，谢谢您把需求说得这么细。按门店分开积分这个功能今年我们不做，开发这边全年都排在外卖平台对接上，我不想让您空等。现在能做到的是：给三家店各设一个会员标签，后台按标签导出积分明细，效果跟分店核算差不多。我明天下午可以远程帮您设置好，大概20分钟。您的需求我已经记下来，以后要是做了，第一时间告诉您。",
+   "lang": "zh",
+   "note": "功能请求：前两句就说不做，给一个真实理由，再主动给出现在就能用的替代办法；没排上的功能别说“在规划中”。"
   }
  ]
 }

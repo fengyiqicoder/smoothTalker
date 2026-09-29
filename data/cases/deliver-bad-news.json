@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -57,6 +57,13 @@
    "reply": "Have you both got a few minutes? I've got news you probably won't love, and I wanted to tell you myself rather than by text. I'm leaving law school at the end of this semester, in December. I've been thinking about it since the summer, and I've been offered an electrician apprenticeship with Carver Electric starting in January. I know you've put $12,000 a year into this and believed in it, and I don't take that lightly. From January I'll cover my own costs, and I'd like to walk you through the whole plan.",
    "lang": "en",
    "note": "Too big for a text: a call, the news by the third line, one reason, what it means for them, then the plan. Let them react before you explain more."
+  },
+  {
+   "id": "deliver-bad-news-009",
+   "situation": "邻居刘姐出差一周，托我喂她的猫年糕。今天下午我开门拿快递，年糕从门缝溜出去了，找了两个小时还没找到。她明天晚上才回来，我得现在告诉她。",
+   "reply": "刘姐，有个不好的消息得马上告诉你：今天下午4点左右我开门拿快递，年糕从门缝跑出去了，是我没看住。我在楼道、地下车库和小区花园找了两个多小时，还没找到。已经在业主群发了照片，物业也在帮忙查监控，晚上我带着它的猫粮和小毯子再去楼下找。真的对不起，我知道你现在肯定特别着急。一有消息我马上告诉你，想打电话的话我随时在。",
+   "lang": "zh",
+   "note": "第一句就把事情说清楚，承担责任但不长篇解释，然后说已经在做什么、接下来怎么办。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -57,6 +57,13 @@
    "reply": "妈，最近确实打得少了，是我不好。今晚八点我给您打视频，好好聊聊，让朵朵给您看看她新学的舞。",
    "lang": "zh",
    "note": "私聊回，不在群里接；她的不满有道理，就认一句，再换成更亲近的方式联系，不解释加班。"
+  },
+  {
+   "id": "respond-to-passive-aggressive-009",
+   "situation": "Rob in finance emailed me: 'Per my last email, I still need the Q3 vendor invoices. Not sure how else to ask.' I checked, and he did email me on Sept 21 and I missed it.",
+   "reply": "Hi Rob, thanks for resending, I'd missed your email on the 21st, that's on me. All 14 Q3 vendor invoices are attached, plus the two credit notes from Halden. Let me know if anything's still missing.",
+   "lang": "en",
+   "note": "Take it at face value: own the miss in half a sentence, give him what he needs, and leave the tone alone."
   }
  ]
 }

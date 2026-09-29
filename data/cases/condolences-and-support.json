@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -57,6 +57,13 @@
    "reply": "Dear Margaret,\nWe were so sorry to hear about Frank. Our boys still call him 'the waving man'; every morning on the way to school he was on the porch, and he once spent a whole Saturday fixing Theo's bike chain without being asked. Our street won't be the same. Tom will bring your bins in on Thursday evenings for as long as it helps. No need to reply to this card.\nWith love,\nAnna, Tom, Theo and Max",
    "lang": "en",
    "note": "A neighbour you barely know still gets the name, one specific memory and one practical thing that needs no answer from her."
+  },
+  {
+   "id": "condolences-and-support-009",
+   "situation": "I just found out on LinkedIn that my former manager Denise's husband Paul died in July. It's been over two months and I feel awful I didn't say anything. I met Paul at our team Christmas parties.",
+   "reply": "Denise, I only just heard about Paul, and I'm so sorry. I still remember him at our team Christmas parties, the only person who could get the whole finance team onto the dance floor. Thinking of you. No need to reply to this.",
+   "lang": "en",
+   "note": "Late is fine, and often lands better, because the messages have dried up by month two. One clause for the timing, no paragraph of guilt."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -57,6 +57,13 @@
    "reply": "刘总，谢谢您给我这个机会，组长这个角色我很想做好。从三月开始我已经在带小吴和小赵，他们的稿子都是我审，上个季度组里的准时交付率从80%提到了95%。升组长之后责任和范围都变了，我希望薪资同步调整到1.8万，和公司其他组长一致。如果现在调不了，我们能不能把条件和时间定下来，比如明年一月的调薪就按这个执行？",
    "lang": "zh",
    "note": "晋升是头衔、职责加薪资；只给头衔时不要直接接受，先谈薪资，谈不下来就把条件和日期写下来。"
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-009",
+   "situation": "My new manager Aisha started six weeks ago and doesn't know my history. I'm a customer success lead on $64k; since January I've owned our 14 enterprise accounts (about $2.1M a year) with a 96% renewal rate, and I wrote the onboarding playbook the team uses. I want $72k before the November review cycle. We meet Thursday.",
+   "reply": "Thanks for making time, Aisha. I really like this team and want to keep growing here, and since you're new I wanted to give you the full picture before the November cycle. Since January I've owned our 14 enterprise accounts, about $2.1M a year, with a 96% renewal rate, and I wrote the onboarding playbook the team uses now. Based on that scope and what CS leads are paid in the market, I'd like to move from $64,000 to $72,000. What would you need from me to make that case in November?",
+   "lang": "en",
+   "note": "A new manager can't vouch for your history, so give her the case in numbers she can repeat upstairs, and send it in writing the same day."
   }
  ]
 }

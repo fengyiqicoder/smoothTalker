@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -57,6 +57,13 @@
    "reply": "Mom, I know how much your book club means to you, and I love that you want them there. Dan and I are at 90, which is the venue's limit, and we're not adding anyone else from either side. That's our final answer on the list. We'd love to have the three of them over for a drink when we're back from the honeymoon.",
    "lang": "en",
    "note": "Agree the answer with your co-host first, give it once as a rule for both sides, and if she asks again, repeat it shorter without new reasons."
+  },
+  {
+   "id": "wedding-and-event-host-messages-009",
+   "situation": "Our wedding is Saturday Oct 24. My coworker Dana RSVP'd yes on our website for herself plus 'Mark', a guy she's been seeing for a few weeks. Her invite was just for her; we're only doing plus-ones for couples who are engaged or live together.",
+   "reply": "Hi Dana, so glad you can make it on the 24th! Quick note on the RSVP: we've kept plus-ones to partners who are engaged or live together so we stay within the venue's numbers, so your invitation is just for you. I've updated it on our end, so there's nothing you need to do. You'll be at a table with the whole office crew, and I can't wait to celebrate with you.",
+   "lang": "en",
+   "note": "Correct it quickly and privately, state the category rule once, and fix the list yourself so she has nothing awkward left to do."
   }
  ]
 }

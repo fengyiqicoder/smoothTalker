@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -57,6 +57,13 @@
    "reply": "Hi Dana,\nThanks for the time today, it was really useful to hear exactly what the path to senior looks like. Quick recap so we're aligned:\n- I'll lead the billing migration, with cutover planned for 15 January.\n- I'll mentor Theo through his first quarter, and we'll review how that's going at the end of December.\n- If both land, you'll put me forward in the March promotion cycle.\nShout if I've got anything wrong. I'll bring a progress update to our 1:1 on Tuesday 3 November.\nMaya",
    "lang": "en",
    "note": "A career conversation is a meeting too: the recap with owners and dates is what turns 'if you do this' into something both of you remember the same way."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-009",
+   "situation": "I'm an internal candidate for team lead on our support team. Interviewed yesterday with the director, Renata. She asked how I'd lead people who were my peers until last week, and I think my answer was too vague. Want to send her a thank-you on Slack.",
+   "reply": "Hi Renata, thanks for the interview yesterday, and for being so direct about what the first 90 days would look like. Your question about leading people who've been my peers is the one I've kept thinking about, so here's the clearer answer: I'd hold a one-to-one with each of the six of us in my first two weeks, agree how we'll handle disagreements, and keep taking a share of the escalation queue so I stay close to the work. I'd really like this role, and I'm happy to talk it through further before you decide.",
+   "lang": "en",
+   "note": "Internal follow-up: keep it short and in the channel you normally use, and spend it fixing the one weak answer rather than repeating the pitch."
   }
  ]
 }

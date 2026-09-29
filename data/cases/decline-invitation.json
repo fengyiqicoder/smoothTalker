@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -57,6 +57,13 @@
    "reply": "小何，恭喜恭喜！谢谢你还想着我，收到请柬挺开心的。11月14号我去不了成都，没法到现场喝你们的喜酒了。红包刚在微信上转给你，一点心意，祝你们新婚快乐、白头偕老！",
    "lang": "zh",
    "note": "不太熟的婚礼：不用编理由，一句“去不了”加一份心意就够了，人不到礼到是很常见的体面做法；不需要再补一句道歉。"
+  },
+  {
+   "id": "decline-invitation-009",
+   "situation": "My ex, Daniel, and I dated for four years and stayed friendly after we split in 2022. He just sent me an invite to his wedding on Saturday November 21. I'm genuinely happy for him, but I don't want to go.",
+   "reply": "Daniel, thank you for inviting me, it really means a lot that you'd want me there. I won't be coming on the 21st, but I'm so happy for you both. I hope it's a brilliant day.",
+   "lang": "en",
+   "note": "No reason and no alternative date, because you wouldn't go on any date; the warmth does the work, and there's no second apology."
   }
  ]
 }

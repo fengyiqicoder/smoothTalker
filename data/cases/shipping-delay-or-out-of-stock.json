@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -57,6 +57,13 @@
    "reply": "Hi Ben, I'm sorry, that's frustrating after watching the tracking. Tracking shows order #2194 delivered on Friday 25 September, so I've opened a claim with the courier this morning and asked for the GPS drop point. Could you check once with your building manager or mailroom? If it hasn't turned up by Thursday 1 October, I'll send a replacement by express that day, and if the first one appears you keep both. Or say 'refund' and I'll refund the $85 today. I'll email you Thursday either way.\nLeah",
    "lang": "en",
    "note": "'Delivered but not received' is still yours to fix: one reasonable check for him, a claim for you, a firm date for the replacement and refund as an easy exit."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-009",
+   "situation": "我开网店卖儿童绘本。顾客张先生订了三本（订单尾号3392），其中《小熊的秋天》出版社缺货，要10月20日才到货，另外两本是现货。他还不知道。",
+   "reply": "张先生您好，您的订单（尾号3392）里有一本出了问题：《小熊的秋天》出版社缺货，10月20日到货，是我们没及时下架。另外两本现货，明天就能发。三种方式您选：1是先发两本，《小熊的秋天》20日到货当天单独补寄，运费我们出；2是三本等到20日一起发；3是这本直接退款，今天原路退回。您不回复的话，我就按第1种先发两本。有问题随时找我。店主阿宁",
+   "lang": "zh",
+   "note": "部分缺货：先说哪本、哪天到，再给三个选择和默认选项；分开寄的运费由店家承担。"
   }
  ]
 }

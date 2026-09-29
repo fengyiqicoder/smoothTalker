@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -57,6 +57,13 @@
    "reply": "Hi, I'm calling about account 7730412, my ER visit on 14 August, with a balance of $2,480. I'd like to pay it in full today by card. Do you offer a prompt-pay discount for settling the whole balance at once? I was hoping for around 30 percent, so $1,736. If that's not something you do, could you tell me what discount you can offer, or whether I qualify for your financial assistance program?",
    "lang": "en",
    "note": "Paying in full today is the lever billing offices respond to; ask for a number, then a named fallback if they can't meet it."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-009",
+   "situation": "I run operations at a small food bank, a registered 501(c)(3). We want to move volunteer scheduling to Rosterly, whose Team plan is $1,440 a year for 10 seats. Their site doesn't mention nonprofit pricing, but we're ready to switch this month.",
+   "reply": "Hi, we're a registered 501(c)(3) food bank in Dayton and we'd like to move our volunteer scheduling to Rosterly this month. The Team plan for 10 seats is $1,440 a year. Do you offer nonprofit pricing? We're hoping for around half off, so $720, and we'd pay the full year upfront the day it's approved. If there's no nonprofit rate, I understand; could you tell me whether annual prepay changes the price? Thanks, Maya Collins, Operations, Eastside Food Pantry",
+   "lang": "en",
+   "note": "Nonprofit status is a real anchor. Name the number, offer upfront payment as the easy yes, and have one fallback question ready."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -57,6 +57,13 @@
    "reply": "我想了一下昨晚的事。先说一句：'你太敏感了'这句话是我不对，对不起。我听到你的意思是，你面试完一整天都在等我问一句，我却一直没问，让你觉得你的事在我这里不重要。我理解得对吗？你说，我先听。",
    "lang": "zh",
    "note": "暂停之后准时回来，先认自己那句话，再复述你听到的，请她纠正；她说完之前不要解释。"
+  },
+  {
+   "id": "de-escalate-argument-009",
+   "situation": "My boyfriend Sam and I are fighting over text because the electric bill got a $35 late fee. I kept insisting he forgot to pay it, then I checked and it was my month. He's furious that I blamed him.",
+   "reply": "You're right, it was my month, and I was wrong to blame you. I'm sorry. I'll pay the $35 today and set a reminder so it doesn't happen again. Can we talk tonight when you're home?",
+   "lang": "en",
+   "note": "When you were simply wrong, skip the 'we're both heated' framing: own it plainly, fix it, and don't explain how you mixed it up."
   }
  ]
 }

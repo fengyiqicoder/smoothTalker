@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -57,6 +57,13 @@
    "reply": "Hi Tomás, quick one about the Salesforce sync you built. It's dropping leads created on weekends, 43 of them last Saturday and Sunday. I've checked the field mappings and the API limits and both look fine, so I suspect the scheduler. Could you look at it with me for 15 minutes on Thursday or Friday? If payments has you swamped, a pointer to where the scheduler config lives would already help a lot.",
    "lang": "en",
    "note": "When a group post gets silence, don't re-post: ask one named person directly, with what you've ruled out and a small, time-boxed ask."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-009",
+   "situation": "我10月12号到16号请了年假。手上跟华东几家供应商的对账邮件每天都有，想请同组的小林帮我盯一下。我们是平级，她手上的活也不轻。",
+   "reply": "小林，想请你帮个忙：我10月12日到16日休年假，这周华东供应商的对账邮件能不能帮我盯一下？每天大概三四封，基本是确认金额。模板和对账表我9日周五前整理好放在共享盘，遇到金额对不上的直接放着，等我19日回来处理。你11月休假的时候，你那边的周报我来接。看你那周手上的事，接得过来吗？不方便也没关系，我再找别人。",
+   "lang": "zh",
+   "note": "平级之间没有分派的权力：说清范围和工作量，把难的留给自己，给一个交换，也给退路。"
   }
  ]
 }

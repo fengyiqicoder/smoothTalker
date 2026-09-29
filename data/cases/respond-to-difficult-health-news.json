@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -57,6 +57,13 @@
    "reply": "Of course, Priya. Thank you for telling me what you need. I'll go quiet, and I'm still right here. Unless you tell me otherwise, I'll send one short hello in early November, with no reply needed then either. Love you.",
    "lang": "en",
    "note": "When they ask for space, honour it in a few words and name when you'll check back, so quiet never turns into disappearing."
+  },
+  {
+   "id": "respond-to-difficult-health-news-009",
+   "situation": "My friend Kelly posted on Facebook that her son Noah (6) was just diagnosed with type 1 diabetes and they're in the children's hospital until Friday learning to manage it. Our kids are in the same class, and her older daughter Ava is in 4th grade at the same school. I want to message her.",
+   "reply": "Kelly, I just saw your post about Noah. I'm so sorry, what a week for all of you. I'll take Ava to and from school for the rest of the week, so that's one thing off your list; just tell me if you'd rather I didn't. Otherwise no need to reply.",
+   "lang": "en",
+   "note": "When it's a child's diagnosis, the parent is the one you support: a practical offer that happens by default, and no questions about the medical side."
   }
  ]
 }

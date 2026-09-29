@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -57,6 +57,13 @@
    "reply": "I've been thinking about what you said last night, and you're right. I've been booking our weekends and telling you afterwards, and Claire's on the 10th is the latest one. I don't want to be the person who does that. So, starting now: do you want to go on the 10th, or shall I tell her another weekend works better? And if I do it again, tell me right then.",
    "lang": "en",
    "note": "Pattern criticism from a partner: agree plainly with no explanation, prove it on the very next decision, and ask to be caught in the moment."
+  },
+  {
+   "id": "respond-to-criticism-009",
+   "situation": "At 11pm my teammate Olu posted a long message in our team channel saying I 'botched' last night's on-call incident because I didn't page the database team for 40 minutes. The 40 minutes is true, the rest I'm not sure about, and I'm too wound up to answer properly right now.",
+   "reply": "Thanks for laying it out, Olu. You're right that I waited about 40 minutes before paging the database team, and I own that. There are a couple of other points I want to answer properly rather than defensively, so I'll come back to you directly by noon tomorrow, and I've added the paging question to Thursday's incident review.",
+   "lang": "en",
+   "note": "When it stings: own the true part now, buy time for the rest with a firm time, and don't argue the details in the channel at 11pm."
   }
  ]
 }

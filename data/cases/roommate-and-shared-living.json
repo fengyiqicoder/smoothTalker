@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -57,6 +57,13 @@
    "reply": "Hi Kayla, coming back to the utilities: it's $214 in total, $102 for August and $112 for September. I've asked a couple of times now and I need it by Thursday 8 October. If it's still outstanding then, I'll ask Marsh Property about putting the bills into separate accounts, since we're both on the lease. If paying it all at once is tricky right now, tell me and we can do half now and half on the 15th.",
    "lang": "en",
    "note": "Past two reminders: exact amounts, a due date and the next step in writing, plus one real way to make paying possible. No comment on her reliability."
+  },
+  {
+   "id": "roommate-and-shared-living-009",
+   "situation": "My flatmate Leo keeps eating my food from the fridge. Last week it was my leftover lasagne and half a block of cheese, this week my yoghurts. We get on well and it's probably just different habits, but it's adding up.",
+   "reply": "Hey Leo, small fridge thing. A few bits of my food have gone lately, the lasagne last week and my yoghurts this week, and I'd been planning meals around them. Could we keep to our own shelves and just ask before borrowing something? I'll do the same, and I'm happy to go halves on basics like milk and eggs if that's easier.",
+   "lang": "en",
+   "note": "One issue, told as what happened rather than what he is, plus a small system so neither of you has to police the fridge."
   }
  ]
 }

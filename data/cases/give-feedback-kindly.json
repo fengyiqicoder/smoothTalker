@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -57,6 +57,13 @@
    "reply": "I don't think it was bad. The dentist bit was the best thing I heard all night, and people were still quoting it at the bar. The middle isn't there yet, and I think it can be, which is the only reason I said it. If you want a cheerleader for the next one, just say and I'll be the loudest person in the room.",
    "lang": "en",
    "note": "When they push you to say it was good, hold the point without adding to it, and offer to be the cheerleader next time if that's what they want."
+  },
+  {
+   "id": "give-feedback-kindly-009",
+   "situation": "My 17-year-old son Eli asked me to read his college essay, due Nov 1. It's all about winning the state debate final and reads like a résumé. The one paragraph about his grandpa driving him to practice at 6am is the only part that sounds like him.",
+   "reply": "I read it twice. The paragraph about Grandpa driving you to practice at 6am is the best thing in it; that's the part that sounds like you. Where I lost the thread was the rest, which tells me what you won more than who you are, and I'd guess admissions readers see a lot of trophy essays. What if the whole essay grew out of those car rides? It's your essay and your call. I'm only saying it because I think there's a really good one in here.",
+   "lang": "en",
+   "note": "With your own teenager: one point, framed as a reader's experience, and the decision handed back. It's his essay, not yours."
   }
  ]
 }

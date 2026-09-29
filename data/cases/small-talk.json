@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "small-talk-001",
@@ -57,6 +57,13 @@
    "reply": "So how's the training for York going? You mentioned it in my first week and I've been wondering how far the long runs are up to now.",
    "lang": "en",
    "note": "Open with the one thing you remember, follow his answer ('What got you into running?'), share one small thing back, and on a long drive let a quiet stretch be quiet."
+  },
+  {
+   "id": "small-talk-009",
+   "situation": "On vient d'emménager à Lyon et je récupère ma fille à l'école tous les jours. Les autres parents se connaissent tous. Il y a un papa qui attend toujours au portail avec un grand chien roux, et ma fille ne parle que de ce chien.",
+   "reply": "Bonjour ! Ma fille ne parle que de votre chien depuis la rentrée. Il s'appelle comment ?",
+   "lang": "fr",
+   "note": "Partir de ce qu'il y a sous les yeux, puis rebondir sur sa réponse et glisser une phrase sur vous (« On vient d'arriver de Nantes ») avant de lui rendre la parole."
   }
  ]
 }

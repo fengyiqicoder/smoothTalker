@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -57,6 +57,13 @@
    "reply": "你好，说一下乐乐的情况。他今天下午发烧到38.5度，4点带他看了儿科，医生说是病毒性感冒，开了退烧药（超过38.5度再吃）和止咳糖浆，一天三次，吃到周五。周五交接时药和医嘱我放在他书包里。如果周五他还在发烧，你是按原计划6点接，还是改到周六上午？周四晚上前告诉我就行。谢谢。",
    "lang": "zh",
    "note": "医疗情况只写事实：诊断、用药、交接安排，再加一个带期限的问题；不评价对方，不提过去。"
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-009",
+   "situation": "I want to take our kids Sofia (9) and Mateo (6) to see my parents in Guadalajara during my Christmas weeks, Dec 20 to Jan 2. The airline needs a signed consent letter from my ex, Ryan. We're civil, but he gets anxious about the kids travelling abroad.",
+   "reply": "Hi Ryan, I'd like to take Sofia and Mateo to my parents' in Guadalajara during my holiday weeks, flying out Sunday 20 December and back Saturday 2 January. I'll send you the flight numbers and my parents' address and phone, and the kids can video call you on Christmas Day and any other day you'd like. Because they're travelling abroad, the airline needs a signed consent letter from you; I've attached a draft. Can you let me know by Friday 16 October if you're okay to sign it? Thanks.",
+   "lang": "en",
+   "note": "Answer the anxious parent's questions with facts before he asks (flights, address, calls), not reassurance, and give weeks rather than days to reply."
   }
  ]
 }

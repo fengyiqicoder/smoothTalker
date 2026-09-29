@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -57,6 +57,13 @@
    "reply": "Thanks for your email. As of Friday 2 October I've left Brightline Media, and this inbox is no longer read. For client accounts, please contact Keisha Moore (keisha.moore@brightlinemedia.com). For anything else, hello@brightlinemedia.com will route you. It's been a pleasure working with you.",
    "lang": "en",
    "note": "Leaving for good: the date, a plain 'no longer read', and two named routes. No new contact details unless your employer is happy with that."
+  },
+  {
+   "id": "out-of-office-and-away-messages-009",
+   "situation": "I'm a solo physiotherapist with my own small clinic. I've come down with flu and need to close Wednesday Sept 30 to Friday Oct 2. Nobody covers for me. I want a WhatsApp away message for patients.",
+   "reply": "Hi, the clinic is closed from Wednesday 30 September to Friday 2 October as I'm unwell, and reopens Monday 5 October. If you're booked on those days, I'll message you by Monday to rebook, so there's nothing you need to do. For new pain or an injury that can't wait, please contact your GP or call NHS 111. Sam",
+   "lang": "en",
+   "note": "Solo and sick: the dates, no symptoms, a real route for urgent cases since nobody covers, and the rebooking work taken off patients."
   }
  ]
 }

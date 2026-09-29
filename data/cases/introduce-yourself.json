@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -57,6 +57,13 @@
    "reply": "Hi everyone, I'm Priya, and I'll be leading the design on the app redesign for the next ten weeks. I've done similar work for two other credit unions, and the thing I care most about is that your members can still find their balance without thinking a year from now. Before design I was a bank teller for three years, so I've heard every complaint about banking apps in person. I'll be asking a lot of questions this week, and none of them are traps. If there's one thing members call you about more than anything, I'd love to hear it today.",
    "lang": "en",
    "note": "With a client team wary of outsiders: one relevant credential, one human hook that shows you get their members, and an invitation to talk."
+  },
+  {
+   "id": "introduce-yourself-009",
+   "situation": "Started yesterday as operations manager at a warehouse, the third one in two years. I posted a short hello in the team WhatsApp and one of the shift leads, Gary, replied 'Another new manager, let's see how long this one lasts 😂'. A few people laughed. How do I answer?",
+   "reply": "Ha, fair, three managers in two years would make me skeptical too, Gary. I'm planning to stick around long enough to get annoying. Since you've watched all three of us come and go, what's the one thing on the floor you'd fix first? I'm on the night shift Thursday, happy to hear it over a coffee.",
+   "lang": "en",
+   "note": "Take the jab lightly, agree with the true part, and make the skeptic the first person whose opinion you ask for."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -57,6 +57,13 @@
    "reply": "Hi Mr Doyle, I'm Sam Reid's dad (3D). Sam's mum and I separated over the summer, and Sam is now with me Monday to Wednesday and with her the rest of the week. Could you add me to the class emails and reading-record notes, at tom.reid@fastmail.com, so both homes stay in the loop? He seems to be handling it well, and we're keeping homework and bedtimes the same at both houses. If you notice anything in class, I'd really appreciate hearing about it. Thanks, Tom Reid",
    "lang": "en",
    "note": "Family change: facts only, no blame on the other parent, one practical ask, and an open door for the teacher to share what she sees."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-009",
+   "situation": "My son Owen's teacher, Ms. Delgado (Grade 2), called and then emailed me yesterday: Owen pushed a classmate off the slide at recess and the boy scraped his knee. Owen says the other kid pushed him first. I want to reply to her email without sounding defensive.",
+   "reply": "Hi Ms. Delgado, thank you for calling me yesterday about recess. We talked with Owen last night. He says the other boy pushed him first, and he also agrees that pushing someone off the slide is never okay; he's written a short sorry note he'd like to give him. If you saw anything that would help us understand what happened, I'd be grateful to hear it. Could we have a quick call this week about what Owen should do next time he's upset at recess? I'm free after 3:30 any day.\nThanks,\nLaura Kemp",
+   "lang": "en",
+   "note": "When your child is the one in trouble, don't argue the facts: show what you're doing at home, ask what the teacher saw, and look ahead."
   }
  ]
 }

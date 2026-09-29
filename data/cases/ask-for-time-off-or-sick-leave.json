@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -57,6 +57,13 @@
    "reply": "Buenos días, Marta. Estoy enfermo y hoy no puedo ir al turno de 7 a 15. Álex me cubre desde las 9; falta alguien para la apertura de 7 a 9 y ya les he escrito a Lucía y a Dani por si pueden. Mañana antes de las 12 te digo cómo sigo para el turno del jueves.",
    "lang": "es",
    "note": "Trabajo por turnos: el mensaje sale antes de la apertura, dice qué hueco queda sin cubrir y cuándo vuelves a avisar. La fiebre no hace falta mencionarla."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-009",
+   "situation": "I was off sick yesterday, Monday, just the one day. My manager Ruth has now messaged asking me to bring a doctor's note. Our handbook says a note is only needed after three consecutive days, and a GP appointment here takes about a week.",
+   "reply": "Hi Ruth, I'm back and feeling better today. On the note: the handbook says one is needed after three consecutive days off, so I didn't get one for a single day, and GP appointments here are about a week out. If there's a different policy for our team, could you point me to it? If so, I'll ask the surgery for a letter.",
+   "lang": "en",
+   "note": "Point to the written policy instead of arguing, stay willing, and check with HR only if she insists against the handbook."
   }
  ]
 }

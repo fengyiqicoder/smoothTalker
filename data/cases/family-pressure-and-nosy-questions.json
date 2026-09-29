@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -57,6 +57,13 @@
    "reply": "Ah, dona Célia, a senhora não esquece nunca, né? Quando a gente tiver novidade, a senhora vai ser a primeira a saber. Agora me conta, é hoje que sai aquele pavê de sobremesa?",
    "lang": "pt",
    "note": "Não explicar a dúvida sobre o batismo: explicação vira convite para conselho. Se ela voltar ao assunto, repetir a mesma frase quase igual."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-009",
+   "situation": "Every year my grandma asks if I'll come to midnight Mass with the family on Christmas Eve. I stopped going to church years ago and I'm not going, but she's 88 and I don't want to hurt her. She asked again on the phone this week.",
+   "reply": "I know how much Christmas Eve Mass means to you, Nana, and I love that you want us all there. I won't be coming to Mass, but I'll be at the house by 6 on the 24th to help with dinner, and I'll have the cocoa ready when you're all back. Are you making the tourtière again this year?",
+   "lang": "en",
+   "note": "A direct invitation needs a clear answer, but no reasons about faith, which only open a debate. Give her a warm, specific plan, redirect, and repeat the same line if she asks again."
   }
  ]
 }

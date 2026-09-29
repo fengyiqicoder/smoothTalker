@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -57,6 +57,13 @@
    "reply": "Hi Ruth,\nFrom Monday 2 November, your weekly veg box goes from $32 to $35. Our partner farms have raised their prices this season, and this is what it costs to keep paying them fairly. Because you've been with us for over two years, you'll stay at $32 until the end of February. The box itself doesn't change: same farms, same Tuesday delivery. If you'd like to pause or cancel, it takes two clicks on your account page, no questions asked. Thank you for eating with us all this time.\nMarco, Green Crate",
    "lang": "en",
    "note": "Subscription increase: price and date first, one honest reason, a loyalty hold for long-time members and an exit that is genuinely easy."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-009",
+   "situation": "I own a small hair salon with two other stylists. From Monday Nov 2 we'll be closed on Mondays and open until 8pm on Thursdays instead of 6. Emailing our client list; a few regulars always book Mondays.",
+   "reply": "Hi Grace,\nFrom Monday 2 November, the salon will be closed on Mondays, and on Thursdays we'll stay open until 8pm instead of 6. We're a team of three, and this gives each of us a proper weekend, which keeps us at our best for you. Everything else stays the same: same stylists, same prices, same online booking. If you have a Monday appointment after 2 November, I'll message you this week to move it to a time that suits you, and the late Thursday slots are open to book now. Thank you for sitting in our chairs.\nLeila, Loose Ends Hair",
+   "lang": "en",
+   "note": "An hours change is a policy change: the new days first, one honest line, what stays the same, and you do the rebooking for the people it hits."
   }
  ]
 }

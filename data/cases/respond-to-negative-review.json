@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -57,6 +57,13 @@
    "reply": "Thank you for the feedback. I'm sorry you left unhappy, and that we'd run out of oat milk that morning; we've since doubled our standing order. I've spoken with the team about the visit and I'm satisfied they handled a difficult situation professionally. If you'd like to talk it through, I'm at hello@juniperandrye.com. Leah, owner.",
    "lang": "en",
    "note": "Back your staff without describing the customer's behaviour in public, own the part that was yours, and stop there."
+  },
+  {
+   "id": "respond-to-negative-review-009",
+   "situation": "I run a small yoga studio. A 2-star Google review from 'Priya S.' says our $28 drop-in is 'a rip-off for a 60-minute class'. Our classes are 75 minutes, and we're not changing prices, but I don't want to sound defensive.",
+   "reply": "Thank you for the honest feedback on price, Priya. $28 is a real amount for one class, and I understand it can feel steep for a single visit. One small correction for anyone reading: our classes run 75 minutes, not 60. If you come regularly, the 10-class pass brings it to $21 a class. If anything else didn't work for you, I'd like to hear it at hello@stillpointyoga.com. Meg, owner",
+   "lang": "en",
+   "note": "A price complaint isn't a fault to own: acknowledge the cost, correct the fact once, point to the cheaper route, and never discount in public."
   }
  ]
 }

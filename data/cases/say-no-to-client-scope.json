@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -57,6 +57,13 @@
    "reply": "Hi Lisa, happy to help with the forecast for the bank. It's a proper piece of work rather than a quick one, about six hours to build a 12-month forecast the bank will take seriously, so I'd bill it separately at $450. I can have it to you by Monday 5 October, which leaves time to go through it together before Wednesday. Shall I go ahead?",
    "lang": "en",
    "note": "A 'quick favour' that isn't quick: say yes to the work, name the real size and the price in writing, and let her decide before you start."
+  },
+  {
+   "id": "say-no-to-client-scope-009",
+   "situation": "I'm a freelance web developer on a $2,000/month maintenance retainer with an online furniture store. The owner, Mark, has started texting me at 10pm and on Sundays and expects a reply within the hour. Our agreement says support is weekdays 9 to 6.",
+   "reply": "Hi Mark, great to see the shop this busy. Our maintenance agreement covers weekdays 9 to 6, so anything that arrives outside those hours I'll pick up first thing the next working morning. Real emergencies, like checkout or the whole site going down, are covered any time: call me on 555 0134 and I'll jump on it. If you'd like guaranteed weekend cover through the Black Friday rush, I can add it for $300 a weekend. Does that work for you?",
+   "lang": "en",
+   "note": "Availability is scope too: name the hours in the agreement, give a real emergency route, and price extra cover instead of quietly absorbing it."
   }
  ]
 }

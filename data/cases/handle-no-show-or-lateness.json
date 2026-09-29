@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -57,6 +57,13 @@
    "reply": "No stress at all, hope your day calms down. I'm going to stop booking things in advance for now, it's easier on both of us. But if you're ever free last minute, text me and I'll come if I can.",
    "lang": "en",
    "note": "After naming the pattern once, you change how you plan, not the friendship. Say it once, without heat, and don't list the cancellations again."
+  },
+  {
+   "id": "handle-no-show-or-lateness-009",
+   "situation": "Sou personal trainer. O Felipe, aluno novo, tinha treino comigo hoje às 7h no Parque da Cidade e não apareceu nem avisou. Esperei até 7h30. Nosso contrato diz que falta sem aviso de 12 horas é cobrada, mas foi a primeira vez.",
+   "reply": "Oi, Felipe, tudo bem? Tínhamos treino hoje às 7h no Parque da Cidade e te esperei até 7h30. Se aconteceu alguma coisa, sem problema. Posso te encaixar na quinta, 1º de outubro, às 7h, no mesmo lugar. Só lembrando que, pelo nosso contrato, falta sem aviso de 12 horas é cobrada normalmente a partir da próxima.",
+   "lang": "pt",
+   "note": "Falta profissional: fato com horário, uma opção concreta para remarcar e a regra para a próxima vez, dita uma vez e sem ameaça."
   }
  ]
 }

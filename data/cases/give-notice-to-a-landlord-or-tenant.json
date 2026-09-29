@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -57,6 +57,13 @@
    "reply": "Hi Kofi, I wanted to tell you in person first, and this is the written notice to go with it. My mum is moving in with us, so I need the spare room back, and I'm ending our lodging agreement on Monday 30 November. That's two months rather than the one month in our agreement, to give you proper time to find somewhere. Your rent stays as it is until then, and I'll return your £400 deposit on the day you move out. I'm very happy to be a reference, and you've been a great person to share the house with. Could you confirm you've received this?",
    "lang": "en",
    "note": "A lodger in your home still gets exact dates in writing; giving more than the minimum notice and a reference is what keeps it kind."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-009",
+   "situation": "Vivo de alquiler en Madrid desde marzo de 2025, con un propietario particular, don Alfonso. El contrato pide 30 días de preaviso por escrito. Me mudo a Valencia por trabajo y quiero dejar el piso el 31 de octubre.",
+   "reply": "Estimado don Alfonso:\nLe comunico que dejaré la vivienda de la calle Embajadores 112, 3.º B, y que el contrato terminará el 31 de octubre de 2026, conforme al preaviso de 30 días de la cláusula 4. Le envío también este aviso por burofax para que quede constancia. Pagaré el alquiler de octubre como siempre, y le propongo hacer la revisión del piso, la lectura de contadores y la entrega de llaves el sábado 31 a las 11:00. ¿Me podría confirmar por escrito que ha recibido este aviso?\nGracias por estos casi dos años, ha sido un placer.\nLucía Ortega",
+   "lang": "es",
+   "note": "Fecha exacta, cláusula y constancia por escrito primero; la amabilidad va al final. Si el contrato prevé una indemnización por salida anticipada, revísala antes de enviar."
   }
  ]
 }

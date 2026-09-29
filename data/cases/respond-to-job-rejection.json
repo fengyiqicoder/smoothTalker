@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -56,6 +56,13 @@
    "reply": "Thanks for the quick answer, Dana, and for reading it. Understood on the bus piece. One quick question, only if it takes you under a minute: is there a kind of story you're short of for the winter issues? A single line is plenty, and it's fine to skip it.",
    "lang": "en",
    "note": "A pitch rejection: ask what they need, not why they said no. Editors answer that question, and it makes the next pitch land."
+  },
+  {
+   "id": "respond-to-job-rejection-009",
+   "situation": "9月15号在一家新能源车企面了最后一轮，HR王女士说9月22号前给结果，到今天一直没消息。想问一下，又怕显得太着急。",
+   "reply": "王女士您好，想跟您确认一下产品运营岗位的结果，之前您提到9月22日前会有消息。如果这次没有通过，回我一句就好，我也好安排后面的计划。感谢您这段时间的安排。",
+   "lang": "zh",
+   "note": "过了对方给的日期几个工作日再问，只问一次，把“没通过”说成可以轻松回复的选项；一周后仍无回音就发结束语，不再追。"
   }
  ]
 }
