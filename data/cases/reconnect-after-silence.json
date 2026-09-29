@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -22,6 +22,13 @@
    "reply": "Hola, Diego. Últimamente me he acordado mucho de ti y espero que estés bien. No te escribo por nada en especial. Si algún día te apetece tomar un café, me encantaría.",
    "lang": "es",
    "note": "No relitigating the fight; if he replies warmly, suggest a specific day within two messages."
+  },
+  {
+   "id": "reconnect-after-silence-004",
+   "situation": "高校のバスケ部の顧問だった田中先生に、卒業以来10年ぶりに連絡したい。自分も今年から中学校の教員になって、部活の顧問もしている。同窓会で先生のLINEを教えてもらった。",
+   "reply": "田中先生、ご無沙汰しています。2016年卒業のバスケ部の佐藤健太です。10年ぶりのご連絡になってしまいました。実は今年の春から横浜の中学校で教員になり、女子バスケ部の顧問もしています。練習の最後に先生がいつも言っていた「最後の一本は丁寧に」を、気づけば自分も部員に言っていて、先生のことを思い出しました。先生はお変わりなくお過ごしですか。お返事はお時間のあるときで大丈夫です。",
+   "lang": "ja",
+   "note": "空白には一文だけ触れ、具体的な思い出と近況、答えやすい問いを一つ。お願いごとは最初の連絡に入れない。"
   }
  ]
 }

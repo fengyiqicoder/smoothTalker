@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -22,6 +22,13 @@
    "reply": "Hi Hannah, I'll take the quiet as the timing not working out on your side. Thanks again for a well-run process, and I'd be glad to hear from you if a similar role opens up at Crestline.",
    "lang": "en",
    "note": "One check-in was already sent, so this is the short closing note. It leaves a good last impression without chasing."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-004",
+   "situation": "Got a rejection email this morning from Harbor Food Bank for the program manager role, after the final round. The director, Grace, was lovely and I'd genuinely want to work there someday.",
+   "reply": "Hi Grace,\nThank you for letting me know, and for a process that was genuinely well run. Our conversation about moving the pantry network to appointment-based pickups has stayed with me. If it's possible, I'd value one line on what tipped the decision. Either way, I'd be glad to hear from you if a similar role opens up.\nBest,\nMarcus",
+   "lang": "en",
+   "note": "After a no: reply once, ask for one line of feedback, then stop. The specific callback is what gets you remembered for the next opening."
   }
  ]
 }

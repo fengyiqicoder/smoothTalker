@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -22,6 +22,13 @@
    "reply": "Dear Mr Grant,\nI'm writing about my son Noah Kim (4th grade, Ms Rivera's class). Since early September another student has been shoving him in the bus line after school, twice leaving a bruise on his arm. I emailed Ms Rivera on 14 and 21 September (copies below) and haven't heard back, and it's still happening. Could you let me know the school's next steps, and when we could meet this week?\nThank you,\nGrace Kim",
    "lang": "en",
    "note": "Escalate with dates and copies, no criticism of the teacher. If Noah is being hurt again, contact the safeguarding lead the same day."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-004",
+   "situation": "My daughter Nora (Grade 5, Ms. Kowalski's class) was just diagnosed with ADHD. She says she can't focus in her seat by the window and keeps getting in trouble for unfinished work. I'd like to talk to the teacher before the November conferences.",
+   "reply": "Hi Ms. Kowalski, I'm Nora Brennan's dad. Nora was recently diagnosed with ADHD, and she's told us she finds it hard to focus in her seat by the window and often doesn't finish classwork. I'd really like to hear what you've seen in class before we assume anything. At home we've started breaking homework into 15-minute blocks with short breaks, which seems to help. Could we meet for 20 minutes in the next couple of weeks? I'm free after 3:30 any day, or happy to do a call. Thank you.",
+   "lang": "en",
+   "note": "Share the diagnosis only as far as it helps the teacher, then ask what she sees instead of prescribing a seat change in the first message."
   }
  ]
 }

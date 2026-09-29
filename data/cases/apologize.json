@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "apologize-001",
@@ -22,6 +22,13 @@
    "reply": "It doesn't sound fine, and that's fair. Making a joke about your cooking in front of your parents was a cheap laugh at your expense, and I'm sorry. I'm not going to push you to talk about it tonight. I'm here when you're ready.",
    "lang": "en",
    "note": "Second message after a cold reply: don't defend, don't ask 'are we okay', then actually leave space."
+  },
+  {
+   "id": "apologize-004",
+   "situation": "I run a small catering company. At a corporate lunch for 40 yesterday we forgot the three gluten-free meals the client, Rachel at Northwind Legal, had specifically ordered. Those guests ended up eating side salad. Want to email her today.",
+   "reply": "Hi Rachel,\nI'm sorry we didn't bring the three gluten-free meals you ordered for yesterday's lunch. That was our mistake, and it left three of your guests with a side salad while everyone else ate, in front of people you were hosting. From today, every dietary order gets a separate checklist sign-off before the van leaves. I've refunded the $135 for those meals, and if you'd like, I'll send a gluten-free lunch for those three colleagues any day next week, on us.",
+   "lang": "en",
+   "note": "A business apology names the exact miss and the cost to the client as host, then shows the process fix. The refund is already done, not dangled."
   }
  ]
 }

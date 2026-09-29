@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -22,6 +22,13 @@
    "reply": "Merci beaucoup, Claire, c'est une vraie proposition et j'y suis sensible. Ma décision ne tient pas à la rémunération mais au format du poste, donc je la maintiens. Merci encore à vous et à l'équipe pour votre accueil, j'espère qu'on se recroisera.",
    "lang": "fr",
    "note": "Answer the counter once and honestly; saying it isn't about money closes the second round."
+  },
+  {
+   "id": "decline-offer-or-candidate-004",
+   "situation": "I'm in the final round for a data analyst role at Brightline Energy, panel is this Thursday. My current company just offered me the internal transfer I've wanted for a year and I've accepted. The recruiter is Nadia.",
+   "reply": "Hi Nadia,\nThank you for the time you and the team have put into this, especially the conversation with Tom about the grid forecasting work, which I really enjoyed. I want to tell you early rather than late: I'm withdrawing from the process, so please do release Thursday's panel slot. I've accepted an internal move at my current company that I've been working toward for a while, and it wouldn't be fair to keep taking your team's time. I'd be glad to stay in touch.\nBest,\nPriya",
+   "lang": "en",
+   "note": "Withdraw before the panel, not after it: the decision by the second sentence, the true reason in one line, and freeing the slot as the practical ask."
   }
  ]
 }

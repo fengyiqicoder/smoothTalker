@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -21,6 +21,13 @@
    "reply": "Hi Grace, bumping this with one more thing: we just published a two-page checklist on cutting first-week IT tickets, based on 40 mid-size rollouts. It's attached and free to use whether or not we ever talk. No pressure on the original ask.",
    "lang": "en",
    "note": "Follow-up 1 adds value instead of 'just checking in'. One more after a week, then stop."
+  },
+  {
+   "id": "cold-outreach-004",
+   "situation": "我是自由插画师，想给杭州一家精酿啤酒厂“山野酿造”的主理人陈先生发小红书私信，推荐自己给他们的秋季限定款画酒标。他们小红书上说桂花小麦下个月上新，但现在的酒标都是纯文字。",
+   "reply": "陈老师好，看到山野酿造说桂花小麦下个月上新，你们几款酒的风味都很有故事，现在的酒标却是纯文字，我觉得有点可惜。我是做手绘插画的，去年给木岸咖啡画了三款豆袋包装，那个系列上架后三个月销量涨了三成。想针对桂花小麦画一版草图给你们看看，感兴趣吗？如果不需要，回我一句“不用”也很有帮助。",
+   "lang": "zh",
+   "note": "为什么是他们、我能做什么、一个数字做证据、一个很小的问题，再给一个不用沉默的拒绝方式。"
   }
  ]
 }

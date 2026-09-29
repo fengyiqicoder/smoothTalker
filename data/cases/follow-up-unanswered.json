@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -22,6 +22,13 @@
    "reply": "Totally understand. No rush from me before the 20th; after that I'll need to start lining someone up, so a rough date for the quote would help whenever you get a sec.",
    "lang": "en",
    "note": "Don't defend the nudge. Take the answer, give room, and state the real planning date once."
+  },
+  {
+   "id": "follow-up-unanswered-004",
+   "situation": "My former professor, Dr. Hayes, agreed on Sept 8 to write me a recommendation for a master's program. The deadline is Oct 15 and the portal still shows it as not submitted. I already resent the link once on Sept 15.",
+   "reply": "Hi Dr. Hayes,\nI know the start of term is hectic. A quick note on the recommendation for the Urban Planning MA at Northfield: the portal still shows it as pending, and the deadline is Thursday 15 October. I've pasted the upload link below so you don't have to dig for it. If a short list of the projects I did in your seminar would save you time, I can send it today.\nThank you again,\nSofia",
+   "lang": "en",
+   "note": "Assume busy, restate the thing and the date in one line, and make doing it easier than postponing it. Don't ask whether they're still willing."
   }
  ]
 }

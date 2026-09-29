@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -22,6 +22,13 @@
    "reply": "Thinking about you and Elena today. I still smile about her making us redo the barbecue because we'd 'insulted the ribs'. I'm around all weekend if you want company. No need to reply.",
    "lang": "en",
    "note": "The anniversary message matters more than the first one, because most people have stopped sending them."
+  },
+  {
+   "id": "condolences-and-support-004",
+   "situation": "好朋友阿杰的爸爸三周前去世了。我这几周隔几天就发消息问他怎么样，昨天他回我：我没事，别老问了。我有点慌，不知道还要不要再联系他。",
+   "reply": "好，我不追着问了。我在，不会走开。周六下午我把你爱吃的老街卤味挂你家门把手上，不用开门，也不用回我。",
+   "lang": "zh",
+   "note": "被推开时不辩解也不消失：接受他的话，把“问候”换成不需要回应的陪伴。之后隔一两周发一句，不带问题。"
   }
  ]
 }

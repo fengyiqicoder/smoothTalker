@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -22,6 +22,13 @@
    "reply": "Hi Donna, I understand, and I'd rather you told me than quietly left. The new price is what green coffee and shipping cost us now, so it stands. If it no longer works for you, reply 'cancel' and I'll do it today, no fuss. After three years of your orders, you'd be welcome back any time. Theo",
    "lang": "en",
    "note": "Don't offer a quiet discount to the loudest customer; the others will hear about it."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-004",
+   "situation": "I run a small online ceramics shop. Our kiln cracked last week, so about 40 preorders of the fall mug collection that were due to ship Oct 5 will now ship around Oct 23. Need to email everyone.",
+   "reply": "Hi Megan,\nYour fall mug preorder is going to ship later than promised: the new date is around Friday 23 October instead of Monday 5 October. Our kiln cracked last week and the replacement arrives on the 9th. The mugs themselves don't change; they're glazed and waiting for their final firing. If you'd rather not wait, reply to this email and I'll refund you in full the same day. Otherwise I'll email again the day yours ships. Thank you for your patience, and I'm sorry for the wait.\nJess, Clay & Tide",
+   "lang": "en",
+   "note": "A delay, not a price change: new date first, one honest reason, an easy full refund. Unlike a fair price rise, a missed promise does earn the apology."
   }
  ]
 }

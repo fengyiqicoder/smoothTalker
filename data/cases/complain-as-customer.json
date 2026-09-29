@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -22,6 +22,13 @@
    "reply": "Thanks for your reply. I don't think that resolves it, since I moved to Portland on 1 August, 400 miles from any FitCore branch, and sent my written cancellation on 3 August (attached). I'd like this escalated to a manager. To restate: I'm asking you to cancel membership #FC-22817 and refund the $49 charges from September and October. I'd rather settle this directly than through a card dispute, and I'm confident we can.",
    "lang": "en",
    "note": "If this gets another scripted no, tell them the chargeback date once, then file it."
+  },
+  {
+   "id": "complain-as-customer-004",
+   "situation": "We had my dad's 70th birthday dinner at Rosalind's on Saturday, party of 8, and booked the private room back in August with a $200 deposit. They sat us in the main dining room next to the kitchen door and nobody explained why.",
+   "reply": "Hi,\nWe had a party of eight at Rosalind's on Saturday 26 September for my dad's 70th birthday, booked in August with a $200 deposit for the private room (confirmation attached). When we arrived we were seated in the main dining room by the kitchen door, and nobody told us why. The food and our servers were lovely; the room was the thing we'd paid extra for. I'd like the $200 deposit refunded. Could you let me know by Friday 2 October?\nThanks,\nLaura Chen, 555-0187",
+   "lang": "en",
+   "note": "Credit what was good in one clause, then ask for the one thing that maps to the failure: the deposit, not the whole bill."
   }
  ]
 }

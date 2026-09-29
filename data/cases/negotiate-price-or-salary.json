@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -22,6 +22,13 @@
    "reply": "Hallo Herr Wagner, das Rennrad interessiert mich sehr, und ich könnte es morgen Abend abholen. Würden Sie es für 720 Euro abgeben? Das liegt unter Ihrem Preis, dafür zahle ich bar und sofort.",
    "lang": "de",
    "note": "A specific number plus the real lever (cash, tomorrow) beats asking whether the price is negotiable."
+  },
+  {
+   "id": "negotiate-price-or-salary-004",
+   "situation": "My landlord, Mr. Okafor, wants to raise my rent from $2,100 to $2,350 when my lease renews Dec 1. I've been there three years and always paid on time. Similar 1-bedrooms nearby list around $2,250. I'd be happy landing at $2,200.",
+   "reply": "Hi Mr. Okafor, thanks for the heads-up about the renewal. I'd really like to stay; this has been a great home for three years. The new rent is a jump of about 12%, and comparable one-bedrooms on our street are listing around $2,250. Would you take $2,175 on an 18-month lease? You'd keep a tenant who has paid on time every month, with no vacancy or turnover costs. If 18 months doesn't suit you, I'm open to a different lease length.",
+   "lang": "en",
+   "note": "Anchor a little under your real target, tie it to their value (reliability, no vacancy), and keep lease length as the second lever if money doesn't move."
   }
  ]
 }

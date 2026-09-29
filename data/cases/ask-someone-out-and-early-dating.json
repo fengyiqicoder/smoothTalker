@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -21,6 +21,13 @@
    "reply": "不用有压力，就是想说上次那顿火锅吃得很开心。如果你哪天想再出来喝杯咖啡，我都在。",
    "lang": "zh",
    "note": "对方变冷淡时只发一条轻松的消息，不追问为什么没回，然后就放下。"
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-004",
+   "situation": "Been messaging a guy named Theo on Bumble for about a week, great back and forth about hiking and bad horror movies. I want to suggest meeting in person but don't want it to feel like pressure.",
+   "reply": "I'm enjoying this and I'd rather keep it going in person. A drink this week? I'm free Thursday evening or Sunday afternoon, and there's a bar on Elm Street that screens terrible horror movies on Sundays, which feels like a sign. No pressure if you'd rather keep chatting here a bit longer.",
+   "lang": "en",
+   "note": "Moving off the app: two specific slots, one hook from your own chat, and an easy out so a yes costs nothing."
   }
  ]
 }

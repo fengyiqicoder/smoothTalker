@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -22,6 +22,13 @@
    "reply": "Oi, Dra. Paula, vou considerar que o momento não é o ideal e encerrar a proposta por aqui, para não lotar sua caixa de entrada. Se o site voltar à pauta, vou gostar muito de ajudar, é só responder este e-mail. Boa sorte com a nova unidade da clínica!",
    "lang": "pt",
    "note": "The clean close often gets the reply the follow-ups didn't. If she comes back later, re-scope from today's rates."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-004",
+   "situation": "Freelance web developer. A dental practice manager, Karen, went silent on my $6,500 quote back in April and I sent a clean close in May. She just emailed asking if we can start next Monday at the April price.",
+   "reply": "Hi Karen, good to hear from you, and I'd be glad to pick this up. My schedule and rates have moved since April, so the quote needs a refresh: the same scope is now $7,200, and the earliest I can start is Monday 19 October. I'll send the updated proposal by Thursday so you have it in writing. Does that timing work on your side?",
+   "lang": "en",
+   "note": "Resurfacing after the close: no reproach for the silence, and re-scope from today's rates and calendar rather than honouring a stale quote."
   }
  ]
 }

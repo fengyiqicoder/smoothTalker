@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -22,6 +22,13 @@
    "reply": "你好，10月17、18日那个周末我要出差，想和你换一下：我改接24、25日，17、18日朵朵留在你那边。可以的话周三前回我一下，谢谢。",
    "lang": "zh",
    "note": "一条消息只谈一件事，给出具体日期和回复期限，不提以往。"
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-004",
+   "situation": "My ex Jenna and I keep ending up in 40-message text fights that start with a pickup time and end with stuff from 2019. I want to propose moving all scheduling to a co-parenting app. The kids are Liam (9) and Rosie (6).",
+   "reply": "Hi Jenna, to keep things simpler for both of us, could we move all scheduling and costs for Liam and Rosie to OurFamilyWizard from Monday 5 October? Then we both see the same calendar and receipts in one place, and texts can stay for anything urgent on the day. I've set up an account and can send you an invite tonight. Can you let me know by Friday if that works?",
+   "lang": "en",
+   "note": "Frame the app as simpler for both, with no mention of the fights; one line about 2019 would start the next one."
   }
  ]
 }

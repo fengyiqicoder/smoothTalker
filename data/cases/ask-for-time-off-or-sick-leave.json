@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -22,6 +22,13 @@
    "reply": "明白，上线那周确实需要人手。那我改到10月26日到30日可以吗？上线后的问题我也能先处理完再走。希望这周能定下来，我好订票。",
    "lang": "zh",
    "note": "接受领导的顾虑，但马上给出一个具体的新日期并要求本周确定，别让假期无限期往后拖。"
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-004",
+   "situation": "I'm pregnant, due March 3, 2027, and planning 16 weeks of leave. I want to tell my manager Chris on Slack before I start showing. I'm leading our Q1 billing migration.",
+   "reply": "Hi Chris, some news: I'm expecting, due 3 March. I'm planning to take 16 weeks of leave starting around 22 February, which puts my return in mid-June. I know that overlaps with the billing migration, so I'd like to get the design phase signed off before I go and start a handover plan in early January. Could we book 30 minutes next week to talk it through?",
+   "lang": "en",
+   "note": "News and timeline in one message so planning can start; naming the project overlap yourself is what makes the conversation easy. No medical detail needed."
   }
  ]
 }
