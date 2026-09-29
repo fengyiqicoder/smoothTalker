@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -64,6 +64,13 @@
    "reply": "陈总，小美的客户我愿意接，也想保证她休假期间客户这边不掉链子。现在我手上有8个客户，每家的月度复盘大概要一天，再加6家就是14家，我一个人做不到每家都按时复盘。两个方案：一是我接她最大的3家，另外3家给阿杰；二是6家都我接，这四个月的复盘从每月一次改成两个月一次。我建议第一个，大客户不受影响，阿杰那边也有余量。您看选哪个？定了我就排时间跟小美交接。",
    "lang": "zh",
    "note": "不是拒绝接活，而是把工作量算清楚，给两个方案和自己的建议，让领导来选。"
+  },
+  {
+   "id": "push-back-on-boss-010",
+   "situation": "My manager Derek in New York just announced our daily standup moves to 9am Eastern from Monday Oct 5. That's 6am for June and Rafael on our team in Seattle. They mentioned it to me and I said I'd raise it. I'd rather message Derek privately than push back in the team channel.",
+   "reply": "Derek, can I flag one thing about the 9am standup before it starts Monday? I like getting everyone together earlier in the day, but 9 Eastern is 6am in Seattle for June and Rafael, every day, and they've both said it'll be tough. If there's a reason it has to be 9, I'll get behind it. If not, two options: 11:30 Eastern, which is 8:30 for them and still before lunch here, or 9am live with Seattle posting updates async. My vote is 11:30. Which would you prefer?",
+   "lang": "en",
+   "note": "Disagreeing with a decision: privately, before it takes effect, the cost in plain facts, room for a reason you don't know, and options with a recommendation."
   }
  ]
 }

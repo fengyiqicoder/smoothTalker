@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -57,6 +57,13 @@
    "reply": "Hi Amara! I've got an interview in Chicago on Wednesday 14 October, and I wondered if I could crash on your couch the Tuesday and Wednesday nights, 13 and 14. I'd be out most of Wednesday and heading to the airport Thursday morning, so I'd barely be in your way. Totally fine if it's a bad week, I'll book a hotel, no problem. Either way, dinner's on me Wednesday night, I'd love to catch up.",
    "lang": "en",
    "note": "Name the exact nights and how little space you'll take, give a real out, and offer something you'd genuinely want to do anyway."
+  },
+  {
+   "id": "ask-for-favor-009",
+   "situation": "My friend Dana is a commercial property lawyer. I'm about to sign a 3-year lease for my bakery and want her to look it over before Friday Oct 9. I don't want to take advantage of her just because we're friends.",
+   "reply": "Hi Dana, you're the only lawyer I know who does commercial leases, so I'm going to ask: would you have 30 minutes before Friday Oct 9 to skim the 4-page lease for the bakery and flag anything that would worry you? Not a full review, just 'I'd push back on this clause'. If you'd rather keep work and friends separate, or you'd want to bill it as a normal job, say so, both are completely fine. Dinner at Osteria Nove is on me either way.",
+   "lang": "en",
+   "note": "When the favour is someone's profession, keep the scope narrow and make paying or declining as easy as saying yes."
   }
  ]
 }

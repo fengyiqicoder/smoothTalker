@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -64,6 +64,13 @@
    "reply": "Can I give you some feedback on client commitments? On the Kessler call two weeks ago you confirmed delivery for 9 October before checking with production, and on Friday we had to tell them it's now the 16th. Their ops lead asked me whether our dates can be trusted. What's your read on how it happened? Going forward, when a client asks for a date, tell them you'll confirm within 24 hours, and check with Anna in production first. Let's look at your next two commitments together on Tuesday 13 October.",
    "lang": "en",
    "note": "One behaviour, one dated example with its real cost, a genuine question, then a line he can use on the very next call."
+  },
+  {
+   "id": "give-feedback-to-colleague-010",
+   "situation": "Ich bin Teamlead in einem Remote-Team. Jonas aus dem Plattform-Team (gleiche Ebene) beantwortet Slack-Fragen oft erst nach zwei Tagen. Letzte Woche hat meine Frage zur API-Freigabe von Montag bis Mittwoch gewartet, und unser Release ist von Donnerstag auf Freitag gerutscht. Ich will es in einem kurzen Call ansprechen.",
+   "reply": "Jonas, darf ich dir kurz Feedback zu etwas geben? Letzte Woche hat meine Frage zur API-Freigabe von Montag bis Mittwoch auf eine Antwort gewartet, und dadurch ist unser Release von Donnerstag auf Freitag gerutscht. Ich weiß, dass bei euch gerade viel los ist. Wie siehst du das? ... Wäre es machbar, dass Fragen mit dem Label „blockiert“ innerhalb eines Arbeitstags eine kurze Antwort bekommen, auch wenn es nur „schaue ich mir Freitag an“ ist? Lass uns am Dienstag, 13. Oktober, kurz schauen, ob das klappt.",
+   "lang": "de",
+   "note": "Unter Gleichrangigen: erst fragen, dann ein datiertes Beispiel mit seiner Folge, bei den drei Punkten wirklich zuhören, dann eine konkrete Bitte und ein Termin zum Nachfassen."
   }
  ]
 }

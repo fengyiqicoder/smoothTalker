@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -64,6 +64,13 @@
    "reply": "From Sunday evening until Monday afternoon, our site showed the Trailbase 3-person tent at $39 instead of $390, after a typo in a price update. We're honouring all 62 orders placed at that price, and they ship this week. Sorry to anyone who watched the price change mid-checkout; that's a frustrating thing to see. From now on, a second person checks every bulk price change before it goes live. Questions: sam@ridgebackoutdoor.com. Sam, owner.",
    "lang": "en",
    "note": "A pricing slip needs a short post: the facts, one sorry, what you're honouring, and one check you can actually keep."
+  },
+  {
+   "id": "public-apology-from-a-business-010",
+   "situation": "We're a two-person studio making a card game, Tidepool. 1,400 people pre-ordered and we promised shipping by October 15. We approved a print proof with a colour error on the reef cards and missed it, so the run is being reprinted and now ships November 26. I'm co-founder Leah and want to email everyone.",
+   "reply": "Subject: Tidepool is shipping late, and why\nHi everyone,\nTidepool won't ship by October 15 as promised; it will ship on November 26. We approved a print proof with the wrong colours on the reef cards and didn't catch it, so the whole run is being reprinted. I'm sorry, that miss was ours. You don't need to do anything: your order stands, and every copy will include an extra promo card. If you'd rather not wait, reply 'refund' any time before it ships and your money will be back within five days. From now on we check a printed proof, not just the PDF, before anything goes to press.\nLeah, co-founder",
+   "lang": "en",
+   "note": "A broken promise is a public apology too: the new date first, own the miss without blaming the printer, and make the refund one word."
   }
  ]
 }

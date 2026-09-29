@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -64,6 +64,13 @@
    "reply": "小雅，跟你商量个事哈，不是要闹什么。最近阿凯差不多每周住五天，早上洗手间经常要排队，上个月电费也多了快一百块。我们能不能定个规矩，一周留宿最多两晚？要是他想常来，水电费分成三份也可以，你看哪种更顺？我这边朋友来住也按同样的规矩来。",
    "lang": "zh",
    "note": "只说一件事和对自己的影响，把请求说成两个人共同的规矩，并给对方一个选项。"
+  },
+  {
+   "id": "ask-to-change-behavior-010",
+   "situation": "My younger brother Kyle borrows my car most weekends, which I'm fine with. But it almost always comes back with the fuel light on, and twice this month I've been late for work because I had to stop for petrol first thing Monday. He's borrowing it again this Saturday.",
+   "reply": "Hey, small car thing before Saturday. It's come back on the fuel light a few times lately, and twice this month that's made me late for work on Monday morning. Could we go with a simple rule: it comes back with at least a quarter tank? Happy to keep lending it, that's the only ask.",
+   "lang": "en",
+   "note": "One behaviour, the concrete effect on you, and a rule that's easy to check, with the lending itself not in question."
   }
  ]
 }

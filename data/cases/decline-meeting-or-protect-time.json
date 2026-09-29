@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Luis, I'll skip Thursday at 10. If what you need is my go or no-go on the rollout flag, I'll post it in the channel by 5pm Wednesday. Tuesday and Thursday mornings are heads-down for me, so for anything live, 2 to 4 any afternoon works. Does that cover it?",
    "lang": "en",
    "note": "Decline the slot, answer the likely question in writing, and name the window that does work, once, without a speech about focus time."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-010",
+   "situation": "I'm on annual leave Oct 12 to 16, booked since July. My manager Paul just sent an invite for a 'Q4 planning' session on Wednesday Oct 14. My part is the ops team's budget numbers, and my colleague Hana knows them well.",
+   "reply": "Hi Paul, I'm on leave that week, 12 to 16 October, so I'll miss the planning session. My part is the ops budget, so I'll put the numbers and the three assumptions behind them in the planning doc by Friday 9 October, and Hana can take any questions on the day. Does that cover what you need?",
+   "lang": "en",
+   "note": "Leave is a fact, not something to defend: decline the slot, send the substance early, and name who covers."
   }
  ]
 }

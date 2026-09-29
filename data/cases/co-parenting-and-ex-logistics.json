@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Ryan, I'd like to take Sofia and Mateo to my parents' in Guadalajara during my holiday weeks, flying out Sunday 20 December and back Saturday 2 January. I'll send you the flight numbers and my parents' address and phone, and the kids can video call you on Christmas Day and any other day you'd like. Because they're travelling abroad, the airline needs a signed consent letter from you; I've attached a draft. Can you let me know by Friday 16 October if you're okay to sign it? Thanks.",
    "lang": "en",
    "note": "Answer the anxious parent's questions with facts before he asks (flights, address, calls), not reassurance, and give weeks rather than days to reply."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-010",
+   "situation": "离婚后女儿朵朵平时跟我住，隔周周末去她爸那里。朵朵想报周六上午的游泳班，10月10日开课，12节课1,440元。有一半的周六轮到她爸带，需要他送。",
+   "reply": "你好，朵朵想报游泳班：每周六上午9点到10点，在区体育中心，10月10日开课，一共12节，1,440元。按我们的约定学费一人一半，你这边是720元。轮到你带她的那几个周六，需要你送她过去。报名10月6日截止，麻烦10月5日前告诉我这样可不可以。谢谢。",
+   "lang": "zh",
+   "note": "一条消息只谈一件事：时间、地点、金额和需要他做的事写清楚，再给一个能回答“行”或“不行”的问题和期限。"
   }
  ]
 }

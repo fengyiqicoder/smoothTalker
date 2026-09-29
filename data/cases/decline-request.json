@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "decline-request-001",
@@ -64,6 +64,13 @@
    "reply": "Thanks for thinking of me, Karen. I'm going to pass on organising the holiday party this year; with the launch on 8 December I wouldn't give it the attention it deserves. I'm happy to hand last year's venue contacts and budget sheet to whoever takes it on, and walk them through it in 20 minutes.",
    "lang": "en",
    "note": "To a manager, tie the no to a priority she already owns and make the handover the smaller yes. If she says the party matters more, ask which should slip."
+  },
+  {
+   "id": "decline-request-010",
+   "situation": "对门邻居刘先生，平时就电梯里点个头，今天敲门问我国庆10月1号到7号能不能帮他们照看家里的两只猫，每天上门喂一次、铲屎。我国庆在家，但不想担这个责任，万一猫出事说不清。",
+   "reply": "刘先生您好，谢谢您信得过我。照猫这件事我就不接了，别人家的宠物我一向不帮忙照看，怕万一有情况担不起。小区门口的'喵星球'宠物店有上门喂养服务，您可以去问问。国庆愉快！",
+   "lang": "zh",
+   "note": "不太熟的邻居：用一条规矩拒绝，不用编理由；有真实可用的去处就给一个，简短收尾。"
   }
  ]
 }

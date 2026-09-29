@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -64,6 +64,13 @@
    "reply": "I'm with Frank on the goal, weeding the paths eats most of our Saturday. Where I land differently is the spray: the paths run right alongside the school plots, and I'd rather not have weed killer anywhere near beds the kids eat from. Could we try cardboard and wood chips on the two worst paths this month and see if that does the job? If I've missed something about how it would be applied, tell me.",
    "lang": "en",
    "note": "Shared goal first, one strong reason, and a small trial instead of a vote against Frank, so he can agree without losing face in the group."
+  },
+  {
+   "id": "disagree-without-conflict-010",
+   "situation": "我妈想把她和我爸住的老房子卖了，给我和老公凑首付。她说“反正以后也是你们的”。我不想让他们这么做，但不想让她觉得我不领情。",
+   "reply": "妈，我知道您是想让我们早点有自己的家，这份心我特别感激。这件事我想法有点不一样：老房子是您和爸住了三十年的地方，也是你们养老的底，我不想为了首付让你们没了退路。我们俩再攒一年半，首付也能凑够。您是担心房价还会涨吗？",
+   "lang": "zh",
+   "note": "先接住她想帮忙的心意，只讲一个最重要的理由，最后用一个真心的问题了解她的顾虑。"
   }
  ]
 }

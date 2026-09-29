@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Tony, it's Claire from 41. I've been thinking about our chat on the 12th, and I don't want a fence to come between us after eight years as neighbours. Our 2019 survey puts the boundary about a foot closer to your house than where the new fence stands, and I know you remember the old fence differently. Would you be open to splitting the cost of a licensed surveyor to mark the line, with both of us going by what they find? If you'd rather talk it through with someone neutral first, the county's free mediation service is an option, and I'm happy to go.",
    "lang": "en",
    "note": "When the facts themselves are disputed, propose a neutral way to settle them that you both accept in advance, and put it in writing before escalating anywhere."
+  },
+  {
+   "id": "neighbour-disputes-010",
+   "situation": "The flat next door, no. 14, is an Airbnb. The owner, Graham, lives in Manchester and I got his email from the building's residents list. Guests had loud parties past 2am on Saturday Sept 12, 19 and 26, with people shouting on the balcony. I've never met him.",
+   "reply": "Hi Graham, I'm Priya from no. 12, next door to your flat. You may not hear about this from the guests, so I wanted to let you know directly: there were loud parties past 2am on Saturday 12, 19 and 26 September, with music and people out on the balcony. Could you add quiet hours after 11pm to the house rules and the welcome message? Thanks, and do let me know if anything from our side ever causes trouble for your guests.",
+   "lang": "en",
+   "note": "An absent owner usually doesn't know: introduce yourself, give dated facts, and ask for something he controls, like the house rules."
   }
  ]
 }

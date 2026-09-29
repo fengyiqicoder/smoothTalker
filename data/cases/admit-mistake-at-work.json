@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -64,6 +64,13 @@
    "reply": "周总，报告一个我的失误：今天上午10:15上线订单提醒功能时，我把发送任务配置错了，大约12000个用户每人重复收到三条相同的短信，多出的短信费约1200元。10:32已经回滚，之后没有再发出重复短信。客服的统一回复口径我已经发给小林，11点前把受影响用户名单和费用明细发您。对不起，这次是我的问题。以后批量发送类功能上线前，我都先在测试环境按真实用户量跑一遍，再请一位同事复核配置。",
    "lang": "zh",
    "note": "先说错误和影响范围，再说已经止损和下一步的时间，最后一条具体的防范措施；只道歉一次，不解释为什么会写错。"
+  },
+  {
+   "id": "admit-mistake-at-work-010",
+   "situation": "I'm an in-house recruiter. At 11:20 today I sent our rejection email to Maya Chen, who is actually our top finalist for the product designer role, instead of another candidate. I've already emailed Maya. Need to tell the hiring manager, Sam, on Slack.",
+   "reply": "Sam, I made a mistake: at 11:20 I sent Maya Chen our rejection email, which was meant for another candidate. I've emailed her to say it was sent in error and she's very much still in the process, and I've asked for a 10-minute call today. No reply yet. I'm sorry, I picked the wrong name from the dropdown. From now on I'm checking every rejection against the tracker before it goes. I'll update you as soon as I've spoken to her.",
+   "lang": "en",
+   "note": "Headline first, the fix already in motion, one apology and one prevention step; Sam hears it from you before Maya has to raise it."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -64,6 +64,13 @@
    "reply": "Walked past Luca's this morning and thought of you and our Friday pizza nights. No need to reply, just still here and thinking of you.",
    "lang": "en",
    "note": "After silence, send something that needs zero response and never mention the unanswered text. About once a week, not more."
+  },
+  {
+   "id": "check-in-on-someone-struggling-010",
+   "situation": "My friend Tom went quiet for about a month after his startup shut down. I've sent a couple of low-key texts. He just replied: 'sorry I've been a ghost, honestly things are pretty bad right now.' I don't want to blow this.",
+   "reply": "No sorry needed, I'm really glad you told me. Can I call you tonight around 8? If talking feels like too much, just reply 'text' and we'll do it this way instead.",
+   "lang": "en",
+   "note": "When they finally open up, show up fast and small: no advice, no questions that need a report, one concrete offer with an easy way to shrink it."
   }
  ]
 }

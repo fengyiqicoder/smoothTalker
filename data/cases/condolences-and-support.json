@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -64,6 +64,13 @@
    "reply": "Denise, I only just heard about Paul, and I'm so sorry. I still remember him at our team Christmas parties, the only person who could get the whole finance team onto the dance floor. Thinking of you. No need to reply to this.",
    "lang": "en",
    "note": "Late is fine, and often lands better, because the messages have dried up by month two. One clause for the timing, no paragraph of guilt."
+  },
+  {
+   "id": "condolences-and-support-010",
+   "situation": "I'm going to the funeral of my coworker Dev's father on Friday. I never met his dad, but Dev talked about him a lot, especially how they went to every cricket test at Edgbaston together. What do I actually say to Dev in the line after the service?",
+   "reply": "Dev, I'm so sorry about your dad. I keep thinking about the two of you at Edgbaston every summer. You don't need to say anything, I just wanted to be here.",
+   "lang": "en",
+   "note": "In a receiving line, two or three sentences. If you never met the person, something the griever told you about them does the work of a memory."
   }
  ]
 }

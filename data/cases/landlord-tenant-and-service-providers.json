@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Carlos, thanks for coming out on Friday and for the detailed quote. At $6,800 it's above what I can do; I have another quote at $5,200 for the same scope. I'd rather go with you, given how carefully you went through the flashing. Could you get it to $5,800, perhaps by reusing the existing gutters? If so, I can confirm today for the week of 12 October.",
    "lang": "en",
    "note": "Quote too high: name the competing number once, say why you prefer them, and ask for a specific figure with a way to reach it."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-010",
+   "situation": "Mould in our bedroom since late August. I emailed my landlord, Gary, on Sept 3 and again on Sept 17 with photos. Today he replied: 'Stop harassing me. It's condensation, open a window, I'll look at it when I have time.'",
+   "reply": "Hi Gary,\nI'll leave the tone to one side. The black mould on the bedroom wall was first reported on 3 September and again on 17 September, with photos, and it has spread since. We open the windows every day and it is still growing. Under the tenancy agreement, damp repairs are the landlord's responsibility. Please confirm a date for someone to inspect it by Friday 2 October. If I haven't heard by then, I'll ask the council's private housing team to inspect, which I'd rather avoid.\nThanks,\nPriya",
+   "lang": "en",
+   "note": "A hostile reply gets only the facts, one step up the ladder, and a next step you would actually take."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Rob, thanks for resending, I'd missed your email on the 21st, that's on me. All 14 Q3 vendor invoices are attached, plus the two credit notes from Halden. Let me know if anything's still missing.",
    "lang": "en",
    "note": "Take it at face value: own the miss in half a sentence, give him what he needs, and leave the tone alone."
+  },
+  {
+   "id": "respond-to-passive-aggressive-010",
+   "situation": "We had friends over Saturday and it ran late. This morning there's a note on our door from the downstairs neighbour: 'Hope the party was fun! Some of us have to work in the morning :)' I've never met her properly. I want to reply without starting a feud.",
+   "reply": "Hi, it's Dan from 3B. Got your note, and you're right, we ran late on Saturday. Sorry about that. Next time we have people over I'll let you know in advance and we'll wrap up by 11. If it's ever too loud, just knock or text me on 07700 900312.",
+   "lang": "en",
+   "note": "The snark wraps a fair complaint, so answer the contents, own it once, and give her a direct channel so the next one isn't a note."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -64,6 +64,13 @@
    "reply": "Trop content pour l'appart, Hugo ! Pour les 800 euros, je ne peux pas, je rembourse encore mon prêt étudiant et je n'ai pas cette marge en ce moment. Par contre, regarde l'avance Loca-Pass d'Action Logement, ça sert justement à avancer le dépôt de garantie et tu y as peut-être droit. Et samedi je suis dispo avec la voiture pour le déménagement.",
    "lang": "fr",
    "note": "Un non clair avec une seule raison courte, sans détailler ses finances, puis une aide concrète qui ne coûte pas d'argent."
+  },
+  {
+   "id": "money-between-friends-010",
+   "situation": "I bought the joint 30th birthday present for our friend Sophie, a £240 weekender bag, split six ways at £40 each. Four people paid within a day. Josh hasn't, two weeks later. I don't want to call him out in the group chat.",
+   "reply": "Hey Josh, for Sophie's bag: it came to £240, so £40 each. My details are sort code 20-45-77, account 41558203. I'm clearing it off my card this weekend, so before Saturday would be great. Hope the new job's going well!",
+   "lang": "en",
+   "note": "Chase group-gift stragglers one at a time, in private, with the number and how to pay; never in the group chat."
   }
  ]
 }

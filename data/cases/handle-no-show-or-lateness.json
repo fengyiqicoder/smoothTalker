@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -64,6 +64,13 @@
    "reply": "Oi, Felipe, tudo bem? Tínhamos treino hoje às 7h no Parque da Cidade e te esperei até 7h30. Se aconteceu alguma coisa, sem problema. Posso te encaixar na quinta, 1º de outubro, às 7h, no mesmo lugar. Só lembrando que, pelo nosso contrato, falta sem aviso de 12 horas é cobrada normalmente a partir da próxima.",
    "lang": "pt",
    "note": "Falta profissional: fato com horário, uma opção concreta para remarcar e a regra para a próxima vez, dita uma vez e sem ameaça."
+  },
+  {
+   "id": "handle-no-show-or-lateness-010",
+   "situation": "I was supposed to meet my sister Nadia at Central station on Sunday to help with her two suitcases after her trip. I overslept, she waited 40 minutes and ended up paying €35 for a taxi. I've been avoiding texting her because I feel terrible.",
+   "reply": "Nadia, I left you waiting at Central for 40 minutes on Sunday with two suitcases, and I'm really sorry. I overslept, which is no excuse. You gave up your time and paid for a taxi you shouldn't have needed, so I've just sent you the €35. Can I take you to dinner on Friday, my treat, and hear about the trip properly?",
+   "lang": "en",
+   "note": "When you're the no-show: name it with the specifics, own it without a 'but', cover their real cost, and put a dated fix on the table so she doesn't do the rescheduling."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -64,6 +64,13 @@
    "reply": "Thank you for the honest feedback on price, Priya. $28 is a real amount for one class, and I understand it can feel steep for a single visit. One small correction for anyone reading: our classes run 75 minutes, not 60. If you come regularly, the 10-class pass brings it to $21 a class. If anything else didn't work for you, I'd like to hear it at hello@stillpointyoga.com. Meg, owner",
    "lang": "en",
    "note": "A price complaint isn't a fault to own: acknowledge the cost, correct the fact once, point to the cheaper route, and never discount in public."
+  },
+  {
+   "id": "respond-to-negative-review-010",
+   "situation": "我开了一家美发店。有位顾客王女士在大众点评给了两星，说在我们店烫了发，第二天发尾就干枯打结，“花了680块烫坏了”。店员烫之前确实没仔细看她发质，她之前漂过色。",
+   "reply": "谢谢王女士把情况写得这么具体。烫完第二天发尾就干枯打结，这不是我们该给您的结果；烫前没有好好评估您的发质，是我们的问题。现在店里所有烫染前都会先做发质检测，受损的头发会先建议护理再做。想当面帮您看看怎么修护，麻烦直接打店里电话021-6288 4130找我。店长 林悦",
+   "lang": "zh",
+   "note": "公开回复只认一次错、说改了什么，补偿和修护放到私下谈；也不在公开回复里提她漂过色这样的细节。"
   }
  ]
 }

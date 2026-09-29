@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Jamie, thank you for coming in last Wednesday, and for the event calendar you walked us through, which was one of the most organised we saw. We've decided to offer the role to another candidate whose background is heavier on paid social, which is the biggest part of the job this year. That was the deciding factor, not how you came across. We're likely to hire an events assistant next spring, and if you'd be open to it, I'd like to reach out to you directly when that opens.",
    "lang": "en",
    "note": "A referred candidate gets the same clear, specific no as anyone else. Tell Jamie first, and give Nicole only the outcome, never the interview details."
+  },
+  {
+   "id": "decline-offer-or-candidate-010",
+   "situation": "I'm hiring a UX designer. Elena did a take-home and a final interview on Aug 20, and I told her she'd hear within two weeks. It's been almost six weeks because our budget sign-off stalled, and we've now hired someone else. I need to email her today.",
+   "reply": "Hi Elena,\nThank you for the time you put into the process, especially the checkout redesign, which the whole panel talked about afterwards. We've decided to offer the role to another candidate whose background is closer to our design systems work. I also told you you'd hear within two weeks, and it's been almost six. That's on me, and I'm sorry for leaving you waiting. Good luck with the search; the right team will be lucky to have you.\nBest,\nMarcus",
+   "lang": "en",
+   "note": "A late rejection still leads with the decision, then one plain line owning the delay. Skip the budget saga; it explains your side, not hers."
   }
  ]
 }

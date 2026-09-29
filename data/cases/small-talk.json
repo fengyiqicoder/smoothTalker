@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "small-talk-001",
@@ -64,6 +64,13 @@
    "reply": "Bonjour ! Ma fille ne parle que de votre chien depuis la rentrée. Il s'appelle comment ?",
    "lang": "fr",
    "note": "Partir de ce qu'il y a sous les yeux, puis rebondir sur sa réponse et glisser une phrase sur vous (« On vient d'arriver de Nantes ») avant de lui rendre la parole."
+  },
+  {
+   "id": "small-talk-010",
+   "situation": "En la boda de mi prima en Sevilla me han sentado al lado del abuelo del novio, don Manuel, de 85 años. Solo sé que fue pescador en Cádiz toda la vida. No quiero pasar la cena en silencio.",
+   "reply": "Don Manuel, me han contado que fue usted pescador en Cádiz toda la vida. ¿Qué es lo que más echa de menos del mar?",
+   "lang": "es",
+   "note": "Pregunta por algo sobre lo que él tiene opinión, y saca la siguiente pregunta de su respuesta, no de una lista."
   }
  ]
 }

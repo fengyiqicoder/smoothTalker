@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -64,6 +64,13 @@
    "reply": "Hey Leo, small fridge thing. A few bits of my food have gone lately, the lasagne last week and my yoghurts this week, and I'd been planning meals around them. Could we keep to our own shelves and just ask before borrowing something? I'll do the same, and I'm happy to go halves on basics like milk and eggs if that's easier.",
    "lang": "en",
    "note": "One issue, told as what happened rather than what he is, plus a small system so neither of you has to police the fridge."
+  },
+  {
+   "id": "roommate-and-shared-living-010",
+   "situation": "My flatmate Chloe's friend from Australia, Jess, has been sleeping on our living room sofa for 12 nights, and Chloe just mentioned she's staying 'another couple of weeks'. I work from home in the living room. Nobody asked me.",
+   "reply": "Hey Chloe, can I raise something small about Jess? She's lovely, and it's been 12 nights on the sofa, which is a lot with me working from the living room every day. Could we agree she heads off by Sunday 11 October, and that for anyone staying longer than a week we check with each other first? Happy to talk it through if the dates are tricky.",
+   "lang": "en",
+   "note": "Propose a date and a house rule for next time, not a verdict on the guest."
   }
  ]
 }

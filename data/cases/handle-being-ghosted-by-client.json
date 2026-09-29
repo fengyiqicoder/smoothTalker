@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Priya, I'd love to get your brand workshop on the calendar before the holiday rush. To keep it simple, here are two options: Tuesday 13 October or Thursday 22 October, both 9am to 1pm at your Main Street shop. Just reply 13 or 22. If this needs to wait until the new year, that's fine too, your deposit stays credited to the workshop, just let me know so I can plan.",
    "lang": "en",
    "note": "A client who has already paid and gone quiet usually just has too much on: shrink the reply to one word and offer the pause openly."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-010",
+   "situation": "Ich bin freiberufliche Übersetzerin. Am 15. September habe ich Frau Krüger, Marketingleiterin bei einem Möbelhersteller, ein Angebot über 3.400 € für die englische Version ihres Herbstkatalogs geschickt. Im Telefonat war sie begeistert, seitdem kam nichts. Ich habe noch nicht nachgehakt.",
+   "reply": "Guten Tag Frau Krüger,\nich hole mein Angebot vom 15. September für die englische Fassung Ihres Herbstkatalogs noch einmal nach oben, falls es untergegangen ist. Umfang und Zeitplan passe ich gern an. Wäre ein kurzes Telefonat von 15 Minuten hilfreich, oder klären wir offene Fragen lieber per E-Mail?\nViele Grüße\nAnna Weber",
+   "lang": "de",
+   "note": "Erste Nachfrage: davon ausgehen, dass die Mail untergegangen ist, kein Vorwurf, und die Antwort so klein wie möglich machen."
   }
  ]
 }

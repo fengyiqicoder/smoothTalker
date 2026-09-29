@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -64,6 +64,13 @@
    "reply": "You said ask, so: is the cello a serious thing, or a kitchen concert for one? Secretly hoping for the second.",
    "lang": "en",
    "note": "With a near-empty profile, use the one detail there is and make the answer easy. No compliment on looks, no ask."
+  },
+  {
+   "id": "first-message-to-stranger-010",
+   "situation": "I DMed a woman on our city's climbing Discord to thank her for her beta on a V5 at the gym, then asked if she wanted to climb together sometime. She replied that she's only there to talk climbing and finds DMs from strangers asking to meet up uncomfortable.",
+   "reply": "Sorry, that was out of line. I'll leave you be.",
+   "lang": "en",
+   "note": "When they say it wasn't welcome: one line of apology, no explanation, and no further messages."
   }
  ]
 }

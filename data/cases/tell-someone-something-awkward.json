@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -64,6 +64,13 @@
    "reply": "琳琳，海报好好看！小提醒：巴斯克6寸写成了¥18.8，少了个0，下面已经有人说要订了，赶紧改一下。手滑这种事谁都有过，别在意哈。",
    "lang": "zh",
    "note": "马上能改的错误要马上私聊说，一句话讲清楚，不在评论区指出；已经评论的人要不要按错价卖，是她自己的决定，不用替她出主意。"
+  },
+  {
+   "id": "tell-someone-something-awkward-010",
+   "situation": "Company all-hands on Zoom, about 80 people. My teammate Raj is unmuted and everyone can hear him on the phone ordering a takeaway. The host hasn't noticed and people are starting to smirk.",
+   "reply": "Raj, you're unmuted, we can all hear you!",
+   "lang": "en",
+   "note": "Quick fix, so speed is kindness: private chat, one line, and never mention it again unless he laughs about it first."
   }
  ]
 }

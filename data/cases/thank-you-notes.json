@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Omar, I wanted to let you know I didn't get the Fielding role; they went with someone internal. I still wanted to thank you properly for the referral, and for the half hour on the phone the night before my final round explaining how the product team works. It's the reason I got as far as I did. If I can ever return the favour, I will, and I'll let you know where I land.",
    "lang": "en",
    "note": "Thank the effort, not the outcome. The bad news goes in one plain line so he isn't left wondering, then the specific thing he did."
+  },
+  {
+   "id": "thank-you-notes-010",
+   "situation": "J'ai passé le week-end chez les parents de mon copain Hugo, Martine et Gérard, à Quimper. C'était la première fois que je les rencontrais. Martine avait fait un kouign-amann maison et Gérard m'a emmenée voir le phare d'Eckmühl samedi matin. Je veux leur envoyer une carte.",
+   "reply": "Chère Martine, cher Gérard,\nMerci mille fois pour ce week-end à Quimper. Le kouign-amann maison restera dans les annales, et la balade au phare d'Eckmühl samedi matin, dans le vent et avec vos histoires sur la côte, a été mon moment préféré. Merci surtout de m'avoir accueillie si simplement, je me suis tout de suite sentie à l'aise. Hugo et moi serions ravis de vous recevoir à Nantes cet hiver.\nBien amicalement,\nClara",
+   "lang": "fr",
+   "note": "Premier séjour chez la belle-famille : une carte manuscrite, un détail précis pour chacun, et une invitation en retour."
   }
  ]
 }

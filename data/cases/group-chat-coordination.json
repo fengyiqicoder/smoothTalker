@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -57,6 +57,13 @@
    "reply": "Ski trip, real proposal: the chalet in Morzine, Saturday 23 to Saturday 30 January, £420 each for the house. The owner needs a £1,000 deposit by Monday 12 October. If you're in, send £125 to my Monzo by Friday 9 October and 👍 this message once you have. I'll book with whoever's paid by then, and if we're short I'll offer the spare beds to the wider group.",
    "lang": "en",
    "note": "'Sounds fun' isn't a yes: turn commitment into a small payment with a deadline and a stated default."
+  },
+  {
+   "id": "group-chat-coordination-009",
+   "situation": "高中同学群30个人，我组织10月10号周六的聚餐，说好昨晚（周一）十点前接龙，结果只有14个人接了，其他人一直没动静。要不要再催一遍？",
+   "reply": "接龙截止了，一共14位。我已经订好：10月10日周六晚上6点半，福满楼二楼，两桌，费用AA，当天现场结。没接上但想来的，10月7日周三前私聊我，我去跟饭店加位。群里就不再刷屏了，具体安排到时候拉个小群说。",
+   "lang": "zh",
+   "note": "截止后照说好的办，结果只在群里发一次，不重新问一遍；想来的人给一个私聊补报的窗口。"
   }
  ]
 }

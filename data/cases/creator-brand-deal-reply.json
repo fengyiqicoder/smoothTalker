@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 8,
+ "count": 9,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -56,6 +56,13 @@
    "reply": "Hi Ellie, happy to help get this one right. The brief included one round of revisions, which we used on 24 September, so a full reshoot sits outside the original scope. I can reshoot with the new outfit and hook for $400, delivered by Friday 2 October. If you'd rather stay within the current budget, I can recut the existing footage with a new text hook at no charge by tomorrow. Which would you prefer?",
    "lang": "en",
    "note": "Scope creep after delivery: point to the brief once, price the extra work, and offer a free smaller fix so saying yes is easy either way."
+  },
+  {
+   "id": "creator-brand-deal-reply-009",
+   "situation": "J'ai refusé une collab « contre produits » avec une marque de bougies et j'ai proposé une story payée à 250 euros. La responsable, Camille, m'a répondu : « D'autres créatrices le font gratuitement, vous savez. » J'ai 30 000 abonnés sur Instagram.",
+   "reply": "Bonjour Camille, c'est tout à fait normal, et je comprends que ça marche pour certaines. Je ne suis simplement pas la bonne personne pour cette campagne. Bonne continuation pour le lancement, et si un budget se libère plus tard, je serai ravie d'en reparler.",
+   "lang": "fr",
+   "note": "Quand la marque se braque, on ne débat pas du marché : une ligne courtoise, la porte reste ouverte, et on passe à autre chose."
   }
  ]
 }

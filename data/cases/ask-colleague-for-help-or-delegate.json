@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -64,6 +64,13 @@
    "reply": "小林，想请你帮个忙：我10月12日到16日休年假，这周华东供应商的对账邮件能不能帮我盯一下？每天大概三四封，基本是确认金额。模板和对账表我9日周五前整理好放在共享盘，遇到金额对不上的直接放着，等我19日回来处理。你11月休假的时候，你那边的周报我来接。看你那周手上的事，接得过来吗？不方便也没关系，我再找别人。",
    "lang": "zh",
    "note": "平级之间没有分派的权力：说清范围和工作量，把难的留给自己，给一个交换，也给退路。"
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-010",
+   "situation": "I'm an account manager at a payroll software company. On a call today, a client, Deborah at Fernway Clinics, asked whether our system will handle Colorado's new overtime rules starting in January. I didn't know and said I'd check. Sending a follow-up email.",
+   "reply": "Hi Deborah, on your question about the new Colorado overtime rules from January: I don't know off the top of my head, and I'd rather check than guess on something that affects your payroll. I've asked our compliance lead, Marcus Webb, and I'll come back to you with a clear answer by Thursday 1 October. Which pay run do you need it confirmed for? That will help us check the right thing.",
+   "lang": "en",
+   "note": "\"I don't know\" works with clients too: say it cleanly, name who you're asking and when they'll hear back."
   }
  ]
 }

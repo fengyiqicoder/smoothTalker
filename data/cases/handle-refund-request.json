@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Nadia, I'm so sorry to hear the wedding is off; that can't have been an easy email to write. The deposit held your date, and I turned other couples away for it, so I can't refund the full $1,500. What I can do is refund $750 this week, or keep the whole $1,500 as credit for any shoot in the next two years, whether that's portraits, family photos or another celebration. Tell me which suits you and I'll sort it straight away.",
    "lang": "en",
    "note": "A life event isn't a policy argument: the human line first, the no in one clause, two real alternatives. Never ask what happened."
+  },
+  {
+   "id": "handle-refund-request-010",
+   "situation": "我在淘宝卖多肉。顾客陈女士买了4盆，一共132元，今天收到说其中一盆桃蛋烂根了，发了照片，要求整单退款。另外三盆她说状态还行。",
+   "reply": "陈女士您好，看了照片，桃蛋确实烂根了，这盆不该这样发给您，抱歉。这盆的38元我现在就退，1到2天原路到账；如果您更想要一盆新的，我明天重新挑一盆发顺丰，您选一个告诉我就行。烂的那盆不用寄回。另外三盆是好的，就不做整单退款了，希望它们在您那儿长得好。",
+   "lang": "zh",
+   "note": "部分出问题就部分解决：坏的那盆马上退或补，给两个选项；不为另外三盆争论，也不让她寄回。"
   }
  ]
 }

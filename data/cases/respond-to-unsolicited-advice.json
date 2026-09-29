@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -64,6 +64,13 @@
    "reply": "Thanks, Brenda, my midwife and I have it covered. How's the move to the new floor going?",
    "lang": "en",
    "note": "For an acquaintance, the lowest rungs of the ladder: one short line of position and a new subject. Quoting guidelines would only give her something to argue with."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-010",
+   "situation": "I posted a photo of my 8-month-old napping in the carrier on Instagram and Kerry, a woman I went to school with, commented publicly that babies should only nap in a cot and I'm 'creating bad habits'. About 200 people follow me, mostly friends and family.",
+   "reply": "Thanks, Kerry! He's a happy little napper either way, and this works for us right now. Hope your two are doing well.",
+   "lang": "en",
+   "note": "In a public comment, stay on the lowest rung: receive it, one line of position, a warm close. Never debate it in the comments."
   }
  ]
 }

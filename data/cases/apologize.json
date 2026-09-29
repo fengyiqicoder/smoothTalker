@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "apologize-001",
@@ -64,6 +64,13 @@
    "reply": "Carmen, siento mucho lo del sábado. Me dejé abierto el grifo de la bañera y el agua le ha calado el techo del baño; fue un despiste mío. Sé que le ha tocado limpiar y que ahora tiene una mancha en casa que no ha buscado. Ya he dado parte al seguro y el perito puede pasar el jueves 1 de octubre por la mañana; si no le va bien, lo cambio al día que usted diga. La pintura corre de mi cuenta.",
    "lang": "es",
    "note": "Entre vecinos: el hecho concreto sin excusas, el impacto en su casa y el arreglo ya en marcha, con fecha y dejando que ella elija."
+  },
+  {
+   "id": "apologize-010",
+   "situation": "My friend Hana told me in confidence that she and her husband are doing IVF. At drinks on Friday I mentioned it to our friend Chloe, thinking she already knew. She didn't, and Chloe messaged Hana to say she was thinking of her. Hana just texted me 'I can't believe you told Chloe.'",
+   "reply": "You're right, and I'm so sorry. You told me about the IVF in confidence and I repeated it to Chloe on Friday. That was yours to share, not mine, and I took that choice away from you at a time that's already hard. I won't bring it up with anyone again. I'm here whenever you want to talk, or not.",
+   "lang": "en",
+   "note": "Breaking a confidence: no 'I thought she knew', name what you took from her, and don't ask if you're okay."
   }
  ]
 }

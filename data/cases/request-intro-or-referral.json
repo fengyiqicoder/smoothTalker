@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -64,6 +64,13 @@
    "reply": "Not yet! I emailed Tom on the 9th and again last week, no reply so far, which is totally fine, so I'll leave it there rather than chase him. Thank you again for the intro. It got me thinking about who else to talk to, and I've got a call with someone at SunPeak on Monday. I'll let you know how it goes.",
    "lang": "en",
    "note": "Report back even when the intro went nowhere: no complaint about Tom, no asking her to nudge him, and a next step so her effort feels worth it."
+  },
+  {
+   "id": "request-intro-or-referral-010",
+   "situation": "我是做小程序的自由开发者，刚给一家烘焙店做完点单小程序，上线一个月线上订单占了三成，老板娘王姐很满意。听说她跟隔壁街豆子咖啡的周老板很熟，周老板最近在找人做会员系统。想请王姐帮我引荐。",
+   "reply": "王姐，想请您帮个忙：听说您跟豆子咖啡的周老板挺熟，他最近在找人做会员小程序，方便帮我引荐一下吗？如果不好开口，完全没关系，直接跟我说就行。\n\n要是方便，这段可以直接转给他：'周老板，介绍一下小林，我们店的点单小程序就是他做的，上线一个月线上订单占了三成，做事很靠谱。他想跟你聊20分钟，看看会员系统怎么做合适。'\n\n不管结果怎样，我都会跟您说一声。谢谢王姐！",
+   "lang": "zh",
+   "note": "向满意的客户要引荐：开头就说请求，附一段带真实数字、可直接转发的介绍，给她说不的余地，并承诺回报结果。"
   }
  ]
 }

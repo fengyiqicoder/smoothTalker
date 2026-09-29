@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -64,6 +64,13 @@
    "reply": "王老板，谢谢您的信任，这10条我很想给您做好。单价我这边不打折，每条800元包括脚本梳理、剪辑、调色和两轮修改。如果预算是6400，我建议先做8条，正好6400元，效果好了剩下两条下个月再做。您看这样可以吗？",
    "lang": "zh",
    "note": "守住单价，调整范围：直接打折会让之后每次报价都从折后价开始谈。"
+  },
+  {
+   "id": "negotiate-price-or-salary-010",
+   "situation": "Recruiter at Brightline Logistics, Ana, emailed before my first interview (Thursday) asking my salary expectations for a senior data analyst role in Chicago. Market looks like $105k to $120k. I'm on $98k now and would accept $112k.",
+   "reply": "Hi Ana, thanks for asking, and I'm glad to be moving forward. Based on the scope in the job description and what senior analyst roles in Chicago are paying, I'm looking for a base of $118k. I'm also interested in the full package, so I'm happy to talk about bonus and benefits as we go. Looking forward to Thursday.",
+   "lang": "en",
+   "note": "Asked early: one number slightly above your floor, anchored in scope and market, never your current salary and never a range."
   }
  ]
 }

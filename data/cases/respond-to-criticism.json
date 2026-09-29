@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -64,6 +64,13 @@
    "reply": "Thanks for laying it out, Olu. You're right that I waited about 40 minutes before paging the database team, and I own that. There are a couple of other points I want to answer properly rather than defensively, so I'll come back to you directly by noon tomorrow, and I've added the paging question to Thursday's incident review.",
    "lang": "en",
    "note": "When it stings: own the true part now, buy time for the rest with a firm time, and don't argue the details in the channel at 11pm."
+  },
+  {
+   "id": "respond-to-criticism-010",
+   "situation": "我是社区志愿者服务队的排班负责人。张阿姨私信我，说我偏心，周末的好班总给年轻人，她们老同志只能排工作日下午。其实排班一直按报名先后，周末的班每次开放后半小时就报满了。不过开放时间是晚上十点，确实对老人不太友好。",
+   "reply": "张阿姨，谢谢您直接跟我说，没憋在心里。您是觉得周末的班总轮不到老同志，这个我明白。偏心这点我想说清楚：排班一直按报名先后，我没有挑人。但您提醒得对，晚上十点开放报名，对早睡的人确实不公平。下个月起我改成上午九点开放，再给每人每月留一个周末班。您看这样行吗？",
+   "lang": "zh",
+   "note": "三个桶分开放：认下对的（开放时间），平静说明不同意的（偏心），再给出具体的改法。"
   }
  ]
 }

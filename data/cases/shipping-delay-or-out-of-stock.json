@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -64,6 +64,13 @@
    "reply": "张先生您好，您的订单（尾号3392）里有一本出了问题：《小熊的秋天》出版社缺货，10月20日到货，是我们没及时下架。另外两本现货，明天就能发。三种方式您选：1是先发两本，《小熊的秋天》20日到货当天单独补寄，运费我们出；2是三本等到20日一起发；3是这本直接退款，今天原路退回。您不回复的话，我就按第1种先发两本。有问题随时找我。店主阿宁",
    "lang": "zh",
    "note": "部分缺货：先说哪本、哪天到，再给三个选择和默认选项；分开寄的运费由店家承担。"
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-010",
+   "situation": "I sell knitwear online. Customer Hannah ordered a navy wool scarf (#5532) as a birthday gift for Saturday, and I sent the grey one by mistake. She emailed me a photo this morning.",
+   "reply": "Hi Hannah, you're right, order #5532 should have been the navy scarf and I sent grey, that's my mistake. The navy one goes out today by express and will be with you by Thursday 1 October, in time for Saturday. Keep the grey one, no need to send it back. If you'd rather have a full refund instead, just say and I'll process it today. I'll email you tracking by 5pm.\nMaya",
+   "lang": "en",
+   "note": "Your mistake: own it in one line, fix it before the deadline that matters to them, and let the make-good (keep the wrong one) do the apologising."
   }
  ]
 }

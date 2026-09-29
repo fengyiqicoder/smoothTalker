@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -64,6 +64,13 @@
    "reply": "Hello, booking reference K7Q2MD. My flight from Lisbon to Amsterdam on 18 September was cancelled the evening before for operational reasons, and I was rebooked on the next evening's flight. I paid €142 for a hotel near the airport that night (receipt attached). I'm requesting the €400 compensation due under EU Regulation 261/2004 for a cancellation with less than 14 days' notice on a route of this distance, plus reimbursement of the €142 hotel. Please confirm within 14 days. Thank you, Hannah Weiss, hannah.weiss@mailbox.org",
    "lang": "en",
    "note": "The missed conference day isn't covered by EU261, so leave it out: a claim that asks only for what's due is the easiest one to approve."
+  },
+  {
+   "id": "complain-as-customer-010",
+   "situation": "网上买的空气净化器，订单号8820417736，9月17日签收，今天开机就报E3故障。客服回复说过了7天无理由，只能寄回厂家维修，要等30天左右。我想要换新，不想吵架。",
+   "reply": "您好，谢谢回复。寄修解决不了我的问题：订单号8820417736的空气净化器9月17日签收，9月29日开机报E3故障，签收还不到15天。按三包规定，15天内出现性能故障可以直接换货。麻烦转给主管或售后专员处理，我的要求还是换一台新机。希望10月8日（周四）前能给我答复，我更希望和你们直接解决这件事。",
+   "lang": "zh",
+   "note": "第一次被话术拒绝，只升级一次：重申订单事实、依据和一个要求，给个期限，不在第一次升级里提差评或投诉平台。"
   }
  ]
 }

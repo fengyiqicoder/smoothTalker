@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Grace, thank you for your order, what a lovely housewarming gift! Your walnut board goes into the workshop this week and ships by Tuesday 6 October, so it should reach you by Friday 9 October, in time for Saturday. Before I engrave, please check the wording exactly as it will appear: The Okafor Kitchen, est. 2026. Could you reply with a yes or any changes by Thursday 1 October? Engraving can't be undone. Any questions, just reply here and you'll get me.\nTom, Grain & Co.",
    "lang": "en",
    "note": "Confirm the one detail that can't be fixed later, with a deadline tied to when work starts, and a delivery date checked against her event. No upsell."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-010",
+   "situation": "I run a two-person home cleaning business. Marta just booked a fortnightly clean, first one Thursday Oct 8, 9am to 12. I need to know how we get in, whether there are pets, and any rooms or products to avoid. I also want to be clear that ovens and inside windows aren't included.",
+   "reply": "Hi Marta, thanks for booking with us! Your first clean is Thursday 8 October, 9am to 12, then every other Thursday at the same time. Could you reply by Monday the 5th with three things: how we'll get in (you at home, a key safe or a spare key), any pets we should know about, and any rooms or products to avoid? Each visit covers the kitchen, bathrooms, dusting, floors and bins; ovens and inside windows are extras we can quote for any time. Questions, text me on 07700 900456, I usually reply within a couple of hours. Ines",
+   "lang": "en",
+   "note": "One list, one deadline, and what's included said once up front, so nobody is disappointed on the first visit."
   }
  ]
 }

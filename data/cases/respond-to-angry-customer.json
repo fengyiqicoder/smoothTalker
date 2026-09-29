@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Mr Haddad, Dana here from Greenfork. Just checking yesterday's box arrived and everything was right this time; I packed it and checked every label myself. If anything's off, reply to me directly or call 0161 496 0188 and I'll sort it the same day.",
    "lang": "en",
    "note": "Follow up when you said you would, keep it short, and don't reopen the apology; the direct line is the point."
+  },
+  {
+   "id": "respond-to-angry-customer-010",
+   "situation": "I run a small IT support firm. At 8:40 this morning Jo, the office manager at a client architecture practice, emailed in capitals: nobody can print since the update we pushed last night, and they have a tender to hand-deliver by noon. It's our update.",
+   "reply": "Hi Jo,\nNobody in your office has been able to print since our update last night, and your tender is due at noon. That's our fault and I'm sorry. I'm rolling the update back remotely now, and Sam is on his way to you, arriving by 9:30. If printing isn't back by 10:15, email me the tender files and we'll print and bind them here and get them to you by 11:15. I'm Priya and I'm on this until it's fixed: 020 7946 0321.\nPriya",
+   "lang": "en",
+   "note": "When the clock is the problem, speed beats polish: own it in one line, then a timed fix plus a backup that protects their deadline. The make-good can come in the follow-up."
   }
  ]
 }

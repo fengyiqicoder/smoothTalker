@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -64,6 +64,13 @@
    "reply": "Hi Dana, so glad you can make it on the 24th! Quick note on the RSVP: we've kept plus-ones to partners who are engaged or live together so we stay within the venue's numbers, so your invitation is just for you. I've updated it on our end, so there's nothing you need to do. You'll be at a table with the whole office crew, and I can't wait to celebrate with you.",
    "lang": "en",
    "note": "Correct it quickly and privately, state the category rule once, and fix the list yourself so she has nothing awkward left to do."
+  },
+  {
+   "id": "wedding-and-event-host-messages-010",
+   "situation": "My groomsman Kyle got drunk at the bachelor party, hit on my fiancée Anna's sister Jess and then denied it. The wedding is Saturday Oct 24 and he's RSVP'd yes. We've decided he shouldn't come. I'm calling him tonight, but I need a text in case he doesn't pick up.",
+   "reply": "Kyle, I tried to call first because this deserves a conversation. After what happened with Jess at the bachelor party, Anna and I have decided it's best that you don't come to the wedding on the 24th. I know that's painful to read, and we didn't decide it lightly. I'd rather tell you straight than have you hear it any other way.",
+   "lang": "en",
+   "note": "Uninviting: call first, give the real reason in one line, take the decision on yourselves, and don't reopen it if he argues."
   }
  ]
 }

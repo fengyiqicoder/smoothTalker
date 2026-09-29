@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -64,6 +64,13 @@
    "reply": "李经理您好，非常感谢这份offer，我对这个岗位是认真在考虑的。想跟您商量一下答复时间：能否从10月9日（周五）延到10月16日（周五）？我还有一个之前就在进行的面试流程，13日结束，想两边都了解清楚后给您一个确定的答复，而不是仓促决定。如果16日有困难，请告诉我最晚可以到哪天，我会按那个时间答复。",
    "lang": "zh",
    "note": "要早提、给具体新日期、理由一句话说实话；再留一个退路让对方好答应。"
+  },
+  {
+   "id": "ask-for-extension-010",
+   "situation": "I asked my client Lauren on Monday to move her brand guide from Friday Oct 2 to Wednesday Oct 7 because the photographer delivered late. She agreed but added 'honestly this should have been flagged last week.' She's right, I sat on it.",
+   "reply": "Fair, I should have flagged it last week when the photos slipped. The full guide will be with you by 10am Wednesday Oct 7, and I'll send the logo and colour pages on Friday so your team can start on the signage.",
+   "lang": "en",
+   "note": "When they're annoyed you asked late: one line of ownership, the date, a partial delivery, and no defence."
   }
  ]
 }

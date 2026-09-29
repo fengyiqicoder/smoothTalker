@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 9,
+ "count": 10,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -64,6 +64,13 @@
    "reply": "爸，想跟您认真说件事：我决定年底离开厂里，12月31日是我最后一天。我想去深圳做设计，这是我一直想试的事，趁年轻去拼一拼。这三个月我会把账目理清楚，把会计小陈带出来，工资表和供应商对账都做成模板，保证我走了厂里不乱。这三年跟着您，学得最多的是怎么跟老客户打交道，这个我会一直带着。",
    "lang": "zh",
    "note": "对家人也是同一个结构：当面说，先说决定和日期，理由一句，交接具体，最后是具体的感谢；接班的事不在这次辩论。"
+  },
+  {
+   "id": "leave-or-quit-gracefully-010",
+   "situation": "I play bass in a covers band with three friends, Sam, Ollie and Kate. We gig about once a month. Our baby is due in December and I can't keep doing weekly rehearsals. I want to leave after our Halloween gig on Oct 31 without letting them down.",
+   "reply": "Guys, I'd rather tell you now than fade out: with the baby due in December I can't keep up with rehearsals, so the Halloween gig on the 31st will be my last. I'll have the new set properly learned for it, and I'm happy to sit in with whoever you try out and pass on all my charts. I've loved every minute of this band, and I'll be front row at your next gig.",
+   "lang": "en",
+   "note": "Leaving a shared commitment with friends: a clear last date, a real handover, and warmth without over-explaining."
   }
  ]
 }
