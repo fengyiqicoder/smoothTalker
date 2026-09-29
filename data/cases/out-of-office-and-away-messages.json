@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -22,6 +22,13 @@
    "reply": "亲，小店春节休息，1月25日至2月5日暂停发货，2月6日起恢复。这期间可以正常下单，我们开工后按顺序发出；1月22日前的订单都已经寄出啦。留言我们回来后会一一回复，祝新年快乐！",
    "lang": "zh",
    "note": "小店客人最关心的是还能不能买、什么时候发货。日期写清楚，其他不用多说。"
+  },
+  {
+   "id": "out-of-office-and-away-messages-004",
+   "situation": "My dad passed away and I'm taking bereavement leave from Oct 1, back two weeks later. I'm an HR business partner and my colleague Tanya Brooks agreed to cover. I don't want any details in the auto-reply.",
+   "reply": "I'm on leave until Thursday 15 October and not reading email. For anything active, please contact Tanya Brooks (tanya.brooks@kestrelgroup.com). Messages here won't be forwarded, so do resend anything important.",
+   "lang": "en",
+   "note": "For bereavement, less detail, not more. Colleagues who need to know will hear it from your team."
   }
  ]
 }

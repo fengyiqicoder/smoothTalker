@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -22,6 +22,13 @@
    "reply": "Subject: Decision needed by 1 Oct: Delmar renewal pricing\nHi Anita, I raised the Delmar renewal with Tom on the 12th and 19th, and I know the merger has him stretched. Delmar's contract ($310k a year) expires 1 October and they've asked for a 6% discount to sign a three-year term. I need a yes or no on the 6% by Wednesday so legal can turn the paperwork. My recommendation: approve it, since three years locks in the account through the migration. Tom is copied.",
    "lang": "en",
    "note": "Say you tried the manager first, copy him, keep it under 150 words, and close with your recommendation."
+  },
+  {
+   "id": "escalate-an-issue-004",
+   "situation": "Mein Internet ist seit dem 10. September komplett weg, ich arbeite im Homeoffice. Zwei Störungsmeldungen, der Technikertermin am 22. ist ohne Nachricht ausgefallen. Ich will jetzt eine Beschwerde, die wirklich weitergeleitet wird.",
+   "reply": "Betreff: Dritte Meldung, Anschluss seit 10. September ausgefallen, Kundennummer 4471 2290\nSehr geehrte Damen und Herren,\ndies ist meine dritte Meldung zum Ausfall meines Internetanschlusses seit dem 10. September. Bisherige Ticketnummern: 88120 und 88341. Der Technikertermin am 22. September wurde ohne Nachricht nicht wahrgenommen. Ich arbeite von zu Hause und bin seit drei Wochen auf mobile Daten angewiesen. Bitte leiten Sie den Fall an Ihr Beschwerdemanagement weiter und bestätigen Sie mir bis Freitag, 2. Oktober, einen verbindlichen Technikertermin. Andernfalls wende ich mich an die Schlichtungsstelle der Bundesnetzagentur.\nMit freundlichen Grüßen\nSabine Krause",
+   "lang": "de",
+   "note": "Ticketnummern und Daten statt Adjektive, eine Bitte mit Frist, und nur einen nächsten Schritt ankündigen, den man auch wirklich geht."
   }
  ]
 }

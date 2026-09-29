@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -22,6 +22,13 @@
    "reply": "Understood, and thanks for being straight with me about the freeze. While salary is fixed, could we move me to the senior designer title now, since I've been leading the checkout redesign, and put the 8% first in line for the January review? I'll add a note to both our calendars for 15 January.",
    "lang": "en",
    "note": "Trade a lever that costs no budget now, and lock in a date for the money."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-004",
+   "situation": "My company just published salary bands. I'm a senior analyst on $68,000 and the band for my level is $74,000 to $88,000. I lead the pricing model now. Want to raise it with my manager Laura without sounding accusatory.",
+   "reply": "Hi Laura, now that the pay bands are published, I noticed my salary of $68,000 sits below the $74,000 to $88,000 band for senior analyst. I'd like to understand how my pay was set, and whether we can bring it to $78,000, given I now own the pricing model. Could we find 30 minutes next week to talk it through? Thursday or Friday afternoon both work.",
+   "lang": "en",
+   "note": "Anchor on the published band and your scope, never on a colleague's pay, and name the number you want."
   }
  ]
 }

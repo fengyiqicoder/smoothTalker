@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -22,6 +22,13 @@
    "reply": "Hi Tom, hope the new bathroom is treating you well. Just floating this back up in case it got buried: https://g.page/r/brightline-renovations/review. Totally fine if it's not your thing, and thanks again for having us.",
    "lang": "en",
    "note": "One reminder, with the link so there's zero work. If nothing after this, drop it."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-004",
+   "situation": "我是独立的钢琴老师。学生朵朵的妈妈张姐刚发消息说孩子四级考过了，特别感谢我。想请她帮我推荐给身边的家长，但不想显得太功利。",
+   "reply": "张姐，恭喜朵朵！这次四级弹得特别稳，是她自己这半年练得用心。想跟您提个小请求：如果身边有家长也在找钢琴老师，方便的话帮我推一下微信就行，不用多介绍，一句“朵朵的老师还不错”就够了。没有合适的也完全没关系，谢谢您一直这么支持。",
+   "lang": "zh",
+   "note": "推荐请求紧跟在好消息后面，说清对方只需要做一件很小的事，再给一个真正的退路。"
   }
  ]
 }

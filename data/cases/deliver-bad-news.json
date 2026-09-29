@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -22,6 +22,13 @@
    "reply": "Hi Rachel,\nI'll get straight to it: Apple Pay can't be added on your current Paymark plan, so it won't be in the 1 November launch. I checked with their support this morning and it's only available on their enterprise tier. I know that was one of the features you wanted for the holiday rush. Two options: launch on the 1st with cards and PayPal, or I can set up Stripe alongside Paymark, which adds about a week. Happy to talk it through on a call tomorrow if that's easier.\nSam",
    "lang": "en",
    "note": "No three paragraphs before the news. If she's upset, don't defend; restate the two options and let her choose."
+  },
+  {
+   "id": "deliver-bad-news-004",
+   "situation": "Borrowed my friend Nick's car for the weekend and scraped the passenger door reversing out of a parking space. My fault entirely. He only got it back from the garage last month.",
+   "reply": "Nick, I've got some news you won't love: I scraped the passenger door of your car reversing out of the Tesco car park this afternoon. There's a scratch about a hand's width long and a small dent, photos attached. I'm really sorry, I know you only just got it back from the garage. I'll pay for the repair in full, at whichever garage you trust, and I can drop it there myself. Call me tonight if you want to talk it through.",
+   "lang": "en",
+   "note": "When it's your fault, say it plainly with no excuse, and offer to pay before he has to ask."
   }
  ]
 }

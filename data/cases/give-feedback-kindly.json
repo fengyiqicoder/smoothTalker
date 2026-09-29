@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -22,6 +22,13 @@
    "reply": "I can hear that landed harder than I meant. It's one person's take, and I only said it because I think the truck could really work and I'd hate for rent to be the thing that trips it up. Happy to drop it, or go through the numbers together over a beer on Saturday, your call.",
    "lang": "en",
    "note": "Don't retract the point and don't add to it. Reaffirm the goal and offer to leave it there."
+  },
+  {
+   "id": "give-feedback-kindly-004",
+   "situation": "A peer on my team, Ben, ran our sprint retro for the first time and asked me afterwards for honest feedback. It was well organised, but he kept moving on before the quieter people, Jun and Aroha, finished their points.",
+   "reply": "Thanks for asking. The way you pulled the action items together at the end was really clear, it's the first retro where I knew exactly who owned what. One thing I noticed: when Jun and Aroha started to speak, the discussion moved on before they'd finished, and I don't think their points made it onto the board. Maybe a quick round where everyone gets a minute before the open discussion? I'm only raising it because these retros are getting genuinely useful.",
+   "lang": "en",
+   "note": "Describe what you saw, not a trait ('you talk over people'), and give one fix he can try next sprint."
   }
  ]
 }

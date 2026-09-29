@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -22,6 +22,13 @@
    "reply": "Not a brush-off, I promise. I'm just done for the day and up at 6. Talk tomorrow.",
    "lang": "en",
    "note": "Give warmth without retracting the exit, and don't end on a question that restarts the thread."
+  },
+  {
+   "id": "end-conversation-gracefully-004",
+   "situation": "我妈每次打电话都能聊一个多小时，今晚我还得赶一个方案。想挂电话，又怕她觉得我嫌她烦。",
+   "reply": "妈，我得挂了，今晚还有个方案要赶出来。挂之前跟您说一声，周六我回家吃饭，想吃您做的红烧肉。好啦，您早点休息，拜拜。",
+   "lang": "zh",
+   "note": "电话里先说要走，补一句最后的话，再说拜拜就挂，不用等她先挂，也不用反复道别。"
   }
  ]
 }

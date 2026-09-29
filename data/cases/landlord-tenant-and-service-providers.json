@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -22,6 +22,13 @@
    "reply": "李师傅，这段时间辛苦了。当时说好的全屋刷墙是8000，这次的单子是10500，多出来的2500能跟我说说具体是哪几项吗？加腻子的事之前没跟我确认过。说好的8000我今天就先转给您，剩下的咱们对一下再说。",
    "lang": "zh",
    "note": "先付没有争议的部分，只对差额提问，不指责对方故意多收。"
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-004",
+   "situation": "Our heating has been broken since Sept 14. I texted our landlord Donna that day and again on the 21st, she said 'I'll get someone out' and nothing happened. Nights are getting cold and we have two little kids.",
+   "reply": "Hi Donna,\nThis is a formal repair request for the heating, first reported to you by text on 14 September and again on the 21st. It still isn't working, and with two young children at home and nights now close to freezing, it can't wait much longer. Under the lease, heating repairs are the landlord's responsibility. Please confirm a repair date by Monday 5 October. I'd still prefer to sort this informally, so do call me on 07700 900 482.\nThanks,\nOwen",
+   "lang": "en",
+   "note": "Third step on the ladder: dates of the earlier requests, the lease cited once, and one dated ask. Not a threat yet."
   }
  ]
 }

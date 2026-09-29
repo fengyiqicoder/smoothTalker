@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -22,6 +22,13 @@
    "reply": "Hi Mark, the team was talking about your terrible pun in the March all-hands today and it made me think of you. No need to reply. Just wanted you to know you're missed around here.",
    "lang": "en",
    "note": "After silence, send something that needs zero response and never mention the unanswered text."
+  },
+  {
+   "id": "check-in-on-someone-struggling-004",
+   "situation": "Mi amiga Carmen perdió el trabajo hace un mes. Le escribí varias veces ofreciéndole ayuda con el currículum y hoy me contestó: 'deja de tratarme como un proyecto'.",
+   "reply": "Tienes razón, me pasé de insistente. Me echo para atrás. La oferta no caduca y aquí sigo, sin prisa y sin preguntas.",
+   "lang": "es",
+   "note": "No defiendas tu intención. Cumple lo que dices y reaparece en un par de semanas con algo pequeño que no tenga nada que ver con el trabajo."
   }
  ]
 }

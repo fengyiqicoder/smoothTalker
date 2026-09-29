@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -22,6 +22,13 @@
    "reply": "I've got to drop out of the Big Sur trip this weekend, sorry all. Nothing wrong, I'm just running on empty and need a quiet one. I'm still paying my $80 for the cabin, Venmo coming tonight. Have the best time and send me sunset photos.",
    "lang": "en",
    "note": "Covering your share is what makes a late drop-out land as honest rather than flaky."
+  },
+  {
+   "id": "cancel-or-reschedule-004",
+   "situation": "I cancelled my sister's birthday lunch two hours before because of a work emergency. She replied 'fine, whatever'. I feel awful and want to fix it.",
+   "reply": "I get it, and I'm sorry. It was your birthday and I bailed on the day. I've booked Sunday at 12:30 at Lucia's, the place you loved in the spring, my treat. If Sunday doesn't work, tell me a day and I'll move it.",
+   "lang": "en",
+   "note": "Don't argue with 'fine'. Own it once, then do the rebooking yourself so the effort is visibly yours."
   }
  ]
 }

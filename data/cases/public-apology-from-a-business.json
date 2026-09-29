@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -22,6 +22,13 @@
    "reply": "Fair, and you're right to be fed up. It's been two late weeks this year, and that's two too many. Here's what's done so far: everyone affected has a free box credited to their account, and we've added a second courier for Thursday deliveries. I'll post an update on 13 October with our on-time rate since the change.",
    "lang": "en",
    "note": "Agree with the feeling, correct the fact once without arguing, then point to actions and a dated update. Then post it."
+  },
+  {
+   "id": "public-apology-from-a-business-004",
+   "situation": "I own a small yoga studio. This morning I sent our class schedule email from my own Gmail and put all 212 members in the To line instead of BCC, so everyone's email addresses are visible. No other data. I want to email everyone.",
+   "reply": "Subject: An email mistake this morning, and what we've done\nHi everyone,\nAt 8:40 this morning our schedule email went to 212 members with every address visible, instead of hidden. Only email addresses were shared: no phone numbers, no payment details, nothing else. I'm sorry, that was my mistake, sending from my own account instead of our mailing tool. From now on every studio email goes through the mailing tool, which never shows addresses. Please delete this morning's email, and if anything odd arrives that seems to come from this list, reply here or call me on 0161 496 0732.\nMaya, owner, Northside Yoga",
+   "lang": "en",
+   "note": "A small data slip still gets its own email: exactly what was and wasn't shared, one sorry, one real change. Check your local notification rules before sending."
   }
  ]
 }

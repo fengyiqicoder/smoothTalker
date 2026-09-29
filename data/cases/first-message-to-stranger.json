@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -22,6 +22,13 @@
    "reply": "Perfect, thank you. Ordering a tin for my first walnut side table this weekend.",
    "lang": "en",
    "note": "A curt answer to your question is a win. Thank him in one line and don't ask for more."
+  },
+  {
+   "id": "first-message-to-stranger-004",
+   "situation": "I emailed a researcher I don't know, Dr. Ines Alvarez, on Sept 21 asking one quick question about her public urban heat dataset. No reply after 8 days. Is one follow-up okay?",
+   "reply": "Hi Dr. Alvarez, bumping this once in case it got lost in the start of term. The question is only whether the 2023 sensor readings in your heat-island dataset are hourly or daily averages. No worries at all if you're not able to reply.",
+   "lang": "en",
+   "note": "One follow-up, with the question restated so she can answer without scrolling back. If this gets no reply, stop."
   }
  ]
 }

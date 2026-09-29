@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -22,6 +22,13 @@
    "reply": "Hi Kyle, thanks for following up. We're not looking at HR tools this year, so please take me off the follow-up list. If that changes, I'll get in touch.",
    "lang": "en",
    "note": "A clear 'not now' ends the chase faster than silence. No reason to argue with."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-004",
+   "situation": "I declined my director's one-hour 'sync' on the migration plan and offered a written update instead. She replied 'I'd really prefer to talk it through live.'",
+   "reply": "Sure, let's do it. Could you add the one or two decisions you need from me to the invite so I come prepared? And could we keep it to 30 minutes? I'll bring the cutover timeline and the rollback plan.",
+   "lang": "en",
+   "note": "When a senior person insists, go, but shape it: ask for the decision and cap the time. Raise the format again later with evidence."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -22,6 +22,13 @@
    "reply": "お母さん、心配してくれてるのはわかってるよ。でも結婚の話はしばらくお休みにさせて。それ以外ならなんでも話したいから。そういえば、この前の旅行の写真見せてよ。",
    "lang": "ja",
    "note": "In many families a soft close like this is already firm; keep the blunter version for someone who keeps pushing."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-004",
+   "situation": "I finally texted my mum asking her to stop asking when I'm moving back to Manila. She replied 'So I can't even ask my own daughter anything now.' She sounds really hurt.",
+   "reply": "Mum, I love you and I want our calls to be good ones. That's exactly why I'm asking for this one subject to rest. Ask me anything else, any time, and I'm still coming home for Christmas, my flight lands on the 19th.",
+   "lang": "en",
+   "note": "When a parent hears the boundary as rejection, speak to the relationship, not the topic, and don't reopen the subject to comfort her."
   }
  ]
 }

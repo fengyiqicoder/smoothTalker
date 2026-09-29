@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -22,6 +22,13 @@
    "reply": "Mateo, nice to hear from you, and welcome back! I'd be up for a catch-up as friends, no expectations either way. Coffee on Saturday at 11? There's a good place on Armitage.",
    "lang": "en",
    "note": "Name the limit up front and pin a date, so it doesn't drift into something vaguer."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-004",
+   "situation": "Been dating Sam for five months. He's on a research ship until mid-November with email only, no calls. I know I want to end it and I don't think it's fair to wait seven weeks.",
+   "reply": "Sam, I need to say this now rather than wait until you're back in November, and I'm sorry it's by email. I don't want to carry on the relationship. Being apart has shown me I want something more day to day than we can have, and that's about what I want, not anything you did. I'll post the books and the jacket you left here to your mum's this week. I hope the rest of the voyage goes really well.",
+   "lang": "en",
+   "note": "Breakup in the first two lines, one true reason, belongings sorted, and no 'let's stay friends' unless it's true now."
   }
  ]
 }

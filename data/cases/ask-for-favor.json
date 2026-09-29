@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -22,6 +22,13 @@
    "reply": "Rafa, pedido sincero: você toparia me ajudar a levar um sofá de Pinheiros até a Mooca no sábado de manhã? Umas duas horas contando o trânsito, e precisa da sua Spin porque o sofá não cabe em carro normal. Se não der, de boa, eu chamo um frete. O almoço é por minha conta de qualquer jeito.",
    "lang": "pt",
    "note": "The cost (two hours, his car) is stated up front so he isn't agreeing to something bigger than he thought."
+  },
+  {
+   "id": "ask-for-favor-004",
+   "situation": "我在申请荷兰代尔夫特理工的硕士，想请本科毕业论文的指导老师王老师写推荐信。毕业三年了，平时联系不多，截止日期是12月1号。",
+   "reply": "王老师您好，我是2023届的林悦，毕业论文是您指导的，做的是城市绿地和热岛效应。我现在在申请代尔夫特理工的城市规划硕士，需要一封推荐信，您是最了解我研究能力的老师，所以第一个想到您。大概需要您花一个小时，截止日期是12月1日，您同意的话，我这周就把简历、个人陈述和论文摘要整理好发给您。如果这段时间实在排不开，完全理解，麻烦告诉我一声，我好另外安排。无论如何都谢谢您！",
+   "lang": "zh",
+   "note": "大一点的请求要说清为什么找他、要花多少时间、截止日期，并给一个真正的退路。"
   }
  ]
 }

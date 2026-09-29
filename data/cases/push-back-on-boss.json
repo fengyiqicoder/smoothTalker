@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -22,6 +22,13 @@
    "reply": "Understood, I'll make Monday the priority for both. To be clear, that means the newsletter goes out with three stories instead of five, and the volunteer training schedule moves to Wednesday. I'll send the grant application for your review by 2pm Monday.",
    "lang": "en",
    "note": "When they insist, don't argue a second time. Say what slips, in writing, and deliver what you said."
+  },
+  {
+   "id": "push-back-on-boss-004",
+   "situation": "My boss Alan just texted asking me to finish the investor memo over the weekend. Saturday is my sister's wedding and I'm a bridesmaid. It's about a day of work.",
+   "reply": "Hi Alan, I can't work on it this weekend, it's my sister's wedding on Saturday and I'm in the wedding party. I can start first thing Monday and have the memo to you by noon. If it truly can't wait, I can send you my outline and the latest numbers tonight so you can pick it up. Which would you prefer?",
+   "lang": "en",
+   "note": "A clear no to the weekend, then what it would take and a choice for him. No long apology for having a life."
   }
  ]
 }
