@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Chris, some news: I'm expecting, due 3 March. I'm planning to take 16 weeks of leave starting around 22 February, which puts my return in mid-June. I know that overlaps with the billing migration, so I'd like to get the design phase signed off before I go and start a handover plan in early January. Could we book 30 minutes next week to talk it through?",
    "lang": "en",
    "note": "News and timeline in one message so planning can start; naming the project overlap yourself is what makes the conversation easy. No medical detail needed."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-005",
+   "situation": "奶奶昨晚去世了，要回湖南衡阳老家办后事。想跟领导王经理请丧假，明天9月30号，加上国庆节后的两天。手上有个原定明天要交的渠道方案。",
+   "reply": "王经理，我奶奶昨晚去世了，需要回衡阳老家处理后事。想请明天9月30日和节后10月8日、9日的丧假，10月12日周一回来上班。原定明天交的渠道方案，我今晚把初稿发给小刘，后面的修改由她跟进。我今天在系统里提交申请，麻烦您批一下。",
+   "lang": "zh",
+   "note": "Bereavement: the fact in one line, exact dates around the National Day holiday, the handover, and the system request; no detail beyond that."
   }
  ]
 }

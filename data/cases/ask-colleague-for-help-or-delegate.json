@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Grace, I'm running the Harvest giveaway for marketing, launching Monday 12 October, and we need a legal review of the official rules before it goes live. It's a two-page doc adapted from the spring giveaway your team approved in April, and I've highlighted the three sections that changed. Could someone on your team review it by end of day Wednesday 7 October? If that's too tight with your current queue, tell me what date works and I'll plan the launch around it.",
    "lang": "en",
    "note": "Cross-team you have no authority, so make the job small, say exactly what done looks like, and let them name the date if yours doesn't fit."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-005",
+   "situation": "I asked my peer Ravi on the data team to build the churn dashboard for our QBR by Friday Oct 9. He replied that there's no way, he's on the migration until the 16th. I still need something for the QBR on Monday Oct 12.",
+   "reply": "Understood, Ravi, the migration comes first. Could we trim it to just the monthly churn chart by plan tier, from the existing billing table? If that's doable by Friday 9 October, I'll handle the formatting and the rest of the deck. If even that doesn't fit, is there someone else on your team who knows that table?",
+   "lang": "en",
+   "note": "When a delegated task gets a no, negotiate scope or ask who else, instead of repeating the original ask. If it's still no, flag it to your manager today."
   }
  ]
 }

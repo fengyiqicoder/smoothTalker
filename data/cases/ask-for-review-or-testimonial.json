@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -29,6 +29,13 @@
    "reply": "张姐，恭喜朵朵！这次四级弹得特别稳，是她自己这半年练得用心。想跟您提个小请求：如果身边有家长也在找钢琴老师，方便的话帮我推一下微信就行，不用多介绍，一句“朵朵的老师还不错”就够了。没有合适的也完全没关系，谢谢您一直这么支持。",
    "lang": "zh",
    "note": "推荐请求紧跟在好消息后面，说清对方只需要做一件很小的事，再给一个真正的退路。"
+  },
+  {
+   "id": "ask-for-review-or-testimonial-005",
+   "situation": "I left my job at a logistics company in August. My manager there, Sofia, said she'd happily vouch for me. I want a LinkedIn recommendation but she's always busy.",
+   "reply": "Hi Sofia, hope Q4 planning is going okay without me! Would you be up for writing me a short LinkedIn recommendation? I'm interviewing for ops lead roles this month and it would carry real weight coming from you. To save you time, here's a draft you can edit or bin: \"Ana ran our Midlands warehouse scheduling for three years and cut overtime by 18% by rebuilding the shift model. She's who I went to when a plan had to work on the floor.\" No worries at all if you're swamped.",
+   "lang": "en",
+   "note": "Former manager: a ready draft with one real number turns a 20-minute favour into a 2-minute one."
   }
  ]
 }

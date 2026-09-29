@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -29,6 +29,13 @@
    "reply": "周一开会，一周一开始就把重点对齐，这个思路我挺认同的。我这边有一个顾虑：我们组周一上午9点到11点要跟华南区对账，8点半开会很容易跟对账撞上。能不能改到周一下午2点？如果大家觉得早上更合适，我也想听听主要是考虑哪方面。",
    "lang": "zh",
    "note": "大家都赞成的方案，先认同目标，只讲自己组的一个具体冲突，给替代时间，再真心问对方的考虑。"
+  },
+  {
+   "id": "disagree-without-conflict-005",
+   "situation": "Mon associé veut baisser tous nos prix de 20 % pour remplir le carnet de commandes d'ici décembre. On a une petite menuiserie, nos marges tournent autour de 25 %. Je pense que c'est une erreur mais je ne veux pas qu'on se braque.",
+   "reply": "Je suis d'accord avec toi qu'il faut remplir le carnet de commandes d'ici décembre. Là où je vois les choses autrement, c'est sur les 20 % : avec nos marges autour de 25 %, on travaillerait presque à perte sur chaque chantier. Qu'est-ce qui te fait penser que le prix est le frein principal ? Si tu as eu des retours de clients là-dessus, j'aimerais qu'on les regarde ensemble avant de trancher.",
+   "lang": "fr",
+   "note": "Business partner: agree on the goal, give the one number that matters, then ask for his evidence instead of arguing."
   }
  ]
 }

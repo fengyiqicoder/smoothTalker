@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "small-talk-001",
@@ -22,6 +22,13 @@
    "reply": "I'm going to grab another drink. Good to meet you, Chris, enjoy the rest of the night.",
    "lang": "en",
    "note": "Two flat answers is the cue. Exit warmly and don't make it a verdict on either of you."
+  },
+  {
+   "id": "small-talk-004",
+   "situation": "Meeting my boyfriend Arjun's dad for the first time at dinner on Saturday. Arjun says he's quiet and spends weekends restoring old Royal Enfield motorbikes in the garage. I want something to say that isn't about work.",
+   "reply": "Arjun tells me you restore old Royal Enfields. Which one's in the garage at the moment?",
+   "lang": "en",
+   "note": "Open on the thing he cares about, then let the next question come from his answer (\"How long does one take, start to finish?\") and share one small thing back before returning to him."
   }
  ]
 }

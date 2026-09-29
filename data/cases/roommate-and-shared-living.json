@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -22,6 +22,13 @@
    "reply": "Fair, I'm sure I miss some of it. Want to try a rota for October, kitchen on alternate weeks, so we can both see it? If it's annoying we'll ditch it.",
    "lang": "en",
    "note": "Don't argue the tally. Agree the goal and let the system do the nagging."
+  },
+  {
+   "id": "roommate-and-shared-living-004",
+   "situation": "I live in a house with three others. I've just started early shifts at the hospital, my alarm is at 5am, and there's often music and gaming until 1am on weeknights. I want to raise it in our house group chat, not single anyone out.",
+   "reply": "Hey all, quick house thing: I've started early shifts at the hospital with a 5am alarm, so late noise on weeknights is hitting me harder than it used to. Could we try quiet hours from 11pm to 7am, Sunday to Thursday nights, starting this Sunday? Weekends stay as they are. Happy to tweak it if it clashes with anyone's schedule.",
+   "lang": "en",
+   "note": "Group chat, several housemates: frame it as your schedule change and propose a rule for the house, not a complaint about one person."
   }
  ]
 }

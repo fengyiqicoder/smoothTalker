@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Mr. Okafor, thanks for the heads-up about the renewal. I'd really like to stay; this has been a great home for three years. The new rent is a jump of about 12%, and comparable one-bedrooms on our street are listing around $2,250. Would you take $2,175 on an 18-month lease? You'd keep a tenant who has paid on time every month, with no vacancy or turnover costs. If 18 months doesn't suit you, I'm open to a different lease length.",
    "lang": "en",
    "note": "Anchor a little under your real target, tie it to their value (reliability, no vacancy), and keep lease length as the second lever if money doesn't move."
+  },
+  {
+   "id": "negotiate-price-or-salary-005",
+   "situation": "Got an offer as senior UX researcher at Hollis Health for $118k. I asked for $128k and the recruiter, Megan, came back saying $118k is the top of the band. I still want the job.",
+   "reply": "Thanks for checking, Megan, and for going back to them. I'm excited about this role, so let's look at the rest of the package. Would they do a $7,500 signing bonus and a formal salary review at six months instead of twelve? With those two in writing, I'm ready to sign this week.",
+   "lang": "en",
+   "note": "After a firm no on base salary: move to one-off money and timing, and make the path to yes explicit."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -29,6 +29,13 @@
    "reply": "Sure, let's do it. Could you add the one or two decisions you need from me to the invite so I come prepared? And could we keep it to 30 minutes? I'll bring the cutover timeline and the rollback plan.",
    "lang": "en",
    "note": "When a senior person insists, go, but shape it: ask for the decision and cap the time. Raise the format again later with evidence."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-005",
+   "situation": "A founder I don't know, Arjun, messaged me on LinkedIn asking for a 30-minute call to 'pick my brain' about raising a Series A. I get a few of these every week and can't do them all.",
+   "reply": "Hi Arjun, thanks for reaching out, and good luck with the raise. I'm not taking calls like this at the moment, but I'm happy to help by email: send me your two most pressing questions about the Series A and I'll reply by Friday.",
+   "lang": "en",
+   "note": "Strangers asking for time: decline the call, cap the help at two questions, and give a date you can keep."
   }
  ]
 }

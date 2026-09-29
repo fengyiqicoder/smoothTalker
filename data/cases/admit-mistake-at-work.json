@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Rachel, I made a mistake in this morning's newsletter: the discount code went out as FALL40, 40% off, instead of FALL14. So far 31 orders have used it, roughly $1,100 more in discounts than planned. I turned FALL40 off at 11:20, so no new orders can use it. I'll send you the full list of those 31 orders by 2pm, and I'll credit the extra discount against this month's invoice. From now on I'll send you a test email with the live code before every send. I'm sorry about this one.",
    "lang": "en",
    "note": "To a client, lead with the number and the fix already made, offer to carry the cost, and apologise once, at the end."
+  },
+  {
+   "id": "admit-mistake-at-work-005",
+   "situation": "I'm a junior analyst. Two weeks ago I sent the Q3 pricing deck to our VP, Marisa, and just found a formula error: monthly churn is 4.1%, not 2.4%. She's already quoted the 2.4% in the board pre-read for the October 8 meeting. I need to tell my manager Tom first.",
+   "reply": "Tom, I found an error in the Q3 pricing deck I sent on 15 September: monthly churn on slide 6 should be 4.1%, not 2.4%. A formula pointed at the wrong range, and Marisa has quoted the 2.4% in the board pre-read for 8 October. I've corrected the deck and rechecked every other figure against the source data, and the rest holds. Can we tell Marisa together today, so she has the corrected slide before the pre-read goes out? From now on I'll have a second person check any number that goes to the VP.",
+   "lang": "en",
+   "note": "Error found late and already quoted upward: tell your manager first, bring the fix, and ask to escalate together the same day."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -29,6 +29,13 @@
    "reply": "Understood, thanks for being straight with me. We'd still love to have you. If the price is firm, could you include the engagement shoot you normally offer as a $350 add-on? Either way we're ready to book, so send over the contract and I'll pay the deposit this week.",
    "lang": "en",
    "note": "After a clear no on price, one perk ask, and say you'll book either way so it costs her nothing to refuse."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-005",
+   "situation": "My lease renews Nov 30 and the landlord's agent, Tessa, wants to raise rent from $2,150 to $2,350. I've paid on time for three years, and unit 4B in my building is listed at $2,250. I want to stay.",
+   "reply": "Hi Tessa, thanks for sending the renewal. I'd like to stay another year. Given three years of on-time rent and that 4B is listed at $2,250, could we do $2,200 on a 12-month lease? If that works I'll sign this week. If not, I understand, just let me know where you can land.",
+   "lang": "en",
+   "note": "Two real anchors (track record and a live listing), a specific number below the comparable, and a quick signature as the reason to say yes."
   }
  ]
 }

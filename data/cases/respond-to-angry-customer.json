@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -29,6 +29,13 @@
    "reply": "Jess, we spelled Kaylee's name wrong on her birthday cake, and that's our mistake. I'm so sorry it happened on her day. I'd like to make it right with a fresh cake for Kaylee, on us, any day this week that suits you. I've sent you a DM to sort the details, or you can call me at the shop on 555-0142. Maria, owner",
    "lang": "en",
    "note": "Reply in public first so onlookers see it owned, then move the details to DMs. Name the exact mistake rather than 'any inconvenience'."
+  },
+  {
+   "id": "respond-to-angry-customer-005",
+   "situation": "I run a furniture shop. I already apologised to a customer, Mr Brennan, for his sofa arriving with a torn cushion, and offered a free replacement cushion delivered Friday. He's replied that's not good enough and he wants a full refund AND to keep the sofa, or he'll leave a one-star review.",
+   "reply": "I hear you, Mr Brennan, and I know a torn cushion on a new sofa is a real letdown. A full refund while keeping the sofa isn't something I can do. What I can do is either the new cushion delivered Friday 2 October plus a $150 refund for the hassle, or collect the sofa and refund you in full. Which would you prefer?",
+   "lang": "en",
+   "note": "Ignore the review threat. Restate the fix, add one proportionate option, and hold the line on the unreasonable demand without matching his tone."
   }
  ]
 }

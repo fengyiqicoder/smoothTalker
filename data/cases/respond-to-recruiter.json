@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -22,6 +22,13 @@
    "reply": "As I mentioned, I'm not looking for contract roles. Please remove me from your outreach list. Thanks.",
    "lang": "en",
    "note": "Second clear no, no reason needed. Then stop replying."
+  },
+  {
+   "id": "respond-to-recruiter-004",
+   "situation": "A recruiter, Nadia, emailed that before she passes me to the hiring manager she needs my current salary. I make $128k and I'm targeting $150k base. I'm interested in the role.",
+   "reply": "Thanks, Nadia, glad this is moving. I'd rather not share my current salary, but I can tell you what I'm targeting: $150k base for this role. If that fits the band, I'm happy to speak with the hiring manager this week; Thursday or Friday afternoon works for me.",
+   "lang": "en",
+   "note": "Share the target, never the current number; stay clearly interested so the redirect doesn't read as a no."
   }
  ]
 }

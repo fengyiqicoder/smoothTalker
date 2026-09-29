@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Alan, I can't work on it this weekend, it's my sister's wedding on Saturday and I'm in the wedding party. I can start first thing Monday and have the memo to you by noon. If it truly can't wait, I can send you my outline and the latest numbers tonight so you can pick it up. Which would you prefer?",
    "lang": "en",
    "note": "A clear no to the weekend, then what it would take and a choice for him. No long apology for having a life."
+  },
+  {
+   "id": "push-back-on-boss-005",
+   "situation": "My boss Rachel wants me to tell our client Brightline on Thursday's status call that the app launch is on track for Oct 20. QA has 14 blocking bugs open and my honest estimate is Nov 3.",
+   "reply": "Rachel, I want Thursday's call with Brightline to go well and keep their trust. Right now QA has 14 blocking bugs open, and my honest estimate for launch is November 3, not October 20. If we say on track and then slip, it will cost us more with them than two weeks will. Two options: tell them Thursday about the new date with the fix plan, or launch the core flows on the 20th and ship payments on the 3rd. I'd go with the second. Could you decide by tomorrow so I can prepare the deck?",
+   "lang": "en",
+   "note": "Pushing back on being asked to mislead a client: frame it around the relationship both of you want to protect, and give options that are all honest."
   }
  ]
 }

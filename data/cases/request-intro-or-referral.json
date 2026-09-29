@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Dr. Alvarez, resurfacing my note from last Monday in case it got buried under the start of term. It's completely fine to say no if you'd rather not make the intro to Kevin Tran, I'd just like to know whether to try another route. Either way, thank you for considering it.",
    "lang": "en",
    "note": "One nudge with the out restated, then find another path. A second chaser makes people avoid you."
+  },
+  {
+   "id": "request-intro-or-referral-005",
+   "situation": "I asked my friend Priya, who works at Spotify, to refer me for a product analyst role. She said she's not comfortable because we've never worked together and referrals are tracked against her. I'm a bit embarrassed.",
+   "reply": "Totally fair, Priya, and thanks for being straight with me. I know your name's on the line with those. No awkwardness at all on my side, and I'm still up for that ramen on Thursday.",
+   "lang": "en",
+   "note": "A no on a referral is about her reputation, not your worth. Thank her, don't argue, and move the friendship straight back to normal."
   }
  ]
 }

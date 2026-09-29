@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -29,6 +29,13 @@
    "reply": "Sam, I need to say this now rather than wait until you're back in November, and I'm sorry it's by email. I don't want to carry on the relationship. Being apart has shown me I want something more day to day than we can have, and that's about what I want, not anything you did. I'll post the books and the jacket you left here to your mum's this week. I hope the rest of the voyage goes really well.",
    "lang": "en",
    "note": "Breakup in the first two lines, one true reason, belongings sorted, and no 'let's stay friends' unless it's true now."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-005",
+   "situation": "My ex Priya and I broke up in July after three years. She just texted asking if we can 'be friends like before' before Dani's wedding on Oct 24, where we'll both be. I'm not ready for that.",
+   "reply": "Thanks for asking, and for reaching out before the wedding. I'm not ready to be friends right now and I don't know when I will be. At Dani's on the 24th I'll say hi and be friendly, and I hope we can both just enjoy the day. I hope you're doing okay.",
+   "lang": "en",
+   "note": "\"Not now\" is a real answer; the wedding line gives shape to the one meeting they can't avoid."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -22,6 +22,13 @@
    "reply": "Don't be hard on yourself, Gary, these texts are built to look exactly like the real thing. Call the number on the back of your card right now and tell them what happened, so they can block it before anything else goes through. Then forward the text to 7726 and delete it. I'm home all afternoon if you want me to sit with you while you call.",
    "lang": "en",
    "note": "Act first, talk later. Calling the bank fast is what limits the damage."
+  },
+  {
+   "id": "suspicious-or-scam-message-004",
+   "situation": "I do the accounts at a small architecture firm. Got an email that looks like it's from our print supplier Linden Press saying they've changed banks and we should pay their $6,420 invoice to a new account by Thursday. The address looks right but it feels off.",
+   "reply": "Hi Marcus, we received an email today from what looks like your accounts address, asking us to pay the $6,420 invoice into a new bank account by Thursday. We're holding the payment until we've confirmed it with you by phone, so could you call me on 555 0148 today or tomorrow? If that email didn't come from you, your mailbox may be compromised and it's worth telling your IT people.",
+   "lang": "en",
+   "note": "Send this to the contact details already on file, never to the reply address or number in the suspicious email."
   }
  ]
 }

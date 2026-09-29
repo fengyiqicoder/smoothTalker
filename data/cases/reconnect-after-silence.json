@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -29,6 +29,13 @@
    "reply": "田中先生、ご無沙汰しています。2016年卒業のバスケ部の佐藤健太です。10年ぶりのご連絡になってしまいました。実は今年の春から横浜の中学校で教員になり、女子バスケ部の顧問もしています。練習の最後に先生がいつも言っていた「最後の一本は丁寧に」を、気づけば自分も部員に言っていて、先生のことを思い出しました。先生はお変わりなくお過ごしですか。お返事はお時間のあるときで大丈夫です。",
    "lang": "ja",
    "note": "空白には一文だけ触れ、具体的な思い出と近況、答えやすい問いを一つ。お願いごとは最初の連絡に入れない。"
+  },
+  {
+   "id": "reconnect-after-silence-005",
+   "situation": "I messaged my old uni friend Tom after three years of silence. He replied really warmly, said he's been meaning to reach out too, and that he's now living in Bristol, about 40 minutes from me.",
+   "reply": "So good to hear from you, and Bristol is basically next door now. Want to grab lunch on Saturday 10 October? I'll come to you, and you can show me whichever pub has replaced the Crown in your affections.",
+   "lang": "en",
+   "note": "When they reply warmly, suggest one specific day within two messages, or the momentum dies."
   }
  ]
 }

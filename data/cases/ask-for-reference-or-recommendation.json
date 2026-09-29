@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -28,6 +28,13 @@
    "reply": "Thank you, Omar, that means a lot. Here's everything in one place: the role is Senior UX Researcher at Kestrel Health, and Hannah Cho, hannah.cho@kestrelhealth.com, will email you to set up a 15-minute call sometime between Monday 5 and Friday 9 October. If it helps, the three things they care most about are the patient portal study we ran in 2024, the research repository I set up that the team still uses, and how I worked with engineering on the checkout redesign. I'll let you know how it goes.",
    "lang": "en",
    "note": "After a yes, one message with who, when, the role and the points to mention, so he never has to dig back through the thread."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-005",
+   "situation": "I'm a freelance bookkeeper. My client Diane, who owns a physio clinic, told me last month that I'd saved her hours every week. I'm redoing my website and want a short quote from her with her name and clinic.",
+   "reply": "Hi Diane, I'm updating my website this month and a line from you would carry a lot of weight with other clinic owners. Something like: \"Since Ana took over our books, month-end takes me an hour instead of a weekend, and I finally understand our cash flow.\" Feel free to rewrite it completely, or tell me it's not something you'd like to do. Would you be okay with me using your name and Harbourside Physio alongside it? Any time before Friday 16 October would be perfect.",
+   "lang": "en",
+   "note": "Write the quote for her to edit, ask separately about using her name, and put the deadline in the first message."
   }
  ]
 }

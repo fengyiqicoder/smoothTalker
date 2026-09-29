@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -22,6 +22,13 @@
    "reply": "This is the second time I've asked and got a sharp reply, so I'm not going to keep guessing. If something about the engagement is hard for you, I'd honestly rather hear it straight. Whenever you want to talk, I'm here, and until then I'll take things at face value.",
    "lang": "en",
    "note": "Second time, name the pattern and hand her the choice. Then really do take messages at face value."
+  },
+  {
+   "id": "respond-to-passive-aggressive-004",
+   "situation": "部门工作群里，同事老周发了一句“有些人的周报还是没交啊，大家都等着汇总呢”，明显是说我。确实晚了一天，因为在等财务那边的数据。",
+   "reply": "是我这份，财务的数据昨天下午才给到，我今天中午12点前发到群里。晚了一天，耽误大家汇总了，不好意思。",
+   "lang": "zh",
+   "note": "The dig has a real complaint inside it, so answer the contents with a time; do not comment on his tone in front of the group."
   }
  ]
 }

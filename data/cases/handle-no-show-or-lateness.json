@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Mrs. Alvarez, I understand it's frustrating, especially in a busy week. The 24-hour policy is in the agreement you signed in September, and I apply it to every family, so today's $60 charge stands. I'd like to keep Mateo's momentum going before his unit test: I have Thursday at 5pm or Saturday at 10am open this week. Which suits you better?",
    "lang": "en",
    "note": "When a client argues the fee: restate the policy once, apply it evenly, and move straight to rebooking. Waiving it for the loudest parent teaches everyone else."
+  },
+  {
+   "id": "handle-no-show-or-lateness-005",
+   "situation": "朋友介绍的相亲，约了今晚7点在一家叫山海小馆的餐厅见面。现在7点25了，对方还没到，也没发消息。我不想显得很生气，也不想一直干等。",
+   "reply": "你好，我已经到山海小馆了，坐在靠窗的位置。路上还顺利吧？我等到7点45，要是今天赶不过来也没关系，我们改天再约。",
+   "lang": "zh",
+   "note": "First meeting, one-off: assume good faith, state your cut-off time, and leave an easy way to rebook."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -29,6 +29,13 @@
    "reply": "小雨，我知道这事让你挺憋屈的，你愿意跟我说我很理解。不过我不想在你们俩中间传话，传着传着意思就变了，对谁都不好。网费的事还是你直接跟阿杰说比较好。要不这周日晚上八点我们三个在客厅坐下来聊一次？只聊网费和打扫，一个人说完另一个再说，争取先定下一件事。我也会这样跟阿杰说，不是突然袭击。",
    "lang": "zh",
    "note": "拒绝当传话筒，但主动搭一个直接对话的台子；两边说一样的话，才是真的中立。"
+  },
+  {
+   "id": "mediating-between-two-people-005",
+   "situation": "My mom and my aunt haven't spoken since Grandma's funeral in June, over who gets her house. I offered to host a call between them and my aunt texted: 'Never. And if you keep pushing this I'll stop talking to you too.'",
+   "reply": "I hear you, and I'm not going to push. I love you both and I'm staying out of the house question. The offer stands if you ever want it, and either way I'll see you for Sunday lunch on the 11th like we planned.",
+   "lang": "en",
+   "note": "When one side refuses, drop it cleanly and protect your own relationship with her; the offer stays open without pressure."
   }
  ]
 }

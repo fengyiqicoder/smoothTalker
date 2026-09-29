@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Karen, good to hear from you, and I'd be glad to pick this up. My schedule and rates have moved since April, so the quote needs a refresh: the same scope is now $7,200, and the earliest I can start is Monday 19 October. I'll send the updated proposal by Thursday so you have it in writing. Does that timing work on your side?",
    "lang": "en",
    "note": "Resurfacing after the close: no reproach for the silence, and re-scope from today's rates and calendar rather than honouring a stale quote."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-005",
+   "situation": "I'm a copywriter halfway through a 6-page website for a physio clinic. Sent pages 1 to 3 to the owner, Dr. Brennan, on Sept 14 for feedback. Nothing since, and my October is filling up.",
+   "reply": "Hi Dr. Brennan, a quick one on the website copy: pages 1 to 3 have been with you since September 14, and I'm holding time to finish pages 4 to 6. To keep things on schedule I need your notes by Friday, October 9; if you're happy with them as they are, a one-word \"approved\" is plenty. If the project has moved down your list, just tell me and I'll pause it and pick it back up when you're ready.",
+   "lang": "en",
+   "note": "Mid-project silence: a real date tied to your schedule, the smallest possible reply, and an explicit pause option."
   }
  ]
 }

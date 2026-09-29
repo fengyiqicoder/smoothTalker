@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -22,6 +22,13 @@
    "reply": "I've been thinking about what I said about my aunt, and it wasn't what you needed to hear. I'm sorry. I'm here, I'll follow your lead, and I'm still bringing dinner on Thursday unless you tell me otherwise.",
    "lang": "en",
    "note": "One line of ownership, then back to her. A long apology makes her comfort you."
+  },
+  {
+   "id": "respond-to-difficult-health-news-004",
+   "situation": "My friend Hannah has long COVID and just cancelled our dinner for the third time. She texted 'I'm so sorry, I feel like the worst friend, my body just won't cooperate.' I'm not upset, I want her to know that.",
+   "reply": "You're not the worst friend, not even close. I'm sorry your body's making everything this hard. No apologising for cancelling, ever. I'll keep inviting you, and if a sofa and a takeaway at yours sounds more doable, I'm free Saturday. No need to reply tonight.",
+   "lang": "en",
+   "note": "Release her from the guilt first, then offer a lower-energy version of the plan instead of just rescheduling the same one."
   }
  ]
 }

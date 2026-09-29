@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "decline-request-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Carol, thanks for thinking of us. We're going to pass on hosting Christmas this year; after three years in a row we'd love a turn as guests. We're happy to bring the ham and the desserts wherever it ends up, and I can come early on the 24th to help set up. Love to you both.",
    "lang": "en",
    "note": "A real smaller yes, the food and the setup, keeps the no generous. Don't nominate another host; that's her call."
+  },
+  {
+   "id": "decline-request-005",
+   "situation": "An ex-colleague, Josh, asked me to be a reference for a job at Carver Group; his final interview is Thursday. We only worked together on one project and honestly I wasn't impressed with his work. I want to say no without trashing him.",
+   "reply": "Hi Josh, thanks for thinking of me, and congrats on getting to the final round at Carver. I'm going to say no to being a reference this time. We only worked together on the one project, so I couldn't give them the detail a strong reference needs. Priya, who managed you on the rollout, would do you far more good. Good luck on Thursday.",
+   "lang": "en",
+   "note": "Declining a reference: give the true reason that doesn't judge the work, and point to someone better placed."
   }
  ]
 }

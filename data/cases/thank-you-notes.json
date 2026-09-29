@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -22,6 +22,13 @@
    "reply": "Hi Denise, this is embarrassingly late, but I didn't want it to go unsaid: thank you for the reference in June. I got the role at Harlow and I've just finished my first quarter leading the analytics team. A lot of how I run my team comes from watching you run ours. Coffee next time I'm back in Leeds?",
    "lang": "en",
    "note": "One clause of ownership for the lateness, then the thanks. No paragraph of apology."
+  },
+  {
+   "id": "thank-you-notes-004",
+   "situation": "先週木曜日、取引先の工場見学で製造部長の山本さんが3時間も案内してくださった。特に検品ラインの説明がわかりやすく、うちの品質基準の見直しに役立ちそう。お礼のメールを送りたい。",
+   "reply": "山本部長\n\n先週木曜日の工場見学では、3時間にわたりご案内いただき、誠にありがとうございました。特に検品ラインで目視と画像検査の二段階で確認されている様子は、弊社の品質基準を見直すうえで大変参考になりました。お忙しい中、現場の皆様にもお時間を割いていただき、心より感謝申し上げます。10月中旬に社内での検討結果を改めてご報告いたします。今後ともどうぞよろしくお願いいたします。\n\n株式会社ミナト 佐藤健",
+   "lang": "ja",
+   "note": "Business thanks in Japanese: formal register, but still one concrete detail (the two-stage inspection) and a forward line with a timeframe."
   }
  ]
 }

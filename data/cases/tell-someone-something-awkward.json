@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -22,6 +22,13 @@
    "reply": "Derek, can I raise something a bit personal? It stays between us. Over the last few weeks I've noticed a body odour at times, mostly in the afternoons. I'm not assuming anything about the reason. If something's going on, a health thing or something at home, tell me and we'll work out what helps. Otherwise, can we agree you'll keep an eye on it, and that's the end of it?",
    "lang": "en",
    "note": "Never mention that others complained. Say it once, in person, and don't bring it up again if it's fixed."
+  },
+  {
+   "id": "tell-someone-something-awkward-004",
+   "situation": "My director Helen is presenting to the board on Zoom right now and she's sharing her whole screen. Her Slack notifications keep popping up in the corner, including one from HR about restructuring. I'm in the meeting.",
+   "reply": "Helen, your Slack notifications are showing on the shared screen. Sharing just the slides window will hide them, it catches everyone on Zoom.",
+   "lang": "en",
+   "note": "Senior person, live meeting: private chat, one line, the fix included, and never mention what the notification said."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -22,6 +22,13 @@
    "reply": "On people management, I can only speak to a small part of it: Sam had one direct report for about eight months, and he found giving tough feedback hard early on. Where he really stood out was vendor negotiation. He renegotiated our three biggest logistics contracts and saved about $220,000 a year, while keeping every one of those relationships friendly.",
    "lang": "en",
    "note": "Narrow the scope instead of stretching the truth: answer the weakness briefly and factually, then give the strongest true evidence."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-004",
+   "situation": "家里请了四年的住家阿姨刘姐，因为我们要搬去上海，她想在北京找新雇主，请我写一段推荐发给中介。她做饭好、带孩子特别细心，有一次孩子半夜高烧是她发现的。",
+   "reply": "刘桂芳大姐在我们家做住家阿姨四年，从2022年10月到今年10月，主要负责做饭和照顾两个孩子。她特别细心：有一次半夜小儿子发高烧，是她起来查看时发现的，马上叫醒我们，处理得很冷静。她做饭讲究营养搭配，两个孩子挑食的毛病都是她慢慢带好的。我们因为搬家才不得不分开，非常放心地推荐她。如需了解，欢迎联系我：139 1024 5678。",
+   "lang": "zh",
+   "note": "私人推荐也要写清认识多久、做什么，再用一两个具体的事说话，最后给联系方式。不写她的年龄、家庭或身体情况。"
   }
  ]
 }

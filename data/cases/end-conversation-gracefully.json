@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -29,6 +29,13 @@
    "reply": "妈，我得挂了，今晚还有个方案要赶出来。挂之前跟您说一声，周六我回家吃饭，想吃您做的红烧肉。好啦，您早点休息，拜拜。",
    "lang": "zh",
    "note": "电话里先说要走，补一句最后的话，再说拜拜就挂，不用等她先挂，也不用反复道别。"
+  },
+  {
+   "id": "end-conversation-gracefully-005",
+   "situation": "My ex, Sam, texted to congratulate me on my new job. We broke up 18 months ago on okay terms. We've been chatting for an hour and he's starting to suggest getting a drink. I don't want to meet up, but I don't want to be cold.",
+   "reply": "Thanks, Sam, it was really nice to hear from you and I'm glad things are going well. I'm going to leave it here though, I don't think a drink is a good idea for me. Take care of yourself.",
+   "lang": "en",
+   "note": "An ending without a future hook. Say no to the drink once, plainly, and don't close with a question that restarts it."
   }
  ]
 }

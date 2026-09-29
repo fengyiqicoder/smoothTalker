@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -29,6 +29,13 @@
    "reply": "王老师您好，我是2023届的林悦，毕业论文是您指导的，做的是城市绿地和热岛效应。我现在在申请代尔夫特理工的城市规划硕士，需要一封推荐信，您是最了解我研究能力的老师，所以第一个想到您。大概需要您花一个小时，截止日期是12月1日，您同意的话，我这周就把简历、个人陈述和论文摘要整理好发给您。如果这段时间实在排不开，完全理解，麻烦告诉我一声，我好另外安排。无论如何都谢谢您！",
    "lang": "zh",
    "note": "大一点的请求要说清为什么找他、要花多少时间、截止日期，并给一个真正的退路。"
+  },
+  {
+   "id": "ask-for-favor-005",
+   "situation": "I start a new job on Monday but my first paycheck doesn't arrive until October 30, and rent ($1,650) is due Thursday. I want to ask my older sister Mei to lend me $2,000. I've never borrowed from her before.",
+   "reply": "Hi Mei, bit of an awkward ask, so I'll just say it. My new job starts Monday but the first paycheck doesn't land until 30 October, and rent is due on Thursday. Could you lend me $2,000 to cover rent and groceries until then? I'd pay it all back on 31 October and set up the transfer that day so you never have to chase me. Totally fine to say no if it's a stretch right now.",
+   "lang": "en",
+   "note": "Money from family: exact amount, exact repayment date, and an out that doesn't need a reason."
   }
  ]
 }

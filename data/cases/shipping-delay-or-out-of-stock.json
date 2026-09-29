@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -22,6 +22,13 @@
    "reply": "Hallo Frau Krüger, der Winterapfel aus Ihrer Bestellung 3087 ist ausverkauft, das hätte unser Shop gar nicht mehr annehmen dürfen. Die neue Lieferung kommt am 20. Oktober, und Ihr Paket geht am selben Tag raus. Drei Möglichkeiten: Sie warten, und ich lege eine Probe unserer neuen Rooibos-Mischung dazu; Sie nehmen stattdessen den Bratapfel, der morgen verschickt wird; oder Sie bekommen heute die volle Erstattung. Wenn ich bis Freitag nichts höre, halte ich die Bestellung für den 20. fest. Entschuldigen Sie die Umstände. Viele Grüße, Jana",
    "lang": "de",
    "note": "State the default so doing nothing is also a clear choice."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-004",
+   "situation": "我在淘宝卖手工香薰蜡烛。顾客林女士的订单（尾号5816）顺丰物流9月22号之后就没更新了，今天快递确认丢件。她是买来送朋友10月3号生日的，还没来问。",
+   "reply": "林女士您好，您的订单（尾号5816）出了问题：顺丰今天确认包裹在中转站丢失了，我们刚查到，先跟您说一声。我今天下午给您重新发一份，走顺丰特快，10月1日前送到，赶得上您朋友3号的生日。如果您更想退款，回我“退款”两个字，我当天原路退回。今晚之前没收到回复的话，我就按重发处理，单号发您；原来那份如果后来到了，您留着就好。给您添麻烦了。店主小周",
+   "lang": "zh",
+   "note": "Proactive, before she has to ask: the fix is built around her gift date, refund is one word, and the default is stated."
   }
  ]
 }

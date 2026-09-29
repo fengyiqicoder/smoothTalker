@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -29,6 +29,13 @@
    "reply": "Hey! Yes, I've got 9am or 1pm this Saturday, the 3rd. A full groom for a golden is $110, and heavy matting can add up to $20, which I'll confirm when I see the coat. Want the 9am or the 1pm?",
    "lang": "en",
    "note": "Two exact slots, the matting cost flagged up front so there's no surprise, and one easy question."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-005",
+   "situation": "Hago tortas por encargo en Montevideo. Me escribió Valentina por Instagram: '¿hacés tortas para 40 personas? Es para el sábado 10 de octubre, tema Frozen'.",
+   "reply": "¡Hola Valentina! Sí, tengo lugar para el sábado 10. Una torta temática de Frozen para 40 personas sale $3.800 e incluye la decoración y el cartel con el nombre. Para reservar la fecha pido una seña de $1.500; ¿te paso los datos para transferir?",
+   "lang": "es",
+   "note": "Custom order with a date: confirm availability and price first, then make the deposit the single next step."
   }
  ]
 }

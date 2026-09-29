@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -29,6 +29,13 @@
    "reply": "各位家长好，我是新转来的周子航的妈妈刘婧。我们上个月刚从成都搬到杭州，住在学校东边的翠苑小区。我在医院做药剂师，孩子用药方面有拿不准的可以问我。子航特别爱踢球，周末要是有小朋友在小区踢，欢迎叫上他！",
    "lang": "zh",
    "note": "家长群里先说清是谁的家长，给一个真能帮上忙的点，再留一个让人容易接话的邀请。"
+  },
+  {
+   "id": "introduce-yourself-005",
+   "situation": "I start Monday as engineering manager for a payments team of 7. Their last manager left suddenly and one of them applied for my job. I want to post a short hello in the team Slack channel on day one.",
+   "reply": "Hi all, I'm Nadia, and from today I'm managing the payments team. I spent the last five years leading the checkout team at Brightline, so I know how much of this work is invisible until it breaks. Outside work I'm usually at the climbing wall or failing at sourdough. I'll book 30 minutes with each of you over the next two weeks, and mostly I want to hear what's working that I shouldn't touch.",
+   "lang": "en",
+   "note": "New manager of an inherited team: signal listening over change, and don't single out the internal candidate in a group post."
   }
  ]
 }

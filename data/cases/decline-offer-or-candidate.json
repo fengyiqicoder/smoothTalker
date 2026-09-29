@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Nadia,\nThank you for the time you and the team have put into this, especially the conversation with Tom about the grid forecasting work, which I really enjoyed. I want to tell you early rather than late: I'm withdrawing from the process, so please do release Thursday's panel slot. I've accepted an internal move at my current company that I've been working toward for a while, and it wouldn't be fair to keep taking your team's time. I'd be glad to stay in touch.\nBest,\nPriya",
    "lang": "en",
    "note": "Withdraw before the panel, not after it: the decision by the second sentence, the true reason in one line, and freeing the slot as the practical ask."
+  },
+  {
+   "id": "decline-offer-or-candidate-005",
+   "situation": "我是技术经理，组里的高级工程师小吴申请了内部的技术主管岗位，最后我们选了外部候选人。他技术很强，但带人经验还不够。明天当面谈，谈完想再给他发一条消息。",
+   "reply": "小吴，谢谢你今天愿意坐下来聊，也谢谢你为这次竞聘准备的架构方案，写得非常扎实。就像当面说的，技术主管这次选了外部候选人，主要是这个岗位一上来就要带8个人，需要更多带团队的经验。这不影响我对你技术能力的判断。如果你愿意，下个季度我们让你牵头支付重构那个小组，先带两三个人，明年再有机会时你会更有底气。有什么想法，随时找我。",
+   "lang": "zh",
+   "note": "内部候选人要先当面说，再用书面补充：理由真实具体，给一个真实的下一步，而不是空泛的“以后还有机会”。"
   }
  ]
 }

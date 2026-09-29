@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -28,6 +28,13 @@
    "reply": "Hi Jordan, thanks for the offer and the clear brief. Sports betting isn't a fit for my audience, so I'm going to pass on this one. Wishing you a good campaign.",
    "lang": "en",
    "note": "Decline mismatches fast, with no lecture about their product and no counteroffer; brands talk, and a clean no protects your reputation."
+  },
+  {
+   "id": "creator-brand-deal-reply-005",
+   "situation": "I sent a quote to a kitchenware brand, Oakfield, on Sept 21: $900 for one TikTok with 30 days of organic usage. The contact, Priya, went quiet. It's been 8 days. Worth one follow-up?",
+   "reply": "Hi Priya, just following up on the proposal I sent on 21 September for the Oakfield cast iron video. If the budget or timing has shifted, tell me and I'm happy to suggest a smaller option, like a story set of three. If it's not going ahead, no problem at all, and I'd be glad to hear from you for a future campaign.",
+   "lang": "en",
+   "note": "One follow-up after a week, with an easy smaller option and an easy no. If this gets silence too, treat it as a no and move on."
   }
  ]
 }

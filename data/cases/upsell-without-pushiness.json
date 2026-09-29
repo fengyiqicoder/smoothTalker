@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -22,6 +22,13 @@
    "reply": "田中さん、こんにちは。前回10kgお求めいただいてから3ヶ月ほど経ったので、そろそろかなと思ってご連絡しました。今年の新米のコシヒカリが入っています。前回と同じお米でも新米でも、ご希望があればお届けします。まだ残っていたら、気にせずスルーしてくださいね。",
    "lang": "ja",
    "note": "A reminder with a real reason beats a discount; the easy no keeps the next order warm."
+  },
+  {
+   "id": "upsell-without-pushiness-004",
+   "situation": "我是做小程序的外包，帮一家社区烘焙店做的点单小程序刚上线两周，老板说单量涨了不少。我觉得下一步做会员积分对她很有用，但不想像在推销。",
+   "reply": "张姐，看到这两周线上单量涨了四成，真替你高兴。你之前提过老客很多，下一步比较自然的是加一个会员积分，复购一般靠这个。这块开发大概6800元，两周能上线。现在不急，你觉得有需要我再出个方案，不做也完全没问题。",
+   "lang": "zh",
+   "note": "在对方体验好的时候提，只提一个，说清价格和工期，最后给一个轻松的不。"
   }
  ]
 }

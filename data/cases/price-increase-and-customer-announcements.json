@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Megan,\nYour fall mug preorder is going to ship later than promised: the new date is around Friday 23 October instead of Monday 5 October. Our kiln cracked last week and the replacement arrives on the 9th. The mugs themselves don't change; they're glazed and waiting for their final firing. If you'd rather not wait, reply to this email and I'll refund you in full the same day. Otherwise I'll email again the day yours ships. Thank you for your patience, and I'm sorry for the wait.\nJess, Clay & Tide",
    "lang": "en",
    "note": "A delay, not a price change: new date first, one honest reason, an easy full refund. Unlike a fair price rise, a missed promise does earn the apology."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-005",
+   "situation": "I run a small yoga studio. From Nov 1 we're charging a $15 fee for classes cancelled less than 12 hours before, because no-shows are keeping people on waitlists out of full classes. Emailing our 200 members.",
+   "reply": "Hi Carmen,\nFrom Sunday 1 November, cancelling a class less than 12 hours before it starts will carry a $15 late-cancel fee. The reason: our evening classes are full with waitlists most nights, and late cancellations were leaving mats empty that someone else could have used. Cancelling 12 hours or more ahead stays free, and if you're ill or something urgent comes up, just email me and I'll waive it. Nothing else about your membership changes. Thank you for being part of the studio.\nMaya, Still Point Yoga",
+   "lang": "en",
+   "note": "A policy change, not a price rise: date and rule first, one honest reason, and a human exception that doesn't need a form."
   }
  ]
 }

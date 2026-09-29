@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -22,6 +22,13 @@
    "reply": "I wanted to tell you this one directly and quietly, because I know it's not simple for you right now: I'm pregnant, due in April. You don't have to say anything, and you don't have to be anything but honest with me about how it lands. I love you, and I'll tell the group next week.",
    "lang": "en",
    "note": "For news that may hurt the reader, a separate gentle message first, with explicit permission not to respond."
+  },
+  {
+   "id": "share-personal-news-004",
+   "situation": "I'm leaving my accounting job at Deloitte on Oct 30 to run my bakery full time. My parents sacrificed a lot for my degree and they'll worry. We have our usual call Sunday but I want to text first so it's not an ambush.",
+   "reply": "Mom, Dad, I want to tell you something before our call on Sunday so you have time to take it in: I'm leaving Deloitte on October 30 to run the bakery full time. I've saved eight months of expenses and the Saturday market stall already covers its own costs. I know how much you gave for that degree, and I'll be using every bit of it on my own business. On Sunday I'd love your questions, and I'd love it if we could start from being happy for me.",
+   "lang": "en",
+   "note": "News likely to worry the reader: lead with the fact, give the two numbers that answer the first fear, and say how you hope they'll respond."
   }
  ]
 }

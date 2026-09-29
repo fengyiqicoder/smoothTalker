@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -29,6 +29,13 @@
    "reply": "Martín, nos estamos calentando los dos, y lo de que no tienes ni idea de números sobró. Lo siento. Entiendo que sientes que no valoro lo bien que conoces a los clientes. ¿Lo hablamos mañana a las 9, antes de abrir, con las cuentas delante? La cafetería es de los dos y quiero que la decisión también lo sea.",
    "lang": "es",
    "note": "Retirar la frase concreta que dolió, sin tocar todavía el tema de los precios, y fijar una hora para retomarlo."
+  },
+  {
+   "id": "de-escalate-argument-005",
+   "situation": "A coworker, Dmitri, and I are going back and forth in our #launch Slack channel about delaying the release. He just wrote 'maybe read the spec before commenting'. The whole team is watching.",
+   "reply": "Dmitri, we're both getting heated and this thread isn't helping either of us. I came in sharp earlier, that's on me. I can see you're worried we'd ship something broken. Can we jump on a call at 3 today and post the decision here after?",
+   "lang": "en",
+   "note": "At work in public: own your part, reflect his worry, and move it to a call with a time and a promise to report back to the channel."
   }
  ]
 }

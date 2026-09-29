@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Jenna, to keep things simpler for both of us, could we move all scheduling and costs for Liam and Rosie to OurFamilyWizard from Monday 5 October? Then we both see the same calendar and receipts in one place, and texts can stay for anything urgent on the day. I've set up an account and can send you an invite tonight. Can you let me know by Friday if that works?",
    "lang": "en",
    "note": "Frame the app as simpler for both, with no mention of the fights; one line about 2019 would start the next one."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-005",
+   "situation": "I've been seeing Dan for about a year and want him to meet our son Leo (7) at something low-key. My ex Chris and I get on okay-ish. I want him to hear it from me first.",
+   "reply": "Hi Chris, I wanted you to hear this from me first. I've been seeing someone, Dan, for about a year, and I'm planning for him to meet Leo briefly at the park on Saturday 17 October, about an hour, nothing framed as a big deal. If you have any concerns, can you let me know by Sunday 11 October so we can talk before then? Thanks.",
+   "lang": "en",
+   "note": "Informing, not asking permission: give the date and a window to raise concerns, and keep it free of relationship detail."
   }
  ]
 }

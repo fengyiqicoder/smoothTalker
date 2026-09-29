@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -29,6 +29,13 @@
    "reply": "Hi Dr. Alvarez, bumping this once in case it got lost in the start of term. The question is only whether the 2023 sensor readings in your heat-island dataset are hourly or daily averages. No worries at all if you're not able to reply.",
    "lang": "en",
    "note": "One follow-up, with the question restated so she can answer without scrolling back. If this gets no reply, stop."
+  },
+  {
+   "id": "first-message-to-stranger-005",
+   "situation": "Hice match en Bumble con Lucía. En una foto sale con un galgo y en su perfil dice que es de Cádiz y que \"el mejor pescaíto frito no está en Cádiz\", sin decir dónde.",
+   "reply": "Vale, me has dejado con la intriga: si el mejor pescaíto frito no está en Cádiz, ¿dónde está? Y el galgo, ¿opina lo mismo?",
+   "lang": "es",
+   "note": "Una pregunta concreta sobre algo que ella misma dejó abierto, fácil de responder y sin hablar de su físico."
   }
  ]
 }

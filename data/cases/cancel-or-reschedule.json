@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 4,
+ "count": 5,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -29,6 +29,13 @@
    "reply": "I get it, and I'm sorry. It was your birthday and I bailed on the day. I've booked Sunday at 12:30 at Lucia's, the place you loved in the spring, my treat. If Sunday doesn't work, tell me a day and I'll move it.",
    "lang": "en",
    "note": "Don't argue with 'fine'. Own it once, then do the rebooking yourself so the effort is visibly yours."
+  },
+  {
+   "id": "cancel-or-reschedule-005",
+   "situation": "My daughter's school just called me in for a meeting tomorrow at 10, which is exactly when I have physio with Jess. She has a 24-hour cancellation policy and I'm fine paying the fee. Text.",
+   "reply": "Hi Jess, I need to move tomorrow's 10am: my daughter's school has called me in for a meeting at the same time. I know that's inside your 24 hours, so please charge the late fee, that's only fair. Could you do Thursday at 10 or Friday at 2 instead?",
+   "lang": "en",
+   "note": "Last-minute with a professional: offer the fee before they have to raise it, then two concrete times."
   }
  ]
 }

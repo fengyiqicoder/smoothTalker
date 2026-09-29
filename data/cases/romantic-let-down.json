@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 3,
+ "count": 4,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -22,6 +22,13 @@
    "reply": "Je t'ai bien entendu, et je ne vais pas changer d'avis. Je vais arrêter de répondre maintenant, et je te souhaite le meilleur.",
    "lang": "fr",
    "note": "One calm closing line, then no more replies. If he turns hostile, block."
+  },
+  {
+   "id": "romantic-let-down-004",
+   "situation": "My friend Theo from our Thursday climbing group texted last night that he has feelings for me. I don't feel the same, but I really like him as a friend and want to keep climbing together.",
+   "reply": "Theo, thank you for telling me, I know that took guts. I don't feel the same way, and I'd rather be straight with you than leave it hanging. I really value you as a friend and I'd love to keep climbing on Thursdays, but if you want to skip a few weeks first, that's completely fine.",
+   "lang": "en",
+   "note": "Friendship is offered only because she genuinely wants it, and the space line lets him step back without it meaning anything."
   }
  ]
 }
