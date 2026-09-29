@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Quality lint for content/*.md. Run before build_index.py. Exit 1 on errors; warnings do not fail."""
-import re, sys
+import json, re, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -61,6 +61,42 @@ for p in sorted(CONTENT.glob("*.md")):
             err(p, "needs at least 3 quoted examples (lines starting with '>')")
         if not any(h.lower().startswith(("if ", "when ", "what to do")) for h in heads):
             warn(p, "no 'If it goes badly' style section")
+
+# Worked cases: cases/<playbook-id>.jsonl, one JSON object per line.
+CASES = ROOT / "cases"
+BANNED = re.compile(r"\b(unfortunately|i'm afraid|i'll have to)\b", re.I)
+LANGS = {"en", "zh", "es", "pt", "de", "fr", "ja"}
+seen_case_ids = set()
+if CASES.exists():
+    for p in sorted(CASES.glob("*.jsonl")):
+        if not (CONTENT / f"{p.stem}.md").exists():
+            err(p, "no playbook with this id in content/"); continue
+        for n, line in enumerate(p.read_text(encoding="utf-8").splitlines(), 1):
+            if not line.strip():
+                continue
+            where = f"line {n}"
+            try:
+                c = json.loads(line)
+            except Exception as ex:
+                err(p, f"{where}: not valid JSON ({ex})"); continue
+            for k in ("id", "situation", "reply", "lang"):
+                if not c.get(k):
+                    err(p, f"{where}: missing '{k}'")
+            cid = c.get("id", "")
+            if not cid.startswith(p.stem + "-"):
+                err(p, f"{where}: id must start with '{p.stem}-'")
+            if cid in seen_case_ids:
+                err(p, f"{where}: duplicate id {cid}")
+            seen_case_ids.add(cid)
+            if c.get("lang") not in LANGS:
+                err(p, f"{where}: lang must be one of {sorted(LANGS)}")
+            text = " ".join(str(c.get(k, "")) for k in ("situation", "reply", "note"))
+            if "\u2014" in text:
+                err(p, f"{where}: em-dash")
+            if BANNED.search(str(c.get("reply", ""))):
+                err(p, f"{where}: banned phrase in the reply")
+            if len(str(c.get("reply", ""))) > 900:
+                warn(p, f"{where}: reply over 900 characters; keep cases short")
 
 router = CONTENT / "06-situation-router.md"
 if router.exists():

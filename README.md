@@ -11,6 +11,7 @@ There is no server. It is an OpenAPI document plus JSON files on GitHub Pages.
 - OpenAPI: https://smoothtalker.000ooo.ooo/openapi.json
 - Whole library in one file: https://smoothtalker.000ooo.ooo/data/all.json
 - Index only (the recommended entry point for agents that fetch per request): https://smoothtalker.000ooo.ooo/data/index.json
+- Worked cases for one playbook (a real situation and the reply it produced): https://smoothtalker.000ooo.ooo/data/cases/{id}.json, listed in https://smoothtalker.000ooo.ooo/data/cases/index.json
 
 ## Use it with other agents
 
@@ -59,7 +60,7 @@ python3 scripts/lint.py
 python3 scripts/build_index.py
 ```
 
-The lint checks shape and style (sections, trigger count, no em-dashes). The build validates every entry and regenerates `data/entries/*.json`, `data/index.json` and `data/all.json`. Commit and push; GitHub Pages updates in a minute or two.
+The lint checks shape and style (sections, trigger count, no em-dashes). The build validates every entry and regenerates `data/entries/*.json`, `data/index.json`, `data/all.json` and `data/cases/` (from `cases/*.jsonl`, see `cases/README.md`). Commit and push; GitHub Pages updates in a minute or two.
 
 ## Design principles for the content
 

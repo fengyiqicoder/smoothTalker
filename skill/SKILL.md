@@ -15,6 +15,8 @@ Base URL `https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/`, f
 1. Once per session, or cached for a day: `data/index.json` (about 53 KB: id, title, category, tags, triggers and summary for every entry) and the four core entries you always apply, `data/entries/00-how-to-use.json`, `01-principles.json`, `02-tone-calibration.json` and `03-anti-patterns.json`.
 2. Per request: pick one or two entries from the index and fetch `data/entries/<id>.json`. Also fetch `05-reply-to-a-pasted-message` when the user pasted the message they are answering, and `06-situation-router` when nothing matches cleanly.
 
+Optionally, also fetch `data/cases/<id>.json`: worked cases for that playbook, each a concrete situation with a ready-to-send reply, in several languages. Use the closest case as a model for specificity and length, never as a template to copy.
+
 That is roughly a fifth of the whole library per request. Picking from the index alone, a model chose the right playbook for 164 of 165 blind test requests (`eval/README.md` in the repo).
 
 **Whole library (when each fetch is costly, for example it needs a permission prompt, or you work offline).** Fetch `data/all.json` (about 397 KB, every entry with its body) once a day and cache it.

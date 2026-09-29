@@ -8,11 +8,14 @@ This file is the shared memory for the autonomous improvement loop. Each run rea
 - `build_index.py` keeps the entry counts and the all.json size in `index.html`, `openapi.json`, `MUSE_PROMPT.md` and `skill/SKILL.md` in sync; commit what it changes. Never edit `SUBMISSION.md`'s submitted text; it records what was sent on 2026-09-25.
 - Never change the shape of `data/*.json` fields or the OpenAPI paths (agents depend on them).
 - No em-dashes anywhere in content. No manipulative or deceptive advice, ever.
-- Push to the working branch only; a human merges to `main` (the live site).
+- Push to `main` every run, after lint and build pass (the owner approved this on 2026-09-29). Also keep `claude/ecstatic-heisenberg-4ndxlt` in step with main.
 - Size budget: agents load `all.json` whole, so every entry costs context for every user. `build_index.py` warns above 450 KB and fails above 600 KB. Near the budget, merge overlapping entries, trim padding and improve quality instead of adding. Growth past the budget needs the index-first retrieval item below first.
 - Items marked "claimed" are being done by another session; skip them.
 - Quality pass: every sixth loop run (count the "loop run" lines in the Log), add nothing. Instead pick 5 existing entries at random, compare each with the quality bar (examples specific and short, structure followed in order, no padding, recovery section useful) and tighten them. Log what changed.
 - Routing: after adding an entry that overlaps an existing one, or changing titles, summaries or triggers, run the model routing check in `eval/README.md` and fix any confusion it finds (split the entries' scope in their summaries and triggers, and update `06-situation-router`). For every new entry, add 2 requests to `eval/routing_scenarios.json`, written the way a user would type them without reusing the entry's triggers; if the new entry takes over a situation an existing scenario covers, add its id as an acceptable second answer there. If a new entry overlaps an existing one, make each summary say where its scope ends and name the other entry.
+
+## Goal: 1000 worked cases (set 2026-09-29)
+The owner wants the library to reach 1000 cases. Cases are concrete situations with ready-to-send replies in `cases/<playbook-id>.jsonl` (format and quality bar in `cases/README.md`); they live outside all.json, so they do not touch the size budget. Every run adds 30 to 60 new cases, spread across playbooks with the fewest cases first, about a quarter not in English. Quality over count: each new case must teach an angle the playbook's existing cases do not. Playbooks still grow slowly under the size budget; a new situation that has no playbook gets a playbook first, then cases.
 
 ## Queue (top first)
 

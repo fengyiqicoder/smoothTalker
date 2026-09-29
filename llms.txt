@@ -8,6 +8,7 @@ Load /data/index.json and the core entries 00-how-to-use, 01-principles, 02-tone
 - [Whole library](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/all.json): every playbook with full Markdown body
 - [Index](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/index.json): id, title, category, tags, triggers, summary. Start here
 - [One entry](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/entries/decline-request.json): /data/entries/{id}.json
+- [Worked cases for one entry](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/data/cases/decline-request.json): /data/cases/{id}.json, concrete situations with ready-to-send replies; listed in /data/cases/index.json
 - [OpenAPI](https://raw.githubusercontent.com/fengyiqicoder/smoothTalker/main/openapi.json)
 
 ## Agent setup

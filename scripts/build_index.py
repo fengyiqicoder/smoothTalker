@@ -8,6 +8,8 @@ CONTENT = ROOT / "content"
 ENTRIES = ROOT / "data" / "entries"
 INDEX = ROOT / "data" / "index.json"
 ALL = ROOT / "data" / "all.json"
+CASES_SRC = ROOT / "cases"
+CASES_OUT = ROOT / "data" / "cases"
 REQUIRED = ["title", "summary", "tags", "triggers"]
 BUDGET_WARN_KB, BUDGET_FAIL_KB = 450, 600  # agents load all.json whole; see BACKLOG.md
 
@@ -62,6 +64,36 @@ def dump_listing(today, entries):
   lines = ",\n".join(json.dumps(e, ensure_ascii=False, separators=(",", ":")) for e in entries)
   return head[:-1] + ',"entries":[\n' + lines + "\n]}\n"
 
+def load_cases():
+  """cases/<playbook-id>.jsonl: one case per line. Returns {playbook_id: [case, ...]}."""
+  out = {}
+  if not CASES_SRC.exists():
+    return out
+  for p in sorted(CASES_SRC.glob("*.jsonl")):
+    rows = []
+    for n, line in enumerate(p.read_text(encoding="utf-8").splitlines(), 1):
+      if line.strip():
+        c = json.loads(line)
+        rows.append({k: c[k] for k in ("id", "situation", "reply", "lang", "note") if k in c})
+    out[p.stem] = rows
+  return out
+
+def build_cases(today):
+  """Worked cases live outside all.json so the size budget holds. Agents fetch them per playbook."""
+  cases = load_cases()
+  CASES_OUT.mkdir(parents=True, exist_ok=True)
+  for old in CASES_OUT.glob("*.json"):
+    old.unlink()
+  index = []
+  for pid, rows in cases.items():
+    (CASES_OUT / f"{pid}.json").write_text(json.dumps({"playbook": pid, "count": len(rows), "cases": rows}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    for c in rows:
+      index.append({"id": c["id"], "playbook": pid, "lang": c.get("lang", "en"), "situation": c["situation"]})
+  head = json.dumps({"generated": today, "count": len(index)}, ensure_ascii=False)
+  lines = ",\n".join(json.dumps(e, ensure_ascii=False, separators=(",", ":")) for e in index)
+  (CASES_OUT / "index.json").write_text(head[:-1] + ',"cases":[\n' + lines + "\n]}\n", encoding="utf-8")
+  return len(index)
+
 def main():
   ENTRIES.mkdir(parents=True, exist_ok=True)
   for old in ENTRIES.glob("*.json"):
@@ -99,7 +131,8 @@ def main():
   INDEX.write_text(dump_listing(today, items), encoding="utf-8")
   ALL.write_text(dump_listing(today, full), encoding="utf-8")
   kb = ALL.stat().st_size // 1024
-  print(f"已生成 {len(items)} 条；all.json {kb} KB")
+  ncases = build_cases(today)
+  print(f"已生成 {len(items)} 条；all.json {kb} KB；案例 {ncases} 个")
   sync_docs(full, kb)
   principles = next(e for e in full if e["id"] == "01-principles")["body"] + "\n"
   ref = ROOT / "skill" / "reference" / "principles.md"
