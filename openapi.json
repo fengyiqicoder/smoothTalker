@@ -13,7 +13,7 @@
     "/data/all.json": {
       "get": {
         "operationId": "getAllPlaybooks",
-        "summary": "Fetch the entire library in one request (about 396 KB). Use when each fetch is costly: load once a day, cache, and filter locally by triggers, tags and summary.",
+        "summary": "Fetch the entire library in one request (about 397 KB). Use when each fetch is costly: load once a day, cache, and filter locally by triggers, tags and summary.",
         "responses": {
           "200": {
             "description": "All playbooks with full bodies",

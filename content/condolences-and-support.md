@@ -1,10 +1,10 @@
 ---
-title: Condolences and supporting someone in a hard time
+title: Condolences (a death, a miscarriage, a loss)
 category: personal
-tags: [condolence, grief, loss, illness, support, sympathy]
-triggers: [their parent died, sorry for your loss, someone is sick, going through a hard time, what do I say, breakup support, miscarriage]
-summary: What to say when someone is grieving a death or loss: specific, short, present, and offering concrete help without demanding a response. Replying to a diagnosis: respond-to-difficult-health-news.
-updated: 2026-09-28
+tags: [condolence, grief, loss, death, sympathy, bereavement]
+triggers: [their parent died, sorry for your loss, what to write in a sympathy card, coworker's mum passed away, my friend's dog died, miscarriage, what do I say at a funeral]
+summary: What to say when someone is grieving a death or loss: specific, short, present, with concrete help and no need to reply. A diagnosis: respond-to-difficult-health-news. A breakup or hard patch: check-in-on-someone-struggling.
+updated: 2026-09-29
 ---
 # Condolences and support
 
@@ -29,11 +29,8 @@ They feel less alone and are not handed any work: no need to reply, no need to m
 **Death of a parent, text:**
 > I'm so sorry about your dad. I keep thinking about him teaching us all to skim stones that summer. I'm here for whatever you need, and I'll check in next week. You don't need to reply to this.
 
-**Illness diagnosis:**
-> I heard about the diagnosis. I'm not going to pretend I know the right thing to say. I love you and I'm around, and I'm going to keep being around. I'll text every few days; reply or don't, both are fine.
-
-**Breakup:**
-> Heard about you and Dan. I'm sorry, that's a lot. Want company or want space? Either's fine and you can change your mind hourly.
+**Death of a pet:**
+> I'm so sorry about Biscuit. Twelve years of that daft tail at the door. He had the best life with you. No need to reply, I'm just thinking of you.
 
 **Miscarriage (they told you directly):**
 > I'm so sorry. I'm not going to say anything except that I'm here, and I'll keep being here, and you don't have to be okay.

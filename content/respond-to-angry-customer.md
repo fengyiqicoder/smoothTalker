@@ -4,7 +4,7 @@ category: work
 tags: [customer, complaint, angry, support, service recovery, escalation]
 triggers: [angry customer, customer complaint, they're furious, respond to a complaint, upset client, calm a customer down, service recovery]
 summary: The service-recovery sequence: acknowledge, own, fix, follow up. With examples for justified and unjustified anger.
-updated: 2026-09-27
+updated: 2026-09-29
 ---
 # Responding to an angry customer
 
@@ -31,11 +31,11 @@ The customer feels heard within the first two lines, sees a concrete fix, and en
 
 **Justified complaint, email:**
 > Hi Mr. Okafor,
-> You ordered on the 3rd, were promised delivery by the 8th, and as of today you have nothing and no update from us. That's not acceptable and I'm sorry. Here's what's happening: I've located your order, it's shipping today by express, and you'll have a tracking number by 5pm. I've refunded the shipping cost in full. I'm Dana, I own this until it's resolved; reply to me directly or call [number].
+> You ordered on the 3rd, were promised delivery by the 8th, and as of today you have nothing and no update from us. That's not acceptable and I'm sorry. Here's what's happening: I've located your order, it's shipping today by express, and you'll have a tracking number by 5pm. I've refunded the shipping cost in full. I'm Dana, I own this until it's resolved; reply to me directly or call 0161 496 0123.
 > Dana
 
 **Customer angry about something that is not your fault:**
-> I'm sorry you've had this experience, it sounds genuinely frustrating. Looking at the account, the charge came from [third party], not from us, so I can't refund it directly, but I can do two things: send you the exact transaction reference to dispute it with them, and stay on this with you until it's resolved. Would that help?
+> I'm sorry you've had this experience, it sounds genuinely frustrating. Looking at the account, the charge came from PayFast, not from us, so I can't refund it directly, but I can do two things: send you the exact transaction reference to dispute it with them, and stay on this with you until it's resolved. Would that help?
 
 **Angry DM on Instagram (public-facing, keep short):**
 > I'm really sorry about this, it's not what we want for you. I'm sending you a DM right now to get the order details and sort it today.
@@ -44,7 +44,7 @@ The customer feels heard within the first two lines, sees a concrete fix, and en
 > I completely understand why you'd expect a refund here. I've checked, and the return window on this item was 14 days and it was returned on day 22. I can't refund it, but I can offer store credit for the full amount or an exchange. Which would you prefer?
 
 **Customer is abusive:**
-> I want to help you and I'm going to. I need us to keep this respectful so I can focus on fixing it. Here's what I can do right now: [fix].
+> I want to help you and I'm going to. I need us to keep this respectful so I can focus on fixing it. Here's what I can do right now: a replacement sent by express today, at no cost.
 
 **Follow-up after resolving:**
 > Just checking the replacement arrived and everything's working. If anything's off, I'm still here.
@@ -61,5 +61,5 @@ The customer feels heard within the first two lines, sees a concrete fix, and en
 ## If they stay angry
 Some people need to say it twice. Do not repeat your apology at length; restate the fix and the time, and ask what would make it right if the fix is not enough. If the demand is unreasonable, hold the line without the tone.
 > I hear you, and I'm still on it: the replacement ships today and I'll confirm tracking by 5pm. If there's something beyond that you need from me, tell me and I'll look at it properly.
-> I can't do a full refund and have you keep the item, but I can do [X] or [Y] today. Which works?
+> I can't do a full refund and have you keep the item, but I can do a full exchange or a 50% refund today. Which works?
 If they threaten reviews or lawyers, ignore the threat. Fix the thing and stay on the facts.

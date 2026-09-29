@@ -4,7 +4,7 @@ category: personal
 tags: [unsolicited advice, nosy, when are you having kids, opinion, family, deflect, redirect]
 triggers: [my mom keeps giving advice, they asked when we're having kids, nosy question, don't want their advice, respond to opinion about my life, deflect a question, they keep telling me what to do]
 summary: Graceful ways to receive, deflect or shut down advice and questions you did not ask for, from a light redirect to a firm close.
-updated: 2026-09-24
+updated: 2026-09-29
 ---
 # Responding to unsolicited advice and nosy questions
 
@@ -26,15 +26,15 @@ End the topic without a fight and without pretending to agree. Match the force o
 
 ## Examples
 
-**"When are you two having kids?"**
-Light: > Ha, we'll send a press release.
-Kind close: > That's one we keep between us. How's the garden coming along?
-Firm: > I'm not going to talk about that. Let's move on.
+**"When are you two having kids?" (light, kind close, firm):**
+> Ha, we'll send a press release.
+> That's one we keep between us. How's the garden coming along?
+> I'm not going to talk about that. Let's move on.
 
-**"You should really [do X with your career/money/diet]."**
-Receive: > Noted, thanks. I'll think about it.
-Position: > I've looked into it and I'm doing what works for me, but I appreciate you thinking of it.
-Close: > I know you mean well. I'm not looking for advice on this one right now.
+**"You should really get out of renting and buy." (receive, position, close):**
+> Noted, thanks. I'll think about it.
+> I've looked into it and renting works for us right now, but I appreciate you thinking of it.
+> I know you mean well. I'm not looking for advice on this one right now.
 
 **Parent who won't stop advising on how you raise your kids:**
 > Mum, I love that you care about them this much. We're doing it the way that works for us, and I need you to trust that. If I want your take, I'll ask, and I will ask.
@@ -46,8 +46,8 @@ Close: > I know you mean well. I'm not looking for advice on this one right now.
 > Thanks for the input. I'll keep doing it this way; it's working for me and my results are where they need to be. Happy to compare notes if you're curious how.
 
 **Stranger / acquaintance comments on your body, food, appearance:**
-> I'm good, thanks.  (then nothing)
-Or: > I don't discuss that. So, [change subject].
+> I'm good, thanks.
+> I don't discuss that. So, how do you know Tom?
 
 **Someone who repeats the same advice every time you see them:**
 > You've mentioned this a few times. I've heard it, I've made my decision, and I'd really rather we talked about something else. Deal?
@@ -61,3 +61,8 @@ Being able to say this makes your deflections credible the rest of the time.
 - Sarcasm with people you'll see again.
 - "Mind your own business" unless you're done with the relationship.
 - Agreeing to end the conversation and then resenting it.
+
+## If they keep pushing or take offence
+If they come back with "I'm only trying to help", agree with the intention and keep the position: "I know, and I appreciate it. I've got this one." If it turns into a pattern that spoils every visit, move up the ladder to a clear boundary (`set-boundary`) in a calm moment, not mid-argument. If they are hurt that you did not take the advice, you do not owe them a reversal, only kindness.
+> I know you care, and I love that. I've made my decision, so let's leave this one.
+

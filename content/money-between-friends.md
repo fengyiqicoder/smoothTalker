@@ -4,7 +4,7 @@ category: personal
 tags: [money, owed, split bill, debt, venmo, pay back, awkward]
 triggers: [they owe me money, ask a friend to pay me back, split the bill, who pays, awkward money, remind them to pay, chip in]
 summary: How to raise money with friends in a way that treats it as logistics, not character: clear numbers, easy method, no moralising.
-updated: 2026-09-27
+updated: 2026-09-29
 ---
 # Money between friends
 
@@ -36,8 +36,8 @@ The money gets sorted and nobody feels judged. Treat it as admin. The moment it 
 **Larger amount, direct:**
 > Can we sort the £300 from the trip? I've been carrying it a while and it's starting to matter on my end. If it's easier in two chunks that's fine, just let me know when.
 
-**Splitting a bill when someone's underpaying:**
-> Let's just split it evenly, it's easier than working out who had what. £28 each.
+**Splitting a bill when the pot comes up short:**
+> We're about £30 short on the bill. I had the pasta and a glass of wine, so I've put in £24. Can everyone check what they had and top up?
 
 **Proposing a split before a trip (prevents most problems):**
 > Let's do a shared pot for the trip, everyone puts in £200 up front and we settle at the end. Saves the awkward maths.
