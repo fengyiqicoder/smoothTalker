@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -120,6 +120,13 @@
    "reply": "Hi Amy, thanks for booking Pippa in, I'm looking forward to meeting her. Her full groom is Tuesday 13 October at 10am, and she'll be ready to collect at 12:30. On staying to watch: nervous dogs settle much faster once their owner has gone, so I don't have owners stay, but I'll take Pippa slowly with plenty of breaks. Could you send me two things by Friday 9 October: your vet's name and number, and whether Pippa has ever worn a muzzle? Any questions, text me here; I usually reply within a few hours. Jo",
    "lang": "en",
    "note": "The booking-note mismatch is answered inside the welcome, with the reason and what she gets instead, so it reads as care rather than a rule."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-018",
+   "situation": "I'm Dan and I coach a paid 10-week beginners' running course, £90 each, and 14 people just signed up. First session is Saturday 10 October at 8am at the bandstand in Ashgrove Park, and the first weeks are mostly walking intervals. I need everyone's health questionnaire back by Wednesday 7 October, anyone with a heart condition or told to limit exercise must check with their doctor first, and I usually reply within a day. I'm posting a welcome in the new group chat.",
+   "reply": "Welcome, everyone, and thanks for signing up for the 10-week beginners' course! Our first session is Saturday 10 October at 8am at the bandstand in Ashgrove Park, and the first few weeks are mostly walking intervals, so come as you are. The one thing I need from each of you is the health questionnaire, back to me by Wednesday 7 October, so I can plan the groups safely. If you have a heart condition or have been told to limit exercise, please check with your doctor before the first session. Questions can go here or to me privately, and I usually reply within a day. See you Saturday, Dan",
+   "lang": "en",
+   "note": "A group welcome carries one ask for everyone; the health check is stated once, plainly, not buried."
   }
  ]
 }

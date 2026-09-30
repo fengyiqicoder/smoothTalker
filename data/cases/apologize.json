@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "apologize-001",
@@ -120,6 +120,13 @@
    "reply": "爸，昨晚教你用手机挂号，我说“跟你说了多少遍了”，那个语气太冲了，对不起。你第一次弄这个，问几遍很正常，是我自己没耐心，你听了心里肯定不好受。周六我回去，陪你从头一步一步操作一遍，再把步骤写在纸上给你留着。",
    "lang": "zh",
    "note": "对长辈道歉同样点名具体那句话，再给一个实实在在的补救。"
+  },
+  {
+   "id": "apologize-018",
+   "situation": "On Monday I posted in our building's group chat that someone in the lobby had taken my parcel and should be ashamed. It turns out the courier left it at number 14 next door. My neighbour Priyanka in 4B was the only person in the lobby when it arrived, so it basically pointed at her, and she's been cool with me since. I posted a correction in the group this morning and now want to message her privately.",
+   "reply": "Priyanka, I'm sorry about my post in the building chat on Monday. The parcel was at number 14 all along, and by saying someone in the lobby had taken it I pointed at you, which was unfair, and I should have checked before posting anything. I can imagine how it felt to have the whole building reading that. I've posted a correction in the group, and next time something goes missing I'll ask the courier first, not the chat.",
+   "lang": "en",
+   "note": "A public wrong needs a public correction; the private message names her specific hurt and asks nothing back."
   }
  ]
 }

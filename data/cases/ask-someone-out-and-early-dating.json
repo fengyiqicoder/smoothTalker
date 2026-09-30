@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -119,6 +119,13 @@
    "reply": "That's a really sweet offer, and I'd love to meet you. For a first date I always keep it simple and out somewhere, so how about a coffee or a drink on Saturday afternoon instead? If it goes well, I'm holding you to that dinner another time.",
    "lang": "en",
    "note": "State it as your own habit, not a judgment of him; a decent person will say yes without fuss."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-018",
+   "situation": "First date with Hana last night and I was 25 minutes late because my train broke down. She was really gracious about it, and we ended up talking for hours; she showed me photos of her lopsided first pots from her pottery class. I want to text her today, own the lateness lightly, and ask for a second date.",
+   "reply": "Thanks again for being so gracious about my train disaster last night. I had a really good time, and I'm still thinking about those lopsided first pots. I'd like to see you again, and this time I'll be the one waiting: dinner on Friday or Saturday?",
+   "lang": "en",
+   "note": "One light line on the lateness is enough; a long apology would make the text about your mistake instead of the date."
   }
  ]
 }

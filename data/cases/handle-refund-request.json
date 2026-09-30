@@ -11,28 +11,28 @@
   },
   {
    "id": "handle-refund-request-002",
-   "situation": "Tenho um estúdio de pilates. Uma aluna, a Fernanda, cancelou a aula particular de amanhã às 8h com menos de 24 horas de antecedência e pediu reembolso dos R$ 120. A regra é clara, mas ela é aluna há dois anos.",
-   "reply": "Oi Fernanda, tudo bem, cancelei a aula de amanhã. Como foi com menos de 24 horas, o valor não é reembolsável, mas não quero que você perca: posso remarcar para qualquer horário até o fim de outubro, sem custo. Quer que eu reserve quinta às 8h?",
+   "situation": "Vendo camisetas estampadas pela minha loja online. O Rafael comprou uma ontem à noite, R$ 89,90 no cartão, e hoje de manhã pediu para cancelar. O pedido ainda não foi enviado, e o estorno no cartão leva até 5 dias úteis.",
+   "reply": "Oi Rafael, sem problema: cancelei o pedido, que ainda não tinha saído, e o estorno de R$ 89,90 já foi feito no seu cartão. Deve aparecer em até 5 dias úteis, dependendo do banco. Se um dia quiser tentar de novo, é só chamar.",
    "lang": "pt",
-   "note": "O não vem com uma alternativa concreta logo em seguida, sem linguagem de política."
+   "note": "Cancelamento antes do envio: o sim na primeira linha, o que acontece e quando, sem perguntar o motivo nem tentar convencer."
   },
   {
    "id": "handle-refund-request-003",
-   "situation": "Customer bought a $240 custom embroidered jacket from my shop, it matches their approved proof exactly, and now says they 'just don't like it' and will dispute the charge if I don't refund.",
+   "situation": "Customer bought a $240 custom embroidered jacket from my shop, it matches the proof they approved on 12 September exactly, and now says they 'just don't like it' and will dispute the charge if I don't refund.",
    "reply": "I'd really rather sort this directly with you than through the bank, and I think we can. Because the jacket was made to the proof you approved on 12 September, I can't refund it in full, since I can't resell it. What I can offer today is a 40% refund, $96, or I'll change the embroidery colour for free if that's what's bothering you. Tell me which works, or what would.",
    "lang": "en",
    "note": "Calm, one-line reason, a real partial offer. If they file anyway, send the bank the approved proof and stop negotiating in the thread."
   },
   {
    "id": "handle-refund-request-004",
-   "situation": "我在网上卖Excel实用课程，199元，规定购买7天内可退。有位学员王女士买了18天，说公司裁员用不上了，想退款，她只看了两节课。我想给她退，但不想变成新规矩。",
+   "situation": "我在网上卖表格软件实用课程，199元，规定购买7天内可退。有位学员王女士买了18天，说公司裁员用不上了，想退款，她只看了两节课。我想给她退，但不想变成新规矩。",
    "reply": "王女士您好，消息收到了，工作上的变动真的不容易。这次我给您全额退款199元，1到3个工作日原路退回，课程权限会同时关闭。我们平时的退款期是7天，您这次是特殊情况。祝您一切顺利，以后有需要随时欢迎回来。",
    "lang": "zh",
    "note": "答案放在最前面，再一句话点明常规期限和“这次”的例外，就不会变成新规矩；退得快比退得多更重要。"
   },
   {
    "id": "handle-refund-request-005",
-   "situation": "I run weekend pottery workshops, $140 a place. Liam just emailed that he's got COVID and can't make this Saturday's class, and asked for a refund. My policy is no refunds within 7 days, but I can move people to another date.",
+   "situation": "I run weekend pottery workshops, $140 a place. Liam just emailed that he's got COVID and can't make this Saturday's class, and asked for a refund. My policy is no refunds within 7 days, but I can move people to another date. The 17 October, 7 November and 5 December workshops still have space.",
    "reply": "Hi Liam, sorry you're ill, rest up. With the class this close I can't refund the place, but I can move you to any Saturday workshop before Christmas at no charge: 17 October, 7 November and 5 December all have space. Tell me which one suits and I'll book you in.",
    "lang": "en",
    "note": "Middle option: no refund, but the transfer is free, concrete and offered in the same breath."
@@ -67,21 +67,21 @@
   },
   {
    "id": "handle-refund-request-010",
-   "situation": "我在淘宝卖多肉。顾客陈女士买了4盆，一共132元，今天收到说其中一盆桃蛋烂根了，发了照片，要求整单退款。另外三盆她说状态还行。",
-   "reply": "陈女士您好，看了照片，桃蛋确实烂根了，这盆不该这样发给您，抱歉。这盆的38元我现在就退，1到2天原路到账；如果您更想要一盆新的，我明天重新挑一盆发顺丰，您选一个告诉我就行。烂的那盆不用寄回。另外三盆是好的，就不做整单退款了，希望它们在您那儿长得好。",
+   "situation": "我在网店卖多肉。顾客陈女士买了4盆，一共132元，今天收到说其中一盆38元的桃蛋烂根了，发了照片，要求整单退款。另外三盆她说状态还行。",
+   "reply": "陈女士您好，看了照片，桃蛋确实烂根了，这盆不该这样发给您，抱歉。这盆的38元我现在就退，1到2天原路到账；如果您更想要一盆新的，我明天重新挑一盆发快递，您选一个告诉我就行。烂的那盆不用寄回。另外三盆是好的，就不做整单退款了，希望它们在您那儿长得好。",
    "lang": "zh",
    "note": "部分出问题就部分解决：坏的那盆马上退或补，给两个选项；不为另外三盆争论，也不让她寄回。"
   },
   {
    "id": "handle-refund-request-011",
-   "situation": "I sell hand-poured candles on Etsy. A customer, Marisol, says her $38 order never arrived, but USPS tracking shows it delivered to her mailbox on Sept 24. She's polite and this is her third order.",
+   "situation": "I sell hand-poured candles in my online shop. A customer, Marisol, says her $38 order never arrived, but tracking shows it delivered to her mailbox on Sept 24. She's polite and this is her third order.",
    "reply": "Hi Marisol, I'm sorry your candles haven't turned up, that's frustrating. I'll send a replacement out tomorrow morning and you'll have the new tracking by the afternoon. Tracking on the first parcel shows it delivered to your mailbox on 24 September, so it may be worth a quick word with neighbours in case it went to the wrong door. If it does turn up, keep it as a spare, on me.",
    "lang": "en",
    "note": "For a small amount and a repeat customer, resending costs less than asking her to prove anything; on a big order, open a carrier claim first."
   },
   {
    "id": "handle-refund-request-012",
-   "situation": "I tutor maths. Jamal's parents bought a 10-lesson bundle for $500 (single lessons are $60) and he's had 4. They're moving abroad next month and asked if they can get money back for the rest. The bundle terms don't mention refunds either way.",
+   "situation": "I tutor maths. Jamal's parents, the Haddads, bought a 10-lesson bundle for $500 by card (single lessons are $60) and he's had 4. They're moving abroad next month and asked if they can get money back for the rest. The bundle terms don't mention refunds either way.",
    "reply": "Hi Mrs. Haddad, congratulations on the move, and thank you for telling me early. Yes, I'll refund the six lessons Jamal hasn't used, $300, back to your card by Friday 2 October. If he'd like to keep going online after you've settled, just say and we'll find a time. Wishing you all a smooth move. Daniel",
    "lang": "en",
    "note": "A fair request with nothing to weigh: the yes and the exact amount go in the first lines so there's nothing to negotiate."

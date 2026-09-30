@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -120,6 +120,13 @@
    "reply": "你想自己干点事，这个我真心支持，也知道这20万是你攒了五年的。我这边的看法有点不一样：那条街上已经有4家奶茶店了，我担心新店很难抢到客人。我不懂这行，也可能想少了。这一点你之前琢磨过吗？要不要先去那几家门口数一个周末的客流再定？",
    "lang": "zh",
    "note": "朋友问意见时，一个最强的理由加一个她能自己去验证的问题，比一串风险清单更容易被听进去。"
+  },
+  {
+   "id": "disagree-without-conflict-018",
+   "situation": "My brother Paul wants to move our mum, 81, into a care home after her fall in August. I think we should first try a carer three mornings a week; her care assessment said she could manage at home with that support. Paul lives nearby and does most of the visiting, and I'd cover the carer's cost and come up every other weekend. I don't want to sound like I'm judging from a distance.",
+   "reply": "Paul, I know you've carried most of this since Mum's fall, and we want the same thing: for her to be safe. Where I land differently is the next step. Her assessment said she could manage at home with a carer three mornings a week, and I'd like us to try that for two months first, with me covering the carer and coming up every other weekend. What would you need to see in those two months to feel she's okay?",
+   "lang": "en",
+   "note": "Credit the sibling doing the daily work first; if Mum falls and is hurt, call emergency services before anything else."
   }
  ]
 }

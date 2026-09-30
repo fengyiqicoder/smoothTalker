@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -120,6 +120,13 @@
    "reply": "Hi Dana, a heads up on a change: I'm moving from Eastgate to Riverside on 21 November, which is about 25 minutes further from you. For the Sunday 6pm handovers, would you be okay with meeting halfway, at Millfield library, so neither of us does the whole drive? Could you let me know by Friday 30 October so I can plan? Thanks.",
    "lang": "en",
    "note": "One topic, the fact that changes, a proposal that shares the cost, and a date for the answer."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-018",
+   "situation": "My son Jonah (10) switches between my place and my ex Claire's every week. Twice this month his asthma inhaler stayed at one house, and on Monday he had to use the school nurse's spare. I want to suggest each house keeps its own inhaler; his GP can prescribe a second one.",
+   "reply": "Hi Claire, one thing about Jonah's inhaler. It's stayed behind at one house twice this month, and on Monday he had to use the school nurse's spare. I'd like each of us to keep one at home so it doesn't depend on the bag, and his GP can prescribe a second. I can book the appointment this week if you're okay with it; could you let me know by Friday?",
+   "lang": "en",
+   "note": "Health logistics without blame: 'stayed at one house', not 'you forgot'. If he ever struggles to breathe, call emergency services first."
   }
  ]
 }

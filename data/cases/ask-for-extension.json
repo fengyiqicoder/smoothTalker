@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -120,6 +120,13 @@
    "reply": "Hey Chris, I want to raise this now rather than on the 15th: my car needed a $900 repair last week, so I can't pay back the full $2,000 on October 15 as I promised. Could I send $1,000 on the 15th and the other $1,000 by Friday November 13? If you need the full amount sooner for something, tell me and we'll work out what I can move around.",
    "lang": "en",
    "note": "Money owed to a friend: ask before the date, pay part on time, and give an exact date for the rest."
+  },
+  {
+   "id": "ask-for-extension-018",
+   "situation": "Je suis traductrice indépendante. L'agence (chef de projet : Thomas) attend la traduction d'un manuel de 40 pages pour vendredi 2 octobre, mais hier le client final a ajouté 12 pages. Je peux livrer les 40 pages prévues vendredi et les 12 nouvelles le mercredi 7 octobre.",
+   "reply": "Bonjour Thomas, je vous écris dès aujourd'hui au sujet du manuel : avec les 12 pages ajoutées hier par le client, je ne pourrai pas tout livrer vendredi avec la qualité attendue. Je vous propose de livrer les 40 pages prévues ce vendredi 2 octobre, comme convenu, et les 12 nouvelles pages le mercredi 7 octobre. Est-ce que ce découpage convient au client, ou a-t-il besoin de certaines des nouvelles pages en priorité ?",
+   "lang": "fr",
+   "note": "Quand le périmètre grandit, on livre l'original à l'heure et on ne décale que l'ajout."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -120,6 +120,13 @@
    "reply": "Hi Mrs Dalton, it's Sophie from number 14. We're having our bathroom redone from Monday 12 to Friday 16 October, and the builders need to put the skip outside your front wall, which would take your usual parking spot for those five days. Would that be okay with you? You'd be very welcome to use the space outside ours while it's there. If it's a real nuisance, just say, and I'll ask the builders what else we can do.",
    "lang": "en",
    "note": "Name the real cost (her parking, five days), offer what you can in return, and leave a genuine out."
+  },
+  {
+   "id": "ask-for-favor-018",
+   "situation": "In March my friend Priya asked me to help paint her flat and I said no because of a work trip. Now my new laptop is being delivered on Tuesday Oct 6 between 9 and 1 and needs a signature, but I'll be at the office. She works from home two streets away, and I could redirect the delivery to her address and collect it that evening. It feels cheeky after I turned her down.",
+   "reply": "Hi Priya, a small ask, and I know I still owe you for missing the painting in March. My new laptop arrives on Tuesday Oct 6, sometime between 9 and 1, and needs a signature while I'm at the office. Could I redirect it to yours and pick it up that evening? If Tuesday's awkward, just say so, no problem at all.",
+   "lang": "en",
+   "note": "Having once said no, name it in half a line and keep the ask small; a long apology makes it heavier."
   }
  ]
 }

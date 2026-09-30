@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -119,6 +119,13 @@
    "reply": "Hallo Lena, danke für die Einladung, der Launch in München klingt richtig gut. Anreise und Hotel sind ein netter Rahmen, aber kein Honorar: Für vier Stunden vor Ort berechne ich 500 Euro und für ein Set aus drei Stories 350 Euro, zusammen also 850 Euro, plus Anreise und Hotel wie von euch angeboten. Wenn das in euer Budget passt, schick mir gern den Ablauf und sag mir, ob ihr die Stories auch auf euren eigenen Kanälen nutzen wollt. Dann melde ich mich innerhalb eines Tages zurück.",
    "lang": "de",
    "note": "Reisekosten sind Auslagen, kein Honorar: Präsenz und Content getrennt bepreisen und die Nutzungsrechte gleich mit abfragen."
+  },
+  {
+   "id": "creator-brand-deal-reply-018",
+   "situation": "An outdoor gear brand, Northpine, wants me as an ambassador for three months: one reel and one story set of three every month, for $700 a month. My rates are $900 per reel and $350 per story set, with 30 days of organic usage. The contact is Grace and she hasn't mentioned exclusivity.",
+   "reply": "Hi Grace, thanks for thinking of me, I'd genuinely enjoy a longer run with Northpine. At my standard rates, a reel plus a story set is $1,250 a month; for a three-month commitment I can do $1,050 a month, $3,150 in total, with 30 days of organic usage on each piece. If $700 a month is the ceiling, two story sets a month fit that budget exactly. Could you also confirm whether the ambassador role comes with any exclusivity?",
+   "lang": "en",
+   "note": "A long-term deal earns a modest package rate, not your per-post rate cut in half; and always ask about exclusivity before you sign."
   }
  ]
 }

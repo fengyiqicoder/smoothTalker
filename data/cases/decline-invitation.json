@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -120,6 +120,13 @@
    "reply": "Chloe, sorry for leaving you on a maybe. I can't make the 24th, it's my sister's hen weekend, so please don't count me in. I'd love to take you for a birthday drink the week after instead. How's Thursday the 29th?",
    "lang": "en",
    "note": "A maybe makes the host plan around you, so turn it into a clear no before their deadline; one sorry for the delay, then a concrete date."
+  },
+  {
+   "id": "decline-invitation-018",
+   "situation": "表姐住成都，听说我11月10日到13日去成都出差，热情地让我住她家。我想住公司订的酒店，出差早出晚归方便些，也自在；但很想见她，11月11日周三晚上有空。",
+   "reply": "表姐，谢谢你惦记我，还想着让我住家里。这次我就住公司订的酒店了，出差早出晚归，住那边方便一些。11号周三晚上我有空，请你吃顿饭好不好？",
+   "lang": "zh",
+   "note": "只拒绝“住”，不拒绝人：一个理由就够，再给一个具体的见面时间，让对方知道你是想见她的。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -120,6 +120,13 @@
    "reply": "Hi,\nI'm writing about my son Leo Martins, in the Tuesday 4pm beginners class. I paid $240 on 1 September for this term's 10 lessons, and three of them, on 8, 15 and 29 September, were cancelled with less than a day's notice and no make-up sessions offered. Leo loves the class and we'd like to stay. I'd like the three lessons, $72, either refunded or credited to next term, whichever is easier for you. Could you let me know by Friday 9 October?\nThanks,\nAna Martins, 555-0178",
    "lang": "en",
    "note": "An ongoing service you want to keep: say so once, then ask for the exact prorated amount with a choice of refund or credit."
+  },
+  {
+   "id": "complain-as-customer-018",
+   "situation": "我叫陈悦，会员卡号A20417。在小区附近的健身房买了20节私教课，一共3200元，上了8节，教练9月20日离职了。合同第7条写着“教练离职，会员可申请退还剩余课时费”，但前台两次都说只能换教练。我想给门店店长发条正式的消息，要求退剩下12节的钱。",
+   "reply": "店长您好，我是会员陈悦，卡号A20417。我在店里购买了20节私教课，共3200元，已上8节，我的教练于9月20日离职。根据合同第7条“教练离职，会员可申请退还剩余课时费”，我申请退还剩余12节的费用，共1920元。前台两次答复只能换教练，所以直接联系您。麻烦在10月9日（周五）前告诉我退款安排，谢谢。",
+   "lang": "zh",
+   "note": "引用合同原文、算好金额、只提一个要求；店长也拒绝的话，再按合同写的投诉途径走。"
   }
  ]
 }

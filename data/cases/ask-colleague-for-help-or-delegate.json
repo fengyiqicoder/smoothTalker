@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -120,6 +120,13 @@
    "reply": "Hi Beatriz, I'm Wei from the Singapore finance team. I'm presenting the Q3 forecast to our regional CFO on Friday 2 October at 9am Singapore time, which is Thursday 8pm for you. I can follow the LatAm revenue, but I can't tell whether freight is included in cost of goods for the 14% margin. Could you reply in writing by the end of your Wednesday? Three or four lines is plenty, and if that's too tight, just say so and I'll present the margin as provisional.",
    "lang": "en",
    "note": "Across time zones, write the ask so it can be answered without a call: the exact question, both local times, and an out."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-018",
+   "situation": "我是运营组长。上个月让下属小何做9月的用户数据周报，他晚交了两天，原因是到最后才发现数据口径不对。这个月的季度复盘材料我还想交给他做，10月16号周五要交给总监，但不想让他觉得我不信任他。",
+   "reply": "小何，这次的季度复盘材料还想请你来做，10月16号周五要交给总监。上次周报卡在最后才发现数据口径不对，这次我们把检查点往前挪：10月9号周五你先给我看口径和提纲，我当天回你意见，后面你放手做。中间哪里卡住了随时找我，不用等到检查点。这个节奏你觉得可以吗？",
+   "lang": "zh",
+   "note": "再交给出过问题的人：直说上次卡在哪一步，用提前的检查点代替盯人，信任和兜底一起给。"
   }
  ]
 }

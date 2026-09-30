@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -120,6 +120,13 @@
    "reply": "Hi Sam, I'm taking a mental-health day tomorrow, Thursday 1 October, after the release push. Nothing of mine is due before Monday, and Aisha can pick up any questions on the release notes. Back Friday.",
    "lang": "en",
    "note": "Where the culture welcomes it, name it plainly; it's still a notification, not a request."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-018",
+   "situation": "Mes congés du 19 au 23 octobre ont été validés en juillet et j'ai payé un voyage non remboursable en Crète avec mon compagnon. Ma responsable, Hélène, me demande par message si je peux les décaler parce que l'audit Hollis a été déplacé au 20 octobre. Benoît devait déjà me remplacer et connaît le dossier.",
+   "reply": "Bonjour Hélène, je comprends que le déplacement de l'audit complique cette semaine. Mes congés du 19 au 23 octobre ont été validés en juillet et le voyage est payé et non remboursable, donc je les maintiens. D'ici le vendredi 16 octobre, je passe le dossier Hollis en revue avec Benoît et je lui laisse une note avec les points ouverts. Est-ce que ça te suffit pour préparer l'audit ?",
+   "lang": "fr",
+   "note": "Un congé déjà validé ne se renégocie pas à cause d'un nouveau conflit : reconnaître la gêne, garder les dates, renforcer le relais."
   }
  ]
 }

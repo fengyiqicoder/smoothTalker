@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -113,6 +113,13 @@
    "reply": "Bonjour Madame Lefèvre,\nMerci pour votre proposition, je suis vraiment ravie de travailler sur vos supports en magasin. Un seul point à ajuster avant de signer : le paiement à 90 jours fin de mois. Pour une mission de 12 000 € livrée en six semaines, que je mène seule, je travaille avec un règlement à 30 jours. Est-ce possible de votre côté ? Si vos délais de paiement sont fixes, je propose un acompte de 30 % à la commande, soit 3 600 €, et le solde selon vos conditions habituelles.\nBien cordialement,\nCamille Morel",
    "lang": "fr",
    "note": "Les conditions de paiement se négocient comme le prix : une demande précise, une raison, un second levier. Vérifiez ce que le contrat prévoit avant de signer."
+  },
+  {
+   "id": "negotiate-price-or-salary-017",
+   "situation": "I've done the monthly bookkeeping for Tom's bakery for three years at $400 a month. Since his second location opened in March there are about a third more transactions to handle, and my rate for new clients is now $550. I'd like to move him to $500 from 1 January and I'd be happy to lock that in for all of 2027.",
+   "reply": "Hi Tom, I've really enjoyed these three years doing your books, and I'd like to keep doing them for a long time. Since the second location opened in March, there are about a third more transactions each month, and my rate for new clients is now $550. From 1 January I'd like to move your retainer from $400 to $500 a month. Does that work for you? If it helps with planning, I'll hold it at $500 for the whole of 2027.",
+   "lang": "en",
+   "note": "Raising a long-standing client: a number below your new-client rate, one reason tied to the work, and a price lock as the second lever."
   }
  ]
 }

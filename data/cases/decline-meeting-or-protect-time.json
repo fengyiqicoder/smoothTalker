@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -120,6 +120,13 @@
    "reply": "Hola Marta, para la reunión del jueves lo que necesitas de mí es el estado de las pruebas. ¿Te parece si lo pongo como primer punto, lo cuento en diez minutos y me salgo a las 10:15? Así llego bien a la entrega del viernes. Te mando hoy un resumen de una página por si sale alguna pregunta cuando ya no esté. ¿Te encaja?",
    "lang": "es",
    "note": "No rechaza la reunión, la acorta para sí: pide ir primero y deja por escrito lo que pueda surgir después."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-018",
+   "situation": "I manage a team of six. My new report Nina, three weeks in, asked for a 30-minute daily check-in with me for her first two months. I want to support her, but I can't give 30 minutes every day; I can do Tuesdays and Thursdays at 9:30 for 30 minutes, and she can send quick questions in chat any time.",
+   "reply": "Hi Nina, I'm glad you asked, and I want you to have what you need to get up to speed. A daily half hour won't work on my side, so let's do Tuesdays and Thursdays at 9:30 for 30 minutes, starting this Thursday. In between, send me quick questions in chat any time; they don't need to wait for our slot. Does that work for you?",
+   "lang": "en",
+   "note": "When you're the senior one, decline the cadence, not the support, and give the new rhythm with a start date."
   }
  ]
 }

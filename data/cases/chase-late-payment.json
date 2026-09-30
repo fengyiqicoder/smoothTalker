@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -120,6 +120,13 @@
    "reply": "张会计您好，谢谢告知。发票YC-0905已按要求重开，补上了采购单号PO-4471，金额12,800元不变，附件请查收。这张原定9月15日到期，麻烦您看看能否排进本周的付款，方便的话告诉我预计的到账日期。以后开票我都会写上采购单号。",
    "lang": "zh",
    "note": "流程问题不争对错，马上补齐材料，同时把付款日期问实。"
+  },
+  {
+   "id": "chase-late-payment-018",
+   "situation": "Soy fotógrafa de bodas, me llamo Marta. Laura y Pablo se casaron en agosto, pagaron la señal y el saldo de 1.400 € (factura 2026-031) vencía el 15 de septiembre; les mandé un recordatorio el día 20 y nada. Ya volvieron de la luna de miel, y según el contrato el álbum impreso se encarga cuando todo está pagado.",
+   "reply": "Hola, Laura y Pablo: espero que la luna de miel fuera increíble. Os escribo de nuevo por la factura 2026-031 de 1.400 €, el saldo del reportaje de la boda, que vencía el 15 de septiembre y todavía no me ha llegado. ¿Me podéis confirmar qué día haréis la transferencia? Os adjunto otra vez la factura con los datos bancarios. En cuanto esté pagada, encargo vuestro álbum impreso, como recoge el contrato. Un abrazo, Marta",
+   "lang": "es",
+   "note": "Con clientes particulares el tono sigue cálido, pero con número, importe, fecha, cómo pagar y una pregunta por una fecha concreta."
   }
  ]
 }

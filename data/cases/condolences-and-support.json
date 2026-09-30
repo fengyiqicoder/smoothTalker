@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -120,6 +120,13 @@
    "reply": "Nadia, I'm so sorry. There's no supposed to here: sad, relieved, angry, numb, or all of it in one afternoon, it all makes sense. You don't have to sort it out or explain it to anyone, me included. I'm around all weekend if you want company, and no need to reply to this.",
    "lang": "en",
    "note": "When the relationship with the person who died was painful, don't assume grief or praise them; give permission for whatever she feels."
+  },
+  {
+   "id": "condolences-and-support-018",
+   "situation": "In our class parents' WhatsApp group, Olga posted that her husband Viktor died suddenly on Sunday. Dozens of people are replying with heart emojis. Her daughter Mila and mine are best friends, and Viktor coached their Saturday netball team and always stayed after practice to feed balls to any girl who wanted extra shooting. I want to message her privately.",
+   "reply": "Olga, I'm so sorry about Viktor. The girls adored him, and I'll always picture him staying after practice to feed balls to anyone who wanted extra shots. Mila is welcome at ours any afternoon this week or next, just tell me which days suit. No need to reply to this. Thinking of you both.",
+   "lang": "en",
+   "note": "After a group announcement, a private message with one real memory and an easy, concrete offer stands out from the emoji wall."
   }
  ]
 }

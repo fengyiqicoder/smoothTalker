@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -120,6 +120,13 @@
    "reply": "小林，有个不好的消息得马上跟你说。我今天问了房东，他不同意转租，说合同不允许，所以11月1日转给你这件事办不成了。这怪我，应该先问清楚再答应你，害你已经跟房东说了退租，真的对不起。房东说如果你愿意直接跟他签新合同，月租5200可以谈；你有兴趣的话我今晚就把他的联系方式发你，不合适的话我陪你一起找房。你晚上方便的话，我给你打个电话？",
    "lang": "zh",
    "note": "先说结论，再认自己的责任；把房东给的另一条路和自己能出的力一起摆出来，最后约电话。"
+  },
+  {
+   "id": "deliver-bad-news-018",
+   "situation": "I'm renovating Mrs. Greene's bathroom. Today we lifted the old tub and found rot in two floor joists underneath, which has to be fixed before we can tile. It adds $2,400 and moves the finish from Friday Oct 9 to Wednesday Oct 14. I'm texting her photos now and would rather talk it through on a call before we go ahead.",
+   "reply": "Hi Mrs. Greene, some news on the bathroom you won't love. When we lifted the old tub today we found rot in two of the floor joists underneath, and they have to be replaced before we can tile; photos attached. That adds $2,400 and moves the finish from Friday 9 October to Wednesday 14 October. I know that's more money and more days of disruption. Could I call you this evening to go through it before we do any of the extra work?",
+   "lang": "en",
+   "note": "Surprise costs: photos, the number and the new date in one message, then a call before any extra work starts."
   }
  ]
 }

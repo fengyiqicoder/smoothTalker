@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -120,6 +120,13 @@
    "reply": "Tía, el tema del piso lo dejo aparcado, hoy no voy a hablar de eso. Si vuelve a salir, me voy a la cocina a echar una mano. Oye, Lucía, ¿qué tal el Camino? Cuéntanos cuál fue la etapa más dura.",
    "lang": "es",
    "note": "Tercera vez y con pulla: versión firme, sin explicar vuestras finanzas, y el giro hacia Lucía cambia el foco sin dejar mal a la tía."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-018",
+   "situation": "我妈打电话说弟弟要结婚，女方要20万彩礼，让我出10万。我在杭州工作，刚还完助学贷款，攒的钱是准备明年读研用的。我不想出这笔钱，也不想跟我妈闹翻。",
+   "reply": "妈，弟弟要结婚我真替他高兴。这10万我出不了，我攒的钱是明年读研要用的。婚礼定在哪天了？我好提前请假回去。",
+   "lang": "zh",
+   "note": "钱的事一句说清不出，理由只给一个，不去评价彩礼该不该给；她再提，就用几乎一样的话再说一遍。"
   }
  ]
 }

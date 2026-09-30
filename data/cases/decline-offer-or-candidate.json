@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -120,6 +120,13 @@
    "reply": "山本様\nいつも大変お世話になっております。青葉大学経済学部の佐藤美咲です。\nこのたびは内定のご連絡をいただき、誠にありがとうございました。熟慮の末、誠に勝手ながら内定を辞退させていただきたく、ご連絡いたしました。別の会社からも内定をいただき、そちらに入社することを決めました。\n面接のたびに山本様がお声がけくださり、社員の方との座談会まで設けていただいたこと、心から感謝しております。内定式を明日に控えた時期のご連絡となり、大変申し訳ございません。\n貴社の今後ますますのご発展をお祈り申し上げます。\n佐藤美咲",
    "lang": "ja",
    "note": "内定式が明日なので、メールを送ったら山本さんに電話でも一言伝えると確実で丁寧です。"
+  },
+  {
+   "id": "decline-offer-or-candidate-018",
+   "situation": "I'm a hiring manager. On Sept 16 we offered Farah Haddad a data engineer role and she accepted; she told me she'd hand in her notice at her current job this Friday, Oct 2. This morning the company froze all new hiring until at least April and HR confirmed the offer is withdrawn. It's nothing to do with her, she was our first choice and I'd want to call her first if the freeze lifts. I phoned her an hour ago and now need the follow-up email.",
+   "reply": "Hi Farah, following up in writing on our call this morning. We have withdrawn the data engineer offer we made on Sept 16, because the company froze all new hiring this morning until at least April. It has nothing to do with you, you were our first choice, and I'm sorry to undo something you'd already said yes to. Please don't hand in your notice on Friday on our account. If the freeze lifts, would it be okay for me to contact you first?",
+   "lang": "en",
+   "note": "Send it before she acts on the offer. Questions about pay or the offer terms go to HR; check the offer letter rather than guessing."
   }
  ]
 }

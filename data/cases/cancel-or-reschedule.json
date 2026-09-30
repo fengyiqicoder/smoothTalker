@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -120,6 +120,13 @@
    "reply": "爸、妈，跟你们说个变动：公司刚临时安排我10月2日到8日去深圳驻场，推不掉，所以3号来北京得改个时间。你们都准备好了，真是对不住。改到10月10日或者17日来都可以，你们看哪天方便？改签的费用我来出，日子定了我就帮你们改签。",
    "lang": "zh",
    "note": "对家人也是先说变动、一句原因，再给两个具体日子；他们已经买了票，改签费主动承担。"
+  },
+  {
+   "id": "cancel-or-reschedule-018",
+   "situation": "I'm the hiring manager, and I have a final interview with a candidate, Tomás Reyes, tomorrow, Thursday Oct 1 at 11am. Our CEO, who's on the panel, has been called away to a customer emergency. Tomás mentioned he took a day off from his current job for it, and nothing has changed on our side: he's still one of our two finalists.",
+   "reply": "Hi Tomás, I need to move tomorrow's 11am final interview, and I'm sorry for the short notice. Our CEO is on the panel and has been called away to a customer emergency, and I'd rather you meet the full panel than half of it. Since you took the day off for this, I'd like to fit around your job: could you do Tuesday Oct 6 at 8am or Thursday Oct 8 at 5:30pm, on video if that's easier? Nothing about where you stand in the process has changed.",
+   "lang": "en",
+   "note": "When the company moves a candidate, offer slots that don't cost them another day off, and say plainly that their standing is unchanged."
   }
  ]
 }

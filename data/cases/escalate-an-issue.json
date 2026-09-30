@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -120,6 +120,13 @@
    "reply": "Subject: Decision needed by Fri Oct 2: priority for ENG-4412 (Brightline Dental)\n\nHi Rita, since Sept 21 Brightline Dental's appointment reminders have been failing to send, about 30 patients a day (ENG-4412). It's in Sam's backlog behind the Oct 20 release, and I've told him I'm raising the priority with you. Their ops lead, Nora, says they'll start looking at other vendors if it isn't fixed by Oct 15, and they renew on Oct 31 at $48k a year. Could you decide by Friday whether ENG-4412 moves ahead of the release work? I'd recommend yes, so I can give Nora a fix date.",
    "lang": "en",
    "note": "Internal escalation on a customer's behalf: the email is about a priority call Rita owns, not about Sam, and says Sam already knows."
+  },
+  {
+   "id": "escalate-an-issue-018",
+   "situation": "I'm Ellen Hale. My mum, Margaret Hale (hospital number 448210), was told on Aug 20 she'd get a cardiology appointment within six weeks. I called the booking office on Sept 8 and Sept 22 and both times was told the referral is 'on the system' but there's no date. Her chest pains are getting more frequent and her GP said on Monday she needs to be seen soon. I'm emailing the hospital's patient liaison team.",
+   "reply": "Subject: Cardiology appointment needed by 2 Oct: referral from 20 August, no date yet\nDear Patient Liaison team, I'm writing about my mother, Margaret Hale, hospital number 448210. On 20 August she was told she'd get a cardiology appointment within six weeks. I called the booking office on 8 and 22 September and both times was told the referral is on the system, with no date. Her chest pains are getting more frequent, and her GP said on Monday that she needs to be seen soon. Could you confirm an appointment date, or who is handling the referral, by Friday 2 October? Thank you, Ellen Hale",
+   "lang": "en",
+   "note": "If her chest pain worsens or comes on at rest, call emergency services now; this email is for the waiting list, not an emergency."
   }
  ]
 }

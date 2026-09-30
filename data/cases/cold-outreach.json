@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -119,6 +119,13 @@
    "reply": "佐藤様\n突然のご連絡失礼いたします。先月の「秋冬は贈り物向けの布ものを増やしたい」という投稿を拝見し、ご連絡しました。京都で手染めの手ぬぐいを作っております。昨年は関西の3店舗で、合わせて約1,200枚お取り扱いいただきました。サンプルを3枚お送りしてもよろしいでしょうか。ご不要でしたら、その旨お返事いただけるだけでも大変ありがたいです。",
    "lang": "ja",
    "note": "日本の取引先には前置き一文を添えても、依頼は小さく一つに絞る。"
+  },
+  {
+   "id": "cold-outreach-018",
+   "situation": "I'm a children's author with three picture books out, and I've done 40 school visits this year. Ms. Patel, head librarian at Oakwood Primary, wrote in the school newsletter that they're planning a Reading Week from Monday 16 to Friday 20 November and want more authors in. I've never contacted the school before.",
+   "reply": "Subject: An author visit for Reading Week?\n\nHi Ms. Patel,\nI saw in the Oakwood newsletter that you're planning Reading Week for 16 to 20 November and hoping to bring in more authors. I write picture books, three out so far, and I've done 40 school visits this year, with a session built around reading aloud and drawing a character together. Would a visit that week be of interest? If it's not a fit, a quick no is genuinely helpful.\nBest,\nNadia Brooks",
+   "lang": "en",
+   "note": "Why them comes from her own newsletter, one number as proof, and a single yes/no question instead of a call."
   }
  ]
 }

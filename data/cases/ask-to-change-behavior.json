@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -120,6 +120,13 @@
    "reply": "儿子，跟你商量个事，不是要没收手机。这两周你晚上基本玩到一两点，早上我要叫三四次你才起，我每天早上都挺着急的。咱们定个规矩：晚上11点手机放客厅充电，周五周六可以晚到12点。我和你爸也一样，11点以后不在床上看手机。你觉得哪里需要调整，现在就可以提。",
    "lang": "zh",
    "note": "对青少年也只说一个行为和对自己的影响，把请求做成全家一起守的规矩，并留出让他参与的空间。"
+  },
+  {
+   "id": "ask-to-change-behavior-018",
+   "situation": "My name is Siobhán, pronounced 'shi-VAWN'. Greg, a colleague on another team, has started calling me 'Shiv' in meetings and in our team chat. I've never used a nickname and don't like it, but we get on well and he clearly means it as friendly. I want to message him directly.",
+   "reply": "Hey Greg, small thing, and I know it's meant in a friendly way: I'd rather not go by 'Shiv'. I've never used a short version of my name, so it feels a bit odd hearing it in meetings. Could you stick with Siobhán? And if the spelling ever throws you, it's said 'shi-VAWN', which I know isn't obvious.",
+   "lang": "en",
+   "note": "A name is one of the few things you can ask for plainly; the pronunciation line lets him get it right without embarrassment."
   }
  ]
 }
