@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -99,6 +99,13 @@
    "reply": "Subject: Grade needed by Fri 9 Oct: STAT 301 incomplete, scholarship deadline\nDear Dr. Lang, my spring grade for STAT 301 (Professor Ortiz) still shows as incomplete, although I submitted the final project through the course portal on 10 May (receipt attached). My scholarship renewal needs a complete transcript by Friday 16 October. I emailed the TA, Ben Carter, on 8 and 21 September and Professor Ortiz on 24 September, and haven't had a reply; Professor Ortiz knows I'm writing to you and is copied. Could you help get the grade entered, or tell me who can, by Friday 9 October, so the registrar has a week to update the transcript? Thank you, Maya Singh, student ID 20241187",
    "lang": "en",
    "note": "Academic escalation: the ask date sits a week before the real deadline, and the professor gets the heads-up and a copy, so it reads as a timeline problem, not a complaint."
+  },
+  {
+   "id": "escalate-an-issue-015",
+   "situation": "儿子上三年级，9月14日和9月23日两次跟班主任赵老师反映他在课间被同班一个男生推倒，第二次膝盖擦破了。赵老师说会处理，但儿子说还在发生。我已经跟赵老师说了要找年级组长孙老师，现在要给孙老师发消息。",
+   "reply": "孙老师您好，我是三（2）班陈小宇的家长陈静。想请您帮忙跟进一件事：9月14日和9月23日，我两次向赵老师反映小宇课间被同班一位同学推倒，第二次膝盖擦破了；赵老师很重视，说会处理，但小宇这周说还在发生。我担心的是他的安全，现在他已经不太想去学校了。能否在10月9日开学后一周内，约我和赵老师一起见面谈一次，定下课间怎么看护？我已经跟赵老师说过会联系您，这不是对她的意见，只是希望多一个人帮忙把这件事落实。",
+   "lang": "zh",
+   "note": "涉及孩子安全，照样先跟班主任打招呼、只写事实和日期；如果有受伤或持续发生，保留照片和记录。"
   }
  ]
 }

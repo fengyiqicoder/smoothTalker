@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -99,6 +99,13 @@
    "reply": "Dear Mr Morris,\nI'm writing to give notice that Rise & Crumb Bakery will not renew its lease for Unit 7, Harbor Plaza, and will vacate at the end of the current term on Sunday 31 January 2027. This is the 90 days' written notice required under section 22 of the lease, and a signed copy is going to you today by certified mail. Rent will be paid through January, and we'll return the unit in the condition the lease's surrender clause sets out. Could we schedule a walkthrough in mid-January to agree on anything that needs doing before we leave? Please confirm in writing that you've received this notice.\nThank you for five good years at Harbor Plaza.\nAna Duarte, Owner",
    "lang": "en",
    "note": "With a long auto-renewal on a commercial lease, serve notice exactly as the lease says, keep the mail receipt, and have someone check the surrender clause."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-015",
+   "situation": "My dad died on September 18. He rented a flat in Glasgow from a private landlord, Mrs Duncan, for 11 years. I'm his executor and need to end the tenancy and clear the flat, but I don't know what notice applies.",
+   "reply": "Dear Mrs Duncan,\nI'm sorry to tell you that my father, Robert Mackay, died on 18 September. As the executor of his estate, I'm writing to give notice to end his tenancy at 14 Hyndland Road, Flat 1/2. Could you let me know the notice period and end date you'll be working from, and whether you need a copy of the death certificate or anything else from me? I'm aiming to have the flat cleared and the keys back to you by Saturday 31 October, and I'm happy to do a check-out inspection with you that day. Please confirm in writing that you've received this.\nDad always spoke warmly of you as a landlord.\nYours sincerely,\nFiona Mackay",
+   "lang": "en",
+   "note": "Rules on ending a tenancy after a death vary by place and tenancy type; check with a local advice service before relying on a date."
   }
  ]
 }

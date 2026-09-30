@@ -26,7 +26,7 @@
   {
    "id": "ask-colleague-for-help-or-delegate-004",
    "situation": "I'm a marketing manager and need someone from legal to review the rules for our October giveaway before it goes live on Monday Oct 12. Nobody in legal reports to me and I've never worked with them. The legal ops contact is Grace Liu.",
-   "reply": "Hi Grace, I'm running the Harvest giveaway for marketing, launching Monday 12 October, and we need a legal review of the official rules before it goes live. It's a two-page doc adapted from the spring giveaway your team approved in April, and I've highlighted the three sections that changed. Could someone on your team review it by end of day Wednesday 7 October? If that's too tight with your current queue, tell me what date works and I'll plan the launch around it.",
+   "reply": "Hi Grace, I'm running the Harvest giveaway for marketing, launching Monday 12 October, and we need a legal review of the official rules before it goes live. It's a two-page doc, and I've highlighted the three sections I'm least sure about: eligibility, prize value and the entry deadline. Could someone on your team review it by end of day Wednesday 7 October? If that's too tight with your current queue, tell me what date works and I'll plan the launch around it.",
    "lang": "en",
    "note": "Cross-team you have no authority, so make the job small, say exactly what done looks like, and let them name the date if yours doesn't fit."
   },
@@ -47,7 +47,7 @@
   {
    "id": "ask-colleague-for-help-or-delegate-007",
    "situation": "I'm the new team lead and about 20 years older than most of my team. My report Maya is the Figma expert and I need to be able to edit our prototypes before the Harlow client review on Thursday Oct 8. Asking someone junior to teach me feels strange.",
-   "reply": "Hi Maya, could you teach me something? I need to make small edits to the onboarding prototype before the Harlow review on Thursday Oct 8, and you know Figma far better than I do. I've done the basics tutorial, so it's mainly components and how the flows link up that I'm stuck on. Could you spare 30 minutes, maybe Thursday or Friday this week? If you're heads-down, a pointer to a good walkthrough would help too.",
+   "reply": "Hi Maya, could you teach me something? I need to make small edits to the onboarding prototype before the Harlow review on Thursday Oct 8, and you know Figma far better than I do. I've done the basics tutorial, so it's mainly components and how the flows link up that I'm stuck on. Could you spare 30 minutes before then, maybe Friday or Monday? If you're heads-down, a pointer to a good walkthrough would help too.",
    "lang": "en",
    "note": "Asking down uses the same shape as asking across: what you've tried, the exact gap, the time cost and an out. Saying she knows it better is context, not flattery."
   },
@@ -61,14 +61,14 @@
   {
    "id": "ask-colleague-for-help-or-delegate-009",
    "situation": "我10月12号到16号请了年假。手上跟华东几家供应商的对账邮件每天都有，想请同组的小林帮我盯一下。我们是平级，她手上的活也不轻。",
-   "reply": "小林，想请你帮个忙：我10月12日到16日休年假，这周华东供应商的对账邮件能不能帮我盯一下？每天大概三四封，基本是确认金额。模板和对账表我9日周五前整理好放在共享盘，遇到金额对不上的直接放着，等我19日回来处理。你11月休假的时候，你那边的周报我来接。看你那周手上的事，接得过来吗？不方便也没关系，我再找别人。",
+   "reply": "小林，想请你帮个忙：我10月12日到16日休年假，这周华东供应商的对账邮件能不能帮我盯一下？每天大概三四封，基本是确认金额。模板和对账表我9日周五前整理好放在共享盘，遇到金额对不上的直接放着，等我19日回来处理。之后你休假或者忙不过来的时候，你那边的周报我来接。看你那周手上的事，接得过来吗？不方便也没关系，我再找别人。",
    "lang": "zh",
    "note": "平级之间没有分派的权力：说清范围和工作量，把难的留给自己，给一个交换，也给退路。"
   },
   {
    "id": "ask-colleague-for-help-or-delegate-010",
    "situation": "I'm an account manager at a payroll software company. On a call today, a client, Deborah at Fernway Clinics, asked whether our system will handle Colorado's new overtime rules starting in January. I didn't know and said I'd check. Sending a follow-up email.",
-   "reply": "Hi Deborah, on your question about the new Colorado overtime rules from January: I don't know off the top of my head, and I'd rather check than guess on something that affects your payroll. I've asked our compliance lead, Marcus Webb, and I'll come back to you with a clear answer by Thursday 1 October. Which pay run do you need it confirmed for? That will help us check the right thing.",
+   "reply": "Hi Deborah, on your question about the Colorado overtime changes you mentioned for January: I don't know off the top of my head whether our system covers them, and I'd rather check than guess on something that affects your payroll. I've asked our compliance lead, Marcus Webb, and I'll come back to you with a clear answer by Thursday 1 October. Which pay run do you need it confirmed for? That will help us check the right thing.",
    "lang": "en",
    "note": "\"I don't know\" works with clients too: say it cleanly, name who you're asking and when they'll hear back."
   },

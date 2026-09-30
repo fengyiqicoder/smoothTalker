@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -99,6 +99,13 @@
    "reply": "Estoy de baja desde el 13 de octubre y no leo el correo; calculo volver a mediados de noviembre. Para pedidos, proveedores o cualquier asunto urgente, escribe a Javier Ruiz (javier.ruiz@example.com). Los mensajes que lleguen aquí no se reenvían, así que si es importante, mándaselo a él directamente.",
    "lang": "es",
    "note": "Con fecha de vuelta incierta, da una estimación honesta y deja claro que nada se reenvía; sin detalles médicos."
+  },
+  {
+   "id": "out-of-office-and-away-messages-015",
+   "situation": "我在一家会计师事务所做审计，从10月12日起改成每周一到周三上班，周四周五不在，长期如此。同组的吴敏负责周四周五的急事。想设一个每周四周五生效的邮件自动回复。",
+   "reply": "您好，我每周一至周三上班，周四和周五不查看邮件。您的邮件我会在下周一处理。如有周四、周五必须处理的急事，请联系吴敏（wumin@example.com）。谢谢！",
+   "lang": "zh",
+   "note": "长期固定的不在岗时间，说清楚哪几天在、哪天会回复、急事找谁，不用解释原因。"
   }
  ]
 }

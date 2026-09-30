@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -99,6 +99,13 @@
    "reply": "Max, we've got some big news, and some of it you might not like. In January we're moving to a new house in Seattle, because Mom has a new job there. That means we won't live next door to Leo anymore, and it's okay to feel sad or cross about that. You and Leo can video call whenever you want, and we'll ask his parents if he can come and stay with us next summer. You can ask us anything about it, today or any day.",
    "lang": "en",
    "note": "With a child, the same shape in smaller words: warn, say it plainly, name the loss he'll care about most, and only promise what you'll actually arrange."
+  },
+  {
+   "id": "deliver-bad-news-015",
+   "situation": "Our nanny Rosa has looked after our twins for three years. They start full-day school in January, so we won't need her after Friday Dec 18. We're telling her in person tonight and want to follow up with a text, and we'll pay her four extra weeks.",
+   "reply": "Rosa, thank you for hearing us out tonight. To put it in writing: with the girls starting full-day school in January, your last day with us will be Friday 18 December, and we'll pay you four extra weeks on top of your final pay. We know this is your income and it's a lot to take in, and we're sorry to bring it. We'd be glad to give you a glowing reference and pass your name to any families we know who are looking. You've been part of this family for three years, and the girls adore you.",
+   "lang": "en",
+   "note": "When the news hits someone's livelihood, give the date and the money in writing early; check your employment agreement for any required notice before you set the date."
   }
  ]
 }

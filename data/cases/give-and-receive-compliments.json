@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -98,6 +98,13 @@
    "reply": "爸，到家了吧？这次搬家多亏您，开六个小时车过来，两天就把柜子全装好了，漏水的龙头也换了，我一个人得折腾两个礼拜。今天打开冰箱，满满都是您包的饺子，一下子觉得这个新家有家的样子了。谢谢爸。",
    "lang": "zh",
    "note": "家里越不常说谢谢，越要具体：他做了什么、帮你省了什么、给你带来什么感觉，不附带任何请求。"
+  },
+  {
+   "id": "give-and-receive-compliments-015",
+   "situation": "I'm a wedding photographer. The bride, Mariana, just texted that the photos of her grandmother dancing made the whole family cry and that I was 'the best decision of the wedding'. I want to thank her without false modesty, and without sliding in a request for a review.",
+   "reply": "Mariana, what a lovely message, thank you. I worked hard to catch those moments with your grandmother, so hearing they made everyone cry means a lot. It was a joy to photograph a day with that much love in it.",
+   "lang": "en",
+   "note": "Accept it and stop: no bounce-back and no ask. If you want a review, ask in a separate message a few days later."
   }
  ]
 }

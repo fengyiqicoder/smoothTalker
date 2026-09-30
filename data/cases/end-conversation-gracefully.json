@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -99,6 +99,13 @@
    "reply": "Leo, I'm going to wrap us up here, we're well past our half hour and I'm done for the day. The short version of everything: run two small studies for your portfolio before you apply anywhere. Once you've started the first one, email me one question and I'll reply within the week. Good luck, you're asking the right things.",
    "lang": "en",
    "note": "No invented next meeting: own the exit, recap in one line, and give one bounded way to follow up instead of 'reach out anytime'."
+  },
+  {
+   "id": "end-conversation-gracefully-015",
+   "situation": "国庆家庭聚餐，二舅又开始劝我辞职考公，越说越激动，桌上其他人都不说话了。我不想跟他吵，只想把这个话题结束掉。",
+   "reply": "二舅，您的意思我都听明白了，也知道您是为我好。这个话题今天就先聊到这儿，我自己会好好想想。我去厨房帮我妈端菜。",
+   "lang": "zh",
+   "note": "话题变成争论时：先收下好意，再明确说聊到这儿，用一个真实的动作离开，最后不留问句。"
   }
  ]
 }

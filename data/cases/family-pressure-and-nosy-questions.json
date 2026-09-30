@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -99,6 +99,13 @@
    "reply": "Ha, Grandma, you never give up. When there's someone to bring to Sunday lunch, you'll be the first to meet them. Now, did the tomatoes come good in the end? Mum said you were at war with the squirrels.",
    "lang": "en",
    "note": "A non-answer is not a lie: nothing in it says 'girl', it holds word for word if she asks again, and it still works if you decide to tell her later."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-015",
+   "situation": "国庆第一次带男朋友小陈回老家见亲戚。我舅妈说话很直，肯定会当着他的面问他家有没有房、一年挣多少。我不想让他难堪，也不想跟舅妈闹僵。",
+   "reply": "哈哈，舅妈一上来就查户口呀。我们俩的事心里有数，有好消息第一个跟您说。对了舅妈，您的桂花糖藕今年做了没？小陈听我念叨好几回了，就等着尝呢。",
+   "lang": "zh",
+   "note": "问题冲着伴侣来时由你来接，不替他报任何数字；她再问就原话再说一遍，事前也跟男朋友通个气。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -99,6 +99,13 @@
    "reply": "刘阿姨，这半年家里被您收拾得特别清爽，尤其是厨房的油烟机，以前从来没见它这么亮过。有个小事想跟您商量：擦厨房和擦卫生间的抹布能不能分开用？我买了两种颜色的，蓝色放厨房，粉色放卫生间，就挂在各自门后。家里有小孩，我在这方面比较讲究，您干活我一直特别放心。",
    "lang": "zh",
    "note": "对雇来帮忙的人，先说一处具体的好，再把唯一的要求变成一个现成的办法，而不是批评她的习惯。"
+  },
+  {
+   "id": "give-feedback-kindly-015",
+   "situation": "My coworker Lina is giving her first conference talk in two hours and asked me to watch a run-through. The content is great, but she opens with three minutes of apologising for being nervous and not being an expert. There's no time to change the slides.",
+   "reply": "That was really strong. The customer story about the missed shipment is the best part, the room is going to remember it. One thing: the opening, where you apologise for being nervous, took three minutes and made me doubt you before you'd started, and the rest proves you shouldn't be doubted. What if you cut it and open straight with the shipment story? Everything else, leave exactly as it is.",
+   "lang": "en",
+   "note": "Two hours out, only give feedback she can act on without touching the slides, and tell her explicitly what to leave alone."
   }
  ]
 }

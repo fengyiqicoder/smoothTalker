@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -99,6 +99,13 @@
    "reply": "Thanks, Tom (moving you to bcc). Hi Dr. Bello, I'm Chris Yates, a data analyst at Harlow Retail, where for the last three years I've built the demand forecasts for our 140 stores. I'm hoping to move into healthcare data, and Tom tells me your team's work on outpatient no-shows is some of the best around. Outside work I run the finish funnel at our local parkrun, so I'm used to messy timing data in the rain. Would you have 20 minutes for a call in the next few weeks? Any Tuesday or Thursday afternoon works for me.",
    "lang": "en",
    "note": "Replying to an introduction: thank the connector once, move them to bcc, and keep the ask small and easy to schedule."
+  },
+  {
+   "id": "introduce-yourself-015",
+   "situation": "I've just been elected to the nine-person board of our local food co-op. The first meeting is Tuesday Oct 13 and the chair wants each new member to introduce themselves in about 30 seconds. I'm an accountant and joined the co-op two years ago.",
+   "reply": "Hi everyone, I'm Hannah Obi, one of the two new board members. By day I'm an accountant for small charities, so I'm happy to be the person who reads the financials closely. I joined the co-op two years ago for the bulk oats and stayed for the Saturday volunteer shifts. Before our next meeting, I'd love 20 minutes with whoever has been preparing the treasurer's reports, so I can learn where the numbers come from.",
+   "lang": "en",
+   "note": "On a board, the concrete thing is the skill you bring, and the invitation is the specific handover you need."
   }
  ]
 }

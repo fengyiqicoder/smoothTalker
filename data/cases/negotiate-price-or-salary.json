@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -99,6 +99,13 @@
    "reply": "Hi Dana, just checking in on the compensation question from last Thursday so I can give you a firm answer by Friday 2 October. I'm still very keen on the role and the team. Happy to jump on a quick call if that's easier than email.",
    "lang": "en",
    "note": "After silence, one short nudge that keeps the offer warm; don't lower your number to fill the gap."
+  },
+  {
+   "id": "negotiate-price-or-salary-015",
+   "situation": "Offer from Cedar Health for a senior data engineer role in Seattle: $148k base, which I'm happy with, starting Monday Nov 16. I live in Austin and they offer no relocation help; the move will cost me around $9,000. The recruiter is Priya.",
+   "reply": "Hi Priya,\nThank you for the offer, I'm really excited about joining the platform team, and the base works for me. The one thing I'd like to raise is the move from Austin: I'd like to ask for a $10,000 relocation allowance, so I can arrive on 16 November settled and ready to contribute from the first week. Is there flexibility there? If a relocation budget isn't possible, a signing bonus of the same amount would work just as well.\nBest,\nMarcus",
+   "lang": "en",
+   "note": "When base is fine, anchor on the one lever that isn't: a specific number slightly above the real cost, with a signing bonus as the fallback."
   }
  ]
 }

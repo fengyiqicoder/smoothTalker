@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -99,6 +99,13 @@
    "reply": "阿斌，两万我可以借你，开店是好事，我挺支持的。为了咱俩都省心，把还款说清楚：从明年3月开始每月还2,000，10个月还完，你看行不行？我顺手写了个简单的借条，写上金额和还款安排，签个字各留一份，不是不信你，是这样以后谁都不用记。店开起来我第一个去喝。",
    "lang": "zh",
    "note": "只借自己亏得起的钱；借条当成办事流程来提，语气放轻，重点放在还款安排上。"
+  },
+  {
+   "id": "money-between-friends-015",
+   "situation": "I organised a cabin weekend for six friends and asked everyone for $210 in the group chat. Everyone paid, and now I've realised I counted the $150 cleaning fee twice, so each person overpaid $25.",
+   "reply": "Cabin money update: I messed up the maths and counted the $150 cleaning fee twice, so everyone overpaid by $25. I'm sending each of you $25 back tonight through the same app you paid me on. Shout if it hasn't arrived by tomorrow. Sorry about that, and thanks for paying so fast!",
+   "lang": "en",
+   "note": "When the error is yours, the same rules apply in reverse: the exact number, how it's coming back, and when, with no drawn-out apology."
   }
  ]
 }

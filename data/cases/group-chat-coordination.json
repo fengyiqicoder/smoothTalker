@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -99,6 +99,13 @@
    "reply": "Wednesday football, new system so I stop chasing everyone: 👍 this message by 6pm Tuesday if you're playing. If we've got 8 or more by then, the pitch stays booked and it's £6 each for 10, £7.50 for 8. If we're under 8, I cancel before the free cutoff and we go again the week after. No need to reply if you're out. Starting with Wednesday 7 October.",
    "lang": "en",
    "note": "A threshold is still a default: say the number that keeps it on, what happens below it, and let silence mean out when a no-show costs money."
+  },
+  {
+   "id": "group-chat-coordination-015",
+   "situation": "小学校のPTAのLINEグループ（保護者22人）で、10月24日（土）のバザーの受付係を4人集めたい。「どなたかお願いします」と2回投稿したけど、誰も手を挙げない。",
+   "reply": "バザー受付のお願いです。10月24日（土）、受付を2枠×2人でお願いしたいです。\n①9:00〜11:00\n②11:00〜13:00\nできる方は①か②をこのメッセージに返信してください。10月7日（水）の夜までに埋まらなかった枠は、まだ係に入っていない方に私から個別にお声がけします。2時間だけで、名簿にチェックするだけの係です。",
+   "lang": "ja",
+   "note": "「どなたか」は誰も動かないので、枠と時間を小さく切り、締切と締切後の段取りを先に書く。"
   }
  ]
 }

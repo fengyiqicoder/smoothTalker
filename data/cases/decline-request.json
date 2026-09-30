@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "decline-request-001",
@@ -99,6 +99,13 @@
    "reply": "小周，孩子复查肯定得去，我明白。代打卡这个我不帮，考勤的事我一向不碰，对谁都一样。你直接在钉钉上提个两小时事假，跟王姐说明一下原因就行。上午群里有急事，我先帮你盯着，有情况给你打电话。",
    "lang": "zh",
    "note": "拒绝的是代打卡，不是这个人：一条对谁都一样的规矩，指一条正当的路，再给一个真能做到的小帮忙。"
+  },
+  {
+   "id": "decline-request-015",
+   "situation": "My friend Marco just opened a taco place and asked me and my partner to post 5-star online reviews this week. We haven't eaten there yet and I'm not comfortable reviewing somewhere I haven't been.",
+   "reply": "Congrats on the opening, Marco, I know how much went into it. I'm going to say no to posting a review before we've eaten there; I only review places I've actually been to. Sam and I are coming in on Friday night though, and I'll happily write an honest review after.",
+   "lang": "en",
+   "note": "Decline the dishonest part, not the friend; the Friday visit is the smaller yes, and only if you'll really go."
   }
  ]
 }

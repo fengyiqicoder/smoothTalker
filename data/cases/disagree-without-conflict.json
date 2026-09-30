@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -99,6 +99,13 @@
    "reply": "王阿姨，您是想让咱们这头更安全、更整齐，这个我特别理解，前阵子楼里丢快递我也挺闹心。我这边想法有点不一样：物业之前在群里说过楼道不让加门、也不让堆东西，真装了万一被要求拆，1500块就白花了。您最担心的是安全，还是东西放不下？要不这周末咱们一起去问问物业有什么办法。",
    "lang": "zh",
    "note": "跟老邻居唱反调：先接住她的出发点，理由只讲一个，而且说是物业的要求而不是自己的判断，再一起找替代办法。"
+  },
+  {
+   "id": "disagree-without-conflict-015",
+   "situation": "Final-round interview for a design lead role on Friday. Last round the design director, Paula, said they're cutting user research entirely to ship faster, and I'm sure she'll ask what I think. I disagree, but I want the job and don't want to sound preachy. Spoken.",
+   "reply": "I'm with you on speed; a six-week research phase before anyone ships can sink a product. Where I land a little differently is cutting research entirely: at my last job, two days of calls with five users caught a checkout problem that would have cost us a full sprint to undo. What's behind the decision, is it mostly time or budget? I may be missing context about how your team works.",
+   "lang": "en",
+   "note": "In an interview, a calm disagreement shows judgement: share the goal, give one real example, then ask so she can add context."
   }
  ]
 }

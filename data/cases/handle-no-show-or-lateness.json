@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -99,6 +99,13 @@
    "reply": "Hey Ravi, hope you're okay. You missed Monday's and yesterday's rehearsals without a message, and we still haven't seen the market analysis slides. We need them in the shared deck by Saturday 3 October at 6pm so we can run the full thing on Monday. If something's going on, tell me by tomorrow and we'll split it differently. If I haven't heard anything by Saturday, Mei and I will write that section ourselves so we're ready.",
    "lang": "en",
    "note": "Peer no-show: check they're okay, give a dated need, and say what you will do if you hear nothing, not what they must do."
+  },
+  {
+   "id": "handle-no-show-or-lateness-015",
+   "situation": "我在二手平台上卖一台婴儿车，买家约好今天下午3点来小区门口自提。我抱着孩子等到3点半，人没来，消息也没回。还有别人问过想要。",
+   "reply": "你好，今天约的下午3点在小区门口提婴儿车，我等到3点半没见到你，也没收到消息，希望没出什么事。如果还想要，明天（10月1日）上午10点我可以再在门口等一次，麻烦今晚9点前回复确认。到时没收到回复，我就卖给其他问过的买家了。",
+   "lang": "zh",
+   "note": "陌生买家爽约：事实加时间，一个具体的改约时间和回复截止点，后果说一次，不指责。"
   }
  ]
 }

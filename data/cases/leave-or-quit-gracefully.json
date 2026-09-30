@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -99,6 +99,13 @@
    "reply": "Fiona, I wanted to tell you directly: I've decided to leave, and I'm giving my notice today. My last day will be Friday 30 October. I'd rather keep where I'm going to myself for now; it's nothing to do with you, I just want the focus on leaving well. I've started a handover doc for my six accounts and I'd like to walk you through it this week. You taught me more about running a demo than anyone, and I'm grateful for that.",
    "lang": "en",
    "note": "Declining to say where is fine: say it once, kindly, never invent a cover story, and check your contract for notice or non-compete terms before the meeting."
+  },
+  {
+   "id": "leave-or-quit-gracefully-015",
+   "situation": "I manage a team of five designers. I told my director yesterday that I'm leaving, last day Friday Oct 30, and we agreed I'd tell the team myself at tomorrow's standup before any wider announcement. Some of them joined because of me.",
+   "reply": "Before we start, I want you to hear this from me first: I've decided to leave, and my last day is Friday 30 October. It's the right next step for me, and it has nothing to do with any of you; leading this team has been the best part of my job. Nothing changes for your projects this month, and I'll meet each of you one to one this week to plan your handover and talk about what you want next. Maria and I will share the interim plan by next Wednesday. Ask me anything today, here or privately.",
+   "lang": "en",
+   "note": "Tell your team before the wider announcement, give them the date and what happens to them, and offer one to ones so the questions have somewhere to go."
   }
  ]
 }

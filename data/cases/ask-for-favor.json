@@ -19,9 +19,9 @@
   {
    "id": "ask-for-favor-003",
    "situation": "Preciso pedir pro meu amigo Rafa, que tem carro grande, pra me ajudar a levar um sofá de Pinheiros até a Mooca no sábado.",
-   "reply": "Rafa, pedido sincero: você toparia me ajudar a levar um sofá de Pinheiros até a Mooca no sábado de manhã? Umas duas horas contando o trânsito, e precisa da sua Spin porque o sofá não cabe em carro normal. Se não der, de boa, eu chamo um frete. O almoço é por minha conta de qualquer jeito.",
+   "reply": "Rafa, pedido sincero: você toparia me ajudar a levar um sofá de Pinheiros até a Mooca no sábado de manhã? Umas duas horas contando o trânsito, e precisa do seu carro porque o sofá não cabe em carro pequeno. Se não der, de boa, eu chamo um frete. O almoço é por minha conta de qualquer jeito.",
    "lang": "pt",
-   "note": "The cost (two hours, his car) is stated up front so he isn't agreeing to something bigger than he thought."
+   "note": "O custo, duas horas e o carro dele, vem logo de cara, para ele não topar algo maior do que imaginava."
   },
   {
    "id": "ask-for-favor-004",

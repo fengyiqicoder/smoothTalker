@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -99,6 +99,13 @@
    "reply": "Hi Hal, just checking in now it's been a few weeks since we sat down about the driveway. From the outside the schedule seems to be working, and I'm really glad. If anything needs tweaking, a quick word with Rosa directly is probably the best route, and I'm happy to put the kettle on for both of you again if you'd like that. Otherwise I'll leave you to it.",
    "lang": "en",
    "note": "One check-in, the same words to each of them, then genuinely step back; don't audit how the deal is going."
+  },
+  {
+   "id": "mediating-between-two-people-015",
+   "situation": "At dinner on Saturday my best friend Sophie joked that my husband Tom 'finally found a job that sticks', and he's been fuming since. Sophie just texted asking if Tom is mad at her and whether I can smooth it over for her.",
+   "reply": "Hey Soph, thanks for asking, and I'd rather Tom tell you how he took it than me guessing on his behalf. I love you both, so I'm staying out of the middle on this one. If you want to clear the air, a quick text to him directly will mean more than anything passed through me, and I'm happy to help you word it. Still on for our walk Thursday?",
+   "lang": "en",
+   "note": "When one side is your partner, neutrality matters more: don't report his feelings, point her to him, and keep your friendship with her separate."
   }
  ]
 }

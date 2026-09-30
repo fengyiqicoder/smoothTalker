@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -99,6 +99,13 @@
    "reply": "Hi Karen, I know quarter-end is busy. A quick one on the senior analyst promotion we talked about in my review on 3 September: is there an update, or a rough date when you expect to hear? Even 'still in progress' is useful. If it would help, I can put together a one-page summary of my Q3 pricing work by Friday.",
    "lang": "en",
    "note": "With your own manager, ask about timing rather than commitment, and offer something that makes her case easier to push through."
+  },
+  {
+   "id": "follow-up-unanswered-015",
+   "situation": "The heating in my flat stopped working on Sept 21. I texted my landlord, Mr. Doyle, that day and he said he'd send someone 'this week'. Nobody came, I nudged on Sept 26 and got no reply. Nights are dropping to about 4°C.",
+   "reply": "Hi Mr. Doyle, I know you've got a lot on. Following up on the heating at 12 Carlow Road, which has been off since 21 September; nights are getting close to freezing now. Could you let me know which day your engineer can come? I'm home all day Friday and Monday, or I can leave a key with the neighbour at number 14.",
+   "lang": "en",
+   "note": "Second bump: the date it started, a one-word reply (a day), and access made easy. Keep the texts; if this gets nothing, check your lease and local tenant advice on repairs."
   }
  ]
 }

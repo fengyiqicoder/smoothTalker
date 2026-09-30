@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -99,6 +99,13 @@
    "reply": "Hi Margaret, Ancestry lists us as likely second cousins, and I think I can see why: your tree has Bridget Doyle, born 1911 in Kilkenny, and my great-grandmother was Nora Doyle, born there in 1908. Do you know if Bridget ever mentioned a sister who went to Boston? No pressure at all if you'd rather not dig into it.",
    "lang": "en",
    "note": "A DNA match is still a stranger: one specific link from her tree, one easy question, and room not to reply."
+  },
+  {
+   "id": "first-message-to-stranger-015",
+   "situation": "We bought a 1920s house in Asheville this summer. Clearing the attic we found a box of old letters and photos addressed to the Whitfield family. A neighbour says the daughter, Carol Whitfield, now lives in Ohio and gave me her email.",
+   "reply": "Hi Carol, my husband and I bought 212 Elm Street in Asheville this summer, and I believe it was your family's home. Clearing the attic, we found a small box of letters and photos addressed to the Whitfields, including one of a girl on the porch swing dated 1961. Would you like them? I'd be glad to post them to you, no cost and no rush.",
+   "lang": "en",
+   "note": "Lead with the one detail that proves the connection, then a yes-or-no question that asks nothing of her."
   }
  ]
 }

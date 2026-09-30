@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -99,6 +99,13 @@
    "reply": "Hi Craig, we're your neighbours either side and across: Sam and Lou at number 7, Daniel and Hana Abebe at 11, and Ruth Clarke at 13. You may not know how far it carries, but when the bike warms up outside at about 5:30 on weekday mornings, the revving wakes all three of our households, including the Abebes' baby. Could you roll it to the end of the road before starting it, or keep the warm-up to a minute or two? Thanks, and knock on any of our doors if something from our side ever bothers you.\nSam and Lou (7), Daniel and Hana (11), Ruth (13)",
    "lang": "en",
    "note": "A joint note names only the households who agreed to sign. That adds weight without turning it into a campaign."
+  },
+  {
+   "id": "neighbour-disputes-015",
+   "situation": "Linda at no. 6 posted in our 60-person street group chat that 'someone at number 4' has left their bins out all week and it's attracting rats. It's us: we've been away since last Tuesday looking after my mum in hospital. I want to reply to her, not in the group.",
+   "reply": "Hi Linda, it's Tom from number 4. I saw your post about the bins, and you're right, they've been out since last Tuesday. We've been away looking after my mum in hospital and they slipped our minds. My brother-in-law has brought them in today and will handle collection days until we're back. Next time, please just message me or knock directly; I'd much rather hear it from you first.",
+   "lang": "en",
+   "note": "When you're the one being called out in public: fix it, reply privately, and make the ask to come to you directly one calm line, not a telling-off."
   }
  ]
 }

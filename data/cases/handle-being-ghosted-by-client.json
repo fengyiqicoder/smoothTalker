@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -99,6 +99,13 @@
    "reply": "Coco你好，知道开学季馆里肯定特别忙。10月的内容排期我已经做好了，想跟你确认接下来怎么安排：1是你不用逐条审，我按排期直接发，有问题随时叫停；2是先暂停，等你忙完再接上。回我“1”或“2”就行。10月9号周五前没收到回复的话，我先暂停发布，等你消息。",
    "lang": "zh",
    "note": "包月客户长期沉默：把回复缩成一个数字，并说清楚没回复时你会怎么做；暂停期间费用怎么算，以合同为准，另外单独说。"
+  },
+  {
+   "id": "handle-being-ghosted-by-client-015",
+   "situation": "Soy consultora de marketing. Andrés, dueño de tres panaderías, agendó una videollamada conmigo para el lunes 28 a las 10 y no se conectó. Le escribí ese mismo día y no ha contestado.",
+   "reply": "Hola, Andrés: imagino que el lunes se complicó el día, con tres panaderías es lo más normal. Si todavía te interesa hablar del marketing de las tiendas, te propongo dos opciones de 20 minutos: jueves 8 de octubre a las 10 o viernes 9 a las 16. Contéstame solo «jueves» o «viernes». Y si ahora no es buen momento, un «ahora no» también me sirve y lo dejo aquí.",
+   "lang": "es",
+   "note": "Un plantón no es un rechazo: sin reproches, dos horarios concretos y una salida fácil. Si no responde, un mensaje de cierre en dos semanas."
   }
  ]
 }

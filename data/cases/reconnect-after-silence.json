@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -99,6 +99,13 @@
    "reply": "Dear Claire and Philippe, it's been far too long, probably ten years since my last Christmas card. I was clearing out my parents' attic this weekend and found the album from my year with you, including the photo of Julien and me covered in flour after the galette disaster. I still think of you every time I make a proper vinaigrette. How are you all, and what is Julien up to these days? No rush at all to reply, I just wanted to say hello.\nWith love,\nEmma",
    "lang": "en",
    "note": "A host family or anyone who once looked after you: name the gap once, one vivid shared memory, one easy question, no apology spiral."
+  },
+  {
+   "id": "reconnect-after-silence-015",
+   "situation": "My friend Jas and I were inseparable in our twenties. Then I had twins three years ago and cancelled on her so often that she stopped asking; we haven't talked in over a year. The twins start preschool next week and I finally have free mornings.",
+   "reply": "Jas, it's been over a year, and I know I was the one who kept cancelling, so that's on me. I walked past the Thai place on Mill Street yesterday and remembered us closing it down on your 30th. The twins start preschool next week, which means actual free mornings for the first time in three years. Could I buy you breakfast one day the week after? No pressure, and no rush to reply.",
+   "lang": "en",
+   "note": "When your life stage caused the drift, one line of ownership, then a plan small enough that you'll actually keep it this time."
   }
  ]
 }

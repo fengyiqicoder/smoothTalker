@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -99,6 +99,13 @@
    "reply": "吴老师您好，我是五年级（3）班林朵朵的妈妈。想私下跟您了解一下，这次杭州研学的1680元，学校有没有分期交或者困难补助的办法？我家最近情况有些变化，一次交齐有点困难，但很希望朵朵能去。这件事麻烦您先不要跟孩子提。您方便的时候回我一下就好，谢谢您！",
    "lang": "zh",
    "note": "费用的事私下问，只问学校有没有办法，不必解释家里的细节，更不要在群里问。"
+  },
+  {
+   "id": "messages-to-teachers-and-schools-015",
+   "situation": "Ma fille Inès (CM1) m'a raconté que sa maîtresse, Mme Lefèvre, a dit devant toute la classe que son exposé était « nul ». Depuis, Inès ne veut plus aller à l'école le matin. Je veux en parler sans attaquer l'enseignante.",
+   "reply": "Bonjour Madame Lefèvre, je suis la maman d'Inès Moreau (CM1). Inès est rentrée très touchée après son exposé sur les volcans : elle m'a dit que vous l'aviez trouvé « nul » devant la classe, et depuis elle a du mal à partir à l'école le matin. Je sais que je n'ai que sa version, alors j'aimerais savoir comment vous avez vécu ce moment. Pourriez-vous m'accorder un quart d'heure cette semaine ? Je suis disponible tous les jours après 16 h 30. Merci beaucoup, Claire Moreau",
+   "lang": "fr",
+   "note": "Quand le souci vient de l'enseignante : les faits tels que l'enfant les raconte, la question plutôt que le verdict, et pas la direction en copie."
   }
  ]
 }

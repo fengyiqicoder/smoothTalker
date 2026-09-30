@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -99,6 +99,13 @@
    "reply": "Rob, can I give you some feedback on something from standup? On Monday and again today, you repeated Deepa's update in an accent, and people laughed. I don't think you mean anything by it, but she's barely said a word in the last two retros, and I wonder if this is part of why. What's your read? I'd like the accent to stop; if something needs repeating, just repeat the point in your own voice.",
    "lang": "en",
    "note": "Behaviour and impact, not a verdict on his character. If it carries on after this, take it to your manager or HR rather than having the same quiet chat again."
+  },
+  {
+   "id": "give-feedback-to-colleague-015",
+   "situation": "我28岁，刚当上销售组长。组员老刘45岁，干了十几年，客户关系特别好，但一直不用公司的客户系统，跟进记录都记在自己本子上。上周他请假三天，华信的客户来催报价，组里没人知道进度，客户投诉到了陈总那儿。明天想找他单独聊。",
+   "reply": "刘哥，有件事想跟您聊聊，方便吗？上周您请假那三天，华信来催报价，组里翻遍系统也找不到跟进记录，最后客户投诉到了陈总那儿。您的客户关系是组里最稳的，正因为这样，信息只记在本子上，您一不在就接不上。您平时不用系统，是觉得哪儿不顺手？以后每次跟进完，当天在系统里记三行就行：找了谁、说了什么、下一步。需要的话我陪您先把常联系的几个客户录进去，两周后我们再看看效果。",
+   "lang": "zh",
+   "note": "年轻组长对资深组员：称呼尊重但不绕弯子，一件具体的事和后果，先问他的原因，要求小到当天就能做到。"
   }
  ]
 }

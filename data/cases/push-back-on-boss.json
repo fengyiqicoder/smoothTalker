@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -99,6 +99,13 @@
    "reply": "Hi Kevin, I want the new setup to work, and I can see why you want more of us in the room. My offer letter set my pattern at three office days and two at home, and with a 70-minute commute each way that arrangement is a big part of why I can do this role well. Two options: I keep my current pattern and make sure I'm in on the days the team most needs me, or we trial four days through November and review it together in December. My preference is the first. Could we talk it through at our 1:1 on Thursday?",
    "lang": "en",
    "note": "State the written arrangement as a fact, not a threat, and check with HR how the offer letter terms apply before assuming they are fixed."
+  },
+  {
+   "id": "push-back-on-boss-015",
+   "situation": "I'm an account executive. Halfway through Q4, my sales director Mark raised my quarterly target from $400k to $520k because another rep left, but didn't move any of her accounts to me. My pipeline realistically supports about $430k.",
+   "reply": "Hi Mark, I want to help cover the gap from Jess leaving and hit a strong Q4. Right now my qualified pipeline supports about $430k, and the new $520k target assumes deals I don't have. Three options: move four or five of Jess's open accounts to me, which could plausibly get us near $520k; keep my target at $430k and I take on her renewals; or split the difference at $470k with two of her larger accounts. My recommendation is the first. Which would you like to go with?",
+   "lang": "en",
+   "note": "On a target, bring the pipeline number and tie the higher figure to the accounts that would make it real."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -99,6 +99,13 @@
    "reply": "As promised on 17 September, here's the update. When our van broke down that day, about 40 of your dogs got home up to three hours late, and many of you were left waiting with no word from us. What's changed: a second van is now on standby every day, and if a drop-off is running more than 20 minutes late you'll get a text straight away with a new time. All 40 families have been refunded for that day. If anything still isn't right, email me at jade@muddypawsdaycare.co.uk and I'll reply personally. Jade, owner",
    "lang": "en",
    "note": "The follow-up post is the promise kept: short recap, what changed, what's done. No second round of apologies."
+  },
+  {
+   "id": "public-apology-from-a-business-015",
+   "situation": "我们是一家奶茶店，发朋友圈和小红书说9月29日全天第二杯半价，结果下午2点原料就用完了，很多人白跑一趟，评论里有人说我们骗流量。我是店主阿杰。",
+   "reply": "9月29日我们说好全天第二杯半价，结果下午2点原料就用完了，之后来的朋友都白跑了一趟。对不起，是我们备货估少了，说了全天就该做到全天。当天没买上的朋友，10月8日前到店说一声，第二杯半价照样给您补上，不需要任何凭证。以后做活动，我们会写清限量多少杯，卖完第一时间在门口和线上同步。有问题直接私信店铺，我本人回复。店主 阿杰",
+   "lang": "zh",
+   "note": "活动没兑现也是公开道歉：先说承诺了什么、哪里没做到，一句道歉，补偿不设门槛，改进只写一条做得到的。"
   }
  ]
 }
