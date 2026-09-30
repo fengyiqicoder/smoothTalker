@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -148,6 +148,13 @@
    "reply": "Hola Carmen, ¡qué alegría volver a verte, y gracias por reservar el taller de arroces! Te confirmo: sábado 17 de octubre a las 11, y los 55 € ya están pagados. Una novedad desde tu última visita: ahora estamos en un local nuevo, en la calle Feria 42, así que no vayas al de antes. En el formulario no marcaste ninguna alergia; si tienes alguna, dímelo antes del jueves 15 para preparar tus ingredientes, y si no, con un «ninguna» me basta. Para cualquier duda, escríbeme aquí; suelo contestar el mismo día. Marta",
    "lang": "es",
    "note": "Con un cliente que vuelve, lo que ha cambiado desde su última visita va primero, sobre todo si puede llevarle al sitio equivocado."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-022",
+   "situation": "I'm Hana and I run a small yoga studio. Farah just booked her first class, Gentle Flow on Monday 5 October at 6:30pm, and her booking note says she uses a wheelchair and asks whether the class will work for her. The side entrance on Mill Lane is step-free with an accessible toilet just inside, I can offer a chair-based version of every pose, I'd like to know anything about her mobility by Friday 2 October so I can plan, and I reply to emails within a day.",
+   "reply": "Hi Farah, thank you for booking Gentle Flow, I'm really glad you're joining us. Your class is Monday 5 October at 6:30pm: please use the side entrance on Mill Lane, which is step-free, and the accessible toilet is just inside. I can offer a chair-based version of every pose, so you can do the whole class with us. So I can plan it properly, could you tell me by Friday 2 October anything you'd like me to know about your mobility, such as what feels good and what to avoid? Reply here any time and I'll get back to you within a day. Looking forward to meeting you, Hana",
+   "lang": "en",
+   "note": "Answer her question in the second line, and ask about her needs once, as planning rather than screening."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -148,6 +148,13 @@
    "reply": "王总，您说的这几个方向我都记下了，明天上午我整理成一页发给您。时间不早了，我先休息，您也早点休息。",
    "lang": "zh",
    "note": "用一个具体的下一步代替“好的好的”，结束得有交代，最后一句不带问题。"
+  },
+  {
+   "id": "end-conversation-gracefully-022",
+   "situation": "I'm waiting for the last train home at 11pm and a man I don't know has been chatting to me on the platform for ten minutes. He just asked which stop I get off at and whether I live alone, and I feel uneasy. How do I end this?",
+   "reply": "I'm going to stop chatting now. Have a good night.",
+   "lang": "en",
+   "note": "No reason and no question; then move towards staff or other people, and if he follows you or you feel in danger, call emergency services."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -148,6 +148,13 @@
    "reply": "刘女士您好，谢谢您发来的offer，我很期待加入团队，薪资部分我没有问题。有一点想跟您坦率沟通：这次定级是P6，结合我之前独立带4人数据团队、负责全公司指标平台的经历，我原本预期的是P7。这些经验入职后就能直接用在贵司的数据产品上。定级上有没有调整的空间？如果这次确实调不了，能不能在offer里写明入职六个月后按P7标准复评？",
    "lang": "zh",
    "note": "定级和薪资一样可以谈：一个明确的级别，一条最强的理由，再给一个复评的退路，谈成后写进offer。"
+  },
+  {
+   "id": "negotiate-price-or-salary-022",
+   "situation": "Rafael, CEO of a 30-person startup called Loomwise, offered me the founding designer role on a call yesterday: $135k base, which I'm happy with, plus 0.1% equity. They have no designer yet, so I'd build the design function from scratch. Founding design roles I've seen at this stage offer 0.25% to 0.5%, and I'd accept 0.3%.",
+   "reply": "Hi Rafael, thanks for the call yesterday. I'm really excited about joining Loomwise as founding designer, and the $135k base works for me. The one piece I'd like to discuss is equity: the offer is 0.1%, and founding design roles I've seen at this stage sit between 0.25% and 0.5%. Since I'd be building the design function from scratch, I'm asking for 0.35%. Is there flexibility there?",
+   "lang": "en",
+   "note": "Base settled, so the whole ask is one number on equity; if they push back, vesting or a one-year refresh are the next levers."
   }
  ]
 }

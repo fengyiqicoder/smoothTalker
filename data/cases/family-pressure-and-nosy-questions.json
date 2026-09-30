@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -148,6 +148,13 @@
    "reply": "妈，我知道您是替我操心。这周六的相亲我不去了，麻烦您跟阿姨说一声抱歉，以后这类安排也先别帮我约了。周六下午我回家陪您吃饭，顺便看看您比赛的舞排得怎么样了？",
    "lang": "zh",
    "note": "不解释为什么不想相亲，解释会变成新一轮劝说；她再提，就用几乎一样的话再说一遍。"
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-022",
+   "situation": "我今年高三，每次家里聚会舅舅都当着一桌人问我模拟考多少分、想考哪个大学，还说“考不上985就白读了”。这周六外婆过八十大寿，一大家子吃饭。舅舅最近迷上了钓鱼。",
+   "reply": "哈哈，舅舅又来查成绩啦。等有结果了，第一个告诉您。对了舅舅，听说您最近迷上钓鱼了，钓到过大的没？",
+   "lang": "zh",
+   "note": "A teenager can deflect too: no scores, no targets, straight to the fishing."
   }
  ]
 }

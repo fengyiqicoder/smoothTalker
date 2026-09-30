@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -148,6 +148,13 @@
    "reply": "Dear Ms Grant, I'm Priya's mum, from your Year 11 English class. Priya showed me your note that her Macbeth essay appears AI-generated. She tells me she wrote it herself over three evenings in Google Docs, and the version history shows each draft. Before the mark is decided, could she walk you through that history, or talk you through her argument in person? I understand why teachers need to check, and we're happy to do whatever helps. I'm free after 4pm any day this week if a call would be useful.",
    "lang": "en",
    "note": "Offer the evidence and a way to verify it; do not argue about AI detectors in the first message."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-022",
+   "situation": "My daughter Lily (Year 2, Mrs Evans' class) has come home starving most days for two weeks, and her lunchbox comes back mostly full. She says they get about 15 minutes to eat before being sent out to play and the boxes are collected. We've already started packing smaller, easier food.",
+   "reply": "Dear Mrs Evans, I'm Lily's mum, from your Year 2 class. For about two weeks Lily has been coming home very hungry, and her lunchbox comes back mostly full on most days. She tells me they get about 15 minutes to eat before going out to play, and we've started packing smaller, easier food at home. Could you let me know how lunchtime usually works, and whether you've noticed anything? Thank you, and I'm happy to chat at pick-up any day this week.",
+   "lang": "en",
+   "note": "Ask how lunchtime works before assuming the 15 minutes is policy; the lunch staff, not the teacher, may be the ones to fix it."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -148,6 +148,13 @@
    "reply": "Heads up, team: from Wednesday 7 October, I'm keeping Wednesday and Friday mornings, until 12, free of meetings so I can get deep design work done. The two Wednesday 10am design reviews move to 2pm the same day, and I'll update the invites today. If you need me during those mornings, message me on Slack and I'll reply at noon; if something is truly urgent, call me. If this clashes with anything I've missed, tell me and we'll sort it.",
    "lang": "en",
    "note": "Protecting time before the clashes happen: announce it once, move what it displaces yourself, and say how people can still reach you."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-022",
+   "situation": "今天周三晚上9点半，部门经理张姐在工作群里说“10点拉个语音会，对一下明天给客户的报价”。我负责报价表里物流成本那部分，已经核对过一遍，现在在哄孩子睡觉，10点上不了。",
+   "reply": "张姐，10点的语音我就不上了，这会儿在哄孩子睡觉。物流成本那部分我已经核对过一遍，明早8点半前把最终版和计算依据发到群里，您9点前就能看到。如果今晚一定要定，您把需要确认的数字发我，我10点半前文字回复。您看这样可以吗？",
+   "lang": "zh",
+   "note": "先给交付时间，再问一次是不是真的等不到明天；不去争下班后该不该开会。"
   }
  ]
 }

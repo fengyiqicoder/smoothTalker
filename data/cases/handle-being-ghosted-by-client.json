@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -148,6 +148,13 @@
    "reply": "鈴木様\nいつもお世話になっております。8月20日にお送りしたホームページ制作のお見積もりの件、今はタイミングではないのだと受け止め、こちらではいったん区切りとさせていただきます。ご検討いただき、ありがとうございました。またホームページのお話が出てきた際は、このメールにご返信いただければすぐに対応いたします。松風堂様のますますのご繁盛をお祈りしております。\n山田 彩",
    "lang": "ja",
    "note": "はっきり断りにくい相手には、こちらから区切る一通が一番親切。返事がなくても、それ以上は追わない。"
+  },
+  {
+   "id": "handle-being-ghosted-by-client-022",
+   "situation": "I'm a piano teacher. Mrs. Adeyemi's son Tobi had weekly lessons with me until the summer break; I sent her autumn term slots on Sept 2 and followed up on Sept 16, no reply. Term has started, I have a family on my waiting list, and I need to know by Wednesday Oct 7 whether to release Tobi's Thursday 4:30pm slot.",
+   "reply": "Hi Mrs. Adeyemi, I hope Tobi's had a good start to the school year. I've been holding his Thursday 4:30pm slot for the autumn term, and I'd like to offer it to a family on my waiting list if he isn't continuing. Could you let me know by Wednesday 7 October whether he's carrying on? A quick yes or no is all I need, and a pause is completely fine too.",
+   "lang": "en",
+   "note": "A private client who drifts off over the summer: a real reason, a date, and an easy no."
   }
  ]
 }

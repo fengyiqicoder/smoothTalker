@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -148,6 +148,13 @@
    "reply": "Mark, I wanted to tell you directly: I've decided to leave, and I'm giving my four weeks' notice today, so my last day will be Friday 30 October. I've accepted another role, and it's time for a change. I'll write up handover notes for my three client accounts by the end of next week so nothing drops. Thank you for the last 18 months.",
    "lang": "en",
    "note": "Leaving because of problems: no reason owed. If he presses, repeat 'it's time for a change'; keep any honest feedback for an exit interview, factual."
+  },
+  {
+   "id": "leave-or-quit-gracefully-022",
+   "situation": "For two years I've walked my elderly neighbour Mr. Patel's dog, Bruno, every weekday lunchtime, just as a favour. I start an office job on Monday 2 November, so my last walk will be Friday 30 October. Aisha, the 15-year-old next door, has said she'd happily take it on for pocket money, and I'm telling Mr. Patel in person tomorrow.",
+   "reply": "Mr. Patel, I wanted to tell you myself: I'm starting an office job on Monday 2 November, so Friday 30 October will be my last lunchtime walk with Bruno. I've loved these two years with him. Aisha from next door has said she'd be happy to take over for a bit of pocket money; if you'd like, I'll bring her along on a few walks this month so Bruno gets to know her. And I'm just across the road, so I'll still pop in to say hello to him.",
+   "lang": "en",
+   "note": "An unpaid favour still deserves a date and a handover; here the handover is the introduction."
   }
  ]
 }

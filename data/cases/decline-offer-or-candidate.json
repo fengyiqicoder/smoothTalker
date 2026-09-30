@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -148,6 +148,13 @@
    "reply": "Hi Priyanka, it's Daniel from Westbrook School, thanks for picking up. I wanted to tell you myself rather than by email: we've offered the head of science role to the other finalist. It came down to them having already led a science department, which is a big part of this job from day one. Your electrolysis lesson was the best demo lesson we saw. I'll follow up with a short email today, and if you have any questions now, I'm happy to answer them.",
    "lang": "en",
    "note": "On the phone, the decision goes in the first breath after hello; the positive and the questions come after, never before."
+  },
+  {
+   "id": "decline-offer-or-candidate-022",
+   "situation": "I run a small agency. Marta has freelanced for us as a copywriter for two years and applied for our new in-house content lead role; we've hired someone who has already managed a team, which the role needs from day one and she hasn't done. I'm telling her on a call tomorrow and then need the follow-up email. I want to keep sending her freelance work, starting with the Halden brochure next month.",
+   "reply": "Hi Marta, thank you for putting yourself forward for the content lead role, and for the care you put into the application. As I said on the call, we've offered it to someone who has already managed a team, which the role needs from day one. That's no comment on your writing, which is exactly why clients keep asking for you. I'd really like to keep working together, starting with the Halden brochure next month, if you're up for it.",
+   "lang": "en",
+   "note": "When the working relationship continues, say so concretely, and only because it is true."
   }
  ]
 }

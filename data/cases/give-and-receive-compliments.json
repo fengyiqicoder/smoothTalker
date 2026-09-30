@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -147,6 +147,13 @@
    "reply": "Thanks, Greg, glad the session was useful! I'd hope the English holds up, I grew up in Ohio. I'll send the rollout timeline on Friday.",
    "lang": "en",
    "note": "Accept the part that's a compliment, correct the assumption in one light clause, and move to the work."
+  },
+  {
+   "id": "give-and-receive-compliments-022",
+   "situation": "婆婆从老家过来帮我坐月子，住了一个月，每天变着花样给我做饭，半夜还起来抱孩子让我睡个整觉。她明天坐高铁回老家。我们平时不算特别亲近，想在微信上好好谢谢她。",
+   "reply": "妈，这一个月辛苦您了。您每天变着花样给我做饭，半夜还起来抱孩子让我能睡个整觉，我恢复得这么快，真的多亏了您。明天路上慢点，到家了跟我们说一声。",
+   "lang": "zh",
+   "note": "不亲近的长辈更要说具体的事，一句“辛苦了”加两件实事，比长篇感谢更自然。"
   }
  ]
 }

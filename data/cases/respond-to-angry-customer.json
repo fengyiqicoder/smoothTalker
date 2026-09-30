@@ -4,7 +4,7 @@
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
-   "situation": "We're a small airport shuttle company. A customer, Ms Alvarez, booked a 5am pickup Saturday, the driver never showed, she missed her flight to Denver and paid $340 to rebook. She's emailed furious. It was our scheduling error.",
+   "situation": "We're a small airport shuttle company. A customer, Ms Alvarez, booked a $65 5am pickup Saturday, the driver never showed, she missed her flight to Denver and paid $340 to rebook. She's emailed furious. It was our scheduling error.",
    "reply": "Hi Ms Alvarez,\nYou booked our 5am pickup on Saturday, no driver arrived, and you missed your flight to Denver and had to pay $340 to rebook. That's on us, and I'm sorry. I've refunded your $65 fare today, and I'll reimburse the $340 within two working days of you replying with the rebooking receipt. I'm Kevin, the owner; reply to me directly or call 555-0142.\nKevin",
    "lang": "en",
    "note": "Her whole cost is covered, not just the fare, and the internal cause stays out of it."
@@ -12,7 +12,7 @@
   {
    "id": "respond-to-angry-customer-002",
    "situation": "ネットで服を売っています。セール品のワンピースを買ったお客様が「返品できないなんて詐欺だ」と怒っています。返品不可は商品ページにも注文確認メールにも書いてあります。",
-   "reply": "楽しみにしていただいたワンピースが合わず、残念な思いをさせてしまいました。確認したところ、こちらはセール品で、商品ページと9月18日の注文確認メールに「返品不可」と記載しておりました。返金はできかねますが、サイズ交換でしたら送料は当店負担で承ります。ご希望のサイズを返信でお知らせいただけますか。",
+   "reply": "楽しみにしていただいたワンピースが合わず、残念な思いをさせてしまいました。確認したところ、こちらはセール品で、商品ページと注文確認メールに「返品不可」と記載しておりました。返金はできかねますが、サイズ交換でしたら送料は当店負担で承ります。ご希望のサイズを返信でお知らせいただけますか。",
    "lang": "ja",
    "note": "事実の誤りは、気持ちを受け止めてから証拠で静かに正す。できないことより、できることを具体的に。"
   },
@@ -39,17 +39,17 @@
   },
   {
    "id": "respond-to-angry-customer-006",
-   "situation": "I'm head of support at a payroll software company. A bug in Monday's release meant 40 of a client's staff got paid a day late. Their HR director, Fiona Walsh, emailed our CEO in all caps saying her people couldn't pay rent. It's our fault.",
-   "reply": "Hi Fiona,\nOn Monday 40 of your people were paid a day late because of us, and some of them had to explain that to a landlord. That's ours: a bug in Monday's release stopped the payment file reaching the bank. It's fixed, and every payment landed this morning. We'll cover any late fees or overdraft charges your staff were hit with; they can send receipts straight to me and I'll reimburse within five working days. We're also waiving your October subscription. You'll have the full incident report from me by Friday. My direct line is 0161 496 0142.\nRuth Adeyemi, Head of Support",
+   "situation": "I'm head of support at a payroll software company. A bug in Monday's release meant 40 of a client's staff got paid a day late. Their HR director, Fiona Walsh, emailed our CEO in all caps saying her people couldn't pay rent. It's our fault. It's fixed and every payment landed this morning, and our CEO has approved covering staff late fees and waiving their October subscription.",
+   "reply": "Hi Fiona,\nOn Monday 40 of your people were paid a day late because of us, and some of them had to explain that to a landlord. That's ours: a bug in our Monday release caused it. It's fixed, and every payment landed this morning. We'll cover any late fees or overdraft charges your staff were hit with; they can send receipts straight to me and I'll reimburse within five working days. We're also waiving your October subscription. You'll have the full incident report from me by Friday. My direct line is 0161 496 0142.\nRuth Adeyemi, Head of Support",
    "lang": "en",
    "note": "B2B: the real impact is on her employees, so the make-good goes to them first, then to the account. Answer from a named person, not the CEO's inbox."
   },
   {
    "id": "respond-to-angry-customer-007",
-   "situation": "我在淘宝开店卖茶叶。一位顾客收到货后发消息骂人，说快递盒被压扁了，两罐茶叶罐都凹了，要给差评。物流记录显示是中转时压坏的，不是我们打包的问题，但她确实是吃亏的那个。",
-   "reply": "您好，盒子压扁了，两罐茶叶罐都凹了，好好的东西收到时变成这样，确实让人窝火。物流记录显示是在中转站压坏的，跟快递公司索赔的事我来办，不用您操心。两罐新的我今天就用加厚箱给您重新发，发出后把单号发您；原来那两罐如果茶叶本身没受潮，您留着喝就好。我是店主阿秀，后面有任何问题直接在这里找我。",
+   "situation": "我在网上开店卖茶叶。一位顾客发消息骂人，说在我们店买的金骏眉是假货，要给差评。她发来的订单截图是另一家名字很像的店，我们后台没有这笔订单；东西不是我们卖的，但她确实花了冤枉钱，我愿意免费寄她一小罐我们的金骏眉。",
+   "reply": "您好，花了钱买到的茶和期待的不一样，换谁都窝火。我对照了您发来的订单截图，下单的是另一家名字和我们很像的店，我们后台没有这笔订单。您可以带着这张截图向平台申请售后，需要的话我帮您一起整理。另外我今天免费给您寄一小罐我们家的金骏眉，您尝尝看。方便把收货地址发我吗？我是店主阿秀，后面有任何问题直接找我。",
    "lang": "zh",
-   "note": "不是你的错也先接住她的损失，再平静说一次事实，然后把能做的做到位；差评的威胁不用回应。"
+   "note": "不是你的错也先接住她的损失，再平静说一次事实，然后做你能做的；差评的威胁不用回应。"
   },
   {
    "id": "respond-to-angry-customer-008",
@@ -60,7 +60,7 @@
   },
   {
    "id": "respond-to-angry-customer-009",
-   "situation": "Last Tuesday a customer, Mr Haddad, was furious that his meal-prep box from us had the wrong allergen labels. I apologised, refunded the week, and promised I'd personally check his next box. It was delivered yesterday. I want to follow up.",
+   "situation": "Last Tuesday a customer, Mr Haddad, was furious that his meal-prep box from us had the wrong allergen labels. I apologised, refunded the week, and promised I'd personally check his next box. It was delivered yesterday, and I checked every label on it myself before it went out. I want to follow up.",
    "reply": "Hi Mr Haddad, Dana here from Greenfork. Just checking yesterday's box arrived and everything was right this time; I packed it and checked every label myself. If anything's off, reply to me directly or call 0161 496 0188 and I'll sort it the same day.",
    "lang": "en",
    "note": "Follow up when you said you would, keep it short, and don't reopen the apology; the direct line is the point."
@@ -95,7 +95,7 @@
   },
   {
    "id": "respond-to-angry-customer-014",
-   "situation": "Je gère des paniers de légumes bio à Nantes. Le panier passe de 18 € à 21 € au 1er octobre, annoncé par e-mail le 1er septembre. M. Leroy, abonné depuis quatre ans, m'écrit furieux qu'on l'a « mis devant le fait accompli » et qu'il n'a jamais été prévenu.",
+   "situation": "Je gère des paniers de légumes bio à Nantes. Le panier passe de 18 € à 21 € au 1er octobre, annoncé par e-mail le 1er septembre ; il existe aussi un petit panier à 15 €. M. Leroy, abonné depuis quatre ans, m'écrit furieux qu'on l'a « mis devant le fait accompli » et qu'il n'a jamais été prévenu.",
    "reply": "Bonjour Monsieur Leroy,\nDécouvrir une hausse de 3 € par panier au moment où elle s'applique, après quatre ans avec nous, ce n'est pas agréable. J'ai vérifié : l'annonce est partie le 1er septembre à votre adresse habituelle, je vous la renvoie ci-dessous, elle a peut-être atterri dans les indésirables. Comme vous ne l'avez pas vue, je vous laisse le panier à 18 € pour tout le mois d'octobre. Ensuite, si 21 € ne vous convient pas, vous pouvez passer au petit panier à 15 € ou arrêter sans frais. Je suis Claire, et vous pouvez m'appeler directement au 06 12 48 90 37.\nClaire",
    "lang": "fr",
    "note": "Le fait est corrigé une seule fois, preuve à l'appui, puis un geste proportionné et des options claires, sans discuter de sa colère."
@@ -105,14 +105,14 @@
    "situation": "I run a small yoga studio. Yesterday I sent our timetable email to all 212 members with every address visible in the To line instead of hidden. A member, Helen, replied furious that her personal email has been shared with 200 strangers without her permission.",
    "reply": "Hi Helen,\nYesterday I sent our timetable email with every member's address visible, yours included, to more than 200 people, and you never agreed to that. That was my mistake, and I'm sorry. Today I'm emailing everyone on that list to ask them to delete the message and not reuse any addresses, and from now on every studio email goes out so that no one can see anyone else's address. I'm also checking whether this is something I need to report, and I'll tell you what I find by Friday 2 October. I'm Maya, the owner; reply to me directly or call 0161 496 0457.\nMaya",
    "lang": "en",
-   "note": "A privacy slip: own it, fix the process, and check any reporting duty rather than guessing. Don't argue about where her spam came from."
+   "note": "A privacy slip: own it, fix the process, and check any reporting duty rather than guessing."
   },
   {
    "id": "respond-to-angry-customer-016",
-   "situation": "I sell handmade leather wallets online. A customer, Linda, emailed furious that her gift for her dad's 70th on Saturday Oct 3 never arrived. Tracking shows the courier returned it to me because the address on her order had house number 18 instead of 81. I can resend it express today at my cost to arrive Friday Oct 2.",
-   "reply": "Hi Linda, you ordered this wallet for your dad's 70th on Saturday and it still hasn't reached you, which is stressful this close to the day. I've checked the tracking: the courier returned it to me because the address on the order had house number 18 rather than 81. I'm sending it express today to number 81 at no cost to you, so it arrives on Friday 2 October, and you'll have the tracking number from me by 5pm. I'm Sam; reply here directly if anything else comes up.",
+   "situation": "I'm Sam and I sell handmade leather wallets online. Linda emailed furious that her emails on Monday and Tuesday about the initials on her custom wallet got no reply. I'm at a craft fair until 6pm and can't see her order until I'm back, but I can reply properly tonight, and if the initials are wrong I'll remake it free.",
+   "reply": "Hi Linda, you emailed me on Monday and again on Tuesday about the initials on your wallet and heard nothing back. That's not OK for something made to order, and I'm sorry. I'm at a craft fair until 6pm and can't see your order until I'm back, so rather than guess, I'll check it tonight and email you by 7pm with exactly where it stands. If the initials aren't what you asked for, I'll remake it free of charge. Sam",
    "lang": "en",
-   "note": "She's wrong on the facts, so correct once with the evidence, then protect her deadline anyway; the goodwill costs less than the argument."
+   "note": "When you can't fix it yet, reply fast with a firm time instead of a guess; the silence is what she's angry about."
   },
   {
    "id": "respond-to-angry-customer-017",
@@ -145,9 +145,9 @@
   {
    "id": "respond-to-angry-customer-021",
    "situation": "我是宠物美容店店长阿敏。今天上午给陈小姐的狗豆包剪指甲时剪到了血线，当时止了血，但店员没告诉她。她回家发现豆包一直舔爪子，在微信上很生气，说我们隐瞒。这次美容费168元我想退给她，也愿意出看宠物医院的钱。",
-   "reply": "陈小姐，今天上午给豆包剪指甲时，我们剪到了一只爪子的血线，当时止了血却没有告诉您，让您回家才发现，这是我们的错，对不起。如果现在还在渗血，或者豆包一直舔、走路不敢着地，建议今天就带它去宠物医院看看，费用由我们承担，您把单据发给我就行。这次168元的美容费我今天退回给您。以后出现任何小意外，我们都会在接狗时当面说清楚。我是店长阿敏，有事直接找我。",
+   "reply": "陈小姐，如果豆包那只爪子还在渗血，或者一直舔、走路不敢着地，请今天就带它去宠物医院，费用由我们承担，您把单据发给我就行。今天上午给豆包剪指甲时，我们剪到了血线，当时止了血却没有告诉您，让您回家才发现，这是我们的错，对不起。这次168元的美容费我今天退回给您。以后出现任何小意外，我们都会在接狗时当面说清楚。我是店长阿敏，有事直接找我。",
    "lang": "zh",
-   "note": "被隐瞒比受伤本身更让人生气：先认“没告诉您”，再给看医生的具体安排。"
+   "note": "有受伤就先说该怎么做、去哪看，再认“没告诉您”这个错：被隐瞒比受伤本身更让人生气。"
   }
  ]
 }

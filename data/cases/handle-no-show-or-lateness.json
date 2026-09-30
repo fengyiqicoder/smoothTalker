@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -148,6 +148,13 @@
    "reply": "小赵，这个月我接你迟到了三次，14号、22号和昨天，昨天还害你错过了9点的例会，真的对不起。这不是运气不好，是我早上出门卡得太紧。从明天起我提前15分钟出门，8点05分到你楼下；要是哪天真赶不上，我8点前一定发消息给你，你直接打车，车费我出。",
    "lang": "zh",
    "note": "自己的迟到成了规律，就别只为这一次道歉：说出次数，再给一个能兑现的改法。"
+  },
+  {
+   "id": "handle-no-show-or-lateness-022",
+   "situation": "My daughter Ella has a 45-minute piano lesson with Mr Hughes every Thursday at 5pm, £30 a lesson. The last three, on 10, 17 and 24 September, started 15 to 20 minutes late but still ended at 5:45. Ella loves him and I don't want to switch teachers; I drop her off again tomorrow.",
+   "reply": "Hi Mr Hughes, Ella really enjoys her lessons with you. I wanted to mention that the last three Thursdays, 10, 17 and 24 September, her lesson started 15 to 20 minutes late but still finished at 5:45, so she's had about 25 to 30 minutes rather than 45. Could we either start at 5 or run on to the full 45 minutes? Happy to talk it through when I drop her off tomorrow.",
+   "lang": "en",
+   "note": "A paid pattern: dates and minutes, a choice of two fixes, no accusation."
   }
  ]
 }

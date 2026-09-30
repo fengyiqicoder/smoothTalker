@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "decline-request-001",
@@ -148,6 +148,13 @@
    "reply": "Thanks for asking me, Jen, I know the school run is a juggle. I'm going to say no to driving Leo; I don't drive other people's kids, and that's the same for everyone. On Tuesdays I could walk him in with Sam, since we're on the same street, if that would help.",
    "lang": "en",
    "note": "The rule does the work; the Tuesday walk is a real smaller yes, so it goes in."
+  },
+  {
+   "id": "decline-request-022",
+   "situation": "高中同学阿芳现在做保险代理，这周已经第三次在微信上约我聊，想让我给女儿买一份年缴8000元的重疾险。我家的保险都是我和老公一起定的，今年已经配好了，不想再加，也不想伤了同学情分。",
+   "reply": "阿芳，谢谢你想着我们家。这份保险我就不考虑了，我家的保险都是我和老公一起商量定的，今年已经配齐，暂时不会再加。你做这行挺不容易的，祝你顺利！有空约个饭，只聊天不聊保险哈。",
+   "lang": "zh",
+   "note": "给一个家里的固定做法当理由，比解释预算更难被继续推销；她再约就重复同一句话。"
   }
  ]
 }

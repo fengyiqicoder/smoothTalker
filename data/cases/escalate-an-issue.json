@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -148,6 +148,13 @@
    "reply": "Subject: Guidance needed by Fri 9 Oct: MKT 210 group report\nDear Professor Adler, I'm writing about our group's final report for MKT 210, due Friday 23 October. Our teammate Jordan hasn't sent his section, the competitor analysis, which was due on 25 September; he missed our meetings on 22 and 29 September and hasn't replied to our messages on 26 and 29 September. Jordan knows I'm writing to you. Could you let us know by Friday 9 October how you'd like us to handle it? Our suggestion is that the other three of us split the section and each member submits a short note on what they contributed. Thank you, Mia Torres",
    "lang": "en",
    "note": "Group-project escalation: dates instead of judgements about Jordan, and a proposed fix so the professor only has to say yes."
+  },
+  {
+   "id": "escalate-an-issue-022",
+   "situation": "I'm Tomás Rivera, a software engineer transferring to our London office from Monday 2 November. My visa appointment is Thursday 15 October and I need an employment verification letter from HR for it: I requested it through the HR portal on 14 September (ticket HR-5520), chased on 23 September, and my manager Grace chased on 25 September, and it still says 'in queue'. If I miss the appointment the next slot is in January, which would push back my start in London, and I've told the HR generalist, Priya, that I'm writing to the HR director, Mark Allen.",
+   "reply": "Subject: Letter needed by Fri 9 Oct: employment verification for visa (HR-5520)\n\nHi Mark, I need an employment verification letter for my visa appointment on Thursday 15 October, ahead of my transfer to the London office on Monday 2 November. I requested it through the HR portal on 14 September (ticket HR-5520) and chased on 23 September, and my manager, Grace, chased on 25 September; it still shows 'in queue'. If I miss the appointment, the next slot is in January, which would push back my start in London. Could you get the letter to me by Friday 9 October, or tell me who can sign it? Priya knows I'm writing to you. Thanks, Tomás",
+   "lang": "en",
+   "note": "The deadline is a week before the appointment so there's time to fix a wrong letter; one ask, with an easy alternative."
   }
  ]
 }

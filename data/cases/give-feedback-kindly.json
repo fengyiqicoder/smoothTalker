@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -148,6 +148,13 @@
    "reply": "阿泽，简历我认真看了。外卖评论那个项目写得特别扎实，一看就是真下了半年功夫。我唯一的担心是它在第二页最底下，我是一路翻到最后才看到的，招聘的人可能看完第一页的销售经历就放下了。要不把这个项目挪到第一页最上面，销售经历压缩成几行？底子很好，调一下顺序，周一投出去会更有竞争力。",
    "lang": "zh",
    "note": "只提一个问题，用“我翻到最后才看到”说自己的阅读感受，再给一个周一前就能改好的办法。"
+  },
+  {
+   "id": "give-feedback-kindly-022",
+   "situation": "My friend Jess drafted an email to her landlord about the mould in her bathroom and asked if it's okay to send tonight. The facts are strong: she reported it on 3 August and 1 September and attached photos. But the last paragraph calls him a slumlord and says she'll 'make sure everyone knows what he's like'.",
+   "reply": "The first part is really strong: two dates and photos, it's hard to argue with. The last paragraph is where I'd pause. I think 'slumlord' and 'make sure everyone knows' give him something to react to other than the mould. What if you ended with one clear ask instead, like the date by which you want someone to come and look at it? You're in the right here, which is exactly why I'd let the facts do the work.",
+   "lang": "en",
+   "note": "She asked 'okay to send?', so lead with what works and name the one change before she hits send."
   }
  ]
 }

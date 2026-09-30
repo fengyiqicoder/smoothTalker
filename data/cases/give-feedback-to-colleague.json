@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -148,6 +148,13 @@
    "reply": "Hiro, can I give you some feedback on the migration? You told me on Monday, the day it was due, that it wasn't done, but the vendor's API had been down since the Tuesday before. If I'd known that week, I could have chased the vendor and warned the client, instead of explaining a missed date on the day. What made it hard to raise sooner? Going forward, I'd like a quick message within a day of anything blocking you, even if you think you can fix it yourself; an early heads-up will never annoy me. Let's check how that's working on Friday 9 October.",
    "lang": "en",
    "note": "A careful person who sits on problems needs permission as much as a rule: say plainly that early bad news is welcome."
+  },
+  {
+   "id": "give-feedback-to-colleague-022",
+   "situation": "Owen and I are both account leads. On Tuesday's video call with our client Brightwater he cut in three times before I'd finished, once in the middle of the pricing, and the client asked me to repeat the number. I want to raise it with him on a call tomorrow.",
+   "reply": "Owen, can I give you some feedback on Tuesday's Brightwater call? Three times you came in before I'd finished, once in the middle of the pricing, and the client had to ask me to repeat the number. With two of us on a call, it makes us look less aligned than we are. What's your read on it? Next time, could you let me finish the point, and drop me a Slack message if you need to jump in? Let's compare notes after the next call.",
+   "lang": "en",
+   "note": "Peer to peer, the impact is on the client, not on your pride; keep it there."
   }
  ]
 }

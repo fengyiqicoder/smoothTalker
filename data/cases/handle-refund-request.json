@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -148,6 +148,13 @@
    "reply": "Liebe Frau Becker, danke für den Hinweis, und entschuldigen Sie den Ärger: Ihre 10er-Karte wurde am 28. September tatsächlich zweimal abgebucht. Die doppelte Zahlung über 150 Euro habe ich heute zurückerstattet, sie sollte in 3 bis 5 Werktagen wieder auf Ihrer Karte sein. Falls bis Mittwoch, 7. Oktober, nichts angekommen ist, schreiben Sie mir bitte direkt, dann kümmere ich mich sofort darum. Bis bald im Studio!",
    "lang": "de",
    "note": "Ein Fehler auf unserer Seite braucht keine Abwägung: das Ja in die erste Zeile, Betrag, Zeitraum und was zu tun ist, falls nichts ankommt."
+  },
+  {
+   "id": "handle-refund-request-022",
+   "situation": "I run guided sea kayak tours. We cancelled this Saturday's 9am tour because the forecast is for 30-knot winds, and offered everyone a free move to another date. One customer, Ben, paid $180 for two places and replied that they're only in town this week and would rather have the money back; refunds to card take 3 to 5 working days on our side.",
+   "reply": "Hi Ben, completely understood, a new date is no use if you're only in town this week. I've refunded the full $180 to your card today, and it should show within 3 to 5 working days. Sorry we couldn't get you both out on the water, and if you're ever back this way, we'd love to take you out.",
+   "lang": "en",
+   "note": "When you cancelled, the refund is a plain yes; don't make them argue for it."
   }
  ]
 }

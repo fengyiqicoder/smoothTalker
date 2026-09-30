@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -148,6 +148,13 @@
    "reply": "Hi Dave, thanks for coming round yesterday, and for the loft photos; seeing exactly where the water gets in made it much easier to understand. So we're working from the same picture: replace about 20 broken tiles and reseal the chimney flashing, roughly £1,800, starting the week of 19 October. Could you send the written quote with that scope and price by Friday 9 October, so we can confirm the start date? Let me know if I've got anything wrong. Thanks!",
    "lang": "en",
    "note": "As the customer, the recap protects you: restate scope, price and start, and get the written quote before saying yes."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-022",
+   "situation": "佐々木美咲です。昨日、ミドリ建築設計の二次面接を受けました。面接官は設計部の山本部長で、来年始まる木造保育園のプロジェクトの話が特に印象に残りました。前職で木造の集合住宅を2件担当した経験を話しそびれたので、お礼メールで一言添えたいです。結果は来週中に連絡すると言われています。",
+   "reply": "ミドリ建築設計 設計部 山本部長\n\n昨日はお忙しい中、面接のお時間をいただきありがとうございました。来年始まる木造保育園のプロジェクトのお話が特に印象に残り、ぜひ関わりたいという思いが強くなりました。面接でお伝えしそびれましたが、前職では木造の集合住宅を2件担当しており、その経験を活かせると考えております。来週中にご連絡いただけるとのこと、お待ちしております。引き続きどうぞよろしくお願いいたします。\n\n佐々木美咲",
+   "lang": "ja",
+   "note": "日本語の礼状は定型の丁寧さを守りつつ、面接で出た具体的な話題を一つ入れると埋もれない。"
   }
  ]
 }

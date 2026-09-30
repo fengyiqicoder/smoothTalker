@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -148,6 +148,13 @@
    "reply": "妈，刚才我声音太大了，“这是我的孩子，您别管”那句话说得太冲，对不起。我知道您是心疼乐乐，怕他着凉，觉得我不领您的情。穿多穿少的事咱们先放一放，晚上乐乐睡了，我们坐下来好好商量。您来帮我们带孩子，我心里一直是感激的。",
    "lang": "zh",
    "note": "跟同住的长辈吵完，当面只认那一句话，穿衣的分歧留到晚上再谈，不在门口讲道理。"
+  },
+  {
+   "id": "de-escalate-argument-022",
+   "situation": "My fiancé Tom and I were arguing on the phone about the wedding guest list, and I told him he 'does nothing for this wedding', even though he sorted the caterer and the venue. He hung up and texted 'forget it'. He gets home around 7 tonight.",
+   "reply": "Tom, we both got heated, and saying you do nothing for the wedding was unfair when you sorted the caterer and the venue. I'm sorry. I know it felt like all that work didn't count. Can we sit down with the guest list tonight when you're home at 7? This wedding is about us, not the list.",
+   "lang": "en",
+   "note": "After a hang-up, name the unfair line and set the return time; do not reopen the guest list by text."
   }
  ]
 }

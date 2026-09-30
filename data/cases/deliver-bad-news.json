@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -148,6 +148,13 @@
    "reply": "小何，有件事想先跟你说，不是好消息。这周复核时发现第三章的实验数据有问题，需要重新做，论文现在达不到送审要求，12月的答辩只能推到明年6月。我知道你已经签了明年1月入职的工作，这个消息对你影响很大。如果需要，我可以给用人单位写一封说明信，讲清推迟的原因。明天下午我们当面谈一次，一起把重做实验的计划定下来，你看几点方便？",
    "lang": "zh",
    "note": "消息放在前两句，原因一句带过不辩解；涉及对方的工作，只承诺自己能做到的事，比如说明信。"
+  },
+  {
+   "id": "deliver-bad-news-022",
+   "situation": "I'm the volunteer adoption coordinator at a small cat rescue. Jenny Park's family were approved last week to adopt Mochi, a two-year-old tabby, and her kids have already been talking about her; their approval carries over to any of our cats. At Mochi's pre-adoption vet check yesterday she was diagnosed with a heart condition that needs a few months of monitoring with an experienced foster, so the adoption can't go ahead, and we have two other cats, Pepper and Juno, who are great with kids and whom the family could meet this Saturday, 3 October.",
+   "reply": "Hi Jenny, I've got news you won't want to hear, and I wanted to tell you straight away. At Mochi's vet check yesterday she was diagnosed with a heart condition, and she needs a few months of monitoring with one of our experienced fosters, so her adoption can't go ahead. I know the kids have already been talking about her, and I'm so sorry. Your approval still stands, and if you'd like, you could meet Pepper and Juno this Saturday, 3 October; both are great with children. No pressure at all, and I'm happy to talk on the phone if that's easier.",
+   "lang": "en",
+   "note": "The no comes in the second sentence; the other cats are an option, not a replacement."
   }
  ]
 }

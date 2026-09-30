@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -148,6 +148,13 @@
    "reply": "Hi Kwame, saw your post about the rowing boat. Replacing a rotten transom is a job I did plenty of times in 40 years as a carpenter. Is it the whole transom that's gone, or just the bottom edge? Happy to come and have a look one morning if that would be useful.",
    "lang": "en",
    "note": "Lead with his problem and one easy question; the offer to help is the tiny ask."
+  },
+  {
+   "id": "first-message-to-stranger-022",
+   "situation": "En un mercadillo de Madrid compré una taza azul de un taller llamado Barro Lento y la uso cada mañana. En su Instagram la ceramista, Inés, enseña cómo esmalta con ceniza de olivo. Me caso en mayo y quiero preguntarle si haría 12 tazas iguales para regalar a los invitados.",
+   "reply": "Hola, Inés. Compré una de tus tazas azules en el mercadillo y la uso cada mañana; después vi tu vídeo del esmalte con ceniza de olivo y por fin entendí de dónde sale ese color. Me caso en mayo y me encantaría regalar a los invitados 12 tazas como esa. ¿Aceptas encargos de ese tamaño?",
+   "lang": "es",
+   "note": "Una pregunta pequeña y fácil de contestar; fechas, precio y detalles van en el segundo mensaje."
   }
  ]
 }

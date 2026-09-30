@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -147,6 +147,13 @@
    "reply": "Hi Sofia, thanks for the offer. I don't price on view guarantees, since reach depends on the algorithm as much as the content, but here are my numbers: my last ten videos averaged 35,000 views. My rate for one TikTok is $900 with 30 days of organic usage. If you'd like a performance element, I'm happy to add a $200 bonus if it passes 50,000 views in 7 days. Would that work for you?",
    "lang": "en",
    "note": "The flat fee covers the work; any upside for performance sits on top, never in place of it."
+  },
+  {
+   "id": "creator-brand-deal-reply-022",
+   "situation": "I post about my two rescue greyhounds on TikTok, 50k followers. Hannah from a dog treat brand, Tailwise, wants me to send three detailed video concepts plus a 15-second test clip 'so the team can decide', with no budget or deliverables mentioned yet. My rate is $850 per TikTok with 30 days of organic usage.",
+   "reply": "Hi Hannah, thanks for reaching out, my two greyhounds would be very keen to help. I don't make test clips or full concepts before a brief is agreed, since that is the actual work, but once I know the deliverables, timeline and budget I'm happy to share a short idea direction. For reference, my rate starts at $850 per TikTok with 30 days of organic usage. What did you have in mind?",
+   "lang": "en",
+   "note": "Spec work is gifting in disguise: decline the free part, keep the door open for the paid part."
   }
  ]
 }

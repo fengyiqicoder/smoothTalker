@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -148,6 +148,13 @@
    "reply": "Hi Martin, I'd like to ask whether I could withdraw the notice I emailed on 1 September to leave 5 Hollis Street on 31 October. The job move behind it fell through yesterday, and I'd be glad to stay on at £975 on the same terms. I know you may already have plans for the flat, and if so I'll leave on 31 October as given. Could you let me know by Friday 9 October, and if it's a yes, confirm it in writing? Thanks for three easy years.",
    "lang": "en",
    "note": "Withdrawing notice is a request: treat the original date as still standing until he agrees in writing."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-022",
+   "situation": "On September 1 I gave my landlord, Mrs Kaur, written notice that I'd leave Flat 2, 9 Elm Terrace on October 31. The handover of my new flat has slipped to November 14, and I'd like to stay the extra two weeks and pay rent pro rata. Rent is £1,050 a month.",
+   "reply": "Dear Mrs Kaur, on 1 September I gave notice to leave Flat 2, 9 Elm Terrace on 31 October. The handover of my new flat has been pushed back to 14 November, so I'd like to ask whether I could stay until then, paying rent pro rata for the extra 14 days. I'll understand if that doesn't work, for example if a new tenant is due to move in. Could you let me know in writing by Friday 9 October either way? Thank you.",
+   "lang": "en",
+   "note": "Until she agrees in writing, 31 October is still the end date, so keep a backup plan for those two weeks."
   }
  ]
 }
