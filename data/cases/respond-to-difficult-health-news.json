@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -99,6 +99,13 @@
    "reply": "Ruth, thank you for letting me know, and I'm so sorry you're dealing with this. Please don't give the website another thought: I'll pause it exactly where it is, nothing is due from you, and there's no invoice until we pick it back up. Whenever you feel ready, one line from you is all it takes and we'll carry on from there. No need to reply to this. I'll be thinking of you on the 14th.",
    "lang": "en",
    "note": "From a supplier or freelancer: warmth, lift every work obligation in one go, and no questions about the diagnosis."
+  },
+  {
+   "id": "respond-to-difficult-health-news-015",
+   "situation": "My friend Sofia texted that she lost the pregnancy at 11 weeks yesterday. Only a few people knew she was pregnant. She said she doesn't want to talk about it yet.",
+   "reply": "Sofia, I'm so sorry. Thank you for telling me, and it stays with me. You don't need to talk about it with me until you want to, if ever. I'm leaving dinner for you and Ben on the doorstep on Thursday evening, no knock. No need to reply.",
+   "lang": "en",
+   "note": "No questions, no 'at least it was early', nothing about trying again; follow her lead on whether it gets talked about."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -99,6 +99,13 @@
    "reply": "这个我没法替医生打包票，湿疹宝宝能不能用，最好先问问给他看湿疹的医生。燕麦款的成分是橄榄油、椰子油、燕麦粉和乳木果油，无香精无色素，完整成分表可以直接拿给医生看。医生说可以的话，我这边有20克的小样，12元，先少量试一下更放心。要我把成分表发给你吗？",
    "lang": "zh",
    "note": "涉及宝宝皮肤健康，不做功效承诺：先给诚实的答案，再给成分和小样，让她和医生决定。"
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-015",
+   "situation": "I'm a personal trainer. A guy named Ollie DMed me on Instagram last Friday: 'hey how much for 1 on 1 sessions? total beginner'. I only just saw it today, five days later.",
+   "reply": "Hi Ollie, sorry for the slow reply, your message got buried. One-to-one sessions are $70 an hour, or $600 for a pack of ten, and the first one starts with a relaxed movement check, so total beginner is exactly right. I've got Friday at 7am or Saturday at 9am this week, would either suit you?",
+   "lang": "en",
+   "note": "Replying days late: one line of ownership, then the answer straight away, so the apology doesn't become the message."
   }
  ]
 }

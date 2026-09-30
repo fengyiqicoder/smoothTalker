@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -106,6 +106,13 @@
    "reply": "Hi Rosa, now that the Casa Verde site has been live a month, I'd love to feature it in my portfolio. Could I show it with the restaurant's name, and would you answer three short questions by email for a quote? It's about ten minutes, and I'd show you the finished page before it goes up. If you'd rather keep the project private, that's completely fine and changes nothing between us. If you say yes, the case study will link to your booking page too.",
    "lang": "en",
    "note": "Asking a client: name the exact time it takes, let them approve the result, and make no a comfortable answer."
+  },
+  {
+   "id": "ask-for-favor-016",
+   "situation": "I'm 23 and renting my first apartment. The letting agency wants a guarantor because I'm new in my job, and I want to ask my uncle Raj. The lease is $1,800 a month for 12 months.",
+   "reply": "Hi Uncle Raj, I've found my first apartment and the agency needs a guarantor because I've only just started my job. I'd love it if that could be you, but I want to be upfront about what it means: as I read the lease, if I didn't pay, you'd be responsible for the rent, up to $21,600 over the 12 months, plus anything else the clause covers, like damage. I'll send you the guarantor clause so you can check exactly what you'd be signing. If it's not something you're comfortable with, that's completely fine, and I'll ask the agency about other options. Could you let me know by Friday 9 October?",
+   "lang": "en",
+   "note": "When a favour carries financial risk, name the worst case in numbers and share the document; hiding the size of the ask is the one thing to avoid."
   }
  ]
 }

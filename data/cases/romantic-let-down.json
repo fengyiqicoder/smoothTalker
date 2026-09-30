@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -99,6 +99,13 @@
    "reply": "我明白你不高兴。我不会再回复了，就到这里。",
    "lang": "zh",
    "note": "对方开始骂人，最多回这一句，也可以一句不回，然后截图留存、拉黑并在软件里举报；如果他找到你的住处或单位，告诉身边的人，必要时报警。"
+  },
+  {
+   "id": "romantic-let-down-015",
+   "situation": "Went on a first date with Tom on Saturday. It was fine but there was no spark. He's already texted that he bought two tickets for a gig on October 17 and wants to take me.",
+   "reply": "Thanks for Saturday, Tom, I enjoyed the tacos and hearing about your bike trip. I'm not feeling a romantic connection, though, so I'll pass on the gig on the 17th. Better to say it now so you've got plenty of time to take someone else. Wishing you well.",
+   "lang": "en",
+   "note": "Tickets he bought don't create an obligation; answering quickly is the considerate part, and there's no need to offer to pay."
   }
  ]
 }

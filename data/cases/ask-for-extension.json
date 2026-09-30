@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -106,6 +106,13 @@
    "reply": "Hi all, flagging this now rather than on Sunday: I need until Tuesday 6 October, 6pm, for the market analysis section. Family stuff has taken most of this week. That still leaves Wednesday to pull everything together before Thursday's deadline. So nobody's blocked, I'll post the competitor table and my key numbers by Sunday so you can start writing from them. Does that work for everyone?",
    "lang": "en",
    "note": "Peers who share a grade: the new date, one line of reason with no detail, and something useful on the original date so no one waits on you."
+  },
+  {
+   "id": "ask-for-extension-016",
+   "situation": "I'm interviewing for a data analyst role at Brightline. The recruiter, Sofia, sent a take-home case study on Monday, due Friday Oct 2 at noon. I have a production release at my current job on Thursday night and want to ask for Monday Oct 5 at noon instead.",
+   "reply": "Hi Sofia, thank you for sending the case study. I'm asking now rather than on Friday: I have a release at my current job on Thursday night, which would leave me only a few rushed hours for it. Could I submit by Monday 5 October at noon instead? If Friday is tied to the panel's schedule, I'll send it on time and note which parts I'd take further with more time.\nThanks,\nArjun",
+   "lang": "en",
+   "note": "A hiring deadline: ask early, one line of reason that shows you take your current job seriously, and offer to hit the original date if it matters."
   }
  ]
 }

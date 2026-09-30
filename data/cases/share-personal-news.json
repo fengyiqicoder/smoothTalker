@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -99,6 +99,13 @@
    "reply": "Bit of news before the 17th: I stopped drinking back in July and I'm really glad I did. I'm still coming and still up for a late one, I'll just be on the soft stuff. No need to make a thing of it, the only favour I'd ask is not offering me pints, even as a joke. Can't wait to see you all.",
    "lang": "en",
    "note": "If anyone in the group is a close friend, tell them one-to-one first; in the group, say exactly how you want people to respond."
+  },
+  {
+   "id": "share-personal-news-015",
+   "situation": "我怀孕了，现在14周，预产期是明年3月中旬，目前一切正常。团队还不知道，想先发微信告诉直属领导刘姐，下周二我们有一对一。我手上负责年底会员系统上线。",
+   "reply": "刘姐，想先私下跟您说一件事：我怀孕了，预产期是明年3月中旬，目前一切正常。团队那边我还没说，想先跟您商量好再告诉大家，这段时间麻烦您先帮我保密。年底会员系统上线我会按计划推进，产假前的交接我也会提前准备好方案。下周二一对一的时候，能不能多留20分钟，一起聊聊后面的安排？",
+   "lang": "zh",
+   "note": "告诉领导也是先私下、再公开：消息放第一句，说清希望她怎么做（先保密），再给出工作上的安排。"
   }
  ]
 }

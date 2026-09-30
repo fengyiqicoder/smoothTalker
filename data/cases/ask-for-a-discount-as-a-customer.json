@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -106,6 +106,13 @@
    "reply": "Oi, Juliana, tudo bem? Quero fechar o tratamento com o Dr. Paulo, o clareamento e as duas restaurações, orçado em R$ 3.200. Se eu pagar tudo à vista por transferência, vocês fariam por R$ 2.800? Se der certo, já faço a transferência hoje e marco a primeira sessão. Se não tiver como, sem problema, me diz qual é o valor à vista de vocês.",
    "lang": "pt",
    "note": "Sem orçamento concorrente, a alavanca é pagar tudo à vista: peça um número e deixe espaço para o desconto padrão deles."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-016",
+   "situation": "Our home internet with Clearwave was down for five days, Sept 21 to 25, and I work from home. The plan is $80 a month and I've been with them four years. I want to ask for a credit on the next bill.",
+   "reply": "Hi, I'm calling about account 55120-8. Our service was down from 21 to 25 September, five full days, and I work from home, so it hit hard. I've been with you four years and I'm happy to stay. Could you credit half of this month's bill, $40, on the next statement? If that's more than you can do, I'd appreciate at least the prorated amount for the five days.",
+   "lang": "en",
+   "note": "The outage is the anchor: ask for a specific credit a little above prorated, and name the fallback so a smaller yes is still easy."
   }
  ]
 }

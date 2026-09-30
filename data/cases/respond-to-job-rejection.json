@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -98,6 +98,13 @@
    "reply": "Thanks for letting me know, Tom, and for the trial shift; I learned a lot watching how you ran the pass on a busy Friday. Understood on the pastry side. If you're ever short on the line for a weekend or an event, I'd be glad to help out. All the best with the autumn menu.",
    "lang": "en",
    "note": "A text rejection gets a text-length reply: one specific thank-you, one line of acceptance, and one concrete way to work together later."
+  },
+  {
+   "id": "respond-to-job-rejection-015",
+   "situation": "面了一家咨询公司的项目经理，HR林小姐今天打电话说我是第二人选，第一人选已经接了offer，如果有变化会再联系我。挺可惜的，我还是很想去。",
+   "reply": "林小姐您好，谢谢您今天专门打电话告诉我，还让我知道自己排在第二，这对我很有帮助。结果我理解。如果之后有变化，或者团队再招类似的项目经理，希望您能想到我，接下来几个月我都方便沟通。祝团队一切顺利。",
+   "lang": "zh",
+   "note": "第二人选最值得保持联系：一句接受，只提一个请求（记得我），不问为什么，也不打听第一人选。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -99,6 +99,13 @@
    "reply": "Bonjour Monsieur Leroy,\nDécouvrir une hausse de 3 € par panier au moment où elle s'applique, après quatre ans avec nous, ce n'est pas agréable. J'ai vérifié : l'annonce est partie le 1er septembre à votre adresse habituelle, je vous la renvoie ci-dessous, elle a peut-être atterri dans les indésirables. Comme vous ne l'avez pas vue, je vous laisse le panier à 18 € pour tout le mois d'octobre. Ensuite, si 21 € ne vous convient pas, vous pouvez passer au petit panier à 15 € ou arrêter sans frais. Je suis Claire, et vous pouvez m'appeler directement au 06 12 48 90 37.\nClaire",
    "lang": "fr",
    "note": "Le fait est corrigé une seule fois, preuve à l'appui, puis un geste proportionné et des options claires, sans discuter de sa colère."
+  },
+  {
+   "id": "respond-to-angry-customer-015",
+   "situation": "I run a small yoga studio. Yesterday I sent our timetable email to all 212 members with every address visible in the To line instead of hidden. A member, Helen, replied furious that her personal email has been shared with 200 strangers without her permission.",
+   "reply": "Hi Helen,\nYesterday I sent our timetable email with every member's address visible, yours included, to more than 200 people, and you never agreed to that. That was my mistake, and I'm sorry. Today I'm emailing everyone on that list to ask them to delete the message and not reuse any addresses, and from now on every studio email goes out so that no one can see anyone else's address. I'm also checking whether this is something I need to report, and I'll tell you what I find by Friday 2 October. I'm Maya, the owner; reply to me directly or call 0161 496 0457.\nMaya",
+   "lang": "en",
+   "note": "A privacy slip: own it, fix the process, and check any reporting duty rather than guessing. Don't argue about where her spam came from."
   }
  ]
 }

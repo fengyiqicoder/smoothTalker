@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -99,6 +99,13 @@
    "reply": "Thanks for reaching out, Kelly. I don't share ID or bank details before an interview and a written offer. Could you send the hiring company's name, the job description, and an email from someone at the company's own domain? If that checks out I'm happy to talk, and once there's an offer I'll send documents through their HR system.",
    "lang": "en",
    "note": "Never send ID or bank details to someone you can't verify. If she pushes, or asks you to pay for anything, stop replying and report the account."
+  },
+  {
+   "id": "respond-to-recruiter-015",
+   "situation": "A recruiter, Hannah, messaged me on LinkedIn about a senior backend role at a fintech in Amsterdam. I'm Canadian, based in Toronto, and would need visa sponsorship and help relocating. I'm genuinely interested.",
+   "reply": "Thanks for reaching out, Hannah, this sounds interesting. Before we book a call: would the company sponsor a work visa for a Canadian and offer relocation support, and what's the base range in euros? If those line up, I'm free for a call Tuesday or Thursday at 9am Toronto time.",
+   "lang": "en",
+   "note": "For a move abroad, sponsorship is the dealbreaker, so ask it before the call alongside the range."
   }
  ]
 }

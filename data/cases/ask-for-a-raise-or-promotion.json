@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -106,6 +106,13 @@
    "reply": "Paco, hoy quiero hablar contigo como jefe, no como sobrino. Me gusta mucho la tienda y quiero seguir aquí muchos años. Desde enero llevo los pedidos a proveedores y la tienda online, que ya es el 20% de las ventas. Por eso te pido pasar de 1.450 a 1.700 euros al mes a partir de noviembre. Si ahora no es posible, ¿qué necesitarías ver y cuándo lo podemos revisar?",
    "lang": "es",
    "note": "Con un familiar como jefe, separa los papeles en la primera frase y apóyate solo en el trabajo, nunca en la familia."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-016",
+   "situation": "My director Hannah just asked if I'll take over the Northern region team when Raj leaves on October 16, on top of my own team, so 12 people instead of 6. I'm a regional manager on $95k and want to say yes, but the doubled scope should come with a title and pay change.",
+   "reply": "Hi Hannah, thanks for trusting me with this, and yes, I'd like to take on the Northern team. Going from 6 people to 12 across two regions is a real change in the role, so alongside the handover plan I'd like us to talk about the title and pay that go with it. Could we find 30 minutes before Raj leaves on Friday 16 October? Thursday or Friday afternoon this week both work for me.",
+   "lang": "en",
+   "note": "The moment scope is added is the best time to ask: say yes, name the change, and book the pay talk before the handover. Bring the number to the meeting."
   }
  ]
 }

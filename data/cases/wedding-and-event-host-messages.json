@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -99,6 +99,13 @@
    "reply": "Will there be a bar? We're hosting a dry celebration, so there won't be alcohol at the ceremony or the reception. Instead there's a mocktail bar with three signature drinks we've been perfecting all summer, good coffee, and a dessert table that runs until midnight. We can't wait to see you on the dance floor.",
    "lang": "en",
    "note": "State the rule once as a fact about the event; the reason is yours to keep, and if a friend grumbles, repeat it shorter with no new reasons."
+  },
+  {
+   "id": "wedding-and-event-host-messages-015",
+   "situation": "我们10月17日（周六）办婚礼，回复截止是9月25日，之后桌数和座位已经跟酒店定死了，一个位置都加不了。大学同学老周今天才说要来，还想带女朋友一起。",
+   "reply": "老周，谢谢你想着来！回复上周五截止后，桌数和座位就跟酒店定死了，这次一个人都加不了，对所有人都是一样的。这次见不到你们俩真的很可惜。等我们度完蜜月回来，请你和女朋友吃顿饭，好好喝一杯。",
+   "lang": "zh",
+   "note": "过了截止日期的回复：规则对所有人一样，理由一句说清，不开例外，再给一个具体的见面机会。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "small-talk-001",
@@ -99,6 +99,13 @@
    "reply": "Welcome to Chicago, Ji-woo. How are you holding up after the flight? If you get a free evening while you're here, is there anything you're hoping to see or eat?",
    "lang": "en",
    "note": "A visitor has a view on her own trip: follow her answer, offer one local tip of your own, then hand it back."
+  },
+  {
+   "id": "small-talk-015",
+   "situation": "I'm at the reception after my coworker Dana's dad's funeral. I never met him. I'm standing by the tea urn next to an older man I don't know and the silence is getting awkward.",
+   "reply": "Hi, I'm Rob, I work with Dana. I never got to meet her dad. How did you know him?",
+   "lang": "en",
+   "note": "At a funeral, invite a story rather than an opinion. If he shares one, 'What was he like?' keeps it going, and quiet moments can stay quiet."
   }
  ]
 }

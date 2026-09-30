@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -99,6 +99,13 @@
    "reply": "Ha, fair, I was gutted to miss it. Flu had me flat on the sofa all weekend. Dave, first round's on me next time we're out, you pick the night.",
    "lang": "en",
    "note": "In a group chat, answer briefly at face value and move on; if Dave himself seems hurt, message him privately rather than in the group."
+  },
+  {
+   "id": "respond-to-passive-aggressive-015",
+   "situation": "I posted on LinkedIn that I've been promoted to engineering manager. A former teammate, Greg, who applied for the same role before he left, commented publicly: 'Congrats! Funny how things work out for people who are in the right meetings 😉'.",
+   "reply": "Thanks, Greg! Plenty more meetings in my future, that's for sure. Hope things are going well at Oakline.",
+   "lang": "en",
+   "note": "A public dig gets a brief face-value reply in public; no defence of how you got the job, and no private post-mortem."
   }
  ]
 }

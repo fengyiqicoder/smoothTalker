@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -106,6 +106,13 @@
    "reply": "Hi Kenji, quick check-in on the vendor cost review, not a status meeting. Is Friday 9 October still realistic for you? If anything's stuck, like missing contracts or a vendor not replying, tell me now and I'll chase it; if we need to, it could cover just our top ten vendors for Monday's budget meeting. A one-line reply is plenty.",
    "lang": "en",
    "note": "Check the outcome and the date, not the steps, and offer to remove blockers or trim scope; that is support, not micromanagement."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-016",
+   "situation": "I'm a nurse on a surgical ward. My son's school play is Saturday Oct 10 and I'm rostered on the day shift. My colleague Tasha is on days Sunday Oct 11 and I'm off that day. Swaps need sign-off from our charge nurse, Grace.",
+   "reply": "Hi Tasha, could I ask you a favour? My son's school play is on Saturday 10 October and I'm on the day shift. Would you swap your Sunday 11 October day for my Saturday? Same hours, and I'll put the request to Grace myself so it's official. If Saturday doesn't suit you, no problem at all, just say and I'll ask around.",
+   "lang": "en",
+   "note": "A shift swap is a peer ask with no authority: name the exact trade, take on the admin yourself, and give a real out."
   }
  ]
 }

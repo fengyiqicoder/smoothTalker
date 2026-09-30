@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -106,6 +106,13 @@
    "reply": "Dear parents, I made a marking error on last Friday's algebra test: my answer key for question 7 was wrong, so every student lost 4 marks they had earned. I've corrected all 28 papers, and the updated grades are on the portal now; every score has gone up by 4. I explained the mistake to the class this morning as well. I'm sorry for the confusion, especially if you'd already talked the result through at home. From now on I'll work through every answer key myself before I mark a test. Ms Harper",
    "lang": "en",
    "note": "To a whole group of parents: one message to everyone, the fix already live, and no need for them to chase you individually."
+  },
+  {
+   "id": "admit-mistake-at-work-016",
+   "situation": "上周交的差旅报销里，我不小心把一张私人聚餐的发票（426元）也夹进去了，今天发现时报销款已经打到我卡上。想跟财务李姐说清楚。",
+   "reply": "李姐，跟您说一个我的失误：上周三提交的差旅报销里混进了一张我私人聚餐的发票，金额426元，报销款已经到账了。我今天上午核对时发现的，这426元我今天就退回公司，麻烦告诉我走哪个流程、转到哪个账户。以后提交前我会把私人票据单独放开，逐张核对后再交。对不起，给您添麻烦了。",
+   "lang": "zh",
+   "note": "涉及钱的错误，主动说、马上退，不解释为什么会混进去；一条具体的防范措施就够了。"
   }
  ]
 }

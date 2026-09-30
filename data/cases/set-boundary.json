@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -99,6 +99,13 @@
    "reply": "王姐，下周五聚餐我一定到，挺期待跟大家一起吃饭的。先跟您说一声，我以后不喝酒了，上次喝完第二天状态很差。到时候我以茶代酒，敬酒、张罗都没问题。",
    "lang": "zh",
    "note": "说的是自己的做法（以茶代酒），理由一句就够；席上再被劝，就笑着重复“我不喝酒，以茶代酒敬您”，不加新理由。"
+  },
+  {
+   "id": "set-boundary-015",
+   "situation": "Minha amiga Carla sempre chega uns 40 minutos atrasada, e às vezes desmarca meia hora antes. No último sábado fiquei sozinha no restaurante esperando por 50 minutos. Gosto muito dela e quero continuar saindo com ela.",
+   "reply": "Carla, eu adoro nossos encontros e quero continuar tendo eles. Daqui pra frente, se você atrasar mais de 20 minutos sem avisar, eu vou pedir e começar sem você, ou vou embora, sem drama nenhum. Se o dia estiver corrido, é só me avisar e a gente remarca.",
+   "lang": "pt",
+   "note": "O limite é o que você vai fazer, não uma cobrança sobre os atrasos. Se ela reclamar, repita a mesma frase, mais curta."
   }
  ]
 }

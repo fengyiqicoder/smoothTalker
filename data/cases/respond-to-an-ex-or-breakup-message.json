@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -99,6 +99,13 @@
    "reply": "It means a lot that you asked, and I'm open to talking about it. I'd like to take it slowly and start with a proper conversation about what happened in January before we decide anything. Could we have dinner the weekend after you're back, say Saturday 14 November? No expectations either way until then.",
    "lang": "en",
    "note": "Even a yes to reopening gets a limit and a date: a conversation first, not a relationship restarted by text."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-015",
+   "situation": "今天是我生日，分手快一年的前男友阿凯发微信祝我生日快乐，还说“有空一起吃个饭”。我现在有男朋友了，不想再和他单独见面，但也不想显得太冷。",
+   "reply": "谢谢你还记得，也谢谢你的祝福。吃饭就不了，我现在有了新的感情，觉得我们不再单独联系对彼此都好。祝你一切顺利。",
+   "lang": "zh",
+   "note": "一个干净的理由就够了，不聊新恋情的细节；他再回复，不用接。"
   }
  ]
 }
