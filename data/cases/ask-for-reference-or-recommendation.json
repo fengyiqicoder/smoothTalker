@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -140,6 +140,13 @@
    "reply": "Hi Dr. Hughes, I hope things are good at Pinecrest. I know I left at short notice two years ago, when my mum needed surgery, and I'm sorry it left you short-staffed. I'm now applying for a practice manager role, and they've asked for a reference by Monday 12 October. Would you be willing to be one? If it helps, the thing they care most about is the online booking system I set up, which cut no-shows from about 15% to 6%. If you'd rather not, I completely understand.",
    "lang": "en",
    "note": "Name the rough exit once, plainly, before the ask; skipping over it makes a yes harder, and a long apology makes it about you."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-021",
+   "situation": "Professor Lindqvist agreed on 14 September to write a letter for my application to the MA in Urban Design at Norrvik University. The portal still shows her letter as 'not received' and the deadline is Monday 5 October. The portal lets me resend her the upload link.",
+   "reply": "Hi Professor Lindqvist, thank you again for agreeing to write my letter for the Norrvik MA in Urban Design. The portal still shows it as not received, and the deadline is Monday 5 October, so I've just resent the upload link in case the first one got lost. If a short draft or my personal statement would make it quicker, I can send either today. Thank you for doing this.",
+   "lang": "en",
+   "note": "A yes with a missed step needs one practical nudge that removes friction, not a second request."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -141,6 +141,13 @@
    "reply": "Hi Aaron, thank you for the call yesterday, especially the story about rebuilding your support team after the merger, which was one of the best answers I've heard for this role. We won't be moving forward, and I want to be straight about why: you mentioned a base of $95,000, and our band for this role tops out at $82,000 with no flexibility. That's about our budget, not your experience. I wish you the best with the search.",
    "lang": "en",
    "note": "When the reason is the salary band, say the number plainly; it's the most useful feedback he can get, and the door stays closed because it is."
+  },
+  {
+   "id": "decline-offer-or-candidate-021",
+   "situation": "I'm the hiring manager for head of science at Westbrook School. Tomorrow at 4 I'm phoning Priyanka, one of two finalists, to tell her we've chosen the other finalist, mainly because they've already led a science department. Her demo lesson on electrolysis was the best we saw. What do I actually say on the call?",
+   "reply": "Hi Priyanka, it's Daniel from Westbrook School, thanks for picking up. I wanted to tell you myself rather than by email: we've offered the head of science role to the other finalist. It came down to them having already led a science department, which is a big part of this job from day one. Your electrolysis lesson was the best demo lesson we saw. I'll follow up with a short email today, and if you have any questions now, I'm happy to answer them.",
+   "lang": "en",
+   "note": "On the phone, the decision goes in the first breath after hello; the positive and the questions come after, never before."
   }
  ]
 }

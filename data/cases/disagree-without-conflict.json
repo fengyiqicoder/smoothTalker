@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -141,6 +141,13 @@
    "reply": "Irene, te entiendo, a mí también me agobia cómo está la cocina. Donde lo veo distinto es en lo de la limpiadora: desde que me bajaron las horas voy justa, y 30 euros al mes ahora mismo me pesan. ¿Qué es lo que más te falla del cuadrante? Igual podemos ajustar eso primero y volver a hablar de la limpiadora más adelante.",
    "lang": "es",
    "note": "Entre compañeras de piso: primero el objetivo común, una sola razón honesta y una pregunta real sobre qué no funciona."
+  },
+  {
+   "id": "disagree-without-conflict-021",
+   "situation": "In today's incident review for last week's outage, my peer Kyle said the root cause was that Jana, our junior engineer, ran the database migration on production without checking. Jana is in the room. I think the real cause is that our deploy script lets anyone run migrations on production without a second approval, and I want to say it out loud without making Kyle look bad.",
+   "reply": "Kyle, I agree we need to understand exactly how the migration got run, that's the right question. Where I land differently is where the fix sits: our deploy script lets anyone run a migration on production without a second approval, so this could have happened to any of us. Could we make a required second approver the action item? If I'm missing something about how it happened, tell me.",
+   "lang": "en",
+   "note": "Agree with the question, move the disagreement from the person to the process, and hand the room one concrete action."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -141,6 +141,13 @@
    "reply": "Zoe, I need to change our Portugal plan: my car needed a $2,300 repair last week, and I can't afford the trip in November now. I'm telling you before either of us books anything, and I'm sorry, I know you were looking forward to it. Two options: I come to you in Bristol for a weekend in November, or we do Portugal in the spring once I've saved back up. Which do you fancy?",
    "lang": "en",
    "note": "Money is a short, true reason; tell her before anyone books, so nobody is out of pocket."
+  },
+  {
+   "id": "cancel-or-reschedule-021",
+   "situation": "I'm in Singapore and have a weekly call with my London client, Helen, on Thursdays at 4pm my time, 9am hers. My flight home has been moved into that slot this Thursday, Oct 1. I could do Friday Oct 2 at 4pm or Monday Oct 5 at 5pm, Singapore time.",
+   "reply": "Hi Helen, I need to move this Thursday's call: my flight home has been rescheduled into that slot. Sorry for the short notice. Could we do Friday 2 October at 9am your time (4pm mine), or Monday 5 October at 10am your time (5pm mine)? If neither suits, send me a couple of times and I'll fit around you.",
+   "lang": "en",
+   "note": "Across time zones, give each option in their time first so they can say yes without converting."
   }
  ]
 }

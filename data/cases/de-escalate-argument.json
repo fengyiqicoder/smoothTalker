@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -141,6 +141,13 @@
    "reply": "Rob, let's stop, we're both getting loud and this isn't the place. The YouTube comment was a cheap shot, and I'm sorry. I can tell you feel I'm writing off your view without hearing it. If you want to pick it up properly, let's do it over a beer next Friday, just us. Today's about Mum's lunch.",
    "lang": "en",
    "note": "In front of family, the pause is the point; own the jab out loud so everyone at the table hears it."
+  },
+  {
+   "id": "de-escalate-argument-021",
+   "situation": "婆婆来家里帮我们带一岁半的儿子乐乐。刚才她又给乐乐多穿了一件厚毛衣，我当面说了句“这是我的孩子，您别管”，声音也很大。她哭着回房间了。老公还没下班，我想现在就去敲门说几句。",
+   "reply": "妈，刚才我声音太大了，“这是我的孩子，您别管”那句话说得太冲，对不起。我知道您是心疼乐乐，怕他着凉，觉得我不领您的情。穿多穿少的事咱们先放一放，晚上乐乐睡了，我们坐下来好好商量。您来帮我们带孩子，我心里一直是感激的。",
+   "lang": "zh",
+   "note": "跟同住的长辈吵完，当面只认那一句话，穿衣的分歧留到晚上再谈，不在门口讲道理。"
   }
  ]
 }

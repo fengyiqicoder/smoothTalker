@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -141,6 +141,13 @@
    "reply": "Hi Dana,\nThank you for the call this afternoon, I'm really pleased. To make sure I have it right: the UX researcher role at $92,000, starting Monday 2 November, with 25 days' leave and working from home on Fridays. I'm keen to accept; could you send the written offer so I can review and sign it before Monday 5 October? Please correct me if I've got any detail wrong.\nThanks again",
    "lang": "en",
    "note": "A verbal offer is a meeting too: recap the terms and ask for the written version before giving a firm yes."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-021",
+   "situation": "Dave, a roofer from Keel Roofing, came round yesterday to look at our leaking roof and showed us photos from the loft of where the water gets in. He said he'd replace about 20 broken tiles and reseal the chimney flashing for roughly £1,800, could start the week of 19 October, and would send a written quote. I want it confirmed in writing before we agree.",
+   "reply": "Hi Dave, thanks for coming round yesterday, and for the loft photos; seeing exactly where the water gets in made it much easier to understand. So we're working from the same picture: replace about 20 broken tiles and reseal the chimney flashing, roughly £1,800, starting the week of 19 October. Could you send the written quote with that scope and price by Friday 9 October, so we can confirm the start date? Let me know if I've got anything wrong. Thanks!",
+   "lang": "en",
+   "note": "As the customer, the recap protects you: restate scope, price and start, and get the written quote before saying yes."
   }
  ]
 }

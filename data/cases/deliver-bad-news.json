@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -141,6 +141,13 @@
    "reply": "Hi Lena, following our call, I want to put this in writing. I have to withdraw the junior designer offer I made on 21 September. Yesterday our biggest client cancelled a $90k contract, and the studio can't afford a new hire right now; it has nothing to do with you or your work. I know you've already handed in your notice, and I'm truly sorry for the position this puts you in. I'll pay you $1,800, two weeks' salary, this week, give you a strong reference, and introduce you to two studio owners I know. I'm here if you want to talk again.",
    "lang": "en",
    "note": "Call first, then write it down. Withdrawing an accepted offer can have legal consequences, so check the offer letter and get advice before sending."
+  },
+  {
+   "id": "deliver-bad-news-021",
+   "situation": "我是硕士生导师。学生小何原计划12月答辩，但这周复核发现她第三章的实验数据有问题，得重新做，论文达不到送审要求，答辩只能推到明年6月。她已经签了明年1月入职的工作。我愿意给她的用人单位写一封说明信，也想明天下午跟她当面谈。",
+   "reply": "小何，有件事想先跟你说，不是好消息。这周复核时发现第三章的实验数据有问题，需要重新做，论文现在达不到送审要求，12月的答辩只能推到明年6月。我知道你已经签了明年1月入职的工作，这个消息对你影响很大。如果需要，我可以给用人单位写一封说明信，讲清推迟的原因。明天下午我们当面谈一次，一起把重做实验的计划定下来，你看几点方便？",
+   "lang": "zh",
+   "note": "消息放在前两句，原因一句带过不辩解；涉及对方的工作，只承诺自己能做到的事，比如说明信。"
   }
  ]
 }

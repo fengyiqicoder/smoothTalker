@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -141,6 +141,13 @@
    "reply": "Hi Carla, I wanted to flag this as soon as I knew. I resigned on Monday, and my contract here requires four weeks' notice rather than the two I'd planned for, so my last day is Monday 26 October. Could I start on Monday 2 November instead of 19 October? If anything is tied to the 19th, I'm happy to read onboarding material or join a short intro call before I start. Does that work for you?",
    "lang": "en",
    "note": "A start date is a deadline too: say it the day you find out, one line of reason from the contract, an exact date, and something useful in the gap."
+  },
+  {
+   "id": "ask-for-extension-021",
+   "situation": "I agreed to peer-review a manuscript, JCE-2026-0412, for the Journal of Coastal Ecology; the editor is Dr. Mireille Okafor and the review is due Monday Oct 5. My institution just moved an internal grant deadline to Oct 6 and it's eaten my week. I could do the review by Monday Oct 12, but if that's too late I'd rather step aside now.",
+   "reply": "Dear Dr. Okafor,\nI'm writing now rather than on the 5th about my review of JCE-2026-0412. An internal grant deadline at my institution has moved to 6 October and taken this week. Could I send the review by Monday 12 October instead? If that's too late for your decision timeline, tell me and I'll step aside today so you can invite another reviewer without losing more time.\nWith apologies for the change,\nDaniel Mercer",
+   "lang": "en",
+   "note": "When the work is a favour to someone's process, the alternative to a new date is stepping aside early, not a rushed review."
   }
  ]
 }

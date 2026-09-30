@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "decline-request-001",
@@ -141,6 +141,13 @@
    "reply": "Aunt Ruth, I've been thinking about what you asked me yesterday, and I'm so touched you'd trust me with it. I'm going to say no to being your executor. Living in Singapore, I couldn't be there to look after things the way you deserve. I'd really like to help you think through who else could do it before you see your lawyer next month; could I call you on Sunday to talk it over? Thank you for asking me, it means a lot.",
    "lang": "en",
    "note": "A big-responsibility ask: one true, practical reason and a real smaller yes; she chooses the executor, you only help her think."
+  },
+  {
+   "id": "decline-request-021",
+   "situation": "Jen, another mum from school, asked if I can drive her son Leo to school every Tuesday and Thursday from October. I don't drive other people's kids, as a rule for everyone. We live on the same street, so on Tuesdays I could walk Leo in with my son, Sam.",
+   "reply": "Thanks for asking me, Jen, I know the school run is a juggle. I'm going to say no to driving Leo; I don't drive other people's kids, and that's the same for everyone. On Tuesdays I could walk him in with Sam, since we're on the same street, if that would help.",
+   "lang": "en",
+   "note": "The rule does the work; the Tuesday walk is a real smaller yes, so it goes in."
   }
  ]
 }

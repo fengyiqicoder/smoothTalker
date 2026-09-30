@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -140,6 +140,13 @@
    "reply": "小周你好，谢谢喜欢这条视频！官方账号直接转发并@我、不用于投流的话，没问题，直接转就好。如果要剪进广告投流，这部分按授权另计，每90天1500元。你们大概打算投多久？我按实际需要给你一个最简单的方案，确认后我们把授权范围写下来。",
    "lang": "zh",
    "note": "已经发布的旧视频也有授权问题：转发和投流分开谈，钱在投流那部分，范围要落在文字里。"
+  },
+  {
+   "id": "creator-brand-deal-reply-021",
+   "situation": "Home fitness brand Coreline offered $1,000 for one TikTok, but only if it hits 50,000 views in 7 days; otherwise they'd pay $300. I have 70k followers and my last ten videos averaged 35,000 views. My flat rate is $900 per TikTok with 30 days of organic usage, and I'd be open to a $200 bonus on top if it passes their target. The contact is Sofia.",
+   "reply": "Hi Sofia, thanks for the offer. I don't price on view guarantees, since reach depends on the algorithm as much as the content, but here are my numbers: my last ten videos averaged 35,000 views. My rate for one TikTok is $900 with 30 days of organic usage. If you'd like a performance element, I'm happy to add a $200 bonus if it passes 50,000 views in 7 days. Would that work for you?",
+   "lang": "en",
+   "note": "The flat fee covers the work; any upside for performance sits on top, never in place of it."
   }
  ]
 }

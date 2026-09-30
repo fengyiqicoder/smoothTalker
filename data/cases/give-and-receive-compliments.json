@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -140,6 +140,13 @@
    "reply": "Just wanted to say, you were so patient with her the whole way from York, singing her through all of it. Genuinely impressive. Have a good rest of your day.",
    "lang": "en",
    "note": "To a stranger, in person: name what they did, then go; don't wait around for a reply."
+  },
+  {
+   "id": "give-and-receive-compliments-021",
+   "situation": "I'm Korean-American and grew up in Ohio. After our kickoff call, the new client lead, Greg, wrote in the shared Slack channel: 'Great session, and your English is really impressive!' I don't want to lecture him, but I don't want to just say thanks either. The next step is sending him the rollout timeline on Friday.",
+   "reply": "Thanks, Greg, glad the session was useful! I'd hope the English holds up, I grew up in Ohio. I'll send the rollout timeline on Friday.",
+   "lang": "en",
+   "note": "Accept the part that's a compliment, correct the assumption in one light clause, and move to the work."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -141,6 +141,13 @@
    "reply": "Bonjour Camille, je crois que j'ai votre carnet de croquis : je l'ai trouvé hier sur un banc du parc de la Tête d'Or, celui avec les hérons du lac. Il est bien au sec chez moi. Dites-moi quel jour vous arrange pour qu'on se retrouve au parc et que je vous le rende.",
    "lang": "fr",
    "note": "Rendre un objet à un inconnu : un détail qui prouve que c'est bien le sien, une remise dans un lieu public, et rien de plus."
+  },
+  {
+   "id": "first-message-to-stranger-021",
+   "situation": "I'm 68 and a retired carpenter, 40 years in the trade. A young man in our town's online community group, Kwame, posted that he's restoring an old wooden rowing boat down by the harbour and doesn't know how to replace the rotten transom. I'd love to help and I've done that job plenty of times.",
+   "reply": "Hi Kwame, saw your post about the rowing boat. Replacing a rotten transom is a job I did plenty of times in 40 years as a carpenter. Is it the whole transom that's gone, or just the bottom edge? Happy to come and have a look one morning if that would be useful.",
+   "lang": "en",
+   "note": "Lead with his problem and one easy question; the offer to help is the tiny ask."
   }
  ]
 }

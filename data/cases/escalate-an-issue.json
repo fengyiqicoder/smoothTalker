@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -141,6 +141,13 @@
    "reply": "标题：今天下班前需要处理：共享盘客户身份证文件夹仍可公开访问\n何经理您好，我是客服组的周敏。9月28日周一我发现共享盘里有个文件夹设成了“任何人凭链接可查看”，里面约有400份客户身份证扫描件。当天我告诉了负责共享盘的老韩，他说会改，但截至今天下午仍然是公开的，我也跟他说了会来找您。链接多开放一天，客户信息外泄的风险就多一天。能否请您今天下班前安排关闭公开权限？我的建议是先改成仅内部可见，再查一下有没有被外部访问过。",
    "lang": "zh",
    "note": "涉及客户个人信息，截止时间按小时算；是否需要上报或通知客户，交给公司的安全和法务判断。"
+  },
+  {
+   "id": "escalate-an-issue-021",
+   "situation": "I'm Mia Torres, in a four-person group for MKT 210; our final report is due Friday Oct 23 and is worth 30% of the grade. Our teammate Jordan hasn't sent his section, the competitor analysis, which was due Sept 25; he missed our meetings on Sept 22 and 29 and hasn't answered our messages from Sept 26 and 29. I told him today that I'm emailing Professor Adler to ask how to handle it.",
+   "reply": "Subject: Guidance needed by Fri 9 Oct: MKT 210 group report\nDear Professor Adler, I'm writing about our group's final report for MKT 210, due Friday 23 October. Our teammate Jordan hasn't sent his section, the competitor analysis, which was due on 25 September; he missed our meetings on 22 and 29 September and hasn't replied to our messages on 26 and 29 September. Jordan knows I'm writing to you. Could you let us know by Friday 9 October how you'd like us to handle it? Our suggestion is that the other three of us split the section and each member submits a short note on what they contributed. Thank you, Mia Torres",
+   "lang": "en",
+   "note": "Group-project escalation: dates instead of judgements about Jordan, and a proposed fix so the professor only has to say yes."
   }
  ]
 }

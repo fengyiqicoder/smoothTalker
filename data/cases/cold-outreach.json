@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -140,6 +140,13 @@
    "reply": "Subject: Wholesale for a new Leeds café?\n\nHi Nick,\nI've been drinking your Kenyan at home for a year, and it's the coffee I want behind the bar when I open a café in Leeds this January. We expect to need about 15kg a week, and I ran the coffee at Bramble Café in York for four years, around 400 cups a day. Do you take on wholesale accounts at that size? A quick no is genuinely helpful too.\nHannah",
    "lang": "en",
    "note": "Buying is still a cold pitch: why them, the volume in one number, your proof, and a single yes/no question."
+  },
+  {
+   "id": "cold-outreach-021",
+   "situation": "Me llamo Lucas y toco en un grupo de folk-rock de Valencia, Los Tejados; somos cuatro y tocamos temas propios. Nuria, la programadora de la sala La Chimenea, publicó en Instagram que busca grupos locales para los jueves de noviembre. En nuestro último concierto, un martes en un bar de Russafa, metimos a 90 personas.",
+   "reply": "Asunto: Grupo local para un jueves de noviembre\n\nHola, Nuria:\nVi tu publicación buscando grupos locales para los jueves de noviembre. Somos Los Tejados, cuatro músicos de folk-rock de Valencia con repertorio propio. En nuestro último concierto, un martes en Russafa, metimos a 90 personas. ¿Te mando un enlace con dos temas en directo? Si no encaja, un «no» también me ayuda.\n\nLucas",
+   "lang": "es",
+   "note": "La prueba es gente en la sala un martes, que es lo que le importa a quien programa."
   }
  ]
 }

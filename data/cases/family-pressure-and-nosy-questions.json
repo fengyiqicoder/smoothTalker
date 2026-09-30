@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -141,6 +141,13 @@
    "reply": "Ha, the twins keep me plenty busy, Gerald. Priya and I are happy with how it's working. Now, did you finish that bench, or is it still in pieces in the workshop?",
    "lang": "en",
    "note": "No defending the arrangement to an in-law; if he asks again, repeat the same line nearly word for word."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-021",
+   "situation": "我32岁，我妈又没问我就给我约了相亲，这周六下午见她同事的儿子。前两次我都去了，这次不想去，以后也不想她再帮我约。她最近在跟小区阿姨们排广场舞准备比赛。在微信上回她。",
+   "reply": "妈，我知道您是替我操心。这周六的相亲我不去了，麻烦您跟阿姨说一声抱歉，以后这类安排也先别帮我约了。周六下午我回家陪您吃饭，顺便看看您比赛的舞排得怎么样了？",
+   "lang": "zh",
+   "note": "不解释为什么不想相亲，解释会变成新一轮劝说；她再提，就用几乎一样的话再说一遍。"
   }
  ]
 }

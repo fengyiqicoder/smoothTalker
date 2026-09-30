@@ -5,14 +5,14 @@
   {
    "id": "mediating-between-two-people-001",
    "situation": "My brother and sister aren't speaking because of a fight over who hosts Christmas with our dad. Both keep calling me to vent. I want to help without being in the middle. My sister just called again.",
-   "reply": "That sounds really frustrating, and I'm glad you told me. I love you both, so I'm not going to take sides or pass things along to Dan. I think this needs saying to him directly. Want me to set up a call with the three of us on Sunday? I'll tell him exactly the same thing.",
+   "reply": "That sounds really frustrating, and I'm glad you told me. I love you both, so I'm not going to take sides or pass things along to our brother. I think this needs saying to him directly. Want me to set up a call with the three of us on Sunday? I'll tell him exactly the same thing.",
    "lang": "en",
    "note": "Offer to host the conversation, never to carry the message."
   },
   {
    "id": "mediating-between-two-people-002",
    "situation": "My friend Leah is mad at me because I won't take her side against Chloe after their falling out over the bridesmaid thing. She says I'm being fake.",
-   "reply": "I get that you wanted me in your corner, and I'm sorry that's hard. I'm not taking sides between you and Chloe, and that's not me being fake, it's me caring about you both. I'm still your friend, and I'll still see you at dinner on Friday.",
+   "reply": "I get that you wanted me in your corner, and I'm sorry that's hard. I'm not taking sides between you and Chloe, and that's not me being fake, it's me caring about you both. I'm still your friend, and that hasn't changed.",
    "lang": "en",
    "note": "Repeat the position calmly and reaffirm the friendship; don't relitigate their fight to prove you're neutral."
   },
@@ -33,20 +33,20 @@
   {
    "id": "mediating-between-two-people-005",
    "situation": "My mom and my aunt haven't spoken since Grandma's funeral in June, over who gets her house. I offered to host a call between them and my aunt texted: 'Never. And if you keep pushing this I'll stop talking to you too.'",
-   "reply": "I hear you, and I'm not going to push. I love you both and I'm staying out of the house question. The offer stands if you ever want it, and either way I'll see you for Sunday lunch on the 11th like we planned.",
+   "reply": "I hear you, and I'm not going to push. I love you both and I'm staying out of the house question. The offer stands if you ever want it, and either way, nothing changes between you and me.",
    "lang": "en",
    "note": "When one side refuses, drop it cleanly and protect your own relationship with her; the offer stays open without pressure."
   },
   {
    "id": "mediating-between-two-people-006",
    "situation": "I chair our community garden committee. I got two members, Frank and Delia, together to sort out their fight over the shared tool shed, and 10 minutes in they're talking over each other and Frank just said 'this is pointless'. I need to stop it.",
-   "reply": "Let's stop here for today. I don't think we'll get further right now, and that's okay; it's obvious you both care about this garden. I'd like to try again on Saturday the 10th after the workday, just on the shed schedule. If it helps, I can ask someone from the council's free mediation service to sit in.",
+   "reply": "Let's stop here for today. I don't think we'll get further right now, and that's okay; it's obvious you both care about this garden. I'd like to try again on Saturday the 10th, just on the shed schedule. If it helps, I can look into whether there's a community mediation service nearby that could send someone to sit in.",
    "lang": "en",
    "note": "Pause kindly, name the shared goal, and offer a narrower second try or a neutral professional. Don't rule on the shed in the room."
   },
   {
    "id": "mediating-between-two-people-007",
-   "situation": "I manage a small sales team. Priya and Luke have been fighting over who owns the Harmon Foods account since the territory change. In our joint meeting today we agreed Priya owns it from Oct 1, Luke hands over his notes and joins the next two calls, and disputes come to me instead of the team chat. I want it in writing to both.",
+   "situation": "I manage a small sales team. Priya and Luke have been fighting over who owns the Harmon Foods account since the territory change. In our joint meeting today we agreed Priya owns it from Oct 1, Luke hands over his notes and contacts by Oct 2 and joins the next two calls, and disputes come to me instead of the team chat. I want it in writing to both.",
    "reply": "Thanks both for today. To confirm what we agreed: Priya owns the Harmon Foods account from Thursday 1 October. Luke will share his account notes and contacts by Friday 2 October and join the next two Harmon calls to make the introductions. If anything about the account is unclear from here, bring it to me rather than the team channel. Let's check in together on Tuesday 13 October.",
    "lang": "en",
    "note": "The written summary goes to both at once, in the same words: neutral on who was right, clear on who does what next."
@@ -61,7 +61,7 @@
   {
    "id": "mediating-between-two-people-009",
    "situation": "大学四个室友的群里，阿敏和小月因为国庆去厦门的AA账吵起来了，越说越难听，其他人都不敢出声。钱是我统一垫付的，民宿和包车的单据都在我这儿。我想在群里说点什么。",
-   "reply": "两位，看得出这事让你们俩都挺不舒服的，我不站谁那边。钱是我垫的，今晚我把民宿、包车和吃饭的每一笔单据整理成表格发到群里，大家按实际花费看。对得上的就按表来，有出入的地方你们俩私下直接聊，需要的话周六晚上我们三个语音一下，我在旁边。群里这事就先聊到这儿。",
+   "reply": "两位，看得出这事让你们俩都挺不舒服的，我不站谁那边。钱是我垫的，今晚我把民宿和包车的每一笔单据整理成表格发到群里，大家按实际花费看。对得上的就按表来，有出入的地方你们俩私下直接聊，需要的话周六晚上我们三个语音一下，我在旁边。群里这事就先聊到这儿。",
    "lang": "zh",
    "note": "群里公开吵，先把争执挪出群聊；垫钱的人只提供事实，不判谁对谁错，再搭一个直接对话的台子。"
   },
@@ -74,22 +74,22 @@
   },
   {
    "id": "mediating-between-two-people-011",
-   "situation": "My sons, Ethan (16) and Leo (13), have been at war for weeks over the shared Xbox, slamming doors and texting me separately to complain about each other. I've heard each of them out. Tonight after dinner I'm sitting them down together. How do I open it?",
-   "reply": "Thanks for sitting down, both of you. I'm not here to decide who's right, and I'm not going to keep passing complaints back and forth. Tonight we're only talking about the Xbox, nothing else. One person talks at a time, no interrupting, and let's try to leave the table with one thing we agree on, even if it's just who has it this Saturday.",
+   "situation": "Nina and Jordan from my climbing group split up last month. Nina told me Jordan has turned up outside her flat three nights running and texted her that she'll 'regret this'. Jordan has now asked me to get the two of them together to 'talk it out', and I want to message Nina.",
+   "reply": "Nina, thank you for telling me, and I'm so sorry you're dealing with this. Turning up at your flat and that text aren't a falling-out for me to help smooth over, so I won't be setting up any meeting between you. Please report both to the police, keep the text, and if he turns up again and you feel unsafe, call the emergency number straight away. If you'd like someone with you when you report it, I'm free tomorrow evening.",
    "lang": "en",
-   "note": "Even as the parent, stay neutral on who's right: one topic, one speaker at a time, and aim for one small agreement rather than a full peace deal."
+   "note": "Threats and turning up uninvited are not a two-sided dispute: don't mediate or arrange a meeting, point her to the police, and don't pass anything she told you back to him."
   },
   {
    "id": "mediating-between-two-people-012",
    "situation": "I'm a shift supervisor at a restaurant. A server, Jade, told me a line cook, Ryan, keeps commenting on her body and has brushed against her twice. She asked me to 'just sit you both down and sort it out' because she doesn't want it to be a big deal.",
-   "reply": "Jade, thank you for telling me, and I'm really sorry this has been happening. What you've described isn't a disagreement I can sort out between the two of you; it has to go through the company, and that's what protects you. I'm taking it to our general manager, Lisa, today, and I'll keep it as private as I can. Until it's dealt with, I won't put you and Ryan on the same shifts. Is there anything else you need from me right now?",
+   "reply": "Jade, thank you for telling me, and I'm really sorry this has been happening. What you've described isn't a disagreement I can sort out between the two of you; it has to go to HR, and that's what protects you. I'm taking it to HR today, and I'll keep it as private as I can. I'll also ask them to keep you and Ryan on separate shifts while it's looked into. Is there anything else you need from me right now?",
    "lang": "en",
-   "note": "Comments about her body and unwanted touching are not a two-sided dispute: don't hold a joint sit-down; report it through the channel your workplace policy names."
+   "note": "Comments about her body and unwanted touching are harassment, not a two-sided dispute: no joint sit-down, report it to HR, and don't promise outcomes HR decides."
   },
   {
    "id": "mediating-between-two-people-013",
    "situation": "我妈从老家过来帮我们带刚满半岁的孩子，跟我老婆因为孩子穿多少、什么时候加辅食天天闹别扭，两个人都私下跟我抱怨对方。刚才我妈又拉着我说：“你得管管你媳妇，她根本不听我的。”",
-   "reply": "妈，我知道您大老远过来帮我们带孩子，受了委屈，您跟我说我都明白。不过我不想在您和小丽之间传话，传来传去意思就变了。孩子穿多少、什么时候加辅食，这周六孩子睡午觉的时候，咱们三个坐下来一起商量个规矩，一件一件说，一个人说完另一个再说，拿不准的就一起听儿保医生的。我也会跟小丽说一样的话，不偏向谁。",
+   "reply": "妈，我知道您大老远过来帮我们带孩子，受了委屈，您跟我说我都明白。不过我不想在您和她之间传话，传来传去意思就变了。孩子穿多少、什么时候加辅食，这周六孩子睡午觉的时候，咱们三个坐下来一起商量个规矩，一件一件说，一个人说完另一个再说，拿不准的就一起听儿保医生的。我也会跟她说一样的话，不偏向谁。",
    "lang": "zh",
    "note": "婆媳之间，你是孩子的爸爸，可以有自己的意见，但不当传话筒，把两个人拉到一张桌上一起定规矩。"
   },
@@ -103,7 +103,7 @@
   {
    "id": "mediating-between-two-people-015",
    "situation": "At dinner on Saturday my best friend Sophie joked that my husband Tom 'finally found a job that sticks', and he's been fuming since. Sophie just texted asking if Tom is mad at her and whether I can smooth it over for her.",
-   "reply": "Hey Soph, thanks for asking, and I'd rather Tom tell you how he took it than me guessing on his behalf. I love you both, so I'm staying out of the middle on this one. If you want to clear the air, a quick text to him directly will mean more than anything passed through me, and I'm happy to help you word it. Still on for our walk Thursday?",
+   "reply": "Hey Soph, thanks for asking, and I'd rather Tom tell you how he took it than me guessing on his behalf. I love you both, so I'm staying out of the middle on this one. If you want to clear the air, a quick text to him directly will mean more than anything passed through me, and I'm happy to help you word it.",
    "lang": "en",
    "note": "When one side is your partner, neutrality matters more: don't report his feelings, point her to him, and keep your friendship with her separate."
   },

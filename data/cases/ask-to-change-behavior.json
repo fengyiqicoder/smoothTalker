@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -141,6 +141,13 @@
    "reply": "Can I raise a small thing, not a fight? A couple of times lately you've said yes to plans for both of us before checking with me, like Sunday lunch for your brother and Saturday's barbecue. The plans are fine, but I end up feeling like my weekend's been decided for me. Could anything involving both of us start with a quick \"are you free?\" first? I'll do the same.",
    "lang": "en",
    "note": "Ask for the check-in, not a veto: a small shared rule is easier to say yes to than 'stop making plans'."
+  },
+  {
+   "id": "ask-to-change-behavior-021",
+   "situation": "My colleague Matt does an impression of my Nigerian accent when he repeats my points in our daily stand-ups, and people laugh. I messaged him on Slack asking him to drop it, and he replied 'haha come on, it's just banter, don't be so sensitive.' We're on the same team and I don't want this to become a big thing.",
+   "reply": "I know it's meant as banter, and I'm not asking you to stop joking with me. It's just the accent impression when you repeat my points in stand-up: the laugh ends up being about how I said it rather than what I said. Could you drop that one bit from now on? That's the whole ask, and we're good.",
+   "lang": "en",
+   "note": "When they call you sensitive, don't debate your feelings: grant the intent, restate the one behaviour and its effect, repeat the ask. If it continues, take it to your manager or HR."
   }
  ]
 }

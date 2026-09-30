@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -141,6 +141,13 @@
    "reply": "明白，谢谢你特意回我，还把情况说清楚了。你先忙，以后有机会再聊。",
    "lang": "zh",
    "note": "跟进换来一个“不行”也是结果：一句谢谢就收，不追问，也不顺势请他帮别的忙。"
+  },
+  {
+   "id": "follow-up-unanswered-021",
+   "situation": "My accountant, Helen, said on Sept 10 she'd send my draft self-employed accounts by Sept 18. I emailed on Sept 22 asking for an update and heard nothing. She told me the filing deadline is Oct 31, I'm away Oct 19 to 25, and I want time to review them before then.",
+   "reply": "Hi Helen, I know this is a busy season for you. Following up on my draft accounts, which we'd planned for 18 September. Could you let me know roughly when they'll be ready? I'm away 19 to 25 October, so having them by Friday 16 October would give me time to go through them before the 31 October deadline. Even a rough date helps me plan.\nThanks,\nSam",
+   "lang": "en",
+   "note": "Second bump to someone you pay: the date you need is about your planning, and a rough date is enough of a reply."
   }
  ]
 }

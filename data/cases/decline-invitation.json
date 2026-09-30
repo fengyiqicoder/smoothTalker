@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -141,6 +141,13 @@
    "reply": "Thanks for inviting me, Ade, that's kind of you. I'll pass on Sunday, church isn't really my thing, but I hope the harvest service goes well. Fancy lunch one day this week instead? Thursday works for me.",
    "lang": "en",
    "note": "One short, honest reason with no debate about belief, and a real alternative because you'd genuinely like to see him."
+  },
+  {
+   "id": "decline-invitation-021",
+   "situation": "My 8-year-old, Maisie, has been invited to her friend Harper's birthday sleepover on Saturday 17 October. We don't do sleepovers yet, but Maisie would love to go to the party part in the evening. Harper's mum is Kirsty; I'm replying by text.",
+   "reply": "Thanks so much for inviting Maisie, Kirsty, she's thrilled. We're not doing sleepovers yet, so she won't stay the night, but she'd love to come to the party part on the 17th if that works for you. What time would suit for pick-up?",
+   "lang": "en",
+   "note": "State the family rule, not a reason to debate, and say yes to the part you can do."
   }
  ]
 }

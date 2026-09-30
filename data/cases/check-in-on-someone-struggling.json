@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -141,6 +141,13 @@
    "reply": "阿琪，最近一直在想你，这条不用回。这周六你那边上午10点、我这边下午4点，我想给你打个十分钟的视频，不聊论文，就看看你。不方便的话回个“下次”就好，一个字都不用多解释。",
    "lang": "zh",
    "note": "隔着时差：替对方把时间换算好，把话题限定得很小，让她用两个字就能拒绝。"
+  },
+  {
+   "id": "check-in-on-someone-struggling-021",
+   "situation": "My friend Dan's ground-floor flat flooded in last Thursday's storm and he's staying on his sister's sofa across town. He posted that he lost most of his furniture and books, but hasn't said much else. I have a car and I'm free this Saturday.",
+   "reply": "Dan, I saw your post about the flat and I've been thinking about you since. No need to reply properly to this. I'm free Saturday and can bring the car over to help shift whatever's ruined, or do a run to the tip, from 10 till whenever you like. Just reply 'Saturday' or 'not this week', both are completely fine.",
+   "lang": "en",
+   "note": "After a disaster the useful help is physical and dated; skip the silver linings and don't ask for a list of what was lost."
   }
  ]
 }

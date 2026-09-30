@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -141,6 +141,13 @@
    "reply": "Hi Tom, Nora fell off the monkey bars on Saturday and urgent care found a hairline fracture in her left wrist. She's in a cast for four weeks. Her follow-up at the fracture clinic is Wednesday 7 October at 3:30, which is your day. Would you like to take her, or shall I? Please let me know by Monday. Thanks.",
    "lang": "en",
    "note": "Medical facts, the date and one question; no account of who was watching. If a child is badly hurt, call emergency services first and message after."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-021",
+   "situation": "Mi ex, Javier, me escribe que lo han despedido y me pide pagar la mitad de la pensión de nuestra hija Lucía (8 años), 150 € en vez de 300 €, en octubre, noviembre y diciembre. Estoy dispuesta a aceptarlo por esos tres meses si queda por escrito y en enero vuelve a los 300 €.",
+   "reply": "Hola Javier, siento lo del trabajo. Te propongo esto: en octubre, noviembre y diciembre la pensión de Lucía será de 150 € al mes, y a partir de enero vuelve a ser de 300 €. ¿Me confirmas por aquí que estás de acuerdo con esos meses y esos importes? Gracias.",
+   "lang": "es",
+   "note": "Un cambio de dinero temporal se deja por escrito con fecha de inicio y de fin. Si hiciera falta cambiar el convenio, consúltalo con un abogado o mediador."
   }
  ]
 }
