@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "apologize-001",
@@ -113,6 +113,13 @@
    "reply": "Olu, I'm sorry about Saturday. I drank too much and started a shouting match with your cousin in the middle of your 30th, and you spent part of your own party walking me outside. That's on me, not him. I'll message your cousin to apologise too, and at your things from now on I'm keeping it to two drinks. Let me take you out for a belated birthday dinner, whenever suits you.",
    "lang": "en",
    "note": "The drink is named as part of what you did, not as the excuse; his lost night is the impact to own."
+  },
+  {
+   "id": "apologize-017",
+   "situation": "昨晚教我爸用手机挂号，他问到第三遍的时候，我不耐烦地说了句“跟你说了多少遍了”。他把手机一放说“不学了”，今天也没怎么理我。我周六会回家。",
+   "reply": "爸，昨晚教你用手机挂号，我说“跟你说了多少遍了”，那个语气太冲了，对不起。你第一次弄这个，问几遍很正常，是我自己没耐心，你听了心里肯定不好受。周六我回去，陪你从头一步一步操作一遍，再把步骤写在纸上给你留着。",
+   "lang": "zh",
+   "note": "对长辈道歉同样点名具体那句话，再给一个实实在在的补救。"
   }
  ]
 }

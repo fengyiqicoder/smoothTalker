@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -106,6 +106,13 @@
    "reply": "老周，谢谢你想着来！回复上周五截止后，桌数和座位就跟酒店定死了，这次一个人都加不了，对所有人都是一样的。这次见不到你们俩真的很可惜。等我们度完蜜月回来，请你和女朋友吃顿饭，好好喝一杯。",
    "lang": "zh",
    "note": "过了截止日期的回复：规则对所有人一样，理由一句说清，不开例外，再给一个具体的见面机会。"
+  },
+  {
+   "id": "wedding-and-event-host-messages-016",
+   "situation": "Nos casamos el sábado 17 de octubre. Mi novio y yo decidimos que solo den discurso los padrinos y mi hermana Laura, para que la cena no se alargue. Mi tío Rafael me acaba de escribir que quiere decir unas palabras en el banquete.",
+   "reply": "Tío Rafael, gracias de corazón por querer decir algo ese día, nos emociona mucho. Hemos dejado los discursos solo para los padrinos y Laura, para que la cena no se alargue, y es igual para todos. Nos encantaría escuchar esas palabras en persona durante la fiesta, o que nos las dejes escritas en el libro de firmas para leerlas con calma. ¡Qué ganas de verte el 17!",
+   "lang": "es",
+   "note": "El límite se presenta como una regla para todos y se le da otro sitio para su cariño, sin abrir una excepción."
   }
  ]
 }

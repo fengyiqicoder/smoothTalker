@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Hannah, thanks for trusting me with this, and yes, I'd like to take on the Northern team. Going from 6 people to 12 across two regions is a real change in the role, so alongside the handover plan I'd like us to talk about the title and pay that go with it. Could we find 30 minutes before Raj leaves on Friday 16 October? Thursday or Friday afternoon this week both work for me.",
    "lang": "en",
    "note": "The moment scope is added is the best time to ask: say yes, name the change, and book the pay talk before the handover. Bring the number to the meeting."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-017",
+   "situation": "I'm a programme coordinator at a small charity on £31,000. In July my director Helen said salaries are frozen until April because of a funding cut. Since my colleague Sam left in July and wasn't replaced, I've run the volunteer programme (60 volunteers) on top of my own job. I'd like the title Programme and Volunteer Manager now and £35,000 from April, agreed in writing.",
+   "reply": "Hi Helen, could we find 30 minutes next week to talk about my role? I love working here and want to keep growing with the charity. Since Sam left in July I've been running the volunteer programme, all 60 volunteers, alongside my coordinator work. I understand salaries are frozen until April, so I'd like to propose the title Programme and Volunteer Manager now, and a written agreement that my salary moves to £35,000 in April. If that's not possible, I'd like to understand what would be.",
+   "lang": "en",
+   "note": "When cash is frozen, ask for the title now and lock the number in writing for the date the freeze ends."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -106,6 +106,13 @@
    "reply": "小李你好，10月12日周一中午的3份大拼盘已经记下了。看到你备注说有40个人，我们每份是按10个人的量做的，3份大概够30个人吃，要不要加一份？加的话多480元，总共1920元。如果有人不吃，或者另外备了点心，3份也够，你定就好。",
    "lang": "zh",
    "note": "建议来自她自己写的人数，差价和不需要加的情况都说清楚，这是帮她避免不够吃，不是多卖。"
+  },
+  {
+   "id": "upsell-without-pushiness-016",
+   "situation": "I'm a freelance web designer. I launched a website for Rosa's florist shop on Monday and she's thrilled. I offer a $60 a month maintenance plan (updates, backups, small edits), but she only changes her prices twice a year, and a free 30-minute handover session would teach her to do that herself.",
+   "reply": "Rosa, so glad you're happy with the site, it's live and all yours. Since you mentioned you only change prices a couple of times a year, the free 30-minute handover will probably cover you: I'll show you how to edit prices and photos yourself. If you'd rather not touch it at all, there's also my maintenance plan at $60 a month, which covers updates, backups and small edits. No need for it though, the handover alone is a perfectly good setup.",
+   "lang": "en",
+   "note": "Leading with the free option is what makes the paid one read as advice."
   }
  ]
 }

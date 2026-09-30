@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -106,6 +106,13 @@
    "reply": "Carla, eu adoro nossos encontros e quero continuar tendo eles. Daqui pra frente, se você atrasar mais de 20 minutos sem avisar, eu vou pedir e começar sem você, ou vou embora, sem drama nenhum. Se o dia estiver corrido, é só me avisar e a gente remarca.",
    "lang": "pt",
    "note": "O limite é o que você vai fazer, não uma cobrança sobre os atrasos. Se ela reclamar, repita a mesma frase, mais curta."
+  },
+  {
+   "id": "set-boundary-016",
+   "situation": "My coworker Tanya comments on my lunch almost every day ('salad again?', 'you've lost so much weight, what's your secret?'), sometimes in front of others. I don't want to discuss my food or my body at work at all. We otherwise get on well, and she's in the middle of renovating her kitchen.",
+   "reply": "Tanya, I really like our lunches together. I'm not going to talk about my food or my weight at work, so when it comes up I'll just change the subject. Now tell me, did the new cabinets for your kitchen finally arrive?",
+   "lang": "en",
+   "note": "If she tries again, repeat the same line and move on; do not explain why."
   }
  ]
 }

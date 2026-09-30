@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -113,6 +113,13 @@
    "reply": "Subject: Unpaid expense claim EXP-2291\n\nHi Tom,\nFollowing up on expense claim EXP-2291 for $846.20, for the Chicago client visit in July. It was submitted on 3 August and approved by Dana on 6 August, but it hasn't been reimbursed yet, and I haven't heard back on my note of 14 September. Could you let me know the date it will be paid, or whether anything is missing from the claim? I've copied Dana in case anything is needed on her side.\nThanks,\nSam",
    "lang": "en",
    "note": "Chasing your own employer is still a stage 2 chase: claim number, amount, approval date, one question for a pay date, and the approver copied."
+  },
+  {
+   "id": "chase-late-payment-017",
+   "situation": "我给一家公司做翻译，发票号YC-0905，金额12,800元，9月15日到期。今天对方财务张会计说，发票上没写采购单号PO-4471，被系统退回了，要重开。之前没人跟我说过需要写这个。",
+   "reply": "张会计您好，谢谢告知。发票YC-0905已按要求重开，补上了采购单号PO-4471，金额12,800元不变，附件请查收。这张原定9月15日到期，麻烦您看看能否排进本周的付款，方便的话告诉我预计的到账日期。以后开票我都会写上采购单号。",
+   "lang": "zh",
+   "note": "流程问题不争对错，马上补齐材料，同时把付款日期问实。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -112,6 +112,13 @@
    "reply": "Subject: Short let for 14 Market Street this December\n\nHi Helen,\nI walk past 14 Market Street most days, and it's been empty since June. I make stoneware here in Frome and would like to rent it for a two-week pop-up, 5 to 19 December, paying rent for the period. Last December a 10-day pop-up I ran in a local café sold £6,200 of pieces. Would the landlord consider a short let like that? A quick no is genuinely useful too.\nRosie Hart",
    "lang": "en",
    "note": "Asking for a space, not selling a product: show you know the unit, say exactly what and when, and ask a yes/no the agent can pass straight to the landlord."
+  },
+  {
+   "id": "cold-outreach-017",
+   "situation": "京都で手染めの手ぬぐいを作っています。吉祥寺の雑貨店「こもれび舎」の店主、佐藤さんが先月SNSで「秋冬は贈り物向けの布ものを増やしたい」と投稿していました。うちの手ぬぐいは昨年、関西の3店舗で合わせて約1,200枚売れました。",
+   "reply": "佐藤様\n突然のご連絡失礼いたします。先月の「秋冬は贈り物向けの布ものを増やしたい」という投稿を拝見し、ご連絡しました。京都で手染めの手ぬぐいを作っております。昨年は関西の3店舗で、合わせて約1,200枚お取り扱いいただきました。サンプルを3枚お送りしてもよろしいでしょうか。ご不要でしたら、その旨お返事いただけるだけでも大変ありがたいです。",
+   "lang": "ja",
+   "note": "日本の取引先には前置き一文を添えても、依頼は小さく一つに絞る。"
   }
  ]
 }

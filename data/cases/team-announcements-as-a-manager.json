@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -106,6 +106,13 @@
    "reply": "Correction to my Monday message about the 4% raise: it lands in the 30 November paycheck, not 31 October. That was my mistake; I misread HR's timeline. You don't lose anything, because the November paycheck includes the raise backdated to 1 October, so October's increase arrives a month late but in full. I know some of you were planning around it, so if the delay causes a real problem, DM me this week and I'll ask HR what options there are. Sorry for the confusion.",
    "lang": "en",
    "note": "Correcting your own announcement about pay: same channel, first word 'Correction', own it in one line, and say plainly what people do and don't lose."
+  },
+  {
+   "id": "team-announcements-as-a-manager-016",
+   "situation": "我管一个8人的运营团队。组员王磊从今天起不在公司了，是公司和我一起做的决定，HR要求不能透露原因。他负责的华东区门店活动交给小陈，华南区交给阿琳，两人已经单独聊过。想在团队群里说一声，免得大家乱猜。",
+   "reply": "跟大家同步一件事：王磊从今天起不再在公司工作。这是公司和我一起做的决定，具体原因涉及个人隐私，我不能多说，也请大家不要猜测或在群里讨论。工作上，华东区门店活动由小陈接手，华南区由阿琳接手，交接清单我明天中午前发到群里。如果这件事影响到你手上的工作，或者你有顾虑，这周单独找我聊。",
+   "lang": "zh",
+   "note": "非自愿离职：不暗示原因，自己担下决定，把大部分篇幅留给谁接手、接下来怎么办。"
   }
  ]
 }

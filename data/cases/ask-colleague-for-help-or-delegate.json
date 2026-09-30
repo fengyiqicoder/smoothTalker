@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Tasha, could I ask you a favour? My son's school play is on Saturday 10 October and I'm on the day shift. Would you swap your Sunday 11 October day for my Saturday? Same hours, and I'll put the request to Grace myself so it's official. If Saturday doesn't suit you, no problem at all, just say and I'll ask around.",
    "lang": "en",
    "note": "A shift swap is a peer ask with no authority: name the exact trade, take on the admin yourself, and give a real out."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-017",
+   "situation": "I'm in Singapore and present the Q3 forecast to our regional CFO on Friday Oct 2 at 9am my time. The LatAm tab shows a 14% margin and I can't tell whether freight is in cost of goods. The analyst who built it, Beatriz, is in São Paulo, 11 hours behind, and we've never worked together.",
+   "reply": "Hi Beatriz, I'm Wei from the Singapore finance team. I'm presenting the Q3 forecast to our regional CFO on Friday 2 October at 9am Singapore time, which is Thursday 8pm for you. I can follow the LatAm revenue, but I can't tell whether freight is included in cost of goods for the 14% margin. Could you reply in writing by the end of your Wednesday? Three or four lines is plenty, and if that's too tight, just say so and I'll present the margin as provisional.",
+   "lang": "en",
+   "note": "Across time zones, write the ask so it can be answered without a call: the exact question, both local times, and an out."
   }
  ]
 }

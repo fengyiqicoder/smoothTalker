@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -106,6 +106,13 @@
    "reply": "阿凯，跟你说个小事哈。你晚上在阳台抽烟的时候，烟会从我房间窗户飘进来，这几天我都只能关着窗睡。以后抽烟能不能去楼下抽？你要是有更方便的办法，咱们也可以再商量。",
    "lang": "zh",
    "note": "只说烟飘进房间这个事实，不评价他抽烟；带一个具体方案，再留一个调整的余地。"
+  },
+  {
+   "id": "roommate-and-shared-living-016",
+   "situation": "Am Samstag, 3. Oktober, zieht Mia in unsere Dreier-WG ein. Bei uns gibt es einen Putzplan am Kühlschrank, der jede Woche rotiert, und Strom plus Internet kosten zusammen 90 Euro im Monat, die wir durch drei teilen und am Monatsersten an Jonas überweisen. Ich will ihr das vorab freundlich schreiben, bevor es später Missverständnisse gibt.",
+   "reply": "Hey Mia, wir freuen uns total, dass du am Samstag einziehst! Kurz zwei WG-Sachen, damit du gleich Bescheid weißt: Am Kühlschrank hängt ein Putzplan, der jede Woche rotiert, und Strom plus Internet sind 90 Euro im Monat, also 30 Euro pro Person, die jeweils am Monatsersten an Jonas gehen. Wenn dir nach ein paar Wochen etwas anders besser passt, sag einfach Bescheid, dann passen wir es an.",
+   "lang": "de",
+   "note": "Regeln gleich beim Einzug klären ist leichter, als sie später als Beschwerde einzuführen."
   }
  ]
 }

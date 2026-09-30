@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -113,6 +113,13 @@
    "reply": "你好，说一下小满视频的事。抖音上9月26日那条，能看到她的校服和校门口的校名，麻烦10月2日周五前删掉。以后我们俩发她的照片和视频，都不拍校服、学校和小区名字，这条我这边也一样遵守。同意的话回我一句“好”就行。谢谢。",
    "lang": "zh",
    "note": "Make the rule apply to both parents, so it reads as protecting the child, not policing him."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-017",
+   "situation": "I'm moving from Eastgate to Riverside on Nov 21, about 25 minutes further from my ex Dana's place. Our kids, Noah (11) and Lily (8), switch homes at Sunday 6pm handovers, currently at my place. Millfield library is roughly halfway and I'd like to propose meeting there.",
+   "reply": "Hi Dana, a heads up on a change: I'm moving from Eastgate to Riverside on 21 November, which is about 25 minutes further from you. For the Sunday 6pm handovers, would you be okay with meeting halfway, at Millfield library, so neither of us does the whole drive? Could you let me know by Friday 30 October so I can plan? Thanks.",
+   "lang": "en",
+   "note": "One topic, the fact that changes, a proposal that shares the cost, and a date for the answer."
   }
  ]
 }

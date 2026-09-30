@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -106,6 +106,13 @@
    "reply": "Thanks for sending it over. One thing to catch before Saturday: slide 23, the lake photo, has Jess standing right next to Chris. A crop or a different shot from that trip would fix it. Easy one to miss when you're going through hundreds of photos!",
    "lang": "en",
    "note": "Fixable before the event, so say it now, privately and in one line with the fix; no commentary on what the bride would think."
+  },
+  {
+   "id": "tell-someone-something-awkward-016",
+   "situation": "At my niece's christening lunch, the photographer is about to line everyone up for the family photo, and my father-in-law, Richard, has his fly down. He's quite formal and we're still getting to know each other. He's chatting with the vicar.",
+   "reply": "Richard, sorry to pull you away for a second. Quick one before the photo: your zip's down. Happens to everyone, and there's a minute before they line us up.",
+   "lang": "en",
+   "note": "An older, formal in-law gets the same treatment as anyone: draw him aside, say it quietly in one line, then talk about something else."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -113,6 +113,13 @@
    "reply": "I'd rather not, I'm not up to working today. Nikhil knows the vendor file, and I'll send him my notes for the 11am in the next ten minutes so he can take it. I'll check messages once this afternoon and update you tomorrow morning.",
    "lang": "en",
    "note": "Offer the coverage, not yourself: agreeing to 'just listen in' turns sick leave into remote work."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-017",
+   "situation": "We just shipped a big release after two weeks of late nights and I'm running on empty. I want to take tomorrow, Thursday, as a mental-health day, and my team lead, Sam, has said openly that it's fine to call them that. Nothing of mine is due until Monday, and Aisha can answer questions on the release notes. Slack.",
+   "reply": "Hi Sam, I'm taking a mental-health day tomorrow, Thursday 1 October, after the release push. Nothing of mine is due before Monday, and Aisha can pick up any questions on the release notes. Back Friday.",
+   "lang": "en",
+   "note": "Where the culture welcomes it, name it plainly; it's still a notification, not a request."
   }
  ]
 }

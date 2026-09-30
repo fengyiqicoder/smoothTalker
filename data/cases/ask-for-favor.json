@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Uncle Raj, I've found my first apartment and the agency needs a guarantor because I've only just started my job. I'd love it if that could be you, but I want to be upfront about what it means: as I read the lease, if I didn't pay, you'd be responsible for the rent, up to $21,600 over the 12 months, plus anything else the clause covers, like damage. I'll send you the guarantor clause so you can check exactly what you'd be signing. If it's not something you're comfortable with, that's completely fine, and I'll ask the agency about other options. Could you let me know by Friday 9 October?",
    "lang": "en",
    "note": "When a favour carries financial risk, name the worst case in numbers and share the document; hiding the size of the ask is the one thing to avoid."
+  },
+  {
+   "id": "ask-for-favor-017",
+   "situation": "I'm Sophie at number 14. We're having our bathroom redone from Oct 12 to Oct 16, and the builders need to put a skip outside our neighbour Mrs Dalton's front wall, which means she loses her usual parking spot for those five days. We've only said hello a few times, and she could use the space outside ours instead.",
+   "reply": "Hi Mrs Dalton, it's Sophie from number 14. We're having our bathroom redone from Monday 12 to Friday 16 October, and the builders need to put the skip outside your front wall, which would take your usual parking spot for those five days. Would that be okay with you? You'd be very welcome to use the space outside ours while it's there. If it's a real nuisance, just say, and I'll ask the builders what else we can do.",
+   "lang": "en",
+   "note": "Name the real cost (her parking, five days), offer what you can in return, and leave a genuine out."
   }
  ]
 }

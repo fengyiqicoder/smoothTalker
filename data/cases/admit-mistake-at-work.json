@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -113,6 +113,13 @@
    "reply": "李姐，跟您说一个我的失误：上周三提交的差旅报销里混进了一张我私人聚餐的发票，金额426元，报销款已经到账了。我今天上午核对时发现的，这426元我今天就退回公司，麻烦告诉我走哪个流程、转到哪个账户。以后提交前我会把私人票据单独放开，逐张核对后再交。对不起，给您添麻烦了。",
    "lang": "zh",
    "note": "涉及钱的错误，主动说、马上退，不解释为什么会混进去；一条具体的防范措施就够了。"
+  },
+  {
+   "id": "admit-mistake-at-work-017",
+   "situation": "I left my work laptop on the 18:40 train home last night. I reported it to the rail company's lost property at 20:00 and to IT at 07:30 this morning; IT has locked it remotely and it's encrypted, but it has the Hartley client files on it and it hasn't been found yet. I need to tell my manager, Owen.",
+   "reply": "Owen, I need to flag something: I left my work laptop on the 18:40 train last night, and it hasn't been found yet. It's encrypted and IT locked it remotely at 07:30 this morning, but it has the Hartley client files on it. I reported it to rail lost property at 20:00 and I'll chase them again at noon. I'm sorry, that's on me. Can we check with IT today whether anything needs to go to Hartley or be reported under our data policy? From now on the laptop stays in my bag on my lap when I travel.",
+   "lang": "en",
+   "note": "When the outcome is still open, say what is contained, what isn't, and ask to check reporting duties the same day rather than deciding it's harmless."
   }
  ]
 }

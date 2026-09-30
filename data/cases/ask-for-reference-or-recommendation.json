@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -112,6 +112,13 @@
    "reply": "Hi Dr. Mensah, I'm applying for a funded research assistant post at Halden University, and I only found out today that it needs a written reference by Monday 5 October. I know that's very short notice, and I'm sorry to land it on you. Would you be willing to write one? To make it quick, I can send a draft tonight covering my dissertation on flood-risk mapping and the Cumbria fieldwork, plus the upload link. If this week doesn't work, no problem at all, and I'll ask someone else.",
    "lang": "en",
    "note": "Short notice: own it once, put the deadline up front, and offer the draft so the ask shrinks to an edit."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-017",
+   "situation": "大学同学阿宁在远川科技做产品经理，我想请她帮我内推他们的高级产品运营岗，内推通道10月15日截止。我们毕业后联系不多，但去年聚会还聊过。我做了四年用户运营，负责的社群从2万人做到了15万人。",
+   "reply": "阿宁，好久不见！去年聚会一别又快一年了。我看到你们远川科技在招高级产品运营，想请你帮我内推一下，内推10月15日截止。我做了四年用户运营，负责的社群从2万人做到了15万人，简历和岗位链接我整理好一起发你，你直接转就行。如果不方便也完全没关系，不用有负担。",
+   "lang": "zh",
+   "note": "对同辈求内推，把材料准备齐、退路给足，对方才好答应。"
   }
  ]
 }

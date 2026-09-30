@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "small-talk-001",
@@ -106,6 +106,13 @@
    "reply": "Hi, I'm Rob, I work with Dana. I never got to meet her dad. How did you know him?",
    "lang": "en",
    "note": "At a funeral, invite a story rather than an opinion. If he shares one, 'What was he like?' keeps it going, and quiet moments can stay quiet."
+  },
+  {
+   "id": "small-talk-016",
+   "situation": "My sister's 15-year-old son Kai is staying with us this weekend and answers everything with 'fine' or a shrug. My sister told me he just started playing bass in a band with friends from school.",
+   "reply": "Your mum says you've started playing bass in a band. What are you lot playing at the moment, covers or your own stuff?",
+   "lang": "en",
+   "note": "Teenagers shut down at questions about school; ask about the thing they chose."
   }
  ]
 }

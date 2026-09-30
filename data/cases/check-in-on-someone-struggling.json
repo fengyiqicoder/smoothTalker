@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -113,6 +113,13 @@
    "reply": "阿杰，上周的事我一直惦记着你。这事跟你的能力没关系，这两年我最放心的搭档就是你。不用回我。周六晚上7点我请你去楼下那家烧烤，想聊就聊，不想聊就光吃。不方便回个“改天”就行。",
    "lang": "zh",
    "note": "留下的人别绕开这件事，也别说自己多愧疚让他反过来安慰你；内推、当推荐人这类帮忙，等他开口再提。"
+  },
+  {
+   "id": "check-in-on-someone-struggling-017",
+   "situation": "My daughter Chloe started university in Glasgow three weeks ago, 400 miles from home. On our usual Sunday call she said everyone else seems to have made friends already, then changed the subject. She hates being fussed over.",
+   "reply": "Hi love, I've been thinking about you since Sunday. No need to reply properly to this. I'd like to post you a parcel on Friday with the good biscuits and the blanket from the sofa; just say 'no parcel' if you'd rather not. I'll ring at our usual time on Sunday, and if you want me sooner, text 'call'.",
+   "lang": "en",
+   "note": "With a homesick young adult, skip the pep talk and the questions: one small comfort, the usual call, and an easy way to ask for more."
   }
  ]
 }

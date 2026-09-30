@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -112,6 +112,13 @@
    "reply": "阿哲，我10月16号周五去杭州出差，周六还会多待一天。想约你见一面：17号周六下午去西湖边走走，再找个地方喝杯东西，怎么样？爬苍山那天你说杭州的秋天最好看，正好验证一下。不方便也没关系，下次有机会再说。",
    "lang": "zh",
    "note": "异地的邀约：说清你本来就会在那边的时间，给一个具体安排，对方不会有“专门为我跑一趟”的压力，拒绝也容易。"
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-017",
+   "situation": "I've been messaging Owen on a dating app for a week and I like him. He just suggested our first date be dinner that he cooks at his flat on Saturday. I want to meet him, but somewhere public for a first date, and I don't want to sound like I'm accusing him of anything.",
+   "reply": "That's a really sweet offer, and I'd love to meet you. For a first date I always keep it simple and out somewhere, so how about a coffee or a drink on Saturday afternoon instead? If it goes well, I'm holding you to that dinner another time.",
+   "lang": "en",
+   "note": "State it as your own habit, not a judgment of him; a decent person will say yes without fuss."
   }
  ]
 }
