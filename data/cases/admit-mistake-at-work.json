@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -141,6 +141,13 @@
    "reply": "Chris, I need to flag a mistake: on last Thursday's call I told Oakridge Dental our payroll integration was live, and it's only on the Q1 roadmap. They signed the 40-seat annual contract on Monday, and Hannah, their ops lead, asked this morning when she can switch it on. I haven't replied to her yet. I'd like to tell her the truth today, with the Q1 timeline and what we can offer until then; can we agree the message by 2pm? Sorry, this one's mine. From now on I'll check the live features page before I promise anything on a call.",
    "lang": "en",
    "note": "Tell your manager before the customer, and don't paper over the gap in your reply to Hannah; what Oakridge is owed is a joint decision."
+  },
+  {
+   "id": "admit-mistake-at-work-021",
+   "situation": "我是装修公司的项目经理。业主刘女士卫生间的墙砖定的是浅灰哑光，我下单时选成了浅灰亮光，工人昨天已经铺完一面墙，她还没去现场看。公司同意拆掉重铺，费用我们出；正确的砖周五（10月2日）到货，整体完工要从10月9日推到10月13日。",
+   "reply": "刘女士，跟您说一个我的失误：卫生间墙砖您定的是浅灰哑光，我下单时选成了浅灰亮光，昨天工人已经铺完一面墙。这面墙我们拆掉重铺，费用全部由公司承担。正确的哑光砖周五（10月2日）到货，整体完工时间从10月9日推到10月13日。对不起，是我没核对清楚。以后每次下单前，我都会把型号发给您确认后再下。",
+   "lang": "zh",
+   "note": "向业主认错：错在哪、怎么补救、谁承担费用、新的完工日期一次说清，不推给供应商或工人。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -134,6 +134,13 @@
    "reply": "佐藤さん、はい、名入れできます！キーケースへの刻印は＋800円で、ローマ字8文字までです。発送まで5営業日かかるので、明日10月1日（木）中にご注文いただければ9日（金）にお届けできます。入れたい文字を教えていただければ、ご注文リンクをお送りしますね。",
    "lang": "ja",
    "note": "締め切りから逆算した注文日を先に伝えると、急かさずに次の一歩が明確になる。"
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-020",
+   "situation": "I make custom cookie gift boxes. Priya ordered 30 boxes for her team from me last December, and today she DMed on Instagram: 'hi again!! can we do the same as last year but 45 boxes, delivered Dec 11?' Dec 11 is free, my price is now $24 a box (it was $22), and I need orders confirmed by Nov 20.",
+   "reply": "Hi Priya, lovely to hear from you again! Yes, December 11 works, and 45 boxes are $24 each this year, so $1,080 in total. Same designs as last year, or would you like a festive twist? Once you confirm by November 20, the date is yours.",
+   "lang": "en",
+   "note": "A returning customer gets the new price stated plainly in the first answer, not discovered at checkout."
   }
  ]
 }

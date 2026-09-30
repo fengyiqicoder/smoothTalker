@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -141,6 +141,13 @@
    "reply": "Hi, I'd like to enrol in the bookkeeping course today. I was on last week's webinar and meant to book at the early-bird price of $299, but missed the midnight deadline by a few hours. Could you still honour $299 for me? If yes, I'll pay as soon as you send the link. If not, I understand, and I'll go ahead at $399.",
    "lang": "en",
    "note": "The anchor is a real, recent price you just missed; say you'll buy either way, so it costs them nothing to say yes."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-021",
+   "situation": "We've taken both our cars to Dave's garage for eight years. He's quoted $1,240 for a timing belt and water pump on my car. I don't have another quote, but I'd like to ask for $1,100 as a long-time customer, and I can drop the car off whichever day next week suits him.",
+   "reply": "Hi Dave, thanks for the quote, I'd like to go ahead with the timing belt and water pump. We've brought both cars to you for eight years, so I wondered whether you could do it for $1,100. I can drop it off whichever day next week suits you best. If the price is set, no problem, just book me in at $1,240.",
+   "lang": "en",
+   "note": "No rival quote, so the levers are loyalty and flexible timing; saying you'll book either way makes the ask cost him nothing."
   }
  ]
 }

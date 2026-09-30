@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -134,6 +134,13 @@
    "reply": "Dear friends and family, Rob and I have decided not to go ahead with our wedding on Saturday 7 November. It was a decision we made together, and we'd be grateful if you didn't ask us about the reasons. If you've already sent a gift, we'll post it back to you by the end of October, so there's nothing you need to do. Thank you for all the love you've shown us both, and we're sorry for any plans this changes.",
    "lang": "en",
    "note": "Calling it off: one message to everyone, the fact first, one plain line asking for privacy, and the practical next step so nobody has to ask."
+  },
+  {
+   "id": "wedding-and-event-host-messages-020",
+   "situation": "我在组织大学毕业十周年同学聚会，11月14日（周六）晚上在南京，每人300元AA，含晚饭和包间。饭店要我们11月6日（周五）前确认人数并交定金，现在有四个人报了名还没交钱。想在同学群里发个提醒，不想点名。",
+   "reply": "各位同学好，十周年聚会再跟大家确认一下：11月14日（周六）晚上，南京，每人300元AA，含晚饭和包间。饭店要我们11月6日（周五）前确认人数并交定金，所以报了名的同学麻烦在这之前转给我，到时按已交的人数订位。已经交了的同学谢谢，不用回复。十年没见，特别期待那天跟大家好好聊聊！",
+   "lang": "zh",
+   "note": "催款写成对所有人的安排，说清截止日和原因，不点名；过了6日仍没交的，再单独私聊。"
   }
  ]
 }

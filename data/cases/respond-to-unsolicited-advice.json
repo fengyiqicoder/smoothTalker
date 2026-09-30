@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -134,6 +134,13 @@
    "reply": "Ha, Martin, you'd make a great business consultant. Sundays are staying closed, it's my one day off and that's not changing, but I love how much you care about the place. Usual flat white?",
    "lang": "en",
    "note": "With a customer, stay on the friendly rungs: name your position once, warmly, and go straight back to service; repeat the same line if he raises it again."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-020",
+   "situation": "儿子上三年级。家长群里的刘妈妈私聊我好几次，说不报奥数班以后小升初要吃亏，还把她家报的班推给我。我们家商量过了，周末让孩子踢球，不报奥数。她人挺热心的，两家孩子也是好朋友。",
+   "reply": "刘妈妈，谢谢你惦记着我们家孩子，还特意把班的信息发给我。我们家商量过了，周末还是让他踢球，奥数这次先不报。俩孩子玩得这么好，哪个周末约着一起去公园踢球吧？",
+   "lang": "zh",
+   "note": "对热心的熟人用“说明立场”这一级就够，不讲理由，用孩子的友谊把话题转开；她再提就重复同一句。"
   }
  ]
 }

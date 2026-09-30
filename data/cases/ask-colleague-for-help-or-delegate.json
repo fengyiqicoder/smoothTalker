@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -141,6 +141,13 @@
    "reply": "周姐，想跟您借个人：我们10月16日（周五）要上线一个活动页，组里唯一的设计师在休产假，小美之前做过类似的页面，是最合适的人选。想借她10月8日、9日两天，文案和原型我都已经准备好，她只需要出视觉稿。您看她那两天排得开吗？时间不合适的话，告诉我哪两天方便，我这边调整；您同意了我再去跟小美对具体安排。",
    "lang": "zh",
    "note": "借别组的人先问她的领导：说清为什么是她、借多久、已经做到哪一步，再把改时间的余地留给对方。"
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-021",
+   "situation": "For my cost report due Friday Oct 9 I need last quarter's travel spend by department, just the raw export, and Karen in finance is the only one with access. In last month's budget meeting I pushed back hard on her numbers in front of everyone, and it's been frosty since. I do think I owe her an apology for how I did it.",
+   "reply": "Hi Karen, first, I came in too hard on your numbers in last month's budget meeting, and doing it in front of everyone wasn't fair to you. I'm sorry. Separately, could I ask for your help? I need last quarter's travel spend by department for my cost report due Friday 9 October, and you're the only one with access. Just the raw export is plenty, no analysis. If this week is too tight, tell me what works and I'll plan around it.",
+   "lang": "en",
+   "note": "Apologise for the meeting on its own terms, then ask; if the apology feels like a price for the favour, send it a day earlier."
   }
  ]
 }

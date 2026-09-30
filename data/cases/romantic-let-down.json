@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -134,6 +134,13 @@
    "reply": "Sofia, those three evenings in Lisbon were lovely, and I'm really glad I met you. I want to be honest before you look any further at flights: for me it was a holiday thing, and I'm not feeling a romantic connection beyond that. So I don't think you should come over in November. I'm sorry it's not the answer you were hoping for, and I wish you well.",
    "lang": "en",
    "note": "Answer before she books: the clear no now saves her money and a weekend."
+  },
+  {
+   "id": "romantic-let-down-020",
+   "situation": "I'm Mia, a barista. Owen, a regular who comes in most mornings, left his number on a napkin with 'Dinner sometime?'. I'm not interested, but I'd like him to keep feeling welcome as a customer, and I'd rather text than say it across the counter.",
+   "reply": "Hi Owen, it's Mia from the café. Thanks for the note, that was kind of you. I don't feel that way about you, so it's a no, but I hope you'll keep coming in for your morning coffee as usual.",
+   "lang": "en",
+   "note": "Where you work, make the no clear and the welcome back normal, then treat him exactly as before. If he keeps asking at the counter, bring in your manager."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -134,6 +134,13 @@
    "reply": "That's really helpful, Rita, thank you, and completely fair. I'll email Sam myself and just say you suggested I get in touch, nothing more, so it doesn't put anything on you. I'll let you know how it goes either way.",
    "lang": "en",
    "note": "When they offer their name instead of an intro, accept it gladly, say exactly how you'll use it, and still report back."
+  },
+  {
+   "id": "request-intro-or-referral-020",
+   "situation": "I play keys in a jazz trio, the Low Tide Trio. My old bandmate Marcus plays The Blue Heron most months and knows the booker, Tanya. We want a Thursday night slot in November; we've played 30 gigs at smaller bars this year, usually pull 40 to 50 people, and have a live recording. Marcus and I text now and then.",
+   "reply": "Hey Marcus, could I ask a favour? Would you be up for introducing us to Tanya at The Blue Heron? We're after a Thursday night slot in November, and since we usually pull 40 to 50 people I think we'd be a decent bet for a weeknight.\n\nIf it helps, here's something you can forward: \"The Low Tide Trio is a piano, bass and drums jazz trio that's played 30 gigs around town this year. They'd love a Thursday in November and can send a live recording first.\"\n\nIf you'd rather not put your name on it with Tanya, totally fine, just say. Either way I'll let you know how it goes.",
+   "lang": "en",
+   "note": "Peer-to-peer in a small scene: the blurb gives the booker a number she cares about, and the out protects Marcus's own gigs there."
   }
  ]
 }

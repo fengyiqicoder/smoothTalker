@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -134,6 +134,13 @@
    "reply": "小林，看你做得这么拼，挺佩服的。跟你说一声：保健品我以后就不买了，我本来也不吃这类东西，那个群我也先退了哈。你这个朋友我是一直要的，找个周末一起吃饭吧？",
    "lang": "zh",
    "note": "她再推产品时，只重复一句“保健品我不买，吃饭随时约”，不加新理由。"
+  },
+  {
+   "id": "set-boundary-020",
+   "situation": "I'm a freelance bookkeeper. My client Sandra, who owns a hair salon, has started sending WhatsApp voice notes at 10 or 11pm and then again at 7am asking if I've seen them. I like working with her, and starting Monday 5 October I'm only answering client messages weekdays 9am to 5pm, within one working day.",
+   "reply": "Hi Sandra, I really enjoy working with you and the salon. Starting Monday 5 October, I'm answering client messages on weekdays between 9am and 5pm, and I'll reply to anything you send within one working day. Voice notes are still fine, I'll just pick them up in those hours. If you know a deadline is coming, tell me early and we'll plan around it.",
+   "lang": "en",
+   "note": "If a 7am follow-up still arrives, answer it at 9 without comment; the pattern sets the boundary."
   }
  ]
 }

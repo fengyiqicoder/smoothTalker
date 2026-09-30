@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -134,6 +134,13 @@
    "reply": "Sure, I'll archive them tonight. Could you do the same with the photos of me on yours? Also, I'm cancelling the streaming account on 15 October, so save anything you want from it before then. Good luck with the new job.",
    "lang": "en",
    "note": "Digital belongings are still belongings: say yes, make your own ask, give the date, stop."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-020",
+   "situation": "My ex Ben and I broke up two years ago after five years together. He texted today: 'Wanted you to hear it from me before it's on Instagram: Chloe and I got engaged last weekend.' I'm genuinely happy for him, but I don't want to start chatting again.",
+   "reply": "Thanks for telling me yourself, Ben, that was thoughtful. Congratulations to you and Chloe, I mean it. I hope you have a really happy wedding.",
+   "lang": "en",
+   "note": "A courtesy announcement gets a gracious full stop: thanks, real congratulations, and no question that reopens the conversation."
   }
  ]
 }

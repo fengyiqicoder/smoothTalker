@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -141,6 +141,13 @@
    "reply": "Thanks for explaining the band, Greg, that helps. If I'm at the top of Team Lead I, it sounds like the real question is whether my role now fits Team Lead II. This year I've cut the ticket backlog by 40%, and since March I've run the weekend rota for both support teams. Could we go through the Team Lead II criteria together, agree what's still missing, and aim for a decision in the January cycle?",
    "lang": "en",
    "note": "A band ceiling is a question about level, not a no: move the ask up a level and get the gap written down with a date."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-021",
+   "situation": "我在一家物业公司做客服主管三年，月薪一直是7500，三年没调过。今年接手了阳光花园和锦绣苑两个新小区的投诉处理，平均结案时间从5天缩短到2天。想在微信上约经理周姐单独谈，目标是月薪8500。",
+   "reply": "周姐，想跟您约20分钟单独聊聊我的岗位和薪资，这周四或周五下午您看哪个方便？我挺喜欢现在这份工作，也想在这边长期干下去。简单说一下：今年我接手了阳光花园和锦绣苑的投诉处理，平均结案时间从5天缩短到了2天；我入职三年月薪一直是7500，想跟您谈谈调到8500。见面时我把具体数据带上。",
+   "lang": "zh",
+   "note": "预约消息里就给出数字和一条证据，领导有时间提前准备，不算突然袭击。"
   }
  ]
 }

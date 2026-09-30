@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -134,6 +134,13 @@
    "reply": "Perfecto, Rosa, el portátil de 699 € ya está listo. Como me contaba lo del café con el anterior, le comento una cosa: la ampliación de garantía a tres años cubre también derrames y golpes, por 129 €. Es casi una quinta parte del precio del portátil, así que si su hija lo cuida bien, sin ella va perfectamente. Si quiere, le doy las condiciones por escrito para que las mire con calma; con o sin ella, está bien.",
    "lang": "es",
    "note": "Una sola sugerencia ligada a lo que ella contó, el coste en claro y las condiciones para leer antes de decidir."
+  },
+  {
+   "id": "upsell-without-pushiness-020",
+   "situation": "I sell handmade ceramic planters online. Aisha ordered a $48 planter shipped straight to her mum as a birthday present for Oct 8. I'm posting it tomorrow morning and standard shipping takes 3 to 4 days. Gift wrap with a handwritten card is $6, and I always leave the price slip out of gift orders for free.",
+   "reply": "Hi Aisha, your planter goes out tomorrow morning, so it should reach your mum a few days before the 8th. Since it's going straight to her, I can gift-wrap it and add a handwritten card with your message for $6. Either way I'll leave the price slip out. It's perfectly nice as it is, so no need if you'd rather keep it simple; just let me know by tonight if you'd like the wrap.",
+   "lang": "en",
+   "note": "The deadline is real (posting tomorrow), so it can be named without being pressure."
   }
  ]
 }

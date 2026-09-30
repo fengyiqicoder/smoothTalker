@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -134,6 +134,13 @@
    "reply": "That sounds like not-fine, and fair enough, I shot down both of your picks. It was only the hour's drive, not the places themselves. What would you actually like for Saturday? If one of those two is the one, I'm happy to do the drive.",
    "lang": "en",
    "note": "Name it gently and own your part; it's a real disagreement in a snippy wrapper."
+  },
+  {
+   "id": "respond-to-passive-aggressive-020",
+   "situation": "Ich bin nach sechs Monaten Elternzeit zurück im Büro. Mein Kollege Stefan, der in der Zeit das Kundenprojekt Weber übernommen hat, schrieb mir heute im Team-Chat: 'Na, auch mal wieder da? Muss schön sein, ein halbes Jahr frei.' Es ist das erste Mal, und ich will mich weder rechtfertigen noch streiten.",
+   "reply": "Ja, schön, wieder da zu sein! Danke, dass du in der Zeit das Projekt Weber übernommen hast. Hast du diese Woche 20 Minuten, um mich auf den neuesten Stand zu bringen? Der Kaffee geht auf mich.",
+   "lang": "de",
+   "note": "Einmaliger Seitenhieb: wörtlich nehmen und nicht erklären, dass Elternzeit kein Urlaub ist. Kommt so etwas wieder, das Muster freundlich unter vier Augen ansprechen."
   }
  ]
 }

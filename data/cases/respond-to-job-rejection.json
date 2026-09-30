@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -133,6 +133,13 @@
    "reply": "Hi Margaret, thanks for letting me know, and for telling me the reason. A treasurer makes a lot of sense for the board right now. I'll keep coming in on Saturdays, and I'd welcome being considered if another trustee place opens up. Please pass my congratulations to the new treasurer.",
    "lang": "en",
    "note": "In a volunteer role you stay in the room after a no, so showing up as usual is the strongest reapplication."
+  },
+  {
+   "id": "respond-to-job-rejection-020",
+   "situation": "面了一家互联网公司的产品经理，最后一轮前做了笔试作业，花了整个周末写了12页的方案，交给面试官陈经理。今天HR赵女士发邮件说没通过，没说原因。这几周都是赵女士帮我协调面试时间，我挺想知道方案哪里不行。",
+   "reply": "赵女士您好，谢谢告知结果，也谢谢您这几周一直帮我协调面试时间。结果我接受。想麻烦您一件小事：如果方便，能否请陈经理用一两句话说说我的笔试方案里最需要改进的一点？不方便也完全没关系。希望以后还有机会合作。",
+   "lang": "zh",
+   "note": "作业投入越大，越要把反馈问题缩小到“一点”，对方才愿意回。"
   }
  ]
 }

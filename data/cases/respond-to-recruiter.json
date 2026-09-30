@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -134,6 +134,13 @@
    "reply": "Thanks for reaching out, Aaron, I'm interested. One thing before we book a call: my current contract has a six-month non-compete covering competitors. Could you check whether Norvale's hiring team would be open to working with that? If so, I'm free for a call Thursday or Friday afternoon.",
    "lang": "en",
    "note": "Share that the clause exists, not the contract itself, and have an employment lawyer read it before you resign."
+  },
+  {
+   "id": "respond-to-recruiter-020",
+   "situation": "An agency recruiter, Rachel, emailed about a finance manager role at a manufacturing company that sounds right for me. Before she'll submit me she wants names and numbers for three references, including my current manager, who doesn't know I'm looking. I can send my CV today and talk Thursday afternoon.",
+   "reply": "Thanks for reaching out, Rachel. I'm interested in the finance manager role and happy for you to put me forward. I share references once there's an offer on the table, and my current manager doesn't know I'm looking, so she won't be one until I've accepted. I can send my CV today; are you free for a call Thursday afternoon?",
+   "lang": "en",
+   "note": "If she insists references come first, repeat the same line once; a role worth having will not hinge on it."
   }
  ]
 }

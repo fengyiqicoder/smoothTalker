@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -134,6 +134,13 @@
    "reply": "Hey Wei, can I ask about something small? I've got 8am labs, so I'm trying to be asleep by 11, and the evening calls carry quite a lot in our room. I know that's the only time that works with Chengdu, so I'm not asking you to call less. Could you take them in the study lounge down the hall after 11? If another setup works better for you, happy to figure it out.",
    "lang": "en",
    "note": "Naming the time-zone constraint shows you're moving the call, not judging it."
+  },
+  {
+   "id": "roommate-and-shared-living-020",
+   "situation": "我和小林、阿俊合租三个月了，卫生纸、洗洁精、垃圾袋一直是我顺手买的，三个月大概花了210元。我不想算旧账，只想以后有个办法，打算提议每人每月往群里转20元当公用基金。",
+   "reply": "嘿两位，跟大家商量个小事～家里的卫生纸、洗洁精、垃圾袋这些，这三个月都是我顺手买的。以后咱们搞个公用基金吧：每人每月往群里转20块，谁去买谁从里面报，小票拍照发群里就行。之前的就不算了。大家觉得这样行吗？有更好的办法也可以改。",
+   "lang": "zh",
+   "note": "明说“之前的不算了”，对方就不会把提议听成讨债。"
   }
  ]
 }

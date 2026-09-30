@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -141,6 +141,13 @@
    "reply": "Camille, j'ai une grande demande, et je préfère te la faire franchement. Avec Julien, on fait notre testament chez la notaire le 20 octobre, et on aimerait te désigner comme tutrice d'Inès s'il nous arrivait quelque chose à tous les deux. Ça voudrait dire l'élever, et c'est énorme, même si notre assurance vie couvrirait ses frais. Prends le temps d'y réfléchir, et si c'est non, ça ne change rien entre nous, vraiment. Tu peux me dire d'ici le 15 octobre ?",
    "lang": "fr",
    "note": "Plus la demande est lourde, plus il faut nommer son vrai poids et laisser du temps pour répondre."
+  },
+  {
+   "id": "ask-for-favor-021",
+   "situation": "My car's in the garage until Monday, and on Saturday October 3 I need to drive my mum to a hospital appointment an hour away at 10am. My friend Kate doesn't use her car at weekends. I'd need it from 8am to 2pm and would return it with a full tank, but I don't know if her insurance covers another driver.",
+   "reply": "Hi Kate, a bigger ask than usual: could I borrow your car on Saturday 3 October, from about 8am to 2pm? Mine's in the garage and I need to drive Mum to a hospital appointment an hour away. I'd bring it back with a full tank. The one thing to check first is whether your insurance covers another driver. If it doesn't, or you'd just rather not lend it, that's completely fine and I'll hire a car.",
+   "lang": "en",
+   "note": "When the favour puts their property at risk, name the risk and let them check before they say yes."
   }
  ]
 }

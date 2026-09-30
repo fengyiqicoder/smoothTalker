@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -134,6 +134,13 @@
    "reply": "弟，你说的我认真看了。爸住院那次我没回去，让你一个人在医院陪了五天，这是我的不对，你辛苦了。每月打钱、每周视频，我觉得也算在管，不过我明白，钱代替不了有人在身边。想问问你，平时最累的是哪一块？我们商量一下我能多担哪些。爸11月中旬复查那次，我请假回去陪。",
    "lang": "zh",
    "note": "对的部分直接认，不同看法说一句就够，再问一个问题，最后给一个具体行动。"
+  },
+  {
+   "id": "respond-to-criticism-020",
+   "situation": "Divido apartamento com a Carla há um ano. Ela me mandou no WhatsApp que eu deixo louça na pia por dias e que ela sempre acaba lavando, e que eu 'nunca ajudo em nada'. A louça é verdade nas últimas três semanas, estou no turno da noite; mas sou eu que pago as contas online e faço as compras do mês.",
+   "reply": "Carla, obrigada por me falar direto. Você tem razão sobre a louça: nessas últimas três semanas deixei tudo na pia por dias e você acabou lavando por mim, e isso não é justo com você. Sobre eu nunca ajudar em nada, vejo um pouco diferente, porque cuido das contas e das compras do mês, mas entendo que a louça pesa mais no dia a dia. A partir de hoje lavo a minha antes de dormir, mesmo depois do turno. Se tiver mais alguma coisa te incomodando, prefiro saber: topa conversar no domingo?",
+   "lang": "pt",
+   "note": "Concorde com o fato concreto, discorde do 'nunca' em uma frase e sem placar."
   }
  ]
 }

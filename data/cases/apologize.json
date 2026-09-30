@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "apologize-001",
@@ -141,6 +141,13 @@
    "reply": "小周，两个月前我突然不回你消息，对不起。那时候我觉得我们不太合适，却没有说出口，就这么消失了，让你一直不知道是怎么回事，这对你不公平。以后我有这种想法，会直接说出来。这条不用回我。",
    "lang": "zh",
    "note": "道歉的是消失的方式，不是那个决定；不求回复，也不借机长篇解释。"
+  },
+  {
+   "id": "apologize-021",
+   "situation": "I'm a grad student. I had a 30-minute meeting with my supervisor, Professor Adeyemi, yesterday at 2pm to go over my thesis chapter, and I completely forgot because I was in the lab. She waited and just emailed 'Did we not have a meeting?'",
+   "reply": "Dear Professor Adeyemi, I'm sorry I missed our 2pm meeting yesterday. It was my mistake: I lost track of time in the lab and didn't check my calendar. You set aside half an hour for my chapter and ended up waiting for nothing. From now on I'll set a phone reminder for every meeting with you. If you can find another slot, I'll fit around whatever suits you.",
+   "lang": "en",
+   "note": "Upward apology: keep it brief and formal, and leave the reschedule to her calendar."
   }
  ]
 }

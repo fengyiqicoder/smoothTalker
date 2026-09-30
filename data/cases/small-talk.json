@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "small-talk-001",
@@ -134,6 +134,13 @@
    "reply": "Ha, I think that one's a debate for another day, I'm keeping tonight strictly about cake. You flew in from Denver this morning, right? How do you know Emma and Josh?",
    "lang": "en",
    "note": "Politics needs a position; step around it with a smile rather than a counterpoint, then hand him a thread he can enjoy."
+  },
+  {
+   "id": "small-talk-020",
+   "situation": "楼下新搬来一家，上周末刚搬进来。男主人每天早上在小区里遛一只柯基，我住他们家楼上。今天在快递柜前又碰到他，一直只是点头，想说两句。",
+   "reply": "你好，你们是上周末刚搬来的吧？我就住你们楼上。这只柯基我天天早上都能看到，太可爱了，它叫什么名字呀？",
+   "lang": "zh",
+   "note": "从狗问起，对方有得聊；接着顺着狗的名字或年龄往下问，再说一句自己的。"
   }
  ]
 }

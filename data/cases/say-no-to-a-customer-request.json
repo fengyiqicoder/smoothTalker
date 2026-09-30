@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -134,6 +134,13 @@
    "reply": "小敏，你愿意来我特别开心！不过每个月免费做我这边做不了，我一个人做，一套就是两个小时，这就是我的收入。你来的话单色给你按老朋友价79元，你生日那个月我请你做一套，想做什么款都行。想约的话提前跟我说一声就好。",
    "lang": "zh",
    "note": "朋友来当顾客：第一句就说清做不了免费，理由一句，再主动给出一个自己真心愿意给的优惠。"
+  },
+  {
+   "id": "say-no-to-a-customer-request-020",
+   "situation": "I'm a freelance illustrator. Imogen at Wren & Co, a tea shop that's commissioned three packaging designs from me this year, asked me to agree not to work for any other tea brand for two years. Tea brands are about 40% of my work. I'd be willing to not work for other tea shops in Leeds for 12 months, and I never reuse a client's designs anyway.",
+   "reply": "Thanks for asking me first, Imogen, and for trusting me with three designs this year. I can't agree to two years with no other tea brands: tea clients are about 40% of my work, so it would mean turning away close to half my income. What I can offer is no work for other tea shops in Leeds for 12 months, and a written promise that your designs are never reused. If that works for you, I'll put it into our next contract.",
+   "lang": "en",
+   "note": "Exclusivity is a price, not a courtesy: offer the narrower version that protects what they actually fear, a local competitor."
   }
  ]
 }

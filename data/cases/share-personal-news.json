@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -134,6 +134,13 @@
    "reply": "Mom, Dad, some big news before Sunday so it isn't a surprise on the call: we've been approved to adopt, and we're being matched with a little boy called Leo, who's three. If all goes well, he'll move in with us around Christmas. We're so excited and a bit terrified. One ask: please don't ask about his birth family, that's his story to tell one day. We'll tell you everything else on Sunday.",
    "lang": "en",
    "note": "Big news with one boundary: the news first, a line of feeling, what's next, and the one question to leave alone."
+  },
+  {
+   "id": "share-personal-news-020",
+   "situation": "My wife and I are selling the house our three kids grew up in and moving to a flat near the coast; we've accepted an offer and completion is 11 December. The kids are 28, 31 and 34 and live in different cities. I want to tell them in our family WhatsApp before a neighbour mentions it, and invite them home for one last weekend there, 21 and 22 November.",
+   "reply": "Some news we wanted you to hear from us first: Mum and I are selling the house. We've accepted an offer, completion is 11 December, and we're moving to a flat near the coast. It's the right time for us, and it still feels strange to write. Before it goes, we'd love all three of you home for one last weekend there, Saturday 21 and Sunday 22 November. Can you make it?",
+   "lang": "en",
+   "note": "Adult children equally close can hear it together, at the same moment; the invitation gives them somewhere to put the feeling."
   }
  ]
 }

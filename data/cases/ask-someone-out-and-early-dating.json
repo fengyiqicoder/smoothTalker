@@ -5,13 +5,13 @@
   {
    "id": "ask-someone-out-and-early-dating-001",
    "situation": "There's a guy in my Tuesday pottery class, we always end up talking about podcasts. The course ends next week and I want to ask him out without it being weird.",
-   "reply": "I'm going to miss our Tuesday podcast debates when this course ends. Would you want to grab a drink after the last class next week, just the two of us? Totally fine if not, I'll still send you that Serial episode.",
+   "reply": "I'm going to miss our Tuesday podcast debates when this course ends. Would you want to grab a drink after the last class next week, just the two of us? Totally fine if not, I'll still see you there on Tuesday.",
    "lang": "en",
    "note": "The deadline of the last class gives a natural reason to ask now; the out is light and real."
   },
   {
    "id": "ask-someone-out-and-early-dating-002",
-   "situation": "Ayer tuve la primera cita con Lucía, la conocí en Hinge. Fuimos a un bar de vermut en Lavapiés y estuvimos tres horas hablando. Quiero escribirle hoy sin parecer intenso.",
+   "situation": "Ayer tuve la primera cita con Lucía, la conocí en Hinge. Fuimos a un bar de vermut en Lavapiés y estuvimos tres horas hablando; ella defendió que las croquetas de jamón están sobrevaloradas y yo no. Quiero escribirle hoy sin parecer intenso.",
    "reply": "Me lo pasé genial ayer. Sigo pensando en tu teoría de que las croquetas de jamón están sobrevaloradas, y sigo sin estar de acuerdo. ¿Repetimos? El sábado hay un mercadillo en Matadero que creo que te gustaría.",
    "lang": "es"
   },
@@ -25,14 +25,14 @@
   {
    "id": "ask-someone-out-and-early-dating-004",
    "situation": "Been messaging a guy named Theo on Bumble for about a week, great back and forth about hiking and bad horror movies. I want to suggest meeting in person but don't want it to feel like pressure.",
-   "reply": "I'm enjoying this and I'd rather keep it going in person. A drink this week? I'm free Thursday evening or Sunday afternoon, and there's a bar on Elm Street that screens terrible horror movies on Sundays, which feels like a sign. No pressure if you'd rather keep chatting here a bit longer.",
+   "reply": "I'm enjoying this and I'd rather keep it going in person. A drink this week? I'm free Thursday evening or Sunday afternoon, and we can finally rank the worst horror movies face to face. No pressure if you'd rather keep chatting here a bit longer.",
    "lang": "en",
    "note": "Moving off the app: two specific slots, one hook from your own chat, and an easy out so a yes costs nothing."
   },
   {
    "id": "ask-someone-out-and-early-dating-005",
    "situation": "Met a woman called Ines at my friend Kofi's birthday on Saturday, we talked about bouldering for like an hour. Kofi gave me her Instagram. I want to DM her and ask her out without being creepy.",
-   "reply": "Hi Ines, it's Daniel from Kofi's birthday on Saturday, the one who got a full lecture on why bouldering beats the gym. This is a bit forward, but I'd regret not asking: would you want to get a drink with me this week? Thursday evening or Sunday afternoon both work. No pressure at all if not.",
+   "reply": "Hi Ines, it's Daniel from Kofi's birthday on Saturday, the one who talked bouldering with you for an hour. This is a bit forward, but I'd regret not asking: would you want to get a drink with me this week? Thursday evening or Sunday afternoon both work. No pressure at all if not.",
    "lang": "en",
    "note": "Someone you've met once: remind her who you are with a detail from the night, one clear plan, and an out she can take in a word."
   },
@@ -74,7 +74,7 @@
   {
    "id": "ask-someone-out-and-early-dating-011",
    "situation": "大学時代からの友達の美咲とは5年の付き合いで、二人でご飯に行くこともよくある。最近好きになってしまって、友達としてじゃなくデートに誘いたい。関係は壊したくない。",
-   "reply": "美咲、ちょっと改まった話なんだけど、今度はいつものご飯じゃなくて、デートとして誘いたいんだ。来週の土曜の夜、前に気になるって言ってた恵比寿のワインバーはどうかな？気が進まなかったら遠慮なく断ってね。それで何も変わらないし、またいつも通りご飯行こう。",
+   "reply": "美咲、ちょっと改まった話なんだけど、今度はいつものご飯じゃなくて、デートとして誘いたいんだ。来週の土曜の夜、恵比寿のワインバーはどうかな？気が進まなかったら遠慮なく断ってね。それで何も変わらないし、またいつも通りご飯行こう。",
    "lang": "ja",
    "note": "長い友人ほど「デートとして」とはっきり言うこと。曖昧だといつもの食事と区別がつかず、断る自由もなくなる。"
   },
@@ -95,7 +95,7 @@
   {
    "id": "ask-someone-out-and-early-dating-014",
    "situation": "First date last night with Marcus from Hinge, a coffee that turned into a long walk. He was kind and easy to talk to, but I didn't feel much of a spark and I'm honestly not sure yet. He just texted 'Had a great time, would love to see you again!'",
-   "reply": "Thanks, Marcus, I had a really nice time too, and the walk along the canal was a good call. I'd be up for another low-key one, maybe a coffee next week, and see how it goes.",
+   "reply": "Thanks, Marcus, I had a really nice time too, and turning coffee into a walk was a good call. I'd be up for another low-key one, maybe a coffee next week, and see how it goes.",
    "lang": "en",
    "note": "Unsure is allowed: a warm, low-stakes yes without promising more. If you already know it's a no, use romantic-let-down instead."
   },
@@ -108,7 +108,7 @@
   },
   {
    "id": "ask-someone-out-and-early-dating-016",
-   "situation": "九月中去大理玩，在青旅认识了一个杭州的男生阿哲，一起爬了苍山，之后微信断断续续聊了两周。我在上海，10月16日周五去杭州出差，周六还能多待一天，想约他见面。",
+   "situation": "九月中去大理玩，在青旅认识了一个杭州的男生阿哲，一起爬了苍山，之后微信断断续续聊了两周，他说过杭州的秋天最好看。我在上海，10月16日周五去杭州出差，周六还能多待一天，想约他见面。",
    "reply": "阿哲，我10月16号周五去杭州出差，周六还会多待一天。想约你见一面：17号周六下午去西湖边走走，再找个地方喝杯东西，怎么样？爬苍山那天你说杭州的秋天最好看，正好验证一下。不方便也没关系，下次有机会再说。",
    "lang": "zh",
    "note": "异地的邀约：说清你本来就会在那边的时间，给一个具体安排，对方不会有“专门为我跑一趟”的压力，拒绝也容易。"

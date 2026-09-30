@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 19,
+ "count": 21,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -134,6 +134,20 @@
    "reply": "各位邻居好，我是团购的小周。大家订的阳光玫瑰葡萄要晚几天：原定10月2日（周五）到货，果园那边连续下雨，采摘推迟，改为10月6日（周二）到，到货当天我在群里通知取货。不想等的有两个选择：换成现货的巨峰葡萄，价格一样，明天就能取；或者私信我“退款”，当天原路退回。今晚12点前没私信我的，就默认等6号的阳光玫瑰。给大家添麻烦了，谢谢理解。",
    "lang": "zh",
    "note": "Group-buy chats: one message to everyone, options by private message, so the group doesn't turn into a complaint thread."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-020",
+   "situation": "I'm Elif and I sell vintage lamps on my own site and on a marketplace. Last night the green 1960s glass lamp sold on both within an hour; the marketplace buyer paid first, so Hugo's order #5120 ($145) on my site can't be filled. I have a similar amber lamp from the same era at $135, and a green one listed at $160 that I'm happy to let him have for $145.",
+   "reply": "Hi Hugo, I can't send the green 1960s glass lamp from your order #5120: it sold on another site shortly before you ordered, and as it's one of a kind there isn't another coming. That's my mistake, my listings didn't sync in time. Your options: a full refund of $145, processed today; the amber lamp from the same era at $135, with the $10 difference refunded; or the green lamp listed at $160, for the same $145. Photos of both are attached. If I don't hear from you by Friday 2 October, I'll refund you in full.\nElif",
+   "lang": "en",
+   "note": "A one-of-a-kind item has no wait option: refund is the default, and the alternatives come with photos."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-021",
+   "situation": "我在网上卖手工羊毛围巾，120条预售原定10月15日前发货。织工阿姨生病请了两周假，最快10月29日（周四）全部发完。想群发给买家，愿意等的照常发，不想等的全额退款。",
+   "reply": "您好，您在我们店预订的手工羊毛围巾，原定10月15日前发货，现在要晚两周：负责织围巾的阿姨生病请了两周假，最快10月29日（周四）能全部发出。想问问您愿不愿意等到那天？如果不方便等，直接回复我，马上给您全额退款。给您添麻烦了，谢谢理解。",
+   "lang": "zh",
+   "note": "一对多的延期：早说、给具体日期、把退款作为真正的选择，而不是让买家来要。"
   }
  ]
 }

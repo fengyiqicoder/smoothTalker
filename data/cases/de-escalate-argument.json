@@ -11,7 +11,7 @@
   },
   {
    "id": "de-escalate-argument-002",
-   "situation": "跟老公因为今年过年回谁家在微信上吵起来了，他越说越激动，我也说了他妈妈的难听话。想先停一下。",
+   "situation": "跟老公因为今年过年回谁家在微信上吵起来了，他觉得每年都在迁就我家，越说越激动，我也说了他妈妈的难听话。想先停一下。",
    "reply": "我们先别在微信上吵了，刚才我说你妈那句话太冲了，对不起。我知道你觉得每年都是在迁就我家。今晚吃完饭我们好好聊，好吗？回哪家过年，都没有我们俩重要。",
    "lang": "zh",
    "note": "先认自己那一句的错，再说出对方的感受，最后给一个明确的时间继续谈。"
@@ -25,22 +25,22 @@
   },
   {
    "id": "de-escalate-argument-004",
-   "situation": "Mi socio Martín y yo tenemos una cafetería en Valencia. Estamos discutiendo por WhatsApp si subir los precios en octubre, le dije que 'no tiene ni idea de números' y ahora está muy enfadado. Quiero parar esto antes de que se complique.",
+   "situation": "Mi socio Martín y yo tenemos una cafetería en Valencia. Estamos discutiendo por WhatsApp si subir los precios en octubre, le dije que 'no tiene ni idea de números' y ahora está muy enfadado; dice que no valoro lo bien que conoce a los clientes. Quiero parar esto antes de que se complique.",
    "reply": "Martín, nos estamos calentando los dos, y lo de que no tienes ni idea de números sobró. Lo siento. Entiendo que sientes que no valoro lo bien que conoces a los clientes. ¿Lo hablamos mañana a las 9, antes de abrir, con las cuentas delante? La cafetería es de los dos y quiero que la decisión también lo sea.",
    "lang": "es",
    "note": "Retirar la frase concreta que dolió, sin tocar todavía el tema de los precios, y fijar una hora para retomarlo."
   },
   {
    "id": "de-escalate-argument-005",
-   "situation": "A coworker, Dmitri, and I are going back and forth in our #launch Slack channel about delaying the release. He just wrote 'maybe read the spec before commenting'. The whole team is watching.",
-   "reply": "Dmitri, we're both getting heated and this thread isn't helping either of us. I came in sharp earlier, that's on me. I can see you're worried we'd ship something broken. Can we jump on a call at 3 today and post the decision here after?",
+   "situation": "A coworker, Dmitri, and I are going back and forth in our #launch Slack channel about delaying the release. He thinks it isn't ready and I called his concerns paranoid; he just wrote 'maybe read the spec before commenting'. The whole team is watching.",
+   "reply": "Dmitri, we're both getting heated and this thread isn't helping either of us. Calling your concerns paranoid was sharp, that's on me. I can see you're worried we'd ship something broken. Can we jump on a call at 3 today and post the decision here after?",
    "lang": "en",
    "note": "At work in public: own your part, reflect his worry, and move it to a call with a time and a promise to report back to the channel."
   },
   {
    "id": "de-escalate-argument-006",
    "situation": "My 15-year-old, Zoe, and I are yelling in the kitchen about her coming home at midnight instead of 10. I told her she's 'acting like a spoiled brat'. She's crying and shouting back. I want to stop this right now, in person.",
-   "reply": "Okay. We're both really heated, and calling you a spoiled brat was out of line. I'm sorry. I can tell you feel like I don't trust you at all. We still need to talk about the curfew, but I need twenty minutes first. I'll knock on your door at 9 and we'll talk properly. I love you, that part's not up for debate.",
+   "reply": "Okay. We're both really heated, and calling you a spoiled brat was out of line. I'm sorry. I can tell you feel like I don't trust you at all. We still need to talk about the curfew, but I need twenty minutes first. I'll knock on your door in twenty minutes and we'll talk properly. I love you, that part's not up for debate.",
    "lang": "en",
    "note": "Own the insult specifically, reflect her feeling without conceding the curfew, and say exactly when you'll come back."
   },
@@ -54,7 +54,7 @@
   {
    "id": "de-escalate-argument-008",
    "situation": "昨晚女朋友面试完，我一直忘了问她结果，她生气了，我还说了句'你太敏感了'，吵起来。后来我说先冷静一下，今晚8点再好好聊。现在快8点了，第一句该怎么说？",
-   "reply": "我想了一下昨晚的事。先说一句：'你太敏感了'这句话是我不对，对不起。我听到你的意思是，你面试完一整天都在等我问一句，我却一直没问，让你觉得你的事在我这里不重要。我理解得对吗？你说，我先听。",
+   "reply": "我想了一下昨晚的事。先说一句：'你太敏感了'这句话是我不对，对不起。我听到你的意思是，你面试完一直在等我问一句，我却一直没问，让你觉得你的事在我这里不重要。我理解得对吗？你说，我先听。",
    "lang": "zh",
    "note": "暂停之后准时回来，先认自己那句话，再复述你听到的，请她纠正；她说完之前不要解释。"
   },
@@ -67,14 +67,14 @@
   },
   {
    "id": "de-escalate-argument-010",
-   "situation": "My ex, Daniel, and I are fighting over text about who takes our daughter Lily to a birthday party this Saturday. I made a crack about his new girlfriend Hannah always being around and now he's furious. We'll be co-parenting for years and I want to stop this.",
+   "situation": "My ex, Daniel, and I are fighting over text about who takes our daughter Lily to a birthday party this Saturday. I made a crack about his new girlfriend Hannah always being around and now he's furious and says my plans keep eating into his weekends. We'll be co-parenting for years and I want to stop this.",
    "reply": "Let's stop doing this over text. The comment about Hannah was a cheap shot and I'm sorry. I get that you feel like my plans keep eating into your weekends. Can I call you at 8:30 tonight, once Lily's asleep, and we sort Saturday then? We both want her to have a good weekend.",
    "lang": "en",
    "note": "With a co-parent, the line about what's bigger than the fight is the child: own the jab, reflect his grievance, and put a time on the call."
   },
   {
    "id": "de-escalate-argument-011",
-   "situation": "我爸72岁了，上个月倒车蹭了两次。刚才我在电话里劝他别开车了，说了句“你这样早晚出事”，他火了，说我咒他，把电话挂了。想发条微信先缓一缓。",
+   "situation": "我爸72岁了，上个月倒车蹭了两次。刚才我在电话里劝他别开车了，说了句“你这样早晚出事”，他火了，说我咒他、把他当老人看，把电话挂了。想发条微信先缓一缓。",
    "reply": "爸，刚才电话里我话说得太冲了，“早晚出事”那句不该说，对不起。我知道你是觉得我把你当老人看，要把你的自由拿走。开不开车不用今天定，周六我回家吃饭，咱们当面慢慢聊。我就是太在乎你了。",
    "lang": "zh",
    "note": "跟长辈吵架，先认具体那句话，说出他真正在意的面子和自由，开车的事留到当面谈。"
@@ -95,7 +95,7 @@
   },
   {
    "id": "de-escalate-argument-014",
-   "situation": "大学室友五个人国庆去厦门，我和小林在群里因为民宿钱怎么AA吵起来了，我说了句“你每次都想占便宜”，另外三个人都不说话了。想先把火灭了。",
+   "situation": "大学室友五个人国庆去厦门，我和小林在群里因为民宿钱怎么AA吵起来了，她分到的房间最小，觉得按人头平摊不公平，我说了句“你每次都想占便宜”，另外三个人都不说话了。想先把火灭了。",
    "reply": "小林，我们别在群里吵了，“每次都想占便宜”那句是我说过头了，对不起。我知道你是觉得你那间房最小，按人头平摊不公平。今晚9点我给你打个电话，我们俩把账算清楚再发到群里。大家好不容易凑一起出去玩，别因为几百块坏了心情。",
    "lang": "zh",
    "note": "在群里当众吵，就在群里当众认那一句，具体的账挪到私下电话里算，再回群里给结果。"
@@ -109,10 +109,10 @@
   },
   {
    "id": "de-escalate-argument-016",
-   "situation": "I run a small bakery. A customer, Mrs. Patel, is shouting on the phone because the cake she picked up says 'Happy Birthday Priya' instead of 'Priyanka'; the order form says Priyanka, so it's our mistake. It's 4:30, the party is at 6, we can redo the lettering in 30 minutes, and I could drive it over myself.",
-   "reply": "Mrs. Patel, you're right, the order says Priyanka and we got it wrong. I'm sorry. I can hear how stressful this is with the party at 6. If you bring the cake back, we'll redo the lettering straight away, or I can collect it and bring it back to you myself by 5:30. Which is easier for you?",
+   "situation": "My boyfriend Tom and I were arguing about money tonight, and when I raised my voice he threw a mug at the wall and stood in the doorway shouting. I left and I'm at my friend Ana's now. He's texting 'come home, we need to finish this'.",
+   "reply": "I'm safe at Ana's and I'm staying here tonight. When the mug hit the wall and you stood in the doorway, I got scared, so I'm not coming back to finish this tonight. If we talk, it'll be on the phone tomorrow at 6.",
    "lang": "en",
-   "note": "When you were wrong, skip the pause: admit it in one line and move straight to the fix."
+   "note": "Once things are thrown or someone blocks the door, safety comes before calming things down: you don't owe an apology to leave. If he threatens you or turns up, call emergency services; a local domestic-abuse helpline can help you think through what comes next."
   },
   {
    "id": "de-escalate-argument-017",
