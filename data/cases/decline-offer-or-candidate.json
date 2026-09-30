@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -134,6 +134,13 @@
    "reply": "Hi Jess, thanks for Saturday's trial shift, the regulars really took to you. We've decided not to offer you the role. The job means running the espresso bar alone on weekday mornings, and the rush showed that part isn't quite there yet. We may hire weekend front-of-house in the spring, and if we do I'd like to call you. Your £48 for Saturday goes out with Friday's pay run.",
    "lang": "en",
    "note": "A text suits a trial shift; the one reason is the one she saw for herself on the day."
+  },
+  {
+   "id": "decline-offer-or-candidate-020",
+   "situation": "I'm hiring a customer support lead. I did a phone screen with Aaron Mills yesterday; he's strong and his team-building story was great, but he needs a base of $95,000 and our band for the role tops out at $82,000, which can't move. I want to email him today.",
+   "reply": "Hi Aaron, thank you for the call yesterday, especially the story about rebuilding your support team after the merger, which was one of the best answers I've heard for this role. We won't be moving forward, and I want to be straight about why: you mentioned a base of $95,000, and our band for this role tops out at $82,000 with no flexibility. That's about our budget, not your experience. I wish you the best with the search.",
+   "lang": "en",
+   "note": "When the reason is the salary band, say the number plainly; it's the most useful feedback he can get, and the door stays closed because it is."
   }
  ]
 }

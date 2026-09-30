@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -134,6 +134,13 @@
    "reply": "I'm offline from 5, so I'll skip tomorrow's 5:30. I'll leave my comments on the checkout mockups in the file by 3pm, so you'll have them before the review. For future ones, could we keep them before 4:30 so I can join live?",
    "lang": "en",
    "note": "State the hard stop once as a fact, deliver the input anyway, then ask for one change to the pattern."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-020",
+   "situation": "I'm the only data analyst supporting a 30-person sales team. Everyone else sends report requests through our request form, which I work through in order every Monday and Wednesday. Kevin, a sales lead, keeps booking 30-minute calls instead, and today sent one for Thursday at 2 about 'a quick pipeline cut'.",
+   "reply": "Hi Kevin, I'll skip Thursday's call. If what you need is a pipeline cut, put it in the request form with the fields and date range you want, and I'll pick it up in Monday's batch on 5 October. If it's needed sooner for a specific deal, add the deal and your date in the form and I'll tell you the same day whether I can move it up. Does that work?",
+   "lang": "en",
+   "note": "When a meeting is a way around the queue, send the request back to the queue kindly and give an honest path for real urgency."
   }
  ]
 }

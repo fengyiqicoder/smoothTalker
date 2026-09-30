@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -134,6 +134,13 @@
    "reply": "Dana, I love building this with you and I want to be here for the next stage. In two years I've built the billing system that now runs all our revenue, and I've hired and onboarded the other three engineers. Similar roles pay around $110k, so I'd like to move from $85k to $100k. I know we have 16 months of runway, so if that's too much cash right now, I'm open to a mix of salary and extra equity. What would it take to get there, and by when?",
    "lang": "en",
    "note": "Name the number first and offer equity as a route to it, not a replacement. Get any equity terms in writing and check what they are actually worth before agreeing."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-020",
+   "situation": "I'm a Team Lead I in customer support on $66k. I asked my manager Greg for $72k after cutting our ticket backlog by 40% this year, and since March I've also run the weekend rota for both support teams. He says I'm already at the top of the Team Lead I band ($58k to $66k), so there's nothing he can do. Our next review cycle is in January.",
+   "reply": "Thanks for explaining the band, Greg, that helps. If I'm at the top of Team Lead I, it sounds like the real question is whether my role now fits Team Lead II. This year I've cut the ticket backlog by 40%, and since March I've run the weekend rota for both support teams. Could we go through the Team Lead II criteria together, agree what's still missing, and aim for a decision in the January cycle?",
+   "lang": "en",
+   "note": "A band ceiling is a question about level, not a no: move the ask up a level and get the gap written down with a date."
   }
  ]
 }

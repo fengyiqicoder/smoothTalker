@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -134,6 +134,13 @@
    "reply": "Thank you for your order. Every notebook is bound by hand, and I hope yours gets filled with good things. Once you've used it for a while, a short review on the product page would help other people find a small shop like this one. The code below takes you straight there, and two sentences is plenty. Thank you either way. Hana, Paper Harbour",
    "lang": "en",
    "note": "A parcel card can't be timed to the good moment, so invite them back after they've used it; one link, a time estimate, a real out."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-020",
+   "situation": "I'm Nico, a freelance web developer. I rebuilt the website for my friend Sara's pottery studio at a friends' rate, and since it launched last week online bookings have gone from about 5 a week to 14. I'd like a testimonial for my portfolio, but I don't want her to feel obliged or to hide that we're friends.",
+   "reply": "Sara, now the site's been live a week, could I ask a favour? A two or three sentence testimonial would really help me with the next few clients. Here's a draft you can edit or bin: \"Nico rebuilt our studio website, and online bookings went from about 5 a week to 14 in the first week. He was quick, clear and easy to work with.\" I'm happy for it to say we're friends, and a no is genuinely fine and won't change a thing.",
+   "lang": "en",
+   "note": "With a friend as the client, keep the testimonial honest about the relationship and make the no cost nothing."
   }
  ]
 }

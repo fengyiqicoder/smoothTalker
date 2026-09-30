@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -134,6 +134,13 @@
    "reply": "You're not the worst friend, you're a friend with a body that's being unfair to you, and none of this needs an apology. I'm not going to stop inviting you. Next time how about I bring lunch to yours and we eat on the sofa, and if it's a bad day you can cancel on the morning with one emoji.",
    "lang": "en",
    "note": "Lift the guilt first, then shrink the plan to one she can manage and make cancelling cost her nothing."
+  },
+  {
+   "id": "check-in-on-someone-struggling-020",
+   "situation": "我最好的朋友阿琪在德国读博第三年，这一个多月微信基本不回，上次聊天她说导师让她把论文的一章全部重写。她那边比我们晚6个小时。我在国内过不去，想发条消息，但不想给她压力。",
+   "reply": "阿琪，最近一直在想你，这条不用回。这周六你那边上午10点、我这边下午4点，我想给你打个十分钟的视频，不聊论文，就看看你。不方便的话回个“下次”就好，一个字都不用多解释。",
+   "lang": "zh",
+   "note": "隔着时差：替对方把时间换算好，把话题限定得很小，让她用两个字就能拒绝。"
   }
  ]
 }

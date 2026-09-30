@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -134,6 +134,13 @@
    "reply": "Felix, ich höre jetzt auf, per Nachricht zu streiten. Der Satz, dass du nie etwas durchziehst, war unfair, und es tut mir leid. Ich verstehe, dass du dich von mir nicht ernst genommen fühlst, wenn es um deine eigenen Entscheidungen geht. Kann ich dich morgen um 19 Uhr anrufen und erst mal nur zuhören? Du bist mir wichtiger als jede Studienfrage.",
    "lang": "de",
    "note": "Die Studienfrage bleibt bewusst offen; heute geht es nur darum, aus dem Streit herauszukommen."
+  },
+  {
+   "id": "de-escalate-argument-020",
+   "situation": "We're at my parents' house for Sunday lunch and my brother-in-law Rob and I have started arguing about immigration across the table. I told him he 'gets all his opinions from YouTube', and now we're both raising our voices while Mum looks upset and the kids are listening. I want to cool it down right now, in person.",
+   "reply": "Rob, let's stop, we're both getting loud and this isn't the place. The YouTube comment was a cheap shot, and I'm sorry. I can tell you feel I'm writing off your view without hearing it. If you want to pick it up properly, let's do it over a beer next Friday, just us. Today's about Mum's lunch.",
+   "lang": "en",
+   "note": "In front of family, the pause is the point; own the jab out loud so everyone at the table hears it."
   }
  ]
 }

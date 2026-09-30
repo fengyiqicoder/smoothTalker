@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -134,6 +134,13 @@
    "reply": "Hi Rachel, I need to move Saturday's playdate: Noah was sick last night and I'd rather not pass anything on to Ivy. Sorry to change it, especially when she's been so excited. Could we do Saturday 10 October at 2, or Sunday 11 October in the afternoon? Same plan at yours, or I'm happy to host if that's easier.",
    "lang": "en",
    "note": "With a parent you barely know, lead with the change, one true reason, and two dates so the kids aren't left with 'sometime'."
+  },
+  {
+   "id": "cancel-or-reschedule-020",
+   "situation": "My friend Zoe and I agreed in August to spend a week in Portugal from Nov 14 to 21, but we haven't booked anything yet. My car needed a $2,300 repair last week and I can't afford the trip now. I could do a weekend at her place in Bristol in November, or Portugal in the spring.",
+   "reply": "Zoe, I need to change our Portugal plan: my car needed a $2,300 repair last week, and I can't afford the trip in November now. I'm telling you before either of us books anything, and I'm sorry, I know you were looking forward to it. Two options: I come to you in Bristol for a weekend in November, or we do Portugal in the spring once I've saved back up. Which do you fancy?",
+   "lang": "en",
+   "note": "Money is a short, true reason; tell her before anyone books, so nobody is out of pocket."
   }
  ]
 }

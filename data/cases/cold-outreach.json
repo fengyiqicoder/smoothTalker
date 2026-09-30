@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -133,6 +133,13 @@
    "reply": "周姐好，看到你那条说周末一天能有四五个客人爽约的笔记，底下好多同行都在说同感。我在做一个给宠物美容店用的预约工具，还没上线，想先弄清楚店主真正头疼的是什么。想请你回答一个问题：现在客人爽约，你们一般怎么处理？打字回我几句就行，不用打电话。不方便的话，回一句'不用'也很有帮助。",
    "lang": "zh",
    "note": "没有案例就别硬凑数字：坦白说还在做调研，把请求缩小到一个打字就能回答的问题。"
+  },
+  {
+   "id": "cold-outreach-020",
+   "situation": "I'm Hannah and I'm opening a café in Leeds in January. I want to buy beans from Ridgeback Roasters, a small roaster in Harrogate whose Kenyan I've loved at home for a year, but their site doesn't mention wholesale. The owner is Nick. We expect to need about 15kg a week, and I ran the coffee at Bramble Café in York for four years, around 400 cups a day.",
+   "reply": "Subject: Wholesale for a new Leeds café?\n\nHi Nick,\nI've been drinking your Kenyan at home for a year, and it's the coffee I want behind the bar when I open a café in Leeds this January. We expect to need about 15kg a week, and I ran the coffee at Bramble Café in York for four years, around 400 cups a day. Do you take on wholesale accounts at that size? A quick no is genuinely helpful too.\nHannah",
+   "lang": "en",
+   "note": "Buying is still a cold pitch: why them, the volume in one number, your proof, and a single yes/no question."
   }
  ]
 }

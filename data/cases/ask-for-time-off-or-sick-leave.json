@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -134,6 +134,13 @@
    "reply": "Hi Paul, I've been summoned for jury service starting Monday 16 November. The court's letter says it could run until Friday 27 November, so I'm planning for two weeks out and will tell you the same day if I'm released early. I've attached the summons and will log it as jury service leave, as the handbook sets out. Keisha has agreed to run payroll on Thursday the 19th and the 26th, and I'll walk her through it the week before. Can you confirm that works?",
    "lang": "en",
    "note": "A summons isn't a request: dates, the document, the handbook category and the cover; the only question is confirmation."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-020",
+   "situation": "我想下周二10月6日上午请半天假，去另一家公司面试，不想让领导知道。手上的周报周一就能交，上午10点的例会可以请同事小杨帮我记一下。想在钉钉上跟领导孙经理说。",
+   "reply": "孙经理，我想请10月6日周二上午半天事假，处理一点私事，下午正常上班。周报我周一下班前交，上午10点的例会请小杨帮我记录，回来我再跟进。您看可以批吗？",
+   "lang": "zh",
+   "note": "“处理私事”是完整的理由，不需要编一个；不说谎，也不多解释。"
   }
  ]
 }

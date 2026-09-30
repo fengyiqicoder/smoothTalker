@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -134,6 +134,13 @@
    "reply": "Hi Mr. Shah and Priya, thanks for booking the 10 lessons, I'm looking forward to getting started. Priya, I'll pick you up from home on Monday 5 October at 4pm, and the first lesson is all about the car and quiet roads, so no need to prepare anything. Before Monday, could one of you send me Priya's provisional licence number, and let me know if she wears glasses or contacts for driving? Any questions, just reply here or text me, I usually answer within a few hours. Gareth",
    "lang": "en",
    "note": "The payer and the learner are different people: address both, and speak to the nervous first-timer directly."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-020",
+   "situation": "我姓林，办青少年滑雪冬令营“雪途”。家长吴先生刚给12岁的儿子浩浩交了明年1月24日到30日崇礼营的费用6800元，离开营还有将近四个月，我怕他交完钱没消息心里不踏实。12月1日我会发行前说明；12月15日前我需要孩子的身高、体重、鞋码来提前租雪具，还有过敏和病史情况。工作日微信一般当天回。",
+   "reply": "吴先生您好，我是雪途冬令营的林教练，谢谢您给浩浩报名！跟您确认一下：崇礼营2027年1月24日（周日）开营，1月30日（周六）结营，费用6800元已收到。开营前有两个节点：12月1日（周二）我会把行前说明发给您；12月15日（周二）前麻烦您发我浩浩的身高、体重、鞋码，用来提前租好雪具，再加上过敏和病史情况，没有也请说一声，方便教练照顾。这段时间有任何问题直接微信我，工作日一般当天回复。",
+   "lang": "zh",
+   "note": "付款和开始隔得久时，把中间的节点和日期先告诉对方，让他知道下一条消息什么时候来。"
   }
  ]
 }

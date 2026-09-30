@@ -5,27 +5,27 @@
   {
    "id": "family-pressure-and-nosy-questions-001",
    "situation": "My aunt Linda comments on my weight at every family dinner. I've deflected it at least five times. Thanksgiving is next month and I want to text her before then.",
-   "reply": "Aunt Linda, I know you mean well, and I need you to stop commenting on my weight. It's off the table. I'd love to talk about anything else at Thanksgiving. See you on the 26th.",
+   "reply": "Aunt Linda, I know you mean well, and I need you to stop commenting on my weight. It's off the table. I'd love to talk about anything else at Thanksgiving. See you there.",
    "lang": "en",
    "note": "This is the firmer version; if it comes up at the table anyway, go help in the kitchen, no announcement."
   },
   {
    "id": "family-pressure-and-nosy-questions-002",
-   "situation": "每年过年大伯都当着一桌人问我一个月挣多少，我不想说，也不想让场面尴尬。",
-   "reply": "哈哈，大伯又来查账了。够我明年请您吃饭的。对了，您那个小菜园今年收成怎么样？听我爸说您种的辣椒特别好。",
+   "situation": "每年过年大伯都当着一桌人问我一个月挣多少，我不想说，也不想让场面尴尬。大伯退休后在院子里种了个小菜园。",
+   "reply": "哈哈，大伯又来查账了。够我明年请您吃饭的。对了，您那个小菜园今年收成怎么样？",
    "lang": "zh",
    "note": "如果他再问一次，用几乎一样的话再说一遍，一致比换花样更能让话题结束。"
   },
   {
    "id": "family-pressure-and-nosy-questions-003",
-   "situation": "実家に帰るたびに母から「結婚はまだ？」と聞かれます。けんかにはしたくないけど、そろそろやめてほしい。",
+   "situation": "実家に帰るたびに母から「結婚はまだ？」と聞かれます。けんかにはしたくないけど、そろそろやめてほしい。母は先月、友達と旅行に行ってきたばかりです。",
    "reply": "お母さん、心配してくれてるのはわかってるよ。でも結婚の話はしばらくお休みにさせて。それ以外ならなんでも話したいから。そういえば、この前の旅行の写真見せてよ。",
    "lang": "ja",
-   "note": "In many families a soft close like this is already firm; keep the blunter version for someone who keeps pushing."
+   "note": "家族によっては、こういう柔らかい区切り方だけで十分はっきり伝わります。強い言い方は、それでも何度も聞いてくる人のために取っておきましょう。"
   },
   {
    "id": "family-pressure-and-nosy-questions-004",
-   "situation": "I finally texted my mum asking her to stop asking when I'm moving back to Manila. She replied 'So I can't even ask my own daughter anything now.' She sounds really hurt.",
+   "situation": "I finally texted my mum asking her to stop asking when I'm moving back to Manila. She replied 'So I can't even ask my own daughter anything now.' She sounds really hurt. I'm flying home for Christmas on 19 December.",
    "reply": "Mum, I love you and I want our calls to be good ones. That's exactly why I'm asking for this one subject to rest. Ask me anything else, any time, and I'm still coming home for Christmas, my flight lands on the 19th.",
    "lang": "en",
    "note": "When a parent hears the boundary as rejection, speak to the relationship, not the topic, and don't reopen the subject to comfort her."
@@ -33,41 +33,41 @@
   {
    "id": "family-pressure-and-nosy-questions-005",
    "situation": "My husband's parents ask 'so when are you giving us a grandchild?' at every family dinner. We're in the middle of IVF and don't want to tell anyone yet. Diwali dinner is at their place in a few weeks.",
-   "reply": "Ha, when there's news, you'll be the first to know, Mummy-ji. Now tell me, are you making the kaju katli yourself this year, or did Dev finally get the recipe out of you?",
+   "reply": "Ha, when there's news, you'll be the first to know, Mummy-ji. Now tell me, what are you making for Diwali this year?",
    "lang": "en",
    "note": "No reason given, since 'we're trying' invites advice; if it comes back, repeat the same line nearly word for word."
   },
   {
    "id": "family-pressure-and-nosy-questions-006",
-   "situation": "My brother Mike and his wife just separated. Aunt Carol texted me 'So what really happened with Mike and Jen?? Was it her?' I'm not going to gossip about my brother.",
-   "reply": "Hi Aunt Carol, that's Mike's story to tell, not mine, so I'll leave it with him. He's doing okay, and I know he'd love to hear from you directly. How's the kitchen renovation going?",
+   "situation": "My brother Mike and his wife just separated. Aunt Carol, who's been redoing her kitchen all summer, texted me 'So what really happened with Mike and Jen?? Was it her?' I'm not going to gossip about my brother.",
+   "reply": "Hi Aunt Carol, that's Mike's story to tell, not mine, so I'll leave it with him. If you want to know how he is, give him a ring. How's the kitchen renovation going?",
    "lang": "en",
    "note": "When the nosy question is about someone else, decline on their behalf, point her to the person, and change the subject. No hints about who was at fault."
   },
   {
    "id": "family-pressure-and-nosy-questions-007",
-   "situation": "我在上海做游戏策划，干得挺开心。每次打电话我妈都劝我回老家考公务员，说图个稳定。国庆要回家待五天，我不想一回去就吵起来。",
-   "reply": "妈，我知道您是担心我，想让我稳当点。工作这块我现在挺好的，有什么变化第一个告诉您。对了，您上次说想学用手机拍视频，这次回去我教您，顺便给您和我爸拍几张好看的照片。",
+   "situation": "我在上海做游戏策划，干得挺开心。每次打电话我妈都劝我回老家考公务员，说图个稳定。她前阵子说想学用手机拍视频。国庆要回家待五天，我不想一回去就吵起来。",
+   "reply": "妈，我知道您是担心我，想让我稳当点。工作这块我现在挺好的，有什么变化第一个告诉您。对了，您说想学用手机拍视频，这次回去我教您，顺便给您和我爸拍几张好看的照片。",
    "lang": "zh",
    "note": "不解释理由，解释就是在邀请对方给建议；她第二次问，就用几乎一样的话再说一遍。"
   },
   {
    "id": "family-pressure-and-nosy-questions-008",
    "situation": "Minha sogra, dona Célia, pergunta toda semana quando vamos batizar a Lívia, que tem seis meses. A gente ainda não decidiu se vai batizar e não quer discutir isso com ela. Domingo tem almoço na casa dela.",
-   "reply": "Ah, dona Célia, a senhora não esquece nunca, né? Quando a gente tiver novidade, a senhora vai ser a primeira a saber. Agora me conta, é hoje que sai aquele pavê de sobremesa?",
+   "reply": "Ah, dona Célia, a senhora não esquece nunca, né? Quando a gente tiver novidade, a senhora vai ser a primeira a saber. Agora me conta, qual é a sobremesa de hoje?",
    "lang": "pt",
    "note": "Não explicar a dúvida sobre o batismo: explicação vira convite para conselho. Se ela voltar ao assunto, repetir a mesma frase quase igual."
   },
   {
    "id": "family-pressure-and-nosy-questions-009",
    "situation": "Every year my grandma asks if I'll come to midnight Mass with the family on Christmas Eve. I stopped going to church years ago and I'm not going, but she's 88 and I don't want to hurt her. She asked again on the phone this week.",
-   "reply": "I know how much Christmas Eve Mass means to you, Nana, and I love that you want us all there. I won't be coming to Mass, but I'll be at the house by 6 on the 24th to help with dinner, and I'll have the cocoa ready when you're all back. Are you making the tourtière again this year?",
+   "reply": "I know how much Christmas Eve Mass means to you, Nana, and I love that you want us all there. I won't be coming to Mass, but I'll be at the house by 6 on the 24th to help with dinner, and I'll have the cocoa ready when you're all back. What are you cooking this year?",
    "lang": "en",
    "note": "A direct invitation needs a clear answer, but no reasons about faith, which only open a debate. Give her a warm, specific plan, redirect, and repeat the same line if she asks again."
   },
   {
    "id": "family-pressure-and-nosy-questions-010",
-   "situation": "家族微信群里二姨当着所有人@我：“老二什么时候安排上？你家朵朵都四岁了。”我和老公还没想好要不要二胎，不想在群里解释，也不想让二姨下不来台。",
+   "situation": "家族微信群里二姨当着所有人@我：“老二什么时候安排上？你家朵朵都四岁了。”二姨的女儿下个月办婚礼。我和老公还没想好要不要二胎，不想在群里解释，也不想让二姨下不来台。",
    "reply": "哈哈，二姨您比我们还着急。有消息一定第一个告诉您。对了，表妹下个月办婚礼，酒店定好了吗？",
    "lang": "zh",
    "note": "群里当众问，就在群里轻松一句带过、马上换话题，不解释；她私聊再问，就用几乎一样的话再说一遍。"
@@ -75,35 +75,35 @@
   {
    "id": "family-pressure-and-nosy-questions-011",
    "situation": "My divorce from Mark was finalised in June. At my cousin's wedding on Saturday my great-aunt Rosa will definitely ask what happened, probably at the dinner table. I don't want to talk about it or make a scene.",
-   "reply": "Ah, Aunt Rosa, straight in. It's done, I'm doing well, and that's the whole story. Now you have to tell me how you got Uncle Sal onto the dance floor, I've never seen that in thirty years.",
+   "reply": "Ah, Aunt Rosa, straight in. It's done, I'm doing well, and that's the whole story. Now tell me, who are you betting will be first on the dance floor tonight?",
    "lang": "en",
    "note": "If she asks again, repeat 'It's done, I'm doing well' word for word; any reason you give becomes the next question."
   },
   {
    "id": "family-pressure-and-nosy-questions-012",
-   "situation": "国庆回老家，一大家子吃饭时，我婶婶每次都当着我儿子小宇（10岁）的面问他期中考了第几名，还拿他跟表哥比，说表哥次次第一。孩子每次都低着头不说话。这次想提前想好怎么接。",
-   "reply": "哈哈，婶婶又来考我们小宇了。成绩的事我们回家自己说，他这学期挺用功的。对了小宇，你搭的那个航母模型不是拍了照片吗？拿给奶奶和婶婶看看。",
+   "situation": "国庆回老家，一大家子吃饭时，我婶婶每次都当着我儿子小宇（10岁）的面问他期中考了第几名，还拿他跟表哥比，说表哥次次第一。孩子每次都低着头不说话。他最近在搭一个航母模型。这次想提前想好怎么接。",
+   "reply": "哈哈，婶婶又来考我们小宇了。成绩的事我们回家自己说。对了小宇，你最近搭的那个航母模型，给奶奶和婶婶讲讲？",
    "lang": "zh",
    "note": "问题冲着孩子来时由大人接住，一句挡掉，再把话题转到孩子愿意说的事上；第二次再问就原话再说一遍。"
   },
   {
    "id": "family-pressure-and-nosy-questions-013",
    "situation": "I've been sober for eight months. At every family barbecue my uncle Dave hands me a beer, and when I say no he jokes 'what, you pregnant or something?' His 60th is on Saturday and I don't want to explain my recovery to the whole patio.",
-   "reply": "Ha, nope, not pregnant, just on the lemonade today, Uncle Dave. Pass me one of those, would you? And tell me about the boat, did you ever get the motor running?",
+   "reply": "Ha, nope, not pregnant, just on the lemonade today, Uncle Dave. Pass me one of those, would you? And tell me, how does sixty feel so far?",
    "lang": "en",
    "note": "No reason for not drinking, since a reason invites a debate; if he pushes again, repeat the same line and keep a drink of your own in hand."
   },
   {
    "id": "family-pressure-and-nosy-questions-014",
    "situation": "I'm gay and out to my parents, but not to my 85-year-old grandma Rose. Every visit she asks if I've 'found a nice girl yet'. I don't want to lie to her and I'm not ready to tell her. Lunch at hers on Sunday.",
-   "reply": "Ha, Grandma, you never give up. When there's someone to bring to Sunday lunch, you'll be the first to meet them. Now, did the tomatoes come good in the end? Mum said you were at war with the squirrels.",
+   "reply": "Ha, Grandma, you never give up. When there's someone to bring to Sunday lunch, you'll get to meet them. Now, what have you been up to this week?",
    "lang": "en",
    "note": "A non-answer is not a lie: nothing in it says 'girl', it holds word for word if she asks again, and it still works if you decide to tell her later."
   },
   {
    "id": "family-pressure-and-nosy-questions-015",
-   "situation": "国庆第一次带男朋友小陈回老家见亲戚。我舅妈说话很直，肯定会当着他的面问他家有没有房、一年挣多少。我不想让他难堪，也不想跟舅妈闹僵。",
-   "reply": "哈哈，舅妈一上来就查户口呀。我们俩的事心里有数，有好消息第一个跟您说。对了舅妈，您的桂花糖藕今年做了没？小陈听我念叨好几回了，就等着尝呢。",
+   "situation": "国庆第一次带男朋友小陈回老家见亲戚。我舅妈说话很直，肯定会当着他的面问他家有没有房、一年挣多少。她做的桂花糖藕是一绝。我不想让他难堪，也不想跟舅妈闹僵。",
+   "reply": "哈哈，舅妈一上来就查户口呀。我们俩的事心里有数，有好消息第一个跟您说。对了舅妈，您的桂花糖藕今天做了没？小陈第一次来，可得让他尝尝。",
    "lang": "zh",
    "note": "问题冲着伴侣来时由你来接，不替他报任何数字；她再问就原话再说一遍，事前也跟男朋友通个气。"
   },
@@ -123,10 +123,10 @@
   },
   {
    "id": "family-pressure-and-nosy-questions-018",
-   "situation": "我妈打电话说弟弟要结婚，女方要20万彩礼，让我出10万。我在杭州工作，刚还完助学贷款，攒的钱是准备明年读研用的。我不想出这笔钱，也不想跟我妈闹翻。",
-   "reply": "妈，弟弟要结婚我真替他高兴。这10万我出不了，我攒的钱是明年读研要用的。婚礼定在哪天了？我好提前请假回去。",
+   "situation": "年夜饭上，我已经跟姑姑说过两次“结婚这个话题不聊了”。她刚才又当着全家人说：“三十五了还嫁不出去，肯定是自己有问题。”这次明显是故意让我难堪。",
+   "reply": "我出去透透气，十分钟就回来。",
    "lang": "zh",
-   "note": "钱的事一句说清不出，理由只给一个，不去评价彩礼该不该给；她再提，就用几乎一样的话再说一遍。"
+   "note": "对方是故意刻薄，不是说话笨：不回嘴、不解释，一句话起身离开几分钟，回来后照常聊别的。"
   },
   {
    "id": "family-pressure-and-nosy-questions-019",

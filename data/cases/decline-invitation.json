@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -134,6 +134,13 @@
    "reply": "Carmen, ¡muchísimas gracias por la invitación, qué ilusión que os caséis! No podré ir el 12 de diciembre a Oviedo, pero os tendré muy presentes ese día. La próxima vez que paséis por Málaga, Luis y yo os invitamos a cenar para celebrarlo como se merece. Un abrazo enorme a los dos.",
    "lang": "es",
    "note": "No se menciona lo del acompañante: ese motivo abriría una negociación o un conflicto; basta un no claro y un plan cálido."
+  },
+  {
+   "id": "decline-invitation-020",
+   "situation": "My coworker Ade invited me on Slack to his church's harvest service on Sunday October 11, with lunch after. I'm not religious and don't want to go, but I like him and would happily have lunch with him another time.",
+   "reply": "Thanks for inviting me, Ade, that's kind of you. I'll pass on Sunday, church isn't really my thing, but I hope the harvest service goes well. Fancy lunch one day this week instead? Thursday works for me.",
+   "lang": "en",
+   "note": "One short, honest reason with no debate about belief, and a real alternative because you'd genuinely like to see him."
   }
  ]
 }

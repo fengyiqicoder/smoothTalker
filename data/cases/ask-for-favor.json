@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -134,6 +134,13 @@
    "reply": "小雅，想请你帮个忙：我10月13日周二上午在市二医院做无痛胃镜，要全麻，医院要求必须有人陪着，做完签字再送我回家。时间大概是早上8点到11点，你得为这个请半天假，我知道不是小事。要是那天走不开，直接跟我说就好，我再问问别人。做完请你吃顿好的！",
    "lang": "zh",
    "note": "时间、地点和请半天假这个代价一次说清，退路是真的；不需要解释为什么要做检查。"
+  },
+  {
+   "id": "ask-for-favor-020",
+   "situation": "Ma fille Inès a 3 ans et mon mari Julien et moi faisons notre testament chez la notaire le 20 octobre. On voudrait demander à ma meilleure amie Camille d'être la tutrice désignée d'Inès si jamais il nous arrivait quelque chose. On a une assurance vie qui couvrirait ses frais, et on sait que c'est énorme à demander.",
+   "reply": "Camille, j'ai une grande demande, et je préfère te la faire franchement. Avec Julien, on fait notre testament chez la notaire le 20 octobre, et on aimerait te désigner comme tutrice d'Inès s'il nous arrivait quelque chose à tous les deux. Ça voudrait dire l'élever, et c'est énorme, même si notre assurance vie couvrirait ses frais. Prends le temps d'y réfléchir, et si c'est non, ça ne change rien entre nous, vraiment. Tu peux me dire d'ici le 15 octobre ?",
+   "lang": "fr",
+   "note": "Plus la demande est lourde, plus il faut nommer son vrai poids et laisser du temps pour répondre."
   }
  ]
 }

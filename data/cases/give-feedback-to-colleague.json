@@ -5,20 +5,20 @@
   {
    "id": "give-feedback-to-colleague-001",
    "situation": "My coworker Jen presented our joint churn analysis to the VP yesterday and kept saying 'I found' for work I did. We're peers. I want to raise it with her one on one.",
-   "reply": "Hey Jen, can I give you some feedback on yesterday's VP review? When you walked through the churn analysis, the cohort work I built came out as 'I found', and Marta left thinking it was all yours. I don't think you meant it that way. What's your read? For the next one, could we split the slides so each of us presents our own part?",
+   "reply": "Hey Jen, can I give you some feedback on yesterday's VP review? When you walked through the churn analysis, the parts I did came out as 'I found', so the VP had no way of knowing they were mine. I don't think you meant it that way. What's your read? For the next one, could we split the slides so each of us presents our own part?",
    "lang": "en",
    "note": "Observation, impact, then pause for her side before the ask; there may be context you don't have."
   },
   {
    "id": "give-feedback-to-colleague-002",
-   "situation": "Just had a feedback conversation with my report Kevin about typos in client emails. Need the short written follow-up.",
+   "situation": "Just had a feedback conversation with my report Kevin about typos in client emails. We agreed he'll read client emails aloud before sending, and for the next month send anything to a new client to me first. Need the short written follow-up.",
    "reply": "Thanks for the chat this afternoon, Kevin. To capture it: client emails get a read-aloud check before sending, and for the next month anything to a new client comes to me for a quick look first. Let's check in on 13 November. Tell me if I've missed anything.",
    "lang": "en",
    "note": "Neutral and short. The follow-up records the agreement, not the criticism."
   },
   {
    "id": "give-feedback-to-colleague-003",
-   "situation": "Three weeks ago I told my direct report Aisha she needs to stop showing up 20 minutes late to standup. It's still happening. I want to say it firmly in our 1:1.",
+   "situation": "On 8 September I told my direct report Aisha she needs to be at our 9:30 standup on time. She's been late four times since, including today. I want to say it firmly in our 1:1.",
    "reply": "On 8 September we agreed you'd be at standup by 9:30, and you've been late four times since, including today. I need this to change now, and I'll be tracking it in our one-to-ones. What's getting in the way?",
    "lang": "en",
    "note": "Name the agreement and the facts, make the consequence clear, and put it in writing after. If it continues, go to HR rather than repeating the conversation."
@@ -26,7 +26,7 @@
   {
    "id": "give-feedback-to-colleague-004",
    "situation": "我是小组长，上周私下跟组员小周说过，他的周报数据连着两次算错，让他发之前自己核一遍。今天这份又错了，我提了一句，他回我：大家周报都有错，你怎么只盯着我。",
-   "reply": "我明白你觉得被单独挑出来了。其他人的周报有问题，我也会单独找他们谈，这里不拿你跟别人比。我们说的是你这边：最近三份周报都有数据算错，其中一处客户已经来问过。要求还是一样，另外加一步：接下来两周，周报周五下午四点前先发我过一遍再发出去。10月16号周五我们再聊聊效果。",
+   "reply": "我明白你觉得被单独挑出来了。其他人的周报有问题，我也会单独找他们谈，这里不拿你跟别人比。我们说的是你这边：最近三份周报都有数据算错。要求还是一样，另外加一步：接下来两周，周报周五下午四点前先发我过一遍再发出去。10月16号周五我们再聊聊效果。",
    "lang": "zh",
    "note": "只有情绪、没有新信息的反驳：平静重复要求，给一个具体的支持措施和复盘日期，不展开辩论。"
   },
@@ -39,15 +39,15 @@
   },
   {
    "id": "give-feedback-to-colleague-006",
-   "situation": "我是设计组长。同级的产品经理老吴上周四在需求评审会上当着大家说我组里新来的设计师小林的方案“完全没想过用户”，小林会后哭了。老吴人不坏，就是说话冲，我想私下跟他聊聊。",
-   "reply": "老吴，有空聊五分钟吗？想说说上周四评审会的事。你说小林的方案“完全没想过用户”，我知道你是着急方案有问题，但她刚来两个月，当着全组听到这句，这几天改稿都不太敢拿出来了。你当时主要觉得哪块有问题？以后评审遇到这种情况，能不能直接说具体是哪个环节，或者会后单独跟我说，我带她改。下周评审完我们再碰一下，看看效果。",
+   "situation": "我是设计组长。同级的产品经理老吴上周四在需求评审会上当着大家说我组里刚来两个月的设计师小林的方案“完全没想过用户”，小林会后哭了。老吴人不坏，就是说话冲，我想私下跟他聊聊。",
+   "reply": "老吴，有空聊五分钟吗？想说说上周四评审会的事。你说小林的方案“完全没想过用户”，我知道你是着急方案有问题，但她刚来两个月，当着全组听到这句，会后挺难受的。你当时主要觉得哪块有问题？以后评审遇到这种情况，能不能直接说具体是哪个环节，或者会后单独跟我说，我带她改。下周评审完我们再碰一下，看看效果。",
    "lang": "zh",
    "note": "对平级同事：先征得同意，说具体一句话和它对团队的影响，先问他的看法，再提具体做法，并约好回头看。"
   },
   {
    "id": "give-feedback-to-colleague-007",
    "situation": "I manage a dev team. Marcus, a senior engineer, left three comments on junior dev Leah's pull request last Thursday that just said 'wrong, redo'. She told me she's now nervous about opening PRs. I'm raising it in our 1:1 tomorrow.",
-   "reply": "Can I give you some feedback on code reviews? On Leah's pull request last Thursday, three of your comments said 'wrong, redo' with no explanation. She spent most of Friday guessing what you meant, and she's started sitting on PRs instead of opening them. What's your read on it? Going forward, I'd like every blocking comment to say what's wrong and point to one direction for the fix. Let's look at a couple of your reviews together on Tuesday 13 October.",
+   "reply": "Can I give you some feedback on code reviews? On Leah's pull request last Thursday, three of your comments said 'wrong, redo' with no explanation. She's told me she's now nervous about opening PRs at all. What's your read on it? Going forward, I'd like every blocking comment to say what's wrong and point to one direction for the fix. Let's look at a couple of your reviews together on Tuesday 13 October.",
    "lang": "en",
    "note": "A 1:1 script: pause after 'What's your read on it?' and actually listen before giving the ask; keep Leah's name out of it if he'd take it out on her."
   },
@@ -61,41 +61,41 @@
   {
    "id": "give-feedback-to-colleague-009",
    "situation": "I manage an account manager, Dev. Twice this month he's promised clients a delivery date on the call without checking with production, and last Friday we had to walk back the Kessler date, which made us look bad. We have our 1:1 tomorrow.",
-   "reply": "Can I give you some feedback on client commitments? On the Kessler call two weeks ago you confirmed delivery for 9 October before checking with production, and on Friday we had to tell them it's now the 16th. Their ops lead asked me whether our dates can be trusted. What's your read on how it happened? Going forward, when a client asks for a date, tell them you'll confirm within 24 hours, and check with Anna in production first. Let's look at your next two commitments together on Tuesday 13 October.",
+   "reply": "Can I give you some feedback on client commitments? On the Kessler call you confirmed a delivery date before checking with production, and last Friday we had to walk it back. That's the second time this month, and it makes our dates look unreliable to clients. What's your read on how it happened? Going forward, when a client asks for a date, tell them you'll confirm within 24 hours, and check with production first. Let's look at your next two commitments together on Tuesday 13 October.",
    "lang": "en",
    "note": "One behaviour, one dated example with its real cost, a genuine question, then a line he can use on the very next call."
   },
   {
    "id": "give-feedback-to-colleague-010",
    "situation": "Ich bin Teamlead in einem Remote-Team. Jonas aus dem Plattform-Team (gleiche Ebene) beantwortet Slack-Fragen oft erst nach zwei Tagen. Letzte Woche hat meine Frage zur API-Freigabe von Montag bis Mittwoch gewartet, und unser Release ist von Donnerstag auf Freitag gerutscht. Ich will es in einem kurzen Call ansprechen.",
-   "reply": "Jonas, darf ich dir kurz Feedback zu etwas geben? Letzte Woche hat meine Frage zur API-Freigabe von Montag bis Mittwoch auf eine Antwort gewartet, und dadurch ist unser Release von Donnerstag auf Freitag gerutscht. Ich weiß, dass bei euch gerade viel los ist. Wie siehst du das? ... Wäre es machbar, dass Fragen mit dem Label „blockiert“ innerhalb eines Arbeitstags eine kurze Antwort bekommen, auch wenn es nur „schaue ich mir Freitag an“ ist? Lass uns am Dienstag, 13. Oktober, kurz schauen, ob das klappt.",
+   "reply": "Jonas, darf ich dir kurz Feedback zu etwas geben? Letzte Woche hat meine Frage zur API-Freigabe von Montag bis Mittwoch auf eine Antwort gewartet, und dadurch ist unser Release von Donnerstag auf Freitag gerutscht. Wie siehst du das? ... Wäre es machbar, dass Fragen mit dem Label „blockiert“ innerhalb eines Arbeitstags eine kurze Antwort bekommen, auch wenn es nur „schaue ich mir Freitag an“ ist? Lass uns am Dienstag, 13. Oktober, kurz schauen, ob das klappt.",
    "lang": "de",
    "note": "Unter Gleichrangigen: erst fragen, dann ein datiertes Beispiel mit seiner Folge, bei den drei Punkten wirklich zuhören, dann eine konkrete Bitte und ein Termin zum Nachfassen."
   },
   {
    "id": "give-feedback-to-colleague-011",
    "situation": "I coordinate volunteers at our food bank. Gerald, a retired volunteer of six years who's brilliant at logistics, told a mum at the pickup table on Saturday to 'hurry up, other people are waiting', and she left without her box. He's unpaid and I don't want to lose him.",
-   "reply": "Gerald, can I give you some feedback on the pickup table? On Saturday I heard you tell a mum to hurry up because others were waiting, and she left without her box. For a lot of people, coming here at all takes courage, so feeling rushed can be enough to keep them away. What's your read on Saturday? Going forward, when the line builds up, could you grab me or Ana to open a second table instead of speeding people along? Let's catch up after the shift on the 10th.",
+   "reply": "Gerald, can I give you some feedback on the pickup table? On Saturday I heard you tell a mum to hurry up because others were waiting, and she left without her box. For a lot of people, coming here at all takes courage, so feeling rushed can be enough to keep them away. What's your read on Saturday? Going forward, when the line builds up, could you grab me to open a second table instead of speeding people along? Let's catch up after the shift on the 10th.",
    "lang": "en",
    "note": "A volunteer gets the same shape as staff: private, one dated example, the real impact, and an ask that uses his strength with logistics."
   },
   {
    "id": "give-feedback-to-colleague-012",
    "situation": "我在运营组，同级的市场部同事阿伟最近三次在邮件里跟我有不同意见时，都直接抄送了我的领导和他的领导，其实当面五分钟就能说清。明天想约他喝咖啡聊一下。",
-   "reply": "阿伟，想跟你聊件事，可以吗？最近三次我们在邮件里有分歧，比如上周预热海报尺寸那次，邮件都抄送了两边领导。结果小事变成了要领导表态的事，我们俩也都多花时间写解释。你那边是怎么考虑的？是不是之前有过说好的事没落实？以后有分歧，我们先打电话或者当面聊十分钟，定不下来再一起找领导，你看行吗？两周后我们再碰一下看看效果。",
+   "reply": "阿伟，想跟你聊件事，可以吗？最近三次我们在邮件里有分歧，邮件都抄送了两边领导。结果小事变成了要领导表态的事，我们俩也都多花时间写解释。你那边是怎么考虑的？是不是之前有过说好的事没落实？以后有分歧，我们先打电话或者当面聊十分钟，定不下来再一起找领导，你看行吗？两周后我们再碰一下看看效果。",
    "lang": "zh",
    "note": "对同级先问原因，抄送领导往往有背景，比如之前被放过鸽子；听完再提具体做法。"
   },
   {
    "id": "give-feedback-to-colleague-013",
    "situation": "I was promoted to lead our 5-person support team last month. Tom was my peer and is a good friend; we get drinks most Fridays. Twice this week he closed tickets as resolved without the customer confirming, and one customer reopened hers with an angry note. I need to raise it without it getting weird.",
-   "reply": "Tom, can I give you some feedback on ticket closures? This is the part of the new role I find awkward with you, so I'd rather just say it straight. On Monday and again yesterday you closed tickets as resolved before the customer confirmed, and the Ferreira one came back reopened with a pretty angry note. What's your read on those two? Going forward I need every ticket to wait for the customer's confirmation, or 48 hours with no reply, before it's closed. Let's look at how it's going in our one-to-one on the 13th.",
+   "reply": "Tom, can I give you some feedback on ticket closures? This is the part of the new role I find awkward with you, so I'd rather just say it straight. Twice this week you closed tickets as resolved before the customer confirmed, and one customer reopened hers with a pretty angry note. What's your read on those two? Going forward I need every ticket to wait for the customer's confirmation, or 48 hours with no reply, before it's closed. Let's look at how it's going in our one-to-one on the 13th.",
    "lang": "en",
    "note": "Friend turned report: name the awkwardness once, then give him exactly the shape you'd give anyone else, and keep the friendship out of the ask."
   },
   {
    "id": "give-feedback-to-colleague-014",
-   "situation": "Rob, a senior engineer a level above me (not my manager), keeps repeating our new colleague Deepa's updates in standup in an exaggerated Indian accent. People laugh and Deepa laughs along, but she's barely spoken in the last two retros. I want to raise it with Rob privately.",
+   "situation": "Rob, a senior engineer a level above me (not my manager), keeps repeating our new colleague Deepa's updates in standup in an exaggerated Indian accent, most recently on Monday and today. People laugh and Deepa laughs along, but she's barely spoken in the last two retros. I want to raise it with Rob privately.",
    "reply": "Rob, can I give you some feedback on something from standup? On Monday and again today, you repeated Deepa's update in an accent, and people laughed. I don't think you mean anything by it, but she's barely said a word in the last two retros, and I wonder if this is part of why. What's your read? I'd like the accent to stop; if something needs repeating, just repeat the point in your own voice.",
    "lang": "en",
    "note": "Behaviour and impact, not a verdict on his character. If it carries on after this, take it to your manager or HR rather than having the same quiet chat again."
@@ -110,9 +110,9 @@
   {
    "id": "give-feedback-to-colleague-016",
    "situation": "我和同事小张是同组平级，工位挨着。他这两周经常在工位上外放短视频，声音不小。上周二下午我跟客户开电话会，客户问了一句“你那边在放什么”，挺尴尬的。想私下跟他说。",
-   "reply": "小张，有个小事想跟你说一下，方便吗？这两周你在工位上外放短视频，声音能传到我这边，上周二下午我跟客户开电话会，客户还专门问了一句“你那边在放什么”。我猜你可能没意识到声音传得这么远。你看以后在工位看视频能不能戴上耳机？我下午有会的时候也会提前跟你说一声。",
+   "reply": "小张，有个小事想跟你说一下，方便吗？这两周你在工位上外放短视频，声音能传到我这边，上周二下午我跟客户开电话会，客户还专门问了一句“你那边在放什么”。我猜你可能没意识到声音传得这么远，你觉得呢？以后在工位看视频能不能戴上耳机？我下午有会的时候也会提前跟你说一声。",
    "lang": "zh",
-   "note": "Low-stakes peer habit: one concrete moment, one small ask, no need for a formal meeting."
+   "note": "平级同事的小习惯：说一个具体的时刻，问一句他的看法，提一个小请求，不用正式约谈。"
   },
   {
    "id": "give-feedback-to-colleague-017",

@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "apologize-001",
@@ -134,6 +134,13 @@
    "reply": "Farah, I've realised I keep talking over you in our team meetings, including yesterday when you were halfway through the vendor delays. I'm sorry. It stopped you making your point, and I noticed you went quiet for the rest of the meeting. On Friday I'll wait until you've finished, and I'd genuinely like to hear the rest of the vendor update.",
    "lang": "en",
    "note": "A pattern you noticed yourself: name it before they have to raise it, and make the fix something they can watch you do."
+  },
+  {
+   "id": "apologize-020",
+   "situation": "相亲认识的小周，我们聊了一个多月，见过两次面。后来我觉得不太合适，就直接不回她消息了，已经两个月。下周六共同朋友的婚礼上可能会碰到，我想先发个微信跟她道歉，不是想重新开始。",
+   "reply": "小周，两个月前我突然不回你消息，对不起。那时候我觉得我们不太合适，却没有说出口，就这么消失了，让你一直不知道是怎么回事，这对你不公平。以后我有这种想法，会直接说出来。这条不用回我。",
+   "lang": "zh",
+   "note": "道歉的是消失的方式，不是那个决定；不求回复，也不借机长篇解释。"
   }
  ]
 }

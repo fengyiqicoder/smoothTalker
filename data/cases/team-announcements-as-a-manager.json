@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -127,6 +127,13 @@
    "reply": "As we covered at the huddle: on Monday night a forklift reversing out of aisle 9 came within about a foot of a picker. Nobody was hurt, and I want to keep it that way. From tonight, two rules: if a forklift is in an aisle, pedestrians stay out until it's clear, and drivers sound the horn at every aisle end. This isn't about blaming anyone; it's a gap in how we worked, and fixing it is on me. If anyone is ever hurt, call emergency services first, then me. Questions or ideas to make this work, tell me on shift or message me directly.",
    "lang": "en",
    "note": "A near miss: say what happened without naming anyone, give the new rule in plain words, and put emergency services first."
+  },
+  {
+   "id": "team-announcements-as-a-manager-019",
+   "situation": "Dirijo un equipo de 7 personas en una empresa de software en Sevilla. Hoy se ha anunciado que nos compra el grupo Nortia, porque necesitamos su red comercial para crecer fuera de España, y la operación se cierra el 1 de diciembre. Hasta entonces no cambian contratos, sueldos ni proyectos; lo que pase después lo sabremos antes del 15 de noviembre. Yo apoyo la operación y quiero escribir en el Slack del equipo justo después del comunicado general.",
+   "reply": "Os lo cuento directamente: la empresa ha acordado su venta al grupo Nortia, y la operación se cierra el 1 de diciembre. El motivo es que necesitamos su red comercial para crecer fuera de España, y yo apoyo la decisión. Hasta el 1 de diciembre no cambia nada: ni contratos, ni sueldos, ni proyectos. Lo que pase después todavía no lo sé, así que no os voy a prometer que todo seguirá igual; lo sabremos antes del 15 de noviembre y os lo contaré ese mismo día. Esta semana reservo 20 minutos con cada uno para lo que prefiráis preguntar en privado.",
+   "lang": "es",
+   "note": "En una compra, di lo que sabes, lo que no sabes y cuándo lo sabrás; un 'no va a cambiar nada' sin fecha es la promesa que luego se rompe."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -134,6 +134,13 @@
    "reply": "Hi Sam, I'm keen on the blue hybrid and could collect it tomorrow evening with cash. There are a couple of similar ones listed nearby at $380 and $400, so would you take $390? If that's too low, no problem, just let me know your best price.",
    "lang": "en",
    "note": "With a private seller, cash and a quick pickup are the lever; point to real listings and never run the bike down."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-020",
+   "situation": "I want to sign up for an online bookkeeping course from Ledgerwise. The early-bird price was $299 until last night at midnight; it's now $399. I was on their webinar last week and meant to pay, but missed it by a few hours.",
+   "reply": "Hi, I'd like to enrol in the bookkeeping course today. I was on last week's webinar and meant to book at the early-bird price of $299, but missed the midnight deadline by a few hours. Could you still honour $299 for me? If yes, I'll pay as soon as you send the link. If not, I understand, and I'll go ahead at $399.",
+   "lang": "en",
+   "note": "The anchor is a real, recent price you just missed; say you'll buy either way, so it costs them nothing to say yes."
   }
  ]
 }

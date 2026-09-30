@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -133,6 +133,13 @@
    "reply": "Oi, Renata! Espero que vocês estejam se adaptando bem em Porto Alegre, manda um beijo pro Theo. Estou me candidatando para cuidar de gêmeos aqui em São Paulo, e a família pediu uma referência por telefone até sexta, 9 de outubro. Você toparia ser essa referência? Seria uma ligação rápida, e se ajudar, os pontos que mais contam são as refeições, as sonecas e levar o Theo na escolinha todo dia. Se não for um bom momento, sem problema nenhum.",
    "lang": "pt",
    "note": "Prazo na primeira mensagem e os pontos concretos à mão; se ela topar, mande o nome e o telefone da família numa mensagem só."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-020",
+   "situation": "Two years ago I left my receptionist job at Pinecrest Dental with only one week's notice because my mum needed surgery, and I know it left my manager, Dr. Hughes, short-staffed. I'm now applying for a practice manager role at another clinic and they want a reference by Monday 12 October. While I was there I set up the online booking system and cut no-shows from about 15% to 6%.",
+   "reply": "Hi Dr. Hughes, I hope things are good at Pinecrest. I know I left at short notice two years ago, when my mum needed surgery, and I'm sorry it left you short-staffed. I'm now applying for a practice manager role, and they've asked for a reference by Monday 12 October. Would you be willing to be one? If it helps, the thing they care most about is the online booking system I set up, which cut no-shows from about 15% to 6%. If you'd rather not, I completely understand.",
+   "lang": "en",
+   "note": "Name the rough exit once, plainly, before the ask; skipping over it makes a yes harder, and a long apology makes it about you."
   }
  ]
 }

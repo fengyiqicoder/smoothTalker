@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -134,6 +134,13 @@
    "reply": "Hi Greg,\nThanks for coming back to me. The agreement for this project, signed by Dana, sets payment at 30 days from invoice in clause 5, so invoice #1147 for $5,600 was due on 14 September. Could you include it in your next payment run and confirm the date it will go out? I've copied Dana in case an exception to the net 60 policy needs her sign-off, and attached the signed agreement and the invoice again.\nThanks,\nLeila",
    "lang": "en",
    "note": "An internal policy doesn't rewrite a signed contract: quote the clause once, ask for the next payment run, and copy the person who signed."
+  },
+  {
+   "id": "chase-late-payment-020",
+   "situation": "I tutor 12-year-old Aiden in maths twice a week at $45 a lesson, and his dad, Craig, pays monthly by bank transfer. September's 8 lessons ($360) were due on September 5. I texted on the 12th and he said he'd sort it that week, but nothing's come through, and the next lesson is Monday.",
+   "reply": "Hi Craig, following up on September's lessons for Aiden: 8 lessons at $45, so $360, due on 5 September. On the 12th you mentioned you'd sort it that week, and it hasn't come through yet. Could you send it by bank transfer by Sunday 4 October? If it hasn't arrived by then, I'll pause lessons from Monday until it's settled. If something's come up, just tell me and we'll work out a plan.",
+   "lang": "en",
+   "note": "A parent is still a client: the amount, his own missed promise, one date and a consequence you will actually keep."
   }
  ]
 }

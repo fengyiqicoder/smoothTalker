@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -134,6 +134,13 @@
    "reply": "Dad, can I ask something small? I love hearing from you, but when you ring during school hours I can't pick up in class, and when I see three missed calls I panic that something's wrong. Could you text me for the small stuff, like the remote, and I'll call you back at lunch or after 3:30? Anything urgent, keep ringing, and if it's ever an emergency, call emergency services first, then me.",
    "lang": "en",
    "note": "One behaviour, the effect on you, and a system that keeps the urgent channel open; with an older parent living alone, never make calling feel unwelcome."
+  },
+  {
+   "id": "ask-to-change-behavior-020",
+   "situation": "My husband Dev keeps saying yes to plans for both of us without checking with me. Last week he told his brother we'd host Sunday lunch, and he's just said we'll go to his colleague's barbecue this Saturday. The plans themselves are fine, I just want to be asked first. I'm bringing it up tonight.",
+   "reply": "Can I raise a small thing, not a fight? A couple of times lately you've said yes to plans for both of us before checking with me, like Sunday lunch for your brother and Saturday's barbecue. The plans are fine, but I end up feeling like my weekend's been decided for me. Could anything involving both of us start with a quick \"are you free?\" first? I'll do the same.",
+   "lang": "en",
+   "note": "Ask for the check-in, not a veto: a small shared rule is easier to say yes to than 'stop making plans'."
   }
  ]
 }

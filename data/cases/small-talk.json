@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "small-talk-001",
@@ -127,6 +127,13 @@
    "reply": "キャンプがお好きなんですね。最近はどのあたりに行かれました？お疲れのときは、目を閉じてゆっくりしていただいて大丈夫ですからね。",
    "lang": "ja",
    "note": "「少しなら」は合図。質問はひとつだけにして、返事が短ければ静かな時間をそのまま任せる。"
+  },
+  {
+   "id": "small-talk-019",
+   "situation": "At my cousin Emma's wedding reception, the man next to me, Gary, has just started on about the mayor's new bike lanes and clearly wants me to agree. I don't want a debate at a wedding. The only other thing I know is he said he flew in from Denver this morning.",
+   "reply": "Ha, I think that one's a debate for another day, I'm keeping tonight strictly about cake. You flew in from Denver this morning, right? How do you know Emma and Josh?",
+   "lang": "en",
+   "note": "Politics needs a position; step around it with a smile rather than a counterpoint, then hand him a thread he can enjoy."
   }
  ]
 }

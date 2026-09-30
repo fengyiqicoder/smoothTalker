@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -134,6 +134,13 @@
    "reply": "Guten Tag, ich habe am 3. Juni zwei Tickets für das Konzert am 17. Oktober in Hamburg gekauft, Bestellung KW-208841, 138 Euro. Das Konzert wurde auf den 6. März verschoben, und an diesem Tag bin ich im Ausland, kann den neuen Termin also nicht wahrnehmen. Einen Gutschein kann ich deshalb nicht nutzen. Ich bitte um die Erstattung der 138 Euro auf mein ursprüngliches Zahlungsmittel und um eine kurze Bestätigung bis Freitag, 9. Oktober. Vielen Dank, Jonas Weber, jonas.weber@example.com",
    "lang": "de",
    "note": "Sachlich den Grund nennen, warum der Gutschein nicht hilft; ob ein Erstattungsanspruch besteht, in den Ticketbedingungen oder bei einer Verbraucherberatung prüfen."
+  },
+  {
+   "id": "complain-as-customer-020",
+   "situation": "I'm Ruth Adeyemi (ruth.adeyemi@example.com). On 14 September I bought a 65W laptop charger from Amberwick Electronics' website, order AW-771905, $49. Last night it got too hot to touch while charging and scorched the desk under it; I unplugged it and nobody was hurt, and I took photos.",
+   "reply": "Hello,\nOrder AW-771905, a 65W laptop charger bought on 14 September for $49. Last night it became too hot to touch while charging and scorched the desk underneath (photos attached). I unplugged it straight away and won't be using it again. I'd like a full refund of the $49, and please pass this to whoever handles product safety. Could you confirm by Friday 9 October, and let me know if you want the charger sent back for inspection?\nThanks,\nRuth Adeyemi, ruth.adeyemi@example.com",
+   "lang": "en",
+   "note": "Keep the charger and photos and don't use it again; if a device ever smokes or catches fire, get away from it and call emergency services."
   }
  ]
 }

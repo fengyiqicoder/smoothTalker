@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -127,6 +127,13 @@
    "reply": "爸，谢谢您这么在意那天的安排，您能来我特别高兴。我和阿杰商量好了，主桌只坐我们俩和伴郎伴娘，您和我妈各带一桌亲戚，两桌都在最前排，离台上最近。敬酒的时候我们第一个就过去敬您。那天就等您来了！",
    "lang": "zh",
    "note": "安排对双方父母一样，按类别定规矩，不提他们之间的关系；他再坚持，就短一点重复同一句，不加新理由。"
+  },
+  {
+   "id": "wedding-and-event-host-messages-019",
+   "situation": "My fiancé Rob and I have called off our wedding, which was set for Saturday 7 November. It was a mutual decision and we don't want to discuss why. About 80 guests have RSVP'd; we'll post back any gifts already sent by the end of October, and I want one email to go to everyone.",
+   "reply": "Dear friends and family, Rob and I have decided not to go ahead with our wedding on Saturday 7 November. It was a decision we made together, and we'd be grateful if you didn't ask us about the reasons. If you've already sent a gift, we'll post it back to you by the end of October, so there's nothing you need to do. Thank you for all the love you've shown us both, and we're sorry for any plans this changes.",
+   "lang": "en",
+   "note": "Calling it off: one message to everyone, the fact first, one plain line asking for privacy, and the practical next step so nobody has to ask."
   }
  ]
 }

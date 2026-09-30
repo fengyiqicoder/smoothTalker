@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -133,6 +133,13 @@
    "reply": "Hi Kevin, thanks for sending the contract, the fee and deliverables look good. The one clause I can't sign is clause 11: my channel runs on honest reviews, so I can't agree to say nothing negative about Sonaro for 12 months. I'm happy for your team to check the script for factual accuracy before the video goes live. Could you send a version without clause 11 so I can sign this week?",
    "lang": "en",
    "note": "Strike the one clause that costs your audience's trust, offer a reasonable substitute, and keep the deal. Have anyone you trust read the rest of the contract too."
+  },
+  {
+   "id": "creator-brand-deal-reply-020",
+   "situation": "我是抖音探店博主，8万粉。三个月前我自费去一家茶饮店拍了条视频，播放不错。现在他们品牌的小周私信说想把这条视频转到官方账号，还想剪进广告里投流。官方号转发并@我的话我不收费；投流授权我一般按内容费的30%每90天另计，我单条视频报价5000元。",
+   "reply": "小周你好，谢谢喜欢这条视频！官方账号直接转发并@我、不用于投流的话，没问题，直接转就好。如果要剪进广告投流，这部分按授权另计，每90天1500元。你们大概打算投多久？我按实际需要给你一个最简单的方案，确认后我们把授权范围写下来。",
+   "lang": "zh",
+   "note": "已经发布的旧视频也有授权问题：转发和投流分开谈，钱在投流那部分，范围要落在文字里。"
   }
  ]
 }

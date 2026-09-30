@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -134,6 +134,13 @@
    "reply": "Kofi, heads up: the change I made to the nightly sales sync on Monday evening is dropping rows. Ines spotted that Tuesday's dashboard total is about 3% below the till system. I've rolled the sync back to last week's version, so tonight's run should be clean. I don't know the cause yet; I'm comparing Tuesday's rows against the till export first to see which sales are missing, and I'll update you by 3pm today. Sorry, this one's mine. Once I've found it, I'll add a nightly check that flags any gap between the two totals.",
    "lang": "en",
    "note": "Report before you have the root cause: what's contained, what you're checking first, and when the next update comes."
+  },
+  {
+   "id": "admit-mistake-at-work-020",
+   "situation": "I'm an account executive. On last Thursday's sales call I told Oakridge Dental that our payroll integration was live, but it's only on the roadmap for Q1. They signed a 40-seat annual contract on Monday, and their ops lead, Hannah, asked this morning when she can switch it on. I need to tell my manager, Chris, on Slack before I answer her.",
+   "reply": "Chris, I need to flag a mistake: on last Thursday's call I told Oakridge Dental our payroll integration was live, and it's only on the Q1 roadmap. They signed the 40-seat annual contract on Monday, and Hannah, their ops lead, asked this morning when she can switch it on. I haven't replied to her yet. I'd like to tell her the truth today, with the Q1 timeline and what we can offer until then; can we agree the message by 2pm? Sorry, this one's mine. From now on I'll check the live features page before I promise anything on a call.",
+   "lang": "en",
+   "note": "Tell your manager before the customer, and don't paper over the gap in your reply to Hannah; what Oakridge is owed is a joint decision."
   }
  ]
 }
