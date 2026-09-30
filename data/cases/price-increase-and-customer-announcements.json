@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -127,6 +127,13 @@
    "reply": "Hi Tom,\nThe bakery will be closed for three weeks, from Monday 19 October, and reopens on Monday 9 November while we renovate the kitchen. Your subscription pauses automatically for those weeks and you won't be charged for them. When we reopen it's the same bakers and the same recipes, and your first loaf back will be ready on Monday 9 November. If you'd rather cancel instead, just reply and I'll sort it the same day. Thank you for your patience.\nAnna",
    "lang": "en",
    "note": "A temporary closure is an announcement like any other: dates first, one line of reason, what happens to their money, and an easy exit."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-019",
+   "situation": "I'm Jonas, the solo developer of Pantry Pal, a meal-planning app with about 3,000 free users. From Monday Nov 2 the free plan ends and the app costs $3 a month, because my server costs have tripled this year. The app itself isn't changing and there are still no ads; anyone can export their recipes any time, subscribed or not; and current free users get their first three months at $1.50.",
+   "reply": "Hi Maya,\nFrom Monday 2 November, the free plan of Pantry Pal ends and the app will cost $3 a month. My server costs have tripled this year, and a subscription is how I keep it running. Nothing about the app itself changes, and there are still no ads. As someone already using it, your first three months are $1.50 a month. If it's not for you, you can export your recipes any time, whether or not you subscribe. Thanks for planning your meals with a one-person app.\nJonas",
+   "lang": "en",
+   "note": "Free to paid is the biggest jump there is, so the exit (export) gets as much space as the discount."
   }
  ]
 }

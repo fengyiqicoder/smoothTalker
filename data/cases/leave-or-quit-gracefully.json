@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -127,6 +127,13 @@
    "reply": "李姐，有件事想跟您当面说：我妈身体不太好，我得回老家照顾她，想做到11月15日。提前一个半月跟您说，是想让您有时间慢慢找合适的人。这段时间我照常带朵朵，新阿姨来了我带她一起做几天，把朵朵的作息、爱吃的和午睡的习惯都交代清楚。这两年您一家对我特别好，我也真舍不得朵朵。",
    "lang": "zh",
    "note": "家政工作也是同一个结构：当面说，日期放在前面，理由一句，交接具体到孩子的日常，最后是真心的感谢。"
+  },
+  {
+   "id": "leave-or-quit-gracefully-019",
+   "situation": "I gave two weeks' notice, as my contract requires, and my last day is Friday Oct 16. My manager Ines now wants me to stay until Oct 30 to cover the year-end audit prep, but I start my new job on Monday Oct 19 and can't move it. My colleague Tom is taking over the audit, and I'd be fine doing two short evening calls the week after if he gets stuck.",
+   "reply": "I understand the audit timing makes this hard, Ines, and I want to leave it in good shape. My last day stays Friday 16 October, because I start my new role on Monday the 19th and can't move it. Before I go I'll finish the audit prep folder and walk Tom through all of it, and if he gets stuck the week after, I'm happy to do two short evening calls with him. Which parts of the audit would you like me to cover first?",
+   "lang": "en",
+   "note": "When asked to stay longer, hold the date, offer one bounded extra you actually want to give, and turn the talk to handover priorities."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -127,6 +127,13 @@
    "reply": "Dear Mrs Patel, I'm Ben's mum, from your Year 4 class. I wanted to let you know that Ben's grandad, my dad, died on Sunday; he was the one who picked Ben up every Wednesday, and they were very close. Ben has been quiet and teary at home, and we're talking about Grandad at bedtime, so he may have wobbly moments in class too. Could you let me know if you notice anything? He'll be off on Thursday 8 October for the funeral. Thank you, and I'm happy to talk any day after school.",
    "lang": "en",
    "note": "A heads-up with one small ask, not a request for special treatment; the teacher can take it from there."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-019",
+   "situation": "女儿刘小雨读三年级二班，上周五查出近视，大约200度，眼镜配了但要两周左右才能拿到。她说坐在第六排看不清黑板，这几天抄题老抄错。在家我们已经把她用平板的时间减到每天半小时。班主任是王老师。",
+   "reply": "王老师您好，我是三（2）班刘小雨的妈妈。小雨上周五查出近视，大约200度，眼镜已经配了，但要两周左右才能拿到。她说坐在第六排看不清黑板，这几天抄题老抄错。这两周能不能麻烦您临时让她坐到前面几排？家里我们已经把她用平板的时间减到每天半小时了。谢谢您，有什么需要随时联系我。",
+   "lang": "zh",
+   "note": "一个具体、有期限的小请求，老师最容易马上答应；说明是临时的，也不会显得在挑座位。"
   }
  ]
 }

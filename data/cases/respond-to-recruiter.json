@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -127,6 +127,13 @@
    "reply": "陈先生您好，谢谢您想到我。从描述看，这个岗位应该就在我现在的公司，所以这次就不考虑了。以后如果有其他公司供应链数据方向的机会，欢迎随时联系我。",
    "lang": "zh",
    "note": "答案放在前两行，不用多解释，也不要透露公司内部招聘的情况，最后留一扇门。"
+  },
+  {
+   "id": "respond-to-recruiter-019",
+   "situation": "Recruiter Aaron messaged me on LinkedIn about a regional sales director role at Norvale, a direct competitor of my current employer. I'm interested, but my contract has a six-month non-compete clause for competitors. I want to know if that's a dealbreaker before a call, without sending him my contract; I'm free Thursday or Friday afternoon.",
+   "reply": "Thanks for reaching out, Aaron, I'm interested. One thing before we book a call: my current contract has a six-month non-compete covering competitors. Could you check whether Norvale's hiring team would be open to working with that? If so, I'm free for a call Thursday or Friday afternoon.",
+   "lang": "en",
+   "note": "Share that the clause exists, not the contract itself, and have an employment lawyer read it before you resign."
   }
  ]
 }

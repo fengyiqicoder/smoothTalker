@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -127,6 +127,13 @@
    "reply": "谢谢你这么体面地接受，也谢谢你问。说实话，我不打算做常联系的朋友，觉得彼此留点空间更好。祝你一切顺利。",
    "lang": "zh",
    "note": "不想做朋友就别答应，把友谊当安慰奖反而是另一种含糊。"
+  },
+  {
+   "id": "romantic-let-down-019",
+   "situation": "On holiday in Lisbon I met Sofia; we spent the last three evenings together and kissed on the final night. For me it was a lovely holiday thing, nothing more. She's back home in Madrid and just texted that she's looking at flights to visit me in London the weekend of Saturday November 14.",
+   "reply": "Sofia, those three evenings in Lisbon were lovely, and I'm really glad I met you. I want to be honest before you look any further at flights: for me it was a holiday thing, and I'm not feeling a romantic connection beyond that. So I don't think you should come over in November. I'm sorry it's not the answer you were hoping for, and I wish you well.",
+   "lang": "en",
+   "note": "Answer before she books: the clear no now saves her money and a weekend."
   }
  ]
 }

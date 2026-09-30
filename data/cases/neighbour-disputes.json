@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -127,6 +127,13 @@
    "reply": "阿姨您好，我是对门501的小何，平时见面点点头，一直没好好打个招呼。楼道里的纸箱和旧沙发挡了半边楼梯，我推婴儿车得侧着过，晚上灯暗，也怕有人不小心绊倒。能麻烦您这周挪一挪吗？要是需要搬下楼，我周六上午可以帮您一起搬。您那边有什么需要，也随时敲我家门。",
    "lang": "zh",
    "note": "先当面或留字条，别发业主群；两次没变化再找物业，并提前跟她说一声。"
+  },
+  {
+   "id": "neighbour-disputes-019",
+   "situation": "We share a gravel driveway with Alan and Sue at number 16, and our deeds say it's jointly maintained. The potholes have got deep since last winter and I've had a quote of £1,300 to regrade and resurface the whole thing. We're friendly but have never talked money; I'd like to split it 50/50 and I'm happy to get a second quote first. I'm Kate at number 14.",
+   "reply": "Hi Alan and Sue, it's Kate from number 14. The potholes on our shared drive have got quite deep since last winter, and I've had a quote of £1,300 to regrade and resurface the whole thing. As the deeds have it as jointly maintained, would you be happy to split it, £650 each? I'm glad to get a second quote first if you'd like to compare. Let me know what you think.",
+   "lang": "en",
+   "note": "Ask before any work starts; billing a neighbour afterwards turns a shared cost into a dispute."
   }
  ]
 }

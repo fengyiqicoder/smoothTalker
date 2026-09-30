@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -127,6 +127,13 @@
    "reply": "Hi Mrs Okafor, three kids and no washing machine until 9 October is a long time to go without, and I'm sorry it's taking this long. Here's what I can do now: we have a reconditioned loaner machine, and I can bring it round and plumb it in tomorrow, Thursday 1 October, at no charge, so you're washing again while we wait. I'm also waiving the $75 call-out fee. The day the part arrives, I'll call you to book the repair. Would tomorrow morning or afternoon suit you better? Sam",
    "lang": "en",
    "note": "When the real fix is slow, an interim fix with a date does what an apology alone cannot."
+  },
+  {
+   "id": "respond-to-angry-customer-019",
+   "situation": "我开儿童美术培训班，我是负责人王老师。家长李女士在微信上发了一长段火，说女儿朵朵上了8节课画的还是乱涂乱画，钱白花了，要退剩下的课。她一共买了20节，每节150元，合同写了剩余课时可以按单价退；我们平时没怎么给家长发过进度，但每节课的作品都拍照存档了，我觉得朵朵进步挺明显。",
+   "reply": "李女士，您花了钱，看朵朵的画又觉得没什么变化，着急是肯定的。平时没及时给您看进度，这是我们该做好却没做好的。我今晚8点前把朵朵这8节课的作品照片按时间整理好发给您，您可以对比一下第一节和第八节。看完如果还是想退，剩下12节按每节150元，一共1800元，按合同三个工作日内退给您。有任何问题直接找我，我是王老师。",
+   "lang": "zh",
+   "note": "不争论孩子有没有进步，用作品照片说话；同时把退款路径讲清楚，让家长自己选。"
   }
  ]
 }

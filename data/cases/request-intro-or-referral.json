@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -127,6 +127,13 @@
    "reply": "美咲、ちょっとお願いがあるんだけど、高橋さんを紹介してもらえないかな？誕生日会で山の話をしたのがすごく楽しくて、もう少しゆっくり話してみたいなと思って。職場の人だし、気まずくなりそうなら全然断ってくれて大丈夫だよ。もしよければ、こんな感じで伝えてもらえたら嬉しい：「誕生日会で山の話をした友だちの彩が、また話したいって。今度3人でお茶でもどう？」どうなっても、ちゃんと報告するね。",
    "lang": "ja",
    "note": "恋愛の紹介でも形は同じ：職場の関係を気にする友人に断る余地を渡し、3人で会う軽い形にして、そのまま伝えられる一文を添える。"
+  },
+  {
+   "id": "request-intro-or-referral-019",
+   "situation": "I asked my former colleague Rita to introduce me to Sam Okoro, a product director at a health-tech company, for a 20-minute chat about moving into product. Rita replied that she's only met Sam twice at conferences and doesn't feel she can make a formal intro, but I'm welcome to email him and mention her name.",
+   "reply": "That's really helpful, Rita, thank you, and completely fair. I'll email Sam myself and just say you suggested I get in touch, nothing more, so it doesn't put anything on you. I'll let you know how it goes either way.",
+   "lang": "en",
+   "note": "When they offer their name instead of an intro, accept it gladly, say exactly how you'll use it, and still report back."
   }
  ]
 }

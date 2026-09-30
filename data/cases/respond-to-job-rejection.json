@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -126,6 +126,13 @@
    "reply": "Hi Mark, thanks for telling us yourself, and for three good years; getting your whole office into the new building without a lost day is still one of my favourite jobs. Understood on the decision. If you're able to say, was it mainly price or the size of the team? One word is enough. We'll keep everything running as normal until 31 December and send you a handover plan in November so the switch is smooth for your people.",
    "lang": "en",
    "note": "Losing an existing client: the calm handover is what they will remember, so promise it plainly and keep the feedback ask to one word."
+  },
+  {
+   "id": "respond-to-job-rejection-019",
+   "situation": "I applied to be a trustee at Eastside Food Bank, the local charity where I've volunteered on Saturdays for two years. The chair, Margaret, emailed that the board chose someone with an accounting background because they need a treasurer. I'm disappointed, but I'd like to keep volunteering and be considered next time.",
+   "reply": "Hi Margaret, thanks for letting me know, and for telling me the reason. A treasurer makes a lot of sense for the board right now. I'll keep coming in on Saturdays, and I'd welcome being considered if another trustee place opens up. Please pass my congratulations to the new treasurer.",
+   "lang": "en",
+   "note": "In a volunteer role you stay in the room after a no, so showing up as usual is the strongest reapplication."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -127,6 +127,13 @@
    "reply": "赵哥，热水器的事想再正式跟您说一下：卫生间的一氧化碳报警器9月27日和29日洗澡时响了两次，27日当天我就微信告诉过您。报警器响可能是漏气或排烟不畅，开窗解决不了根本问题，所以检查之前我先不用热水器了。麻烦您10月2日（周五）前安排有资质的师傅上门检查，我晚上7点后和周末都在家。谢谢您。",
    "lang": "zh",
    "note": "报警器再响就立刻关气、开窗、离开屋子，到室外打燃气抢修电话或119。"
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-019",
+   "situation": "I'm a landlord. The boiler in my flat on Fenwick Road needs replacing and the engineer can do Tuesday 6 October or Thursday 8 October, 8am to 1pm, with no heating or hot water during the job. My tenant Aisha works night shifts and sleeps until about 2pm; the tenancy agreement says I give at least 24 hours' written notice for access, and I'll be there myself to let the engineer in.",
+   "reply": "Hi Aisha, the boiler is due to be replaced, and the engineer can come on Tuesday 6 October or Thursday 8 October, 8am to 1pm. There'll be no heating or hot water while they work. I know you sleep during the day after night shifts, so which of the two days would disrupt you less? I'll be there to let the engineer in myself, so you won't need to get up, and I'll confirm the day in writing once you choose.",
+   "lang": "en",
+   "note": "Landlord side: offer a choice that fits the tenant's life; the notice clause is the minimum, not the whole courtesy."
   }
  ]
 }

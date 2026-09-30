@@ -33,14 +33,14 @@
   {
    "id": "tell-someone-something-awkward-005",
    "situation": "I told my gym buddy Marcus, privately, that there's been a strong smell after our sessions lately. He replied 'wow, ok, thanks for that I guess' and has been short with me since. We train together Tuesdays and Thursdays.",
-   "reply": "Marcus, I didn't mean to upset you. I only said it because I'd want someone to tell me. That's all, I won't mention it again. Still on for Thursday at 6?",
+   "reply": "Marcus, I didn't mean to upset you. I only said it because I'd want someone to tell me. That's all, I won't mention it again. Still on for Thursday?",
    "lang": "en",
    "note": "When they get defensive, don't repeat the details or add evidence. One line, then straight back to normal."
   },
   {
    "id": "tell-someone-something-awkward-006",
    "situation": "A teammate who joined six weeks ago, Tom, keeps calling me Nicole. My name is Nicola. I let it go too long and he's now said it in meetings a dozen times. We get on well.",
-   "reply": "Hey Tom, tiny thing: it's Nicola, not Nicole. Really easy mix-up, and I should have said something weeks ago! See you at standup.",
+   "reply": "Hey Tom, tiny thing: it's Nicola, not Nicole. Really easy mix-up, and I should have said something weeks ago!",
    "lang": "en",
    "note": "Private, one line, and share the blame for the delay so he doesn't feel he's been embarrassing himself for weeks. Never mention it again."
   },
@@ -67,10 +67,10 @@
   },
   {
    "id": "tell-someone-something-awkward-010",
-   "situation": "Company all-hands on Zoom, about 80 people. My teammate Raj is unmuted and everyone can hear him on the phone ordering a takeaway. The host hasn't noticed and people are starting to smirk.",
-   "reply": "Raj, you're unmuted, we can all hear you!",
+   "situation": "Le dije a mi compañera Lucía, por mensaje privado y justo antes de una reunión, que tenía pintalabios en los dientes; lo acababa de ver. Se lo quitó, pero me escribió: «Qué vergüenza, ¿desde cuándo lo tenía?». Nos llevamos bien.",
+   "reply": "Tranquila, lo vi justo ahora y te lo dije al momento. Nos pasa a todos. ¿Entramos?",
    "lang": "en",
-   "note": "Quick fix, so speed is kindness: private chat, one line, and never mention it again unless he laughs about it first."
+   "note": "Si le da vergüenza, se quita hierro en una línea, se responde con verdad y sin detalles, y se cambia de tema."
   },
   {
    "id": "tell-someone-something-awkward-011",
@@ -89,30 +89,30 @@
   {
    "id": "tell-someone-something-awkward-013",
    "situation": "My manager, Farah, just posted on LinkedIn welcoming our new hire Siobhan Walsh, but spelled her name 'Shivon' and tagged a different Siobhan Walsh. It already has 40 likes. I'm fairly junior on the team.",
-   "reply": "Hi Farah, lovely post about Siobhan! Quick heads up: her name is spelled 'Shivon' in the text, and the tag goes to a different Siobhan Walsh, not ours. Easy fix with an edit, and ours is the one with the Studio Nine logo in her photo.",
+   "reply": "Hi Farah, lovely post about Siobhan! Quick heads up: her name is spelled 'Shivon' in the text, and the tag goes to a different Siobhan Walsh, not ours. Easy fix with an edit.",
    "lang": "en",
    "note": "Seniority doesn't change the rule: a fixable error gets a private message, one plain line and the fix, then never mention it again."
   },
   {
    "id": "tell-someone-something-awkward-014",
    "situation": "儿子14岁，上初二，最近打完球回家身上汗味很重，他自己好像没察觉。想今晚单独跟他说，又怕伤他自尊。",
-   "reply": "儿子，跟你说件小事，就咱俩之间：最近打完球回来，身上汗味挺明显的。这个年纪长身体，谁都会这样，我初中的时候也一样。运动完洗个澡，衣服一天一换就行，要不要买瓶止汗露，你自己挑。好了，就这些，吃饭吧。",
+   "reply": "儿子，跟你说件小事，就咱俩之间：最近打完球回来，身上汗味挺明显的。这个年纪长身体，谁都会这样。运动完洗个澡，衣服一天一换就行，要不要买瓶止汗露，你自己挑。好了，就这些，吃饭吧。",
    "lang": "zh",
    "note": "对青春期的孩子也是私下说、一句讲清楚、说明这很正常，再给一个具体办法，之后不再反复提。"
   },
   {
    "id": "tell-someone-something-awkward-015",
    "situation": "My friend Sam is best man at his brother Chris's wedding on Saturday and sent me the slideshow to check. Slide 23, a group photo at the lake, clearly shows Chris's ex, Jess, standing next to him. The bride's whole family will be watching.",
-   "reply": "Thanks for sending it over. One thing to catch before Saturday: slide 23, the lake photo, has Jess standing right next to Chris. A crop or a different shot from that trip would fix it. Easy one to miss when you're going through hundreds of photos!",
+   "reply": "Thanks for sending it over. One thing to catch before Saturday: slide 23, the lake photo, has Jess standing right next to Chris. A crop or a different shot from that trip would fix it. Easy one to miss in a long slideshow!",
    "lang": "en",
    "note": "Fixable before the event, so say it now, privately and in one line with the fix; no commentary on what the bride would think."
   },
   {
    "id": "tell-someone-something-awkward-016",
-   "situation": "At my niece's christening lunch, the photographer is about to line everyone up for the family photo, and my father-in-law, Richard, has his fly down. He's quite formal and we're still getting to know each other. He's chatting with the vicar.",
-   "reply": "Richard, sorry to pull you away for a second. Quick one before the photo: your zip's down. Happens to everyone, and there's a minute before they line us up.",
-   "lang": "en",
-   "note": "An older, formal in-law gets the same treatment as anyone: draw him aside, say it quietly in one line, then talk about something else."
+   "situation": "先輩の田中さんと、昼にニンニクたっぷりのラーメンを食べたあと、これから客先訪問です。田中さんの口臭が気になりますが、本人は気づいていないようです。移動中に二人きりなので、今言いたいです。",
+   "reply": "田中さん、ちょっと言いにくいんですが、さっきのラーメンのニンニクが少し残っているかもしれません。ミントタブレットがあるので、よかったらどうぞ。よくあることなので、気にしないでください。",
+   "lang": "ja",
+   "note": "目上の人でも、すぐ直せることなら二人きりのときに一言で伝え、対処法を添えて、あとは話題を変える。"
   },
   {
    "id": "tell-someone-something-awkward-017",

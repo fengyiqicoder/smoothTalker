@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -127,6 +127,13 @@
    "reply": "Thank you for telling me, Jordan, instead of just letting it sit. You're right: I turned something you live with into a throwaway joke about losing my keys, and I can see how that feeds people not taking it seriously. I've deleted the story. I'll think before I use it like that again, and if I slip, please call me on it.",
    "lang": "en",
    "note": "Fair criticism about something public: agree without 'I didn't mean it', delete the post before you send this, and ask to be told next time."
+  },
+  {
+   "id": "respond-to-criticism-019",
+   "situation": "我在北京工作，爸妈在老家，平时主要是弟弟照顾。弟弟昨天微信说我“什么都不管，就知道打钱”，上个月爸住院他一个人在医院陪了五天，我在出差没回去。每个月我都给家里打三千，每周也跟爸妈视频。爸11月中旬要去复查。",
+   "reply": "弟，你说的我认真看了。爸住院那次我没回去，让你一个人在医院陪了五天，这是我的不对，你辛苦了。每月打钱、每周视频，我觉得也算在管，不过我明白，钱代替不了有人在身边。想问问你，平时最累的是哪一块？我们商量一下我能多担哪些。爸11月中旬复查那次，我请假回去陪。",
+   "lang": "zh",
+   "note": "对的部分直接认，不同看法说一句就够，再问一个问题，最后给一个具体行动。"
   }
  ]
 }

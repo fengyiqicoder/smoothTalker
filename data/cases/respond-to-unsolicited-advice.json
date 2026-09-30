@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -127,6 +127,13 @@
    "reply": "Aunt Rosa, I know you send these because you love me and you're scared too. I'm staying with the plan my oncology team and I chose, and I'm not going to discuss other treatments, so please stop sending the articles. What would really help is your company: could you come and sit with me at my session on Tuesday 6 October?",
    "lang": "en",
    "note": "Treatment decisions stay with the medical team; close the topic instead of rebutting articles, and give her worry somewhere useful to go."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-019",
+   "situation": "I own a small café. A regular, Martin, comes in most mornings and keeps telling me I should open on Sundays, add avocado toast and get on TikTok. He's lovely and spends good money here, but I've decided Sundays stay closed because it's my one day off, and I'm tired of hearing it every morning.",
+   "reply": "Ha, Martin, you'd make a great business consultant. Sundays are staying closed, it's my one day off and that's not changing, but I love how much you care about the place. Usual flat white?",
+   "lang": "en",
+   "note": "With a customer, stay on the friendly rungs: name your position once, warmly, and go straight back to service; repeat the same line if he raises it again."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -127,6 +127,13 @@
    "reply": "¡Qué pena que no puedas venir, Marta! Te vamos a echar de menos. Sobre el piso: la reserva no tiene reembolso, así que tu parte de 120 euros sigue en pie, y la adelanté yo. Si encuentras a alguien que quiera tu plaza, que te la pague a ti y listo; si no, pásamela por transferencia antes del viaje, así lo dejamos cerrado. Y te traemos un oporto.",
    "lang": "es",
    "note": "Cuando alguien se cae de un plan ya pagado: la cifra, por qué sigue en pie y una salida real (ceder su plaza), sin reproches ni hablar de su trabajo."
+  },
+  {
+   "id": "money-between-friends-019",
+   "situation": "My friend Kemi told me she paid me back the $75 for the concert tickets last week, but I've checked my banking app twice and nothing has arrived. I'm sure she thinks she sent it and I don't want her to feel accused.",
+   "reply": "Hey Kemi, odd one: I've checked my account twice and the $75 for the concert tickets hasn't shown up on my side. Could you have a look in your app and send me a screenshot of the payment? It might have gone to an old account or be stuck as pending. Easy to sort once we can see where it went.",
+   "lang": "en",
+   "note": "A payment they say they sent is a shared puzzle, not a dispute: say what you checked, ask for what their app shows, never suggest they're lying."
   }
  ]
 }

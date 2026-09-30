@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -127,6 +127,13 @@
    "reply": "Graham, thank you for telling me, and for telling me so plainly. I'm so sorry. I'd love to come and see you. Could I come on Saturday 10 October in the afternoon, and bring the photos of you and Dad in the Lake District? If that day's no good or you're tired, just say, and one line back is plenty.",
    "lang": "en",
    "note": "When someone says they're dying and wants company, take them at their word: no questions about how long, a specific visit, and let him set the pace."
+  },
+  {
+   "id": "respond-to-difficult-health-news-019",
+   "situation": "我在德国工作。我哥在家族群里说，爸爸上周确诊了早期阿尔茨海默病，这几个月都是他一个人带爸去看医生。他说得很平静，但我知道他扛得很累。爸不在这个群里。我12月有两周假可以回国，也可以从这周六开始每周六晚上跟爸视频。",
+   "reply": "哥，谢谢你告诉我，也谢谢你这几个月一直带爸看医生，你一个人扛了这么多，辛苦了。我12月有两周假，回国那两周爸的事都交给我，你好好歇一歇。从这周六开始，我每周六晚上给爸打视频，陪他聊聊天。这条不用急着回。",
+   "lang": "zh",
+   "note": "When the news comes from the person caring for the patient, support the carer too, and skip the questions about the diagnosis."
   }
  ]
 }

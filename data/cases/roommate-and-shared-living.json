@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -127,6 +127,13 @@
    "reply": "Hey Callum, can I raise something about your room? Three different guests have stayed this month while you've been away, and it's been odd coming home to strangers, especially after the front door was left unlocked overnight. Could we agree no more short-stay guests, and that anyone staying in your room while you're away is someone you know and have told me about first? Happy to talk it through tonight if you see it differently.",
    "lang": "en",
    "note": "Keep it about the house. Short lets may not be allowed under your tenancy, so check the agreement before involving the agent, and put what you agree in writing."
+  },
+  {
+   "id": "roommate-and-shared-living-019",
+   "situation": "My dorm roommate Wei calls his family in Chengdu most nights from 11pm to midnight, which is their morning. I try to sleep by 11 because I have 8am labs, and we share one room. There's a study lounge down the hall that's open 24 hours, and he's really considerate otherwise.",
+   "reply": "Hey Wei, can I ask about something small? I've got 8am labs, so I'm trying to be asleep by 11, and the evening calls carry quite a lot in our room. I know that's the only time that works with Chengdu, so I'm not asking you to call less. Could you take them in the study lounge down the hall after 11? If another setup works better for you, happy to figure it out.",
+   "lang": "en",
+   "note": "Naming the time-zone constraint shows you're moving the call, not judging it."
   }
  ]
 }

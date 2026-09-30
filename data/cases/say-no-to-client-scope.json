@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -127,6 +127,13 @@
    "reply": "I'd love to, Susan, thank you. My booking with Emma and James ends at 10, and extra time is £200 an hour, so staying until midnight would add £400 to their final invoice. As it's their contract, could one of them give me a quick okay? If they're happy, I'll keep shooting straight through.",
    "lang": "en",
    "note": "Mid-event, say the price out loud before the clock runs out and get the yes from whoever signed; confirm it in writing the next morning."
+  },
+  {
+   "id": "say-no-to-client-scope-019",
+   "situation": "I'm a freelance web developer building an online shop for Hana's skincare brand, launching Friday Oct 16. She asked me to 'just write the privacy policy and terms, you can copy them from another site'. That's not in our scope and I'm not qualified to write legal text; I'm happy to add pages she provides at no extra cost if I get the text by Monday Oct 12.",
+   "reply": "Hi Hana, good thinking to get these in place before launch. Writing the privacy policy and terms isn't something I can take on: it's outside our scope, and it's legal text I'm not qualified to write. Copying another site's could leave you with terms that don't match how your shop works, so it's worth having them drafted or checked by a lawyer. Once you send me the final text, I'll add both pages at no extra cost. Could you get it to me by Monday 12 October so they're live for the 16th?",
+   "lang": "en",
+   "note": "Some asks get a no on competence, not price; the path is who should do it and what you'll do once they have."
   }
  ]
 }

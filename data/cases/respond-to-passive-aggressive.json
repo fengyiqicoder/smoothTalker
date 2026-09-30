@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -127,6 +127,13 @@
    "reply": "Hola, señora Ortega, soy Marta, la madre de Lucía. Le escribo por las dos fichas de matemáticas que Lucía no ha entregado este mes: estuvo una semana con gripe y se le quedaron atrás. Las termina este fin de semana y se las lleva el lunes 5 de octubre. A partir de ahora, si falta por enfermedad, se lo digo por aquí ese mismo día.",
    "lang": "es",
    "note": "Se contesta en privado y al contenido, no a la indirecta del grupo; no se discute el tono con la profesora."
+  },
+  {
+   "id": "respond-to-passive-aggressive-019",
+   "situation": "I'm planning dinner for my three-month anniversary with my girlfriend Sam on Saturday. I said no to her first two restaurant ideas because they're both over an hour's drive, and she texted back: 'Fine. Whatever you want, it's your call apparently.' Honestly, I'd do the drive if it matters to her.",
+   "reply": "That sounds like not-fine, and fair enough, I shot down both of your picks. It was only the hour's drive, not the places themselves. What would you actually like for Saturday? If one of those two is the one, I'm happy to do the drive.",
+   "lang": "en",
+   "note": "Name it gently and own your part; it's a real disagreement in a snippy wrapper."
   }
  ]
 }

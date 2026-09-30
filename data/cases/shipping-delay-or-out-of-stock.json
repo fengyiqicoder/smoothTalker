@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -127,6 +127,13 @@
    "reply": "Hi Aisha, your order #3319, the maple teething ring, won't ship this week. In my final check I found hairline cracks in several rings from this batch, and I won't send anything meant for a baby's mouth unless I'm sure of it, so I'm holding the whole batch. The new batch is ready on Wednesday 21 October and yours ships that day. Three options: wait, and I'll add free express shipping; swap for the maple rattle, which is from a different batch, passed its check and ships tomorrow; or a full refund of $24 today. If I don't hear back by Monday 5 October, I'll hold your order for the 21st. Theo",
    "lang": "en",
    "note": "A quality hold on a baby product is a reason to state plainly in one line, never a date to rush."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-019",
+   "situation": "我是小周，在小区微信群做水果团购，42户订了阳光玫瑰葡萄，原定10月2日周五到货。果园刚通知连续下雨推迟采摘，改到10月6日周二到。现在有巨峰葡萄现货，价格一样，明天就能取；要退款的我当天原路退。",
+   "reply": "各位邻居好，我是团购的小周。大家订的阳光玫瑰葡萄要晚几天：原定10月2日（周五）到货，果园那边连续下雨，采摘推迟，改为10月6日（周二）到，到货当天我在群里通知取货。不想等的有两个选择：换成现货的巨峰葡萄，价格一样，明天就能取；或者私信我“退款”，当天原路退回。今晚12点前没私信我的，就默认等6号的阳光玫瑰。给大家添麻烦了，谢谢理解。",
+   "lang": "zh",
+   "note": "Group-buy chats: one message to everyone, options by private message, so the group doesn't turn into a complaint thread."
   }
  ]
 }

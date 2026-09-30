@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -127,6 +127,13 @@
    "reply": "Thank you for your email. I'm away from Monday 19 October and back on Monday 2 November, and I won't be reading messages until then. If you are in crisis or feel you might harm yourself, please call 999 or go to your nearest A&E now. If you're an existing client and would like a session before I'm back, please contact Dr Helen Park at helen.park@example.com. Everything else will get a reply in the week I'm back.",
    "lang": "en",
    "note": "When a sender could be at risk, the emergency route comes first and in plain words; the cover person and everything else can follow."
+  },
+  {
+   "id": "out-of-office-and-away-messages-019",
+   "situation": "Ich bin Jan Keller, selbstständiger Installateur in Kassel, ohne Angestellte. Vom 12. bis 23. Oktober bin ich im Urlaub und ab Montag, 26. Oktober, wieder da. Mein Kollege Stefan Brandt von einem anderen Betrieb übernimmt Notfälle wie Rohrbruch oder Heizungsausfall unter 030 23125 456, und ich brauche eine Ansage für meine Mailbox.",
+   "reply": "Guten Tag, hier ist die Mailbox von Installateur Jan Keller. Ich bin vom 12. bis 23. Oktober im Urlaub und ab Montag, 26. Oktober, wieder erreichbar; Nachrichten höre ich erst dann ab. Bei einem Notfall wie Rohrbruch oder Heizungsausfall rufen Sie bitte Stefan Brandt an: 030 23125 456. Ich wiederhole: 030 23125 456. Wenn Sie Gas riechen, verlassen Sie das Haus und rufen Sie den Notruf. Vielen Dank.",
+   "lang": "de",
+   "note": "Eine Mailbox-Ansage hört man nur einmal: Rückkehrdatum, ob abgehört wird, die Notfallnummer zweimal, und bei Gasgeruch zuerst der Notruf."
   }
  ]
 }

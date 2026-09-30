@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -127,6 +127,13 @@
    "reply": "Ha, fair, I earned that one. I moved to Leeds and got really bad at keeping in touch, and I'm sorry I let it slide. I've missed you, that's genuinely all this is. Are you still singing on Thursdays?",
    "lang": "en",
    "note": "A prickly first reply is still a reply: own the gap in one line, don't grovel or defend it, and hand her an easy question."
+  },
+  {
+   "id": "reconnect-after-silence-019",
+   "situation": "我和发小阿斌从小在一个大院长大，他去广州以后快十年没联系了，没吵过架。上周回老家，看到院里那棵老槐树还在，想起小时候我们蹲在树下弹玻璃珠。我明年5月在老家结婚，真心想请他来，但十年没说话突然请他，怕他觉得我是冲着份子钱，我其实不收他的礼金也行。",
+   "reply": "阿斌，好久不见，一晃快十年了。上周回老家，看到院里那棵老槐树还在，一下就想起小时候咱俩蹲在树底下弹玻璃珠。跟你直说吧：我明年5月在老家结婚，特别希望你能来，人来就好，千万别随礼。具体日子定了再告诉你。你在广州这些年怎么样？不急着回。",
+   "lang": "zh",
+   "note": "When the reason for reaching out is an invitation, say it plainly in the first message and take the money worry off the table."
   }
  ]
 }

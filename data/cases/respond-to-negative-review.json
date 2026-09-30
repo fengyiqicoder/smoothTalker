@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -127,6 +127,13 @@
    "reply": "Thank you for raising this, Linda, and I'm sorry. Clothes going missing is upsetting for residents and families alike, and it isn't good enough from us. Since last week every item is labelled with a name when it arrives, and each family now has one named contact for laundry. I'd like to put this right with you personally; please email me at manager@example.com or ask for me at reception. Karen, home manager",
    "lang": "en",
    "note": "Care settings: say nothing about the resident in public, even what the relative already posted; fix the system and take the rest offline."
+  },
+  {
+   "id": "respond-to-negative-review-019",
+   "situation": "我叫阿楠，在成都开陶艺体验馆，两小时拉坯课198元。顾客“小鹿”在大众点评给了两星，说“198只能玩两小时，作品烧制还要另加30块，太坑了”。烧制费我们确实只写在页面最下面的小字里；现在套餐标题已经写明，从10月5日起烧制费直接包含在课程价格里。我的邮箱是anan@example.com。",
+   "reply": "谢谢小鹿指出烧制费的问题。烧制另收30元这件事，我们之前只写在页面最下面，很容易看漏，是我们没说清楚。现在套餐标题里已经写明，从10月5日起烧制费直接包含在课程价格里，不再另收。想跟您把这件事好好处理一下，方便的话请发邮件到anan@example.com。店主阿楠",
+   "lang": "zh",
+   "note": "价格类差评不争论贵不贵，只认下没说清的部分，说清改了什么，补偿放到私下谈。"
   }
  ]
 }

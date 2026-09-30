@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -127,6 +127,13 @@
    "reply": "Please don't contact me again. I won't be replying.",
    "lang": "en",
    "note": "No warmth or reasons owed. Keep the messages, block this number too, and if he turns up or you ever feel unsafe, call emergency services; if even this line feels risky to send, just block."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-019",
+   "situation": "My ex Theo and I broke up in August after two years, fairly amicably. He texted asking me to take our couple photos off my Instagram before he starts a new job next month. That's fine with me; I'd like him to take down the ones of me too, and I'm cancelling the streaming account we share, which I pay for, on October 15.",
+   "reply": "Sure, I'll archive them tonight. Could you do the same with the photos of me on yours? Also, I'm cancelling the streaming account on 15 October, so save anything you want from it before then. Good luck with the new job.",
+   "lang": "en",
+   "note": "Digital belongings are still belongings: say yes, make your own ask, give the date, stop."
   }
  ]
 }
