@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -92,6 +92,13 @@
    "reply": "Thanks, Denise, I appreciate you taking it to finance and coming back so quickly. I'm glad to accept $75,000 from January. I'd still like to close the gap to $82,000, since that's where this scope sits in the market. Could we agree in writing what you'd need to see from me by the July review to get there?",
    "lang": "en",
    "note": "Accept what's on the table, keep your number, and turn the rest into written criteria with a date."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-014",
+   "situation": "I came back in August from nine months of parental leave. Before I left, my manager Sophie said I was 'on track' for Senior Account Manager, but the spring promotion cycle ran while I was out and I wasn't considered. I want to book a talk about it without sounding resentful.",
+   "reply": "Hi Sophie, now that I'm properly settled back in, could we find 30 minutes in the next two weeks to talk about my path to Senior Account Manager? Before my leave we'd agreed I was on track, and since the spring cycle ran while I was out, I'd like us to pin down what's needed for the next one and when it is. Tuesday or Thursday afternoon would suit me.",
+   "lang": "en",
+   "note": "Book the talk about the path, not the grievance, and bring your pre-leave results to the meeting. If the path keeps moving, check your company's leave policy and talk to HR."
   }
  ]
 }

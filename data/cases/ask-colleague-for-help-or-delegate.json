@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -92,6 +92,13 @@
    "reply": "Hi Anika, I know I've leaned on you a couple of times this month, so I've done my homework first: the deploy script fails at the migration step, and I've checked the env vars and rerun it from a clean branch with the same error. Could you spare 15 minutes this afternoon or tomorrow morning? I'll write up whatever we find in the team wiki so the next new person doesn't need to ask you, and if you want to hand me the release notes this sprint, I'm glad to take them.",
    "lang": "en",
    "note": "Name the pattern once and give something back; a third apology would make it heavier, not lighter."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-014",
+   "situation": "I manage a team of 6. Every quarter someone has to do the access review audit, about six hours of checking spreadsheets. Tom did it last quarter; I want to hand it to Lena without pretending it's a growth opportunity.",
+   "reply": "Hi Lena, I'd like you to take the Q4 access review this time. To be straight with you, it's about six hours of checking spreadsheets, not a stretch project, and we rotate it so it never lands on the same person twice. Done means every account signed off in the tracker by Friday 23 October, and Tom will give you 15 minutes on his notes from last quarter. I'll take something else off your plate to make room, so tell me which ticket can slip a week. Does that work with what you've got on?",
+   "lang": "en",
+   "note": "For dull work, 'it's your turn in the rotation' is an honest why-them; dressing it up as growth backfires."
   }
  ]
 }

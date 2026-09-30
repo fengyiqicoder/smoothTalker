@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -85,6 +85,13 @@
    "reply": "听起来你是真累了。这个月我出差三次，家里的事都压在你一个人身上，这不公平。回来那个周末两个孩子我全包，你好好歇两天。今晚孩子睡了我们聊聊，看以后出差怎么安排，才不会总是你一个人扛，好吗？",
    "lang": "zh",
    "note": "抱怨里有真实内容时，先接住内容，给一个具体补偿，再约时间谈根本的安排。"
+  },
+  {
+   "id": "respond-to-passive-aggressive-013",
+   "situation": "My ex Greg and I co-parent. I asked to swap weekends because of a work trip and he texted 'Sure, I'll rearrange my life around your job again.' I asked if he was annoyed and he said 'I'm not annoyed.' The swap is Friday Oct 9 to Sunday Oct 11.",
+   "reply": "Okay, thanks Greg, I appreciate it. I'll drop Maya and Theo at yours on Friday 9 October at 5:30 with their school bags, and pick them up Sunday at 6. If you'd like a weekend back, I can take the 23rd to the 25th.",
+   "lang": "en",
+   "note": "He denied it, so take him at his word once and stick to logistics; name the pattern only if the digs keep coming."
   }
  ]
 }

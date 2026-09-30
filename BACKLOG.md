@@ -19,7 +19,7 @@ The owner wants the library to reach 1000 cases. Cases are concrete situations w
 
 After 1000: keep adding 20 to 30 cases a run to the thinnest playbooks, and spend the rest of each run on the case audit below.
 
-- [ ] Case audit: per playbook, read all cases side by side; merge or rewrite any two that teach the same angle, check dates against weekdays, and soften any law or policy stated as a general fact. Log which playbooks are done here. Done: apologize, decline-request (2026-09-30).
+- [ ] Case audit: per playbook, read all cases side by side; merge or rewrite any two that teach the same angle, check dates against weekdays, and soften any law or policy stated as a general fact. Log which playbooks are done here. Done: apologize, decline-request, chase-late-payment, cold-outreach (2026-09-30).
 
 ## Queue (top first)
 
@@ -106,3 +106,4 @@ After 1000: keep adding 20 to 30 cases a run to the thinnest playbooks, and spen
 - 2026-09-29 21:45: 60 new worked cases, one per playbook with the fewest (963 total, every playbook now has 11 to 12); 21 in Chinese, 5 in other languages; hand-checked the harassment, allergy, lone-working, overbooking and unpaid-raise cases; all fine as written.
 - 2026-09-29 22:50: 37 new worked cases (1000 total, goal reached; every playbook has 11 to 13); 12 in Chinese, 3 in other languages; hand-checked the suicide condolence, child-support, colleague-death and deposit cases; suspicious-or-scam-message, thank-you-notes and write-a-recommendation-or-reference got no case this run because a permission check stopped the agent reading them, so they stay at 11. Added the post-1000 plan and a case-audit item.
 - 2026-09-30 00:00: 30 new worked cases (1030 total; every playbook has 11 to 13); 9 in Chinese, 3 in other languages; hand-checked the allergen recall, addiction-treatment, and in-law mediation cases. Case audit: apologize-001 and decline-request-007 overlapped with other cases and were rewritten to new angles (a two-sided roommate fight; a public @-request in a company group chat); apologize-005 gained its missing 'what changes' step.
+- 2026-09-30 01:50: 30 new worked cases (1060 total; every playbook has 11 to 14); 9 in Chinese, 3 in other languages; hand-checked the patient-data leak, insurance-padding refusal and repeat workplace ask-out cases. Case audit: chase-late-payment-002 and cold-outreach-004 overlapped and were rewritten (a new contact after yours left; a reply to 'stop emailing me'); cold-outreach-007 cut to one ask. The 00:33 run did nothing because the auto-mode check failed on every shell command.

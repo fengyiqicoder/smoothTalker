@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -85,6 +85,13 @@
    "reply": "Hi everyone, thank you for all the lovely replies for Isla's party on Saturday 17 October! A quick note, since a couple of people have asked: the soft-play centre charges per child and we're at our limit, so we can only include children from the class this time, not brothers and sisters. Parents are very welcome to stay for a coffee, or drop off and pick up at 4pm. Isla can't wait to see everyone.",
    "lang": "en",
    "note": "Answer the whole group once, as a rule for everyone, so the two parents who asked don't feel singled out."
+  },
+  {
+   "id": "wedding-and-event-host-messages-013",
+   "situation": "我爸70岁寿宴原定10月17日（周六）在酒店办，请了三十多位亲戚。他上周做了个小手术，恢复得不错但医生让多休息，我们决定改到11月14日（周六），酒店已经改好了。要在家族群里通知。",
+   "reply": "各位亲戚好，跟大家说一声：我爸的七十大寿宴从10月17日（周六）改到11月14日（周六），时间还是中午11点半，地点还是金陵饭店三楼。爸上周做了个小手术，很顺利，医生建议多休养几周，我们想让他精神足足地过这个生日。给大家添麻烦了，已经订了车票或安排好行程的，私信我，我们一起想办法。麻烦大家11月6日（周五）前在群里说一下能不能来，酒店要定桌数。",
+   "lang": "zh",
+   "note": "Postponing: new date first, one line of reason, help for those already committed, a fresh RSVP date."
   }
  ]
 }

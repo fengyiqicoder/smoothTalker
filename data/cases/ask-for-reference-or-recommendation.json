@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -91,6 +91,13 @@
    "reply": "Hi Kofi, hope the new job is going well! I've started looking for my next role and I'm updating my LinkedIn, and a short recommendation from you would carry a lot of weight, since we built the churn dashboard together. Three or four sentences is plenty. If it helps, I can send a draft you can edit or throw out. Any time before 16 October would be perfect, and if the timing's bad, no problem at all.",
    "lang": "en",
    "note": "A peer can speak to how you work day to day; offer the draft, but only send it once he says yes."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-014",
+   "situation": "我老公调到成都工作，我年底要跟过去，已经提前跟领导孙总说了，他很支持，说有需要随时找他。现在成都一家公司的采购主管岗位到了背调环节，要现任上级做证明人，下周联系。",
+   "reply": "孙总，上次跟您说了去成都的事，谢谢您这么支持。现在成都锐新科技的采购主管岗位到了背调环节，想请您做我的证明人，他们的HR刘女士下周会给您打个电话，大概15分钟。方便的话可以提三件事：上半年的供应商整合、我带的两个新人，以及年中盘点零差错。您下周要是太忙，跟我说一声，我请他们改个时间。",
+   "lang": "zh",
+   "note": "现任上级已经知道你要走、也表过态时，可以直接请；谁联系、多长时间、会问什么一次说清。"
   }
  ]
 }

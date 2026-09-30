@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -85,6 +85,13 @@
    "reply": "王阿姨，谢谢您费心张罗，小刘人很有礼貌，那天聊得也挺愉快。不过我对他没有那种感觉，就不继续接触了。我今天也会自己给他发条消息说清楚，不让您夹在中间为难。辛苦您了，改天请您喝茶。",
    "lang": "zh",
    "note": "介绍人问起时给明确答案，不说“再看看”；已经直接联系过对方的，自己再跟他说一句。"
+  },
+  {
+   "id": "romantic-let-down-013",
+   "situation": "A coworker, Ryan, asked me out in March and I said no. At last night's team drinks he asked again, saying 'maybe now you've got to know me better.' I'm still not interested and we sit two desks apart. I want to message him privately today.",
+   "reply": "Hi Ryan, about what you asked last night: my answer is the same as in March, it's a no. I'd rather be clear so neither of us has to wonder. We work well together and I'd like to keep it that way.",
+   "lang": "en",
+   "note": "A second ask gets the same clear no, shorter than the first. If he asks a third time, that's a conversation for your manager or HR, not another message."
   }
  ]
 }

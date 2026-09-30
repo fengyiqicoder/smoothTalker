@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -85,6 +85,13 @@
    "reply": "非常感谢您指出来，也真的很抱歉。您在备注里写了花生过敏，我们出餐时却在凉拌黄瓜上撒了花生碎，这是我们的错，让孩子受罪、让您担心了。我们已经改了流程：凡是备注过敏的订单，出餐前由店长单独核对一遍再封袋。我想当面跟您道歉，也想知道孩子现在怎么样，麻烦您打店里电话0571-8765 4321找我。店长 陈立",
    "lang": "zh",
    "note": "涉及健康的差评要第一句就认错，写清具体改了什么；赔偿和后续私下谈，不在公开回复里说。"
+  },
+  {
+   "id": "respond-to-negative-review-013",
+   "situation": "I bought a car repair garage, Fenwick Motors, in August and kept the name. There's a 1-star Google review from March, never answered, by 'Alan B.' saying the old owner charged him $640 for brakes after quoting $300. I want to reply now.",
+   "reply": "Thank you for spelling this out, Alan. Being quoted $300 and charged $640 without a call first is exactly what makes people stop trusting garages. This happened before I took over Fenwick Motors in August, but the name on the sign is the same, so it's mine to answer. Every job now gets a written quote, and we call for your OK before doing anything beyond it. I'd like to hear the rest and see if we can make it right: please call me directly on (614) 555-0143. Rachel Okoye, owner",
+   "lang": "en",
+   "note": "Old review under a new owner: state the handover once, own the name, never blame the previous owner."
   }
  ]
 }

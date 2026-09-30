@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -85,6 +85,13 @@
    "reply": "谢谢您考虑我们，5台一起做确实量不小。100一台我这边做不了，我们每台都拆面板、高压冲洗蒸发器，一台要四十分钟左右，这个价格覆盖不了。5台一起我可以算每台130，一共650，一次上门全部做完。如果您更看重价格，选别家也完全理解，以后有需要随时找我。",
    "lang": "zh",
    "note": "砍价时先明确说不，讲清价格背后是什么，再主动给一个你真能接受的数量优惠，而不是被压着一点点让。"
+  },
+  {
+   "id": "say-no-to-a-customer-request-013",
+   "situation": "I run a small auto body shop. A repeat customer, Greg, paid $850 for a bumper repair and asked me to write $1,200 on the invoice so his insurance pays out more. He's a nice guy and I don't want to lose him.",
+   "reply": "Thanks, Greg, and I get it, insurance never seems to cover enough. I can't put $1,200 on the invoice; it has to show the $850 you actually paid, or it puts both of us at real risk. What I can do is a fully itemised invoice with parts, labour hours and before-and-after photos, which gives your claim the best shot at covering everything it should. I'll have it ready for you by tomorrow afternoon.",
+   "lang": "en",
+   "note": "A request to misstate an invoice is a firm no; offer the honest version that genuinely helps the claim."
   }
  ]
 }

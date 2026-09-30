@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -85,6 +85,13 @@
    "reply": "Hi Olivia, your order #1187 (the engraved name necklace) won't reach you before your mum's birthday on Friday 9 October, and I'm sorry. I sprained my wrist on Saturday and can't engrave until Monday 12 October; it would ship that day by express and arrive by Wednesday the 14th. Three options: wait, and I'll email you a printable card with a photo of her necklace today so you have something to give her on the 9th; swap for the unengraved birthstone pendant, which ships tomorrow and arrives in time; or a full refund of the $68 today. If I don't hear back by Thursday, I'll keep your order for the 12th. I'll email you tracking the day it ships.\nNina",
    "lang": "en",
    "note": "When the deadline can't be met, say so first, give the personal reason in one plain line, and build the options around her real date."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-013",
+   "situation": "Tenho uma florista em Lisboa. A noiva, Inês, encomendou um bouquet de peónias brancas para o casamento no sábado, 10 de outubro, e já pagou 180 €. O fornecedor acabou de avisar que não há peónias, a época já passou.",
+   "reply": "Olá Inês, tenho uma má notícia sobre o seu bouquet de 10 de outubro: o fornecedor confirmou hoje que não há peónias brancas, a época delas já terminou. A data do casamento não muda, por isso proponho duas alternativas com o mesmo ar romântico: rosas de jardim brancas com lisianthus, ou dálias cor de marfim. Envio-lhe fotos das duas até amanhã às 12h. Se a opção que escolher ficar mais barata, devolvo a diferença, e se preferir cancelar, reembolso os 180 € na totalidade. Se não tiver notícias suas até segunda, dia 5, avanço com as rosas de jardim. Peço desculpa por não ter confirmado isto mais cedo.\nMarta",
+   "lang": "pt",
+   "note": "Quando esperar não é opção, as escolhas passam a ser substituir ou reembolsar, com fotos para decidir e uma opção por defeito."
   }
  ]
 }

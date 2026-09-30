@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -92,6 +92,13 @@
    "reply": "Liebe Frau Hoffmann, vielen Dank für die Verlängerung und für Ihre vielen Hinweise im ersten Jahr, die Online-Warteliste gäbe es ohne Sie nicht. Eine kleine Bitte: Praxen, die eine Software suchen, lesen vor allem Bewertungen auf Capterra, und Ihre ehrliche Einschätzung würde uns sehr helfen. Unter termino.de/bewerten kommen Sie direkt zum Formular, drei oder vier Sätze reichen, das dauert etwa fünf Minuten. Wenn es gerade nicht passt, ist das völlig in Ordnung, danke Ihnen so oder so.",
    "lang": "de",
    "note": "B2B: ask at the renewal, when the value is freshest, and ask for an honest review, not a good one."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-014",
+   "situation": "We're a family moving company. A customer, Mr. Okafor, emailed after his move last Friday: 'Your crew handled my late wife's piano like it was their own. Thank you.' I'd love to quote it on our website, but it's personal.",
+   "reply": "Mr. Okafor, thank you for writing. I've passed your words on to Dev and the crew, and they meant a great deal to them. Would you be comfortable with us sharing that line on our website, so families moving something precious know they can trust us? We'd sign it 'Samuel O., Leeds' or leave your name off entirely, and we'd cut any part you'd rather keep private. If you'd prefer it stays between us, that's completely fine, and thank you again.",
+   "lang": "en",
+   "note": "Quoting a private message: ask permission, offer anonymity and edits, and make the out genuine."
   }
  ]
 }

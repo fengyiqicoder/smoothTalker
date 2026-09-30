@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -92,6 +92,13 @@
    "reply": "Anna, a correction to this morning: staging broke yesterday because of my config change at 4:10pm, not Leo's deploy. His went out right after mine, which is why it looked like his. I reverted my change at 9:20 today and staging has been green since. I'm sorry, and I'm sorry Leo took the heat for it in standup. I'd like to say this in the team channel too so the record is straight, unless you'd rather do it. From now on I'll post in #deploys before any config change to staging.",
    "lang": "en",
    "note": "When someone else was blamed for your mistake, correcting the record the same day, publicly and to them, is part of the fix."
+  },
+  {
+   "id": "admit-mistake-at-work-014",
+   "situation": "I'm the office coordinator at a physiotherapy clinic. An hour ago I emailed our linen supplier a spreadsheet meant for our billing company: 230 patients' names, phone numbers and appointment dates. I need to tell the practice manager, Helen.",
+   "reply": "Helen, I need to flag a mistake: at 10:15 I emailed Crisp Linen a spreadsheet meant for our billing company, with 230 patients' names, phone numbers and appointment dates. I've called their office manager, Dave, and asked him to delete it and confirm in writing; he's doing that now. I'm sorry, I picked the wrong contact from autofill. Because it's patient data, I think we should check today whether our data protection policy means it has to be reported. Can we go through that together before lunch? From now on I'll password-protect any file with patient details before it leaves the clinic.",
+   "lang": "en",
+   "note": "With personal data, part of the fix is checking reporting duties the same day; don't decide on your own that it's harmless."
   }
  ]
 }

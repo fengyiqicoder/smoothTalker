@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -85,6 +85,13 @@
    "reply": "Anna, I wanted you to hear this from me before it comes up any other way: I've been seeing someone. Her name is Carol, we met at the library book group, and it's been about four months. It doesn't change anything about how much I miss your mom. I'd love for you to meet her before Thanksgiving, maybe lunch, just the three of us, but only when you're ready. Call me whenever you want to talk, or take some time first, both are fine.",
    "lang": "en",
    "note": "Tell each child individually before any gathering, and say plainly that either a call or some space is a fine response."
+  },
+  {
+   "id": "share-personal-news-013",
+   "situation": "Je vais emménager avec mon compagnon Julien en janvier. Mon ex, Marc, est le père de nos deux enfants (8 et 11 ans) et on s'entend correctement. Je veux qu'il l'apprenne par moi avant que les enfants lui en parlent.",
+   "reply": "Bonjour Marc, je préfère que tu l'apprennes par moi avant que les enfants t'en parlent : Julien et moi allons emménager ensemble en janvier. On reste dans le même quartier, donc rien ne change pour l'école ni pour la garde. Je l'annonce à Léa et Tom ce week-end ; si tu veux qu'on se mette d'accord avant sur ce qu'on leur dit, appelle-moi quand tu veux.",
+   "lang": "fr",
+   "note": "For a co-parent, lead with what does not change for the children; that is their real question."
   }
  ]
 }

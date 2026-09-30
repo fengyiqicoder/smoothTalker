@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -85,6 +85,13 @@
    "reply": "Hi Derek and Sarah,\nThanks for today's call, and Derek, it's good to have you involved before this goes live. A new direction would be a fresh concept route rather than a revision: our 12 May agreement covers two routes and two revision rounds, and we've used both. I can add a third route for $3,200, about three weeks of work, or we can finish the approved route now and revisit the look in the new year. Which would you prefer?\nBest,\nNina",
    "lang": "en",
    "note": "A new stakeholder's new direction is new scope: welcome them, point to the agreement, and give two paths to choose from."
+  },
+  {
+   "id": "say-no-to-client-scope-013",
+   "situation": "我做室内设计，新客户赵先生看完方案很满意，说“合同走流程要两周，你先把施工图画起来，别耽误工期”。我们约定的是签约并付30%定金后才开工，设计费总价45000元。",
+   "reply": "赵先生，谢谢您认可方案，我也想尽快推进。按我们约定的流程，施工图在签约并收到30%定金（13500元）后开始画，这样对双方都有保障。为了不耽误工期，我今天就把合同发给您，定金到账当天开工，10个工作日内交施工图。您看合同这周能签下来吗？",
+   "lang": "zh",
+   "note": "先做后签最容易变成白做；给对方一个加快签约的办法，而不是解释为什么要先收定金。"
   }
  ]
 }

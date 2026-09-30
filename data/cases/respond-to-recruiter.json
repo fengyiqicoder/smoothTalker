@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -85,6 +85,13 @@
    "reply": "Hi Liam, thanks for thinking of me. I've just heard from Harbor Health's HR that my CV reached them through your agency, and I hadn't agreed to that. Please don't send my CV anywhere without my written okay first. If you have other roles that fit, I'm happy to hear about them and decide each one with you.",
    "lang": "en",
    "note": "Keep the reply in writing. A submission you didn't approve can complicate applying directly, so tell the company's HR yourself if you want to go direct."
+  },
+  {
+   "id": "respond-to-recruiter-013",
+   "situation": "An agency recruiter, Owen, called my desk phone at work this morning with my manager sitting right next to me. I said I couldn't talk and he emailed my personal address after. I'd actually like to hear more, just not on that line.",
+   "reply": "Hi Owen, thanks for reaching out, and sorry I was brief this morning. I'm open to hearing about the role, but please don't call my work number; this email or my mobile, 07700 900412, is best. Could you send the base range and location first? If those line up, I'm free for a call Thursday after 6.",
+   "lang": "en",
+   "note": "Move the channel in the first reply and still ask for the range before the call. A recruiter who keeps ringing your desk after this is telling you how he works."
   }
  ]
 }

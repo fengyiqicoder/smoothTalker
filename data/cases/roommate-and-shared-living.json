@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -85,6 +85,13 @@
    "reply": "小周，跟你说个小事哈。这周有两次早上起来看到大门是虚掩着的，咱们住一楼，我有点不放心。以后最后一个回家的人负责把门反锁好，行吗？你要是觉得有更方便的办法，也可以说说。",
    "lang": "zh",
    "note": "安全的事要早说、说小：讲发生了什么，提一个两个人都遵守的规矩，不评价对方粗心。"
+  },
+  {
+   "id": "roommate-and-shared-living-013",
+   "situation": "My housemate Priya just asked in our flat chat if she can adopt a rescue cat next month. I'm properly allergic to cats, streaming eyes within an hour. I like her and don't want to be the villain, and my lease runs until June.",
+   "reply": "Hey Priya, I love that you want to rescue one, and I hate being the snag here: I'm properly allergic to cats, streaming eyes within an hour, so a cat living in the flat won't work for me. Would a pet that doesn't shed, like fish or a gecko, be an option for now? Or if it has to be a cat, we could plan it for when my lease ends in June. Happy to talk it through tonight if another idea works better.",
+   "lang": "en",
+   "note": "Saying no to a housemate's plan still comes with a proposal; the allergy is a fact about the house, not a verdict on her idea."
   }
  ]
 }

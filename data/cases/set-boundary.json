@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -85,6 +85,13 @@
    "reply": "Greg, I like working with you and I don't want this to be awkward. I'm not a hugger at work, so from now on I'll stick to a wave or a handshake. Morning coffee chats are still very much on.",
    "lang": "en",
    "note": "Say it once, lightly, and step back if a hug comes anyway. If it keeps happening after you've said it, take it to your manager or HR."
+  },
+  {
+   "id": "set-boundary-013",
+   "situation": "My ex-husband Dan and I share custody of our daughter Mia, who's 9. Lately he texts me late at night about his new job, his dating life and 'how we used to be'. I want to stay friendly for Mia's sake but only talk about her.",
+   "reply": "Dan, I think we co-parent Mia well, and I want to keep it that way. From now on I'm going to keep our messages to Mia: school, pickups, health and plans. I'll answer those promptly, and anything else I'll leave unanswered. If something about Mia is urgent, call me any time.",
+   "lang": "en",
+   "note": "The boundary is what you will reply to, not a rule for him. If he pushes, repeat it shorter: I'll keep it to Mia."
   }
  ]
 }

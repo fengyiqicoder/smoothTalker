@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -91,6 +91,13 @@
    "reply": "Bad news: work is sending me to Denver Wednesday to Friday, so I have to cancel Thursday, and I'm genuinely annoyed about it. I still really want to try your Thai place. Could we do Saturday Oct 3 or Tuesday Oct 6 instead? If neither works, send me a night that does.",
    "lang": "en",
    "note": "Cancel and rebook in the same message: a concrete new date is what shows you're still keen."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-014",
+   "situation": "First date last night with Marcus from Hinge, a coffee that turned into a long walk. He was kind and easy to talk to, but I didn't feel much of a spark and I'm honestly not sure yet. He just texted 'Had a great time, would love to see you again!'",
+   "reply": "Thanks, Marcus, I had a really nice time too, and the walk along the canal was a good call. I'd be up for another low-key one, maybe a coffee next week, and see how it goes.",
+   "lang": "en",
+   "note": "Unsure is allowed: a warm, low-stakes yes without promising more. If you already know it's a no, use romantic-let-down instead."
   }
  ]
 }

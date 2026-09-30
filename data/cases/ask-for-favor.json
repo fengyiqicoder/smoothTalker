@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -92,6 +92,13 @@
    "reply": "Hi Jordan, I'm an ICU nurse in Leeds looking at a move into UX research, and your path from nursing into research at Carewell is the closest match to mine I've found. Would you be open to a 20-minute video call sometime in the next few weeks? I have three specific questions, mostly about how you landed your first research role, and I'll fit around your schedule. If you're too busy, no problem at all, and thanks for reading this either way.",
    "lang": "en",
    "note": "A stranger owes you nothing: say why them, cap the time, and make ignoring the message painless."
+  },
+  {
+   "id": "ask-for-favor-014",
+   "situation": "上个月表哥刚帮我搬了家。现在我妈10月14号周三下午3点到南京南站，我那天在合肥出差赶不回来，想再请表哥去接一下，送到我家，来回大概一个半小时。",
+   "reply": "哥，上个月刚麻烦你帮我搬家，这次又要开口：我妈10月14号周三下午3点到南京南站，我那天在合肥出差赶不回来，想请你去接一下，送到我家，来回大概一个半小时。那天要是上班走不开，完全没关系，直接跟我说，我给她叫个专车就行。等我回来，请你和嫂子吃饭。",
+   "lang": "zh",
+   "note": "连着第二次找同一个人帮忙，提一句上次的情分，把退路说得具体，让他拒绝也不为难。"
   }
  ]
 }

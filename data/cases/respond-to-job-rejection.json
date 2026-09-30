@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -84,6 +84,13 @@
    "reply": "Hi Grace, thanks for letting me know, and for thinking of me for the specialist role; I really enjoyed our conversation about the spring launches. I understand the decision. I'd like to be considered for the Senior Marketing Specialist position, so could you let me know when it opens? Good luck to your new manager.",
    "lang": "en",
    "note": "Take the pointer seriously but don't commit to a lower title yet; ask to be considered, then judge the role once you see the pay and scope."
+  },
+  {
+   "id": "respond-to-job-rejection-013",
+   "situation": "I submitted a talk proposal to DevNorth, a regional developer conference, on how we split our monolith into services. The program chair, Elena, emailed that it wasn't selected this year out of 240 submissions. I'd really like to speak there one day.",
+   "reply": "Thanks for letting me know, Elena, and for reviewing so carefully with 240 proposals to get through. Understood on this year's program. One quick question, only if it takes you under a minute: was there one thing that would have made the proposal stronger? A single line is plenty, and it's fine to skip it. I'll be in the audience in March either way.",
+   "lang": "en",
+   "note": "A talk committee reads hundreds of proposals: one narrow question, and showing up anyway is what gets you remembered next year."
   }
  ]
 }

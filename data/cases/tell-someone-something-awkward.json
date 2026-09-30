@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -85,6 +85,13 @@
    "reply": "Linda, quick heads up: the photo of your new card in the family group shows the full number and the expiry date. Worth deleting it for everyone now: press and hold the photo and tap 'Delete for everyone'. Easy thing to miss on a phone. Happy to call and do it with you if that's easier.",
    "lang": "en",
    "note": "Private message, straight away, with the fix included. If it was up for a while, suggesting she call her bank can wait for a second message once the photo is gone."
+  },
+  {
+   "id": "tell-someone-something-awkward-013",
+   "situation": "My manager, Farah, just posted on LinkedIn welcoming our new hire Siobhan Walsh, but spelled her name 'Shivon' and tagged a different Siobhan Walsh. It already has 40 likes. I'm fairly junior on the team.",
+   "reply": "Hi Farah, lovely post about Siobhan! Quick heads up: her name is spelled 'Shivon' in the text, and the tag goes to a different Siobhan Walsh, not ours. Easy fix with an edit, and ours is the one with the Studio Nine logo in her photo.",
+   "lang": "en",
+   "note": "Seniority doesn't change the rule: a fixable error gets a private message, one plain line and the fix, then never mention it again."
   }
  ]
 }
