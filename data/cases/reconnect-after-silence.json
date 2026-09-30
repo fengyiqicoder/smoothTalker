@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -92,6 +92,13 @@
    "reply": "阿琪，好久不见！听小敏说你回厦门了，还当了妈妈，恭喜恭喜。前几天整理东西翻到咱们大三去鼓浪屿拍的那卷胶片，你站在海边笑得眼睛都没了。宝宝叫什么名字呀？不急着回，就是想你了。",
    "lang": "zh",
    "note": "先沉默的是对方时，完全不提那几年，也不问为什么；她还是不回，就不要再追。"
+  },
+  {
+   "id": "reconnect-after-silence-014",
+   "situation": "When I was 16 I did an exchange year in Lyon with the Moreau family. That was 12 years ago; we swapped Christmas cards for a while and then it stopped. I just found the photo album from that year and want to email them. Their English is good.",
+   "reply": "Dear Claire and Philippe, it's been far too long, probably ten years since my last Christmas card. I was clearing out my parents' attic this weekend and found the album from my year with you, including the photo of Julien and me covered in flour after the galette disaster. I still think of you every time I make a proper vinaigrette. How are you all, and what is Julien up to these days? No rush at all to reply, I just wanted to say hello.\nWith love,\nEmma",
+   "lang": "en",
+   "note": "A host family or anyone who once looked after you: name the gap once, one vivid shared memory, one easy question, no apology spiral."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -92,6 +92,13 @@
    "reply": "Okay, thanks Greg, I appreciate it. I'll drop Maya and Theo at yours on Friday 9 October at 5:30 with their school bags, and pick them up Sunday at 6. If you'd like a weekend back, I can take the 23rd to the 25th.",
    "lang": "en",
    "note": "He denied it, so take him at his word once and stick to logistics; name the pattern only if the digs keep coming."
+  },
+  {
+   "id": "respond-to-passive-aggressive-014",
+   "situation": "Six of us have a friends' group chat. I posted photos from a hiking weekend and Chris replied 'Nice to see some people have time for trips but not for Dave's birthday 🙃'. I did miss Dave's birthday last week, because I had flu.",
+   "reply": "Ha, fair, I was gutted to miss it. Flu had me flat on the sofa all weekend. Dave, first round's on me next time we're out, you pick the night.",
+   "lang": "en",
+   "note": "In a group chat, answer briefly at face value and move on; if Dave himself seems hurt, message him privately rather than in the group."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -92,6 +92,13 @@
    "reply": "Herr Becker, ich möchte, dass die Kundenkonferenz am 19. November auch mit dem kleineren Budget ein Erfolg wird. Mit 28.000 Euro reicht es laut den aktuellen Angeboten aber nicht für beides: 200 Gäste und das gesetzte Abendessen kommen auf rund 39.000 Euro. Zwei Möglichkeiten: Wir bleiben bei 200 Gästen und ersetzen das Abendessen durch ein Flying Buffet, das spart etwa 12.000 Euro, oder wir behalten das Abendessen und laden 140 Gäste ein. Ich empfehle das Buffet, weil der Vertrieb die Gästeliste schon hat. Können Sie mir bis Freitag sagen, welche Variante wir nehmen?",
    "lang": "de",
    "note": "Budget cut, same scope: put the numbers side by side, give two options that fit the new budget, recommend one and let him choose."
+  },
+  {
+   "id": "push-back-on-boss-014",
+   "situation": "My offer letter says hybrid, three office days and two at home. Our new director Kevin just told the team we're moving to four office days from Monday Nov 2. I have a 70-minute commute each way and want to keep my two home days, or at least get an exception, without sounding like I'm refusing.",
+   "reply": "Hi Kevin, I want the new setup to work, and I can see why you want more of us in the room. My offer letter set my pattern at three office days and two at home, and with a 70-minute commute each way that arrangement is a big part of why I can do this role well. Two options: I keep my current pattern and make sure I'm in on the days the team most needs me, or we trial four days through November and review it together in December. My preference is the first. Could we talk it through at our 1:1 on Thursday?",
+   "lang": "en",
+   "note": "State the written arrangement as a fact, not a threat, and check with HR how the offer letter terms apply before assuming they are fixed."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -92,6 +92,13 @@
    "reply": "Hi Ryan, about what you asked last night: my answer is the same as in March, it's a no. I'd rather be clear so neither of us has to wonder. We work well together and I'd like to keep it that way.",
    "lang": "en",
    "note": "A second ask gets the same clear no, shorter than the first. If he asks a third time, that's a conversation for your manager or HR, not another message."
+  },
+  {
+   "id": "romantic-let-down-014",
+   "situation": "在交友软件上认识一个男生，见过一次面。昨天我礼貌地跟他说没感觉、不继续了，他今天连发了好几条，说我“浪费他时间”“装什么清高”，越说越难听。",
+   "reply": "我明白你不高兴。我不会再回复了，就到这里。",
+   "lang": "zh",
+   "note": "对方开始骂人，最多回这一句，也可以一句不回，然后截图留存、拉黑并在软件里举报；如果他找到你的住处或单位，告诉身边的人，必要时报警。"
   }
  ]
 }

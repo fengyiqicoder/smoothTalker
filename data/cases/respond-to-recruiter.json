@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -92,6 +92,13 @@
    "reply": "Hi Owen, thanks for reaching out, and sorry I was brief this morning. I'm open to hearing about the role, but please don't call my work number; this email or my mobile, 07700 900412, is best. Could you send the base range and location first? If those line up, I'm free for a call Thursday after 6.",
    "lang": "en",
    "note": "Move the channel in the first reply and still ask for the range before the call. A recruiter who keeps ringing your desk after this is telling you how he works."
+  },
+  {
+   "id": "respond-to-recruiter-014",
+   "situation": "A recruiter, Kelly from 'Apex Talent', messaged me on WhatsApp about a remote data entry job at $45 an hour. Before any interview she wants a scan of my passport and my bank details 'for payroll setup'. It feels off, but it might be real.",
+   "reply": "Thanks for reaching out, Kelly. I don't share ID or bank details before an interview and a written offer. Could you send the hiring company's name, the job description, and an email from someone at the company's own domain? If that checks out I'm happy to talk, and once there's an offer I'll send documents through their HR system.",
+   "lang": "en",
+   "note": "Never send ID or bank details to someone you can't verify. If she pushes, or asks you to pay for anything, stop replying and report the account."
   }
  ]
 }

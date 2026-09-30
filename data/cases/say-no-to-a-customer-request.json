@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -92,6 +92,13 @@
    "reply": "Thanks, Greg, and I get it, insurance never seems to cover enough. I can't put $1,200 on the invoice; it has to show the $850 you actually paid, or it puts both of us at real risk. What I can do is a fully itemised invoice with parts, labour hours and before-and-after photos, which gives your claim the best shot at covering everything it should. I'll have it ready for you by tomorrow afternoon.",
    "lang": "en",
    "note": "A request to misstate an invoice is a firm no; offer the honest version that genuinely helps the claim."
+  },
+  {
+   "id": "say-no-to-a-customer-request-014",
+   "situation": "我在成都开了个小摄影工作室，婚纱照套餐是精修60张。客人刘小姐拍完后想要全部1,200张原片，说“反正都是拍我的”。我们一直不给全部原片。",
+   "reply": "刘小姐好，谢谢您这么喜欢这次的照片！全部原片我们不提供，原片里有大量试光、闭眼和没调色的片子，发出去代表不了成片的水准。可以这样：我把全部照片做成带小水印的预览图发给您挑，套餐的60张之外，想多加精修的每张30元，所有精修片都给高清无水印大图。您挑好后直接把编号发我就行。",
+   "lang": "zh",
+   "note": "说清原片不给是为了保证交付的成片质量，同时主动给出付费加修的路径，而不是一句“规定如此”。"
   }
  ]
 }

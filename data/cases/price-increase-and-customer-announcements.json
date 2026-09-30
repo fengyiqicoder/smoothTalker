@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -92,6 +92,13 @@
    "reply": "Hi all, Priya here, wearing my treasurer hat. From the season starting 1 January, annual subs go from £120 to £150. The council has put pitch hire up by about a third, and subs are what pay for it. Nothing else changes: same pitches, same Tuesday training, same kit. You can pay in three instalments of £50 if that's easier, and if the new amount is a real problem for you, message me privately and we'll sort something out, no questions asked. Thanks for keeping the club going.",
    "lang": "en",
    "note": "In a member-run club, the hardship option goes in the announcement for everyone, so it's a policy rather than a quiet deal for whoever complains."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-014",
+   "situation": "町で小さなパン屋をやっています。これまで近所への配達は無料でしたが、11月1日から3,000円未満の注文は配達料300円をいただくことにしました。ガソリン代と配達スタッフの人件費が上がったためで、LINEでお客さんに知らせたいです。",
+   "reply": "いつもご利用ありがとうございます。11月1日（日）から、3,000円未満のご注文の配達に配達料300円をいただくことになりました。ガソリン代と配達スタッフの人件費が上がったためです。3,000円以上のご注文はこれまでどおり配達無料で、パンの値段と配達エリアも変わりません。店頭でお受け取りの場合は、もちろん配達料はかかりません。これからもどうぞよろしくお願いいたします。\n小麦堂　田中",
+   "lang": "ja",
+   "note": "無料だったものを有料にするのも値上げと同じ形で：日付と金額を最初に、理由は一行、変わらないことと配達料がかからない方法を添える。"
   }
  ]
 }

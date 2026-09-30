@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -92,6 +92,13 @@
    "reply": "Hi Priya,\nI promised your gallery by 5 September, it's now more than nine weeks since your wedding, and my updates have been vague while your family keeps asking. That's on me, and I'm sorry. Tonight I'll send you 30 finished favourites so you have something to share this weekend, and the full gallery will be in your inbox by 6pm on Friday 9 October. I'm also adding a 20-page printed album at no charge. If you'd like to talk, I'm on 07700 900617 any time.\nAnna",
    "lang": "en",
    "note": "Name the vagueness, since that is what made her furious, then a firm date plus something she can share now. Hit both deadlines."
+  },
+  {
+   "id": "respond-to-angry-customer-014",
+   "situation": "Je gère des paniers de légumes bio à Nantes. Le panier passe de 18 € à 21 € au 1er octobre, annoncé par e-mail le 1er septembre. M. Leroy, abonné depuis quatre ans, m'écrit furieux qu'on l'a « mis devant le fait accompli » et qu'il n'a jamais été prévenu.",
+   "reply": "Bonjour Monsieur Leroy,\nDécouvrir une hausse de 3 € par panier au moment où elle s'applique, après quatre ans avec nous, ce n'est pas agréable. J'ai vérifié : l'annonce est partie le 1er septembre à votre adresse habituelle, je vous la renvoie ci-dessous, elle a peut-être atterri dans les indésirables. Comme vous ne l'avez pas vue, je vous laisse le panier à 18 € pour tout le mois d'octobre. Ensuite, si 21 € ne vous convient pas, vous pouvez passer au petit panier à 15 € ou arrêter sans frais. Je suis Claire, et vous pouvez m'appeler directement au 06 12 48 90 37.\nClaire",
+   "lang": "fr",
+   "note": "Le fait est corrigé une seule fois, preuve à l'appui, puis un geste proportionné et des options claires, sans discuter de sa colère."
   }
  ]
 }

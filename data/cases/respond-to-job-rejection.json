@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -91,6 +91,13 @@
    "reply": "Thanks for letting me know, Elena, and for reviewing so carefully with 240 proposals to get through. Understood on this year's program. One quick question, only if it takes you under a minute: was there one thing that would have made the proposal stronger? A single line is plenty, and it's fine to skip it. I'll be in the audience in March either way.",
    "lang": "en",
    "note": "A talk committee reads hundreds of proposals: one narrow question, and showing up anyway is what gets you remembered next year."
+  },
+  {
+   "id": "respond-to-job-rejection-014",
+   "situation": "I did a paid trial shift as a line cook at Harbour Street Kitchen last Friday. Head chef Tom texted today: 'Thanks for coming in, we've gone with someone with more pastry experience.' It's a small restaurant scene here and I'll probably cross paths with him again.",
+   "reply": "Thanks for letting me know, Tom, and for the trial shift; I learned a lot watching how you ran the pass on a busy Friday. Understood on the pastry side. If you're ever short on the line for a weekend or an event, I'd be glad to help out. All the best with the autumn menu.",
+   "lang": "en",
+   "note": "A text rejection gets a text-length reply: one specific thank-you, one line of acceptance, and one concrete way to work together later."
   }
  ]
 }

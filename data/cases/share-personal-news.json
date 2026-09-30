@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -92,6 +92,13 @@
    "reply": "Bonjour Marc, je préfère que tu l'apprennes par moi avant que les enfants t'en parlent : Julien et moi allons emménager ensemble en janvier. On reste dans le même quartier, donc rien ne change pour l'école ni pour la garde. Je l'annonce à Léa et Tom ce week-end ; si tu veux qu'on se mette d'accord avant sur ce qu'on leur dit, appelle-moi quand tu veux.",
    "lang": "fr",
    "note": "For a co-parent, lead with what does not change for the children; that is their real question."
+  },
+  {
+   "id": "share-personal-news-014",
+   "situation": "I stopped drinking in July and I'm doing well. Our uni friends have a reunion weekend in Leeds on Saturday Oct 17, and it's always been a big drinking thing. I want to tell the group chat beforehand so nobody makes a fuss or keeps offering me pints.",
+   "reply": "Bit of news before the 17th: I stopped drinking back in July and I'm really glad I did. I'm still coming and still up for a late one, I'll just be on the soft stuff. No need to make a thing of it, the only favour I'd ask is not offering me pints, even as a joke. Can't wait to see you all.",
+   "lang": "en",
+   "note": "If anyone in the group is a close friend, tell them one-to-one first; in the group, say exactly how you want people to respond."
   }
  ]
 }

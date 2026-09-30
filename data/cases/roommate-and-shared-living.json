@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -92,6 +92,13 @@
    "reply": "Hey Priya, I love that you want to rescue one, and I hate being the snag here: I'm properly allergic to cats, streaming eyes within an hour, so a cat living in the flat won't work for me. Would a pet that doesn't shed, like fish or a gecko, be an option for now? Or if it has to be a cat, we could plan it for when my lease ends in June. Happy to talk it through tonight if another idea works better.",
    "lang": "en",
    "note": "Saying no to a housemate's plan still comes with a proposal; the allergy is a fact about the house, not a verdict on her idea."
+  },
+  {
+   "id": "roommate-and-shared-living-014",
+   "situation": "My flatmate Ben just told me he's moving in with his girlfriend at the end of October. We're both on a joint lease until April at £1,400 a month, £700 each, and I can't cover the full rent on my own.",
+   "reply": "Hey Ben, congrats, that's exciting news. Since we're both on the lease until April, we need a plan for your half. Could we agree you keep paying your £700 until someone takes over your room, and that we find that person together, both happy with them? I'll ask Parkside Lettings this week how a swap works on our lease. Happy to talk it through tonight if you see it differently.",
+   "lang": "en",
+   "note": "Put it in writing early and ask the agent in writing how a replacement is approved. On a joint lease you may be liable for the full rent, so check before you agree to anything."
   }
  ]
 }

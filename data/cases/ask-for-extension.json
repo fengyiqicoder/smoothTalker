@@ -88,15 +88,15 @@
   },
   {
    "id": "ask-for-extension-013",
-   "situation": "去年找大学同学阿强借了2万块，说好今年10月底前还清。我9月换了工作，新公司第一个月工资11月底才发，想跟他说延到12月15日还，又怕伤感情。",
-   "reply": "阿强，提前跟你说件事：借你的2万，原本说好10月底还清，我想跟你商量延到12月15日。我9月换了工作，新公司第一笔工资11月底才发，10月底手上凑不齐全部。10月31日前我先转你5000，剩下的15000在12月15日前一次还清。如果你这段时间正好要用钱，直接跟我说，我再想别的办法。",
+   "situation": "我在市场部，答应10月16日（周五）把三季度活动费用明细交给财务部的赵姐，她要用来做月度结账。但还有两家代理商的发票没到，最快下周一才能收齐。想在企业微信上跟她说延到10月20日（周二）。",
+   "reply": "赵姐，提前跟你说一下：三季度活动费用明细原定16号周五给你，但还有两家代理商的发票没到，最快下周一才能收齐。能不能让我20号周二中午前给你完整版？如果你周五就要开始做账，我16号先把已经齐全的八个活动发你，剩下两家20号补上。你看哪种方便？",
    "lang": "zh",
-   "note": "A partial payment on the original date shows good faith; the offer to find another way keeps his interests first."
+   "note": "跨部门同事没有义务等你：早说、给具体时间，并按她的结账节奏提供先交一部分的方案。"
   },
   {
    "id": "ask-for-extension-014",
    "situation": "Ich habe eine kleine Schreinerei. Herr Brandt bekommt einen Esstisch aus Eiche, zugesagt für Freitag, 16. Oktober. Unser Holzlieferant liefert die Platte eine Woche zu spät, realistisch schaffe ich Freitag, 30. Oktober.",
-   "reply": "Guten Tag Herr Brandt, ich melde mich lieber jetzt als kurz vor dem Termin: Unser Holzlieferant liefert die Eichenplatte für Ihren Tisch eine Woche später als vereinbart. Wäre eine Lieferung am Freitag, 30. Oktober, statt am 16. Oktober für Sie in Ordnung? So bekommt das Öl die volle Zeit zum Aushärten, und der Tisch wird genau so, wie wir ihn besprochen haben. Falls Sie ihn vorher für einen Anlass brauchen, bringe ich Ihnen bis dahin gern einen Leihtisch aus unserer Werkstatt vorbei.",
+   "reply": "Guten Tag Herr Brandt, ich melde mich lieber jetzt als kurz vor dem Termin: Unser Holzlieferant liefert die Eichenplatte für Ihren Tisch eine Woche später als vereinbart. Wäre eine Lieferung am Freitag, 30. Oktober, statt am 16. Oktober für Sie in Ordnung? Dann habe ich nach Eingang der Platte genug Zeit, den Tisch ohne Eile so zu fertigen, wie wir ihn besprochen haben. Falls Sie ihn vorher für einen Anlass brauchen, bringe ich Ihnen bis dahin gern einen Leihtisch aus unserer Werkstatt vorbei.",
    "lang": "de",
    "note": "When you are the supplier, the customer is the one granting the extension: ask early and bring a stopgap."
   }

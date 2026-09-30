@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -92,6 +92,13 @@
    "reply": "Hi Jamie, of course you miss her, and she'd love to see you. Let's do a walk: I can bring Biscuit to Victoria Park on Sunday the 11th at 10, and you take her round the lake for an hour while I grab a coffee. If it goes well, we could make it a once-a-month thing. Does the 11th work?",
    "lang": "en",
    "note": "A shared pet is logistics with feelings attached: yes to the dog, a clear shape for the visit, and you stay out of the hour."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-014",
+   "situation": "My ex Nadia and I broke up in January, mostly because she moved to Denver for work. She's moving back in November and texted that she'd like to try again. I'm open to it, but I want to go slowly and talk properly first.",
+   "reply": "It means a lot that you asked, and I'm open to talking about it. I'd like to take it slowly and start with a proper conversation about what happened in January before we decide anything. Could we have dinner the weekend after you're back, say Saturday 14 November? No expectations either way until then.",
+   "lang": "en",
+   "note": "Even a yes to reopening gets a limit and a date: a conversation first, not a relationship restarted by text."
   }
  ]
 }

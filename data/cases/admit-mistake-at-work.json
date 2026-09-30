@@ -67,10 +67,10 @@
   },
   {
    "id": "admit-mistake-at-work-010",
-   "situation": "I'm an in-house recruiter. At 11:20 today I sent our rejection email to Maya Chen, who is actually our top finalist for the product designer role, instead of another candidate. I've already emailed Maya. Need to tell the hiring manager, Sam, on Slack.",
-   "reply": "Sam, I made a mistake: at 11:20 I sent Maya Chen our rejection email, which was meant for another candidate. I've emailed her to say it was sent in error and she's very much still in the process, and I've asked for a 10-minute call today. No reply yet. I'm sorry, I picked the wrong name from the dropdown. From now on I'm checking every rejection against the tracker before it goes. I'll update you as soon as I've spoken to her.",
+   "situation": "I'm a project coordinator at an architecture firm. This morning I submitted the Elm Street extension planning application to the council with the August drawings instead of the revised set, and the council has already validated it. My director Paul is on site, so I'm calling him now.",
+   "reply": "Paul, quick one, and it's my mistake: this morning I submitted the Elm Street planning application with the August drawings, not the revised set. The council validated it at 11, so it's in their system with the old roof height. I've already emailed the planning officer, Ms Okafor, to ask whether we can swap the drawings or need to withdraw and resubmit, and asked her to call me today. I'm sorry. I'll text you her answer as soon as I have it and send you a written summary before 5. From now on I'll check the revision number on every drawing against the register before anything goes to the council.",
    "lang": "en",
-   "note": "Headline first, the fix already in motion, one apology and one prevention step; Sam hears it from you before Maya has to raise it."
+   "note": "Big mistake, boss out of the office: call first, keep it spoken and short, and promise the written summary with a time."
   },
   {
    "id": "admit-mistake-at-work-011",

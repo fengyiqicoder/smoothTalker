@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -92,6 +92,13 @@
    "reply": "Olá Inês, tenho uma má notícia sobre o seu bouquet de 10 de outubro: o fornecedor confirmou hoje que não há peónias brancas, a época delas já terminou. A data do casamento não muda, por isso proponho duas alternativas com o mesmo ar romântico: rosas de jardim brancas com lisianthus, ou dálias cor de marfim. Envio-lhe fotos das duas até amanhã às 12h. Se a opção que escolher ficar mais barata, devolvo a diferença, e se preferir cancelar, reembolso os 180 € na totalidade. Se não tiver notícias suas até segunda, dia 5, avanço com as rosas de jardim. Peço desculpa por não ter confirmado isto mais cedo.\nMarta",
    "lang": "pt",
    "note": "Quando esperar não é opção, as escolhas passam a ser substituir ou reembolsar, com fotos para decidir e uma opção por defeito."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-014",
+   "situation": "我开网店卖茶具。顾客吴女士订的一套青瓷茶具（订单尾号7721），收货地址填成了她以前住的小区，快递员电话也没打通，包裹正在退回，预计10月6号回到我这。她还不知道。",
+   "reply": "吴女士您好，您的订单（尾号7721）遇到点问题：收货地址是您以前的小区翠湖花园，快递员联系不上您，包裹正在退回我这边，预计10月6日到。您把现在的地址发我，包裹一回来我当天重新寄出，这次运费我们出。如果不想再等，回我“退款”，我今天就全额原路退回。收到您的新地址之前，包裹我先留在店里，不会再寄。店主小林",
+   "lang": "zh",
+   "note": "就算是顾客填错了地址，也不追究是谁的错：说清事实、新日期和选项，默认做法写明白，补一次运费是小小的善意。"
   }
  ]
 }

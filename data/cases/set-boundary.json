@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -92,6 +92,13 @@
    "reply": "Dan, I think we co-parent Mia well, and I want to keep it that way. From now on I'm going to keep our messages to Mia: school, pickups, health and plans. I'll answer those promptly, and anything else I'll leave unanswered. If something about Mia is urgent, call me any time.",
    "lang": "en",
    "note": "The boundary is what you will reply to, not a rule for him. If he pushes, repeat it shorter: I'll keep it to Mia."
+  },
+  {
+   "id": "set-boundary-014",
+   "situation": "我刚入职三个月，下周五部门聚餐。上次聚餐领导一桌桌劝酒，说“不喝就是不给面子”，我喝多了，第二天很难受。以后我不想喝酒了，想提前私下跟直属领导王姐说一声。",
+   "reply": "王姐，下周五聚餐我一定到，挺期待跟大家一起吃饭的。先跟您说一声，我以后不喝酒了，上次喝完第二天状态很差。到时候我以茶代酒，敬酒、张罗都没问题。",
+   "lang": "zh",
+   "note": "说的是自己的做法（以茶代酒），理由一句就够；席上再被劝，就笑着重复“我不喝酒，以茶代酒敬您”，不加新理由。"
   }
  ]
 }

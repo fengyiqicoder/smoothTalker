@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -92,6 +92,13 @@
    "reply": "Thank you for spelling this out, Alan. Being quoted $300 and charged $640 without a call first is exactly what makes people stop trusting garages. This happened before I took over Fenwick Motors in August, but the name on the sign is the same, so it's mine to answer. Every job now gets a written quote, and we call for your OK before doing anything beyond it. I'd like to hear the rest and see if we can make it right: please call me directly on (614) 555-0143. Rachel Okoye, owner",
    "lang": "en",
    "note": "Old review under a new owner: state the handover once, own the name, never blame the previous owner."
+  },
+  {
+   "id": "respond-to-negative-review-014",
+   "situation": "I'm a solo developer with a budgeting app on the App Store. A 1-star review from 'mjkline' says version 4.2 wiped all his transactions and 'no one answers support'. A sync bug did hide data for some users for about a day, nothing was deleted, and 4.2.1 fixed it yesterday. I did miss two of his support emails.",
+   "reply": "Thank you for flagging this, and I'm sorry. Version 4.2 had a sync bug that made transactions disappear from view for some people, and I missed your emails while I was fixing it. That part is on me. Your data wasn't deleted: updating to 4.2.1, released yesterday, brings it back. If it doesn't for you, email me at help@example.com and I'll sort it with you personally today. Nadia, developer",
+   "lang": "en",
+   "note": "Lead with the fix other readers need; correct 'wiped' by stating what happened, not by arguing with the word."
   }
  ]
 }

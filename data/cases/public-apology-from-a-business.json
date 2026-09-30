@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -92,6 +92,13 @@
    "reply": "If you bought our oat cookies labelled 'nut-free' on Saturday 26 or Sunday 27 September, please don't give them to anyone with a nut allergy. They were baked on trays also used for almond biscotti and may contain traces of almond; about 70 were sold. I'm sorry, that's our mistake. We've pulled the batch, and from today nut-free bakes have their own trays and go in the oven before anything with nuts. Bring the cookies back, or just tell us you bought them, for a full refund. If anyone has had a reaction, please get medical help first, then call me directly on 0117 496 0215. Grace, owner, Butter & Rye",
    "lang": "en",
    "note": "A safety issue leads with who is at risk and what to do, before the sorry. Check with your local food safety authority whether you need to report it."
+  },
+  {
+   "id": "public-apology-from-a-business-014",
+   "situation": "Two weeks ago our dog daycare's only van broke down and about 40 dogs got home up to three hours late. My apology post promised an update by Thursday 1 October on what we'd change. We now have a second van on standby and owners get a text if a drop-off runs over 20 minutes late. Everyone affected was refunded for that day. I'm the owner, Jade.",
+   "reply": "As promised on 17 September, here's the update. When our van broke down that day, about 40 of your dogs got home up to three hours late, and many of you were left waiting with no word from us. What's changed: a second van is now on standby every day, and if a drop-off is running more than 20 minutes late you'll get a text straight away with a new time. All 40 families have been refunded for that day. If anything still isn't right, email me at jade@muddypawsdaycare.co.uk and I'll reply personally. Jade, owner",
+   "lang": "en",
+   "note": "The follow-up post is the promise kept: short recap, what changed, what's done. No second round of apologies."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -92,6 +92,13 @@
    "reply": "妈，那天我语气急了点，您别往心里去。您带大了两个孩子，经验比我多多了，我知道您是心疼乐乐。加糖这件事我们还是按医生说的先不加，别的事我真的很想听您的。周末您来家里教我做南瓜小米粥吧，乐乐肯定爱吃。",
    "lang": "zh",
    "note": "When they take offence: apologise for the tone, not the decision, and give them a real role."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-014",
+   "situation": "At my bouldering gym there's a regular, Phil, maybe 60, who shouts moves at me while I'm on the wall ('left foot higher! use the crimp!'). He's friendly, but I like working problems out myself, and it's happened three sessions in a row.",
+   "reply": "Thanks, Phil, I know you're rooting for me. I actually like figuring the moves out myself, it's half the fun, so could you hold the tips unless I ask? I'll come find you when I'm properly stuck.",
+   "lang": "en",
+   "note": "Friendly repeat offender: name the preference once, warmly, and give him a role for when you do want help."
   }
  ]
 }

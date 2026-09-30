@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -92,6 +92,13 @@
    "reply": "各位，我先退出这个群啦，最近消息实在跟不上，老是错过重要的信息。谢谢王老师当初拉我进来，这两年在群里认识了不少好朋友。有事随时私信我，我都在。",
    "lang": "zh",
    "note": "退群也是离开：先私下告诉最在意的人，再在群里发一句简短温和的告别，不用解释太多。"
+  },
+  {
+   "id": "leave-or-quit-gracefully-014",
+   "situation": "I'm resigning from my sales engineer job tomorrow, last day Friday Oct 30. I'm going to a direct competitor and I'd rather not tell my manager Fiona where, at least until I've started. She will definitely ask.",
+   "reply": "Fiona, I wanted to tell you directly: I've decided to leave, and I'm giving my notice today. My last day will be Friday 30 October. I'd rather keep where I'm going to myself for now; it's nothing to do with you, I just want the focus on leaving well. I've started a handover doc for my six accounts and I'd like to walk you through it this week. You taught me more about running a demo than anyone, and I'm grateful for that.",
+   "lang": "en",
+   "note": "Declining to say where is fine: say it once, kindly, never invent a cover story, and check your contract for notice or non-compete terms before the meeting."
   }
  ]
 }
