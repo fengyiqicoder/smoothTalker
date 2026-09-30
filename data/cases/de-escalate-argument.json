@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -127,6 +127,13 @@
    "reply": "陈姐，刚才那句“你根本没看我的方案”是我说过头了，对不起。我明白您担心的是四季度超支，这个顾虑我理解。预算的事我还是想当面把数字跟您过一遍，明天上午10点您有15分钟吗？",
    "lang": "zh",
    "note": "对上级：只收回那句冒犯的话，不收回立场，把争论搬到当面并给出具体时间。"
+  },
+  {
+   "id": "de-escalate-argument-019",
+   "situation": "Mein Sohn Felix (24) und ich streiten per WhatsApp, weil er sein Pflegestudium im letzten Jahr abbrechen will. Ich habe geschrieben 'Du ziehst nie etwas durch', und er antwortet, ich hätte ihm noch nie zugetraut, selbst zu entscheiden. Ich will das beruhigen, bevor es kaputtgeht.",
+   "reply": "Felix, ich höre jetzt auf, per Nachricht zu streiten. Der Satz, dass du nie etwas durchziehst, war unfair, und es tut mir leid. Ich verstehe, dass du dich von mir nicht ernst genommen fühlst, wenn es um deine eigenen Entscheidungen geht. Kann ich dich morgen um 19 Uhr anrufen und erst mal nur zuhören? Du bist mir wichtiger als jede Studienfrage.",
+   "lang": "de",
+   "note": "Die Studienfrage bleibt bewusst offen; heute geht es nur darum, aus dem Streit herauszukommen."
   }
  ]
 }

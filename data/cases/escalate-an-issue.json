@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -127,6 +127,13 @@
    "reply": "Subject: Cardiology appointment needed by 2 Oct: referral from 20 August, no date yet\nDear Patient Liaison team, I'm writing about my mother, Margaret Hale, hospital number 448210. On 20 August she was told she'd get a cardiology appointment within six weeks. I called the booking office on 8 and 22 September and both times was told the referral is on the system, with no date. Her chest pains are getting more frequent, and her GP said on Monday that she needs to be seen soon. Could you confirm an appointment date, or who is handling the referral, by Friday 2 October? Thank you, Ellen Hale",
    "lang": "en",
    "note": "If her chest pain worsens or comes on at rest, call emergency services now; this email is for the waiting list, not an emergency."
+  },
+  {
+   "id": "escalate-an-issue-019",
+   "situation": "I'm the only data analyst on our team. Two directors both need a big piece of work from me by Friday Oct 9: Priya wants the churn analysis for the board deck, Owen wants the pricing model for the Hartley renewal. Each is about 3 days of work, so I can only finish one. I've told both of them I'm taking it to our manager Dana to decide.",
+   "reply": "Hi Dana, I need a priority call from you by tomorrow noon. Priya needs the churn analysis for the board deck and Owen needs the pricing model for the Hartley renewal, both by Friday Oct 9, and each is about 3 days of work, so I can finish one. I've told them both I'm bringing it to you. Could you decide which comes first? My recommendation is the Hartley model, since the renewal date can't move, and I can give Priya a one-page churn summary for the board deck instead.",
+   "lang": "en",
+   "note": "When two people with equal power disagree, escalate the choice, not the people, and tell both before you do."
   }
  ]
 }

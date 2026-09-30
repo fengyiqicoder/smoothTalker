@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -127,6 +127,13 @@
    "reply": "妈，弟弟要结婚我真替他高兴。这10万我出不了，我攒的钱是明年读研要用的。婚礼定在哪天了？我好提前请假回去。",
    "lang": "zh",
    "note": "钱的事一句说清不出，理由只给一个，不去评价彩礼该不该给；她再提，就用几乎一样的话再说一遍。"
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-019",
+   "situation": "We adopted our daughter Lucia (6) from Colombia. At Easter my aunt Pam asked right in front of her whether we know anything about 'her real mother', and I'm sure she'll ask again at Sunday lunch at hers. Lucia spent this morning drawing a dinosaur for Pam.",
+   "reply": "We keep Lucia's story in the family for now; it's hers to share when she's older. Lucia, do you want to show Aunt Pam the dinosaur you drew for her this morning?",
+   "lang": "en",
+   "note": "The child is listening, so the line is calm and final. If Pam returns to it, a word with her alone later works better than a firmer line at the table."
   }
  ]
 }

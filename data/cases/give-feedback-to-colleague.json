@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -127,6 +127,13 @@
    "reply": "雯雯，想跟你聊聊上周二评审的事，可以吗？上周一晚上你把小杜的首页方案整个重做了，周二评审直接讲了你的版本，他是在会上才知道的。我猜你是想让客户看到最好的方案，但结果是小杜这几天挺受打击，也没机会知道自己的方案差在哪儿。你当时是怎么考虑的？以后觉得谁的方案有问题，评审前一天先跟他和我说，让他自己改，或者你们俩一起讲。10月16日周五我们再看看效果。",
    "lang": "zh",
    "note": "能力强的人越界时，问题不在她的水平，而在做法：说清具体那一次和对新人的影响，先听她的理由，再给一个能发挥她能力的做法。"
+  },
+  {
+   "id": "give-feedback-to-colleague-019",
+   "situation": "My report Nadia just did a run-through of our client pitch with me for Friday Oct 2. She read most of her slides word for word and took 25 minutes; we have a 15-minute slot, and pricing is the last section. I'm free Thursday at 2pm for another run-through. I want to say it now, in person.",
+   "reply": "Nadia, can I give you some feedback on the run-through? You read most of the slides word for word, and it came in at 25 minutes against the 15 we have on Friday. If we run long, we lose the client before we reach pricing. What's your read on it? For Friday I'd like you to speak to the slides rather than read them and bring it in at 15, and I'd like one more run-through with you on Thursday at 2.",
+   "lang": "en",
+   "note": "Feedback before the event, while it can still change the outcome, with the next check already booked."
   }
  ]
 }

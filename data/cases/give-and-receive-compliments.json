@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -126,6 +126,13 @@
    "reply": "Mark, Ruby told me about Saturday night. You sat up with her till midnight and just listened, and she said you didn't lecture at all. That was exactly what she needed, and it meant a lot to me to hear it.",
    "lang": "en",
    "note": "Keeping it to what he did for Ruby stops it reading as a bid to reopen anything."
+  },
+  {
+   "id": "give-and-receive-compliments-019",
+   "situation": "我在大理开了家民宿。住了三晚的客人王女士在订房平台上写了条长评，说管家小杨半夜帮她发烧的孩子买到了退烧药，还说'这是我住过最有人情味的民宿'。我想在评论下面公开回复她。",
+   "reply": "王女士，谢谢您写下这么用心的评价，读完我们全店都很开心。那天夜里是小杨跑出去买的药，这句'最有人情味'我会原话转告她。祝孩子健健康康，一家人都好。",
+   "lang": "zh",
+   "note": "公开回复好评：先大方接住，再把功劳点名给具体的人，不顺带打广告，也不邀请再订。"
   }
  ]
 }

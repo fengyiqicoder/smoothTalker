@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -127,6 +127,13 @@
    "reply": "Settling the weather question: Saturday looks like a washout, so two options. A: same barbecue, moved to Sunday 4 October, 1pm, Lark Park. B: keep Saturday 3 October, 1pm, at my flat, with oven food instead of the grill. Vote A or B by Thursday 9pm. If it's a tie or nobody votes, it's A, and I'll post the final plan once on Thursday night.",
    "lang": "en",
    "note": "A change of plan still needs a decision: turn 'is it still on?' into two concrete options with a deadline and a default instead of watching the forecast together."
+  },
+  {
+   "id": "group-chat-coordination-019",
+   "situation": "Five of us just got back from a trip to Lisbon: me, Sam, Ana, Ben and Cleo. I paid the flat (900 euros) and the groceries (150), Sam paid the rental car (300), so 1,350 total and 270 each. I want to settle up in the WhatsApp group by Friday Oct 9.",
+   "reply": "Settling up for Lisbon! Total was 1,350 euros, so 270 each. I paid 1,050 (flat and groceries) and Sam paid 300 (car). Ana, Ben and Cleo: please send 260 to me and 10 to Sam. Sam, you don't owe anything. Thumbs up once you've paid, and by Friday Oct 9 please so we can close this out.",
+   "lang": "en",
+   "note": "Do the maths for everyone and give each person one number to pay; nobody should have to open a calculator."
   }
  ]
 }

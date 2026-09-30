@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -127,6 +127,13 @@
    "reply": "Hi Nina, I'm glad you asked, and I want you to have what you need to get up to speed. A daily half hour won't work on my side, so let's do Tuesdays and Thursdays at 9:30 for 30 minutes, starting this Thursday. In between, send me quick questions in chat any time; they don't need to wait for our slot. Does that work for you?",
    "lang": "en",
    "note": "When you're the senior one, decline the cadence, not the support, and give the new rhythm with a start date."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-019",
+   "situation": "I leave work at 5 every day to pick my son up from daycare, which closes at 5:30, and it's on my calendar. Our product lead Owen keeps booking 'design review' at 5:30pm, and just sent another for tomorrow. My part is reviewing the checkout mockups.",
+   "reply": "I'm offline from 5, so I'll skip tomorrow's 5:30. I'll leave my comments on the checkout mockups in the file by 3pm, so you'll have them before the review. For future ones, could we keep them before 4:30 so I can join live?",
+   "lang": "en",
+   "note": "State the hard stop once as a fact, deliver the input anyway, then ask for one change to the pattern."
   }
  ]
 }

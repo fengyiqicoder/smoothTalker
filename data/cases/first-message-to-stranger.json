@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -127,6 +127,13 @@
    "reply": "林夏你好，我是上周六婚礼上跟你坐同一桌的那个。一直记得你那个歪成烟灰缸的碗，后来拉出第二个像样的了吗？",
    "lang": "zh",
    "note": "加了微信没说话也没关系，接住当时聊过的那一件事，比“在吗”好回得多。"
+  },
+  {
+   "id": "first-message-to-stranger-019",
+   "situation": "On our neighbourhood app, a woman called Ines posted that she's on parental leave with a 4-month-old and looking for someone to do morning walks with around Victoria Park. I'm on leave too with my 5-month-old, Theo, and honestly a bit lonely. I want to message her directly.",
+   "reply": "Hi Ines, saw your post about morning walks around Victoria Park. I'm on leave with a five-month-old, Theo, and would love some adult conversation on a walk, even if it ends up being mostly about naps. Do you have a usual loop or time you head out?",
+   "lang": "en",
+   "note": "She asked for company, so one relevant clause about you is fine; one easy question about her routine rather than fixing a date straight away."
   }
  ]
 }

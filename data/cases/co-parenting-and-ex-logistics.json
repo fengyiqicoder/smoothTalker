@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -127,6 +127,13 @@
    "reply": "Hi Claire, one thing about Jonah's inhaler. It's stayed behind at one house twice this month, and on Monday he had to use the school nurse's spare. I'd like each of us to keep one at home so it doesn't depend on the bag, and his GP can prescribe a second. I can book the appointment this week if you're okay with it; could you let me know by Friday?",
    "lang": "en",
    "note": "Health logistics without blame: 'stayed at one house', not 'you forgot'. If he ever struggles to breathe, call emergency services first."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-019",
+   "situation": "Our son Eli (14) told me he'd like to sleep at his dad Marcus's on Friday nights during football season, because his 9am Saturday matches are at Oakfield Park, five minutes from Marcus. Fridays are currently mine. The season runs Oct 10 to March 20, and I'm fine with it if I get Sunday afternoons, 1 to 6, instead.",
+   "reply": "Hi Marcus, Eli has asked if he can stay at yours on Friday nights during football season, since his 9am Saturday matches are at Oakfield Park, close to you. I'm happy with that if I have him on Sunday afternoons from 1 to 6 instead. The season runs 10 October to 20 March. Could you let me know by Monday if that works for you? Thanks.",
+   "lang": "en",
+   "note": "The child's wish is passed on as a plain fact by the parent, not by the child, with the trade already proposed."
   }
  ]
 }

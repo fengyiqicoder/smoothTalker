@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -127,6 +127,13 @@
    "reply": "Hi Farah, following up in writing on our call this morning. We have withdrawn the data engineer offer we made on Sept 16, because the company froze all new hiring this morning until at least April. It has nothing to do with you, you were our first choice, and I'm sorry to undo something you'd already said yes to. Please don't hand in your notice on Friday on our account. If the freeze lifts, would it be okay for me to contact you first?",
    "lang": "en",
    "note": "Send it before she acts on the offer. Questions about pay or the offer terms go to HR; check the offer letter rather than guessing."
+  },
+  {
+   "id": "decline-offer-or-candidate-019",
+   "situation": "I run a café. Jess did a paid trial shift last Saturday; the regulars loved her, but she struggled on the espresso machine in the rush, and the job means running the bar alone on weekday mornings. Her £48 for the trial goes out with Friday's pay run, and we may hire weekend front-of-house in spring, when I'd happily call her. I want to text her.",
+   "reply": "Hi Jess, thanks for Saturday's trial shift, the regulars really took to you. We've decided not to offer you the role. The job means running the espresso bar alone on weekday mornings, and the rush showed that part isn't quite there yet. We may hire weekend front-of-house in the spring, and if we do I'd like to call you. Your £48 for Saturday goes out with Friday's pay run.",
+   "lang": "en",
+   "note": "A text suits a trial shift; the one reason is the one she saw for herself on the day."
   }
  ]
 }

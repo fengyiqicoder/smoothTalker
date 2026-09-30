@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -127,6 +127,13 @@
    "reply": "表姐，谢谢你惦记我，还想着让我住家里。这次我就住公司订的酒店了，出差早出晚归，住那边方便一些。11号周三晚上我有空，请你吃顿饭好不好？",
    "lang": "zh",
    "note": "只拒绝“住”，不拒绝人：一个理由就够，再给一个具体的见面时间，让对方知道你是想见她的。"
+  },
+  {
+   "id": "decline-invitation-019",
+   "situation": "Mi prima Carmen se casa el 12 de diciembre en Oviedo y la invitación es solo para mí, sin mi pareja, Luis, con quien vivo desde hace cuatro años. Yo vivo en Málaga y no me apetece ir sola tan lejos. No quiero quejarme de lo del acompañante ni montar un drama familiar.",
+   "reply": "Carmen, ¡muchísimas gracias por la invitación, qué ilusión que os caséis! No podré ir el 12 de diciembre a Oviedo, pero os tendré muy presentes ese día. La próxima vez que paséis por Málaga, Luis y yo os invitamos a cenar para celebrarlo como se merece. Un abrazo enorme a los dos.",
+   "lang": "es",
+   "note": "No se menciona lo del acompañante: ese motivo abriría una negociación o un conflicto; basta un no claro y un plan cálido."
   }
  ]
 }

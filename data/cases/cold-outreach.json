@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -126,6 +126,13 @@
    "reply": "Subject: An author visit for Reading Week?\n\nHi Ms. Patel,\nI saw in the Oakwood newsletter that you're planning Reading Week for 16 to 20 November and hoping to bring in more authors. I write picture books, three out so far, and I've done 40 school visits this year, with a session built around reading aloud and drawing a character together. Would a visit that week be of interest? If it's not a fit, a quick no is genuinely helpful.\nBest,\nNadia Brooks",
    "lang": "en",
    "note": "Why them comes from her own newsletter, one number as proof, and a single yes/no question instead of a call."
+  },
+  {
+   "id": "cold-outreach-019",
+   "situation": "我在做一个给宠物美容店用的预约工具，还没上线，想先找店主聊聊真实需求。成都一家宠物美容店'毛毛理发屋'的老板娘周姐在小红书吐槽，说周末一天能有四五个客人爽约。想私信她，但我现在没有用户，也没有案例。",
+   "reply": "周姐好，看到你那条说周末一天能有四五个客人爽约的笔记，底下好多同行都在说同感。我在做一个给宠物美容店用的预约工具，还没上线，想先弄清楚店主真正头疼的是什么。想请你回答一个问题：现在客人爽约，你们一般怎么处理？打字回我几句就行，不用打电话。不方便的话，回一句'不用'也很有帮助。",
+   "lang": "zh",
+   "note": "没有案例就别硬凑数字：坦白说还在做调研，把请求缩小到一个打字就能回答的问题。"
   }
  ]
 }

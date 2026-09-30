@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -127,6 +127,13 @@
    "reply": "阿哲，听说你和小安的事了，这几天一直惦记你。你们俩之间的事我不打听，也不会传话，不用跟我讲细节，也不用回这条。周六下午我想去江边走走，你想一起就说一声，不想就当没看到。",
    "lang": "zh",
    "note": "和两人都是朋友时，先说清楚自己不打听、不传话，再给一个具体、可以直接拒绝的邀约。"
+  },
+  {
+   "id": "check-in-on-someone-struggling-019",
+   "situation": "My friend Rosa has long COVID and has cancelled on me three times since July, always at the last minute and always with a long apology. She just cancelled Saturday's lunch and said 'I'm sorry, I'm the worst friend, you should stop inviting me.' I miss her and don't want her to feel guilty.",
+   "reply": "You're not the worst friend, you're a friend with a body that's being unfair to you, and none of this needs an apology. I'm not going to stop inviting you. Next time how about I bring lunch to yours and we eat on the sofa, and if it's a bad day you can cancel on the morning with one emoji.",
+   "lang": "en",
+   "note": "Lift the guilt first, then shrink the plan to one she can manage and make cancelling cost her nothing."
   }
  ]
 }

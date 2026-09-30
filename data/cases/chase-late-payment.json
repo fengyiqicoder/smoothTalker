@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -127,6 +127,13 @@
    "reply": "Hola, Laura y Pablo: espero que la luna de miel fuera increíble. Os escribo de nuevo por la factura 2026-031 de 1.400 €, el saldo del reportaje de la boda, que vencía el 15 de septiembre y todavía no me ha llegado. ¿Me podéis confirmar qué día haréis la transferencia? Os adjunto otra vez la factura con los datos bancarios. En cuanto esté pagada, encargo vuestro álbum impreso, como recoge el contrato. Un abrazo, Marta",
    "lang": "es",
    "note": "Con clientes particulares el tono sigue cálido, pero con número, importe, fecha, cómo pagar y una pregunta por una fecha concreta."
+  },
+  {
+   "id": "chase-late-payment-019",
+   "situation": "Freelance motion designer. Invoice #1147 for $5,600 to a large retail company was due September 14; the contract their marketing director Dana signed says payment within 30 days of invoice (clause 5). Their accounts payable contact, Greg, just replied that 'all vendors are paid net 60 per company policy'.",
+   "reply": "Hi Greg,\nThanks for coming back to me. The agreement for this project, signed by Dana, sets payment at 30 days from invoice in clause 5, so invoice #1147 for $5,600 was due on 14 September. Could you include it in your next payment run and confirm the date it will go out? I've copied Dana in case an exception to the net 60 policy needs her sign-off, and attached the signed agreement and the invoice again.\nThanks,\nLeila",
+   "lang": "en",
+   "note": "An internal policy doesn't rewrite a signed contract: quote the clause once, ask for the next payment run, and copy the person who signed."
   }
  ]
 }

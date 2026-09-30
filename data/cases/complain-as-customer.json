@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -127,6 +127,13 @@
    "reply": "店长您好，我是会员陈悦，卡号A20417。我在店里购买了20节私教课，共3200元，已上8节，我的教练于9月20日离职。根据合同第7条“教练离职，会员可申请退还剩余课时费”，我申请退还剩余12节的费用，共1920元。前台两次答复只能换教练，所以直接联系您。麻烦在10月9日（周五）前告诉我退款安排，谢谢。",
    "lang": "zh",
    "note": "引用合同原文、算好金额、只提一个要求；店长也拒绝的话，再按合同写的投诉途径走。"
+  },
+  {
+   "id": "complain-as-customer-019",
+   "situation": "Ich bin Jonas Weber (jonas.weber@example.com). Ich habe am 3. Juni über die Website von Klangwerk Events zwei Tickets für das Konzert am 17. Oktober in Hamburg gekauft, Bestellung KW-208841, 138 Euro. Das Konzert wurde auf den 6. März verschoben, an dem Tag bin ich im Ausland, und der Veranstalter bietet mir per E-Mail nur einen Gutschein an. Ich möchte mein Geld zurück.",
+   "reply": "Guten Tag, ich habe am 3. Juni zwei Tickets für das Konzert am 17. Oktober in Hamburg gekauft, Bestellung KW-208841, 138 Euro. Das Konzert wurde auf den 6. März verschoben, und an diesem Tag bin ich im Ausland, kann den neuen Termin also nicht wahrnehmen. Einen Gutschein kann ich deshalb nicht nutzen. Ich bitte um die Erstattung der 138 Euro auf mein ursprüngliches Zahlungsmittel und um eine kurze Bestätigung bis Freitag, 9. Oktober. Vielen Dank, Jonas Weber, jonas.weber@example.com",
+   "lang": "de",
+   "note": "Sachlich den Grund nennen, warum der Gutschein nicht hilft; ob ein Erstattungsanspruch besteht, in den Ticketbedingungen oder bei einer Verbraucherberatung prüfen."
   }
  ]
 }

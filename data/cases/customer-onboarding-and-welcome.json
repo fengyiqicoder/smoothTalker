@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -127,6 +127,13 @@
    "reply": "Welcome, everyone, and thanks for signing up for the 10-week beginners' course! Our first session is Saturday 10 October at 8am at the bandstand in Ashgrove Park, and the first few weeks are mostly walking intervals, so come as you are. The one thing I need from each of you is the health questionnaire, back to me by Wednesday 7 October, so I can plan the groups safely. If you have a heart condition or have been told to limit exercise, please check with your doctor before the first session. Questions can go here or to me privately, and I usually reply within a day. See you Saturday, Dan",
    "lang": "en",
    "note": "A group welcome carries one ask for everyone; the health check is stated once, plainly, not buried."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-019",
+   "situation": "I'm Gareth, a driving instructor. Mr. Shah just paid for a block of 10 lessons for his daughter Priya, who is 17 and has never driven. First lesson is Monday 5 October at 4pm, and I'll pick her up from home. Before then I need her provisional licence number, and to know whether she wears glasses or contacts for driving.",
+   "reply": "Hi Mr. Shah and Priya, thanks for booking the 10 lessons, I'm looking forward to getting started. Priya, I'll pick you up from home on Monday 5 October at 4pm, and the first lesson is all about the car and quiet roads, so no need to prepare anything. Before Monday, could one of you send me Priya's provisional licence number, and let me know if she wears glasses or contacts for driving? Any questions, just reply here or text me, I usually answer within a few hours. Gareth",
+   "lang": "en",
+   "note": "The payer and the learner are different people: address both, and speak to the nervous first-timer directly."
   }
  ]
 }

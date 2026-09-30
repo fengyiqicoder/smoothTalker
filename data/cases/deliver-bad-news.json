@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -127,6 +127,13 @@
    "reply": "Hi Mrs. Greene, some news on the bathroom you won't love. When we lifted the old tub today we found rot in two of the floor joists underneath, and they have to be replaced before we can tile; photos attached. That adds $2,400 and moves the finish from Friday 9 October to Wednesday 14 October. I know that's more money and more days of disruption. Could I call you this evening to go through it before we do any of the extra work?",
    "lang": "en",
    "note": "Surprise costs: photos, the number and the new date in one message, then a call before any extra work starts."
+  },
+  {
+   "id": "deliver-bad-news-019",
+   "situation": "我和大学同学阿峰去年合伙开了一家奶茶店，各投了8万，开张时我们说好“如果续租房租涨超过20%就关店”。今天房东通知11月底续租，月租从1万涨到1万5，涨了50%。阿峰这周在外地出差，我估计把设备转卖掉每人能拿回3万左右。",
+   "reply": "阿峰，有个不太好的消息，想先跟你说。房东今天通知，11月底续租月租要从1万涨到1万5，涨了50%，按我们当初说好的超过20%就关店，这家店得关了。我知道这一年你花了多少心思，8万里大概只能拿回3万左右，我心里也很不是滋味。设备转卖和退租的事我先去问价，等你出差回来一起定。今晚你方便的话我们打个电话。",
+   "lang": "zh",
+   "note": "先提醒一句再说结论，用两人事先的约定作为理由，把后续决定留给两个人一起做。"
   }
  ]
 }

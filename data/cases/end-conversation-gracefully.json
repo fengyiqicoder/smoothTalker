@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -127,6 +127,13 @@
    "reply": "Hi Oksana, thanks for all the extra thoughts, and for a project that ran smoothly from start to finish. None of these need anything from our side, so I'm going to close this thread here. We're planning a redesign next year and you're at the top of my list when it starts. Have a great week.",
    "lang": "en",
    "note": "An email close: recap, say plainly nothing is needed, a real forward hook, and no question at the end."
+  },
+  {
+   "id": "end-conversation-gracefully-019",
+   "situation": "Two volunteers canvassing for a local election campaign knocked on my door and we've been talking on the doorstep for 15 minutes. I've already decided how I'm voting and the kids' dinner is on the stove. I want to close it politely without getting into a debate.",
+   "reply": "Thanks for coming round and taking the time to explain it all. I've already made up my mind, and I've got the kids' dinner on, so I'm going to leave it there. Good luck with the rest of the street.",
+   "lang": "en",
+   "note": "Nothing to argue with and no question at the end; say it, smile, and close the door."
   }
  ]
 }

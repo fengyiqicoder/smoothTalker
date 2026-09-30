@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -126,6 +126,13 @@
    "reply": "Hi Grace, thanks for thinking of me, I'd genuinely enjoy a longer run with Northpine. At my standard rates, a reel plus a story set is $1,250 a month; for a three-month commitment I can do $1,050 a month, $3,150 in total, with 30 days of organic usage on each piece. If $700 a month is the ceiling, two story sets a month fit that budget exactly. Could you also confirm whether the ambassador role comes with any exclusivity?",
    "lang": "en",
    "note": "A long-term deal earns a modest package rate, not your per-post rate cut in half; and always ask about exclusivity before you sign."
+  },
+  {
+   "id": "creator-brand-deal-reply-019",
+   "situation": "I review budget tech on YouTube, 140k subscribers. Earbud brand Sonaro offered $2,000 for a dedicated video, and the contract from their contact Kevin includes clause 11: I can't post anything negative about Sonaro products for 12 months. I'd happily do the video, but my channel runs on honest reviews.",
+   "reply": "Hi Kevin, thanks for sending the contract, the fee and deliverables look good. The one clause I can't sign is clause 11: my channel runs on honest reviews, so I can't agree to say nothing negative about Sonaro for 12 months. I'm happy for your team to check the script for factual accuracy before the video goes live. Could you send a version without clause 11 so I can sign this week?",
+   "lang": "en",
+   "note": "Strike the one clause that costs your audience's trust, offer a reasonable substitute, and keep the deal. Have anyone you trust read the rest of the contract too."
   }
  ]
 }

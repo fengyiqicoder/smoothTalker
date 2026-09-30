@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -127,6 +127,13 @@
    "reply": "Hi Imogen, I'm still holding the venue for your holiday party on Friday 11 December, and their hold ends on Friday 9 October. To keep it, I'd need the signed contract by Thursday 8 October. If something in it needs changing, point me to it and I'll turn it round the same day; if plans or budget have shifted, just say so and I'll release the date.",
    "lang": "en",
    "note": "A verbal yes with an unsigned contract: a real outside deadline, a quick fix for whatever is blocking it, and an easy no. Don't start booking suppliers until it's signed."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-019",
+   "situation": "I make handmade ceramic mugs. At a gift trade fair on Aug 30 I met Chloe, who owns a homeware shop, and on Sept 3 I sent her six sample mugs; she said she'd put them out and see how they sold. I bumped her by Instagram DM on Sept 14, nothing since. I've just dropped my wholesale minimum from 24 mugs to 12.",
+   "reply": "Hi Chloe, one update since the samples: I've dropped my wholesale minimum from 24 mugs to 12, which might make a first order easier to test. Are the mugs something you'd like to stock this season? A quick yes, no or not yet is all I need.",
+   "lang": "en",
+   "note": "Touch 2: real news as the reason to write, and a one-word way to say no."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -127,6 +127,13 @@
    "reply": "Olga, I'm so sorry about Viktor. The girls adored him, and I'll always picture him staying after practice to feed balls to anyone who wanted extra shots. Mila is welcome at ours any afternoon this week or next, just tell me which days suit. No need to reply to this. Thinking of you both.",
    "lang": "en",
    "note": "After a group announcement, a private message with one real memory and an easy, concrete offer stands out from the emoji wall."
+  },
+  {
+   "id": "condolences-and-support-019",
+   "situation": "我是初二（5）班班主任。学生小宇的爸爸上周五去世了，小宇请了一周假，下周一回学校。他爸爸每次家长会都来，坐第一排认真记笔记。我打算让课代表帮小宇补这周落下的课，想给小宇妈妈发条微信。",
+   "reply": "小宇妈妈您好，听到小宇爸爸去世的消息，我非常难过。每次家长会他都坐在第一排认真记笔记，我一直记得。小宇下周一回来，这周落下的课我会让课代表帮他补上，学习上的事您先不用操心，我也会多留意他在学校的状态。您不用回复这条消息。",
+   "lang": "zh",
+   "note": "老师的身份决定了具体帮助落在学校这一边，不打听家里的情况。"
   }
  ]
 }

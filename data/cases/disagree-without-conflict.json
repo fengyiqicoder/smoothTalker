@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -127,6 +127,13 @@
    "reply": "Paul, I know you've carried most of this since Mum's fall, and we want the same thing: for her to be safe. Where I land differently is the next step. Her assessment said she could manage at home with a carer three mornings a week, and I'd like us to try that for two months first, with me covering the carer and coming up every other weekend. What would you need to see in those two months to feel she's okay?",
    "lang": "en",
    "note": "Credit the sibling doing the daily work first; if Mum falls and is hurt, call emergency services before anything else."
+  },
+  {
+   "id": "disagree-without-conflict-019",
+   "situation": "我是博士生。导师王老师想让我两周内把论文投出去，赶在年底前有结果。我觉得现在只有一个数据集，审稿人很可能会要求补实验，返修反而更慢。补一组对照实验大概要三周。想在微信上跟他说。",
+   "reply": "王老师，我理解您希望这篇文章年底前能有结果，我也想早点投出去。我这边的看法有点不同：现在只有一个数据集，审稿人很可能会要求补实验，到时候返修反而更慢。我想先花三周补一组对照实验再投。您看这样安排是否可行，还是有我没考虑到的地方？",
+   "lang": "zh",
+   "note": "对导师先认同目标，只给一个最强的理由，最后把决定权交回给他。"
   }
  ]
 }

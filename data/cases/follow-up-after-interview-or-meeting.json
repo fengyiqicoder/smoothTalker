@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -127,6 +127,13 @@
    "reply": "Hi Grace,\nThanks again for yesterday. Your ask for one invoice covering all four clinics is now built into the proposal. One correction before it goes to your CFO: the new plan cuts your monthly fee by 11%, not the 15% I said, which brings it from $3,000 to $2,670 a month rather than $2,550. The corrected one-page summary is attached so you have the right figure for Monday 5 October. Sorry for the mix-up, and shout if anything else would help.\nBest,\nTom",
    "lang": "en",
    "note": "When you got a number wrong in the meeting, the correction is the one thing the follow-up adds; send it before they repeat it upward."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-019",
+   "situation": "I viewed a one-bed flat on Elm Row yesterday with the letting agent, Sarah. At least five other people were there. I told her I can move in from November 1, and she mentioned the landlord wants a long-term tenant and is fine with my cat as long as I pay the pet deposit.",
+   "reply": "Hi Sarah, thanks for showing me the Elm Row flat yesterday. I'd love to go ahead: I can move in from November 1, I'm looking to stay long term, and I'm happy to pay the pet deposit for my cat. I can send my references and ID today if that would help the landlord decide. Please let me know what you need next.",
+   "lang": "en",
+   "note": "In a busy market the follow-up that wins is the one that makes saying yes easiest: restate the fit, offer the paperwork now."
   }
  ]
 }

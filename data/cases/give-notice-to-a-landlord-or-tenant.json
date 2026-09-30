@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -127,6 +127,13 @@
    "reply": "Dear Mr and Mrs Adeyemi,\nI'm writing to give notice that I'll be moving out of 14 Carlton Road, with my tenancy ending on Monday 30 November 2026. That's more than the month's notice we agreed by text in 2024, and I'll pay November's rent of £850 on the 1st as usual. I'm happy to fit around any viewings, and I'd like to do a walk-through and hand back the keys on the 30th at a time that suits you. Could you reply to confirm you've received this? Thank you both for renting to me.\nBest wishes,\nChloe",
    "lang": "en",
    "note": "With no written lease, check local rules on notice before relying on the text agreement, and keep a copy of this."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-019",
+   "situation": "Sou a Mariana. Minha mãe, Lúcia Ferreira, de 82 anos, vai morar numa casa de repouso e precisa entregar o apartamento 51 da Rua das Palmeiras, 240, em Campinas, onde mora de aluguel há 15 anos. A cláusula 11 do contrato pede 30 dias de aviso por escrito e ela quer sair em 31 de outubro. Tenho procuração dela e vou escrever para o Sr. Ricardo, da imobiliária.",
+   "reply": "Prezado Sr. Ricardo,\nEscrevo em nome da minha mãe, Lúcia Ferreira, locatária do apartamento 51 da Rua das Palmeiras, 240, em Campinas, para comunicar a desocupação do imóvel e o encerramento da locação em 31 de outubro de 2026, conforme o aviso de 30 dias por escrito previsto na cláusula 11 do contrato. Ela vai se mudar para uma casa de repouso, e eu cuido da entrega com a procuração dela, que segue em anexo. O aluguel de outubro será pago normalmente, e gostaria de agendar a vistoria e a entrega das chaves para o dia 31. Pode me confirmar por escrito o recebimento deste aviso?\nObrigada por esses 15 anos de locação.\nAtenciosamente,\nMariana Ferreira",
+   "lang": "pt",
+   "note": "Confirme com a imobiliária se a procuração cobre a rescisão e em que forma o aviso precisa ser entregue, e guarde uma cópia."
   }
  ]
 }

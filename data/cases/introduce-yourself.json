@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -127,6 +127,13 @@
    "reply": "Bonsoir à tous, je m'appelle Claire, je suis kiné et je viens d'arriver de Lille. J'ai chanté alto pendant dix ans dans une chorale là-bas, donc la voix est là, mais je lis encore mal les partitions. Si une alto accepte que je me place à côté d'elle les premières semaines, je la suivrai de près ! Et comme je ne connais encore personne à Annecy, vos bonnes adresses sont les bienvenues.",
    "lang": "fr",
    "note": "Le point faible dit simplement devient l'invitation : les altos savent tout de suite comment l'aider."
+  },
+  {
+   "id": "introduce-yourself-019",
+   "situation": "我叫林悦，10月9日（周五）去一家车企面试车主App的产品经理，面试官肯定会先让我做一分钟自我介绍。我做了五年电商App产品，去年负责结算页改版，下单转化率提高了12%。平时喜欢骑行，周末常和车友骑一百公里。",
+   "reply": "您好，我叫林悦，做了五年电商App的产品经理。去年我负责结算页改版，下单转化率提高了12%，这是我最有成就感的一个项目。工作之外我喜欢骑行，周末常和车友骑一百公里。我很想了解车主App现在最想解决的问题是什么，这也是我今天最想和您聊的。",
+   "lang": "zh",
+   "note": "面试版本：一个有数字的成果，一个让人记住的爱好，结尾把话题交回给面试官。"
   }
  ]
 }
