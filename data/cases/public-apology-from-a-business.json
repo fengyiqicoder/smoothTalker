@@ -5,7 +5,7 @@
   {
    "id": "public-apology-from-a-business-001",
    "situation": "We run a small online candle shop. A label mix-up meant about 180 Fig & Cedar candles went out labelled Lavender between Sept 14 and 22. People are posting about it on Instagram. I'm the founder, Priya.",
-   "reply": "Between 14 and 22 September, about 180 candles we sent as Lavender were actually Fig & Cedar with the wrong label. If yours smells woody rather than floral, that's why. Sorry, that's our mistake: a label roll was loaded on the wrong line. Everyone affected gets the right candle shipped free by 9 October, no action needed, and you can keep the Fig & Cedar. Labels are now checked against the batch sheet before every run. Not heard from us by Friday? Email hello@wickandhollowcandles.com and I'll sort it personally. Priya, founder",
+   "reply": "Between 14 and 22 September, about 180 candles we sent as Lavender were actually Fig & Cedar with the wrong label. If yours smells woody rather than floral, that's why. Sorry, that's our mistake: a label roll was loaded on the wrong line. Everyone affected gets the right candle shipped free by 9 October, no action needed, and you can keep the Fig & Cedar. Labels are now checked against the batch sheet before every run. Not heard from us by Friday? Email hello@example.com and I'll sort it personally. Priya, founder",
    "lang": "en",
    "note": "Small mistake, short post: what happened first, one sorry, then the automatic fix."
   },
@@ -33,14 +33,14 @@
   {
    "id": "public-apology-from-a-business-005",
    "situation": "Wir betreiben eine Kletterhalle in Leipzig. Am Samstag mussten wir wegen eines Wasserschadens schließen, haben das aber erst um 9 Uhr auf Instagram gepostet. Rund 60 Leute standen vor der Tür. Ich bin der Inhaber, Jonas.",
-   "reply": "Am Samstag, 26. September, war unsere Halle wegen eines Wasserschadens geschlossen, und wir haben das erst um 9 Uhr auf Instagram gepostet, als viele von euch schon vor der Tür standen. Rund 60 Leute sind umsonst gekommen, manche mit Kindern und langer Anfahrt. Das tut mir leid. Alle, die für Samstag gebucht hatten, bekommen den Eintritt bis Freitag, 2. Oktober, automatisch erstattet. Wer ohne Buchung da war, schreibt uns an hallo@kletterwerk-leipzig.de und bekommt einen Freieintritt. Schließungen schicken wir ab sofort per E-Mail und SMS an alle Buchungen und stellen sie auf die Startseite, nicht nur auf Instagram. Bei Fragen erreicht ihr mich direkt unter 0341 2298 410.\nJonas Berger, Inhaber",
+   "reply": "Am Samstag, 26. September, war unsere Halle wegen eines Wasserschadens geschlossen, und wir haben das erst um 9 Uhr auf Instagram gepostet, als viele von euch schon vor der Tür standen. Rund 60 Leute sind umsonst gekommen, manche mit Kindern und langer Anfahrt. Das tut mir leid. Alle, die für Samstag gebucht hatten, bekommen den Eintritt bis Freitag, 2. Oktober, automatisch erstattet. Wer ohne Buchung da war, schreibt uns an hallo@example.com und bekommt einen Freieintritt. Schließungen schicken wir ab sofort per E-Mail und SMS an alle Buchungen und stellen sie auf die Startseite, nicht nur auf Instagram. Bei Fragen erreicht ihr mich direkt unter 0341 2298 410.\nJonas Berger, Inhaber",
    "lang": "de",
    "note": "Local business, informal 'ihr': the refund is automatic and the fix is about the channel that failed."
   },
   {
    "id": "public-apology-from-a-business-006",
    "situation": "Our bakery's Instagram posted a joke yesterday calling gluten-free customers 'crazy'. A coeliac customer called it out and it's been shared about 300 times. I'm the owner, Dana, and I wrote the post.",
-   "reply": "Yesterday this account posted a joke calling gluten-free customers 'crazy'. I wrote it, and it was wrong: for people with coeliac disease gluten-free is a medical need, and many of you trust us with exactly that. I'm sorry. The post is deleted, and from today every post is checked by a second person on our team before it goes up. If you want to tell me directly how this landed, I read every email at dana@crumbhousebakery.com. Dana, owner",
+   "reply": "Yesterday this account posted a joke calling gluten-free customers 'crazy'. I wrote it, and it was wrong: for people with coeliac disease gluten-free is a medical need, and many of you trust us with exactly that. I'm sorry. The post is deleted, and from today every post is checked by a second person on our team before it goes up. If you want to tell me directly how this landed, I read every email at dana@example.com. Dana, owner",
    "lang": "en",
    "note": "The owner names herself as the author; no 'it was meant as a joke' defence."
   },
@@ -54,14 +54,14 @@
   {
    "id": "public-apology-from-a-business-008",
    "situation": "I run Ledgerly, a small invoicing app for about 4,000 freelancers. Yesterday, Monday, from 10am to 2:30pm nobody could send invoices because a database update failed, and about 900 invoices went out hours late. I'm the founder and want to post on LinkedIn and X.",
-   "reply": "Yesterday from 10am to 2:30pm, nobody could send invoices from Ledgerly, and about 900 invoices went out hours late. Sorry, that's on us: a database update failed and we were too slow to roll it back. Every delayed invoice kept its original date, so your payment terms aren't affected. We now test every update on a copy of live data first, and roll back automatically after 10 minutes of errors. If a client says yours never arrived, email me at sam@ledgerly.app and I'll sort it the same day. Sam, founder",
+   "reply": "Yesterday from 10am to 2:30pm, nobody could send invoices from Ledgerly, and about 900 invoices went out hours late. Sorry, that's on us: a database update failed and we were too slow to roll it back. Every delayed invoice kept its original date, so your payment terms aren't affected. We now test every update on a copy of live data first, and roll back automatically after 10 minutes of errors. If a client says yours never arrived, email me at sam@example.com and I'll sort it the same day. Sam, founder",
    "lang": "en",
    "note": "Match the size: a half-day outage gets a short post, one sorry, and a change you can actually verify."
   },
   {
    "id": "public-apology-from-a-business-009",
    "situation": "We run Ridgeback Outdoor, a small online gear shop. From Sunday evening to Monday afternoon our site showed the Trailbase 3-person tent at $39 instead of $390, a typo in a bulk price update. 62 orders came in and we're honouring them, but people who saw the price jump mid-checkout are annoyed on Facebook. I'm the owner, Sam.",
-   "reply": "From Sunday evening until Monday afternoon, our site showed the Trailbase 3-person tent at $39 instead of $390, after a typo in a price update. We're honouring all 62 orders placed at that price, and they ship this week. Sorry to anyone who watched the price change mid-checkout; that's a frustrating thing to see. From now on, a second person checks every bulk price change before it goes live. Questions: sam@ridgebackoutdoor.com. Sam, owner.",
+   "reply": "From Sunday evening until Monday afternoon, our site showed the Trailbase 3-person tent at $39 instead of $390, after a typo in a price update. We're honouring all 62 orders placed at that price, and they ship this week. Sorry to anyone who watched the price change mid-checkout; that's a frustrating thing to see. From now on, a second person checks every bulk price change before it goes live. Questions: sam@example.com. Sam, owner.",
    "lang": "en",
    "note": "A pricing slip needs a short post: the facts, one sorry, what you're honouring, and one check you can actually keep."
   },
@@ -96,7 +96,7 @@
   {
    "id": "public-apology-from-a-business-014",
    "situation": "Two weeks ago our dog daycare's only van broke down and about 40 dogs got home up to three hours late. My apology post promised an update by Thursday 1 October on what we'd change. We now have a second van on standby and owners get a text if a drop-off runs over 20 minutes late. Everyone affected was refunded for that day. I'm the owner, Jade.",
-   "reply": "As promised on 17 September, here's the update. When our van broke down that day, about 40 of your dogs got home up to three hours late, and many of you were left waiting with no word from us. What's changed: a second van is now on standby every day, and if a drop-off is running more than 20 minutes late you'll get a text straight away with a new time. All 40 families have been refunded for that day. If anything still isn't right, email me at jade@muddypawsdaycare.co.uk and I'll reply personally. Jade, owner",
+   "reply": "As promised on 17 September, here's the update. When our van broke down that day, about 40 of your dogs got home up to three hours late, and many of you were left waiting with no word from us. What's changed: a second van is now on standby every day, and if a drop-off is running more than 20 minutes late you'll get a text straight away with a new time. All 40 families have been refunded for that day. If anything still isn't right, email me at jade@example.com and I'll reply personally. Jade, owner",
    "lang": "en",
    "note": "The follow-up post is the promise kept: short recap, what changed, what's done. No second round of apologies."
   },

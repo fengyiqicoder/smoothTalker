@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Bea, thanks for letting me know, and good luck with the move. Under clause 9 of our lease, notice needs to be 30 days in writing and end on the last day of a month, so the earliest your tenancy can end is Saturday 31 October, with October's rent due on the 1st as usual. If a new tenant can move in before then, you'd only pay up to the day before they start, and I'm happy to begin viewings straight away. Could you email me to confirm 31 October as your end date, so we can book the check-out for that day?",
    "lang": "en",
    "note": "Landlord receiving short notice: the correct date with the clause, a way to cut her cost, and written confirmation. Check local rules before relying on the clause."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-017",
+   "situation": "I rent an apartment in Portland from Mr Hale on a month-to-month agreement that says 30 days' written notice. He's ignored my requests to fix the heating for six weeks and I've had enough, so I'm leaving on October 31. I'm furious, but I want the notice clean and my deposit back.",
+   "reply": "Dear Mr Hale,\nI'm writing to give notice that I will be leaving 3318 SE Taylor St, Apt 4, with my tenancy ending on Saturday 31 October 2026, in line with the 30 days' written notice in our month-to-month agreement. I'll pay October's rent as usual and return both keys on the 31st. Could we arrange a move-out inspection that afternoon? I'll send my forwarding address for the deposit separately. Please confirm in writing that you've received this notice.\nKind regards,\nJenna Park",
+   "lang": "en",
+   "note": "Keep the heating complaint in its own message: a notice that doubles as a grievance invites an argument about the grievance. Check how the agreement says notice must be served."
   }
  ]
 }

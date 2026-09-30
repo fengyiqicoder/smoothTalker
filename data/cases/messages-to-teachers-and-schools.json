@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -54,7 +54,7 @@
   {
    "id": "messages-to-teachers-and-schools-008",
    "situation": "My ex and I separated over the summer and our son Sam (Year 3, Mr Doyle's class) now lives with me Monday to Wednesday. All the school emails and reading-record notes go only to his mum. I want to be copied in, and give the teacher a heads-up.",
-   "reply": "Hi Mr Doyle, I'm Sam Reid's dad (3D). Sam's mum and I separated over the summer, and Sam is now with me Monday to Wednesday and with her the rest of the week. Could you add me to the class emails and reading-record notes, at tom.reid@fastmail.com, so both homes stay in the loop? He seems to be handling it well, and we're keeping homework and bedtimes the same at both houses. If you notice anything in class, I'd really appreciate hearing about it. Thanks, Tom Reid",
+   "reply": "Hi Mr Doyle, I'm Sam Reid's dad (3D). Sam's mum and I separated over the summer, and Sam is now with me Monday to Wednesday and with her the rest of the week. Could you add me to the class emails and reading-record notes, at tom.reid@example.com, so both homes stay in the loop? He seems to be handling it well, and we're keeping homework and bedtimes the same at both houses. If you notice anything in class, I'd really appreciate hearing about it. Thanks, Tom Reid",
    "lang": "en",
    "note": "Family change: facts only, no blame on the other parent, one practical ask, and an open door for the teacher to share what she sees."
   },
@@ -113,6 +113,13 @@
    "reply": "Hi Miss Hart, I'm Davi Souza's mum (Year 6). We moved here from Brazil in September, and Davi is still learning English. He tells me he eats lunch on his own most days. He loves football and drawing, which might be an easy way for him to join in with other children. Could you tell me how the school usually supports children who are new to English, and could we meet for 15 minutes one afternoon? At home we read an English picture book together every night. Thank you, Juliana Souza",
    "lang": "en",
    "note": "New arrival: share what helps the child, ask about the school's usual support rather than prescribing it."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-017",
+   "situation": "My son Yusuf (Year 7, form tutor Ms Lawson) will fast for Ramadan for the first time this coming February. He's proud and a bit nervous about it. He has PE on Tuesdays and Thursdays, and we're doing a few practice fasts at weekends so he knows how he feels. I want to ask early how the school handles it.",
+   "reply": "Hi Ms Lawson, I'm Yusuf Rahman's mum (7L). Yusuf will be fasting during Ramadan for the first time this coming February, and he's proud and a little nervous about it. He has PE on Tuesdays and Thursdays, so I wanted to ask early how the school usually supports pupils who are fasting, for example with PE and where he can go at lunchtime. At home we're doing a few practice fasts at weekends so he knows how he feels. Could you let me know, or point me to the right person? Thank you, Samira Rahman",
+   "lang": "en",
+   "note": "Asking months ahead, and asking about the school's usual approach rather than prescribing one, makes it an easy yes."
   }
  ]
 }

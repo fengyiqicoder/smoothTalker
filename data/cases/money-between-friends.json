@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -113,6 +113,13 @@
    "reply": "小周，演唱会票那1,280块我就不追了，这事就算过去了，以后我也不会再提。以后一起买票或者订东西，咱们各订各的、各付各的，我这样比较轻松，不是生你的气。",
    "lang": "zh",
    "note": "提醒两次都没结果时，要么真正放下，要么说清楚不再垫钱；这里两件一起说，只说一次，不翻旧账。"
+  },
+  {
+   "id": "money-between-friends-017",
+   "situation": "My friend Chris owes me $900: I covered his share of our Lisbon trip in June. When I reminded him last week he said money's tight and he can't pay it all at once. He gets paid on the 15th of each month.",
+   "reply": "Hey, thanks for being straight with me about money being tight, no stress about paying it all at once. How about $300 on the 15th of October, November and December? That clears the $900 by Christmas. If a different split works better for you, tell me and we'll adjust. Mostly I'd just like us to have a plan so neither of us has to think about it.",
+   "lang": "en",
+   "note": "Turns 'can't pay it all' into a small dated plan tied to his payday, and leaves room for him to suggest a different split."
   }
  ]
 }

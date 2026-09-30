@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Priya, a quiet housemate around night shifts is something I can genuinely offer: I work 9 to 5 in a library and spend most evenings reading rather than hosting. I'm also firmly pro spoiled cats, so Mango's standards are safe with me. Could I come and see the room this Saturday, 3 October, at whatever time fits your sleep?",
    "lang": "en",
    "note": "A listing with a crowded inbox: answer the things she asked for, show you read the details, and make one small ask."
+  },
+  {
+   "id": "first-message-to-stranger-017",
+   "situation": "I've used a small open-source note-taking tool for my thesis notes for three months; the keyboard-only capture is why I switched. It's maintained by one person, Jonas Weber, and the README says 'translations welcome, but open an issue first'. I'm a native Traditional Chinese speaker and happy to translate the UI and keep it updated for new releases.",
+   "reply": "Hi Jonas, I've been using the app for my thesis notes for three months, and the keyboard-only capture is the reason I switched. Your README asks for an issue before translations, so here it is: would you accept a Traditional Chinese translation? I'm a native speaker and would do the full UI and keep it updated for new releases.",
+   "lang": "en",
+   "note": "Following the maintainer's own stated process is the proof you looked; one yes-or-no question, nothing else asked."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -112,6 +112,13 @@
    "reply": "Oi, Bia, obrigada por avisar logo, entendo que os planos mudaram. Como o reels já foi gravado, o sinal de R$ 1.200 fica comigo, conforme a cláusula 6 do contrato. Se quiserem aproveitar o vídeo mais para frente, posso publicar até 15 de dezembro pelos R$ 1.200 restantes, sem gravar de novo. Me diz se isso faz sentido para vocês.",
    "lang": "pt",
    "note": "Cancelamento depois do trabalho feito: cite a cláusula uma vez, sem drama, e ofereça um jeito de a marca ainda aproveitar o que já pagou."
+  },
+  {
+   "id": "creator-brand-deal-reply-017",
+   "situation": "Eine Outdoor-Marke, Gipfelwerk, lädt mich zu ihrem Launch-Event in München am Samstag, 17. Oktober, ein: vier Stunden vor Ort plus drei Instagram-Stories. Sie zahlen nur Anreise und Hotel, kein Honorar. Ich habe 35.000 Follower, nehme für drei Stories 350 Euro und für Präsenz-Events 500 Euro; die Ansprechpartnerin heißt Lena.",
+   "reply": "Hallo Lena, danke für die Einladung, der Launch in München klingt richtig gut. Anreise und Hotel sind ein netter Rahmen, aber kein Honorar: Für vier Stunden vor Ort berechne ich 500 Euro und für ein Set aus drei Stories 350 Euro, zusammen also 850 Euro, plus Anreise und Hotel wie von euch angeboten. Wenn das in euer Budget passt, schick mir gern den Ablauf und sag mir, ob ihr die Stories auch auf euren eigenen Kanälen nutzen wollt. Dann melde ich mich innerhalb eines Tages zurück.",
+   "lang": "de",
+   "note": "Reisekosten sind Auslagen, kein Honorar: Präsenz und Content getrennt bepreisen und die Nutzungsrechte gleich mit abfragen."
   }
  ]
 }

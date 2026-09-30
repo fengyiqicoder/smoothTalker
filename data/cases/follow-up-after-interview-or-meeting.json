@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Olu,\nThank you for the conversation yesterday, and for being so gracious when my connection dropped. Your plan to move the claims team from monthly spreadsheets to a live dashboard stuck with me; it's exactly the kind of work I'd want to do. Since we rushed the SQL case study at the end, I've written up my approach in half a page, attached, in case it helps to see it in full. I'm very interested in the role and happy to answer anything else.\nBest,\nMaria",
    "lang": "en",
    "note": "Thank him once for the grace, don't apologise again, and use the one addition to finish what the dropout cut short."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-017",
+   "situation": "Today's meeting with facilities and HR about the office move ended without deciding whether we move on Dec 12 or Jan 9. We agreed it depends on whether the new lease can start Dec 1, which Greta in facilities will confirm with the landlord by Monday Oct 5, and that we'll decide at Tuesday's meeting on Oct 6. I said I'd send the updated seating plan by Friday Oct 2.",
+   "reply": "Hi all, thanks for today. Quick recap so this doesn't drift:\n- Still open: whether we move on Dec 12 or Jan 9. It depends on whether the new lease can start Dec 1.\n- Greta: confirm the lease start date with the landlord by Monday Oct 5.\n- Me: updated seating plan by Friday Oct 2.\n- We decide the move date at Tuesday's meeting, Oct 6.\nShout if I've got anything wrong.",
+   "lang": "en",
+   "note": "When a meeting ends undecided, the recap names the open question, who unblocks it, and when it gets decided."
   }
  ]
 }

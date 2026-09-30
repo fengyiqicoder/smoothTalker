@@ -5,14 +5,14 @@
   {
    "id": "respond-to-negative-review-001",
    "situation": "I own a dog grooming salon. 2-star Google review from 'Kelly M.' saying her poodle waited 3 hours past pickup time and nobody called her. That's true, our groomer was out sick and we were behind.",
-   "reply": "Thank you for this, Kelly, and I'm sorry: a three-hour delay with no call isn't how we want anyone's day to go, and Coco deserved better too. We were a groomer down that day and didn't tell customers, which is on us. We now call everyone the moment we're running more than 30 minutes behind. I'd like to make it right; please email me at hello@pawsandsuds.com. Dana, owner",
+   "reply": "Thank you for this, Kelly, and I'm sorry: a three-hour delay with no call isn't how we want anyone's day to go, and Coco deserved better too. We were a groomer down that day and didn't tell customers, which is on us. We now call everyone the moment we're running more than 30 minutes behind. I'd like to make it right; please email me at hello@example.com. Dana, owner",
    "lang": "en",
    "note": "Own it in one line, say what changed, move the fix offline. No compensation in public."
   },
   {
    "id": "respond-to-negative-review-002",
    "situation": "小さなカフェを経営しています。食べログに「店員が無愛想で水も出てこなかった」と星1のレビュー。その日は確かに混んでいてお冷を出すのが遅れました。",
-   "reply": "ご来店いただき、率直なご感想をありがとうございます。混雑していた日とはいえ、お冷をお出しするのが遅れ、ご不快な思いをさせてしまい申し訳ありませんでした。混雑時は席にご案内した時点でお冷をお出しするよう、スタッフ全員で徹底しました。よろしければ info@komorebi-cafe.jp までご連絡ください。店主 佐藤",
+   "reply": "ご来店いただき、率直なご感想をありがとうございます。混雑していた日とはいえ、お冷をお出しするのが遅れ、ご不快な思いをさせてしまい申し訳ありませんでした。混雑時は席にご案内した時点でお冷をお出しするよう、スタッフ全員で徹底しました。よろしければ info@example.com までご連絡ください。店主 佐藤",
    "lang": "ja",
    "note": "謝罪は一度だけ、変えたことを具体的に書き、続きは個別に。反論はしない。"
   },
@@ -40,7 +40,7 @@
   {
    "id": "respond-to-negative-review-006",
    "situation": "Tengo un restaurante de arroces en Valencia. Un tal Marcos nos ha puesto una estrella en Google diciendo que la paella del domingo 20 estaba cruda y que el camarero se rió de ellos. Ese domingo estuvimos cerrados por vacaciones y no hay ninguna reserva a su nombre.",
-   "reply": "Hola, Marcos. Gracias por contarlo: una paella cruda y un trato así serían inaceptables en nuestra casa. Una aclaración para quien lea esto: el domingo 20 de septiembre estuvimos cerrados por vacaciones, así que creo que esta reseña puede ser de otro restaurante. Si me equivoco, escríbeme a reservas@labarracadepepa.es y lo hablamos en persona. Pepa, propietaria.",
+   "reply": "Hola, Marcos. Gracias por contarlo: una paella cruda y un trato así serían inaceptables en nuestra casa. Una aclaración para quien lea esto: el domingo 20 de septiembre estuvimos cerrados por vacaciones, así que creo que esta reseña puede ser de otro restaurante. Si me equivoco, escríbeme a reservas@example.com y lo hablamos en persona. Pepa, propietaria.",
    "lang": "es",
    "note": "Se corrige el dato una sola vez, con calma y sin llamarle mentiroso; si parece falsa, se denuncia a Google aparte y se deja esta respuesta."
   },
@@ -54,14 +54,14 @@
   {
    "id": "respond-to-negative-review-008",
    "situation": "I own a café, Juniper & Rye. A 1-star Google review says our barista was 'rude and refused to serve me'. What happened: he shouted at her for ten minutes because we'd run out of oat milk, and my shift manager asked him to leave. My staff handled it well.",
-   "reply": "Thank you for the feedback. I'm sorry you left unhappy, and that we'd run out of oat milk that morning; we've since doubled our standing order. I've spoken with the team about the visit and I'm satisfied they handled a difficult situation professionally. If you'd like to talk it through, I'm at hello@juniperandrye.com. Leah, owner.",
+   "reply": "Thank you for the feedback. I'm sorry you left unhappy, and that we'd run out of oat milk that morning; we've since doubled our standing order. I've spoken with the team about the visit and I'm satisfied they handled a difficult situation professionally. If you'd like to talk it through, I'm at hello@example.com. Leah, owner.",
    "lang": "en",
    "note": "Back your staff without describing the customer's behaviour in public, own the part that was yours, and stop there."
   },
   {
    "id": "respond-to-negative-review-009",
    "situation": "I run a small yoga studio. A 2-star Google review from 'Priya S.' says our $28 drop-in is 'a rip-off for a 60-minute class'. Our classes are 75 minutes, and we're not changing prices, but I don't want to sound defensive.",
-   "reply": "Thank you for the honest feedback on price, Priya. $28 is a real amount for one class, and I understand it can feel steep for a single visit. One small correction for anyone reading: our classes run 75 minutes, not 60. If you come regularly, the 10-class pass brings it to $21 a class. If anything else didn't work for you, I'd like to hear it at hello@stillpointyoga.com. Meg, owner",
+   "reply": "Thank you for the honest feedback on price, Priya. $28 is a real amount for one class, and I understand it can feel steep for a single visit. One small correction for anyone reading: our classes run 75 minutes, not 60. If you come regularly, the 10-class pass brings it to $21 a class. If anything else didn't work for you, I'd like to hear it at hello@example.com. Meg, owner",
    "lang": "en",
    "note": "A price complaint isn't a fault to own: acknowledge the cost, correct the fact once, point to the cheaper route, and never discount in public."
   },
@@ -75,7 +75,7 @@
   {
    "id": "respond-to-negative-review-011",
    "situation": "I own a bookshop, Lark Books. 2-star Google review from 'Tom R.': he uses a wheelchair, couldn't get over our front step, and the staff member at the till didn't know we had a portable ramp. We do have one, it was in the back room.",
-   "reply": "Thank you for telling us, Tom, and I'm sorry. You should have been able to come straight in, and our team not knowing about the ramp was our failure, not yours. The ramp now lives by the front door, there's a bell and a sign outside, and every member of staff has practised setting it up. I'd like to make it right; please email me at sophie@larkbooks.co.uk. Sophie, owner.",
+   "reply": "Thank you for telling us, Tom, and I'm sorry. You should have been able to come straight in, and our team not knowing about the ramp was our failure, not yours. The ramp now lives by the front door, there's a bell and a sign outside, and every member of staff has practised setting it up. I'd like to make it right; please email me at sophie@example.com. Sophie, owner.",
    "lang": "en",
    "note": "Own an accessibility failure fully in public and say what physically changed, so the next wheelchair user reading knows they can get in."
   },

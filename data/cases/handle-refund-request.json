@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Owen, thanks for sending the sneakers back, they arrived today. They've been worn outside, with scuffed soles and creased toes, so I can't resell them and can't refund the full $120. What I can do is refund $60 today, or post them back to you at my cost so you keep them. Which would you prefer? Either way, sorry they weren't the right pair for you.",
    "lang": "en",
    "note": "When a return breaks the condition, describe what arrived as a fact, not an accusation, and offer two real options."
+  },
+  {
+   "id": "handle-refund-request-017",
+   "situation": "我开网店卖羊绒大衣。老顾客孙小姐9月20日买了一件，899元，昨天店庆降到759元，她来问能不能退140元差价。店里没有保价的规定，衣服她已经穿过了。",
+   "reply": "孙小姐您好，刚买完就碰上降价，换我也会觉得有点亏。这140元差价我给您退，今天就原路退回。店里平时没有保价，这次是谢谢您一直支持我们，以后还是按下单时的价格为准，先跟您说清楚，免得以后有误会。谢谢您一直喜欢我们家的衣服！",
+   "lang": "zh",
+   "note": "先共情，第二句就给答案；破例说明只是这一次，不变成新规矩。"
   }
  ]
 }

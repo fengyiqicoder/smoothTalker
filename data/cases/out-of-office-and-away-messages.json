@@ -5,7 +5,7 @@
   {
    "id": "out-of-office-and-away-messages-001",
    "situation": "Going on my honeymoon Oct 10 to Oct 26. I'm a project manager at an architecture firm. My colleague Ruth Alvarez agreed to cover my two active projects. Need an auto-reply.",
-   "reply": "I'm away until Monday 27 October and not reading email. For the Harbor Street and Linden School projects, Ruth Alvarez (ruth.alvarez@okadaarchitects.com) is covering. Everything else, I'll reply in the week I'm back.",
+   "reply": "I'm away until Monday 27 October and not reading email. For the Harbor Street and Linden School projects, Ruth Alvarez (ruth.alvarez@example.com) is covering. Everything else, I'll reply in the week I'm back.",
    "lang": "en",
    "note": "Dates in the sender's terms, one named person for the urgent route, under 60 words. The honeymoon doesn't need a mention."
   },
@@ -26,7 +26,7 @@
   {
    "id": "out-of-office-and-away-messages-004",
    "situation": "My dad passed away and I'm taking bereavement leave from Oct 1, back two weeks later. I'm an HR business partner and my colleague Tanya Brooks agreed to cover. I don't want any details in the auto-reply.",
-   "reply": "I'm on leave until Thursday 15 October and not reading email. For anything active, please contact Tanya Brooks (tanya.brooks@kestrelgroup.com). Messages here won't be forwarded, so do resend anything important.",
+   "reply": "I'm on leave until Thursday 15 October and not reading email. For anything active, please contact Tanya Brooks (tanya.brooks@example.com). Messages here won't be forwarded, so do resend anything important.",
    "lang": "en",
    "note": "For bereavement, less detail, not more. Colleagues who need to know will hear it from your team."
   },
@@ -54,7 +54,7 @@
   {
    "id": "out-of-office-and-away-messages-008",
    "situation": "Friday Oct 2 is my last day as an account manager at Brightline Media. My work email stays live for 30 days after I leave. Clients should go to Keisha Moore; everything else to the general inbox. Need an auto-reply.",
-   "reply": "Thanks for your email. As of Friday 2 October I've left Brightline Media, and this inbox is no longer read. For client accounts, please contact Keisha Moore (keisha.moore@brightlinemedia.com). For anything else, hello@brightlinemedia.com will route you. It's been a pleasure working with you.",
+   "reply": "Thanks for your email. As of Friday 2 October I've left Brightline Media, and this inbox is no longer read. For client accounts, please contact Keisha Moore (keisha.moore@example.com). For anything else, hello@example.com will route you. It's been a pleasure working with you.",
    "lang": "en",
    "note": "Leaving for good: the date, a plain 'no longer read', and two named routes. No new contact details unless your employer is happy with that."
   },
@@ -68,7 +68,7 @@
   {
    "id": "out-of-office-and-away-messages-010",
    "situation": "I've been called for jury duty from Monday Oct 5 to Friday Oct 16. I'm a paralegal at a small firm, Hall & Moore, and I'll be away from my desk during court hours but can check email in the evenings. Kevin Tran is covering deadlines.",
-   "reply": "I'm on jury duty from Monday 5 October to Friday 16 October and away from my desk during the day. I check email once each evening and will reply to anything that can't wait. For filings or court deadlines, please contact Kevin Tran at kevin.tran@hallmoore.com. Back at my desk Monday 19 October.",
+   "reply": "I'm on jury duty from Monday 5 October to Friday 16 October and away from my desk during the day. I check email once each evening and will reply to anything that can't wait. For filings or court deadlines, please contact Kevin Tran at kevin.tran@example.com. Back at my desk Monday 19 October.",
    "lang": "en",
    "note": "Partial availability stated concretely, once each evening, instead of 'limited access', with deadlines routed to one named person."
   },
@@ -82,7 +82,7 @@
   {
    "id": "out-of-office-and-away-messages-012",
    "situation": "I run export sales at a furniture factory in Foshan. We close for National Day from Oct 1 to 8 and I'm back Friday Oct 9. Confirmed orders already have the holiday built into their ship dates, but overseas buyers worry every year. Our freight forwarder, Leo Zhang, stays open for anything already at the port.",
-   "reply": "Our factory is closed for China's National Day holiday from 1 to 8 October, and I'm back on Friday 9 October. Confirmed orders ship on the dates in your contract; the holiday is already built in. New quotes will be answered by Tuesday 13 October. For a shipment already at the port, please contact Leo Zhang at Pearl Freight, leo.zhang@pearlfreight.com. Lily Chen, Export Sales",
+   "reply": "Our factory is closed for China's National Day holiday from 1 to 8 October, and I'm back on Friday 9 October. Confirmed orders ship on the dates in your contract; the holiday is already built in. New quotes will be answered by Tuesday 13 October. For a shipment already at the port, please contact Leo Zhang at Pearl Freight, leo.zhang@example.com. Lily Chen, Export Sales",
    "lang": "en",
    "note": "For a public holiday abroad, answer the buyer's real worry (does my shipment move?) before anything else."
   },

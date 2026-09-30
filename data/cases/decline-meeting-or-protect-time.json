@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -113,6 +113,13 @@
    "reply": "Dear Mr. Doyle, thank you for getting in touch. I think what you'd like is to understand what separated Freya's essay from an A. I'll email you a short note by Friday 2 October with the two things that made the difference and what she can focus on in her next essay. If you'd still like to talk it through after that, I'd be glad to at parents' evening on Thursday 15 October. Does that work for you?",
    "lang": "en",
    "note": "With parents, answer the real question in writing first, so the scheduled evening is a genuine yes rather than a brush-off."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-017",
+   "situation": "Trabajo en una consultora en Valencia. Mi jefa de proyecto, Marta, me ha puesto en la reunión de seguimiento con el cliente del jueves 8 de octubre, de 10:00 a 11:30, pero a mí solo me toca contar el estado de las pruebas, unos diez minutos. El viernes tengo una entrega y necesito esa mañana para terminarla.",
+   "reply": "Hola Marta, para la reunión del jueves lo que necesitas de mí es el estado de las pruebas. ¿Te parece si lo pongo como primer punto, lo cuento en diez minutos y me salgo a las 10:15? Así llego bien a la entrega del viernes. Te mando hoy un resumen de una página por si sale alguna pregunta cuando ya no esté. ¿Te encaja?",
+   "lang": "es",
+   "note": "No rechaza la reunión, la acorta para sí: pide ir primero y deja por escrito lo que pueda surgir después."
   }
  ]
 }

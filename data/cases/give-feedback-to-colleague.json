@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -113,6 +113,13 @@
    "reply": "小张，有个小事想跟你说一下，方便吗？这两周你在工位上外放短视频，声音能传到我这边，上周二下午我跟客户开电话会，客户还专门问了一句“你那边在放什么”。我猜你可能没意识到声音传得这么远。你看以后在工位看视频能不能戴上耳机？我下午有会的时候也会提前跟你说一声。",
    "lang": "zh",
    "note": "Low-stakes peer habit: one concrete moment, one small ask, no need for a formal meeting."
+  },
+  {
+   "id": "give-feedback-to-colleague-017",
+   "situation": "I manage Luis, an analyst whose dad died in July; he came back to work in August. Since then two reports for our client Halvorsen have come in late, due Sept 10 and Sept 24, and Halvorsen flagged the second one. I want to raise it kindly in our 1:1 on Thursday.",
+   "reply": "Luis, can I raise something about work? The last two Halvorsen reports, due Sept 10 and Sept 24, both came in late, and they flagged the second one. I know these months since your dad died have been really hard, and I'm not expecting you to act as if they haven't been. What's your read on it, and what would help? Going forward I need the dates to hold, or to hear from you the day before if one's at risk, so I can move work around rather than find out from the client.",
+   "lang": "en",
+   "note": "Name the loss once and plainly, then still make the ask; vague kindness leaves him guessing where he stands."
   }
  ]
 }

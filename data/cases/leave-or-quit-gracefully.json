@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -113,6 +113,13 @@
    "reply": "Chicas, os quería contar algo antes de que os llegue por otro lado: me voy a vivir con Dani, así que el 31 de octubre será mi último día en el piso. Os lo digo hoy para cumplir el mes de preaviso del contrato. Mi prima Lucía busca habitación y le encantaría quedarse con la mía; si os parece, la traigo a cenar esta semana para que la conozcáis, y si preferís a otra persona, os ayudo a buscarla. Han sido dos años geniales con vosotras.",
    "lang": "es",
    "note": "Dejar un piso compartido: fecha clara, el preaviso que marca el contrato y ayuda real para cubrir la habitación, sin decidir por ellas."
+  },
+  {
+   "id": "leave-or-quit-gracefully-017",
+   "situation": "Two friends, Ana and Priya, and I have run a weekend market stall selling our screen-printed tees for two years, and I do all the printing. I want to stop after the Christmas market on Dec 19 and I'm telling them in our group chat tonight. There's about £1,800 in the shared account, plus stock and the screens we paid for together.",
+   "reply": "I need to be honest with you both: I want to step back from the stall after the Christmas market on Dec 19, and I'd rather say it now than let it drift. I'll do all the printing for the Christmas market, and before I stop I'd like to show you both the printing setup properly so you can carry on if you want to. On the £1,800, the stock and the screens, let's sit down after the market and split it in a way that feels fair to all three of us. These two years with you have been so much fun, and I'm sorry to be the one stepping away.",
+   "lang": "en",
+   "note": "Early notice, a full handover of the one job only you do, and the shared money settled face to face rather than in the chat."
   }
  ]
 }

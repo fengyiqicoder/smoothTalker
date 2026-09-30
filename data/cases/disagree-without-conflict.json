@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -113,6 +113,13 @@
    "reply": "課長、朝会でお話のあった日報の件で、少しご相談させてください。チームの進捗を毎日見えるようにしたいという狙いは、私も賛成です。ただ、Excelの日報を別に作ると、今チャットで毎日共有している内容と二重になり、書く手間の割に新しい情報が増えないのではと気になっています。Excelでまとめる必要がある理由があれば、教えていただけますか。",
    "lang": "ja",
    "note": "Raising it one to one after the meeting lets the manager adjust without losing face in front of the team."
+  },
+  {
+   "id": "disagree-without-conflict-017",
+   "situation": "好朋友阿琳想辞职开奶茶店，打算把攒了五年的20万全投进去，店面选在她家小区门口那条街。那条街上已经有4家奶茶店了。她问我怎么看，我觉得风险太大，但不想泼冷水。",
+   "reply": "你想自己干点事，这个我真心支持，也知道这20万是你攒了五年的。我这边的看法有点不一样：那条街上已经有4家奶茶店了，我担心新店很难抢到客人。我不懂这行，也可能想少了。这一点你之前琢磨过吗？要不要先去那几家门口数一个周末的客流再定？",
+   "lang": "zh",
+   "note": "朋友问意见时，一个最强的理由加一个她能自己去验证的问题，比一串风险清单更容易被听进去。"
   }
  ]
 }

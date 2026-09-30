@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Aisha and Tom,\nThank you for taking my call this morning. To put it in writing: one of my memory cards failed, and about 60 photos from the ceremony, including my front-on shots of the ring exchange, can't be recovered. I know those were some of the moments that mattered most to you, and I'm truly sorry. Jen, my second shooter, caught the ring exchange from the side, and those will be in your gallery. I'm refunding £400 of your fee, and I'd love to give you a free portrait session whenever suits you. I'm here any time you want to talk.",
    "lang": "en",
    "note": "Your mistake, their loss: call first, then put the facts, the refund and the offer in writing without a paragraph of excuses."
+  },
+  {
+   "id": "deliver-bad-news-017",
+   "situation": "我11月要搬去杭州，答应把现在租的房子从11月1日起转租给好朋友小林，她已经跟她的房东说了10月底退租。今天我去问房东，房东说合同不允许转租，不同意。不过房东说如果小林愿意直接跟他签新合同，月租5200可以谈。",
+   "reply": "小林，有个不好的消息得马上跟你说。我今天问了房东，他不同意转租，说合同不允许，所以11月1日转给你这件事办不成了。这怪我，应该先问清楚再答应你，害你已经跟房东说了退租，真的对不起。房东说如果你愿意直接跟他签新合同，月租5200可以谈；你有兴趣的话我今晚就把他的联系方式发你，不合适的话我陪你一起找房。你晚上方便的话，我给你打个电话？",
+   "lang": "zh",
+   "note": "先说结论，再认自己的责任；把房东给的另一条路和自己能出的力一起摆出来，最后约电话。"
   }
  ]
 }

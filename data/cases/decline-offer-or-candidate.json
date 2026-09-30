@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Priya, thank you for the counteroffer, and for putting it together so quickly; the team lead title means a lot coming from you. My decision isn't about pay or title, it's about wanting to work on climate full time, so I'm going to hold to it. I'll make the next four weeks a proper handover, and I'd really like to stay in touch.",
    "lang": "en",
    "note": "Answer the counter once and close it; the handover line keeps the last month good."
+  },
+  {
+   "id": "decline-offer-or-candidate-017",
+   "situation": "青葉大学経済学部4年の佐藤美咲です。第一志望の会社から内定が出たので、先に内定をもらっていた食品メーカーを辞退します。人事の山本さんは面接のたびに声をかけて緊張をほぐしてくれて、社員の方との座談会も組んでくれました。明日10月1日の内定式の前にメールで伝えたいです。",
+   "reply": "山本様\nいつも大変お世話になっております。青葉大学経済学部の佐藤美咲です。\nこのたびは内定のご連絡をいただき、誠にありがとうございました。熟慮の末、誠に勝手ながら内定を辞退させていただきたく、ご連絡いたしました。別の会社からも内定をいただき、そちらに入社することを決めました。\n面接のたびに山本様がお声がけくださり、社員の方との座談会まで設けていただいたこと、心から感謝しております。内定式を明日に控えた時期のご連絡となり、大変申し訳ございません。\n貴社の今後ますますのご発展をお祈り申し上げます。\n佐藤美咲",
+   "lang": "ja",
+   "note": "内定式が明日なので、メールを送ったら山本さんに電話でも一言伝えると確実で丁寧です。"
   }
  ]
 }

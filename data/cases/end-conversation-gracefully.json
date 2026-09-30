@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -113,6 +113,13 @@
    "reply": "小陈，排期的大思路我清楚了，谢谢你先捋了一遍。我这会儿在公园带孩子，先聊到这儿，剩下的节后上班第一天我们再对一下。假期愉快！",
    "lang": "zh",
    "note": "假期里的工作聊天：先用一句总结收尾，说真实原因，给一个节后的具体时间，最后不留问句。"
+  },
+  {
+   "id": "end-conversation-gracefully-017",
+   "situation": "A guy I don't know, Mark, has been arguing with me in the comments of my LinkedIn post about remote work, twelve replies back and forth now. I've made my point and I want to stop, without the last word looking like a jab or just disappearing.",
+   "reply": "Thanks for the back and forth, Mark. I think we've both made our case and we'll land in different places on this one, so I'm going to leave it here. All the best.",
+   "lang": "en",
+   "note": "In public, other people read the close: no last point, no question, and no reply if he keeps going."
   }
  ]
 }

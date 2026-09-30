@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -113,6 +113,13 @@
    "reply": "When there's news, you'll hear it first, Uncle Ray. Now, you never told me what you actually caught on that fishing trip.",
    "lang": "en",
    "note": "The second time, repeat the same line almost word for word; a new answer gives him a new angle."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-017",
+   "situation": "Estamos en la comida del domingo en casa de mi tía Maribel. Ya me ha preguntado dos veces cuándo vamos a dejar de 'tirar el dinero en alquiler', y ahora lo ha soltado delante de todos: 'a vuestra edad ya deberíais tener algo propio'. Su hija Lucía acaba de volver de hacer el Camino de Santiago.",
+   "reply": "Tía, el tema del piso lo dejo aparcado, hoy no voy a hablar de eso. Si vuelve a salir, me voy a la cocina a echar una mano. Oye, Lucía, ¿qué tal el Camino? Cuéntanos cuál fue la etapa más dura.",
+   "lang": "es",
+   "note": "Tercera vez y con pulla: versión firme, sin explicar vuestras finanzas, y el giro hacia Lucía cambia el foco sin dejar mal a la tía."
   }
  ]
 }

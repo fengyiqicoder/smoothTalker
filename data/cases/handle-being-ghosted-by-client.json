@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Mr. Hollis, following up on the $6,800 version of the garden redesign I sent on September 10, the one without the pergola. Is the redesign still something you'd like to do this year? A quick yes, no or not yet is all I need. If the budget is the sticking point, tell me which part of the plan matters most to you and I'll price that part on its own.",
    "lang": "en",
    "note": "Don't cut the price to break the silence, it teaches clients that going quiet gets a discount; shrink the scope, not the rate."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-017",
+   "situation": "我做企业培训，9月初给一家物流公司的HR王经理发了新员工培训方案，跟进了两次都没回，上周发了收尾的消息说先不打扰了。今天她回我：“我们这边还在内部讨论，你不用一直催。”",
+   "reply": "明白，王经理，打扰了。您那边定下来之前我就不再跟进了。等有结果，不管做不做，直接回这条消息就好，我这边随时可以配合。",
+   "lang": "zh",
+   "note": "对方带点情绪时不解释、不辩护，把节奏交还给她；这时候再追才真的伤关系。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -113,6 +113,13 @@
    "reply": "Hi all, I'm Inês, a backend developer in Lisbon. I've used the library at work for two years to draw delivery zones, so I've read more of the geometry code than I'd like to admit. I've never contributed to open source and I'd love to start small. Outside work I surf badly every weekend, so I'm used to falling off things. If anyone has a favourite good first issue or a doc page that needs fixing, point me at it.",
    "lang": "en",
    "note": "In a contributor community, the invitation is a concrete way in: ask for a first issue, not for attention."
+  },
+  {
+   "id": "introduce-yourself-017",
+   "situation": "I'm Priya, rejoining my old company on Monday after three years away. I used to be on the analytics team; now I'm a data engineer on the platform team. In between I built data pipelines at a logistics company, and I picked up sourdough baking. About half the Slack channel knows me, half joined after I left.",
+   "reply": "Hi all, I'm Priya, and some of you will remember me from the analytics team: I'm back after three years away, this time as a data engineer on platform. While I was gone I built data pipelines at a logistics company, so messy shipment data is my happy place. I also picked up sourdough baking, so starter questions welcome. If we haven't met, I'd love 15 minutes to hear what you're working on, and if we have, come tell me what I've missed.",
+   "lang": "en",
+   "note": "A returning hire speaks to both halves of the room: a nod to old colleagues, a proper intro for new ones."
   }
  ]
 }

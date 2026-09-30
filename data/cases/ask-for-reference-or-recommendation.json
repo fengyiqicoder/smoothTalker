@@ -25,7 +25,7 @@
   {
    "id": "ask-for-reference-or-recommendation-004",
    "situation": "My old manager at Brightline, Omar, just said yes to being a reference for a Senior UX Researcher role at Kestrel Health. The recruiter, Hannah Cho, will call references next week. I want to send him everything in one message.",
-   "reply": "Thank you, Omar, that means a lot. Here's everything in one place: the role is Senior UX Researcher at Kestrel Health, and Hannah Cho, hannah.cho@kestrelhealth.com, will email you to set up a 15-minute call sometime between Monday 5 and Friday 9 October. If it helps, the three things they care most about are the patient portal study we ran in 2024, the research repository I set up that the team still uses, and how I worked with engineering on the checkout redesign. I'll let you know how it goes.",
+   "reply": "Thank you, Omar, that means a lot. Here's everything in one place: the role is Senior UX Researcher at Kestrel Health, and Hannah Cho, hannah.cho@example.com, will email you to set up a 15-minute call sometime between Monday 5 and Friday 9 October. If it helps, the three things they care most about are the patient portal study we ran in 2024, the research repository I set up that the team still uses, and how I worked with engineering on the checkout redesign. I'll let you know how it goes.",
    "lang": "en",
    "note": "After a yes, one message with who, when, the role and the points to mention, so he never has to dig back through the thread."
   },

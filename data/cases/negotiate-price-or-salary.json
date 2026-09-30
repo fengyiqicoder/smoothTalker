@@ -4,29 +4,29 @@
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
-   "situation": "Freelance copywriter. A startup offered $3,000 for a 12-page website. My rate would put it at $4,500. They say the budget is fixed.",
+   "situation": "Freelance copywriter. A startup founder, Priya, offered $3,000 for a 12-page website, including the customer interviews we discussed. My rate would put it at $4,500. She says the budget is fixed.",
    "reply": "Thanks, Priya, I'd really like to write this one. For 12 pages with the customer interviews we discussed, my price is $4,500, and that's where I need to be to do it well. If $3,000 is fixed, I can scope to fit: the six core pages for $3,000 now, and the rest as a second phase when you're ready. Would that work?",
    "lang": "en",
    "note": "Hold the rate, move the scope. Lowering the price for the same work resets every future quote."
   },
   {
    "id": "negotiate-price-or-salary-002",
-   "situation": "在公司两年了，今年负责的项目帮公司省了120万成本。现在月薪18k，市场上同岗位大概22k到25k，想跟刘总谈加薪。",
-   "reply": "刘总，我想和您聊一下我的薪资。过去一年，我负责的供应链系统项目为公司节省了120万成本，另外带新人把交付周期缩短了两周。我了解了一下市场，同岗位大概在22k到25k，我现在是18k。我希望调整到24k。您看需要怎样才能做到？",
+   "situation": "我是自由设计师，给一家公司做品牌画册，合同是20页、1.5万元。市场部赵经理现在要加8页，截止日期不变。我想按原来的单价加钱，不想白做。",
+   "reply": "赵经理，新加的8页内容我看了，放进画册会更完整，我很乐意一起做。原合同是20页1.5万元，折合每页750元；新增的8页我按同样的单价，一共加6000元，截止日期不变。您看这部分能不能补一份确认，我今天就开始排版？如果这次预算只能加一部分，也可以先做最重要的4页，3000元，其余的放到下一期。",
    "lang": "zh",
-   "note": "给一个具体数字而不是范围，理由讲贡献和市场，不讲房贷。说完数字后可以沉默，等对方先开口。"
+   "note": "范围变了价格就要跟着变：按原单价报一个具体数字，并提前给出缩小范围的选项，别默默多做。"
   },
   {
    "id": "negotiate-price-or-salary-003",
-   "situation": "Ich will ein gebrauchtes Rennrad kaufen, angeboten für 850 Euro auf Kleinanzeigen. Ich kann morgen bar zahlen und würde gern um die 700 bieten.",
+   "situation": "Ich will ein gebrauchtes Rennrad von Herrn Wagner kaufen, online für 850 Euro angeboten. Ich kann morgen bar zahlen und würde gern um die 700 bieten.",
    "reply": "Hallo Herr Wagner, das Rennrad interessiert mich sehr, und ich könnte es morgen Abend abholen. Würden Sie es für 720 Euro abgeben? Das liegt unter Ihrem Preis, dafür zahle ich bar und sofort.",
    "lang": "de",
-   "note": "A specific number plus the real lever (cash, tomorrow) beats asking whether the price is negotiable."
+   "note": "Eine konkrete Zahl plus der echte Hebel (bar, morgen) wirkt besser als die Frage, ob am Preis noch etwas geht."
   },
   {
    "id": "negotiate-price-or-salary-004",
    "situation": "My landlord, Mr. Okafor, wants to raise my rent from $2,100 to $2,350 when my lease renews Dec 1. I've been there three years and always paid on time. Similar 1-bedrooms nearby list around $2,250. I'd be happy landing at $2,200.",
-   "reply": "Hi Mr. Okafor, thanks for the heads-up about the renewal. I'd really like to stay; this has been a great home for three years. The new rent is a jump of about 12%, and comparable one-bedrooms on our street are listing around $2,250. Would you take $2,175 on an 18-month lease? You'd keep a tenant who has paid on time every month, with no vacancy or turnover costs. If 18 months doesn't suit you, I'm open to a different lease length.",
+   "reply": "Hi Mr. Okafor, thanks for the heads-up about the renewal. I'd really like to stay; this has been a great home for three years. The new rent is a jump of about 12%, and comparable one-bedrooms nearby are listing around $2,250. Would you take $2,175 on an 18-month lease? You'd keep a tenant who has paid on time every month, with no vacancy or turnover costs. If 18 months doesn't suit you, I'm open to a different lease length.",
    "lang": "en",
    "note": "Anchor a little under your real target, tie it to their value (reliability, no vacancy), and keep lease length as the second lever if money doesn't move."
   },
@@ -39,77 +39,77 @@
   },
   {
    "id": "negotiate-price-or-salary-006",
-   "situation": "我开咖啡店，现在的烘豆商报价每公斤128元，我每月大概用40公斤。另一家报115，但我更喜欢现在这家的豆子。想谈到118左右。",
+   "situation": "我开咖啡店，现在的烘豆商刘经理报价每公斤128元，我每月大概用40公斤，客人很喜欢他家的埃塞豆子。另一家报115，但我更喜欢现在这家。想谈到118左右。",
    "reply": "刘经理，您家的埃塞豆子客人一直很喜欢，我很想继续长期合作。现在每月大概40公斤，报价是每公斤128元；我这边看到的同类报价在115左右，所以想跟您商量能不能做到116。如果我签六个月的固定订单、每月1号提前付款，价格这边有没有空间？",
    "lang": "zh",
    "note": "买方开价略低于自己能接受的数，同时拿出对方在意的东西（固定量、提前付款）来换。"
   },
   {
    "id": "negotiate-price-or-salary-007",
-   "situation": "I'm selling my 2019 Honda Civic, 48,000 miles, listed at $17,500 on Facebook Marketplace. Private-party value is around $17,000. A buyer, Luis, offered $14,000 cash. I'd take $16,500.",
+   "situation": "I'm selling my 2019 hatchback, 48,000 miles, full service history, listed at $17,500 online. Private-party value is around $17,000. A buyer, Luis, offered $14,000 cash. I'd take $16,500.",
    "reply": "Thanks for the offer, Luis, and cash works well for me. $14,000 is too far under for this car: it has 48,000 miles, a full service history, and private-party value is around $17,000. I can do $16,900 if you can pick it up this week. Want to come and see it Thursday after 5?",
    "lang": "en",
    "note": "Seller side: don't split the difference with a lowball. Counter once with a specific number just above your floor and one fact about value, then hold."
   },
   {
    "id": "negotiate-price-or-salary-008",
-   "situation": "Got a written offer for Product Marketing Manager at Tandem Health in Denver: $112k base, start Oct 19. Market data for the role is about $120k to $130k, and I led a launch at my current job that doubled trial sign-ups. I'd accept $122k.",
-   "reply": "Hi Jordan,\nThank you for the offer, I'm genuinely excited about the role and about joining Maya's team. I want to be straightforward about one thing: the base is at $112k, and for this scope in Denver I was expecting closer to $126k. The launch I led this year doubled trial sign-ups, and that's the work I'd be doing for Tandem from the first week. Is there flexibility to get there? If base is fixed, I'd be open to talking about a signing bonus. Either way, I'm keen to make this work.\nBest,\nAlex",
+   "situation": "I'm Alex. Got a written offer for Product Marketing Manager at Larkfield Health in Denver from the recruiter, Jordan: $112k base, on Maya's team, start Oct 19. Market data for the role is about $120k to $130k, and I led a launch at my current job that doubled trial sign-ups. I'd accept $122k.",
+   "reply": "Hi Jordan,\nThank you for the offer, I'm genuinely excited about the role and about joining Maya's team. I want to be straightforward about one thing: the base is at $112k, and for this scope in Denver I was expecting closer to $126k. The launch I led this year doubled trial sign-ups, and that's the work I'd be doing for Larkfield from the first week. Is there flexibility to get there? If base is fixed, I'd be open to talking about a signing bonus. Either way, I'm keen to make this work.\nBest,\nAlex",
    "lang": "en",
    "note": "First counter on a written offer: one number slightly above your floor, the strongest reason framed as value to them, and a second lever so a no isn't a dead end."
   },
   {
    "id": "negotiate-price-or-salary-009",
-   "situation": "我做短视频剪辑，一家健身房的王老板要做10条宣传短视频，我报价8000。他说太贵了，问能不能打个八折，6400。我不想降单价。",
+   "situation": "我做短视频剪辑，一家健身房的王老板要做10条宣传短视频，我报价8000，每条800元，包括脚本梳理、剪辑、调色和两轮修改。他说太贵了，问能不能打个八折，6400。我不想降单价。",
    "reply": "王老板，谢谢您的信任，这10条我很想给您做好。单价我这边不打折，每条800元包括脚本梳理、剪辑、调色和两轮修改。如果预算是6400，我建议先做8条，正好6400元，效果好了剩下两条下个月再做。您看这样可以吗？",
    "lang": "zh",
    "note": "守住单价，调整范围：直接打折会让之后每次报价都从折后价开始谈。"
   },
   {
    "id": "negotiate-price-or-salary-010",
-   "situation": "Recruiter at Brightline Logistics, Ana, emailed before my first interview (Thursday) asking my salary expectations for a senior data analyst role in Chicago. Market looks like $105k to $120k. I'm on $98k now and would accept $112k.",
+   "situation": "Recruiter at Harrowgate Freight, Ana, emailed before my first interview (Thursday) asking my salary expectations for a senior data analyst role in Chicago. Market looks like $105k to $120k. I'm on $98k now and would accept $112k.",
    "reply": "Hi Ana, thanks for asking, and I'm glad to be moving forward. Based on the scope in the job description and what senior analyst roles in Chicago are paying, I'm looking for a base of $118k. I'm also interested in the full package, so I'm happy to talk about bonus and benefits as we go. Looking forward to Thursday.",
    "lang": "en",
    "note": "Asked early: one number slightly above your floor, anchored in scope and market, never your current salary and never a range."
   },
   {
    "id": "negotiate-price-or-salary-011",
-   "situation": "In March my manager Tom said no to a raise but agreed to revisit in September if I hit three goals: launch the partner portal, get the ticket backlog under 200, and onboard two new hires. I've hit all three. I'm on $92k and want $102k. Our 1:1 is Thursday.",
-   "reply": "Hi Tom, ahead of Thursday: in March we agreed to revisit my compensation in September against three goals. The partner portal launched on 14 August, the ticket backlog has been under 200 since July and is at 146 today, and Priya and Jonah are both fully onboarded. Based on that and the market for this role, I'd like to move from $92k to $102k. Could we use part of Thursday's 1:1 to talk about getting there?",
+   "situation": "A regional marketing conference asked me to run a half-day workshop on 12 November for a $500 honorarium plus travel. My usual fee for a half day is $2,500, and I've run this workshop at three conferences this year, all sold out. The organiser is Leah.",
+   "reply": "Hi Leah, thank you for the invitation, I'd love to run the workshop on 12 November. My fee for a half-day workshop is $2,500. I've run this one at three conferences this year and each session sold out, so it tends to help ticket sales. Is there flexibility in the budget to get there? If the fee is fixed, I'd be open to $1,500 plus two free passes and the rights to use the session recording afterwards.",
    "lang": "en",
-   "note": "Revisiting an agreed review: the written targets and the evidence first, then one number. If budget is the blocker, ask for an effective date, not another open-ended review."
+   "note": "An honorarium is an opening offer, not a rate card: anchor on your real fee with one reason that helps them, then name the non-cash levers."
   },
   {
    "id": "negotiate-price-or-salary-012",
-   "situation": "I have a written offer from Norrland Games for senior QA lead at $98k, and it's where I want to work. I also have a written offer from Cobalt Systems at $108k. I'd happily sign with Norrland at $104k. The recruiter is Hannah.",
+   "situation": "I'm Sam. I have a written offer from Norrland Games for senior QA lead at $98k, and it's where I want to work. I also have a written offer from another studio at $108k. I'd happily sign with Norrland at $104k. The recruiter is Hannah.",
    "reply": "Hi Hannah,\nThank you for the offer. Norrland is my first choice and I'd really like to make this work. I want to be open with you: I have a written offer from another company at $108k base. If you can get to $106k, I'm ready to sign this week. Is there flexibility there? If base is fixed, I'd be glad to talk about a signing bonus to close the gap.\nBest,\nSam",
    "lang": "en",
    "note": "Only mention a competing offer if it's real and in writing, and say which one you prefer; it's context for your number, not a threat."
   },
   {
    "id": "negotiate-price-or-salary-013",
-   "situation": "拿到一家互联网公司数据分析岗的offer，月薪25k我挺满意，但要求每天到岗。我住城北，单程通勤一个半小时。想跟HR王女士争取每周两天远程，又怕因为这个把offer谈没了。",
+   "situation": "拿到一家互联网公司数据分析岗的offer，月薪25k我挺满意，但要求每天到岗。我住城北，单程通勤一个半小时，上一份工作是两年的混合办公，交付一直按时。想跟HR王女士争取每周两天远程，又怕把offer谈没了。",
    "reply": "王女士您好，谢谢您发来的offer，我很期待加入团队，薪资这部分我没有问题。想跟您商量一点：能否安排每周两天远程办公，比如周二和周四？我在上一家公司远程和到岗结合工作了两年，报表和模型都按时交付，远程的日子反而更能整块时间做分析。如果一开始不方便，也可以先全勤到岗，试用期结束后再根据表现评估一次。您看团队那边有没有这个空间？",
    "lang": "zh",
    "note": "非薪资条款也是谈判：说清要什么，理由讲工作效果而不是通勤辛苦，给一个退路，谈成后写进offer。"
   },
   {
    "id": "negotiate-price-or-salary-014",
-   "situation": "Last Thursday I countered Arden Analytics' offer ($94k, I asked for $104k). The recruiter, Dana, said she'd check with the hiring manager and I've heard nothing since. I told them I'd give an answer by this Friday.",
+   "situation": "Last Thursday I countered Arden Analytics' offer ($94k, I asked for $104k). The recruiter, Dana, said she'd check with the hiring manager and I've heard nothing since. I told them I'd give an answer by this Friday, 2 October.",
    "reply": "Hi Dana, just checking in on the compensation question from last Thursday so I can give you a firm answer by Friday 2 October. I'm still very keen on the role and the team. Happy to jump on a quick call if that's easier than email.",
    "lang": "en",
    "note": "After silence, one short nudge that keeps the offer warm; don't lower your number to fill the gap."
   },
   {
    "id": "negotiate-price-or-salary-015",
-   "situation": "Offer from Cedar Health for a senior data engineer role in Seattle: $148k base, which I'm happy with, starting Monday Nov 16. I live in Austin and they offer no relocation help; the move will cost me around $9,000. The recruiter is Priya.",
+   "situation": "I'm Marcus. Offer from Fernhill Health for a senior data engineer role on their platform team in Seattle: $148k base, which I'm happy with, starting Monday Nov 16. I live in Austin and they offer no relocation help; the move will cost me around $9,000. The recruiter is Priya.",
    "reply": "Hi Priya,\nThank you for the offer, I'm really excited about joining the platform team, and the base works for me. The one thing I'd like to raise is the move from Austin: I'd like to ask for a $10,000 relocation allowance, so I can arrive on 16 November settled and ready to contribute from the first week. Is there flexibility there? If a relocation budget isn't possible, a signing bonus of the same amount would work just as well.\nBest,\nMarcus",
    "lang": "en",
    "note": "When base is fine, anchor on the one lever that isn't: a specific number slightly above the real cost, with a signing bonus as the fallback."
   },
   {
    "id": "negotiate-price-or-salary-016",
-   "situation": "Je suis graphiste freelance. Mme Lefèvre, acheteuse pour une chaîne de magasins, me propose une mission de 12 000 € pour refaire leurs supports en magasin, à livrer en six semaines, mais payée à 90 jours fin de mois. Je voudrais 30 jours, ou au minimum un acompte de 30 % à la commande.",
+   "situation": "Je suis graphiste freelance, Camille Morel. Mme Lefèvre, acheteuse pour une chaîne de magasins, me propose une mission de 12 000 € pour refaire leurs supports en magasin, à livrer en six semaines, mais payée à 90 jours fin de mois. Je voudrais 30 jours, ou au minimum un acompte de 30 % à la commande.",
    "reply": "Bonjour Madame Lefèvre,\nMerci pour votre proposition, je suis vraiment ravie de travailler sur vos supports en magasin. Un seul point à ajuster avant de signer : le paiement à 90 jours fin de mois. Pour une mission de 12 000 € livrée en six semaines, que je mène seule, je travaille avec un règlement à 30 jours. Est-ce possible de votre côté ? Si vos délais de paiement sont fixes, je propose un acompte de 30 % à la commande, soit 3 600 €, et le solde selon vos conditions habituelles.\nBien cordialement,\nCamille Morel",
    "lang": "fr",
    "note": "Les conditions de paiement se négocient comme le prix : une demande précise, une raison, un second levier. Vérifiez ce que le contrat prévoit avant de signer."

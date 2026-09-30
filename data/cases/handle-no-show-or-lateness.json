@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -113,6 +113,13 @@
    "reply": "阿杰你好，上周六上午10点的全家福是我们记错了日子，没去也没提前说，让你在公园白等了40分钟，真的很抱歉。合同写的300元定金不退，这个我们认，不用退。想重新约一次，10月10日周六或10月11日周日上午，你看哪天方便？新的定金我今天就转给你。",
    "lang": "zh",
    "note": "自己爽约服务方：说清是哪一次、承认对方的时间成本，主动接受合同里的后果，再给具体日期。"
+  },
+  {
+   "id": "handle-no-show-or-lateness-017",
+   "situation": "I was meant to collect my daughter Isla from her friend Maya's house at 5 yesterday. My meeting ran over, I only texted Maya's mum, Priya, at 5:30 and got there at 5:50, and she had to miss her gym class.",
+   "reply": "Priya, I was 50 minutes late picking Isla up yesterday and only texted at 5:30, and I'm sorry. My meeting ran over, but that's on me. You missed your gym class because of it. Could I have Maya over this Saturday, 3 October, for the afternoon, so you get a few free hours? I'll do the pickup and drop-off.",
+   "lang": "en",
+   "note": "You were the late one: name the minutes, own it without a 'but', acknowledge her cost and offer a dated make-good she doesn't have to organise."
   }
  ]
 }

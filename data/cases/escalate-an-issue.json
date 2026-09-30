@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -113,6 +113,13 @@
    "reply": "吴经理您好，我是运营部的林晓，想请您帮忙处理一笔工资的问题。我9月共加班22小时，都已在考勤系统审批通过（截图附后），但9月工资条上的加班费是0。9月25日我向周经理反映过，他建议我找人事；9月28日我发邮件给何专员，目前还没有回复，我也已经跟她说了会联系您。麻烦您在10月12日（周一）前帮我确认这笔加班费是否漏算，以及哪天可以补发。谢谢您！",
    "lang": "zh",
    "note": "工资类升级只写小时数、审批记录和已经找过谁；加班费怎么算以劳动合同和公司制度为准，第一封里先不提仲裁。"
+  },
+  {
+   "id": "escalate-an-issue-017",
+   "situation": "I'm a customer success manager. Since Sept 21, appointment reminders for our client Brightline Dental have been failing to send, about 30 patients a day (ticket ENG-4412); the assigned engineer, Sam, has it in the backlog behind the Oct 20 release. Their ops lead, Nora, says they'll start looking at other vendors if it isn't fixed by Oct 15, and they renew on Oct 31 at $48k a year. I told Sam yesterday I'm taking it to his manager, Rita, and I need her answer by Friday Oct 2 so I can give Nora a date.",
+   "reply": "Subject: Decision needed by Fri Oct 2: priority for ENG-4412 (Brightline Dental)\n\nHi Rita, since Sept 21 Brightline Dental's appointment reminders have been failing to send, about 30 patients a day (ENG-4412). It's in Sam's backlog behind the Oct 20 release, and I've told him I'm raising the priority with you. Their ops lead, Nora, says they'll start looking at other vendors if it isn't fixed by Oct 15, and they renew on Oct 31 at $48k a year. Could you decide by Friday whether ENG-4412 moves ahead of the release work? I'd recommend yes, so I can give Nora a fix date.",
+   "lang": "en",
+   "note": "Internal escalation on a customer's behalf: the email is about a priority call Rita owns, not about Sam, and says Sam already knows."
   }
  ]
 }

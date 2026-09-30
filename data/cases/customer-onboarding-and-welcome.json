@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Chloe, thank you for booking, I'm really looking forward to this one. Your session is Saturday 24 October at 11am at the studio, and I'll send you the design by Thursday 22 October so there's time for tweaks. The one thing I need from you is a few reference photos of the flowers you'd like, by Sunday 11 October. On the day, eat a proper breakfast and wear a top with loose sleeves; it makes the few hours much comfier. Any questions, message me here and I usually reply within a day. Mae",
    "lang": "en",
    "note": "Prep advice framed as comfort, not rules, and the one input needed dated well before the design is due."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-017",
+   "situation": "I'm Jo and I run a one-person dog grooming salon. Amy just booked a full groom for her nervous rescue greyhound, Pippa, on Tuesday 13 October at 10am, and her booking note asks if she can stay and watch. I don't have owners stay because dogs settle better without them, but I take nervous first-timers slowly with plenty of breaks; pickup is 12:30, I need her vet's name and number and whether Pippa has ever worn a muzzle by Friday 9 October, and I reply to texts within a few hours.",
+   "reply": "Hi Amy, thanks for booking Pippa in, I'm looking forward to meeting her. Her full groom is Tuesday 13 October at 10am, and she'll be ready to collect at 12:30. On staying to watch: nervous dogs settle much faster once their owner has gone, so I don't have owners stay, but I'll take Pippa slowly with plenty of breaks. Could you send me two things by Friday 9 October: your vet's name and number, and whether Pippa has ever worn a muzzle? Any questions, text me here; I usually reply within a few hours. Jo",
+   "lang": "en",
+   "note": "The booking-note mismatch is answered inside the welcome, with the reason and what she gets instead, so it reads as care rather than a rule."
   }
  ]
 }

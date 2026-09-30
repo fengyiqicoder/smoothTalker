@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -113,6 +113,13 @@
    "reply": "Hola, Carmen. Siento lo del parqué: la manguera era de mi lavadora y me hago cargo de la reparación. El daño afecta a unas seis tablas junto a la cocina, y un parquetista me ha presupuestado 450 € por cambiarlas por el mismo modelo; te adjunto el presupuesto. No veo motivo para cambiar todo el suelo del salón, pero si quieres que antes lo revise un profesional de tu confianza, dime qué día te viene bien y lo organizamos. ¿Te parece bien que avancemos así?",
    "lang": "es",
    "note": "Cuando el daño es tuyo: asúmelo sin rodeos y discute solo el alcance, con un presupuesto. Revisa si tu seguro de hogar cubre daños por agua."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-017",
+   "situation": "找了个装修队翻新卫生间，总价3万，工头陈师傅要求开工前先付70%，也就是2.1万，说下周一就能开工。方案我挺满意，愿意付定金，但想按进度分三次付：开工付30%，水电验收后付40%，完工验收后付30%。",
+   "reply": "陈师傅，方案和报价我都挺满意，想尽快定下来。付款方式想跟您商量一下：开工当天付30%，9000元；水电验收后付40%，12000元；完工验收后付尾款30%，9000元。这样材料款您有着落，我这边也踏实。您看可以的话，我们把这几个节点写进合同，下周一照常开工。",
+   "lang": "zh",
+   "note": "付款节点跟验收挂钩并写进合同；先说清你想用他，分期才像商量而不是不信任。"
   }
  ]
 }
