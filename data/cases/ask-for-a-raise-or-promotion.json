@@ -1,27 +1,27 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
    "situation": "2 years at a logistics startup. When my lead left in March I took over warehouse scheduling and cut overtime by about $40k. I'm on $72k, the market for this role looks like $85k. Need to message my manager Kevin on Slack to set up the talk.",
-   "reply": "Hi Kevin, could we set aside 30 minutes next week to talk about my role and compensation? The scope has grown a lot since I took over warehouse scheduling in March, and I'd like to give it proper time rather than squeeze it into our Thursday 1:1. Tuesday or Wednesday afternoon both work for me.",
+   "reply": "Hi Kevin, could we set aside 30 minutes next week to talk about my role and compensation? The scope has grown a lot since I took over warehouse scheduling in March, and I'd like to give it proper time rather than squeeze it into our regular 1:1. Tuesday or Wednesday afternoon both work for me.",
    "lang": "en",
    "note": "Book first, ask in the room: bring the $40k overtime saving and the $85k figure to the meeting, not to Slack."
   },
   {
    "id": "ask-for-a-raise-or-promotion-002",
-   "situation": "Hatte heute mein Gespräch mit meiner Chefin Frau Albers wegen der Beförderung zur Teamleiterin. Sie will das mit dem Geschäftsführer Herrn Brandt besprechen, hat aber kein Datum genannt. Ich will eine Follow-up-Mail schreiben.",
-   "reply": "Liebe Frau Albers, vielen Dank für das offene Gespräch heute. Zur Bestätigung: Sie besprechen die Beförderung zur Teamleiterin zum 1. Januar mit Herrn Brandt und geben mir bis zum 30. Oktober Bescheid. Bis Freitag schicke ich Ihnen noch die Übersicht zur Einarbeitung der drei neuen Kolleginnen, falls sie für das Gespräch hilft. Viele Grüße, Jana Keller",
+   "situation": "Hatte heute mein Gespräch mit meiner Chefin Frau Albers wegen der Beförderung zur Teamleiterin ab 1. Januar. Sie will das mit dem Geschäftsführer Herrn Brandt besprechen, hat aber kein Datum genannt. Ich (Jana Keller) habe dieses Jahr die drei neuen Kolleginnen eingearbeitet und will eine Follow-up-Mail schreiben.",
+   "reply": "Liebe Frau Albers, vielen Dank für das offene Gespräch heute. Zur Bestätigung: Sie besprechen die Beförderung zur Teamleiterin zum 1. Januar mit Herrn Brandt. Könnten Sie mir bis zum 30. Oktober Bescheid geben? Bis Freitag schicke ich Ihnen noch die Übersicht zur Einarbeitung der drei neuen Kolleginnen, falls sie für das Gespräch hilft. Viele Grüße, Jana Keller",
    "lang": "de",
    "note": "Das Datum für die Antwort steht in der Mail, auch wenn es im Gespräch gefehlt hat."
   },
   {
    "id": "ask-for-a-raise-or-promotion-003",
-   "situation": "My manager said no raise this year because of the hiring freeze. I asked for 8% after leading the checkout redesign. I'm a UX designer and I don't want to just drop it.",
-   "reply": "Understood, and thanks for being straight with me about the freeze. While salary is fixed, could we move me to the senior designer title now, since I've been leading the checkout redesign, and put the 8% first in line for the January review? I'll add a note to both our calendars for 15 January.",
+   "situation": "I'm a UX designer and asked my manager Nadia for 8% after leading the checkout redesign. She said 'not this cycle, let's see next year' without saying what would change it. Our next review is in March and I don't want to just drop it.",
+   "reply": "Understood, Nadia, and thanks for being straight with me. So I'm clear: what would need to be true for the 8% to be a yes? Could we write down the two or three things you'd want to see from me and look at it again in the March review? I'll put a note in both our calendars.",
    "lang": "en",
-   "note": "Trade a lever that costs no budget now, and lock in a date for the money."
+   "note": "A vague 'next year' becomes written criteria and a date. If you still can't get either, that tells you the ceiling here."
   },
   {
    "id": "ask-for-a-raise-or-promotion-004",
@@ -32,8 +32,8 @@
   },
   {
    "id": "ask-for-a-raise-or-promotion-005",
-   "situation": "我在一家跨境电商公司做数据分析三年，月薪1.8万。上周拿到另一家公司2.4万的offer，要在10月12号前回复。我其实更想留下，想跟领导王姐谈加薪，怎么提这个offer才不像威胁？",
-   "reply": "王姐，我很喜欢现在的工作，也想在这个团队长期做下去。过去一年我搭了广告投放的归因看板，投放组的获客成本降了大约15%，新人的数据培训现在也是我在带。坦白说，上周我拿到了另一家公司月薪2.4万的offer，但我更想留下，所以想先跟您谈：能不能把我的月薪调到2.3万？需要什么材料去跟张总申请，我这周都可以准备。那边要我10月12日前答复，所以想请您10月9日周五前给我一个结果。",
+   "situation": "我在一家跨境电商公司做数据分析三年，月薪1.8万。去年搭了广告投放的归因看板，获客成本降了约15%，现在也在带新人。上周拿到另一家公司2.4万的offer，要在10月12号前回复。我更想留下，想跟领导王姐谈加薪，怎么提这个offer才不像威胁？",
+   "reply": "王姐，我很喜欢现在的工作，也想在这个团队长期做下去。过去一年我搭了广告投放的归因看板，投放组的获客成本降了大约15%，新人的数据培训现在也是我在带。坦白说，上周我拿到了另一家公司月薪2.4万的offer，但我更想留下，所以想先跟您谈：能不能把我的月薪调到2.3万？需要什么材料往上申请，我这周都可以准备。那边要我10月12日前答复，所以想请您10月9日周五前给我一个结果。",
    "lang": "zh",
    "note": "外部offer只提一次，语气平静，先说想留下；只有真的会去才提，否则就别拿它当筹码。"
   },
@@ -47,34 +47,34 @@
   {
    "id": "ask-for-a-raise-or-promotion-007",
    "situation": "In March my manager Rob said if I delivered the data platform migration I'd be put up for Staff Engineer in the fall cycle. It went live on August 18. Now he says I also need to 'show more cross-org influence'. It feels like the goalposts moved. We have a 1:1 on Thursday.",
-   "reply": "Thanks for being straight with me about where it stands. In March we agreed that shipping the data platform migration was the bar for Staff this fall, and it went live on 18 August. Since the criteria have shifted, could we write down exactly what's needed now, what cross-org influence looks like in practice, and the date you'll decide, so we're both working to the same list? I'd like it settled before November calibration.",
+   "reply": "Thanks for being straight with me about where it stands. In March we agreed that shipping the data platform migration was the bar for Staff this fall, and it went live on 18 August. Since the criteria have shifted, could we write down exactly what's needed now, what cross-org influence looks like in practice, and the date you'll decide, so we're both working to the same list? I'd like it settled in time for the fall cycle.",
    "lang": "en",
    "note": "Name the original agreement as a fact, not an accusation, and get the new bar in writing with a date. If it moves again, that tells you the ceiling here."
   },
   {
    "id": "ask-for-a-raise-or-promotion-008",
-   "situation": "我在一家设计公司做了四年，今年三月开始带两个新人。上周刘总说给我升'设计组长'，但工资不变，明年再看。我现在月薪1.5万，公司其他组长大概1.8万。明天约了他谈。",
+   "situation": "我在一家设计公司做了四年，今年三月开始带小吴和小赵两个新人，审他们的稿，上季度组里准时交付率从80%提到了95%。上周刘总说给我升设计组长，但工资不变，明年再看。我月薪1.5万，公司其他组长大概1.8万，明天约了他谈。",
    "reply": "刘总，谢谢您给我这个机会，组长这个角色我很想做好。从三月开始我已经在带小吴和小赵，他们的稿子都是我审，上个季度组里的准时交付率从80%提到了95%。升组长之后责任和范围都变了，我希望薪资同步调整到1.8万，和公司其他组长一致。如果现在调不了，我们能不能把条件和时间定下来，比如明年一月的调薪就按这个执行？",
    "lang": "zh",
    "note": "晋升是头衔、职责加薪资；只给头衔时不要直接接受，先谈薪资，谈不下来就把条件和日期写下来。"
   },
   {
    "id": "ask-for-a-raise-or-promotion-009",
-   "situation": "My new manager Aisha started six weeks ago and doesn't know my history. I'm a customer success lead on $64k; since January I've owned our 14 enterprise accounts (about $2.1M a year) with a 96% renewal rate, and I wrote the onboarding playbook the team uses. I want $72k before the November review cycle. We meet Thursday.",
+   "situation": "My new manager Aisha started six weeks ago and doesn't know my history. I'm a customer success lead on $64k; since January I've owned our 14 enterprise accounts (about $2.1M a year) with a 96% renewal rate, and I wrote the onboarding playbook the team uses. Similar roles pay about $70k to $78k. I want $72k before the November review cycle. We meet Thursday.",
    "reply": "Thanks for making time, Aisha. I really like this team and want to keep growing here, and since you're new I wanted to give you the full picture before the November cycle. Since January I've owned our 14 enterprise accounts, about $2.1M a year, with a 96% renewal rate, and I wrote the onboarding playbook the team uses now. Based on that scope and what CS leads are paid in the market, I'd like to move from $64,000 to $72,000. What would you need from me to make that case in November?",
    "lang": "en",
    "note": "A new manager can't vouch for your history, so give her the case in numbers she can repeat upstairs, and send it in writing the same day."
   },
   {
    "id": "ask-for-a-raise-or-promotion-010",
-   "situation": "I've been a nanny for the Carters' two kids, Leo (8) and Maya (6), for two years at $20 an hour. Since September I also do school pickup and homework help, and Maya's reading has come on a lot. I want to ask their mum, Lucy, for $23 an hour from November. We've set up a chat Thursday evening.",
-   "reply": "Lucy, I really love working with you and the kids and I'd like to keep doing it for a long time. Since September I've taken on school pickup and homework as well as childcare, and Maya has gone from struggling with reading to finishing a chapter book a week. Based on that and what nannies with this scope earn around here, I'd like to move to $23 an hour from November. What do you think, and if it's not possible now, what would it take?",
+   "situation": "I've been a nanny for the Carters' two kids, Leo (8) and Maya (6), for two years at $20 an hour. Since September I also do school pickup and homework help, and Maya's reading has come on a lot. Local rates for that scope are $22 to $25. I want to ask their mum, Lucy, for $23 an hour from November. We've set up a chat Thursday evening.",
+   "reply": "Lucy, I really love working with you and the kids and I'd like to keep doing it for a long time. Since September I've taken on school pickup and homework as well as childcare, and Maya's reading has really come on. Based on that and what nannies with this scope earn around here, I'd like to move to $23 an hour from November. What do you think, and if it's not possible now, what would it take?",
    "lang": "en",
    "note": "A household employer is still an employer: commitment first, scope and results as evidence, one number, and an invitation to the path."
   },
   {
    "id": "ask-for-a-raise-or-promotion-011",
-   "situation": "我在一家SaaS公司做测试工程师三年，月薪1.6万。上个月来了个同职级的新同事，我在带他熟悉系统，无意中知道他月薪1.9万。我查了招聘网站，同职级大概1.8万到2万。明天约了领导陈总谈，不想拿同事说事。",
+   "situation": "我在一家SaaS公司做测试工程师三年，月薪1.6万，去年搭了接口自动化测试，回归时间从两天缩到半天。最近在带一个同职级的新同事，无意中知道他月薪1.9万。招聘网站上同职级大概1.8万到2万。明天约了领导陈总谈，不想拿同事说事。",
    "reply": "陈总，谢谢您抽时间。我很喜欢这里的工作，也想在测试这块继续做深。过去一年我搭了接口自动化测试，回归时间从两天缩到了半天；这个季度的新同事也是我在带。我看了一下，同职级测试工程师的市场薪资在1.8万到2万之间，我希望把月薪调到1.9万。如果现在调不了，需要满足哪些条件、什么时候能再看？",
    "lang": "zh",
    "note": "同事的工资只是提醒你该谈了，不是论据；在谈话里只讲自己的成果、职级和市场数据，永远不点名比较。"
@@ -88,8 +88,8 @@
   },
   {
    "id": "ask-for-a-raise-or-promotion-013",
-   "situation": "I asked my manager Denise for $82k (I'm on $70k) after taking over our two biggest client accounts. She emailed back today offering $75k from January, saying it's what she could get approved. I want to take it but not drop the rest.",
-   "reply": "Thanks, Denise, I appreciate you taking it to finance and coming back so quickly. I'm glad to accept $75,000 from January. I'd still like to close the gap to $82,000, since that's where this scope sits in the market. Could we agree in writing what you'd need to see from me by the July review to get there?",
+   "situation": "I asked my manager Denise for $82k (I'm on $70k), the market rate for this scope, after taking over our two biggest client accounts. She emailed back today offering $75k from January, saying it's what she could get approved. I want to take it but not drop the rest.",
+   "reply": "Thanks, Denise, I appreciate you getting it approved and coming back so quickly. I'm glad to accept $75,000 from January. I'd still like to close the gap to $82,000, since that's where this scope sits in the market. Could we agree in writing what you'd need to see from me by the July review to get there?",
    "lang": "en",
    "note": "Accept what's on the table, keep your number, and turn the rest into written criteria with a date."
   },
@@ -120,6 +120,13 @@
    "reply": "Hi Helen, could we find 30 minutes next week to talk about my role? I love working here and want to keep growing with the charity. Since Sam left in July I've been running the volunteer programme, all 60 volunteers, alongside my coordinator work. I understand salaries are frozen until April, so I'd like to propose the title Programme and Volunteer Manager now, and a written agreement that my salary moves to £35,000 in April. If that's not possible, I'd like to understand what would be.",
    "lang": "en",
    "note": "When cash is frozen, ask for the title now and lock the number in writing for the date the freeze ends."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-018",
+   "situation": "I'm Leila, a marketing analyst at a logistics company for two years, on $72k. My manager Tom has my annual review on Thursday Oct 8. Since my last raise I took over the $400k-a-year paid ads budget after a colleague left, and similar roles are posting at $82k to $88k. I want to email him before the review asking for $85k.",
+   "reply": "Hi Tom, I'm looking forward to Thursday's review, and I've really enjoyed this year on the team. Since I took over the $400k paid ads budget, my role has grown a lot, and similar roles are currently posting at $82k to $88k. I'd like to discuss moving my salary from $72k to $85k. Could we make that part of Thursday's conversation? If the full amount is hard this cycle, I'm open to talking about timing or a title that reflects the budget too. Thanks, Leila",
+   "lang": "en",
+   "note": "Sent ahead so Tom can check budget before the meeting instead of reacting on the spot."
   }
  ]
 }

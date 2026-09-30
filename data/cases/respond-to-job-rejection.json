@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -112,6 +112,13 @@
    "reply": "陈女士您好，谢谢您今天专门打电话告诉我，也谢谢面试这段时间您的安排，和团队聊得很愉快。招聘冻结的情况我理解。等这个岗位重新开放时，希望您能想到我。祝一切顺利。",
    "lang": "zh",
    "note": "口头offer被撤回：只提一个请求，不追问原因。以后正式offer签字前先别提离职。"
+  },
+  {
+   "id": "respond-to-job-rejection-017",
+   "situation": "Me rechazaron para unas prácticas de verano en un estudio de arquitectura en Valencia. La entrevista fue con la arquitecta Lucía Ferrer y estuvimos 20 minutos repasando mi portafolio, pero el rechazo llegó en un correo automático de RR. HH. sin nombre. Quiero escribirle a Lucía por LinkedIn para pedirle un consejo sobre el portafolio.",
+   "reply": "Hola, Lucía: me llegó la respuesta sobre las prácticas y quería darte las gracias por los 20 minutos que dedicaste a repasar mi portafolio conmigo, aprendí mucho de esa conversación. Entiendo la decisión. Si tienes un momento, ¿qué sería lo primero que cambiarías del portafolio para la próxima convocatoria? Con una frase me basta, y si no tienes tiempo, lo entiendo perfectamente. Ojalá coincidamos más adelante.",
+   "lang": "es",
+   "note": "Cuando el rechazo llega de un correo automático, la persona que te entrevistó es a quien vale la pena escribir."
   }
  ]
 }

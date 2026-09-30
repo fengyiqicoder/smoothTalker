@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -113,6 +113,13 @@
    "reply": "Richard, sorry to pull you away for a second. Quick one before the photo: your zip's down. Happens to everyone, and there's a minute before they line us up.",
    "lang": "en",
    "note": "An older, formal in-law gets the same treatment as anyone: draw him aside, say it quietly in one line, then talk about something else."
+  },
+  {
+   "id": "tell-someone-something-awkward-017",
+   "situation": "I just found my colleague Dan's resignation letter in the shared printer by the kitchen. Nobody else was around, so I turned it face down in the tray and didn't read past the first line. We're friendly but not close, and I want to DM him.",
+   "reply": "Hey Dan, quick heads-up: something you printed is still in the kitchen printer and it looks personal. I've turned it face down in the tray and I won't mention it to anyone. Happens to everyone with that printer.",
+   "lang": "en",
+   "note": "Don't name the letter or congratulate him in writing; he gets to announce it on his own terms."
   }
  ]
 }

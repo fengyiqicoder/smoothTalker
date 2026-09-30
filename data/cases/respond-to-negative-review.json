@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -113,6 +113,13 @@
    "reply": "Thank you for raising this. Long days in the July heatwave, with breaks taken only when the job allowed, weren't good enough, and that's on me as the owner. Since August every crew takes a fixed 15-minute shaded break every two hours, and every truck carries a water cooler. If you'd like to talk it through, please email me at marco@example.com. Marco Diaz, owner, Greenway",
    "lang": "en",
    "note": "An ex-employee review: never name or argue with them in public; own the working condition and say exactly what changed."
+  },
+  {
+   "id": "respond-to-negative-review-017",
+   "situation": "I'm Nina, a massage therapist with a one-room practice. 'Erin T.' left a 1-star Google review calling my $45 late-cancellation fee a 'money grab' after she cancelled 2 hours before her Friday appointment. The 24-hour policy is in every booking confirmation and reminder text, I've since added it in bold to the booking page, and I'm keeping the fee.",
+   "reply": "Thank you for the feedback, Erin, and I'm sorry the fee was a sour end to your booking. I'm a one-person practice, so a slot cancelled two hours ahead usually can't be filled, which is why the 24-hour policy is in every booking confirmation and reminder text. I've now also put it in bold on the booking page so nobody is caught out. If you'd like to talk it through, email me at nina@example.com. Nina, owner",
+   "lang": "en",
+   "note": "A review about a policy you're keeping: explain what it protects once, show one thing you made clearer, and don't refund in public."
   }
  ]
 }

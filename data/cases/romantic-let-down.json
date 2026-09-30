@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Ben, thanks for the last two evenings, and for telling me about work; I'm sorry, that's a rough week. I've been thinking, and I'm not feeling a romantic connection, so I'll pass on Sunday. I'd rather say that now than leave you guessing. I really hope the next job comes quickly.",
    "lang": "en",
    "note": "Bad timing doesn't make ambiguity kinder: acknowledge the news once, give the clear no, and don't offer friendship as a consolation."
+  },
+  {
+   "id": "romantic-let-down-017",
+   "situation": "Sou personal trainer no Porto. Um aluno, o Rui, que treina comigo às terças e quintas há três meses, convidou-me ontem para jantar no fim do treino. Não tenho interesse, tenho como regra não sair com alunos e quero continuar a treiná-lo, por isso vou responder por mensagem.",
+   "reply": "Olá Rui, obrigada pelo convite de ontem, fico contente por gostares dos treinos. A resposta é não: não sinto uma ligação romântica, e também não saio com alunos. Da minha parte fica tudo igual, vemo-nos na terça como sempre.",
+   "lang": "pt",
+   "note": "A regra profissional é uma razão sobre ti, não sobre ele; voltar logo ao treino mostra que nada muda."
   }
  ]
 }

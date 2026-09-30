@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -113,6 +113,13 @@
    "reply": "Thanks for asking, Megan! I only ship within the US for now; sending a blanket to Australia costs about $58, more than the $45 blanket itself, and I'd rather not ask anyone to pay that. If you have family or a friend in the US, I'm happy to ship there, gift-wrapped for the trip. I'll post here if that ever changes.",
    "lang": "en",
    "note": "A no in public is read by everyone who liked the comment: keep it short, give the real number, and offer the workaround where they can all see it."
+  },
+  {
+   "id": "say-no-to-a-customer-request-017",
+   "situation": "I run a small coffee roastery supplying cafés. A new client, Luca at Stanza Café, is taking 20kg a week from his first delivery on Monday 5 October and asked for 60-day payment terms. We do 14 days for everyone because we pay our green-bean importers upfront. I'm happy to give him 30 days on his first two orders while he opens.",
+   "reply": "Thanks, Luca, and welcome aboard, we're really glad to be roasting for Stanza. We can't do 60-day terms: we pay for our green beans upfront, so 14 days is what keeps us roasting. To help while you're opening, I can put your first two orders on 30 days, and from the third it's 14 days like everyone else. Does that work for Monday's delivery?",
+   "lang": "en",
+   "note": "The one-off concession is offered before he pushes and labelled with an end point, so it doesn't become the baseline."
   }
  ]
 }

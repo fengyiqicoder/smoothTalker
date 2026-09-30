@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -113,6 +113,13 @@
    "reply": "佐藤様\nご注文の新米コシヒカリ5kg（注文番号1042）について、長雨で稲刈りが遅れ、10月5日のお約束だった発送が10月16日（金）になります。お待ちいただける場合は、16日に発送し、当日に追跡番号をお知らせします。すぐにお米が必要でしたら、在庫のある昨年産コシヒカリ5kgを明日発送し、差額の600円をお返しします。全額返金をご希望でしたら、本日中に手続きいたします。10月2日（金）までにご返信がなければ、16日の発送でお待ちいただく形で進めます。お待たせして申し訳ありません。\n山田農園　山田",
    "lang": "ja",
    "note": "天候による遅れでも、新しい日付、三つの選択肢、返信がない場合の扱いを一度に伝える。"
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-017",
+   "situation": "I run a small online yarn shop. Grace ordered 8 skeins of the Moss colourway (order #7710, $22 each, $176 total) for a sweater, but I only have 5, and the dyer has just told me Moss is discontinued. Fern is a similar green and I have 12 skeins in stock at the same price; I'll hold her order until Monday Oct 5. I'm Mia.",
+   "reply": "Hi Grace, I can't fill your order #7710 for 8 skeins of Moss: I have 5 left, and the dyer has just told me Moss is discontinued, so no more are coming. Your options: swap all 8 for Fern, a similar green I have in stock at the same price; take the 5 Moss and a $66 refund for the other 3; or a full refund of $176. I'll hold your order until Monday 5 October, and if I haven't heard from you by then I'll refund it in full. Just reply with the one you'd like. Mia",
+   "lang": "en",
+   "note": "When the item is never coming back, drop the wait option and make the full refund the default."
   }
  ]
 }

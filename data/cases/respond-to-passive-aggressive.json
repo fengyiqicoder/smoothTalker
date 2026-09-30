@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -113,6 +113,13 @@
    "reply": "Thanks for coming in, and for the kind words about the place. You're right, Saturday's wait was far too long; we were a barista down that morning. If you give us another try, mention this review at the till and your flat white is on us.\nAna, owner",
    "lang": "en",
    "note": "A public review gets a public face-value reply: own the fair part in one line, no defensiveness, and one small make-good other readers can see."
+  },
+  {
+   "id": "respond-to-passive-aggressive-017",
+   "situation": "我在上海工作，爸在老家住，这半年他去医院复查了四次，都是我哥请假陪的。刚才我私聊问爸的情况，我哥回：“你在上海过得挺好吧，爸这边反正有我，你放心。”我想以后复查跟他轮流陪，国庆1号到5号我回家，这几天爸的事可以都交给我。",
+   "reply": "哥，这半年爸四次复查都是你请假陪的，你一个人扛着，肯定很累。今晚我给你打个电话好不好？想跟你商量一下，以后复查咱俩轮流陪。国庆1号到5号我在家，这几天爸的事交给我，你也歇一歇。",
+   "lang": "zh",
+   "note": "话里带刺，但怨气是真的：不接刺，直接回应背后的分工问题，并换成电话谈。"
   }
  ]
 }

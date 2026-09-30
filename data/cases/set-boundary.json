@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -113,6 +113,13 @@
    "reply": "Tanya, I really like our lunches together. I'm not going to talk about my food or my weight at work, so when it comes up I'll just change the subject. Now tell me, did the new cabinets for your kitchen finally arrive?",
    "lang": "en",
    "note": "If she tries again, repeat the same line and move on; do not explain why."
+  },
+  {
+   "id": "set-boundary-017",
+   "situation": "I'm a graphic designer. My friend Rob keeps asking for 'quick' free logo tweaks for his side business, and this is the fourth time this year. I want to keep the friendship, but from now on I'll quote for design work, and I'm happy to give him 20% off my usual rate.",
+   "reply": "Rob, I love seeing the business grow and I'm glad the logo is working for you. From now on I'm going to treat design work for friends like any other job, so I'll send you a quote for this one. As a friend you'll always get 20% off my usual rate.",
+   "lang": "en",
+   "note": "If he says 'it's only five minutes', repeat that you quote for all design work now; don't debate how long it takes."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -113,6 +113,13 @@
    "reply": "Hey Mia, wir freuen uns total, dass du am Samstag einziehst! Kurz zwei WG-Sachen, damit du gleich Bescheid weißt: Am Kühlschrank hängt ein Putzplan, der jede Woche rotiert, und Strom plus Internet sind 90 Euro im Monat, also 30 Euro pro Person, die jeweils am Monatsersten an Jonas gehen. Wenn dir nach ein paar Wochen etwas anders besser passt, sag einfach Bescheid, dann passen wir es an.",
    "lang": "de",
    "note": "Regeln gleich beim Einzug klären ist leichter, als sie später als Beschwerde einzuführen."
+  },
+  {
+   "id": "roommate-and-shared-living-017",
+   "situation": "我和小雨、阿杰三个人合租，只有一个卫生间。早上7点到8点大家都要用，我8点15分要出门赶地铁，这周已经连续三天差点迟到。想在合租群里提一下，大家关系都挺好的。",
+   "reply": "早上好呀～这周早上卫生间有点挤，我8点15分要出门，连着三天都差点赶不上地铁。要不我们排一下早上的时段：我7点到7点20，小雨7点20到7点40，阿杰7点40到8点？谁想换时段直接在群里说，我都可以调。",
+   "lang": "zh",
+   "note": "带着具体的时间表去说，讨论就变成了挑时段，而不是谁用得太久。"
   }
  ]
 }

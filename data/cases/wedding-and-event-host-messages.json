@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -113,6 +113,13 @@
    "reply": "Tío Rafael, gracias de corazón por querer decir algo ese día, nos emociona mucho. Hemos dejado los discursos solo para los padrinos y Laura, para que la cena no se alargue, y es igual para todos. Nos encantaría escuchar esas palabras en persona durante la fiesta, o que nos las dejes escritas en el libro de firmas para leerlas con calma. ¡Qué ganas de verte el 17!",
    "lang": "es",
    "note": "El límite se presenta como una regla para todos y se le da otro sitio para su cariño, sin abrir una excepción."
+  },
+  {
+   "id": "wedding-and-event-host-messages-017",
+   "situation": "We're getting married in Oaxaca, Mexico, on Saturday May 15, 2027, with about 50 guests. Flights and three nights at the hotel will cost most guests around $1,200, and we're covering the welcome dinner and everything on the wedding day. I need wording for the save-the-date email that's honest about the cost and makes it genuinely OK to say no.",
+   "reply": "We're getting married in Oaxaca on Saturday 15 May 2027, and we'd love you there. We know it's a big trip: for most people, flights and three nights at the hotel will come to around $1,200, so we're telling you now to give you time to plan. The welcome dinner and everything on the wedding day are on us. And if the trip isn't doable this time, we completely understand, no explanation needed.",
+   "lang": "en",
+   "note": "State the cost once, early and for everyone, and make no an easy answer before anyone has to give it."
   }
  ]
 }

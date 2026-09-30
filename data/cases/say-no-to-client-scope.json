@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Jordan, good idea, and I can see why it would help at checkout. Adding a second payment provider isn't in the current statement of work, so it needs to go through a change request rather than into this sprint. I've passed the details to Beth, who handles quotes and scheduling, so she can come back to you with a price and timing. Are you happy for her to scope it?",
    "lang": "en",
    "note": "When you can't price it yourself, route it instead of absorbing it: welcome the idea, name the scope, and hand it to the person who can quote."
+  },
+  {
+   "id": "say-no-to-client-scope-017",
+   "situation": "我做一对一英语家教，每周六上午给初三的乐乐上课，一小时300元。家长张妈妈说：“反正你都来了，顺便把他妹妹也带上，一起上。”妹妹才五年级，两个孩子程度差太多，一起上两边都顾不好；我可以周六下午给妹妹单独排一小时，也是300元。",
+   "reply": "张妈妈，谢谢您信任我，愿意让妹妹也跟着学。我们现在约的是给乐乐一对一上课，每小时300元，两个孩子一个初三一个五年级，程度差得多，放在一起上两边都顾不好，效果会打折扣。我周六下午可以给妹妹单独排一小时，同样是300元。您看要不要给妹妹加上这节课？",
+   "lang": "zh",
+   "note": "“顺便”的请求最容易变成默认的免费加量，第一次就把单独排课的价格说清楚。"
   }
  ]
 }

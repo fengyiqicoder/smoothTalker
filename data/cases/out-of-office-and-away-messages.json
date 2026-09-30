@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -113,6 +113,13 @@
    "reply": "I'm on a silent retreat from 8 to 18 October with my phone switched off, so I won't see messages until Monday 19 October. If it's a real family emergency, call my brother Tom on 07700 900123 and he can reach me. Everything else can wait, and I'll reply when I'm back.",
    "lang": "en",
    "note": "A personal away message follows the same shape: the dates, whether you'll see it, and one emergency route through a person who has agreed to it."
+  },
+  {
+   "id": "out-of-office-and-away-messages-017",
+   "situation": "I'm a small landlord with four flats and I'm away hiking from Saturday Oct 10 to Sunday Oct 25 with patchy signal. My handyman Dave Morris (07700 900123) has agreed to handle emergencies like a leak or no heating; everything else can wait. Need an auto-reply for tenant emails.",
+   "reply": "Hi, I'm away until Sunday 25 October with very little signal, so I'll read your email when I'm back. For an emergency like a leak or no heating, call Dave Morris on 07700 900123, who is covering for me. If you smell gas or there is a fire, call the emergency services first. Everything else gets a reply from me the week I'm back.",
+   "lang": "en",
+   "note": "Tenants need to know what counts as urgent, so give examples next to the one emergency route."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Marcus, happy to build the territory model. Ana has me on the churn analysis for Friday too, and each piece is about two days of work, with three days free this week. Options: the churn analysis Friday and the territory model next Wednesday, or the territory model Friday and the churn analysis moves, which means it misses the board pack on Tuesday 6 October. My suggestion is the first. I've copied Ana in so the two of you can confirm which goes first.",
    "lang": "en",
    "note": "Two people pulling on your week: don't pick the winner yourself; show the clash, recommend, and let them agree in writing."
+  },
+  {
+   "id": "push-back-on-boss-017",
+   "situation": "My new manager Paula started two weeks ago and wants each of us to send a written end-of-day update plus join a 4pm check-in call every day. For me that's about 45 minutes a day, and it eats the afternoons when I do the deep work on the data migration due Oct 23. I want to suggest something lighter before our 1:1 on Friday.",
+   "reply": "Hi Paula, I want you to have good visibility on the data migration, especially while you're settling in. The written update plus the 4pm call comes to about 45 minutes a day for me, and it lands in the afternoons, which is when I do the migration work for the 23 October deadline. Two options: a three-line written update each day and I skip the call unless something is blocked, or the call on Tuesdays and Thursdays only with no written update. I'd lean towards the first. Could we pick one in our 1:1 on Friday?",
+   "lang": "en",
+   "note": "With a new manager, frame it as giving her the same visibility for less time, not as resisting oversight."
   }
  ]
 }

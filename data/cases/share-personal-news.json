@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -113,6 +113,13 @@
    "reply": "跟大家说一声：我和小赵分开了，原定明年5月16日的婚礼取消，之前发的婚期预告就不作数了。这是我们俩认真商量后的决定，我还好，只是需要点时间。原因就不细说了，也请大家先别问。过段时间我约大家吃饭，到时候就聊点别的。",
    "lang": "zh",
    "note": "取消的消息只说一次：事实放第一句，说清楚希望大家怎么回应，再给一个以后见面的出口。"
+  },
+  {
+   "id": "share-personal-news-017",
+   "situation": "I'm transitioning, and from now on I'm going by Dani and using she/her. I've already told my parents and my closest friend. I want to tell our 8-person climbing group chat before our session on Saturday Oct 3, and I don't want a big fuss, I just want people to use the name.",
+   "reply": "Some news before Saturday: I'm transitioning, and from now on I'm Dani and I use she/her. I'm happy, and a bit nervous to be typing this. You don't need to say anything big; the best thing you can do is just use the name, and if you slip up, a quick correction and carry on is completely fine. See you on the wall Saturday.",
+   "lang": "en",
+   "note": "Tell people exactly how to respond, including what to do when they get it wrong, so nobody freezes."
   }
  ]
 }

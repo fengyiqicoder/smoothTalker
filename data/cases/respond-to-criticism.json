@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -113,6 +113,13 @@
    "reply": "李妈妈您好，谢谢您直接告诉我，听说孩子回家哭了，我心里也不好受。您说得对，上周当着全班点名批评他，这个方式不妥，我会找机会单独跟他说一声。作业连续三次没交的事，我还是希望咱们一起帮他解决。想先了解一下，他在家写作业主要卡在哪儿？这两天您哪个时间方便，我们通个电话聊十分钟？",
    "lang": "zh",
    "note": "认下方式上的问题，但不因此放掉作业这件事；用一个问题把对话引向一起解决。"
+  },
+  {
+   "id": "respond-to-criticism-017",
+   "situation": "I gave a 30-minute talk on accessibility testing at a local developer meetup last night. The organiser, Nadia, forwarded feedback: several people said it was too basic, and I ran 15 minutes over. The overrun is on me, but the event listing called the talk 'beginner friendly', so I pitched it that way.",
+   "reply": "Thanks for passing this on, Nadia, and for giving me the slot. You're right about the time: I ran 15 minutes over, and next time I'll rehearse to 25 minutes so there's room for questions. On the level, the listing said 'beginner friendly' and I pitched it there, so I suspect some people came expecting something deeper. For a future talk, would you rather we label the level more clearly, or should I offer an intermediate follow-up for the people who wanted more?",
+   "lang": "en",
+   "note": "Own the overrun without a but; the level complaint is a mismatch with the listing, so say it once and turn it into a question."
   }
  ]
 }

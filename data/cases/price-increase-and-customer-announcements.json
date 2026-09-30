@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Sam,\nA correction to yesterday's email: from Sunday 1 November our 100g tins go from $14 to $16, not $18. That was my typo, and I'm sorry for the confusion. Everything else stands: the reason is higher shipping costs from our growers, the teas don't change, and the $14 price holds on the site until Saturday 31 October. Thank you to everyone who wrote back, it's how I caught it.\nMei, Leaf & Kettle",
    "lang": "en",
    "note": "Correct a wrong announcement fast, in the first line, with one plain apology for the mistake itself; the increase still needs no apology."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-017",
+   "situation": "我开家庭宠物寄养，平时每晚80元。明年春节期间（2月1日到2月20日）阿姨上班我要付三倍工资，所以这段时间改成每晚120元，节后恢复80元。10月31日前已经预订春节的老客户还按80元算。要在客户群里通知。",
+   "reply": "各位主人好，我是小林。明年2月1日到2月20日春节期间，寄养价格从每晚80元调整为120元，2月21日起恢复80元。原因很简单：春节期间照看毛孩子的阿姨工资是平时的三倍。照顾方式完全不变。10月31日前在群里或私信我预订春节的，都按原价80元算。有任何问题直接私信我，谢谢大家一直放心把毛孩子交给我们。小林",
+   "lang": "zh",
+   "note": "临时的节日加价要写清起止日期和恢复原价的日子，大家才不会以为是永久涨价。"
   }
  ]
 }

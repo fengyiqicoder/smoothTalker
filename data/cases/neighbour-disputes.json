@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Mrs Patel, it's Chris from 24. A quick one, and I doubt you'd notice from your side: the new light on your garage shines straight into our bedroom, and it comes on 10 or more times a night when cats and foxes go past. Would you be OK with angling it down towards your drive, or turning the sensitivity down? Happy to bring a ladder over and help, and do tell me if anything from our side ever bothers you.",
    "lang": "en",
    "note": "With a neighbour you like, keep it light: one fact, one easy fix, and an offer to help do it."
+  },
+  {
+   "id": "neighbour-disputes-017",
+   "situation": "Mein Nachbar Jonas wohnt Wand an Wand mit uns und übt jeden Tag von 18 bis 20 Uhr Schlagzeug. Ich habe ihn am 20. September freundlich angesprochen, und er meinte, laut Hausordnung sei Musik bis 20 Uhr erlaubt. Das stimmt, aber unsere zwei kleinen Kinder gehen um 19 Uhr ins Bett, und ihr Zimmer liegt direkt an seiner Wand. Ich bin Katrin.",
+   "reply": "Hallo Jonas, hier ist Katrin von nebenan. Du hast recht, laut Hausordnung ist Musik bis 20 Uhr in Ordnung, und ich will dir das Üben auch nicht nehmen. Es geht mir nur um die Uhrzeit: Unsere beiden Kleinen gehen um 19 Uhr ins Bett, und ihr Zimmer liegt genau an deiner Wand. Könntest du an den meisten Tagen schon um 17 Uhr anfangen, damit um 19 Uhr Schluss ist? Sag gern Bescheid, wenn dich von unserer Seite auch mal etwas stört.",
+   "lang": "de",
+   "note": "Wenn der Nachbar im Recht ist, nicht über die Regel streiten, sondern um eine kleine Verschiebung bitten, die er leicht geben kann."
   }
  ]
 }

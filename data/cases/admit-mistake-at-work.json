@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -120,6 +120,13 @@
    "reply": "Owen, I need to flag something: I left my work laptop on the 18:40 train last night, and it hasn't been found yet. It's encrypted and IT locked it remotely at 07:30 this morning, but it has the Hartley client files on it. I reported it to rail lost property at 20:00 and I'll chase them again at noon. I'm sorry, that's on me. Can we check with IT today whether anything needs to go to Hartley or be reported under our data policy? From now on the laptop stays in my bag on my lap when I travel.",
    "lang": "en",
    "note": "When the outcome is still open, say what is contained, what isn't, and ask to check reporting duties the same day rather than deciding it's harmless."
+  },
+  {
+   "id": "admit-mistake-at-work-018",
+   "situation": "I'm an account manager in London. This morning I missed a 9am call with our client Hiroshi Tanaka in Tokyo because I'd put it in my calendar as 9am London time; he waited 15 minutes. The call was to agree the Q4 delivery schedule, and I've since set my calendar to show both time zones.",
+   "reply": "Dear Mr Tanaka, I missed our 9am call this morning, and that was my mistake: I entered it in my calendar in London time instead of Tokyo time. I'm sorry you waited 15 minutes for me. I'd still like to agree the Q4 delivery schedule this week, so could we speak at 9am Tokyo time on Thursday 1 October or Friday 2 October? I've set my calendar to show both time zones so this doesn't happen again.",
+   "lang": "en",
+   "note": "To a client, own it in one line, then put the effort into making the reschedule easy."
   }
  ]
 }

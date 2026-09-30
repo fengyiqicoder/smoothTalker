@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -113,6 +113,13 @@
    "reply": "Thanks for reaching out, Priya, this sounds interesting. I'm on parental leave until 8 January, so the earliest I could start is 1 February, and I'd rather hold interviews until December. If the team can work with that timing, could you share the base range? If it lines up, I'd be glad to set up a call in the first week of December.",
    "lang": "en",
    "note": "Timing is the dealbreaker, so it goes first; the dates are all the detail about the leave you owe."
+  },
+  {
+   "id": "respond-to-recruiter-017",
+   "situation": "A recruiter, Tom, messaged me on LinkedIn about a data scientist role at Calloway Insurance. I interviewed there in March and was turned down after the final round because I lacked experience with pricing models. I've spent the six months since building pricing models in my current job, and I'm interested.",
+   "reply": "Thanks for reaching out, Tom. I'm interested. Worth flagging up front: I interviewed at Calloway in March and didn't get past the final round, mainly on pricing model experience, which is exactly what I've spent the last six months building in my current role. Could you check the team is open to seeing me again? If so, I'd be glad to set up a call this week.",
+   "lang": "en",
+   "note": "Naming the earlier rejection yourself beats having the recruiter find it in their system."
   }
  ]
 }

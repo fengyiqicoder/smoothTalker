@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -113,6 +113,13 @@
    "reply": "After the Riverside Park festival on Saturday 26 September, we left grease on the grass and a pile of bin bags by our pitch, and people who live by the park had to look at it all weekend. Sorry, that's on us. We went back on Monday and cleared it. From our next event, drip mats go under the truck, and nobody leaves until the pitch matches a photo taken at setup. If you live nearby and spot anything we missed, message me here or email marcus@example.com and I'll come and sort it. Marcus, owner",
    "lang": "en",
    "note": "When the people affected are neighbours, not customers, the make-good is fixing the place and a way to report what's left."
+  },
+  {
+   "id": "public-apology-from-a-business-017",
+   "situation": "We run a weekly veg box scheme with about 2,300 subscribers. At 7am today a test email saying 'Your subscription has been cancelled' went to everyone by mistake. Nothing was actually cancelled or charged differently, and we've since set it up so test emails can only go to a staff-only list. I'm the owner, Owen.",
+   "reply": "Subject: Your veg box is not cancelled\nHi everyone,\nAt 7 this morning we sent all 2,300 of you an email saying your subscription had been cancelled. It wasn't: that was a test message that went to the real list by mistake, and nothing about your box, delivery day or payment has changed. Sorry for the fright, that one's on me. Test emails can now only go to a staff-only list, so it can't happen this way again. If anything looks wrong on your account, reply here and I'll check it personally.\nOwen, owner",
+   "lang": "en",
+   "note": "A false alarm: the reassurance goes in the subject line and first lines, and the apology stays as small as the mistake."
   }
  ]
 }

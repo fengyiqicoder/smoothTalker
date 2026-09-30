@@ -4,17 +4,17 @@
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
-   "situation": "I'm 3 months into a new job and need Dec 15 to 23 off for my cousin's wedding in Hyderabad. Worried it looks bad being so new. Slack to my manager.",
+   "situation": "I'm 3 months into a new job and need Dec 15 to 23 off for my cousin's wedding in Hyderabad. The Q4 dashboard ships by the 12th and Owen can cover the Monday data sync. Worried it looks bad being so new. Slack to my manager.",
    "reply": "I'd like to take 15 to 23 December off for a family wedding in Hyderabad, back on the 24th. The Q4 reporting dashboard will ship by the 12th, and Owen has agreed to cover the Monday data sync while I'm away. Can you approve so I can book flights this week?",
    "lang": "en",
    "note": "Being new is not a reason to over-explain; asking early with coverage sorted is what makes it look good."
   },
   {
    "id": "ask-for-time-off-or-sick-leave-002",
-   "situation": "Ich bin heute krank (Migräne) und muss meiner Teamleiterin Frau Becker schreiben. Um 10 Uhr hätte ich das Kundenmeeting mit der Schulz GmbH.",
+   "situation": "Ich bin heute krank (Migräne) und muss meiner Teamleiterin Frau Becker schreiben. Um 10 Uhr hätte ich das Kundenmeeting mit der Schulz GmbH, mein Kollege Jonas kann es übernehmen.",
    "reply": "Guten Morgen Frau Becker, ich bin krank und komme heute nicht. Dringend ist nur das Meeting mit der Schulz GmbH um 10 Uhr: Jonas übernimmt es, ich habe ihm die Unterlagen eben geschickt. Ich melde mich morgen früh mit einem Update.",
    "lang": "de",
-   "note": "The diagnosis stays out. 'Krank' is complete, and the handover is the useful part."
+   "note": "Die Diagnose bleibt draußen. 'Krank' reicht, die Übergabe ist der nützliche Teil."
   },
   {
    "id": "ask-for-time-off-or-sick-leave-003",
@@ -26,27 +26,27 @@
   {
    "id": "ask-for-time-off-or-sick-leave-004",
    "situation": "I'm pregnant, due March 3, 2027, and planning 16 weeks of leave. I want to tell my manager Chris on Slack before I start showing. I'm leading our Q1 billing migration.",
-   "reply": "Hi Chris, some news: I'm expecting, due 3 March. I'm planning to take 16 weeks of leave starting around 22 February, which puts my return in mid-June. I know that overlaps with the billing migration, so I'd like to get the design phase signed off before I go and start a handover plan in early January. Could we book 30 minutes next week to talk it through?",
+   "reply": "Hi Chris, some news: I'm expecting, due 3 March. I'm planning to take 16 weeks of leave starting around 22 February, which puts my return in mid-June. I know that overlaps with the billing migration, so I'd like to start a handover plan in early January. Could we book 30 minutes next week to talk it through?",
    "lang": "en",
    "note": "News and timeline in one message so planning can start; naming the project overlap yourself is what makes the conversation easy. No medical detail needed."
   },
   {
    "id": "ask-for-time-off-or-sick-leave-005",
-   "situation": "奶奶昨晚去世了，要回湖南衡阳老家办后事。想跟领导王经理请丧假，明天9月30号，加上国庆节后的两天。手上有个原定明天要交的渠道方案。",
-   "reply": "王经理，我奶奶昨晚去世了，需要回衡阳老家处理后事。想请明天9月30日和节后10月8日、9日的丧假，10月12日周一回来上班。原定明天交的渠道方案，我今晚把初稿发给小刘，后面的修改由她跟进。我今天在系统里提交申请，麻烦您批一下。",
+   "situation": "奶奶昨晚去世了，要回湖南衡阳老家办后事。想跟领导王经理请丧假：明天9月30号，加上国庆节后的10月8、9号，10号周六调休上班那天回来。原定明天要交的渠道方案，同事小刘可以接。",
+   "reply": "王经理，我奶奶昨晚去世了，需要回衡阳老家处理后事。想请明天9月30日和节后10月8日、9日的丧假，10月10日周六调休上班那天回来。原定明天交的渠道方案，我今晚把初稿发给小刘，后面的修改由她跟进。我今天在系统里提交申请，麻烦您批一下。",
    "lang": "zh",
-   "note": "Bereavement: the fact in one line, exact dates around the National Day holiday, the handover, and the system request; no detail beyond that."
+   "note": "丧假：一句话说清事情，围绕国庆写准日期，交代交接，再在系统里提申请；其他细节不用多说。"
   },
   {
    "id": "ask-for-time-off-or-sick-leave-006",
-   "situation": "Texted my manager Kevin this morning that I'm sick and not coming in. He replied 'What's going on? You seemed fine yesterday.' I don't want to go into it.",
+   "situation": "Texted my manager Kevin this morning that I'm sick and not coming in. He replied 'What's going on? You seemed fine yesterday.' Priya is covering my 11am client call and the notes are in the shared drive. I don't want to go into it.",
    "reply": "Nothing I need help with, just unwell today. Priya has the 11am client call and the notes are in the shared drive. I'll check messages once this afternoon and update you tomorrow morning.",
    "lang": "en",
    "note": "Answers the question without a diagnosis or a defence, then restates cover and the next check-in."
   },
   {
    "id": "ask-for-time-off-or-sick-leave-007",
-   "situation": "我爸10月19号在老家做髋关节置换手术，家里就我一个孩子，得回去照顾两周。年假只剩5天，剩下的想请事假。领导是周总，我手上负责双十一的活动页。",
+   "situation": "我爸10月19号在老家做髋关节置换手术，家里就我一个孩子，得回去照顾两周。年假只剩5天，剩下的想请事假。领导是周总，我手上负责双十一的活动页，设计稿能在16号前交，开发对接可以交给小林。",
    "reply": "周总，想跟您请10月19日到30日两周的假，11月2日周一回来上班。我父亲19日做手术，家里需要我照顾。年假我还有5天，剩下5天按事假走。双十一活动页的设计稿我16日周五前交完，后面的开发对接由小林跟进，我已经跟她过了一遍。您看可以批吗？可以的话我今天就在系统里提交。",
    "lang": "zh",
    "note": "照顾家人的长假：日期、返岗日、假期怎么算、交接都写清楚，家里的事一句带过，不讲病情细节。"
@@ -54,7 +54,7 @@
   {
    "id": "ask-for-time-off-or-sick-leave-008",
    "situation": "Trabajo en una cafetería en Valencia y hoy tengo fiebre, no puedo ir al turno de 7 a 15. Mi compañero Álex puede cubrirme desde las 9. Tengo que avisar a Marta, la encargada, por WhatsApp. Son las 5:40.",
-   "reply": "Buenos días, Marta. Estoy enfermo y hoy no puedo ir al turno de 7 a 15. Álex me cubre desde las 9; falta alguien para la apertura de 7 a 9 y ya les he escrito a Lucía y a Dani por si pueden. Mañana antes de las 12 te digo cómo sigo para el turno del jueves.",
+   "reply": "Buenos días, Marta. Estoy enfermo y hoy no puedo ir al turno de 7 a 15. Álex me cubre desde las 9, así que falta cubrir la apertura de 7 a 9. Mañana antes de las 12 te digo cómo sigo.",
    "lang": "es",
    "note": "Trabajo por turnos: el mensaje sale antes de la apertura, dice qué hueco queda sin cubrir y cuándo vuelves a avisar. La fiebre no hace falta mencionarla."
   },
@@ -67,21 +67,21 @@
   },
   {
    "id": "ask-for-time-off-or-sick-leave-010",
-   "situation": "I have a standing appointment every Thursday at 4pm for six weeks, starting Oct 8, so I'd need to leave at 3:30 those days. I don't want to say what it's for. Slack to my manager, Dana.",
-   "reply": "Hi Dana, I have a standing appointment on Thursdays at 4pm for six weeks, 8 October to 12 November, so I'd like to leave at 3:30 on those days. I'll log on at 7:30 on Thursdays to make up the time, and the weekly ops sync is on Tuesdays so nothing moves. Okay if I block it in the calendar?",
+   "situation": "I have a standing appointment every Thursday at 4pm for six weeks, starting Oct 8, so I'd need to leave at 3:30 those days. I can start at 7:30 on Thursdays to make up the time. I don't want to say what it's for. Slack to my manager, Dana.",
+   "reply": "Hi Dana, I have a standing appointment on Thursdays at 4pm for six weeks, 8 October to 12 November, so I'd like to leave at 3:30 on those days. I'll log on at 7:30 on Thursdays to make up the time. Okay if I block it in the calendar?",
    "lang": "en",
    "note": "Recurring absence: dates, how the time is covered and a closed question. No detail on the appointment; 'a standing appointment' is complete."
   },
   {
    "id": "ask-for-time-off-or-sick-leave-011",
-   "situation": "I've been off sick since last Thursday and told my manager Grace I'd be back tomorrow. My GP has just signed me off until Friday Oct 9. I don't want to share details, and I was meant to present the regional numbers at Thursday's Q3 review.",
-   "reply": "Hi Grace, an update: I'm still unwell and my GP has signed me off until Friday 9 October, so I'll be back on Monday the 12th. I'll email the fit note to you and HR today. For Thursday's Q3 review, my slides and the regional numbers are in the team drive under Q3 Review, and Tom knows the figures well enough to present them. I'll let you know by Thursday the 8th if anything changes.",
+   "situation": "I've been off sick since last Thursday and told my manager Grace I'd be back tomorrow. My GP has just signed me off until Friday Oct 9. I don't want to share details, and I was meant to present the regional numbers at Thursday's Q3 review; Tom has my slides and knows the numbers.",
+   "reply": "Hi Grace, an update: I'm still unwell and my GP has signed me off until Friday 9 October, so I'll be back on Monday the 12th. I'll email the fit note to you and HR today. For Thursday's Q3 review, Tom has my slides and knows the regional numbers well enough to present them. I'll let you know by Thursday the 8th if anything changes.",
    "lang": "en",
    "note": "Extending sick leave: new return date first, the note sent without being asked, cover for the one thing that matters, and still no diagnosis or apology."
   },
   {
    "id": "ask-for-time-off-or-sick-leave-012",
-   "situation": "下午两点幼儿园老师打电话，说儿子发烧，要家长马上接走。我得两点半走，四点半的供应商周会本来是我主持。领导是赵姐，想在企业微信上跟她说一声。",
+   "situation": "下午两点幼儿园老师打电话，说儿子发烧，要家长马上接走。我得两点半走，四点半的供应商周会本来是我主持，可以交给小陈。领导是赵姐，想在企业微信上跟她说一声。",
    "reply": "赵姐，幼儿园刚来电话要我去接孩子，我今天两点半先走。四点半的供应商周会我已经请小陈主持，议程和上周的数据都发给他了。我手机一直开着，有急事随时打给我，明早我再跟您同步进度。",
    "lang": "zh",
    "note": "临时早退：几点走、手上的事谁接、怎么找到你，三句话说清；孩子的病情不用细讲。"
@@ -95,7 +95,7 @@
   },
   {
    "id": "ask-for-time-off-or-sick-leave-014",
-   "situation": "I want five weeks off in May 2027 to walk the Camino de Santiago with my dad, who's 70. I'll only have three weeks of vacation for it, so two would be unpaid. Our handbook says unpaid leave is at the manager's discretion. Email to my manager, Olu.",
+   "situation": "I want five weeks off in May 2027 to walk the Camino de Santiago with my dad, who's 70. I'll only have three weeks of vacation for it, so two would be unpaid. Our handbook says unpaid leave is at the manager's discretion. The spring pricing review ends in April and Hana can cover supplier queries. Email to my manager, Olu.",
    "reply": "Hi Olu, I'd like to take five weeks off from Monday 3 May to Friday 4 June 2027, back on Monday 7 June, to walk the Camino with my dad. That would be three weeks of vacation plus two weeks of unpaid leave, which the handbook leaves to your discretion. I'm raising it early so there's time to plan: the spring pricing review would be done by late April, and Hana has said she's happy to cover supplier queries while I'm away. Could you let me know by the end of October so I can start booking?",
    "lang": "en",
    "note": "Tie the unpaid part to the written policy, not to what you assume you're owed, and ask far enough ahead that a yes is easy to plan around."
@@ -103,7 +103,7 @@
   {
    "id": "ask-for-time-off-or-sick-leave-015",
    "situation": "我在超市做收银，排班表每周四出。我弟弟11月7日周六结婚，我是伴郎，想提前跟店长张姐说那天别排我。周末人手紧，同事小何说她那天可以顶我。",
-   "reply": "张姐，11月7日周六我想请一天假，我弟弟那天结婚。提前跟您说，方便您排班。我问过小何了，她那天可以顶我的班，我换她11月8日周日的班。您看行的话，那天就别排我了。",
+   "reply": "张姐，11月7日周六我想请一天假，我弟弟那天结婚。提前跟您说，方便您排班。我问过小何了，她那天可以顶我的班。您看行的话，那天就别排我了。",
    "lang": "zh",
    "note": "排班制的工作：尽早说、日期写清楚，把换班的人先找好，老板只需要点头。"
   },

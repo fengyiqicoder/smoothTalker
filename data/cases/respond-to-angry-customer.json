@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Linda, you ordered this wallet for your dad's 70th on Saturday and it still hasn't reached you, which is stressful this close to the day. I've checked the tracking: the courier returned it to me because the address on the order had house number 18 rather than 81. I'm sending it express today to number 81 at no cost to you, so it arrives on Friday 2 October, and you'll have the tracking number from me by 5pm. I'm Sam; reply here directly if anything else comes up.",
    "lang": "en",
    "note": "She's wrong on the facts, so correct once with the evidence, then protect her deadline anyway; the goodwill costs less than the argument."
+  },
+  {
+   "id": "respond-to-angry-customer-017",
+   "situation": "我是小区团购的团长，群里有400人。邻居刘姐在群里发了照片，说9月29日团的水蜜桃一箱里烂了一半，骂我黑心只顾赚钱。那批桃确实到货晚了一天，好几户都说有坏果。我打算坏几个退几个的钱，明天中午前退到微信，以后到货先开箱抽查再分。我是3栋的小周。",
+   "reply": "刘姐，9月29日那批水蜜桃您那箱烂了一半，花了钱拿到这样的东西，换谁都生气，这是我这个团长没把好关，对不起。这批桃凡是有坏果的，今晚8点前在群里或私信发我照片，坏几个退几个的钱，明天中午前退到微信。以后每批到货我先开箱抽查再分给大家。刘姐，我现在私信您，您那箱我先来处理。我是3栋的小周，有问题随时找我。",
+   "lang": "zh",
+   "note": "群里公开回复先认错、给所有人同一个补救办法，再把刘姐的具体情况转到私聊；不在群里提供货商。"
   }
  ]
 }

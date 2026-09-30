@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "small-talk-001",
@@ -113,6 +113,13 @@
    "reply": "Your mum says you've started playing bass in a band. What are you lot playing at the moment, covers or your own stuff?",
    "lang": "en",
    "note": "Teenagers shut down at questions about school; ask about the thing they chose."
+  },
+  {
+   "id": "small-talk-017",
+   "situation": "I'm Tom, a junior analyst, and I just ended up alone in the lift with our CEO, Margaret Osei, for about eight floors. The only thing I know is that at last week's all-hands she talked about the new Glasgow office opening in November.",
+   "reply": "Hi, I'm Tom from the analytics team. I enjoyed your all-hands talk last week. How's the Glasgow office coming along, is it still on track for November?",
+   "lang": "en",
+   "note": "With someone senior, one specific question about their project beats flattery or a pitch; let them do the talking."
   }
  ]
 }

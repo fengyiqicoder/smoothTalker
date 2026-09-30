@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -113,6 +113,13 @@
    "reply": "Rosa, so glad you're happy with the site, it's live and all yours. Since you mentioned you only change prices a couple of times a year, the free 30-minute handover will probably cover you: I'll show you how to edit prices and photos yourself. If you'd rather not touch it at all, there's also my maintenance plan at $60 a month, which covers updates, backups and small edits. No need for it though, the handover alone is a perfectly good setup.",
    "lang": "en",
    "note": "Leading with the free option is what makes the paid one read as advice."
+  },
+  {
+   "id": "upsell-without-pushiness-017",
+   "situation": "I run a mobile dog grooming van. Mrs. Chen booked a $55 bath for her cockapoo Bramble, and his coat is badly matted behind the ears. A full groom would fix it for $95 and take about another hour. She's waiting nearby and mentioned she has somewhere to be at 3pm.",
+   "reply": "Bramble's bath is all done and he was a star. He's quite matted behind the ears, so a full groom would sort that properly: it's $95 instead of $55 and takes about another hour. If that doesn't fit with your 3pm, the bath alone is completely fine for today and we can do the full groom next time.",
+   "lang": "en",
+   "note": "Naming the time cost alongside the price is what keeps it advice rather than a pitch."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -113,6 +113,13 @@
    "reply": "你好，谢谢喜欢！我们目前不做免费寄送，不过博主可以七折购买，一只128元折后89.6元，香型随便挑。要我把现在有货的香型发给你看看吗？",
    "lang": "zh",
    "note": "免费置换的请求也先给答案：不做，但给一个真实的选项，不评价对方粉丝多少。"
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-017",
+   "situation": "I'm a hairdresser working from a home salon. Chloe DMed 'how much for balayage? shoulder length, currently box dyed dark brown'. My balayage is $180 for shoulder length, box dye usually needs a colour-removal step first for $60, and I do free 15-minute consults to check the hair.",
+   "reply": "Hi Chloe! Balayage on shoulder-length hair is $180. With box dye you'll most likely need a colour-removal step first, which is $60, so plan on about $240 in total. I can confirm the exact price at a free 15-minute consult; want me to find you a time this week?",
+   "lang": "en",
+   "note": "When the price depends on the hair, still give the number: the base, the likely extra, the likely total, then the step that pins it down."
   }
  ]
 }

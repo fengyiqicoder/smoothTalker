@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 16,
+ "count": 17,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -113,6 +113,13 @@
    "reply": "Hi Hannah, could I ask a favour? I'd love an intro to Mark Ellis. Second Shift has now given 1,200 repaired laptops to school kids, and our open day on 14 November could be a good local education story for him. If you're not in touch enough for that to feel comfortable, just say, no problem at all.\nIf you're up for it, here's a blurb you can forward:\n\"Mark, I'd like to introduce my cousin Leah Porter. Leah runs Second Shift, a nonprofit that repairs donated laptops for school kids, 1,200 so far. She has an open day on 14 November and would value 10 minutes to tell you about it, in case it's useful for a story.\"\nI'll let you know how it goes either way. Thanks!\nLeah",
    "lang": "en",
    "note": "A press intro: the blurb gives the reporter a story hook and asks for 10 minutes, never for coverage."
+  },
+  {
+   "id": "request-intro-or-referral-017",
+   "situation": "我是独立纪录片导演，在拍一部关于传统手艺人的片子。好朋友阿杰的舅舅认识景德镇一位做了四十年拉坯的陈师傅，我想请阿杰帮忙问问，11月去陈师傅作坊拍三天，按天付他误工费，成片先给他看，他不想用的镜头就删。",
+   "reply": "阿杰，想请你帮个忙：能不能请你舅舅帮我问问陈师傅，愿不愿意让我11月去他作坊拍三天？下面这段你可以直接转给舅舅：“您好，我是阿杰的朋友，独立纪录片导演，正在拍一部关于传统手艺人的片子，想记录陈师傅拉坯的过程。计划11月在作坊拍三天，按天付误工费，成片先请陈师傅过目，他不想用的镜头都删掉。”要是舅舅跟陈师傅不算太熟，或者不方便开这个口，直接跟我说就行，完全没关系。有结果了我一定告诉你。",
+   "lang": "zh",
+   "note": "给拍摄对象的好处（误工费、成片审看权）写进可转发的那段，舅舅开口时就不用替你担保。"
   }
  ]
 }
