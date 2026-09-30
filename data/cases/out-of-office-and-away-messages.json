@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -134,6 +134,13 @@
    "reply": "Guten Tag, hier ist die Mailbox von Installateur Jan Keller. Ich bin vom 12. bis 23. Oktober im Urlaub und ab Montag, 26. Oktober, wieder erreichbar; Nachrichten höre ich erst dann ab. Bei einem Notfall wie Rohrbruch oder Heizungsausfall rufen Sie bitte Stefan Brandt an: 030 23125 456. Ich wiederhole: 030 23125 456. Wenn Sie Gas riechen, verlassen Sie das Haus und rufen Sie den Notruf. Vielen Dank.",
    "lang": "de",
    "note": "Eine Mailbox-Ansage hört man nur einmal: Rückkehrdatum, ob abgehört wird, die Notfallnummer zweimal, und bei Gasgeruch zuerst der Notruf."
+  },
+  {
+   "id": "out-of-office-and-away-messages-020",
+   "situation": "I'm a support engineer. I'm at an offsite training course from Tuesday Oct 6 to Thursday Oct 8, back at my desk Friday Oct 9, and will only check Slack once a day around 12:30. Priya Nair is covering customer escalations. I need a short Slack status plus a slightly longer note for people who DM me anyway.",
+   "reply": "Status: Training Oct 6 to 8, checking Slack at 12:30 only. Escalations: Priya Nair\n\nDM note: Hi, I'm on a training course from Tuesday 6 October to Thursday 8 October and back at my desk Friday 9 October. I read messages once a day around 12:30. For a customer escalation, please go to Priya Nair, who is covering. Everything else I'll answer at lunch or on Friday.",
+   "lang": "en",
+   "note": "A status is read in a glance: dates, when you look, one name. The longer note is for people who message anyway."
   }
  ]
 }

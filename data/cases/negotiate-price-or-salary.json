@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -134,6 +134,13 @@
    "reply": "山本様\nご連絡ありがとうございます。ゲームのローカライズは5年ほど続けてきた分野で、ぜひお手伝いしたいと思っております。料金について一点ご相談させてください。ご提示の1文字8円に対し、ゲーム内テキストの日英翻訳は1文字12円で承っております。用語集の作成とキャラクターごとの口調の統一まで含め、そのまま実装いただける品質でお納めするための料金です。この金額でご検討いただくことは可能でしょうか。ご予算に上限がある場合は、納期や対象範囲の調整でもご相談に応じます。\nよろしくお願いいたします。",
    "lang": "ja",
    "note": "Polite framing, but still one specific number and a value reason; the range stays private."
+  },
+  {
+   "id": "negotiate-price-or-salary-020",
+   "situation": "I'm Jess. Offer from Calder Logistics for an operations analyst role was $92k with a start date of Monday Oct 19. I countered at $106k, and the recruiter, Tomás, came back at $100k. I'd hoped for $104k, but $100k works. I'd really like to start Monday Nov 2 instead so I can take a break between jobs.",
+   "reply": "Hi Tomás,\nThank you for going back to them, I appreciate it. $100k works for me. One last thing before I sign: could we move the start date to Monday 2 November? With that, I'm ready to accept, and I'd love the updated offer in writing.\nBest,\nJess",
+   "lang": "en",
+   "note": "They moved once on base, so don't push it again; switch to a different lever and get it all in writing."
   }
  ]
 }

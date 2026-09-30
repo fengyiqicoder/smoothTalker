@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -134,6 +134,13 @@
    "reply": "Hi Sarah, thanks for showing me the Elm Row flat yesterday. I'd love to go ahead: I can move in from November 1, I'm looking to stay long term, and I'm happy to pay the pet deposit for my cat. I can send my references and ID today if that would help the landlord decide. Please let me know what you need next.",
    "lang": "en",
    "note": "In a busy market the follow-up that wins is the one that makes saying yes easiest: restate the fit, offer the paperwork now."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-020",
+   "situation": "The recruiter at Fenwick Labs, Dana Ruiz, called me this afternoon with a verbal offer for the UX researcher role: $92,000 salary, starting Monday Nov 2, 25 days' leave, and working from home on Fridays. She asked me to reply by Monday Oct 5. I want to accept, but only once it's in writing.",
+   "reply": "Hi Dana,\nThank you for the call this afternoon, I'm really pleased. To make sure I have it right: the UX researcher role at $92,000, starting Monday 2 November, with 25 days' leave and working from home on Fridays. I'm keen to accept; could you send the written offer so I can review and sign it before Monday 5 October? Please correct me if I've got any detail wrong.\nThanks again",
+   "lang": "en",
+   "note": "A verbal offer is a meeting too: recap the terms and ask for the written version before giving a firm yes."
   }
  ]
 }

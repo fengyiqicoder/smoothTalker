@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -134,6 +134,13 @@
    "reply": "Settling up for Lisbon! Total was 1,350 euros, so 270 each. I paid 1,050 (flat and groceries) and Sam paid 300 (car). Ana, Ben and Cleo: please send 260 to me and 10 to Sam. Sam, you don't owe anything. Thumbs up once you've paid, and by Friday Oct 9 please so we can close this out.",
    "lang": "en",
    "note": "Do the maths for everyone and give each person one number to pay; nobody should have to open a calculator."
+  },
+  {
+   "id": "group-chat-coordination-020",
+   "situation": "I lead a support team of six on Slack: me, Ana, Ben, Chloe, Dev and Femi. We need two people on shift each weekday from Monday Dec 21 to Friday Jan 1, which is 20 shifts, and everyone should take a fair share. Last year we argued about it in the channel until mid-December, so this year I've already made a draft rota in our shared sheet.",
+   "reply": "Holiday cover for Dec 21 to Jan 1: I've drafted a rota in the shared sheet, two people per weekday, 20 shifts, so everyone including me gets three or four. Please check your days and react with a tick if they work, or reply in thread with the swap you'd like, by Friday Oct 16. Anything not flagged by then stays as drafted, and I'll post the final rota on Monday Oct 19. Swaps after that are fine, just agree them between you and update the sheet.",
+   "lang": "en",
+   "note": "Start from a full draft instead of asking who wants what; people only need to object to their own row."
   }
  ]
 }

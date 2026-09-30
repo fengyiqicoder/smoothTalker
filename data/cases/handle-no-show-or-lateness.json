@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -134,6 +134,13 @@
    "reply": "豆豆每周都很盼着跟你过周末。最近三个周六，你分别是10点40、11点05和10点50到的，事先也没说，他每次都趴在窗口等。以后如果10点15你还没到、也没消息，我就先带他去楼下公园玩，你到了给我打电话。10点要是对你来说太赶，你说一个能准时到的时间，我们就改成那个。",
    "lang": "zh",
    "note": "对前任也是对事不对人：用具体时间代替'你总是'，说你会怎么做，再让他定一个守得住的时间；这些话别当着孩子说。"
+  },
+  {
+   "id": "handle-no-show-or-lateness-020",
+   "situation": "I'm a manager and I completely missed my 2pm 1:1 today with Lin, who reports to me. I got pulled into a budget review and didn't message her, and last week she told me she was bringing her promotion case to this one.",
+   "reply": "Lin, I missed our 2pm today and didn't let you know, and I'm sorry. I got pulled into the budget review and should have messaged you. I know you'd prepared your promotion case for it, and it deserves proper time. Can we do tomorrow, Thursday, at 10? I've blocked the hour and I'll protect it.",
+   "lang": "en",
+   "note": "When you're the senior one, the cost to them is bigger than it looks: name it, and make the new slot one you control."
   }
  ]
 }

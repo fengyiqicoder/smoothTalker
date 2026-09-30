@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -134,6 +134,13 @@
    "reply": "Nadia, can I give you some feedback on the run-through? You read most of the slides word for word, and it came in at 25 minutes against the 15 we have on Friday. If we run long, we lose the client before we reach pricing. What's your read on it? For Friday I'd like you to speak to the slides rather than read them and bring it in at 15, and I'd like one more run-through with you on Thursday at 2.",
    "lang": "en",
    "note": "Feedback before the event, while it can still change the outcome, with the next check already booked."
+  },
+  {
+   "id": "give-feedback-to-colleague-020",
+   "situation": "I'm head chef at a 40-cover bistro, and our kitchen uses red boards for raw meat. On Saturday night I saw our line cook Diego cut raw chicken and then the salad garnish on the same board without washing it; I pulled those plates before they went out. He's fast and the team likes him. I want to talk to him privately before Wednesday's shift.",
+   "reply": "Diego, can I give you some feedback on Saturday? During service you cut raw chicken and then the salad garnish on the same board without washing it, and I pulled those plates before they went out. That's exactly how guests end up seriously ill. What was going on at that point in service? From now on, raw meat goes on the red boards only, every time, even when we're slammed. What would make that easier on your station? I'll check in with you after Friday's service.",
+   "lang": "en",
+   "note": "Food safety is a health risk: one observation, the real impact, a firm rule and a check-in; his speed doesn't buy an exception."
   }
  ]
 }

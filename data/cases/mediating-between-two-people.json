@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -134,6 +134,13 @@
    "reply": "Hey Kai, thanks for coming to me rather than going another round in #general, and I can tell this ruling really got to you. I'm not going to take a side between you and Rowan, and I'm not banning anyone over a disagreement. What I am asking is that you both take it out of #general from now on, and I'm telling Rowan exactly the same. If you'd like to talk it through with him directly, I'm happy to set up a DM with the three of us this weekend.",
    "lang": "en",
    "note": "Neutral on the dispute, not on channel behaviour; if it turns into harassment it is a moderation matter, not a mediation."
+  },
+  {
+   "id": "mediating-between-two-people-020",
+   "situation": "My best friends Carol and Bea fell out over what Bea's hen do was going to cost. Last week Bea vented to me, including that she thinks Carol is 'tight with money'. Now Carol has messaged me: 'Be honest, what has Bea been saying about me?'",
+   "reply": "Carol, I can tell this is really eating at you, and I get why you'd want to know. I'm not going to pass on what either of you says to me, the same way I wouldn't tell Bea what you've told me. If you want to know where she stands, she's the one to ask, and I'm happy to help you think about how to start that conversation.",
+   "lang": "en",
+   "note": "Keep confidences: no hints either way, not even 'she wasn't that harsh', and the same rule applies to both."
   }
  ]
 }

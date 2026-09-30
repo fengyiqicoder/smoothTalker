@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "decline-request-001",
@@ -134,6 +134,13 @@
    "reply": "Hi Ethan, great cause, and good luck with the half marathon. I'm going to say no to sponsoring; I give to a fixed set of charities each year and keep it to those. I'm happy to share your fundraising page on LinkedIn today if that helps it reach more people.",
    "lang": "en",
    "note": "A rule about your own giving, not a judgement on his cause, leaves nothing to negotiate; the share is the real smaller yes."
+  },
+  {
+   "id": "decline-request-020",
+   "situation": "My great-aunt Ruth, 84, asked me on the phone yesterday to be the executor of her will. I'm honoured, but I live in Singapore and she's in Ohio, so I couldn't be there to handle things properly. She sees her lawyer about the will next month, and I'd genuinely like to help her think through who else could do it.",
+   "reply": "Aunt Ruth, I've been thinking about what you asked me yesterday, and I'm so touched you'd trust me with it. I'm going to say no to being your executor. Living in Singapore, I couldn't be there to look after things the way you deserve. I'd really like to help you think through who else could do it before you see your lawyer next month; could I call you on Sunday to talk it over? Thank you for asking me, it means a lot.",
+   "lang": "en",
+   "note": "A big-responsibility ask: one true, practical reason and a real smaller yes; she chooses the executor, you only help her think."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -134,6 +134,13 @@
    "reply": "阿斌，好久不见，一晃快十年了。上周回老家，看到院里那棵老槐树还在，一下就想起小时候咱俩蹲在树底下弹玻璃珠。跟你直说吧：我明年5月在老家结婚，特别希望你能来，人来就好，千万别随礼。具体日子定了再告诉你。你在广州这些年怎么样？不急着回。",
    "lang": "zh",
    "note": "When the reason for reaching out is an invitation, say it plainly in the first message and take the money worry off the table."
+  },
+  {
+   "id": "reconnect-after-silence-020",
+   "situation": "I was very close to my ex-husband Mark's sister, Jenna, but we haven't spoken since the divorce two years ago; there was no fight between her and me. I saw on Instagram that she's opened a pottery studio. She once taught me to throw a wonky bowl one Christmas, and I still use it every day.",
+   "reply": "Hi Jenna, it's been about two years, and I've missed you. I saw the photos of your new pottery studio and it made me smile: I still use the wonky bowl you taught me to throw that Christmas, every single day. How's the studio going? No pressure to reply, I just wanted to say hi.",
+   "lang": "en",
+   "note": "Leave Mark and the divorce out of it; this message is only about the two of you."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -134,6 +134,13 @@
    "reply": "Thanks for coming round and taking the time to explain it all. I've already made up my mind, and I've got the kids' dinner on, so I'm going to leave it there. Good luck with the rest of the street.",
    "lang": "en",
    "note": "Nothing to argue with and no question at the end; say it, smile, and close the door."
+  },
+  {
+   "id": "end-conversation-gracefully-020",
+   "situation": "At our company offsite dinner, the CFO, Diane, has been talking to me one-on-one for 40 minutes about her daughter's college applications. I'm flattered, but my team is at the other table and it's Priya's last night with us before she leaves the company. I want to go over without it looking like I'm brushing off the CFO.",
+   "reply": "Diane, this has been a real treat, and good luck to your daughter with the applications. I'm going to go join my team, it's Priya's last night with us and I want to raise a glass with her. Enjoy the rest of the evening.",
+   "lang": "en",
+   "note": "With someone senior, a warm recap and a true reason you can say out loud; you don't need them to release you."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -134,6 +134,13 @@
    "reply": "Hi Ines, saw your post about morning walks around Victoria Park. I'm on leave with a five-month-old, Theo, and would love some adult conversation on a walk, even if it ends up being mostly about naps. Do you have a usual loop or time you head out?",
    "lang": "en",
    "note": "She asked for company, so one relevant clause about you is fine; one easy question about her routine rather than fixing a date straight away."
+  },
+  {
+   "id": "first-message-to-stranger-020",
+   "situation": "J'ai trouvé hier un carnet de croquis oublié sur un banc du parc de la Tête d'Or, plein de dessins des hérons du lac. Sur la première page il y a un nom, Camille Roux, et son compte Instagram. Je veux lui écrire pour le lui rendre.",
+   "reply": "Bonjour Camille, je crois que j'ai votre carnet de croquis : je l'ai trouvé hier sur un banc du parc de la Tête d'Or, celui avec les hérons du lac. Il est bien au sec chez moi. Dites-moi quel jour vous arrange pour qu'on se retrouve au parc et que je vous le rende.",
+   "lang": "fr",
+   "note": "Rendre un objet à un inconnu : un détail qui prouve que c'est bien le sien, une remise dans un lieu public, et rien de plus."
   }
  ]
 }

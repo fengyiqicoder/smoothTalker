@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -134,6 +134,13 @@
    "reply": "Hi Chloe, one update since the samples: I've dropped my wholesale minimum from 24 mugs to 12, which might make a first order easier to test. Are the mugs something you'd like to stock this season? A quick yes, no or not yet is all I need.",
    "lang": "en",
    "note": "Touch 2: real news as the reason to write, and a one-word way to say no."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-020",
+   "situation": "我是做品牌设计的，在给一家烘焙店的老板娘林姐做Logo，9月10号把第二版发过去后她就没回了。后来听共同朋友说，她父亲8月底住院了。我想发一条不给她压力的消息。",
+   "reply": "林姐，听说叔叔住院了，希望他早日康复。Logo的事您完全不用着急，我这边先暂停，等您方便了回这条消息，我们就接着做。要是想换个时间或者先不做了，也直接说一声就好。",
+   "lang": "zh",
+   "note": "知道对方家里有事时，不催进度，主动暂停，把什么时候继续交给她决定。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -134,6 +134,13 @@
    "reply": "I understand the audit timing makes this hard, Ines, and I want to leave it in good shape. My last day stays Friday 16 October, because I start my new role on Monday the 19th and can't move it. Before I go I'll finish the audit prep folder and walk Tom through all of it, and if he gets stuck the week after, I'm happy to do two short evening calls with him. Which parts of the audit would you like me to cover first?",
    "lang": "en",
    "note": "When asked to stay longer, hold the date, offer one bounded extra you actually want to give, and turn the talk to handover priorities."
+  },
+  {
+   "id": "leave-or-quit-gracefully-020",
+   "situation": "I'm in the second year of a PhD with Professor Okafor, funded on her research grant. I've accepted an industry data science job starting Monday Jan 11, so I'm leaving the programme. I'll finish my draft of our shared dataset paper by Friday Dec 18 and document the cleaning code for whoever takes it over. I'm telling her in our meeting tomorrow and sending an email afterwards.",
+   "reply": "Dear Professor Okafor,\nThank you for making time today. As I said, I've decided to leave the PhD programme and have accepted a data science role starting Monday 11 January. Before I go, I'll finish my draft of our dataset paper by Friday 18 December and document the cleaning code so whoever takes it over can pick it up easily. I've learned a great deal from you over these two years, and I'm grateful for the trust you showed in funding me on your grant. Could we agree a handover plan at our next meeting?\nBest wishes",
+   "lang": "en",
+   "note": "Tell a supervisor in person first, and check your funding terms for any notice or repayment conditions before you set a date."
   }
  ]
 }

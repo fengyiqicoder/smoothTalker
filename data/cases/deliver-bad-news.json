@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -134,6 +134,13 @@
    "reply": "阿峰，有个不太好的消息，想先跟你说。房东今天通知，11月底续租月租要从1万涨到1万5，涨了50%，按我们当初说好的超过20%就关店，这家店得关了。我知道这一年你花了多少心思，8万里大概只能拿回3万左右，我心里也很不是滋味。设备转卖和退租的事我先去问价，等你出差回来一起定。今晚你方便的话我们打个电话。",
    "lang": "zh",
    "note": "先提醒一句再说结论，用两人事先的约定作为理由，把后续决定留给两个人一起做。"
+  },
+  {
+   "id": "deliver-bad-news-020",
+   "situation": "I run a six-person design studio. On Sept 21 I offered Lena a junior designer job starting Monday Oct 19, and she has already handed in her notice at her café job. Yesterday our biggest client cancelled a $90k contract, so I can't afford the hire and have to withdraw the offer; I'm calling her at 5pm today and emailing straight after, and I can pay her $1,800 (two weeks' salary), give her a reference and introduce her to two studio owners I know.",
+   "reply": "Hi Lena, following our call, I want to put this in writing. I have to withdraw the junior designer offer I made on 21 September. Yesterday our biggest client cancelled a $90k contract, and the studio can't afford a new hire right now; it has nothing to do with you or your work. I know you've already handed in your notice, and I'm truly sorry for the position this puts you in. I'll pay you $1,800, two weeks' salary, this week, give you a strong reference, and introduce you to two studio owners I know. I'm here if you want to talk again.",
+   "lang": "en",
+   "note": "Call first, then write it down. Withdrawing an accepted offer can have legal consequences, so check the offer letter and get advice before sending."
   }
  ]
 }

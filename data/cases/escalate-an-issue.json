@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -134,6 +134,13 @@
    "reply": "Hi Dana, I need a priority call from you by tomorrow noon. Priya needs the churn analysis for the board deck and Owen needs the pricing model for the Hartley renewal, both by Friday Oct 9, and each is about 3 days of work, so I can finish one. I've told them both I'm bringing it to you. Could you decide which comes first? My recommendation is the Hartley model, since the renewal date can't move, and I can give Priya a one-page churn summary for the board deck instead.",
    "lang": "en",
    "note": "When two people with equal power disagree, escalate the choice, not the people, and tell both before you do."
+  },
+  {
+   "id": "escalate-an-issue-020",
+   "situation": "我是客服组的周敏。周一（9月28日）我发现公司共享盘里有个文件夹设成了“任何人凭链接可查看”，里面有大约400份客户的身份证扫描件。当天就告诉了负责共享盘的IT同事老韩，他说会改，到今天下午还是公开的。我已经跟老韩说了要去找信息安全负责人何经理。",
+   "reply": "标题：今天下班前需要处理：共享盘客户身份证文件夹仍可公开访问\n何经理您好，我是客服组的周敏。9月28日周一我发现共享盘里有个文件夹设成了“任何人凭链接可查看”，里面约有400份客户身份证扫描件。当天我告诉了负责共享盘的老韩，他说会改，但截至今天下午仍然是公开的，我也跟他说了会来找您。链接多开放一天，客户信息外泄的风险就多一天。能否请您今天下班前安排关闭公开权限？我的建议是先改成仅内部可见，再查一下有没有被外部访问过。",
+   "lang": "zh",
+   "note": "涉及客户个人信息，截止时间按小时算；是否需要上报或通知客户，交给公司的安全和法务判断。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -134,6 +134,13 @@
    "reply": "Prezado Sr. Ricardo,\nEscrevo em nome da minha mãe, Lúcia Ferreira, locatária do apartamento 51 da Rua das Palmeiras, 240, em Campinas, para comunicar a desocupação do imóvel e o encerramento da locação em 31 de outubro de 2026, conforme o aviso de 30 dias por escrito previsto na cláusula 11 do contrato. Ela vai se mudar para uma casa de repouso, e eu cuido da entrega com a procuração dela, que segue em anexo. O aluguel de outubro será pago normalmente, e gostaria de agendar a vistoria e a entrega das chaves para o dia 31. Pode me confirmar por escrito o recebimento deste aviso?\nObrigada por esses 15 anos de locação.\nAtenciosamente,\nMariana Ferreira",
    "lang": "pt",
    "note": "Confirme com a imobiliária se a procuração cobre a rescisão e em que forma o aviso precisa ser entregue, e guarde uma cópia."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-020",
+   "situation": "我在北京整租了一套两居，是跟房东签合同的主租人，合同2027年1月15日到期。次卧转租给了室友阿杰，他的押金3000在我这儿，我们当初约定谁要走提前一个月说。我明年1月回成都工作，不续租了，想在微信上正式通知他。",
+   "reply": "阿杰，跟你正式说一下：我明年1月回成都工作，跟房东的合同1月15日到期后就不续了，所以你次卧的转租也到2027年1月15日结束。咱们约定的是提前一个月说，我现在就告诉你，是想让你多点时间找房。你的3000押金，1月15日交房验完没问题，当天就退给你。收到回我一声，找房需要帮忙随时说。",
+   "lang": "zh",
+   "note": "结束日期跟着主合同走；他想不想跟房东直接续签，让他自己去问，别替房东答应。"
   }
  ]
 }

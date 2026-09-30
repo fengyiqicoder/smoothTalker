@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -134,6 +134,13 @@
    "reply": "Hi Alan and Sue, it's Kate from number 14. The potholes on our shared drive have got quite deep since last winter, and I've had a quote of £1,300 to regrade and resurface the whole thing. As the deeds have it as jointly maintained, would you be happy to split it, £650 each? I'm glad to get a second quote first if you'd like to compare. Let me know what you think.",
    "lang": "en",
    "note": "Ask before any work starts; billing a neighbour afterwards turns a shared cost into a dispute."
+  },
+  {
+   "id": "neighbour-disputes-020",
+   "situation": "我叫陈静，住702，孩子5岁。楼下602嫌吵，我们已经铺了地垫，晚上9点后也不让孩子跑跳。9月26日晚上11点左右他上楼踹我家门、大声骂人，孩子吓哭了；9月28日晚上又用杆子捅天花板半个多小时。我不想再跟他当面沟通，想正式给物业李经理发消息。",
+   "reply": "李经理您好，我是702的业主陈静，想正式反映楼下602住户的问题。我家孩子5岁，我们已经铺了地垫，晚上9点后也不让孩子跑跳。9月26日晚上11点左右，602住户上楼踹我家门并大声辱骂，孩子被吓哭；9月28日晚上又用杆子捅天花板半个多小时。出于安全考虑，我不打算再和他当面沟通，麻烦物业出面协调，并先保存9月26日晚上7楼楼道的监控。方便的话这周给我回个电话，谢谢！",
+   "lang": "zh",
+   "note": "对方再踹门或威胁时别开门理论，直接打110报警；给物业的消息只写事实和日期。"
   }
  ]
 }

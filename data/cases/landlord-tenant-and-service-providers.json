@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -134,6 +134,13 @@
    "reply": "Hi Aisha, the boiler is due to be replaced, and the engineer can come on Tuesday 6 October or Thursday 8 October, 8am to 1pm. There'll be no heating or hot water while they work. I know you sleep during the day after night shifts, so which of the two days would disrupt you less? I'll be there to let the engineer in myself, so you won't need to get up, and I'll confirm the day in writing once you choose.",
    "lang": "en",
    "note": "Landlord side: offer a choice that fits the tenant's life; the notice clause is the minimum, not the whole courtesy."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-020",
+   "situation": "I've rented flat 3 at 22 Grove Lane from Mrs Patel for two years and always paid on time. Clause 14 of the lease says no pets without the landlord's written consent. I want to adopt Pepper, a 4-year-old neutered indoor cat, from a shelter on Saturday 17 October, and I'm happy to add £200 to the deposit and pay for a professional carpet clean when I move out.",
+   "reply": "Hi Mrs Patel, I'd like to ask for your written consent under clause 14 of the lease to keep a cat at flat 3. She's Pepper, a 4-year-old neutered indoor cat from a shelter, and I'm hoping to bring her home on Saturday 17 October. I'm happy to add £200 to the deposit and to pay for a professional carpet clean when I move out. Could you let me know by Friday 9 October whether that works for you? Thank you, and thanks for two good years here.",
+   "lang": "en",
+   "note": "A permission request: cite the clause, take the risk off her plate up front, and set a reply date that leaves time before the adoption."
   }
  ]
 }

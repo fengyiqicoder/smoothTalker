@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -134,6 +134,13 @@
    "reply": "Hello, this is Anna Kowalski following up on my blood test from 16 September. When I called on 25 September I was told a doctor would ring me about the results, and I haven't had a call yet. Could someone let me know whether the results are back and if I need an appointment? I'm on 07700 900123 on weekdays after 1pm.",
    "lang": "en",
    "note": "Health: if symptoms get worse, call the surgery rather than wait on the form, and call emergency services if it feels urgent."
+  },
+  {
+   "id": "follow-up-unanswered-020",
+   "situation": "我在找工作，9月18号微信问以前的同事阿杰能不能帮我内推他们公司的产品经理岗位，上周二又跟进了一次。今天他回：“不好意思，部门最近冻结招聘了，帮不上忙。”",
+   "reply": "明白，谢谢你特意回我，还把情况说清楚了。你先忙，以后有机会再聊。",
+   "lang": "zh",
+   "note": "跟进换来一个“不行”也是结果：一句谢谢就收，不追问，也不顺势请他帮别的忙。"
   }
  ]
 }

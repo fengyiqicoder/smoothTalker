@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -134,6 +134,13 @@
    "reply": "Dear neighbours,\nOn Saturday 26 September a private party in our beer garden carried on loudly until 12:40am, well past our 11pm closing time for the garden. That kept many of you awake, and I'm sorry. It was our job to close it on time and we didn't. From now on the garden closes at 10:30pm, a member of staff checks it's empty, and we no longer take garden bookings after 9pm. If anything from the pub disturbs you, email me at ruth@example.com or ask for me at the bar and I'll deal with it myself.\nRuth, licensee, The Copper Lantern",
    "lang": "en",
    "note": "The public here is the street, not social media: a letter through the door reaches exactly the people affected."
+  },
+  {
+   "id": "public-apology-from-a-business-020",
+   "situation": "I run Pedal & Pine, a bike rental shop. On 22 September I posted on Instagram that a booking-system glitch 'didn't charge anyone twice'. Yesterday our statements showed 48 customers were charged twice, $35 each; we refunded all 48 this morning, which should show within 10 business days, by 14 October. We now check each day's charges against bookings before closing. I'm the owner, Leo, and people can email leo@example.com.",
+   "reply": "A correction to my post on 22 September: I said our booking glitch hadn't charged anyone twice. That was wrong. 48 of you were charged twice for a rental, $35 each, and I'm sorry, both for the charge and for telling you it hadn't happened. All 48 refunds went out this morning, no action needed. From now on we check each day's charges against bookings before we close. If you were charged twice and the refund hasn't appeared by Wednesday 14 October, email me at leo@example.com. Leo, owner.",
+   "lang": "en",
+   "note": "Correcting your own earlier statement: say what you got wrong first and apologise for both the error and the false reassurance."
   }
  ]
 }

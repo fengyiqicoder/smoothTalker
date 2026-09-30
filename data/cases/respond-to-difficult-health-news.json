@@ -4,7 +4,7 @@
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
-   "situation": "My coworker Sam told me privately over DM that she's been diagnosed with MS and will have a lot of appointments. Same team, not super close.",
+   "situation": "My coworker Sam told me privately over DM that she's been diagnosed with MS and will have a lot of appointments. Same team, not super close; she runs our Thursday client check-ins.",
    "reply": "Thank you for trusting me with that, Sam. I'm really sorry. If it helps, I can take the Thursday client check-ins whenever you're at an appointment, just send me the dates. It stays with me.",
    "lang": "en",
    "note": "Workplace version: warmth, one practical offer, and privacy. No questions about the diagnosis."
@@ -18,7 +18,7 @@
   },
   {
    "id": "respond-to-difficult-health-news-003",
-   "situation": "My friend told me she has breast cancer and I blurted out that my aunt died of it. I feel awful and want to fix it.",
+   "situation": "My friend told me she has breast cancer and I blurted out that my aunt died of it. I'd already offered to bring dinner on Thursday. I feel awful and want to fix it.",
    "reply": "I've been thinking about what I said about my aunt, and it wasn't what you needed to hear. I'm sorry. I'm here, I'll follow your lead, and I'm still bringing dinner on Thursday unless you tell me otherwise.",
    "lang": "en",
    "note": "One line of ownership, then back to her. A long apology makes her comfort you."
@@ -40,7 +40,7 @@
   {
    "id": "respond-to-difficult-health-news-006",
    "situation": "我带的组员小何私聊我，说确诊了中度抑郁，医生建议休息两周，想从下周一开始请假。她不想让组里其他人知道原因。",
-   "reply": "谢谢你愿意告诉我，这不容易。你安心休息，假我批了，10月5号到16号。手上的月报我安排别人接，你把在跟的事列个简单清单发我就行，不用写得很细。组里我只说你请假，不会提原因。想聊或者需要什么随时找我，不回消息也完全没关系。",
+   "reply": "谢谢你愿意告诉我，这不容易。你安心休息，假我批了，10月5号到16号。你手上的工作我安排别人接，你把在跟的事列个简单清单发我就行，不用写得很细。组里我只说你请假，不会提原因。想聊或者需要什么随时找我，不回消息也完全没关系。",
    "lang": "zh",
    "note": "上级回应下属的健康消息：先接住，再把假期、交接、保密一次说清，最后给她不用回复的自由。"
   },
@@ -81,15 +81,15 @@
   },
   {
    "id": "respond-to-difficult-health-news-012",
-   "situation": "My manager, Karen, emailed our team of eight that she's been diagnosed with breast cancer, starts treatment next week and will be on reduced hours through December. I want to reply to her privately, not reply-all.",
+   "situation": "My manager, Karen, emailed our team of eight that she's been diagnosed with breast cancer, starts treatment next week and will be on reduced hours through December. I usually back her up on the Monday team meeting and vendor calls. I want to reply to her privately, not reply-all.",
    "reply": "Karen, thank you for telling us so openly, and I'm really sorry you're facing this. On the work side, I'm happy to run the Monday team meeting and cover the vendor calls while you're on reduced hours, just say the word. No need to reply to this. Thinking of you.",
    "lang": "en",
    "note": "Upward, keep it short: warmth, one practical offer within your role, no questions about the diagnosis, and nothing that needs an answer."
   },
   {
    "id": "respond-to-difficult-health-news-013",
-   "situation": "My close friend Owen texted that he's checking into a 28-day residential program for his drinking on Monday. He said only his sister and I know, and asked me not to tell anyone. We've been friends since school.",
-   "reply": "Owen, thank you for telling me. That took guts, and I'm really proud of you. It stays with me. I can have Rufus for the 28 days, or pop round to water the plants and grab your post, whichever helps; just tell me which. No need to reply tonight.",
+   "situation": "My close friend Owen texted that he's checking into a 28-day residential program for his drinking on Monday. He said only his sister and I know, and asked me not to tell anyone. We've been friends since school, and he lives alone with his dog, Rufus.",
+   "reply": "Owen, thank you for telling me. That took guts, and I'm really proud of you. It stays with me. I can have Rufus for the 28 days, or pop round to walk him and grab your post, whichever helps; just tell me which. No need to reply tonight.",
    "lang": "en",
    "note": "Treat it like any health news: thanks, privacy said out loud, one practical offer, and no questions about how bad it got."
   },
@@ -103,7 +103,7 @@
   {
    "id": "respond-to-difficult-health-news-015",
    "situation": "My friend Sofia texted that she lost the pregnancy at 11 weeks yesterday. Only a few people knew she was pregnant. She said she doesn't want to talk about it yet.",
-   "reply": "Sofia, I'm so sorry. Thank you for telling me, and it stays with me. You don't need to talk about it with me until you want to, if ever. I'm leaving dinner for you and Ben on the doorstep on Thursday evening, no knock. No need to reply.",
+   "reply": "Sofia, I'm so sorry. Thank you for telling me, and it stays with me. You don't need to talk about it with me until you want to, if ever. I'm leaving dinner for you on the doorstep on Thursday evening, no knock. No need to reply.",
    "lang": "en",
    "note": "No questions, no 'at least it was early', nothing about trying again; follow her lead on whether it gets talked about."
   },
@@ -116,10 +116,10 @@
   },
   {
    "id": "respond-to-difficult-health-news-017",
-   "situation": "大学室友小雅昨天私下告诉我，她确诊了乳腺癌，10月13日周二做手术。她女儿朵朵5岁，在上幼儿园，我家离她家二十分钟车程。想发微信给她，不知道说什么好。",
-   "reply": "小雅，谢谢你愿意告诉我。听到这个消息我很难过，也很心疼你。13号和14号下午我去幼儿园接朵朵，带她吃完晚饭再送回家，你只管安心手术。放学时间和老师电话等你方便的时候再发我，不着急，现在不用回我。",
+   "situation": "大学室友小雅骑车摔断了腿，住院一周，今天在朋友圈发了张病床照片，说“要躺一阵了”。她一个人住，养了只猫，我有她家备用钥匙。想发微信给她，又怕打扰她休息。",
+   "reply": "小雅，刚看到你住院了，心疼你。你不叫我，我就不去医院打扰你休息。你住院这几天，猫我每天下班过去喂，用我手上那把备用钥匙，你只管养伤。不用回我。",
    "lang": "zh",
-   "note": "重病和丧事一样：不劝、不解释、不问病情细节，给一个具体的帮忙，并免除她回复的负担。"
+   "note": "朋友住院：不擅自探望，不问是怎么摔的，主动接下一件具体的事，并免除她回复的负担。"
   },
   {
    "id": "respond-to-difficult-health-news-018",
@@ -133,7 +133,7 @@
    "situation": "我在德国工作。我哥在家族群里说，爸爸上周确诊了早期阿尔茨海默病，这几个月都是他一个人带爸去看医生。他说得很平静，但我知道他扛得很累。爸不在这个群里。我12月有两周假可以回国，也可以从这周六开始每周六晚上跟爸视频。",
    "reply": "哥，谢谢你告诉我，也谢谢你这几个月一直带爸看医生，你一个人扛了这么多，辛苦了。我12月有两周假，回国那两周爸的事都交给我，你好好歇一歇。从这周六开始，我每周六晚上给爸打视频，陪他聊聊天。这条不用急着回。",
    "lang": "zh",
-   "note": "When the news comes from the person caring for the patient, support the carer too, and skip the questions about the diagnosis."
+   "note": "消息来自照顾病人的家人时，也要接住照顾者本人：谢谢他、分担一件具体的事，不追问病情细节。"
   }
  ]
 }

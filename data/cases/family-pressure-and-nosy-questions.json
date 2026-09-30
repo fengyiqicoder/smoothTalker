@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -134,6 +134,13 @@
    "reply": "We keep Lucia's story in the family for now; it's hers to share when she's older. Lucia, do you want to show Aunt Pam the dinosaur you drew for her this morning?",
    "lang": "en",
    "note": "The child is listening, so the line is calm and final. If Pam returns to it, a word with her alone later works better than a firmer line at the table."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-020",
+   "situation": "I've been a stay-at-home dad since our twins were born two years ago, and my wife Priya and I are happy with the arrangement. Her dad, Gerald, keeps asking at family lunches 'so when are you going back to real work?' He's been building a garden bench in his new workshop. Lunch at theirs on Sunday.",
+   "reply": "Ha, the twins keep me plenty busy, Gerald. Priya and I are happy with how it's working. Now, did you finish that bench, or is it still in pieces in the workshop?",
+   "lang": "en",
+   "note": "No defending the arrangement to an in-law; if he asks again, repeat the same line nearly word for word."
   }
  ]
 }

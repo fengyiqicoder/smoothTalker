@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -134,6 +134,13 @@
    "reply": "Hey Kemi, odd one: I've checked my account twice and the $75 for the concert tickets hasn't shown up on my side. Could you have a look in your app and send me a screenshot of the payment? It might have gone to an old account or be stuck as pending. Easy to sort once we can see where it went.",
    "lang": "en",
    "note": "A payment they say they sent is a shared puzzle, not a dispute: say what you checked, ask for what their app shows, never suggest they're lying."
+  },
+  {
+   "id": "money-between-friends-020",
+   "situation": "好朋友阿宁是职业摄影师，上周六给我拍了孕妇照，拍了三个小时，还修了30张图。她平时拍一组收2,000元，这次坚持不收钱，说是送我的礼物。我想把钱付给她，又怕她觉得我见外。",
+   "reply": "阿宁，照片我翻来覆去看了好几遍，每一张都舍不得删，真的谢谢你！你说是送我的礼物，这份心意我收下了。但拍三个小时再修30张图是你的工作，我想按你平时的价格付2,000元，刚在微信上转给你了，点一下收款就好。你要是实在不肯收，那就让我请你吃顿大餐，地方你挑。",
+   "lang": "zh",
+   "note": "朋友用专业帮你，付钱是尊重她的工作，不是还人情；她坚持不收就真的放下，换个方式谢她。"
   }
  ]
 }
