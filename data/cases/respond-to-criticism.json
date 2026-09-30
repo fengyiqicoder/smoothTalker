@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -141,6 +141,13 @@
    "reply": "Carla, obrigada por me falar direto. Você tem razão sobre a louça: nessas últimas três semanas deixei tudo na pia por dias e você acabou lavando por mim, e isso não é justo com você. Sobre eu nunca ajudar em nada, vejo um pouco diferente, porque cuido das contas e das compras do mês, mas entendo que a louça pesa mais no dia a dia. A partir de hoje lavo a minha antes de dormir, mesmo depois do turno. Se tiver mais alguma coisa te incomodando, prefiro saber: topa conversar no domingo?",
    "lang": "pt",
    "note": "Concorde com o fato concreto, discorde do 'nunca' em uma frase e sem placar."
+  },
+  {
+   "id": "respond-to-criticism-021",
+   "situation": "Marta, a senior engineer, commented on my pull request: 'This is overengineered, three new classes for what should be a 20-line function.' She's right about the config builder and the formatter. The third class, the retry wrapper, is there because our logs show the payment API timing out on about 1 in 50 calls.",
+   "reply": "Thanks, Marta, fair catch. You're right that the config builder and the formatter are overkill, and I'll fold them into one function. The retry wrapper I'd like to keep in some form, since our logs show the payment API timing out on about 1 in 50 calls. Would a plain function with a retry loop work for you instead of a class? I'll push the changes this afternoon.",
+   "lang": "en",
+   "note": "In a code review, agree with the specifics, give the one fact behind the part you'd keep, and end with a question rather than a defence."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -141,6 +141,13 @@
    "reply": "Hey Marcus, could I ask a favour? Would you be up for introducing us to Tanya at The Blue Heron? We're after a Thursday night slot in November, and since we usually pull 40 to 50 people I think we'd be a decent bet for a weeknight.\n\nIf it helps, here's something you can forward: \"The Low Tide Trio is a piano, bass and drums jazz trio that's played 30 gigs around town this year. They'd love a Thursday in November and can send a live recording first.\"\n\nIf you'd rather not put your name on it with Tanya, totally fine, just say. Either way I'll let you know how it goes.",
    "lang": "en",
    "note": "Peer-to-peer in a small scene: the blurb gives the booker a number she cares about, and the out protects Marcus's own gigs there."
+  },
+  {
+   "id": "request-intro-or-referral-021",
+   "situation": "My friend Nadia just emailed an intro to me and Grace Liu, a UX research lead, saying I'm moving into UX research after eight years teaching secondary science and would love 20 minutes of Grace's time. Grace hasn't replied yet. What do I write back?",
+   "reply": "Thanks so much, Nadia (moving you to bcc). Grace, lovely to meet you. After eight years teaching secondary science I'm moving into UX research, and I'd really value 20 minutes to hear how you'd approach that switch. Would a video call in the next couple of weeks work? I'm happy to fit around your schedule, and no worries at all if now's a busy time.",
+   "lang": "en",
+   "note": "Reply fast, move the introducer to bcc so she sees it landed, keep the ask small, and report back to Nadia after the call."
   }
  ]
 }

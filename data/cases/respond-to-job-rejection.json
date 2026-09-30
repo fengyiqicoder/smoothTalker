@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -140,6 +140,13 @@
    "reply": "赵女士您好，谢谢告知结果，也谢谢您这几周一直帮我协调面试时间。结果我接受。想麻烦您一件小事：如果方便，能否请陈经理用一两句话说说我的笔试方案里最需要改进的一点？不方便也完全没关系。希望以后还有机会合作。",
    "lang": "zh",
    "note": "作业投入越大，越要把反馈问题缩小到“一点”，对方才愿意回。"
+  },
+  {
+   "id": "respond-to-job-rejection-021",
+   "situation": "I just finished a 12-week summer internship on the data team at Corvel Health, where I built the churn dashboard. My manager Ben told me on a call today there's no return offer because of headcount, not my performance, and said he'd happily be a reference. I want to thank him and take him up on that.",
+   "reply": "Hi Ben, thanks for telling me yourself today, and for a summer where I learned more than in any class, especially getting to own the churn dashboard. I understand about the headcount. I'd love to take you up on your offer to be a reference, and I'll give you a heads-up before I list you anywhere. I hope our paths cross again.",
+   "lang": "en",
+   "note": "When they have already offered something, the one ask is simply accepting it; save the 'keep me in mind' for later."
   }
  ]
 }

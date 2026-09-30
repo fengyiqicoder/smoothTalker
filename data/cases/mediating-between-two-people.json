@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -141,6 +141,13 @@
    "reply": "Carol, I can tell this is really eating at you, and I get why you'd want to know. I'm not going to pass on what either of you says to me, the same way I wouldn't tell Bea what you've told me. If you want to know where she stands, she's the one to ask, and I'm happy to help you think about how to start that conversation.",
    "lang": "en",
    "note": "Keep confidences: no hints either way, not even 'she wasn't that harsh', and the same rule applies to both."
+  },
+  {
+   "id": "mediating-between-two-people-021",
+   "situation": "I own a small bakery with four staff. After weeks of friction over who cleans the ovens at close, my head baker Rita texted me tonight: 'Either Kev goes or I do.' Kev is our newest baker. I don't want to lose either of them.",
+   "reply": "Rita, thank you for telling me straight, and I can hear how fed up you are. I'm not going to settle this with an ultimatum, and I'm not ruling on who's in the right about the ovens. What I will do is fix the closing routine: I'd like the three of us to sit down on Friday after close, agree who cleans what and when, and I'll put it up on the wall. Before then, is there anything you want me to know?",
+   "lang": "en",
+   "note": "Neutral on who's right, firm on the fix; if Rita describes harassment rather than friction, it's no longer a mediation."
   }
  ]
 }

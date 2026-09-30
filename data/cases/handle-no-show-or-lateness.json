@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -141,6 +141,13 @@
    "reply": "Lin, I missed our 2pm today and didn't let you know, and I'm sorry. I got pulled into the budget review and should have messaged you. I know you'd prepared your promotion case for it, and it deserves proper time. Can we do tomorrow, Thursday, at 10? I've blocked the hour and I'll protect it.",
    "lang": "en",
    "note": "When you're the senior one, the cost to them is bigger than it looks: name it, and make the new slot one you control."
+  },
+  {
+   "id": "handle-no-show-or-lateness-021",
+   "situation": "我和同事小赵拼车上班，我开车。这个月我接她已经迟到了三次，9月14日、22日和29日，每次十几分钟，昨天还害她错过了9点的部门例会。我想好好道歉，并从明天起提前15分钟出门，8点05分到她楼下。",
+   "reply": "小赵，这个月我接你迟到了三次，14号、22号和昨天，昨天还害你错过了9点的例会，真的对不起。这不是运气不好，是我早上出门卡得太紧。从明天起我提前15分钟出门，8点05分到你楼下；要是哪天真赶不上，我8点前一定发消息给你，你直接打车，车费我出。",
+   "lang": "zh",
+   "note": "自己的迟到成了规律，就别只为这一次道歉：说出次数，再给一个能兑现的改法。"
   }
  ]
 }

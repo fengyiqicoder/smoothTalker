@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -141,6 +141,13 @@
    "reply": "A correction to my post on 22 September: I said our booking glitch hadn't charged anyone twice. That was wrong. 48 of you were charged twice for a rental, $35 each, and I'm sorry, both for the charge and for telling you it hadn't happened. All 48 refunds went out this morning, no action needed. From now on we check each day's charges against bookings before we close. If you were charged twice and the refund hasn't appeared by Wednesday 14 October, email me at leo@example.com. Leo, owner.",
    "lang": "en",
    "note": "Correcting your own earlier statement: say what you got wrong first and apologise for both the error and the false reassurance."
+  },
+  {
+   "id": "public-apology-from-a-business-021",
+   "situation": "I'm Tom, chef at Harvest Table, a supper club. We served 48 guests on Saturday 26 September and 11 have told us they've had vomiting and diarrhoea since. Environmental health inspected yesterday and we don't have results yet; we've paused all events, are refunding all 48 guests in full today, and our inbox is hello@example.com.",
+   "reply": "Eleven of the 48 guests at our Harvest Table dinner on Saturday 26 September have told us they've been ill since, with vomiting and diarrhoea. I'm Tom, the chef, and I'm sorry. We've paused all events, environmental health inspected our kitchen yesterday, and we don't yet know the cause. All 48 guests are being refunded in full today, with nothing you need to do. We'll post here what the inspection finds and what we change before we cook for anyone again. If you're still unwell, please see a doctor, and if symptoms are severe, call emergency services; to talk to me directly, email hello@example.com.",
+   "lang": "en",
+   "note": "Health incident: say plainly that the cause is unknown, promise only the update, and point anyone still ill to medical help."
   }
  ]
 }

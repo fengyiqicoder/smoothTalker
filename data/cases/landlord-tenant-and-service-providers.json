@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -141,6 +141,13 @@
    "reply": "Hi Mrs Patel, I'd like to ask for your written consent under clause 14 of the lease to keep a cat at flat 3. She's Pepper, a 4-year-old neutered indoor cat from a shelter, and I'm hoping to bring her home on Saturday 17 October. I'm happy to add £200 to the deposit and to pay for a professional carpet clean when I move out. Could you let me know by Friday 9 October whether that works for you? Thank you, and thanks for two good years here.",
    "lang": "en",
    "note": "A permission request: cite the clause, take the risk off her plate up front, and set a reply date that leaves time before the adoption."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-021",
+   "situation": "302号室の山本です。管理会社の田中さんから、外壁工事で10月5日から11月末まで足場が組まれ、ベランダが使えないと連絡がありました。平日9時から17時は在宅勤務で騒音も心配です。家賃は月8万2千円で、工事期間中だけ1割下げてもらえないか相談したいです。",
+   "reply": "田中様、いつもお世話になっております。302号室の山本です。外壁工事のご連絡ありがとうございます。10月5日から11月末までベランダが使えず、平日日中は在宅勤務のため騒音の影響も大きいので、工事期間中の家賃（月8万2千円）を1割減額していただけないか、ご相談させてください。工事が必要なことは理解しておりますので、協力いたします。10月9日（金）までにご検討いただけますと幸いです。",
+   "lang": "ja",
+   "note": "減額に応じる義務があるかは契約書と地域のルールで違うので確認を。頼む金額は一つに絞る。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -141,6 +141,13 @@
    "reply": "Hi Tomás,\nThank you for going back to them, I appreciate it. $100k works for me. One last thing before I sign: could we move the start date to Monday 2 November? With that, I'm ready to accept, and I'd love the updated offer in writing.\nBest,\nJess",
    "lang": "en",
    "note": "They moved once on base, so don't push it again; switch to a different lever and get it all in writing."
+  },
+  {
+   "id": "negotiate-price-or-salary-021",
+   "situation": "我拿到一家新能源车企数据产品经理的offer，定级P6，月薪3.2万，薪资我能接受。我在上一家公司独立带过4人的数据团队，负责的指标平台覆盖全公司，同类带团队的岗位一般定P7。我很想去，希望把定级谈到P7，HR是刘女士。",
+   "reply": "刘女士您好，谢谢您发来的offer，我很期待加入团队，薪资部分我没有问题。有一点想跟您坦率沟通：这次定级是P6，结合我之前独立带4人数据团队、负责全公司指标平台的经历，我原本预期的是P7。这些经验入职后就能直接用在贵司的数据产品上。定级上有没有调整的空间？如果这次确实调不了，能不能在offer里写明入职六个月后按P7标准复评？",
+   "lang": "zh",
+   "note": "定级和薪资一样可以谈：一个明确的级别，一条最强的理由，再给一个复评的退路，谈成后写进offer。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -141,6 +141,13 @@
    "reply": "Holiday cover for Dec 21 to Jan 1: I've drafted a rota in the shared sheet, two people per weekday, 20 shifts, so everyone including me gets three or four. Please check your days and react with a tick if they work, or reply in thread with the swap you'd like, by Friday Oct 16. Anything not flagged by then stays as drafted, and I'll post the final rota on Monday Oct 19. Swaps after that are fine, just agree them between you and update the sheet.",
    "lang": "en",
    "note": "Start from a full draft instead of asking who wants what; people only need to object to their own row."
+  },
+  {
+   "id": "group-chat-coordination-021",
+   "situation": "Our D&D group of five plays on Discord. Priya's work shifts changed, so I posted a poll for a new session day: Tuesday 7:30pm or Sunday 3pm. Four days later it's 2 for Tuesday and 1 for Sunday, and Marcus and Priya haven't voted.",
+   "reply": "@Marcus @Priya you're the last two votes on the new session day: Tuesday 7:30pm or Sunday 3pm. Priya, it's your shifts we're working around, so if one of these doesn't work for you, just say and that settles it. React T or S by Thursday night. If we don't hear, it's Tuesday, starting Tuesday 6 October.",
+   "lang": "en",
+   "note": "Name the two missing voters warmly, give the person the change is for a quiet veto, and keep the deadline and default."
   }
  ]
 }

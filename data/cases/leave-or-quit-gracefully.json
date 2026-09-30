@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -141,6 +141,13 @@
    "reply": "Dear Professor Okafor,\nThank you for making time today. As I said, I've decided to leave the PhD programme and have accepted a data science role starting Monday 11 January. Before I go, I'll finish my draft of our dataset paper by Friday 18 December and document the cleaning code so whoever takes it over can pick it up easily. I've learned a great deal from you over these two years, and I'm grateful for the trust you showed in funding me on your grant. Could we agree a handover plan at our next meeting?\nBest wishes",
    "lang": "en",
    "note": "Tell a supervisor in person first, and check your funding terms for any notice or repayment conditions before you set a date."
+  },
+  {
+   "id": "leave-or-quit-gracefully-021",
+   "situation": "I'm quitting my job at a small design agency after 18 months, mainly because the founder, Mark, yells at people in meetings. I've accepted another role, my contract says four weeks' notice so my last day is Friday Oct 30, and I look after three client accounts. I'm telling him on a call tomorrow; he'll ask why and I don't want to get into it.",
+   "reply": "Mark, I wanted to tell you directly: I've decided to leave, and I'm giving my four weeks' notice today, so my last day will be Friday 30 October. I've accepted another role, and it's time for a change. I'll write up handover notes for my three client accounts by the end of next week so nothing drops. Thank you for the last 18 months.",
+   "lang": "en",
+   "note": "Leaving because of problems: no reason owed. If he presses, repeat 'it's time for a change'; keep any honest feedback for an exit interview, factual."
   }
  ]
 }

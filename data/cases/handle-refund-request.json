@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -141,6 +141,13 @@
    "reply": "山本様、ご連絡ありがとうございます。台風の予報が出ている中、お母様とご一緒の移動がご心配なのはもっともです。今回キャンセル料はいただきません。宿泊代3万6千円の全額返金か、11月以降のお好きな日程への無料変更か、どちらかお選びください。ご返信いただいた日に手続きいたします。またお二人をお迎えできる日を楽しみにしております。",
    "lang": "ja",
    "note": "安全に関わるキャンセルは規定を持ち出さずに受ける。台風は公式の警報で確認し、危険が迫ったら避難や119番を優先してもらう。"
+  },
+  {
+   "id": "handle-refund-request-021",
+   "situation": "Ich betreibe ein kleines Yogastudio. Frau Becker schreibt per Mail, dass ihre 10er-Karte für 150 Euro zweimal abgebucht wurde. Im System sehe ich tatsächlich zwei Zahlungen vom 28. September, und eine Rückerstattung auf die Karte dauert bei uns 3 bis 5 Werktage.",
+   "reply": "Liebe Frau Becker, danke für den Hinweis, und entschuldigen Sie den Ärger: Ihre 10er-Karte wurde am 28. September tatsächlich zweimal abgebucht. Die doppelte Zahlung über 150 Euro habe ich heute zurückerstattet, sie sollte in 3 bis 5 Werktagen wieder auf Ihrer Karte sein. Falls bis Mittwoch, 7. Oktober, nichts angekommen ist, schreiben Sie mir bitte direkt, dann kümmere ich mich sofort darum. Bis bald im Studio!",
+   "lang": "de",
+   "note": "Ein Fehler auf unserer Seite braucht keine Abwägung: das Ja in die erste Zeile, Betrag, Zeitraum und was zu tun ist, falls nichts ankommt."
   }
  ]
 }

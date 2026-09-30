@@ -5,7 +5,7 @@
   {
    "id": "roommate-and-shared-living-001",
    "situation": "Roommate Tyler hasn't paid his half of September's internet and electric, $87. I paid the whole thing on the 5th. We get along fine otherwise.",
-   "reply": "Hey Tyler, September's internet and electric came out on the 5th, your half is $87. Can you Venmo me by Friday? I'll set up Splitwise so we can both see it from next month.",
+   "reply": "Hey Tyler, September's internet and electric came out on the 5th, your half is $87. Can you send it over by Friday? I'll start a shared note for the bills so we can both see them from next month.",
    "lang": "en",
    "note": "Amount, date and a system, with no commentary. Money goes in writing."
   },
@@ -33,14 +33,14 @@
   {
    "id": "roommate-and-shared-living-005",
    "situation": "我和两个室友合租，下个月底要搬走了，押金是三个人一起交给房东的。想在群里说一声，顺便把房间交接和最后的水电费说清楚，别到时候扯皮。",
-   "reply": "跟大家说个事：我10月31日搬走，这周会正式跟房东说。你们要是想找熟人来住我那间，我很乐意配合带看。走之前想约个时间一起看看房间和客厅厨房的状况，10月30日周五晚上可以吗？卫生间我走前会彻底打扫，10月的水电按账单算好我这份转给你们，押金我们到时候三个人一起跟房东确认。这两年住得很开心，谢谢你们！",
+   "reply": "跟大家说个事：我10月31日搬走，这周会正式跟房东说。你们要是想找熟人来住我那间，我很乐意配合带看。走之前想约个时间一起看看房间和客厅厨房的状况，10月30日周五晚上可以吗？卫生间我走前会彻底打扫，10月的水电按账单算好我这份转给你们，押金我们到时候三个人一起跟房东确认。跟你们住得很开心，谢谢你们！",
    "lang": "zh",
    "note": "搬走前把日期、交接检查和最后的账单都落在群里，押金三个人一起跟房东对，免得之后各说各话。"
   },
   {
    "id": "roommate-and-shared-living-006",
    "situation": "My roommate Jess texted that my boyfriend keeps using her oat milk and leaving his shoes in the hallway, and it's 'getting a bit much'. She's right, he's over about four nights a week. I want to reply without getting defensive.",
-   "reply": "You're right, and thanks for saying it instead of stewing. He's been here a lot more than either of us signed up for. Here's what I'm thinking: three nights a week max, his shoes live in my room, I'll replace your oat milk today, and he'll chip in $20 a month toward groceries and bills while he's around this much. Happy to change any of that if something else works better for you.",
+   "reply": "You're right, and thanks for saying it instead of stewing. He's been here a lot more than either of us signed up for. Here's what I'm thinking: three nights a week max, his shoes live in my room, I'll replace your oat milk today, and I'll put an extra $20 a month toward groceries and bills while he's around this much. Happy to change any of that if something else works better for you.",
    "lang": "en",
    "note": "When you are the one being complained about: agree first, then bring the concrete fix yourself so she doesn't have to negotiate it."
   },
@@ -53,7 +53,7 @@
   },
   {
    "id": "roommate-and-shared-living-008",
-   "situation": "My roommate Kayla owes me $214 for August and September utilities. I reminded her in the house chat on Sept 8 and by text on Sept 20, and both times she said 'yeah will send'. We're both on the lease. I want to be firm without blowing up the flat.",
+   "situation": "My roommate Kayla owes me $214 for utilities, $102 for August and $112 for September. I reminded her in the house chat on Sept 8 and by text on Sept 20, and both times she said 'yeah will send'. We're both on the lease with Marsh Property. I want to be firm without blowing up the flat.",
    "reply": "Hi Kayla, coming back to the utilities: it's $214 in total, $102 for August and $112 for September. I've asked a couple of times now and I need it by Thursday 8 October. If it's still outstanding then, I'll ask Marsh Property about putting the bills into separate accounts, since we're both on the lease. If paying it all at once is tricky right now, tell me and we can do half now and half on the 15th.",
    "lang": "en",
    "note": "Past two reminders: exact amounts, a due date and the next step in writing, plus one real way to make paying possible. No comment on her reliability."
@@ -74,10 +74,10 @@
   },
   {
    "id": "roommate-and-shared-living-011",
-   "situation": "I rent a room in Margaret's house; she owns it and lives here too. Twice this week I came home and could tell she'd been in my room while I was out, she said to 'check the radiator'. She's nice and I want to stay, but I'd like her to ask first.",
-   "reply": "Hi Margaret, a small thing I wanted to mention. I noticed you'd been in my room a couple of times this week while I was out, for the radiator. I'd feel more comfortable if you could text me before going in, and I'm happy to be there or leave the door open for you at a time that suits. Does that work?",
+   "situation": "My roommate Sophie went through a bad breakup last month. Our rota gives her the bathroom this fortnight and it hasn't been cleaned, and the bins are the quickest job on it. I want to be kind and not add to her stress.",
+   "reply": "Hey Sophie, no pressure at all, I know the last few weeks have been rough. The bathroom's slipped a bit on the rota, which is completely understandable. Want to swap for now: I'll take the bathroom for the next two weeks and you take the bins? Happy to shuffle it however works better for you.",
    "lang": "en",
-   "note": "When the other person is also your landlord, keep it a small, specific request about the house; if it continues, check your tenancy agreement or local renter guidance."
+   "note": "When a roommate is struggling, keep the system and lighten their load with a swap, rather than letting it slide or giving a lecture."
   },
   {
    "id": "roommate-and-shared-living-012",
@@ -95,7 +95,7 @@
   },
   {
    "id": "roommate-and-shared-living-014",
-   "situation": "My flatmate Ben just told me he's moving in with his girlfriend at the end of October. We're both on a joint lease until April at £1,400 a month, £700 each, and I can't cover the full rent on my own.",
+   "situation": "My flatmate Ben just told me he's moving in with his girlfriend at the end of October. We're both on a joint lease with Parkside Lettings until April at £1,400 a month, £700 each, and I can't cover the full rent on my own.",
    "reply": "Hey Ben, congrats, that's exciting news. Since we're both on the lease until April, we need a plan for your half. Could we agree you keep paying your £700 until someone takes over your room, and that we find that person together, both happy with them? I'll ask Parkside Lettings this week how a swap works on our lease. Happy to talk it through tonight if you see it differently.",
    "lang": "en",
    "note": "Put it in writing early and ask the agent in writing how a replacement is approved. On a joint lease you may be liable for the full rent, so check before you agree to anything."

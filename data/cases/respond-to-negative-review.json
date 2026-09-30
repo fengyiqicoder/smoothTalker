@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -141,6 +141,13 @@
    "reply": "Thank you, Hannah and Luke, for being straight about this. Your photos took 11 weeks against the 6 in our contract, and my replies were slow while you waited. That's on me: I fell behind this summer and didn't tell you early, which is the part I regret most. Every couple now gets a delivery date on the wedding day, and an email from me straight away if anything changes. I'd like to talk this through with you properly at sam@example.com. Sam Reyes",
    "lang": "en",
    "note": "When the business is one person, sign as that person and own the miss in the first person; no reasons beyond one clause."
+  },
+  {
+   "id": "respond-to-negative-review-021",
+   "situation": "我叫美和，在京都开一家小民宿。一位中国客人在订房平台上给了两星，说房间比照片小很多，隔音也差，晚上能听到隔壁说话。房间面积页面上一直写着12平米，隔音差是真的；现在每间房都放了耳塞，页面上写明了“木造老屋，隔音一般”，照片旁边也加了面积说明。客人可以在平台上私信我。",
+   "reply": "谢谢您具体说出房间大小和隔音的问题。隔音差是事实，让您晚上没休息好，真的很抱歉。现在每间房都备了耳塞，页面上也写明了“木造老屋，隔音一般”，让之后的客人提前知道。房间面积页面上标的是12平米，我们也在照片旁边加了面积说明，避免看照片产生误会。如果您愿意再聊聊，欢迎在平台上私信我。美和",
+   "lang": "zh",
+   "note": "用客人的语言回复；对的部分先认，面积只平静地说一次事实，不争论，也不公开提补偿。"
   }
  ]
 }

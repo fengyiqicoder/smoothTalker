@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -141,6 +141,13 @@
    "reply": "Thanks for telling me yourself, Ben, that was thoughtful. Congratulations to you and Chloe, I mean it. I hope you have a really happy wedding.",
    "lang": "en",
    "note": "A courtesy announcement gets a gracious full stop: thanks, real congratulations, and no question that reopens the conversation."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-021",
+   "situation": "我和男朋友阿杰异地恋两年，我在北京，他在深圳，视频总约不上。这几个月我想清楚了，想分手，下次见面要到春节，我不想拖到那时候。他去年冬天在我这儿留了一件羽绒服和一箱书。",
+   "reply": "阿杰，这件事本该当面说，但我不想拖到春节，所以现在告诉你：我想分手。这几个月我想得很清楚，两地这样下去，我想要的日常陪伴我们给不了彼此，这是我自己的决定，不是你做错了什么。你的羽绒服和那箱书，我这周末打包寄到你深圳的地址。祝你一切都好。",
+   "lang": "zh",
+   "note": "分手放在前两句，只给一个真实的理由，说清东西怎么处理；不说“还做朋友”，除非现在就是真心的。"
   }
  ]
 }

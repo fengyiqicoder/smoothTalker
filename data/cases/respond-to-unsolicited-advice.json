@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -141,6 +141,13 @@
    "reply": "刘妈妈，谢谢你惦记着我们家孩子，还特意把班的信息发给我。我们家商量过了，周末还是让他踢球，奥数这次先不报。俩孩子玩得这么好，哪个周末约着一起去公园踢球吧？",
    "lang": "zh",
    "note": "对热心的熟人用“说明立场”这一级就够，不讲理由，用孩子的友谊把话题转开；她再提就重复同一句。"
+  },
+  {
+   "id": "respond-to-unsolicited-advice-021",
+   "situation": "I'm running my first marathon on Sunday Oct 18 and following the training plan from my running club's coach. My friend Julien, who's run three marathons, sends me WhatsApp tips almost every day about carb-loading, my taper and gels. It's kind, but it's making me second-guess the plan.",
+   "reply": "Thanks, Julien, I love that you're this invested in my first marathon! I'm sticking with my coach's plan right to the end, so I'm not changing anything before the 18th. What I'd really love from you now is a cheer at the finish, or at least a message on race morning.",
+   "lang": "en",
+   "note": "Respond to the care, state the position once, and give him a role that isn't advice."
   }
  ]
 }

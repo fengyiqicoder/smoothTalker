@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -141,6 +141,13 @@
    "reply": "阿杰，跟你正式说一下：我明年1月回成都工作，跟房东的合同1月15日到期后就不续了，所以你次卧的转租也到2027年1月15日结束。咱们约定的是提前一个月说，我现在就告诉你，是想让你多点时间找房。你的3000押金，1月15日交房验完没问题，当天就退给你。收到回我一声，找房需要帮忙随时说。",
    "lang": "zh",
    "note": "结束日期跟着主合同走；他想不想跟房东直接续签，让他自己去问，别替房东答应。"
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-021",
+   "situation": "On September 1 I emailed my landlord Martin notice that I'd leave my flat at 5 Hollis Street on October 31. Yesterday the job move to Leeds fell through and I'd like to stay. Rent is £975, I've paid on time for three years, and as far as I know nobody has viewed the flat yet.",
+   "reply": "Hi Martin, I'd like to ask whether I could withdraw the notice I emailed on 1 September to leave 5 Hollis Street on 31 October. The job move behind it fell through yesterday, and I'd be glad to stay on at £975 on the same terms. I know you may already have plans for the flat, and if so I'll leave on 31 October as given. Could you let me know by Friday 9 October, and if it's a yes, confirm it in writing? Thanks for three easy years.",
+   "lang": "en",
+   "note": "Withdrawing notice is a request: treat the original date as still standing until he agrees in writing."
   }
  ]
 }

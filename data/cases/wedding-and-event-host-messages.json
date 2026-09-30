@@ -19,27 +19,27 @@
   {
    "id": "wedding-and-event-host-messages-003",
    "situation": "我们的婚礼不带小孩。表姐说她女儿5岁、很乖，不让带的话她就不来了。",
-   "reply": "表姐，我懂，也不好意思让你为难。这次对所有人都是一样的安排，都不带小朋友。你来不了的话我们会很想你，等忙完了我们带上妞妞一起吃顿好的。",
+   "reply": "表姐，我懂，也不好意思让你为难。这次对所有人都是一样的安排，都不带小朋友。你来不了的话我们会很想你，等忙完了我们带上你家闺女一起吃顿好的。",
    "lang": "zh",
    "note": "对方说不来时，温和地接受，不讨价还价，也不开例外；一个例外会变成五个。"
   },
   {
    "id": "wedding-and-event-host-messages-004",
    "situation": "We're cutting our wedding (June 2027) down to 40 people, family and a few close friends. My old college roommate Jen has been saying 'can't wait for your wedding!' for a year and she won't be invited. Invites go out in November. I want to tell her before she hears it from someone else.",
-   "reply": "Jen, I wanted to tell you myself before the invitations go out in November. We've had to cut the wedding right down to 40, mostly family and a handful of friends, so we couldn't invite everyone we'd hoped to, including you. I'm really sorry, especially after how excited you've been for us. I'd love to take you out for dinner when we're back from the honeymoon, my treat.",
+   "reply": "Jen, I wanted to tell you myself before the invitations go out in November. We've had to cut the wedding right down to 40, mostly family and a handful of friends, so we couldn't invite everyone we'd hoped to, including you. I'm really sorry, especially after how excited you've been for us. I'd love to take you out for dinner after the wedding, my treat.",
    "lang": "en",
    "note": "Tell her first and personally, give the real category reason once, and don't promise a party you're not planning."
   },
   {
    "id": "wedding-and-event-host-messages-005",
-   "situation": "友達の健太と美咲の結婚お祝いパーティの幹事をやる。会費制で1人8,000円、ご祝儀やプレゼントは不要にしたい。11月14日（土）、恵比寿のお店。参加者のLINEグループに案内を送りたい。",
+   "situation": "友達の健太と美咲の結婚お祝いパーティの幹事をやる。会費制で1人8,000円、ご祝儀やプレゼントは不要にしたい。11月14日（土）18時から、恵比寿のビストロ・ソレイユで料理と飲み放題込み。参加者のLINEグループに案内を送りたい。",
    "reply": "健太と美咲の結婚お祝いパーティのご案内です。日時は11月14日（土）18時から、会場は恵比寿の「ビストロ・ソレイユ」です。会費制で、お一人8,000円（お料理とフリードリンク込み）を当日受付でお願いします。ご祝儀やプレゼントのお気遣いは不要です、皆さんに来ていただけることが二人にとって一番のお祝いです。お店に人数を伝えるため、10月30日（金）までにこのグループで出欠を教えてください。",
    "lang": "ja",
    "note": "会費と「ご祝儀不要」は全員に向けた決まりとして最初の案内で一度だけ伝え、出欠の締め切りには理由を添える。"
   },
   {
    "id": "wedding-and-event-host-messages-006",
-   "situation": "我们10月24日周六办婚礼，仪式环节想请大家别举着手机拍，已经请了摄影师。想在宾客微信群里提前说一下，又怕长辈觉得被管着。",
+   "situation": "我们10月24日周六办婚礼，仪式环节想请大家别举着手机拍，仪式大约20分钟，已经请了摄影师阿峰，他婚礼后一周内交照片。想在宾客微信群里提前说一下，又怕长辈觉得被管着。",
    "reply": "各位亲友好，10月24日（周六）婚礼的仪式大约20分钟，想请大家这段时间把手机收起来，陪我们在现场好好看着就好。摄影师阿峰会把每个瞬间拍下来，婚礼后一周内把照片发到群里，大家随便下载。仪式结束后的宴席随便拍，欢迎多多合影！那天见。",
    "lang": "zh",
    "note": "规则说成活动本身的安排、对所有人一样，再告诉大家能得到什么（照片），长辈就不会觉得被针对。"
@@ -47,23 +47,23 @@
   {
    "id": "wedding-and-event-host-messages-007",
    "situation": "I'm hosting my husband's 40th on a river boat on Saturday Oct 24, 7pm, about 60 guests. I want a 1920s Gatsby theme, but half our friends hate dressing up. I need the dress code line for the invite.",
-   "reply": "Dress code: 1920s glamour, as much or as little as you like. Think a sharp suit, a dress with some sparkle, or your best going-out outfit plus a feather or a flat cap. Normal party clothes are completely welcome. The top deck is open-air and the river gets cold after dark, so bring a layer. We board at 7pm from Butler's Wharf and the boat leaves at 7:30.",
+   "reply": "Dress code: 1920s glamour, as much or as little as you like. Think a sharp suit, a dress with some sparkle, or your best going-out outfit plus a feather or a flat cap. Normal party clothes are completely welcome. We'll be on the river after dark, so bring a warm layer.",
    "lang": "en",
    "note": "One rule stated for everyone, specific enough to follow, with an easy minimum so the costume-haters don't feel singled out or stay home."
   },
   {
    "id": "wedding-and-event-host-messages-008",
    "situation": "Our wedding is Saturday Nov 14, and we're at 90 guests, the venue's limit. My mom keeps asking to add three friends from her book club. My fiancé Dan and I agreed no more additions from anyone. She texted about it again today.",
-   "reply": "Mom, I know how much your book club means to you, and I love that you want them there. Dan and I are at 90, which is the venue's limit, and we're not adding anyone else from either side. That's our final answer on the list. We'd love to have the three of them over for a drink when we're back from the honeymoon.",
+   "reply": "Mom, I know how much your book club means to you, and I love that you want them there. Dan and I are at 90, which is the venue's limit, and we're not adding anyone else from either side. That's our final answer on the list. We'd love to have the three of them over for a drink after the wedding.",
    "lang": "en",
    "note": "Agree the answer with your co-host first, give it once as a rule for both sides, and if she asks again, repeat it shorter without new reasons."
   },
   {
    "id": "wedding-and-event-host-messages-009",
-   "situation": "Our wedding is Saturday Oct 24. My coworker Dana RSVP'd yes on our website for herself plus 'Mark', a guy she's been seeing for a few weeks. Her invite was just for her; we're only doing plus-ones for couples who are engaged or live together.",
-   "reply": "Hi Dana, so glad you can make it on the 24th! Quick note on the RSVP: we've kept plus-ones to partners who are engaged or live together so we stay within the venue's numbers, so your invitation is just for you. I've updated it on our end, so there's nothing you need to do. You'll be at a table with the whole office crew, and I can't wait to celebrate with you.",
+   "situation": "Our wedding is Saturday Oct 24. My friend Tom just asked if he can propose to his girlfriend during our reception. My fiancée and I have already decided no announcements or surprises from anyone at the reception, and we've said no to a pregnancy announcement too.",
+   "reply": "Tom, thank you for asking first, and I'm so happy for you both. We've decided to keep the reception free of announcements and surprises from anyone, so we'd rather it didn't happen at the wedding. I can't wait to hear every detail when it does, and we'll be first in line to toast you.",
    "lang": "en",
-   "note": "Correct it quickly and privately, state the category rule once, and fix the list yourself so she has nothing awkward left to do."
+   "note": "An exception request that isn't about the guest list: thank them, give the rule that already applies to everyone, and cheer them on elsewhere."
   },
   {
    "id": "wedding-and-event-host-messages-010",
@@ -75,42 +75,42 @@
   {
    "id": "wedding-and-event-host-messages-011",
    "situation": "We're having a small backyard wedding on Saturday Oct 17. We've lived together five years and have everything we need. I want the website to say no gifts, but people keep asking, so if they insist, a contribution to our Lisbon honeymoon.",
-   "reply": "Gifts: Having you with us on the 17th is truly all we want, so please don't feel you need to bring anything. If you'd still like to mark the day, we're saving for a week in Lisbon next spring, and there's a small honeymoon fund linked below. Either way, we can't wait to celebrate with you.",
+   "reply": "Gifts: Having you with us on the 17th is truly all we want, so please don't feel you need to bring anything. If you'd still like to mark the day, we're saving for our honeymoon in Lisbon, and there's a small honeymoon fund linked below. Either way, we can't wait to celebrate with you.",
    "lang": "en",
    "note": "Website, not the invitation card: gifts framed as optional, one preference, placed where guests will actually look."
   },
   {
    "id": "wedding-and-event-host-messages-012",
-   "situation": "My daughter Isla turns 6 and we've invited her whole class of 24 to a party at a soft-play centre on Saturday Oct 17. The centre charges per child and we're at our limit. Two parents have asked if they can bring younger siblings. I want to post once in the class WhatsApp group.",
+   "situation": "My daughter Isla turns 6 and we've invited her whole class of 24 to a party at a soft-play centre on Saturday Oct 17, 2 to 4pm. The centre charges per child and we're at our limit. Two parents have asked if they can bring younger siblings. I want to post once in the class WhatsApp group.",
    "reply": "Hi everyone, thank you for all the lovely replies for Isla's party on Saturday 17 October! A quick note, since a couple of people have asked: the soft-play centre charges per child and we're at our limit, so we can only include children from the class this time, not brothers and sisters. Parents are very welcome to stay for a coffee, or drop off and pick up at 4pm. Isla can't wait to see everyone.",
    "lang": "en",
    "note": "Answer the whole group once, as a rule for everyone, so the two parents who asked don't feel singled out."
   },
   {
    "id": "wedding-and-event-host-messages-013",
-   "situation": "我爸70岁寿宴原定10月17日（周六）在酒店办，请了三十多位亲戚。他上周做了个小手术，恢复得不错但医生让多休息，我们决定改到11月14日（周六），酒店已经改好了。要在家族群里通知。",
-   "reply": "各位亲戚好，跟大家说一声：我爸的七十大寿宴从10月17日（周六）改到11月14日（周六），时间还是中午11点半，地点还是金陵饭店三楼。爸上周做了个小手术，很顺利，医生建议多休养几周，我们想让他精神足足地过这个生日。给大家添麻烦了，已经订了车票或安排好行程的，私信我，我们一起想办法。麻烦大家11月6日（周五）前在群里说一下能不能来，酒店要定桌数。",
+   "situation": "我爸70岁寿宴原定10月17日（周六）中午11点半在锦园酒店三楼办，请了三十多位亲戚。他上周做了个小手术，恢复得不错但医生让多休息，我们决定改到11月14日（周六），酒店已经改好了。要在家族群里通知。",
+   "reply": "各位亲戚好，跟大家说一声：我爸的七十大寿宴从10月17日（周六）改到11月14日（周六），时间还是中午11点半，地点还是锦园酒店三楼。医生建议爸多休养几周，我们想让他精神足足地过这个生日。给大家添麻烦了，已经订了车票或安排好行程的，私信我，我们一起想办法。麻烦大家11月6日（周五）前在群里说一下能不能来，酒店要定桌数。",
    "lang": "zh",
-   "note": "Postponing: new date first, one line of reason, help for those already committed, a fresh RSVP date."
+   "note": "改期通知：先说新日期，原因一句带过、不讲病情细节，给已经安排好行程的人留个办法，再给一个新的回复截止日。"
   },
   {
    "id": "wedding-and-event-host-messages-014",
-   "situation": "Our wedding on Saturday Nov 14 will be alcohol-free because my fiancé Marcus is two years sober. We don't want to explain that to 120 guests. I need a line for the website FAQ, and I know a few friends will grumble.",
-   "reply": "Will there be a bar? We're hosting a dry celebration, so there won't be alcohol at the ceremony or the reception. Instead there's a mocktail bar with three signature drinks we've been perfecting all summer, good coffee, and a dessert table that runs until midnight. We can't wait to see you on the dance floor.",
+   "situation": "Our wedding on Saturday Nov 14 will be alcohol-free because my fiancé Marcus is two years sober. We don't want to explain that to 120 guests. There'll be a mocktail bar and a dessert table. I need a line for the website FAQ, and I know a few friends will grumble.",
+   "reply": "Will there be a bar? We're hosting a dry celebration, so there won't be alcohol at the ceremony or the reception. Instead there's a mocktail bar and a dessert table. We can't wait to see you on the dance floor.",
    "lang": "en",
    "note": "State the rule once as a fact about the event; the reason is yours to keep, and if a friend grumbles, repeat it shorter with no new reasons."
   },
   {
    "id": "wedding-and-event-host-messages-015",
    "situation": "我们10月17日（周六）办婚礼，回复截止是9月25日，之后桌数和座位已经跟酒店定死了，一个位置都加不了。大学同学老周今天才说要来，还想带女朋友一起。",
-   "reply": "老周，谢谢你想着来！回复上周五截止后，桌数和座位就跟酒店定死了，这次一个人都加不了，对所有人都是一样的。这次见不到你们俩真的很可惜。等我们度完蜜月回来，请你和女朋友吃顿饭，好好喝一杯。",
+   "reply": "老周，谢谢你想着来！回复上周五截止后，桌数和座位就跟酒店定死了，这次一个人都加不了，对所有人都是一样的。这次见不到你们俩真的很可惜。等婚礼忙完，请你和女朋友吃顿饭，好好喝一杯。",
    "lang": "zh",
    "note": "过了截止日期的回复：规则对所有人一样，理由一句说清，不开例外，再给一个具体的见面机会。"
   },
   {
    "id": "wedding-and-event-host-messages-016",
    "situation": "Nos casamos el sábado 17 de octubre. Mi novio y yo decidimos que solo den discurso los padrinos y mi hermana Laura, para que la cena no se alargue. Mi tío Rafael me acaba de escribir que quiere decir unas palabras en el banquete.",
-   "reply": "Tío Rafael, gracias de corazón por querer decir algo ese día, nos emociona mucho. Hemos dejado los discursos solo para los padrinos y Laura, para que la cena no se alargue, y es igual para todos. Nos encantaría escuchar esas palabras en persona durante la fiesta, o que nos las dejes escritas en el libro de firmas para leerlas con calma. ¡Qué ganas de verte el 17!",
+   "reply": "Tío Rafael, gracias de corazón por querer decir algo ese día, nos emociona mucho. Hemos dejado los discursos solo para los padrinos y Laura, para que la cena no se alargue, y es igual para todos. Nos encantaría escuchar esas palabras en persona durante la fiesta, o que nos las escribas en una tarjeta para leerlas con calma. ¡Qué ganas de verte el 17!",
    "lang": "es",
    "note": "El límite se presenta como una regla para todos y se le da otro sitio para su cariño, sin abrir una excepción."
   },
@@ -124,7 +124,7 @@
   {
    "id": "wedding-and-event-host-messages-018",
    "situation": "我11月14日（周六）结婚。爸妈离婚十年了，关系不好，我爸说想跟我妈一起坐主桌。我和老公阿杰商量好了：主桌只坐我们俩和伴郎伴娘，爸妈各自带一桌亲戚，两桌都在最前排。想发微信跟我爸说。",
-   "reply": "爸，谢谢您这么在意那天的安排，您能来我特别高兴。我和阿杰商量好了，主桌只坐我们俩和伴郎伴娘，您和我妈各带一桌亲戚，两桌都在最前排，离台上最近。敬酒的时候我们第一个就过去敬您。那天就等您来了！",
+   "reply": "爸，谢谢您这么在意那天的安排，您能来我特别高兴。我和阿杰商量好了，主桌只坐我们俩和伴郎伴娘，您和我妈各带一桌亲戚，两桌都在最前排，离台上最近。敬酒的时候我们会先敬您和我妈这两桌。那天就等您来了！",
    "lang": "zh",
    "note": "安排对双方父母一样，按类别定规矩，不提他们之间的关系；他再坚持，就短一点重复同一句，不加新理由。"
   },

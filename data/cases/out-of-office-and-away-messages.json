@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -141,6 +141,13 @@
    "reply": "Status: Training Oct 6 to 8, checking Slack at 12:30 only. Escalations: Priya Nair\n\nDM note: Hi, I'm on a training course from Tuesday 6 October to Thursday 8 October and back at my desk Friday 9 October. I read messages once a day around 12:30. For a customer escalation, please go to Priya Nair, who is covering. Everything else I'll answer at lunch or on Friday.",
    "lang": "en",
    "note": "A status is read in a glance: dates, when you look, one name. The longer note is for people who message anyway."
+  },
+  {
+   "id": "out-of-office-and-away-messages-021",
+   "situation": "我是小学三年级班主任，10月12日到23日去外地参加培训，10月26日周一回学校。家长平时都在微信上找我。这期间孩子请假和班级的事由副班主任刘老师负责，她的电话在班级群公告里。想设一个微信自动回复。",
+   "reply": "家长您好，我10月12日至23日在外地参加培训，10月26日（周一）回校，这期间微信消息不能及时回复。孩子请假和班级事务，请直接联系副班主任刘老师，电话见班级群公告。其他事情我回校后统一回复，谢谢理解！",
+   "lang": "zh",
+   "note": "给家长的自动回复：先说日期，请假找谁写清楚，其他事什么时候回复也说明白。"
   }
  ]
 }

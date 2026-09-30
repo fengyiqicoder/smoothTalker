@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -141,6 +141,13 @@
    "reply": "Hallo Herr Vogel, Ihnen wurde das September-Abo über 29,90 € zweimal abgebucht und Ihr Konto ist dadurch ins Minus gerutscht. Das ist allein unser Fehler, ein Problem in unserem Zahlungssystem. Ich habe die doppelte Abbuchung heute erstattet, die Gutschrift sollte in ein bis drei Werktagen bei Ihnen sein. Falls Ihnen dadurch Überziehungszinsen entstanden sind, nennen Sie mir einfach den Betrag, dann ersetze ich ihn. Sie erreichen mich direkt unter lena@example.com. Viele Grüße, Lena",
    "lang": "de",
    "note": "Money errors: say the refund is already done, not that it will be looked into."
+  },
+  {
+   "id": "respond-to-angry-customer-021",
+   "situation": "我是宠物美容店店长阿敏。今天上午给陈小姐的狗豆包剪指甲时剪到了血线，当时止了血，但店员没告诉她。她回家发现豆包一直舔爪子，在微信上很生气，说我们隐瞒。这次美容费168元我想退给她，也愿意出看宠物医院的钱。",
+   "reply": "陈小姐，今天上午给豆包剪指甲时，我们剪到了一只爪子的血线，当时止了血却没有告诉您，让您回家才发现，这是我们的错，对不起。如果现在还在渗血，或者豆包一直舔、走路不敢着地，建议今天就带它去宠物医院看看，费用由我们承担，您把单据发给我就行。这次168元的美容费我今天退回给您。以后出现任何小意外，我们都会在接狗时当面说清楚。我是店长阿敏，有事直接找我。",
+   "lang": "zh",
+   "note": "被隐瞒比受伤本身更让人生气：先认“没告诉您”，再给看医生的具体安排。"
   }
  ]
 }

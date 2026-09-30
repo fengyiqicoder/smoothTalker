@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -141,6 +141,13 @@
    "reply": "Thanks for reaching out, Rachel. I'm interested in the finance manager role and happy for you to put me forward. I share references once there's an offer on the table, and my current manager doesn't know I'm looking, so she won't be one until I've accepted. I can send my CV today; are you free for a call Thursday afternoon?",
    "lang": "en",
    "note": "If she insists references come first, repeat the same line once; a role worth having will not hinge on it."
+  },
+  {
+   "id": "respond-to-recruiter-021",
+   "situation": "Recruiter Jess from Halden Analytics, where I was laid off in June, messaged me on LinkedIn about a senior analyst role on my old team. I'd consider going back, but only if it's a permanent, funded headcount and the base is at least my old $118k.",
+   "reply": "Thanks for reaching out, Jess. I'm open to coming back to the team. Since my role was cut in June, before a call I'd want to know whether this is a permanent, funded headcount, and I'd need a base of at least $118k, what I was on before. If both check out, I'm free for a call Thursday or Friday afternoon this week.",
+   "lang": "en",
+   "note": "A boomerang offer after a layoff: ask about stability before the call; it is a fair question, not a grudge."
   }
  ]
 }

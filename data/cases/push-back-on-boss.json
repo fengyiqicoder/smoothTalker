@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -141,6 +141,13 @@
    "reply": "Hugo, I'm glad to lead the mobile app, and I want checkout to land well too. Right now checkout is about 80% done and launching Friday 16 October. Three options: I finish checkout and start on mobile Monday 19 October; I hand checkout to Jin now and launch likely slips to Friday 30 October; or I start mobile planning part-time from Monday 5 October and go full-time after launch. I'd recommend the first, since checkout is two weeks from done. Which would you prefer?",
    "lang": "en",
    "note": "When asked to switch mid-project, put a date on each option so the cost of switching now is visible."
+  },
+  {
+   "id": "push-back-on-boss-021",
+   "situation": "My boss Nina wants the appointment reminder texts for our clinic pilot live by Friday Oct 9 and suggested we skip the privacy review. The texts currently include the appointment type. Omar in compliance says the full version can't be signed off before Wednesday Oct 14, but a version with just the date, time and clinic could be cleared by Thursday Oct 8.",
+   "reply": "I want the clinic pilot live as much as you do. The catch is the privacy review: without it we'd be texting patients their appointment type with nobody having checked that's okay. Two options: launch Friday 9 October with reminders that give only the date, time and clinic, which Omar can clear by Thursday, and add the appointment type once he signs off; or launch the full version on Wednesday 14 October. I'd go with the first. Which do you prefer?",
+   "lang": "en",
+   "note": "Don't skip the check quietly or refuse outright; give options that keep it. If she still wants to skip it, put your concern in writing and check with compliance."
   }
  ]
 }

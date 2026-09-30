@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -141,6 +141,13 @@
    "reply": "Diego, can I give you some feedback on Saturday? During service you cut raw chicken and then the salad garnish on the same board without washing it, and I pulled those plates before they went out. That's exactly how guests end up seriously ill. What was going on at that point in service? From now on, raw meat goes on the red boards only, every time, even when we're slammed. What would make that easier on your station? I'll check in with you after Friday's service.",
    "lang": "en",
    "note": "Food safety is a health risk: one observation, the real impact, a firm rule and a check-in; his speed doesn't buy an exception."
+  },
+  {
+   "id": "give-feedback-to-colleague-021",
+   "situation": "My report Hiro told me on Monday, the day our data migration was due, that it wasn't done because the vendor's API had been down since the Tuesday before. He's careful and conscientious, and I think he didn't want to bother me. I want to raise it in our 1:1 tomorrow.",
+   "reply": "Hiro, can I give you some feedback on the migration? You told me on Monday, the day it was due, that it wasn't done, but the vendor's API had been down since the Tuesday before. If I'd known that week, I could have chased the vendor and warned the client, instead of explaining a missed date on the day. What made it hard to raise sooner? Going forward, I'd like a quick message within a day of anything blocking you, even if you think you can fix it yourself; an early heads-up will never annoy me. Let's check how that's working on Friday 9 October.",
+   "lang": "en",
+   "note": "A careful person who sits on problems needs permission as much as a rule: say plainly that early bad news is welcome."
   }
  ]
 }
