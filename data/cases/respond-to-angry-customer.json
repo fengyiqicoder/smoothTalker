@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -106,6 +106,13 @@
    "reply": "Hi Helen,\nYesterday I sent our timetable email with every member's address visible, yours included, to more than 200 people, and you never agreed to that. That was my mistake, and I'm sorry. Today I'm emailing everyone on that list to ask them to delete the message and not reuse any addresses, and from now on every studio email goes out so that no one can see anyone else's address. I'm also checking whether this is something I need to report, and I'll tell you what I find by Friday 2 October. I'm Maya, the owner; reply to me directly or call 0161 496 0457.\nMaya",
    "lang": "en",
    "note": "A privacy slip: own it, fix the process, and check any reporting duty rather than guessing. Don't argue about where her spam came from."
+  },
+  {
+   "id": "respond-to-angry-customer-016",
+   "situation": "I sell handmade leather wallets online. A customer, Linda, emailed furious that her gift for her dad's 70th on Saturday Oct 3 never arrived. Tracking shows the courier returned it to me because the address on her order had house number 18 instead of 81. I can resend it express today at my cost to arrive Friday Oct 2.",
+   "reply": "Hi Linda, you ordered this wallet for your dad's 70th on Saturday and it still hasn't reached you, which is stressful this close to the day. I've checked the tracking: the courier returned it to me because the address on the order had house number 18 rather than 81. I'm sending it express today to number 81 at no cost to you, so it arrives on Friday 2 October, and you'll have the tracking number from me by 5pm. I'm Sam; reply here directly if anything else comes up.",
+   "lang": "en",
+   "note": "She's wrong on the facts, so correct once with the evidence, then protect her deadline anyway; the goodwill costs less than the argument."
   }
  ]
 }

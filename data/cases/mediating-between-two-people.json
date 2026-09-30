@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -106,6 +106,13 @@
    "reply": "Hey Soph, thanks for asking, and I'd rather Tom tell you how he took it than me guessing on his behalf. I love you both, so I'm staying out of the middle on this one. If you want to clear the air, a quick text to him directly will mean more than anything passed through me, and I'm happy to help you word it. Still on for our walk Thursday?",
    "lang": "en",
    "note": "When one side is your partner, neutrality matters more: don't report his feelings, point her to him, and keep your friendship with her separate."
+  },
+  {
+   "id": "mediating-between-two-people-016",
+   "situation": "我和未婚夫阿哲下个月结婚。我爸妈离婚十年了，关系很僵，为了主桌怎么坐、我爸要不要带现在的妻子来，两个人都分别打电话给我，让我去跟对方说。刚才我妈又让我告诉我爸：“他要带那个人来，我就不去了。”",
+   "reply": "妈，我知道这事让您心里很不好受，您愿意跟我说，我都明白。不过我不想在您和爸之间传话，传来传去只会更僵。婚礼那天我最想要的，就是您和爸都在。座位和来宾怎么安排，我和阿哲商量好自己定，定好了分别告诉您和爸，跟他说的也会是一样的话。您有什么担心的随时跟我说，我们一起想办法让您那天待得舒服些。",
+   "lang": "zh",
+   "note": "争的是你自己的婚礼时，不替任何一方传话，也不裁判谁对谁错，安排由你和伴侣来定，再用同样的话分别告诉两边。"
   }
  ]
 }

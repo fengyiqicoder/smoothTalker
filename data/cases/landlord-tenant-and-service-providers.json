@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -106,6 +106,13 @@
    "reply": "Hi Leah, thanks for leaving the apartment in such good shape; the kitchen and bathroom were spotless. The one issue from the check-out is a palm-sized burn mark on the bedroom carpet, which isn't in the move-in inventory; photos from both are attached, along with a $380 quote to replace that room's carpet. I'm proposing to deduct $380 and return $1,120 to you by Friday 9 October. If you see it differently, let me know by Monday 5 October and we can talk it through.",
    "lang": "en",
    "note": "Landlord side of a deposit: evidence, one itemised amount, a date. Check your lease and local rules on deadlines and whether the carpet's age limits what you can charge."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-016",
+   "situation": "Se soltó la manguera de mi lavadora y se mojó el parqué del salón junto a la cocina: unas seis tablas levantadas. Mi casera, Carmen, quiere cambiar todo el suelo del salón y que yo pague 2.400 €. Un parquetista me ha presupuestado 450 € por cambiar solo esas tablas por el mismo modelo.",
+   "reply": "Hola, Carmen. Siento lo del parqué: la manguera era de mi lavadora y me hago cargo de la reparación. El daño afecta a unas seis tablas junto a la cocina, y un parquetista me ha presupuestado 450 € por cambiarlas por el mismo modelo; te adjunto el presupuesto. No veo motivo para cambiar todo el suelo del salón, pero si quieres que antes lo revise un profesional de tu confianza, dime qué día te viene bien y lo organizamos. ¿Te parece bien que avancemos así?",
+   "lang": "es",
+   "note": "Cuando el daño es tuyo: asúmelo sin rodeos y discute solo el alcance, con un presupuesto. Revisa si tu seguro de hogar cubre daños por agua."
   }
  ]
 }

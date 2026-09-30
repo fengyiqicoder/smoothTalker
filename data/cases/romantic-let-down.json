@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -106,6 +106,13 @@
    "reply": "Thanks for Saturday, Tom, I enjoyed the tacos and hearing about your bike trip. I'm not feeling a romantic connection, though, so I'll pass on the gig on the 17th. Better to say it now so you've got plenty of time to take someone else. Wishing you well.",
    "lang": "en",
    "note": "Tickets he bought don't create an obligation; answering quickly is the considerate part, and there's no need to offer to pay."
+  },
+  {
+   "id": "romantic-let-down-016",
+   "situation": "I've been on two dates with Ben. On the second one last night he told me he'd been laid off on Monday and seemed really low. I'd already decided I'm not feeling it, and now he's asked about Sunday. The timing makes me feel awful.",
+   "reply": "Hi Ben, thanks for the last two evenings, and for telling me about work; I'm sorry, that's a rough week. I've been thinking, and I'm not feeling a romantic connection, so I'll pass on Sunday. I'd rather say that now than leave you guessing. I really hope the next job comes quickly.",
+   "lang": "en",
+   "note": "Bad timing doesn't make ambiguity kinder: acknowledge the news once, give the clear no, and don't offer friendship as a consolation."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -106,6 +106,13 @@
    "reply": "Jas, it's been over a year, and I know I was the one who kept cancelling, so that's on me. I walked past the Thai place on Mill Street yesterday and remembered us closing it down on your 30th. The twins start preschool next week, which means actual free mornings for the first time in three years. Could I buy you breakfast one day the week after? No pressure, and no rush to reply.",
    "lang": "en",
    "note": "When your life stage caused the drift, one line of ownership, then a plan small enough that you'll actually keep it this time."
+  },
+  {
+   "id": "reconnect-after-silence-016",
+   "situation": "大学摄影社的学长周航比我高两届，我们只一起去拍过几次外景，毕业后八年没联系，他可能都不记得我了。我刚搬到深圳，看他朋友圈也在深圳，想跟他打个招呼。",
+   "reply": "周航学长好，不知道你还记不记得我，我是摄影社比你低两届的林悦，以前跟你们一起去拍过几次外景。一晃八年没联系了。我刚搬来深圳，看到你也在这边，就想打个招呼。你在深圳待得久，周末有什么值得去拍的地方吗？不急着回。",
+   "lang": "zh",
+   "note": "对方可能不记得你时，第一句先帮他想起你是谁，再问一个他好回答、又能聊下去的问题。"
   }
  ]
 }

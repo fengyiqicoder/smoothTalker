@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -106,6 +106,13 @@
    "reply": "Thank you, Claire, for the kind words about breakfast and the view, and for being straight about the noise. You should have heard about the roof work next door from us before you arrived, not from a drill at 8am, and that's on me. Everyone booked while the work continues now gets an email a week ahead with the dates and the option to move their stay. I'd like to make it right; please email me at stay@example.com. Helen, owner",
    "lang": "en",
    "note": "A mixed review: thank the specific praise in one clause, then own the complaint fully; the praise is not a shield."
+  },
+  {
+   "id": "respond-to-negative-review-016",
+   "situation": "I own Greenway, a landscaping company with 20 staff. A former crew member left a 2-star review on a jobs site: 'No breaks in the summer heat, management doesn't listen.' In the July heatwave breaks were ad hoc and the days were long; since August every crew takes a fixed 15-minute shaded break every two hours and every truck carries a water cooler.",
+   "reply": "Thank you for raising this. Long days in the July heatwave, with breaks taken only when the job allowed, weren't good enough, and that's on me as the owner. Since August every crew takes a fixed 15-minute shaded break every two hours, and every truck carries a water cooler. If you'd like to talk it through, please email me at marco@example.com. Marco Diaz, owner, Greenway",
+   "lang": "en",
+   "note": "An ex-employee review: never name or argue with them in public; own the working condition and say exactly what changed."
   }
  ]
 }

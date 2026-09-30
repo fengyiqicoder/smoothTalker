@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -106,6 +106,13 @@
    "reply": "Dear Dr. Hartley,\nThank you for raising your concern with me directly. I understand that something in the essay made you doubt it was my own work, and I take that seriously. I see this differently: I wrote it myself, and I'd like to show you my handwritten notes and the document's version history, which starts on 14 September. I'll bring both to your office hours on Thursday 1 October. Could you also point me to the passages that raised the concern? I'd like to understand what prompted it.\nBest regards,\nMaya Collins",
    "lang": "en",
    "note": "An accusation you know is wrong: acknowledge the concern, disagree once with evidence you can show, and ask a question instead of sounding offended."
+  },
+  {
+   "id": "respond-to-criticism-016",
+   "situation": "我是初二的班主任。家长李妈妈发消息说，我上周在班上当众批评她儿子作业没交，孩子回家哭了，她觉得我伤了孩子的自尊。作业确实连续三次没交，但当众点名这点我自己也觉得欠妥。",
+   "reply": "李妈妈您好，谢谢您直接告诉我，听说孩子回家哭了，我心里也不好受。您说得对，上周当着全班点名批评他，这个方式不妥，我会找机会单独跟他说一声。作业连续三次没交的事，我还是希望咱们一起帮他解决。想先了解一下，他在家写作业主要卡在哪儿？这两天您哪个时间方便，我们通个电话聊十分钟？",
+   "lang": "zh",
+   "note": "认下方式上的问题，但不因此放掉作业这件事；用一个问题把对话引向一起解决。"
   }
  ]
 }

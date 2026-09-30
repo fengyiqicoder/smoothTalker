@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -106,6 +106,13 @@
    "reply": "您好，我每周一至周三上班，周四和周五不查看邮件。您的邮件我会在下周一处理。如有周四、周五必须处理的急事，请联系吴敏（wumin@example.com）。谢谢！",
    "lang": "zh",
    "note": "长期固定的不在岗时间，说清楚哪几天在、哪天会回复、急事找谁，不用解释原因。"
+  },
+  {
+   "id": "out-of-office-and-away-messages-016",
+   "situation": "I'm going on a 10-day silent retreat from Oct 8 to Oct 18 and my phone will be switched off the whole time. I want an away message for texts from friends and family. My brother Tom has the retreat's landline for real emergencies; his number is 07700 900123.",
+   "reply": "I'm on a silent retreat from 8 to 18 October with my phone switched off, so I won't see messages until Monday 19 October. If it's a real family emergency, call my brother Tom on 07700 900123 and he can reach me. Everything else can wait, and I'll reply when I'm back.",
+   "lang": "en",
+   "note": "A personal away message follows the same shape: the dates, whether you'll see it, and one emergency route through a person who has agreed to it."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -106,6 +106,13 @@
    "reply": "Thanks, Greg! Plenty more meetings in my future, that's for sure. Hope things are going well at Oakline.",
    "lang": "en",
    "note": "A public dig gets a brief face-value reply in public; no defence of how you got the job, and no private post-mortem."
+  },
+  {
+   "id": "respond-to-passive-aggressive-016",
+   "situation": "I own a small café. A customer left a public 3-star review on our listing: 'Lovely place, if you have 40 minutes to spare for a flat white :)'. Saturday really was chaos because one of our two baristas called in sick.",
+   "reply": "Thanks for coming in, and for the kind words about the place. You're right, Saturday's wait was far too long; we were a barista down that morning. If you give us another try, mention this review at the till and your flat white is on us.\nAna, owner",
+   "lang": "en",
+   "note": "A public review gets a public face-value reply: own the fair part in one line, no defensiveness, and one small make-good other readers can see."
   }
  ]
 }

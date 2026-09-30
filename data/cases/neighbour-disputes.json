@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -106,6 +106,13 @@
    "reply": "Hi Linda, it's Tom from number 4. I saw your post about the bins, and you're right, they've been out since last Tuesday. We've been away looking after my mum in hospital and they slipped our minds. My brother-in-law has brought them in today and will handle collection days until we're back. Next time, please just message me or knock directly; I'd much rather hear it from you first.",
    "lang": "en",
    "note": "When you're the one being called out in public: fix it, reply privately, and make the ask to come to you directly one calm line, not a telling-off."
+  },
+  {
+   "id": "neighbour-disputes-016",
+   "situation": "Our neighbour at number 22, Mrs Patel, put up a motion-sensor floodlight on her garage that faces our bedroom window. It comes on 10 or more times a night when cats and foxes pass. We get on well with her otherwise.",
+   "reply": "Hi Mrs Patel, it's Chris from 24. A quick one, and I doubt you'd notice from your side: the new light on your garage shines straight into our bedroom, and it comes on 10 or more times a night when cats and foxes go past. Would you be OK with angling it down towards your drive, or turning the sensitivity down? Happy to bring a ladder over and help, and do tell me if anything from our side ever bothers you.",
+   "lang": "en",
+   "note": "With a neighbour you like, keep it light: one fact, one easy fix, and an offer to help do it."
   }
  ]
 }

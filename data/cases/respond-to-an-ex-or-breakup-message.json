@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -106,6 +106,13 @@
    "reply": "谢谢你还记得，也谢谢你的祝福。吃饭就不了，我现在有了新的感情，觉得我们不再单独联系对彼此都好。祝你一切顺利。",
    "lang": "zh",
    "note": "一个干净的理由就够了，不聊新恋情的细节；他再回复，不用接。"
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-016",
+   "situation": "My ex Leo and I broke up in June after two years. At 2am last night he texted 'I miss you so much, can I come over?' and he was clearly drunk. I don't want to get back together, and I'm replying this morning.",
+   "reply": "Hi Leo, I saw your message from last night. I'm not going to see you, and I'm not looking to get back together. I hope you're doing okay. Take care of yourself.",
+   "lang": "en",
+   "note": "Reply in daylight, answer the question rather than the feelings, and don't mention the drinking; if more late-night texts come, mute them."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -106,6 +106,13 @@
    "reply": "Thanks for reaching out, Hannah, this sounds interesting. Before we book a call: would the company sponsor a work visa for a Canadian and offer relocation support, and what's the base range in euros? If those line up, I'm free for a call Tuesday or Thursday at 9am Toronto time.",
    "lang": "en",
    "note": "For a move abroad, sponsorship is the dealbreaker, so ask it before the call alongside the range."
+  },
+  {
+   "id": "respond-to-recruiter-016",
+   "situation": "A recruiter, Priya, messaged me on LinkedIn about a senior UX researcher role at a healthcare company. I'm on parental leave until January 8 and can't start before February 1, but I'm genuinely interested. I'd rather not interview until December.",
+   "reply": "Thanks for reaching out, Priya, this sounds interesting. I'm on parental leave until 8 January, so the earliest I could start is 1 February, and I'd rather hold interviews until December. If the team can work with that timing, could you share the base range? If it lines up, I'd be glad to set up a call in the first week of December.",
+   "lang": "en",
+   "note": "Timing is the dealbreaker, so it goes first; the dates are all the detail about the leave you owe."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -106,6 +106,13 @@
    "reply": "Before we start, I want you to hear this from me first: I've decided to leave, and my last day is Friday 30 October. It's the right next step for me, and it has nothing to do with any of you; leading this team has been the best part of my job. Nothing changes for your projects this month, and I'll meet each of you one to one this week to plan your handover and talk about what you want next. Maria and I will share the interim plan by next Wednesday. Ask me anything today, here or privately.",
    "lang": "en",
    "note": "Tell your team before the wider announcement, give them the date and what happens to them, and offer one to ones so the questions have somewhere to go."
+  },
+  {
+   "id": "leave-or-quit-gracefully-016",
+   "situation": "Comparto piso en Madrid con tres amigas desde hace dos años. Me voy a vivir con mi pareja, Dani, y el contrato dice que hay que avisar con un mes, así que quiero irme el 31 de octubre. Mi prima Lucía busca habitación y le encantaría quedarse con la mía.",
+   "reply": "Chicas, os quería contar algo antes de que os llegue por otro lado: me voy a vivir con Dani, así que el 31 de octubre será mi último día en el piso. Os lo digo hoy para cumplir el mes de preaviso del contrato. Mi prima Lucía busca habitación y le encantaría quedarse con la mía; si os parece, la traigo a cenar esta semana para que la conozcáis, y si preferís a otra persona, os ayudo a buscarla. Han sido dos años geniales con vosotras.",
+   "lang": "es",
+   "note": "Dejar un piso compartido: fecha clara, el preaviso que marca el contrato y ayuda real para cubrir la habitación, sin decidir por ellas."
   }
  ]
 }

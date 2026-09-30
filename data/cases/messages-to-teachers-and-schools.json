@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -106,6 +106,13 @@
    "reply": "Bonjour Madame Lefèvre, je suis la maman d'Inès Moreau (CM1). Inès est rentrée très touchée après son exposé sur les volcans : elle m'a dit que vous l'aviez trouvé « nul » devant la classe, et depuis elle a du mal à partir à l'école le matin. Je sais que je n'ai que sa version, alors j'aimerais savoir comment vous avez vécu ce moment. Pourriez-vous m'accorder un quart d'heure cette semaine ? Je suis disponible tous les jours après 16 h 30. Merci beaucoup, Claire Moreau",
    "lang": "fr",
    "note": "Quand le souci vient de l'enseignante : les faits tels que l'enfant les raconte, la question plutôt que le verdict, et pas la direction en copie."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-016",
+   "situation": "We moved from Brazil to Leeds in September. Our son Davi (Year 6, Miss Hart's class) speaks only a little English and says he eats lunch alone most days. He loves football and drawing, and we read an English picture book with him every night.",
+   "reply": "Hi Miss Hart, I'm Davi Souza's mum (Year 6). We moved here from Brazil in September, and Davi is still learning English. He tells me he eats lunch on his own most days. He loves football and drawing, which might be an easy way for him to join in with other children. Could you tell me how the school usually supports children who are new to English, and could we meet for 15 minutes one afternoon? At home we read an English picture book together every night. Thank you, Juliana Souza",
+   "lang": "en",
+   "note": "New arrival: share what helps the child, ask about the school's usual support rather than prescribing it."
   }
  ]
 }

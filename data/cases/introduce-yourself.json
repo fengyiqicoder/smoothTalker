@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -106,6 +106,13 @@
    "reply": "Hi everyone, I'm Hannah Obi, one of the two new board members. By day I'm an accountant for small charities, so I'm happy to be the person who reads the financials closely. I joined the co-op two years ago for the bulk oats and stayed for the Saturday volunteer shifts. Before our next meeting, I'd love 20 minutes with whoever has been preparing the treasurer's reports, so I can learn where the numbers come from.",
    "lang": "en",
    "note": "On a board, the concrete thing is the skill you bring, and the invitation is the specific handover you need."
+  },
+  {
+   "id": "introduce-yourself-016",
+   "situation": "I just joined the Discord for an open-source mapping library I've used at work for two years to draw delivery zones. I'm a backend developer in Lisbon, I want to contribute but have never done open source, and I surf badly at weekends. Posting in #introductions.",
+   "reply": "Hi all, I'm Inês, a backend developer in Lisbon. I've used the library at work for two years to draw delivery zones, so I've read more of the geometry code than I'd like to admit. I've never contributed to open source and I'd love to start small. Outside work I surf badly every weekend, so I'm used to falling off things. If anyone has a favourite good first issue or a doc page that needs fixing, point me at it.",
+   "lang": "en",
+   "note": "In a contributor community, the invitation is a concrete way in: ask for a first issue, not for attention."
   }
  ]
 }

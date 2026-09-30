@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -106,6 +106,13 @@
    "reply": "9月29日我们说好全天第二杯半价，结果下午2点原料就用完了，之后来的朋友都白跑了一趟。对不起，是我们备货估少了，说了全天就该做到全天。当天没买上的朋友，10月8日前到店说一声，第二杯半价照样给您补上，不需要任何凭证。以后做活动，我们会写清限量多少杯，卖完第一时间在门口和线上同步。有问题直接私信店铺，我本人回复。店主 阿杰",
    "lang": "zh",
    "note": "活动没兑现也是公开道歉：先说承诺了什么、哪里没做到，一句道歉，补偿不设门槛，改进只写一条做得到的。"
+  },
+  {
+   "id": "public-apology-from-a-business-016",
+   "situation": "We run Smoke & Salt, a barbecue food truck. After the Riverside Park festival on Saturday Sept 26 we left grease stains and a pile of bin bags by our pitch, and a resident's photos have been shared a lot in the local community group. We went back on Monday and cleared it, and from now on we'll use drip mats under the truck and check the pitch against a setup photo before leaving. I'm the owner, Marcus.",
+   "reply": "After the Riverside Park festival on Saturday 26 September, we left grease on the grass and a pile of bin bags by our pitch, and people who live by the park had to look at it all weekend. Sorry, that's on us. We went back on Monday and cleared it. From our next event, drip mats go under the truck, and nobody leaves until the pitch matches a photo taken at setup. If you live nearby and spot anything we missed, message me here or email marcus@example.com and I'll come and sort it. Marcus, owner",
+   "lang": "en",
+   "note": "When the people affected are neighbours, not customers, the make-good is fixing the place and a way to report what's left."
   }
  ]
 }

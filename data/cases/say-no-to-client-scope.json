@@ -18,7 +18,7 @@
   },
   {
    "id": "say-no-to-client-scope-003",
-   "situation": "Client says adding a blog section is 'a tiny change, the last agency threw that stuff in.' I quoted $1,800 for it.",
+   "situation": "Client says adding a blog section is 'a tiny change, the last agency threw that stuff in.' I quoted $1,800 for it: a new template, the CMS setup and moving their 40 existing posts across, about five days of work. The agreed build also includes a careers page.",
    "reply": "I get that it looks small from the outside. At our end it's a new template, the CMS setup and moving your 40 existing posts across, about five days of work, so $1,800 is the fair number. If the budget's fixed, we can swap it in for the careers page. Just tell me which way you'd like to go.",
    "lang": "en",
    "note": "Don't lower the quote and don't start the work until they choose."
@@ -39,14 +39,14 @@
   },
   {
    "id": "say-no-to-client-scope-006",
-   "situation": "I've done bookkeeping for a small landscaping company for 18 months at $600 a month. The owner, Gary, has paid late five of the last six months, August's invoice is still unpaid, and he keeps adding payroll questions that aren't in our agreement. I want to end it.",
+   "situation": "I've done bookkeeping for a small landscaping company for 18 months at $600 a month. The owner, Gary, has paid late five of the last six months, August's invoice is still unpaid, and he keeps adding payroll questions that aren't in our agreement. I want to end it, and I know a bookkeeper, Dana Whitfield, who does bookkeeping and payroll together.",
    "reply": "Hi Gary,\nI've valued working with you over the last 18 months. I've decided to wind down our engagement at the end of October, so October's books will be my last. Before then I'll close out September and October and send you a written handover: accounts, logins and the monthly checklist, so whoever takes over can start cleanly. The August invoice for $600 is still open; please settle it along with October's by Friday, November 6. If it helps, I can introduce you to Dana Whitfield, who handles bookkeeping and payroll together.\nBest,\nMeera",
    "lang": "en",
    "note": "Ending the relationship, not a scope fight: no list of grievances, a clean end date, a proper handover and one clear ask about the money owed."
   },
   {
    "id": "say-no-to-client-scope-007",
-   "situation": "朋友小周介绍了一个做高端茶叶的客户林总，想让我做他们的抖音短视频代运营。我专做小红书图文，短视频不擅长，不想硬接。",
+   "situation": "朋友小周介绍了一个做高端茶叶的客户林总，想让我做他们的抖音短视频代运营。我专做小红书图文，短视频不擅长，不想硬接。我认识两位专做茶饮和食品短视频的朋友。",
    "reply": "林总，谢谢您想到我，也谢谢小周介绍。看了您的需求，这次我可能不是最合适的人选：你们的重点是抖音短视频，而我这几年专做小红书图文，短视频做不出您要的效果。我认识两位专做茶饮和食品短视频的朋友，需要的话我今天就把联系方式推给您。",
    "lang": "zh",
    "note": "不合适就早点说，理由落在自己的专长上，再给对方一个有用的去处。"
@@ -61,7 +61,7 @@
   {
    "id": "say-no-to-client-scope-009",
    "situation": "I'm a freelance web developer on a $2,000/month maintenance retainer with an online furniture store. The owner, Mark, has started texting me at 10pm and on Sundays and expects a reply within the hour. Our agreement says support is weekdays 9 to 6.",
-   "reply": "Hi Mark, great to see the shop this busy. Our maintenance agreement covers weekdays 9 to 6, so anything that arrives outside those hours I'll pick up first thing the next working morning. Real emergencies, like checkout or the whole site going down, are covered any time: call me on 555 0134 and I'll jump on it. If you'd like guaranteed weekend cover through the Black Friday rush, I can add it for $300 a weekend. Does that work for you?",
+   "reply": "Hi Mark, great to see the shop this busy. Our maintenance agreement covers weekdays 9 to 6, so anything that arrives outside those hours I'll pick up first thing the next working morning. For real emergencies, like checkout or the whole site going down, call me on 555 0134 any time and I'll jump on it. If you'd like guaranteed weekend cover through the Black Friday rush, I can add it for $300 a weekend. Does that work for you?",
    "lang": "en",
    "note": "Availability is scope too: name the hours in the agreement, give a real emergency route, and price extra cover instead of quietly absorbing it."
   },
@@ -74,14 +74,14 @@
   },
   {
    "id": "say-no-to-client-scope-011",
-   "situation": "フリーランスで英日の技術翻訳をしています。新規の見込み客、医療機器メーカーの鈴木さんから、発注前に取扱説明書10ページを無料でトライアル翻訳してほしいと言われました。通常は1ページ4,000円です。",
+   "situation": "フリーランスで英日の技術翻訳をしています。新規の見込み客、医療機器メーカーの鈴木さんから、発注前に取扱説明書10ページを無料でトライアル翻訳してほしいと言われました。通常は1ページ4,000円で、無料トライアルはいつも1ページ（約300語）までにしています。",
    "reply": "鈴木様\nお問い合わせありがとうございます。発注前に品質を確認されたいお気持ちはよく分かります。無料のトライアルは1ページ（約300語）までとしており、それでよろしければ10月2日（金）までにお送りします。10ページすべてをご希望の場合は、有償トライアルとして通常料金の半額、2万円で承ります。この2万円は本発注の際に全額差し引きます。どちらで進めるか、ご希望をお聞かせください。\n山本",
    "lang": "ja",
    "note": "無料の範囲を先に示し、それを超える分は価格と扱いを明記して相手に選んでもらう。黙って10ページ無料で訳さない。"
   },
   {
    "id": "say-no-to-client-scope-012",
-   "situation": "I'm a freelance brand designer in final review of a new logo and brand guide for a coffee chain. The contract covers two concept routes and two revision rounds, and we've used both. Their new CMO, Derek, joined today's final call and wants a completely new direction.",
+   "situation": "I'm a freelance brand designer in final review of the approved logo route and brand guide for a coffee chain. The contract, signed 12 May, covers two concept routes and two revision rounds, and we've used both. Their new CMO, Derek, joined today's final call with my usual contact, Sarah, and wants a completely new direction.",
    "reply": "Hi Derek and Sarah,\nThanks for today's call, and Derek, it's good to have you involved before this goes live. A new direction would be a fresh concept route rather than a revision: our 12 May agreement covers two routes and two revision rounds, and we've used both. I can add a third route for $3,200, about three weeks of work, or we can finish the approved route now and revisit the look in the new year. Which would you prefer?\nBest,\nNina",
    "lang": "en",
    "note": "A new stakeholder's new direction is new scope: welcome them, point to the agreement, and give two paths to choose from."
@@ -102,10 +102,10 @@
   },
   {
    "id": "say-no-to-client-scope-015",
-   "situation": "Je suis rédactrice freelance. Une agence immobilière lyonnaise me paie 900 € par mois pour 4 articles de blog. Leur directeur, M. Garnier, veut maintenant que j'assiste à leur réunion d'équipe d'une heure chaque lundi à 9 h.",
-   "reply": "Bonjour Monsieur Garnier,\nMerci de vouloir m'associer à l'équipe, ça m'aidera à coller à votre actualité. Ces réunions ne font pas partie de notre accord actuel, qui couvre les 4 articles mensuels. Je vous propose deux options : je participe à la réunion de chaque lundi pour 240 € de plus par mois, ou nous faisons un point de 20 minutes le premier lundi du mois, inclus dans les 900 €. Laquelle vous convient le mieux ?\nBien cordialement,\nLéa",
+   "situation": "Je suis rédactrice freelance : une agence immobilière lyonnaise me paie 900 € par mois pour 4 articles de blog. Hier au téléphone, leur directeur, M. Garnier, m'a demandé « en passant » d'écrire aussi leur newsletter mensuelle ; je lui ai seulement dit que je lui répondrais par écrit. Je facturerais 250 € par newsletter.",
+   "reply": "Bonjour Monsieur Garnier,\nMerci pour notre échange d'hier, et bonne idée, la newsletter. Comme convenu, je vous réponds par écrit : elle ne fait pas partie de notre accord actuel, qui couvre les 4 articles mensuels. Je peux la prendre en charge pour 250 € par numéro, en plus des 900 € mensuels. Si cela vous convient, confirmez-le-moi par retour de mail et je commence avec le numéro de novembre.\nBien cordialement,\nLéa",
    "lang": "fr",
-   "note": "Le temps de réunion fait partie du périmètre : le chiffrer, proposer une version légère incluse, et laisser le client choisir."
+   "note": "Une demande glissée à l'oral se confirme par écrit, avec son prix ; on ne commence rien avant l'accord écrit du client."
   }
  ]
 }

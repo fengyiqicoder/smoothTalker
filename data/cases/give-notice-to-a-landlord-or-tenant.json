@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -106,6 +106,13 @@
    "reply": "Dear Mrs Duncan,\nI'm sorry to tell you that my father, Robert Mackay, died on 18 September. As the executor of his estate, I'm writing to give notice to end his tenancy at 14 Hyndland Road, Flat 1/2. Could you let me know the notice period and end date you'll be working from, and whether you need a copy of the death certificate or anything else from me? I'm aiming to have the flat cleared and the keys back to you by Saturday 31 October, and I'm happy to do a check-out inspection with you that day. Please confirm in writing that you've received this.\nThank you for being his landlord all these years.\nYours sincerely,\nFiona Mackay",
    "lang": "en",
    "note": "Rules on ending a tenancy after a death vary by place and tenancy type; check with a local advice service before relying on a date."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-016",
+   "situation": "I'm a landlord. My tenant Bea texted me on Monday Sept 28 that she's moving out on Oct 17. Our lease, clause 9, requires 30 days' written notice ending on the last day of a month, and rent is due on the 1st. I want to be clear about the dates without being harsh.",
+   "reply": "Hi Bea, thanks for letting me know, and good luck with the move. Under clause 9 of our lease, notice needs to be 30 days in writing and end on the last day of a month, so the earliest your tenancy can end is Saturday 31 October, with October's rent due on the 1st as usual. If a new tenant can move in before then, you'd only pay up to the day before they start, and I'm happy to begin viewings straight away. Could you email me to confirm 31 October as your end date, so we can book the check-out for that day?",
+   "lang": "en",
+   "note": "Landlord receiving short notice: the correct date with the clause, a way to cut her cost, and written confirmation. Check local rules before relying on the clause."
   }
  ]
 }

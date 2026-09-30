@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -106,6 +106,13 @@
    "reply": "阿琪，我知道你是看我难受，想让我快点好起来，谢谢你。再养一只的事我现在不考虑，豆豆刚走，我还想好好想它一阵。领养信息先别发给我啦。这周末有空的话，陪我去江边走走吧，以前都是带豆豆去的。",
    "lang": "zh",
    "note": "悲伤中的劝告：回应她的心意，立场说一次、不解释，再给她一个能陪你的具体方式。"
+  },
+  {
+   "id": "respond-to-unsolicited-advice-016",
+   "situation": "My skip-level manager Helen told me after a client meeting that I should 'smile more and soften my tone' on client calls. It's the second time she's said it. My client satisfaction scores are the highest on the team, and no client has raised a complaint with me.",
+   "reply": "Thanks, Helen, I know you want the client calls to go well. I'm comfortable with how I run them, and the satisfaction scores suggest clients are too. If a specific client has raised something, I'd want to hear it and I'll take it seriously.",
+   "lang": "en",
+   "note": "With someone senior, rung three: state your position once with the evidence, and invite specifics instead of debating your style."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -106,6 +106,13 @@
    "reply": "Hi Priya,\nThank you for the offer, I'm really excited about joining the platform team, and the base works for me. The one thing I'd like to raise is the move from Austin: I'd like to ask for a $10,000 relocation allowance, so I can arrive on 16 November settled and ready to contribute from the first week. Is there flexibility there? If a relocation budget isn't possible, a signing bonus of the same amount would work just as well.\nBest,\nMarcus",
    "lang": "en",
    "note": "When base is fine, anchor on the one lever that isn't: a specific number slightly above the real cost, with a signing bonus as the fallback."
+  },
+  {
+   "id": "negotiate-price-or-salary-016",
+   "situation": "Je suis graphiste freelance. Mme Lefèvre, acheteuse pour une chaîne de magasins, me propose une mission de 12 000 € pour refaire leurs supports en magasin, à livrer en six semaines, mais payée à 90 jours fin de mois. Je voudrais 30 jours, ou au minimum un acompte de 30 % à la commande.",
+   "reply": "Bonjour Madame Lefèvre,\nMerci pour votre proposition, je suis vraiment ravie de travailler sur vos supports en magasin. Un seul point à ajuster avant de signer : le paiement à 90 jours fin de mois. Pour une mission de 12 000 € livrée en six semaines, que je mène seule, je travaille avec un règlement à 30 jours. Est-ce possible de votre côté ? Si vos délais de paiement sont fixes, je propose un acompte de 30 % à la commande, soit 3 600 €, et le solde selon vos conditions habituelles.\nBien cordialement,\nCamille Morel",
+   "lang": "fr",
+   "note": "Les conditions de paiement se négocient comme le prix : une demande précise, une raison, un second levier. Vérifiez ce que le contrat prévoit avant de signer."
   }
  ]
 }

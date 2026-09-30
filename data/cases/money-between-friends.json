@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -106,6 +106,13 @@
    "reply": "Cabin money update: I messed up the maths and counted the $150 cleaning fee twice, so everyone overpaid by $25. I'm sending each of you $25 back tonight through the same app you paid me on. Shout if it hasn't arrived by tomorrow. Sorry about that, and thanks for paying so fast!",
    "lang": "en",
    "note": "When the error is yours, the same rules apply in reverse: the exact number, how it's coming back, and when, with no drawn-out apology."
+  },
+  {
+   "id": "money-between-friends-016",
+   "situation": "朋友小周五月让我帮她垫了演唱会票1,280元，7月和8月我各提醒过一次，她都说“下周转你”，到现在也没转。这已经是她第三次让我垫钱了。我决定这笔不追了，但以后不想再帮她垫。",
+   "reply": "小周，演唱会票那1,280块我就不追了，这事就算过去了，以后我也不会再提。以后一起买票或者订东西，咱们各订各的、各付各的，我这样比较轻松，不是生你的气。",
+   "lang": "zh",
+   "note": "提醒两次都没结果时，要么真正放下，要么说清楚不再垫钱；这里两件一起说，只说一次，不翻旧账。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -106,6 +106,13 @@
    "reply": "各位家长好，我是星星托管的周老师。通知一件事：从11月2日（周一）起，托管班搬到阳光花园小区会所二楼，离学校步行约十分钟。搬家是因为现在的房东要收回房子。放学后我们两位老师照常在校门口接孩子，排好队一起走过去；收费、作息和晚饭都不变。如果新地址接送不方便，11月15日前告诉我，剩余费用按天全额退。10月31日（周六）上午10点新场地开放参观，欢迎来看看。谢谢大家的信任。周老师",
    "lang": "zh",
    "note": "搬址也按变化通知来写：日期和新地址放第一句，原因一句，讲清家长最关心的接送，再给不方便的家庭一个简单的退出。"
+  },
+  {
+   "id": "price-increase-and-customer-announcements-016",
+   "situation": "I run a small online tea shop. Yesterday I emailed our 900 customers that 100g tins go from $14 to $18 on Nov 1 because of higher shipping costs from our growers, with the old price holding until Oct 31. The $18 was a typo, it should be $16, and a few people have already replied upset.",
+   "reply": "Hi Sam,\nA correction to yesterday's email: from Sunday 1 November our 100g tins go from $14 to $16, not $18. That was my typo, and I'm sorry for the confusion. Everything else stands: the reason is higher shipping costs from our growers, the teas don't change, and the $14 price holds on the site until Saturday 31 October. Thank you to everyone who wrote back, it's how I caught it.\nMei, Leaf & Kettle",
+   "lang": "en",
+   "note": "Correct a wrong announcement fast, in the first line, with one plain apology for the mistake itself; the increase still needs no apology."
   }
  ]
 }

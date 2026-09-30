@@ -4,8 +4,8 @@
  "cases": [
   {
    "id": "set-boundary-001",
-   "situation": "My manager Jordan Slacks me on weekends with 'quick questions'. I want to stop answering until Monday without it hurting my review.",
-   "reply": "Hi Jordan, I want to be useful when you need me, and I also want to protect my weekends so I'm sharp on Monday. From now on I'll be offline on Slack on Saturdays and Sundays and I'll pick everything up first thing Monday. If something is truly urgent, call my phone and I'll answer.",
+   "situation": "My manager Jordan messages me on the work chat on weekends with 'quick questions'. I want to stop answering until Monday without it hurting my review.",
+   "reply": "Hi Jordan, I want to be useful when you need me, and I also want to protect my weekends so I'm sharp on Monday. From now on I'll be offline on the work chat on Saturdays and Sundays and I'll pick everything up first thing Monday. If something is truly urgent, call my phone and I'll answer.",
    "lang": "en",
    "note": "The boundary is what you will do, with a real channel for emergencies, so it reads as reliable rather than unavailable."
   },
@@ -33,7 +33,7 @@
   {
    "id": "set-boundary-005",
    "situation": "My mother-in-law, Linda, has a spare key and lets herself into our house 'just to drop things off', sometimes while we're still in bed. My husband agrees it has to stop. I want to text her kindly.",
-   "reply": "Hi Linda, we love having you close by and the kids adore seeing so much of you. From now on we're going to keep the door latched from the inside when we're home, so the key won't open it. Text before you come over and we'll let you in, or leave things on the porch bench. You're still our emergency key holder.",
+   "reply": "Hi Linda, we love having you close by. From now on we're going to keep the door latched from the inside when we're home, so the key won't open it. Text before you come over and we'll let you in, or leave things on the porch bench. You're still our emergency key holder.",
    "lang": "en",
    "note": "The boundary is what you will do with the door, not a rule for her. If she pushes back, repeat the same line shorter: text first and we'll open up."
   },
@@ -53,8 +53,8 @@
   },
   {
    "id": "set-boundary-008",
-   "situation": "My dad keeps posting photos of my kids, 4 and 7, on his public Facebook, sometimes with their school uniform showing. I've mentioned it twice casually and nothing changed. I want to say it properly.",
-   "reply": "Dad, I love how proud you are of the kids, and I know the photos come from a good place. We've decided we don't want their pictures online, especially with the school visible. So I'm going to stop posting photos in the family group and send them to you directly, just for you and Mum. Could you take down the ones that are up now? Show them off on your phone as much as you like.",
+   "situation": "My dad keeps posting photos of my kids, 4 and 7, on his public social media profile, sometimes with their school uniform showing. He gets them from the photos I share in our family group chat. I've mentioned it twice casually and nothing changed. I want to say it properly.",
+   "reply": "Dad, I love how proud you are of the kids, and I know the photos come from a good place. We've decided we don't want their pictures online, especially with the school visible. So I'm going to stop posting photos in the family group and send them to you directly, just for you. Could you take down the ones that are up now? Show them off on your phone as much as you like.",
    "lang": "en",
    "note": "The rule is about what you'll do with the photos, and there's one concrete ask. If he pushes back, repeat the same line shorter, with no new reasons."
   },
@@ -82,7 +82,7 @@
   {
    "id": "set-boundary-012",
    "situation": "A senior colleague, Greg, greets me with a hug most mornings and sometimes puts his hand on my shoulder in meetings. It feels friendly, not creepy, but I don't like being touched at work. I want to say something that sticks without making it a big deal.",
-   "reply": "Greg, I like working with you and I don't want this to be awkward. I'm not a hugger at work, so from now on I'll stick to a wave or a handshake. Morning coffee chats are still very much on.",
+   "reply": "Greg, I like working with you and I don't want this to be awkward. I'm not a hugger at work, so from now on I'll stick to a wave or a handshake. The morning hellos are still very much on.",
    "lang": "en",
    "note": "Say it once, lightly, and step back if a hug comes anyway. If it keeps happening after you've said it, take it to your manager or HR."
   },

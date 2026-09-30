@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -106,6 +106,13 @@
    "reply": "Hi Jonas, darf ich dich um einen Gefallen bitten? Ich würde mich über eine Vorstellung bei Lena Vogel freuen. Ich suche für Hofkiste eine technische Mitgründerin, und nach dem, was du erzählt hast, könnte ein Gespräch für beide spannend sein. Wenn es sich für dich komisch anfühlt, ist das völlig in Ordnung, sag einfach Bescheid.\n\nFalls du magst, hier ein Text zum Weiterleiten:\n„Lena, ich möchte dir Katrin Weber vorstellen. Katrin baut Hofkiste, eine App, über die Hofläden Vorbestellungen annehmen; 23 Höfe im Raum Freiburg nutzen sie schon. Sie sucht eine technische Mitgründerin und würde sich gern 30 Minuten unverbindlich mit dir austauschen. Soll ich euch verbinden?“\n\nIch sage dir so oder so Bescheid, wie es gelaufen ist. Danke dir!\nKatrin",
    "lang": "de",
    "note": "Co-founder intro: the ask stays small (30 minutes, no commitment) so Jonas only vouches for a conversation, not a partnership."
+  },
+  {
+   "id": "request-intro-or-referral-016",
+   "situation": "I run a small nonprofit, Second Shift, that repairs donated laptops for school kids; we've given out 1,200 so far. My cousin Hannah used to work with Mark Ellis, the education reporter at our city paper. I'd like her to introduce me so I can tell him about our open day on Nov 14.",
+   "reply": "Hi Hannah, could I ask a favour? I'd love an intro to Mark Ellis. Second Shift has now given 1,200 repaired laptops to school kids, and our open day on 14 November could be a good local education story for him. If you're not in touch enough for that to feel comfortable, just say, no problem at all.\nIf you're up for it, here's a blurb you can forward:\n\"Mark, I'd like to introduce my cousin Leah Porter. Leah runs Second Shift, a nonprofit that repairs donated laptops for school kids, 1,200 so far. She has an open day on 14 November and would value 10 minutes to tell you about it, in case it's useful for a story.\"\nI'll let you know how it goes either way. Thanks!\nLeah",
+   "lang": "en",
+   "note": "A press intro: the blurb gives the reporter a story hook and asks for 10 minutes, never for coverage."
   }
  ]
 }
