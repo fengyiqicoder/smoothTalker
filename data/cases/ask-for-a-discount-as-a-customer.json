@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -99,6 +99,13 @@
    "reply": "Hi Luis, thanks for the quote, we'd like to go ahead with you for the three bedrooms and the hallway. We're in no rush, so if it helps to slot us into a quieter stretch, January or February works for us and we can be flexible on the exact days. Would $2,900 work on that basis? If yes, I'll sign and pay the deposit this week to hold the booking. If not, no problem, just let me know what a quiet-season price would look like.",
    "lang": "en",
    "note": "No rival quote, so the lever is flexible timing that fills his quiet weeks; never invent a competitor number."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-015",
+   "situation": "Meu dentista orçou um clareamento mais duas restaurações em R$ 3.200, parcelado em 4x no cartão. Consigo pagar tudo à vista por transferência. Quero pedir um desconto pra secretária, a Juliana, pelo WhatsApp.",
+   "reply": "Oi, Juliana, tudo bem? Quero fechar o tratamento com o Dr. Paulo, o clareamento e as duas restaurações, orçado em R$ 3.200. Se eu pagar tudo à vista por transferência, vocês fariam por R$ 2.800? Se der certo, já faço a transferência hoje e marco a primeira sessão. Se não tiver como, sem problema, me diz qual é o valor à vista de vocês.",
+   "lang": "pt",
+   "note": "Sem orçamento concorrente, a alavanca é pagar tudo à vista: peça um número e deixe espaço para o desconto padrão deles."
   }
  ]
 }

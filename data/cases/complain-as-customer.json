@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -99,6 +99,13 @@
    "reply": "Hi Mr. Kim, I've got a problem with my coat and I'm hoping you can help me sort it. I dropped it off last Monday, ticket 4471, and it came back with the sleeves about 5cm shorter; I've brought it and the care label, which says dry clean only. I bought it two years ago for $320. What I'd like is the $18 cleaning refunded and $150 toward a replacement. Is that something you can do?",
    "lang": "en",
    "note": "With a local business you want to keep using, the in-person script and a proportionate ask (about half, since the coat is two years old) keep the relationship intact."
+  },
+  {
+   "id": "complain-as-customer-015",
+   "situation": "网上买了一副699元的降噪耳机，运单号773014288375。物流9月28日下午显示“已签收，签收人：门卫”，但小区门卫说那天没代收过我的件。给派件员打了两次电话都没人接，想在快递公司官方客服正式投诉。",
+   "reply": "您好，运单号773014288375，收件人王磊，地址滨江花园3栋。物流显示9月28日下午3点16分“已签收，签收人：门卫”，但我本人没有收到，小区门卫也确认当天没有代收这个件（门卫代收登记的照片已附）。9月28日和29日我两次打派件员电话，都没人接。请帮我核实签收记录和派送照片，把包裹找回；如果找不回，请按商品价值699元理赔。麻烦在10月3日（周六）前给我答复，电话139 0215 6678，谢谢。",
+   "lang": "zh",
+   "note": "先要求核实签收记录，再说清找不回时要什么；能赔多少以运单上的保价条款为准，发之前先看一眼。"
   }
  ]
 }

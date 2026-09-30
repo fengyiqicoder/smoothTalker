@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -98,6 +98,13 @@
    "reply": "孙总，上次跟您说了去成都的事，谢谢您这么支持。现在成都锐新科技的采购主管岗位到了背调环节，想请您做我的证明人，他们的HR刘女士下周会给您打个电话，大概15分钟。方便的话可以提三件事：上半年的供应商整合、我带的两个新人，以及年中盘点零差错。您下周要是太忙，跟我说一声，我请他们改个时间。",
    "lang": "zh",
    "note": "现任上级已经知道你要走、也表过态时，可以直接请；谁联系、多长时间、会问什么一次说清。"
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-015",
+   "situation": "I was laid off from Harwick Media in the August cuts, along with half the marketing team. My manager, Priya, fought to keep me and said to use her as a reference anytime. I'm now in the final round for a content lead role at Sellwood and they want to call two references next week.",
+   "reply": "Hi Priya, I hope you're doing okay after everything at Harwick. I'm in the final round for a content lead role at Sellwood, and they'd like to call two references between Monday 5 and Friday 9 October. You kindly offered in August, so I wanted to check you're still happy to be one before I pass on your details. If it helps, the things they care most about are the newsletter relaunch, the freelancer budget I managed, and, if they ask, that my role was cut in the restructure rather than for performance. If the timing's bad, no problem at all.",
+   "lang": "en",
+   "note": "An old 'anytime' still needs a fresh ask with the dates; after a layoff, a reference who can confirm why you left is worth a bullet."
   }
  ]
 }

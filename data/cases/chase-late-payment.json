@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -99,6 +99,13 @@
    "reply": "Hi Katrin,\nThanks for settling invoice #0822, the payment arrived on 28 September. The amount received was €2,940 rather than €3,000, so it looks like transfer fees were deducted along the way. Clause 6 of our agreement has transfer charges covered by the sender, so could you send the remaining €60 by Friday 9 October? The bank details are on the invoice as before.\nThanks,\nPriya",
    "lang": "en",
    "note": "Short payment: thank them for what arrived, name the exact gap, point to the contract, and still put a date on a small amount."
+  },
+  {
+   "id": "chase-late-payment-015",
+   "situation": "Freelance video editor. Invoice #0611 for $2,200 was due Aug 28. I've emailed Daniel, the agency owner, three times and got nothing back, so tomorrow I'm calling his office. What do I actually say if he picks up?",
+   "reply": "Hi Daniel, it's Rosa Lin, the editor on the Fairmont launch videos. I'm calling about invoice #0611 for $2,200, due on 28 August and now a month overdue. I've emailed three times without a reply, so I wanted to reach you directly. What date will it be paid? I need it by Friday 9 October, and if something's holding it up on your side, tell me now and we'll sort it. I'll confirm whatever we agree by email today.",
+   "lang": "en",
+   "note": "On a call, say the invoice, amount and due date in the first breath, get a date out loud, and put it in writing the same day."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -92,6 +92,13 @@
    "reply": "各位亲戚好，跟大家说一声：我爸的七十大寿宴从10月17日（周六）改到11月14日（周六），时间还是中午11点半，地点还是金陵饭店三楼。爸上周做了个小手术，很顺利，医生建议多休养几周，我们想让他精神足足地过这个生日。给大家添麻烦了，已经订了车票或安排好行程的，私信我，我们一起想办法。麻烦大家11月6日（周五）前在群里说一下能不能来，酒店要定桌数。",
    "lang": "zh",
    "note": "Postponing: new date first, one line of reason, help for those already committed, a fresh RSVP date."
+  },
+  {
+   "id": "wedding-and-event-host-messages-014",
+   "situation": "Our wedding on Saturday Nov 14 will be alcohol-free because my fiancé Marcus is two years sober. We don't want to explain that to 120 guests. I need a line for the website FAQ, and I know a few friends will grumble.",
+   "reply": "Will there be a bar? We're hosting a dry celebration, so there won't be alcohol at the ceremony or the reception. Instead there's a mocktail bar with three signature drinks we've been perfecting all summer, good coffee, and a dessert table that runs until midnight. We can't wait to see you on the dance floor.",
+   "lang": "en",
+   "note": "State the rule once as a fact about the event; the reason is yours to keep, and if a friend grumbles, repeat it shorter with no new reasons."
   }
  ]
 }

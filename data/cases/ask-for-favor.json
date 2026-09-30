@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -99,6 +99,13 @@
    "reply": "哥，上个月刚麻烦你帮我搬家，这次又要开口：我妈10月14号周三下午3点到南京南站，我那天在合肥出差赶不回来，想请你去接一下，送到我家，来回大概一个半小时。那天要是上班走不开，完全没关系，直接跟我说，我给她叫个专车就行。等我回来，请你和嫂子吃饭。",
    "lang": "zh",
    "note": "连着第二次找同一个人帮忙，提一句上次的情分，把退路说得具体，让他拒绝也不为难。"
+  },
+  {
+   "id": "ask-for-favor-015",
+   "situation": "I'm a freelance web designer. The site I built for Rosa's restaurant, Casa Verde, went live a month ago and she was really happy. I want to ask if I can feature it in my portfolio with a short quote from her.",
+   "reply": "Hi Rosa, now that the Casa Verde site has been live a month, I'd love to feature it in my portfolio. Could I show it with the restaurant's name, and would you answer three short questions by email for a quote? It's about ten minutes, and I'd show you the finished page before it goes up. If you'd rather keep the project private, that's completely fine and changes nothing between us. If you say yes, the case study will link to your booking page too.",
+   "lang": "en",
+   "note": "Asking a client: name the exact time it takes, let them approve the result, and make no a comfortable answer."
   }
  ]
 }

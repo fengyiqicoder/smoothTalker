@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -99,6 +99,13 @@
    "reply": "Guten Tag Herr Brandt, ich melde mich lieber jetzt als kurz vor dem Termin: Unser Holzlieferant liefert die Eichenplatte für Ihren Tisch eine Woche später als vereinbart. Wäre eine Lieferung am Freitag, 30. Oktober, statt am 16. Oktober für Sie in Ordnung? Dann habe ich nach Eingang der Platte genug Zeit, den Tisch ohne Eile so zu fertigen, wie wir ihn besprochen haben. Falls Sie ihn vorher für einen Anlass brauchen, bringe ich Ihnen bis dahin gern einen Leihtisch aus unserer Werkstatt vorbei.",
    "lang": "de",
    "note": "When you are the supplier, the customer is the one granting the extension: ask early and bring a stopgap."
+  },
+  {
+   "id": "ask-for-extension-015",
+   "situation": "University group project, four of us. I told the group I'd have my market analysis section in our shared doc by Sunday Oct 4, but my grandmother is in hospital and I've been visiting every day. I need until Tuesday Oct 6. Final submission is Thursday Oct 8.",
+   "reply": "Hi all, flagging this now rather than on Sunday: I need until Tuesday 6 October, 6pm, for the market analysis section. Family stuff has taken most of this week. That still leaves Wednesday to pull everything together before Thursday's deadline. So nobody's blocked, I'll post the competitor table and my key numbers by Sunday so you can start writing from them. Does that work for everyone?",
+   "lang": "en",
+   "note": "Peers who share a grade: the new date, one line of reason with no detail, and something useful on the original date so no one waits on you."
   }
  ]
 }

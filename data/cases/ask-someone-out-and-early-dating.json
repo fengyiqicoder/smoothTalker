@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -98,6 +98,13 @@
    "reply": "Thanks, Marcus, I had a really nice time too, and the walk along the canal was a good call. I'd be up for another low-key one, maybe a coffee next week, and see how it goes.",
    "lang": "en",
    "note": "Unsure is allowed: a warm, low-stakes yes without promising more. If you already know it's a no, use romantic-let-down instead."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-015",
+   "situation": "I'm 64 and was widowed three years ago. A man in my Wednesday community choir, Gerald, always saves me a biscuit at the break and we talk about our gardens. I'd like to ask him for coffee, but I haven't asked anyone out since 1985.",
+   "reply": "Gerald, I've really enjoyed our gardening chats at the break. Would you like to have a coffee with me sometime, just the two of us? Saturday morning at the café by the garden centre, perhaps. And if not, no bother at all, I'll see you at choir either way.",
+   "lang": "en",
+   "note": "The shape is the same at any age: a specific plan and a real out. The out also protects the choir, which you both keep whatever he says."
   }
  ]
 }

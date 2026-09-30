@@ -19,7 +19,7 @@
   {
    "id": "deliver-bad-news-003",
    "situation": "Freelance dev. I found out the payment integration I promised a client for their Nov 1 launch can't be done with their current payment provider. Need to email the client, Rachel.",
-   "reply": "Hi Rachel,\nI'll get straight to it: Apple Pay can't be added on your current Paymark plan, so it won't be in the 1 November launch. I checked with their support this morning and it's only available on their enterprise tier. I know that was one of the features you wanted for the holiday rush. Two options: launch on the 1st with cards and PayPal, or I can set up Stripe alongside Paymark, which adds about a week. Happy to talk it through on a call tomorrow if that's easier.\nSam",
+   "reply": "Hi Rachel,\nI'll get straight to it: one-tap wallet payments can't be added on your current payment provider's plan, so they won't be in the 1 November launch. I checked with the provider's support this morning and the feature is only on their enterprise tier. I know that was one of the features you wanted for the holiday rush. Two options: launch on the 1st with card payments as planned, or I add a second provider alongside your current one, which adds about a week. Happy to talk it through on a call tomorrow if that's easier.\nSam",
    "lang": "en",
    "note": "No three paragraphs before the news. If she's upset, don't defend; restate the two options and let her choose."
   },
@@ -39,10 +39,10 @@
   },
   {
    "id": "deliver-bad-news-006",
-   "situation": "We always host Thanksgiving for my parents and my brother's family, 11 of us. My knee surgery just got scheduled for Nov 20 so I can't host this year. Mom starts planning in October, so I need to tell her now.",
-   "reply": "Mom, I've got some news you won't love. I can't host Thanksgiving this year. My knee surgery got booked for November 20 and I'll be on crutches for at least three weeks after. I know it's the day you look forward to all year, and I hate breaking the tradition. Rachel says she'd love to host at hers if you and Dad are up for the drive, and I'll still bring the pies. Can I call you tonight after 7 to talk it through?",
+   "situation": "Yesterday I texted my sister Hannah that I can't lend her the $3,000 for her car repair after all, because my hours at work got cut. She replied 'Great, thanks for nothing, you promised.' I don't want a fight, but I can't change my answer.",
+   "reply": "You're right, I did promise, and I'm sorry to go back on it. With my hours cut I can't lend the $3,000, and I know that leaves you stuck without the car. What I can do is drive you to work next week while you sort out the repair. Take whatever time you need, I'm not going anywhere.",
    "lang": "en",
-   "note": "A family tradition breaking is news, not logistics: say it in line two, name what it means to her, then offer the plan and a call."
+   "note": "When they react badly, don't argue with the reaction or reopen the decision: own the broken promise, restate the news once, offer what you can and stay available."
   },
   {
    "id": "deliver-bad-news-007",
@@ -67,8 +67,8 @@
   },
   {
    "id": "deliver-bad-news-010",
-   "situation": "I own one rental flat. My tenant Mrs. Alvarez has lived there six years and always pays on time. I have to sell it for family reasons. Her lease ends Jan 31, so I'm giving notice today, well over the 60 days required. I'm calling her this afternoon and want to follow up in writing.",
-   "reply": "Dear Mrs. Alvarez,\nFollowing our call this afternoon, I'm writing to confirm what I told you: I need to sell the flat, so I won't be renewing the lease when it ends on Sunday, January 31. This is about my family's finances and nothing to do with you; you've looked after the flat and paid on time for six years. I know six years makes it your home, and this is hard news. I'll give you a strong written reference, and if you find somewhere sooner, you can leave on two weeks' notice with no penalty. I'm happy to talk any time.\nBest,\nJulia Chen",
+   "situation": "I own one rental flat. My tenant Mrs. Alvarez has lived there six years and always pays on time. I have to sell it for family reasons. Her lease ends Jan 31, so I'm giving notice today, well over the 60 days' notice our lease requires. I'm calling her this afternoon and want to follow up in writing.",
+   "reply": "Dear Mrs. Alvarez,\nFollowing our call this afternoon, I'm writing to confirm what I told you: I need to sell the flat, so I won't be renewing the lease when it ends on Sunday, January 31, 2027. This is about my family's finances and nothing to do with you; you've looked after the flat and paid on time for six years. I know six years makes it your home, and this is hard news. I'll give you a strong written reference, and if you find somewhere sooner, you can leave on two weeks' notice with no penalty. I'm happy to talk any time.\nBest,\nJulia Chen",
    "lang": "en",
    "note": "Big news goes by call first; the written note confirms the date, owns the reason and spends its words on what you'll do to help."
   },

@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -92,6 +92,13 @@
    "reply": "Liebe Frau Brandt, Jonas ist seit September gut dabei, bei den Gleichungen sieht man den Fortschritt deutlich. Bei den Funktionen braucht er noch mehr Übung, und die kommen in der Abschlussprüfung erfahrungsgemäß oft dran. Mein Vorschlag wäre deshalb, ab Januar bis zur Prüfung eine zweite Stunde pro Woche dazuzunehmen, also 70 statt 35 Euro wöchentlich. Ehrlich gesagt geht es auch mit einer Stunde, wenn er die Übungsblätter, die ich ihm mitgebe, zu Hause durcharbeitet. Sagen Sie einfach, was für Sie besser passt, beides ist völlig in Ordnung.",
    "lang": "de",
    "note": "Ein Vorschlag mit echtem Grund, klaren Kosten und einer kostenlosen Alternative, damit ein Nein sich nicht wie Sparen am Kind anfühlt."
+  },
+  {
+   "id": "upsell-without-pushiness-014",
+   "situation": "我开了家小印刷店。一家培训机构的行政小吴要印300份课程宣传册，每份3.2元。她顺口提到这个课程每个季度都办一次，内容基本不变。一次印1200份的话每份只要1.9元。",
+   "reply": "小吴你好，300份宣传册没问题，周五下午就能取。你提到这个课程每个季度都办，顺便说一下：一次印1200份的话每份1.9元，总共2280元，比每季度印300份一年下来省1560元左右。不过有两点要先想好：册子上如果有日期或价格，改了就用不了；另外要有地方放四箱册子。只印300份也完全没问题，你定就好。",
+   "lang": "zh",
+   "note": "批量建议只在对方自己说过会重复用时才提，省的钱和代价（内容过期、占地方）要一起说。"
   }
  ]
 }

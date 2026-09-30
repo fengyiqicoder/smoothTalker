@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -99,6 +99,13 @@
    "reply": "Hi Sam, Priya mentioned the restaurant closed last month, and I've been thinking about you since. I still remember the lamb you cooked for our whole corridor in second year. No need to reply to this, I know it's been ages. I'm in Leeds for work on Thursday 15 October; if you fancy a pint that evening, I'm buying, and if not, no worries at all.",
    "lang": "en",
    "note": "After years of silence, say how you heard and keep it light: one shared memory, one offer, and a release so the gap never becomes his problem."
+  },
+  {
+   "id": "check-in-on-someone-struggling-015",
+   "situation": "Mon amie Élodie a dû faire euthanasier son chien Pixel samedi, il avait 14 ans. Elle vit seule et elle a juste posté une photo de lui, sans rien écrire. On habite le même quartier à Nantes.",
+   "reply": "Élodie, j'ai vu ta photo de Pixel. Quatorze ans ensemble, c'est toute une vie, et je pense beaucoup à toi. Pas besoin de répondre. Je passe à la boulangerie demain matin : je peux te déposer des croissants devant ta porte vers 9h, sans sonner si tu préfères. Dis-moi juste « oui » ou « pas cette fois ».",
+   "lang": "fr",
+   "note": "Le deuil d'un animal est souvent minimisé : le prendre au sérieux, ne rien demander, et proposer une aide qui n'oblige même pas à voir quelqu'un."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -99,6 +99,13 @@
    "reply": "Sehr geehrter Herr Professor Hartmann,\nvielen Dank für das Angebot und für Ihre Zeit, besonders für den Rundgang über das Messfeld im Dreisamtal, der mir sehr in Erinnerung geblieben ist. Nach langer Überlegung habe ich mich entschieden, die Stelle nicht anzunehmen, und werde meine Promotion an der ETH Zürich beginnen, deren Projekt noch näher an meinem Schwerpunkt Schneeschmelze liegt. Ich sage Ihnen das so früh wie möglich, damit Sie die Stelle weiter vergeben können. Die Entscheidung ist mir nicht leichtgefallen, und ich würde mich freuen, Sie und Ihre Gruppe auf einer der nächsten Tagungen wiederzusehen.\nMit freundlichen Grüßen\nLena Hoffmann",
    "lang": "de",
    "note": "In der Wissenschaft sieht man sich wieder: schnell absagen, der ehrliche Grund in einem Halbsatz, und die Tür nur so weit öffnen, wie sie wirklich offen ist."
+  },
+  {
+   "id": "decline-offer-or-candidate-015",
+   "situation": "我是自由译者，出版社编辑周老师约我翻译一本30万字的英文历史书，明年3月底交稿。我明年上半年的档期已经排满，接不了。之前和她合作过两本书，想以后还能合作。",
+   "reply": "周老师您好，谢谢您想到我，也谢谢您发来的样章，讲威尼斯商路的那几章我读得特别入迷。这次我没办法接：明年上半年的档期已经排满，30万字3月底交稿，我接了只会耽误书的进度。和您合作的两本书都很愉快，如果明年下半年有合适的选题，很希望您再想着我。",
+   "lang": "zh",
+   "note": "自由职业者拒绝约稿：先具体感谢，第二句就说不接，理由只给真实的一个，门只开到确实开着的程度。"
   }
  ]
 }

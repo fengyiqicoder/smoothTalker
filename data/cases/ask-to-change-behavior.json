@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -99,6 +99,13 @@
    "reply": "刘阿姨，跟您商量个小事，您带朵朵这么细心，我们特别放心。这两周看到您给她吃了饼干和果汁，我们俩想让她一岁半前先不吃甜的，怕她以后不爱吃饭。她饿的时候，给她吃蒸南瓜、香蕉或者蒸苹果可以吗？我把能吃的零食列个单子贴在冰箱上，您也省得猜。",
    "lang": "zh",
    "note": "Employer to a helper: praise is real, the ask is specific, and the list makes yes easy."
+  },
+  {
+   "id": "ask-to-change-behavior-015",
+   "situation": "My mother-in-law Linda has a key to our flat and has started dropping by unannounced two or three times a week since our son was born in July. She's genuinely helpful, but last Tuesday she walked in while I was breastfeeding in the living room. My husband Tom agrees I should raise it, and I'd like to text her myself.",
+   "reply": "Hi Linda, can I ask something small? We love how much you're around for Noah, and your help has been huge. A few times lately you've arrived without a heads-up and caught me off guard, including while I was feeding him. Could you text before coming over, even just \"on my way in 20\"? Then I'll have the kettle on, and you're always welcome.",
+   "lang": "en",
+   "note": "In-laws: agree it with your partner first, then one behaviour, the effect on you, and a tiny ask that keeps the welcome intact."
   }
  ]
 }

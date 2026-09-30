@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -92,6 +92,13 @@
    "reply": "As I covered on this morning's call: from Monday 2 November, we're in the office Tuesday to Thursday, with Monday and Friday remote. The company made this call to bring teams back together in person; I pushed for our team to stay flexible and didn't get it, and now that it's decided I'm going to make it work well for us. On office days, core hours are 10 to 4, so you can travel outside rush hour. I don't know yet how exceptions for long commutes will work, and I'll share that process by Friday 16 October. Questions in this thread, or grab 20 minutes with me this week.",
    "lang": "en",
    "note": "A decision you argued against: say so once, plainly, then commit; no 'leadership decided' shrug."
+  },
+  {
+   "id": "team-announcements-as-a-manager-014",
+   "situation": "Leadership just cancelled Project Atlas, the billing redesign my team of 6 has spent five months on, to put everyone on reliability after this quarter's outages. I argued to finish phase one and lost, but I agree with the call overall. I'm telling the team at standup tomorrow morning, then posting the summary in Slack.",
+   "reply": "As I shared at standup this morning: Project Atlas is cancelled, effective today. The reason is that outages cost us three enterprise customers this quarter, and the company is putting every spare engineer on reliability until at least March. I pushed to finish phase one first and didn't get it, but I agree with the decision overall. Your roles, pay and team stay the same; from Monday 5 October we pick up the failover and on-call tooling work, and I'll share the plan by Friday 9 October. The invoice engine you built gets folded into the current billing system in Q1, and I'll make sure leadership knows who built it. Questions here or in a 1:1 this week, including \"is the next project safe\".",
+   "lang": "en",
+   "note": "A cancelled project: lead with it, say what happens to their work and their next weeks, and credit what they built where leadership will see it."
   }
  ]
 }

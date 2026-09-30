@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -92,6 +92,13 @@
    "reply": "Hi Farah, lovely post about Siobhan! Quick heads up: her name is spelled 'Shivon' in the text, and the tag goes to a different Siobhan Walsh, not ours. Easy fix with an edit, and ours is the one with the Studio Nine logo in her photo.",
    "lang": "en",
    "note": "Seniority doesn't change the rule: a fixable error gets a private message, one plain line and the fix, then never mention it again."
+  },
+  {
+   "id": "tell-someone-something-awkward-014",
+   "situation": "儿子14岁，上初二，最近打完球回家身上汗味很重，他自己好像没察觉。想今晚单独跟他说，又怕伤他自尊。",
+   "reply": "儿子，跟你说件小事，就咱俩之间：最近打完球回来，身上汗味挺明显的。这个年纪长身体，谁都会这样，我初中的时候也一样。运动完洗个澡，衣服一天一换就行，要不要买瓶止汗露，你自己挑。好了，就这些，吃饭吧。",
+   "lang": "zh",
+   "note": "对青春期的孩子也是私下说、一句讲清楚、说明这很正常，再给一个具体办法，之后不再反复提。"
   }
  ]
 }

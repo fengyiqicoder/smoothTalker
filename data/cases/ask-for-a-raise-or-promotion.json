@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -99,6 +99,13 @@
    "reply": "Hi Sophie, now that I'm properly settled back in, could we find 30 minutes in the next two weeks to talk about my path to Senior Account Manager? Before my leave we'd agreed I was on track, and since the spring cycle ran while I was out, I'd like us to pin down what's needed for the next one and when it is. Tuesday or Thursday afternoon would suit me.",
    "lang": "en",
    "note": "Book the talk about the path, not the grievance, and bring your pre-leave results to the meeting. If the path keeps moving, check your company's leave policy and talk to HR."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-015",
+   "situation": "Llevo cuatro años trabajando en la ferretería de mi tío Paco en Valencia y cobro 1.450 euros al mes. Desde enero llevo yo los pedidos a proveedores y la tienda online, que ya es el 20% de las ventas. Hemos quedado el sábado después de cerrar y quiero pedirle 1.700 euros sin que se convierta en una conversación de familia.",
+   "reply": "Paco, hoy quiero hablar contigo como jefe, no como sobrino. Me gusta mucho la tienda y quiero seguir aquí muchos años. Desde enero llevo los pedidos a proveedores y la tienda online, que ya es el 20% de las ventas. Por eso te pido pasar de 1.450 a 1.700 euros al mes a partir de noviembre. Si ahora no es posible, ¿qué necesitarías ver y cuándo lo podemos revisar?",
+   "lang": "es",
+   "note": "Con un familiar como jefe, separa los papeles en la primera frase y apóyate solo en el trabajo, nunca en la familia."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -98,6 +98,13 @@
    "reply": "Subject: Keg tracking, via Tom at Canlift\n\nHi Dana,\nTom Alvarez at Canlift suggested I write to you. Your July post called keg loss the brewing problem nobody has solved; we track every keg with a $4 tag and a phone scan. The 23 breweries in our pilot have cut lost kegs by 60% in four months. We're raising a $600k pre-seed. Would you be open to a one-page summary? A 'no' is genuinely helpful too.\nMia Okonkwo",
    "lang": "en",
    "note": "Investor pitch: lead with the referral and her own words, one number, and ask to send a one-pager, not for a meeting."
+  },
+  {
+   "id": "cold-outreach-015",
+   "situation": "我当了5年小学英语老师，想转行做用户研究。有位在公众号写用研文章的前辈陈默，上个月写了一篇《从教师转用研的三个误区》。我想给她发私信，但不想发“想请教一下”这种空话。",
+   "reply": "陈老师好，您上个月那篇《从教师转用研的三个误区》我读了三遍，第二条“别把课堂观察当成用户访谈”正好说中了我。我当了5年小学英语老师，正在转用户研究，已经用12次家长访谈做了一个练习项目。想问一个具体问题：作品集里放一个非商业的研究项目，招聘方会认可吗？一两句话的回答就很感激，不方便回复也完全理解。",
+   "lang": "zh",
+   "note": "向陌生前辈请教也是冷启动：证明读过她的东西，只问一个一两句能答的问题，不约电话、不说“请教一下”。"
   }
  ]
 }

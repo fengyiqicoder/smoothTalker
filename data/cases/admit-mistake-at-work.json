@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -99,6 +99,13 @@
    "reply": "Helen, I need to flag a mistake: at 10:15 I emailed Crisp Linen a spreadsheet meant for our billing company, with 230 patients' names, phone numbers and appointment dates. I've called their office manager, Dave, and asked him to delete it and confirm in writing; he's doing that now. I'm sorry, I picked the wrong contact from autofill. Because it's patient data, I think we should check today whether our data protection policy means it has to be reported. Can we go through that together before lunch? From now on I'll password-protect any file with patient details before it leaves the clinic.",
    "lang": "en",
    "note": "With personal data, part of the fix is checking reporting duties the same day; don't decide on your own that it's harmless."
+  },
+  {
+   "id": "admit-mistake-at-work-015",
+   "situation": "I teach Year 9 maths. The algebra test grades I posted to the parent portal last Friday were wrong: my answer key for question 7 had an error, so all 28 students lost 4 marks they'd earned. Three parents have already emailed, and I want to message all the parents.",
+   "reply": "Dear parents, I made a marking error on last Friday's algebra test: my answer key for question 7 was wrong, so every student lost 4 marks they had earned. I've corrected all 28 papers, and the updated grades are on the portal now; every score has gone up by 4. I explained the mistake to the class this morning as well. I'm sorry for the confusion, especially if you'd already talked the result through at home. From now on I'll work through every answer key myself before I mark a test. Ms Harper",
+   "lang": "en",
+   "note": "To a whole group of parents: one message to everyone, the fix already live, and no need for them to chase you individually."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "small-talk-001",
@@ -92,6 +92,13 @@
    "reply": "你记性也太好了，连辩论队都记得！我得先坦白，十年没见，你的名字我一下卡住了，真不好意思，提醒我一下？你当年也常来看我们比赛吗？",
    "lang": "zh",
    "note": "忘了名字就一句话坦白，别硬撑着聊；马上接住他给的话头，尴尬几秒就过去了。"
+  },
+  {
+   "id": "small-talk-014",
+   "situation": "I'm picking up a client, Ji-woo Park, from her hotel tomorrow morning for the 20-minute drive to our Chicago office. She flew in from Seoul last night and it's her first time in the US. I don't want to talk shop the whole way or sit in silence.",
+   "reply": "Welcome to Chicago, Ji-woo. How are you holding up after the flight? If you get a free evening while you're here, is there anything you're hoping to see or eat?",
+   "lang": "en",
+   "note": "A visitor has a view on her own trip: follow her answer, offer one local tip of your own, then hand it back."
   }
  ]
 }

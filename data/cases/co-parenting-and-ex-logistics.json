@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -99,6 +99,13 @@
    "reply": "Hi Priya, thanks for letting me know about Kevin doing the Tuesday and Thursday pickups. I'd like to meet him briefly before he starts, so Arjun sees us say hello and I know who's collecting him. Could we do ten minutes at the school gate on Monday 5 October at 3:15, or another time before Tuesday that suits you? Thanks.",
    "lang": "en",
    "note": "On the receiving end of new-partner news: no comment on the relationship, one reasonable request tied to the child, with a date. Check separately that the school has him on the pickup list."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-015",
+   "situation": "离婚协议里没写春节孩子跟谁过。去年春节儿子豆豆在我这，今年前夫说想带他回老家过年。我想干脆定个规矩，以后按年轮流。",
+   "reply": "你好，说一下春节的安排。协议里没写，我想定个固定办法：明年（2027年）春节从除夕到初三，豆豆跟你回老家，2028年跟我，之后每年轮流。具体接送时间你定，提前一周告诉我就行。同意的话，我们各自回一句“同意”留个记录，以后就不用每年再商量。麻烦10月15日前回我。谢谢。",
+   "lang": "zh",
+   "note": "把一次性的安排变成固定规则，一条消息只谈这一件事，写成书面、有期限的是非题。"
   }
  ]
 }

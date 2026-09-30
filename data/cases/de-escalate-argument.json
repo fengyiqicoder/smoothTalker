@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -99,6 +99,13 @@
    "reply": "小林，我们别在群里吵了，“每次都想占便宜”那句是我说过头了，对不起。我知道你是觉得你那间房最小，按人头平摊不公平。今晚9点我给你打个电话，我们俩把账算清楚再发到群里。大家好不容易凑一起出去玩，别因为几百块坏了心情。",
    "lang": "zh",
    "note": "在群里当众吵，就在群里当众认那一句，具体的账挪到私下电话里算，再回群里给结果。"
+  },
+  {
+   "id": "de-escalate-argument-015",
+   "situation": "My downstairs neighbour Gary knocked at 10pm to complain about my kids running around, and I snapped 'maybe move to a house then'. He's still standing at my door and we're both getting louder. I want to calm it down right now.",
+   "reply": "Gary, we're both wound up, and the 'move to a house' comment was rude. I'm sorry. I can hear the noise has really been getting to you, especially late in the evening. Can I knock on your door tomorrow at 6 and we work out something about evenings? We're going to be neighbours for a long time.",
+   "lang": "en",
+   "note": "In person with a neighbour: own the one line, reflect the real grievance without agreeing to terms at the door, and set the time yourself."
   }
  ]
 }

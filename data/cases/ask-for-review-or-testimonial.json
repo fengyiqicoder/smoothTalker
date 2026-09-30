@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -99,6 +99,13 @@
    "reply": "Mr. Okafor, thank you for writing. I've passed your words on to Dev and the crew, and they meant a great deal to them. Would you be comfortable with us sharing that line on our website, so families moving something precious know they can trust us? We'd sign it 'Samuel O., Leeds' or leave your name off entirely, and we'd cut any part you'd rather keep private. If you'd prefer it stays between us, that's completely fine, and thank you again.",
    "lang": "en",
    "note": "Quoting a private message: ask permission, offer anonymity and edits, and make the out genuine."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-015",
+   "situation": "A customer, Jordan, left our bakery a 2-star Google review last week because his daughter's birthday cake was the wrong flavour. We called, apologised, refunded the $65 and remade it free in time for her party on Saturday. He texted today to say she loved it. Can I ask him to update the review without being pushy?",
+   "reply": "Hi Jordan, so glad Ava loved the cake, and thank you for giving us the chance to put it right. If you feel it's fair, you're welcome to update your Google review to mention how it was sorted; you can edit it from the same place you posted it. Completely your call, and the refund and the new cake were ours to make good either way.",
+   "lang": "en",
+   "note": "Ask only after the fix, make clear nothing depended on it, and never ask him to delete the review."
   }
  ]
 }

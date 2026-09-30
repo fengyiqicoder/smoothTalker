@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -99,6 +99,13 @@
    "reply": "中村部長\nいつもお世話になっております。10月17日のゴルフコンペにお声がけいただき、ありがとうございます。今回は参加を見送らせていただきます。ゴルフはほとんど経験がなく、皆さんのプレーの足を引っ張ってしまいそうです。来月御社に伺う際、よろしければランチをご一緒させてください。当日が好天に恵まれますように。\n田中",
    "lang": "ja",
    "note": "取引先への断りは理由を一つだけ短く伝え、本当に行ける場を代わりに一つ具体的に出す。謝罪は重ねない。"
+  },
+  {
+   "id": "decline-invitation-015",
+   "situation": "My friend Leanne from yoga invited me to a 'wellness evening' at her house on Thursday October 8. It's really her selling essential oils for a direct-sales company. I like her a lot, but I don't want to go or buy anything.",
+   "reply": "Thanks for the invite, Leanne. I'm going to skip Thursday, oils just aren't my thing. Hope it's a great night! Fancy a coffee after class on Tuesday?",
+   "lang": "en",
+   "note": "Decline the event, not the friend: one short honest reason, and a plan with her that has nothing to sell. If she pushes, repeat the no once."
   }
  ]
 }

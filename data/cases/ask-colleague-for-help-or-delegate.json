@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -99,6 +99,13 @@
    "reply": "Hi Lena, I'd like you to take the Q4 access review this time. To be straight with you, it's about six hours of checking spreadsheets, not a stretch project, and we rotate it so it never lands on the same person twice. Done means every account signed off in the tracker by Friday 23 October, and Tom will give you 15 minutes on his notes from last quarter. I'll take something else off your plate to make room, so tell me which ticket can slip a week. Does that work with what you've got on?",
    "lang": "en",
    "note": "For dull work, 'it's your turn in the rotation' is an honest why-them; dressing it up as growth backfires."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-015",
+   "situation": "Two weeks ago I delegated the vendor cost review to Kenji on my team, due Friday Oct 9 for the budget meeting on Monday Oct 12. I haven't heard a word since. I don't want to micromanage, but I need to know it's on track.",
+   "reply": "Hi Kenji, quick check-in on the vendor cost review, not a status meeting. Is Friday 9 October still realistic for you? If anything's stuck, like missing contracts or a vendor not replying, tell me now and I'll chase it; if we need to, it could cover just our top ten vendors for Monday's budget meeting. A one-line reply is plenty.",
+   "lang": "en",
+   "note": "Check the outcome and the date, not the steps, and offer to remove blockers or trim scope; that is support, not micromanagement."
   }
  ]
 }
