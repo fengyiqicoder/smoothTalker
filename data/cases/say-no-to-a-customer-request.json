@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -141,6 +141,13 @@
    "reply": "Thanks for asking me first, Imogen, and for trusting me with three designs this year. I can't agree to two years with no other tea brands: tea clients are about 40% of my work, so it would mean turning away close to half my income. What I can offer is no work for other tea shops in Leeds for 12 months, and a written promise that your designs are never reused. If that works for you, I'll put it into our next contract.",
    "lang": "en",
    "note": "Exclusivity is a price, not a courtesy: offer the narrower version that protects what they actually fear, a local competitor."
+  },
+  {
+   "id": "say-no-to-a-customer-request-021",
+   "situation": "I run a small bakery. A mum, Rachel, wants a birthday cake for her son Max, who's turning 5 and has a severe peanut allergy, and asked me to promise it will be completely nut-free. We bake with peanuts and almonds in the same kitchen, so I can't rule out traces. Little Oak Bakes across town is a dedicated nut-free bakery.",
+   "reply": "Thank you for thinking of us for Max's birthday, Rachel. I can't promise a completely nut-free cake: we bake with peanuts and almonds in the same kitchen, and with a severe allergy even a trace matters. Little Oak Bakes across town is a dedicated nut-free bakery, so they can give you the guarantee I can't. I'd love to bake for you another time, whenever nuts aren't a worry.",
+   "lang": "en",
+   "note": "When the risk is someone's health, the no stays a no: don't soften it to 'we're very careful', and point them to someone who can say yes safely."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -141,6 +141,13 @@
    "reply": "Hi Aisha, your planter goes out tomorrow morning, so it should reach your mum a few days before the 8th. Since it's going straight to her, I can gift-wrap it and add a handwritten card with your message for $6. Either way I'll leave the price slip out. It's perfectly nice as it is, so no need if you'd rather keep it simple; just let me know by tonight if you'd like the wrap.",
    "lang": "en",
    "note": "The deadline is real (posting tomorrow), so it can be named without being pressure."
+  },
+  {
+   "id": "upsell-without-pushiness-021",
+   "situation": "Ich leite ein kleines Yogastudio. Lena kommt seit Anfang September zu Einzelstunden für je 18 Euro, im September war sie sieben Mal da, und nach der Stunde heute meinte sie, sie will auf jeden Fall dabeibleiben. Unsere Zehnerkarte kostet 150 Euro und gilt sechs Monate.",
+   "reply": "Schön, dass es dir so gefällt, Lena! Weil du im September sieben Mal da warst: Mit der Zehnerkarte für 150 Euro zahlst du 15 statt 18 Euro pro Stunde. Sie gilt allerdings nur sechs Monate, lohnt sich also nur, wenn du ungefähr so oft weiterkommst. Mit Einzelstunden bist du genauso willkommen, sag einfach, was dir lieber ist.",
+   "lang": "de",
+   "note": "Der Vorschlag kommt direkt nach ihrer eigenen Aussage, die Rechnung ist offen, der Haken mit der Gültigkeit wird genannt, und ein Nein kostet nichts."
   }
  ]
 }

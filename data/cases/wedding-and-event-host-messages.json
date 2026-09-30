@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -141,6 +141,13 @@
    "reply": "各位同学好，十周年聚会再跟大家确认一下：11月14日（周六）晚上，南京，每人300元AA，含晚饭和包间。饭店要我们11月6日（周五）前确认人数并交定金，所以报了名的同学麻烦在这之前转给我，到时按已交的人数订位。已经交了的同学谢谢，不用回复。十年没见，特别期待那天跟大家好好聊聊！",
    "lang": "zh",
    "note": "催款写成对所有人的安排，说清截止日和原因，不点名；过了6日仍没交的，再单独私聊。"
+  },
+  {
+   "id": "wedding-and-event-host-messages-021",
+   "situation": "Our wedding on Saturday 21 November is adults-only, except babies under one, because a few friends are breastfeeding. My friend Aisha is bringing her 6-month-old and just asked if her 3-year-old, Zayd, can come too, since she's bringing a child anyway.",
+   "reply": "Thanks for asking, Aisha, and I can see why it feels like a small step with the baby coming anyway. We've kept it to babies under one for everyone, since it's about little ones who are still feeding, so Zayd can't come this time. I can't wait to meet the baby and to celebrate with you on the 21st.",
+   "lang": "en",
+   "note": "An exception is still a category: hold its line exactly, or it turns into a rule that seems aimed at the people outside it."
   }
  ]
 }

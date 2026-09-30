@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -141,6 +141,13 @@
    "reply": "Good news for once: from Monday 2 November to Friday 29 January, our team is trialling a four-day week. Fridays off, same pay, same targets. I pitched it because our ticket volume halves on Fridays, and leadership agreed to test it. Each Friday two of us will cover urgent tickets on a rota and take the following Monday off; I'll post the rota by Friday 16 October. If our response times go above 4 hours, the trial ends, so this is a test we can lose, not a promise. Questions here, or grab 15 minutes with me this week.",
    "lang": "en",
    "note": "Good news still needs the conditions up front, so nobody feels it was taken away later."
+  },
+  {
+   "id": "team-announcements-as-a-manager-021",
+   "situation": "I manage 12 consultants. From Monday 2 November everyone logs billable hours daily in our time tracker instead of once on Fridays, because two clients disputed invoices last quarter and we couldn't back up £38,000 of billed hours. I agreed with the change. Each week I'll only look at totals per client, not anyone's day-by-day hours. I'm posting in our team channel and I expect people to read it as surveillance.",
+   "reply": "From Monday 2 November, we're moving from logging billable hours on Fridays to logging them daily in the time tracker. The reason: two clients disputed invoices last quarter, and we couldn't back up £38,000 of hours we'd billed. I agreed with this change. I know it can feel like being watched, so here is exactly how I'll use it: each week I'll look at totals per client, not at anyone's day-by-day hours. If daily logging clashes with how you work, tell me this week and we'll find a routine that fits. Questions here or in a 1:1, whichever you prefer.",
+   "lang": "en",
+   "note": "A policy that can feel like surveillance: give the real reason with the number, and say plainly what you will and won't look at."
   }
  ]
 }

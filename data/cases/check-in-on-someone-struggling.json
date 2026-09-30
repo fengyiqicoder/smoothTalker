@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -148,6 +148,13 @@
    "reply": "Dan, I saw your post about the flat and I've been thinking about you since. No need to reply properly to this. I'm free Saturday and can bring the car over to help shift whatever's ruined, or do a run to the tip, from 10 till whenever you like. Just reply 'Saturday' or 'not this week', both are completely fine.",
    "lang": "en",
    "note": "After a disaster the useful help is physical and dated; skip the silver linings and don't ask for a list of what was lost."
+  },
+  {
+   "id": "check-in-on-someone-struggling-022",
+   "situation": "My close friend Grace told me last week that her third IVF round failed. I'm 20 weeks pregnant and she knows. I haven't messaged since because I'm scared anything from me will hurt. We usually swim together on Sunday mornings.",
+   "reply": "Grace, I've been thinking about you all week since you told me about the third round. I know I might be a hard person to be around right now, and that's completely okay; you don't have to look after my feelings. Swim on Sunday morning if you'd like it, skip it if you wouldn't, either is fine. No need to reply.",
+   "lang": "en",
+   "note": "When you have what they're grieving, name it once, give them permission to keep their distance, and leave the usual plan open."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -141,6 +141,13 @@
    "reply": "Some news we wanted you to hear from us first: Mum and I are selling the house. We've accepted an offer, completion is 11 December, and we're moving to a flat near the coast. It's the right time for us, and it still feels strange to write. Before it goes, we'd love all three of you home for one last weekend there, Saturday 21 and Sunday 22 November. Can you make it?",
    "lang": "en",
    "note": "Adult children equally close can hear it together, at the same moment; the invitation gives them somewhere to put the feeling."
+  },
+  {
+   "id": "share-personal-news-021",
+   "situation": "总监今天告诉我，我升任设计组组长，国庆后10月8日（周四）例会上正式宣布，他同意我提前私下先跟小周说。小周资历比我老，也申请了这个岗位。想先单独发微信给她，不想让她在会上才听到。",
+   "reply": "小周，有件事想在例会前先单独跟你说：总监定了由我接任设计组组长，10月8日例会上宣布。我知道你也申请了，你资历比我老，这事我不想让你在会上才听到。以后组里很多事还要靠你，节后想约你喝杯咖啡聊聊，你看哪天方便？",
+   "lang": "zh",
+   "note": "好消息对某个人是坏消息时，先单独、提前告诉她，承认她的付出，不替她消化情绪。"
   }
  ]
 }

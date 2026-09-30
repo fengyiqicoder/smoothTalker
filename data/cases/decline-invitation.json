@@ -5,21 +5,21 @@
   {
    "id": "decline-invitation-001",
    "situation": "My college friend Mia invited me to her bachelorette in Tulum, about $1,800 all in. Can't afford it and honestly we're not that close anymore. Want to message her directly, not the group chat.",
-   "reply": "Thank you for including me, Mia, it sounds like an amazing trip. I can't make Tulum this time. I'll be cheering from here, and I can't wait to celebrate with you at the wedding in May.",
+   "reply": "Thank you for including me, Mia, it sounds like an amazing trip. I can't make Tulum this time. I'll be cheering from here, and I hope it's the best weekend.",
    "lang": "en",
    "note": "No reason given: 'can't afford it' invites a discount offer, and no alternative is proposed because you wouldn't go on another date either."
   },
   {
    "id": "decline-invitation-002",
    "situation": "部门老大刘总周五晚上请大家吃饭唱K，我那天要去机场接出差回来的老公，而且本来也不太想去。想私聊跟他说一声。",
-   "reply": "谢谢刘总请客！周五晚上我要去机场接人，这次就不去了，祝大家玩得开心。下次部门活动算我一个。",
+   "reply": "谢谢刘总请客！周五晚上我要去机场接人，这次就不去了，祝大家玩得开心。周一见！",
    "lang": "zh",
-   "note": "一个真实、简短的理由就够了，不用解释自己本来也不太想去。"
+   "note": "一个真实、简短的理由就够了，不用解释自己本来也不太想去；本来就不想去，也别说“下次算我一个”。"
   },
   {
    "id": "decline-invitation-003",
-   "situation": "Told my aunt I can't come to Thanksgiving this year because we're doing it with my husband's family. She replied 'it won't be the same without you, can't you at least come for dessert?'",
-   "reply": "I really can't this year, Aunt Carol, and I'll miss your pecan pie. Can I call you that afternoon and say hi to everyone?",
+   "situation": "Told my Aunt Carol I can't come to Thanksgiving this year because we're doing it with my husband's family. She replied 'it won't be the same without you, can't you at least come for dessert?'",
+   "reply": "I really can't this year, Aunt Carol, and I'll miss being there. Can I call you that afternoon and say hi to everyone?",
    "lang": "en",
    "note": "When they push, repeat the no once and add no new reasons; new reasons are new things to negotiate."
   },
@@ -74,10 +74,10 @@
   },
   {
    "id": "decline-invitation-011",
-   "situation": "A former colleague, Laura, asked me to speak on a panel at her unpaid product meetup on October 20. I'm swamped through the end of the year and honestly wouldn't take on a talk any time soon. We're on good terms and I'd like to keep it that way. LinkedIn message.",
-   "reply": "Thanks for thinking of me for the panel, Laura, I'm flattered. I'm going to say no this time; my plate is full through the end of the year. I hope the night goes brilliantly, and I'm happy to share the event on LinkedIn if that helps fill the room.",
+   "situation": "Three weeks ago I RSVP'd yes to my former colleague Laura's product meetup on Tuesday October 20. A client deadline has since landed that week and I now know I can't go. We're on good terms and I want to tell her early. LinkedIn message.",
+   "reply": "Laura, I said yes to the meetup on the 20th, but I can't make it after all: a client deadline has landed that week. I'm telling you now so you can give my spot to someone else. I hope the night goes brilliantly.",
    "lang": "en",
-   "note": "A professional no with no new date offered, since you wouldn't do it later either; a small, real bit of help keeps it warm."
+   "note": "Backing out of a yes: tell them as soon as you know, give the one true reason once, and make it easy to fill your place; no second apology."
   },
   {
    "id": "decline-invitation-012",
@@ -89,20 +89,20 @@
   {
    "id": "decline-invitation-013",
    "situation": "姑妈要把她同事的儿子介绍给我，约了国庆10月3号中午一起吃饭，已经跟人家说好了。我现在不想相亲，也不想让她下不来台。",
-   "reply": "姑妈，谢谢您惦记我，还特意帮我张罗。3号那顿饭我就不去了，我现在没打算相亲，您帮我跟对方说声不好意思。国庆我回去看您，给您带稻香村的点心。",
+   "reply": "姑妈，谢谢您惦记我，还特意帮我张罗。3号那顿饭我就不去了，我现在没打算相亲，您帮我跟对方说声不好意思。改天我单独陪您吃顿饭。",
    "lang": "zh",
    "note": "不想相亲就别说“那天有事”，否则换个日子还会再约；一个真实理由说一次，温度放在对姑妈本人身上。"
   },
   {
    "id": "decline-invitation-014",
-   "situation": "取引先の中村部長から、10月17日（土）のゴルフコンペに誘われました。ゴルフはほとんどやらないので行きたくないですが、関係は大事にしたいです。メールで返事をします。",
+   "situation": "取引先の中村部長から、10月17日（土）のゴルフコンペに誘われました。ゴルフはほとんどやらないので行きたくないですが、関係は大事にしたいです。来月、打ち合わせで先方の会社に伺う予定があります。メールで返事をします。",
    "reply": "中村部長\nいつもお世話になっております。10月17日のゴルフコンペにお声がけいただき、ありがとうございます。今回は参加を見送らせていただきます。ゴルフはほとんど経験がなく、皆さんのプレーの足を引っ張ってしまいそうです。来月御社に伺う際、よろしければランチをご一緒させてください。当日が好天に恵まれますように。\n田中",
    "lang": "ja",
    "note": "取引先への断りは理由を一つだけ短く伝え、本当に行ける場を代わりに一つ具体的に出す。謝罪は重ねない。"
   },
   {
    "id": "decline-invitation-015",
-   "situation": "My friend Leanne from yoga invited me to a 'wellness evening' at her house on Thursday October 8. It's really her selling essential oils for a direct-sales company. I like her a lot, but I don't want to go or buy anything.",
+   "situation": "My friend Leanne from my Tuesday yoga class invited me to a 'wellness evening' at her house on Thursday October 8. It's really her selling essential oils for a direct-sales company. I like her a lot, but I don't want to go or buy anything.",
    "reply": "Thanks for the invite, Leanne. I'm going to skip Thursday, oils just aren't my thing. Hope it's a great night! Fancy a coffee after class on Tuesday?",
    "lang": "en",
    "note": "Decline the event, not the friend: one short honest reason, and a plan with her that has nothing to sell. If she pushes, repeat the no once."

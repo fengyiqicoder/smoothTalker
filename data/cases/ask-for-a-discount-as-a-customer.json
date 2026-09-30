@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -148,6 +148,13 @@
    "reply": "Hi Dave, thanks for the quote, I'd like to go ahead with the timing belt and water pump. We've brought both cars to you for eight years, so I wondered whether you could do it for $1,100. I can drop it off whichever day next week suits you best. If the price is set, no problem, just book me in at $1,240.",
    "lang": "en",
    "note": "No rival quote, so the levers are loyalty and flexible timing; saying you'll book either way makes the ask cost him nothing."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-022",
+   "situation": "婚礼跟拍摄像李师傅报价6,800元，我问能不能5,500，他说最低6,200。我们很想定他，想试试6,000成交，定金今天就能付；如果6,200真是底价，也可以接受。",
+   "reply": "李师傅，谢谢您愿意让到6,200。我们真的很想定您，6,000整可以吗？可以的话我今天就把定金转过去。如果6,200就是底价，也没关系，我们就按6,200定。",
+   "lang": "zh",
+   "note": "对方已经还了价，再往前走一小步就好，并说清楚不行也照样成交，给对方留面子。"
   }
  ]
 }

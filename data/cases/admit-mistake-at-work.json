@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -148,6 +148,13 @@
    "reply": "刘女士，跟您说一个我的失误：卫生间墙砖您定的是浅灰哑光，我下单时选成了浅灰亮光，昨天工人已经铺完一面墙。这面墙我们拆掉重铺，费用全部由公司承担。正确的哑光砖周五（10月2日）到货，整体完工时间从10月9日推到10月13日。对不起，是我没核对清楚。以后每次下单前，我都会把型号发给您确认后再下。",
    "lang": "zh",
    "note": "向业主认错：错在哪、怎么补救、谁承担费用、新的完工日期一次说清，不推给供应商或工人。"
+  },
+  {
+   "id": "admit-mistake-at-work-022",
+   "situation": "I'm a freelance bookkeeper. This morning I realised I filed my client Anja's quarterly sales tax return two days late, because I'd put the wrong deadline in my calendar. I filed it an hour ago, and the tax office's online account now shows a $150 late-filing penalty, which I'll pay myself.",
+   "reply": "Anja, I need to tell you about a mistake I made: I filed your quarterly sales tax return two days late, because I had the wrong deadline in my calendar. I filed it this morning, and the tax office's online account now shows a $150 late-filing penalty, which I'll pay myself. I'll send you the payment confirmation by Friday 2 October. From today, every client deadline goes into my calendar with a reminder a week ahead. Sorry for this one.",
+   "lang": "en",
+   "note": "When your mistake costs a client money, say who pays in the same message as the mistake; they shouldn't have to ask."
   }
  ]
 }

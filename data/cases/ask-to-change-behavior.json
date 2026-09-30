@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -148,6 +148,13 @@
    "reply": "I know it's meant as banter, and I'm not asking you to stop joking with me. It's just the accent impression when you repeat my points in stand-up: the laugh ends up being about how I said it rather than what I said. Could you drop that one bit from now on? That's the whole ask, and we're good.",
    "lang": "en",
    "note": "When they call you sensitive, don't debate your feelings: grant the intent, restate the one behaviour and its effect, repeat the ask. If it continues, take it to your manager or HR."
+  },
+  {
+   "id": "ask-to-change-behavior-022",
+   "situation": "同期の佐藤さんが、私あての細かい確認メールに毎回、課長をCCに入れてきます。先週だけで5通、資料の誤字や会議室の予約みたいな小さい話でした。仲は悪くないので、チャットで軽く頼みたいです。",
+   "reply": "佐藤さん、ちょっと相談です。最近、私あての確認メールに課長がCCで入っていることが多くて、先週は誤字や会議室の予約の件も含めて5通ありました。細かいことまで課長に見られていると思うと、少し落ち着かなくて。細かい確認は私だけに送って、課長の判断が要るものだけCCにする、というのはどうでしょう？私も同じようにしますね。",
+   "lang": "ja",
+   "note": "意図は決めつけず、行動と自分への影響だけを伝える。お互いのルールにすると頼みやすい。"
   }
  ]
 }

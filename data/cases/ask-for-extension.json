@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -148,6 +148,13 @@
    "reply": "Dear Dr. Okafor,\nI'm writing now rather than on the 5th about my review of JCE-2026-0412. An internal grant deadline at my institution has moved to 6 October and taken this week. Could I send the review by Monday 12 October instead? If that's too late for your decision timeline, tell me and I'll step aside today so you can invite another reviewer without losing more time.\nWith apologies for the change,\nDaniel Mercer",
    "lang": "en",
    "note": "When the work is a favour to someone's process, the alternative to a new date is stepping aside early, not a rushed review."
+  },
+  {
+   "id": "ask-for-extension-022",
+   "situation": "我开了家小超市，欠供应商王总这批饮料货款4.8万元，约好10月15日（周四）付清。一家单位团购的6万元回款推迟到了月底，15日我只能先付2.4万，剩下的2.4万最晚10月30日（周五）能付。跟王总合作三年了，从没拖过款。",
+   "reply": "王总，提前跟您说一声：这批饮料的4.8万货款，原定10月15日（周四）付清，我这边有一笔团购回款推迟到了月底。我想15日先付2.4万，剩下的2.4万最晚10月30日（周五）付清。合作三年我从没拖过款，这次也想早点跟您讲清楚。您看这样安排可以吗？",
+   "lang": "zh",
+   "note": "提前两周说，给具体金额和日期，先付一半；延期后的日期一定要守住，第二次延期就是另一场谈话了。"
   }
  ]
 }

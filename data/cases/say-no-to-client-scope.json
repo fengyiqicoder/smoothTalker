@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -141,6 +141,13 @@
    "reply": "Hi Claire, how exciting, those shots will look great on a billboard. Our contract licenses the menu photos for your website and social media, so outdoor advertising needs an extended licence: for those three images on billboards and bus shelters for six months, it's $950. If you're happy with that, I'll send the licence and the print-ready files the same day. Shall I go ahead?",
    "lang": "en",
    "note": "Usage is scope too: a new medium is a new licence, priced before the files go to the printer."
+  },
+  {
+   "id": "say-no-to-client-scope-021",
+   "situation": "我是自由开发者，给一家连锁洗衣店做会员小程序，合同写的是远程开发、每周五线上同步一次。老板吴总现在要我每周二、周四去他们公司当面开会，单程一个半小时。如果要上门，我想按每次800元收费。",
+   "reply": "吴总，您想更紧密地跟进进度，我很理解。我们合同约定的是远程开发、每周五线上同步一次，每周两次上门开会不在这个范围里。有两种方式：继续每周五线上同步，我在会前把进度和问题清单发给您；或者需要上门时按次加收，每次800元。您看哪种更合适？",
+   "lang": "zh",
+   "note": "时间和路程也是范围：给一个不加钱的方案和一个加钱的方案，让对方选，并以书面确认为准。"
   }
  ]
 }

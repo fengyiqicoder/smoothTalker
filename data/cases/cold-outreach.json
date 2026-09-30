@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -147,6 +147,13 @@
    "reply": "Asunto: Grupo local para un jueves de noviembre\n\nHola, Nuria:\nVi tu publicación buscando grupos locales para los jueves de noviembre. Somos Los Tejados, cuatro músicos de folk-rock de Valencia con repertorio propio. En nuestro último concierto, un martes en Russafa, metimos a 90 personas. ¿Te mando un enlace con dos temas en directo? Si no encaja, un «no» también me ayuda.\n\nLucas",
    "lang": "es",
    "note": "La prueba es gente en la sala un martes, que es lo que le importa a quien programa."
+  },
+  {
+   "id": "cold-outreach-022",
+   "situation": "我在杭州开了一家社区咖啡馆“拾光咖啡”，周末下午有一半座位空着，最多能坐30人，上个月办的两场手冲体验课都满员了。隔壁街“半页书店”的店主林姐在小红书上说，每月的读书会场地太小，每次只能坐12个人。我可以免费提供场地，参加的人各点一杯饮品就行。",
+   "reply": "林姐你好，看到你在小红书说读书会场地太小，每次只能坐12个人。我在隔壁街开“拾光咖啡”，周末下午最多能坐30人，也常有空位；上个月我们办的两场手冲体验课都满员了。想问问，下次读书会要不要考虑放在我们店？场地免费，参加的人各点一杯饮品就行。不合适的话，回一句“不用”也很有帮助。",
+   "lang": "zh",
+   "note": "合作邀约先说为什么找她，再给一个数字和清楚的条件，最后只问一个是或否的问题。"
   }
  ]
 }

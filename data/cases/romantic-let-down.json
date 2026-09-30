@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -141,6 +141,13 @@
    "reply": "Hi Owen, it's Mia from the café. Thanks for the note, that was kind of you. I don't feel that way about you, so it's a no, but I hope you'll keep coming in for your morning coffee as usual.",
    "lang": "en",
    "note": "Where you work, make the no clear and the welcome back normal, then treat him exactly as before. If he keeps asking at the counter, bring in your manager."
+  },
+  {
+   "id": "romantic-let-down-021",
+   "situation": "Our daughters are best friends in Year 2, and their dad, Chris, asked me at pickup yesterday if I'd like to go for dinner sometime. I'm not interested, but the girls have a playdate at his house every other Saturday and I don't want that to stop. I'd rather text than answer at the school gate.",
+   "reply": "Hi Chris, thanks for asking yesterday, that was kind of you. I don't see us that way, so it's a no from me, but I'd really like the girls' Saturday playdates to carry on exactly as they are. See you at pickup.",
+   "lang": "en",
+   "note": "When the kids' friendship is the shared ground, keep the no clear and the logistics normal; the playdates are not part of the negotiation."
   }
  ]
 }

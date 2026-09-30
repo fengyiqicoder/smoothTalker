@@ -4,7 +4,7 @@
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
-   "situation": "I'm the hiring manager. Need to reject Daniel, a finalist for our senior marketing role. He was great, but the other candidate has B2B SaaS experience. I called him, now I need the follow-up email.",
+   "situation": "I'm the hiring manager. Need to reject Daniel, a finalist for our senior marketing role; his launch plan presentation on Thursday was great, but the other candidate has B2B SaaS experience. We'll likely open a consumer marketing lead role in spring. I called him, now I need the follow-up email.",
    "reply": "Hi Daniel, thanks again for the time you gave us, especially the launch plan you presented on Thursday, which the team is still talking about. As I said on the phone, we've offered the role to another candidate whose background is in B2B SaaS, which is where most of this role's work sits. It was a close decision. If we open the consumer marketing lead role in the spring, I'd like to contact you first, if you're open to that. Best, Farah",
    "lang": "en",
    "note": "Only offer the spring role if it's real; a door left open falsely is worse than none."
@@ -12,27 +12,27 @@
   {
    "id": "decline-offer-or-candidate-002",
    "situation": "手上有两个offer，决定去另一家了，要拒绝这家的HR张女士。面试时跟他们的李总聊得很好，不想把关系弄僵。",
-   "reply": "张女士您好，非常感谢您和团队这段时间的安排，特别是和李总聊产品规划的那一轮，是我这次求职里收获最大的一次面试。经过慎重考虑，我决定接受另一家公司的offer，那个岗位和我接下来几年想做的方向更贴近。这个决定并不容易。希望以后还有机会合作，也祝团队一切顺利。",
+   "reply": "张女士您好，非常感谢您和团队这段时间的安排，特别是和李总聊的那一轮，聊得非常愉快。经过慎重考虑，我决定接受另一家公司的offer。这个决定并不容易。希望以后还有机会合作，也祝团队一切顺利。",
    "lang": "zh",
-   "note": "理由真实但简短，不说对方哪里不好，点名感谢具体的人。"
+   "note": "不编理由也不说对方哪里不好，“接受了另一家的offer”本身就是完整的真实理由；点名感谢具体的人。"
   },
   {
    "id": "decline-offer-or-candidate-003",
-   "situation": "J'ai refusé une offre dans une agence à Lyon. La DRH, Claire, m'a rappelé pour proposer 5 000 euros de plus. Ma décision n'a rien à voir avec le salaire, j'ai choisi un poste en télétravail.",
-   "reply": "Merci beaucoup, Claire, c'est une vraie proposition et j'y suis sensible. Ma décision ne tient pas à la rémunération mais au format du poste, donc je la maintiens. Merci encore à vous et à l'équipe pour votre accueil, j'espère qu'on se recroisera.",
+   "situation": "Un chasseur de têtes, Julien, m'écrit sur LinkedIn pour un poste de directeur financier dans une PME à Lyon. Je suis bien dans mon poste et je ne veux pas bouger avant au moins un an, mais j'aimerais garder le contact.",
+   "reply": "Bonjour Julien, merci pour votre message et d'avoir pensé à moi. Je ne suis pas à l'écoute du marché en ce moment : je me plais dans mon poste actuel et je compte y rester au moins un an. N'hésitez pas à me recontacter l'an prochain, j'aurai plaisir à en reparler.",
    "lang": "fr",
-   "note": "Answer the counter once and honestly; saying it isn't about money closes the second round."
+   "note": "Un non clair dès la deuxième phrase, une raison vraie, et une porte ouverte avec une échéance précise, parce qu'elle l'est vraiment."
   },
   {
    "id": "decline-offer-or-candidate-004",
-   "situation": "I'm in the final round for a data analyst role at Brightline Energy, panel is this Thursday. My current company just offered me the internal transfer I've wanted for a year and I've accepted. The recruiter is Nadia.",
-   "reply": "Hi Nadia,\nThank you for the time you and the team have put into this, especially the conversation with Tom about the grid forecasting work, which I really enjoyed. I want to tell you early rather than late: I'm withdrawing from the process, so please do release Thursday's panel slot. I've accepted an internal move at my current company that I've been working toward for a while, and it wouldn't be fair to keep taking your team's time. I'd be glad to stay in touch.\nBest,\nPriya",
+   "situation": "I'm in the final round for a data analyst role at Northfen Energy, panel is this Thursday. My current company just offered me the internal transfer I've wanted for a year and I've accepted. The recruiter is Nadia.",
+   "reply": "Hi Nadia,\nThank you for the time you and the team have put into this, especially the earlier rounds, which I really enjoyed. I want to tell you early rather than late: I'm withdrawing from the process, so please do release Thursday's panel slot. I've accepted an internal move at my current company that I've been working toward for a while, and it wouldn't be fair to keep taking your team's time. I'd be glad to stay in touch.\nBest,\nPriya",
    "lang": "en",
    "note": "Withdraw before the panel, not after it: the decision by the second sentence, the true reason in one line, and freeing the slot as the practical ask."
   },
   {
    "id": "decline-offer-or-candidate-005",
-   "situation": "我是技术经理，组里的高级工程师小吴申请了内部的技术主管岗位，最后我们选了外部候选人。他技术很强，但带人经验还不够。明天当面谈，谈完想再给他发一条消息。",
+   "situation": "我是技术经理，组里的高级工程师小吴申请了内部的技术主管岗位，最后我们选了外部候选人。他技术很强，但这个岗位要直接带8个人，他带人经验还不够；下季度支付重构小组可以让他牵头带两三个人。明天当面谈，谈完想再给他发一条消息。",
    "reply": "小吴，谢谢你今天愿意坐下来聊，也谢谢你为这次竞聘准备的架构方案，写得非常扎实。就像当面说的，技术主管这次选了外部候选人，主要是这个岗位一上来就要带8个人，需要更多带团队的经验。这不影响我对你技术能力的判断。如果你愿意，下个季度我们让你牵头支付重构那个小组，先带两三个人，明年再有机会时你会更有底气。有什么想法，随时找我。",
    "lang": "zh",
    "note": "内部候选人要先当面说，再用书面补充：理由真实具体，给一个真实的下一步，而不是空泛的“以后还有机会”。"
@@ -46,28 +46,28 @@
   },
   {
    "id": "decline-offer-or-candidate-007",
-   "situation": "Got an offer from Harbor Health for a product manager role at $118k base. My current job pays $130k with bonus and I'd genuinely accept at $130k. The recruiter, Leah, wants an answer by Friday.",
-   "reply": "Hi Leah, thank you for the offer, and please thank Marcus for the product case discussion, which is what sold me on the team. I'd like to be transparent: the base is the one thing stopping me. At $130,000 I'd accept today, since that's what I'd be leaving behind. If there's no flexibility, I completely understand, and I'll decline with genuine thanks by Friday 2 October.",
+   "situation": "Got an offer from Tidewell Health for a product manager role at $118k base. My current job pays $130k with bonus and I'd genuinely accept at $130k. The recruiter, Leah, wants an answer by Friday.",
+   "reply": "Hi Leah, thank you for the offer and for the time the team put into the process. I'd like to be transparent: the base is the one thing stopping me. At $130,000 I'd accept today, since that's what I'd be leaving behind. If there's no flexibility, I completely understand, and I'll decline with genuine thanks by Friday 2 October.",
    "lang": "en",
    "note": "Only name a number you would actually sign at. This is the real condition, not a bluff, so be ready to say yes if they meet it."
   },
   {
    "id": "decline-offer-or-candidate-008",
    "situation": "I verbally accepted an operations analyst offer from Coastline Logistics last Thursday, start date Oct 19, but haven't signed anything. Yesterday the company I've wanted for years made me an offer and I took it. I need to email the hiring manager, Greg, today and I feel awful.",
-   "reply": "Hi Greg,\nI'm writing to withdraw my acceptance of the operations analyst role. Yesterday I received an offer for a role I've been pursuing for over a year, and I've accepted it. I know I said yes to you on Thursday, and backing out now costs you time and a start date you'd planned around, so I wanted you to hear it today rather than later. Thank you for the time you and Renee put into the process; the warehouse walk-through was the best part of any interview I've had. I'm sorry for the disruption, and I wish you and the team the best.\nKind regards,\nMaya",
+   "reply": "Hi Greg,\nI'm writing to withdraw my acceptance of the operations analyst role. Yesterday I received an offer from a company I've wanted to work for for years, and I've accepted it. I know I said yes to you on Thursday, and backing out now costs you time and a start date you'd planned around, so I wanted you to hear it today rather than later. Thank you for the time you and Renee put into the process; the warehouse walk-through was the best part of any interview I've had. I'm sorry for the disruption, and I wish you and the team the best.\nKind regards,\nMaya",
    "lang": "en",
    "note": "Reneging on a verbal yes: tell them the day you decide, name the cost to them, and give the true reason rather than a softer invented one. Call first if you can, then send this."
   },
   {
    "id": "decline-offer-or-candidate-009",
    "situation": "I'm hiring a marketing coordinator. My friend Nicole referred her former colleague Jamie, who interviewed last Wednesday. Jamie was warm and really organised, but we're going with someone with more paid social experience. We'll probably hire an events assistant next spring and Jamie would suit it. I don't want this to feel awkward.",
-   "reply": "Hi Jamie, thank you for coming in last Wednesday, and for the event calendar you walked us through, which was one of the most organised we saw. We've decided to offer the role to another candidate whose background is heavier on paid social, which is the biggest part of the job this year. That was the deciding factor, not how you came across. We're likely to hire an events assistant next spring, and if you'd be open to it, I'd like to reach out to you directly when that opens.",
+   "reply": "Hi Jamie, thank you for coming in last Wednesday; you were warm and really organised throughout. We've decided to offer the role to another candidate whose background is heavier on paid social, which is the biggest part of the job this year. That was the deciding factor, not how you came across. We're likely to hire an events assistant next spring, and if you'd be open to it, I'd like to reach out to you directly when that opens.",
    "lang": "en",
    "note": "A referred candidate gets the same clear, specific no as anyone else. Tell Jamie first, and give Nicole only the outcome, never the interview details."
   },
   {
    "id": "decline-offer-or-candidate-010",
-   "situation": "I'm hiring a UX designer. Elena did a take-home and a final interview on Aug 20, and I told her she'd hear within two weeks. It's been almost six weeks because our budget sign-off stalled, and we've now hired someone else. I need to email her today.",
+   "situation": "I'm hiring a UX designer. Elena did a checkout redesign take-home and a final interview on Aug 20, and I told her she'd hear within two weeks. It's been almost six weeks because our budget sign-off stalled, and we've now hired someone with more design systems experience. I need to email her today.",
    "reply": "Hi Elena,\nThank you for the time you put into the process, especially the checkout redesign, which the whole panel talked about afterwards. We've decided to offer the role to another candidate whose background is closer to our design systems work. I also told you you'd hear within two weeks, and it's been almost six. That's on me, and I'm sorry for leaving you waiting. Good luck with the search; the right team will be lucky to have you.\nBest,\nMarcus",
    "lang": "en",
    "note": "A late rejection still leads with the decision, then one plain line owning the delay. Skip the budget saga; it explains your side, not hers."
@@ -75,37 +75,37 @@
   {
    "id": "decline-offer-or-candidate-011",
    "situation": "My close friend Aaron offered me head of operations at his 12-person startup, Pantry, after two long dinners pitching it. I'm staying at my job at Meridian for at least another year. I want to say no without it getting weird between us.",
-   "reply": "Aaron, thank you for the offer, and for those two dinners walking me through the plan for Pantry; I can tell how much thought has gone into it. I'm going to say no. I want to see the Meridian launch through next year, and you deserve someone who's all in from day one. I think what you're building is really good, and if you ever want a second pair of eyes on an ops problem, I'm a phone call away.",
+   "reply": "Aaron, thank you for the offer, and for those two dinners walking me through the plan for Pantry; I can tell how much thought has gone into it. I'm going to say no. I'm staying at Meridian for at least another year, and you deserve someone who's all in from day one. I think what you're building is really good, and if you ever want a second pair of eyes on an ops problem, I'm a phone call away.",
    "lang": "en",
    "note": "With a friend the no still comes early, the reason is about your timing rather than their company, and you only offer help you'd actually give."
   },
   {
    "id": "decline-offer-or-candidate-012",
    "situation": "我是一家贸易公司的部门经理，老板把他外甥小赵的简历转给我，让我“看看合不合适”。外贸专员这个岗位要求三年经验，他刚毕业，我面了一轮决定不录用。他对市场挺有感觉，明年春天公司可能招管培生，他很合适。要给小赵本人发邮件。",
-   "reply": "小赵你好，谢谢你上周来面谈，也谢谢你准备的那份东南亚市场小调研，看得出花了心思。这次外贸专员的岗位我们决定不录用：这个岗位一上来就要独立跟海外客户，需要至少三年的外贸经验，这是岗位的硬要求。你对市场的敏感度很不错，明年春天如果公司开放管培生岗位，我会第一时间告诉你。祝求职顺利。",
+   "reply": "小赵你好，谢谢你来面谈。这次外贸专员的岗位我们决定不录用：这个岗位一上来就要独立跟海外客户，需要至少三年的外贸经验，这是岗位的硬要求。你对市场的敏感度很不错，明年春天如果公司开放管培生岗位，我会第一时间告诉你。祝求职顺利。",
    "lang": "zh",
    "note": "关系户也按正常标准拒，信里只讲岗位要求；跟老板那边另外单独说明，不写进给候选人的信里。"
   },
   {
    "id": "decline-offer-or-candidate-013",
    "situation": "领导刘总想提拔我做组长，带5个人，下个月生效。我想继续做技术，不想带人。我们关系不错，不想让他觉得我不上进。",
-   "reply": "刘总，谢谢您考虑让我做组长，也谢谢上周花了一个小时跟我聊团队的规划，被您这样信任我很感激。这几天我认真想过了，决定不接这个岗位：接下来两三年我还是想专心做技术，把风控模型这块做深。这个岗位对团队很重要，您这么看重它，我更希望由真正想带人的同事来做。组长我不接，但技术上需要我多扛的，您尽管交给我。",
+   "reply": "刘总，谢谢您考虑让我做组长，被您这样信任我很感激。这几天我认真想过了，决定不接这个岗位：接下来两三年我还是想专心做技术。这个岗位对团队很重要，我更希望由真正想带人的同事来做。组长我不接，但技术上需要我多扛的，您尽管交给我。",
    "lang": "zh",
-   "note": "拒绝上级的提拔：具体感谢、第二句就给决定，理由讲自己想走的方向而不是岗位不好，再说清楚愿意在哪方面多出力。"
+   "note": "拒绝上级的提拔：先感谢、第二句就给决定，理由讲自己想走的方向而不是岗位不好，再说清楚愿意在哪方面多出力。"
   },
   {
    "id": "decline-offer-or-candidate-014",
    "situation": "Ich habe die Zusage für eine Promotionsstelle bei Prof. Hartmann in der Hydrologie-Arbeitsgruppe der Uni Freiburg. Ich habe mich aber für ein Angebot der ETH Zürich entschieden. Er hat sich sehr für mich eingesetzt, und in unserem Fach begegnet man sich auf Konferenzen immer wieder.",
-   "reply": "Sehr geehrter Herr Professor Hartmann,\nvielen Dank für das Angebot und für Ihre Zeit, besonders für den Rundgang über das Messfeld im Dreisamtal, der mir sehr in Erinnerung geblieben ist. Nach langer Überlegung habe ich mich entschieden, die Stelle nicht anzunehmen, und werde meine Promotion an der ETH Zürich beginnen, deren Projekt noch näher an meinem Schwerpunkt Schneeschmelze liegt. Ich sage Ihnen das so früh wie möglich, damit Sie die Stelle weiter vergeben können. Die Entscheidung ist mir nicht leichtgefallen, und ich würde mich freuen, Sie und Ihre Gruppe auf einer der nächsten Tagungen wiederzusehen.\nMit freundlichen Grüßen\nLena Hoffmann",
+   "reply": "Sehr geehrter Herr Professor Hartmann,\nvielen Dank für das Angebot und dafür, wie sehr Sie sich für mich eingesetzt haben. Nach langer Überlegung habe ich mich entschieden, die Stelle nicht anzunehmen, und werde meine Promotion an der ETH Zürich beginnen. Ich sage Ihnen das so früh wie möglich, damit Sie die Stelle weiter vergeben können. Die Entscheidung ist mir nicht leichtgefallen, und ich würde mich freuen, Sie und Ihre Gruppe auf einer der nächsten Tagungen wiederzusehen.\nMit freundlichen Grüßen\nLena Hoffmann",
    "lang": "de",
    "note": "In der Wissenschaft sieht man sich wieder: schnell absagen, der ehrliche Grund in einem Halbsatz, und die Tür nur so weit öffnen, wie sie wirklich offen ist."
   },
   {
    "id": "decline-offer-or-candidate-015",
    "situation": "我是自由译者，出版社编辑周老师约我翻译一本30万字的英文历史书，明年3月底交稿。我明年上半年的档期已经排满，接不了。之前和她合作过两本书，想以后还能合作。",
-   "reply": "周老师您好，谢谢您想到我，也谢谢您发来的样章，讲威尼斯商路的那几章我读得特别入迷。这次我没办法接：明年上半年的档期已经排满，30万字3月底交稿，我接了只会耽误书的进度。和您合作的两本书都很愉快，如果明年下半年有合适的选题，很希望您再想着我。",
+   "reply": "周老师您好，谢谢您想到我。这次我没办法接：明年上半年的档期已经排满，30万字3月底交稿，我接了只会耽误书的进度。和您合作的两本书都很愉快，如果明年下半年有合适的选题，很希望您再想着我。",
    "lang": "zh",
-   "note": "自由职业者拒绝约稿：先具体感谢，第二句就说不接，理由只给真实的一个，门只开到确实开着的程度。"
+   "note": "自由职业者拒绝约稿：先感谢，第二句就说不接，理由只给真实的一个，门只开到确实开着的程度。"
   },
   {
    "id": "decline-offer-or-candidate-016",
@@ -138,7 +138,7 @@
   {
    "id": "decline-offer-or-candidate-020",
    "situation": "I'm hiring a customer support lead. I did a phone screen with Aaron Mills yesterday; he's strong and his team-building story was great, but he needs a base of $95,000 and our band for the role tops out at $82,000, which can't move. I want to email him today.",
-   "reply": "Hi Aaron, thank you for the call yesterday, especially the story about rebuilding your support team after the merger, which was one of the best answers I've heard for this role. We won't be moving forward, and I want to be straight about why: you mentioned a base of $95,000, and our band for this role tops out at $82,000 with no flexibility. That's about our budget, not your experience. I wish you the best with the search.",
+   "reply": "Hi Aaron, thank you for the call yesterday, especially your team-building story, which was a great answer. We won't be moving forward, and I want to be straight about why: you mentioned a base of $95,000, and our band for this role tops out at $82,000 with no flexibility. That's about our budget, not your experience. I wish you the best with the search.",
    "lang": "en",
    "note": "When the reason is the salary band, say the number plainly; it's the most useful feedback he can get, and the door stays closed because it is."
   },

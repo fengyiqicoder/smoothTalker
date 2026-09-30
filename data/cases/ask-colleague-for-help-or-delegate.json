@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -148,6 +148,13 @@
    "reply": "Hi Karen, first, I came in too hard on your numbers in last month's budget meeting, and doing it in front of everyone wasn't fair to you. I'm sorry. Separately, could I ask for your help? I need last quarter's travel spend by department for my cost report due Friday 9 October, and you're the only one with access. Just the raw export is plenty, no analysis. If this week is too tight, tell me what works and I'll plan around it.",
    "lang": "en",
    "note": "Apologise for the meeting on its own terms, then ask; if the apology feels like a price for the favour, send it a day earlier."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-022",
+   "situation": "I'm handling the escalation from Corlane Foods about their failed September delivery run. I've had two calls with their ops lead and offered a re-delivery plan, but their COO, Martin Hale, now wants someone senior on a 30-minute call tomorrow, Thursday, at 2pm. My manager Rachel usually leaves client calls to me and her calendar is packed.",
+   "reply": "Hi Rachel, could I borrow 30 minutes of your time tomorrow? I've had two calls with Corlane's ops lead about the failed September delivery run and offered them a re-delivery plan, but their COO, Martin Hale, wants someone senior on a call at 2pm Thursday. I'll lead the call and send you a one-page brief by 9am, so it's mainly about you being there. If 2pm doesn't work, could you give me a time I can offer him instead?",
+   "lang": "en",
+   "note": "Asking upward follows the same shape as asking a peer: what you've done, the exact ask, the time cost, and an easy alternative."
   }
  ]
 }

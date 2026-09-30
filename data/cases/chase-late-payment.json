@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -148,6 +148,13 @@
    "reply": "陈姐好，我8月的工资4,600元，按劳动合同应该在9月10日发放，到今天还没有收到。8月31日的交接单您当时已经签过字。麻烦在10月9日（周五）前转到我原来的工资卡上，或者告诉我确定的发放日期。如果需要我这边补什么材料，您直接说。",
    "lang": "zh",
    "note": "只讲合同、金额和日期；到期还没发，可以查一下当地劳动监察部门的投诉流程，再决定下一步。"
+  },
+  {
+   "id": "chase-late-payment-022",
+   "situation": "I'm a freelance illustrator. Invoice #0856 for $2,300 to Brightfold Books was due September 4 and I've sent two reminders with no reply. Today their editor, Sophie, emailed asking if I can start a new cover for their spring list next week. I'd love the work.",
+   "reply": "Subject: Spring cover, and invoice #0856\n\nHi Sophie,\nThanks for thinking of me for the spring cover, I'd love to do it. Before I start anything new, invoice #0856 for $2,300, due 4 September, needs to be settled; I've attached it again with the bank details. As soon as it's paid I can start on the cover straight away. Could you check with your finance team and let me know the payment date?\nThanks,\nAlex",
+   "lang": "en",
+   "note": "Say yes to the new work and make the unpaid invoice the only thing standing before it; don't start new work while you're still owed."
   }
  ]
 }

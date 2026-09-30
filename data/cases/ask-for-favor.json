@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -148,6 +148,13 @@
    "reply": "Hi Kate, a bigger ask than usual: could I borrow your car on Saturday 3 October, from about 8am to 2pm? Mine's in the garage and I need to drive Mum to a hospital appointment an hour away. I'd bring it back with a full tank. The one thing to check first is whether your insurance covers another driver. If it doesn't, or you'd just rather not lend it, that's completely fine and I'll hire a car.",
    "lang": "en",
    "note": "When the favour puts their property at risk, name the risk and let them check before they say yes."
+  },
+  {
+   "id": "ask-for-favor-022",
+   "situation": "I'm flying with my son Theo, who's 4, and the airline split our seats: I'm in 23C, an aisle, and he's in 25A by the window. The man in 25B is already seated. I want to ask him to swap with me so I can sit with Theo.",
+   "reply": "Excuse me, could I ask you a favour? My son Theo, he's four, is in the window seat next to you, and I'm in 23C, an aisle seat two rows up. Would you be willing to swap so I can sit with him? If you'd rather stay put, that's completely fine and I'll ask the crew.",
+   "lang": "en",
+   "note": "With a stranger, say exactly what seat he'd be swapping into, and make the out real: the crew is the backup, not him."
   }
  ]
 }

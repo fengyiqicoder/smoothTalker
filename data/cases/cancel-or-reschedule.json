@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -148,6 +148,13 @@
    "reply": "Hi Helen, I need to move this Thursday's call: my flight home has been rescheduled into that slot. Sorry for the short notice. Could we do Friday 2 October at 9am your time (4pm mine), or Monday 5 October at 10am your time (5pm mine)? If neither suits, send me a couple of times and I'll fit around you.",
    "lang": "en",
    "note": "Across time zones, give each option in their time first so they can say yes without converting."
+  },
+  {
+   "id": "cancel-or-reschedule-022",
+   "situation": "My grandma Rose is 88, lives alone, and I visit every Sunday at 2pm. I've come down with a stomach bug and don't want to pass it on to her, so I need to cancel this Sunday, Oct 4. She doesn't text, so I'm calling her landline. I could come Tuesday Oct 6 in the afternoon instead, or next Sunday as usual.",
+   "reply": "Hi Gran, it's me. I can't come this Sunday: I've picked up a stomach bug, and I don't want to pass it on to you. I'm sorry, I know you look forward to Sundays, and so do I. Could I come on Tuesday afternoon instead, or shall we keep it for next Sunday at 2 as usual?",
+   "lang": "en",
+   "note": "Said aloud to an older relative: one plain reason, the two options kept simple enough to answer on the spot."
   }
  ]
 }

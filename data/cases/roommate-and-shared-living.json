@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -141,6 +141,13 @@
    "reply": "嘿两位，跟大家商量个小事～家里的卫生纸、洗洁精、垃圾袋这些，这三个月都是我顺手买的。以后咱们搞个公用基金吧：每人每月往群里转20块，谁去买谁从里面报，小票拍照发群里就行。之前的就不算了。大家觉得这样行吗？有更好的办法也可以改。",
    "lang": "zh",
    "note": "明说“之前的不算了”，对方就不会把提议听成讨债。"
+  },
+  {
+   "id": "roommate-and-shared-living-021",
+   "situation": "Four of us share a house: Megan, Josh, Aled and me. I suggested in the house chat that we get a cleaner every other Friday for the kitchen and bathroom, £60 a visit, so £15 each. Megan and Josh are keen, but Aled replied that he can't stretch to it right now, and I don't want him to feel priced out or singled out.",
+   "reply": "Totally fair, Aled, thanks for saying so. How about this: the cleaner comes for the three of us who are in, so £20 each, and on cleaner weeks you take the bins and hoover the hall instead. If things change later you can switch to paying in. Happy to tweak it if another setup works better for everyone.",
+   "lang": "en",
+   "note": "When one housemate can't afford a shared cost, offer a way in that isn't money, so nobody is priced out and nobody is carried."
   }
  ]
 }

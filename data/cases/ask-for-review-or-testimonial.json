@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -148,6 +148,13 @@
    "reply": "田中様、うれしいメッセージをありがとうございます。美咲さんの振袖姿、本当によくお似合いでした。もしお時間があるときで構いませんので、Googleの口コミに一言いただけると、小さなお店にとっては初めての方に見つけていただく大きな手がかりになります。こちらのリンクから1、2行で十分です：https://g.page/r/kimono-hanaya/review 。もちろんお気持ちだけでも十分うれしいです。成人式当日も素敵な一日になりますように。",
    "lang": "ja",
    "note": "日本語では「お時間があるときで」「お気持ちだけでも」で遠慮を示しつつ、リンクは一つ、所要時間も添える。"
+  },
+  {
+   "id": "ask-for-review-or-testimonial-022",
+   "situation": "I'm a wedding florist, Wildstem Flowers. I did Hannah and Luis's wedding back in June and never got round to asking for a review. Yesterday Hannah posted their wedding album and tagged us, saying the flowers were 'everything'. Our reviews page is example.com/wildstem-reviews.",
+   "reply": "Hannah, I just saw your album and I've been smiling at it all morning. Thank you for tagging us, and for saying the flowers were everything. I should have asked back in June, so I'll ask now: if you have a minute, a short review at example.com/wildstem-reviews helps other couples find us. Two sentences is plenty, and thank you either way.",
+   "lang": "en",
+   "note": "A late ask works when it hangs on a fresh good moment; own the delay in a few words and keep it to one link."
   }
  ]
 }

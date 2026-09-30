@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "apologize-001",
@@ -148,6 +148,13 @@
    "reply": "Dear Professor Adeyemi, I'm sorry I missed our 2pm meeting yesterday. It was my mistake: I lost track of time in the lab and didn't check my calendar. You set aside half an hour for my chapter and ended up waiting for nothing. From now on I'll set a phone reminder for every meeting with you. If you can find another slot, I'll fit around whatever suits you.",
    "lang": "en",
    "note": "Upward apology: keep it brief and formal, and leave the reschedule to her calendar."
+  },
+  {
+   "id": "apologize-022",
+   "situation": "I promised my friend Amara I'd collect her son Jonah, who's 7, from school at 3:15 yesterday because she was stuck at work. I had the wrong day in my calendar and didn't show; the school called her and Jonah waited in the office for 40 minutes until she got there. She texted 'I trusted you with him' and nothing since.",
+   "reply": "Amara, I'm so sorry. I promised to collect Jonah at 3:15 and I didn't turn up; I had the wrong day in my calendar, and that's on me. You trusted me with your son, and instead he sat in the school office for 40 minutes and you got that call at work. I completely understand if you'd rather not rely on me for pickups for a while. If you ever do again, I'll text you the moment I'm at the gate.",
+   "lang": "en",
+   "note": "When a child was left waiting, own the broken trust, not just the mix-up, and leave the decision about trusting you again with her."
   }
  ]
 }

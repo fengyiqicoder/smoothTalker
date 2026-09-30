@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -147,6 +147,13 @@
    "reply": "好呀，想跟你出去！不过我不太喝酒，周六下午找个地方喝咖啡、走走怎么样？周六不方便的话，换个时间也行。",
    "lang": "zh",
    "note": "答应的是他这个人，改的只是安排；不喝酒的原因不用第一次就解释。"
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-022",
+   "situation": "I've had two dates with Nadia and we'd planned a third for Saturday. This morning she texted that her dad's been admitted to hospital after a fall, she's driving up to Leeds and needs to cancel. I want to reply kindly without making it about us, but I don't want her to think I've lost interest either.",
+   "reply": "Of course, don't give Saturday a second thought. I'm really sorry about your dad, and I hope the drive up to Leeds goes okay. Focus on him and your family, and whenever things settle, I'd love to pick Saturday up again. No need to reply to this.",
+   "lang": "en",
+   "note": "Put the date on hold, not on the table: one warm line about later, then let her be the one to come back to it."
   }
  ]
 }
