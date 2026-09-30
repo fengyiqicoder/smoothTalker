@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -92,6 +92,13 @@
    "reply": "王阿姨您好，8月31日退租时您验过房，说押金6000元一周内退，到今天快一个月了，我这边还没收到。麻烦您10月9日前转到我之前交房租的那张招商银行卡上。如果转之前需要我这边提供什么，您直接告诉我。",
    "lang": "zh",
    "note": "对方说“忙”，就给一个具体日期；日期过了还没退，下一条先对照租房合同里的押金条款，写明下一步打算怎么做。"
+  },
+  {
+   "id": "chase-late-payment-014",
+   "situation": "Freelance UX writer in Toronto. A client in Munich paid invoice #0822 for €3,000 (due 15 September), but only €2,940 arrived, so it looks like transfer fees were taken off. Our contract says the client covers transfer charges. My contact is Katrin.",
+   "reply": "Hi Katrin,\nThanks for settling invoice #0822, the payment arrived on 28 September. The amount received was €2,940 rather than €3,000, so it looks like transfer fees were deducted along the way. Clause 6 of our agreement has transfer charges covered by the sender, so could you send the remaining €60 by Friday 9 October? The bank details are on the invoice as before.\nThanks,\nPriya",
+   "lang": "en",
+   "note": "Short payment: thank them for what arrived, name the exact gap, point to the contract, and still put a date on a small amount."
   }
  ]
 }

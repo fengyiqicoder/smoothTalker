@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -92,6 +92,13 @@
    "reply": "Hey! A firefighter whose hobby involves a 1,200-degree kiln feels like a busman's holiday. What got you into pottery?",
    "lang": "en",
    "note": "When they open with 'hey', don't mirror it: pick up one detail and hand them an easy question."
+  },
+  {
+   "id": "first-message-to-stranger-014",
+   "situation": "AncestryDNA matched me as a likely second cousin with Margaret Kelly in Cork. Her public tree has a Bridget Doyle born 1911 in Kilkenny, and my great-grandmother Nora Doyle was born there in 1908. I'm in Boston and want to message her through the site.",
+   "reply": "Hi Margaret, Ancestry lists us as likely second cousins, and I think I can see why: your tree has Bridget Doyle, born 1911 in Kilkenny, and my great-grandmother was Nora Doyle, born there in 1908. Do you know if Bridget ever mentioned a sister who went to Boston? No pressure at all if you'd rather not dig into it.",
+   "lang": "en",
+   "note": "A DNA match is still a stranger: one specific link from her tree, one easy question, and room not to reply."
   }
  ]
 }

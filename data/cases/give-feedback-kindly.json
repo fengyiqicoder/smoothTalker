@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -92,6 +92,13 @@
    "reply": "Priya, we've looked at them five times already. The shot of Dad during the vows made me cry, and you caught moments we didn't even know happened. One small request for the rest: could they be a bit more natural in colour? We both look a little orange next to how we remember the day. If it's easier, the church ones before the filter are exactly right. Thank you, truly, for this gift.",
    "lang": "en",
    "note": "Because it's a gift and she asked before editing the rest, one specific, fixable request with a clear example is kind, not ungrateful."
+  },
+  {
+   "id": "give-feedback-kindly-014",
+   "situation": "家里请的钟点工刘阿姨来了半年，干活特别利索，我很满意。就是她擦厨房台面和擦马桶用的是同一块抹布，我想提醒她，又怕她觉得我嫌弃她。",
+   "reply": "刘阿姨，这半年家里被您收拾得特别清爽，尤其是厨房的油烟机，以前从来没见它这么亮过。有个小事想跟您商量：擦厨房和擦卫生间的抹布能不能分开用？我买了两种颜色的，蓝色放厨房，粉色放卫生间，就挂在各自门后。家里有小孩，我在这方面比较讲究，您干活我一直特别放心。",
+   "lang": "zh",
+   "note": "对雇来帮忙的人，先说一处具体的好，再把唯一的要求变成一个现成的办法，而不是批评她的习惯。"
   }
  ]
 }

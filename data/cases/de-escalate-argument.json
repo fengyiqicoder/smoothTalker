@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -92,6 +92,13 @@
    "reply": "Ines, the 'support line' comment was unkind and I'm sorry. I know missing another call made you feel like you come last. It's nearly midnight for you and I've got a meeting in ten minutes, so can I call you tomorrow at 7pm your time, 2pm mine, and we talk properly? I love you, and that's not in question.",
    "lang": "en",
    "note": "Across time zones, give the return time in both zones so the pause reads as a plan, not as you rushing off to a meeting."
+  },
+  {
+   "id": "de-escalate-argument-014",
+   "situation": "大学室友五个人国庆去厦门，我和小林在群里因为民宿钱怎么AA吵起来了，我说了句“你每次都想占便宜”，另外三个人都不说话了。想先把火灭了。",
+   "reply": "小林，我们别在群里吵了，“每次都想占便宜”那句是我说过头了，对不起。我知道你是觉得你那间房最小，按人头平摊不公平。今晚9点我给你打个电话，我们俩把账算清楚再发到群里。大家好不容易凑一起出去玩，别因为几百块坏了心情。",
+   "lang": "zh",
+   "note": "在群里当众吵，就在群里当众认那一句，具体的账挪到私下电话里算，再回群里给结果。"
   }
  ]
 }

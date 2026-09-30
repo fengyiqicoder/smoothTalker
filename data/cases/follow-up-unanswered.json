@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -92,6 +92,13 @@
    "reply": "阿杰，知道你最近换工作事情多。还是7月那3000块的事，我10月10号要交房租，想问下你大概哪天方便转我？一次还不上也没关系，先转一部分、剩下的定个日子也行，给我个准话就好。",
    "lang": "zh",
    "note": "借钱的跟进只要一个日期：截止时间说成是自己要交房租，给分期的台阶，不翻“你说过下周”的旧账。"
+  },
+  {
+   "id": "follow-up-unanswered-014",
+   "situation": "In my review on Sept 3, my manager Karen said she'd put me forward for the senior analyst promotion and get back to me 'in a couple of weeks'. It's been four weeks and I mentioned it once in passing on the 17th. I don't want to seem pushy with my own boss. Slack DM.",
+   "reply": "Hi Karen, I know quarter-end is busy. A quick one on the senior analyst promotion we talked about in my review on 3 September: is there an update, or a rough date when you expect to hear? Even 'still in progress' is useful. If it would help, I can put together a one-page summary of my Q3 pricing work by Friday.",
+   "lang": "en",
+   "note": "With your own manager, ask about timing rather than commitment, and offer something that makes her case easier to push through."
   }
  ]
 }

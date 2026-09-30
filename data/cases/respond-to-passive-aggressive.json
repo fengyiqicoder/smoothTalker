@@ -19,16 +19,16 @@
   {
    "id": "respond-to-passive-aggressive-003",
    "situation": "Since I got engaged, my best friend keeps making little digs ('some of us still pay rent alone'). I asked once and she said she's fine. It just happened again.",
-   "reply": "This is the second time I've asked and got a sharp reply, so I'm not going to keep guessing. If something about the engagement is hard for you, I'd honestly rather hear it straight. Whenever you want to talk, I'm here, and until then I'll take things at face value.",
+   "reply": "I asked a while back and you said you were fine, and I took your word for it. The comments are still coming, so I'm not going to keep guessing. If something about the engagement is hard for you, I'd honestly rather hear it straight. Whenever you want to talk, I'm here, and until then I'll take things at face value.",
    "lang": "en",
    "note": "Second time, name the pattern and hand her the choice. Then really do take messages at face value."
   },
   {
    "id": "respond-to-passive-aggressive-004",
-   "situation": "部门工作群里，同事老周发了一句“有些人的周报还是没交啊，大家都等着汇总呢”，明显是说我。确实晚了一天，因为在等财务那边的数据。",
-   "reply": "是我这份，财务的数据昨天下午才给到，我今天中午12点前发到群里。晚了一天，耽误大家汇总了，不好意思。",
+   "situation": "项目会上大家定了换新的物流供应商，会后同事小林在工作群里回了一句“行，你们定就好，反正我的意见也不重要”。她平时不这样说话，我也不确定她具体是对哪一点不满。",
+   "reply": "小林，可能是我想多了，不过看你刚才群里那句，是不是对换供应商这件事有不同看法？我是真心想听。明天上午你方便的话，我们单独聊十五分钟？",
    "lang": "zh",
-   "note": "The dig has a real complaint inside it, so answer the contents with a time; do not comment on his tone in front of the group."
+   "note": "不满明显和一件具体的事有关，但不知道是哪一点：私下温和地点出来问一句，不在群里接话，也不替她解读。"
   },
   {
    "id": "respond-to-passive-aggressive-005",

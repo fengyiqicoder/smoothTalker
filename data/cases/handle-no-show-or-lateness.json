@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -92,6 +92,13 @@
    "reply": "Hi Jordan, we had your interview at Hearth Coffee booked for 3pm yesterday, and I waited until 3:20. Hope everything's okay. I'm still keen to talk, and I can do Friday 2 October at 10am. If that works, reply to confirm by tomorrow evening, and if you've taken another job, a quick note is completely fine too.",
    "lang": "en",
    "note": "One second chance, one slot, no lecture. If he misses this one too, move on without another message."
+  },
+  {
+   "id": "handle-no-show-or-lateness-014",
+   "situation": "University group project, four of us, presenting on Thursday October 8. Our teammate Ravi missed both rehearsals this week, Monday and yesterday, without a message, and he has the market analysis slides. I want to message him directly, not in the group chat.",
+   "reply": "Hey Ravi, hope you're okay. You missed Monday's and yesterday's rehearsals without a message, and we still haven't seen the market analysis slides. We need them in the shared deck by Saturday 3 October at 6pm so we can run the full thing on Monday. If something's going on, tell me by tomorrow and we'll split it differently. If I haven't heard anything by Saturday, Mei and I will write that section ourselves so we're ready.",
+   "lang": "en",
+   "note": "Peer no-show: check they're okay, give a dated need, and say what you will do if you hear nothing, not what they must do."
   }
  ]
 }

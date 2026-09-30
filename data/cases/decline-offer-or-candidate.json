@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -92,6 +92,13 @@
    "reply": "刘总，谢谢您考虑让我做组长，也谢谢上周花了一个小时跟我聊团队的规划，被您这样信任我很感激。这几天我认真想过了，决定不接这个岗位：接下来两三年我还是想专心做技术，把风控模型这块做深。这个岗位对团队很重要，您这么看重它，我更希望由真正想带人的同事来做。组长我不接，但技术上需要我多扛的，您尽管交给我。",
    "lang": "zh",
    "note": "拒绝上级的提拔：具体感谢、第二句就给决定，理由讲自己想走的方向而不是岗位不好，再说清楚愿意在哪方面多出力。"
+  },
+  {
+   "id": "decline-offer-or-candidate-014",
+   "situation": "Ich habe die Zusage für eine Promotionsstelle bei Prof. Hartmann in der Hydrologie-Arbeitsgruppe der Uni Freiburg. Ich habe mich aber für ein Angebot der ETH Zürich entschieden. Er hat sich sehr für mich eingesetzt, und in unserem Fach begegnet man sich auf Konferenzen immer wieder.",
+   "reply": "Sehr geehrter Herr Professor Hartmann,\nvielen Dank für das Angebot und für Ihre Zeit, besonders für den Rundgang über das Messfeld im Dreisamtal, der mir sehr in Erinnerung geblieben ist. Nach langer Überlegung habe ich mich entschieden, die Stelle nicht anzunehmen, und werde meine Promotion an der ETH Zürich beginnen, deren Projekt noch näher an meinem Schwerpunkt Schneeschmelze liegt. Ich sage Ihnen das so früh wie möglich, damit Sie die Stelle weiter vergeben können. Die Entscheidung ist mir nicht leichtgefallen, und ich würde mich freuen, Sie und Ihre Gruppe auf einer der nächsten Tagungen wiederzusehen.\nMit freundlichen Grüßen\nLena Hoffmann",
+   "lang": "de",
+   "note": "In der Wissenschaft sieht man sich wieder: schnell absagen, der ehrliche Grund in einem Halbsatz, und die Tür nur so weit öffnen, wie sie wirklich offen ist."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -91,6 +91,13 @@
    "reply": "Hi Marisa, so good to hear from you again, the autumn reels were some of my favourite to make. I'd love to do the holiday campaign. Since we last worked together my audience has grown from 40k to 95k, so my reel rate is now $1,100 with 30 days of organic usage. As a returning partner, I can do three reels for $3,000. Could you share the timeline and whether you'd want any paid usage?",
    "lang": "en",
    "note": "A rebooking is the natural moment to reset your rate: give the reason in one number and a small loyalty package, not last year's price."
+  },
+  {
+   "id": "creator-brand-deal-reply-014",
+   "situation": "我在抖音做家居收纳，5万粉丝。一个收纳盒品牌找我挂小黄车带货，只给20%佣金，不给坑位费，还要求至少发两条视频。",
+   "reply": "谢谢邀请，你们家的抽屉分隔盒我看过，设计挺实用的。纯佣金的合作我一般不接，因为拍视频的工作量是一样的，卖得怎么样还取决于价格和活动力度。两条视频我的报价是坑位费4000元加15%佣金，含30天自然流量授权。如果想先试试，也可以先做一条，2000元加15%佣金，看完数据再定第二条。你看哪种合适？",
+   "lang": "zh",
+   "note": "纯佣金等于让创作者承担全部风险：说明原因，给保底加佣金的方案，再给一个更小的起步选项。"
   }
  ]
 }

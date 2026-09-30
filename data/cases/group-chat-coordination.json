@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -92,6 +92,13 @@
    "reply": "Bad news from me: my shift has moved and I can't make Saturday, sorry all. Don't change a thing. The table at Nonna's is still booked for 8 at 7:30, and I've told them Lena is the contact now, so any changes go to her. My deposit stays in, so nobody's out of pocket. Have the best night, Mia, I'll take you for a birthday drink next week.",
    "lang": "en",
    "note": "Dropping out of a plan you organised: hand the logistics to a named person you've already asked, and change nothing for everyone else."
+  },
+  {
+   "id": "group-chat-coordination-014",
+   "situation": "I book a 5-a-side pitch every Wednesday at 7pm for £60, split between whoever plays. I spend every Tuesday chasing people and some weeks we end up 4 v 4. The centre lets me cancel for free up to 24 hours before.",
+   "reply": "Wednesday football, new system so I stop chasing everyone: 👍 this message by 6pm Tuesday if you're playing. If we've got 8 or more by then, the pitch stays booked and it's £6 each for 10, £7.50 for 8. If we're under 8, I cancel before the free cutoff and we go again the week after. No need to reply if you're out. Starting with Wednesday 7 October.",
+   "lang": "en",
+   "note": "A threshold is still a default: say the number that keeps it on, what happens below it, and let silence mean out when a no-show costs money."
   }
  ]
 }

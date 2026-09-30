@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -92,6 +92,13 @@
    "reply": "李经理您好，我是7号楼1502的住户周晴，代表楼里五户邻居写这条消息。7号楼唯一的电梯从9月20日停到今天，前台两次答复都是“等配件”，没有维修日期。楼里有三位八十多岁的老人，其中1103的张阿姨每周要去医院透析两次，现在只能靠家人背下楼。麻烦您在10月2日前告诉我们：配件预计哪天到、哪天能修好，以及修好之前能否安排人手协助老人上下楼。谢谢您。",
    "lang": "zh",
    "note": "代表多户升级时，写清你代表谁、影响最大的具体的人和一个带日期的问题；再没回应，下一步可以联系业委会或街道。"
+  },
+  {
+   "id": "escalate-an-issue-014",
+   "situation": "My spring grade for STAT 301 still shows 'incomplete' though I submitted the final project on May 10. My scholarship renewal needs a complete transcript by Friday Oct 16. I emailed the TA, Ben, on Sept 8 and 21 and Professor Ortiz on Sept 24, no replies. I've told Professor Ortiz I'm writing to the undergraduate director, Dr. Lang.",
+   "reply": "Subject: Grade needed by Fri 9 Oct: STAT 301 incomplete, scholarship deadline\nDear Dr. Lang, my spring grade for STAT 301 (Professor Ortiz) still shows as incomplete, although I submitted the final project through the course portal on 10 May (receipt attached). My scholarship renewal needs a complete transcript by Friday 16 October. I emailed the TA, Ben Carter, on 8 and 21 September and Professor Ortiz on 24 September, and haven't had a reply; Professor Ortiz knows I'm writing to you and is copied. Could you help get the grade entered, or tell me who can, by Friday 9 October, so the registrar has a week to update the transcript? Thank you, Maya Singh, student ID 20241187",
+   "lang": "en",
+   "note": "Academic escalation: the ask date sits a week before the real deadline, and the professor gets the heads-up and a copy, so it reads as a timeline problem, not a complaint."
   }
  ]
 }

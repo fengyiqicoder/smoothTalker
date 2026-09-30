@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -92,6 +92,13 @@
    "reply": "Tom, can I give you some feedback on ticket closures? This is the part of the new role I find awkward with you, so I'd rather just say it straight. On Monday and again yesterday you closed tickets as resolved before the customer confirmed, and the Ferreira one came back reopened with a pretty angry note. What's your read on those two? Going forward I need every ticket to wait for the customer's confirmation, or 48 hours with no reply, before it's closed. Let's look at how it's going in our one-to-one on the 13th.",
    "lang": "en",
    "note": "Friend turned report: name the awkwardness once, then give him exactly the shape you'd give anyone else, and keep the friendship out of the ask."
+  },
+  {
+   "id": "give-feedback-to-colleague-014",
+   "situation": "Rob, a senior engineer a level above me (not my manager), keeps repeating our new colleague Deepa's updates in standup in an exaggerated Indian accent. People laugh and Deepa laughs along, but she's barely spoken in the last two retros. I want to raise it with Rob privately.",
+   "reply": "Rob, can I give you some feedback on something from standup? On Monday and again today, you repeated Deepa's update in an accent, and people laughed. I don't think you mean anything by it, but she's barely said a word in the last two retros, and I wonder if this is part of why. What's your read? I'd like the accent to stop; if something needs repeating, just repeat the point in your own voice.",
+   "lang": "en",
+   "note": "Behaviour and impact, not a verdict on his character. If it carries on after this, take it to your manager or HR rather than having the same quiet chat again."
   }
  ]
 }

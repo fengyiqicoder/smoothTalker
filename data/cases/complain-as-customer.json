@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -92,6 +92,13 @@
    "reply": "Hello, I'm writing on behalf of my father, Harold Price, a customer at your Ashford Street branch, with his permission and with him copied in. On Thursday 24 September, around 11am, he went in to update his address; the teller sighed, told him loudly to 'just use the app like everyone else', and did not help him. He is 78 and does not use the app. I'm asking for two things: an apology to him, and an in-branch appointment in October where someone updates his address with him. Could you reply by Tuesday 13 October?",
    "lang": "en",
    "note": "When the want is an apology and a fix, say so plainly; it is easier to grant than an open-ended complaint."
+  },
+  {
+   "id": "complain-as-customer-014",
+   "situation": "My local dry cleaner shrank my wool coat, the sleeves came back about 5cm shorter. The cleaning was $18 and the coat cost $320 two years ago. I've used them for years and the owner, Mr. Kim, is usually lovely, so I'm going in tomorrow to talk to him.",
+   "reply": "Hi Mr. Kim, I've got a problem with my coat and I'm hoping you can help me sort it. I dropped it off last Monday, ticket 4471, and it came back with the sleeves about 5cm shorter; I've brought it and the care label, which says dry clean only. I bought it two years ago for $320. What I'd like is the $18 cleaning refunded and $150 toward a replacement. Is that something you can do?",
+   "lang": "en",
+   "note": "With a local business you want to keep using, the in-person script and a proportionate ask (about half, since the coat is two years old) keep the relationship intact."
   }
  ]
 }

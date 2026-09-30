@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -92,6 +92,13 @@
    "reply": "Tariq, thanks for bringing the onboarding idea, and I agree the first-run experience is where we lose people; your drop-off numbers made that really clear. Where I land differently is the size of it this quarter: with the 20 November release, I don't think we can do a full redesign well. If you had two weeks, which one screen would you fix first? Sketch that and I'd like to put it on the October plan.",
    "lang": "en",
    "note": "When you hold the power, your disagreement lands harder: be specific about what you agree with and turn the no into a smaller yes he can own."
+  },
+  {
+   "id": "disagree-without-conflict-014",
+   "situation": "对门邻居王阿姨提议两家合出钱在楼道口装一道铁门，把我们这头的公共楼道圈起来放鞋柜，每家出1500。物业之前在业主群里说过楼道不能加门、不能堆东西。我们做了十年邻居，关系一直很好。",
+   "reply": "王阿姨，您是想让咱们这头更安全、更整齐，这个我特别理解，前阵子楼里丢快递我也挺闹心。我这边想法有点不一样：物业之前在群里说过楼道不让加门、也不让堆东西，真装了万一被要求拆，1500块就白花了。您最担心的是安全，还是东西放不下？要不这周末咱们一起去问问物业有什么办法。",
+   "lang": "zh",
+   "note": "跟老邻居唱反调：先接住她的出发点，理由只讲一个，而且说是物业的要求而不是自己的判断，再一起找替代办法。"
   }
  ]
 }

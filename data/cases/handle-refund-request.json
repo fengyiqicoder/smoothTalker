@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -92,6 +92,13 @@
    "reply": "李先生您好，照片我看了，两侧确实比您要求的短，这是我们没沟通到位，抱歉。剪掉的没法恢复，全额退款这次就不做了，给您两个选择：退一半84元，今天原路退回；或者两周后头发长一点，店长亲自给您免费修型。您选哪个都行，告诉我就马上安排。",
    "lang": "zh",
    "note": "服务已经用掉时，先认下具体的问题，再给退一部分或免费补救两个选项，不争是谁的错。"
+  },
+  {
+   "id": "handle-refund-request-014",
+   "situation": "I sell art prints on my own site. A customer bought a $60 print, said the colours looked duller than on his screen, and I offered a full refund once it's returned or a free reprint on matte paper. He's now sent three messages calling me a scammer and swearing at me.",
+   "reply": "I've set out what I can offer: a full $60 refund once the print is back with me, or a free reprint on matte paper. I'm going to leave it there, and both options stay open if you'd like either. I won't be replying to further messages in this tone.",
+   "lang": "en",
+   "note": "Abuse doesn't earn a better offer or a longer reply: restate the offer once, end the thread, and don't answer the insults."
   }
  ]
 }

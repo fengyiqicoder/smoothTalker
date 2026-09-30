@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -92,6 +92,13 @@
    "reply": "Hi Dana, I've got bad news and wanted you to hear it from me before Friday's forecast call: Norland Freight told me this morning they won't renew in January. The reason is price; Carrow quoted them about 30% less. That takes $180k out of next year's number, and I know it lands hard on the forecast. I've asked their COO for a call next week to see whether anything short of matching price would change it, and I'll have a revised forecast to you by Thursday noon. Can we take 15 minutes tomorrow to talk it through?",
    "lang": "en",
    "note": "Upward bad news: the number, the reason and your next move in one message, before the meeting where it would surface."
+  },
+  {
+   "id": "deliver-bad-news-014",
+   "situation": "We're moving from Denver to Seattle in January for my wife's new job. Our son Max is 8 and his best friend Leo lives next door. We want to tell him this weekend before he overhears it. What do I actually say?",
+   "reply": "Max, we've got some big news, and some of it you might not like. In January we're moving to a new house in Seattle, because Mom has a new job there. That means we won't live next door to Leo anymore, and it's okay to feel sad or cross about that. You and Leo can video call whenever you want, and we'll ask his parents if he can come and stay with us next summer. You can ask us anything about it, today or any day.",
+   "lang": "en",
+   "note": "With a child, the same shape in smaller words: warn, say it plainly, name the loss he'll care about most, and only promise what you'll actually arrange."
   }
  ]
 }

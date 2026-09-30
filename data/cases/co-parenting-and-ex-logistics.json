@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -92,6 +92,13 @@
    "reply": "你好，9月份小雨的抚养费2,000元我这边还没收到，按约定是每月5号前。可能是转账漏了，麻烦你这周五10月2日前转一下，转好跟我说一声就行。谢谢。",
    "lang": "zh",
    "note": "第一次没按时付：只讲金额、约定和期限，不猜原因、不威胁；如果之后反复拖欠，保留记录，通过调解或律师处理，而不是在微信上升级。"
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-014",
+   "situation": "My ex Priya texted that her boyfriend Kevin will start picking up our son Arjun (7) from school on Tuesdays and Thursdays from next week. I've never met Kevin. I'm not against it, I just want to meet him before he starts.",
+   "reply": "Hi Priya, thanks for letting me know about Kevin doing the Tuesday and Thursday pickups. I'd like to meet him briefly before he starts, so Arjun sees us say hello and I know who's collecting him. Could we do ten minutes at the school gate on Monday 5 October at 3:15, or another time before Tuesday that suits you? Thanks.",
+   "lang": "en",
+   "note": "On the receiving end of new-partner news: no comment on the relationship, one reasonable request tied to the child, with a date. Check separately that the school has him on the pickup list."
   }
  ]
 }

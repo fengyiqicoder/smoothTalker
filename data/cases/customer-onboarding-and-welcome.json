@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -92,6 +92,13 @@
    "reply": "Dear Mr. Hughes, thank you for asking me to prepare your tax return, and for the tea when we met last week. Here is what happens next: once I have your papers, I'll prepare the return, post you a copy by mid-November, and go through it with you by phone before anything is submitted. What I need from you by Friday 30 October: your pension statements for the year and any letters from your bank about interest paid, in the enclosed prepaid envelope, or I can collect them on Wednesday 28 October if that's easier. If you have a question at any time, ring the office number at the top of this letter, weekdays 9 to 5, and I'll call you back the same day. Kind regards, Sarah Lin",
    "lang": "en",
    "note": "Offline client: a posted letter, a prepaid envelope and a collection option remove every step he'd need help with."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-014",
+   "situation": "陶芸教室をやっています。佐藤さんがお母さんへのプレゼントに体験レッスンのギフトチケット（6,600円）を買ってくれて、お母さんの佐藤恵子さんが10月17日（土）14時の回を予約しました。恵子さんは陶芸がまったく初めてだそうです。",
+   "reply": "佐藤恵子様、ご予約ありがとうございます。娘さんからの素敵な贈り物ですね、お会いできるのを楽しみにしています。レッスンは10月17日（土）14時から約2時間、場所は桜台駅から徒歩5分の教室です。参加される方のほとんどが初めてなので、道具とエプロンはすべてこちらで用意します。汚れてもよい服装で、爪は短めにしてお越しください。作品は約1か月後に焼き上がりますので、郵送をご希望の場合は当日ご住所をお知らせください。ご不明な点はこのメールへの返信か、090-1234-5678までお電話ください。平日は当日中にお返事します。\n陶芸工房つち　山本",
+   "lang": "ja",
+   "note": "ギフトで来る人は自分で選んでいないので、初心者で大丈夫なこと、服装、連絡先を先に伝えて不安を消す。"
   }
  ]
 }

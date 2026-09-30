@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -92,6 +92,13 @@
    "reply": "Hi Jordan, congratulations on the new role at Pine & Pillar. I'm Lena Park, an illustrator; before she left, Megan and I were discussing new artwork for your seasonal bag range, and I've attached the $2,800 quote I sent her on 3 September so you have the context. I know you've inherited a lot, so no pressure: is packaging art still on the plan for this season? A quick yes, no or not yet is all I need.",
    "lang": "en",
    "note": "When your contact has left, the silence wasn't about you: start fresh with the new person, give the context in one line, and keep the reply to one word."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-014",
+   "situation": "我给一家瑜伽馆做小红书代运营，包月3,000元，9月的钱已经付了。但从8月底开始，老板娘Coco就没再回过我发的内容排期，连着5周没审，我也不敢擅自发。",
+   "reply": "Coco你好，知道开学季馆里肯定特别忙。10月的内容排期我已经做好了，想跟你确认接下来怎么安排：1是你不用逐条审，我按排期直接发，有问题随时叫停；2是先暂停，等你忙完再接上。回我“1”或“2”就行。10月9号周五前没收到回复的话，我先暂停发布，等你消息。",
+   "lang": "zh",
+   "note": "包月客户长期沉默：把回复缩成一个数字，并说清楚没回复时你会怎么做；暂停期间费用怎么算，以合同为准，另外单独说。"
   }
  ]
 }

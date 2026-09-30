@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -92,6 +92,13 @@
    "reply": "Kara, I'm so sorry about Josh. I keep thinking of him at your birthday, patiently teaching me to pull an espresso shot and laughing at my first three attempts. I'm dropping dinner at yours on Thursday evening, no need to answer the door. You don't have to reply to this, I'm just here.",
    "lang": "en",
    "note": "Say his name and a real memory, don't ask what happened or offer explanations, and if she brings up how he died, follow her lead."
+  },
+  {
+   "id": "condolences-and-support-014",
+   "situation": "My teammate Rosa comes back to the office on Monday after three weeks off; her mum died of cancer. We sit next to each other and she used to tell me about her mum's allotment. What do I say when she walks in?",
+   "reply": "Rosa, welcome back. I'm so sorry about your mum. I keep thinking of her and those allotment courgettes you used to bring in. I've put the Hendry notes from the last three weeks in one doc, so you don't have to dig through your inbox. No need to talk about any of it unless you want to.",
+   "lang": "en",
+   "note": "First day back: say it once, briefly, then let her decide whether it comes up again; catching her up on work is the concrete help."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -92,6 +92,13 @@
    "reply": "Gerald, I want the rest of the Alps story, but I've got a queue building and these folks have been patient. Your chain will be ready Thursday after 2. Come by then and tell me how the Galibier went.",
    "lang": "en",
    "note": "In a service setting, name the queue as the reason, give him the next concrete touchpoint, and turn to the next customer as you finish the sentence."
+  },
+  {
+   "id": "end-conversation-gracefully-014",
+   "situation": "I agreed to a 30-minute Zoom with a grad student, Leo, who wants advice on getting into UX research. We're at 50 minutes, it's 6pm, and he keeps saying 'just one more question'. I have nothing after this, I'm just done for the day.",
+   "reply": "Leo, I'm going to wrap us up here, we're well past our half hour and I'm done for the day. The short version of everything: run two small studies for your portfolio before you apply anywhere. Once you've started the first one, email me one question and I'll reply within the week. Good luck, you're asking the right things.",
+   "lang": "en",
+   "note": "No invented next meeting: own the exit, recap in one line, and give one bounded way to follow up instead of 'reach out anytime'."
   }
  ]
 }
