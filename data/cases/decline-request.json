@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "decline-request-001",
@@ -106,6 +106,13 @@
    "reply": "Congrats on the opening, Marco, I know how much went into it. I'm going to say no to posting a review before we've eaten there; I only review places I've actually been to. Sam and I are coming in on Friday night though, and I'll happily write an honest review after.",
    "lang": "en",
    "note": "Decline the dishonest part, not the friend; the Friday visit is the smaller yes, and only if you'll really go."
+  },
+  {
+   "id": "decline-request-016",
+   "situation": "大学同学老吴找我借身份证，说他名下的手机号办满了，想用我的身份证再办一张卡，给他店里的收款账号用。我们关系不错，但我不想把证件借出去。",
+   "reply": "老吴，我明白你店里急着用。身份证我就不借了，证件这类东西我一向不外借，对谁都一样。收款的事，你可以带上营业执照去银行问问，看用店的名义能怎么办。",
+   "lang": "zh",
+   "note": "用证件办卡、开账户，出了问题可能要证件主人担责，具体规定可以去营业厅或银行问清楚；拒绝时讲规矩，不评判他。"
   }
  ]
 }

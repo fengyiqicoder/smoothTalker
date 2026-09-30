@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -105,6 +105,13 @@
    "reply": "Hi Theo, thanks for the script, the balm has been lovely on my dry patches this week. The one line I can't say is 'it cleared my eczema in 7 days': I don't have eczema, and it's a medical claim I can't back up. I'd suggest: 'A week in, the dry patches on my hands feel soft again, and it doesn't sting.' Everything else in the script works for me. Could you confirm the change by Friday so I can film on Monday?",
    "lang": "en",
    "note": "Refuse the false claim, not the deal, and offer honest wording from your real use. Health claims in ads can carry rules, so check with the brand's compliance team if they push back."
+  },
+  {
+   "id": "creator-brand-deal-reply-016",
+   "situation": "Uma marca de café, a Serra Alta, cancelou a campanha depois que eu já tinha gravado o reels. Recebi 50% adiantado (R$ 1.200 de R$ 2.400) e agora a Bia, do marketing, pediu o sinal de volta. A cláusula 6 do contrato diz que o sinal não é reembolsável depois do início da gravação.",
+   "reply": "Oi, Bia, obrigada por avisar logo, entendo que os planos mudaram. Como o reels já foi gravado, o sinal de R$ 1.200 fica comigo, conforme a cláusula 6 do contrato. Se quiserem aproveitar o vídeo mais para frente, posso publicar até 15 de dezembro pelos R$ 1.200 restantes, sem gravar de novo. Me diz se isso faz sentido para vocês.",
+   "lang": "pt",
+   "note": "Cancelamento depois do trabalho feito: cite a cláusula uma vez, sem drama, e ofereça um jeito de a marca ainda aproveitar o que já pagou."
   }
  ]
 }

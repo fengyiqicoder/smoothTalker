@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -106,6 +106,13 @@
    "reply": "I'm with you on speed; a six-week research phase before anyone ships can sink a product. Where I land a little differently is cutting research entirely: at my last job, two days of calls with five users caught a checkout problem that would have cost us a full sprint to undo. What's behind the decision, is it mostly time or budget? I may be missing context about how your team works.",
    "lang": "en",
    "note": "In an interview, a calm disagreement shows judgement: share the goal, give one real example, then ask so she can add context."
+  },
+  {
+   "id": "disagree-without-conflict-016",
+   "situation": "課長が朝会で、来月から全員に毎日Excelで日報を提出してもらうと発表しました。うちのチームはすでにチャットで毎日進捗を共有しているので二重になると思います。みんなの前ではなく、課長に個別にチャットで伝えたいです。",
+   "reply": "課長、朝会でお話のあった日報の件で、少しご相談させてください。チームの進捗を毎日見えるようにしたいという狙いは、私も賛成です。ただ、Excelの日報を別に作ると、今チャットで毎日共有している内容と二重になり、書く手間の割に新しい情報が増えないのではと気になっています。Excelでまとめる必要がある理由があれば、教えていただけますか。",
+   "lang": "ja",
+   "note": "Raising it one to one after the meeting lets the manager adjust without losing face in front of the team."
   }
  ]
 }

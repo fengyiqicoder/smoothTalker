@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -105,6 +105,13 @@
    "reply": "Hi Priya, I hope you're doing okay after everything at Harwick. I'm in the final round for a content lead role at Sellwood, and they'd like to call two references between Monday 5 and Friday 9 October. You kindly offered in August, so I wanted to check you're still happy to be one before I pass on your details. If it helps, the things they care most about are the newsletter relaunch, the freelancer budget I managed, and, if they ask, that my role was cut in the restructure rather than for performance. If the timing's bad, no problem at all.",
    "lang": "en",
    "note": "An old 'anytime' still needs a fresh ask with the dates; after a layoff, a reference who can confirm why you left is worth a bullet."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-016",
+   "situation": "I'm applying for a funded research assistant post at Halden University that closes Monday Oct 5, and I only found out today that it needs a written reference. My dissertation supervisor, Dr. Mensah, supervised my dissertation on flood-risk mapping last year, including the Cumbria fieldwork, and we're on good terms. I know the notice is terrible.",
+   "reply": "Hi Dr. Mensah, I'm applying for a funded research assistant post at Halden University, and I only found out today that it needs a written reference by Monday 5 October. I know that's very short notice, and I'm sorry to land it on you. Would you be willing to write one? To make it quick, I can send a draft tonight covering my dissertation on flood-risk mapping and the Cumbria fieldwork, plus the upload link. If this week doesn't work, no problem at all, and I'll ask someone else.",
+   "lang": "en",
+   "note": "Short notice: own it once, put the deadline up front, and offer the draft so the ask shrinks to an edit."
   }
  ]
 }

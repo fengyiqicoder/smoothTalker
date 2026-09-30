@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -106,6 +106,13 @@
    "reply": "Thanks for the invite, Leanne. I'm going to skip Thursday, oils just aren't my thing. Hope it's a great night! Fancy a coffee after class on Tuesday?",
    "lang": "en",
    "note": "Decline the event, not the friend: one short honest reason, and a plan with her that has nothing to sell. If she pushes, repeat the no once."
+  },
+  {
+   "id": "decline-invitation-016",
+   "situation": "My friend Callum is turning 40 and invited a group to a whisky tasting on Saturday October 17. I stopped drinking in the spring and I don't want to spend the night explaining it or watching everyone get merry. I'd happily celebrate with him another way.",
+   "reply": "Callum, thanks for including me, and happy almost-40! I'm going to skip the whisky tasting on the 17th. I'd love to take you out for a birthday breakfast instead, my treat. Does Sunday the 25th work, or the weekend after?",
+   "lang": "en",
+   "note": "No reason needed, and you don't owe anyone your sobriety story; a plan without alcohol shows the no is about the event, not him."
   }
  ]
 }

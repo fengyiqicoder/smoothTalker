@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -106,6 +106,13 @@
    "reply": "Hi Carol, my husband and I bought 212 Elm Street in Asheville this summer, and I believe it was your family's home. Clearing the attic, we found a small box of letters and photos addressed to the Whitfields, including one of a girl on the porch swing dated 1961. Would you like them? I'd be glad to post them to you, no cost and no rush.",
    "lang": "en",
    "note": "Lead with the one detail that proves the connection, then a yes-or-no question that asks nothing of her."
+  },
+  {
+   "id": "first-message-to-stranger-016",
+   "situation": "Found a room in a shared house on Cowley Road in Oxford, £720 a month. The poster, Priya, says she's a nurse on night shifts, wants a quiet housemate, and has a very spoiled cat called Mango. She mentions she's had loads of messages. I work 9 to 5 in a library and I'm a quiet homebody.",
+   "reply": "Hi Priya, a quiet housemate around night shifts is something I can genuinely offer: I work 9 to 5 in a library and spend most evenings reading rather than hosting. I'm also firmly pro spoiled cats, so Mango's standards are safe with me. Could I come and see the room this Saturday, 3 October, at whatever time fits your sleep?",
+   "lang": "en",
+   "note": "A listing with a crowded inbox: answer the things she asked for, show you read the details, and make one small ask."
   }
  ]
 }

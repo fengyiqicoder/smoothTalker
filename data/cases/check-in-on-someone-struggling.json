@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -106,6 +106,13 @@
    "reply": "Élodie, j'ai vu ta photo de Pixel. Quatorze ans ensemble, c'est toute une vie, et je pense beaucoup à toi. Pas besoin de répondre. Je passe à la boulangerie demain matin : je peux te déposer des croissants devant ta porte vers 9h, sans sonner si tu préfères. Dis-moi juste « oui » ou « pas cette fois ».",
    "lang": "fr",
    "note": "Le deuil d'un animal est souvent minimisé : le prendre au sérieux, ne rien demander, et proposer une aide qui n'oblige même pas à voir quelqu'un."
+  },
+  {
+   "id": "check-in-on-someone-struggling-016",
+   "situation": "我们组上周裁了三个人，跟我搭档了两年的同事阿杰在名单里，我留下了。我们以前常下班去公司楼下那家烧烤店。这几天想联系他，又怕显得是在炫耀或者可怜他，一直没发。",
+   "reply": "阿杰，上周的事我一直惦记着你。这事跟你的能力没关系，这两年我最放心的搭档就是你。不用回我。周六晚上7点我请你去楼下那家烧烤，想聊就聊，不想聊就光吃。不方便回个“改天”就行。",
+   "lang": "zh",
+   "note": "留下的人别绕开这件事，也别说自己多愧疚让他反过来安慰你；内推、当推荐人这类帮忙，等他开口再提。"
   }
  ]
 }

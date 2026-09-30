@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -106,6 +106,13 @@
    "reply": "Hi Linda, can I ask something small? We love how much you're around for Noah, and your help has been huge. A few times lately you've arrived without a heads-up and caught me off guard, including while I was feeding him. Could you text before coming over, even just \"on my way in 20\"? Then I'll have the kettle on, and you're always welcome.",
    "lang": "en",
    "note": "In-laws: agree it with your partner first, then one behaviour, the effect on you, and a tiny ask that keeps the welcome intact."
+  },
+  {
+   "id": "ask-to-change-behavior-016",
+   "situation": "My friend Josh comments on what I eat every time we go out, things like 'are you really having dessert?' or 'that's a lot of carbs'. I've worked hard on feeling relaxed about food and it's starting to get to me. We're having dinner on Friday.",
+   "reply": "Hey Josh, small thing before Friday, and I'm not upset with you. When we eat out you often comment on what I order, like asking if I'm really having dessert. I've put a lot into feeling relaxed about food, and those comments stay with me longer than you'd think. Could we make food a no-comment zone, mine and yours? Still really looking forward to Friday.",
+   "lang": "en",
+   "note": "You don't owe the backstory: one behaviour, the effect on you, and a rule that applies to both of you."
   }
  ]
 }

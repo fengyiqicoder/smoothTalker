@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -105,6 +105,13 @@
    "reply": "陈老师好，您上个月那篇《从教师转用研的三个误区》我读了三遍，第二条“别把课堂观察当成用户访谈”正好说中了我。我当了5年小学英语老师，正在转用户研究，已经用12次家长访谈做了一个练习项目。想问一个具体问题：作品集里放一个非商业的研究项目，招聘方会认可吗？一两句话的回答就很感激，不方便回复也完全理解。",
    "lang": "zh",
    "note": "向陌生前辈请教也是冷启动：证明读过她的东西，只问一个一两句能答的问题，不约电话、不说“请教一下”。"
+  },
+  {
+   "id": "cold-outreach-016",
+   "situation": "I make stoneware and want a two-week pop-up shop before Christmas. A unit at 14 Market Street in Frome has been empty since June; the letting sign names Helen Brooks at Lowther Property. Last December a 10-day pop-up I ran in a friend's café sold £6,200.",
+   "reply": "Subject: Short let for 14 Market Street this December\n\nHi Helen,\nI walk past 14 Market Street most days, and it's been empty since June. I make stoneware here in Frome and would like to rent it for a two-week pop-up, 5 to 19 December, paying rent for the period. Last December a 10-day pop-up I ran in a local café sold £6,200 of pieces. Would the landlord consider a short let like that? A quick no is genuinely useful too.\nRosie Hart",
+   "lang": "en",
+   "note": "Asking for a space, not selling a product: show you know the unit, say exactly what and when, and ask a yes/no the agent can pass straight to the landlord."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -105,6 +105,13 @@
    "reply": "Mariana, what a lovely message, thank you. I worked hard to catch those moments with your grandmother, so hearing they made everyone cry means a lot. It was a joy to photograph a day with that much love in it.",
    "lang": "en",
    "note": "Accept it and stop: no bounce-back and no ask. If you want a review, ask in a separate message a few days later."
+  },
+  {
+   "id": "give-and-receive-compliments-016",
+   "situation": "After my quarterly forecast presentation, a senior colleague, Derek, posted in the team Slack channel: 'wow, that was actually really good, didn't expect that from you!'. The forecast section took me two weeks. I want to reply without being prickly or letting the dig slide into how people see me.",
+   "reply": "Thanks, Derek. The forecast section took a couple of weeks to get right, so I'm glad it landed.",
+   "lang": "en",
+   "note": "A backhanded compliment: take the compliment, ignore the dig, and name the work. If the pattern repeats, raise it with him privately, not in the channel."
   }
  ]
 }

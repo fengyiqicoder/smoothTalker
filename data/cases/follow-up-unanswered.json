@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -106,6 +106,13 @@
    "reply": "Hi Mr. Doyle, I know you've got a lot on. Following up on the heating at 12 Carlow Road, which has been off since 21 September; nights are getting close to freezing now. Could you let me know which day your engineer can come? I'm home all day Friday and Monday, or I can leave a key with the neighbour at number 14.",
    "lang": "en",
    "note": "Second bump: the date it started, a one-word reply (a day), and access made easy. Keep the texts; if this gets nothing, check your lease and local tenant advice on repairs."
+  },
+  {
+   "id": "follow-up-unanswered-016",
+   "situation": "我是自由摄影师，8月给一个咖啡品牌拍了新品图，8月10日开了8,000元的发票，合同写收到发票后30天内付款。9月15日问过市场部对接人周小姐，她说“在走流程”，之后就没消息了。",
+   "reply": "周小姐您好，知道节前大家都忙。跟进一下8月新品拍摄的8,000元款项：发票是8月10日开的，按合同是30天内付款，现在已经过了约定时间。麻烦帮我确认一下大概哪天能付？如果需要我补什么材料，告诉我就行。",
+   "lang": "zh",
+   "note": "State the contract term once, as a fact; the only thing you ask for is a payment date."
   }
  ]
 }

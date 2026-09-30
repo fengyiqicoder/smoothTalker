@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -106,6 +106,13 @@
    "reply": "您好，运单号773014288375，收件人王磊，地址滨江花园3栋。物流显示9月28日下午3点16分“已签收，签收人：门卫”，但我本人没有收到，小区门卫也确认当天没有代收这个件（门卫代收登记的照片已附）。9月28日和29日我两次打派件员电话，都没人接。请帮我核实签收记录和派送照片，把包裹找回；如果找不回，请按商品价值699元理赔。麻烦在10月3日（周六）前给我答复，电话139 0215 6678，谢谢。",
    "lang": "zh",
    "note": "先要求核实签收记录，再说清找不回时要什么；能赔多少以运单上的保价条款为准，发之前先看一眼。"
+  },
+  {
+   "id": "complain-as-customer-016",
+   "situation": "Alquilé un coche en el aeropuerto de Málaga del 19 al 26 de septiembre, contrato MLG-558210. Al devolverlo me cobraron 350 € por un arañazo en el paragolpes trasero que ya estaba cuando lo recogí; tengo tres fotos que hice en el aparcamiento de recogida el 19 a las 10:42. Quiero reclamarlo por escrito.",
+   "reply": "Hola:\nContrato MLG-558210, alquiler en el aeropuerto de Málaga del 19 al 26 de septiembre. Al devolver el coche se me cargaron 350 € por un arañazo en el paragolpes trasero. Ese arañazo ya estaba cuando lo recogí: adjunto tres fotos tomadas el 19 de septiembre a las 10:42 en el aparcamiento de recogida, donde se ve con claridad. Les pido que anulen el cargo y me devuelvan los 350 € a la tarjeta con la que pagué. ¿Pueden confirmarlo antes del viernes 9 de octubre?\nGracias,\nLucía Ferrer, 612 345 678",
+   "lang": "es",
+   "note": "Las fotos con fecha y hora hacen el trabajo; pide solo que anulen ese cargo y guarda el contrato y las fotos por si hay que escalar."
   }
  ]
 }

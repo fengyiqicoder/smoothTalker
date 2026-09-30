@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -106,6 +106,13 @@
    "reply": "张姐，11月7日周六我想请一天假，我弟弟那天结婚。提前跟您说，方便您排班。我问过小何了，她那天可以顶我的班，我换她11月8日周日的班。您看行的话，那天就别排我了。",
    "lang": "zh",
    "note": "排班制的工作：尽早说、日期写清楚，把换班的人先找好，老板只需要点头。"
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-016",
+   "situation": "I texted my manager Laura at 7am that I have a fever and won't be in. She replied 'Can you still dial in to the 11am vendor call? Just listen in.' My teammate Nikhil already knows the vendor file.",
+   "reply": "I'd rather not, I'm not up to working today. Nikhil knows the vendor file, and I'll send him my notes for the 11am in the next ten minutes so he can take it. I'll check messages once this afternoon and update you tomorrow morning.",
+   "lang": "en",
+   "note": "Offer the coverage, not yourself: agreeing to 'just listen in' turns sick leave into remote work."
   }
  ]
 }

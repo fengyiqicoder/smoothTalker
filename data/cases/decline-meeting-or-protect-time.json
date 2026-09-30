@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -106,6 +106,13 @@
    "reply": "刘总好，每周同步进度我们完全赞成，想跟您商量一个更省大家时间的方式：每周五下午5点前，我把本周进度、下周计划和需要您拍板的事整理成一页周报发给您；周一的会改成隔周一次、30分钟，只讨论周报里需要决定的事。下周一10月5日上午9点照常开第一次会，把这个节奏一起定下来。您看这样可以吗？",
    "lang": "zh",
    "note": "对客户不直接拒会：先认同他要的是掌握进度，用周报加更短更少的会替代，第一次会照开。"
+  },
+  {
+   "id": "decline-meeting-or-protect-time-016",
+   "situation": "I teach Year 10 English. A parent, Mr. Doyle, emailed asking to meet in person this week about why his daughter Freya got a B on her essay. My marking comments already flag the two things that kept it from an A, and parents' evening is on Thursday 15 October anyway.",
+   "reply": "Dear Mr. Doyle, thank you for getting in touch. I think what you'd like is to understand what separated Freya's essay from an A. I'll email you a short note by Friday 2 October with the two things that made the difference and what she can focus on in her next essay. If you'd still like to talk it through after that, I'd be glad to at parents' evening on Thursday 15 October. Does that work for you?",
+   "lang": "en",
+   "note": "With parents, answer the real question in writing first, so the scheduled evening is a genuine yes rather than a brush-off."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -106,6 +106,13 @@
    "reply": "Hi Priya, I need to pull out of my talk at the Summit on Thursday 22 October: our biggest launch of the year has just moved to that week and I have to be here for it. I'm sorry to change this three weeks out, when you've built the programme around it. Two options, if either helps: my colleague Sam Okoro, who co-wrote the talk, could give it in the same slot, or I could record it for you to show, with a live Q&A by video. If the hotel charges for cancelling, send me the bill and I'll cover it.",
    "lang": "en",
    "note": "When you can't be replaced by a new date, the two alternatives are ways to keep the slot filled, plus covering the cost you caused."
+  },
+  {
+   "id": "cancel-or-reschedule-016",
+   "situation": "I double-booked myself. Carol, a retired director who offered to give me career advice, is meeting me for coffee this Friday, Oct 2 at 10, but I also accepted a client workshop that morning. Completely my mistake, and she's doing me a favour.",
+   "reply": "Hi Carol, I need to move our coffee on Friday at 10. I double-booked myself with a client workshop, and that's entirely my mistake. I'm sorry, especially when you're giving me your time. Could we do Tuesday 6 October at 10 or Thursday 8 October at 2, somewhere near you? Coffee's on me either way.",
+   "lang": "en",
+   "note": "Name the double-booking plainly; with someone doing you a favour, owning it beats a vague 'conflict came up'."
   }
  ]
 }

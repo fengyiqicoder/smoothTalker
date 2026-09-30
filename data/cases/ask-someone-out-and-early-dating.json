@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -105,6 +105,13 @@
    "reply": "Gerald, I've really enjoyed our gardening chats at the break. Would you like to have a coffee with me sometime, just the two of us? Saturday morning at the café by the garden centre, perhaps. And if not, no bother at all, I'll see you at choir either way.",
    "lang": "en",
    "note": "The shape is the same at any age: a specific plan and a real out. The out also protects the choir, which you both keep whatever he says."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-016",
+   "situation": "九月中去大理玩，在青旅认识了一个杭州的男生阿哲，一起爬了苍山，之后微信断断续续聊了两周。我在上海，10月16日周五去杭州出差，周六还能多待一天，想约他见面。",
+   "reply": "阿哲，我10月16号周五去杭州出差，周六还会多待一天。想约你见一面：17号周六下午去西湖边走走，再找个地方喝杯东西，怎么样？爬苍山那天你说杭州的秋天最好看，正好验证一下。不方便也没关系，下次有机会再说。",
+   "lang": "zh",
+   "note": "异地的邀约：说清你本来就会在那边的时间，给一个具体安排，对方不会有“专门为我跑一趟”的压力，拒绝也容易。"
   }
  ]
 }

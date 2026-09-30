@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -106,6 +106,13 @@
    "reply": "Rosa, thank you for hearing us out tonight. To put it in writing: with the girls starting full-day school in January, your last day with us will be Friday 18 December, and we'll pay you four extra weeks on top of your final pay. We know this is your income and it's a lot to take in, and we're sorry to bring it. We'd be glad to give you a glowing reference and pass your name to any families we know who are looking. You've been part of this family for three years, and the girls adore you.",
    "lang": "en",
    "note": "When the news hits someone's livelihood, give the date and the money in writing early; check your employment agreement for any required notice before you set the date."
+  },
+  {
+   "id": "deliver-bad-news-016",
+   "situation": "I'm a wedding photographer. Aisha and Tom got married on Saturday. One of my memory cards failed and about 60 ceremony photos, including my front-on shots of the ring exchange, are gone; recovery software got nothing back. My second shooter, Jen, has the ring exchange from the side. I'm calling them this morning and want to follow up by email with a £400 refund and a free portrait session.",
+   "reply": "Hi Aisha and Tom,\nThank you for taking my call this morning. To put it in writing: one of my memory cards failed, and about 60 photos from the ceremony, including my front-on shots of the ring exchange, can't be recovered. I know those were some of the moments that mattered most to you, and I'm truly sorry. Jen, my second shooter, caught the ring exchange from the side, and those will be in your gallery. I'm refunding £400 of your fee, and I'd love to give you a free portrait session whenever suits you. I'm here any time you want to talk.",
+   "lang": "en",
+   "note": "Your mistake, their loss: call first, then put the facts, the refund and the offer in writing without a paragraph of excuses."
   }
  ]
 }

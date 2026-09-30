@@ -23,4 +23,5 @@ One file per playbook: `cases/<playbook-id>.jsonl`, one JSON object per line.
 - Each case in a file covers a different angle: relationship, channel, stakes, culture or the pushback. No two cases should teach the same thing.
 - The reply obeys the library's rules: no em-dashes, no "unfortunately", "I'm afraid" or "I'll have to", one clear ask, never manipulative or deceptive.
 - At least one case in four is not in English, mostly Chinese.
+- Every fact the reply relies on (a memory, a clause number, a length of stay, an earlier conversation) is in the situation. Invent names, dates and amounts for the situation, not new facts in the reply, so an agent adapting the case never puts words in the user's mouth.
 - `python3 scripts/lint.py` checks the format; `python3 scripts/build_index.py` writes `data/cases/`.

@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -106,6 +106,13 @@
    "reply": "Gary, we're both wound up, and the 'move to a house' comment was rude. I'm sorry. I can hear the noise has really been getting to you, especially late in the evening. Can I knock on your door tomorrow at 6 and we work out something about evenings? We're going to be neighbours for a long time.",
    "lang": "en",
    "note": "In person with a neighbour: own the one line, reflect the real grievance without agreeing to terms at the door, and set the time yourself."
+  },
+  {
+   "id": "de-escalate-argument-016",
+   "situation": "I run a small bakery. A customer, Mrs. Patel, is shouting on the phone because the cake she picked up says 'Happy Birthday Priya' instead of 'Priyanka'; the order form says Priyanka, so it's our mistake. It's 4:30, the party is at 6, we can redo the lettering in 30 minutes, and I could drive it over myself.",
+   "reply": "Mrs. Patel, you're right, the order says Priyanka and we got it wrong. I'm sorry. I can hear how stressful this is with the party at 6. If you bring the cake back, we'll redo the lettering straight away, or I can collect it and bring it back to you myself by 5:30. Which is easier for you?",
+   "lang": "en",
+   "note": "When you were wrong, skip the pause: admit it in one line and move straight to the fix."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -106,6 +106,13 @@
    "reply": "Tariq, I'm so sorry about the layoff. Eleven years, and you were always the one people went to when something was on fire. You rebuilt my whole CV in one evening when I needed it, so I'm returning the favour: I'm free Sunday afternoon to go through yours with you, or just to get a beer and not talk about it at all. No need to reply today.",
    "lang": "en",
    "note": "A job loss is a loss too: no silver linings or 'it's their loss', just one specific quality, one concrete offer and no pressure to answer."
+  },
+  {
+   "id": "condolences-and-support-016",
+   "situation": "My ex-boyfriend Tom's mum, Janet, died on Sunday. We broke up two years ago on okay terms, and I was close to her; she taught me to make her Sunday roast. I want to text Tom without it seeming like I'm trying to get back into his life.",
+   "reply": "Tom, I'm so sorry about your mum. I'll always remember Janet teaching me her Sunday roast. I was lucky to know her. No need to reply, I'm just thinking of you and your family.",
+   "lang": "en",
+   "note": "From an ex, skip the concrete offer: a short message that asks for nothing is the kind one."
   }
  ]
 }

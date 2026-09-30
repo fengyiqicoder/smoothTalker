@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -106,6 +106,13 @@
    "reply": "Hi Jordan, so glad Ava loved the cake, and thank you for giving us the chance to put it right. If you feel it's fair, you're welcome to update your Google review to mention how it was sorted; you can edit it from the same place you posted it. Completely your call, and the refund and the new cake were ours to make good either way.",
    "lang": "en",
    "note": "Ask only after the fix, make clear nothing depended on it, and never ask him to delete the review."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-016",
+   "situation": "I'm a personal trainer. My client Denise, 58, just finished a 12-week programme and can now climb the stairs to her fourth-floor flat without stopping. I'd love a short video testimonial for my website, but she's a bit camera-shy.",
+   "reply": "Denise, twelve weeks ago those four flights of stairs were the hardest part of your day, and now you walk them without stopping. That's all your work. Could I ask a favour? A 30-second video on your phone would help people who are nervous about starting see that it's possible. To make it easy, you could just answer two questions: how did you feel before, and what's different now? If you'd rather write two sentences instead, or skip it altogether, that's completely fine, and thank you either way.",
+   "lang": "en",
+   "note": "For a video, give two prompt questions instead of a script, and offer a written version as a smaller out for someone camera-shy."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -106,6 +106,13 @@
    "reply": "周老师您好，谢谢您想到我，也谢谢您发来的样章，讲威尼斯商路的那几章我读得特别入迷。这次我没办法接：明年上半年的档期已经排满，30万字3月底交稿，我接了只会耽误书的进度。和您合作的两本书都很愉快，如果明年下半年有合适的选题，很希望您再想着我。",
    "lang": "zh",
    "note": "自由职业者拒绝约稿：先具体感谢，第二句就说不接，理由只给真实的一个，门只开到确实开着的程度。"
+  },
+  {
+   "id": "decline-offer-or-candidate-016",
+   "situation": "I resigned yesterday to join a climate nonprofit, with four weeks' notice. Today my manager, Priya, came back with a counteroffer: a 15% raise and the team lead title. It's not about money or title, and I want to say no by email without burning the bridge.",
+   "reply": "Hi Priya, thank you for the counteroffer, and for putting it together so quickly; the team lead title means a lot coming from you. My decision isn't about pay or title, it's about wanting to work on climate full time, so I'm going to hold to it. I'll make the next four weeks a proper handover, and I'd really like to stay in touch.",
+   "lang": "en",
+   "note": "Answer the counter once and close it; the handover line keeps the last month good."
   }
  ]
 }

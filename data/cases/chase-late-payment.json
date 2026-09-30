@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 15,
+ "count": 16,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -106,6 +106,13 @@
    "reply": "Hi Daniel, it's Rosa Lin, the editor on the Fairmont launch videos. I'm calling about invoice #0611 for $2,200, due on 28 August and now a month overdue. I've emailed three times without a reply, so I wanted to reach you directly. What date will it be paid? I need it by Friday 9 October, and if something's holding it up on your side, tell me now and we'll sort it. I'll confirm whatever we agree by email today.",
    "lang": "en",
    "note": "On a call, say the invoice, amount and due date in the first breath, get a date out loud, and put it in writing the same day."
+  },
+  {
+   "id": "chase-late-payment-016",
+   "situation": "I paid $846.20 out of pocket for flights and a hotel for a client visit to Chicago in July. My expense claim EXP-2291 was submitted on August 3 and approved by my manager, Dana, on August 6, but it still hasn't been reimbursed. I emailed Tom Reyes in finance on Sept 14 and heard nothing.",
+   "reply": "Subject: Unpaid expense claim EXP-2291\n\nHi Tom,\nFollowing up on expense claim EXP-2291 for $846.20, for the Chicago client visit in July. It was submitted on 3 August and approved by Dana on 6 August, but it hasn't been reimbursed yet, and I haven't heard back on my note of 14 September. Could you let me know the date it will be paid, or whether anything is missing from the claim? I've copied Dana in case anything is needed on her side.\nThanks,\nSam",
+   "lang": "en",
+   "note": "Chasing your own employer is still a stage 2 chase: claim number, amount, approval date, one question for a pay date, and the approver copied."
   }
  ]
 }

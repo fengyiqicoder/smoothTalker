@@ -5,16 +5,16 @@
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
    "situation": "Renting in Chicago, lease says 60 days written notice. I want to be out Nov 30. The property manager is Denise at a small management company.",
-   "reply": "Dear Denise,\nI'm writing to give notice that I will be vacating 2217 N Oakley Ave, Unit 3B, with my tenancy ending on 30 November 2026, in line with the 60-day written notice requirement in section 14 of my lease. I'll pay November's rent as usual and return all keys and the fob on the 30th. Could we schedule the move-out inspection for that afternoon? Please confirm in writing that you've received this notice.\nThank you for three easy years here.\nMarcus Lee",
+   "reply": "Dear Denise,\nI'm writing to give notice that I will be vacating 2217 N Oakley Ave, Unit 3B, with my tenancy ending on 30 November 2026, in line with the 60-day written notice requirement in section 14 of my lease. I'll pay November's rent as usual and return all keys and the fob on the 30th. Could we schedule the move-out inspection for that afternoon? Please confirm in writing that you've received this notice.\nThank you for making my time here so easy.\nMarcus Lee",
    "lang": "en",
    "note": "Sent on 1 October at the latest to meet 60 days; check whether the lease wants email, letter or both."
   },
   {
    "id": "give-notice-to-a-landlord-or-tenant-002",
    "situation": "Je suis propriétaire d'un T2 à Nantes, le bail se termine le 31 mai 2027 et ma fille va y habiter. Je veux prévenir les locataires, Julien et Sarah, avant d'envoyer la lettre recommandée.",
-   "reply": "Bonjour Julien et Sarah, je voulais vous prévenir personnellement avant le courrier officiel : je ne renouvellerai pas votre bail qui se termine le 31 mai 2027, car ma fille va venir habiter l'appartement. Vous recevrez le congé par lettre recommandée cette semaine, avec les six mois de préavis prévus par la loi. Je sais qu'un déménagement est un vrai bouleversement, et je vous ferai volontiers une attestation de bon locataire. Si vous trouvez un logement plus tôt, dites-le-moi et on s'arrangera sur les dates.",
+   "reply": "Bonjour Julien et Sarah, je voulais vous prévenir personnellement avant le courrier officiel : je ne renouvellerai pas votre bail qui se termine le 31 mai 2027, car ma fille va venir habiter l'appartement. Vous recevrez le congé par lettre recommandée cette semaine, dans le délai de préavis prévu pour votre bail. Je sais qu'un déménagement est un vrai bouleversement, et je vous ferai volontiers une attestation de bon locataire. Si vous trouvez un logement plus tôt, dites-le-moi et on s'arrangera sur les dates.",
    "lang": "fr",
-   "note": "Ce message prévient, il ne remplace pas le congé en recommandé avec accusé de réception."
+   "note": "Ce message prévient, il ne remplace pas le congé officiel. Vérifiez le délai et la forme du congé auprès de l'ADIL avant l'envoi, car ils dépendent du type de bail."
   },
   {
    "id": "give-notice-to-a-landlord-or-tenant-003",
@@ -26,9 +26,9 @@
   {
    "id": "give-notice-to-a-landlord-or-tenant-004",
    "situation": "I emailed my landlord Mr Okoye yesterday giving a month's notice to leave my flat in Bristol on 28 October. He says it's invalid because it's a rolling tenancy and notice has to end on the last day of a rent period. Rent is due on the 15th. I think he's right.",
-   "reply": "Hi Mr Okoye, thanks for pointing that out. I've checked, and you're right that notice needs to end on the last day of a rent period. Please treat this email as my notice to leave 7 Cotham Road, Flat 3, with the tenancy ending on Saturday 14 November 2026. I'll pay the rent due on 15 October as usual and return both sets of keys on the 14th. Could you confirm in writing that you've received this?",
+   "reply": "Hi Mr Okoye, thanks for pointing that out. You're right that the notice should end on the last day of a rent period. Please treat this email as my notice to leave 7 Cotham Road, Flat 3, with the tenancy ending on Saturday 14 November 2026. I'll pay the rent due on 15 October as usual and return both sets of keys on the 14th. Could you confirm in writing that you've received this?",
    "lang": "en",
-   "note": "When they're right about the rule, re-serve correctly straight away instead of arguing. Check Shelter or Citizens Advice if you're unsure of the dates."
+   "note": "When they're right about the rule, re-serve correctly straight away instead of arguing. Before re-serving, check the current minimum notice for your tenancy type with Shelter or Citizens Advice, since the rules can change and may require more than a month."
   },
   {
    "id": "give-notice-to-a-landlord-or-tenant-005",
@@ -42,7 +42,7 @@
    "situation": "Ich wohne in Leipzig zur Miete, unbefristeter Vertrag, gesetzliche Kündigungsfrist drei Monate. Ich ziehe für einen neuen Job nach Hamburg und will zum 31. Dezember raus. Die Hausverwaltung ist Mahler Immobilien, zuständig ist Frau Brandt.",
    "reply": "Sehr geehrte Frau Brandt,\nhiermit kündige ich das Mietverhältnis über die Wohnung Karl-Heine-Straße 48, 2. OG links, 04229 Leipzig, fristgerecht zum 31. Dezember 2026, gemäß der gesetzlichen Kündigungsfrist von drei Monaten (§ 573c BGB). Das unterschriebene Original geht Ihnen heute per Einschreiben zu. Für Besichtigungen mit Nachmietern bin ich werktags ab 17 Uhr flexibel. Für die Übergabe mit Zählerablesung schlage ich Montag, den 28. Dezember, vor. Bitte bestätigen Sie mir den Eingang der Kündigung schriftlich.\nVielen Dank für die angenehmen Jahre hier.\nMit freundlichen Grüßen\nJonas Weber",
    "lang": "de",
-   "note": "In Deutschland braucht die Kündigung die Schriftform mit Unterschrift; die E-Mail ist nur die Vorabinfo, der Brief muss bis zum dritten Werktag im Oktober ankommen."
+   "note": "Die E-Mail ist nur die Vorabinfo: Die Kündigung braucht in der Regel einen unterschriebenen Brief, der bis zum dritten Werktag im Oktober ankommen muss. Im Zweifel Mietvertrag prüfen oder beim Mieterverein nachfragen."
   },
   {
    "id": "give-notice-to-a-landlord-or-tenant-007",
@@ -54,7 +54,7 @@
   {
    "id": "give-notice-to-a-landlord-or-tenant-008",
    "situation": "I rent my spare room to a lodger, Kofi, who's been with us 18 months, rent paid monthly on the 1st. My mum is moving in with us so I need the room back. Our agreement says one month's notice; I want to give him more and be kind about it. We're in the UK.",
-   "reply": "Hi Kofi, I wanted to tell you in person first, and this is the written notice to go with it. My mum is moving in with us, so I need the spare room back, and I'm ending our lodging agreement on Monday 30 November. That's two months rather than the one month in our agreement, to give you proper time to find somewhere. Your rent stays as it is until then, and I'll return your £400 deposit on the day you move out. I'm very happy to be a reference, and you've been a great person to share the house with. Could you confirm you've received this?",
+   "reply": "Hi Kofi, I'd like to talk this through with you in person too, but here is the notice in writing. My mum is moving in with us, so I need the spare room back, and I'm ending our lodging agreement on Monday 30 November. That's two months rather than the one month in our agreement, to give you proper time to find somewhere. Your rent stays as it is until then, and we can agree a time for the handover nearer the date. I'm very happy to be a reference, and you've been a great person to share the house with. Could you confirm you've received this?",
    "lang": "en",
    "note": "A lodger in your home still gets exact dates in writing; giving more than the minimum notice and a reference is what keeps it kind."
   },
@@ -75,14 +75,14 @@
   {
    "id": "give-notice-to-a-landlord-or-tenant-011",
    "situation": "Renting a unit in Brunswick, Melbourne, now on a periodic agreement that says 28 days' written notice. We want to leave Nov 30. I work night shifts and we have a 3-month-old, so I also want to ask the agent, Priya at Northside Realty, to keep viewings to set times.",
-   "reply": "Dear Priya,\nI'm writing to give notice that we will vacate 3/41 Albert Street, Brunswick, on Monday 30 November, in line with the 28 days' written notice in our rental agreement. Rent will be paid through to the 30th, and we'll hand back all keys at the final inspection that day if that suits. One request about viewings: I work night shifts and we have a three-month-old, so could they be kept to Tuesdays and Saturdays between 11am and 1pm, with the usual notice? We'll have the place tidy for them. Please confirm you've received this notice. Thanks for three easy years.\nSam Nguyen",
+   "reply": "Dear Priya,\nI'm writing to give notice that we will vacate 3/41 Albert Street, Brunswick, on Monday 30 November, in line with the 28 days' written notice in our rental agreement. Rent will be paid through to the 30th, and we'll hand back all keys at the final inspection that day if that suits. One request about viewings: I work night shifts and we have a three-month-old, so could they be kept to Tuesdays and Saturdays between 11am and 1pm, with the usual notice? We'll have the place tidy for them. Please confirm you've received this notice. Thanks for your help while we've been here.\nSam Nguyen",
    "lang": "en",
    "note": "The notice stands on its own in the first sentence; the viewing times are a separate request, so a no on those doesn't muddy the notice."
   },
   {
    "id": "give-notice-to-a-landlord-or-tenant-012",
    "situation": "東京の賃貸マンションに住んでいます。契約書では解約は1ヶ月前までに書面で通知することになっています。転勤で11月30日に退去したいです。管理会社はさくら不動産の佐藤さんで、まずメールで連絡したいです。",
-   "reply": "さくら不動産 佐藤様\nいつもお世話になっております。メゾン中野302号室の山田健太です。転勤のため、賃貸借契約を2026年11月30日（月）をもって解約したく、ご連絡いたしました。契約書第12条の「1ヶ月前までに書面で通知」に沿って手続きしたいので、所定の解約通知書をお送りいただけますでしょうか。届き次第記入し、今週中に返送いたします。退去立会いは11月30日の午前中を希望しております。本メールを受け取られた旨、ご返信いただけますと幸いです。\n4年間大変お世話になりました。\n山田健太",
+   "reply": "さくら不動産 佐藤様\nいつもお世話になっております。メゾン中野302号室の山田健太です。転勤のため、賃貸借契約を2026年11月30日（月）をもって解約したく、ご連絡いたしました。契約書第12条の「1ヶ月前までに書面で通知」に沿って手続きしたいので、所定の解約通知書をお送りいただけますでしょうか。届き次第記入し、今週中に返送いたします。退去立会いは11月30日の午前中を希望しております。本メールを受け取られた旨、ご返信いただけますと幸いです。\nこれまで大変お世話になりました。\n山田健太",
    "lang": "ja",
    "note": "メールは事前連絡。契約書が書面を求めているなら、解約通知書が期限までに届いて初めて有効になるので、控えも残しておく。"
   },
@@ -103,7 +103,7 @@
   {
    "id": "give-notice-to-a-landlord-or-tenant-015",
    "situation": "My dad died on September 18. He rented a flat in Glasgow from a private landlord, Mrs Duncan, for 11 years. I'm his executor and need to end the tenancy and clear the flat, but I don't know what notice applies.",
-   "reply": "Dear Mrs Duncan,\nI'm sorry to tell you that my father, Robert Mackay, died on 18 September. As the executor of his estate, I'm writing to give notice to end his tenancy at 14 Hyndland Road, Flat 1/2. Could you let me know the notice period and end date you'll be working from, and whether you need a copy of the death certificate or anything else from me? I'm aiming to have the flat cleared and the keys back to you by Saturday 31 October, and I'm happy to do a check-out inspection with you that day. Please confirm in writing that you've received this.\nDad always spoke warmly of you as a landlord.\nYours sincerely,\nFiona Mackay",
+   "reply": "Dear Mrs Duncan,\nI'm sorry to tell you that my father, Robert Mackay, died on 18 September. As the executor of his estate, I'm writing to give notice to end his tenancy at 14 Hyndland Road, Flat 1/2. Could you let me know the notice period and end date you'll be working from, and whether you need a copy of the death certificate or anything else from me? I'm aiming to have the flat cleared and the keys back to you by Saturday 31 October, and I'm happy to do a check-out inspection with you that day. Please confirm in writing that you've received this.\nThank you for being his landlord all these years.\nYours sincerely,\nFiona Mackay",
    "lang": "en",
    "note": "Rules on ending a tenancy after a death vary by place and tenancy type; check with a local advice service before relying on a date."
   }
