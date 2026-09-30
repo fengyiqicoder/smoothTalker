@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -120,6 +120,13 @@
    "reply": "Olá Rui, obrigada pelo convite de ontem. A resposta é não: não sinto uma ligação romântica, e também não saio com alunos. Da minha parte fica tudo igual, vemo-nos na terça como sempre.",
    "lang": "pt",
    "note": "A regra profissional é uma razão sobre ti, não sobre ele; voltar logo ao treino mostra que nada muda."
+  },
+  {
+   "id": "romantic-let-down-018",
+   "situation": "同事介绍的男生，约会了四次，上周我跟他说没感觉，不继续了。他回复说理解，然后问：“那我们还能做朋友吗？”我对他没什么意见，但不想做常联系的朋友。",
+   "reply": "谢谢你这么体面地接受，也谢谢你问。说实话，我不打算做常联系的朋友，觉得彼此留点空间更好。祝你一切顺利。",
+   "lang": "zh",
+   "note": "不想做朋友就别答应，把友谊当安慰奖反而是另一种含糊。"
   }
  ]
 }

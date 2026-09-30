@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -120,6 +120,13 @@
    "reply": "哥，这半年爸四次复查都是你请假陪的，你一个人扛着，肯定很累。今晚我给你打个电话好不好？想跟你商量一下，以后复查咱俩轮流陪。国庆1号到5号我在家，这几天爸的事交给我，你也歇一歇。",
    "lang": "zh",
    "note": "话里带刺，但怨气是真的：不接刺，直接回应背后的分工问题，并换成电话谈。"
+  },
+  {
+   "id": "respond-to-passive-aggressive-018",
+   "situation": "La profesora de mi hija Lucía, la señora Ortega, escribió en el grupo de WhatsApp de padres: 'Recuerdo que los deberes no son opcionales, aunque algunas familias parecen pensar lo contrario.' Lucía no ha entregado dos fichas de matemáticas este mes porque estuvo una semana con gripe, y las terminará este fin de semana. Soy Marta y no quiero contestar en el grupo.",
+   "reply": "Hola, señora Ortega, soy Marta, la madre de Lucía. Le escribo por las dos fichas de matemáticas que Lucía no ha entregado este mes: estuvo una semana con gripe y se le quedaron atrás. Las termina este fin de semana y se las lleva el lunes 5 de octubre. A partir de ahora, si falta por enfermedad, se lo digo por aquí ese mismo día.",
+   "lang": "es",
+   "note": "Se contesta en privado y al contenido, no a la indirecta del grupo; no se discute el tono con la profesora."
   }
  ]
 }

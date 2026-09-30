@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -120,6 +120,13 @@
    "reply": "Bramble's bath is all done and he was a star. He's quite matted behind the ears, so a full groom would sort that properly: it's $95 instead of $55 and takes about another hour. If that doesn't fit with your 3pm, the bath alone is completely fine for today and we can do the full groom next time.",
    "lang": "en",
    "note": "Naming the time cost alongside the price is what keeps it advice rather than a pitch."
+  },
+  {
+   "id": "upsell-without-pushiness-018",
+   "situation": "I run a phone repair shop. Aaron's $120 screen replacement is done and he's collecting today; the phone is still open on my bench. He'd mentioned it dies by mid-afternoon, and the battery check shows 72% health. A battery swap is normally $65 as a separate job, or $40 if I do it now, about 30 extra minutes.",
+   "reply": "Hi Aaron, your new screen is on and the phone is nearly ready. One thought, since you mentioned it dies by mid-afternoon: the battery is at 72% health, and while the phone's open I can swap it for $40 and about 30 extra minutes, instead of $65 as a separate job later. Completely fine to leave it, just reply if you'd like it done.",
+   "lang": "en",
+   "note": "The real reason to suggest it now is the lower price while it's open; say that plainly and let a no be a no."
   }
  ]
 }

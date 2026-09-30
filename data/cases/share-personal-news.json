@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -120,6 +120,13 @@
    "reply": "Some news before Saturday: I'm transitioning, and from now on I'm Dani and I use she/her. I'm happy, and a bit nervous to be typing this. You don't need to say anything big; the best thing you can do is just use the name, and if you slip up, a quick correction and carry on is completely fine. See you on the wall Saturday.",
    "lang": "en",
    "note": "Tell people exactly how to respond, including what to do when they get it wrong, so nobody freezes."
+  },
+  {
+   "id": "share-personal-news-018",
+   "situation": "9月27日（日）に長女が生まれました。3,120gで母子ともに元気です。両親にはもう伝えたので、会社の同期8人のLINEグループに報告したい。ただ、妻が落ち着くまでお見舞いは11月以降にしてほしい。",
+   "reply": "ご報告です。9月27日に長女が生まれました！3,120gで、母子ともに元気です。まだ実感がわかないくらい、ただただ嬉しいです。妻と娘が落ち着くまで、お見舞いは11月以降にしてもらえると助かります。そのときはぜひ顔を見に来てください！",
+   "lang": "ja",
+   "note": "身近な人に先に伝えてからグループへ。ニュースを最初に、気持ちを一言、どう反応してほしいか（お見舞いは11月以降）をはっきり書く。"
   }
  ]
 }

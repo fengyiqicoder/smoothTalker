@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -127,6 +127,13 @@
    "reply": "各位妈妈，谢谢大家这8周的坚持，听到好几位说腰疼好多了，我真的特别开心。像我们这样的小工作室，新妈妈基本都是看别人的评价找过来的，如果你愿意，可以点下面这个链接写两三句感受，一分钟就够。带娃这么忙，没空写完全没关系，谢谢大家。",
    "lang": "zh",
    "note": "群里只发一次、只放一个链接，不点名，也不追问谁写了没有。"
+  },
+  {
+   "id": "ask-for-review-or-testimonial-019",
+   "situation": "I'm Hana and I sell hand-bound notebooks through my online shop, Paper Harbour, about 40 orders a week. I want a small printed card in every parcel asking for a review on the product page, with a QR code that goes straight there. I don't want it to feel like a demand, and I don't offer discounts for reviews.",
+   "reply": "Thank you for your order. Every notebook is bound by hand, and I hope yours gets filled with good things. Once you've used it for a while, a short review on the product page would help other people find a small shop like this one. The code below takes you straight there, and two sentences is plenty. Thank you either way. Hana, Paper Harbour",
+   "lang": "en",
+   "note": "A parcel card can't be timed to the good moment, so invite them back after they've used it; one link, a time estimate, a real out."
   }
  ]
 }

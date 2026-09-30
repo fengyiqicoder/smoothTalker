@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "small-talk-001",
@@ -120,6 +120,13 @@
    "reply": "Hi, I'm Tom from the analytics team. I enjoyed your all-hands talk last week. How's the Glasgow office coming along, is it still on track for November?",
    "lang": "en",
    "note": "With someone senior, one specific question about their project beats flattery or a pitch; let them do the talking."
+  },
+  {
+   "id": "small-talk-018",
+   "situation": "美容師です。今日初めて来店されるお客様のカウンセリングシートに「趣味：キャンプ」「会話：少しなら」と書いてあった。カットは1時間くらい。話しかけすぎず、でも気まずくならない最初のひと言が知りたい。",
+   "reply": "キャンプがお好きなんですね。最近はどのあたりに行かれました？お疲れのときは、目を閉じてゆっくりしていただいて大丈夫ですからね。",
+   "lang": "ja",
+   "note": "「少しなら」は合図。質問はひとつだけにして、返事が短ければ静かな時間をそのまま任せる。"
   }
  ]
 }

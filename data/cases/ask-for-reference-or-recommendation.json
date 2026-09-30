@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -126,6 +126,13 @@
    "reply": "陈姐好，好久没联系，最近还好吗？我是去年在市场部实习的周宁，公众号改版是您带着我做的。我现在申请新加坡一家公司的市场专员岗位，对方需要一封英文推荐信，10月16日（周五）前发到他们HR的邮箱，想问您是否愿意帮我写？方便的话，我先拟一份英文草稿，重点写公众号改版和三个月粉丝涨了40%，您改改就能用。时间不合适也完全没关系。",
    "lang": "zh",
    "note": "要英文推荐信时主动提出写英文草稿，把对方的工作量缩成“改一改”；截止日期放在第一条消息里。"
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-019",
+   "situation": "Fui babá do Theo, de 3 anos, durante um ano e meio, até a família da Renata se mudar para Porto Alegre em julho. Eu cuidava das refeições, das sonecas e levava ele na escolinha todo dia. Agora estou me candidatando para cuidar de gêmeos em São Paulo, e a família pediu uma referência por telefone até sexta, 9 de outubro.",
+   "reply": "Oi, Renata! Espero que vocês estejam se adaptando bem em Porto Alegre, manda um beijo pro Theo. Estou me candidatando para cuidar de gêmeos aqui em São Paulo, e a família pediu uma referência por telefone até sexta, 9 de outubro. Você toparia ser essa referência? Seria uma ligação rápida, e se ajudar, os pontos que mais contam são as refeições, as sonecas e levar o Theo na escolinha todo dia. Se não for um bom momento, sem problema nenhum.",
+   "lang": "pt",
+   "note": "Prazo na primeira mensagem e os pontos concretos à mão; se ela topar, mande o nome e o telefone da família numa mensagem só."
   }
  ]
 }

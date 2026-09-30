@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -120,6 +120,13 @@
    "reply": "跟大家说一件事：公司12月1日（周二）起从徐汇搬到张江办公。原因是现在的租约到期，张江的新场地能把三个部门放在一起。我知道对不少人来说，通勤会多40分钟以上。公司给每人每月500元交通补贴，搬家前的11月16日到27日全员居家办公。具体工位安排我现在还不知道，HR说10月底出来，出来当天我就发到群里。如果通勤变化影响到接送孩子、照顾家人这类具体安排，这周单独找我，我们一起想办法。",
    "lang": "zh",
    "note": "对大家有代价的变化：第一句说事实，承认代价，说清补贴和还不知道的部分，再给私下沟通的出口。"
+  },
+  {
+   "id": "team-announcements-as-a-manager-018",
+   "situation": "I run the night shift at a warehouse, 22 people. On Monday night a forklift reversing out of aisle 9 missed a picker by about a foot; nobody was hurt. From tonight, pedestrians stay out of any aisle with a forklift in it and drivers sound the horn at every aisle end. I covered it at the start-of-shift huddle and want the written version in our WhatsApp group.",
+   "reply": "As we covered at the huddle: on Monday night a forklift reversing out of aisle 9 came within about a foot of a picker. Nobody was hurt, and I want to keep it that way. From tonight, two rules: if a forklift is in an aisle, pedestrians stay out until it's clear, and drivers sound the horn at every aisle end. This isn't about blaming anyone; it's a gap in how we worked, and fixing it is on me. If anyone is ever hurt, call emergency services first, then me. Questions or ideas to make this work, tell me on shift or message me directly.",
+   "lang": "en",
+   "note": "A near miss: say what happened without naming anyone, give the new rule in plain words, and put emergency services first."
   }
  ]
 }

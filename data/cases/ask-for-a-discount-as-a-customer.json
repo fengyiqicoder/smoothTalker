@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -127,6 +127,13 @@
    "reply": "お世話になっております。明日11月21日に1泊2食で予約している佐藤です。今回で3回目の宿泊になり、ちょうど結婚10周年の旅行です。もし露天風呂付きの客室に空きがあれば、アップグレードしていただくことは可能でしょうか。難しければもちろん今のお部屋で十分です。明日を楽しみにしております。",
    "lang": "ja",
    "note": "値引きではなく特典のお願い：本当の事実（リピーター、記念日）を一つ添え、具体的な部屋を挙げ、断りやすい一言で締める。"
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-019",
+   "situation": "A seller called Sam has a used blue hybrid bike listed on a local marketplace for $450. Two similar bikes nearby are listed at $380 and $400. I can collect tomorrow evening and pay cash.",
+   "reply": "Hi Sam, I'm keen on the blue hybrid and could collect it tomorrow evening with cash. There are a couple of similar ones listed nearby at $380 and $400, so would you take $390? If that's too low, no problem, just let me know your best price.",
+   "lang": "en",
+   "note": "With a private seller, cash and a quick pickup are the lever; point to real listings and never run the bike down."
   }
  ]
 }

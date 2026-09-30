@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -120,6 +120,13 @@
    "reply": "Hi Grace, I can't fill your order #7710 for 8 skeins of Moss: I have 5 left, and the dyer has just told me Moss is discontinued, so no more are coming. Your options: swap all 8 for Fern, a similar green I have in stock at the same price; take the 5 Moss and a $66 refund for the other 3; or a full refund of $176. I'll hold your order until Monday 5 October, and if I haven't heard from you by then I'll refund it in full. Just reply with the one you'd like. Mia",
    "lang": "en",
    "note": "When the item is never coming back, drop the wait option and make the full refund the default."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-018",
+   "situation": "I make wooden baby teething rings. In my final check I found hairline cracks in several rings from the current batch, so I'm holding the whole batch; the new one is ready Wednesday Oct 21. Customer Aisha's order #3319 ($24) hasn't shipped. The maple rattle is from a different batch, passed its check and could ship tomorrow, and I'm happy to add free express. I'm Theo.",
+   "reply": "Hi Aisha, your order #3319, the maple teething ring, won't ship this week. In my final check I found hairline cracks in several rings from this batch, and I won't send anything meant for a baby's mouth unless I'm sure of it, so I'm holding the whole batch. The new batch is ready on Wednesday 21 October and yours ships that day. Three options: wait, and I'll add free express shipping; swap for the maple rattle, which is from a different batch, passed its check and ships tomorrow; or a full refund of $24 today. If I don't hear back by Monday 5 October, I'll hold your order for the 21st. Theo",
+   "lang": "en",
+   "note": "A quality hold on a baby product is a reason to state plainly in one line, never a date to rush."
   }
  ]
 }

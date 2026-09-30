@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -120,6 +120,13 @@
    "reply": "Thanks, Luca, and welcome aboard, we're really glad to be roasting for Stanza. We can't do 60-day terms: we pay for our green beans upfront, so 14 days is what keeps us roasting. To help while you're opening, I can put your first two orders on 30 days, and from the third it's 14 days like everyone else. Does that work for Monday's delivery?",
    "lang": "en",
    "note": "The one-off concession is offered before he pushes and labelled with an end point, so it doesn't become the baseline."
+  },
+  {
+   "id": "say-no-to-a-customer-request-018",
+   "situation": "我开了一家小钢琴教室。学生家长陈妈妈想要另一位学生乐乐妈妈的手机号，说两个孩子都是周六上午的课，想约着拼车接送。我们从不把家长的联系方式给别人。",
+   "reply": "陈妈妈，谢谢您想到拼车，这个主意挺好的。乐乐妈妈的手机号我不能直接给您，家长留给我们的联系方式只用来联系上课的事，没经过本人同意不外传，您的号码我们也一样保护着。我可以把您的微信和拼车的想法转告乐乐妈妈，她愿意的话会直接加您。您看这样行吗？",
+   "lang": "zh",
+   "note": "涉及别人隐私的请求：先说不，说清保护的是谁，再主动当中间人，把决定权留给另一位家长。"
   }
  ]
 }

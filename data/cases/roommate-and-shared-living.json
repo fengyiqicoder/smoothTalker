@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -120,6 +120,13 @@
    "reply": "早上好呀～这周早上卫生间有点挤，我8点15分要出门，连着三天都差点赶不上地铁。要不我们排一下早上的时段：我7点到7点20，小雨7点20到7点40，阿杰7点40到8点？谁想换时段直接在群里说，我都可以调。",
    "lang": "zh",
    "note": "带着具体的时间表去说，讨论就变成了挑时段，而不是谁用得太久。"
+  },
+  {
+   "id": "roommate-and-shared-living-018",
+   "situation": "My housemate Callum has been letting out his room on a short-stay rental site while he travels for work. Three different strangers have stayed this month, and one left the front door unlocked overnight. We're on a joint tenancy with Oakley Lettings, and nobody asked me.",
+   "reply": "Hey Callum, can I raise something about your room? Three different guests have stayed this month while you've been away, and it's been odd coming home to strangers, especially after the front door was left unlocked overnight. Could we agree no more short-stay guests, and that anyone staying in your room while you're away is someone you know and have told me about first? Happy to talk it through tonight if you see it differently.",
+   "lang": "en",
+   "note": "Keep it about the house. Short lets may not be allowed under your tenancy, so check the agreement before involving the agent, and put what you agree in writing."
   }
  ]
 }

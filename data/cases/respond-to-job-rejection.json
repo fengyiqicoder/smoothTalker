@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -119,6 +119,13 @@
    "reply": "Hola, Lucía: me llegó la respuesta sobre las prácticas y quería darte las gracias por los 20 minutos que dedicaste a repasar mi portafolio conmigo, aprendí mucho de esa conversación. Entiendo la decisión. Si tienes un momento, ¿qué sería lo primero que cambiarías del portafolio para la próxima convocatoria? Con una frase me basta, y si no tienes tiempo, lo entiendo perfectamente. Ojalá coincidamos más adelante.",
    "lang": "es",
    "note": "Cuando el rechazo llega de un correo automático, la persona que te entrevistó es a quien vale la pena escribir."
+  },
+  {
+   "id": "respond-to-job-rejection-018",
+   "situation": "I run a small IT support firm. We've looked after Hollins & Reed, a 40-person accounting firm, for three years, and their operations director Mark just emailed that after a tender they're moving to a larger provider from January 1. Our best moment was moving their whole office to a new building last year without a day of downtime, and we're on contract until December 31.",
+   "reply": "Hi Mark, thanks for telling us yourself, and for three good years; getting your whole office into the new building without a lost day is still one of my favourite jobs. Understood on the decision. If you're able to say, was it mainly price or the size of the team? One word is enough. We'll keep everything running as normal until 31 December and send you a handover plan in November so the switch is smooth for your people.",
+   "lang": "en",
+   "note": "Losing an existing client: the calm handover is what they will remember, so promise it plainly and keep the feedback ask to one word."
   }
  ]
 }

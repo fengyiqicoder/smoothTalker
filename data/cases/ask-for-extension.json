@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -127,6 +127,13 @@
    "reply": "Bonjour Thomas, je vous écris dès aujourd'hui au sujet du manuel : avec les 12 pages ajoutées hier par le client, je ne pourrai pas tout livrer vendredi avec la qualité attendue. Je vous propose de livrer les 40 pages prévues ce vendredi 2 octobre, comme convenu, et les 12 nouvelles pages le mercredi 7 octobre. Est-ce que ce découpage convient au client, ou a-t-il besoin de certaines des nouvelles pages en priorité ?",
    "lang": "fr",
    "note": "Quand le périmètre grandit, on livre l'original à l'heure et on ne décale que l'ajout."
+  },
+  {
+   "id": "ask-for-extension-019",
+   "situation": "儿子小宇上小学四年级，班主任王老师布置的科学手抄报国庆后10月12日（周一）交。他这周肺炎住院，医生说大概10月10日出院，出院后还要在家休息几天。我想现在就在微信上跟王老师说，申请延到10月16日（周五）。",
+   "reply": "王老师您好，我是小宇妈妈。想提前跟您说一声：小宇这周因为肺炎住院了，医生说大概10月10日出院，之后还要在家休息几天。科学手抄报原定10月12日（周一）交，想申请延到10月16日（周五）。如果12日需要先交点什么，我们可以先把选题和草图拍照发给您。谢谢王老师！",
+   "lang": "zh",
+   "note": "替孩子向老师申请：尽早说，一句原因，具体的新日期，再给一个先交一部分的选项。"
   }
  ]
 }

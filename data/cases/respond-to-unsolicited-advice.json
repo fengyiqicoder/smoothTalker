@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -120,6 +120,13 @@
    "reply": "阿姨，谢谢您，我自己来哄就好。",
    "lang": "zh",
    "note": "对陌生人用最低一档：一句接住、不解释，然后转身照顾孩子；她再说，就原样重复这一句。"
+  },
+  {
+   "id": "respond-to-unsolicited-advice-018",
+   "situation": "I'm halfway through chemo for breast cancer. My aunt Rosa keeps sending me articles saying juice cleanses cure cancer and that I should stop chemo. I love her, I'm sticking with my oncology team's plan, I'm too tired to debate it, and my next session is Tuesday Oct 6.",
+   "reply": "Aunt Rosa, I know you send these because you love me and you're scared too. I'm staying with the plan my oncology team and I chose, and I'm not going to discuss other treatments, so please stop sending the articles. What would really help is your company: could you come and sit with me at my session on Tuesday 6 October?",
+   "lang": "en",
+   "note": "Treatment decisions stay with the medical team; close the topic instead of rebutting articles, and give her worry somewhere useful to go."
   }
  ]
 }

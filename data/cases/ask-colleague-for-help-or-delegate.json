@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -127,6 +127,13 @@
    "reply": "小何，这次的季度复盘材料还想请你来做，10月16号周五要交给总监。上次周报卡在最后才发现数据口径不对，这次我们把检查点往前挪：10月9号周五你先给我看口径和提纲，我当天回你意见，后面你放手做。中间哪里卡住了随时找我，不用等到检查点。这个节奏你觉得可以吗？",
    "lang": "zh",
    "note": "再交给出过问题的人：直说上次卡在哪一步，用提前的检查点代替盯人，信任和兜底一起给。"
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-019",
+   "situation": "I coordinate volunteers at our neighbourhood food bank. I'm stepping back from running the Saturday intake rota from November and want Mercy, who has volunteered on intake every Saturday for two years, to take it over. It's about an hour a week in a shared spreadsheet, filling four slots and finding cover, and she's unpaid like everyone; I'd do the October rotas with her first.",
+   "reply": "Hi Mercy, could I ask you something bigger than usual? From November I'm stepping back from the Saturday intake rota, and I'd love you to take over running it. You've been on intake every Saturday for two years, so you know how it really works. It's about an hour a week in the shared spreadsheet: filling the four slots and finding cover when someone drops out. I'll do the October rotas with you so you've run it once with me before it's yours. It's a volunteer role, so a no is completely fine; would you be up for it?",
+   "lang": "en",
+   "note": "With volunteers you have no authority at all: be exact about the time cost and make the no genuinely easy."
   }
  ]
 }

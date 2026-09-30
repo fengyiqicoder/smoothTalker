@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -127,6 +127,13 @@
    "reply": "Dear Mr Tanaka, I missed our 9am call this morning, and that was my mistake: I entered it in my calendar in London time instead of Tokyo time. I'm sorry you waited 15 minutes for me. I'd still like to agree the Q4 delivery schedule this week, so could we speak at 9am Tokyo time on Thursday 1 October or Friday 2 October? I've set my calendar to show both time zones so this doesn't happen again.",
    "lang": "en",
    "note": "To a client, own it in one line, then put the effort into making the reschedule easy."
+  },
+  {
+   "id": "admit-mistake-at-work-019",
+   "situation": "I changed our nightly sales sync on Monday evening. Today my colleague Ines noticed Tuesday's dashboard total is about 3% below the till system; my change seems to be dropping rows, but I don't know why yet. I've already rolled the sync back to last week's version, so tonight's run should be clean. Need to tell my manager Kofi on Slack.",
+   "reply": "Kofi, heads up: the change I made to the nightly sales sync on Monday evening is dropping rows. Ines spotted that Tuesday's dashboard total is about 3% below the till system. I've rolled the sync back to last week's version, so tonight's run should be clean. I don't know the cause yet; I'm comparing Tuesday's rows against the till export first to see which sales are missing, and I'll update you by 3pm today. Sorry, this one's mine. Once I've found it, I'll add a nightly check that flags any gap between the two totals.",
+   "lang": "en",
+   "note": "Report before you have the root cause: what's contained, what you're checking first, and when the next update comes."
   }
  ]
 }

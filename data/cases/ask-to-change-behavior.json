@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -127,6 +127,13 @@
    "reply": "Hey Greg, small thing, and I know it's meant in a friendly way: I'd rather not go by 'Shiv'. I've never used a short version of my name, so it feels a bit odd hearing it in meetings. Could you stick with Siobhán? And if the spelling ever throws you, it's said 'shi-VAWN', which I know isn't obvious.",
    "lang": "en",
    "note": "A name is one of the few things you can ask for plainly; the pronunciation line lets him get it right without embarrassment."
+  },
+  {
+   "id": "ask-to-change-behavior-019",
+   "situation": "My dad, 74, lives alone and has started phoning me at work three or four times a day, usually about small things like the TV remote. I'm a primary school teacher, can't answer in class, and a string of missed calls makes me panic that something's wrong. I'm free at lunch and after 3:30, and I want him to text for small things and still call for anything urgent.",
+   "reply": "Dad, can I ask something small? I love hearing from you, but when you ring during school hours I can't pick up in class, and when I see three missed calls I panic that something's wrong. Could you text me for the small stuff, like the remote, and I'll call you back at lunch or after 3:30? Anything urgent, keep ringing, and if it's ever an emergency, call emergency services first, then me.",
+   "lang": "en",
+   "note": "One behaviour, the effect on you, and a system that keeps the urgent channel open; with an older parent living alone, never make calling feel unwelcome."
   }
  ]
 }

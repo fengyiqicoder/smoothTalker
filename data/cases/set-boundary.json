@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -120,6 +120,13 @@
    "reply": "Rob, I love seeing the business grow and I'm glad the logo is working for you. From now on I'm going to treat design work for friends like any other job, so I'll send you a quote for this one. As a friend you'll always get 20% off my usual rate.",
    "lang": "en",
    "note": "If he says 'it's only five minutes', repeat that you quote for all design work now; don't debate how long it takes."
+  },
+  {
+   "id": "set-boundary-018",
+   "situation": "我是药剂师。舅舅每天在家族微信群里转发养生文章，还经常@我问“专家说的”对不对。上次我指出一篇是谣言，他在群里说我“读了几年书就瞧不起长辈”。我不想再在群里争了，但他真有用药问题我还是愿意帮。",
+   "reply": "舅舅，您转这些说明您在乎身体，这我挺高兴的。以后群里的养生文章我就不点评了，您@我我也不在群里回。您自己吃药或者身体上有拿不准的，直接给我打电话，我好好跟您说。",
+   "lang": "zh",
+   "note": "说的是自己以后怎么做，不再辩文章对错；他再@你就照说的不回，私下的电话照样接。"
   }
  ]
 }

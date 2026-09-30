@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -120,6 +120,13 @@
    "reply": "We're getting married in Oaxaca on Saturday 15 May 2027, and we'd love you there. We know it's a big trip: for most people, flights and three nights at the hotel will come to around $1,200, so we're telling you now to give you time to plan. The welcome dinner and everything on the wedding day are on us. And if the trip isn't doable this time, we completely understand, no explanation needed.",
    "lang": "en",
    "note": "State the cost once, early and for everyone, and make no an easy answer before anyone has to give it."
+  },
+  {
+   "id": "wedding-and-event-host-messages-018",
+   "situation": "我11月14日（周六）结婚。爸妈离婚十年了，关系不好，我爸说想跟我妈一起坐主桌。我和老公阿杰商量好了：主桌只坐我们俩和伴郎伴娘，爸妈各自带一桌亲戚，两桌都在最前排。想发微信跟我爸说。",
+   "reply": "爸，谢谢您这么在意那天的安排，您能来我特别高兴。我和阿杰商量好了，主桌只坐我们俩和伴郎伴娘，您和我妈各带一桌亲戚，两桌都在最前排，离台上最近。敬酒的时候我们第一个就过去敬您。那天就等您来了！",
+   "lang": "zh",
+   "note": "安排对双方父母一样，按类别定规矩，不提他们之间的关系；他再坚持，就短一点重复同一句，不加新理由。"
   }
  ]
 }

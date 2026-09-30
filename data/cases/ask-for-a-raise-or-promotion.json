@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -127,6 +127,13 @@
    "reply": "Hi Tom, I'm looking forward to Thursday's review, and I've really enjoyed this year on the team. Since I took over the $400k paid ads budget, my role has grown a lot, and similar roles are currently posting at $82k to $88k. I'd like to discuss moving my salary from $72k to $85k. Could we make that part of Thursday's conversation? If the full amount is hard this cycle, I'm open to talking about timing or a title that reflects the budget too. Thanks, Leila",
    "lang": "en",
    "note": "Sent ahead so Tom can check budget before the meeting instead of reacting on the spot."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-019",
+   "situation": "I'm the first engineer at a 7-person startup, two years in, on $85k; similar roles pay around $110k. I built the billing system that now handles all our revenue, and I've hired and onboarded the other three engineers. Our founder, Dana, told the team last month we have 16 months of runway, so I want to ask for $100k but I'm open to extra equity if cash is tight.",
+   "reply": "Dana, I love building this with you and I want to be here for the next stage. In two years I've built the billing system that now runs all our revenue, and I've hired and onboarded the other three engineers. Similar roles pay around $110k, so I'd like to move from $85k to $100k. I know we have 16 months of runway, so if that's too much cash right now, I'm open to a mix of salary and extra equity. What would it take to get there, and by when?",
+   "lang": "en",
+   "note": "Name the number first and offer equity as a route to it, not a replacement. Get any equity terms in writing and check what they are actually worth before agreeing."
   }
  ]
 }

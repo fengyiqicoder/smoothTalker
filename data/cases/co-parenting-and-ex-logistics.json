@@ -4,14 +4,14 @@
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
-   "situation": "Need my ex Mark to split our daughter Ava's braces. Total $4,800, $1,200 deposit due Nov 1, rest monthly. He usually argues about money.",
+   "situation": "Need my ex Mark to split our daughter Ava's braces. Dr Patel quoted $4,800: $1,200 deposit due Nov 1, then $200 a month for 18 months. Our agreement splits medical costs 50/50, but he usually argues about money.",
    "reply": "Hi Mark, Dr Patel has recommended braces for Ava. The total is $4,800: a $1,200 deposit due 1 November, then $200 a month for 18 months. Quote attached. As per our agreement on medical costs, could you send your half of the deposit, $600, by 30 October? Please let me know by Friday. Thanks.",
    "lang": "en",
    "note": "Every number is in writing with the quote attached, which leaves little to argue about."
   },
   {
    "id": "co-parenting-and-ex-logistics-002",
-   "situation": "My ex sent a long angry text about me 'turning the kids against her', and at the very end asked if I'm still dropping them off Sunday at 5.",
+   "situation": "My ex sent a long angry text about me 'turning the kids against her', and at the very end asked if I'm still dropping Noah and Ella off at hers Sunday at 5.",
    "reply": "Yes, I'll drop Noah and Ella at yours on Sunday at 5 as planned.",
    "lang": "en",
    "note": "Answer the logistics, ignore the rest. If the accusations continue, keep a record and raise it through mediation, not by text."
@@ -25,21 +25,21 @@
   },
   {
    "id": "co-parenting-and-ex-logistics-004",
-   "situation": "My ex Jenna and I keep ending up in 40-message text fights that start with a pickup time and end with stuff from 2019. I want to propose moving all scheduling to a co-parenting app. The kids are Liam (9) and Rosie (6).",
-   "reply": "Hi Jenna, to keep things simpler for both of us, could we move all scheduling and costs for Liam and Rosie to OurFamilyWizard from Monday 5 October? Then we both see the same calendar and receipts in one place, and texts can stay for anything urgent on the day. I've set up an account and can send you an invite tonight. Can you let me know by Friday if that works?",
+   "situation": "My ex Jenna and I keep ending up in 40-message text fights that start with a pickup time and end with stuff from 2019. I've set up an account on a co-parenting app and want to propose moving all scheduling there from Monday Oct 5. The kids are Liam (9) and Rosie (6).",
+   "reply": "Hi Jenna, to keep things simpler for both of us, could we move all scheduling and costs for Liam and Rosie to a co-parenting app from Monday 5 October? Then we both see the same calendar and receipts in one place, and texts can stay for anything urgent on the day. I've set up an account and can send you an invite tonight. Can you let me know by Friday if that works?",
    "lang": "en",
    "note": "Frame the app as simpler for both, with no mention of the fights; one line about 2019 would start the next one."
   },
   {
    "id": "co-parenting-and-ex-logistics-005",
-   "situation": "I've been seeing Dan for about a year and want him to meet our son Leo (7) at something low-key. My ex Chris and I get on okay-ish. I want him to hear it from me first.",
+   "situation": "I've been seeing Dan for about a year and want him to meet our son Leo (7) briefly, about an hour at the park on Saturday Oct 17. My ex Chris and I get on okay-ish. I want him to hear it from me first.",
    "reply": "Hi Chris, I wanted you to hear this from me first. I've been seeing someone, Dan, for about a year, and I'm planning for him to meet Leo briefly at the park on Saturday 17 October, about an hour, nothing framed as a big deal. If you have any concerns, can you let me know by Sunday 11 October so we can talk before then? Thanks.",
    "lang": "en",
    "note": "Informing, not asking permission: give the date and a window to raise concerns, and keep it free of relationship detail."
   },
   {
    "id": "co-parenting-and-ex-logistics-006",
-   "situation": "Pedi para o meu ex, Rafael, trocar o fim de semana de 17 e 18 de outubro por causa do aniversário da minha mãe. Ele disse que não e que eu 'sempre mudo tudo em cima da hora'. Nossos filhos são a Clara (8) e o Theo (5).",
+   "situation": "Pedi para o meu ex, Rafael, trocar o fim de semana de 17 e 18 de outubro por causa do aniversário da minha mãe. Ele disse que não e que eu 'sempre mudo tudo em cima da hora'. O fim de semana seguinte, 24 e 25, é meu. Nossos filhos são a Clara (8) e o Theo (5).",
    "reply": "Oi Rafael, entendido, o fim de semana de 17 e 18 de outubro fica como está. Vamos comemorar o aniversário da minha mãe no sábado 24, quando a Clara e o Theo estiverem comigo. Obrigada.",
    "lang": "pt",
    "note": "Ignore o 'sempre', aceite o não em uma linha e se organize em volta dele. Uma recusa não é um padrão."
@@ -47,27 +47,27 @@
   {
    "id": "co-parenting-and-ex-logistics-007",
    "situation": "Our daughter Maya (10) lives with me during the week. Her teacher, Ms. Reyes, emailed that Maya has missed 6 homework assignments since school started and wants a parent conference Thursday Oct 8 at 4:15. I want my ex, Daniel, to come too, without it sounding like I'm blaming his weekends.",
-   "reply": "Hi Daniel, Maya's teacher, Ms. Reyes, has asked for a parent conference on Thursday Oct 8 at 4:15 at school. She says Maya has missed 6 homework assignments since term started and wants to agree a plan with us. I'd like us both to be there so we hear the same thing. Can you let me know by Friday whether you can make it? Thanks.",
+   "reply": "Hi Daniel, Maya's teacher, Ms. Reyes, has asked for a parent conference on Thursday Oct 8 at 4:15 at school. She says Maya has missed 6 homework assignments since term started and I'd like us both to be there so we hear the same thing. Can you let me know by Friday whether you can make it? Thanks.",
    "lang": "en",
    "note": "School concerns go to the co-parent as facts plus one yes-or-no question. No guessing in writing about whose days the homework slipped on."
   },
   {
    "id": "co-parenting-and-ex-logistics-008",
-   "situation": "和前夫离婚一年，儿子乐乐7岁，这周跟我住。今天下午他发烧38.5度，带去看了医生，说是病毒性感冒，要吃三天药。周五晚上6点轮到他爸接。想给前夫发条消息说一下。",
-   "reply": "你好，说一下乐乐的情况。他今天下午发烧到38.5度，4点带他看了儿科，医生说是病毒性感冒，开了退烧药（超过38.5度再吃）和止咳糖浆，一天三次，吃到周五。周五交接时药和医嘱我放在他书包里。如果周五他还在发烧，你是按原计划6点接，还是改到周六上午？周四晚上前告诉我就行。谢谢。",
+   "situation": "和前夫离婚一年，儿子乐乐7岁，这周跟我住。今天周三下午他发烧38.5度，带去看了医生，说是病毒性感冒，要吃三天药。周五晚上6点轮到他爸接。想给前夫发条消息说一下。",
+   "reply": "你好，说一下乐乐的情况。他今天下午发烧到38.5度，带他看了医生，说是病毒性感冒，开了三天的药，吃到周五。周五交接时药和医嘱我放在他书包里。如果周五他还在发烧，你是按原计划6点接，还是改到周六上午？周四晚上前告诉我就行。谢谢。",
    "lang": "zh",
    "note": "医疗情况只写事实：诊断、用药、交接安排，再加一个带期限的问题；不评价对方，不提过去。"
   },
   {
    "id": "co-parenting-and-ex-logistics-009",
-   "situation": "I want to take our kids Sofia (9) and Mateo (6) to see my parents in Guadalajara during my Christmas weeks, Dec 20 to Jan 2. The airline needs a signed consent letter from my ex, Ryan. We're civil, but he gets anxious about the kids travelling abroad.",
+   "situation": "I want to take our kids Sofia (9) and Mateo (6) to see my parents in Guadalajara during my Christmas weeks, Dec 20 to Jan 2. The airline needs a signed consent letter from my ex, Ryan, and I've drafted one. We're civil, but he gets anxious about the kids travelling abroad.",
    "reply": "Hi Ryan, I'd like to take Sofia and Mateo to my parents' in Guadalajara during my holiday weeks, flying out Sunday 20 December and back Saturday 2 January. I'll send you the flight numbers and my parents' address and phone, and the kids can video call you on Christmas Day and any other day you'd like. Because they're travelling abroad, the airline needs a signed consent letter from you; I've attached a draft. Can you let me know by Friday 16 October if you're okay to sign it? Thanks.",
    "lang": "en",
    "note": "Answer the anxious parent's questions with facts before he asks (flights, address, calls), not reassurance, and give weeks rather than days to reply."
   },
   {
    "id": "co-parenting-and-ex-logistics-010",
-   "situation": "离婚后女儿朵朵平时跟我住，隔周周末去她爸那里。朵朵想报周六上午的游泳班，10月10日开课，12节课1,440元。有一半的周六轮到她爸带，需要他送。",
+   "situation": "离婚后女儿朵朵平时跟我住，隔周周末去她爸那里，按约定课外班费用一人一半。朵朵想报区体育中心的游泳班，每周六上午9点到10点，10月10日开课，12节课1,440元，10月6日报名截止。有一半的周六轮到她爸带，需要他送。",
    "reply": "你好，朵朵想报游泳班：每周六上午9点到10点，在区体育中心，10月10日开课，一共12节，1,440元。按我们的约定学费一人一半，你这边是720元。轮到你带她的那几个周六，需要你送她过去。报名10月6日截止，麻烦10月5日前告诉我这样可不可以。谢谢。",
    "lang": "zh",
    "note": "一条消息只谈一件事：时间、地点、金额和需要他做的事写清楚，再给一个能回答“行”或“不行”的问题和期限。"

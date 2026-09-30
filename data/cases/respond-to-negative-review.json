@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -120,6 +120,13 @@
    "reply": "Thank you for the feedback, Erin, and I'm sorry the fee was a sour end to your booking. I'm a one-person practice, so a slot cancelled two hours ahead usually can't be filled, which is why the 24-hour policy is in every booking confirmation and reminder text. I've now also put it in bold on the booking page so nobody is caught out. If you'd like to talk it through, email me at nina@example.com. Nina, owner",
    "lang": "en",
    "note": "A review about a policy you're keeping: explain what it protects once, show one thing you made clearer, and don't refund in public."
+  },
+  {
+   "id": "respond-to-negative-review-018",
+   "situation": "I'm Karen, manager of Maple Court, a 30-bed care home. 'Linda H.' left a 2-star Google review saying her mum's clothes keep going missing in the laundry and 'nobody here cares'. Since last week every item is name-labelled when it arrives and each family has one named contact for laundry questions.",
+   "reply": "Thank you for raising this, Linda, and I'm sorry. Clothes going missing is upsetting for residents and families alike, and it isn't good enough from us. Since last week every item is labelled with a name when it arrives, and each family now has one named contact for laundry. I'd like to put this right with you personally; please email me at manager@example.com or ask for me at reception. Karen, home manager",
+   "lang": "en",
+   "note": "Care settings: say nothing about the resident in public, even what the relative already posted; fix the system and take the rest offline."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -127,6 +127,13 @@
    "reply": "Hi Priya, a small ask, and I know I still owe you for missing the painting in March. My new laptop arrives on Tuesday Oct 6, sometime between 9 and 1, and needs a signature while I'm at the office. Could I redirect it to yours and pick it up that evening? If Tuesday's awkward, just say so, no problem at all.",
    "lang": "en",
    "note": "Having once said no, name it in half a line and keep the ask small; a long apology makes it heavier."
+  },
+  {
+   "id": "ask-for-favor-019",
+   "situation": "我一个人在深圳工作，10月13日周二上午要在市二医院做无痛胃镜，全麻，医院要求必须有成年人陪同，做完签字再接我回家，大概早上8点到11点。想请关系不错的同事小雅帮忙，她得为这个请半天假。",
+   "reply": "小雅，想请你帮个忙：我10月13日周二上午在市二医院做无痛胃镜，要全麻，医院要求必须有人陪着，做完签字再送我回家。时间大概是早上8点到11点，你得为这个请半天假，我知道不是小事。要是那天走不开，直接跟我说就好，我再问问别人。做完请你吃顿好的！",
+   "lang": "zh",
+   "note": "时间、地点和请半天假这个代价一次说清，退路是真的；不需要解释为什么要做检查。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -127,6 +127,13 @@
    "reply": "Hi Tomás, I need to move tomorrow's 11am final interview, and I'm sorry for the short notice. Our CEO is on the panel and has been called away to a customer emergency, and I'd rather you meet the full panel than half of it. Since you took the day off for this, I'd like to fit around your job: could you do Tuesday Oct 6 at 8am or Thursday Oct 8 at 5:30pm, on video if that's easier? Nothing about where you stand in the process has changed.",
    "lang": "en",
    "note": "When the company moves a candidate, offer slots that don't cost them another day off, and say plainly that their standing is unchanged."
+  },
+  {
+   "id": "cancel-or-reschedule-019",
+   "situation": "My son Noah (7) has a playdate at his classmate Ivy's house this Saturday, Oct 3 at 2pm. Her mum Rachel and I only know each other from the school gate, and she told me Ivy's been excited all week. Noah was sick last night, so I want to move it rather than risk passing anything on.",
+   "reply": "Hi Rachel, I need to move Saturday's playdate: Noah was sick last night and I'd rather not pass anything on to Ivy. Sorry to change it, especially when she's been so excited. Could we do Saturday 10 October at 2, or Sunday 11 October in the afternoon? Same plan at yours, or I'm happy to host if that's easier.",
+   "lang": "en",
+   "note": "With a parent you barely know, lead with the change, one true reason, and two dates so the kids aren't left with 'sometime'."
   }
  ]
 }

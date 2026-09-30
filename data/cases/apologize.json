@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 18,
+ "count": 19,
  "cases": [
   {
    "id": "apologize-001",
@@ -127,6 +127,13 @@
    "reply": "Priyanka, I'm sorry about my post in the building chat on Monday. The parcel was at number 14 all along, and by saying someone in the lobby had taken it I pointed at you, which was unfair, and I should have checked before posting anything. I can imagine how it felt to have the whole building reading that. I've posted a correction in the group, and next time something goes missing I'll ask the courier first, not the chat.",
    "lang": "en",
    "note": "A public wrong needs a public correction; the private message names her specific hurt and asks nothing back."
+  },
+  {
+   "id": "apologize-019",
+   "situation": "In our last three team meetings I've talked over my colleague Farah several times, including yesterday when she was halfway through explaining the vendor delays. Nobody said anything, but she went quiet for the rest of the meeting. I want to message her on Slack before Friday's meeting.",
+   "reply": "Farah, I've realised I keep talking over you in our team meetings, including yesterday when you were halfway through the vendor delays. I'm sorry. It stopped you making your point, and I noticed you went quiet for the rest of the meeting. On Friday I'll wait until you've finished, and I'd genuinely like to hear the rest of the vendor update.",
+   "lang": "en",
+   "note": "A pattern you noticed yourself: name it before they have to raise it, and make the fix something they can watch you do."
   }
  ]
 }
