@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -120,6 +120,13 @@
    "reply": "大家好，现在四家都报了水果，主食和餐具还没人带，我来排一下，大家看行不行：丽丽家带水果，王姐家带饮料，老周家和阿杰家带主食（饭团、三明治都行），小敏家带点心，我家带餐垫、一次性餐具和垃圾袋。同意的扣个1，想换的直接说。周四晚上9点前没人提意见就按这个来，我再发一版最终分工。",
    "lang": "zh",
    "note": "直接给出分工方案而不是问谁带什么，一键回复，加上截止时间和默认安排。"
+  },
+  {
+   "id": "group-chat-coordination-018",
+   "situation": "I'm hosting a birthday barbecue for 12 friends in Lark Park this Saturday Oct 3 at 1pm. The forecast now says heavy rain all Saturday and dry on Sunday, and people keep posting weather screenshots asking 'is it still on?'. My flat fits 12 but I can't use the grill there.",
+   "reply": "Settling the weather question: Saturday looks like a washout, so two options. A: same barbecue, moved to Sunday 4 October, 1pm, Lark Park. B: keep Saturday 3 October, 1pm, at my flat, with oven food instead of the grill. Vote A or B by Thursday 9pm. If it's a tie or nobody votes, it's A, and I'll post the final plan once on Thursday night.",
+   "lang": "en",
+   "note": "A change of plan still needs a decision: turn 'is it still on?' into two concrete options with a deadline and a default instead of watching the forecast together."
   }
  ]
 }

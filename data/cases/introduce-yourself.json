@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -120,6 +120,13 @@
    "reply": "Hi all, I'm Priya, and some of you will remember me from the analytics team: I'm back after three years away, this time as a data engineer on platform. While I was gone I built data pipelines at a logistics company, so messy shipment data is my happy place. I also picked up sourdough baking, so starter questions welcome. If we haven't met, I'd love 15 minutes to hear what you're working on, and if we have, come tell me what I've missed.",
    "lang": "en",
    "note": "A returning hire speaks to both halves of the room: a nod to old colleagues, a proper intro for new ones."
+  },
+  {
+   "id": "introduce-yourself-018",
+   "situation": "Je m'appelle Claire, je suis kiné et je viens d'emménager de Lille à Annecy. Jeudi, je rejoins une chorale amateur et le chef de chœur demande à chaque nouveau de se présenter en 30 secondes. J'ai chanté alto dix ans à Lille, mais je lis encore mal les partitions.",
+   "reply": "Bonsoir à tous, je m'appelle Claire, je suis kiné et je viens d'arriver de Lille. J'ai chanté alto pendant dix ans dans une chorale là-bas, donc la voix est là, mais je lis encore mal les partitions. Si une alto accepte que je me place à côté d'elle les premières semaines, je la suivrai de près ! Et comme je ne connais encore personne à Annecy, vos bonnes adresses sont les bienvenues.",
+   "lang": "fr",
+   "note": "Le point faible dit simplement devient l'invitation : les altos savent tout de suite comment l'aider."
   }
  ]
 }

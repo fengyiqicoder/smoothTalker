@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -120,6 +120,13 @@
    "reply": "小敏，我理解你想要一个清楚的答案。真正的原因就是我当时说的那个：我想回成都生活，你想留在上海发展，我们想要的生活不一样。不是你哪里做得不好，这是我的决定。希望你一切都好。",
    "lang": "zh",
    "note": "她要的是“另一个原因”，给一个同样的真实原因就是最清楚的回答；她再追问，不用再回复新的理由。"
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-018",
+   "situation": "My ex Ryan was controlling: he went through my phone and turned up at my work uninvited. We split in May and I blocked him. Today he messaged from a new number saying he's 'done a lot of work on himself' and just wants one coffee to talk.",
+   "reply": "Please don't contact me again. I won't be replying.",
+   "lang": "en",
+   "note": "No warmth or reasons owed. Keep the messages, block this number too, and if he turns up or you ever feel unsafe, call emergency services; if even this line feels risky to send, just block."
   }
  ]
 }

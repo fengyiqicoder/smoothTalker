@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -120,6 +120,13 @@
    "reply": "明白，王经理，打扰了。您那边定下来之前我就不再跟进了。等有结果，不管做不做，直接回这条消息就好，我这边随时可以配合。",
    "lang": "zh",
    "note": "对方带点情绪时不解释、不辩护，把节奏交还给她；这时候再追才真的伤关系。"
+  },
+  {
+   "id": "handle-being-ghosted-by-client-018",
+   "situation": "I'm Rosa, a freelance event planner. On Sept 14 Imogen, HR lead at a 60-person software firm, said yes on a call to me planning their holiday party on Friday Dec 11 for $6,000. I sent the contract on Sept 16 and bumped it once on Sept 23; it's still unsigned, and the venue will only hold the date until Friday Oct 9.",
+   "reply": "Hi Imogen, I'm still holding the venue for your holiday party on Friday 11 December, and their hold ends on Friday 9 October. To keep it, I'd need the signed contract by Thursday 8 October. If something in it needs changing, point me to it and I'll turn it round the same day; if plans or budget have shifted, just say so and I'll release the date.",
+   "lang": "en",
+   "note": "A verbal yes with an unsigned contract: a real outside deadline, a quick fix for whatever is blocking it, and an easy no. Don't start booking suppliers until it's signed."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -119,6 +119,13 @@
    "reply": "补充一句：这次报表能按时上线，小杨功不可没。她花了两周把三年的历史订单数据一条条清洗对齐，我们后面做分析几乎没返工。谢谢小杨！",
    "lang": "zh",
    "note": "在群里替被忽略的人补上功劳：说清她具体做了什么、带来了什么效果，不带对领导的抱怨。"
+  },
+  {
+   "id": "give-and-receive-compliments-018",
+   "situation": "My ex-husband Mark and I share custody of our 14-year-old, Ruby. Last Saturday, at Mark's, she got dumped by her first boyfriend, and Mark sat up with her till midnight just listening; she told me he 'didn't lecture at all'. We're civil but not warm, and I want to text him.",
+   "reply": "Mark, Ruby told me about Saturday night. You sat up with her till midnight and just listened, and she said you didn't lecture at all. That was exactly what she needed, and it meant a lot to me to hear it.",
+   "lang": "en",
+   "note": "Keeping it to what he did for Ruby stops it reading as a bid to reopen anything."
   }
  ]
 }

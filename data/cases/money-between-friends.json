@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -120,6 +120,13 @@
    "reply": "Hey, thanks for being straight with me about money being tight, no stress about paying it all at once. How about $300 on the 15th of October, November and December? That clears the $900 by Christmas. If a different split works better for you, tell me and we'll adjust. Mostly I'd just like us to have a plan so neither of us has to think about it.",
    "lang": "en",
    "note": "Turns 'can't pay it all' into a small dated plan tied to his payday, and leaves room for him to suggest a different split."
+  },
+  {
+   "id": "money-between-friends-018",
+   "situation": "Reservé un piso en Oporto para cuatro amigas del 23 al 25 de octubre: 480 euros sin reembolso, 120 cada una, y lo adelanté yo. Las otras dos ya me han pagado por transferencia. Marta acaba de decir que no puede venir por trabajo y no ha mencionado su parte.",
+   "reply": "¡Qué pena que no puedas venir, Marta! Te vamos a echar de menos. Sobre el piso: la reserva no tiene reembolso, así que tu parte de 120 euros sigue en pie, y la adelanté yo. Si encuentras a alguien que quiera tu plaza, que te la pague a ti y listo; si no, pásamela por transferencia antes del viaje, que me viene bien cuadrar la tarjeta. Y te traemos un oporto.",
+   "lang": "es",
+   "note": "Cuando alguien se cae de un plan ya pagado: la cifra, por qué sigue en pie y una salida real (ceder su plaza), sin reproches ni hablar de su trabajo."
   }
  ]
 }

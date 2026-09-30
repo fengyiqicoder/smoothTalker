@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -120,6 +120,13 @@
    "reply": "Hi Paula, I want you to have good visibility on the data migration, especially while you're settling in. The written update plus the 4pm call comes to about 45 minutes a day for me, and it lands in the afternoons, which is when I do the migration work for the 23 October deadline. Two options: a three-line written update each day and I skip the call unless something is blocked, or the call on Tuesdays and Thursdays only with no written update. I'd lean towards the first. Could we pick one in our 1:1 on Friday?",
    "lang": "en",
    "note": "With a new manager, frame it as giving her the same visibility for less time, not as resisting oversight."
+  },
+  {
+   "id": "push-back-on-boss-018",
+   "situation": "我昨晚开始发烧，今早38.5度，已经请了病假。刚才赵总微信说明天上午10点给华东区客户的方案汇报很重要，让我吃片药来公司讲。方案是我和同事小孙一起做的，她全程参与，内容也熟。",
+   "reply": "赵总，这个汇报我也很想讲好。现在的情况是我今早烧到38.5度，明天去公司状态讲不好，也怕传染给客户和同事。两个办法：一是由小孙主讲，她全程参与了方案，我今天把讲稿和客户可能问的问题整理好发给她；二是跟客户商量改到下周一，由我来讲。我建议第一个，客户那边不用改时间。您看选哪个？",
+   "lang": "zh",
+   "note": "生病时对“带病来”说不，但不空着手，给出保住结果的方案；如果烧一直不退或加重，先去看医生。"
   }
  ]
 }

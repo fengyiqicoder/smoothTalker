@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -120,6 +120,13 @@
    "reply": "Hi Jonas, I've been using the app for my thesis notes for three months, and the keyboard-only capture is the reason I switched. Your README asks for an issue before translations, so here it is: would you accept a Traditional Chinese translation? I'm a native speaker and would do the full UI and keep it updated for new releases.",
    "lang": "en",
    "note": "Following the maintainer's own stated process is the proof you looked; one yes-or-no question, nothing else asked."
+  },
+  {
+   "id": "first-message-to-stranger-018",
+   "situation": "上周六在朋友婚礼上跟一个女生坐同一桌，她叫林夏，聊了几句，她说最近在学拉坯，第一个碗歪成了烟灰缸。当时加了微信，但一周了谁都没说话，想发第一条消息。",
+   "reply": "林夏你好，我是上周六婚礼上跟你坐同一桌的那个。一直记得你那个歪成烟灰缸的碗，后来拉出第二个像样的了吗？",
+   "lang": "zh",
+   "note": "加了微信没说话也没关系，接住当时聊过的那一件事，比“在吗”好回得多。"
   }
  ]
 }

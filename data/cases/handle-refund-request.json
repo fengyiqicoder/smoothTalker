@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -120,6 +120,13 @@
    "reply": "孙小姐您好，刚买完就碰上降价，换我也会觉得有点亏。这140元差价我给您退，今天就原路退回。店里平时没有保价，这次是谢谢您一直支持我们，以后还是按下单时的价格为准，先跟您说清楚，免得以后有误会。谢谢您一直喜欢我们家的衣服！",
    "lang": "zh",
    "note": "先共情，第二句就给答案；破例说明只是这一次，不变成新规矩。"
+  },
+  {
+   "id": "handle-refund-request-018",
+   "situation": "I sell handmade soap and skincare online. A customer, Joanne, bought a $34 lavender face balm and says it gave her a red, itchy rash after two uses; she sent a photo and asked for a refund. The full ingredient list is on the jar and the listing.",
+   "reply": "Hi Joanne, I'm so sorry the balm gave you a rash, and thank you for sending the photo. I've refunded the full $34 to your card today, and there's no need to send the jar back; please just stop using it. If the redness spreads or doesn't settle in a couple of days, do see a pharmacist or doctor, and if you ever get swelling of the lips or face or trouble breathing, call emergency services straight away. The full ingredient list is on the jar if it helps to show them.",
+   "lang": "en",
+   "note": "A possible skin reaction: refund in full, don't ask for proof or defend the ingredients, point to medical help, and keep a note of it in case another customer reports the same."
   }
  ]
 }

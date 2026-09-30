@@ -4,31 +4,31 @@
  "cases": [
   {
    "id": "respond-to-negative-review-001",
-   "situation": "I own a dog grooming salon. 2-star Google review from 'Kelly M.' saying her poodle waited 3 hours past pickup time and nobody called her. That's true, our groomer was out sick and we were behind.",
+   "situation": "I own a dog grooming salon. 2-star Google review from 'Kelly M.' saying her poodle Coco waited 3 hours past pickup time and nobody called her. That's true, our groomer was out sick and we were behind. We now call customers as soon as we're running more than 30 minutes late.",
    "reply": "Thank you for this, Kelly, and I'm sorry: a three-hour delay with no call isn't how we want anyone's day to go, and Coco deserved better too. We were a groomer down that day and didn't tell customers, which is on us. We now call everyone the moment we're running more than 30 minutes behind. I'd like to make it right; please email me at hello@example.com. Dana, owner",
    "lang": "en",
    "note": "Own it in one line, say what changed, move the fix offline. No compensation in public."
   },
   {
    "id": "respond-to-negative-review-002",
-   "situation": "小さなカフェを経営しています。食べログに「店員が無愛想で水も出てこなかった」と星1のレビュー。その日は確かに混んでいてお冷を出すのが遅れました。",
+   "situation": "小さなカフェを経営しています。食べログに「店員が無愛想で水も出てこなかった」と星1のレビュー。その日は確かに混んでいてお冷を出すのが遅れました。今は混雑時も席に案内した時点でお冷を出すよう、スタッフ全員で決めました。",
    "reply": "ご来店いただき、率直なご感想をありがとうございます。混雑していた日とはいえ、お冷をお出しするのが遅れ、ご不快な思いをさせてしまい申し訳ありませんでした。混雑時は席にご案内した時点でお冷をお出しするよう、スタッフ全員で徹底しました。よろしければ info@example.com までご連絡ください。店主 佐藤",
    "lang": "ja",
    "note": "謝罪は一度だけ、変えたことを具体的に書き、続きは個別に。反論はしない。"
   },
   {
    "id": "respond-to-negative-review-003",
-   "situation": "Airbnb host here. Guest left a 1-star review saying we 'hid' the $75 cleaning fee and the place had no parking. The fee is in the booking breakdown and the listing says street parking only.",
+   "situation": "Airbnb host here. Guest 'Jordan' left a 1-star review saying we 'hid' the $75 cleaning fee and the place had no parking. The fee is in the booking breakdown and the listing says street parking only, but I've now moved the parking note to the top of the description.",
    "reply": "Thanks for the feedback, Jordan, and I'm sorry the stay didn't match what you expected. One small correction for anyone reading: the cleaning fee is shown in the price breakdown before booking, and the listing notes street parking only. I've added the parking detail to the top of the description so it's harder to miss. If anything else was off, I'd like to hear it. Rosa",
    "lang": "en",
    "note": "Correct the facts once, calmly, for the next readers. If they post again, reply once more, shorter, and stop."
   },
   {
    "id": "respond-to-negative-review-004",
-   "situation": "我开了一家口腔诊所。有位患者在大众点评给了一星，说拔智齿后疼了三天，医生不负责、不接电话。病历上看恢复是正常的，但我不能在公开平台说他的诊疗细节。",
-   "reply": "感谢您写下这次的经历，拔牙后疼了三天确实很难受，术后电话没能及时接通也是我们的问题。出于对患者隐私的保护，我们不在公开平台讨论具体诊疗情况，但我很想亲自了解您现在的恢复。我是诊所负责人陈立新医生，您可以直接打我的电话 0571-8826 3310，工作日9点到18点我都在，需要的话我们安排免费复查。陈立新",
+   "situation": "我开了一家口腔诊所。有位患者在大众点评给了一星，说拔智齿后疼了三天，医生不负责、不接电话。病历上看恢复是正常的，但术后他打来的电话确实没人接，现在我们已安排专人接听术后电话。我不能在公开平台说他的诊疗细节。",
+   "reply": "感谢您写下这次的经历，拔牙后疼了三天确实很难受，术后电话没能及时接通是我们的问题，现在已经安排专人接听术后电话。出于对患者隐私的保护，我们不在公开平台讨论具体诊疗情况，但我很想亲自了解您现在的恢复。我是诊所负责人陈立新医生，您可以直接打我的电话 0571-8826 3310，工作日9点到18点我都在。陈立新",
    "lang": "zh",
-   "note": "Medical and legal settings: never confirm treatment details in public; own the phone issue, move the rest offline."
+   "note": "医疗场景不在公开回复里确认任何诊疗细节，也不公开承诺免费复查等补偿；只认电话的问题，说改了什么，其余私下沟通。"
   },
   {
    "id": "respond-to-negative-review-005",
@@ -39,56 +39,56 @@
   },
   {
    "id": "respond-to-negative-review-006",
-   "situation": "Tengo un restaurante de arroces en Valencia. Un tal Marcos nos ha puesto una estrella en Google diciendo que la paella del domingo 20 estaba cruda y que el camarero se rió de ellos. Ese domingo estuvimos cerrados por vacaciones y no hay ninguna reserva a su nombre.",
+   "situation": "Tengo un restaurante de arroces en Valencia. Un tal Marcos nos ha puesto una estrella en Google diciendo que la paella del domingo 20 de septiembre estaba cruda y que el camarero se rió de ellos. Ese domingo estuvimos cerrados por vacaciones y no hay ninguna reserva a su nombre.",
    "reply": "Hola, Marcos. Gracias por contarlo: una paella cruda y un trato así serían inaceptables en nuestra casa. Una aclaración para quien lea esto: el domingo 20 de septiembre estuvimos cerrados por vacaciones, así que creo que esta reseña puede ser de otro restaurante. Si me equivoco, escríbeme a reservas@example.com y lo hablamos en persona. Pepa, propietaria.",
    "lang": "es",
    "note": "Se corrige el dato una sola vez, con calma y sin llamarle mentiroso; si parece falsa, se denuncia a Google aparte y se deja esta respuesta."
   },
   {
    "id": "respond-to-negative-review-007",
-   "situation": "我开了一家卖手工陶瓷杯的淘宝店。有个买家给了差评，说杯子寄到时碎了，“包装太敷衍”。外箱是被快递压扁的，但我们的包装确实只有一层气泡膜。",
+   "situation": "我开了一家卖手工陶瓷杯的淘宝店。有个买家晒图给了差评，说杯子寄到时碎了，“包装太敷衍”。外箱是被快递压扁的，但我们的包装确实只有一层气泡膜。新杯子今天已经给她补寄，这周起所有杯子改成双层气泡膜加纸格固定。",
    "reply": "谢谢您把照片发上来，收到一只碎掉的杯子，换谁都会失望。外箱是在运输途中被压坏的，但杯子是在我们店买的，就该由我们负责。新杯子今天已经寄出。从这周起，所有杯子都改成双层气泡膜加纸格固定。后续有任何问题，旺旺直接找我。店主 阿禾",
    "lang": "zh",
    "note": "快递的问题只陈述一次，然后把责任接过来；包装确实能改进，就写出具体改了什么，其余私下处理。"
   },
   {
    "id": "respond-to-negative-review-008",
-   "situation": "I own a café, Juniper & Rye. A 1-star Google review says our barista was 'rude and refused to serve me'. What happened: he shouted at her for ten minutes because we'd run out of oat milk, and my shift manager asked him to leave. My staff handled it well.",
+   "situation": "I own a café, Juniper & Rye. A 1-star Google review says our barista was 'rude and refused to serve me'. What happened: that morning he shouted at her for ten minutes because we'd run out of oat milk, and my shift manager asked him to leave. My staff handled it well, and I've since doubled our oat milk order.",
    "reply": "Thank you for the feedback. I'm sorry you left unhappy, and that we'd run out of oat milk that morning; we've since doubled our standing order. I've spoken with the team about the visit and I'm satisfied they handled a difficult situation professionally. If you'd like to talk it through, I'm at hello@example.com. Leah, owner.",
    "lang": "en",
    "note": "Back your staff without describing the customer's behaviour in public, own the part that was yours, and stop there."
   },
   {
    "id": "respond-to-negative-review-009",
-   "situation": "I run a small yoga studio. A 2-star Google review from 'Priya S.' says our $28 drop-in is 'a rip-off for a 60-minute class'. Our classes are 75 minutes, and we're not changing prices, but I don't want to sound defensive.",
-   "reply": "Thank you for the honest feedback on price, Priya. $28 is a real amount for one class, and I understand it can feel steep for a single visit. One small correction for anyone reading: our classes run 75 minutes, not 60. If you come regularly, the 10-class pass brings it to $21 a class. If anything else didn't work for you, I'd like to hear it at hello@example.com. Meg, owner",
+   "situation": "I run a small yoga studio. A 2-star Google review from 'Priya S.' says one of our teachers, named in the review, 'ignored me the whole class and only corrected the regulars'. It was her first class, a busy Saturday with 20 people; I've talked with the teacher, and from next week every Saturday class has a second teacher assisting.",
+   "reply": "Thank you for telling us, Priya, and I'm sorry you felt overlooked. Everyone should get the same attention, and a first class matters most. Our Saturday classes are busy, so from next week each one will have a second teacher assisting, and I've spoken with the team about looking out for newcomers. If you'd like to tell me more, I'm at hello@example.com. Meg, owner",
    "lang": "en",
-   "note": "A price complaint isn't a fault to own: acknowledge the cost, correct the fact once, point to the cheaper route, and never discount in public."
+   "note": "When a review names a staff member, don't repeat the name, defend or discipline them in public; take the point seriously and fix the setup."
   },
   {
    "id": "respond-to-negative-review-010",
-   "situation": "我开了一家美发店。有位顾客王女士在大众点评给了两星，说在我们店烫了发，第二天发尾就干枯打结，“花了680块烫坏了”。店员烫之前确实没仔细看她发质，她之前漂过色。",
+   "situation": "我开了一家美发店。有位顾客王女士在大众点评给了两星，说在我们店烫了发，第二天发尾就干枯打结，“花了680块烫坏了”。店员烫之前确实没仔细看她发质，她之前漂过色。现在店里烫染前都先做发质检测，受损的会先建议护理。",
    "reply": "谢谢王女士把情况写得这么具体。烫完第二天发尾就干枯打结，这不是我们该给您的结果；烫前没有好好评估您的发质，是我们的问题。现在店里所有烫染前都会先做发质检测，受损的头发会先建议护理再做。想当面帮您看看怎么修护，麻烦直接打店里电话021-6288 4130找我。店长 林悦",
    "lang": "zh",
    "note": "公开回复只认一次错、说改了什么，补偿和修护放到私下谈；也不在公开回复里提她漂过色这样的细节。"
   },
   {
    "id": "respond-to-negative-review-011",
-   "situation": "I own a bookshop, Lark Books. 2-star Google review from 'Tom R.': he uses a wheelchair, couldn't get over our front step, and the staff member at the till didn't know we had a portable ramp. We do have one, it was in the back room.",
+   "situation": "I own a bookshop, Lark Books. 2-star Google review from 'Tom R.': he uses a wheelchair, couldn't get over our front step, and the staff member at the till didn't know we had a portable ramp. It was in the back room; now it sits by the front door, there's a bell and sign outside, and all staff have practised setting it up.",
    "reply": "Thank you for telling us, Tom, and I'm sorry. You should have been able to come straight in, and our team not knowing about the ramp was our failure, not yours. The ramp now lives by the front door, there's a bell and a sign outside, and every member of staff has practised setting it up. I'd like to make it right; please email me at sophie@example.com. Sophie, owner.",
    "lang": "en",
    "note": "Own an accessibility failure fully in public and say what physically changed, so the next wheelchair user reading knows they can get in."
   },
   {
    "id": "respond-to-negative-review-012",
-   "situation": "我在杭州开一家小餐馆。有位顾客在外卖平台给了一星，说订单备注了孩子花生过敏，结果凉拌黄瓜上撒了花生碎，孩子吃了一口起了疹子。我查了，备注是有的，是出餐时没看到。",
+   "situation": "我在杭州开一家小餐馆。有位顾客在外卖平台给了一星，说订单备注了孩子花生过敏，结果凉拌黄瓜上撒了花生碎，孩子吃了一口起了疹子。备注是有的，是出餐时没看到。现在凡是备注过敏的订单，出餐前由店长单独核对再封袋。",
    "reply": "非常感谢您指出来，也真的很抱歉。您在备注里写了花生过敏，我们出餐时却在凉拌黄瓜上撒了花生碎，这是我们的错，让孩子受罪、让您担心了。我们已经改了流程：凡是备注过敏的订单，出餐前由店长单独核对一遍再封袋。我想当面跟您道歉，也想知道孩子现在怎么样，麻烦您打店里电话0571-8765 4321找我。店长 陈立",
    "lang": "zh",
    "note": "涉及健康的差评要第一句就认错，写清具体改了什么；赔偿和后续私下谈，不在公开回复里说。"
   },
   {
    "id": "respond-to-negative-review-013",
-   "situation": "I bought a car repair garage, Fenwick Motors, in August and kept the name. There's a 1-star Google review from March, never answered, by 'Alan B.' saying the old owner charged him $640 for brakes after quoting $300. I want to reply now.",
+   "situation": "I bought a car repair garage, Fenwick Motors, in August and kept the name. There's a 1-star Google review from March, never answered, by 'Alan B.' saying the old owner quoted $300 for brakes, then charged $640 without calling him. I now give written quotes and call before any extra work. I want to reply now.",
    "reply": "Thank you for spelling this out, Alan. Being quoted $300 and charged $640 without a call first is exactly what makes people stop trusting garages. This happened before I took over Fenwick Motors in August, but the name on the sign is the same, so it's mine to answer. Every job now gets a written quote, and we call for your OK before doing anything beyond it. I'd like to hear the rest and see if we can make it right: please call me directly on (614) 555-0143. Rachel Okoye, owner",
    "lang": "en",
    "note": "Old review under a new owner: state the handover once, own the name, never blame the previous owner."
@@ -102,7 +102,7 @@
   },
   {
    "id": "respond-to-negative-review-015",
-   "situation": "I run a B&B in the Lake District, Fernhill House. 3-star Google review from 'Claire W.': she loved the breakfast and the view, but roofers next door started drilling at 8am both mornings and we never warned her. True, the work started the week before her stay and I didn't tell booked guests.",
+   "situation": "I run a B&B in the Lake District, Fernhill House. 3-star Google review from 'Claire W.': she loved the breakfast and the view, but roofers next door started drilling at 8am both mornings and we never warned her. True, I didn't tell booked guests; now everyone booked during the work gets an email a week ahead with the dates and the option to move.",
    "reply": "Thank you, Claire, for the kind words about breakfast and the view, and for being straight about the noise. You should have heard about the roof work next door from us before you arrived, not from a drill at 8am, and that's on me. Everyone booked while the work continues now gets an email a week ahead with the dates and the option to move their stay. I'd like to make it right; please email me at stay@example.com. Helen, owner",
    "lang": "en",
    "note": "A mixed review: thank the specific praise in one clause, then own the complaint fully; the praise is not a shield."

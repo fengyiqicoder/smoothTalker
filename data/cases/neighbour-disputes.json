@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -120,6 +120,13 @@
    "reply": "Hallo Jonas, hier ist Katrin von nebenan. Du hast recht, laut Hausordnung ist Musik bis 20 Uhr in Ordnung, und ich will dir das Üben auch nicht nehmen. Es geht mir nur um die Uhrzeit: Unsere beiden Kleinen gehen um 19 Uhr ins Bett, und ihr Zimmer liegt genau an deiner Wand. Könntest du an den meisten Tagen schon um 17 Uhr anfangen, damit um 19 Uhr Schluss ist? Sag gern Bescheid, wenn dich von unserer Seite auch mal etwas stört.",
    "lang": "de",
    "note": "Wenn der Nachbar im Recht ist, nicht über die Regel streiten, sondern um eine kleine Verschiebung bitten, die er leicht geben kann."
+  },
+  {
+   "id": "neighbour-disputes-018",
+   "situation": "我是501的小何。对门502的阿姨最近在楼道里堆了很多纸箱和一个旧沙发，挡住了半边楼梯，我推婴儿车下楼得侧着过，晚上楼道灯暗，也怕有人绊倒。平时见面会点头，但没怎么说过话。",
+   "reply": "阿姨您好，我是对门501的小何，平时见面点点头，一直没好好打个招呼。楼道里的纸箱和旧沙发挡了半边楼梯，我推婴儿车得侧着过，晚上灯暗，也怕有人不小心绊倒。能麻烦您这周挪一挪吗？要是需要搬下楼，我周六上午可以帮您一起搬。您那边有什么需要，也随时敲我家门。",
+   "lang": "zh",
+   "note": "先当面或留字条，别发业主群；两次没变化再找物业，并提前跟她说一声。"
   }
  ]
 }

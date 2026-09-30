@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -120,6 +120,13 @@
    "reply": "Priya, I was 50 minutes late picking Isla up yesterday and only texted at 5:30, and I'm sorry. My meeting ran over, but that's on me. You missed your gym class because of it. Could I have Maya over this Saturday, 3 October, for the afternoon, so you get a few free hours? I'll do the pickup and drop-off.",
    "lang": "en",
    "note": "You were the late one: name the minutes, own it without a 'but', acknowledge her cost and offer a dated make-good she doesn't have to organise."
+  },
+  {
+   "id": "handle-no-show-or-lateness-018",
+   "situation": "Tengo un restaurante en Sevilla. Una reserva de 10 personas a nombre de Marta Gil para el sábado 26 de septiembre a las 21:00 no vino ni avisó; guardamos la mesa hasta las 21:30 y dijimos que no a otros clientes. Las condiciones que aceptó al reservar dicen que sin cancelar con 24 horas se cobran 15 € por persona a la tarjeta de garantía, y tengo mesa para 10 libre el sábado 10 de octubre a las 21:00.",
+   "reply": "Hola, Marta. Teníamos su reserva para 10 personas el sábado 26 de septiembre a las 21:00; guardamos la mesa hasta las 21:30 y tuvimos que decir que no a otros clientes, sin recibir aviso. Según las condiciones que aceptó al reservar, se aplica el cargo de 15 € por persona, 150 € en total, a la tarjeta de garantía. Si quiere volver a intentarlo, tengo mesa para 10 el sábado 10 de octubre a las 21:00. Para las próximas reservas de grupo, las mismas condiciones seguirán aplicándose.",
+   "lang": "es",
+   "note": "El cargo se dice como un hecho, no como amenaza; comprueba antes que las condiciones aceptadas lo cubren."
   }
  ]
 }

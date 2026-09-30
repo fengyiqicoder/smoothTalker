@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -120,6 +120,13 @@
    "reply": "I need to be honest with you both: I want to step back from the stall after the Christmas market on Dec 19, and I'd rather say it now than let it drift. I'll do all the printing for the Christmas market, and before I stop I'd like to show you both the printing setup properly so you can carry on if you want to. On the £1,800, the stock and the screens, let's sit down after the market and split it in a way that feels fair to all three of us. These two years with you have been so much fun, and I'm sorry to be the one stepping away.",
    "lang": "en",
    "note": "Early notice, a full handover of the one job only you do, and the shared money settled face to face rather than in the chat."
+  },
+  {
+   "id": "leave-or-quit-gracefully-018",
+   "situation": "我在李姐家做育儿嫂两年，带她女儿朵朵，朵朵现在4岁。我妈身体不好，我要回老家照顾她，想做到11月15日。李姐一家对我很好，我也很舍不得朵朵，打算今晚她下班后当面说。",
+   "reply": "李姐，有件事想跟您当面说：我妈身体不太好，我得回老家照顾她，想做到11月15日。提前一个半月跟您说，是想让您有时间慢慢找合适的人。这段时间我照常带朵朵，新阿姨来了我带她一起做几天，把朵朵的作息、爱吃的和午睡的习惯都交代清楚。这两年您一家对我特别好，我也真舍不得朵朵。",
+   "lang": "zh",
+   "note": "家政工作也是同一个结构：当面说，日期放在前面，理由一句，交接具体到孩子的日常，最后是真心的感谢。"
   }
  ]
 }

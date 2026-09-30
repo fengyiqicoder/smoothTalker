@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -120,6 +120,13 @@
    "reply": "Hi Ms Lawson, I'm Yusuf Rahman's mum (7L). Yusuf will be fasting during Ramadan for the first time this coming February, and he's proud and a little nervous about it. He has PE on Tuesdays and Thursdays, so I wanted to ask early how the school usually supports pupils who are fasting, for example with PE and where he can go at lunchtime. At home we're doing a few practice fasts at weekends so he knows how he feels. Could you let me know, or point me to the right person? Thank you, Samira Rahman",
    "lang": "en",
    "note": "Asking months ahead, and asking about the school's usual approach rather than prescribing one, makes it an easy yes."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-018",
+   "situation": "My dad died on Sunday. My son Ben (Year 4, Mrs Patel's class) was really close to his grandad, who picked him up from school every Wednesday. The funeral is Thursday 8 October and Ben will be off that day. He's been quiet and teary at home, and we've been talking about Grandad at bedtime.",
+   "reply": "Dear Mrs Patel, I'm Ben's mum, from your Year 4 class. I wanted to let you know that Ben's grandad, my dad, died on Sunday; he was the one who picked Ben up every Wednesday, and they were very close. Ben has been quiet and teary at home, and we're talking about Grandad at bedtime, so he may have wobbly moments in class too. Could you let me know if you notice anything? He'll be off on Thursday 8 October for the funeral. Thank you, and I'm happy to talk any day after school.",
+   "lang": "en",
+   "note": "A heads-up with one small ask, not a request for special treatment; the teacher can take it from there."
   }
  ]
 }

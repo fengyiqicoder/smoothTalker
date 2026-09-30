@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -120,6 +120,13 @@
    "reply": "Dear Mr Hale,\nI'm writing to give notice that I will be leaving 3318 SE Taylor St, Apt 4, with my tenancy ending on Saturday 31 October 2026, in line with the 30 days' written notice in our month-to-month agreement. I'll pay October's rent as usual and return both keys on the 31st. Could we arrange a move-out inspection that afternoon? I'll send my forwarding address for the deposit separately. Please confirm in writing that you've received this notice.\nKind regards,\nJenna Park",
    "lang": "en",
    "note": "Keep the heating complaint in its own message: a notice that doubles as a grievance invites an argument about the grievance. Check how the agreement says notice must be served."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-018",
+   "situation": "I'm Chloe. I rent a flat at 14 Carlton Road from my friend's parents, Mr and Mrs Adeyemi, with no written lease; in 2024 we agreed by text that rent is £850 on the 1st and either side gives a month's notice. I'm moving in with my partner and want to leave on 30 November, and I want to do it properly in writing.",
+   "reply": "Dear Mr and Mrs Adeyemi,\nI'm writing to give notice that I'll be moving out of 14 Carlton Road, with my tenancy ending on Monday 30 November 2026. That's more than the month's notice we agreed by text in 2024, and I'll pay November's rent of £850 on the 1st as usual. I'm happy to fit around any viewings, and I'd like to do a walk-through and hand back the keys on the 30th at a time that suits you. Could you reply to confirm you've received this? Thank you both for renting to me.\nBest wishes,\nChloe",
+   "lang": "en",
+   "note": "With no written lease, check local rules on notice before relying on the text agreement, and keep a copy of this."
   }
  ]
 }

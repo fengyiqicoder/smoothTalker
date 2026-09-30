@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -120,6 +120,13 @@
    "reply": "刘姐，9月29日那批水蜜桃您那箱烂了一半，花了钱拿到这样的东西，换谁都生气，这是我这个团长没把好关，对不起。这批桃凡是有坏果的，今晚8点前在群里或私信发我照片，坏几个退几个的钱，明天中午前退到微信。以后每批到货我先开箱抽查再分给大家。刘姐，我现在私信您，您那箱我先来处理。我是3栋的小周，有问题随时找我。",
    "lang": "zh",
    "note": "群里公开回复先认错、给所有人同一个补救办法，再把刘姐的具体情况转到私聊；不在群里提供货商。"
+  },
+  {
+   "id": "respond-to-angry-customer-018",
+   "situation": "I'm Sam and I run a small appliance repair business. Last Friday we diagnosed the Okafor family's washing machine: the drum bearing has failed and the part is on back order until Friday 9 October. Mrs Okafor emailed furious that she has three kids and can't go another week and a half without a washer. We have a reconditioned loaner I can install tomorrow at no charge, and I can waive the $75 call-out fee.",
+   "reply": "Hi Mrs Okafor, three kids and no washing machine until 9 October is a long time to go without, and I'm sorry it's taking this long. Here's what I can do now: we have a reconditioned loaner machine, and I can bring it round and plumb it in tomorrow, Thursday 1 October, at no charge, so you're washing again while we wait. I'm also waiving the $75 call-out fee. The day the part arrives, I'll call you to book the repair. Would tomorrow morning or afternoon suit you better? Sam",
+   "lang": "en",
+   "note": "When the real fix is slow, an interim fix with a date does what an apology alone cannot."
   }
  ]
 }

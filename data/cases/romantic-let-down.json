@@ -21,7 +21,7 @@
    "situation": "Après deux rendez-vous avec un gars rencontré sur une appli, je lui ai dit que je ne voulais pas continuer. Il m'envoie des messages pour avoir une autre chance.",
    "reply": "Je t'ai bien entendu, et je ne vais pas changer d'avis. Je vais arrêter de répondre maintenant, et je te souhaite le meilleur.",
    "lang": "fr",
-   "note": "One calm closing line, then no more replies. If he turns hostile, block."
+   "note": "Une seule phrase calme pour clore, puis plus de réponse. S'il devient agressif, bloque-le, garde des captures d'écran et signale-le sur l'appli ; en cas de menace, appelle les secours."
   },
   {
    "id": "romantic-let-down-004",
@@ -39,14 +39,14 @@
   },
   {
    "id": "romantic-let-down-006",
-   "situation": "Matched with Sam on Hinge, we've been texting for five days and he just asked to meet for a drink Saturday. I've realised I'm not into it and we've never actually met.",
+   "situation": "Matched with Sam on Hinge, we've been texting for five days, mostly about his sourdough disasters, and he just asked to meet for a drink Saturday. I've realised I'm not into it and we've never actually met.",
    "reply": "Hey Sam, thanks for asking, and I've enjoyed hearing about your sourdough disasters. I'm going to pass on meeting up though, I'm not feeling the spark I'd want before a first date. Good luck with the next loaf.",
    "lang": "en",
    "note": "Before a first meeting, a short kind no beats ghosting; no reason needed beyond fit."
   },
   {
    "id": "romantic-let-down-007",
-   "situation": "Mi amiga Carla me presentó a su compañero de piso, Diego. Tuvimos una cita el sábado y hoy me ha escrito para quedar otra vez. Es majo, pero no siento nada, y nos vamos a seguir viendo en los planes del grupo.",
+   "situation": "Mi amiga Carla me presentó a su compañero de piso, Diego. El sábado hicimos una ruta de vermut por Malasaña y hoy me ha escrito para quedar otra vez. Es majo, pero no siento nada, y nos vamos a seguir viendo en los planes del grupo.",
    "reply": "Gracias por lo del sábado, Diego, me lo pasé bien y la ruta de vermut por Malasaña fue todo un acierto. Te soy sincera: no siento una conexión romántica, así que prefiero no quedar otra vez. Nos seguiremos viendo con Carla y el grupo, y por mi parte todo normal.",
    "lang": "es",
    "note": "Con amigos en común: un no claro, sin lista de motivos, y una línea para que los planes de grupo sigan siendo cómodos. No se usa a Carla de mensajera."
@@ -60,21 +60,21 @@
   },
   {
    "id": "romantic-let-down-009",
-   "situation": "Went on one date with Priya two weeks ago. When she asked about a second one I said 'maybe after my exams, things are crazy', which wasn't really true, I'm just not into it. Now she's texted that exams must be done and asked about Saturday.",
-   "reply": "Thanks for asking, and I owe you a straighter answer than the one I gave last time. I'm not feeling a romantic connection, so I don't think we should go on a second date. I should have said that two weeks ago instead of blaming exams. I really did enjoy hearing about your Hanoi trip, and I wish you well.",
+   "situation": "Went on one date with Priya two weeks ago; she told me all about her Hanoi trip. When she asked about a second one I said 'maybe after my exams, things are crazy', which wasn't really true, I'm just not into it. Now she's texted that exams must be done and asked about Saturday.",
+   "reply": "Thanks for asking, and I owe you a straighter answer than the one I gave last time. I'm not feeling a romantic connection, so I don't think we should go on a second date. I should have said that at the time instead of blaming exams. I really did enjoy hearing about your Hanoi trip, and I wish you well.",
    "lang": "en",
    "note": "When you gave a soft maybe, correct it once and cleanly; owning the dodge in one line beats inventing a new excuse."
   },
   {
    "id": "romantic-let-down-010",
-   "situation": "I work in a bookshop and a regular, Owen, asked me out at the till on Tuesday. I panicked and said I'd think about it. He comes in every Saturday, so I want to give him a clear no in person and keep things normal when he's in the shop.",
-   "reply": "Hi Owen, I owe you a straight answer to what you asked on Tuesday. Thank you, that was kind of you. I don't see us that way, so it's a no from me. You're always welcome here, and I'll keep setting the new crime novels aside for you.",
+   "situation": "Second date with Jonah on Friday and we kissed at the end of the night. Since then I've realised I'm not into him, and today he texted 'Friday was great, same time next week?'. I don't want the kiss to make my no confusing.",
+   "reply": "Hi Jonah, thanks for Friday, and for the message. I've been thinking since then, and I'm not feeling a romantic connection, so I don't think we should see each other again. I know the end of the night might have said something different, and I'd rather be clear now than let that linger. Take care of yourself.",
    "lang": "en",
-   "note": "'I'll think about it' is a maybe that makes him wait; correct it at the next chance, in person since that's where he asked, and signal the shop stays normal."
+   "note": "A kiss isn't a promise: name the mixed signal once so the no can't be misread, without explaining or reliving the evening."
   },
   {
    "id": "romantic-let-down-011",
-   "situation": "I've been seeing Leo casually for about six weeks, maybe eight dates. Last night he asked if we could be exclusive. I like him, but I don't see it becoming a relationship, and since he wants more I'd rather end it. We're meeting for coffee Saturday.",
+   "situation": "I've been seeing Leo casually for about six weeks, maybe eight dates, mostly Sunday mornings at the market. Last night he asked if we could be exclusive. I like him, but I don't see it becoming a relationship, and since he wants more I'd rather end it. We're meeting for coffee Saturday.",
    "reply": "Leo, I've been thinking about what you asked the other night, and I want to give you a straight answer. I've really enjoyed these six weeks, especially the Sunday market mornings. But I don't see this becoming a relationship for me, and since you want more, it isn't fair to keep going as we are. So I'd like to end it here. I'm sorry it's not the answer you were hoping for.",
    "lang": "en",
    "note": "When someone asks for more, 'let's keep it casual' is the ambiguous option; a clean end respects what he told you he wants."
@@ -98,11 +98,11 @@
    "situation": "在交友软件上认识一个男生，见过一次面。昨天我礼貌地跟他说没感觉、不继续了，他今天连发了好几条，说我“浪费他时间”“装什么清高”，越说越难听。",
    "reply": "我明白你不高兴。我不会再回复了，就到这里。",
    "lang": "zh",
-   "note": "对方开始骂人，最多回这一句，也可以一句不回，然后截图留存、拉黑并在软件里举报；如果他找到你的住处或单位，告诉身边的人，必要时报警。"
+   "note": "对方开始骂人，最多回这一句，也可以一句不回，然后截图留存、拉黑并在软件里举报；如果他出言威胁或找到你的住处、单位，告诉身边的人并报警，情况紧急直接打110。"
   },
   {
    "id": "romantic-let-down-015",
-   "situation": "Went on a first date with Tom on Saturday. It was fine but there was no spark. He's already texted that he bought two tickets for a gig on October 17 and wants to take me.",
+   "situation": "Went on a first date with Tom on Saturday: tacos, and he told me about his bike trip. It was fine but there was no spark. He's already texted that he bought two tickets for a gig on October 17 and wants to take me.",
    "reply": "Thanks for Saturday, Tom, I enjoyed the tacos and hearing about your bike trip. I'm not feeling a romantic connection, though, so I'll pass on the gig on the 17th. Better to say it now so you've got plenty of time to take someone else. Wishing you well.",
    "lang": "en",
    "note": "Tickets he bought don't create an obligation; answering quickly is the considerate part, and there's no need to offer to pay."
@@ -117,7 +117,7 @@
   {
    "id": "romantic-let-down-017",
    "situation": "Sou personal trainer no Porto. Um aluno, o Rui, que treina comigo às terças e quintas há três meses, convidou-me ontem para jantar no fim do treino. Não tenho interesse, tenho como regra não sair com alunos e quero continuar a treiná-lo, por isso vou responder por mensagem.",
-   "reply": "Olá Rui, obrigada pelo convite de ontem, fico contente por gostares dos treinos. A resposta é não: não sinto uma ligação romântica, e também não saio com alunos. Da minha parte fica tudo igual, vemo-nos na terça como sempre.",
+   "reply": "Olá Rui, obrigada pelo convite de ontem. A resposta é não: não sinto uma ligação romântica, e também não saio com alunos. Da minha parte fica tudo igual, vemo-nos na terça como sempre.",
    "lang": "pt",
    "note": "A regra profissional é uma razão sobre ti, não sobre ele; voltar logo ao treino mostra que nada muda."
   }

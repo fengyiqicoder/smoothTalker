@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -120,6 +120,13 @@
    "reply": "Dear Mrs. Hughes, It's been about fifteen years, which is far too long. I made your scones last week and could practically hear you telling me not to overwork the dough, so I wanted to write. My big news is that I had a baby girl, Ellie, in August. How are you keeping, and are you still baking? No rush at all to write back, and Mum can pass on my number if a phone call is easier. With love, Hannah",
    "lang": "en",
    "note": "A paper letter to an older person can carry a little more warmth, but the shape is the same: one memory, one question, no pressure."
+  },
+  {
+   "id": "reconnect-after-silence-018",
+   "situation": "I texted my old friend Priya after three years; we drifted when I moved to Leeds, no fight, and I mentioned I still think about our Thursday choir nights. She replied: 'Oh, so now you remember I exist?' I think she's half joking but a bit hurt.",
+   "reply": "Ha, fair, I earned that one. I moved to Leeds and got really bad at keeping in touch, and I'm sorry I let it slide. I've missed you, that's genuinely all this is. Are you still singing on Thursdays?",
+   "lang": "en",
+   "note": "A prickly first reply is still a reply: own the gap in one line, don't grovel or defend it, and hand her an easy question."
   }
  ]
 }

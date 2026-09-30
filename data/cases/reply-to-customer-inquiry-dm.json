@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -120,6 +120,13 @@
    "reply": "Hi Chloe! Balayage on shoulder-length hair is $180. With box dye you'll most likely need a colour-removal step first, which is $60, so plan on about $240 in total. I can confirm the exact price at a free 15-minute consult; want me to find you a time this week?",
    "lang": "en",
    "note": "When the price depends on the hair, still give the number: the base, the likely extra, the likely total, then the step that pins it down."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-018",
+   "situation": "I sell restored vintage road bikes on Instagram, sold in person in Portland for cash or bank transfer on collection. Someone DMed about a 1984 steel road bike listed at $420: 'I'll pay $500 if you hold it, I'll mail a cheque and my mover will collect'. I hold bikes only with a $50 deposit by bank transfer.",
+   "reply": "Hi! It's still available at $420. I only sell in person here in Portland, paid by cash or bank transfer at collection, so I can't take a cheque or anything over the price. I can hold it for you with a $50 deposit by bank transfer. When would you like to come and see it?",
+   "lang": "en",
+   "note": "Overpayment plus a posted cheque plus a third-party collector is a common scam pattern: stick to your terms and never send money back."
   }
  ]
 }

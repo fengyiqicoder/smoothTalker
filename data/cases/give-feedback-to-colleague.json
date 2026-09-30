@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -120,6 +120,13 @@
    "reply": "Luis, can I raise something about work? The last two Halvorsen reports, due Sept 10 and Sept 24, both came in late, and they flagged the second one. I know these months since your dad died have been really hard, and I'm not expecting you to act as if they haven't been. What's your read on it, and what would help? Going forward I need the dates to hold, or to hear from you the day before if one's at risk, so I can move work around rather than find out from the client.",
    "lang": "en",
    "note": "Name the loss once and plainly, then still make the ask; vague kindness leaves him guessing where he stands."
+  },
+  {
+   "id": "give-feedback-to-colleague-018",
+   "situation": "我是设计组组长。组里资深设计师雯雯能力很强，上周一晚上她没跟新人小杜打招呼，就把他做的首页方案整个重做了，周二客户评审直接讲了她的版本，小杜是在会上才知道的，事后跟我说挺受打击。明天和雯雯一对一，不想打击她的积极性。",
+   "reply": "雯雯，想跟你聊聊上周二评审的事，可以吗？上周一晚上你把小杜的首页方案整个重做了，周二评审直接讲了你的版本，他是在会上才知道的。我猜你是想让客户看到最好的方案，但结果是小杜这几天挺受打击，也没机会知道自己的方案差在哪儿。你当时是怎么考虑的？以后觉得谁的方案有问题，评审前一天先跟他和我说，让他自己改，或者你们俩一起讲。10月16日周五我们再看看效果。",
+   "lang": "zh",
+   "note": "能力强的人越界时，问题不在她的水平，而在做法：说清具体那一次和对新人的影响，先听她的理由，再给一个能发挥她能力的做法。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -120,6 +120,13 @@
    "reply": "各位主人好，我是小林。明年2月1日到2月20日春节期间，寄养价格从每晚80元调整为120元，2月21日起恢复80元。原因很简单：春节期间照看毛孩子的阿姨工资是平时的三倍。照顾方式完全不变。10月31日前在群里或私信我预订春节的，都按原价80元算。有任何问题直接私信我，谢谢大家一直放心把毛孩子交给我们。小林",
    "lang": "zh",
    "note": "临时的节日加价要写清起止日期和恢复原价的日子，大家才不会以为是永久涨价。"
+  },
+  {
+   "id": "price-increase-and-customer-announcements-018",
+   "situation": "I'm Anna and I run a small neighbourhood bakery with about 60 weekly bread subscribers who pay week by week. We're closing for a kitchen renovation from Monday Oct 19 and reopening Monday Nov 9; subscriptions will pause and nobody is charged for those weeks. Same bakers and recipes when we reopen.",
+   "reply": "Hi Tom,\nThe bakery will be closed for three weeks, from Monday 19 October, and reopens on Monday 9 November while we renovate the kitchen. Your subscription pauses automatically for those weeks and you won't be charged for them. When we reopen it's the same bakers and the same recipes, and your first loaf back will be ready on Monday 9 November. If you'd rather cancel instead, just reply and I'll sort it the same day. Thank you for your patience.\nAnna",
+   "lang": "en",
+   "note": "A temporary closure is an announcement like any other: dates first, one line of reason, what happens to their money, and an easy exit."
   }
  ]
 }

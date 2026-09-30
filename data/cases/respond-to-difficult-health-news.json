@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -120,6 +120,13 @@
    "reply": "小雅，谢谢你愿意告诉我。听到这个消息我很难过，也很心疼你。13号和14号下午我去幼儿园接朵朵，带她吃完晚饭再送回家，你只管安心手术。放学时间和老师电话等你方便的时候再发我，不着急，现在不用回我。",
    "lang": "zh",
    "note": "重病和丧事一样：不劝、不解释、不问病情细节，给一个具体的帮忙，并免除她回复的负担。"
+  },
+  {
+   "id": "respond-to-difficult-health-news-018",
+   "situation": "Graham, 72, was my late dad's best friend and like an uncle to me. He emailed that his cancer has spread, he's stopped treatment and is having palliative care at home, and he'd welcome visitors 'while I'm still decent company'. I still have the photos of him and Dad on their Lake District trips.",
+   "reply": "Graham, thank you for telling me, and for telling me so plainly. I'm so sorry. I'd love to come and see you. Could I come on Saturday 10 October in the afternoon, and bring the photos of you and Dad in the Lake District? If that day's no good or you're tired, just say, and one line back is plenty.",
+   "lang": "en",
+   "note": "When someone says they're dying and wants company, take them at their word: no questions about how long, a specific visit, and let him set the pace."
   }
  ]
 }

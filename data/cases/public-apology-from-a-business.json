@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -120,6 +120,13 @@
    "reply": "Subject: Your veg box is not cancelled\nHi everyone,\nAt 7 this morning we sent all 2,300 of you an email saying your subscription had been cancelled. It wasn't: that was a test message that went to the real list by mistake, and nothing about your box, delivery day or payment has changed. Sorry for the fright, that one's on me. Test emails can now only go to a staff-only list, so it can't happen this way again. If anything looks wrong on your account, reply here and I'll check it personally.\nOwen, owner",
    "lang": "en",
    "note": "A false alarm: the reassurance goes in the subject line and first lines, and the apology stays as small as the mistake."
+  },
+  {
+   "id": "public-apology-from-a-business-018",
+   "situation": "I own Juniper Café. On Sunday one of our staff told a mum who was breastfeeding to cover up or leave, and she posted about it in the local community Facebook group, where it has 200 comments. I've apologised to her privately, spoken with the staff member, and briefed the whole team that breastfeeding is welcome anywhere in the café. People can email me at nina@example.com. I'm Nina.",
+   "reply": "On Sunday, a mum feeding her baby at Juniper Café was told by one of our team to cover up or leave. That should never have happened here, and I'm sorry, to her and to every parent reading this who now wonders if they're welcome. I've apologised to her directly and spoken with the staff member. The whole team has been briefed: breastfeeding is welcome anywhere in the café. If anything like this happens to you here, please email me at nina@example.com and I'll deal with it myself. Nina, owner",
+   "lang": "en",
+   "note": "Owned as the café, with no staff name and no name for the mum, whose choice it is to speak up in the thread."
   }
  ]
 }

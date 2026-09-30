@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -120,6 +120,13 @@
    "reply": "Thanks for passing this on, Nadia, and for giving me the slot. You're right about the time: I ran 15 minutes over, and next time I'll rehearse to 25 minutes so there's room for questions. On the level, the listing said 'beginner friendly' and I pitched it there, so I suspect some people came expecting something deeper. For a future talk, would you rather we label the level more clearly, or should I offer an intermediate follow-up for the people who wanted more?",
    "lang": "en",
    "note": "Own the overrun without a but; the level complaint is a mismatch with the listing, so say it once and turn it into a question."
+  },
+  {
+   "id": "respond-to-criticism-018",
+   "situation": "My friend Jordan DM'd me that my Instagram story joking 'I'm so ADHD today lol' after losing my keys was hurtful, because she was diagnosed last year and people already don't take it seriously. I didn't mean anything by it, but I get it. The story is still up for a few more hours.",
+   "reply": "Thank you for telling me, Jordan, instead of just letting it sit. You're right: I turned something you live with into a throwaway joke about losing my keys, and I can see how that feeds people not taking it seriously. I've deleted the story. I'll think before I use it like that again, and if I slip, please call me on it.",
+   "lang": "en",
+   "note": "Fair criticism about something public: agree without 'I didn't mean it', delete the post before you send this, and ask to be told next time."
   }
  ]
 }

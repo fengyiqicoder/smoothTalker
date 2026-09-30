@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -120,6 +120,13 @@
    "reply": "各位家长好，知道这阵子大家都忙，国庆前再提一下护导接龙。10月9日起每周五下午3:30到4:00，在校门口站半小时就行。方便的直接在接龙里填名字和想排的日期；这学期排不开的，私信我一句“不行”也很有帮助。我10月7日前要把排班表交给班主任，谢谢大家！",
    "lang": "zh",
    "note": "群里跟进不点名、不数谁没接，给“不行”留个出口，比催促更能让人动。"
+  },
+  {
+   "id": "follow-up-unanswered-018",
+   "situation": "Last Thursday I asked my brother Kieran on WhatsApp whether he can drive Dad to his eye appointment on Wednesday Oct 14 at 2pm, because I'm working that day. He read it and hasn't replied. If I don't know by Friday, I'll book Dad a taxi instead.",
+   "reply": "Hey Kieran, I know work's full on right now. Can you take Dad to his eye appointment on Wednesday 14 October at 2pm? A yes or no is all I need. If I haven't heard by Friday, I'll book him a taxi, no hard feelings either way.",
+   "lang": "en",
+   "note": "Between siblings, skip the guilt about who does more: one line, a yes or no, and the fallback said out loud so silence still gets Dad there."
   }
  ]
 }

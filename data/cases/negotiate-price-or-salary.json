@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -120,6 +120,13 @@
    "reply": "Hi Tom, I've really enjoyed these three years doing your books, and I'd like to keep doing them for a long time. Since the second location opened in March, there are about a third more transactions each month, and my rate for new clients is now $550. From 1 January I'd like to move your retainer from $400 to $500 a month. Does that work for you? If it helps with planning, I'll hold it at $500 for the whole of 2027.",
    "lang": "en",
    "note": "Raising a long-standing client: a number below your new-client rate, one reason tied to the work, and a price lock as the second lever."
+  },
+  {
+   "id": "negotiate-price-or-salary-018",
+   "situation": "我们是做员工餐盒的小工厂，给一家科技公司食堂供货两年，每份18元，每周五含一份加餐水果，两年没出过一次送餐延误。续约时采购张经理要求降到16元，说别家报16.5元。我们成本15.2元，最低能接受17元。",
+   "reply": "张经理，这两年合作得很愉快，我们很想继续给贵司食堂供餐。16元我们做不到，能做到的是17.5元，前提是续签一年。两年里我们没有一次送餐延误，这份稳定我们会继续保证。如果价格还需要再往下靠，可以把每周五的加餐水果去掉，这样能做到17元。您看哪种更合适？",
+   "lang": "zh",
+   "note": "卖方被压价：报一个略高于底线的具体数，理由讲对方得到的价值，再用去掉某项服务来换价格，而不是白白降价。"
   }
  ]
 }

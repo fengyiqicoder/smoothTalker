@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 17,
+ "count": 18,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -120,6 +120,13 @@
    "reply": "The birria was the standout for me, and the whole menu tasted like something people would queue for. The one thing I keep coming back to is the question from the other night: how many tacos a day you'd need to sell to cover costs. Before the $20,000 goes in, could you work that number out, maybe even test it with a few weekend pop-ups while you're still at the warehouse? I'm asking because I want this to work, not because I doubt the food.",
    "lang": "en",
    "note": "Specific praise for the food, then the missing break-even number as a question, because it is the one thing that protects his savings."
+  },
+  {
+   "id": "give-feedback-kindly-018",
+   "situation": "表妹小雨10月10日周六要去纹身，把设计稿发给我问真实意见：手腕内侧一只小猫，尾巴绕成一个圈，下面是奶奶的名字“秀兰”。猫画得很可爱，但名字的字又细又小，我自己脚踝上那行小字三年后就有点糊了。",
+   "reply": "小雨，稿子我仔细看了，小猫太可爱了，尾巴绕成一个圈那里特别有你的感觉。我唯一有点担心的是奶奶的名字：字这么细这么小，我脚踝上那行小字三年后就有点糊了。要不要跟纹身师商量一下，把“秀兰”放大一点、笔画加粗？离10号还有时间改，我是想让它十年后看着也跟现在一样好看。",
+   "lang": "zh",
+   "note": "纹身还没做，正是能改的时候：只提一个会随时间变坏的问题，用自己的经历来说，不评价她选的图案。"
   }
  ]
 }
