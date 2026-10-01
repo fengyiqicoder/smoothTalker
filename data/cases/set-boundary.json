@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -169,6 +169,13 @@
    "reply": "Liam, I love that you still come to me when you need something, and I want to keep helping. From now on I'll lend you the car on Sundays, as long as you ask by Friday, and I'll need it back with a full tank. On weekdays I need it for work, so then the answer will be no. Love you.",
    "lang": "en",
    "note": "If he asks on a Tuesday, repeat it shorter: Sundays, ask by Friday. No new reasons."
+  },
+  {
+   "id": "set-boundary-025",
+   "situation": "At our Sunday family dinners my dad keeps making jokes about my wife Ana's Brazilian accent, imitating how she says certain words. Ana laughs it off at the table but has told me privately it hurts. I've decided that if it happens again, we'll leave early, and I want to tell him by text before this Sunday.",
+   "reply": "Dad, I love our Sunday dinners and I want them to keep happening. I'm not okay with the jokes about Ana's accent, so from now on, if one comes up, Ana and I will head home early. Everything else, we're glad to be there. See you Sunday.",
+   "lang": "en",
+   "note": "Say it calmly before the dinner, not during it. If a joke comes, leave quietly as promised; don't debate whether it was 'just a joke'."
   }
  ]
 }

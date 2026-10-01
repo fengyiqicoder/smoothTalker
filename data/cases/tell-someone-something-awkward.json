@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -169,6 +169,13 @@
    "reply": "敏敏，练得挺好的！有个小细节：你身后晾衣架上的内衣在镜头里能看到，明天面试前收一下或者换个角度就好。在家视频谁都遇到过，明天加油！",
    "lang": "zh",
    "note": "明天就要用的镜头，今晚私下一句话说清楚，再给一个马上能做的办法，说完就回到面试本身。"
+  },
+  {
+   "id": "tell-someone-something-awkward-025",
+   "situation": "My desk neighbour Priya started wearing a strong new perfume this week. I get migraines that strong scents can set off, and I've had two at my desk since Monday. We get on well and she clearly has no idea; I want to mention it privately, once.",
+   "reply": "Priya, can I mention something small, just between us? I get migraines that strong scents can set off, and the new perfume has triggered a couple at my desk this week. It smells lovely, it's just my head. Would you mind going lighter on it on office days? That's all, I won't bring it up again.",
+   "lang": "en",
+   "note": "Make it about your migraines, not her taste; say it once, privately, and drop it."
   }
  ]
 }

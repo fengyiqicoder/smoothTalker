@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -169,6 +169,13 @@
    "reply": "Thanks for your email. I'm away from Monday 12 October until Monday 26 October and not reading email. If you need food urgently, please call the food bank on 0113 496 0880, Tuesdays and Fridays, 10am to 2pm. Volunteers swapping a shift, please email Sam Okoye at sam.okoye@example.com. Everything else, I'll reply when I'm back. Ruth",
    "lang": "en",
    "note": "When some senders need help rather than an answer, their route goes first, with the hours it is actually staffed."
+  },
+  {
+   "id": "out-of-office-and-away-messages-025",
+   "situation": "I'm Marta, support lead at a 12-person software company. Our whole support team is at an offsite from Wednesday Oct 14 to Friday Oct 16, and we'll start reading the shared support inbox again on Monday Oct 19, oldest messages first. Rui Costa is on call for outages only, on 0161 496 0990, and I need the auto-reply for the shared inbox.",
+   "reply": "Thanks for your email. Our support team is away from Wednesday 14 October to Friday 16 October, and we'll start reading this inbox again on Monday 19 October, oldest messages first. If the service is down and it's stopping your work, call Rui Costa, who is on call, on 0161 496 0990. Everything else will get a reply from us next week. Marta, Support Lead",
+   "lang": "en",
+   "note": "A team inbox follows the same shape as a personal one: dates, what happens to the message, and one named route for the only thing that can't wait."
   }
  ]
 }

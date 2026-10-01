@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -169,6 +169,13 @@
    "reply": "你的消息我看到了。我很难过，但我尊重你的决定，不会再争取。你的吉他和衣服我收好了，这周六下午我都在家，你可以过来拿；不想见面的话，我放在小区门卫那里也行。你选一个告诉我。",
    "lang": "zh",
    "note": "被分手的一方也适用“清楚就是善意”：一句感受，一句接受，剩下只谈东西怎么还，不追问原因。"
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-025",
+   "situation": "My ex Owen and I broke up in September after three years. He's asked me to come to his grandmother's 90th birthday party on October 17 and keep pretending we're together, because he hasn't told his family yet. I won't lie or go, and I'm fine with him telling them in his own time.",
+   "reply": "Hi Owen, I can see this is a hard time to tell your family, and I'm not going to come on the 17th or pretend we're still together. It's your news to share however and whenever you want, and I won't say anything to them before you do. I hope your grandmother has a lovely birthday.",
+   "lang": "en",
+   "note": "A request to keep up a pretence gets the same clear no as a request to get back together; offer the one thing you can honestly give, your discretion."
   }
  ]
 }

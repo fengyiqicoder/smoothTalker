@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -169,6 +169,13 @@
    "reply": "Lovely, Biscuit's booked for his vaccinations on Tuesday 6 October at 4pm. One thing from his notes: in April the vet suggested a dental check within six months because of some tartar. We can add it to Tuesday's visit for $35 and about 15 extra minutes, or it's $60 as a separate appointment later. Totally fine to keep it to the vaccinations, just let me know if you'd like it added.",
    "lang": "en",
    "note": "The reason comes from the vet's own note, not the receptionist's pitch; state the price and time, then let a no be a no."
+  },
+  {
+   "id": "upsell-without-pushiness-025",
+   "situation": "I run a small invoicing software business. Kestrel Dental has paid for our Pro plan ($149 a month) for eight months, but only three people have ever logged in and they've never switched on the payroll module, which is the main Pro feature. Our Standard plan is $69 a month for up to five users, their renewal is on 20 October, and their office manager is Leon.",
+   "reply": "Hi Leon, a quick note before Kestrel Dental's renewal on 20 October. Looking at your account, three people use it and the payroll module hasn't been switched on in eight months, so you're paying for Pro features you don't use. Our Standard plan covers up to five users and everything you use today, at $69 a month instead of $149, which saves you $960 a year. The one thing you'd give up is payroll, so if you're planning to bring that in soon, staying on Pro makes sense. Just reply if you'd like me to switch you before the renewal; if not, nothing changes.",
+   "lang": "en",
+   "note": "An unprompted downsell to a paying customer is the trust that makes your next suggestion believable; don't pair it with a new pitch."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -175,6 +175,13 @@
    "reply": "Hi Grace, I owe you an update first: neither Fenmore nor Tallis came through, and I should have told you sooner. Thank you for doing both. I'm now in the final round for an operations manager role at Brookline Health, and they'd like to call references between Monday 12 and Friday 16 October. I know this would be the third time this year, so please say no if it's one too many; I have someone else I can ask. If you're up for it, the things they care most about are the 2024 warehouse consolidation and the 15% cut in overtime. Thanks, Leah",
    "lang": "en",
    "note": "A repeat ask starts by closing the old loops, then makes the no easier than usual because the favour has added up."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-026",
+   "situation": "We're adopting a retired greyhound from a rescue, Second Chance Greyhounds, and they need a vet reference by Friday 9 October; it's a five-question email form. Dr. Amara Singh at Elmfield Vets looked after our last dog, Pepper, for all 11 years until he died in March, including managing his arthritis, and he never missed a check-up or vaccination.",
+   "reply": "Dear Dr. Singh, I hope you're well. We're adopting a retired greyhound from Second Chance Greyhounds, and they've asked for a vet reference by Friday 9 October. It's a short five-question email form. Since you looked after Pepper for all 11 years, you'd be our first choice. If it helps, the things they care most about are that Pepper never missed a check-up or vaccination, and how we managed his arthritis with you. Would you be willing to fill it in? If the timing doesn't work, no problem at all.",
+   "lang": "en",
+   "note": "A reference doesn't have to come from work: ask the professional who saw exactly what's being checked, with the deadline in the first message."
   }
  ]
 }

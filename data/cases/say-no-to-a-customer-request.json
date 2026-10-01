@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -169,6 +169,13 @@
    "reply": "Hi Joanne, how lovely, a wedding! I can't do a 6pm start on Friday: a full colour takes about two and a half hours, and we close at 7 because Bea leaves to collect her kids. What I can do is open early just for you on Saturday at 8am, so you're done by about 10:30, well before the 3pm ceremony, or fit you in at 9am on Friday. Which would you like?",
    "lang": "en",
    "note": "Offer the alternative before she asks; the reason is a real person's evening, not 'our opening hours'."
+  },
+  {
+   "id": "say-no-to-a-customer-request-025",
+   "situation": "I run a 40-cover bistro. Laura has booked a table for 14 on Saturday 10 October and asked if we can do 14 separate bills. On Saturday nights we don't split bills for tables over 8, because splitting 14 ways ties up our only till for about 20 minutes while other tables wait; we can split one bill evenly on the card machine, or do our group menu at £38 a head.",
+   "reply": "Hi Laura, thanks for booking with us for the 10th, we're looking forward to having all 14 of you. We can't do 14 separate bills on a Saturday night: splitting that many ways ties up our only till for about 20 minutes while other tables wait to pay. What we can do is split one bill evenly on the card machine, or set you up with our group menu at £38 a head, so everyone knows their share before they arrive. Which would suit your group better?",
+   "lang": "en",
+   "note": "The reason is the other diners waiting, not 'policy'; both alternatives solve her real problem, everyone paying a fair share."
   }
  ]
 }

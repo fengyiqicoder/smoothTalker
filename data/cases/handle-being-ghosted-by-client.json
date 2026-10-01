@@ -4,28 +4,28 @@
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
-   "situation": "I'm a freelance photographer. Sent restaurant owner Luis a $2,200 quote for a new menu shoot on Sept 12. He loved it on the call, then nothing, even after one bump.",
-   "reply": "Hi Luis, since I sent the menu shoot quote, I finished a similar shoot for Bodega Norte, and orders for the photographed dishes went up about 20% in the first month. Is a new menu shoot still on your list for this autumn? A quick yes, no or not yet is all I need.",
+   "situation": "I'm a freelance photographer and restaurant owner Luis books me for a menu shoot every season. On Sept 12 I emailed him my new rate, $2,500 a shoot instead of $2,200, and asked about the winter menu shoot; he usually replies within a day but has said nothing. I have dates free in the first two weeks of November.",
+   "reply": "Hi Luis, bumping my September 12 email in case it got buried. Are you planning a winter menu shoot this year? I have dates free in the first two weeks of November, and the new rate is $2,500 a shoot. A quick yes, no or not this time is all I need.",
    "lang": "en",
-   "note": "Touch two adds something new and shrinks the reply to one word."
+   "note": "Silence after a rate rise: restate the new rate once, plainly, without apologising for it or discounting in advance, and give an easy no."
   },
   {
    "id": "handle-being-ghosted-by-client-002",
-   "situation": "我做室内设计，9月19号把效果图发给客户赵先生，十天了一直没回，施工队那边还在等排期。",
-   "reply": "赵先生您好，9月19号发给您的效果图还没收到回复，想确认一下进度。如果您需要多点时间考虑完全没问题，告诉我一声，我好安排施工队的档期。如果想先暂停，也直接说就行。",
+   "situation": "我做餐饮品牌设计，在给火锅店老板赵先生做新菜单，合同已签。9月19号我把排版初稿发过去，说还差菜品照片和最新价格表，十天了他一直没回。菜单要赶10月20号新店开业印出来，我最晚10月9号要拿到资料。",
+   "reply": "赵先生您好，菜单排版初稿已经做好了，现在就差两样东西：菜品照片和最新的价格表。照片用手机拍的就可以，先发一部分也行，我先排进去。要赶10月20号开业印出来，我这边最晚10月9号周五要拿到。如果开业时间有变，告诉我一声，我按新的时间调整。",
    "lang": "zh",
-   "note": "项目中途客户沉默，给他一个说“暂停”的台阶，比追问效果图看没看更容易得到回复。"
+   "note": "项目卡在客户的资料上时，把要的东西列清楚、降低门槛（手机拍的也行、先发一部分），再给一个倒推出来的日期。"
   },
   {
    "id": "handle-being-ghosted-by-client-003",
-   "situation": "Mandei uma proposta de site para uma clínica veterinária há um mês e meio. Já mandei dois follow-ups e nada. Quero encerrar com elegância.",
-   "reply": "Oi, Dra. Paula, vou considerar que o momento não é o ideal e encerrar a proposta por aqui, para não lotar sua caixa de entrada. Se o site voltar à pauta, vou gostar muito de ajudar, é só responder este e-mail. Boa sorte com a nova unidade da clínica!",
+   "situation": "Mandei em agosto uma proposta de site para a clínica veterinária da Dra. Paula e fiz dois follow-ups, sem resposta. Hoje vi que a clínica lançou um site novo, feito por outra agência. Quero encerrar bem, sem ressentimento.",
+   "reply": "Oi, Dra. Paula, vi o site novo da clínica no ar, parabéns pelo lançamento! Vou encerrar a minha proposta por aqui. Se um dia precisarem de ajuda com o site ou com outro projeto, é só responder este e-mail. Boa sorte com a nova fase!",
    "lang": "pt",
-   "note": "The clean close often gets the reply the follow-ups didn't. If she comes back later, re-scope from today's rates."
+   "note": "Quando o silêncio era um não, feche sem cobrar explicação nem mostrar mágoa; uma despedida simpática mantém a porta aberta."
   },
   {
    "id": "handle-being-ghosted-by-client-004",
-   "situation": "Freelance web developer. A dental practice manager, Karen, went silent on my $6,500 quote back in April and I sent a clean close in May. She just emailed asking if we can start next Monday at the April price.",
+   "situation": "Freelance web developer. A dental practice manager, Karen, went silent on my $6,500 quote back in April and I sent a clean close in May. She just emailed asking if we can start next Monday at the April price. The same scope is now $7,200 at my current rates, and my earliest start is Monday 19 October.",
    "reply": "Hi Karen, good to hear from you, and I'd be glad to pick this up. My schedule and rates have moved since April, so the quote needs a refresh: the same scope is now $7,200, and the earliest I can start is Monday 19 October. I'll send the updated proposal by Thursday so you have it in writing. Does that timing work on your side?",
    "lang": "en",
    "note": "Resurfacing after the close: no reproach for the silence, and re-scope from today's rates and calendar rather than honouring a stale quote."
@@ -40,13 +40,13 @@
   {
    "id": "handle-being-ghosted-by-client-006",
    "situation": "I'm a freelance developer. Hannah, who runs a boutique hotel, went quiet on my $8,000 booking system proposal for three weeks. Today she replied: 'Sorry for the silence, we've decided to hold off this year.'",
-   "reply": "Thanks for letting me know, Hannah, I appreciate the clear answer. If it's useful, one line on what tipped it, timing or budget, would help me. Either way, good luck with the winter season, and if the booking system comes back up for 2027, I'd be glad to help.",
+   "reply": "Thanks for letting me know, Hannah, I appreciate the clear answer. If it's useful, one line on what tipped it, timing or budget, would help me. Either way, good luck with the hotel, and if the booking system comes back up for 2027, I'd be glad to help.",
    "lang": "en",
    "note": "A no after silence is the second-best outcome: thank her, ask one light question, and don't counter with a discount you never offered, which teaches clients that silence gets a better price."
   },
   {
    "id": "handle-being-ghosted-by-client-007",
-   "situation": "我是婚礼跟拍摄影师。一对新人9月初口头定了11月21号，报价6800，说好月底前付2000定金，之后微信一直没回，我追过一次也没回。现在另一对新人也想约同一天。",
+   "situation": "我是婚礼跟拍摄影师。一对新人陈先生和小雅9月初口头定了11月21号，报价6800，说好月底前付2000定金，之后微信一直没回，我追过一次也没回。现在另一对新人也想约同一天。",
    "reply": "陈先生、小雅，你们好！11月21号那天我一直帮你们留着。现在有另一对新人也想约这一天，所以想跟你们确认一下：如果还定我，麻烦10月2号周五前付一下2000元定金，我就正式锁定档期；如果计划有变或者选了别的摄影师，也完全没关系，回我一句就行，我好把档期放出去。祝筹备顺利！",
    "lang": "zh",
    "note": "需要对方在某个日期前做决定时，说清为什么（档期要放出去），给一个具体截止日，并把说“不”变得很容易。"
@@ -54,20 +54,20 @@
   {
    "id": "handle-being-ghosted-by-client-008",
    "situation": "I'm a freelance bookkeeper. My client Omar, who runs two food trucks, went quiet for three weeks on the receipts I need to catch up his July and August books. Today he texted: 'So sorry, crazy month, still want to get this done, what do you need?'",
-   "reply": "No apology needed, Omar, I know how busy the season gets. To catch up July and August I need two things: the fuel and supplier receipts for both trucks, and the Square payout reports for those two months. Phone photos are fine. If I have them by Monday 5 October, your books will be up to date by Friday 9 October.",
+   "reply": "No apology needed, Omar, I know how busy the season gets. To catch up July and August I need two things: the fuel and supplier receipts for both trucks, and the card sales reports for those two months. Phone photos are fine. If I have them by Monday 5 October, your books will be up to date by Friday 9 October.",
    "lang": "en",
    "note": "When they come back: skip the reproach, answer 'what do you need' with a short list and a date, and make picking up easy."
   },
   {
    "id": "handle-being-ghosted-by-client-009",
-   "situation": "I run brand workshops. A bakery owner, Priya, signed and paid a $1,500 deposit on Sept 1 for a half-day workshop. I sent kickoff date options on Sept 8 and nudged once on Sept 15. Nothing since.",
-   "reply": "Hi Priya, I'd love to get your brand workshop on the calendar before the holiday rush. To keep it simple, here are two options: Tuesday 13 October or Thursday 22 October, both 9am to 1pm at your Main Street shop. Just reply 13 or 22. If this needs to wait until the new year, that's fine too, your deposit stays credited to the workshop, just let me know so I can plan.",
+   "situation": "I run brand workshops. A bakery owner, Priya, signed and paid a $1,500 deposit on Sept 1 for a half-day workshop. I sent kickoff date options on Sept 8 and nudged once on Sept 15. Nothing since. I have Tuesday 13 and Thursday 22 October free for a 9am to 1pm session at her Main Street shop, and our agreement says the deposit carries over if we reschedule.",
+   "reply": "Hi Priya, I'd love to get your brand workshop on the calendar before the holiday rush. To keep it simple, here are two options: Tuesday 13 October or Thursday 22 October, both 9am to 1pm at your Main Street shop. Just reply 13 or 22. If this needs to wait until the new year, that's fine too; as our agreement says, your deposit carries over. Just let me know so I can plan.",
    "lang": "en",
    "note": "A client who has already paid and gone quiet usually just has too much on: shrink the reply to one word and offer the pause openly."
   },
   {
    "id": "handle-being-ghosted-by-client-010",
-   "situation": "Ich bin freiberufliche Übersetzerin. Am 15. September habe ich Frau Krüger, Marketingleiterin bei einem Möbelhersteller, ein Angebot über 3.400 € für die englische Version ihres Herbstkatalogs geschickt. Im Telefonat war sie begeistert, seitdem kam nichts. Ich habe noch nicht nachgehakt.",
+   "situation": "Ich bin Anna Weber, freiberufliche Übersetzerin. Am 15. September habe ich Frau Krüger, Marketingleiterin bei einem Möbelhersteller, ein Angebot über 3.400 € für die englische Version ihres Herbstkatalogs geschickt. Im Telefonat war sie begeistert, seitdem kam nichts. Ich habe noch nicht nachgehakt.",
    "reply": "Guten Tag Frau Krüger,\nich hole mein Angebot vom 15. September für die englische Fassung Ihres Herbstkatalogs noch einmal nach oben, falls es untergegangen ist. Umfang und Zeitplan passe ich gern an. Wäre ein kurzes Telefonat von 15 Minuten hilfreich, oder klären wir offene Fragen lieber per E-Mail?\nViele Grüße\nAnna Weber",
    "lang": "de",
    "note": "Erste Nachfrage: davon ausgehen, dass die Mail untergegangen ist, kein Vorwurf, und die Antwort so klein wie möglich machen."
@@ -81,22 +81,22 @@
   },
   {
    "id": "handle-being-ghosted-by-client-012",
-   "situation": "I run a commercial cleaning company. I sent Dana, facilities manager for a dental group with four clinics, a $3,800/month proposal on Sept 1, then followed up twice by email. Nothing. I have her direct line and want to leave one voicemail as my last touch.",
+   "situation": "I'm Marco Ruiz and I run Clearline Cleaning, a commercial cleaning company; my number is 555 0148. I sent Dana, facilities manager for a dental group with four clinics, a $3,800/month proposal on Sept 1, then followed up twice by email. Nothing. I have her direct line and want to leave one voicemail as my last touch.",
    "reply": "Hi Dana, it's Marco Ruiz from Clearline Cleaning, on 555 0148. I'm calling about the cleaning proposal for your four clinics that I sent on September 1. I don't want to keep filling your inbox, so this is my last follow-up. If it's still on your list, a quick call back or a one-line email is all I need; if the timing's wrong, no need to call, and I'll close it on my side. Again, Marco, 555 0148. Thanks.",
    "lang": "en",
    "note": "Switching to voicemail for the close: name and number at both ends, one line on what it's about, and offer the no so she doesn't have to call to say it."
   },
   {
    "id": "handle-being-ghosted-by-client-013",
-   "situation": "I'm a freelance illustrator. I sent Megan, marketing lead at Pine & Pillar Coffee, a $2,800 quote for packaging art on Sept 3 and bumped it once. No reply, and today LinkedIn says she left the company last month. Her replacement is Jordan Reyes, who has never heard of me.",
+   "situation": "I'm Lena Park, a freelance illustrator. I sent Megan, marketing lead at Pine & Pillar Coffee, a $2,800 quote for artwork on their seasonal bag range on Sept 3 and bumped it once. No reply, and today LinkedIn says she left the company last month. Her replacement is Jordan Reyes, who has never heard of me.",
    "reply": "Hi Jordan, congratulations on the new role at Pine & Pillar. I'm Lena Park, an illustrator; before she left, Megan and I were discussing new artwork for your seasonal bag range, and I've attached the $2,800 quote I sent her on 3 September so you have the context. I know you've inherited a lot, so no pressure: is packaging art still on the plan for this season? A quick yes, no or not yet is all I need.",
    "lang": "en",
    "note": "When your contact has left, the silence wasn't about you: start fresh with the new person, give the context in one line, and keep the reply to one word."
   },
   {
    "id": "handle-being-ghosted-by-client-014",
-   "situation": "我给一家瑜伽馆做小红书代运营，包月3,000元，9月的钱已经付了。但从8月底开始，老板娘Coco就没再回过我发的内容排期，连着5周没审，我也不敢擅自发。",
-   "reply": "Coco你好，知道开学季馆里肯定特别忙。10月的内容排期我已经做好了，想跟你确认接下来怎么安排：1是你不用逐条审，我按排期直接发，有问题随时叫停；2是先暂停，等你忙完再接上。回我“1”或“2”就行。10月9号周五前没收到回复的话，我先暂停发布，等你消息。",
+   "situation": "我给一家瑜伽馆做小红书代运营，包月3,000元，9月的钱已经付了。但从8月底开始，老板娘Coco就没再回过我发的内容排期，连着5周没审。10月的排期我已经做好了，但不敢擅自发。",
+   "reply": "Coco你好，10月的内容排期我已经做好了，想跟你确认接下来怎么安排：1是你不用逐条审，我按排期直接发，有问题随时叫停；2是先暂停，等你忙完再接上。回我“1”或“2”就行。10月9号周五前没收到回复的话，我先暂停发布，等你消息。",
    "lang": "zh",
    "note": "包月客户长期沉默：把回复缩成一个数字，并说清楚没回复时你会怎么做；暂停期间费用怎么算，以合同为准，另外单独说。"
   },
@@ -144,17 +144,17 @@
   },
   {
    "id": "handle-being-ghosted-by-client-021",
-   "situation": "大阪でフリーランスのWebデザイナーをしています。8月20日に和菓子店「松風堂」の鈴木さんへホームページ制作の見積もり（45万円）を送り、9月3日と9月17日にフォローしましたが返事がありません。断りにくいのだと思うので、角を立てずに区切りをつけたいです。",
+   "situation": "大阪でフリーランスのWebデザイナーをしている山田彩です。8月20日に和菓子店「松風堂」の鈴木さんへホームページ制作の見積もり（45万円）を送り、9月3日と9月17日にフォローしましたが返事がありません。断りにくいのだと思うので、角を立てずに区切りをつけたいです。",
    "reply": "鈴木様\nいつもお世話になっております。8月20日にお送りしたホームページ制作のお見積もりの件、今はタイミングではないのだと受け止め、こちらではいったん区切りとさせていただきます。ご検討いただき、ありがとうございました。またホームページのお話が出てきた際は、このメールにご返信いただければすぐに対応いたします。松風堂様のますますのご繁盛をお祈りしております。\n山田 彩",
    "lang": "ja",
    "note": "はっきり断りにくい相手には、こちらから区切る一通が一番親切。返事がなくても、それ以上は追わない。"
   },
   {
    "id": "handle-being-ghosted-by-client-022",
-   "situation": "I'm a piano teacher. Mrs. Adeyemi's son Tobi had weekly lessons with me until the summer break; I sent her autumn term slots on Sept 2 and followed up on Sept 16, no reply. Term has started, I have a family on my waiting list, and I need to know by Wednesday Oct 7 whether to release Tobi's Thursday 4:30pm slot.",
-   "reply": "Hi Mrs. Adeyemi, I hope Tobi's had a good start to the school year. I've been holding his Thursday 4:30pm slot for the autumn term, and I'd like to offer it to a family on my waiting list if he isn't continuing. Could you let me know by Wednesday 7 October whether he's carrying on? A quick yes or no is all I need, and a pause is completely fine too.",
+   "situation": "I'm a piano teacher. On Sept 17 I told Mrs. Adeyemi that her son Tobi isn't ready for his Grade 3 exam in November and suggested waiting until March. Tobi still comes on Thursdays, but she hasn't replied, and I need to know by Wednesday Oct 7 whether to enter him for March.",
+   "reply": "Hi Mrs. Adeyemi, I know my message on September 17 about moving Tobi's Grade 3 exam to March probably wasn't what you hoped to hear. If you see it differently, I'd really like to hear why, and I'm happy to talk it through for ten minutes after one of his Thursday lessons. Either way, could you let me know by Wednesday 7 October whether you'd like me to enter him for March? A quick yes, no or let's talk is all I need.",
    "lang": "en",
-   "note": "A private client who drifts off over the summer: a real reason, a date, and an easy no."
+   "note": "Silence after news they didn't want: name it lightly, invite disagreement instead of defending yourself, and still ask for the one decision you need."
   },
   {
    "id": "handle-being-ghosted-by-client-023",

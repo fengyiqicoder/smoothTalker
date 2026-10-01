@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -176,6 +176,13 @@
    "reply": "刘哥，想请你负责新供应商华晟的验厂。这块你比组里谁都有经验，交给你最合适。要的结果是10月23日（周五）前出一份报告：能不能进合格供应商名单，有哪些整改项。具体怎么查你来定，需要跟采购那边协调的话告诉我，我去沟通。你手上现在的活排得开吗？",
    "lang": "zh",
    "note": "交给比自己资深的人，只说要什么结果和截止日，不列步骤，最后真心问一句他排不排得开。"
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-026",
+   "situation": "My dad has just been taken to hospital after a fall and I'm leaving work now. At 2pm I'm meant to run a 90-minute onboarding workshop for our new client Harrow Foods; my teammate Sam co-wrote the slides with me and has run the same workshop for two other clients. Our manager Priti is on leave today.",
+   "reply": "Sam, family emergency: my dad's been taken to hospital after a fall and I'm leaving now. Could you run the 2pm Harrow Foods onboarding workshop? It's the deck we wrote together, and you've run it twice already, so you'd be great. If you can, I'll email Harrow's contact to say you're leading it. If you can't, tell me in the next 20 minutes and I'll ask them to move it to next week, no problem at all. I'll leave Priti a note so she knows when she's back.",
+   "lang": "en",
+   "note": "Even in an emergency, delegating is an ask: the outcome, why them, and a real out with a fallback, in as few lines as possible."
   }
  ]
 }

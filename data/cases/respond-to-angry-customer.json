@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -169,6 +169,13 @@
    "reply": "Dear Mrs Nowak,\nOn Tuesday morning one of our baristas repeated your order back in a mocking imitation of your accent, in front of a queue, and people laughed. That was humiliating, it should never happen in my café, and I'm sorry. I've spoken to him directly, and this week I'm telling the whole team that mocking anyone's accent has no place here. If you'd ever like to come back, your coffee is on us for the next month. I'm Joe, the owner, and you can reach me directly on 0161 496 0712.\nJoe",
    "lang": "en",
    "note": "When the complaint is about how a staff member treated her, own it as the business, don't defend or name him, and keep any discipline out of the reply."
+  },
+  {
+   "id": "respond-to-angry-customer-025",
+   "situation": "我是装修公司的项目经理老林。业主赵先生家的卫生间8月完工，9月10日漏水我们返修过一次，昨天楼下邻居又说漏了，赵先生在微信上发火：“你们到底能不能修好？”我打算明天上午10点派公司最好的防水师傅上门，整个卫生间防水重做，费用我们出，楼下邻居的损失也由我们赔。",
+   "reply": "赵先生，卫生间8月完工，9月10日返修过一次，现在楼下又漏了，您又要跟邻居打交道，换谁都火大。返修了还没修好，是我们的问题，对不起。明天（10月2日，周五）上午10点，公司最好的防水师傅上门，整个卫生间防水重做，费用我们出；楼下邻居的损失也由我们来赔。我是项目经理老林，这件事我跟到完工为止，有事直接打我电话。",
+   "lang": "zh",
+   "note": "第二次出问题时，客户气的是“修不好”：别重复上次的道歉，直接给更彻底的方案和时间。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -176,6 +176,13 @@
    "reply": "Ruth, a heads-up on the housing survey report: I underestimated the 1,800 open-text responses. I can send the numbers and charts by Friday 9 October as planned, and the themes from the comments by Tuesday 13 October, which still leaves a day before the briefing on the 14th. Would that work, or would you rather I trim the comment analysis and send everything on Friday?",
    "lang": "en",
    "note": "When the delay is your own misjudgment, say so in one line, ask a week early, and offer the split or the cut."
+  },
+  {
+   "id": "ask-for-extension-026",
+   "situation": "We're buying a flat and the contract sets completion for Friday 16 October. Yesterday our lender told us final mortgage approval won't come through until Friday 23 October because the valuation was delayed. I want to email the seller's agent, Mark Ellis, today to ask for completion on Monday 26 October; our solicitor is already checking what the contract allows.",
+   "reply": "Hi Mark, I wanted to tell you as soon as we knew: our lender says final mortgage approval won't come through until Friday 23 October, because the valuation was delayed. Could you ask the sellers whether completion could move from Friday 16 October to Monday 26 October? Our solicitor is checking what the contract allows and will be in touch with theirs. If the sellers have a move of their own tied to the 16th, please let us know, so we can understand what's at stake on their side.",
+   "lang": "en",
+   "note": "With a contract date, ask the day you know, let the solicitors handle the terms, and don't agree to anything before yours has checked the contract."
   }
  ]
 }

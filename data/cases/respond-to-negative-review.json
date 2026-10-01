@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -169,6 +169,13 @@
    "reply": "Thank you for the feedback, Mark, and I'm sorry. After ten sessions you should have known exactly where things stood, and we never sent you a progress update, which is on us. No tutor can promise a particular grade, and our sign-up page says so, but no parent should be surprised. From this term every family gets a short written progress note after every fourth session. I'd like to talk through what would help from here; please email me at grace@example.com. Grace Lin",
    "lang": "en",
    "note": "Never mention the child's results in public; own the missing updates, state the no-guarantee fact once, and take the rest offline."
+  },
+  {
+   "id": "respond-to-negative-review-025",
+   "situation": "I'm Ellie and I make soy candles; my shop is called Wick & Wild. 'Dana K.' left a 2-star review on our shop page saying her candle tunnelled after one use, and added 'I'll change it to 5 stars if you refund me.' Our care card says to burn it for 2 to 3 hours the first time, and since this month we print that on every lid too; I'm happy to send her a replacement privately.",
+   "reply": "Thank you, Dana, for letting us know how the candle burned. A soy candle that tunnels after one use is disappointing. For anyone reading: a first burn of 2 to 3 hours lets the wax melt evenly to the edge. That's on our care card, but it's easy to miss, so we now print it on every lid too. I've sent you a direct message to put this right. Ellie, Wick & Wild",
+   "lang": "en",
+   "note": "Never trade a refund for a rating change, in public or private: fix the problem on its merits and ignore the offer."
   }
  ]
 }

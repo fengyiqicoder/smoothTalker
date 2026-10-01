@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -176,6 +176,13 @@
    "reply": "Hi Sam, I saw the Team Manager role opening when Paula moves on Monday 16 November, and I'd like to be considered for it. I've been Paula's deputy for 18 months and ran the team of 9 on my own during her six weeks away this summer, including the July close. Could we find 30 minutes next week to talk about the role and what you're looking for? I'll apply through the posting too, so I'm in the same process as everyone else.",
    "lang": "en",
    "note": "An internal opening: book the conversation, lead with scope you've already carried, and don't ask to skip the process."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-026",
+   "situation": "我们公司去年被现在的集团收购，我是原公司的区域销售经理，月薪1.6万。集团原有的区域销售经理同岗位月薪大约1.9万，HR说过“会逐步统一”，但一直没给时间。今年我负责的华北区回款率从88%提到了96%，还在天津新签了两个客户。下周二约了上级钱总谈，想从明年1月起调到1.9万。",
+   "reply": "钱总，谢谢您抽时间。并入集团这一年我做得很投入，也想在这边长期发展。今年华北区的回款率从88%提到了96%，天津还新签了两个客户。集团里同岗位的区域销售经理月薪大约是1.9万，我现在是1.6万，HR之前也说过会逐步统一。我希望从明年1月起调到1.9万。如果1月做不到，能不能把统一的时间和条件定下来，我们写下来各留一份？",
+   "lang": "zh",
+   "note": "并购后的薪资差距按岗位讲，不点名比较；“会统一”要追问到具体日期，谈完当天发微信把结论确认一遍。"
   }
  ]
 }

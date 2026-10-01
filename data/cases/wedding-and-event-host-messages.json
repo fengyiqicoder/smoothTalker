@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -169,6 +169,13 @@
    "reply": "Thanks for asking, Priya, I know Bruno goes everywhere with you. The venue doesn't allow dogs for any guests, so it's the same for everyone and he'll need to sit this one out. I can't wait to see you on the 24th, and I'll expect a full report on Bruno's evening.",
    "lang": "en",
    "note": "The limit comes from the venue and applies to every guest; if she pushes, repeat it once, shorter, without new reasons."
+  },
+  {
+   "id": "wedding-and-event-host-messages-025",
+   "situation": "J'organise la soirée de fin d'année de notre agence, vendredi 11 décembre à 19 h, pour les 45 salariés. Le budget est calculé par personne, donc on a décidé que ce serait entre salariés, sans conjoints. Mon collègue Karim me demande s'il peut venir avec sa femme, Nadia.",
+   "reply": "Merci d'avoir demandé, Karim, ça m'aurait fait plaisir de rencontrer Nadia. Le budget de la soirée est calculé par personne, alors on a choisi de la garder entre salariés, et c'est la même règle pour tout le monde. J'ai vraiment hâte de fêter la fin d'année avec toi le vendredi 11 décembre !",
+   "lang": "fr",
+   "note": "Au travail aussi, la limite vaut pour tous et se dit une fois ; à la prochaine relance, l'écrire dans l'invitation pour que personne d'autre n'ait à demander."
   }
  ]
 }

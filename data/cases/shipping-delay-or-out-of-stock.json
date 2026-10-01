@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -169,6 +169,13 @@
    "reply": "Hello Mr Patel, it's Ruth from the nursery, about your order 0412, the three apple trees. They won't make Saturday 3 October: our grower has moved the bare-root trees to Saturday 17 October, and we'd deliver yours that day. If you'd rather not wait, I can bring three potted apple trees this Saturday at no extra cost, or refund your £135 in full. If I don't hear from you, I'll keep your order for the 17th. My number is 01632 960472, again, 01632 960472. I'll ring you on Monday either way.",
    "lang": "en",
    "note": "On a voicemail, lead with who you are and which order, keep the options short, and say the number twice."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-025",
+   "situation": "我是做海鲜批发的老周。望江楼的王师傅订了30公斤冰鲜三文鱼（单号A0927），10月3日（周六）早上送到，做婚宴用。进口航班取消，周六只能到18公斤，剩下12公斤要10月5日（周一）才到。三文鱼一公斤150元，我有现货冰鲜鲈鱼可以补，一公斤60元。",
+   "reply": "王师傅，您单号A0927的30公斤三文鱼出了问题，先跟您说一声：进口航班取消了，周六（10月3日）早上只能送到18公斤，剩下12公斤要10月5日（周一）才到，赶不上婚宴。周六早上的18公斤照常送。差的12公斤您看：一是换成现货冰鲜鲈鱼12公斤，周六一起送到，720元，差价1080元退给您；二是这12公斤不要了，1800元当天退给您。麻烦您明天（10月2日）中午12点前定一下，到时候没收到消息，我先按鲈鱼备货，再打电话跟您确认。老周",
+   "lang": "zh",
+   "note": "B2B客户最关心的是自己的出菜计划：先给能确定到的量，再给救急的替代、退款和明确的决定时间。"
   }
  ]
 }

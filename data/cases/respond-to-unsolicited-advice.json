@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -169,6 +169,13 @@
    "reply": "Abuela, sé que me lo dices porque me quieres y me vas a echar de menos, y yo a ti también. Ya está decidido: el 15 de noviembre me voy a Berlín. Lo que sí me ayudaría es que me enseñes a hacer tu cocido antes de irme, para llevarme un poco de casa. ¿Te va bien el domingo que viene?",
    "lang": "es",
    "note": "Con una abuela basta con nombrar la postura con cariño; si vuelve a salir, repite la misma frase en vez de dar más razones."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-025",
+   "situation": "I've been going to the same hairdresser, Tasha, for four years. At every appointment she tells me I'd suit a short bob, and last time she said I'm 'hiding behind all that hair'. I'm keeping it long, and I'm texting her now to book a trim for Saturday 10 October.",
+   "reply": "Hi Tasha, could I book a trim for Saturday 10 October? I know you'd love to get me into a bob, but I'm keeping it long, it's very much me, so just a tidy-up on the ends. Looking forward to catching up!",
+   "lang": "en",
+   "note": "With a service provider you like, name the decision once in the booking so it isn't debated in the chair; if the bob comes up again, repeat the same line."
   }
  ]
 }

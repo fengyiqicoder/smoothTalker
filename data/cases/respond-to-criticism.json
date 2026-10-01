@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -169,6 +169,13 @@
    "reply": "Rhiannon, thank you for telling me straight. You're right about the story about Owen's ex: it had no place at your wedding, least of all with your parents sitting there, and I'm sorry. I see the rest of the speech a bit differently, since I meant it to be about you and Owen, but I'd like to understand what made it feel otherwise. Could I take you both for lunch next weekend and say this properly?",
    "lang": "en",
    "note": "Own the specific thing fully, disagree once in a clause, and ask rather than argue; she's family for life."
+  },
+  {
+   "id": "respond-to-criticism-025",
+   "situation": "I'm a postdoc writing our response to reviewers. Reviewer 2 called our sample of 24 participants 'woefully inadequate' and said the conclusions 'overreach'. The overreach point is fair: our discussion claims the findings generalise to older adults, but we only tested 18 to 30 year olds. The sample size was set by our preregistered power analysis for a large effect, which the Methods section doesn't currently mention.",
+   "reply": "We thank the reviewer for this careful reading. The reviewer is right that our discussion overreached: we tested only adults aged 18 to 30, so we have removed the claim that the findings generalise to older adults and added this as a limitation. On sample size, we see this differently: 24 participants was the number set by our preregistered power analysis for a large effect, and we now state this explicitly in the Methods. If the reviewer has a specific effect size in mind that they think the study should be powered for, we would welcome that guidance.",
+   "lang": "en",
+   "note": "In a response to reviewers, leave the tone alone: concede the fair point with the change made, disagree once with evidence, and end on a question."
   }
  ]
 }

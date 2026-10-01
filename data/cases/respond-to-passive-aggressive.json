@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -169,6 +169,13 @@
    "reply": "It was a really lovely evening, thank you! It was just a tiny dinner at home for six, mostly family, so no invites went out beyond that. I'd love to celebrate with you too, though: fancy a birthday drink before book club on Thursday the 8th?",
    "lang": "en",
    "note": "Take it at face value with the honest reason in one line; no long defence of the guest list, and a real invite so the dig has nowhere to go."
+  },
+  {
+   "id": "respond-to-passive-aggressive-025",
+   "situation": "房东王姐今天微信说：“这个月房租又晚了两天哈，没关系，反正我的房贷是我自己会还的。”这个月和上个月确实都晚了两天，因为公司发工资改到了每月5号，我也没提前跟她说。这个月的房租今天上午已经转过去了，我想把交租日改成每月6号，再设成自动转账。",
+   "reply": "王姐，这两个月房租都晚了两天，是我没提前跟您说，不好意思，这个月的今天上午已经转给您了。我们公司发工资改到了每月5号，以后交租日能不能改成每月6号？您同意的话，我就设成每月6号自动转账，不会再晚。",
+   "lang": "zh",
+   "note": "话里带刺，但不满有道理：不接“房贷”那句，认下迟交，给一个具体的解决办法，等她明确同意再改。"
   }
  ]
 }

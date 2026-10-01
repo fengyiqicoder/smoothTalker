@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -169,6 +169,13 @@
    "reply": "想跟你们说件事，打字说比较容易：我被诊断为中度抑郁，从10月12日开始请三个月病假，在按医生的方案吃药和做心理咨询。我还好，就是很累。不用想怎么安慰我，也不用劝我想开点，你们偶尔约我出去走走，我就很感激了。这周末谁有空，一起去公园散散步？",
    "lang": "zh",
    "note": "直接说清想要的是陪伴而不是建议；如果情况变糟或出现伤害自己的念头，马上联系医生或当地心理援助热线，有危险时直接打急救电话。"
+  },
+  {
+   "id": "share-personal-news-025",
+   "situation": "I'm 34 and have just been fitted with hearing aids after a test showed moderate hearing loss in both ears. I want to tell my team of seven in our Slack channel before Monday's stand-up, and ask them to face me when they talk and keep cameras on in calls so I can lip-read. I'm relieved, and I don't want it to be a big thing.",
+   "reply": "Quick bit of news before Monday's stand-up: I've just been fitted with hearing aids, after a test showed moderate hearing loss in both ears. Honestly, it's a relief to hear properly again. Two things that help me a lot: facing me when you talk, and cameras on in calls so I can lip-read. No need to make a thing of it, and if I ask you to repeat something, that's just me catching up.",
+   "lang": "en",
+   "note": "The news in the first line, one line of feeling, then turn 'how to respond' into two concrete habits people can actually do."
   }
  ]
 }

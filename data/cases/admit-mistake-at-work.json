@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -176,6 +176,13 @@
    "reply": "Victor, I approved release notes this morning that named Halden Bank as a customer example, which their contract doesn't allow. The page was live from 6:30 to 9:40, when I took it down. I'm checking with legal by 2pm today whether we need to tell Halden, and I'll draft that note if so. From this week, any customer name in public copy gets checked against the approved reference list before it goes out. The sign-off was mine, so this one is on me.",
    "lang": "en",
    "note": "When your team's work goes wrong, the approver owns it upward; don't name the person who drafted it."
+  },
+  {
+   "id": "admit-mistake-at-work-026",
+   "situation": "I'm an in-house recruiter. This morning I sent our standard rejection email to Maya Torres, who is actually our top candidate for the senior designer role; the hiring manager, Felix, wants to talk to her about next steps this week. I picked the wrong name from the candidate list, and I've already told Felix. I'm calling Maya now and need the email to send if she doesn't pick up.",
+   "reply": "Hi Maya, I tried to call because you deserve to hear this directly: the rejection email I sent you this morning was my mistake. I picked the wrong name from our candidate list, and it was not meant for you. You are still very much in the process for the senior designer role, and Felix would like to talk to you about next steps this week. I'm sorry for the shock that email must have given you. From today, every rejection gets a second check against the shortlist before it goes out. Could we speak today or tomorrow, at whatever time suits you?",
+   "lang": "en",
+   "note": "To an external candidate: correct it the same morning, call first, and don't promise an offer before it's formally approved."
   }
  ]
 }

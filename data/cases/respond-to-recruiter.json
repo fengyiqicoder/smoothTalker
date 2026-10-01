@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -169,6 +169,13 @@
    "reply": "Thanks for thinking of me, Ellie! This one's a no from me: I'm happy where I am and not looking right now. If that changes, you'll be the first recruiter I call, and I'm glad to pass the role on to anyone I know who'd fit. See you at dinner on Friday 9 October, I want to hear how the new job is going.",
    "lang": "en",
    "note": "With a friend who recruits, answer the role like any recruiter's in the first two lines, then keep the friendship separate from it."
+  },
+  {
+   "id": "respond-to-recruiter-025",
+   "situation": "A recruiter, Daniel, messaged me on LinkedIn about a senior engineer role. I told him I'm not looking, and he replied asking if I could give him the names of strong engineers on my current team. I'm not comfortable doing that, but I'd consider engineering manager roles from next spring.",
+   "reply": "Thanks, Daniel. I'd rather not pass on names from my current team; anyone who wants to move can find you here. I'd be glad to hear from you about engineering manager roles from next spring.",
+   "lang": "en",
+   "note": "You don't owe a reason for declining to source your colleagues; one line, then the door you do want open."
   }
  ]
 }
