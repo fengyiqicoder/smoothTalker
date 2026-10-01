@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -169,6 +169,13 @@
    "reply": "Hey Lena, ich wollte kurz was ansprechen: Du nimmst mich seit September jeden Morgen mit, das sind rund 40 Kilometer am Tag, und ich bin dir echt dankbar dafür. Ich möchte mich am Benzin beteiligen, mit 60 Euro im Monat, ab Oktober immer am Monatsanfang per Überweisung. Das ist keine Bezahlung für einen Gefallen, so fühle ich mich beim Mitfahren einfach wohler. Wenn dir eine andere Summe fairer vorkommt, sag Bescheid.",
    "lang": "de",
    "note": "Wer mitfährt, schlägt selbst eine feste Zahl und einen Rhythmus vor; so wird aus einem Gefallen keine stille Schuld."
+  },
+  {
+   "id": "money-between-friends-025",
+   "situation": "My friend Sam just paid me back for his share of the concert tickets, which was $50, but he sent $500 on Venmo by mistake. I want to send the extra $450 back and give him a heads-up.",
+   "reply": "Hey Sam, I think a zero snuck in: your share of the concert tickets was $50 and you sent $500. I've just sent the extra $450 back to you on Venmo, so check it's landed. All square on the tickets now, thanks!",
+   "lang": "en",
+   "note": "Money that isn't yours goes back fast, with the exact numbers and no joke at their expense."
   }
  ]
 }

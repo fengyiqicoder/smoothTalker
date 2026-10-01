@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -169,6 +169,13 @@
    "reply": "Hi love, I know October gets busy with lectures. No need for a proper reply, just a thumbs-up so I know you're okay. Tell me about the flat whenever you've got time. Love, Dad",
    "lang": "en",
    "note": "From a parent, drop the original question and ask for the smallest reply; if silence goes on and you're worried for her safety, call her or someone near her rather than texting again."
+  },
+  {
+   "id": "follow-up-unanswered-025",
+   "situation": "My friend Callum borrowed my tent for a festival in August. I texted him on 24 September asking if I could have it back; he read it and hasn't replied. I need it for a camping trip leaving Friday 16 October, and I can pick it up from his place Monday or Wednesday evening next week.",
+   "reply": "Hey Callum, I know things get busy. Quick one on the tent: I need it for a camping trip leaving Friday 16 October. I can swing by yours to grab it, would Monday or Wednesday evening suit?",
+   "lang": "en",
+   "note": "Second nudge about your own item: the date you need it, the pickup made easy, and no guilt about the silence."
   }
  ]
 }

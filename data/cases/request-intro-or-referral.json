@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -169,6 +169,13 @@
    "reply": "Carmen, ¿te puedo pedir un favor? ¿Me presentarías a tu tío Andrés por lo del estudio de Lavapiés que queda libre el 1 de noviembre? Si te resulta incómodo meterte en temas de alquiler con la familia, dímelo sin problema, lo entiendo perfectamente.\nSi te parece bien, aquí tienes un mensaje para reenviarle:\n«Andrés, te presento a mi amiga Inés. Se muda a Madrid en noviembre por trabajo, tiene contrato indefinido y puede enseñarte sus últimas nóminas. Busca un estudio de hasta 850 € al mes y le encantaría ver el tuyo. ¿Te paso su número?»\nTe cuento cómo va, salga o no. ¡Gracias!\nInés",
    "lang": "es",
    "note": "Presentación a un casero conocido: el texto reenviable lleva lo que a él le importa (solvencia y fechas), y la salida protege la relación familiar de Carmen."
+  },
+  {
+   "id": "request-intro-or-referral-025",
+   "situation": "我叫陈悦，做企业沟通培训。去年给一家集团下面的物流子公司做了两期新经理培训，HR经理李姐很满意，课后评分平均4.8分（满分5分）。听说集团零售子公司的HR总监赵总今年在找新经理培训，我想请李姐帮我引荐，跟赵总约30分钟电话。",
+   "reply": "李姐，想请您帮个忙：听说零售子公司的赵总今年在找新经理培训，方便帮我引荐一下吗？我想约赵总30分钟电话，先听听他们的需求。您要是觉得不方便开口，直接跟我说就好，完全没关系。\n\n方便的话，这段可以直接转给赵总：“赵总，介绍一下陈悦，她去年给我们物流公司做了两期新经理培训，课后评分平均4.8分（满分5分）。听说您那边在找类似的培训，她想约您30分钟电话聊聊需求。”\n\n不管后面谈得怎么样，我都会跟您说一声。",
+   "lang": "zh",
+   "note": "请满意的客户在集团内部引荐：给一段能直接转发的话，并说清楚只要30分钟电话。"
   }
  ]
 }

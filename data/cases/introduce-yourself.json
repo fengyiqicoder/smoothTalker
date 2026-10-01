@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -169,6 +169,13 @@
    "reply": "Hi all, I'm Sofia, and I've just moved to Denver to work as a civil engineer doing bridge inspections, so if you've ever wondered whether a bridge is okay, I'm your person. I don't know anyone in the city yet, and I've just started bouldering. If there's an alumni meet-up coming up, or anyone fancies a beginner-friendly climbing session, I'd love to join.",
    "lang": "en",
    "note": "With weak ties, one easy invitation gets replies; save asks for jobs or flat leads for later, one to one."
+  },
+  {
+   "id": "introduce-yourself-025",
+   "situation": "Me llamo Marta y el lunes 5 de octubre empiezo como cuidadora de don Ernesto, de 84 años, de lunes a viernes de 9 a 14. Su hija Pilar me ha añadido al grupo de WhatsApp de la familia, con sus cinco hijos y algunos nietos, para que me presente. Llevo ocho años cuidando a personas mayores, tengo el curso de primeros auxilios y me encanta cocinar.",
+   "reply": "Hola a todos, soy Marta, y a partir del lunes 5 de octubre acompañaré a don Ernesto de lunes a viernes, de 9 a 14. Llevo ocho años cuidando a personas mayores y tengo el curso de primeros auxilios. Me encanta cocinar, así que si a don Ernesto le apetece algún plato en especial, aquí estoy. Me ayudaría mucho que me contarais qué le gusta, qué le preocupa y cómo le gusta organizar el día; podéis escribirme por aquí cuando queráis. Gracias, Pilar, por añadirme.",
+   "lang": "es",
+   "note": "Con la familia de la persona a la que cuidas, la invitación es pedir lo que ellos saben de él: genera más confianza que el currículum."
   }
  ]
 }

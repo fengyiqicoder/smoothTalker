@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -169,6 +169,13 @@
    "reply": "各位邻居好，我是代收点的老周。通知一件事：从11月1日起，包裹到站超过3天还没取的，每件每天收1元，最多收5元。原因是架子快放不下了，滞留的包裹一多，大家找件也慢。3天内取件还是免费，到站当天照常发取件短信。出差或者不方便取的，提前在群里或私信跟我说一声，可以免费多放几天。谢谢大家一直以来的照顾。老周",
    "lang": "zh",
    "note": "新收费第一句写清日期、金额和上限，再给出不花钱的办法，理由一句就够。"
+  },
+  {
+   "id": "price-increase-and-customer-announcements-025",
+   "situation": "I'm Ellie and I own a small climbing gym. About 70 founding members have paid $45 a month since we opened in 2021, while everyone else pays $65. Because rent and insurance have gone up, from Monday Jan 4 their rate goes to $55, still $10 under standard, and anyone can freeze their membership for free. I'm emailing them.",
+   "reply": "Hi there,\nFrom Monday 4 January, your founding membership goes from $45 to $55 a month. Rent and insurance have both gone up since we opened in 2021, and this is the first change to your rate. It stays $10 under our standard $65, because you were here from the start. If you need a break, you can freeze your membership for free, just reply to this email.\nThanks for climbing with us since day one,\nEllie",
+   "lang": "en",
+   "note": "Ending a grandfathered rate: say what they keep (still under standard) as plainly as what changes, and give three months' notice."
   }
  ]
 }

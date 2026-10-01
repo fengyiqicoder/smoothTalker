@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -169,6 +169,13 @@
    "reply": "王经理，谢谢您今天花时间跟我做绩效面谈，两个问题您说得很直接，对我很有帮助。我把说好的整理一下：\n- 周报：每周五下午5点前交。\n- 客户邮件：收到后24小时内回复。\n- 11月13日（周五）再面谈一次，看进展。\n哪里记得不对，您直接告诉我。\n林悦",
    "lang": "zh",
    "note": "被指出问题后的纪要不解释原因，只把改进的承诺和复盘时间写清楚。"
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-025",
+   "situation": "I'm Ravi, engineering manager at a small startup, and I interviewed a candidate, Lucy, for a backend role today; she asked sharp questions about our on-call rota. The next step is a paid take-home task, $300 for about four hours of work, which I'll send by Monday 5 October with a week to complete it, then a final call with our CTO, Mei. I want to email her so she isn't left guessing.",
+   "reply": "Hi Lucy,\nThanks for the conversation today, and for your questions about our on-call rota; they're exactly the ones we'd want an engineer here to ask. Next step: I'll send you a paid take-home task by Monday 5 October. It should take about four hours, pays $300, and you'll have a week from receiving it to complete it. After that comes a final call with our CTO, Mei. Let me know if any of that doesn't work for you.\nBest,\nRavi",
+   "lang": "en",
+   "note": "From the interviewer's side the shape is the same: one specific thing she said, then every next step with a date."
   }
  ]
 }

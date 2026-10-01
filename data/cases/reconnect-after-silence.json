@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -169,6 +169,13 @@
    "reply": "Callum, happy almost-40th! It's been about six years, which is daft. I'm typing this from that terrible orange armchair we dragged home off the street in Glasgow; it has survived every move since. How are you marking Saturday? No rush to reply, I just wanted to say happy birthday.",
    "lang": "en",
    "note": "A birthday is a ready-made reason: name the gap once, one shared memory, one easy question, and save any meet-up idea for when he replies warmly."
+  },
+  {
+   "id": "reconnect-after-silence-025",
+   "situation": "Four years ago I designed the logo and website for Marisol's bakery, Crumb & Co, when I was just starting out as a freelancer. We haven't been in touch since the project ended. I just saw on Instagram that she's opened a second shop; I'm still proud of that project, but I don't want this to read as a sales pitch.",
+   "reply": "Hi Marisol, it's been about four years since we worked on the Crumb & Co logo, and I just saw the photos of your second shop. Huge congratulations! That project was one of my first as a freelancer and I'm still proud of it. How does it feel running two? No need to reply quickly, I just wanted to say well done.",
+   "lang": "en",
+   "note": "Reconnecting with a former client works only if it asks for nothing: no 'let me know if you need a refresh'."
   }
  ]
 }

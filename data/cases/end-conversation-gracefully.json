@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -169,6 +169,13 @@
    "reply": "Nadia, this has been the best hour of my week, and I'm going to head off so you can rest. That knee needs you sleeping more than it needs me talking. I'll be back on Sunday with the crossword book. Sleep well.",
    "lang": "en",
    "note": "Leave while it's still good; if she asks again, one warm 'Sunday, I promise' and go."
+  },
+  {
+   "id": "end-conversation-gracefully-025",
+   "situation": "我是小学三年级班主任。晚上十点多，家长浩浩妈妈还在微信上跟我聊浩浩写作业磨蹭的事，已经四十分钟了。我建议她每天把作业分成三段、每段中间休息五分钟，先试一周，主要的话都说完了，我也累了想休息。",
+   "reply": "浩浩妈妈，今天聊得很细，看得出您对浩浩特别上心。就按我们说的，每天作业分三段，每段中间休息五分钟，先试一周。时间不早了，我先休息了，一周后您发条消息跟我说说效果就行。晚安！",
+   "lang": "zh",
+   "note": "老师跟家长聊天也可以自己收尾：一句总结、一个真实理由、一个明确的下次，最后不留问句。"
   }
  ]
 }

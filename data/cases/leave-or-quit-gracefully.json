@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -169,6 +169,13 @@
    "reply": "Jo, I wanted you to hear this from me, as my manager and as my friend: I've decided to leave, and I'm giving my four weeks' notice today, so my last day will be Friday 30 October. I've accepted a role at another firm. Before I go I'll write up the client onboarding process and walk whoever takes it over through it. You took a chance on me two years ago and I'm really grateful. Work aside, I'm not going anywhere as your friend.",
    "lang": "en",
    "note": "When your manager is a friend, give the notice as a work conversation first; keep the friendship to one line and save the longer talk for outside work."
+  },
+  {
+   "id": "leave-or-quit-gracefully-025",
+   "situation": "我在一家广告公司做了四年客户经理，8月底因为焦虑和失眠请了一个月病假，现在快到期了，我决定不回去了。合同写离职要提前30天书面通知；主管刘姐对我很好，去年手把手带我拿下了第一个年度大客户。我手上的三个客户已经由同事小吴临时接手，今天下午我先给刘姐打电话，再发书面通知，不想细说病情。",
+   "reply": "刘姐，谢谢您今天下午接我的电话。按电话里说的，这是我的正式辞职通知：按合同约定提前30天书面通知，我的劳动合同到2026年10月31日结束。出于健康原因，我决定不再回岗。三个客户现在由小吴接手，我会在10月9日周五前把客户资料和进行中的事项整理成交接文档，发给您和小吴，之后有问题也可以随时找我。这四年谢谢您，尤其是去年手把手带我拿下第一个年度大客户。",
+   "lang": "zh",
+   "note": "健康原因一句就够，不必交代病情；病假期间离职的具体手续对照合同或问人事。情绪撑不住时，找医生或当地心理援助热线。"
   }
  ]
 }

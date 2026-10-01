@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -169,6 +169,13 @@
    "reply": "Ha, Papa, you're keeping us on our toes. We're keeping names to ourselves until he arrives, and you'll be one of the first to hear. Now, how did the bread come out this week? Hold it up to the camera.",
    "lang": "en",
    "note": "If he asks again, repeat the same line nearly word for word; it covers every name, so it never reads as a no to Obinna."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-025",
+   "situation": "Depuis qu'il a appris que j'ai été suivie pour une dépression l'an dernier, mon oncle Bernard me demande à chaque repas de famille si je « prends toujours mes cachets ». Je vais bien et je ne veux pas en parler devant tout le monde. Dimanche on fête les 60 ans de ma tante Sylvie, et Bernard vient de se mettre à la randonnée.",
+   "reply": "Ah, tonton, toujours attentif. Je vais bien, et ma santé, je la garde pour moi. Alors, raconte-moi tes premières randonnées, tu es allé où ?",
+   "lang": "fr",
+   "note": "Aucun détail sur le traitement : chaque détail appelle une nouvelle question. S'il insiste, reprendre la même phrase presque mot pour mot."
   }
  ]
 }

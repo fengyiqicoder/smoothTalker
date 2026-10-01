@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -169,6 +169,13 @@
    "reply": "Dear Ms Ortega,\nI'm writing to ask to end my tenancy at Apt 12, 9 Alder Court early, on Saturday 31 October 2026, rather than when the lease ends on 31 March 2027. I need to move for my safety: a former partner has come to my door three times since August, and I obtained a protective order on 22 September, which I can share if you need it. I'll pay October's rent in full and return all keys on the 31st. Please don't give my forwarding address to anyone who asks for it. Could you confirm in writing whether you agree to the 31 October end date?\nThank you,\nDana",
    "lang": "en",
    "note": "Some places let tenants end a lease early with a protective order: check with a tenant advice or domestic abuse service before sending, and if you're in immediate danger, call emergency services."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-025",
+   "situation": "I'm Ravi Shah, renting Apt 4 at 18 Larch Street. The building was sold in August, and the new owner, Westmere Holdings, wrote that rent now goes to them and their contact is Elena Ruiz at elena.ruiz@example.com. Clause 11 of my lease says 30 days' written notice to the landlord at the address in the lease, which is still the old owner Mr Doyle's, and I want to move out on 30 November.",
+   "reply": "Dear Ms Ruiz,\nI'm writing to give notice that I will be leaving 18 Larch Street, Apt 4, with my tenancy ending on Monday 30 November 2026, in line with the 30 days' written notice in clause 11 of my lease. Because the lease still names Mr Doyle's address for notices, I'm sending him a copy today as well. Could you confirm whether Westmere Holdings needs notice served anywhere else? I'll pay November's rent to Westmere as usual, return all keys on the 30th, and would like to arrange a move-out inspection that day. Please confirm in writing that you've received this notice.\nThanks,\nRavi Shah",
+   "lang": "en",
+   "note": "After a sale, serve notice to the address the lease names and to the new owner, and check in writing who now holds the deposit."
   }
  ]
 }

@@ -32,14 +32,14 @@
   },
   {
    "id": "respond-to-recruiter-005",
-   "situation": "Gestern hatte ich ein Erstgespräch mit Frau Keller, Recruiterin bei einer Unternehmensberatung, für eine Senior-Consultant-Stelle. Klang gut, aber die Rolle hat 60 Prozent Reisetätigkeit und das passt mit meinen zwei kleinen Kindern nicht. Ich will höflich absagen.",
+   "situation": "Gestern hatte ich ein Erstgespräch mit Frau Keller, Recruiterin bei einer Unternehmensberatung, für eine Senior-Consultant-Stelle. Klang gut, aber die Rolle hat 60 Prozent Reisetätigkeit und das passt mit meinen zwei kleinen Kindern nicht. Ich heiße Jana Hoffmann und will höflich absagen.",
    "reply": "Guten Tag Frau Keller, vielen Dank für das Gespräch gestern. Ich habe es mir gut überlegt und möchte die Stelle nicht weiterverfolgen: 60 Prozent Reisetätigkeit passt in meiner jetzigen Lebensphase nicht. Wenn Sie eine vergleichbare Rolle mit überwiegend regionalen Projekten haben, höre ich sehr gern wieder von Ihnen. Viele Grüße, Jana Hoffmann",
    "lang": "de",
    "note": "Absage nach dem Gespräch: die Antwort in den ersten zwei Zeilen, ein kurzer Grund, und eine konkrete Tür für passende Rollen."
   },
   {
    "id": "respond-to-recruiter-006",
-   "situation": "去年10月猎头周小姐找过我一个岗位，我当时婉拒了，说保持联系。现在公司在裁员，我想主动找她，但不想显得很急。",
+   "situation": "去年10月猎头周小姐找过我一个高级数据分析岗位，我当时婉拒了，说保持联系。现在公司在裁员，我想主动找她，想找上海电商或金融公司的数据团队负责人，年薪期望55万左右，但不想显得很急。",
    "reply": "周小姐您好，去年10月您联系过我聊高级数据分析的机会，当时时机不合适，谢谢您还记得我。我现在开始看新的机会，方向是电商或金融公司的数据团队负责人，base上海，年薪期望55万左右。如果您手上有合适的，这周四或周五下午都方便电话聊15分钟。",
    "lang": "zh",
    "note": "主动回头找猎头：直接说方向、城市和薪资，方便她匹配；裁员的事不必解释。"
@@ -53,21 +53,21 @@
   },
   {
    "id": "respond-to-recruiter-008",
-   "situation": "Recruiter Sam had me interview with Keystone Logistics for an operations manager role on Thursday Sept 17. He said I'd hear back by the end of that week. Nothing in 12 days. I also have another offer I need to answer by Tuesday Oct 6, and Keystone is my first choice.",
-   "reply": "Hi Sam, checking in on the operations manager role at Keystone Logistics. I interviewed with them on Thursday 17 September and you mentioned an update by the end of that week. Is the position still open? I have another offer to answer by Tuesday 6 October and Keystone is still my first choice, so any update before then would really help. If it's moved on, no problem, just let me know so I can plan.",
+   "situation": "Recruiter Sam wants to put me forward for an operations manager role at Keystone Logistics and asked if I'm interviewing anywhere else. I'm in final rounds with one other company and don't want to name it, and I don't know Keystone's range yet. I'm free for a call Tuesday 6 October or Wednesday 7 October in the morning.",
+   "reply": "Thanks, Sam, I'm interested in the Keystone role. Yes, I'm in final rounds with one other company; I'd rather not name it, but I'll tell you as soon as anything changes. Could you share the base range before we go further? If it lines up, I'm free for a call Tuesday 6 October or Wednesday 7 October in the morning.",
    "lang": "en",
-   "note": "The follow-up names the date of the last promise; a real competing deadline, stated plainly, is fine. Bluffing one is not."
+   "note": "Answer the other-process question honestly without naming the company; never invent an offer to create urgency, recruiters compare notes."
   },
   {
    "id": "respond-to-recruiter-009",
-   "situation": "An in-house recruiter at a health-tech company, Marcus, messaged me on LinkedIn about a senior QA lead role. I'm happy where I am, but my former colleague Tanvi is job hunting and would be great for it.",
+   "situation": "An in-house recruiter at a health-tech company, Marcus, messaged me on LinkedIn about a senior QA lead role. I'm happy where I am, but my former colleague Tanvi Rao, who led QA on our mobile apps for three years, is job hunting and would be great for it. Later on I'd consider engineering management roles.",
    "reply": "Thanks for reaching out, Marcus. This one isn't for me, I'm not looking right now. A former colleague, Tanvi Rao, led QA on our mobile apps for three years and is open to new roles; I'll check with her today and, if she's keen, introduce you both by email. Feel free to keep me in mind for engineering management roles later on.",
    "lang": "en",
    "note": "A no can still be useful to them: answer first, and offer a referral only after checking with the person you're naming."
   },
   {
    "id": "respond-to-recruiter-010",
-   "situation": "ビズリーチ経由で、エージェントの田中さんから物流系SaaS企業のプロダクトマネージャー職のスカウトが来た。興味はあるけど、自分はPM歴5年で今は3人のチームのリード。募集要項を見るとメンバークラスっぽいので、面談の前にレベル感と年収レンジを確認したい。",
+   "situation": "ビズリーチ経由で、エージェントの田中さんから物流系SaaS企業のプロダクトマネージャー職のスカウトが来た。自分は山本。興味はあるけど、自分はPM歴5年で今は3人のチームのリード。募集要項を見るとメンバークラスっぽいので、面談の前にレベル感と年収レンジを確認したい。",
    "reply": "田中様\nご連絡ありがとうございます。物流領域には関心があり、前向きに検討したいと考えています。面談の前に2点確認させてください。1点目はポジションのレベルです。現在PMとして5年、3名のチームのリードをしておりますので、リード以上のポジションを想定されているかを伺えますか。2点目は想定年収レンジです。この2点が合うようでしたら、10月6日（火）か7日（水）の19時以降にお話しできれば幸いです。\nよろしくお願いいたします。\n山本",
    "lang": "ja",
    "note": "レベルと年収レンジを面談前に聞いておけば、合わない場合にお互いの時間を使わずに済む。"
@@ -89,16 +89,16 @@
   {
    "id": "respond-to-recruiter-013",
    "situation": "An agency recruiter, Owen, called my desk phone at work this morning with my manager sitting right next to me. I said I couldn't talk and he emailed my personal address after. I'd actually like to hear more, just not on that line.",
-   "reply": "Hi Owen, thanks for reaching out, and sorry I was brief this morning. I'm open to hearing about the role, but please don't call my work number; this email or my mobile, 07700 900412, is best. Could you send the base range and location first? If those line up, I'm free for a call Thursday after 6.",
+   "reply": "Hi Owen, thanks for reaching out, and sorry I was brief this morning. I'm open to hearing about the role, but please don't call my work number; this email is the best way to reach me. Could you send the base range and location first? If those line up, I'm free for a call Thursday after 6.",
    "lang": "en",
    "note": "Move the channel in the first reply and still ask for the range before the call. A recruiter who keeps ringing your desk after this is telling you how he works."
   },
   {
    "id": "respond-to-recruiter-014",
-   "situation": "A recruiter, Kelly from 'Apex Talent', messaged me on WhatsApp about a remote data entry job at $45 an hour. Before any interview she wants a scan of my passport and my bank details 'for payroll setup'. It feels off, but it might be real.",
-   "reply": "Thanks for reaching out, Kelly. I don't share ID or bank details before an interview and a written offer. Could you send the hiring company's name, the job description, and an email from someone at the company's own domain? If that checks out I'm happy to talk, and once there's an offer I'll send documents through their HR system.",
+   "situation": "A recruiter, Kelly, says her client is about to offer me a project manager role and wants me to confirm now that I'll accept if it's $120k base. That's in my range, but I haven't seen the benefits or met the manager I'd report to. I could meet the manager Monday 5 October or Tuesday 6 October.",
+   "reply": "Thanks, Kelly, good to hear it's moving. I'm very interested, and $120k base is in my range, but I can't commit to accepting before I've seen the full written offer, including benefits, and met the manager I'd report to. Could you set up a 20-minute call with them on Monday 5 October or Tuesday 6 October? I'll give you a clear answer within two working days of getting the written offer.",
    "lang": "en",
-   "note": "Never send ID or bank details to someone you can't verify. If she pushes, or asks you to pay for anything, stop replying and report the account."
+   "note": "Say yes to the number, not to the offer: a promise to accept that you later break costs you more with the recruiter than a clear condition now."
   },
   {
    "id": "respond-to-recruiter-015",
@@ -138,7 +138,7 @@
   {
    "id": "respond-to-recruiter-020",
    "situation": "An agency recruiter, Rachel, emailed about a finance manager role at a manufacturing company that sounds right for me. Before she'll submit me she wants names and numbers for three references, including my current manager, who doesn't know I'm looking. I can send my CV today and talk Thursday afternoon.",
-   "reply": "Thanks for reaching out, Rachel. I'm interested in the finance manager role and happy for you to put me forward. I share references once there's an offer on the table, and my current manager doesn't know I'm looking, so she won't be one until I've accepted. I can send my CV today; are you free for a call Thursday afternoon?",
+   "reply": "Thanks for reaching out, Rachel. I'm interested in the finance manager role and happy for you to put me forward. I share references once there's an offer on the table, and my current manager doesn't know I'm looking, so they won't be one until I've accepted. I can send my CV today; are you free for a call Thursday afternoon?",
    "lang": "en",
    "note": "If she insists references come first, repeat the same line once; a role worth having will not hinge on it."
   },

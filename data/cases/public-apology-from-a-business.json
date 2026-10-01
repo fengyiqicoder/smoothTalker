@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -169,6 +169,13 @@
    "reply": "At the Riverside 10K on Sunday 27 September, a turn point was set up in the wrong place, so the course all 640 of you ran was about 9.4km, not 10. That means Sunday's times can't count as personal bests or for club rankings. Sorry, that's on us as organisers. Results will go up marked as short course, and everyone who entered gets free entry to our 5K on Sunday 15 November; we'll email you a code. From now on two of us walk and measure the course the day before, and every marshal gets a map with their exact spot. Questions: dan@example.com. Dan, race director",
    "lang": "en",
    "note": "Owned by the organisers, with no volunteer blamed; the hard news (no PBs) goes early so nobody has to read between the lines."
+  },
+  {
+   "id": "public-apology-from-a-business-025",
+   "situation": "京都で和菓子のネットショップをしています。敬老の日（9月21日）に届くはずだった贈答用の詰め合わせ約120件が、こちらの出荷作業の遅れで9月23日の到着になりました。対象のお客様には送料を10月5日までに自動で全額返金し、今後は記念日ギフトの出荷を3日前倒しにします。店主の山田で、問い合わせはyamada@example.com で受けたいです。",
+   "reply": "敬老の日（9月21日）にお届けするはずだった贈答用の詰め合わせ約120件が、当店の出荷作業の遅れにより、9月23日の到着となりました。大切な日に間に合わせられず、申し訳ございません。店主の山田です。対象のお客様には、10月5日（月）までに送料を全額返金いたします。お手続きは不要です。今後、記念日向けのギフトは出荷を3日前倒しにいたします。ご不明な点は yamada@example.com までご連絡ください。私が直接お返事します。",
+   "lang": "ja",
+   "note": "お詫びを何度も重ねたくなる場面でも、謝罪は一度、あとは事実と対応を具体的に書く。"
   }
  ]
 }

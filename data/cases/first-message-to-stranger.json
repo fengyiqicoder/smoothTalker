@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -169,6 +169,13 @@
    "reply": "Hi Tara, I saw your post about Pip. This morning I found a small brown dachshund with a red collar near the Elm Park playground, and she's safe with me. Could you tell me one thing about Pip that isn't in your post, like a marking or a habit, so I can be sure she's yours?",
    "lang": "en",
    "note": "Hold back one detail so the real owner can prove it, and do the handover somewhere public."
+  },
+  {
+   "id": "first-message-to-stranger-025",
+   "situation": "我住502，楼上602好像新搬来一户，每天晚上八点左右会弹半小时钢琴，最近一直在练《卡农》，我挺爱听的。我小时候学过八年琴。不知道他们叫什么，想在他们门上贴张纸条打个招呼。",
+   "reply": "602的邻居您好，我是楼下502的。最近每天晚上八点左右都能听到您弹琴，《卡农》越弹越顺了，我挺爱听的。我小时候也学过八年琴，忍不住想问一句：您是自己弹着玩，还是在跟老师学呀？\n502住户",
+   "lang": "zh",
+   "note": "写给没见过面的邻居，第一句就让对方知道是喜欢不是投诉，再问一个好回答的问题，先不约一起弹。"
   }
  ]
 }

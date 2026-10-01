@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -169,6 +169,13 @@
    "reply": "Maya, I can see how fed up you are with the laptop situation, and I'm glad you came to me. I'm not going to rule on who's been worse, and I won't pass on what you've told me to Leo. What I'd like is the three of us at the kitchen table on Sunday afternoon: just the laptop schedule, each of you says what you need without being interrupted, and we leave with a plan stuck on the fridge. I'm saying exactly the same to Leo.",
    "lang": "en",
    "note": "A parent could just impose a rota, but one they agree to together sticks better; stay neutral on who's worse, and clear that shouting isn't how it gets settled."
+  },
+  {
+   "id": "mediating-between-two-people-025",
+   "situation": "我是做代账的会计，给一家咖啡馆记账三年。咖啡馆是阿峰和小芸合伙开的，有合伙协议，但利润分配写得很笼统，最近两人为今年的利润怎么分吵翻了，都单独打电话给我。刚才阿峰让我去跟小芸说按他的方案分才合理，还问小芸私下跟我说了什么。",
+   "reply": "阿峰，我理解这事让你挺上火的。不过我是给你们俩共同记账的，利润怎么分不该由我来定，我不会替任何一方去说服另一方，你们各自跟我说的话我也不会转述。我能做的是把今年的收支和你们各自的投入整理成一份清楚的数字，10月7日周三前同时发给你们俩。怎么分最好以合伙协议为准，协议没写清楚的部分，你们俩坐下来谈；需要的话我可以在场只讲数字，也可以请律师或调解员帮忙。",
+   "lang": "zh",
+   "note": "专业角色更要中立：同一份数字同时给双方，分钱的规则交给协议和他们自己。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -169,6 +169,13 @@
    "reply": "Priya, can I give you some feedback on late-night work? In the last two weeks I've seen messages from you at 1 or 2am at least six times, and Tuesday's 2am deploy broke the morning dashboard. I'm also seeing newer people start answering at night, and that's not a pace I want anyone to feel they have to match. What's going on for you at the moment? Going forward I'd like deploys to happen in working hours, and anything you write late to be scheduled to send in the morning. Let's look at how it's going in our 1:1 on Monday 19 October.",
    "lang": "en",
    "note": "When the problem looks like dedication, name the impact on the work and the team, and ask about workload before the ask: it may be a capacity or burnout issue."
+  },
+  {
+   "id": "give-feedback-to-colleague-025",
+   "situation": "我是项目经理。组里来了三个月的小郑负责在客户微信群里回消息，这周我看到他两次回客户用的是“亲～收到哈哈哈”，客户问交付时间那次他回“应该快了吧”。昨天客户方的刘总私下问我交付时间到底定没定。想今天找小郑单独聊。",
+   "reply": "小郑，想跟你聊一下客户群回消息的事，方便吗？这周我看到你两次回客户用的是“亲～收到哈哈哈”，客户问交付时间那次回的是“应该快了吧”。昨天刘总私下来问我交付时间到底定没定，说明他心里没底了。你回的时候是怎么考虑的？以后群里回复语气正式一点，涉及时间的问题先跟我确认，再回一个具体日期。两周后我们再一起看看群里的情况。",
+   "lang": "zh",
+   "note": "引用他的原话和客户的具体反应，不给他贴“不专业”的标签；先问他的考虑，再提要求，约好回头看。"
   }
  ]
 }

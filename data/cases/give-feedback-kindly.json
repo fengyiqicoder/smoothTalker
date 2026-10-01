@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -169,6 +169,13 @@
    "reply": "Sam, I read it twice. The story about your dad waking you at 5am to fish at Lake Wren is beautiful; that's him, I could see it. Where I lost him a little was the run of jobs and dates, which read more like a record than like your dad. What if you kept one line on his work and gave the rest of the five minutes to more moments like the lake? Whatever you decide, it's going to mean a lot to everyone there.",
    "lang": "en",
    "note": "Grief makes everything land harder: one point, framed as your experience as a reader, and if he sounds raw, say it on a call rather than by text."
+  },
+  {
+   "id": "give-feedback-kindly-025",
+   "situation": "My grandma Joan, 84, asked me on the phone why hardly anyone in the family replies to her emails. They're full of lovely news, like last week's one about the robins nesting in her porch light, but she writes everything in capital letters, and my younger cousins read that as shouting. I'm visiting her on Sunday and want to text her before then.",
+   "reply": "Gran, I love your emails; the one about the robins nesting in your porch light made my week. Since you asked, I think I know one reason the cousins go quiet: everything's in capital letters, and they read that as shouting, even though I know you're not. It's an easy fix, and I can show you on your tablet on Sunday. Your news is too good to go unanswered.",
+   "lang": "en",
+   "note": "She asked, so give the one real reason as how others read it, not a verdict on her, and make the fix something you do together."
   }
  ]
 }

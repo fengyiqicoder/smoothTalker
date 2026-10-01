@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -169,6 +169,13 @@
    "reply": "Hi Mei Ling, I missed our call yesterday and I'm sorry. I got the time zones wrong and joined an hour late, after you'd waited 20 minutes at the end of your day. Could we try again on Tuesday 6 or Thursday 8 October, at 9am Lisbon, 4pm Singapore? I'll send the invite with both times on it, so we're looking at the same clock.",
    "lang": "en",
    "note": "Across time zones: own the mix-up in one clause, acknowledge her cost, and put both local times in every proposal from now on."
+  },
+  {
+   "id": "handle-no-show-or-lateness-025",
+   "situation": "My friend Dan and I are seeing Harbour Lights tonight: doors at 7, band on at 8:30. Both tickets are in my app, which lets me transfer one to him. We said we'd meet outside the main entrance at 7:30, it's now 7:50, and he isn't answering.",
+   "reply": "Hey, all okay? I'm outside the main entrance. I'm going in at 8:15 so I don't miss the start, and I've just transferred your ticket to you, so you can scan in whenever you get here. Text me when you're inside and I'll come find you.",
+   "lang": "en",
+   "note": "Check they're okay, say what you'll do and when, and take the ticket out of the equation so being late doesn't cost them the gig."
   }
  ]
 }
