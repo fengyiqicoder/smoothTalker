@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -183,6 +183,13 @@
    "reply": "That's us, thank you all for braving the closes with me tonight. If you enjoyed it, the card I've just given you has a code that goes straight to our review page; two sentences takes about a minute, and it's honestly how small tours like this get found. No pressure at all, and if anything tonight didn't work for you, come and tell me now, I'd love to hear it. Safe home, everyone.",
    "lang": "en",
    "note": "Said aloud to a group: one place to go, how short it is, a real out, and an open door for private feedback before anyone posts in public."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-027",
+   "situation": "我是英语家教，叫Amy。初二学生小宇跟我学了一学期，期中英语从78分提到了96分，他爸爸陈先生今天微信说非常满意。想请他写两三句推荐语，放在我的朋友圈和招生海报上，但小宇是未成年人，我不想出现孩子的名字、学校和照片。",
+   "reply": "陈先生，谢谢您告诉我，这学期小宇真的很用功，96分是他自己拼出来的。想请您帮个小忙：写两三句推荐语，我放在朋友圈和招生海报上，署名只写“初二学生家长”，不会出现小宇的名字、学校和照片。我先起了一段，您随意改：“孩子跟Amy老师学了一学期，期中英语从78分提到了96分。”不方便的话完全没关系，谢谢您！",
+   "lang": "zh",
+   "note": "给未成年学生的家长要推荐语：先说清楚不放孩子的任何信息，再附一段只用已知事实的草稿。"
   }
  ]
 }

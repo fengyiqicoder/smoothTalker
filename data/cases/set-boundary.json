@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -176,6 +176,13 @@
    "reply": "Dad, I love our Sunday dinners and I want them to keep happening. I'm not okay with the jokes about Ana's accent, so from now on, if one comes up, Ana and I will head home early. Everything else, we're glad to be there. See you Sunday.",
    "lang": "en",
    "note": "Say it calmly before the dinner, not during it. If a joke comes, leave quietly as promised; don't debate whether it was 'just a joke'."
+  },
+  {
+   "id": "set-boundary-026",
+   "situation": "婆婆住在老家，每天晚上8点准时打微信视频要看孙子豆豆，可豆豆3岁，8点正是洗澡准备睡觉的时候，一视频就兴奋到十点才睡。老公也同意要改。我打算以后每周三、周六晚上7点主动打给她，其他晚上8点后不接视频，白天给她发照片和小视频。",
+   "reply": "妈，您这么惦记豆豆，我们心里都暖暖的。跟您说一下，豆豆8点要洗澡睡觉，一视频就兴奋得睡不着，所以以后晚上8点后我就不接视频了。每周三、周六晚上7点我主动打给您，让豆豆好好跟奶奶聊；平时白天我多给您发照片和小视频。",
+   "lang": "zh",
+   "note": "说的是自己以后怎么做，再给一个固定的替代时间；她再在8点打来，就不接，第二天照常发照片，不加新理由。"
   }
  ]
 }

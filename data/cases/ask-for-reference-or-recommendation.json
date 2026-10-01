@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -182,6 +182,13 @@
    "reply": "Dear Dr. Singh, I hope you're well. We're adopting a retired greyhound from Second Chance Greyhounds, and they've asked for a vet reference by Friday 9 October. It's a short five-question email form. Since you looked after Pepper for all 11 years, you'd be our first choice. If it helps, the things they care most about are that Pepper never missed a check-up or vaccination, and how we managed his arthritis with you. Would you be willing to fill it in? If the timing doesn't work, no problem at all.",
    "lang": "en",
    "note": "A reference doesn't have to come from work: ask the professional who saw exactly what's being checked, with the deadline in the first message."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-027",
+   "situation": "我叫陈默，去年本科毕业，毕业设计是刘教授指导的，他已经答应给我写推荐信，同一封信可以用于所有学校。我申请美国6个博士项目，截止日期从12月1日到12月15日不等，每个学校会分别发邮件请他上传。简历和研究陈述都准备好了，想一次把信息给全，免得来回打扰他。",
+   "reply": "刘教授您好，非常感谢您答应为我写推荐信。为了不来回打扰您，我把信息整理在一起：这次一共申请6个博士项目，截止日期从12月1日到12月15日，我做了一张表，列出每个学校的项目名称、截止日期和上传方式，和简历、研究陈述一起附在这封邮件里。各学校的上传邮件会陆续发到您的邮箱，同一封推荐信都可以用。如果哪个学校的邮件没收到，告诉我一声，我来联系学校。",
+   "lang": "zh",
+   "note": "多个截止日期一次给齐，做成一张表；不要每个学校单独发一次请求，也不要频繁催。"
   }
  ]
 }

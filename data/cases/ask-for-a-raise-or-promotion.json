@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -183,6 +183,13 @@
    "reply": "钱总，谢谢您抽时间。并入集团这一年我做得很投入，也想在这边长期发展。今年华北区的回款率从88%提到了96%，天津还新签了两个客户。集团里同岗位的区域销售经理月薪大约是1.9万，我现在是1.6万，HR之前也说过会逐步统一。我希望从明年1月起调到1.9万。如果1月做不到，能不能把统一的时间和条件定下来，我们写下来各留一份？",
    "lang": "zh",
    "note": "并购后的薪资差距按岗位讲，不点名比较；“会统一”要追问到具体日期，谈完当天发微信把结论确认一遍。"
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-027",
+   "situation": "On September 3 I asked my manager Elena to move my salary from $68k to $76k after I took over the partner onboarding programme. She said she'd talk to finance and come back to me by September 18. It's now October 1, she hasn't mentioned it, and our 1:1 last week was cancelled. I want to follow up on Slack without nagging.",
+   "reply": "Hi Elena, following up on our 3 September conversation about moving my salary from $68,000 to $76,000. You mentioned you'd speak to finance and come back to me by 18 September, and I know the last few weeks have been busy. Could you let me know where it stands, or when you expect an answer? If it's easier to talk it through, I'd be glad to find 20 minutes this week or next.",
+   "lang": "en",
+   "note": "Silence is neither a yes nor a no: restate the number and the date she gave, and ask for a new date. If that slips too, ask what would make it a yes."
   }
  ]
 }

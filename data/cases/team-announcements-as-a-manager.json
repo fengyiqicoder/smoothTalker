@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -162,6 +162,13 @@
    "reply": "As we covered on the call: from Monday 4 January, our team moves to two office days a week, Tuesday and Wednesday. The reason leadership gave is that cross-team projects stalled this year. To be straight with you, I argued for staying remote and didn't win, but it's decided, and my job now is to make it work as well as possible for you. If you live more than 50 miles from the office, you can apply to HR for an exception by Friday 13 November, and I'm happy to help with the application. If the change creates a real problem, a commute, childcare or caring duties, come and talk to me this week.",
    "lang": "en",
    "note": "When you disagreed with the decision, say so once without undermining it, then spend the rest of the message on what people can actually do."
+  },
+  {
+   "id": "team-announcements-as-a-manager-024",
+   "situation": "Alex on my team of 9 has asked me to let everyone know she's now going by Ash and uses she/her, starting today. She asked me to mention her old name once so nobody is confused, and to ask people not to quiz her about it. Her email and Slack name change on Monday 5 October. Posting in our team Slack.",
+   "reply": "Sharing this with Ash's go-ahead: from today, our teammate you've known as Alex goes by Ash and uses she/her. Her Slack name and email switch over on Monday 5 October. Nothing about her role or work changes. If you slip up, a quick correction and carrying on is all that's needed, and please don't quiz her about it. Any questions, bring them to me directly.",
+   "lang": "en",
+   "note": "Share only what she agreed to, in the words she chose, and route questions to you so she doesn't field them."
   }
  ]
 }

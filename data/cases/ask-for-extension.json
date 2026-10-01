@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -183,6 +183,13 @@
    "reply": "Hi Mark, I wanted to tell you as soon as we knew: our lender says final mortgage approval won't come through until Friday 23 October, because the valuation was delayed. Could you ask the sellers whether completion could move from Friday 16 October to Monday 26 October? Our solicitor is checking what the contract allows and will be in touch with theirs. If the sellers have a move of their own tied to the 16th, please let us know, so we can understand what's at stake on their side.",
    "lang": "en",
    "note": "With a contract date, ask the day you know, let the solicitors handle the terms, and don't agree to anything before yours has checked the contract."
+  },
+  {
+   "id": "ask-for-extension-027",
+   "situation": "我叫王晨，10月12日（周一）入职一家新公司，HR小刘让我入职当天交齐材料，包括学位证书原件。我的学位证书丢了，母校补办的学位证明10月20日（周二）才能寄到，学校已经给了我受理回执。其他材料都准备好了，想在微信上跟小刘申请延到10月21日（周三）交。",
+   "reply": "小刘你好，我是10月12日（周一）入职的王晨。提前跟你说一声：我的学位证书丢了，母校补办的学位证明10月20日（周二）才能寄到，想申请延到10月21日（周三）交，其他材料入职当天都会交齐。学校的受理回执我先拍照发你。你看这样可以吗？如果21日不行，麻烦告诉我还需要怎么处理。",
+   "lang": "zh",
+   "note": "对HR申请延期：一句原因，一个具体日期，先给能证明正在办理的凭证，其余材料照常交齐。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -175,6 +175,13 @@
    "reply": "何女士您好，谢谢您告知结果，也谢谢您告诉我们排在第11位，这让我们心里有数。评审的决定我们理解。想请教一点，只占用您一分钟：如果明年3月再申请，您觉得我们的申请书最该加强的是哪一处？一句话就够，不方便说也完全没关系。祝工作顺利。小田",
    "lang": "zh",
    "note": "资助落选和求职一样：谢具体的事，一句接受，只问一个窄问题，并允许对方不答。"
+  },
+  {
+   "id": "respond-to-job-rejection-026",
+   "situation": "Aldergate Foods turned me down for a supply chain analyst role after three interviews, which the recruiter, Hannah, had rescheduled twice to fit around my notice period. Last night I replied 'I'm surprised, I thought it went really well and I have more experience than most applicants.' I regret it and want to repair it.",
+   "reply": "Hi Hannah, I want to follow up on my email last night. I wrote it while disappointed, and it came across as a complaint, which wasn't fair to you or the panel. I accept the decision, and thank you for rescheduling the interviews twice around my notice period. I'd welcome being considered for future roles at Aldergate.",
+   "lang": "en",
+   "note": "Repairing a bitter reply: own it in one line, don't re-argue the decision, then send the gracious close you'd have sent first."
   }
  ]
 }

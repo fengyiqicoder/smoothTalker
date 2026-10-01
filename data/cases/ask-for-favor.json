@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -183,6 +183,13 @@
    "reply": "阿琳，想请你帮个比较重要的忙：我10月10日到19日一个人去新疆徒步，想请你当我的紧急联系人。具体是这样：每天晚上9点前，我用卫星通讯器给你发一条报平安；如果超过24小时没收到消息，请你按我发你的行程单打110报警，然后联系我姐姐。这十天你都得留意手机，是个不小的负担。你要是觉得压力大，或者那几天不方便，直接说就好，我再找别人。回来给你带新疆的葡萄干！",
    "lang": "zh",
    "note": "当紧急联系人是一份责任：触发条件和要打的电话写清楚，报警这一步明确写出来，她就不用临场判断。"
+  },
+  {
+   "id": "ask-for-favor-027",
+   "situation": "I move out of my flat on Saturday October 31 and won't get the keys to my new place until early February. My friend Jonah has a garage he barely uses, and I'd like to store 12 boxes and my bike there for about three months, brought over in one trip on the 31st. If he can't, I'll book a storage unit.",
+   "reply": "Hi Jonah, a bigger ask than usual: could I store some things in your garage for about three months? I move out on Saturday 31 October and don't get the keys to the new place until early February. It's 12 boxes and my bike, and I'd bring it all over in one trip on the 31st and not need to get at it until I move. If you need the space or it's just a hassle, say so, no problem at all, and I'll book a storage unit.",
+   "lang": "en",
+   "note": "A long favour is easy to say yes to when the end date, the amount of space and how often you'll need access are all spelled out."
   }
  ]
 }

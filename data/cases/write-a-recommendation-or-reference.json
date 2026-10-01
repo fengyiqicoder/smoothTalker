@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -92,6 +92,13 @@
    "reply": "Hi Ben,\nThanks for getting in touch about Sofia Reyes. Under Brightwell Logistics' reference policy, I can confirm dates of employment and job title only: Sofia worked for us as Warehouse Supervisor from 7 March 2022 to 28 August 2026. The policy applies to every former employee, so please don't read anything into the brevity.\nBest regards,\nHannah Cole",
    "lang": "en",
    "note": "When policy limits you to dates and title, say it's standard so the short answer isn't read as faint praise; check with HR before adding anything personal."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-014",
+   "situation": "Someone in our neighbourhood WhatsApp group asked if anyone knows a good electrician. We used Dev Sandhu to rewire our kitchen in July: he quoted £1,850, finished in the two days he said, the final bill matched the quote, and he left the place spotless. That's the only job he's done for us. His number is 07700 900527.",
+   "reply": "We used Dev Sandhu to rewire our kitchen in July. He quoted £1,850, finished in the two days he said he would, and the final bill matched the quote exactly. He also left the place spotless. That's the only job he's done for us, so I can't speak to bigger work, but I'd call him again. His number is 07700 900527.",
+   "lang": "en",
+   "note": "A recommendation in a group chat: what he did for you, the evidence people care about (price, time, tidiness), and the honest limit of what you saw."
   }
  ]
 }

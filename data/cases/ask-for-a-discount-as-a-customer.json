@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -183,6 +183,13 @@
    "reply": "Hi Joel, we're really happy with the beans and want to keep both cafés with Alder. Since we opened the second site in June, our order has doubled from 20kg to 40kg a month. Could you do $21 a kg instead of $24? In return, I'll commit in writing to 40kg a month for the next 12 months, and I can sign this week. If $21 isn't workable, tell me what you can do at that volume and we'll take it from there.",
    "lang": "en",
    "note": "Between businesses, volume and a longer commitment are levers the supplier can actually price; ask for one number and leave room to counter."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-027",
+   "situation": "I've been a member at Summit Wall climbing gym for three years, currently on a 12-month contract at $65 a month with four months left. I'm moving to Denver on November 15 for a new job, 900 miles away, and their early cancellation fee is $120. I can send them a copy of my new lease.",
+   "reply": "Hi, I've been a member at Summit Wall for three years and I've loved it, but I'm moving to Denver on November 15 for a new job. I'd like to cancel my membership from that date. Since the move is 900 miles away, and I can send you a copy of my new lease, could you waive the $120 early cancellation fee? If that's not possible, I understand, and I'll pay it so we can close the account cleanly.",
+   "lang": "en",
+   "note": "A fee waiver needs a real anchor: the move plus proof, offered up front, makes it easy for staff to say yes."
   }
  ]
 }

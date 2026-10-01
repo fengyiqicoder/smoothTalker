@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -176,6 +176,13 @@
    "reply": "佐藤さん、先日はありがとうございました。お話しできて楽しかったです。ただ、恋愛としてのお付き合いは考えられないので、二人でのお食事はお断りさせてください。誘っていただけたこと自体は嬉しかったです。",
    "lang": "ja",
    "note": "「忙しくて」と濁すのは丁寧に見えても次の誘いを待たせてしまう。言葉は丁寧に、理由は「恋愛として考えられない」の一点だけにする。"
+  },
+  {
+   "id": "romantic-let-down-026",
+   "situation": "My landlord, Martin, lives in the flat downstairs and texted last night asking if I'd like to go for dinner with him on Saturday. I'm not interested at all, and I'm a bit uneasy because my lease runs until next June. I want to say no clearly and keep things strictly about the flat.",
+   "reply": "Hi Martin, thanks for asking, but it's a no from me. I'd like to keep things between us just landlord and tenant. For anything about the flat, text is the best way to reach me.",
+   "lang": "en",
+   "note": "Where someone has power over your housing, keep the no short and keep a copy of messages; if it continues or affects your tenancy, contact a tenants' advice service, and if you ever feel unsafe, call emergency services."
   }
  ]
 }

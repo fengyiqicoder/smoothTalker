@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -176,6 +176,13 @@
    "reply": "Quick bit of news before Monday's stand-up: I've just been fitted with hearing aids, after a test showed moderate hearing loss in both ears. Honestly, it's a relief to hear properly again. Two things that help me a lot: facing me when you talk, and cameras on in calls so I can lip-read. No need to make a thing of it, and if I ask you to repeat something, that's just me catching up.",
    "lang": "en",
    "note": "The news in the first line, one line of feeling, then turn 'how to respond' into two concrete habits people can actually do."
+  },
+  {
+   "id": "share-personal-news-026",
+   "situation": "Tengo 38 años y estoy embarazada de 16 semanas, sola y por decisión propia, con un donante; salgo de cuentas a mediados de marzo. Mis padres ya lo saben y quiero contárselo a mi abuela Carmen, que tiene 84 años y es muy tradicional, por WhatsApp antes de la comida familiar del domingo. No quiero que me pregunte por el padre delante de todos.",
+   "reply": "Abuela, quiero que lo sepas por mí antes del domingo: estoy embarazada, de 16 semanas, y salgo de cuentas a mediados de marzo. He decidido tener este bebé sola, con ayuda de un donante, y estoy muy feliz. Te pido una cosa: que el domingo no hablemos del padre, porque esa parte es solo mía. Lo que más ilusión me hace es que vas a ser bisabuela.",
+   "lang": "es",
+   "note": "La noticia primero, una línea de sentimiento y una petición concreta sobre cómo responder; si quiere hablarlo más, mejor a solas otro día."
   }
  ]
 }

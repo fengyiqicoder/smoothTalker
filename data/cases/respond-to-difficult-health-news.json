@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -176,6 +176,13 @@
    "reply": "Leah, thank you for telling me, that's a huge thing to carry. Honestly, I don't think what I'd do should weigh in on this; it's your body and your call, and whatever you decide, I'm with you. If talking it through would help, let's make Saturday's walk a long one. And if you'd like company at any of the appointments, just send me the dates.",
    "lang": "en",
    "note": "When they ask for your opinion on a medical choice, offer a place to think out loud instead of a verdict; their doctors are the ones to weigh the options with."
+  },
+  {
+   "id": "respond-to-difficult-health-news-026",
+   "situation": "男朋友阿哲在深圳工作，我在北京。他今晚发微信说确诊了强直性脊柱炎，是慢性病，要长期吃药，还说“以后可能会拖累你，你要想清楚”。我没想过要走。这周五下班我可以飞过去陪他过周末。",
+   "reply": "阿哲，谢谢你告诉我，我知道说出这些不容易。我没有想走，这一点不用想清楚，我已经很清楚了。这周五下班我飞过去陪你过周末。想聊病的事我们就聊，不想聊就一起吃饭、看电影。这条不用急着回。",
+   "lang": "zh",
+   "note": "对方担心拖累你时，先正面回应这一句，再给一个具体的陪伴；不追问病情，也不给治疗建议。"
   }
  ]
 }

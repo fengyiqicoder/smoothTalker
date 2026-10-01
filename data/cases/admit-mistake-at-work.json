@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -183,6 +183,13 @@
    "reply": "Hi Maya, I tried to call because you deserve to hear this directly: the rejection email I sent you this morning was my mistake. I picked the wrong name from our candidate list, and it was not meant for you. You are still very much in the process for the senior designer role, and Felix would like to talk to you about next steps this week. I'm sorry for the shock that email must have given you. From today, every rejection gets a second check against the shortlist before it goes out. Could we speak today or tomorrow, at whatever time suits you?",
    "lang": "en",
    "note": "To an external candidate: correct it the same morning, call first, and don't promise an offer before it's formally approved."
+  },
+  {
+   "id": "admit-mistake-at-work-027",
+   "situation": "我是行政，负责订会议室。上周给我们部门10月8日（周四）下午的培训订会议室时，我把市场部当天下午见客户的大会议室预订覆盖掉了，今天他们的同事小王来确认时才发现。我已经把培训挪到小会议室，大会议室给市场部重新订好了，截图也发给了小王。要跟市场部负责人周姐说一声。",
+   "reply": "周姐，跟您说一个我的失误：上周给我们部门订培训会议室时，我把你们10月8日（周四）下午见客户的大会议室预订覆盖掉了，今天小王来确认时才发现。现在大会议室已经给你们重新订好，截图发给小王了，我们的培训挪到了小会议室，你们见客户的安排不受影响。对不起，差点耽误你们的正事。以后系统提示会覆盖已有预订时，我会先看清是谁的，再联系对方，不会直接点确认。",
+   "lang": "zh",
+   "note": "对平级部门认错：第一句说清错在哪，紧接着说已经恢复，让对方马上放心，再给一条具体的防范。"
   }
  ]
 }

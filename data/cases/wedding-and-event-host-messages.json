@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -176,6 +176,13 @@
    "reply": "Merci d'avoir demandé, Karim, ça m'aurait fait plaisir de rencontrer Nadia. Le budget de la soirée est calculé par personne, alors on a choisi de la garder entre salariés, et c'est la même règle pour tout le monde. J'ai vraiment hâte de fêter la fin d'année avec toi le vendredi 11 décembre !",
    "lang": "fr",
    "note": "Au travail aussi, la limite vaut pour tous et se dit une fois ; à la prochaine relance, l'écrire dans l'invitation pour que personne d'autre n'ait à demander."
+  },
+  {
+   "id": "wedding-and-event-host-messages-026",
+   "situation": "Our wedding is Saturday 14 November, and the website asks every guest to avoid white, cream and ivory. My future sister-in-law Bianca just messaged asking if she can wear the white lace dress she already bought, since it has a blue sash.",
+   "reply": "Thanks so much for checking first, Bianca, and I bet the dress is gorgeous. We've asked every guest to skip white, cream and ivory, so we're keeping it the same for everyone, sash or not. If you'd like a second opinion on something else, send me photos anytime. I can't wait to celebrate with you on the 14th.",
+   "lang": "en",
+   "note": "Family gets the same answer as every other guest; one exception for a sister-in-law makes the rule negotiable for all."
   }
  ]
 }

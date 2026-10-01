@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -176,6 +176,13 @@
    "reply": "Hi Leon, a quick note before Kestrel Dental's renewal on 20 October. Looking at your account, three people use it and the payroll module hasn't been switched on in eight months, so you're paying for Pro features you don't use. Our Standard plan covers up to five users and everything you use today, at $69 a month instead of $149, which saves you $960 a year. The one thing you'd give up is payroll, so if you're planning to bring that in soon, staying on Pro makes sense. Just reply if you'd like me to switch you before the renewal; if not, nothing changes.",
    "lang": "en",
    "note": "An unprompted downsell to a paying customer is the trust that makes your next suggestion believable; don't pair it with a new pitch."
+  },
+  {
+   "id": "upsell-without-pushiness-026",
+   "situation": "I run a small alterations shop. Daniel brought in his suit to have the trousers hemmed ($25, ready Friday 2 October) for a job interview on Monday 5 October. When he tried the jacket on, the sleeves covered his shirt cuffs completely; shortening them is $35 and would make the whole suit ready Saturday 3 October instead.",
+   "reply": "All pinned, Daniel: the trousers will be hemmed for $25 and ready Friday. One thing I noticed when you tried the jacket on: the sleeves cover your shirt cuffs completely, and taking them up a little is what usually makes a suit look made for you. That's $35 more, and the whole suit would be ready Saturday instead of Friday, still in good time for Monday. The trousers alone are absolutely fine if you'd rather keep it simple; just say before you go.",
+   "lang": "en",
+   "note": "The suggestion comes from what you both saw in the mirror, and the price and the extra day are named so a no is easy."
   }
  ]
 }

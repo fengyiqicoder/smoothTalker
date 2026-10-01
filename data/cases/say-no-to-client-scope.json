@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -176,6 +176,13 @@
    "reply": "Hi Owen, great news about Tess, and a smart way to plan for December. Training isn't part of our current contract, which covers the audits and monthly reports, so I'd quote it as an add-on: a four-session handover programme, one a week, for $800, covering how I run the audits and reports so she can take them over. If that works, I'll send dates for the first session. Shall I go ahead?",
    "lang": "en",
    "note": "Training your replacement is still work: welcome the plan, price it, and get a written yes before the first call."
+  },
+  {
+   "id": "say-no-to-client-scope-026",
+   "situation": "I'm a freelance UX designer. Phase one of a startup's app is done and paid; phase two is quoted at $6,000. The founder, Raj, now asks if I'd take 0.5% equity instead of cash for phase two because their funding round is delayed. I only work for cash, but I could do a smaller $3,000 phase covering just the onboarding flow, or start the full phase once the round closes.",
+   "reply": "Hi Raj, thanks for being upfront about the round, and I'm glad phase one landed well. I work for cash rather than equity, so phase two stays at $6,000. If budget is tight right now, I can do a smaller phase for $3,000 covering just the onboarding flow, or we can schedule the full phase to start once the round closes. Which would suit you better?",
+   "lang": "en",
+   "note": "Equity in place of fees is a payment change, not a favour; offer a smaller paid scope or a later start, and get whichever is chosen in writing."
   }
  ]
 }

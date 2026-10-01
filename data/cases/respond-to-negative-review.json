@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -176,6 +176,13 @@
    "reply": "Thank you, Dana, for letting us know how the candle burned. A soy candle that tunnels after one use is disappointing. For anyone reading: a first burn of 2 to 3 hours lets the wax melt evenly to the edge. That's on our care card, but it's easy to miss, so we now print it on every lid too. I've sent you a direct message to put this right. Ellie, Wick & Wild",
    "lang": "en",
    "note": "Never trade a refund for a rating change, in public or private: fix the problem on its merits and ignore the offer."
+  },
+  {
+   "id": "respond-to-negative-review-026",
+   "situation": "我叫周航，在南京开一家小健身房。会员“阿杰”在大众点评给了两星，说办卡后私教天天在训练区找他推销课程，还说“不买私教练不出效果”，搞得他都不想来了。我问过，确实有教练这么做；现在规定私教不在训练区主动推销，体验课后只介绍一次，会员说不需要就不再提。我的电话是025-8432 6610。",
+   "reply": "谢谢阿杰把这件事说出来。来健身是为了练得舒心，被一次次推销课程，换谁都会烦；“不买私教练不出效果”这种说法也不对，是我们没管好。现在店里规定：私教不在训练区主动推销，体验课后只介绍一次，会员说不需要就不再提。想听听您的感受，方便的话请打025-8432 6610找我。店主 周航",
+   "lang": "zh",
+   "note": "推销类差评：不点名教练、不辩解，认下问题，写清新规定，其余私下谈。"
   }
  ]
 }

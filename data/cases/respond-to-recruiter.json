@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -176,6 +176,13 @@
    "reply": "Thanks, Daniel. I'd rather not pass on names from my current team; anyone who wants to move can find you here. I'd be glad to hear from you about engineering manager roles from next spring.",
    "lang": "en",
    "note": "You don't owe a reason for declining to source your colleagues; one line, then the door you do want open."
+  },
+  {
+   "id": "respond-to-recruiter-026",
+   "situation": "A recruiter, Grace, called about an office manager role and then emailed asking my age and whether I'm planning to have children soon, because 'the client likes to know'. I'm interested in the role but won't answer those. I'm free for a call Thursday afternoon.",
+   "reply": "Thanks, Grace, I'm interested in the office manager role. I won't be sharing my age or family plans, but I'm happy to talk about my experience, the base range and the start date. If the client is still open on that basis, I'm free for a call Thursday afternoon.",
+   "lang": "en",
+   "note": "Decline the question in one line, no lecture; if it keeps coming, check your local equal-treatment rules and consider raising it with the agency."
   }
  ]
 }

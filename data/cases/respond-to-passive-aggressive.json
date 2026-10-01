@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -176,6 +176,13 @@
    "reply": "王姐，这两个月房租都晚了两天，是我没提前跟您说，不好意思，这个月的今天上午已经转给您了。我们公司发工资改到了每月5号，以后交租日能不能改成每月6号？您同意的话，我就设成每月6号自动转账，不会再晚。",
    "lang": "zh",
    "note": "话里带刺，但不满有道理：不接“房贷”那句，认下迟交，给一个具体的解决办法，等她明确同意再改。"
+  },
+  {
+   "id": "respond-to-passive-aggressive-026",
+   "situation": "Almost every day when I leave at 4:30, my coworker Phil says 'Half day today?' loud enough for the whole office. I start at 7:30 and my manager Ines approved those hours. It's happened four times this week, and I want to message him privately.",
+   "reply": "Hey Phil, quick one: I've noticed the 'half day' comments when I head out at 4:30. I start at 7:30, so it's a full day, and Ines signed off on those hours. If my hours are causing a problem for your work, tell me and we'll sort it; otherwise I'd rather we let the joke go.",
+   "lang": "en",
+   "note": "A repeated public dig gets named once, privately, with the one fact that answers it; after that, take him at face value."
   }
  ]
 }

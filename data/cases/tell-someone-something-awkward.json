@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -176,6 +176,13 @@
    "reply": "Priya, can I mention something small, just between us? I get migraines that strong scents can set off, and the new perfume has triggered a couple at my desk this week. It smells lovely, it's just my head. Would you mind going lighter on it on office days? That's all, I won't bring it up again.",
    "lang": "en",
    "note": "Make it about your migraines, not her taste; say it once, privately, and drop it."
+  },
+  {
+   "id": "tell-someone-something-awkward-026",
+   "situation": "My friend Hannah just posted an Instagram story ranting about her boss by name, and it went to all her followers, not just her close friends list. I know a few of her coworkers follow her. It's been up about ten minutes.",
+   "reply": "Hey, quick one: your latest story went out to everyone, not just close friends, and a few of your work people follow you. Might be worth deleting it now. Super easy slip, happens to everyone!",
+   "lang": "en",
+   "note": "A five-minute fix gets a private message straight away; don't repeat what the story said and don't bring it up again."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 13,
+ "count": 14,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -92,6 +92,13 @@
    "reply": "Hi, in the last hour I've had about ten sign-in approval requests for my work account that I didn't start, and I haven't approved any of them. Someone calling himself 'IT Helpdesk - Tom' then messaged me on Teams from an outside account, asking me to approve the next one to fix a sync problem. I haven't replied to him. Could you check my account? I'm at my desk and can call extension 4400 now if that's quicker.",
    "lang": "en",
    "note": "Never approve a prompt you didn't start. Report it to IT through the contact you already have, don't reply to the outside account, and let IT handle reporting and blocking it."
+  },
+  {
+   "id": "suspicious-or-scam-message-014",
+   "situation": "J'ai reçu ce matin un SMS « des impôts » qui m'annonce un remboursement de 312 euros, avec un lien pour saisir ma carte bancaire. Je n'ai pas cliqué. Je veux demander à ma comptable, Hélène Martin, à qui j'écris d'habitude par mail, si un remboursement est vraiment prévu.",
+   "reply": "Bonjour Hélène, j'ai reçu ce matin un SMS qui se présente comme venant des impôts et m'annonce un remboursement de 312 euros, avec un lien pour saisir ma carte bancaire. Je n'ai pas cliqué et je n'ai rien répondu. Avez-vous connaissance d'un remboursement prévu pour moi ? Merci d'avance et bonne journée.",
+   "lang": "fr",
+   "note": "On vérifie auprès d'un contact qu'on avait déjà, jamais via le lien ; signalez le SMS au service anti-spam de votre opérateur, puis supprimez-le."
   }
  ]
 }

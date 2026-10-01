@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -176,6 +176,13 @@
    "reply": "Hi Laura, thanks for booking with us for the 10th, we're looking forward to having all 14 of you. We can't do 14 separate bills on a Saturday night: splitting that many ways ties up our only till for about 20 minutes while other tables wait to pay. What we can do is split one bill evenly on the card machine, or set you up with our group menu at £38 a head, so everyone knows their share before they arrive. Which would suit your group better?",
    "lang": "en",
    "note": "The reason is the other diners waiting, not 'policy'; both alternatives solve her real problem, everyone paying a fair share."
+  },
+  {
+   "id": "say-no-to-a-customer-request-026",
+   "situation": "京都で着物レンタル店をやっています。10月10日（土）にご予約の山本さまから、夜に料亭で食事があるので着物を翌日返却にできないかとメールが来ました。当店は当日18時返却で、夜のうちにお手入れして翌朝のお客様にお出ししているため翌日返却はできませんが、1,000円で19時30分まで延長はできます。",
+   "reply": "山本さま、ご予約とご相談をありがとうございます。翌日のご返却はお受けできません。夜のうちにお手入れをして、翌朝のお客様にお出ししているためです。代わりに、1,000円で19時30分までご返却を延長できます。延長をご希望でしたら、このメールにご返信いただければご予約に追加いたします。",
+   "lang": "ja",
+   "note": "断りは二文目までに、理由は次のお客様への影響を一言で。代替案はこちらから先に出す。"
   }
  ]
 }
