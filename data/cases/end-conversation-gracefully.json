@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -155,6 +155,13 @@
    "reply": "I'm going to stop chatting now. Have a good night.",
    "lang": "en",
    "note": "No reason and no question; then move towards staff or other people, and if he follows you or you feel in danger, call emergency services."
+  },
+  {
+   "id": "end-conversation-gracefully-023",
+   "situation": "同事小李在茶水间拉着我吐槽另一个同事阿杰，说他抢功劳，已经十分钟了。我不想跟着说别人坏话，而且下午两点那个会的材料我还没弄完。",
+   "reply": "这事你跟阿杰当面聊聊可能更清楚。我得回工位了，两点那个会的材料还没弄完。回头见！",
+   "lang": "zh",
+   "note": "不接话、不评价阿杰，用真实的理由收尾，最后一句不带问题。"
   }
  ]
 }

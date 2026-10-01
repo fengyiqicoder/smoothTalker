@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -154,6 +154,13 @@
    "reply": "林姐你好，看到你在小红书说读书会场地太小，每次只能坐12个人。我在隔壁街开“拾光咖啡”，周末下午最多能坐30人，也常有空位；上个月我们办的两场手冲体验课都满员了。想问问，下次读书会要不要考虑放在我们店？场地免费，参加的人各点一杯饮品就行。不合适的话，回一句“不用”也很有帮助。",
    "lang": "zh",
    "note": "合作邀约先说为什么找她，再给一个数字和清楚的条件，最后只问一个是或否的问题。"
+  },
+  {
+   "id": "cold-outreach-023",
+   "situation": "I'm Sam Okafor, a UX designer, and I want to do some pro bono work. Our local food bank, Eastside Pantry, signs up volunteers through a form on its website that won't submit on a phone; I tried twice this week. Their volunteer coordinator is Grace Mensah. Last year I redesigned the mobile sign-up for a youth charity, Kite Club, and their monthly sign-ups went from 40 to 110.",
+   "reply": "Subject: Your volunteer sign-up form on mobile\n\nHi Grace,\nI tried to sign up to volunteer at Eastside Pantry from my phone this week, and the form wouldn't submit either time. I'm a UX designer and I'd like to fix it for you, for free. Last year I redesigned the mobile sign-up for Kite Club, a youth charity, and their monthly sign-ups went from 40 to 110. Would that be useful? If the timing's wrong, a quick no is genuinely helpful.\nSam Okafor",
+   "lang": "en",
+   "note": "Offering free help is still a cold pitch: a stretched team needs to see it won't become extra work, so keep it to four lines and one yes/no."
   }
  ]
 }

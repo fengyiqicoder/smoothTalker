@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -155,6 +155,13 @@
    "reply": "Hi Marta, thank you for putting yourself forward for the content lead role, and for the care you put into the application. As I said on the call, we've offered it to someone who has already managed a team, which the role needs from day one. That's no comment on your writing, which is exactly why clients keep asking for you. I'd really like to keep working together, starting with the Halden brochure next month, if you're up for it.",
    "lang": "en",
    "note": "When the working relationship continues, say so concretely, and only because it is true."
+  },
+  {
+   "id": "decline-offer-or-candidate-023",
+   "situation": "I'm hiring an office manager. Gavin interviewed with me on Tuesday and clearly knew his stuff on running office budgets, but when he arrived he snapped at our receptionist, Lena, over the parking instructions. We won't be hiring him or considering him again, and I need a short rejection email.",
+   "reply": "Hi Gavin, thank you for coming in on Tuesday and for the detail you gave on running office budgets. We've decided not to move forward with your application. This role works closely with everyone in the office, and the exchange at reception when you arrived weighed in our decision. I wish you the best with your search.",
+   "lang": "en",
+   "note": "The door is closed, so no stay-in-touch line; if he disputes it, restate the decision once and close."
   }
  ]
 }

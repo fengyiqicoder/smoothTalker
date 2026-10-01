@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -155,6 +155,13 @@
    "reply": "Hi Gran, it's me. I can't come this Sunday: I've picked up a stomach bug, and I don't want to pass it on to you. I'm sorry, I know you look forward to Sundays, and so do I. Could I come on Tuesday afternoon instead, or shall we keep it for next Sunday at 2 as usual?",
    "lang": "en",
    "note": "Said aloud to an older relative: one plain reason, the two options kept simple enough to answer on the spot."
+  },
+  {
+   "id": "cancel-or-reschedule-023",
+   "situation": "Je m'appelle Claire Dubois. J'ai rendez-vous demain, vendredi 2 octobre à 8h, avec M. Garnier, l'électricien, pour changer le tableau électrique chez moi, et il m'a bloqué toute la matinée. Mon train de retour de Lyon ce soir est annulé et je ne rentre que samedi ; je suis libre mardi 6 ou mercredi 7 octobre au matin. Je lui envoie un SMS.",
+   "reply": "Bonjour M. Garnier, c'est Claire Dubois. Je dois déplacer notre rendez-vous de demain, vendredi 2 octobre à 8h, pour le tableau électrique : mon train de retour de Lyon est annulé et je ne rentre que samedi. Désolée de vous prévenir la veille, alors que vous m'aviez réservé toute la matinée. Est-ce que mardi 6 ou mercredi 7 octobre au matin vous irait ? Si ce changement vous occasionne des frais, dites-le-moi.",
+   "lang": "fr",
+   "note": "Avec un artisan, le nom et le rendez-vous d'abord pour qu'il le retrouve, puis deux matinées précises et une offre de couvrir le coût du changement."
   }
  ]
 }

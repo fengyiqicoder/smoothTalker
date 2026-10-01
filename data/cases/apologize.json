@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "apologize-001",
@@ -155,6 +155,13 @@
    "reply": "Amara, I'm so sorry. I promised to collect Jonah at 3:15 and I didn't turn up; I had the wrong day in my calendar, and that's on me. You trusted me with your son, and instead he sat in the school office for 40 minutes and you got that call at work. I completely understand if you'd rather not rely on me for pickups for a while. If you ever do again, I'll text you the moment I'm at the gate.",
    "lang": "en",
    "note": "When a child was left waiting, own the broken trust, not just the mix-up, and leave the decision about trusting you again with her."
+  },
+  {
+   "id": "apologize-023",
+   "situation": "上周借了好朋友阿杰的相机去拍朋友婚礼，收工时我不小心把镜头摔了，镜片裂了。维修店报价1,800元，我约好了这周六送修。还没跟他说，想今晚在微信上先讲清楚。",
+   "reply": "阿杰，跟你说件事：上周借你的相机，收工的时候我不小心把镜头摔了，镜片裂了，对不起。你放心把相机借给我，我却没保管好，这是我的问题。维修店报价1,800元，费用全部我出，这周六我就送修，修好后给你送回去。你要是更想自己找店修，跟我说一声就行，钱照样我来出。",
+   "lang": "zh",
+   "note": "弄坏别人的东西：说清楚发生了什么，赔偿和修理已经安排好，选择权留给对方。"
   }
  ]
 }

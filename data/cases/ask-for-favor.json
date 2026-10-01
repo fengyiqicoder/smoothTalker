@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -155,6 +155,13 @@
    "reply": "Excuse me, could I ask you a favour? My son Theo, he's four, is in the window seat next to you, and I'm in 23C, an aisle seat two rows up. Would you be willing to swap so I can sit with him? If you'd rather stay put, that's completely fine and I'll ask the crew.",
    "lang": "en",
    "note": "With a stranger, say exactly what seat he'd be swapping into, and make the out real: the crew is the backup, not him."
+  },
+  {
+   "id": "ask-for-favor-023",
+   "situation": "I teach Year 4 and we're holding a careers morning on Thursday Oct 22. Mrs Okoro, the mum of one of my pupils, is a paramedic, and I'd love her to give a 20-minute talk with questions at 10am. She works shifts, and I don't want her to feel she has to say yes because I'm her son's teacher.",
+   "reply": "Hi Mrs Okoro, we're holding a careers morning for Year 4 on Thursday 22 October, and I'd love to ask whether you'd come in and talk about being a paramedic. It would be about 20 minutes at 10am, including the children's questions. I know you work shifts, so if the day doesn't fit, or it's simply not your thing, that's completely fine and it won't change a thing. Thank you for considering it.",
+   "lang": "en",
+   "note": "From a child's teacher, a parent may feel a no is risky, so the out has to say outright that nothing changes."
   }
  ]
 }

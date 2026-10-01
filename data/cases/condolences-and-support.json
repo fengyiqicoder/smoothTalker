@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -155,6 +155,13 @@
    "reply": "Lily, I'm so sorry about your mum. I keep thinking of her honking twice outside my place when she came to get you after the bookshop. Whenever you want, I'd love to take you to the bookshop again, and we don't have to talk about anything. You don't need to reply to this, not now and not ever.",
    "lang": "en",
    "note": "To a teenager, write to them directly and simply; offering the thing you already share beats a general 'I'm here for you'."
+  },
+  {
+   "id": "condolences-and-support-023",
+   "situation": "My friend Priya's best friend Anjali died in a car crash on Saturday; they'd been friends since they were 11. Priya told me she feels silly being so wrecked because 'it's not like she was family'. I met Anjali at Priya's 30th, where her speech had the whole room crying with laughter.",
+   "reply": "Priya, I'm so sorry about Anjali. Friends since you were 11 is family in every way that counts, and you don't need anyone's permission to be wrecked. I'll never forget her speech at your 30th, the whole room crying with laughter. I'm dropping dinner at yours on Thursday evening, no need to answer the door. You don't have to reply to this.",
+   "lang": "en",
+   "note": "When the loss isn't family, people feel they have no right to grieve; say once that they do, then the memory and the offer."
   }
  ]
 }

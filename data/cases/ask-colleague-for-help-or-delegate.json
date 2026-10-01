@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -155,6 +155,13 @@
    "reply": "Hi Rachel, could I borrow 30 minutes of your time tomorrow? I've had two calls with Corlane's ops lead about the failed September delivery run and offered them a re-delivery plan, but their COO, Martin Hale, wants someone senior on a call at 2pm Thursday. I'll lead the call and send you a one-page brief by 9am, so it's mainly about you being there. If 2pm doesn't work, could you give me a time I can offer him instead?",
    "lang": "en",
    "note": "Asking upward follows the same shape as asking a peer: what you've done, the exact ask, the time cost, and an easy alternative."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-023",
+   "situation": "I'm leaving the company and my last day is Friday Oct 16. Our manager Hannah agreed my peer Dmitri should take over my three client accounts, Brookfield Dental, Orla Studio and Kessler Farms; he already knows Brookfield from covering my holidays. I'll write a handover doc for each by Friday Oct 9 and can do intro calls with him and each client the week of Oct 12.",
+   "reply": "Hi Dmitri, my last day is Friday 16 October, and Hannah and I would like you to take over Brookfield Dental, Orla Studio and Kessler Farms. You already know Brookfield from covering my holidays, so you're the natural fit. Done means each client knows you're their contact and you can run the account without me. I'll send a handover doc for each by Friday 9 October, and the week of 12 October I'll set up intro calls with you and each client while I'm still around. Can you take them on alongside what you've got?",
+   "lang": "en",
+   "note": "A leaving handover is still delegation: the outcome, why them, your part with dates, then a real question rather than an announcement."
   }
  ]
 }

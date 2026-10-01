@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -155,6 +155,13 @@
    "reply": "Hi Farah, thank you for booking Gentle Flow, I'm really glad you're joining us. Your class is Monday 5 October at 6:30pm: please use the side entrance on Mill Lane, which is step-free, and the accessible toilet is just inside. I can offer a chair-based version of every pose, so you can do the whole class with us. So I can plan it properly, could you tell me by Friday 2 October anything you'd like me to know about your mobility, such as what feels good and what to avoid? Reply here any time and I'll get back to you within a day. Looking forward to meeting you, Hana",
    "lang": "en",
    "note": "Answer her question in the second line, and ask about her needs once, as planning rather than screening."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-023",
+   "situation": "I'm Ellen, a counsellor in private practice. A new client, Mark, just booked his first session for Wednesday 7 October at 6pm, £60, by video; I email the link the day before. I need his intake form back by Monday 5 October, my policy is 48 hours' notice to cancel or the full fee applies, I reply to emails within one working day, and my inbox isn't monitored for emergencies.",
+   "reply": "Hi Mark, thank you for booking, and I'm glad you got in touch. Your first session is Wednesday 7 October at 6pm by video, and I'll email you the link on Tuesday. Before then, could you fill in the short intake form attached and send it back by Monday 5 October? It helps me make the most of our first session. If you ever need to move a session, let me know at least 48 hours ahead; after that, the £60 fee still applies. I reply to emails within one working day, and this inbox isn't checked for emergencies, so if you're ever in crisis, please call emergency services. Ellen",
+   "lang": "en",
+   "note": "The policy comes after the next steps, said plainly once; for a counselling client, where to go in a crisis is part of setting reply-time expectations."
   }
  ]
 }

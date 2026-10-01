@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -155,6 +155,13 @@
    "reply": "Grace, I've been thinking about you all week since you told me about the third round. I know I might be a hard person to be around right now, and that's completely okay; you don't have to look after my feelings. Swim on Sunday morning if you'd like it, skip it if you wouldn't, either is fine. No need to reply.",
    "lang": "en",
    "note": "When you have what they're grieving, name it once, give them permission to keep their distance, and leave the usual plan open."
+  },
+  {
+   "id": "check-in-on-someone-struggling-023",
+   "situation": "大学同学阿斌上周被电信诈骗骗走了8万块，是他攒了三年准备付首付的钱。他已经报了警，在群里说了一句“我真是蠢到家了”之后就再没出现。我们在同一个城市，平时周六上午会一起打球。",
+   "reply": "阿斌，听说了上周的事，这几天一直惦记你。被骗不是因为你蠢，那帮人就是专门干这个的。不用回我。周六上午老地方打球，我给你留着位置；不想动的话，我带两份炒粉去你家楼下也行。回个“球”或者“粉”就好，都不想也完全没关系。",
+   "lang": "zh",
+   "note": "被骗之后最重的是羞愧：一句话把“蠢”卸下来，不问细节、不问钱能不能追回，只给一个容易接受也容易拒绝的邀约。"
   }
  ]
 }

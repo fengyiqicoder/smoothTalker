@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -155,6 +155,13 @@
    "reply": "Tom, we both got heated, and saying you do nothing for the wedding was unfair when you sorted the caterer and the venue. I'm sorry. I know it felt like all that work didn't count. Can we sit down with the guest list tonight when you're home at 7? This wedding is about us, not the list.",
    "lang": "en",
    "note": "After a hang-up, name the unfair line and set the return time; do not reopen the guest list by text."
+  },
+  {
+   "id": "de-escalate-argument-023",
+   "situation": "I chair the volunteer committee at our kids' football club. On a reply-all email thread, our treasurer Brenda said I 'run the club like a dictatorship' because I booked the new training pitch without a committee vote, and I replied that she 'blocks every decision'. Eight committee members are copied in and I want to cool it down.",
+   "reply": "Brenda, we've both got heated, so I'm taking this off the group email. Saying you block every decision was unfair, and I'm sorry. I can see that booking the pitch without a vote left you feeling the committee was bypassed. Can I call you tomorrow at 7pm so we can talk it through properly? We both give a lot to this club, and that matters more than this thread.",
+   "lang": "en",
+   "note": "Send it to Brenda alone, not reply-all; once you've talked, post one neutral line to the committee."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -155,6 +155,13 @@
    "reply": "哈哈，舅舅又来查成绩啦。等有结果了，第一个告诉您。对了舅舅，听说您最近迷上钓鱼了，钓到过大的没？",
    "lang": "zh",
    "note": "A teenager can deflect too: no scores, no targets, straight to the fishing."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-023",
+   "situation": "My dad's wake is on Saturday and I know my cousin Gary will ask me, probably in front of people, who's getting Dad's house. My sister Claire and I haven't sorted the will yet and we're not discussing it with anyone. Gary and Dad went fishing together most weekends.",
+   "reply": "Ah, Gary. That's one for Claire and me to sort out quietly, and not today. Tell me about all those weekends you and Dad spent fishing, I'd love to hear them today.",
+   "lang": "en",
+   "note": "If he asks again, repeat the same line nearly word for word; at a wake, the soft deflection is the whole job."
   }
  ]
 }

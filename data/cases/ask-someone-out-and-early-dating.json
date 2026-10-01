@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -154,6 +154,13 @@
    "reply": "Of course, don't give Saturday a second thought. I'm really sorry about your dad, and I hope the drive up to Leeds goes okay. Focus on him and your family, and whenever things settle, I'd love to pick Saturday up again. No need to reply to this.",
    "lang": "en",
    "note": "Put the date on hold, not on the table: one warm line about later, then let her be the one to come back to it."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-023",
+   "situation": "I've bought coffee at the same bakery for months and Ana, who works the counter, always remembers my order and we chat about her film course. I want to ask her out without putting her on the spot at work, maybe with a note. I'm Leo, my number is 555-0142.",
+   "reply": "Hi Ana, I've really enjoyed our chats about your film course. If you'd ever like to get a coffee somewhere you're not the one making it, I'd love that. My number's 555-0142. If not, no need to reply, and I'll still be in for my usual with zero awkwardness. Leo",
+   "lang": "en",
+   "note": "Someone at work can't easily say no to a customer's face, so a note lets her answer in her own time, or not at all."
   }
  ]
 }

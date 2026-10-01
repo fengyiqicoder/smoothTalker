@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -154,6 +154,13 @@
    "reply": "Hi Grace, I have a slightly unusual ask. I'm applying for an in-house brand manager role at Tessel, and they want a reference from someone I've reported to. After three years working together you're the closest thing I have to a manager, so would you be willing to take a short call from them between Monday 12 and Friday 16 October? If it helps, the thing they'll care most about is the 2024 packaging rebrand and the 30% rise in online sales. I know it's an odd thing to ask a client, so if it doesn't feel right, no problem at all.",
    "lang": "en",
    "note": "A freelancer's client can stand in for a manager; say plainly why you're asking her and make the no easy, since the job would change your work together."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-023",
+   "situation": "我叫赵敏，做了八年全职妈妈，现在应聘社区服务中心的项目助理，需要一位推荐人，对方会在10月12日到16日之间打电话，大概15分钟。想请居委会的陈主任，这三年社区义卖都是我牵头组织的，两万多元善款的账目也是我管，每次都按时公示，她都看在眼里。",
+   "reply": "陈主任您好，我是赵敏。我在应聘社区服务中心的项目助理，需要一位推荐人，想请您帮这个忙。对方会在10月12日到16日之间给您打个电话，大概15分钟。如果方便，最希望您能讲讲这三年社区义卖是我牵头组织的，还有两万多元善款的账目由我管、每次都按时公示。您那几天要是不方便，完全没关系，跟我说一声就行。",
+   "lang": "zh",
+   "note": "离开职场多年时，社区和志愿经历里能核实的具体事一样是好的推荐点；时间和要讲的内容第一条就说清。"
   }
  ]
 }

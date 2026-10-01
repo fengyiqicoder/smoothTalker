@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -155,6 +155,13 @@
    "reply": "何总，跟您报备一下：我爱人预产期是10月20日，我想按员工手册从孩子出生当天开始休15天陪产假，具体日期一出生就告诉您。APP改版我10月16日前提测，之后由阿杰跟进，这周我先跟他过一遍交接。这样安排您看可以吗？",
    "lang": "zh",
    "note": "日期不确定的假，先给预产期和天数，说好出生当天通知，让领导能提前排人。"
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-023",
+   "situation": "I'm a secondary school maths teacher. Diwali falls on Sunday Nov 8 this year and I'd like Monday Nov 9 off to be with my family in Leicester. I'll leave full cover lessons for my four classes that day. Emailing my head of department, Mr Clarke, now so it's well ahead.",
+   "reply": "Hi Mr Clarke, I'd like to request Monday 9 November off for Diwali, to be with my family in Leicester. I'll leave full cover lessons for my four classes that day, ready the Friday before. Could you approve it, or let me know if it needs to go anywhere else?",
+   "lang": "en",
+   "note": "A religious holiday is a dates-plus-cover request like any other; check the school's leave policy for how it's recorded."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -155,6 +155,13 @@
    "reply": "李师傅，谢谢您愿意让到6,200。我们真的很想定您，6,000整可以吗？可以的话我今天就把定金转过去。如果6,200就是底价，也没关系，我们就按6,200定。",
    "lang": "zh",
    "note": "对方已经还了价，再往前走一小步就好，并说清楚不行也照样成交，给对方留面子。"
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-023",
+   "situation": "I'm ordering 500 flyers for my yoga studio's open day from a local print shop, quoted at $210. I asked the owner, Ken, for 15% off and he said he can only do 10% off if I order 1,000. I only need 500, and I can pay upfront today.",
+   "reply": "Thanks, Ken, that's a fair offer, but 1,000 flyers would just sit in a cupboard. For the 500, could you do $190 if I pay upfront today? If $210 is the price, no problem, I'll go ahead at that.",
+   "lang": "en",
+   "note": "Turning down a volume upsell: say plainly why it doesn't fit, make one smaller counter, and show you'll buy either way."
   }
  ]
 }

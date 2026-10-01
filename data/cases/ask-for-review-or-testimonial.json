@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -155,6 +155,13 @@
    "reply": "Hannah, I just saw your album and I've been smiling at it all morning. Thank you for tagging us, and for saying the flowers were everything. I should have asked back in June, so I'll ask now: if you have a minute, a short review at example.com/wildstem-reviews helps other couples find us. Two sentences is plenty, and thank you either way.",
    "lang": "en",
    "note": "A late ask works when it hangs on a fresh good moment; own the delay in a few words and keep it to one link."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-023",
+   "situation": "I'm Tom and I run a two-person kitchen fitting business. We just finished Claire Henderson's kitchen and she told me it's exactly what she'd pictured. I'd love to feature it on our website with a few photos and a line from her, but it's her home, so no faces and nothing that shows the address.",
+   "reply": "Hi Claire, thank you for saying the kitchen is exactly what you'd pictured; that made our week. Would you be happy for us to feature it on our website, with a few photos and a line from you? The photos would show no faces and nothing that gives away your address. To make it easy, here's a line you can edit or replace: \"Tom and his team fitted our kitchen and it's exactly what I'd pictured.\" If you'd rather keep your home off the internet, that's completely fine. Thanks either way, Tom",
+   "lang": "en",
+   "note": "Photos of someone's home are a bigger ask than a review: say exactly what will and won't be shown, and make the no easy."
   }
  ]
 }

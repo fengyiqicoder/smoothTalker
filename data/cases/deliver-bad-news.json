@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -155,6 +155,13 @@
    "reply": "Hi Jenny, I've got news you won't want to hear, and I wanted to tell you straight away. At Mochi's vet check yesterday she was diagnosed with a heart condition, and she needs a few months of monitoring with one of our experienced fosters, so her adoption can't go ahead. I know the kids have already been talking about her, and I'm so sorry. Your approval still stands, and if you'd like, you could meet Pepper and Juno this Saturday, 3 October; both are great with children. No pressure at all, and I'm happy to talk on the phone if that's easier.",
    "lang": "en",
    "note": "The no comes in the second sentence; the other cats are an option, not a replacement."
+  },
+  {
+   "id": "deliver-bad-news-023",
+   "situation": "我和未婚夫商量好和平分手了，原定11月21日周六在南京办的婚礼取消。要在微信上给大约40位已经收到请柬的亲友发消息，已经收到的礼金我会在10月15日前一一退回。原因不想多说。",
+   "reply": "各位亲友，有个不太好的消息要告诉大家：原定11月21日在南京举行的婚礼取消了。我们俩已经商量好，和平分开，具体原因就不多说了，希望大家理解。让大家提前空出时间、费心准备，真的很抱歉。已经收到的礼金，我会在10月15日前一一退回。谢谢大家一直以来的关心，有什么想说的随时找我。",
+   "lang": "zh",
+   "note": "群发之前，先给父母和最亲近的几位单独打个电话，别让他们从群消息里第一次知道。"
   }
  ]
 }

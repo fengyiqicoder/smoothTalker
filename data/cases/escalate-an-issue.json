@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -155,6 +155,13 @@
    "reply": "Subject: Letter needed by Fri 9 Oct: employment verification for visa (HR-5520)\n\nHi Mark, I need an employment verification letter for my visa appointment on Thursday 15 October, ahead of my transfer to the London office on Monday 2 November. I requested it through the HR portal on 14 September (ticket HR-5520) and chased on 23 September, and my manager, Grace, chased on 25 September; it still shows 'in queue'. If I miss the appointment, the next slot is in January, which would push back my start in London. Could you get the letter to me by Friday 9 October, or tell me who can sign it? Priya knows I'm writing to you. Thanks, Tomás",
    "lang": "en",
    "note": "The deadline is a week before the appointment so there's time to fix a wrong letter; one ask, with an easy alternative."
+  },
+  {
+   "id": "escalate-an-issue-023",
+   "situation": "I'm Nadia Rahman and I own Hearth Bakery. Our flour supplier, Fennick Mills, delivered 30 of the 40 sacks we ordered on Sept 7, 17 and 28; each time I raised it with our account rep, Dan, who said it was a warehouse issue. Buying flour retail to cover the gaps has cost us about $260 extra so far, our Christmas orders start in November, and the next delivery is Thursday Oct 8. I've told Dan I'm writing to his sales director, Karen Wu.",
+   "reply": "Subject: Confirmation needed by Mon 5 Oct: full flour delivery on 8 Oct\n\nHi Karen, our last three deliveries came short: on 7, 17 and 28 September we received 30 of the 40 sacks we ordered. Covering the gaps with retail flour has cost us about $260 so far, and our Christmas orders start in November. I raised each shortfall with Dan, who put it down to a warehouse issue, and I've let him know I'm writing to you. I need you to confirm by Monday 5 October that our delivery on Thursday 8 October will be the full 40 sacks. My recommendation: have someone check our order against the docket before it leaves the warehouse.\n\nThanks,\nNadia Rahman, Hearth Bakery",
+   "lang": "en",
+   "note": "One ask only; raise the $260 credit separately once deliveries are fixed."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -154,6 +154,13 @@
    "reply": "Hi Hannah, thanks for reaching out, my two greyhounds would be very keen to help. I don't make test clips or full concepts before a brief is agreed, since that is the actual work, but once I know the deliverables, timeline and budget I'm happy to share a short idea direction. For reference, my rate starts at $850 per TikTok with 30 days of organic usage. What did you have in mind?",
    "lang": "en",
    "note": "Spec work is gifting in disguise: decline the free part, keep the door open for the paid part."
+  },
+  {
+   "id": "creator-brand-deal-reply-023",
+   "situation": "我是小红书美食博主，6万粉，单篇图文报价5000元，含30天授权；档期一般提前两周约，48小时内交稿加收30%加急费。一个调味品牌的对接人小米今天下午找我，说新品明晚8点前就要发一篇测评，产品今晚送到，但brief还没给。",
+   "reply": "小米你好，谢谢想到我！明晚8点前发属于加急：我的档期一般提前两周约，48小时内交稿会加收30%，所以这篇图文是6500元，含30天授权。时间比较紧，麻烦今晚9点前把brief发我，我明天中午前给你初稿确认。如果发布时间能放到两周后，就按5000元正常排期。你看选哪种？",
+   "lang": "zh",
+   "note": "加急是档期成本，在报价里单独说明；同时给一个不加价的正常排期，让对方自己选。"
   }
  ]
 }

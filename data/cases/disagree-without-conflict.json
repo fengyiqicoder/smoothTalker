@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -155,6 +155,13 @@
    "reply": "我跟你一样，也希望朵朵多学点东西、多试试。我这边想法有点不一样：四个班把周末全排满了，朵朵上周自己说周末好累，我担心她学着学着就不喜欢了。要不先挑她最喜欢的两个，其他的下学期再看？你选这四个，是觉得哪几个现在不学就来不及吗？",
    "lang": "zh",
    "note": "Use the child's own words as the one reason, and ask which classes matter most to her, not whether she is wrong."
+  },
+  {
+   "id": "disagree-without-conflict-023",
+   "situation": "In our hiring debrief, the hiring manager Laura wants to pass on Omar because he 'wasn't a culture fit', mainly because he was quiet at the team lunch. I ran his technical interview and scored him the strongest of the five candidates. I'm a peer interviewer and want to say this in the meeting without putting Laura on the spot.",
+   "reply": "Laura, I'm with you that we want someone who'll work well with the team. Where I land differently is on Omar: his technical interview was the strongest of the five candidates, and I'm wary of reading too much into him being quiet at one lunch. What else did you see that made you think he wouldn't fit? I could be missing something.",
+   "lang": "en",
+   "note": "One reason, and a real question; if she holds her view, it's her call as hiring manager."
   }
  ]
 }

@@ -4,42 +4,42 @@
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
-   "situation": "Had a final-round interview yesterday for a product designer role at Loop Health with the head of design, Marcus. He talked a lot about their accessibility audit. I fumbled a question about design systems.",
-   "reply": "Hi Marcus,\nThank you for the conversation yesterday. Your point about the accessibility audit changing how the team prioritises the backlog stuck with me; it's the kind of work I'd want to be part of. One thing I'd add to my answer on design systems: at Fenwick I set up the shared component library in Figma that cut our handoff time roughly in half, which I didn't explain well in the moment. I'm very interested in the role and happy to send anything else that helps.\nBest,\nAlina",
+   "situation": "I'm Alina. Had a final-round interview yesterday for a product designer role at Larkspur Health with the head of design, Marcus. He talked a lot about their accessibility audit. I fumbled a question about design systems: I forgot to say that at my last job, at Norvell, I set up the shared component library, which cut our handoff time roughly in half.",
+   "reply": "Hi Marcus,\nThank you for the conversation yesterday. What you said about the accessibility audit stuck with me; it's the kind of work I'd want to be part of. One thing I'd add to my answer on design systems: at Norvell I set up the shared component library, which cut our handoff time roughly in half, and I didn't explain that well in the moment. I'm very interested in the role and happy to send anything else that helps.\nBest,\nAlina",
    "lang": "en",
    "note": "Within 24 hours, one specific thing he said, one clarification, one line of interest. Not a second cover letter."
   },
   {
    "id": "follow-up-after-interview-or-meeting-002",
-   "situation": "今天下午和合作方开了项目启动会，定了几件事：先做华东区试点，对方的孙经理负责提供门店数据，我负责出排期。想发个会后纪要。",
-   "reply": "各位好，感谢今天的时间，简单整理一下会议结论，确保大家理解一致：\n- 先做华东区试点，覆盖上海和杭州共12家门店。\n- 孙经理：10月9日前提供门店销售数据。\n- 我：10月10日前发出完整排期。\n- 待定：试点期间是否需要法务审核活动规则，由赵律师10月8日前确认。\n如有记错的地方请直接指出。\n陈静",
+   "situation": "我是陈静。今天下午和合作方开了项目启动会，定了几件事：先做华东区试点，对方的孙经理10月9日前提供门店数据，我10月10日前出排期。想发个会后纪要。",
+   "reply": "各位好，感谢今天的时间，简单整理一下会议结论，确保大家理解一致：\n- 先做华东区试点。\n- 孙经理：10月9日前提供门店数据。\n- 我：10月10日前发出完整排期。\n如有记错的地方请直接指出。\n陈静",
    "lang": "zh",
    "note": "会后纪要当天发，每一项都有负责人和日期，写下你希望成为事实的版本。"
   },
   {
    "id": "follow-up-after-interview-or-meeting-003",
-   "situation": "Interviewed for an account manager job at a logistics company 3 weeks ago, the recruiter Hannah said I'd hear back by last Friday. Nothing. I already sent one check-in 10 days ago.",
+   "situation": "Interviewed for an account manager job at Crestline Logistics 5 weeks ago; the recruiter, Hannah, said I'd hear back within two weeks. I sent one check-in two weeks ago and still nothing.",
    "reply": "Hi Hannah, I'll take the quiet as the timing not working out on your side. Thanks again for a well-run process, and I'd be glad to hear from you if a similar role opens up at Crestline.",
    "lang": "en",
    "note": "One check-in was already sent, so this is the short closing note. It leaves a good last impression without chasing."
   },
   {
    "id": "follow-up-after-interview-or-meeting-004",
-   "situation": "Got a rejection email this morning from Harbor Food Bank for the program manager role, after the final round. The director, Grace, was lovely and I'd genuinely want to work there someday.",
-   "reply": "Hi Grace,\nThank you for letting me know, and for a process that was genuinely well run. Our conversation about moving the pantry network to appointment-based pickups has stayed with me. If it's possible, I'd value one line on what tipped the decision. Either way, I'd be glad to hear from you if a similar role opens up.\nBest,\nMarcus",
+   "situation": "Had a phone screen today with Grace, the director of Harbor Food Bank, for the program manager role. She said long wait times at the pantries are the biggest complaint from clients, and invited me to a final round on Wednesday 7 October at 10am at their Pier Street warehouse with her and the operations lead, Ben. She asked me to bring a one-page plan for cutting wait times.",
+   "reply": "Hi Grace,\nThank you for the call today, and for being so open that wait times are the biggest complaint from clients; it's a problem I'd really like to work on. To confirm: the final round is on Wednesday 7 October at 10am at the Pier Street warehouse, with you and Ben, and I'll bring a one-page plan for cutting wait times. I'm looking forward to it.\nBest regards",
    "lang": "en",
-   "note": "After a no: reply once, ask for one line of feedback, then stop. The specific callback is what gets you remembered for the next opening."
+   "note": "When the call ends with a next step, the follow-up confirms the logistics in one line so a wrong time or place gets caught now, not on the day."
   },
   {
    "id": "follow-up-after-interview-or-meeting-005",
-   "situation": "今天约了行业前辈刘老师喝咖啡，聊了一个小时。她建议我找一个产品从头到尾拆一遍，推荐了《用户体验要素》，还说可以把我介绍给她在字节的前同事陈磊。想发微信谢谢她。",
-   "reply": "刘老师，谢谢您今天抽出一个小时跟我聊。您说的“找一个产品从头到尾拆一遍”对我特别有用，我这周就按《用户体验要素》把飞书文档拆一遍，周日前整理好发您看看。您提到可以介绍陈磊，我先写一段简短的自我介绍发您，您觉得合适再转给他就好。",
+   "situation": "今天约了行业前辈刘老师喝咖啡，聊了一个小时。她建议我找一个产品从头到尾拆一遍，推荐了《用户体验要素》，还说可以把我介绍给她的前同事陈磊。我打算拿自己天天用的记账App来拆。想发微信谢谢她。",
+   "reply": "刘老师，谢谢您今天抽出一个小时跟我聊。您说的“找一个产品从头到尾拆一遍”对我特别有用，我这周就按《用户体验要素》把我天天用的记账App拆一遍，周日前整理好发您看看。您提到可以介绍陈磊，我先写一段简短的自我介绍发您，您觉得合适再转给他就好。",
    "lang": "zh",
    "note": "Networking follow-up: quote her own advice back, show you're acting on it with a date, and make the introduction easy for her to pass on."
   },
   {
    "id": "follow-up-after-interview-or-meeting-006",
-   "situation": "At a trade show yesterday I talked for 10 minutes at our booth with Priyanka, head of procurement at Aster Hotels. We sell commercial laundry equipment. She said they're replacing machines at 3 properties next spring and asked about energy use. I have her card.",
+   "situation": "At the HospitalityX trade show yesterday I talked for 10 minutes at our stand with Priyanka, head of procurement at Aster Hotels. We sell commercial laundry equipment; our HX-40 washers use about 30% less power per load than the 2018 models most hotels are replacing. She said they're replacing machines at 3 properties next spring and asked about energy use. I have her card.",
    "reply": "Subject: Energy figures for the Aster laundry refit\n\nHi Priyanka, thanks for stopping by our stand at HospitalityX yesterday. You asked about energy use: our HX-40 washers use about 30 percent less power per load than the 2018 models most hotels are replacing, and the one-page spec with the figures is attached. If it would help your spring planning, I can send an estimate for all three properties by Friday 16 October. Would that be useful?",
    "lang": "en",
    "note": "Answer the one question she actually asked, then offer a small next step, not a demo call."
@@ -53,43 +53,43 @@
   },
   {
    "id": "follow-up-after-interview-or-meeting-008",
-   "situation": "Had my 1:1 with my manager Dana today about getting promoted to senior engineer. She said if I lead the billing migration and mentor our new hire Theo, she'll put me forward in the March cycle. I want it in writing without sounding like I'm lawyering her.",
-   "reply": "Hi Dana,\nThanks for the time today, it was really useful to hear exactly what the path to senior looks like. Quick recap so we're aligned:\n- I'll lead the billing migration, with cutover planned for 15 January.\n- I'll mentor Theo through his first quarter, and we'll review how that's going at the end of December.\n- If both land, you'll put me forward in the March promotion cycle.\nShout if I've got anything wrong. I'll bring a progress update to our 1:1 on Tuesday 3 November.\nMaya",
+   "situation": "I'm Maya. Had my 1:1 with my manager Dana today about getting promoted to senior engineer. She said if I lead the billing migration (cutover planned for 15 January) and mentor our new hire Theo, she'll put me forward in the March cycle. I want it in writing without sounding like I'm lawyering her.",
+   "reply": "Hi Dana,\nThanks for the time today, it was really useful to hear exactly what the path to senior looks like. Quick recap so we're aligned:\n- I'll lead the billing migration, with cutover planned for 15 January.\n- I'll mentor Theo.\n- If both land, you'll put me forward in the March promotion cycle.\nShout if I've got anything wrong. I'll bring a progress update to our 1:1 on Tuesday 3 November.\nMaya",
    "lang": "en",
    "note": "A career conversation is a meeting too: the recap with owners and dates is what turns 'if you do this' into something both of you remember the same way."
   },
   {
    "id": "follow-up-after-interview-or-meeting-009",
-   "situation": "I'm an internal candidate for team lead on our support team. Interviewed yesterday with the director, Renata. She asked how I'd lead people who were my peers until last week, and I think my answer was too vague. Want to send her a thank-you on Slack.",
-   "reply": "Hi Renata, thanks for the interview yesterday, and for being so direct about what the first 90 days would look like. Your question about leading people who've been my peers is the one I've kept thinking about, so here's the clearer answer: I'd hold a one-to-one with each of the six of us in my first two weeks, agree how we'll handle disagreements, and keep taking a share of the escalation queue so I stay close to the work. I'd really like this role, and I'm happy to talk it through further before you decide.",
+   "situation": "I'm an internal candidate for team lead on our support team of six. Interviewed yesterday with the director, Renata. She asked how I'd lead people who were my peers until last week, and I think my answer was too vague. Want to send her a thank-you on Slack.",
+   "reply": "Hi Renata, thanks for the interview yesterday. Your question about leading people who've been my peers is the one I've kept thinking about, so here's the clearer answer: I'd hold a one-to-one with each of the six of us in my first two weeks, agree how we'll handle disagreements, and keep taking a share of the escalation queue so I stay close to the work. I'd really like this role, and I'm happy to talk it through further before you decide.",
    "lang": "en",
    "note": "Internal follow-up: keep it short and in the channel you normally use, and spend it fixing the one weak answer rather than repeating the pitch."
   },
   {
    "id": "follow-up-after-interview-or-meeting-010",
-   "situation": "Met today with my son Oliver's Year 5 teacher, Mrs Adeyemi, and the SENCO, Mr Hart, about his reading. We agreed he gets three extra reading sessions a week with the TA from Monday Oct 5, I read with him 15 minutes each evening, and we review on Monday Nov 16. I want a recap so it doesn't get lost.",
-   "reply": "Dear Mrs Adeyemi and Mr Hart,\nThank you for your time today; it was reassuring to hear how well Oliver has settled this term. A quick recap so we're all on the same page:\n- School: three extra reading sessions a week with the TA, starting Monday 5 October.\n- Home: 15 minutes of reading with me each evening, noted in his reading record.\n- All of us: review meeting on Monday 16 November.\nPlease let me know if I've got anything wrong.\nBest wishes,\nRachel Moore",
+   "situation": "I'm Rachel Moore. Met today with my son Oliver's Year 5 teacher, Mrs Adeyemi, and the SENCO, Mr Hart, about his reading. We agreed he gets three extra reading sessions a week with the TA from Monday Oct 5, I read with him 15 minutes each evening, and we review on Monday Nov 16. I want a recap so it doesn't get lost.",
+   "reply": "Dear Mrs Adeyemi and Mr Hart,\nThank you for your time today. A quick recap so we're all on the same page:\n- School: three extra reading sessions a week with the TA, starting Monday 5 October.\n- Home: 15 minutes of reading with me each evening.\n- All of us: review meeting on Monday 16 November.\nPlease let me know if I've got anything wrong.\nBest wishes,\nRachel Moore",
    "lang": "en",
    "note": "A recap works outside the office too: owners and dates on every point, so the plan survives a busy term."
   },
   {
    "id": "follow-up-after-interview-or-meeting-011",
-   "situation": "9月22日终面了一家新能源车企的供应链岗位，HR刘女士说上周五前给结果，到今天还没消息，我还没催过。手上另一家的offer要10月9日前答复，但我更想去这家。国庆马上放假了。",
+   "situation": "我叫陈宇。9月22日终面了一家新能源车企的供应链岗位，HR刘女士说上周五前给结果，到今天还没消息，我还没催过。手上另一家的offer要10月9日前答复，但我更想去这家。国庆马上放假了。",
    "reply": "刘女士您好，希望您这周一切顺利。上次您提到上周五前会有结果，想确认一下是否还需要我补充什么材料。另外坦白说明一下：我手上有另一家公司的offer，需要在10月9日前答复，但我更希望加入贵司的供应链团队。如果方便，能否在那之前告诉我大概的进展？谢谢您！\n陈宇",
    "lang": "zh",
    "note": "时间线过了只问一次，赶在国庆前发；另一家offer是真的才提，说清日期和你的偏好，不施压。"
   },
   {
    "id": "follow-up-after-interview-or-meeting-012",
-   "situation": "Pitched my B2B invoicing startup yesterday to Sofia Marin, a partner at Northbeam Ventures. She pushed hard on our churn and asked to see monthly cohort retention. She said their partner meeting is Monday Oct 12.",
+   "situation": "I'm Arun. Pitched my B2B invoicing startup yesterday to Sofia Marin, a partner at Northbeam Ventures. She pushed hard on our churn and asked to see monthly cohort retention; we have cohorts since January 2025, and the March dip was two customers lost when their payroll platform shut down. Her partner meeting is Monday Oct 12.",
    "reply": "Hi Sofia, thanks for yesterday, and for pushing on churn; it's the right question to ask us. Attached is monthly cohort retention for every cohort since January 2025, with one line on the March dip: we lost two customers when their payroll platform shut down. If anything else would help before your partner meeting on Monday 12 October, tell me and I'll turn it around within a day. We'd very much like to work with Northbeam. Best, Arun",
    "lang": "en",
    "note": "After a pitch, send exactly what they asked for, meet the hardest question head on, and anchor to their next date."
   },
   {
    "id": "follow-up-after-interview-or-meeting-013",
-   "situation": "J'ai passé hier un entretien pour un poste de chargée de communication à la mairie de Villeurbanne, devant un jury de trois personnes : la directrice de la communication, Mme Garnier, un élu, M. Delorme, et une RH, Mme Haddad. Mme Garnier a beaucoup parlé de la refonte du journal municipal. Je voudrais envoyer un remerciement sans en faire trop.",
-   "reply": "Madame Garnier,\nJe vous remercie, ainsi que M. Delorme et Mme Haddad, pour l'entretien d'hier. Ce que vous avez dit de la refonte du journal municipal, pour qu'il parle davantage aux habitants des quartiers nord, m'a particulièrement marquée. J'ajoute un point à ma réponse sur les réseaux sociaux : à la communauté de communes du Val d'Ozon, j'ai aussi rédigé la charte de modération, ce que je n'ai pas eu le temps de mentionner. Ce poste m'intéresse vivement et je reste à votre disposition pour tout complément.\nJe vous prie d'agréer, Madame, l'expression de mes salutations distinguées.\nClaire Martin",
+   "situation": "Je suis Claire Martin. Hier, entretien pour un poste de chargée de communication à la mairie de Villeurbanne, devant la directrice de la communication, Mme Garnier, un élu, M. Delorme, et une RH, Mme Haddad. Mme Garnier a beaucoup parlé de la refonte du journal municipal. Sur les réseaux sociaux, j'ai oublié de dire qu'à la communauté de communes du Val d'Ozon j'avais rédigé la charte de modération. Je voudrais remercier sans en faire trop.",
+   "reply": "Madame Garnier,\nJe vous remercie, ainsi que M. Delorme et Mme Haddad, pour l'entretien d'hier. Ce que vous avez dit de la refonte du journal municipal m'a particulièrement marquée. J'ajoute un point à ma réponse sur les réseaux sociaux : à la communauté de communes du Val d'Ozon, j'ai aussi rédigé la charte de modération, ce que je n'ai pas eu le temps de mentionner. Ce poste m'intéresse vivement et je reste à votre disposition pour tout complément.\nJe vous prie d'agréer, Madame, l'expression de mes salutations distinguées.\nClaire Martin",
    "lang": "fr",
    "note": "Devant un jury, un seul message à la personne qui pilote le recrutement, en nommant les autres membres ; dans le public, le registre formel est attendu."
   },
@@ -103,13 +103,13 @@
   {
    "id": "follow-up-after-interview-or-meeting-015",
    "situation": "今天跟合作方开会，对方李总和我在交付时间上争得有点僵，我当时语气也冲了。最后定了分两期交付：第一期11月20日，第二期12月18日，他们10月16日前给齐素材。想发个会后纪要，顺便把气氛缓和一下。",
-   "reply": "李总好，今天会上我有几句说得急了，您别介意，也谢谢您最后一起想出分两期的办法。纪要如下，您看有没有出入：\n- 第一期11月20日交付，第二期12月18日交付。\n- 贵方10月16日前提供全部素材，对接人小周。\n- 我方10月9日前发两期的详细排期。\n哪里记得不对，您直接改就行。",
+   "reply": "李总好，今天会上我有几句说得急了，您别介意，也谢谢您最后一起想出分两期的办法。纪要如下，您看有没有出入：\n- 第一期11月20日交付，第二期12月18日交付。\n- 贵方10月16日前提供全部素材。\n- 我方10月9日前发两期的详细排期。\n哪里记得不对，您直接改就行。",
    "lang": "zh",
    "note": "会上起了摩擦，纪要开头用一句话认下自己的语气，不重提争论本身，然后照常写清每件事谁负责、哪天完成。"
   },
   {
    "id": "follow-up-after-interview-or-meeting-016",
-   "situation": "Had a video interview yesterday for a data analyst role at Brightwell Insurance with the hiring manager, Olu. He talked about moving the claims team from monthly spreadsheets to a live dashboard. My wifi dropped for about ten minutes, so we rushed my SQL case study answer at the end; he was gracious about it, and I've since written my approach up properly on half a page.",
+   "situation": "I'm Maria. Had a video interview yesterday for a data analyst role at Brightwell Insurance with the hiring manager, Olu. He talked about moving the claims team from monthly spreadsheets to a live dashboard. My wifi dropped for about ten minutes, so we rushed my SQL case study answer at the end; he was gracious about it, and I've since written my approach up properly on half a page.",
    "reply": "Hi Olu,\nThank you for the conversation yesterday, and for being so gracious when my connection dropped. Your plan to move the claims team from monthly spreadsheets to a live dashboard stuck with me; it's exactly the kind of work I'd want to do. Since we rushed the SQL case study at the end, I've written up my approach in half a page, attached, in case it helps to see it in full. I'm very interested in the role and happy to answer anything else.\nBest,\nMaria",
    "lang": "en",
    "note": "Thank him once for the grace, don't apologise again, and use the one addition to finish what the dropout cut short."
@@ -123,7 +123,7 @@
   },
   {
    "id": "follow-up-after-interview-or-meeting-018",
-   "situation": "In yesterday's renewal meeting with our client Hollis Dental, their ops manager Grace Liu asked for one invoice covering all four clinics, and I told her the new plan would cut their $3,000 monthly fee by 15%. I checked this morning and it's actually 11%, so $2,670 a month, not $2,550. She's taking the numbers to her CFO on Monday Oct 5.",
+   "situation": "I'm Tom. In yesterday's renewal meeting with our client Hollis Dental, their ops manager Grace Liu asked for one invoice covering all four clinics, and I told her the new plan would cut their $3,000 monthly fee by 15%. I checked this morning and it's actually 11%, so $2,670 a month, not $2,550. She's taking the numbers to her CFO on Monday Oct 5.",
    "reply": "Hi Grace,\nThanks again for yesterday. Your ask for one invoice covering all four clinics is now built into the proposal. One correction before it goes to your CFO: the new plan cuts your monthly fee by 11%, not the 15% I said, which brings it from $3,000 to $2,670 a month rather than $2,550. The corrected one-page summary is attached so you have the right figure for Monday 5 October. Sorry for the mix-up, and shout if anything else would help.\nBest,\nTom",
    "lang": "en",
    "note": "When you got a number wrong in the meeting, the correction is the one thing the follow-up adds; send it before they repeat it upward."

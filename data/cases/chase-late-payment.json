@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -155,6 +155,13 @@
    "reply": "Subject: Spring cover, and invoice #0856\n\nHi Sophie,\nThanks for thinking of me for the spring cover, I'd love to do it. Before I start anything new, invoice #0856 for $2,300, due 4 September, needs to be settled; I've attached it again with the bank details. As soon as it's paid I can start on the cover straight away. Could you check with your finance team and let me know the payment date?\nThanks,\nAlex",
    "lang": "en",
    "note": "Say yes to the new work and make the unpaid invoice the only thing standing before it; don't start new work while you're still owed."
+  },
+  {
+   "id": "chase-late-payment-023",
+   "situation": "I'm Nadia, a freelance bookkeeper. Invoice #0738 for £1,200 was dated 11 August and due 10 September; our signed agreement says payment within 30 days of the invoice date (clause 4). I emailed it to their accounts address on 11 August and again on 18 September, and now their finance contact, Fiona, says they never received it and their 30 days only start today.",
+   "reply": "Hi Fiona,\nThanks for coming back to me. I've attached invoice #0738 again, along with the two emails sending it to your accounts address on 11 August and 18 September. Clause 4 of our agreement sets payment at 30 days from the invoice date, so the £1,200 was due on 10 September. Could you include it in your next payment run and confirm the date it will go out? If future invoices should go to a different address, tell me which one and I'll use it from now on.\nThanks,\nNadia",
+   "lang": "en",
+   "note": "'Never received it' gets the proof of sending and the contract date once, no argument, plus a fix for the real cause."
   }
  ]
 }

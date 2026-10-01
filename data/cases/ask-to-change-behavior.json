@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -155,6 +155,13 @@
    "reply": "佐藤さん、ちょっと相談です。最近、私あての確認メールに課長がCCで入っていることが多くて、先週は誤字や会議室の予約の件も含めて5通ありました。細かいことまで課長に見られていると思うと、少し落ち着かなくて。細かい確認は私だけに送って、課長の判断が要るものだけCCにする、というのはどうでしょう？私も同じようにしますね。",
    "lang": "ja",
    "note": "意図は決めつけず、行動と自分への影響だけを伝える。お互いのルールにすると頼みやすい。"
+  },
+  {
+   "id": "ask-to-change-behavior-023",
+   "situation": "My friend Callum vapes in my car when I drive us both to five-a-side on Wednesday nights. The smell hangs around for days, and my daughter Ellie's car seat is in the back. He's a good mate and I don't think he's thought about it. Texting him before next Wednesday.",
+   "reply": "Hey Callum, small thing before Wednesday: could you hold off vaping in the car? The smell sticks around for days and Ellie's car seat is in the back, so I'd rather keep it clear. Happy to stop for a couple of minutes at the pitch so you can have one before we go in. Still picking you up at the usual time.",
+   "lang": "en",
+   "note": "Your car, your kid: that reason is enough. Giving him a place to vape keeps the ask small and the lift on offer."
   }
  ]
 }

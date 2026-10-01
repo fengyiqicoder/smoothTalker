@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -155,6 +155,13 @@
    "reply": "Dear Graham, I'm so sorry about Anne, and thank you for letting me know about the service on Friday 9 October. I won't be able to come over from Toronto, and I'm sad to miss the chance to remember her with you. I still think of how warm she was to all of us at those team barbecues. I'll be thinking of you on the day, and I'd love to give you a call in a few weeks, whenever suits you.",
    "lang": "en",
    "note": "For a memorial, the no is one clause; the space goes to the person who died and the one left behind."
+  },
+  {
+   "id": "decline-invitation-023",
+   "situation": "Mon amie Claire joue dans une pièce de théâtre amateur et m'a invitée à la première, le samedi 10 octobre à 20h. Ce soir-là je garde mes neveux, mais la pièce se joue tous les samedis jusqu'au 24 octobre et j'ai vraiment envie de la voir sur scène.",
+   "reply": "Claire, merci pour l'invitation, je suis tellement contente pour toi ! Je ne pourrai pas venir à la première le 10, je garde mes neveux ce soir-là. Mais je ne veux pas rater ça : je viens le samedi 17, et on prend un verre après si tu as un moment.",
+   "lang": "fr",
+   "note": "Une autre date seulement parce qu'elle a vraiment envie d'y aller ; sinon, un mot chaleureux suffit."
   }
  ]
 }
