@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 15,
+ "count": 19,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -106,6 +106,34 @@
    "reply": "王老师您好，我是三年级二班林小雨的妈妈。今晚家长群里有个和您同名同头像的账号发了收款二维码，让每位家长交380元资料费，说晚上8点前截止。我还没有扫码，也没有付钱。想跟您确认一下，这是您发的吗？如果不是，可能需要尽快提醒其他家长先别转账。",
    "lang": "zh",
    "note": "用开学时存的电话发短信或直接打给老师，不要私聊群里那个账号，也不要扫码；确认是假冒后在微信里举报该账号，并请群主把它移出群。"
+  },
+  {
+   "id": "suspicious-or-scam-message-016",
+   "situation": "我妈今天上午电脑弹出一个窗口，说电脑中了病毒，让她打上面的“技术支持”电话。她打了，对方让她装了一个远程控制软件，还让她登录网银“检查账户安全”。她刚在微信上跟我说了，我在公司，下午6点下班。",
+   "reply": "妈，先别着急，也别怪自己，这种弹窗就是专门设计来骗人的。现在马上做三件事：先把电脑关机或者拔掉网线；对方再打电话来直接挂掉，不管他说什么都别再操作；然后打你银行卡背面的客服电话，告诉他们有陌生人远程登录过你的网银，请他们帮忙查有没有转账、要不要先冻结。我6点下班直接过去，咱们一起把密码都改了。",
+   "lang": "zh",
+   "note": "先止损：只打银行卡背面的号码，不打弹窗里的；如果钱已经被转走，马上报警，并保留通话记录和截图。"
+  },
+  {
+   "id": "suspicious-or-scam-message-017",
+   "situation": "Ich verkaufe auf einer Verkaufsplattform mein Rennrad für 600 Euro. Ein Käufer, der sich Thomas nennt, schreibt, er habe aus Versehen 900 Euro überwiesen, schickt einen Screenshot der angeblichen Überweisung und bittet mich, ihm die 300 Euro Differenz sofort zurückzuschicken. In meiner Banking-App ist nichts eingegangen.",
+   "reply": "Hallo Thomas, auf meinem Konto ist keine Zahlung eingegangen, und ein Screenshot reicht mir nicht. Ich überweise kein Geld zurück. Wenn du das Rad möchtest, geht das nur bei Abholung mit Barzahlung von 600 Euro vor Ort.",
+   "lang": "de",
+   "note": "Überzahlung plus Bitte um Rückzahlung ist ein typisches Muster: Zahlungen nur selbst in der eigenen Banking-App prüfen, dann nicht weiter diskutieren und den Nutzer auf der Plattform melden."
+  },
+  {
+   "id": "suspicious-or-scam-message-018",
+   "situation": "In August I lost $3,200 to a fake crypto trading site and reported it to the police; my case reference is 26-08814 and the officer is Detective Sergeant Ruiz, ds.ruiz@example.com. Today a 'Funds Recovery Bureau' emailed saying they've traced my money and can get it back for a $450 release fee, and they quoted my case number. I haven't replied.",
+   "reply": "Hello DS Ruiz, I'm writing about case 26-08814. Today I received an email from a 'Funds Recovery Bureau' saying they've traced the $3,200 I lost in August and can return it for a $450 release fee, and it quoted my case number. I haven't replied or paid anything. Is this connected to your investigation in any way, and would you like me to forward the email to you?",
+   "lang": "en",
+   "note": "Anyone asking for a fee to recover lost money is a red flag; check with the officer you already have, send nothing, and report the email as part of your case."
+  },
+  {
+   "id": "suspicious-or-scam-message-019",
+   "situation": "My son Leo, 15, just told me, shaking, that someone he met in a gaming chat got him to send a private photo and is now demanding $500 in gift cards by midnight or they'll send it to his friends and his school. He hasn't paid or replied. He said he's so ashamed he wishes he was dead.",
+   "reply": "Leo, you did exactly the right thing telling me, and you are not in trouble. The person doing this is a criminal who does it on purpose, and none of this is your fault. We're not paying and we're not answering them: we'll screenshot everything, block them and report it together tonight. You said you wish you were dead, and I'm taking that seriously, so I'm staying right here with you. We'll get through this together.",
+   "lang": "en",
+   "note": "Keep the messages as evidence and report to the platform and the police. He has already said he wishes he was dead: call a crisis line with him tonight, don't leave him alone, and call emergency services if he talks about a plan or you think he is in danger."
   }
  ]
 }

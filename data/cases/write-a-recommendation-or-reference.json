@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 15,
+ "count": 19,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -106,6 +106,34 @@
    "reply": "Herr Felix Bauer war vom 1. März 2024 bis zum 30. September 2026 als Werkstudent in unserem Entwicklungsteam tätig. Er hat die automatisierte Testabdeckung unserer Kernanwendung eigenständig von 40 auf 75 Prozent erhöht. Zudem hat er zwei neue Werkstudenten eingearbeitet, die bereits nach wenigen Wochen selbstständig arbeiteten. Die ihm übertragenen Aufgaben erledigte er stets zu unserer vollsten Zufriedenheit. Herr Bauer verlässt uns, weil sein Studium endet. Wir bedauern sein Ausscheiden sehr, danken ihm für seine wertvolle Arbeit und wünschen ihm für seinen weiteren Weg alles Gute.",
    "lang": "de",
    "note": "Zeugnissprache ist codiert: „stets zu unserer vollsten Zufriedenheit“ gilt als Bestnote, also nur so schreiben, wenn man es meint; Formulierungen im Zweifel mit HR prüfen."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-016",
+   "situation": "我是客服部主管。组员李悦想内部转岗到产品部，产品部的周经理在企业微信上问我对她的看法。李悦跟了我两年半，去年她把客户投诉最多的20个问题整理成报告交给产品部，其中6个已经改进上线了。她没做过产品经理，需求文档这块我没见过她写。",
+   "reply": "周经理您好，李悦在我们客服组两年半，一直是我直接带的。她最突出的是能从大量客户反馈里抓住重点：去年她把投诉最多的20个问题整理成报告交给你们产品部，其中6个已经改进上线了。需求文档这块我没见过她写，就不评价了。但要说懂用户、能把问题讲清楚，我非常推荐她。需要细聊的话随时找我。",
+   "lang": "zh",
+   "note": "内部推荐：说清你带了她多久、一个有结果的具体例子，没见过的部分直接说明，不替她打包票。"
+  },
+  {
+   "id": "write-a-recommendation-or-reference-017",
+   "situation": "I'm Gareth Lloyd, former head of finance at Mercer & Vale. Imani Brooks was my financial analyst from 2016 to 2020, then took five years out to care for a family member; she's applying for a senior analyst role at Ashgrove Health and asked me for a reference letter. In 2019 she built the cash-flow model that flagged a £400,000 shortfall three months early, and she trained two junior analysts to use it. Contact: 07700 900641, g.lloyd@example.com.",
+   "reply": "Dear Hiring Manager,\nI'm pleased to recommend Imani Brooks for the Senior Analyst role at Ashgrove Health. I managed Imani as a financial analyst at Mercer & Vale from 2016 to 2020. In 2019 she built the cash-flow model that flagged a £400,000 shortfall three months before it would have landed, and she trained two junior analysts to use it. My knowledge of her work covers those four years, and on that basis I recommend her strongly for a senior analyst role. I'd be glad to talk further: 07700 900641 or g.lloyd@example.com.\nYours faithfully,\nGareth Lloyd",
+   "lang": "en",
+   "note": "After a career break, vouch for the years you saw and say which they were; the reason for the gap is hers to share, not yours."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-018",
+   "situation": "Our company asks peers to write a short statement for promotion cases. My peer Ines, a backend engineer, is up for Staff. I've worked with her for 18 months on the search team: she designed the indexing pipeline that cut search latency from 900ms to 250ms, and after the June outage she ran the incident review that got three teams to agree on fixes. I haven't seen her do cross-org planning, which is one of the Staff criteria.",
+   "reply": "I've worked alongside Ines on the search team for 18 months. She designed our indexing pipeline, which cut search latency from 900ms to 250ms. After the June outage she ran the incident review, and it was her facilitation that got three teams to agree on fixes. I haven't worked with her on cross-org planning, so I'll leave that criterion to people who have. On technical design and leading across teams in a crisis, I support her promotion to Staff strongly.",
+   "lang": "en",
+   "note": "A peer statement for a promotion: map your evidence to the criteria you saw and name the one you didn't, so the committee trusts the rest."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-019",
+   "situation": "I'm head chef at Larder & Vine. Tomasz Nowak worked my grill station for two years and left in August; in his last year he ran grill on his own on Saturdays, around 180 covers a night, and he trained our two newer cooks on steak temperatures. Chef Maya Okonkwo from another restaurant just messaged me on WhatsApp asking if he can handle her Saturday-night grill alone. I'd hire him back.",
+   "reply": "Hi Maya, yes, he can. Tomasz worked my grill for two years, and for his last year he ran it on his own on Saturdays, around 180 covers a night. He also trained our two newer cooks on steak temperatures. I'd hire him back. Happy to talk if you want more.",
+   "lang": "en",
+   "note": "A quick reference by message: answer her exact question first, then the evidence that matches it."
   }
  ]
 }

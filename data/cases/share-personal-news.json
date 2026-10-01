@@ -5,13 +5,13 @@
   {
    "id": "share-personal-news-001",
    "situation": "I just got into a PhD program in Edinburgh, starting in January, so I'm moving from Toronto. My best friend Zoe and I have lived 10 minutes apart for 8 years. I want to tell her before I post anything.",
-   "reply": "Wanted you to hear this from me before it's anywhere else: I got into the PhD in Edinburgh! It starts in January, so I'm moving over Christmas. I'm thrilled and also already missing you. Can I take you for dinner Friday and tell you everything?",
+   "reply": "Wanted you to hear this from me before it's anywhere else: I got into the PhD in Edinburgh! It starts in January, so I'm moving over. I'm thrilled and also already missing you. Can I take you for dinner Friday and tell you everything?",
    "lang": "en",
    "note": "Closest people first, individually. The news, one line of feeling, what's next."
   },
   {
    "id": "share-personal-news-002",
-   "situation": "我和老公决定离婚了，已经协商好。想在大学室友的四人群里说一声，免得她们以后问起尴尬，但不想被追问细节。",
+   "situation": "我和老公阿杰决定离婚了，已经和平协商好。想在大学室友的四人群里说一声，免得她们以后问起尴尬，但不想被追问细节。",
    "reply": "跟你们说件事，统一说一次就不再重复啦：我和阿杰决定离婚了，已经好好谈过，是和平分开的。我还好，就是需要点时间适应。不想聊原因，但很想这阵子多见见你们，下个月谁有空一起吃个饭？",
    "lang": "zh",
    "note": "群里说一次，直接告诉大家怎么回应：不问细节，要陪伴。"
@@ -25,22 +25,22 @@
   },
   {
    "id": "share-personal-news-004",
-   "situation": "I'm leaving my accounting job at Deloitte on Oct 30 to run my bakery full time. My parents sacrificed a lot for my degree and they'll worry. We have our usual call Sunday but I want to text first so it's not an ambush.",
-   "reply": "Mom, Dad, I want to tell you something before our call on Sunday so you have time to take it in: I'm leaving Deloitte on October 30 to run the bakery full time. I've saved eight months of expenses and the Saturday market stall already covers its own costs. I know how much you gave for that degree, and I'll be using every bit of it on my own business. On Sunday I'd love your questions, and I'd love it if we could start from being happy for me.",
+   "situation": "I'm leaving my accounting job at Hartwell & Finch on Oct 30 to run my bakery full time; I've saved eight months of expenses and my Saturday market stall already covers its costs. My parents sacrificed a lot for my degree and they'll worry. We have our usual call Sunday but I want to text first so it's not an ambush.",
+   "reply": "Mom, Dad, I want to tell you something before our call on Sunday so you have time to take it in: I'm leaving Hartwell & Finch on October 30 to run the bakery full time. I've saved eight months of expenses and the Saturday market stall already covers its own costs. I know how much you gave for that degree, and I'll be using every bit of it on my own business. On Sunday I'd love your questions, and I'd love it if we could start from being happy for me.",
    "lang": "en",
    "note": "News likely to worry the reader: lead with the fact, give the two numbers that answer the first fear, and say how you hope they'll respond."
   },
   {
    "id": "share-personal-news-005",
-   "situation": "我刚拿到一家大厂的offer，11月2号入职。最好的朋友小雨上个月刚被裁，还在找工作。想单独先告诉她，不想让她从朋友圈看到。",
-   "reply": "雨，想先单独跟你说一声，不想你从朋友圈看到：我拿到了新offer，11月2号入职。我知道你这阵子找工作很累，所以想自己先告诉你，你不用急着回，也不用勉强说恭喜。周六我请你吃饭吧，想听听你那边怎么样，不聊我的事也完全可以。",
+   "situation": "我是产品经理，昨天和组里大概三分之一的人一起被裁了。想在五个好朋友的微信群里说一声，最想要的是大家帮我留意合适的产品岗位，不需要安慰。",
+   "reply": "跟大家说个事：我昨天被裁了，组里大概三分之一的人一起。我还行，就是有点懵。下周开始找新工作，你们身边如果有产品经理的岗位，帮我留意一下、推给我就是最大的帮忙。别的不用操心，也不用安慰我，就是想让你们知道。",
    "lang": "zh",
-   "note": "好消息遇上处境难的读者：单独先说，简短，不铺陈细节，并明确告诉她不用做出反应。"
+   "note": "坏消息先想清楚要什么：这里要的是实际帮忙，就直接说一件具体的事，并说明不需要安慰。"
   },
   {
    "id": "share-personal-news-006",
-   "situation": "I've been diagnosed with breast cancer, caught early. Surgery is Oct 14 and I'll be off about six weeks. My manager knows; I want to email my team of 5 myself but I don't want lots of questions.",
-   "reply": "Hi all, I wanted you to hear this from me: I've been diagnosed with breast cancer. It was caught early and the outlook is good. I'm having surgery on Wednesday, Oct 14, and will be off for about six weeks; Rohan is covering my projects and has everything he needs. I'd rather not go into details, but kind messages are very welcome and you don't need to find the perfect words. I'll send a short note when I'm back.",
+   "situation": "I've been diagnosed with breast cancer, caught early. Surgery is Oct 14 and I'll be off about six weeks, with Rohan covering my projects. My manager knows; I want to email my team of 5 myself but I don't want lots of questions.",
+   "reply": "Hi all, I wanted you to hear this from me: I've been diagnosed with breast cancer. It was caught early. I'm having surgery on Wednesday, Oct 14, and will be off for about six weeks; Rohan is covering my projects and has everything he needs. I'd rather not go into details, but kind messages are very welcome and you don't need to find the perfect words. I'll send a short note when I'm back.",
    "lang": "en",
    "note": "Hard news at work: the fact, the practical plan, and a clear signal for how to respond."
   },
@@ -53,45 +53,45 @@
   },
   {
    "id": "share-personal-news-008",
-   "situation": "I had a miscarriage last week at 11 weeks. I'd told my three closest friends about the pregnancy a couple of weeks ago, so they need to know. I don't want to talk about it much yet and I don't want them to be weird around me.",
-   "reply": "I need to tell you something hard, and I'd rather do it in writing: I lost the pregnancy last week. Physically I'm okay, and Tom and I are taking it a day at a time. I'm not ready to talk about it much yet, so please don't worry about finding the right words; a heart or an 'I'm here' is plenty. What would help most is you being normal with me, so yes, I'm still coming to book club on Thursday.",
+   "situation": "I had a miscarriage last week at 11 weeks; physically I'm recovering fine. I'd told my three closest friends, who are in my book club with me (next meeting Thursday), about the pregnancy a couple of weeks ago, so they need to know. I don't want to talk about it much yet and I don't want them to be weird around me.",
+   "reply": "I need to tell you something hard, and I'd rather do it in writing: I lost the pregnancy last week. Physically I'm okay, and I'm taking it a day at a time. I'm not ready to talk about it much yet, so please don't worry about finding the right words; a heart or an 'I'm here' is plenty. What would help most is you being normal with me, so yes, I'm still coming to book club on Thursday.",
    "lang": "en",
-   "note": "Hard news to people who knew the good news: the fact in one line, then a clear signal of the support wanted, which here is normality."
+   "note": "Hard news to people who knew the good news: the fact in one line, then a clear signal of the support wanted, which here is normality. If bleeding or pain gets worse, or the low mood doesn't lift, see a doctor."
   },
   {
    "id": "share-personal-news-009",
-   "situation": "我和女朋友小林上周领证结婚了，决定不办婚礼，两个人去旅行就算了。爸妈提前知道，也支持。现在想在家族群里说一声，怕长辈们觉得没被尊重。",
+   "situation": "我和女朋友小林上周领证结婚了，决定不办婚礼，两个人去云南旅行就算了。爸妈提前知道，也支持。春节回老家想给长辈敬酒。现在想在家族群里说一声，怕长辈们觉得没被尊重。",
    "reply": "各位长辈、兄弟姐妹：跟大家报个喜，我和小林上周领证结婚了！我们商量后决定不办婚礼，两个人去云南走一走当蜜月。爸妈之前已经知道，也很支持我们。春节回老家的时候，我们俩一起给大家敬酒、发喜糖。谢谢大家一直以来的关心！",
    "lang": "zh",
    "note": "先告诉爸妈，再发家族群；喜讯放第一句，“不办婚礼”一句说清，再给长辈一个具体的见面场合，比解释原因更显尊重。"
   },
   {
    "id": "share-personal-news-010",
-   "situation": "My dad died on Sunday after a short illness. He bowled in a Thursday-night league for 20 years and I'm in their WhatsApp group because I set it up for him. The funeral is Friday Oct 9 at 11am at St Mary's in Harrow. I need to tell them.",
-   "reply": "This is Sarah, Dave's daughter. Dad died on Sunday, peacefully, after a short illness. Thursday nights with all of you were the highlight of his week for twenty years. The funeral is on Friday 9 October at 11am at St Mary's, Harrow, and you'd all be very welcome. No need to message me individually; I'll pass on anything you post here to Mum.",
+   "situation": "I'm Sarah. My dad Dave died peacefully on Sunday after a short illness. He bowled in a Thursday-night league for 20 years and I'm in their WhatsApp group because I set it up for him. The funeral is Friday Oct 9 at 11am at St Mary's in Harrow. I need to tell them, and I'll pass on their messages to Mum.",
+   "reply": "This is Sarah, Dave's daughter. Dad died on Sunday, peacefully, after a short illness. He bowled with all of you on Thursday nights for twenty years. The funeral is on Friday 9 October at 11am at St Mary's, Harrow, and you'd all be very welcome. No need to message me individually; I'll pass on anything you post here to Mum.",
    "lang": "en",
    "note": "Telling someone else's circle: who you are first, the fact plainly, the arrangements, and how you'd like them to respond."
   },
   {
    "id": "share-personal-news-011",
-   "situation": "I'm gay and I'm planning to come out to my parents in person at Thanksgiving. I want to tell my older sister Megan first, by text tonight since she lives in Denver, and ask her not to say anything to Mom and Dad yet.",
+   "situation": "I'm gay, I've known for a while and I'm happy about it. I'm planning to come out to my parents in person at Thanksgiving. I want to tell my older sister Megan first, by text tonight since she lives in Denver, and ask her not to say anything to Mom and Dad yet.",
    "reply": "Megs, I want you to be the first to know, before Mom and Dad: I'm gay. I've known for a while and honestly I'm happy. I'm planning to tell them in person at Thanksgiving, so please keep it between us until then. Call me tomorrow night if you're free? I'd love to hear your voice.",
    "lang": "en",
    "note": "Closest person first, the news in the first line, and a clear cue for how to respond: keep it private until the parents hear it in person."
   },
   {
    "id": "share-personal-news-012",
-   "situation": "My wife died three years ago. I've been seeing a woman named Carol for four months and I'd like to bring her to Thanksgiving. I want to tell my two adult kids first, separately, starting with my daughter Anna tonight by text.",
+   "situation": "My wife died three years ago. I've been seeing a woman named Carol, whom I met at the library book group, for four months and I'd like to bring her to Thanksgiving. I want to tell my two adult kids first, separately, starting with my daughter Anna tonight by text.",
    "reply": "Anna, I wanted you to hear this from me before it comes up any other way: I've been seeing someone. Her name is Carol, we met at the library book group, and it's been about four months. It doesn't change anything about how much I miss your mom. I'd love for you to meet her before Thanksgiving, maybe lunch, just the three of us, but only when you're ready. Call me whenever you want to talk, or take some time first, both are fine.",
    "lang": "en",
    "note": "Tell each child individually before any gathering, and say plainly that either a call or some space is a fine response."
   },
   {
    "id": "share-personal-news-013",
-   "situation": "Je vais emménager avec mon compagnon Julien en janvier. Mon ex, Marc, est le père de nos deux enfants (8 et 11 ans) et on s'entend correctement. Je veux qu'il l'apprenne par moi avant que les enfants lui en parlent.",
+   "situation": "Je vais emménager avec mon compagnon Julien en janvier, dans le même quartier. Mon ex, Marc, est le père de nos deux enfants, Léa (8 ans) et Tom (11 ans), et on s'entend correctement. Je le dis aux enfants ce week-end et je veux que Marc l'apprenne par moi avant.",
    "reply": "Bonjour Marc, je préfère que tu l'apprennes par moi avant que les enfants t'en parlent : Julien et moi allons emménager ensemble en janvier. On reste dans le même quartier, donc rien ne change pour l'école ni pour la garde. Je l'annonce à Léa et Tom ce week-end ; si tu veux qu'on se mette d'accord avant sur ce qu'on leur dit, appelle-moi quand tu veux.",
    "lang": "fr",
-   "note": "For a co-parent, lead with what does not change for the children; that is their real question."
+   "note": "Pour un coparent, commencer par ce qui ne change pas pour les enfants : c'est sa vraie question."
   },
   {
    "id": "share-personal-news-014",
@@ -116,7 +116,7 @@
   },
   {
    "id": "share-personal-news-017",
-   "situation": "I'm transitioning, and from now on I'm going by Dani and using she/her. I've already told my parents and my closest friend. I want to tell our 8-person climbing group chat before our session on Saturday Oct 3, and I don't want a big fuss, I just want people to use the name.",
+   "situation": "I'm transitioning, and from now on I'm going by Dani and using she/her; I'm happy and a bit nervous. I've already told my parents and my closest friend. I want to tell our 8-person climbing group chat before our session on Saturday Oct 3, and I don't want a big fuss, I just want people to use the name.",
    "reply": "Some news before Saturday: I'm transitioning, and from now on I'm Dani and I use she/her. I'm happy, and a bit nervous to be typing this. You don't need to say anything big; the best thing you can do is just use the name, and if you slip up, a quick correction and carry on is completely fine. See you on the wall Saturday.",
    "lang": "en",
    "note": "Tell people exactly how to respond, including what to do when they get it wrong, so nobody freezes."
@@ -147,7 +147,7 @@
    "situation": "总监今天告诉我，我升任设计组组长，国庆后10月8日（周四）例会上正式宣布，他同意我提前私下先跟小周说。小周资历比我老，也申请了这个岗位。想先单独发微信给她，不想让她在会上才听到。",
    "reply": "小周，有件事想在例会前先单独跟你说：总监定了由我接任设计组组长，10月8日例会上宣布。我知道你也申请了，你资历比我老，这事我不想让你在会上才听到。以后组里很多事还要靠你，节后想约你喝杯咖啡聊聊，你看哪天方便？",
    "lang": "zh",
-   "note": "好消息对某个人是坏消息时，先单独、提前告诉她，承认她的付出，不替她消化情绪。"
+   "note": "好消息对某个人是坏消息时，先单独、提前告诉她，承认她的付出，不替她消化情绪；在工作场合，先得到上级同意再私下说。"
   },
   {
    "id": "share-personal-news-022",

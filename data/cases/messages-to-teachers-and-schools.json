@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -183,6 +183,13 @@
    "reply": "孙老师您好，我是中班糖糖的妈妈。这周一和周三晚上给糖糖洗澡时，我发现她胳膊上各有一个牙印，她说是班上一个小朋友咬的。我只听了孩子的说法，想问问您当时有没有注意到是怎么回事？另外想拜托您，以后孩子在园里磕了碰了，哪怕是小伤，也请当天跟我说一声，我们在家好配合。每天放学我都来接，您方便时跟我聊几句就好。谢谢您！",
    "lang": "zh",
    "note": "只说看到的牙印和孩子的说法，不点另一个孩子的名字；先问老师看到了什么，再提一个以后能做到的请求。"
+  },
+  {
+   "id": "messages-to-teachers-and-schools-027",
+   "situation": "The school portal shows my son Mateo (Year 10, history teacher Mrs Okoye) has six missing history assignments since early September, though he's told me every night his homework was done. We've talked, and from this week he does homework at the kitchen table before any screen time. I want to know what to prioritise and whether there's a deadline to catch up; I'm free afternoons.",
+   "reply": "Dear Mrs Okoye, I'm Mateo's mum, from your Year 10 history class. I've just seen on the school portal that Mateo has six missing history assignments since early September, which I hadn't realised. We've talked about it, and from this week he does his homework at the kitchen table before any screen time. Could you let me know which pieces he should prioritise, and whether there's a deadline for catching up? Thank you, and I'm happy to talk by phone any afternoon.",
+   "lang": "en",
+   "note": "When your child is the problem, skip the excuses: show what's changed at home and ask the teacher for the plan."
   }
  ]
 }

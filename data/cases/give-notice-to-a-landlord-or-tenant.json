@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -183,6 +183,13 @@
    "reply": "Dear Mr Byrne,\nI'm writing to give notice that I'll be leaving Flat 6, 31 Quay Street, with my tenancy ending on Friday 30 October 2026, in line with the 28 days' written notice in clause 7 of our lease. My mother is unwell, so I flew home to Toronto on 25 September and won't be coming back. October's rent is already paid. My friend Niamh Kelly will clear the flat, attend the check-out inspection on the 30th and return all the keys; you can reach her on 087 555 0192. Could you return the deposit to the bank account you have on file, and confirm in writing that you've received this notice?\nThank you for two good years.\nAiden Walsh",
    "lang": "en",
    "note": "When you can't be there, name the person handling the handover and agree with the landlord in writing what she can sign on your behalf."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-027",
+   "situation": "我在深圳合租，住次卧，是跟二房东刘哥签的转租协议，月租2600，押一付一。协议写的是退租提前30天告知，微信通知有效。我找到了离公司近的房子，想10月31日退租。",
+   "reply": "刘哥你好，正式跟你说一下：我准备退租次卧，租期到2026年10月31日（周六）结束。按我们协议里提前30天告知的约定，今天在微信上通知你。10月的房租我照常交，31日上午我们一起验房、交钥匙，验房没问题的话麻烦把2600押金退给我。你想带人看房的话，提前一天跟我说就行。收到麻烦回我一下，这段时间谢谢照顾。",
+   "lang": "zh",
+   "note": "转租要通知跟你签协议的二房东；发之前再核对一遍协议里的告知期限和方式，并截图保存这条消息。"
   }
  ]
 }

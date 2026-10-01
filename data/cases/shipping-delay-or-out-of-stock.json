@@ -11,105 +11,105 @@
   },
   {
    "id": "shipping-delay-or-out-of-stock-002",
-   "situation": "We print packaging for a cosmetics brand. Their 5,000 boxes will be 10 days late because our foil supplier is behind. Contact is Lena, their launch is Nov 20.",
+   "situation": "I'm Marco; we print packaging for a cosmetics brand. Their 5,000 boxes (PO 8812) will arrive 6 November instead of 27 October because our foil supplier is behind, but I could send 2,000 unfoiled boxes on 27 October free. Contact is Lena, their launch is Nov 20.",
    "reply": "Hi Lena, PO 8812 (5,000 printed boxes) will now reach you on 6 November instead of 27 October, because our foil supplier is behind. That still leaves two weeks before your launch on the 20th. If that's too tight for your filling schedule, I can send 2,000 unfoiled boxes on 27 October at no charge so your line can start, with the full foiled order on the 6th. Let me know by Friday which you'd prefer and I'll confirm the dates in writing the same day. Marco",
    "lang": "en",
    "note": "B2B customers need a plan they can pass on, so lead with the date and the launch buffer."
   },
   {
    "id": "shipping-delay-or-out-of-stock-003",
-   "situation": "Ich habe einen kleinen Online-Teeshop. Eine Kundin, Frau Krüger, hat die Sorte Winterapfel bestellt (Bestellung 3087), die ist aber ausverkauft. Neue Lieferung kommt am 20. Oktober.",
+   "situation": "Ich bin Jana und habe einen kleinen Online-Teeshop. Frau Krüger hat Winterapfel bestellt (Bestellung 3087), der ist ausverkauft; neue Lieferung am 20. Oktober. Bratapfel ist vorrätig, und ich kann ihr eine Probe unserer neuen Rooibos-Mischung schenken.",
    "reply": "Hallo Frau Krüger, der Winterapfel aus Ihrer Bestellung 3087 ist ausverkauft, das hätte unser Shop gar nicht mehr annehmen dürfen. Die neue Lieferung kommt am 20. Oktober, und Ihr Paket geht am selben Tag raus. Drei Möglichkeiten: Sie warten, und ich lege eine Probe unserer neuen Rooibos-Mischung dazu; Sie nehmen stattdessen den Bratapfel, der morgen verschickt wird; oder Sie bekommen heute die volle Erstattung. Wenn ich bis Freitag nichts höre, halte ich die Bestellung für den 20. fest. Entschuldigen Sie die Umstände. Viele Grüße, Jana",
    "lang": "de",
-   "note": "State the default so doing nothing is also a clear choice."
+   "note": "Die Standardoption nennen, damit auch Nichtstun eine klare Wahl ist."
   },
   {
    "id": "shipping-delay-or-out-of-stock-004",
-   "situation": "我在淘宝卖手工香薰蜡烛。顾客林女士的订单（尾号5816）顺丰物流9月22号之后就没更新了，今天快递确认丢件。她是买来送朋友10月3号生日的，还没来问。",
-   "reply": "林女士您好，您的订单（尾号5816）出了问题：顺丰今天确认包裹在中转站丢失了，我们刚查到，先跟您说一声。我今天下午给您重新发一份，走顺丰特快，10月1日前送到，赶得上您朋友3号的生日。如果您更想退款，回我“退款”两个字，我当天原路退回。今晚之前没收到回复的话，我就按重发处理，单号发您；原来那份如果后来到了，您留着就好。给您添麻烦了。店主小周",
+   "situation": "我是淘宝手工香薰蜡烛店的店主小周。顾客林女士的订单（尾号5816）物流9月22号之后就没更新，今天快递确认在中转站丢件。她是买来送朋友10月3号生日的，还没来问。今天下午重发特快，10月2日能到。",
+   "reply": "林女士您好，您的订单（尾号5816）出了问题：快递今天确认包裹在中转站丢失了，我们刚查到，先跟您说一声。我今天下午给您重新发一份，走特快，10月2日送到，赶得上您朋友3号的生日。如果您更想退款，回我“退款”两个字，我当天原路退回。今晚之前没收到回复的话，我就按重发处理，单号发您；原来那份如果后来到了，您留着就好。给您添麻烦了。店主小周",
    "lang": "zh",
-   "note": "Proactive, before she has to ask: the fix is built around her gift date, refund is one word, and the default is stated."
+   "note": "主动先说，不等顾客来问：补发围绕她送礼的日期安排，退款只需回两个字，默认做法写清楚。"
   },
   {
    "id": "shipping-delay-or-out-of-stock-005",
-   "situation": "I make custom oak dining tables. Customer Marcus was promised Oct 2 after I already pushed it once from Sept 18. Now the tabletop finish needs redoing and it'll be Oct 16. He's hosting family on the 17th.",
+   "situation": "I'm Tom and I make custom oak dining tables. Customer Marcus was promised Oct 2 after I already pushed it once from Sept 18. Now the tabletop finish didn't cure evenly and needs redoing, so it'll be Oct 16, a date I'm sure of. He's hosting family on the 17th; I'll refund his $150 delivery fee.",
    "reply": "Hi Marcus, your table won't make 2 October, and I know this is the second time I've moved it. The finish on the top didn't cure evenly and I'm redoing it. It will be delivered on Friday 16 October, a date I'm certain of, the day before your family arrives. I've refunded the $150 delivery fee today. If you'd rather not wait, I'll refund the whole order instead; if I don't hear back, the 16th stands. I'll send you photos of the finished top on Monday 12 October. Tom",
    "lang": "en",
    "note": "On a second slip, refund something unasked and give only a date you are sure you can keep."
   },
   {
    "id": "shipping-delay-or-out-of-stock-006",
-   "situation": "I make a small-batch card game. 312 people preordered for early October delivery. The factory just told me the print run failed quality check and needs reprinting, so shipping moves to around Nov 13. Need to email everyone.",
+   "situation": "I'm Maya at Lanternfly Games. 312 people preordered our card game Night Market ($34) for early October; the print run failed quality check (muddy colours), so shipping moves to around Nov 13, firm date by Oct 30. Harbour Lights is in stock, and I'll add the promo expansion free. Need to email everyone.",
    "reply": "Subject: Your Night Market preorder now ships around November 13\nHi everyone,\nYour Night Market preorder is delayed: it will ship around November 13 instead of early October. The first print run failed our quality check (the colours came out muddy), and I'd rather reprint than send a game I'm not proud of. You can wait and get tracking the day it ships, swap to Harbour Lights, which is in stock and ships this week, or reply 'refund' for your full $34 within two days. If I don't hear from you, your order stays as it is. Every order will include the promo expansion as a thank-you. I'll email again on October 30 with a firm date.\nMaya, Lanternfly Games",
    "lang": "en",
    "note": "A mass email to many buyers: the delay in the subject line, one line of reason, three options and a default, so nobody has to reply."
   },
   {
    "id": "shipping-delay-or-out-of-stock-007",
-   "situation": "Customer Dana ordered a linen dress (#6203) on Sept 14 for a trip this Saturday. I emailed yesterday that it's delayed to Oct 5 because the fabric is late. She replied: 'This is ridiculous, I ordered it specifically for my trip. Terrible service.' The sage colour is in stock.",
-   "reply": "Understood, Dana, and I'm sorry: you ordered it for the trip and we've let you down. The sage version is in stock, and if you'd like it I'll send it by express today so it reaches you by Friday 2 October. Otherwise the original ships Monday 5 October, or say the word and I'll refund the full $128 today. I'll check in tomorrow morning either way.",
+   "situation": "I'm Jo and I sell linen clothing online. Customer Dana emailed asking where her dress (#6203, $128) is; it should have shipped last week, but the fabric is late and it now ships Monday Oct 5. I hadn't told her yet. The sage colour is in stock and could go out today.",
+   "reply": "Hi Dana, you're right to ask and I'm sorry you had to: order #6203, your linen dress, is delayed, and I should have told you before you needed to ask. The fabric reached us late, and your dress now ships on Monday 5 October. Three options: wait, and I'll send tracking the day it ships; swap for the sage colour, which is in stock and goes out today; or a full refund of $128 today. If I don't hear back, I'll ship it on the 5th.\nJo",
    "lang": "en",
-   "note": "Don't re-explain the delay to an angry customer; give the one option that still fixes her real problem, a firm date, and the refund again."
+   "note": "Reactive, after 'where is my order?': thank them for asking, own not telling them first, then the date, three options and the default."
   },
   {
    "id": "shipping-delay-or-out-of-stock-008",
-   "situation": "I sell leather wallets on my own Shopify site. Customer Ben emailed: tracking says order #2194 was delivered Friday but he never got it. Nothing on the doorstep, neighbours haven't seen it. It was $85.",
+   "situation": "I'm Leah and I sell leather wallets on my own website. Customer Ben emailed: tracking says order #2194 was delivered Friday but he never got it. Nothing on the doorstep, neighbours haven't seen it. It was $85.",
    "reply": "Hi Ben, I'm sorry, that's frustrating after watching the tracking. Tracking shows order #2194 delivered on Friday 25 September, so I've opened a claim with the courier this morning and asked for the GPS drop point. Could you check once with your building manager or mailroom? If it hasn't turned up by Thursday 1 October, I'll send a replacement by express that day, and if the first one appears you keep both. Or say 'refund' and I'll refund the $85 today. I'll email you Thursday either way.\nLeah",
    "lang": "en",
    "note": "'Delivered but not received' is still yours to fix: one reasonable check for him, a claim for you, a firm date for the replacement and refund as an easy exit."
   },
   {
    "id": "shipping-delay-or-out-of-stock-009",
-   "situation": "我开网店卖儿童绘本。顾客张先生订了三本（订单尾号3392），其中《小熊的秋天》出版社缺货，要10月20日才到货，另外两本是现货。他还不知道。",
+   "situation": "我是开网店卖儿童绘本的阿宁。顾客张先生订了三本（订单尾号3392），其中《小熊的秋天》出版社缺货，是我们没及时下架，10月20日才到货，另外两本是现货。他还不知道。",
    "reply": "张先生您好，您的订单（尾号3392）里有一本出了问题：《小熊的秋天》出版社缺货，10月20日到货，是我们没及时下架。另外两本现货，明天就能发。三种方式您选：1是先发两本，《小熊的秋天》20日到货当天单独补寄，运费我们出；2是三本等到20日一起发；3是这本直接退款，今天原路退回。您不回复的话，我就按第1种先发两本。有问题随时找我。店主阿宁",
    "lang": "zh",
    "note": "部分缺货：先说哪本、哪天到，再给三个选择和默认选项；分开寄的运费由店家承担。"
   },
   {
    "id": "shipping-delay-or-out-of-stock-010",
-   "situation": "I sell knitwear online. Customer Hannah ordered a navy wool scarf (#5532) as a birthday gift for Saturday, and I sent the grey one by mistake. She emailed me a photo this morning.",
+   "situation": "I'm Maya and I sell knitwear online. Customer Hannah ordered a navy wool scarf (#5532) as a birthday gift for Saturday, and I sent the grey one by mistake. She emailed me a photo this morning; express today gets the navy one to her by Thursday.",
    "reply": "Hi Hannah, you're right, order #5532 should have been the navy scarf and I sent grey, that's my mistake. The navy one goes out today by express and will be with you by Thursday 1 October, in time for Saturday. Keep the grey one, no need to send it back. If you'd rather have a full refund instead, just say and I'll process it today. I'll email you tracking by 5pm.\nMaya",
    "lang": "en",
    "note": "Your mistake: own it in one line, fix it before the deadline that matters to them, and let the make-good (keep the wrong one) do the apologising."
   },
   {
    "id": "shipping-delay-or-out-of-stock-011",
-   "situation": "I sell handmade leather bags from the UK. Customer Chris in Toronto, order #3308, is stuck in Canadian customs, and they want him to pay $38 CAD in duties that my checkout never mentioned. He hasn't messaged me yet.",
+   "situation": "I'm Laura and I sell handmade leather bags from the UK. Customer Chris in Toronto, order #3308, is stuck in Canadian customs, and they want him to pay $38 CAD in duties that my checkout never mentioned. He hasn't messaged me yet.",
    "reply": "Hi Chris,\nYour order #3308 has reached Canada but is being held at customs, and they're asking for $38 CAD in import duties before releasing it. That's on me: the checkout should have warned you and it didn't. If you pay through the courier's link in their email and send me the receipt, I'll refund the $38 the same day. If you'd rather not, reply 'cancel' and I'll refund the whole order today. I'll check the tracking on Thursday and email you then either way.\nLaura",
    "lang": "en",
    "note": "Proactive, owns the missing warning, and the make-good covers the surprise fee; refund stays the easiest option to pick."
   },
   {
    "id": "shipping-delay-or-out-of-stock-012",
-   "situation": "I make engraved name necklaces on my own. I sprained my wrist on Saturday and can't engrave until Monday Oct 12. Customer Olivia ordered #1187 ($68) for her mum's birthday on Friday Oct 9, and I promised dispatch on Oct 1.",
+   "situation": "I'm Nina and I make engraved name necklaces on my own. I sprained my wrist and can't engrave until Monday Oct 12 (express would arrive Oct 14). Customer Olivia ordered #1187 ($68) for her mum's birthday on Friday Oct 9; I promised dispatch Oct 1. An unengraved birthstone pendant could ship tomorrow.",
    "reply": "Hi Olivia, your order #1187 (the engraved name necklace) won't reach you before your mum's birthday on Friday 9 October, and I'm sorry. I sprained my wrist on Saturday and can't engrave until Monday 12 October; it would ship that day by express and arrive by Wednesday the 14th. Three options: wait, and I'll email you a printable card with a photo of her necklace today so you have something to give her on the 9th; swap for the unengraved birthstone pendant, which ships tomorrow and arrives in time; or a full refund of the $68 today. If I don't hear back by Thursday, I'll keep your order for the 12th. I'll email you tracking the day it ships.\nNina",
    "lang": "en",
    "note": "When the deadline can't be met, say so first, give the personal reason in one plain line, and build the options around her real date."
   },
   {
    "id": "shipping-delay-or-out-of-stock-013",
-   "situation": "Tenho uma florista em Lisboa. A noiva, Inês, encomendou um bouquet de peónias brancas para o casamento no sábado, 10 de outubro, e já pagou 180 €. O fornecedor acabou de avisar que não há peónias, a época já passou.",
+   "situation": "Sou a Marta e tenho uma florista em Lisboa. A noiva, Inês, pagou 180 € por um bouquet de peónias brancas para o casamento no sábado, 10 de outubro. O fornecedor avisou que não há peónias; posso fazer rosas de jardim brancas com lisianthus, ou dálias cor de marfim.",
    "reply": "Olá Inês, tenho uma má notícia sobre o seu bouquet de 10 de outubro: o fornecedor confirmou hoje que não há peónias brancas, a época delas já terminou. A data do casamento não muda, por isso proponho duas alternativas com o mesmo ar romântico: rosas de jardim brancas com lisianthus, ou dálias cor de marfim. Envio-lhe fotos das duas até amanhã às 12h. Se a opção que escolher ficar mais barata, devolvo a diferença, e se preferir cancelar, reembolso os 180 € na totalidade. Se não tiver notícias suas até segunda, dia 5, avanço com as rosas de jardim. Peço desculpa por não ter confirmado isto mais cedo.\nMarta",
    "lang": "pt",
    "note": "Quando esperar não é opção, as escolhas passam a ser substituir ou reembolsar, com fotos para decidir e uma opção por defeito."
   },
   {
    "id": "shipping-delay-or-out-of-stock-014",
-   "situation": "我开网店卖茶具。顾客吴女士订的一套青瓷茶具（订单尾号7721），收货地址填成了她以前住的小区，快递员电话也没打通，包裹正在退回，预计10月6号回到我这。她还不知道。",
-   "reply": "吴女士您好，您的订单（尾号7721）遇到点问题：收货地址是您以前的小区翠湖花园，快递员联系不上您，包裹正在退回我这边，预计10月6日到。您把现在的地址发我，包裹一回来我当天重新寄出，这次运费我们出。如果不想再等，回我“退款”，我今天就全额原路退回。收到您的新地址之前，包裹我先留在店里，不会再寄。店主小林",
+   "situation": "我是卖茶具的网店店主小林。顾客吴女士订的一套青瓷茶具（订单尾号7721），收货地址填成了她以前住的小区，快递员电话也没打通，包裹正在退回，预计10月6号回到我这。她还不知道。",
+   "reply": "吴女士您好，您的订单（尾号7721）遇到点问题：收货地址是您以前住的小区，快递员联系不上您，包裹正在退回我这边，预计10月6日到。您把现在的地址发我，包裹一回来我当天重新寄出，这次运费我们出。如果不想再等，回我“退款”，我今天就全额原路退回。收到您的新地址之前，包裹我先留在店里，不会再寄。店主小林",
    "lang": "zh",
    "note": "就算是顾客填错了地址，也不追究是谁的错：说清事实、新日期和选项，默认做法写明白，补一次运费是小小的善意。"
   },
   {
    "id": "shipping-delay-or-out-of-stock-015",
-   "situation": "我做手工皮具。顾客陈先生订了一个刻字钱包（订单尾号2046），直接寄到杭州他父亲家，作为10月5日的生日惊喜。皮料供应商延迟了，最早10月9日才能发货，我只能联系陈先生，不能让老人知道。",
-   "reply": "陈先生您好，您给父亲订的刻字钱包（订单尾号2046）赶不上10月5日的生日了，先跟您说一声。原因是酒红色皮料供应商延迟到货，最早10月9日刻好发出，顺丰预计10月11日前送到。三种选择：一是等到10月9日发货，运费升级为加急，我来出；二是换成现货的深棕色款，刻同样的字，明天发出，预计10月3日前送到；三是全额退款，今天原路退回。周五（10月2日）前没收到您的回复，我就按第一种处理。所有消息我只发给您，不会联系您父亲。给您添麻烦了。店主阿杰",
+   "situation": "我是做手工皮具的阿杰。陈先生订了刻字钱包（尾号2046），寄到杭州他父亲家，作为10月5日的生日惊喜。酒红色皮料延迟，最早10月9日发，加急10月11日前到；深棕色有现货，明天发10月3日前到。只能联系陈先生，不能让老人知道。",
+   "reply": "陈先生您好，您给父亲订的刻字钱包（订单尾号2046）赶不上10月5日的生日了，先跟您说一声。原因是酒红色皮料供应商延迟到货，最早10月9日刻好发出，走加急10月11日前送到。三种选择：一是等到10月9日发货，运费升级为加急，我来出；二是换成现货的深棕色款，刻同样的字，明天发出，10月3日前送到；三是全额退款，今天原路退回。周五（10月2日）前没收到您的回复，我就按第一种处理。所有消息我只发给您，不会联系您父亲。给您添麻烦了。店主阿杰",
    "lang": "zh",
    "note": "礼物直接寄给收件人时，只和下单人沟通，并说明不会惊动收礼的人；选项围绕他真正在意的生日来设计。"
   },
   {
    "id": "shipping-delay-or-out-of-stock-016",
-   "situation": "農家で新米のネット販売をしています。佐藤様から新米コシヒカリ5kg（注文番号1042）を10月5日発送でご注文いただいていますが、長雨で稲刈りが遅れ、発送は10月16日になります。昨年産のコシヒカリなら在庫があり、5kgで600円安いです。",
+   "situation": "山田農園の山田です。新米のネット販売で、佐藤様から新米コシヒカリ5kg（注文番号1042）を10月5日発送でご注文いただいていますが、長雨で稲刈りが遅れ、発送は10月16日になります。昨年産のコシヒカリなら在庫があり、5kgで600円安いです。",
    "reply": "佐藤様\nご注文の新米コシヒカリ5kg（注文番号1042）について、長雨で稲刈りが遅れ、10月5日のお約束だった発送が10月16日（金）になります。お待ちいただける場合は、16日に発送し、当日に追跡番号をお知らせします。すぐにお米が必要でしたら、在庫のある昨年産コシヒカリ5kgを明日発送し、差額の600円をお返しします。全額返金をご希望でしたら、本日中に手続きいたします。10月2日（金）までにご返信がなければ、16日の発送でお待ちいただく形で進めます。お待たせして申し訳ありません。\n山田農園　山田",
    "lang": "ja",
    "note": "天候による遅れでも、新しい日付、三つの選択肢、返信がない場合の扱いを一度に伝える。"
@@ -124,7 +124,7 @@
   {
    "id": "shipping-delay-or-out-of-stock-018",
    "situation": "I make wooden baby teething rings. In my final check I found hairline cracks in several rings from the current batch, so I'm holding the whole batch; the new one is ready Wednesday Oct 21. Customer Aisha's order #3319 ($24) hasn't shipped. The maple rattle is from a different batch, passed its check and could ship tomorrow, and I'm happy to add free express. I'm Theo.",
-   "reply": "Hi Aisha, your order #3319, the maple teething ring, won't ship this week. In my final check I found hairline cracks in several rings from this batch, and I won't send anything meant for a baby's mouth unless I'm sure of it, so I'm holding the whole batch. The new batch is ready on Wednesday 21 October and yours ships that day. Three options: wait, and I'll add free express shipping; swap for the maple rattle, which is from a different batch, passed its check and ships tomorrow; or a full refund of $24 today. If I don't hear back by Monday 5 October, I'll hold your order for the 21st. Theo",
+   "reply": "Hi Aisha, your order #3319, the teething ring, won't ship this week. In my final check I found hairline cracks in several rings from this batch, and I won't send anything meant for a baby's mouth unless I'm sure of it, so I'm holding the whole batch. The new batch is ready on Wednesday 21 October and yours ships that day. Three options: wait, and I'll add free express shipping; swap for the maple rattle, which is from a different batch, passed its check and ships tomorrow; or a full refund of $24 today. If I don't hear back by Monday 5 October, I'll hold your order for the 21st. Theo",
    "lang": "en",
    "note": "A quality hold on a baby product is a reason to state plainly in one line, never a date to rush."
   },
@@ -133,7 +133,7 @@
    "situation": "我是小周，在小区微信群做水果团购，42户订了阳光玫瑰葡萄，原定10月2日周五到货。果园刚通知连续下雨推迟采摘，改到10月6日周二到。现在有巨峰葡萄现货，价格一样，明天就能取；要退款的我当天原路退。",
    "reply": "各位邻居好，我是团购的小周。大家订的阳光玫瑰葡萄要晚几天：原定10月2日（周五）到货，果园那边连续下雨，采摘推迟，改为10月6日（周二）到，到货当天我在群里通知取货。不想等的有两个选择：换成现货的巨峰葡萄，价格一样，明天就能取；或者私信我“退款”，当天原路退回。今晚12点前没私信我的，就默认等6号的阳光玫瑰。给大家添麻烦了，谢谢理解。",
    "lang": "zh",
-   "note": "Group-buy chats: one message to everyone, options by private message, so the group doesn't turn into a complaint thread."
+   "note": "微信群团购：一条消息通知所有人，选项私信处理，免得群里变成投诉现场。"
   },
   {
    "id": "shipping-delay-or-out-of-stock-020",
@@ -144,10 +144,10 @@
   },
   {
    "id": "shipping-delay-or-out-of-stock-021",
-   "situation": "我在网上卖手工羊毛围巾，120条预售原定10月15日前发货。织工阿姨生病请了两周假，最快10月29日（周四）全部发完。想群发给买家，愿意等的照常发，不想等的全额退款。",
-   "reply": "您好，您在我们店预订的手工羊毛围巾，原定10月15日前发货，现在要晚两周：负责织围巾的阿姨生病请了两周假，最快10月29日（周四）能全部发出。想问问您愿不愿意等到那天？如果不方便等，直接回复我，马上给您全额退款。给您添麻烦了，谢谢理解。",
+   "situation": "我是卖手工羊毛围巾的小苏。赵女士订的灰色围巾（尾号4410，198元）原定10月15日前发货，但织工阿姨病了，什么时候回来还不确定，10月5日（周一）我才知道新日期。米色款有现货，明天能发。",
+   "reply": "赵女士您好，您订的灰色羊毛围巾（订单尾号4410）可能赶不上10月15日前发货：负责织围巾的阿姨生病了，什么时候能回来还说不准。10月5日（周一）我会知道确切的发货日期，当天就告诉您。三种选择：一是等5号的新日期；二是换成现货的米色款，明天发出；三是回我“退款”，198元当天原路全额退回。没收到您回复的话，我先保留订单，5号再跟您确认。给您添麻烦了。小苏",
    "lang": "zh",
-   "note": "一对多的延期：早说、给具体日期、把退款作为真正的选择，而不是让买家来要。"
+   "note": "还给不出新日期时，就给出“哪天能知道”的日期，同样附上三个选择和默认做法。"
   },
   {
    "id": "shipping-delay-or-out-of-stock-022",

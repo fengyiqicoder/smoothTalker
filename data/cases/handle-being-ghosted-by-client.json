@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -183,6 +183,13 @@
    "reply": "Hi Ms Lindqvist, I wanted to check in after the brochure on September 18. The price error on page 2 was my mistake, and since then I've added a second read-through of every figure before anything goes out. I have space the week of October 12 if anything is coming up. And if that brochure left you with doubts, I'd rather hear it directly; a quick reply either way is all I need.",
    "lang": "en",
    "note": "Silence after your own mistake: name it once with the fix, don't grovel, and make it easy for her to say what's really going on."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-027",
+   "situation": "I'm Nadia, an agency recruiter. My client Halverson Foods interviewed my candidate Ben for their finance manager role on 17 September, and their hiring manager, Graham, has ignored two emails asking for feedback. Ben has another offer he must answer by Thursday 8 October, and he's happy for me to tell Graham that Halverson is his first choice.",
+   "reply": "Hi Graham, a time-sensitive one on Ben for the finance manager role: he has another offer to answer by Thursday 8 October, and Halverson is his first choice. Could you let me know by Wednesday 7 October whether you'd like to move him forward? A quick yes, no or not yet is all I need, and if it's a no, one line of feedback would really help him. If the role is on hold, just say so and I'll tell him.",
+   "lang": "en",
+   "note": "A real outside deadline gives a silent client a reason to answer; share the candidate's preference only with his say-so."
   }
  ]
 }

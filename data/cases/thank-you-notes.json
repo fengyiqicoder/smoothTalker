@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 15,
+ "count": 19,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -106,6 +106,34 @@
    "reply": "Thank you, everyone, for the film camera and the book of notes. I mentioned shooting film as a teenager exactly once, at a team lunch years ago, so whoever remembered that has a frightening memory and a very kind heart. I've read every note twice already, and the book is coming with me to my next desk. The first roll is going to be all of you at drinks tomorrow evening, so consider yourselves warned.",
    "lang": "en",
    "note": "A group gift in a public channel: thank everyone at once, name the detail that shows someone listened, and end on the next time you'll see them."
+  },
+  {
+   "id": "thank-you-notes-016",
+   "situation": "I'm Jess. Our flat on Dunmore Street was gutted by a kitchen fire on 12 September; nobody was hurt. My friend Hollie set up a fundraiser and 64 people gave, which covered two months' rent on a temporary place and new school uniforms for our girls, Ava and Rose, who went back to school last week. I want to post a thank-you on the fundraiser page from me, my husband Martin and the girls.",
+   "reply": "Thank you, all 64 of you. When the fire took our kitchen and most of our things on 12 September, we didn't know where to start, and you made sure we didn't have to start alone. Your gifts have paid for two months' rent on our temporary place and new school uniforms for Ava and Rose, who went back to school last week. Hollie, thank you for setting this up when we couldn't think straight. We'll post again when we're settled in a proper home.\nWith love, Jess, Martin, Ava and Rose",
+   "lang": "en",
+   "note": "A public thanks for money from many people: say what it paid for rather than the total, and name the one person who made it happen."
+  },
+  {
+   "id": "thank-you-notes-017",
+   "situation": "女儿刚满月，老家82岁的姑婆（我爸的姑姑）托我爸带来一双她亲手做的虎头鞋，红底黄边，老虎胡子是一根根绣上去的。我爸说她眼睛不好，断断续续做了快一个月。她不怎么看手机，我想写几句短的，让表姐念给她听。我们打算过年带孩子回老家。",
+   "reply": "姑婆，您做的虎头鞋收到了，红底黄边，连老虎的胡子都是一根根绣上去的，我拿在手里半天舍不得放下。听我爸说您眼睛不好，还一针一线做了快一个月，这份心意我们全家都记着。等孩子会走路了，第一双鞋就穿它。过年我们带她回去给您看。",
+   "lang": "zh",
+   "note": "给不看手机的老人：写短句，适合念出来；说一个看得见的细节，再谢她花的工夫。"
+  },
+  {
+   "id": "thank-you-notes-018",
+   "situation": "我在广州租王叔的房子住了三年，这周退租。这三年水管、热水器坏了，他都是当天就找人来修。验房时他说墙上的钉孔和厨房台面的小划痕都不算，4000押金全退了，还送了我一袋他自己种的芒果。想走之前发微信谢谢他。",
+   "reply": "王叔，押金收到了，谢谢您。验房时您说钉孔和厨房那点划痕都不算，我心里特别感激。这三年水管、热水器出问题，您都是当天就找人来修，所以我一直住得很安心。您种的芒果我们带到新家了。以后有朋友在这边找房，我第一个推荐您的房子。",
+   "lang": "zh",
+   "note": "谢房东也要说具体的事：他做过什么、给你省了什么心，回报只说自己做得到的。"
+  },
+  {
+   "id": "thank-you-notes-019",
+   "situation": "My son Sami just turned 6. His grandpa Walt sent him a real wooden toolbox with a small hammer and a note saying 'for when you help me build the birdhouse next spring'. Sami has carried it everywhere for three days and already 'fixed' the wobbly leg on his bedroom chair. I want to help Sami write the card in his own words.",
+   "reply": "Dear Grandpa Walt,\nThank you for my toolbox! The hammer is my favourite. I already fixed the wobbly leg on my chair. I carry my toolbox everywhere. I can't wait to build the birdhouse with you in spring.\nLove, Sami",
+   "lang": "en",
+   "note": "A child's note: short sentences in their own voice, one thing they did with the gift, and the plan the giver mentioned."
   }
  ]
 }

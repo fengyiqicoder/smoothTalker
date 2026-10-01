@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -183,6 +183,13 @@
    "reply": "Hey Ollie, I'm going to pass on lending for the concert, I'd rather not have two loans open between us. On the June one, you've paid back $200 of the $500, so there's $300 to go. Could we do $150 on 15 October and $150 on 15 November? Then we're square. Thanks for chipping away at it already.",
    "lang": "en",
    "note": "Say no to the new loan in one line without a lecture, and turn the old one into a small dated plan."
+  },
+  {
+   "id": "money-between-friends-027",
+   "situation": "最近和好朋友小雅出去，她帮我付过两次打车，一共86元；我帮她垫了电影票和晚饭，一共240元。想把账对一下互相抵掉，她微信转我差额就行，不想显得斤斤计较。",
+   "reply": "小雅，顺手对个小账～你帮我付过两次打车，一共86；我这边垫了电影票和晚饭，一共240。互相抵一下，你微信转我154就清啦，不急。要是我哪笔记错了，跟我说一声哈。",
+   "lang": "zh",
+   "note": "互相欠钱时，先把两边的数都摆出来再抵扣，只说一个差额，账就变成了顺手的小事。"
   }
  ]
 }

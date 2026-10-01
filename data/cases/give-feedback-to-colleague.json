@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -183,6 +183,13 @@
    "reply": "Martin, can I give you some feedback on the planning meetings? In the last four, note-taking has gone to a woman every time, me twice and Sofia twice, and never to any of the men. I don't think it's deliberate, but whoever takes notes is writing instead of contributing, and right now that's always the two of us. What's your read on it? Could we set up a rotation across the whole team, starting next Tuesday? Let's see how it's gone after a month.",
    "lang": "en",
    "note": "Name the pattern with the count, not a verdict on him, and make the ask a fix he can run himself; if it continues, take it to your manager."
+  },
+  {
+   "id": "give-feedback-to-colleague-027",
+   "situation": "I manage Zara, a marketing analyst. Her market-sizing memo for Thursday's leadership review cites '68% of mid-size firms plan to switch vendors in 2027' with no source; I searched and couldn't find it anywhere, and she's mentioned she drafted parts of the memo with an AI tool. The rest of the memo is solid. I want to raise it with her today and get a sourced version by Wednesday noon.",
+   "reply": "Zara, can I give you some feedback on the market-sizing memo? It cites '68% of mid-size firms plan to switch vendors in 2027' with no source, and I couldn't find that figure anywhere. If someone at Thursday's review asks where it comes from and we can't say, it puts the whole memo in doubt, and the rest of it is solid. What's your read on where it came from? Going forward, every figure needs a source you've opened yourself, whatever tool helped with the draft. Can you send me the sourced version by Wednesday noon?",
+   "lang": "en",
+   "note": "Keep it on the unsourced number and its impact, not on using the tool; the rule is the same for any draft."
   }
  ]
 }

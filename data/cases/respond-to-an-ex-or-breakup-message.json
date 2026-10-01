@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -183,6 +183,13 @@
    "reply": "Salut Julien, le propriétaire a reversé la caution hier : 1 000 € sur 1 200 €, il a gardé 200 € pour le parquet abîmé du salon, comme indiqué dans l'état des lieux de sortie que je t'envoie juste après. Ta moitié fait donc 500 €, je te fais le virement samedi 3 octobre. Dis-moi seulement si ton RIB a changé.",
    "lang": "fr",
    "note": "L'argent avec un ex, c'est de la logistique : les chiffres, la preuve, la date. On ne répond pas au ton du message."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-027",
+   "situation": "My ex Alex and I broke up in June after eight months. She texted today that she's tested positive for chlamydia and that I should get tested too. I'm not angry, I just want to reply decently without reopening anything.",
+   "reply": "Thanks for telling me, Alex, I know that wasn't an easy message to send. I'll book a test this week. I hope you're doing okay.",
+   "lang": "en",
+   "note": "Thank her, no blame, and book a test with your doctor or a sexual health clinic; a health message from an ex doesn't need to reopen the relationship."
   }
  ]
 }

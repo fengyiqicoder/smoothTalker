@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -183,6 +183,13 @@
    "reply": "Oi! A partir de segunda, 9 de novembro, a Cozinha da Rê deixa de fazer entregas semanais em Sousas e Joaquim Egídio. São 25 km daqui e cada entrega leva mais de uma hora, o que não consigo manter trabalhando sozinha. Cardápio e preços continuam iguais. Para continuar, você pode retirar no Cambuí às quintas, das 17h às 20h, ou fazer um pedido de 10 marmitas ou mais, que eu levo aí uma vez por mês. Obrigada por comer com a gente toda semana. Renata",
    "lang": "pt",
    "note": "Reduzir a área de entrega também é um anúncio: a mudança e a data primeiro, um motivo, e caminhos concretos para quem é afetado continuar."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-027",
+   "situation": "我是阿梅，在大学城开了6年“阿梅面馆”。我想退休回老家，12月1日起把店交给跟了我4年的厨师小郑经营，店名、配方和价格都不变；储值卡余额小郑全部认，不想继续用的，11月30日前找我可以全额退。要在顾客微信群里通知。",
+   "reply": "各位老顾客好，我是阿梅。跟大家说一件事：从12月1日起，阿梅面馆交给跟了我4年的厨师小郑经营，我准备退休回老家了。店名、配方和价格都不变，掌勺的还是大家熟悉的小郑。储值卡余额小郑全部认，照常用；如果不想继续用，11月30日前来店里或微信找我，按余额全额退。谢谢大家这6年的照顾。阿梅",
+   "lang": "zh",
+   "note": "换老板也是一次变化通知：第一句说日期和接手的人，讲清什么不变，储值卡余额怎么处理写明白，退出要简单。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -183,6 +183,13 @@
    "reply": "Hi Dmitri, thanks for flagging the joists, better found now than later. Before that work starts, could you send me a written quote for replacing them, with materials and labour broken out, and a couple of photos of the rot? I'll reply the same day I get it, so the job doesn't stall. Anything outside the original $14,000 scope needs my written okay first, just so we're both clear on the final bill.",
    "lang": "en",
    "note": "Extra work found mid-job: agree the price in writing before it starts; it is far easier than disputing an invoice afterwards."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-027",
+   "situation": "我在这套房子住了一年多，房东陈叔每月上门收现金房租3200元，从来不给收据。我想以后改成每月1号银行转账，并请他给我补一张今年1到9月的收条，写明月份和金额。这周六上午我在家。",
+   "reply": "陈叔您好，有个小事想跟您商量：以后房租我想改成每月1号银行转账，3200元，您把收款账号发我就行，两边都有记录，也省得您每月跑一趟。另外今年1到9月交的现金房租，麻烦您补一张收条，写明月份和金额。这周六上午我在家，收条我先写好，您看过签个字就行。您看可以吗？",
+   "lang": "zh",
+   "note": "现金交易最怕没凭据：把转账说成对双方都方便，收条只请对方确认已经发生的事。"
   }
  ]
 }

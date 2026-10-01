@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -183,6 +183,13 @@
    "reply": "Our newsletter on Tuesday 29 September, emailed to about 1,800 supporters and posted on our website, included a photo of a family collecting food who had never agreed to it. That should not have happened, and I'm sorry, to that family first and to everyone who trusts us with their dignity when they come to us for help. The photo is off our website and I've apologised to the family directly. An email can't be recalled, so if you still have that newsletter, please delete it rather than forward it. From now on no photo of anyone we support is used without a signed consent form, checked by a second person before anything goes out. Questions: helen@example.com. Helen Gray, director, Eastgate Food Share",
    "lang": "en",
    "note": "A charity's mistake about the people it serves: never name or describe the family again, ask readers for the one thing that still limits the harm, and check your data protection reporting duties."
+  },
+  {
+   "id": "public-apology-from-a-business-027",
+   "situation": "I'm Priya, owner of Lark & Loom, an online homeware shop. From 24 to 29 September the chat assistant on our website told about 35 customers that sale items could be returned for a full refund, but our policy is store credit only on sale items; we're honouring full refunds for anyone who asks before 31 October. The assistant now answers only from our written returns policy and hands every returns question to a person, and people can reach me at priya@example.com.",
+   "reply": "From 24 to 29 September, the chat assistant on our website told about 35 of you that sale items could be returned for a full refund. That was wrong: our policy is store credit on sale items. But you heard it from us, so it stands, and I'm sorry for the mix-up. If you were told this, you can return your sale item for a full refund any time before 31 October; just mention the chat when you start the return. The assistant now answers only from our written returns policy, and every returns question goes to a person. Questions: priya@example.com. Priya, owner, Lark & Loom",
+   "lang": "en",
+   "note": "An automated tool speaks for the business, so own what it said and honour it rather than blaming the software."
   }
  ]
 }

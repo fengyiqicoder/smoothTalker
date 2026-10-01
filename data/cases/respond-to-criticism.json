@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -183,6 +183,13 @@
    "reply": "谢谢指出来！配料表里冰糖写成了50克，是我打错了，视频里实际用的是30克，笔记已经改过来了。本帮红烧肉偏甜是它的特点，这个做法是我外婆教的，可能和您习惯的口味不一样。喜欢少甜的话，冰糖按自己口味再减一点也可以。",
    "lang": "zh",
    "note": "陌生网友的公开批评：先认下真的错并当场改掉，不同意的地方说一句就够，不接“误人子弟”这种语气。"
+  },
+  {
+   "id": "respond-to-criticism-027",
+   "situation": "I volunteer as coach for an under-10s football team. A parent, Sarah, emailed that I shouted at the kids from the touchline on Saturday and humiliated her son Leo, who now doesn't want to come back. I did raise my voice a few times when we went 3-0 down, but I don't remember singling Leo out; training is Wednesday at 5pm.",
+   "reply": "Thanks for telling me, Sarah, and I'm sorry Leo doesn't want to come back. You're right that I shouted from the touchline on Saturday when we went 3-0 down, and that's not how I want to coach kids this age. I don't remember singling Leo out, but I'd like to understand what he heard so I can put it right with him. Could we talk before training on Wednesday at 5? From this week, it's encouragement only from me on the touchline.",
+   "lang": "en",
+   "note": "Own the shouting without a but, ask about the part you don't recognise instead of denying it, and make the change visible at the next match."
   }
  ]
 }

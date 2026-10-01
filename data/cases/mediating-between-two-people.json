@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -183,6 +183,13 @@
    "reply": "Hi Priya, thanks for telling me, and I'm sorry it's been keeping you up. I won't pass on what you've said or take sides between you and Sam, but quiet hours from 11pm to 7am are in everyone's tenancy agreement, so I'll send a reminder about them to the whole house today. If it carries on, a direct chat between you two is usually the quickest fix, and I'm happy to sit in on one if you'd both like that.",
    "lang": "en",
    "note": "As the landlord you're neutral on the personal dispute but not on the house rules: remind everyone, keep her complaint private, and offer to host a direct talk."
+  },
+  {
+   "id": "mediating-between-two-people-027",
+   "situation": "Meine Freunde Jonas und Lukas reden seit zwei Wochen nicht mehr miteinander, seit Jonas beim Junggesellenabschied einen blöden Witz über Lukas' Freundin gemacht hat. Jetzt schreibt Jonas mir: „Kannst du Lukas sagen, dass es mir leid tut?“ Ich mag beide und will nicht der Bote sein.",
+   "reply": "Schön, dass du dich entschuldigen willst, Jonas, das ist ein guter Schritt. Ich gebe es aber nicht weiter: Eine Entschuldigung kommt viel besser an, wenn sie direkt von dir kommt und nicht über mich. Schreib ihm selbst oder ruf ihn an. Wenn du magst, überlegen wir zusammen, wie du es formulierst.",
+   "lang": "de",
+   "note": "Auch eine gute Nachricht nicht weitertragen: Über Dritte wirkt eine Entschuldigung halbherzig, direkt wirkt sie."
   }
  ]
 }

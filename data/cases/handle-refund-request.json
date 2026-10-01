@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -183,6 +183,13 @@
    "reply": "Hi Owen, sorry to hear the book's been cancelled, I was enjoying these. Yes, I'll refund the unused part of the deposit: the sketches for the first four chapters came to 10 hours at $60, so $600, and I'll send the other $600 back to you by Friday 2 October. If the book is ever revived, I'd love to pick it up again.",
    "lang": "en",
    "note": "Business client, contract-based: the yes and the exact maths up front, with the work already done shown plainly rather than argued."
+  },
+  {
+   "id": "handle-refund-request-027",
+   "situation": "I sell digital wedding invitation templates, $18 each. A customer, Abby, downloaded one yesterday and says it won't open in the editing app on her phone; the listing says it needs a desktop editor. Downloads can't be returned, so I don't refund them, but I can make her a fillable PDF version that works on a phone in about ten minutes.",
+   "reply": "Hi Abby, sorry the template won't open on your phone, that's frustrating when you're keen to get started. Because downloads can't be returned, I can't refund it, but I can make you a fillable PDF version that works on your phone, at no charge, and send it today. Would that help?",
+   "lang": "en",
+   "note": "A digital product can't come back, so the alternative has to solve her actual problem, not just offer credit."
   }
  ]
 }

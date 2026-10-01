@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -183,6 +183,13 @@
    "reply": "刘姐，想请您帮个忙：听您说明年2月孩子上幼儿园后，张阿姨就不去您家了，方便帮我问问她愿不愿意3月起来我家吗？您家那边肯定优先，要是您还想留张阿姨，或者觉得不好开口，直接跟我说就行，完全没关系。\n方便的话，这段可以直接转给张阿姨：“张阿姨，楼上的小敏想请您明年3月起白天帮她带一岁半的女儿，周一到周五早8点到晚6点，月薪6500元。您有兴趣的话，她想约您见面聊聊。”\n不管成不成，我都跟您说一声。谢谢刘姐！",
    "lang": "zh",
    "note": "引荐别人家正在用的阿姨：先把对方家的安排放在前面，给一个真退路，转发的那段写清时间和工资，免得刘姐替你谈条件。"
+  },
+  {
+   "id": "request-intro-or-referral-027",
+   "situation": "I'm Grace Okafor and I've finished my first novel, The Salt Year, an 85,000-word literary novel; two of my short stories have appeared in literary magazines. My friend Tom, a published novelist, is represented by the agent Helen Brandt, who takes on literary fiction. Tom hasn't read the manuscript, and I don't want him to feel he has to vouch for a book he hasn't read.",
+   "reply": "Hi Tom, could I ask a favour, with a genuine no-pressure clause? I've finished The Salt Year and I'd love to send it to Helen Brandt. You haven't read it, so I'm not asking you to vouch for it, only whether you'd be comfortable letting her know a query is coming from a friend of yours. If that's more than you want to put your name to, just say, and I'll query her the usual way.\n\nIf you're up for it, here's something you could forward:\n\"Helen, a friend of mine, Grace Okafor, has finished her first novel, The Salt Year, an 85,000-word literary novel, and two of her short stories have appeared in literary magazines. I haven't read the manuscript, but she'd like to send you a query if you're open to it.\"\n\nI'll let you know how it goes either way. Thanks, Tom.\nGrace",
+   "lang": "en",
+   "note": "When your contact can't judge the work, ask only for a heads-up, never an endorsement, and say so in the blurb."
   }
  ]
 }

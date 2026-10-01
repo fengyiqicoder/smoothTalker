@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -183,6 +183,13 @@
    "reply": "Danny, Rosie told me that you and Kate had Theo two weeks ago. Congratulations, I'm really happy for you both. I know it's been four years, and I'm not writing to go back over any of that. I'd love to see a photo of him if you ever feel like sending one, and if not, that's okay too. No rush to reply.",
    "lang": "en",
    "note": "After a family rift, the news is the reason and the only subject: no mention of the old argument, and a tiny ask he can ignore without it meaning anything."
+  },
+  {
+   "id": "reconnect-after-silence-027",
+   "situation": "My university friend Dana came out as trans a couple of years ago and uses she/her; I saw it on Instagram. We haven't talked in about five years, no falling out. We used to play chess in the library basement during exam weeks, and I've just joined a chess club.",
+   "reply": "Hi Dana, it's been about five years, which is far too long. I've just joined a chess club and keep thinking of our games in the library basement during exam weeks. How are you doing these days? No rush to reply, I just wanted to say hello.",
+   "lang": "en",
+   "note": "Use her name and pronouns naturally and leave the transition out of it; this message is about the friendship, not a reaction to her news."
   }
  ]
 }

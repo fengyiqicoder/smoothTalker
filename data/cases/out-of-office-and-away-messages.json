@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -183,6 +183,13 @@
    "reply": "お問い合わせありがとうございます。10月19日（月）から11月13日（金）まで休暇をいただいており、この期間はメールを確認しておりません。11月16日（月）より順次ご返信いたします。お取引に関するご用件は、佐藤美咲（misaki.sato@example.com）までご連絡ください。こちらのメールは転送されませんので、お急ぎの場合は上記の宛先へ直接お送りください。",
    "lang": "ja",
    "note": "介護などの理由は書かず「休暇」で十分。社外向けなので同僚は敬称なしで、名前は一か所だけ。"
+  },
+  {
+   "id": "out-of-office-and-away-messages-027",
+   "situation": "My manager Elena Ruiz had emergency surgery yesterday and will be off for at least two weeks, with no firm return date yet. HR asked me to set up her auto-reply because IT gave me access; messages to her inbox won't be forwarded. I'm Omar Haddad (omar.haddad@example.com), I'm covering her team's work, and she wouldn't want any health details in it.",
+   "reply": "Thank you for your email. Elena Ruiz is away from the office for at least the next two weeks and is not reading email. For anything about her team's work, please contact Omar Haddad at omar.haddad@example.com. Messages here won't be forwarded, so please resend anything important to Omar.",
+   "lang": "en",
+   "note": "Written on someone's behalf: third person, no health details, and no return date that nobody has confirmed."
   }
  ]
 }

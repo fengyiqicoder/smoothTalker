@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -183,6 +183,13 @@
    "reply": "阿凯，谢谢你今晚愿意听我说完。按我们当面说的，正式跟你确认一下：我决定退出店里，12月31日是我最后一天，原因就是要回老家照顾爸妈。股份按合伙协议的退出条款来，请会计按账面评估后由你回购，具体怎么付我们再坐下来慢慢商量。进货和供应商一直是我在管，11月底前我会把供应商名单、价格和下单流程整理好，带你或者你找的人完整跑一遍。这三年跟你一起把店从零做起来，是我特别珍惜的一段日子。",
    "lang": "zh",
    "note": "合伙退出：先当面说，再书面确认日期、协议里写好的回购方式、具体交接和具体感谢；股份怎么算以协议和会计为准，拿不准就问律师。"
+  },
+  {
+   "id": "leave-or-quit-gracefully-027",
+   "situation": "I'm Ravi, and for five years I've co-maintained an open-source date-parsing library with Jun. I'm burned out and want my evenings back, so I'm stepping down as a maintainer on 31 October; I told Jun on a call yesterday and he'll keep leading it. Before then I'll review the 12 open PRs tagged for the v3.2 release and hand my admin rights to Jun. I want to post it in the project's GitHub Discussions.",
+   "reply": "Hi everyone, I'm stepping down as a maintainer on 31 October. After five years I need my evenings back, and I'd rather say so clearly than slowly go quiet. Before then I'll review the 12 open PRs tagged for v3.2 and hand my admin rights to Jun, who will keep leading the project. Thank you to everyone who has filed issues and sent fixes over the years. If you've ever thought about helping maintain, talk to Jun.\nRavi",
+   "lang": "en",
+   "note": "A public exit from a volunteer project: co-maintainer first, then a date, a named successor and a concrete handover so nobody is left guessing."
   }
  ]
 }

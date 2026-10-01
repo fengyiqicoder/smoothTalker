@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -183,6 +183,13 @@
    "reply": "Mr Daniels, you've had no internet since Monday, you work from home, and on Wednesday you waited all morning for an engineer who never came or called. That's our failure, and I'm sorry. I've booked the first engineer slot, tomorrow, Friday 2 October, between 8am and 12pm, and credited your account for every day without service. You asked for a manager: my team leader, Grace, will call you by 5pm today about anything beyond that. I'm Leo, and I'm here on this chat until you're happy with the booking.",
    "lang": "en",
    "note": "Frontline with limited authority: do everything you can do now, then hand the rest up with a name and a time instead of 'I'll pass it on'."
+  },
+  {
+   "id": "respond-to-angry-customer-027",
+   "situation": "我是小叶，在网上卖手织羊毛衫，一件598元。顾客周女士发消息骂质量差，说洗了一次就缩成童装，要全额退款。她发的照片能看出是热水机洗的，吊牌和随货卡片上都写了“冷水手洗、平铺晾干”。我愿意按半价299元再卖她一件，今天就能发。",
+   "reply": "周女士，598元的毛衣洗一次就缩成这样，换谁都心疼。我看了您发的照片，是热水机洗过的；这款毛衣的吊牌和随货卡片上都写了“冷水手洗、平铺晾干”，所以这次没法全额退款。我能做的是：如果您还想要一件，按半价299元给您，今天就能发出。需要的话回复我尺码就行。我是店主小叶，有问题直接找我。",
+   "lang": "zh",
+   "note": "顾客说错了事实：先接住她的损失，再拿吊牌和卡片平静说明一次，然后给一个能做到的办法，不跟她争谁对谁错。"
   }
  ]
 }

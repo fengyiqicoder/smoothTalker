@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -183,6 +183,13 @@
    "reply": "爸，11月起仓库盘点归我管这件事，我想跟您正式商量一下。我也希望盘点做扎实，账和货对得上。问题是盘点每次要两天，正好撞上月底结账，每月3号前账要交给事务所，两件一起做，哪件都做不好。两个办法：一是盘点继续由老刘负责，我每月5号前把他的盘点表和账核一遍；二是盘点归我，结账交事务所的时间推到每月6号，这得您跟事务所打个招呼。我建议第一个，老刘最熟流程。您看选哪个？",
    "lang": "zh",
    "note": "老板是家人也按工作来谈：说清时间冲突，给两个选项和建议，让他来选；别在饭桌上争，用文字正式提。"
+  },
+  {
+   "id": "push-back-on-boss-027",
+   "situation": "Je suis infirmière de nuit en médecine. Ce soir j'ai déjà 6 patients, dont 2 sous surveillance rapprochée, et la cadre de garde, Mme Lefèvre, veut que je prenne une 7e entrée des urgences à 23 h. Ma collègue Inès a 4 patients, tous stables.",
+   "reply": "Madame Lefèvre, je veux que cette entrée soit bien prise en charge. Ce soir j'ai déjà 6 patients, dont 2 sous surveillance rapprochée, et avec un 7e je ne pourrai pas assurer cette surveillance correctement. Deux options : Inès, qui a 4 patients stables, prend l'entrée ; ou elle reprend un de mes patients stables et je prends l'entrée. Je recommande la première, puisque ses patients sont stables. Laquelle préférez-vous ?",
+   "lang": "fr",
+   "note": "Si la charge reste dangereuse pour les patients malgré tout, le signaler par écrit selon la procédure du service, sans refuser la tâche en silence."
   }
  ]
 }

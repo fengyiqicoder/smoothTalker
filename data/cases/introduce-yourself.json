@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -183,6 +183,13 @@
    "reply": "Hallo zusammen, ich bin Diego und ab heute Elektriker hier im Team. Ich komme aus Mexiko und habe dort sechs Jahre als Elektriker gearbeitet, meistens auf Neubauten. Mein Deutsch ist noch nicht perfekt, also sprecht gern etwas langsamer und korrigiert mich ruhig, das hilft mir sehr. Am Wochenende spiele ich Fußball: Wenn jemand eine Mannschaft hat, sagt Bescheid!",
    "lang": "de",
    "note": "Wer in einer neuen Sprache anfängt, macht daraus eine Einladung: um langsames Sprechen und Korrekturen bitten, statt sich zu entschuldigen."
+  },
+  {
+   "id": "introduce-yourself-027",
+   "situation": "I'm Grace. My mum was diagnosed with Alzheimer's in May and moved in with us in August. On Tuesday 6 October I'm joining an online carers' support group for the first time, and everyone introduces themselves for about a minute. I work part-time as a librarian, gardening is how I unwind, and the hardest part right now is the evenings, when Mum gets confused about where she is.",
+   "reply": "Hi everyone, I'm Grace. My mum was diagnosed with Alzheimer's in May and moved in with us in August, so I'm very new to this. I work part-time as a librarian, and gardening is how I unwind. The hardest part for me right now is the evenings, when Mum gets confused about where she is, so I'd really love to hear how others handle that.",
+   "lang": "en",
+   "note": "In a support group the reason you're there is the concrete thing, and the invitation is the one thing you most want help with."
   }
  ]
 }
