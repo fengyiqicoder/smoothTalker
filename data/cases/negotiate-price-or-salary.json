@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -176,6 +176,13 @@
    "reply": "Hi Owen, thank you, I'd really like to join the team properly and keep building on the billing work. The offer is at $115k, and for this role in our city the range I'm seeing is $125k to $135k, so I was expecting closer to $128k. You'd be hiring someone with no ramp-up: I already know the systems, and the billing pipeline rebuild took month-end close from five days to two. Is there flexibility to get to $128k? If base is tight, I'm also happy to talk about a salary review at six months.",
    "lang": "en",
    "note": "Converting from contractor: the strongest reason is the proven work and zero ramp-up, not what you used to bill."
+  },
+  {
+   "id": "negotiate-price-or-salary-026",
+   "situation": "Hollis, who runs the Copper Kettle bar, asked my four-piece jazz band to play three hours every Saturday night in November for $200 a night plus drinks. We usually get $500 for a three-hour set, and the last two times we played there the bar was full past midnight. I'd accept $400.",
+   "reply": "Hi Hollis, thanks for asking us back, we'd love to do Saturdays in November. For a three-hour set with four players our fee is $500 a night, and the last two times we played, the bar was full past midnight, so it tends to pay for itself. Can you get to $500? If that's a stretch, we could do $450 a night for all the November Saturdays booked together.",
+   "lang": "en",
+   "note": "A venue's first figure is an opening offer: anchor on your real fee with the reason that matters to them, and trade a little price for a bigger booking."
   }
  ]
 }

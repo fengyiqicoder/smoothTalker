@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -85,6 +85,13 @@
    "reply": "Dear Lena,\nThank you for the patience you've shown Maisie this term. Those first three lessons of blowing bubbles at the fish on the steps were what made the difference, and on Saturday she swam her first width. She hasn't stopped talking about it since. Thank you for never rushing her. We'll see you next term.\nWith thanks,\nMaisie's mum",
    "lang": "en",
    "note": "For a teacher or coach, name the method that worked, not only the result, so they know what they did right."
+  },
+  {
+   "id": "thank-you-notes-013",
+   "situation": "我9月中旬做了个小手术，请了两周假。同组的小周主动接了我手上两个客户项目，还每天下班前把进展整理成一页文档发给我，我回来第一天就接上了，客户那边一点没耽误。想在微信上好好谢谢她。",
+   "reply": "小周，回来这几天一直想正式跟你说声谢谢。我请假那两周，你把我的两个客户项目都接了过去，每天下班前还整理一页进展发给我，我回来第一天就接上了，客户那边一点没耽误。我知道这些都是在你自己的活之外多出来的，真的辛苦了。以后你休假，你手上的活我来接。",
+   "lang": "zh",
+   "note": "同事之间的感谢：说清她额外做了什么、帮你避免了什么，回报只许自己能兑现的。"
   }
  ]
 }

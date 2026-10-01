@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -176,6 +176,13 @@
    "reply": "Thanks for your email. Our support team is away from Wednesday 14 October to Friday 16 October, and we'll start reading this inbox again on Monday 19 October, oldest messages first. If the service is down and it's stopping your work, call Rui Costa, who is on call, on 0161 496 0990. Everything else will get a reply from us next week. Marta, Support Lead",
    "lang": "en",
    "note": "A team inbox follows the same shape as a personal one: dates, what happens to the message, and one named route for the only thing that can't wait."
+  },
+  {
+   "id": "out-of-office-and-away-messages-026",
+   "situation": "父の介護のため、10月19日（月）から11月13日（金）まで休業し、11月16日（月）に復帰します。部品メーカーの営業で、取引先の対応は同じ課の佐藤美咲さん（misaki.sato@example.com）が引き受けてくれました。休む理由は自動返信に書きたくありません。",
+   "reply": "お問い合わせありがとうございます。10月19日（月）から11月13日（金）まで休暇をいただいており、この期間はメールを確認しておりません。11月16日（月）より順次ご返信いたします。お取引に関するご用件は、佐藤美咲（misaki.sato@example.com）までご連絡ください。こちらのメールは転送されませんので、お急ぎの場合は上記の宛先へ直接お送りください。",
+   "lang": "ja",
+   "note": "介護などの理由は書かず「休暇」で十分。社外向けなので同僚は敬称なしで、名前は一か所だけ。"
   }
  ]
 }

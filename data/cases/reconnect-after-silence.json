@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -176,6 +176,13 @@
    "reply": "Hi Marisol, it's been about four years since we worked on the Crumb & Co logo, and I just saw the photos of your second shop. Huge congratulations! That project was one of my first as a freelancer and I'm still proud of it. How does it feel running two? No need to reply quickly, I just wanted to say well done.",
    "lang": "en",
    "note": "Reconnecting with a former client works only if it asks for nothing: no 'let me know if you need a refresh'."
+  },
+  {
+   "id": "reconnect-after-silence-026",
+   "situation": "My brother Danny and I haven't spoken in four years, since we argued over selling Mum's house. My cousin Rosie told me he and his wife Kate had a baby boy, Theo, two weeks ago. I don't want to reopen the house argument; I just want him to know I'm happy for him and that the door is open.",
+   "reply": "Danny, Rosie told me that you and Kate had Theo two weeks ago. Congratulations, I'm really happy for you both. I know it's been four years, and I'm not writing to go back over any of that. I'd love to see a photo of him if you ever feel like sending one, and if not, that's okay too. No rush to reply.",
+   "lang": "en",
+   "note": "After a family rift, the news is the reason and the only subject: no mention of the old argument, and a tiny ask he can ignore without it meaning anything."
   }
  ]
 }

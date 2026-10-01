@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -176,6 +176,13 @@
    "reply": "Hey Sam, I think a zero snuck in: your share of the concert tickets was $50 and you sent $500. I've just sent the extra $450 back to you on Venmo, so check it's landed. All square on the tickets now, thanks!",
    "lang": "en",
    "note": "Money that isn't yours goes back fast, with the exact numbers and no joke at their expense."
+  },
+  {
+   "id": "money-between-friends-026",
+   "situation": "In June I lent my friend Ollie $500 for his car insurance, and he's paid back $200 so far. Today he asked to borrow another $300 for a concert trip next month. I don't want to lend more until the first loan is cleared, and I'd be fine with the remaining $300 in two payments.",
+   "reply": "Hey Ollie, I'm going to pass on lending for the concert, I'd rather not have two loans open between us. On the June one, you've paid back $200 of the $500, so there's $300 to go. Could we do $150 on 15 October and $150 on 15 November? Then we're square. Thanks for chipping away at it already.",
+   "lang": "en",
+   "note": "Say no to the new loan in one line without a lecture, and turn the old one into a small dated plan."
   }
  ]
 }

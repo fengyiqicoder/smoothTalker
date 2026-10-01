@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -176,6 +176,13 @@
    "reply": "We thank the reviewer for this careful reading. The reviewer is right that our discussion overreached: we tested only adults aged 18 to 30, so we have removed the claim that the findings generalise to older adults and added this as a limitation. On sample size, we see this differently: 24 participants was the number set by our preregistered power analysis for a large effect, and we now state this explicitly in the Methods. If the reviewer has a specific effect size in mind that they think the study should be powered for, we would welcome that guidance.",
    "lang": "en",
    "note": "In a response to reviewers, leave the tone alone: concede the fair point with the change made, disagree once with evidence, and end on a question."
+  },
+  {
+   "id": "respond-to-criticism-026",
+   "situation": "我在小红书做美食博主，昨天发了一篇本帮红烧肉的做法。有个网友在评论区说：“糖放这么多，根本不是正宗本帮红烧肉，误人子弟。”我回去一看，配料表里冰糖写成了50克，其实视频里用的是30克，是我打错了；不过本帮红烧肉本来就偏甜，这是我外婆教我的做法。",
+   "reply": "谢谢指出来！配料表里冰糖写成了50克，是我打错了，视频里实际用的是30克，笔记已经改过来了。本帮红烧肉偏甜是它的特点，这个做法是我外婆教的，可能和您习惯的口味不一样。喜欢少甜的话，冰糖按自己口味再减一点也可以。",
+   "lang": "zh",
+   "note": "陌生网友的公开批评：先认下真的错并当场改掉，不同意的地方说一句就够，不接“误人子弟”这种语气。"
   }
  ]
 }

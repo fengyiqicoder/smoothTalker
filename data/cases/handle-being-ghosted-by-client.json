@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -176,6 +176,13 @@
    "reply": "Bonjour Monsieur Garnier, je reviens vers vous au sujet de la version finale du logo envoyée le 8 septembre. Pour clôturer le projet, j'ai besoin de votre validation : un simple « validé » en réponse suffit, ou vos dernières remarques si un détail vous gêne encore. Dès votre accord, je vous envoie les fichiers définitifs et la facture du solde de 900 €, comme prévu au contrat. Et si le projet doit attendre, dites-le-moi, je le mets en pause sans problème.",
    "lang": "fr",
    "note": "Le silence n'est pas une validation : demandez un oui explicite et proposez la pause plutôt que de facturer par défaut."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-026",
+   "situation": "I'm a freelance translator, and Ms Lindqvist, who runs a small travel agency, has sent me work every month for a year. The brochure I delivered on September 18 had a wrong price on page 2; she caught it, I fixed it the same day and apologised, and since then I've added a second read-through of every figure before delivery. She hasn't replied or sent anything since, and I have space the week of October 12.",
+   "reply": "Hi Ms Lindqvist, I wanted to check in after the brochure on September 18. The price error on page 2 was my mistake, and since then I've added a second read-through of every figure before anything goes out. I have space the week of October 12 if anything is coming up. And if that brochure left you with doubts, I'd rather hear it directly; a quick reply either way is all I need.",
+   "lang": "en",
+   "note": "Silence after your own mistake: name it once with the fix, don't grovel, and make it easy for her to say what's really going on."
   }
  ]
 }

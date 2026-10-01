@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -155,6 +155,13 @@
    "reply": "Heads up on December: from Saturday 28 November to Thursday 24 December, no new holiday requests can be approved. Those are our busiest weeks with the Christmas trees, and I agreed with head office on this. Any leave I've already approved still stands. Everyone will get at least one full weekend off in that period, and I'll post the December rota by Friday 16 October. If this clashes with something important, like childcare or a family event, message me this week and we'll look at it together.",
    "lang": "en",
    "note": "A rule people won't love: what's protected (approved leave, a weekend each) goes right after the news, and the private route is for real clashes."
+  },
+  {
+   "id": "team-announcements-as-a-manager-023",
+   "situation": "Leadership has decided that my team of 10, fully remote since 2021, moves to two office days a week, Tuesday and Wednesday, from Monday 4 January, because cross-team projects stalled this year. I argued against it and lost, and I don't want to badmouth it or pretend I agree. Anyone living more than 50 miles from the office can apply to HR for an exception by Friday 13 November. I'm posting in Slack after telling them on a call.",
+   "reply": "As we covered on the call: from Monday 4 January, our team moves to two office days a week, Tuesday and Wednesday. The reason leadership gave is that cross-team projects stalled this year. To be straight with you, I argued for staying remote and didn't win, but it's decided, and my job now is to make it work as well as possible for you. If you live more than 50 miles from the office, you can apply to HR for an exception by Friday 13 November, and I'm happy to help with the application. If the change creates a real problem, a commute, childcare or caring duties, come and talk to me this week.",
+   "lang": "en",
+   "note": "When you disagreed with the decision, say so once without undermining it, then spend the rest of the message on what people can actually do."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -176,6 +176,13 @@
    "reply": "Gran, I love your emails; the one about the robins nesting in your porch light made my week. Since you asked, I think I know one reason the cousins go quiet: everything's in capital letters, and they read that as shouting, even though I know you're not. It's an easy fix, and I can show you on your tablet on Sunday. Your news is too good to go unanswered.",
    "lang": "en",
    "note": "She asked, so give the one real reason as how others read it, not a verdict on her, and make the fix something you do together."
+  },
+  {
+   "id": "give-feedback-kindly-026",
+   "situation": "好朋友周周明天下午去一家律所面试行政岗，发来穿搭照片问我真实意见。米色西装外套很合身，但里面配的是一件印着大卡通图案的T恤。她衣柜里有件白衬衫，上次见她穿过。",
+   "reply": "外套选得特别好，很合身，整个人看着很利落。我唯一会换的是里面那件卡通T恤，律所的面试官可能会先注意到图案，而不是你。换上你那件白衬衫会不会更稳？你本来就很适合这个岗位，我是想让人第一眼就看到这一点。",
+   "lang": "zh",
+   "note": "面试前一天还来得及改：只提一处，给一个她衣柜里现成的替换，不评价她的身材或品味。"
   }
  ]
 }

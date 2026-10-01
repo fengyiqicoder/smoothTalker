@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -175,6 +175,13 @@
    "reply": "照着这个视频修好了我家洗衣机！排水泵拆开果然卡着一枚硬币，二十分钟搞定。您每一步都拍得特别清楚，开头还专门提醒先拔电源，我这个从没拆过家电的人也敢动手了。谢谢老周！",
    "lang": "zh",
    "note": "夸陌生人也要具体：他做了什么、帮你做成了什么，不顺带提要求或催更。"
+  },
+  {
+   "id": "give-and-receive-compliments-026",
+   "situation": "Mein Freund Jonas ist seit heute ein Jahr ohne Alkohol. In unserer WhatsApp-Gruppe hat er es nur mit einem Daumen-Emoji erwähnt, er mag kein großes Theater. In diesem Jahr ist er jeden Samstagmorgen mit mir laufen gegangen, statt freitags lange in der Kneipe zu sitzen. Ich will ihm privat schreiben.",
+   "reply": "Jonas, ein Jahr. Ich mache kein Theater draus, versprochen, nur eins: Dass du dieses Jahr jeden Samstagmorgen mit mir laufen warst, statt freitags in der Kneipe zu sitzen, hat mir gezeigt, wie ernst du es meinst. Ich bin stolz auf dich.",
+   "lang": "de",
+   "note": "Die Mühe loben, nicht das Aussehen; privat statt in der Gruppe, ohne Ratschläge und ohne Fragen dazu."
   }
  ]
 }

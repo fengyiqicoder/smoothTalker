@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -85,6 +85,13 @@
    "reply": "Dear Admissions Committee,\nI'm pleased to recommend Kenji Mori for the Master of Social Work. As volunteer coordinator at the Eastside Community Pantry, I have worked with Kenji every Saturday for two years. He set up our Saturday intake desk, which cut the morning queue from about 45 minutes to 20, and he has trained six new volunteers. I know Kenji through his volunteering, not his academic work, so I'll leave that to his other referees. For a programme built on practical work with people in need, I recommend him strongly. I'd be glad to talk further: 555-018-7734 or rosa.delgado@example.com.\nSincerely,\nRosa Delgado",
    "lang": "en",
    "note": "A volunteer reference: say exactly where you saw him, give the evidence you have, and name what you didn't see instead of guessing."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-013",
+   "situation": "I'm Hannah Cole, operations manager at Brightwell Logistics. Our reference policy, which applies to every former employee, lets me confirm only dates of employment and job title. A recruiter, Ben Okafor at Larch Health, emailed asking for a full reference for Sofia Reyes, who was our Warehouse Supervisor from 7 March 2022 to 28 August 2026. I rated her highly and don't want the short answer to look like a warning.",
+   "reply": "Hi Ben,\nThanks for getting in touch about Sofia Reyes. Under Brightwell Logistics' reference policy, I can confirm dates of employment and job title only: Sofia worked for us as Warehouse Supervisor from 7 March 2022 to 28 August 2026. The policy applies to every former employee, so please don't read anything into the brevity.\nBest regards,\nHannah Cole",
+   "lang": "en",
+   "note": "When policy limits you to dates and title, say it's standard so the short answer isn't read as faint praise; check with HR before adding anything personal."
   }
  ]
 }

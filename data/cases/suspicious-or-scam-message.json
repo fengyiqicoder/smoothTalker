@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 12,
+ "count": 13,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -85,6 +85,13 @@
    "reply": "Jamie, I've just had a text from a new number saying it's you, that you've broken your phone and need me to pay a £480 bill today. I haven't replied or paid anything. Is that really you? Ring me when you see this.",
    "lang": "en",
    "note": "Send this to his saved number or call it, never to the new one; until you've spoken to him, pay nothing, then block and report the new number to your carrier's spam service."
+  },
+  {
+   "id": "suspicious-or-scam-message-013",
+   "situation": "For the last hour my phone keeps showing sign-in approval requests for my work account that I didn't start, about ten so far, and I haven't approved any. Now someone called 'IT Helpdesk - Tom' has messaged me on Teams from an outside account telling me to approve the next one so he can 'fix a sync problem'. Our real IT service desk is extension 4400 and servicedesk@example.com.",
+   "reply": "Hi, in the last hour I've had about ten sign-in approval requests for my work account that I didn't start, and I haven't approved any of them. Someone calling himself 'IT Helpdesk - Tom' then messaged me on Teams from an outside account, asking me to approve the next one to fix a sync problem. I haven't replied to him. Could you check my account? I'm at my desk and can call extension 4400 now if that's quicker.",
+   "lang": "en",
+   "note": "Never approve a prompt you didn't start. Report it to IT through the contact you already have, don't reply to the outside account, and let IT handle reporting and blocking it."
   }
  ]
 }

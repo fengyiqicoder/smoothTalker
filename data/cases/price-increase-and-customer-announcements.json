@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -176,6 +176,13 @@
    "reply": "Hi there,\nFrom Monday 4 January, your founding membership goes from $45 to $55 a month. Rent and insurance have both gone up since we opened in 2021, and this is the first change to your rate. It stays $10 under our standard $65, because you were here from the start. If you need a break, you can freeze your membership for free, just reply to this email.\nThanks for climbing with us since day one,\nEllie",
    "lang": "en",
    "note": "Ending a grandfathered rate: say what they keep (still under standard) as plainly as what changes, and give three months' notice."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-026",
+   "situation": "Sou a Renata, faço marmitas congeladas sozinha em Campinas, a Cozinha da Rê. A partir de segunda, 9 de novembro, vou parar de entregar em Sousas e Joaquim Egídio, porque fica a 25 km e cada entrega leva mais de uma hora; uns 15 clientes de lá pedem toda semana. Eles podem retirar no Cambuí às quintas, das 17h às 20h, ou fazer pedidos de 10 marmitas ou mais, que eu entrego lá uma vez por mês.",
+   "reply": "Oi! A partir de segunda, 9 de novembro, a Cozinha da Rê deixa de fazer entregas semanais em Sousas e Joaquim Egídio. São 25 km daqui e cada entrega leva mais de uma hora, o que não consigo manter trabalhando sozinha. Cardápio, receitas e preços continuam iguais. Para continuar, você pode retirar no Cambuí às quintas, das 17h às 20h, ou fazer um pedido de 10 marmitas ou mais, que eu levo aí uma vez por mês. Obrigada por comer com a gente toda semana. Renata",
+   "lang": "pt",
+   "note": "Reduzir a área de entrega também é um anúncio: a mudança e a data primeiro, um motivo, e caminhos concretos para quem é afetado continuar."
   }
  ]
 }

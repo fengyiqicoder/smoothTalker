@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -176,6 +176,13 @@
    "reply": "Hola a todos, soy Marta, y a partir del lunes 5 de octubre acompañaré a don Ernesto de lunes a viernes, de 9 a 14. Llevo ocho años cuidando a personas mayores y tengo el curso de primeros auxilios. Me encanta cocinar, así que si a don Ernesto le apetece algún plato en especial, aquí estoy. Me ayudaría mucho que me contarais qué le gusta, qué le preocupa y cómo le gusta organizar el día; podéis escribirme por aquí cuando queráis. Gracias, Pilar, por añadirme.",
    "lang": "es",
    "note": "Con la familia de la persona a la que cuidas, la invitación es pedir lo que ellos saben de él: genera más confianza que el currículum."
+  },
+  {
+   "id": "introduce-yourself-026",
+   "situation": "Ich heiße Diego, komme aus Mexiko und fange am Montag, 5. Oktober, als Elektriker in einem kleinen Betrieb in Leipzig an, wir sind acht Leute. Mein Deutsch ist ungefähr B1, und ich möchte am ersten Tag in der Frühstückspause kurz etwas sagen. In Mexiko war ich sechs Jahre Elektriker, meistens auf Neubauten, und am Wochenende spiele ich Fußball.",
+   "reply": "Hallo zusammen, ich bin Diego und ab heute Elektriker hier im Team. Ich komme aus Mexiko und habe dort sechs Jahre als Elektriker gearbeitet, meistens auf Neubauten. Mein Deutsch ist noch nicht perfekt, also sprecht gern etwas langsamer und korrigiert mich ruhig, das hilft mir sehr. Am Wochenende spiele ich Fußball: Wenn jemand eine Mannschaft hat, sagt Bescheid!",
+   "lang": "de",
+   "note": "Wer in einer neuen Sprache anfängt, macht daraus eine Einladung: um langsames Sprechen und Korrekturen bitten, statt sich zu entschuldigen."
   }
  ]
 }

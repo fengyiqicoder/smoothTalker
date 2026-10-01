@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -176,6 +176,13 @@
    "reply": "小郑，想跟你聊一下客户群回消息的事，方便吗？这周我看到你两次回客户用的是“亲～收到哈哈哈”，客户问交付时间那次回的是“应该快了吧”。昨天刘总私下来问我交付时间到底定没定，说明他心里没底了。你回的时候是怎么考虑的？以后群里回复语气正式一点，涉及时间的问题先跟我确认，再回一个具体日期。两周后我们再一起看看群里的情况。",
    "lang": "zh",
    "note": "引用他的原话和客户的具体反应，不给他贴“不专业”的标签；先问他的考虑，再提要求，约好回头看。"
+  },
+  {
+   "id": "give-feedback-to-colleague-026",
+   "situation": "In our last four project planning meetings, my peer Martin, who chairs them, has asked a woman to take notes every time: me twice and Sofia twice, never any of the men. I don't think he's noticed the pattern. I want to raise it with him privately before next Tuesday's planning meeting.",
+   "reply": "Martin, can I give you some feedback on the planning meetings? In the last four, note-taking has gone to a woman every time, me twice and Sofia twice, and never to any of the men. I don't think it's deliberate, but whoever takes notes is writing instead of contributing, and right now that's always the two of us. What's your read on it? Could we set up a rotation across the whole team, starting next Tuesday? Let's see how it's gone after a month.",
+   "lang": "en",
+   "note": "Name the pattern with the count, not a verdict on him, and make the ask a fix he can run himself; if it continues, take it to your manager."
   }
  ]
 }

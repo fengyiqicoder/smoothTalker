@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -176,6 +176,13 @@
    "reply": "Hi Owen, I can see this is a hard time to tell your family, and I'm not going to come on the 17th or pretend we're still together. It's your news to share however and whenever you want, and I won't say anything to them before you do. I hope your grandmother has a lovely birthday.",
    "lang": "en",
    "note": "A request to keep up a pretence gets the same clear no as a request to get back together; offer the one thing you can honestly give, your discretion."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-026",
+   "situation": "Julien et moi, on s'est séparés en juillet et on a rendu notre appartement fin août. Il m'a écrit hier soir : « Et la caution, tu comptes me la rendre quand ? » Le propriétaire m'a reversé hier 1 000 € sur les 1 200 €, en gardant 200 € pour le parquet abîmé du salon, comme indiqué dans l'état des lieux de sortie ; je peux lui virer sa moitié samedi 3 octobre et je n'ai pas envie de reparler d'autre chose.",
+   "reply": "Salut Julien, le propriétaire a reversé la caution hier : 1 000 € sur 1 200 €, il a gardé 200 € pour le parquet abîmé du salon, comme indiqué dans l'état des lieux de sortie que je t'envoie juste après. Ta moitié fait donc 500 €, je te fais le virement samedi 3 octobre. Dis-moi seulement si ton RIB a changé.",
+   "lang": "fr",
+   "note": "L'argent avec un ex, c'est de la logistique : les chiffres, la preuve, la date. On ne répond pas au ton du message."
   }
  ]
 }

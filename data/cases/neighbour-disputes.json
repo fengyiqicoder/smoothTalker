@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -176,6 +176,13 @@
    "reply": "Bonjour Madame Lefèvre, c'est Claire, votre voisine du 3e, juste en dessous de chez vous. Vous ne le voyez sans doute pas d'en haut, mais depuis septembre une dizaine de pigeons se posent chaque matin sur ma rambarde, et mon balcon est couvert de fientes : je le nettoie deux fois par semaine. Est-ce que vous accepteriez de ne plus leur donner à manger sur votre balcon ? Merci beaucoup, et n'hésitez pas à me dire si quelque chose chez nous vous gêne aussi. Claire, 3e étage",
    "lang": "fr",
    "note": "Une seule demande, ce qu'elle peut faire elle-même, sans juger son habitude ; le syndic seulement si rien ne change, et après l'avoir prévenue."
+  },
+  {
+   "id": "neighbour-disputes-026",
+   "situation": "我住在城郊的独栋小院，隔壁老周家今年夏天开始养了一只公鸡，鸡笼就挨着我们卧室那面墙，每天凌晨四点半左右就开始打鸣，我和老公都会被吵醒。两家关系一直不错，平时常互相送菜。",
+   "reply": "老周，跟您商量个小事。您家公鸡的笼子挨着我们卧室那面墙，每天凌晨四点半左右就开始打鸣，我和老公基本都会被吵醒。不是要您别养，就是想问问能不能把鸡笼挪到院子另一头，或者晚上给笼子盖块遮光布，看能不能让它晚点叫？要搬的话，我们周末过来搭把手。我们家要是有什么打扰到您的，也随时说。",
+   "lang": "zh",
+   "note": "关系好的邻居，不要求他不养，只提他做得到的小调整，并主动帮忙；改善不了再查当地规定，提前跟他说一声再找村里或社区。"
   }
  ]
 }

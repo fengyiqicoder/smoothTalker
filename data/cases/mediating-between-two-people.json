@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -176,6 +176,13 @@
    "reply": "阿峰，我理解这事让你挺上火的。不过我是给你们俩共同记账的，利润怎么分不该由我来定，我不会替任何一方去说服另一方，你们各自跟我说的话我也不会转述。我能做的是把今年的收支和你们各自的投入整理成一份清楚的数字，10月7日周三前同时发给你们俩。怎么分最好以合伙协议为准，协议没写清楚的部分，你们俩坐下来谈；需要的话我可以在场只讲数字，也可以请律师或调解员帮忙。",
    "lang": "zh",
    "note": "专业角色更要中立：同一份数字同时给双方，分钱的规则交给协议和他们自己。"
+  },
+  {
+   "id": "mediating-between-two-people-026",
+   "situation": "I rent out a four-bedroom house by the room. One tenant, Priya, emailed that her housemate Sam games with his headset mic on until about 2am most nights, she hears him through the wall, and she asked me to 'have a word'. Every tenancy agreement includes a house rule of quiet hours from 11pm to 7am.",
+   "reply": "Hi Priya, thanks for telling me, and I'm sorry it's been keeping you up. I won't pass on what you've said or take sides between you and Sam, but quiet hours from 11pm to 7am are in everyone's tenancy agreement, so I'll send a reminder about them to the whole house today. If it carries on, a direct chat between you two is usually the quickest fix, and I'm happy to sit in on one if you'd both like that.",
+   "lang": "en",
+   "note": "As the landlord you're neutral on the personal dispute but not on the house rules: remind everyone, keep her complaint private, and offer to host a direct talk."
   }
  ]
 }

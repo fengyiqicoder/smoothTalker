@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -176,6 +176,13 @@
    "reply": "Hi Rosa, a small thing from last Friday: the bleach spray left a pale patch, about the size of a hand, on the oak dining table. Please don't worry about the repair, we'll take care of that ourselves. From now on, could you use only the wood cleaner on that table? I've put a bottle under the kitchen sink. Thank you as always for keeping the house so lovely.",
    "lang": "en",
    "note": "With a provider you'll keep using, the fact and one clear ask are enough; if you choose to cover the cost, say so once so they're not left wondering."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-026",
+   "situation": "Our builder, Dmitri, is halfway through a $14,000 kitchen extension. Yesterday he said the old floor joists are rotten and need replacing, 'probably another $2,000 to $3,000', and he wants to start on them tomorrow. I'm fine with it if it's needed, but I want it priced and agreed in writing before any of that work starts.",
+   "reply": "Hi Dmitri, thanks for flagging the joists, better found now than later. Before that work starts, could you send me a written quote for replacing them, with materials and labour broken out, and a couple of photos of the rot? I'll reply the same day I get it, so the job doesn't stall. Anything outside the original $14,000 scope needs my written okay first, just so we're both clear on the final bill.",
+   "lang": "en",
+   "note": "Extra work found mid-job: agree the price in writing before it starts; it is far easier than disputing an invoice afterwards."
   }
  ]
 }

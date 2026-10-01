@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -176,6 +176,13 @@
    "reply": "Dear Ms Ruiz,\nI'm writing to give notice that I will be leaving 18 Larch Street, Apt 4, with my tenancy ending on Monday 30 November 2026, in line with the 30 days' written notice in clause 11 of my lease. Because the lease still names Mr Doyle's address for notices, I'm sending him a copy today as well. Could you confirm whether Westmere Holdings needs notice served anywhere else? I'll pay November's rent to Westmere as usual, return all keys on the 30th, and would like to arrange a move-out inspection that day. Please confirm in writing that you've received this notice.\nThanks,\nRavi Shah",
    "lang": "en",
    "note": "After a sale, serve notice to the address the lease names and to the new owner, and check in writing who now holds the deposit."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-026",
+   "situation": "I'm Aiden Walsh and I've rented Flat 6, 31 Quay Street in Cork from Mr Byrne for two years; clause 7 of the lease says 28 days' written notice, and email is fine. My mother is unwell, so I flew home to Toronto on 25 September and won't be back; I want the tenancy to end on 30 October, and I've already paid October's rent. My friend Niamh Kelly (087 555 0192) will clear the flat, do the check-out inspection and return the keys, and Mr Byrne has my bank details on file from when I moved in.",
+   "reply": "Dear Mr Byrne,\nI'm writing to give notice that I'll be leaving Flat 6, 31 Quay Street, with my tenancy ending on Friday 30 October 2026, in line with the 28 days' written notice in clause 7 of our lease. My mother is unwell, so I flew home to Toronto on 25 September and won't be coming back. October's rent is already paid. My friend Niamh Kelly will clear the flat, attend the check-out inspection on the 30th and return all the keys; you can reach her on 087 555 0192. Could you return the deposit to the bank account you have on file, and confirm in writing that you've received this notice?\nThank you for two good years.\nAiden Walsh",
+   "lang": "en",
+   "note": "When you can't be there, name the person handling the handover and agree with the landlord in writing what she can sign on your behalf."
   }
  ]
 }

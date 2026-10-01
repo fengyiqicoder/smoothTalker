@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -176,6 +176,13 @@
    "reply": "Hey, all okay? I'm outside the main entrance. I'm going in at 8:15 so I don't miss the start, and I've just transferred your ticket to you, so you can scan in whenever you get here. Text me when you're inside and I'll come find you.",
    "lang": "en",
    "note": "Check they're okay, say what you'll do and when, and take the ticket out of the equation so being late doesn't cost them the gig."
+  },
+  {
+   "id": "handle-no-show-or-lateness-026",
+   "situation": "I open the bike shop at 9 today and my manager, Corinne, is off. I overslept, it's 8:40 and I'll be there at 9:25 at the earliest. The only booking before then is Mr Adeyemi's wheel repair at 9:15, and his number is in the booking app.",
+   "reply": "Hi Corinne, I overslept and I'm going to be late opening the shop, my fault. I'll be there by 9:25. The only booking before then is Mr Adeyemi's wheel repair at 9:15, so I'm calling him now to let him know. Sorry for the hassle on your day off.",
+   "lang": "en",
+   "note": "Late to your own shift: tell your manager before the start time, own it in a few words, give a real ETA and say how you're covering the knock-on."
   }
  ]
 }

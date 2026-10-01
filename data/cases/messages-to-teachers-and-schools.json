@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -176,6 +176,13 @@
    "reply": "Dear Mr Ford, I'm writing with a safeguarding matter about my son, Jack Cole, in Miss Reed's Year 3 class. On 25 September the family court made an order that Jack's father, Liam, must not collect Jack from school or contact him there; I'll bring a copy to the office this morning. Liam is still on Jack's pick-up list, so please remove him: from now on only I or my sister, Beth Cole, will collect Jack. Could you confirm today that the list has been updated, and let me know what the school will do if he arrives? I'm on 07700 900 233 all day. Thank you, Hannah Cole",
    "lang": "en",
    "note": "Lead with safeguarding and the order, give the school a copy and one practical change; if he turns up and anyone feels unsafe, call emergency services, and a domestic abuse support service can help with a safety plan."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-026",
+   "situation": "女儿糖糖在阳光幼儿园中班，班主任是孙老师。这周一和周三晚上给她洗澡时，我发现她胳膊上各有一个牙印，她说是班上同一个小朋友咬的。两次老师都没跟我说，我也不知道当时是什么情况。",
+   "reply": "孙老师您好，我是中班糖糖的妈妈。这周一和周三晚上给糖糖洗澡时，我发现她胳膊上各有一个牙印，她说是班上一个小朋友咬的。我只听了孩子的说法，想问问您当时有没有注意到是怎么回事？另外想拜托您，以后孩子在园里磕了碰了，哪怕是小伤，也请当天跟我说一声，我们在家好配合。每天放学我都来接，您方便时跟我聊几句就好。谢谢您！",
+   "lang": "zh",
+   "note": "只说看到的牙印和孩子的说法，不点另一个孩子的名字；先问老师看到了什么，再提一个以后能做到的请求。"
   }
  ]
 }

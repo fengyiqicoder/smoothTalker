@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -176,6 +176,13 @@
    "reply": "快门大约1.2万次。机身底部有一处3毫米左右的掉漆，屏幕没有划痕，我这就拍细节图发你。3200元含两块原装电池和充电器，同城可以当面验货，外地包邮。你在哪个城市？",
    "lang": "zh",
    "note": "二手卖家先把瑕疵说清楚，比买家收货后自己发现强得多。"
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-026",
+   "situation": "I tutor GCSE maths online for £40 an hour and do a free 20-minute first call. A mum, Karen, WhatsApped: 'How much? My son Josh is predicted a 3 and needs a 4 in his exams next June. Can you guarantee he'll pass?' I have Tuesdays and Thursdays at 5pm free.",
+   "reply": "Hi Karen! It's £40 an hour. I can't honestly guarantee a grade, nobody can, but moving from a predicted 3 to a 4 by June is a goal I work on with a lot of students, and there's time to do it. A free 20-minute first call lets me see where Josh is losing marks. I've got Tuesday or Thursday at 5pm; would either suit him?",
+   "lang": "en",
+   "note": "Price first, then an honest no to the guarantee: promising an outcome you don't control wins the booking and loses the trust."
   }
  ]
 }
