@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -161,6 +161,13 @@
    "reply": "Subject: Your volunteer sign-up form on mobile\n\nHi Grace,\nI tried to sign up to volunteer at Eastside Pantry from my phone this week, and the form wouldn't submit either time. I'm a UX designer and I'd like to fix it for you, for free. Last year I redesigned the mobile sign-up for Kite Club, a youth charity, and their monthly sign-ups went from 40 to 110. Would that be useful? If the timing's wrong, a quick no is genuinely helpful.\nSam Okafor",
    "lang": "en",
    "note": "Offering free help is still a cold pitch: a stretched team needs to see it won't become extra work, so keep it to four lines and one yes/no."
+  },
+  {
+   "id": "cold-outreach-024",
+   "situation": "I'm Lena, a freelance English-to-German game translator. Indie studio Paper Lantern Games released its puzzle game Tidewell on Steam in August, English only, and 14 of its recent reviews are in German, several asking for a translation. Last year I localised an indie game called Mossgrove, and German-speaking players went from 3% to 11% of its sales after the German release; I want to email co-founder Ines Romero and offer a free translated sample of the first level's text.",
+   "reply": "Subject: German players asking for Tidewell in German\nHi Ines,\n14 of Tidewell's recent Steam reviews are in German, and several of them ask for a translation. I'm a freelance English-to-German game translator; after I localised Mossgrove last year, German-speaking players went from 3% to 11% of its sales. Would a free German sample of the first level's text be useful to you? If it's not relevant, a 'no' is genuinely helpful.\nLena",
+   "lang": "en",
+   "note": "The hook is evidence from their own reviews, and the ask is a free sample, not a call."
   }
  ]
 }

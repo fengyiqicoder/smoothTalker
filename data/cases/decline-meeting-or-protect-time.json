@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -162,6 +162,13 @@
    "reply": "小周，每天开会是想让大家进度对得上，这个我明白。晚上的会我就不每次都参加了，周一、三、五我兼职到10点。我负责的竞品分析，每周二、周四晚上8点前把进度更新到共享文档里，你们开会前就能看到。需要我一起讨论的话提前说一声，周二、周四晚上9点我都能上线。你看这样可以吗？",
    "lang": "zh",
    "note": "同学之间也一样：给出交付时间，比解释自己有多忙更管用。"
+  },
+  {
+   "id": "decline-meeting-or-protect-time-024",
+   "situation": "I built our support team's ticket dashboard, and this week three different people have booked 30-minute calls with me to 'walk them through it'. The latest is Ravi from billing, tomorrow, Friday, at 2pm. I'd rather record one 10-minute walkthrough, post it in our #support-tools Slack channel by noon tomorrow, and answer questions in the thread.",
+   "reply": "Hi Ravi, sounds like you want to get set up on the ticket dashboard. I'll skip tomorrow's 2pm call; instead I'm recording a 10-minute walkthrough and will post it in #support-tools by noon tomorrow, Friday 2 October. If anything's still unclear after watching, drop your questions in the thread and I'll answer them there. Does that work for you?",
+   "lang": "en",
+   "note": "One recording replaces every future version of this call; send the same link to the next person who books one."
   }
  ]
 }

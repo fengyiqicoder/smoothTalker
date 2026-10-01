@@ -96,7 +96,7 @@ if CASES.exists():
             if BANNED.search(str(c.get("reply", ""))):
                 err(p, f"{where}: banned phrase in the reply")
             for dom in re.findall(r"[\w.+-]+@([\w-]+(?:\.[\w-]+)+)", text):
-                if not dom.lower().startswith("example."):
+                if dom.lower() not in ("example.com", "example.org", "example.net"):
                     err(p, f"{where}: email domain {dom}; use example.com")
             if len(str(c.get("reply", ""))) > 900:
                 warn(p, f"{where}: reply over 900 characters; keep cases short")

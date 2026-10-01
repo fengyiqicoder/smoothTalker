@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -162,6 +162,13 @@
    "reply": "Claire, merci pour l'invitation, je suis tellement contente pour toi ! Je ne pourrai pas venir à la première le 10, je garde mes neveux ce soir-là. Mais je ne veux pas rater ça : je viens le samedi 17, et on prend un verre après si tu as un moment.",
    "lang": "fr",
    "note": "Une autre date seulement parce qu'elle a vraiment envie d'y aller ; sinon, un mot chaleureux suffit."
+  },
+  {
+   "id": "decline-invitation-024",
+   "situation": "我在公司做采购。供应商的王经理约我10月9日周五晚上吃饭，说是感谢今年的合作。我们员工手册规定采购岗不能接受供应商宴请。他人不错，下个月他还要来我们公司对年度合同，我想维持好关系。",
+   "reply": "王经理，谢谢您的邀请，也谢谢这一年的配合。10月9日的饭我就不去了，我们员工手册规定采购岗不能接受供应商宴请，这个我得守着。下个月您来公司对年度合同，结束后我请您在楼下喝杯咖啡，咱们好好聊聊明年的计划。",
+   "lang": "zh",
+   "note": "The policy is the one reason, stated once; check whether your policy also covers small treats before offering the coffee."
   }
  ]
 }

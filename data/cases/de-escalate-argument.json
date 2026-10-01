@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -162,6 +162,13 @@
    "reply": "Brenda, we've both got heated, so I'm taking this off the group email. Saying you block every decision was unfair, and I'm sorry. I can see that booking the pitch without a vote left you feeling the committee was bypassed. Can I call you tomorrow at 7pm so we can talk it through properly? We both give a lot to this club, and that matters more than this thread.",
    "lang": "en",
    "note": "Send it to Brenda alone, not reply-all; once you've talked, post one neutral line to the committee."
+  },
+  {
+   "id": "de-escalate-argument-024",
+   "situation": "My husband Raj and I started arguing about a $900 credit card bill at dinner, in front of our kids Arjun (9) and Maya (6). I raised my voice, and Maya just asked if we're getting divorced. I want to stop this right now, at the table.",
+   "reply": "Raj, I don't want to do this in front of Arjun and Maya. I got loud about the card bill and I'm sorry for that. Can we finish dinner and talk properly at 8:30, once they're in bed? We'll sort it out together.",
+   "lang": "en",
+   "note": "Then give the kids one calm line, like 'We disagreed about money and we're going to talk it through later', and keep the 8:30 time."
   }
  ]
 }

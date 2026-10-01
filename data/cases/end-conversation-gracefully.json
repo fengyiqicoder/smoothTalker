@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -162,6 +162,13 @@
    "reply": "这事你跟阿杰当面聊聊可能更清楚。我得回工位了，两点那个会的材料还没弄完。回头见！",
    "lang": "zh",
    "note": "不接话、不评价阿杰，用真实的理由收尾，最后一句不带问题。"
+  },
+  {
+   "id": "end-conversation-gracefully-024",
+   "situation": "I'm visiting my friend Nadia in hospital two days after her knee surgery. We've talked for over an hour, she's started yawning and wincing when she shifts, but she keeps saying 'stay a bit longer'. I want to leave so she can rest, and I'm coming back on Sunday with the crossword book she asked for.",
+   "reply": "Nadia, this has been the best hour of my week, and I'm going to head off so you can rest. That knee needs you sleeping more than it needs me talking. I'll be back on Sunday with the crossword book. Sleep well.",
+   "lang": "en",
+   "note": "Leave while it's still good; if she asks again, one warm 'Sunday, I promise' and go."
   }
  ]
 }

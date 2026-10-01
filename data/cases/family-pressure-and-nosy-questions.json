@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -162,6 +162,13 @@
    "reply": "Ah, Gary. That's one for Claire and me to sort out quietly, and not today. Tell me about all those weekends you and Dad spent fishing, I'd love to hear them today.",
    "lang": "en",
    "note": "If he asks again, repeat the same line nearly word for word; at a wake, the soft deflection is the whole job."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-024",
+   "situation": "I'm seven months pregnant with our first, a boy. My father-in-law, Emeka, asks on every family video call whether we'll name him after his late father, Obinna; my husband Chidi and I haven't decided and aren't sharing names before the birth. He's been teaching himself to bake bread since he retired, and the next call is Sunday.",
+   "reply": "Ha, Papa, you're keeping us on our toes. We're keeping names to ourselves until he arrives, and you'll be one of the first to hear. Now, how did the bread come out this week? Hold it up to the camera.",
+   "lang": "en",
+   "note": "If he asks again, repeat the same line nearly word for word; it covers every name, so it never reads as a no to Obinna."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -162,6 +162,13 @@
    "reply": "小林，有件事想跟你聊一下，方便吗？昨晚你朋友圈那条吐槽改到第八版的，配图里有新禾食品的logo和设计稿，他们的对接人跟你是微信好友，很可能看得到。改八版确实磨人，你这阵子也特别拼，你自己怎么看这件事？我需要的是：那条先删掉，以后客户的稿子和信息不发朋友圈，憋屈了直接跟我说，改稿次数我去跟客户谈。周五我们再碰一下改稿流程。",
    "lang": "zh",
    "note": "说清看到了什么、可能的影响，再给具体要求；先问他的看法，别直接定性为“不专业”。"
+  },
+  {
+   "id": "give-feedback-to-colleague-024",
+   "situation": "I manage Priya, a data engineer. In the last two weeks she's sent Slack messages at 1am or 2am at least six times, and on Tuesday her 2am deploy broke the morning dashboard. Two newer teammates have started replying late at night too. I want to raise it in our 1:1 on Monday.",
+   "reply": "Priya, can I give you some feedback on late-night work? In the last two weeks I've seen messages from you at 1 or 2am at least six times, and Tuesday's 2am deploy broke the morning dashboard. I'm also seeing newer people start answering at night, and that's not a pace I want anyone to feel they have to match. What's going on for you at the moment? Going forward I'd like deploys to happen in working hours, and anything you write late to be scheduled to send in the morning. Let's look at how it's going in our 1:1 on Monday 19 October.",
+   "lang": "en",
+   "note": "When the problem looks like dedication, name the impact on the work and the team, and ask about workload before the ask: it may be a capacity or burnout issue."
   }
  ]
 }

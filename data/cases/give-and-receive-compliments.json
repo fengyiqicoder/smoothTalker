@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -161,6 +161,13 @@
    "reply": "Mark, I'd rather you didn't comment on my appearance. Let's keep it to the work. Where are we on the vendor review for Friday?",
    "lang": "en",
    "note": "The light deflection already failed, so say it plainly once; if it continues, keep the messages and take it to your manager or HR."
+  },
+  {
+   "id": "give-and-receive-compliments-024",
+   "situation": "日本の会社で働いています。今日の取引先への提案のあと、部長が他部署の人もいる前で「田中さんの資料、すごく分かりやすかった」と褒めてくれたのに、その場で思わず「いえいえ、全然です」と言ってしまいました。価格の比較表は3回作り直したので本当は嬉しかったです。あとで社内チャットで一言きちんとお礼を伝えたいです。",
+   "reply": "部長、本日はありがとうございました。皆さんの前で資料を褒めていただき、本当に嬉しかったです。特に価格の比較表は3回作り直したので、伝わってよかったです。",
+   "lang": "ja",
+   "note": "謙遜が普通の職場でも、その場で打ち消してしまったら、後からお礼と一言の受け止めで十分に取り戻せる。"
   }
  ]
 }

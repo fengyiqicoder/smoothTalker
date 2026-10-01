@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -162,6 +162,13 @@
    "reply": "Laura, I'm with you that we want someone who'll work well with the team. Where I land differently is on Omar: his technical interview was the strongest of the five candidates, and I'm wary of reading too much into him being quiet at one lunch. What else did you see that made you think he wouldn't fit? I could be missing something.",
    "lang": "en",
    "note": "One reason, and a real question; if she holds her view, it's her call as hiring manager."
+  },
+  {
+   "id": "disagree-without-conflict-024",
+   "situation": "I'm one of four volunteer moderators on a 3,000-member Discord for indie game devs. Fellow mod Jess wants to permanently ban Ray, who's been helpful there for two years, over one heated post on Tuesday where he called someone's game 'lazy garbage'. Our rules say a first offence gets a warning or a 7-day mute. I'm replying in the private mod channel.",
+   "reply": "Jess, I'm with you that Ray's post was out of line, and 'lazy garbage' isn't how we want anyone to hear about their game. Where I land differently is the permanent ban: our rules say a first offence gets a warning or a 7-day mute, and I think we should stick to what we've told everyone. Would a 7-day mute plus a note from us explaining why work for you? If there's history with Ray I haven't seen, tell me.",
+   "lang": "en",
+   "note": "Peer to peer, point to the rules you both agreed rather than your view of Ray; the question leaves room for context you don't have."
   }
  ]
 }

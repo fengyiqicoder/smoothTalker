@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Mark, thank you for booking, and I'm glad you got in touch. Your first session is Wednesday 7 October at 6pm by video, and I'll email you the link on Tuesday. Before then, could you fill in the short intake form attached and send it back by Monday 5 October? It helps me make the most of our first session. If you ever need to move a session, let me know at least 48 hours ahead; after that, the £60 fee still applies. I reply to emails within one working day, and this inbox isn't checked for emergencies, so if you're ever in crisis, please call emergency services. Ellen",
    "lang": "en",
    "note": "The policy comes after the next steps, said plainly once; for a counselling client, where to go in a crisis is part of setting reply-time expectations."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-024",
+   "situation": "我是阿琳，在家做猫咪寄养。客人小吴刚付了400元，订了10月3日到7日寄养她的猫“年糕”，一共4晚，10月3日上午10点到12点之间送来。10月2日前我需要疫苗本照片、最近一次驱虫的日期、它平时吃的猫粮和一天喂几次、紧急联系人电话；寄养期间我每天晚上8点前发照片和小视频，微信一般半小时内回。",
+   "reply": "小吴你好，谢谢你把年糕交给我照顾，400元已经收到，10月3日到7日4晚定好啦。10月3日上午10点到12点之间送过来就行。10月2日前麻烦发我几样东西：疫苗本照片、最近一次驱虫的日期、它平时吃的猫粮和一天喂几次、你的紧急联系人电话，这样我能照着它在家的习惯来。年糕在我这儿的每一天，晚上8点前我都会发照片和小视频给你。有事随时微信我，一般半小时内回。阿琳",
+   "lang": "zh",
+   "note": "Pet owners worry most in the gap before drop-off, so the daily 8pm update is promised up front."
   }
  ]
 }

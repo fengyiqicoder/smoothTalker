@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -161,6 +161,13 @@
    "reply": "小米你好，谢谢想到我！明晚8点前发属于加急：我的档期一般提前两周约，48小时内交稿会加收30%，所以这篇图文是6500元，含30天授权。时间比较紧，麻烦今晚9点前把brief发我，我明天中午前给你初稿确认。如果发布时间能放到两周后，就按5000元正常排期。你看选哪种？",
    "lang": "zh",
    "note": "加急是档期成本，在报价里单独说明；同时给一个不加价的正常排期，让对方自己选。"
+  },
+  {
+   "id": "creator-brand-deal-reply-024",
+   "situation": "My daughter Ella is 15 and has 30k followers on TikTok for her crochet videos. A yarn brand, Loopwell, DMed her directly offering $400 for one video; the contact is Sasha. I'm her mum, Karen Holt, I handle anything paid, and I want them to deal with me at karen.holt@example.com and put the deliverables, usage and payment terms in writing before Ella says yes.",
+   "reply": "Hi Sasha, thanks for reaching out to Ella, she was really pleased. I'm her mum, Karen Holt, and as she's 15 I handle all of her paid partnerships, so could you send the details to me at karen.holt@example.com? To look at the $400 offer properly I'd need the deliverables, posting dates, any usage rights or exclusivity, and the payment terms in writing. Once I have those, Ella and I will come back to you within a couple of days.",
+   "lang": "en",
+   "note": "Move the deal out of a teenager's DMs and into a parent's inbox; check the platform's rules on minors in paid content before signing anything."
   }
  ]
 }

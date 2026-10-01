@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -162,6 +162,13 @@
    "reply": "Mint green is a brave choice for a caravan, and I think the right one. Where's its first trip going to be once it's finished?",
    "lang": "en",
    "note": "No need to explain being new to apps or widowed in the first message; let the caravan do the work."
+  },
+  {
+   "id": "first-message-to-stranger-024",
+   "situation": "This morning I found a small brown dachshund with a red collar but no tag wandering near the Elm Park playground, and she's safe at my flat now. In our neighbourhood group chat, a woman called Tara posted last night that her dachshund Pip went missing near Elm Park. I want to message Tara without giving away every detail, so the real owner can confirm it's her dog.",
+   "reply": "Hi Tara, I saw your post about Pip. This morning I found a small brown dachshund with a red collar near the Elm Park playground, and she's safe with me. Could you tell me one thing about Pip that isn't in your post, like a marking or a habit, so I can be sure she's yours?",
+   "lang": "en",
+   "note": "Hold back one detail so the real owner can prove it, and do the handover somewhere public."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -162,6 +162,13 @@
    "reply": "Subject: Confirmation needed by Mon 5 Oct: full flour delivery on 8 Oct\n\nHi Karen, our last three deliveries came short: on 7, 17 and 28 September we received 30 of the 40 sacks we ordered. Covering the gaps with retail flour has cost us about $260 so far, and our Christmas orders start in November. I raised each shortfall with Dan, who put it down to a warehouse issue, and I've let him know I'm writing to you. I need you to confirm by Monday 5 October that our delivery on Thursday 8 October will be the full 40 sacks. My recommendation: have someone check our order against the docket before it leaves the warehouse.\n\nThanks,\nNadia Rahman, Hearth Bakery",
    "lang": "en",
    "note": "One ask only; raise the $260 credit separately once deliveries are fixed."
+  },
+  {
+   "id": "escalate-an-issue-024",
+   "situation": "我是赵琳。我爸赵建国住在一家养老院的302房，卧床，需要每两小时翻一次身。9月20日和9月27日我两次跟护理组长小郑反映，探望时发现他三四个小时没人翻身，背上已经发红；小郑说会加强，但这周护工还是说人手不够。我已经跟小郑说了要找孙院长。",
+   "reply": "孙院长您好，我是302房赵建国的女儿赵琳。我爸卧床，需要每两小时翻一次身。9月20日和9月27日，我两次向护理组长小郑反映，探望时发现他三四个小时没人翻身，背上已经发红；小郑说会加强，但这周护工还是说人手不够。我已经跟小郑说了会联系您，这不是针对小郑个人。麻烦您在10月3日（周六）前回复我：能否从现在起保证每两小时给我爸翻一次身，并留下翻身记录，我探望时可以看。谢谢您。",
+   "lang": "zh",
+   "note": "背上发红可能是压疮的早期迹象，请尽快让医生或护士检查；如果皮肤破了或他发烧，直接就医，不要等回复。"
   }
  ]
 }

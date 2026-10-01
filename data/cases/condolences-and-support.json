@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -162,6 +162,13 @@
    "reply": "Priya, I'm so sorry about Anjali. Friends since you were 11 is family in every way that counts, and you don't need anyone's permission to be wrecked. I'll never forget her speech at your 30th, the whole room crying with laughter. I'm dropping dinner at yours on Thursday evening, no need to answer the door. You don't have to reply to this.",
    "lang": "en",
    "note": "When the loss isn't family, people feel they have no right to grieve; say once that they do, then the memory and the offer."
+  },
+  {
+   "id": "condolences-and-support-024",
+   "situation": "取引先の田中部長から、お母様が9月29日に亡くなられたので来週はお休みする、とメールがありました。去年の打ち合わせのとき、部長がお母様の漬けた梅干しをお土産にくださいました。10月8日（木）の定例会議は私が主催しているので、延期するつもりです。",
+   "reply": "田中部長\nこのたびはお母様のご逝去の報に接し、心よりお悔やみ申し上げます。昨年お土産にいただいたお母様の梅干しの味を、今もよく覚えております。10月8日（木）の定例会議はこちらで延期いたしますので、お仕事のことはどうかお気になさらず、ご家族とのお時間を大切になさってください。ご返信には及びません。",
+   "lang": "ja",
+   "note": "ビジネスでも一つの具体的な思い出と、自分で決められる仕事の配慮だけを書き、「重ね重ね」などの忌み言葉は避けます。"
   }
  ]
 }

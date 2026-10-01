@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Leo, I've just put together a one-page guide to walking reactive dogs at quieter times, and I thought it might help with Pepper whatever you decide, so it's attached. Is training still something you're looking at this autumn? A quick yes, no or not yet is all I need.",
    "lang": "en",
    "note": "Touch 2: give something useful with no strings and shrink the ask to one word; no discount."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-024",
+   "situation": "我叫陈晨，我们小团队给一家连锁药店做会员小程序，合同已签、首款已付。对接人周经理9月10日收到需求确认稿后就没回过，我微信和邮件各追了两次。要赶11月上线，10月9日前必须拿到确认。签约那天他们的刘总也在，加了我微信，说有事可以直接找他。我想联系刘总，但不想让周经理难堪。",
+   "reply": "刘总您好，我是做会员小程序的陈晨。想跟您同步一下进度：需求确认稿9月10日发给了周经理，目前还没有定下来。为了赶11月上线，我们需要在10月9日周五前拿到确认。您看是由周经理确认，还是您这边指定一位同事来对接？如果项目需要先缓一缓，也直接告诉我，我们好调整排期。",
+   "lang": "zh",
+   "note": "越过对接人时只讲事实和日期，不评价他，把问题变成“谁来确认”；最好先跟周经理说一声你会同步刘总。"
   }
  ]
 }

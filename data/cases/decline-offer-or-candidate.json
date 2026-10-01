@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Gavin, thank you for coming in on Tuesday and for the detail you gave on running office budgets. We've decided not to move forward with your application. This role works closely with everyone in the office, and the exchange at reception when you arrived weighed in our decision. I wish you the best with your search.",
    "lang": "en",
    "note": "The door is closed, so no stay-in-touch line; if he disputes it, restate the decision once and close."
+  },
+  {
+   "id": "decline-offer-or-candidate-024",
+   "situation": "I'm hiring a bookkeeper for our small accounting firm. After Mei's second interview on Sept 24 I told her on the way out that she was 'very likely our pick', but the partners then chose a candidate with a payroll certification, which the role needs for our new payroll clients. Her spreadsheet test was the cleanest we saw, and I need to email her today and own that I got ahead of myself.",
+   "reply": "Hi Mei, thank you for the time you gave us, and for your spreadsheet test, which was the cleanest we saw. We've decided to offer the role to another candidate who holds a payroll certification, which the role needs for our new payroll clients. I also told you on 24 September that you were very likely our pick, and I shouldn't have said that before the decision was made. I'm sorry for the hope it gave you. I wish you the best with your search.",
+   "lang": "en",
+   "note": "Own the premature signal in one plain line after the decision; skip the story of how the partners decided."
   }
  ]
 }

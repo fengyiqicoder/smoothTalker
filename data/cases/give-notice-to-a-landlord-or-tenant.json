@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -162,6 +162,13 @@
    "reply": "小陈你好，想跟你商量件事：我明年调回成都工作，想自己住这套房，所以想问问你能不能在2027年2月28日退租，比合同的6月30日早四个月。这是跟你商量，不是通知，合同里没有这一条，你不同意的话我们就照原合同到6月30日。如果你愿意，2月的房租我就不收了，另外出1000元搬家费；现在提前说，也是想给你留足找房的时间。你慢慢考虑，商量好了我们把新的退租日期写进书面补充协议，双方签字。",
    "lang": "zh",
    "note": "房东提前收房是请求不是通知；能否单方面收回要看合同和当地规定，拿不准先咨询当地住房部门。"
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-024",
+   "situation": "I'm Dana. I rent Apt 12, 9 Alder Court from Ms Ortega on a lease that runs to 31 March 2027. My ex-partner, who doesn't live here, has turned up at my door three times since I ended things in August, and I got a protective order on 22 September. I've found somewhere he doesn't know about and want to leave on 31 October; I'll pay October's rent, and I don't want my new address shared with anyone.",
+   "reply": "Dear Ms Ortega,\nI'm writing to ask to end my tenancy at Apt 12, 9 Alder Court early, on Saturday 31 October 2026, rather than when the lease ends on 31 March 2027. I need to move for my safety: a former partner has come to my door three times since August, and I obtained a protective order on 22 September, which I can share if you need it. I'll pay October's rent in full and return all keys on the 31st. Please don't give my forwarding address to anyone who asks for it. Could you confirm in writing whether you agree to the 31 October end date?\nThank you,\nDana",
+   "lang": "en",
+   "note": "Some places let tenants end a lease early with a protective order: check with a tenant advice or domestic abuse service before sending, and if you're in immediate danger, call emergency services."
   }
  ]
 }

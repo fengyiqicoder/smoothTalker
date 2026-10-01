@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Hannah, thanks for telling me the plum hasn't moved as fast as we'd both hoped. Wholesale stock isn't returnable, so I can't refund the $90, but I can swap all 15 jars for the new quince jam, which has sold out at two other cafés. I'll bring the quince and collect the plum on my delivery round on Tuesday 6 October, no charge. Shall I do that?",
    "lang": "en",
    "note": "With a trade customer, a swap keeps the account and your margin; the terms are the reason, never the opener."
+  },
+  {
+   "id": "handle-refund-request-024",
+   "situation": "I run a small climbing gym. Laura Becker emailed that her husband Tom, who climbed with us most mornings, died on 20 September. He paid $540 for a 12-month membership that started on 1 April, and she asked whether anything can be refunded. Memberships aren't refundable, but I want to refund the six unused months, $270, to the card he paid with, by Monday 5 October.",
+   "reply": "Dear Laura, I'm so sorry about Tom. He was here most mornings, and we'll miss him. Yes, I'll refund the six unused months of his membership, $270, to the card he paid with, by Monday 5 October. There's nothing you need to send me. If that card has been closed, just reply and we'll find another way to get it to you.",
+   "lang": "en",
+   "note": "Bereavement: condolences first, the yes in the next line, and no paperwork asked for an amount like this."
   }
  ]
 }

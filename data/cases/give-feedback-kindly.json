@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -162,6 +162,13 @@
    "reply": "¿De verdad de verdad? El socarrat te salió perfecto, crujiente justo como tiene que ser. Lo único que noté es que el arroz me quedó un poco salado; quizá con menos sal en el caldo ya lo tienes. Si quieres, el jueves hacemos otra prueba juntos. Te lo digo porque el sábado te puede quedar buenísima.",
    "lang": "es",
    "note": "Un solo punto, concreto y fácil de arreglar, porque todavía hay tiempo antes del sábado."
+  },
+  {
+   "id": "give-feedback-kindly-024",
+   "situation": "My friend Sam's dad died last week and the funeral is Saturday. Sam asked me to read his eulogy draft and be honest; he has five minutes. The story about his dad waking him at 5am to fish at Lake Wren is beautiful, but most of the rest is a list of his dad's jobs and dates.",
+   "reply": "Sam, I read it twice. The story about your dad waking you at 5am to fish at Lake Wren is beautiful; that's him, I could see it. Where I lost him a little was the run of jobs and dates, which read more like a record than like your dad. What if you kept one line on his work and gave the rest of the five minutes to more moments like the lake? Whatever you decide, it's going to mean a lot to everyone there.",
+   "lang": "en",
+   "note": "Grief makes everything land harder: one point, framed as your experience as a reader, and if he sounds raw, say it on a call rather than by text."
   }
  ]
 }

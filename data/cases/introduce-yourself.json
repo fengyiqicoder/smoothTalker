@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -162,6 +162,13 @@
    "reply": "Hi all, I'm Joel, joining as a QA engineer today. I'm in Manila, 13 hours ahead of you, so our overlap is roughly 7 to 9pm Chicago time, while you're wrapping up. I spent the last four years testing mobile banking apps, so breaking things on purpose is my happy place. At weekends I play in a basketball league. If there's a bug you'd love someone to finally chase down, drop it in my DMs and I'll have notes waiting when you wake up.",
    "lang": "en",
    "note": "Remote in another time zone: give the overlap in their time and turn the gap into something useful to them."
+  },
+  {
+   "id": "introduce-yourself-024",
+   "situation": "I'm Sofia. I've just moved to Denver for a job as a civil engineer doing bridge inspections, and I've been added to my university's Denver alumni Facebook group, about 300 people. I don't know anyone in the city yet, and I've just started bouldering.",
+   "reply": "Hi all, I'm Sofia, and I've just moved to Denver to work as a civil engineer doing bridge inspections, so if you've ever wondered whether a bridge is okay, I'm your person. I don't know anyone in the city yet, and I've just started bouldering. If there's an alumni meet-up coming up, or anyone fancies a beginner-friendly climbing session, I'd love to join.",
+   "lang": "en",
+   "note": "With weak ties, one easy invitation gets replies; save asks for jobs or flat leads for later, one to one."
   }
  ]
 }

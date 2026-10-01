@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -162,6 +162,13 @@
    "reply": "Welcome to the secret group! Nothing about this in the main family chat, since Nana and Grandad are in it. Proposal: surprise lunch for their 50th on Saturday 21 November, 1pm at Aunt Rosa's, everyone brings a dish. 👍 if you're in, 👎 if you can't make it, by Sunday 11 October please. If I hear nothing I'll count you in, and we'll sort who brings what after that.",
    "lang": "en",
    "note": "Secrecy is the reason for the smaller thread; say it once, then run the usual proposal, deadline and default."
+  },
+  {
+   "id": "group-chat-coordination-024",
+   "situation": "大学宿舍六个人的群，想约10月17日周六晚上6点半一起吃饭。室友小敏去年出车祸后坐轮椅，我私下问过她，她说只要有电梯和无障碍卫生间就行，但不想在群里被特别提。我找了两家都符合条件的：望江楼是江景包间，小院子是川菜、离地铁近。",
+   "reply": "姐妹们，10月17日周六晚上6点半聚一下吧！两个选项：A 望江楼，江景包间；B 小院子，川菜，离地铁近。回A或B就行，10月7日周三晚上10点前统计，按多数定，平票就选A。订好后我在群里发一次地址。",
+   "lang": "zh",
+   "note": "照顾某个人的需求不必在群里点名：私下确认条件，只把都符合条件的选项放进投票。"
   }
  ]
 }

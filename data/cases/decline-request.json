@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "decline-request-001",
@@ -162,6 +162,13 @@
    "reply": "I hear you, Matt, you want me to back you up about Saturday. I'm not going to do that; I don't cover for anyone, so if Sophie asks, I'll tell her to talk to you. If you want to talk about whatever's going on, I'm around.",
    "lang": "en",
    "note": "No lecture and no guessing where he was; if he pushes, 'my answer's the same' and stop."
+  },
+  {
+   "id": "decline-request-024",
+   "situation": "Minha vizinha, dona Lurdes, tem 79 anos e mora sozinha no apartamento ao lado. Ela me pediu para guardar a senha do cartão dela e fazer os saques do mês por ela, porque tem medo de ir ao caixa eletrônico. Não quero ficar com a senha de ninguém, mas posso acompanhá-la até a agência na quinta de manhã para ela ver com o gerente outras opções.",
+   "reply": "Dona Lurdes, obrigada por confiar em mim, sei que ir ao caixa eletrônico anda difícil para a senhora. Guardar a sua senha eu não vou: senha de cartão eu não guardo de ninguém, é uma regra minha com todo mundo. Mas na quinta de manhã posso ir com a senhora até a agência, para ver com o gerente que outras opções existem. É só me avisar.",
+   "lang": "pt",
+   "note": "A regra protege as duas: a senha fica só com ela. A ida à agência é o sim menor, e só entra porque é real."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Jamie, following up on my message of 24 September about Kai's residential trip to the outdoor centre, 4 to 6 November. It's £180, so £90 each under our agreement on school trips, and the school needs the consent form and a £50 deposit by Friday 9 October. Could you let me know by Wednesday 7 October if you're okay with him going? If I haven't heard by then, I'll pay the deposit so he keeps his place, and we can settle the split afterwards. Thanks.",
    "lang": "en",
    "note": "When a co-parent goes quiet, one follow-up with a date and a sensible default protects the child's place without pretending they agreed."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-024",
+   "situation": "离婚两年，儿子浩浩14岁，平时跟我住，隔周周末去他爸家。10月10、11日这个周末轮到他爸，浩浩跟我说想在家复习，因为10月12日周一期中考试，但他不太敢跟爸爸开口。我不想当传话筒，想让他们父子俩自己商量。",
+   "reply": "你好，说一下10月10、11日这个周末。浩浩10月12日周一期中考试，他跟我说想在家复习，但不太好意思跟你开口。我跟他说这事最好他自己跟你商量，所以麻烦你10月8日周四前给他打个电话，你们俩定。不管最后在哪边过，我这边都配合。谢谢。",
+   "lang": "zh",
+   "note": "State the fact once and hand the conversation back to father and son, so the child is never the messenger."
   }
  ]
 }

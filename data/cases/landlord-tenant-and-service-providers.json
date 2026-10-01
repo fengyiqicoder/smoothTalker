@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Steve,\nThanks for letting me know about the replacement. I don't think the $520 should be mine, though: the machine came with the flat when I moved in four years ago, and the technician's note, attached, says the motor wore out with age. Under the lease, appliances supplied with the flat are the landlord's to maintain. Could you confirm by Friday 9 October that the cost sits with you? Happy to talk it through by phone.\nThanks,\nMia",
    "lang": "en",
    "note": "Wear and tear versus a charge: the technician's note and the lease clause, once, then a dated ask. Check the exact wording of your lease before citing it."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-024",
+   "situation": "我是房东，租客小王在我家的两居室住了四年，房租一直是每月3800元，从没涨过，也从不拖欠。合同12月31日到期，约定续租前一个月商量。周边同户型现在挂4500左右，我想从2027年1月1日起涨到4100。",
+   "reply": "小王你好，合同12月31日到期，想提前跟你商量续租的事。这四年房租一直是3800没动过，现在周边同户型大概挂4500，所以想从2027年1月1日起调到每月4100。你四年来从没拖欠过，我很希望你继续住。你看看能不能接受，有想法直接跟我说，10月20日前回我就行。",
+   "lang": "zh",
+   "note": "房东涨租：具体数字、生效日期和一句理由，表明想留住对方并留出商量空间；涨幅和通知期先核对合同和当地规定。"
   }
  ]
 }

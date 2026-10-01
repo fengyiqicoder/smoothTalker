@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -162,6 +162,13 @@
    "reply": "您好，我是张婷，9月26日乘坐青岚航空QL8231航班从成都飞昆明。我托运的行李箱延误两天，9月28日才送到酒店，当时已在机场柜台办理行李延误登记，编号KMG-QL-04417。这两天我购买了换洗衣服和洗漱用品，共860元，小票照片和登记单已附。申请报销这860元，麻烦在10月16日（周五）前回复处理结果。谢谢！张婷，136 2210 4587",
    "lang": "zh",
    "note": "能报多少、需不需要原始小票，以航空公司的行李延误条款为准，发之前先查一下；只提一个要求，单号和小票放齐。"
+  },
+  {
+   "id": "complain-as-customer-024",
+   "situation": "I'm Chris Doyle. I took my car to Kirkby Lane Motors on Monday for front brake pads, and the written job card quotes $380 and says 'call customer before any additional work'. The bill today is $640 because they also replaced the rear rotors, and nobody called me. I'm about to go in and talk to the manager in person.",
+   "reply": "Hi, I'm Chris Doyle, I'm here to pick up my car and I'm hoping you can help me sort out the bill. Monday's job card quotes $380 for front brake pads and says to call me before any additional work. Today's bill is $640 because the rear rotors were also replaced, and I didn't get a call about it. What I'd like is to pay the $380 I approved. Is that something you can do today?",
+   "lang": "en",
+   "note": "If they refuse, ask for their position in writing and keep the job card; check your local consumer rules before paying or disputing the extra $260."
   }
  ]
 }
