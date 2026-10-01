@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -197,6 +197,13 @@
    "reply": "周师傅您好，去年11月您给我家卫生间做的防水，最近可能出了问题：9月28日楼下张阿姨发现她家卫生间天花板有水印，还在往外渗，照片我一起发给您。合同写的保修5年，麻烦您这周六10月3日或周日10月4日上门看一下，这两天我都在家。楼下还在渗，想尽快处理，您看哪天方便？",
    "lang": "zh",
    "note": "保修期内先找原施工方：日期、照片、合同保修条款引用一次，再给具体上门时间；他推脱再一步步升级。"
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-029",
+   "situation": "Je m'appelle Julie Bernard et je loue un T2 à Lyon à M. Girard depuis trois ans. Dans la nuit du 28 septembre, l'appartement a été cambriolé par la porte de service : la serrure est cassée et la fenêtre de la cuisine ne ferme plus. J'ai porté plainte (récépissé n° 2026-0928-114), pris des photos, posé un verrou provisoire, et je suis disponible tous les soirs après 18 h.",
+   "reply": "Bonjour Monsieur Girard,\nJe vous écris au sujet du cambriolage de l'appartement dans la nuit du 28 septembre. Les cambrioleurs sont entrés par la porte de service : la serrure est cassée et la fenêtre de la cuisine ne ferme plus. J'ai porté plainte (récépissé n° 2026-0928-114) et posé un verrou provisoire ; vous trouverez la copie du récépissé et les photos en pièce jointe. Pourriez-vous me confirmer d'ici le vendredi 9 octobre une date pour remplacer la serrure et réparer la fenêtre ? Je suis disponible tous les soirs après 18 h.\nBien cordialement,\nJulie Bernard",
+   "lang": "fr",
+   "note": "Vérifiez dans le bail qui prend ces réparations en charge et prévenez votre assurance habitation ; en cas de nouvelle intrusion, appelez la police."
   }
  ]
 }

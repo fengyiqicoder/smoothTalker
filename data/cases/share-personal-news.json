@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -197,6 +197,13 @@
    "reply": "爸、妈，有件事想在周日吃饭前先跟你们说：我和阿明认真商量过，决定不要孩子，这是我们想好了的。我知道你们一直盼着，一下子可能不好接受，有想问的，周日我们可以单独聊。只是饭桌上就别再提了，亲戚那边如果问起，我们自己来说。我们俩现在过得很好，周日见。",
    "lang": "zh",
    "note": "先单独告诉爸妈，再说清希望他们怎么回应；不用把理由一条条摆出来，理由越多越容易被逐条反驳。"
+  },
+  {
+   "id": "share-personal-news-029",
+   "situation": "We had a kitchen fire in our flat on Tuesday night. Everyone's safe, including the cat, but we can't live there for at least two months, so we're staying at my sister Jo's in Cheadle. I want to tell our antenatal class group chat of 8 parents; what would genuinely help is clothes for our daughter Isla, who's 2 and wears size 2-3, and I'd rather not go over the details yet.",
+   "reply": "Some news so you hear it from us: we had a kitchen fire at the flat on Tuesday night. Everyone's safe, cat included, but we can't live there for at least two months, so we're staying with my sister Jo in Cheadle. We're shaken but okay. If you'd like to help, Isla needs clothes in size 2-3, and hand-me-downs would be perfect. We'd rather not go over the details yet, but a playdate soon would be lovely.",
+   "lang": "en",
+   "note": "Hard news with a practical ask: say exactly what helps, and what you'd rather not talk about, so people don't have to guess."
   }
  ]
 }

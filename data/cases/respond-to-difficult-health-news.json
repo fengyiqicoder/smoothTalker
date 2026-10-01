@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -197,6 +197,13 @@
    "reply": "Claire, thank you for telling me yourself, it means a lot. I'm so sorry. Whatever happened in May doesn't matter to me right now, and we don't need to talk about it. I live ten minutes from the hospital, so on the 12th or any treatment day I can drive you there or meet you afterwards, whichever helps. No need to reply.",
    "lang": "en",
    "note": "After a falling-out, the news comes first: don't relitigate or apologise at length, and let one concrete offer show you mean it."
+  },
+  {
+   "id": "respond-to-difficult-health-news-029",
+   "situation": "My close friend Mia texted that their third IVF round has failed and the clinic told her and her wife that more rounds are unlikely to work. I'm 22 weeks pregnant and she knows; I don't want my pregnancy to make this harder for her. We usually walk our dogs together on Sunday mornings.",
+   "reply": "Mia, I'm so sorry. Thank you for telling me. I'm here for all of this, and you never have to manage my pregnancy around it; if you need some distance from me for a while, that's okay, and I'll still be here. I can do our Sunday dog walk as usual, or just take your dog out for you, whichever helps. No need to reply.",
+   "lang": "en",
+   "note": "Names the pregnancy once, gives her permission to step back, then puts the focus back on her."
   }
  ]
 }

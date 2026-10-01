@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -197,6 +197,13 @@
    "reply": "王姐，好久不见，搬到苏州一晃一年多了！乐乐最近总念叨豆豆，前两天还画了一张他俩在小区滑滑梯的画，我拍给你看看。我们10月10日周六回上海，要是你们那天有空，带两个孩子出来玩一会儿？没空也完全没关系，不急着回。",
    "lang": "zh",
    "note": "家长之间重新联系，用孩子的一件具体小事开头，邀请具体又容易拒绝。"
+  },
+  {
+   "id": "reconnect-after-silence-029",
+   "situation": "My mum was married to Leo's dad for six years, so Leo and I were stepbrothers from age 9 to 15; one summer we built a treehouse that took us all of August. Our parents divorced 12 years ago and we haven't spoken since, no falling out. I saw on Instagram he's running his first marathon, in Chicago, on Sunday Oct 11.",
+   "reply": "Hey Leo, it's been about twelve years, which is strange to type. I saw you're running your first marathon in Chicago on the 11th and wanted to say good luck. I still think about that treehouse that swallowed our entire August. How have you been? No rush to reply, especially mid-training.",
+   "lang": "en",
+   "note": "A former step-sibling has no default label, so the shared memory does the work instead of explaining the family history."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -197,6 +197,13 @@
    "reply": "Thanks for telling me the background, Kieran. We can't take this order: when someone has blocked contact, we don't deliver flowers to them, signed or unsigned, because that choice is hers and a delivery would go around it. I'm glad to do flowers for anyone else in your life, today or any time.",
    "lang": "en",
    "note": "Hold the no without lecturing him about the breakup; if he turns threatening or you fear for her safety, call the police."
+  },
+  {
+   "id": "say-no-to-a-customer-request-029",
+   "situation": "我在昆明开私房菜馆。熟客老周自己上山采了一袋野生菌，想让我们帮他加工，周六晚上和朋友一桌吃。我们只做从固定供应商进的、能确认品种的菌子，客人自带的没法确认，万一混进毒菌就出大事。周六我们有新到的牛肝菌，菜单价一份98元。",
+   "reply": "周哥，谢谢您想着来我们这儿吃！自带的野生菌我们不加工：没法确认品种，万一混进一朵有毒的，后果谁都担不起。周六我们刚好有新到的牛肝菌，品种都是确认过的，98元一份，要不要我给您那桌留两份？",
+   "lang": "zh",
+   "note": "涉及食品安全的拒绝要说死，不要软化成“我们尽量看看”；吃了自采野生菌后如有不适，立即去医院或拨打120。"
   }
  ]
 }

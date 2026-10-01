@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -197,6 +197,13 @@
    "reply": "您好，芳姐小厨因为店内维修，10月5日起暂停营业，外卖也一起暂停。重新开业的日子还没定，估计三到五周，定了会第一时间在这里通知。储值卡余额全部保留，有效期按停业天数顺延，不用做任何操作。留言我每天晚上统一回复。谢谢大家等我们回来！阿芳",
    "lang": "zh",
    "note": "复业日期没定就直说，给一个估计并承诺定了再通知；顾客最关心的储值卡写清楚。"
+  },
+  {
+   "id": "out-of-office-and-away-messages-029",
+   "situation": "Sou a Beatriz e alugo dois apartamentos por temporada em Florianópolis; hóspedes e interessados me escrevem pelo WhatsApp. Vou viajar de 12 a 25 de outubro, quase sem internet, e volto a responder na segunda, 26 de outubro. Minha prima Lívia mora no apartamento 302 do mesmo prédio e topou cuidar de chaves, check-in e qualquer problema dos hóspedes; pedidos de novas reservas ficam para quando eu voltar.",
+   "reply": "Oi! Estou viajando de 12 a 25 de outubro, quase sem internet, e volto a responder as mensagens na segunda, 26 de outubro. Se você está hospedado aqui e precisa de algo, como chaves, check-in ou um problema no apartamento, procure a Lívia no apartamento 302 do mesmo prédio. Pedidos de novas reservas eu respondo quando voltar. Obrigada!",
+   "lang": "pt",
+   "note": "Uma rota só, para quem está hospedado; quem quer reservar sabe exatamente quando terá resposta."
   }
  ]
 }

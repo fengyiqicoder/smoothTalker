@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -197,6 +197,13 @@
    "reply": "Hi all, one specific ask: does anyone here know Melissa Grant, engineering manager at Tidepool Games, well enough to introduce me? I'm applying for their junior backend role and would value 15 minutes with her about what the team looks for. Only if you actually know her, please don't stretch a loose connection on my behalf.\nIf you can, here's a blurb you can forward:\n\"Melissa, I'd like to introduce Ravi Shah, who finished our bootcamp in June. His capstone was a matchmaking service for a two-player puzzle game, and he's applying for your junior backend role. He'd value 15 minutes on what the team looks for, if you're open to it.\"\nI'll post an update here either way. Thanks!\nRavi",
    "lang": "en",
    "note": "Asking a group: name one person and one small ask, and make the out explicit so nobody vouches for someone they barely know."
+  },
+  {
+   "id": "request-intro-or-referral-029",
+   "situation": "I'm Amara Okeke, a pharmacist with eight years' experience in Lagos, and I moved to Toronto in July. My neighbour Joyce mentioned that her sister, Ruth Mensah, trained as a pharmacist abroad and got licensed here three years ago. I'd like Joyce to ask Ruth for a 20-minute call about the licensing exams and how she found her first job.",
+   "reply": "Hi Joyce, could I ask a favour? Would you be comfortable asking your sister Ruth whether she'd have 20 minutes for a call with me about the pharmacy licensing exams and how she found her first job here? If it's not a good time for her, or you'd rather not ask, that's completely fine.\n\nIf it helps, here's a note you could send her:\n\n\"Ruth, my neighbour Amara Okeke is a pharmacist with eight years' experience in Lagos who moved to Toronto in July. She's starting the licensing process and would love 20 minutes on the phone to hear how you did it. Happy to pass on her number if you're open to it.\"\n\nI'll let you know how it goes either way. Thank you!\nAmara",
+   "lang": "en",
+   "note": "A neighbour rather than a work contact: the blurb keeps it a small, specific ask, and Ruth says yes before any number is shared."
   }
  ]
 }

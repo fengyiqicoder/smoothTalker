@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -197,6 +197,13 @@
    "reply": "Hi Lena, I want the 30 October release to land as much as you do. Tom's two weeks from Monday 19 October were approved months ago and he's booked flights to see family in Manila, so cutting it now would cost us a lot of trust on the team. Two options: Kim takes over Tom's payments API work, since she knows it and has capacity, or we move the reporting feature to the November release. I'd recommend Kim covering, with a proper handover before Tom leaves. Which would you prefer?",
    "lang": "en",
    "note": "Pushing back on behalf of someone you manage: protect what was already approved, and give your director options that still protect the release."
+  },
+  {
+   "id": "push-back-on-boss-029",
+   "situation": "My manager Tom starts a six-month secondment on Monday Nov 2 and asked me to 'step up and run the team' while he's away: seven people, approvals, and hiring for two open roles, on top of my full analyst workload, with no change in title or pay. I want to do it, just not as a free extra, and our HR handbook mentions an acting-up allowance for temporarily covering a higher role.",
+   "reply": "Thanks for thinking of me, Tom, I'd like to do this and do it properly. Running seven people and two hires is a manager's job, and I can't do it well on top of my full analyst workload. Two options: make it a formal acting manager role from 2 November, with the acting-up allowance the handbook mentions and my analyst work moved to someone else; or I take just the approvals and the two hires, and the rest stays with you or goes to another lead. I'd recommend the first. Which would you prefer? Once we've agreed, I'll send a short note so it's on record.",
+   "lang": "en",
+   "note": "A yes with terms, not a no; check the handbook's exact wording on the allowance before quoting it."
   }
  ]
 }

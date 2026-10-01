@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -197,6 +197,13 @@
    "reply": "Jayden, I wanted you to hear this from me first: I'm moving to Glasgow for work in December, so Saturday 28 November will be our last session. It's nothing to do with you; I've really loved these 18 months. Sarah is going to match you with a new mentor, and before I go I'd like us to write down your engineering plans together so you can show them where you've got to. We've still got a few sessions left, so let's make them good ones.",
    "lang": "en",
    "note": "Leaving someone who relies on you: tell them first and in person, say plainly it isn't about them, and make the handover something you do together."
+  },
+  {
+   "id": "leave-or-quit-gracefully-029",
+   "situation": "我叫周宁，在一家检测公司做了三年工程师。去年部门经理赵总推荐我参加资格证培训，公司出了3万元，培训协议约定服务期两年，提前离职按未满月数比例返还，我还差8个月，算下来是1万元。我已经接了新offer，合同要求提前30天书面通知，今天上午当面跟赵总说了，最后工作日定在11月2日（周一），手上两个在测项目交给同事小孙，想发正式邮件。",
+   "reply": "赵总您好：\n按今天上午当面沟通的，这是我的正式辞职通知。按劳动合同提前30天书面通知，我的最后工作日是11月2日（周一）。去年的资格证培训由公司出资3万元，培训协议约定服务期两年，我还差8个月，按协议比例我理解需返还1万元，具体金额和方式请人事按协议核算，我全力配合。手上两个在测项目，我会在10月16日（周五）前整理好交接文档，并带小孙把流程完整跑一遍。三年来谢谢您，尤其是当初推荐我去参加这次培训。\n周宁",
+   "lang": "zh",
+   "note": "离职带着培训费返还：主动写清自己对协议的理解，以协议原文和人事核算为准，拿不准就咨询律师。"
   }
  ]
 }

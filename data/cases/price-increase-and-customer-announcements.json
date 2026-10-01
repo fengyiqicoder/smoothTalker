@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -197,6 +197,13 @@
    "reply": "Hi Clare, thanks for telling me, and I'm sorry the notice ended up in your spam folder. The weekly box moved from $60 to $66 on 1 September. Since you didn't see the email in time, I've refunded the $6 difference on September's four boxes, $24 in total, so you'll see it back in your account soon. From your next box on Monday 5 October the price is $66. If you'd like to pause or cancel before then, just reply and I'll sort it the same day. Omar",
    "lang": "en",
    "note": "When the notice never reached them, make it right once and restate the change; that's fair notice, not a quiet discount for a complaint."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-029",
+   "situation": "I'm Gloria and I clean houses on my own. Mr Patel, 82, has had me every Tuesday for six years and doesn't use email or texts, so I'll tell him by phone. From Tuesday 5 January my rate goes from $30 to $34 an hour because gas and supplies cost more; same day, same jobs, and if that's too much I could come every other week instead.",
+   "reply": "Hello Mr Patel, it's Gloria. I wanted to tell you myself and in good time: from Tuesday 5 January my rate goes from $30 to $34 an hour, because gas and cleaning supplies cost me more now. Nothing else changes, same Tuesdays and same jobs. If that's more than you'd like to spend, I could come every other week instead, and that's completely fine with me. Would you like to think it over and tell me which you prefer when I'm with you next Tuesday?",
+   "lang": "en",
+   "note": "Said aloud to a customer who doesn't read email: same structure, with a gentler option as the exit and time to decide in person."
   }
  ]
 }

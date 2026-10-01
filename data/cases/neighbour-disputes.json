@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -197,6 +197,13 @@
    "reply": "1205的邻居您好，我是同一层1203的小苏。您家金毛看着很温顺，您可能也没注意到：这两周有三次在电梯里没牵绳，狗直接凑到了我女儿身边。她5岁，以前被狗咬过，特别怕狗，每次都吓得大哭。以后在电梯和楼道里，能麻烦您给它牵上绳吗？我们这边有什么打扰到您的，也随时敲门跟我说。",
    "lang": "zh",
    "note": "不评价狗也不评价主人，只提一个马上能做到的请求；没改善再找物业，并提前告诉对方。"
+  },
+  {
+   "id": "neighbour-disputes-029",
+   "situation": "I'm Nora at number 20. Since our neighbours at 22, Marcus and Lily Shaw, started knocking through their kitchen on 7 September, two cracks have appeared on our side of the shared living-room wall, one about 40cm long, and I've photographed them with dates. We've chatted over the fence a few times and get on fine.",
+   "reply": "Hi Marcus and Lily, it's Nora from number 20. Since your kitchen work started on 7 September, two cracks have appeared on our side of the shared living-room wall, one about 40cm long; I've taken dated photos. I'm not jumping to conclusions about the cause, I'd just like it looked at early while it's easy to sort. Could your builder pop round this week to have a look? Happy to show either of you too, whenever suits.",
+   "lang": "en",
+   "note": "Keep the dated photos, and check whether a party wall agreement or local rules apply before raising who pays."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -197,6 +197,13 @@
    "reply": "孙女士您好，谢谢您推荐这个岗位，我挺感兴趣的。独家委托协议我这边就不签了，我更习惯每个岗位单独确认：推荐前您先跟我说一声，我同意了再投。这个运营总监的岗位我同意由您推荐，方便的话先把薪资范围发我看看。",
    "lang": "zh",
    "note": "不签独家不等于拒绝合作：一句说清，再把感兴趣的岗位往前推；以后签任何协议前都先看清条款。"
+  },
+  {
+   "id": "respond-to-recruiter-029",
+   "situation": "Holly, an in-house recruiter at my own company, Brookfield Labs, messaged me on Slack about a senior analyst opening on the pricing team. I'm interested, but my manager Paul doesn't know I'd consider moving, and I'd want to tell him myself before anything formal. I'm free Tuesday 6 October after 2pm.",
+   "reply": "Thanks for reaching out, Holly, I'm interested in the pricing role. Two questions before we go further: what level is it, and at what point would Paul be told I'm talking to the team? I'd like to tell him myself first. If that works, I'm free for a chat on Tuesday 6 October after 2pm.",
+   "lang": "en",
+   "note": "For an internal move, your current manager is the stake: ask who gets told and when before the first call."
   }
  ]
 }

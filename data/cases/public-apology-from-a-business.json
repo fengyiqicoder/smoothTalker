@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -197,6 +197,13 @@
    "reply": "El lunes anunciamos la ganadora del sorteo del lote de 10 libros, pero nos equivocamos: el comentario elegido llegó después del cierre del domingo a las 23:59. Lo sentimos, el error fue nuestro al hacer el sorteo. Ya hemos escrito a la ganadora correcta, y la persona que anunciamos el lunes también recibe su lote, porque se lo prometimos. A partir de ahora sortearemos sobre una captura de los comentarios hecha justo al cierre. Cualquier duda, escribidme a pilar@example.com. Pilar, La Hoja Suelta",
    "lang": "es",
    "note": "Un error pequeño y público se corrige en el mismo sitio, sin nombrar a nadie, cumpliendo lo prometido y con un cambio comprobable."
+  },
+  {
+   "id": "public-apology-from-a-business-029",
+   "situation": "我是网店“青禾家纺”的店主苏晴。9月客服同事离职，我没及时安排人接手，大约430条售后留言等了5到12天才回复，有人在小红书上说我们“卖完就不管”。积压的留言现在已经全部回完；9月等过回复的客人，退换货运费由我们出，退款时一起退回，不用另外申请；从10月起我每天亲自看售后留言，48小时内回复。",
+   "reply": "9月里，大约430位客人的售后留言等了5到12天才得到回复，这是我们的问题，对不起。原因是客服同事离职后，我没有及时安排人接手。积压的留言现在已经全部回复完。9月等过回复的客人，这次退换货的运费由我们出，退款时一起退回，不用另外申请。从这个月起，售后留言我每天亲自看，48小时内回复。还有问题没解决的，直接私信店铺，我本人跟进。店主 苏晴",
+   "lang": "zh",
+   "note": "原因只说一句，不怪离职的同事；承诺的是能做到的“48小时内回复”，不是“再也不会”。"
   }
  ]
 }

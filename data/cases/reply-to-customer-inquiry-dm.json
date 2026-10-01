@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -197,6 +197,13 @@
    "reply": "Hi Dana, yes, still available! It's $350 for the table and all four chairs, collection only from Oakland, and you'll want two people to lift it. A few people have asked, so it goes to whoever puts down a $50 deposit or comes to see it first. Would today or tomorrow work for a look?",
    "lang": "en",
    "note": "With several buyers at once, state your rule plainly to each one; it's the truth, not pressure."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-029",
+   "situation": "我在南京开花店。有位顾客微信私信：“我爸周二走了，10月9日周五上午在殡仪馆告别，他生前最喜欢向日葵，能做一个向日葵为主的花篮吗？”我们的告别花篮480元起，向日葵现在有货，市区殡仪馆免费送到，下单需要逝者姓名和挽联落款。",
+   "reply": "您好，请节哀。可以做的，向日葵现在有货，用叔叔最喜欢的花送他，很好。告别花篮480元起，市区殡仪馆免费送到，会在10月9日周五上午告别前送到。方便的话，发我一下叔叔的姓名和挽联上落款的名字，我先帮您把花留好。",
+   "lang": "zh",
+   "note": "先一句节哀，再直接回答能不能做、多少钱、能不能送到；不推更贵的款式。"
   }
  ]
 }

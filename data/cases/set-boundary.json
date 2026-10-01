@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -197,6 +197,13 @@
    "reply": "Mum, I love being back near you, and I love our Sunday lunches. I'm not going to come to church on Sundays, so I'll stop discussing it, and any leaflets I find in the car I'll hand back to you. I'll happily come to the Christmas Eve service with you, and I'll see you for lunch after church every Sunday.",
    "lang": "en",
    "note": "If she asks again, repeat it shorter: Christmas Eve yes, Sundays no, lunch always. Don't debate belief."
+  },
+  {
+   "id": "set-boundary-029",
+   "situation": "My dad Ray picks up my kids, 6 and 9, from school on Fridays and drives them to his place. Last Friday I smelled alcohol on him when he dropped them back, and it happened once before in July. I love him and want the kids to keep seeing him, so from now on I'll do the school run myself and he's welcome at ours for Friday tea with them.",
+   "reply": "Dad, the kids love their Fridays with you, and I want that to carry on. From this Friday I'm going to pick them up from school myself, and they won't be getting in a car with anyone who's had a drink. Come round to ours for Friday tea with them instead; we'd love to have you.",
+   "lang": "en",
+   "note": "Keep the reason to one line and don't debate whether he'd been drinking; if you ever think a driver with children in the car is unsafe, call emergency services."
   }
  ]
 }

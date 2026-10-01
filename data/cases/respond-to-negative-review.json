@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -197,6 +197,13 @@
    "reply": "Obrigada, Tiago, por contar o que aconteceu. Um grupo a chegar às 3h com barulho num quarto partilhado estraga a noite a toda a gente, e a nossa receção devia ter intervindo; essa parte é responsabilidade nossa. Desde a semana passada, o silêncio das 23h às 8h é obrigatório e está afixado em todos os quartos, e a equipa da noite passa pelos corredores para o garantir. Se quiser falar comigo, escreva para ines@example.com. Inês, gerente do Casa Lume",
    "lang": "pt",
    "note": "Quando o problema veio de outros hóspedes, assume-se o que era vosso (não intervir) sem culpar ninguém em público, e mostra-se o que mudou."
+  },
+  {
+   "id": "respond-to-negative-review-029",
+   "situation": "我叫阿芳，在长沙开火锅店。顾客“小米”在大众点评给了一星，说排号等了一个半小时，叫号还被跳过了。昨晚我老公直接回复“自己没听到叫号还怪我们”，我想删掉换一条。以前叫号确实只喊一次，现在已经改成短信叫号、过号保留10分钟，我的电话是138 0000 2468。",
+   "reply": "小米您好，昨天那条回复语气很冲，是我们不对，已经删掉了，向您道歉。等了一个半小时还被过号，换谁都会生气；之前我们叫号只喊一次，店里嘈杂很容易听不到，这是我们的问题。现在已经改成短信叫号，过号后还保留10分钟。想当面跟您赔个不是，方便的话请打138 0000 2468找我。店主 阿芳",
+   "lang": "zh",
+   "note": "替换一条情绪化的店主回复：先为那条回复道歉一次，再按正常结构认错、说改了什么，其余私下谈。"
   }
  ]
 }

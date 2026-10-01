@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -197,6 +197,13 @@
    "reply": "阿凯，可以，我愿意打一次电话，把话说开，好好告别。这周日（10月4日）晚上8点可以吗？先说清楚，我想就打这一次，聊完之后我们就不再联系了，我觉得这样对我们俩都好。",
    "lang": "zh",
    "note": "答应“告别电话”也要先说清界限：只通一次，定好时间，之后不再联系，免得一次电话变成重新开始。"
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-029",
+   "situation": "My ex Sam and I broke up two weeks ago after three years. We'd booked a Lisbon trip for Dec 5 to 9: we each paid our own flights, and I paid the $900 apartment on my own, fully refundable if cancelled by Oct 15. Sam texted 'what do we do about Lisbon?' I'm not going with him, and I'll cancel the apartment by Friday Oct 9.",
+   "reply": "Hi Sam. I won't be going on the trip together. I'll cancel the apartment by Friday 9 October, before the free cancellation deadline, and since I paid for it there's nothing for you to sort on that side. Your flight is yours to use, change or cancel as suits you; I'm doing the same with mine. That's everything from my end.",
+   "lang": "en",
+   "note": "Shared plans after a breakup are logistics: who does what, by when, and a clean last line."
   }
  ]
 }

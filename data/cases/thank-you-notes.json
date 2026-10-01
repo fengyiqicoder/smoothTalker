@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -162,6 +162,13 @@
    "reply": "Dona Lurdes, aqui é a Beatriz, filha da Dona Neusa. Quero agradecer de coração pelas três tardes que a senhora passou ensinando a minha mãe a fazer videochamada, e pelo caderninho com o passo a passo. Desde então a gente se vê todo domingo, e para quem mora longe isso não tem preço. Em dezembro, quando eu for a Curitiba, faço questão de passar aí para agradecer pessoalmente.",
    "lang": "pt",
    "note": "Agradecer uma ajuda dada a outra pessoa: diga quem você é, o que ela fez e o que mudou para você e sua mãe."
+  },
+  {
+   "id": "thank-you-notes-024",
+   "situation": "I'm Tom, 34. In March I had a stem cell transplant for leukaemia from an anonymous donor, and the donor registry lets me send a card through them with my first name only, no surnames, towns or hospital names. Six months on I'm cycling to work again, and last month I walked my daughter, who's 4, to her first day at nursery.",
+   "reply": "To my donor,\nI don't know your name, but I know you said yes to helping a complete stranger, and that stranger was me. Your stem cells were my transplant in March, and six months later I'm cycling to work again. Last month I walked my four-year-old daughter to her first day at nursery, and I got to be there because of you. Thank you. I hope life is treating you well.\nTom",
+   "lang": "en",
+   "note": "An anonymous donor gets the specific thing their gift made possible; check the registry's rules on what you can include before you send it."
   }
  ]
 }

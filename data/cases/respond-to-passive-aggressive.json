@@ -4,7 +4,7 @@
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
-   "situation": "My mother-in-law said 'must be nice to order takeout every night' while visiting. It's a one-off dig and I don't want a thing.",
+   "situation": "My mother-in-law said 'must be nice to order takeout every night' while visiting. It has been a hectic month, and my son Luca loves her chicken soup. It's a one-off dig and I don't want a thing.",
    "reply": "Ha, it's been a hectic month! Actually, would you show me your chicken soup next time you're over? Luca still talks about it.",
    "lang": "en",
    "note": "Face value denies the dig any oxygen, and the question is genuine, not flattery."
@@ -32,10 +32,10 @@
   },
   {
    "id": "respond-to-passive-aggressive-005",
-   "situation": "My sister texted 'Don't worry, I'll host Thanksgiving AGAIN, it's fine, someone has to.' She's hosted three years running and I did say I'd take a turn. I'd rather not do this over text.",
-   "reply": "That sounds like it's not fine, and fair enough: you've hosted three years in a row and I said I'd take a turn. Can I call you tonight after 8? I'd like to sort out this year properly, and I'm happy for it to be at mine.",
+   "situation": "Nicole from another team emailed me about the onboarding checklist and CC'd my manager Priya: 'Looping in Priya for visibility, as this is the third time I've asked.' I replied to both earlier emails, on 18 and 25 September, saying it's ready except the headcount section, which needs her team's final numbers. I still don't have them.",
+   "reply": "Hi Nicole, thanks for following up. The checklist is ready except the headcount section, which still needs your team's final numbers; I mentioned it in my replies on 18 and 25 September, so they may have got buried. If you can send the numbers this week, I'll finish it the same day. Priya, nothing needed from you on this one.",
    "lang": "en",
-   "note": "The dig wraps a legitimate point, so own it and move to a call; over text this one turns into a fight."
+   "note": "When someone CCs your boss as a dig, stay warm and factual, show where it's stuck without scoring a point, and don't counter-escalate."
   },
   {
    "id": "respond-to-passive-aggressive-006",
@@ -46,28 +46,28 @@
   },
   {
    "id": "respond-to-passive-aggressive-007",
-   "situation": "I joined standup 5 minutes late this morning because a customer call ran over. Right after, my manager Colleen posted in the team channel: 'Friendly reminder that standup starts at 9:30, for those who forgot.' Obviously aimed at me. First time I've been late in months.",
+   "situation": "I joined standup 5 minutes late this morning because a call with our customer Brightwater ran over. Right after, my manager Colleen posted in the team channel: 'Friendly reminder that standup starts at 9:30, for those who forgot.' Obviously aimed at me. First time I've been late in months.",
    "reply": "Hi Colleen, that one was me, sorry for joining late this morning. A call with Brightwater ran over and I should have given you a heads-up. If it ever happens again, I'll message you before 9:30.",
    "lang": "en",
    "note": "Reply privately, not in the channel. A small, fair complaint sits inside the dig, so own it in one line and deal with the contents; no comment on the tone."
   },
   {
    "id": "respond-to-passive-aggressive-008",
-   "situation": "我妈在家族群里发：“现在都是大忙人了，一个月也想不起来给妈打个电话。” 明显是说我，确实最近加班很少打电话。不想在群里接这个话。",
+   "situation": "我妈在家族群里发：“现在都是大忙人了，一个月也想不起来给妈打个电话。” 明显是说我，确实最近加班很少打电话。女儿朵朵最近学了支新舞。不想在群里接这个话。",
    "reply": "妈，最近确实打得少了，是我不好。今晚八点我给您打视频，好好聊聊，让朵朵给您看看她新学的舞。",
    "lang": "zh",
    "note": "私聊回，不在群里接；她的不满有道理，就认一句，再换成更亲近的方式联系，不解释加班。"
   },
   {
    "id": "respond-to-passive-aggressive-009",
-   "situation": "Rob in finance emailed me: 'Per my last email, I still need the Q3 vendor invoices. Not sure how else to ask.' I checked, and he did email me on Sept 21 and I missed it.",
+   "situation": "Rob in finance emailed me: 'Per my last email, I still need the Q3 vendor invoices. Not sure how else to ask.' I checked, and he did email me on Sept 21 and I missed it. I have all 14 invoices ready, plus two credit notes from Halden.",
    "reply": "Hi Rob, thanks for resending, I'd missed your email on the 21st, that's on me. All 14 Q3 vendor invoices are attached, plus the two credit notes from Halden. Let me know if anything's still missing.",
    "lang": "en",
    "note": "Take it at face value: own the miss in half a sentence, give him what he needs, and leave the tone alone."
   },
   {
    "id": "respond-to-passive-aggressive-010",
-   "situation": "We had friends over Saturday and it ran late. This morning there's a note on our door from the downstairs neighbour: 'Hope the party was fun! Some of us have to work in the morning :)' I've never met her properly. I want to reply without starting a feud.",
+   "situation": "We had friends over Saturday and it ran late. This morning there's a note on our door from the downstairs neighbour: 'Hope the party was fun! Some of us have to work in the morning :)' I'm Dan in 3B and I've never met her properly; my mobile is 07700 900312. I want to reply without starting a feud.",
    "reply": "Hi, it's Dan from 3B. Got your note, and you're right, we ran late on Saturday. Sorry about that. Next time we have people over I'll let you know in advance and we'll wrap up by 11. If it's ever too loud, just knock or text me on 07700 900312.",
    "lang": "en",
    "note": "The snark wraps a fair complaint, so answer the contents, own it once, and give her a direct channel so the next one isn't a note."
@@ -88,31 +88,31 @@
   },
   {
    "id": "respond-to-passive-aggressive-013",
-   "situation": "My ex Greg and I co-parent. I asked to swap weekends because of a work trip and he texted 'Sure, I'll rearrange my life around your job again.' I asked if he was annoyed and he said 'I'm not annoyed.' The swap is Friday Oct 9 to Sunday Oct 11.",
-   "reply": "Okay, thanks Greg, I appreciate it. I'll drop Maya and Theo at yours on Friday 9 October at 5:30 with their school bags, and pick them up Sunday at 6. If you'd like a weekend back, I can take the 23rd to the 25th.",
+   "situation": "My ex Greg and I co-parent. I asked to swap weekends because of a work trip and he texted 'Sure, I'll rearrange my life around your job again.' I asked if he was annoyed and he said 'I'm not annoyed.' The swap is Friday Oct 9 to Sunday Oct 11, for our kids Maya and Theo, with the usual handovers at 5:30 Friday and 6 Sunday.",
+   "reply": "Okay, thanks Greg, I appreciate it. I'll drop Maya and Theo at yours on Friday 9 October at 5:30, and pick them up Sunday at 6. If you'd like a weekend back, I can take the 23rd to the 25th.",
    "lang": "en",
    "note": "He denied it, so take him at his word once and stick to logistics; name the pattern only if the digs keep coming."
   },
   {
    "id": "respond-to-passive-aggressive-014",
    "situation": "Six of us have a friends' group chat. I posted photos from a hiking weekend and Chris replied 'Nice to see some people have time for trips but not for Dave's birthday 🙃'. I did miss Dave's birthday last week, because I had flu.",
-   "reply": "Ha, fair, I was gutted to miss it. Flu had me flat on the sofa all weekend. Dave, first round's on me next time we're out, you pick the night.",
+   "reply": "Ha, fair, I was gutted to miss it. Flu had me flat on the sofa. Dave, first round's on me next time we're out, you pick the night.",
    "lang": "en",
    "note": "In a group chat, answer briefly at face value and move on; if Dave himself seems hurt, message him privately rather than in the group."
   },
   {
    "id": "respond-to-passive-aggressive-015",
    "situation": "I posted on LinkedIn that I've been promoted to engineering manager. A former teammate, Greg, who applied for the same role before he left, commented publicly: 'Congrats! Funny how things work out for people who are in the right meetings 😉'.",
-   "reply": "Thanks, Greg! Plenty more meetings in my future, that's for sure. Hope things are going well at Oakline.",
+   "reply": "Thanks, Greg! Plenty more meetings in my future, that's for sure. Hope things are going well for you.",
    "lang": "en",
    "note": "A public dig gets a brief face-value reply in public; no defence of how you got the job, and no private post-mortem."
   },
   {
    "id": "respond-to-passive-aggressive-016",
-   "situation": "I own a small café. A customer left a public 3-star review on our listing: 'Lovely place, if you have 40 minutes to spare for a flat white :)'. Saturday really was chaos because one of our two baristas called in sick.",
-   "reply": "Thanks for coming in, and for the kind words about the place. You're right, Saturday's wait was far too long; we were a barista down that morning. If you give us another try, mention this review at the till and your flat white is on us.\nAna, owner",
-   "lang": "en",
-   "note": "A public review gets a public face-value reply: own the fair part in one line, no defensiveness, and one small make-good other readers can see."
+   "situation": "前回の提案書は締め切りに2日遅れました。今回は期限どおりに出したら、課長に皆の前で「へえ、今回はちゃんと期限守れたんだね。やればできるじゃない」と言われました。言い返したくはありません。",
+   "reply": "ありがとうございます。前回は2日遅れてしまったので、今回は早めに取りかかりました。内容で直したほうがいい点があれば、ぜひ教えてください。",
+   "lang": "ja",
+   "note": "褒め言葉に包まれた皮肉は、褒め言葉として受け取る。前回の遅れは一言だけ認め、話を内容に戻す。"
   },
   {
    "id": "respond-to-passive-aggressive-017",

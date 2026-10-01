@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -197,6 +197,13 @@
    "reply": "Mathieu, I really appreciate how much you help with my French. At lunch, though, could you let me finish my sentences, mistakes and all? I lose my thread when I'm corrected halfway through. Save them for our Friday exchange instead; bring a list and I'll take every one.",
    "lang": "en",
    "note": "When the advice itself is welcome but the timing isn't, name the position once and give it a proper place to go."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-029",
+   "situation": "我68岁，老伴走了两年。最近在公园跳广场舞认识了老李，常一起吃饭散步。儿子知道后天天打电话说“妈，您这把年纪了，别让人笑话”。我心里有数，日子过得挺开心。这周日儿子要带孙子回来吃饭，他最爱吃我做的红烧肉。",
+   "reply": "儿子，妈知道你是怕我被人说闲话、怕我吃亏，这份心妈领了。你爸走了两年，我现在跟老李跳跳舞、吃吃饭，日子过得挺开心，这件事我自己拿主意。周日带孙子回来吃饭吧，妈给你做红烧肉。",
+   "lang": "zh",
+   "note": "长辈面对子女的劝告也一样：接住关心，立场说一次，不摆理由，再把话题拉回家常；他再提，就重复同一句。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -197,6 +197,13 @@
    "reply": "Hi both, the deposit's back: the landlord kept £240 of the £1,500, £150 for oven cleaning and £90 for the carpet stain in Hamza's room, and the other £1,260 has come to me. My suggestion: the oven was all of ours, so £50 each, and the carpet goes with Hamza's room. That means £450 to Elise, £450 to me and £360 to Hamza. Hamza, if you see the carpet differently, say so and we'll sort it before I send anything. Otherwise I'll transfer on Friday 9 October.",
    "lang": "en",
    "note": "Share the landlord's breakdown, tie each deduction to where it came from, and let the person most affected object before any money moves."
+  },
+  {
+   "id": "roommate-and-shared-living-029",
+   "situation": "My younger brother Kieran moved into my two-bed flat in July after his breakup, 'just for a few weeks'. He started a full-time job in September and I'm happy for him to stay, but he hasn't paid towards anything; the bills come to about £180 a month. I'd like him to pay £60 a month, on the 1st, starting this month.",
+   "reply": "Hey Kieran, really glad you're settled in, and congrats again on the job. Now you're working, can we sort out the bills? They come to about £180 a month, so how about you chip in £60 on the 1st of each month, starting this month? If the date's tricky, tell me and we'll move it.",
+   "lang": "en",
+   "note": "Family under your roof is still a housemate: money in writing, a number and a date, and no comment on the months that came before."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -162,6 +162,13 @@
    "reply": "我提名客服专员何静为年度服务之星。我带了她三年。今年她把自己的平均首次响应时间从4小时缩短到了1小时。她还主动整理了一份新人应答手册，今年入职的三位新同事第一周就能独立接单。她不只自己做得好，也让新人上手更快。我毫无保留地推荐她。",
    "lang": "zh",
    "note": "提名也是推荐：说清你怎么认识她，用数字说话，只写你亲眼看到的。"
+  },
+  {
+   "id": "write-a-recommendation-or-reference-024",
+   "situation": "My friend Owen Price has pleaded guilty to drink-driving and his solicitor has asked me for a character reference for the magistrates by Friday 9 October; Owen has told me about the charge. I've known him 12 years, and for the last five we've coached an under-10s football team together every Saturday, where he organises the minibus rota and the kit fund. Since his arrest in July he's sold his car and cycles to training. I'm Helen Moore, 07700 900284, helen.moore@example.com.",
+   "reply": "Dear Sir or Madam,\nI'm writing as a character referee for Owen Price. I have known Owen for 12 years, and for the last five we have coached an under-10s football team together every Saturday. He has told me about the drink-driving charge he has pleaded guilty to. Throughout those five years he has organised the team's minibus rota and kit fund. Since July he has sold his car and now cycles to training. I can speak only to what I have seen as his friend and fellow coach, and on that basis I know him as a reliable and committed person. I'm happy to be contacted on 07700 900284 or helen.moore@example.com.\nYours faithfully,\nHelen Moore",
+   "lang": "en",
+   "note": "Ask his solicitor what the court needs; show you know the offence, vouch only for what you've seen, and leave the case and sentence alone."
   }
  ]
 }

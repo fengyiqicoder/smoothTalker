@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Kenji, quick check: we got an email today from what looks like your personal address, asking us to move your salary to a new bank account before payday on Friday 23 October. I haven't changed anything. Did you send it? If not, your personal email may have been hacked, so it's worth changing that password.",
    "lang": "en",
    "note": "Ask on a channel you already use, never by replying to the email; change bank details only once he confirms, and report the email to your IT or email provider as phishing."
+  },
+  {
+   "id": "suspicious-or-scam-message-024",
+   "situation": "My gran, Edna, who's 84, just phoned me: a man calling himself DC Hughes from a police fraud squad told her staff at her bank are stealing from customers, and asked her to withdraw £4,000 in cash tomorrow and hand it to a courier at her door at 2pm 'as evidence', and to tell nobody. She hasn't withdrawn anything. I'm her granddaughter Sophie and I can be at hers by 1pm tomorrow.",
+   "reply": "Gran, thank you for telling me, you did exactly the right thing. Police don't ask people to take out cash, hand it to a courier or keep it secret, so this man isn't the police. Please don't go to the bank tomorrow, and if he rings again, just put the phone down. I'll be with you by 1pm, and if anyone comes to the door before then, keep it shut and call 999.",
+   "lang": "en",
+   "note": "Report the call to the police and ring her bank's fraud line on the number on her card, from another phone or after a few minutes, since scammers can hold the line open; if any money goes, call the bank and police straight away."
   }
  ]
 }

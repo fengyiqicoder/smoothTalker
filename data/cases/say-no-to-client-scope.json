@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -197,6 +197,13 @@
    "reply": "孙老师，理解10月15日对您很重要，我也想帮您赶上。合同约定的是9月14日前收齐文案和照片、10月15日上线，这次资料晚到了两周，整站上线就顺延到10月29日（周四）。如果15日必须上线，我可以先把首页、课程表和联系页这三个页面上线，其余页面29日补齐。您看选哪种？确认后我就按这个排期推进。",
    "lang": "zh",
    "note": "资料晚到导致延期，按合同说一次原因就够，不指责；给两个能落地的选项，让对方书面确认。"
+  },
+  {
+   "id": "say-no-to-client-scope-029",
+   "situation": "I'm a freelance copywriter on a $900/month retainer with a dental clinic, covering four blog posts a month. The owner, Dr. Hale, asked me to write 20 five-star Google reviews under made-up patient names to 'balance out' two bad ones. I won't do that, but I could write a short follow-up email and a front-desk card asking real patients for reviews, as a one-off $150 add-on.",
+   "reply": "Hi Dr. Hale, I understand wanting some balance against those two reviews. I can't write reviews under made-up patient names: they'd mislead people choosing a dentist, and it's not work I take on. What I can do is write a short follow-up email and a front-desk card asking your real patients for a review, as a one-off add-on for $150. Would you like me to go ahead?",
+   "lang": "en",
+   "note": "An ethics no still comes with a paid path to what the client actually wants; fake reviews can also put a business listing at risk, so check the platform's rules."
   }
  ]
 }

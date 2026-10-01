@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -197,6 +197,13 @@
    "reply": "Hi Corinne, I'd love to get this ready for the trade show. To deliver the full set by Monday 5 October I'd need to move another client's work into the weekend, so the rush price is $2,700 instead of $1,800. Does that work for you? If the budget is fixed at $1,800, I can have the finished front panel ready for the show on Monday and deliver the rest on our original two-week timeline.",
    "lang": "en",
    "note": "A rush is a change of scope: price it with one reason, and offer a smaller version that fits the original budget."
+  },
+  {
+   "id": "negotiate-price-or-salary-029",
+   "situation": "Soy Sara Molina, fisioterapeuta. La Clínica Valdemar me ha ofrecido un puesto en el nivel 2 de su tabla salarial, 31.200 € brutos al año, pero tengo seis años de experiencia, dos de ellos en un hospital de Lisboa, que no han tenido en cuenta, y tengo los certificados de ambos empleos. Según su propia tabla, el nivel 4 (cinco años o más) son 34.800 €. El puesto me encaja y la responsable de RR. HH. es Elena Prieto.",
+   "reply": "Hola, Elena:\nMuchas gracias por la oferta, me hace mucha ilusión incorporarme a la Clínica Valdemar. Quería comentarte un punto antes de firmar: la oferta me sitúa en el nivel 2 de vuestra tabla, pero tengo seis años de experiencia como fisioterapeuta, dos de ellos en un hospital de Lisboa, y creo que no se han tenido en cuenta. Según vuestra tabla, con cinco años o más corresponde el nivel 4, 34.800 €. ¿Podríais revisar el encuadre? Te envío esta semana los certificados de ambos empleos.\nUn saludo,\nSara Molina",
+   "lang": "es",
+   "note": "Con una tabla salarial fija se negocia el nivel: la cifra concreta, la prueba que la respalda y nada de motivos personales."
   }
  ]
 }
