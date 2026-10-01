@@ -98,6 +98,9 @@ if CASES.exists():
             for dom in re.findall(r"[\w.+-]+@([\w-]+(?:\.[\w-]+)+)", text):
                 if dom.lower() not in ("example.com", "example.org", "example.net"):
                     err(p, f"{where}: email domain {dom}; use example.com")
+            for num in re.findall(r"(?<!\d)1[3-9]\d[ -]?\d{4}[ -]?\d{4}(?!\d)", text):
+                if not re.sub(r"\D", "", num).startswith("1380000"):
+                    err(p, f"{where}: mainland mobile {num} could be real; use 138 0000 xxxx")
             if len(str(c.get("reply", ""))) > 900:
                 warn(p, f"{where}: reply over 900 characters; keep cases short")
 

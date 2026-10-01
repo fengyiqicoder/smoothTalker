@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -190,6 +190,13 @@
    "reply": "Secret Santa time! Proposal: £20 limit, names drawn on Sunday 15 November, gifts swapped at Christmas dinner on Saturday 12 December. This year it's opt-in: 👍 this message by Friday 13 November if you want to be in the draw. No reply means you're not in it, and that's completely fine; you're still very much invited to dinner.",
    "lang": "en",
    "note": "When joining costs people money, let silence mean out, never in; that also fixes last year's forgotten gift."
+  },
+  {
+   "id": "group-chat-coordination-028",
+   "situation": "Our old uni band, four of us (Jess, Arun, Mo and me), has a WhatsApp group that's been silent since March. I want to get a jam going: Studio 9 has a room free on Saturday 24 October, 2 to 5pm, for £60, so £15 each, and it has to be booked by Wednesday 14 October.",
+   "reply": "Reviving this chat with an actual plan: jam at Studio 9, Saturday 24 October, 2 to 5pm, £15 each. 👍 by Tuesday 13 October if you're in, and I'll book it on Wednesday. If three of us are in, it's on at £20 each; if not, I'll suggest another date rather than chase anyone. No reply means you're sitting this one out, no hard feelings.",
+   "lang": "en",
+   "note": "A dormant chat comes back with a concrete plan, not 'we should catch up'; when it costs money, silence means out."
   }
  ]
 }

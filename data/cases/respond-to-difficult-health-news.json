@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -190,6 +190,13 @@
    "reply": "Ines, thank you for telling me, and I'm so sorry you're dealing with this. Please don't give the Sunday sessions another thought: I'll host them through November, and the chair is yours whenever you want it back. Drop in, just listen, or skip them entirely, whatever suits you. No need to reply.",
    "lang": "en",
    "note": "An online friend you've never met: the offer that fits is the shared space you actually have, held open without pressure."
+  },
+  {
+   "id": "respond-to-difficult-health-news-028",
+   "situation": "My friend Claire and I haven't spoken since an argument in May about her wedding plans. Today she texted that she has Hodgkin lymphoma, starts chemo on 12 October, and 'didn't want you to hear it from someone else'. I want to put the argument aside, and I live ten minutes from the hospital where she's being treated.",
+   "reply": "Claire, thank you for telling me yourself, it means a lot. I'm so sorry. Whatever happened in May doesn't matter to me right now, and we don't need to talk about it. I live ten minutes from the hospital, so on the 12th or any treatment day I can drive you there or meet you afterwards, whichever helps. No need to reply.",
+   "lang": "en",
+   "note": "After a falling-out, the news comes first: don't relitigate or apologise at length, and let one concrete offer show you mean it."
   }
  ]
 }

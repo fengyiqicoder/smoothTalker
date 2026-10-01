@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -190,6 +190,13 @@
    "reply": "Mum, I know Margaret means a lot to you, and that's exactly why she carries it as her middle name. Her name is Wren, it's on the birth certificate, and we love it. Come over this weekend for a cuddle?",
    "lang": "en",
    "note": "A decision that's already made: say so once, credit what matters to her, and invite her closer instead of debating the name."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-028",
+   "situation": "I moved to Lyon in June and I'm learning French. My colleague Mathieu corrects my grammar mid-sentence in every lunch conversation, in front of the others, and I lose my train of thought. He means well, and we already do a language exchange on Fridays, where I'd actually welcome his corrections.",
+   "reply": "Mathieu, I really appreciate how much you help with my French. At lunch, though, could you let me finish my sentences, mistakes and all? I lose my thread when I'm corrected halfway through. Save them for our Friday exchange instead; bring a list and I'll take every one.",
+   "lang": "en",
+   "note": "When the advice itself is welcome but the timing isn't, name the position once and give it a proper place to go."
   }
  ]
 }

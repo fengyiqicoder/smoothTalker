@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -151,8 +151,8 @@
   },
   {
    "id": "price-increase-and-customer-announcements-022",
-   "situation": "我叫周敏，开了一家小保洁公司叫洁雅保洁，给一家设计公司的写字楼做日常保洁，月费6000元，一直是固定的两位阿姨上门。合同第6条写了调价要提前60天书面通知。今年保洁员工资涨了，打算12月1日起涨到6500元，对接人是行政主管孙经理，我的电话是13900001234。",
-   "reply": "孙经理您好，我是洁雅保洁的周敏。按合同第6条，提前书面通知您：从12月1日起，贵司日常保洁月费由6000元调整为6500元，原因是今年保洁员工资上涨了。服务内容、频次和固定上门的两位阿姨都不变，11月及之前的服务仍按6000元结算。对调整有任何疑问，随时打我电话13900001234。谢谢贵司一直以来的信任。周敏",
+   "situation": "我叫周敏，开了一家小保洁公司叫洁雅保洁，给一家设计公司的写字楼做日常保洁，月费6000元，一直是固定的两位阿姨上门。合同第6条写了调价要提前60天书面通知。今年保洁员工资涨了，打算12月1日起涨到6500元，对接人是行政主管孙经理，我的电话是13800000007。",
+   "reply": "孙经理您好，我是洁雅保洁的周敏。按合同第6条，提前书面通知您：从12月1日起，贵司日常保洁月费由6000元调整为6500元，原因是今年保洁员工资上涨了。服务内容、频次和固定上门的两位阿姨都不变，11月及之前的服务仍按6000元结算。对调整有任何疑问，随时打我电话13800000007。谢谢贵司一直以来的信任。周敏",
    "lang": "zh",
    "note": "B2B with a contract: cite the notice clause and check its exact terms before sending, rather than relying on general rules."
   },
@@ -190,6 +190,13 @@
    "reply": "各位老顾客好，我是阿梅。跟大家说一件事：从12月1日起，阿梅面馆交给跟了我4年的厨师小郑经营，我准备退休回老家了。店名、配方和价格都不变，掌勺的还是大家熟悉的小郑。储值卡余额小郑全部认，照常用；如果不想继续用，11月30日前来店里或微信找我，按余额全额退。谢谢大家这6年的照顾。阿梅",
    "lang": "zh",
    "note": "换老板也是一次变化通知：第一句说日期和接手的人，讲清什么不变，储值卡余额怎么处理写明白，退出要简单。"
+  },
+  {
+   "id": "price-increase-and-customer-announcements-028",
+   "situation": "I'm Omar and I run Fennel Box, a weekly meal-kit delivery. The box went from $60 to $66 on 1 September, announced by email on 1 August, but a customer, Clare, says the email went to her spam and the new charge surprised her. I've decided to refund her the $6 difference on September's four boxes, $24, and her next box, on Monday 5 October, will be $66 unless she pauses.",
+   "reply": "Hi Clare, thanks for telling me, and I'm sorry the notice ended up in your spam folder. The weekly box moved from $60 to $66 on 1 September. Since you didn't see the email in time, I've refunded the $6 difference on September's four boxes, $24 in total, so you'll see it back in your account soon. From your next box on Monday 5 October the price is $66. If you'd like to pause or cancel before then, just reply and I'll sort it the same day. Omar",
+   "lang": "en",
+   "note": "When the notice never reached them, make it right once and restate the change; that's fair notice, not a quiet discount for a complaint."
   }
  ]
 }

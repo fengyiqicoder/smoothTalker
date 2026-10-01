@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -190,6 +190,13 @@
    "reply": "Hi Graham, a time-sensitive one on Ben for the finance manager role: he has another offer to answer by Thursday 8 October, and Halverson is his first choice. Could you let me know by Wednesday 7 October whether you'd like to move him forward? A quick yes, no or not yet is all I need, and if it's a no, one line of feedback would really help him. If the role is on hold, just say so and I'll tell him.",
    "lang": "en",
    "note": "A real outside deadline gives a silent client a reason to answer; share the candidate's preference only with his say-so."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-028",
+   "situation": "我们公司给一家律所做IT运维外包，年度合同10月31日到期，合同写续约需要双方书面确认。9月15日我把续约报价（每月8000元，和今年一样）发给了行政主管何姐，9月24日跟进过一次，都没回。如果不续，我们需要至少两周时间把账号、密码和设备资料整理好交接。",
+   "reply": "何姐您好，咱们的运维合同10月31日到期，9月15日发您的续约报价是每月8000元，和今年一样。为了不影响所里的日常运转，想请您在10月16日（周五）前回我一句：续约、不续，或者需要再谈都行。如果不续也完全没关系，我们会用最后两周把账号、密码和设备资料整理好，完整交接给您指定的人。没收到书面确认，我们不会默认续约，10月16日我再打个电话跟您确认。",
+   "lang": "zh",
+   "note": "老客户续约前沉默：给一个倒推出来的日期，让三种回答都容易说出口；合同要求书面确认，沉默不等于续约。"
   }
  ]
 }

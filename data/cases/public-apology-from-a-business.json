@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -190,6 +190,13 @@
    "reply": "From 24 to 29 September, the chat assistant on our website told about 35 of you that sale items could be returned for a full refund. That was wrong: our policy is store credit on sale items. But you heard it from us, so it stands, and I'm sorry for the mix-up. If you were told this, you can return your sale item for a full refund any time before 31 October; just mention the chat when you start the return. The assistant now answers only from our written returns policy, and every returns question goes to a person. Questions: priya@example.com. Priya, owner, Lark & Loom",
    "lang": "en",
    "note": "An automated tool speaks for the business, so own what it said and honour it rather than blaming the software."
+  },
+  {
+   "id": "public-apology-from-a-business-028",
+   "situation": "Soy Pilar, dueña de la librería La Hoja Suelta, en Sevilla. El lunes anunciamos en Instagram la ganadora del sorteo de un lote de 10 libros, pero el comentario elegido llegó después del cierre del domingo a las 23:59, así que la ganadora es otra persona. Ya le escribimos a la ganadora correcta, la persona anunciada el lunes también recibe un lote porque se lo prometimos, y desde ahora sorteamos sobre una captura de los comentarios hecha al cierre. Mi correo es pilar@example.com.",
+   "reply": "El lunes anunciamos la ganadora del sorteo del lote de 10 libros, pero nos equivocamos: el comentario elegido llegó después del cierre del domingo a las 23:59. Lo sentimos, el error fue nuestro al hacer el sorteo. Ya hemos escrito a la ganadora correcta, y la persona que anunciamos el lunes también recibe su lote, porque se lo prometimos. A partir de ahora sortearemos sobre una captura de los comentarios hecha justo al cierre. Cualquier duda, escribidme a pilar@example.com. Pilar, La Hoja Suelta",
+   "lang": "es",
+   "note": "Un error pequeño y público se corrige en el mismo sitio, sin nombrar a nadie, cumpliendo lo prometido y con un cambio comprobable."
   }
  ]
 }

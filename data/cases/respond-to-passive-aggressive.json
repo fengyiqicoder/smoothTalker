@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -190,6 +190,13 @@
    "reply": "My competitor analysis has been in the shared doc since Tuesday, about 1,400 words. If anything in it needs changing, could you leave comments on the parts you mean? I'll make the edits by Monday 5 October, so there's time before Friday's deadline.",
    "lang": "en",
    "note": "When the dig doesn't fit your part, answer with the facts and an easy way to raise real problems; don't argue about 'last time' in the group."
+  },
+  {
+   "id": "respond-to-passive-aggressive-028",
+   "situation": "I'm getting married on 14 November and we capped the wedding at 60 guests, so only partners who live together are invited as couples. My cousin Tara RSVP'd yes and added 'Guess single people don't get plus-ones, noted 🙃'. She'll be on the cousins' table with Jake and Mia, and I really want her there.",
+   "reply": "So glad you're coming, Tara! We had to cap it at 60, so it's only partners who live together, and it was a hard line to draw. You're on the cousins' table with Jake and Mia, which I suspect will be the loudest table in the room. Can't wait to see you on the 14th.",
+   "lang": "en",
+   "note": "From the host's side: take it at face value, give the rule in one line without defending it, and make her feel wanted."
   }
  ]
 }

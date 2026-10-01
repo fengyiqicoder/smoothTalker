@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -158,8 +158,8 @@
   },
   {
    "id": "messages-to-teachers-and-schools-023",
-   "situation": "我是王建国，孙子王浩然上五年级（1）班，他爸妈都在深圳打工，平时是我带他。这学期他数学单元测验从八十多分掉到了六十分，作业我辅导不了，挺着急。班主任兼数学老师是陈老师，孩子爸爸的手机是13912345678。",
-   "reply": "陈老师您好，我是五年级（1）班王浩然的爷爷王建国。浩然爸妈都在深圳打工，平时是我带他。这学期他数学单元测验从八十多分降到了六十分，作业我辅导不了，心里挺着急。想问问您课堂上有没有看到他哪里跟不上？您方便的话，这周哪天放学后我去学校找您谈十分钟。孩子爸爸的手机是13912345678，有事也可以直接找他，我们一家都会配合。谢谢您！",
+   "situation": "我是王建国，孙子王浩然上五年级（1）班，他爸妈都在深圳打工，平时是我带他。这学期他数学单元测验从八十多分掉到了六十分，作业我辅导不了，挺着急。班主任兼数学老师是陈老师，孩子爸爸的手机是13800000005。",
+   "reply": "陈老师您好，我是五年级（1）班王浩然的爷爷王建国。浩然爸妈都在深圳打工，平时是我带他。这学期他数学单元测验从八十多分降到了六十分，作业我辅导不了，心里挺着急。想问问您课堂上有没有看到他哪里跟不上？您方便的话，这周哪天放学后我去学校找您谈十分钟。孩子爸爸的手机是13800000005，有事也可以直接找他，我们一家都会配合。谢谢您！",
    "lang": "zh",
    "note": "监护人不是父母时，先说清自己是谁、平时谁管孩子，再给老师一个能联系到父母的方式。"
   },
@@ -190,6 +190,13 @@
    "reply": "Dear Mrs Okoye, I'm Mateo's mum, from your Year 10 history class. I've just seen on the school portal that Mateo has six missing history assignments since early September, which I hadn't realised. We've talked about it, and from this week he does his homework at the kitchen table before any screen time. Could you let me know which pieces he should prioritise, and whether there's a deadline for catching up? Thank you, and I'm happy to talk by phone any afternoon.",
    "lang": "en",
    "note": "When your child is the problem, skip the excuses: show what's changed at home and ask the teacher for the plan."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-028",
+   "situation": "I'm Marta Silva. I'm Deaf and use BSL, and parents' evening for my son Rafael (Year 5, Mr Clarke's class) is on Tuesday 13 October, with 5-minute face-to-face slots. I'd like the school to book a BSL interpreter, or if not, to do it by typed chat on a laptop in a longer slot at the end; email is the best way to reach me.",
+   "reply": "Dear Mr Clarke, I'm Rafael Silva's mum, from your Year 5 class. I'm Deaf and use BSL, and I'd really like to take a full part in parents' evening on Tuesday 13 October. Could the school book a BSL interpreter for our slot? If that isn't possible, could we talk by typed chat on a laptop, perhaps in a longer slot at the end of the evening? Email is the best way to reach me. Thank you, Marta Silva",
+   "lang": "en",
+   "note": "When the parent needs the adjustment, ask early, offer a fallback, and say which channel works for you."
   }
  ]
 }

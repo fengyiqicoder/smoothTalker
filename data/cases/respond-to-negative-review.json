@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -190,6 +190,13 @@
    "reply": "Thank you for the feedback, Greg, and I'm sorry your order came out wrong: beef when you asked for chicken is our mistake. Since last week we read every order back before it goes to the kitchen. Our team serves customers in English and Vietnamese every day, and I'm proud of every one of them. If you'd like to talk about your visit, I'm at lan@example.com. Lan, owner",
    "lang": "en",
    "note": "Own the real mistake, back your staff in one calm line without repeating the insult, and flag the review to the platform separately if it breaks its rules."
+  },
+  {
+   "id": "respond-to-negative-review-028",
+   "situation": "Sou a Inês, gerente do Hostel Casa Lume, em Lisboa. O hóspede 'Tiago M.' deu 2 estrelas no Google: no quarto partilhado de seis camas, um grupo chegou às 3h da manhã a fazer barulho e a receção da noite não fez nada. É verdade que a receção não interveio; desde a semana passada há silêncio obrigatório das 23h às 8h, afixado em todos os quartos, e a equipa da noite passa pelos corredores. O meu e-mail é ines@example.com.",
+   "reply": "Obrigada, Tiago, por contar o que aconteceu. Um grupo a chegar às 3h com barulho num quarto partilhado estraga a noite a toda a gente, e a nossa receção devia ter intervindo; essa parte é responsabilidade nossa. Desde a semana passada, o silêncio das 23h às 8h é obrigatório e está afixado em todos os quartos, e a equipa da noite passa pelos corredores para o garantir. Se quiser falar comigo, escreva para ines@example.com. Inês, gerente do Casa Lume",
+   "lang": "pt",
+   "note": "Quando o problema veio de outros hóspedes, assume-se o que era vosso (não intervir) sem culpar ninguém em público, e mostra-se o que mudou."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -190,6 +190,13 @@
    "reply": "Hi Abby, sorry the template won't open on your phone, that's frustrating when you're keen to get started. Because downloads can't be returned, I can't refund it, but I can make you a fillable PDF version that works on your phone, at no charge, and send it today. Would that help?",
    "lang": "en",
    "note": "A digital product can't come back, so the alternative has to solve her actual problem, not just offer credit."
+  },
+  {
+   "id": "handle-refund-request-028",
+   "situation": "我开了一家小瑜伽工作室，老同学阿敏9月初买了10节私教课，1280元，上了2节。她今天说怀孕了，医生建议先别练高强度，想退款。课包规定不退但可以冻结，我愿意让她选：剩下8节按每节128元退1024元，或者冻结到产后一年内随时用。",
+   "reply": "阿敏，恭喜恭喜！身体最要紧，听医生的。课的事你别有负担，两个办法你挑：剩下8节按每节128元退你1024元，今天就原路退回；或者先把课冻结，生完宝宝一年内随时回来上。选哪个都行，告诉我就马上办。",
+   "lang": "zh",
+   "note": "熟人买课也是第一句给答案：两个选项、金额和时间说清楚，不问身体细节，也不提“规定”。"
   }
  ]
 }

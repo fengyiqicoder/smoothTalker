@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -190,6 +190,13 @@
    "reply": "Madame Lefèvre, je veux que cette entrée soit bien prise en charge. Ce soir j'ai déjà 6 patients, dont 2 sous surveillance rapprochée, et avec un 7e je ne pourrai pas assurer cette surveillance correctement. Deux options : Inès, qui a 4 patients stables, prend l'entrée ; ou elle reprend un de mes patients stables et je prends l'entrée. Je recommande la première, puisque ses patients sont stables. Laquelle préférez-vous ?",
    "lang": "fr",
    "note": "Si la charge reste dangereuse pour les patients malgré tout, le signaler par écrit selon la procédure du service, sans refuser la tâche en silence."
+  },
+  {
+   "id": "push-back-on-boss-028",
+   "situation": "I lead a team of five engineers. My director, Lena, wants me to tell Tom on my team that his approved two-week leave from Monday 19 October has to shrink to one week because of the 30 October release. Tom booked flights months ago to visit family in Manila; Kim on the team knows his payments API work and has capacity, or the reporting feature could move to the November release.",
+   "reply": "Hi Lena, I want the 30 October release to land as much as you do. Tom's two weeks from Monday 19 October were approved months ago and he's booked flights to see family in Manila, so cutting it now would cost us a lot of trust on the team. Two options: Kim takes over Tom's payments API work, since she knows it and has capacity, or we move the reporting feature to the November release. I'd recommend Kim covering, with a proper handover before Tom leaves. Which would you prefer?",
+   "lang": "en",
+   "note": "Pushing back on behalf of someone you manage: protect what was already approved, and give your director options that still protect the release."
   }
  ]
 }

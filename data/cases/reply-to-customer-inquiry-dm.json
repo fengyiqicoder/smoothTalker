@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -190,6 +190,13 @@
    "reply": "你好！先跟你说实话：我家厨房没有清真认证，所以我不能说是清真的。配方里不含明胶、酒精和猪油，用的是动物黄油，香草也是无酒精的香草精。一盒12个168元。要不要我把完整配料表发给你，你看看能不能接受？",
    "lang": "zh",
    "note": "涉及饮食和信仰，不替对方下结论：先说清没有认证，再给配料，让她自己决定。"
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-028",
+   "situation": "I'm selling my oak dining table with four chairs on Facebook Marketplace for $350, collection only from my place in Oakland, and it needs two people to lift. Three people messaged 'is this available?' within an hour; Dana was first. My rule is that it goes to whoever puts down a $50 deposit or comes to see it first.",
+   "reply": "Hi Dana, yes, still available! It's $350 for the table and all four chairs, collection only from Oakland, and you'll want two people to lift it. A few people have asked, so it goes to whoever puts down a $50 deposit or comes to see it first. Would today or tomorrow work for a look?",
+   "lang": "en",
+   "note": "With several buyers at once, state your rule plainly to each one; it's the truth, not pressure."
   }
  ]
 }

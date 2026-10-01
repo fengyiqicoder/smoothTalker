@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -190,6 +190,13 @@
    "reply": "Thanks for telling me, Alex, I know that wasn't an easy message to send. I'll book a test this week. I hope you're doing okay.",
    "lang": "en",
    "note": "Thank her, no blame, and book a test with your doctor or a sexual health clinic; a health message from an ex doesn't need to reopen the relationship."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-028",
+   "situation": "我和前男友阿凯6月底分手了，在一起三年。他昨天微信说想打一次电话把话说开，算是好好告别。我愿意通一次电话，但只想通这一次，之后不想再保持联系；这周日（10月4日）晚上8点我有空。",
+   "reply": "阿凯，可以，我愿意打一次电话，把话说开，好好告别。这周日（10月4日）晚上8点可以吗？先说清楚，我想就打这一次，聊完之后我们就不再联系了，我觉得这样对我们俩都好。",
+   "lang": "zh",
+   "note": "答应“告别电话”也要先说清界限：只通一次，定好时间，之后不再联系，免得一次电话变成重新开始。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -190,6 +190,13 @@
    "reply": "Thank you for your email. Elena Ruiz is away from the office for at least the next two weeks and is not reading email. For anything about her team's work, please contact Omar Haddad at omar.haddad@example.com. Messages here won't be forwarded, so please resend anything important to Omar.",
    "lang": "en",
    "note": "Written on someone's behalf: third person, no health details, and no return date that nobody has confirmed."
+  },
+  {
+   "id": "out-of-office-and-away-messages-028",
+   "situation": "我叫阿芳，开了一家小饭馆“芳姐小厨”。楼上水管爆了，店里天花板和电路都要修，10月5日起停业，外卖也一起停，什么时候重新开还说不准，估计三到五周。储值卡余额全部保留，有效期按停业天数顺延；留言我每天晚上统一看一次。想设一个微信自动回复。",
+   "reply": "您好，芳姐小厨因为店内维修，10月5日起暂停营业，外卖也一起暂停。重新开业的日子还没定，估计三到五周，定了会第一时间在这里通知。储值卡余额全部保留，有效期按停业天数顺延，不用做任何操作。留言我每天晚上统一回复。谢谢大家等我们回来！阿芳",
+   "lang": "zh",
+   "note": "复业日期没定就直说，给一个估计并承诺定了再通知；顾客最关心的储值卡写清楚。"
   }
  ]
 }

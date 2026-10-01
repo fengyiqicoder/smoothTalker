@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -190,6 +190,13 @@
    "reply": "Hi everyone, I'm stepping down as a maintainer on 31 October. After five years I need my evenings back, and I'd rather say so clearly than slowly go quiet. Before then I'll review the 12 open PRs tagged for v3.2 and hand my admin rights to Jun, who will keep leading the project. Thank you to everyone who has filed issues and sent fixes over the years. If you've ever thought about helping maintain, talk to Jun.\nRavi",
    "lang": "en",
    "note": "A public exit from a volunteer project: co-maintainer first, then a date, a named successor and a concrete handover so nobody is left guessing."
+  },
+  {
+   "id": "leave-or-quit-gracefully-028",
+   "situation": "I've mentored Jayden, 15, through a youth mentoring programme for 18 months; we meet every other Saturday, he wants to study engineering, and I've really loved it. I'm moving to Glasgow for work in December, so our last session will be Saturday 28 November, and the coordinator, Sarah, will match him with a new mentor. I'm telling him in person at our session this Saturday.",
+   "reply": "Jayden, I wanted you to hear this from me first: I'm moving to Glasgow for work in December, so Saturday 28 November will be our last session. It's nothing to do with you; I've really loved these 18 months. Sarah is going to match you with a new mentor, and before I go I'd like us to write down your engineering plans together so you can show them where you've got to. We've still got a few sessions left, so let's make them good ones.",
+   "lang": "en",
+   "note": "Leaving someone who relies on you: tell them first and in person, say plainly it isn't about them, and make the handover something you do together."
   }
  ]
 }

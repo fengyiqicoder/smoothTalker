@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -190,6 +190,13 @@
    "reply": "Hi Tom, could I ask a favour, with a genuine no-pressure clause? I've finished The Salt Year and I'd love to send it to Helen Brandt. You haven't read it, so I'm not asking you to vouch for it, only whether you'd be comfortable letting her know a query is coming from a friend of yours. If that's more than you want to put your name to, just say, and I'll query her the usual way.\n\nIf you're up for it, here's something you could forward:\n\"Helen, a friend of mine, Grace Okafor, has finished her first novel, The Salt Year, an 85,000-word literary novel, and two of her short stories have appeared in literary magazines. I haven't read the manuscript, but she'd like to send you a query if you're open to it.\"\n\nI'll let you know how it goes either way. Thanks, Tom.\nGrace",
    "lang": "en",
    "note": "When your contact can't judge the work, ask only for a heads-up, never an endorsement, and say so in the blurb."
+  },
+  {
+   "id": "request-intro-or-referral-028",
+   "situation": "I'm Ravi Shah. I finished a coding bootcamp in June and my capstone was a matchmaking service for a two-player puzzle game. I want an intro to Melissa Grant, an engineering manager at Tidepool Games, for 15 minutes about their junior backend role, and I'm thinking of posting in our bootcamp alumni Slack's referrals channel since I don't know who knows her.",
+   "reply": "Hi all, one specific ask: does anyone here know Melissa Grant, engineering manager at Tidepool Games, well enough to introduce me? I'm applying for their junior backend role and would value 15 minutes with her about what the team looks for. Only if you actually know her, please don't stretch a loose connection on my behalf.\nIf you can, here's a blurb you can forward:\n\"Melissa, I'd like to introduce Ravi Shah, who finished our bootcamp in June. His capstone was a matchmaking service for a two-player puzzle game, and he's applying for your junior backend role. He'd value 15 minutes on what the team looks for, if you're open to it.\"\nI'll post an update here either way. Thanks!\nRavi",
+   "lang": "en",
+   "note": "Asking a group: name one person and one small ask, and make the out explicit so nobody vouches for someone they barely know."
   }
  ]
 }

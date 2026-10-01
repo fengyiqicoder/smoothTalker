@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -190,6 +190,13 @@
    "reply": "Schön, dass du dich entschuldigen willst, Jonas, das ist ein guter Schritt. Ich gebe es aber nicht weiter: Eine Entschuldigung kommt viel besser an, wenn sie direkt von dir kommt und nicht über mich. Schreib ihm selbst oder ruf ihn an. Wenn du magst, überlegen wir zusammen, wie du es formulierst.",
    "lang": "de",
    "note": "Auch eine gute Nachricht nicht weitertragen: Über Dritte wirkt eine Entschuldigung halbherzig, direkt wirkt sie."
+  },
+  {
+   "id": "mediating-between-two-people-028",
+   "situation": "我孙子小宇读大三，想休学一年去打电竞，他爸（我儿子建军）坚决不同意，父子俩吵得一周没说话，都跑来跟我诉苦。刚才小宇打电话让我去劝劝他爸，说“爸只听你的”。这周日10月4日中午他们俩本来就要来我这儿吃饭。",
+   "reply": "小宇，你愿意跟奶奶说心里话，奶奶很高兴，也知道你这几天心里不好受。不过这事奶奶不替你去劝你爸，也不替你爸来劝你，你跟我说的话我不会转给他。休学是大事，还得你们父子俩当面说。这周日中午你们本来就要来吃饭，吃完饭咱们三个坐下来，就聊这一件事：你先把打算从头讲一遍，你爸听完再说他的担心，谁都别插嘴。我也会这样跟你爸说。",
+   "lang": "zh",
+   "note": "长辈被一方请去当说客：接住情绪，但不当说客、不传话，把两个人拉到同一张桌上，规则提前讲好。"
   }
  ]
 }

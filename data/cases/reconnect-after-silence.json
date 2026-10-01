@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -190,6 +190,13 @@
    "reply": "Hi Dana, it's been about five years, which is far too long. I've just joined a chess club and keep thinking of our games in the library basement during exam weeks. How are you doing these days? No rush to reply, I just wanted to say hello.",
    "lang": "en",
    "note": "Use her name and pronouns naturally and leave the transition out of it; this message is about the friendship, not a reaction to her news."
+  },
+  {
+   "id": "reconnect-after-silence-028",
+   "situation": "儿子乐乐和幼儿园的好朋友豆豆以前天天一起玩，去年我们搬到苏州后，我跟豆豆妈妈王姐一年多没联系了，没闹过不愉快。乐乐最近总念叨豆豆，前两天还画了一张他俩在小区滑滑梯的画。我们10月10日周六回上海一趟。",
+   "reply": "王姐，好久不见，搬到苏州一晃一年多了！乐乐最近总念叨豆豆，前两天还画了一张他俩在小区滑滑梯的画，我拍给你看看。我们10月10日周六回上海，要是你们那天有空，带两个孩子出来玩一会儿？没空也完全没关系，不急着回。",
+   "lang": "zh",
+   "note": "家长之间重新联系，用孩子的一件具体小事开头，邀请具体又容易拒绝。"
   }
  ]
 }

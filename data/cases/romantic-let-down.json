@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -190,6 +190,13 @@
    "reply": "阿凯，谢谢你跟我说这些，我知道说出口不容易。不过我对你没有那种感觉，所以下个月就不见面了，免得你白跑一趟。这两年周五晚上一起组队我真的很开心，如果你愿意，我们照常一起玩；你想先缓几周也完全没关系。",
    "lang": "zh",
    "note": "网友表白：在对方订行程前说清楚；只有真心想继续一起玩才提照常组队，并给他退一步的空间。"
+  },
+  {
+   "id": "romantic-let-down-028",
+   "situation": "I'm Ava. Last night Jake from my running club commented publicly under my race photo on Instagram: 'Great run! Dinner with me to celebrate? 😊'. About 30 club members follow me, and we run together every Wednesday. I'm not interested and want to say no privately without leaving his comment hanging.",
+   "reply": "Hi Jake, thanks for the comment and the invite, that was kind of you. I'm going to say no, though: I don't see us that way. I'll just reply with a thank you under the photo so it doesn't sit there, and I'll see you at Wednesday's run as usual.",
+   "lang": "en",
+   "note": "Asked out in public: give the real answer privately and only a neutral thanks in public, so he isn't turned down in front of the club."
   }
  ]
 }

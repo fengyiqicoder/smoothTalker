@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -190,6 +190,13 @@
    "reply": "Thanks for telling me, Sarah, and I'm sorry Leo doesn't want to come back. You're right that I shouted from the touchline on Saturday when we went 3-0 down, and that's not how I want to coach kids this age. I don't remember singling Leo out, but I'd like to understand what he heard so I can put it right with him. Could we talk before training on Wednesday at 5? From this week, it's encouragement only from me on the touchline.",
    "lang": "en",
    "note": "Own the shouting without a but, ask about the part you don't recognise instead of denying it, and make the change visible at the next match."
+  },
+  {
+   "id": "respond-to-criticism-028",
+   "situation": "我和大学同学阿峰合伙开了家咖啡馆，一人一半股份。他昨晚微信说我“什么都自己拍板，把他当摆设”，起因是我上周没跟他商量就花八千块换了磨豆机。磨豆机这事确实该先问他；但说我什么都自己拍板，我不同意，菜单和装修都是我们一起定的。店里周日休息。",
+   "reply": "阿峰，你的消息我想了一晚上。磨豆机这件事你说得对，八千块不是小钱，我该先跟你商量再买，这是我的问题。“什么都自己拍板”这点我看法不太一样，菜单和装修都是我们一起定的。不过我想知道，还有哪些事让你有这种感觉？我提议以后超过两千块的支出都先商量再定。周日店休，我们坐下来好好聊聊，行吗？",
+   "lang": "zh",
+   "note": "合伙人的批评：认下具体的那件事，不同意的地方说一句，再问一个问题，并给出一条以后能检验的规矩。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -190,6 +190,13 @@
    "reply": "谢谢你专门来说，我收到了。那天在山脚等了一个小时，说不郁闷是假的，不过第一次嘛，说开了就好。吃饭我接受！这周六晚上怎么样？下次要是起不来，提前发个消息给我就行。",
    "lang": "zh",
    "note": "对方道歉时别只回“没事”：轻轻说出你的代价，接受弥补，再定一个具体时间。"
+  },
+  {
+   "id": "handle-no-show-or-lateness-028",
+   "situation": "I'm Sophie. My uni friend Hattie RSVP'd yes for herself and her boyfriend Tom to our wedding last Saturday, 26 September, and neither of them came or messaged; we'd paid £85 a head for their meals. She hasn't said anything since, and I'm hurt but also worried something happened.",
+   "reply": "Hattie, we missed you and Tom on Saturday, and I haven't heard from you since, so I wanted to check everything's okay. I'll be honest, it stung a bit to see your two seats empty with no word, which is why I'm asking rather than guessing. If something happened, I'd really like to know. Either way, I'd love to catch up properly; are you free for a coffee next week?",
+   "lang": "en",
+   "note": "A friend's no-show at a big event: check they're okay first, name the effect in one line, and leave the meal cost out of the first message."
   }
  ]
 }

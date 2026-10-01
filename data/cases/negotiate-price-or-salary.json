@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -190,6 +190,13 @@
    "reply": "Hi Ben,\nThank you for the offer. A four-day week is exactly what I was looking for, and I'm excited about the role. One thing I want to raise: the offer is $72k, 0.8 of the full-time salary, but the job description covers the same scope as the full-time role you advertised in spring. For that scope, I'd be looking for $80k. Is there flexibility there? If the salary is fixed, I'm happy to agree which parts of the scope come off so the role fits four days.\nBest,\nLeila",
    "lang": "en",
    "note": "On a part-time offer, pay and scope move together: anchor on one, and offer the other as the second lever."
+  },
+  {
+   "id": "negotiate-price-or-salary-028",
+   "situation": "I'm a freelance illustrator. Corinne at Hollow Leaf, a small tea brand, agreed my quote of $1,800 for their packaging illustration on a two-week turnaround, but now needs it by Monday 5 October for a trade show. My rush rate is 50% extra, because I'd have to move another client's work into the weekend; I could also do just the front panel by Monday and the rest on the original timeline.",
+   "reply": "Hi Corinne, I'd love to get this ready for the trade show. To deliver the full set by Monday 5 October I'd need to move another client's work into the weekend, so the rush price is $2,700 instead of $1,800. Does that work for you? If the budget is fixed at $1,800, I can have the finished front panel ready for the show on Monday and deliver the rest on our original two-week timeline.",
+   "lang": "en",
+   "note": "A rush is a change of scope: price it with one reason, and offer a smaller version that fits the original budget."
   }
  ]
 }

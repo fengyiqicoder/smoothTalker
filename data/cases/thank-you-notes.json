@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -141,6 +141,13 @@
    "reply": "Dear Mr Okafor, thank you for telling Harbour Café about my sourdough. Since September they've ordered 30 loaves every week, which makes them my biggest account, and it all started with you mentioning me. For a one-woman bakery, that's a big deal. Here's a first taste of the rye I'm launching next month; I'd love to know what you think. With thanks, Nadia, Crumb & Co.",
    "lang": "en",
    "note": "Thanking a customer for a referral: name what it led to, and keep it a thank-you, not a discount or a sales pitch."
+  },
+  {
+   "id": "thank-you-notes-021",
+   "situation": "Me llamo Andrea Gil y este curso estudio el máster de enfermería en Zaragoza gracias a la Beca Elena Ruiz, de 4.000 euros, que creó la familia Ruiz en memoria de su hija Elena, enfermera de pediatría. Con la beca he podido dejar uno de mis dos trabajos de fin de semana y empezar las prácticas en la UCI pediátrica, y me emociona pensar que Elena trabajaba justo en lo que estoy aprendiendo. La fundación me pide una carta de agradecimiento para la familia, a la que no conozco.",
+   "reply": "Querida familia Ruiz:\nMe llamo Andrea Gil y este curso soy la estudiante de la Beca Elena Ruiz. Gracias a ella he podido dejar uno de mis dos trabajos de fin de semana y dedicar ese tiempo a las prácticas en la UCI pediátrica. Me emociona pensar que Elena trabajaba justo en lo que estoy aprendiendo, y les agradezco de corazón que hayan querido que otros sigamos su camino. Me encantaría escribirles al final del curso para contarles cómo me ha ido.\nCon todo mi agradecimiento,\nAndrea Gil",
+   "lang": "es",
+   "note": "A un donante que no conoces: di quién eres, qué te ha permitido hacer la beca y nombra a la persona en cuya memoria existe; la cantidad no hace falta."
   }
  ]
 }

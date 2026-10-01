@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -141,6 +141,13 @@
    "reply": "美咲、さっき美咲のLINEから投票のリンクと、SMSに届いた確認コードを送ってほしいというメッセージが来たよ。リンクは開いてないし、コードも送ってない。たぶん美咲じゃないよね？アカウントが乗っ取られているかもしれないから、時間のあるときに電話して。",
    "lang": "ja",
    "note": "返信はLINEではなく登録済みの番号へ。コードは誰にも送らない。乗っ取りと確認できたらLINEの通報機能で報告し、美咲から別の手段で友達に注意を呼びかけてもらう。"
+  },
+  {
+   "id": "suspicious-or-scam-message-021",
+   "situation": "I run a small bakery, Rye & Crumb, and our real Instagram is @ryeandcrumb. Since yesterday a fake account, @ryeandcrumb.giveaway, using our logo has been DMing our followers saying they've won a hamper and need to pay $9.99 shipping through a link. Two customers have messaged us asking if it's real, and one of them has already paid.",
+   "reply": "Heads up: an account called @ryeandcrumb.giveaway is messaging our followers about a hamper giveaway and asking for $9.99 shipping through a link. That isn't us. We're not running a giveaway, and we will never ask you to pay or enter card details through a DM. Please don't click the link; report and block the account instead. If you've already paid, call the number on the back of your card today so your bank can stop it. Anything really from us comes from @ryeandcrumb only.",
+   "lang": "en",
+   "note": "Report the fake account to Instagram and don't message it; reply privately to the customer who paid, pointing them to their bank and to the police if money has gone."
   }
  ]
 }

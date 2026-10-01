@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -190,6 +190,13 @@
    "reply": "周女士，598元的毛衣洗一次就缩成这样，换谁都心疼。我看了您发的照片，是热水机洗过的；这款毛衣的吊牌和随货卡片上都写了“冷水手洗、平铺晾干”，所以这次没法全额退款。我能做的是：如果您还想要一件，按半价299元给您，今天就能发出。需要的话回复我尺码就行。我是店主小叶，有问题直接找我。",
    "lang": "zh",
    "note": "顾客说错了事实：先接住她的损失，再拿吊牌和卡片平静说明一次，然后给一个能做到的办法，不跟她争谁对谁错。"
+  },
+  {
+   "id": "respond-to-angry-customer-028",
+   "situation": "I'm Ruth, manager of the Orchard Room, a small music venue. Our website says we have step-free access, but on Saturday a delivery of chairs was blocking the ramp, and Mr Achebe, a wheelchair user, waited 25 minutes outside before staff cleared it and missed the first set. He's emailed furious; I've refunded his two $40 tickets, the ramp is now marked as a no-storage area, I'd like to offer him two tickets to any show this season, and my number is 555-0233.",
+   "reply": "Dear Mr Achebe,\nOur website promised you step-free access, and on Saturday you waited 25 minutes outside because our ramp was blocked, and missed the first set. That's our failure, and I'm sorry. I've refunded both of your $40 tickets today, and the ramp is now marked as a no-storage area so it stays clear every night. If you'd like to come back, two tickets to any show this season are yours as our guests. I'm Ruth, the manager; reply to me directly or call 555-0233.\nRuth",
+   "lang": "en",
+   "note": "An access failure: name the broken promise and the wait, fix the cause for good, and leave out who left the chairs there."
   }
  ]
 }
