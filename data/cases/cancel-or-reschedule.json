@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -176,6 +176,13 @@
    "reply": "小雨，周六的电影我得改期：我妈周五要做个小手术，我得回老家陪两天，周日晚上才回来。你这几天一直盼着，我真的很过意不去。今晚9点我给你打个电话好不好？电影改到10月10日周六下午或者11日周日下午，票我来买，你挑一天。",
    "lang": "zh",
    "note": "对方正难受时取消，先给一个不用等的替代（今晚的电话），再给两个具体日期。"
+  },
+  {
+   "id": "cancel-or-reschedule-026",
+   "situation": "I volunteer as coach for an under-9s netball team, the Hillside Hawks, and we train on Saturdays from 9 to 10am at the leisure centre. I've got a fever and no other coach is free, so I have to cancel this Saturday, 3 October. The centre has a court free on Wednesday 7 October from 5 to 6pm for a make-up session, or we could just pick up again on Saturday 10 October; I'm posting in the parents' WhatsApp group.",
+   "reply": "Hi all, Saturday's training on 3 October is cancelled: I'm ill and couldn't find another coach to cover. Sorry, I know the girls look forward to it and some of you plan your morning around it. Two options: a make-up session on Wednesday 7 October, 5 to 6pm at the leisure centre, or we pick up again on Saturday 10 October as usual. Could you reply 'Wednesday' or 'Saturday' by Sunday evening so I know whether to book the court?",
+   "lang": "en",
+   "note": "To a group of parents: the change first, one short reason, and two options they can answer in one word."
   }
  ]
 }

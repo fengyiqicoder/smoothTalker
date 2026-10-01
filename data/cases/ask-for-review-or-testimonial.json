@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -176,6 +176,13 @@
    "reply": "Hi Mr. Evans, thank you for telling us on Friday that your pad thai was cold and the order was 25 minutes late. We were short-staffed, and that's on us, not you. If anything else wasn't right, could you reply here and tell me? It comes straight to me, not to a review site. Your next pad thai is on us, whenever you next order.",
    "lang": "en",
    "note": "After a bad experience, swap the public review ask for private feedback, and never link the free meal to a review."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-026",
+   "situation": "I run a two-hour ghost walk through Edinburgh's Old Town called Close Encounters Tours. At the end of each tour I hand everyone a small card with a QR code that goes straight to our review page, and I want a short line to say out loud as the group of about 15 heads off, without it sounding like I'm begging.",
+   "reply": "That's us, thank you all for braving the closes with me tonight. If you enjoyed it, the card I've just given you has a code that goes straight to our review page; two sentences takes about a minute, and it's honestly how small tours like this get found. No pressure at all, and if anything tonight didn't work for you, come and tell me now, I'd love to hear it. Safe home, everyone.",
+   "lang": "en",
+   "note": "Said aloud to a group: one place to go, how short it is, a real out, and an open door for private feedback before anyone posts in public."
   }
  ]
 }

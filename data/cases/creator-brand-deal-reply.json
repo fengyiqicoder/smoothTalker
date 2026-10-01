@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -175,6 +175,13 @@
    "reply": "Hi Owen, thanks for reaching out. I don't do dedicated sends, since my readers subscribed for my writing, but I do run one sponsor slot at the top of a regular issue: $600, written by me in my own voice from your brief, with your link and a clear 'sponsored' label. Could you share the timing you have in mind, the key points you'd want covered, and whether you'd need any exclusivity? Once I have that I'll send you available dates within a day.",
    "lang": "en",
    "note": "Offer the format you actually sell instead of the one they asked for; keeping the copy in your own voice is part of what they are paying for."
+  },
+  {
+   "id": "creator-brand-deal-reply-026",
+   "situation": "去年跟一个母婴品牌合作，说好交付后30天付款，结果拖了两个多月才到账。现在对接人阿琳又来约双十一的两条抖音视频，我单条报价3000元，含30天授权。我想接，但这次要全款预付才开拍。",
+   "reply": "阿琳你好，谢谢又想到我，双十一这波我也挺想做的。两条视频一共6000元，含30天授权。上次的尾款比约定晚了两个多月才到，所以这次我需要拍摄前全款预付，到账后马上排期。如果你们那边可以，我今天就把报价单发你。",
+   "lang": "zh",
+   "note": "回头客有付款拖延的记录时，把付款条件改严，理由用一句事实说清，不翻旧账。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -176,6 +176,13 @@
    "reply": "陈姐您好，我是木与泉的阿宁，谢谢“半亩”下的第一笔订单：6款手工皂各20块，共3600元，款已收到。接下来我会在10月9日（周五）前发货，发出后马上把物流单号发给您。麻烦在10月6日（周二）前告诉我收货地址和收货人电话，我好按时安排。随货会放一套试用装和陈列卡，方便店里给客人试用。有任何问题直接微信找我，工作日一般两小时内回复。",
    "lang": "zh",
    "note": "批发客户最关心什么时候到货、要准备什么：日期、要的信息和联系方式一次说清，第一条消息不推新品。"
+  },
+  {
+   "id": "customer-onboarding-and-welcome-026",
+   "situation": "Je suis Claire, prof de piano à domicile. M. Lefèvre, 62 ans, vient de payer un forfait de 10 cours (450 €) et m'a écrit qu'il a un peu honte de commencer si tard. Premier cours mardi 6 octobre à 10h chez lui ; avant lundi 5, j'ai besoin de savoir s'il a un piano ou un clavier et quels morceaux il rêve de jouer, et je réponds aux SMS dans la journée au 06 12 34 56 78.",
+   "reply": "Bonjour Monsieur Lefèvre, merci pour votre confiance, je me réjouis de commencer avec vous. Il n'y a aucune honte à avoir : on avancera à votre rythme. Votre premier cours a lieu mardi 6 octobre à 10h chez vous, et les 450 € du forfait de 10 cours sont bien reçus. D'ici lundi 5, pourriez-vous me dire si vous avez un piano ou un clavier, et quels morceaux vous rêvez de jouer ? Je préparerai le premier cours en fonction. Pour toute question, un SMS au 06 12 34 56 78, je réponds dans la journée. Claire",
+   "lang": "fr",
+   "note": "Il a exprimé une gêne : une phrase pour la lever, puis les étapes concrètes, sans en faire un discours."
   }
  ]
 }

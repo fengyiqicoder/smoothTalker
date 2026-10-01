@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -176,6 +176,13 @@
    "reply": "Subject: Decision date needed by Wed 7 Oct: permit BP-26-0912, 41 Mill Lane\nDear Ms. Hollis, our building permit application for 41 Mill Lane (ref BP-26-0912) went in on 3 August, and we were told to expect a decision in four to six weeks; it has now been more than eight. I emailed Mr. Grant on 15 and 24 September and haven't had a reply, and he knows I'm writing to you. Our contractor's crew is booked to start on 19 October and charges £400 a day if we hold them. Could you confirm the status and an expected decision date by Wednesday 7 October, or tell me who can? If anything is missing from the application, let me know and I'll send it within one working day.\nKind regards,\nDana Okafor",
    "lang": "en",
    "note": "With a public office, ask for a status and a date, not a yes; the cost of waiting is a fact, not a threat."
+  },
+  {
+   "id": "escalate-an-issue-026",
+   "situation": "I'm Hana Brooks, getting married at Willowmere Barn on Saturday 24 October. Our coordinator there, Chloe, hasn't answered my emails of 14 and 25 September asking for the final floor plan and confirmation that the 12 vegetarian meals are on the catering order, and the caterer needs final numbers by Friday 9 October. I left Chloe a voicemail yesterday saying I'd contact the venue manager, Greg Moss.",
+   "reply": "Subject: Confirmation needed by Wed 7 Oct: Brooks wedding, 24 October\nHi Greg, our wedding is at Willowmere Barn on Saturday 24 October. I emailed Chloe on 14 and 25 September asking for the final floor plan and confirmation that our 12 vegetarian meals are on the catering order, and haven't had a reply; I let her know yesterday that I'd be in touch with you. The caterer needs final numbers by Friday 9 October. Could you send the floor plan and confirm the vegetarian meals by Wednesday 7 October, or tell me who's handling our booking now? Thanks, Hana Brooks",
+   "lang": "en",
+   "note": "A personal event with a hard date: the ask lands two days before the caterer's cutoff, and Chloe hears it from you first."
   }
  ]
 }

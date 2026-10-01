@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -176,6 +176,13 @@
    "reply": "浩浩妈妈，今天聊得很细，看得出您对浩浩特别上心。就按我们说的，每天作业分三段，每段中间休息五分钟，先试一周。时间不早了，我先休息了，一周后您发条消息跟我说说效果就行。晚安！",
    "lang": "zh",
    "note": "老师跟家长聊天也可以自己收尾：一句总结、一个真实理由、一个明确的下次，最后不留问句。"
+  },
+  {
+   "id": "end-conversation-gracefully-026",
+   "situation": "Vivo en Madrid y mi primo Rodrigo, que vive en Ciudad de México, me escribe por WhatsApp cada noche a las 7 de su hora, que aquí son las 3 de la madrugada. Ahora mismo me está contando lo de su nuevo piso y yo entro a trabajar a las 8.",
+   "reply": "Primo, qué bien lo del piso, me alegro mucho. Aquí son las 3 de la madrugada y entro a trabajar a las 8, así que me voy a dormir. El sábado te llamo a las 10 de tu mañana y me lo enseñas por videollamada. Un abrazo.",
+   "lang": "es",
+   "note": "Con diferencia horaria, nombra tu hora y propone un momento que sirva a los dos; si sigue escribiendo, contesta mañana."
   }
  ]
 }

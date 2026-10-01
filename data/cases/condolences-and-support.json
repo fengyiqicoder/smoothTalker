@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -176,6 +176,13 @@
    "reply": "Dear Mr. Okoye,\nAll of us at Larkfield were so sorry to say goodbye to Pepper yesterday. Sixteen years of check-ups, and she purred on the exam table every single time, which hardly any cat does. We'll post her clay paw print to you next week, so there's nothing you need to do. No need to reply to this card.\nWith warm wishes,\nDr. Amara Bello and the Larkfield team",
    "lang": "en",
    "note": "From a business, the card is only for him: no invoice, no reminders, no booking prompts."
+  },
+  {
+   "id": "condolences-and-support-026",
+   "situation": "Ollie in my online D&D group posted in our Discord that his mum died on Tuesday. We've played every Wednesday night for three years but never met in person, and he once told us she taught him to play with her old dice. I run the game and want to DM him.",
+   "reply": "Ollie, I'm so sorry about your mum. I keep thinking about you telling us she taught you to play with her old dice, so in a way she's been at our table every Wednesday for three years. Don't give the campaign a thought; I'll tell the group we're pausing until you're ready to come back, whenever that is. No need to reply.",
+   "lang": "en",
+   "note": "An online-only friendship is still a real one: the memory can be something he told you, and the concrete offer is the thing you actually share."
   }
  ]
 }

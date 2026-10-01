@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -176,6 +176,13 @@
    "reply": "Jade, thank you so much for the invite. I can't make the shower on the 17th, but I'm so happy for you. Could I drop a little something round for the baby one evening next week?",
    "lang": "en",
    "note": "A private reason can stay private: 'I can't make it' is a complete and true answer, and the gift shows the no isn't about her."
+  },
+  {
+   "id": "decline-invitation-026",
+   "situation": "The senior partner at my firm, Richard, invited me and my husband out on his boat on Saturday 17 October. We keep weekends for our two kids, and I'd rather not give one up for work, even for him. I'm replying by email.",
+   "reply": "Thank you for the invitation, Richard, that's very generous of you. We won't be able to join on Saturday the 17th; we keep our weekends for the kids. I hope you get a calm, sunny day out on the water.",
+   "lang": "en",
+   "note": "Saying no up a steep power gap needs no counter-offer: one true reason, and warmth without grovelling. If he asks again, repeat it once."
   }
  ]
 }

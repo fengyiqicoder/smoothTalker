@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -176,6 +176,13 @@
    "reply": "Pat, Leo, I've got some news you won't love, and I wanted you to hear it from me before you get home. In last night's storm our big oak came down across your garden: about 4 metres of your back fence is flattened and the greenhouse is smashed. Nobody was hurt. I'm so sorry, I know this is the last thing you want to come back to. I reported it to my insurer this morning, a tree surgeon is clearing it on Saturday morning, and if insurance doesn't cover the fence and greenhouse, I'll pay for them myself. Photos below, and call me any time if you want to talk it through.",
    "lang": "en",
    "note": "Lead with the damage and that nobody was hurt, then what is already in motion; check the policy before saying what insurance will pay."
+  },
+  {
+   "id": "deliver-bad-news-026",
+   "situation": "My teammate and close friend Priya and I both applied for the senior analyst role, and I got it. Our manager, Tom, announces it Monday at 10am and said I could tell her first, so I'm telling her in person on Friday. She's been working towards that role for two years.",
+   "reply": "Priya, have you got five minutes? I wanted you to hear this from me before Monday: I got the senior analyst role. I know you've been working towards it for two years, and I'm not going to pretend that's easy news. Tom's announcing it on Monday at 10. You don't have to say anything now, and whenever you want to talk about it, or not, I'm around.",
+   "lang": "en",
+   "note": "When you are the good news that is their bad news, don't ask for congratulations or explain why you got it; say it plainly and let her react."
   }
  ]
 }

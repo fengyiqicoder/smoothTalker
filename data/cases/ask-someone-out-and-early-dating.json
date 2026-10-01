@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -175,6 +175,13 @@
    "reply": "I'm enjoying this and I'd rather keep it going in person. How about a drink at The Lantern on Thursday 8 October? I tend to pick places that work for my chair so neither of us has to think about it on the night, and that one's step-free. If Thursday's no good, tell me a night that is.",
    "lang": "en",
    "note": "Choosing the venue yourself, with one line on why, sets the logistics without making them the topic of the date."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-026",
+   "situation": "I've been on four dates with Camille since early September and it's going really well. My friend Julien is having birthday drinks on Saturday 10 October with about 20 people, and I'd love Camille to come, but it's early and I don't want her to feel paraded in front of my friends.",
+   "reply": "My friend Julien is having birthday drinks on Saturday 10 October, about 20 people, and I'd really like you to come with me. Totally casual: we can stay an hour and leave whenever you like. And if a big group of my friends feels like a lot this early, that's completely fine, we'll do something just the two of us that weekend instead.",
+   "lang": "en",
+   "note": "Inviting someone into your world early: a specific event, an easy exit on the night, and a no that still comes with a plan."
   }
  ]
 }

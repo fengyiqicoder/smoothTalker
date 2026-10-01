@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -176,6 +176,13 @@
    "reply": "Hi Laura, Max has asked us both for a games console for Christmas, about £280. Would you like to make it a joint present from both of us, £140 each, and we each do smaller gifts separately? I'm happy to order it and send you the receipt. Could you let me know by Sunday 1 November? Thanks.",
    "lang": "en",
    "note": "Leave last year's double scooter out of it; the proposal alone prevents a repeat without sounding like a complaint."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-026",
+   "situation": "My daughter Ella (9) came back from her mum Kate's on Sunday and told me 'Mum says you have to pay half of my £40 ballet costume by Friday.' Our agreement splits activity costs 50/50 and I'm happy to pay; I just want Kate to send me anything about costs directly instead of through Ella.",
+   "reply": "Hi Kate, Ella mentioned the £40 ballet costume. Happy to pay my half, £20: could you send me the receipt or the school's note, and I'll transfer it by Friday? Going forward, could anything about costs or plans come straight to me by message, so Ella doesn't have to carry it? Thanks.",
+   "lang": "en",
+   "note": "Pay the cost without fuss, then ask once for the direct channel, framed around Ella and with no comment on what was said to her."
   }
  ]
 }

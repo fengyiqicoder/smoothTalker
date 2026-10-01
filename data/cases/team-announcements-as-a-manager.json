@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -148,6 +148,13 @@
    "reply": "From Monday 2 November, we're moving from logging billable hours on Fridays to logging them daily in the time tracker. The reason: two clients disputed invoices last quarter, and we couldn't back up £38,000 of hours we'd billed. I agreed with this change. I know it can feel like being watched, so here is exactly how I'll use it: each week I'll look at totals per client, not at anyone's day-by-day hours. If daily logging clashes with how you work, tell me this week and we'll find a routine that fits. Questions here or in a 1:1, whichever you prefer.",
    "lang": "en",
    "note": "A policy that can feel like surveillance: give the real reason with the number, and say plainly what you will and won't look at."
+  },
+  {
+   "id": "team-announcements-as-a-manager-022",
+   "situation": "I manage a garden centre with 14 staff. Head office has decided no new holiday requests can be approved from Saturday 28 November to Thursday 24 December, our busiest weeks for Christmas trees; I agreed with it. Leave that's already approved stands, everyone gets at least one full weekend off in that period, and I'll post the December rota by Friday 16 October. Posting in our staff WhatsApp group.",
+   "reply": "Heads up on December: from Saturday 28 November to Thursday 24 December, no new holiday requests can be approved. Those are our busiest weeks with the Christmas trees, and I agreed with head office on this. Any leave I've already approved still stands. Everyone will get at least one full weekend off in that period, and I'll post the December rota by Friday 16 October. If this clashes with something important, like childcare or a family event, message me this week and we'll look at it together.",
+   "lang": "en",
+   "note": "A rule people won't love: what's protected (approved leave, a weekend each) goes right after the news, and the private route is for real clashes."
   }
  ]
 }

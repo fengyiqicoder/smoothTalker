@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -74,10 +74,17 @@
   },
   {
    "id": "thank-you-notes-011",
-   "situation": "Had my second-round interview yesterday for a senior product designer role at Northbeam with Elena Park, their head of design. She walked me through how they ran an accessibility audit on checkout and was very open about their messy legacy design system. Want to send a thank-you email today.",
+   "situation": "Had my second-round interview yesterday for a senior product designer role at Northbeam with Elena Park, their head of design. She walked me through how they ran an accessibility audit on checkout, with screen reader users testing in the room, and was very open about their messy legacy design system. Want to send a thank-you email today.",
    "reply": "Hi Elena,\nThank you for your time yesterday. Hearing how your team ran the accessibility audit on checkout, with screen reader users testing in the room, made the role much more concrete for me, and it's exactly the kind of work I want to be doing. I also appreciated how openly you talked about the legacy design system; it's the part of the job I'd most like to dig into. I'm looking forward to hearing about next steps.\nBest,\nJordan Lee",
    "lang": "en",
    "note": "A post-interview thank-you works when it names one real detail from the conversation, not a restated cover letter."
+  },
+  {
+   "id": "thank-you-notes-012",
+   "situation": "My daughter Maisie, 7, was terrified of putting her face in the water. Her swimming teacher, Coach Lena, spent the first three lessons just playing a 'blow bubbles at the fish' game with her on the steps, and last Saturday Maisie swam her first width. Her term ends next week and I want to give Lena a card.",
+   "reply": "Dear Lena,\nThank you for the patience you've shown Maisie this term. Those first three lessons of blowing bubbles at the fish on the steps were what made the difference, and on Saturday she swam her first width. She hasn't stopped talking about it since. Thank you for never rushing her. We'll see you next term.\nWith thanks,\nMaisie's mum",
+   "lang": "en",
+   "note": "For a teacher or coach, name the method that worked, not only the result, so they know what they did right."
   }
  ]
 }

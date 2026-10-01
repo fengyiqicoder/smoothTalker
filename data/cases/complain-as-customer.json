@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -176,6 +176,13 @@
    "reply": "Hi Colin,\nInvoice AR-30917, delivered Monday 28 September: all 12kg of the house espresso is stamped 'roasted 31 August' (photos of the labels attached), and our agreement has beans arriving within 7 days of roasting. The shots have been flat all week. I'd like 12kg of fresh-roasted house espresso to replace it, delivered with Monday's order at no charge. We order from you every week and want to keep doing so. Could you confirm by Friday 2 October?\nThanks,\nNina Shah, Little Fern Coffee, nina.shah@example.com",
    "lang": "en",
    "note": "As a business customer, point to the supply agreement rather than taste, and ask for the replacement to ride on the next regular delivery."
+  },
+  {
+   "id": "complain-as-customer-026",
+   "situation": "I'm Tom Becker. I ordered a $180 desk chair from Oakline Furniture on 2 September, order OL-55102, and it still hasn't arrived. I emailed on 10, 17 and 24 September with no reply, but they answer comments on their Instagram every day, so I want to post a public comment that gets a response without turning into a rant.",
+   "reply": "Hi Oakline, I ordered a desk chair on 2 September (order OL-55102, $180) and it hasn't arrived. I've emailed three times, on 10, 17 and 24 September, and haven't had a reply. Could someone DM me today so we can sort out delivery or a refund? Thanks, Tom",
+   "lang": "en",
+   "note": "In public, stay factual and keep contact details out of the comment; if it still goes unanswered, a chargeback for the $180 is the next step, so check your card provider's time limits."
   }
  ]
 }

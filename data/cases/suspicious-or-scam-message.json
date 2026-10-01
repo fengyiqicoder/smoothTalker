@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -78,6 +78,13 @@
    "reply": "Thanks, Mark. I'm interested, and I only pay a deposit after I've viewed a flat in person and signed a contract. I'm free to view this Saturday or Sunday; if you're away, an agent or friend showing it is fine.",
    "lang": "en",
    "note": "Money, urgency and no viewing is the classic rental scam; if he refuses a viewing, send nothing, stop replying and report the listing to Facebook."
+  },
+  {
+   "id": "suspicious-or-scam-message-012",
+   "situation": "Text from an unknown number: 'Hi Mum, dropped my phone in the sink, this is my new number. Can you pay a £480 bill for me today? My banking app won't work on this phone.' My son Jamie is 23 and his number is still saved in my phone. I want to check with him without replying to the new one.",
+   "reply": "Jamie, I've just had a text from a new number saying it's you, that you've broken your phone and need me to pay a £480 bill today. I haven't replied or paid anything. Is that really you? Ring me when you see this.",
+   "lang": "en",
+   "note": "Send this to his saved number or call it, never to the new one; until you've spoken to him, pay nothing, then block and report the new number to your carrier's spam service."
   }
  ]
 }

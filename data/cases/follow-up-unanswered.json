@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -176,6 +176,13 @@
    "reply": "Hey Callum, I know things get busy. Quick one on the tent: I need it for a camping trip leaving Friday 16 October. I can swing by yours to grab it, would Monday or Wednesday evening suit?",
    "lang": "en",
    "note": "Second nudge about your own item: the date you need it, the pickup made easy, and no guilt about the silence."
+  },
+  {
+   "id": "follow-up-unanswered-026",
+   "situation": "我家和隔壁赵叔家中间的院墙裂了一道缝，师傅看过，报价2400元。9月24日我在微信上问赵叔愿不愿意一家一半，他到现在没回。师傅说10月10日前定下来，月中就能来修。",
+   "reply": "赵叔，知道您这阵子忙。还是院墙那道裂缝的事：师傅报价2400元，我想的是两家一人一半。师傅要10月10日前定档期，您看是这个月修，还是等过阵子再说？哪个都行，回我一句我好跟师傅说。",
+   "lang": "zh",
+   "note": "第一次跟进：一句话重说事情，给两个好选的答案；他的沉默不等于同意，没回之前别替他定下来。"
   }
  ]
 }

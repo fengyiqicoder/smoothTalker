@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -176,6 +176,13 @@
    "reply": "Ah, tonton, toujours attentif. Je vais bien, et ma santé, je la garde pour moi. Alors, raconte-moi tes premières randonnées, tu es allé où ?",
    "lang": "fr",
    "note": "Aucun détail sur le traitement : chaque détail appelle une nouvelle question. S'il insiste, reprendre la même phrase presque mot pour mot."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-026",
+   "situation": "我前阵子在手臂上纹了一小枝桂花。国庆回老家吃饭，表姨一看见就当着一桌人问：“纹这个以后还怎么找工作？你妈也不管管？”表姨家今年刚换了新车，她特别爱聊。",
+   "reply": "哈哈，表姨眼尖。我喜欢，也想好了，您放心。对了，听说您家今年换了新车，开着感觉怎么样？",
+   "lang": "zh",
+   "note": "外表的事不解释、不辩护，也不接“你妈也不管管”这句；她再提，就原话再说一遍。"
   }
  ]
 }

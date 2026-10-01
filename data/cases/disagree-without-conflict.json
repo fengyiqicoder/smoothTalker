@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -176,6 +176,13 @@
    "reply": "Bea, I love that you want to go bold for the wedding, and platinum would really suit you. Where I land differently is doing it all on Saturday: your hair's been bleached twice this year and it snapped at the ends last time, so I'm worried about breakage two weeks before the 17th. Could we take you to a soft caramel blonde on Saturday and finish the platinum in a second session three weeks later? What's drawing you to platinum for this wedding in particular?",
    "lang": "en",
    "note": "Your professional judgement is the one reason; the question leaves room for what matters to her before you agree a plan."
+  },
+  {
+   "id": "disagree-without-conflict-026",
+   "situation": "部门同事群里，小刘提议给下个月退休的张师傅凑钱买礼物，每人500元，已经有三四个人回了“好”。我觉得心意到了就行，500元对刚来的几个实习生压力太大，想在群里提议每人随意、上限200元。",
+   "reply": "给张师傅送份礼物这个主意特别好，他带了我们这么多年，我也想表示一下。我这边有个小想法：每人500元对刚来的几个实习生可能压力有点大，要不改成每人随意、上限200元？心意到了就好。小刘，你定500元是已经看中了哪件礼物吗？有的话我们一起看看怎么凑。",
+   "lang": "zh",
+   "note": "在群里唱反调：先认同提议本身，只讲一个理由，再问发起人的考虑，给对方留台阶。"
   }
  ]
 }

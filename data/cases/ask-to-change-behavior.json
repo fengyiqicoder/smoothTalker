@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -176,6 +176,13 @@
    "reply": "Can I raise a small thing before Saturday, not a big deal? When we're out with your friends, the conversation goes fully into Portuguese for hours and I end up sitting there not following any of it. I don't want anyone switching to English for me. Could you just give me the gist now and then, or pull me in when something's funny? I'll keep working on my Portuguese.",
    "lang": "en",
    "note": "Ask the one person you can ask, for a small habit, rather than asking a whole group to change language."
+  },
+  {
+   "id": "ask-to-change-behavior-026",
+   "situation": "我的好朋友小周这个月两次把我跟她私聊的截图发到我们的大学同学群里，一次是我吐槽工作，一次是我说想换房子，她都是好心想帮我在群里问问。群里有二十多个人，我挺不自在的，想私下微信跟她说。",
+   "reply": "小周，跟你说个小事，不是生气哈。这个月你两次把我们私聊的截图发到同学群里，一次是我吐槽工作，一次是换房子的事，我知道你是想帮我问问。不过群里二十多个人，我看到的时候挺不自在的。以后我私聊跟你说的事，发群里之前能不能先问我一句？想帮我打听的话，直接在群里问、不带截图也完全可以。",
+   "lang": "zh",
+   "note": "先认下她的好意，只谈截图这一件事和自己的感受，再给她一个还能继续帮忙的办法。"
   }
  ]
 }

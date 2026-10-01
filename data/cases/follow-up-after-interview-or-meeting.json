@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -176,6 +176,13 @@
    "reply": "Hi Lucy,\nThanks for the conversation today, and for your questions about our on-call rota; they're exactly the ones we'd want an engineer here to ask. Next step: I'll send you a paid take-home task by Monday 5 October. It should take about four hours, pays $300, and you'll have a week from receiving it to complete it. After that comes a final call with our CTO, Mei. Let me know if any of that doesn't work for you.\nBest,\nRavi",
    "lang": "en",
    "note": "From the interviewer's side the shape is the same: one specific thing she said, then every next step with a date."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-026",
+   "situation": "I chair our school's parents' association and we met tonight about the winter fair on Saturday 28 November. We agreed: Joanne books the hall by Friday 9 October, Kofi asks local shops for raffle prizes by Friday 30 October, and I set up the volunteer sign-up sheet by Monday 12 October. Two people who couldn't come are in the WhatsApp group and I want everyone on the same page.",
+   "reply": "Hi all, thanks to everyone who came tonight. Quick recap for the winter fair on Saturday 28 November, including for those who couldn't make it:\n- Joanne: book the hall by Friday 9 October.\n- Kofi: ask local shops for raffle prizes by Friday 30 October.\n- Me: volunteer sign-up sheet in this group by Monday 12 October.\nShout if I've got anything wrong.",
+   "lang": "en",
+   "note": "In a volunteer group chat, the recap is also the briefing for anyone who missed the meeting; names and dates keep it from drifting."
   }
  ]
 }

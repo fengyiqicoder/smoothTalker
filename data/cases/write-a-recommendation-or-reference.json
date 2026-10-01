@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 11,
+ "count": 12,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -78,6 +78,13 @@
    "reply": "Dear Ms Carter,\nI'm writing in support of Ella Moore's application. Ella has babysat our two children, aged 5 and 8, about twice a month for the past year, so I know her as a neighbour and as someone we trust with our kids. She has never once been late, and when our son cut his hand on a glass last spring, she cleaned and bandaged it calmly and called us straight away with a clear update. I'd expect her to be just as reliable behind a café counter, and I recommend her warmly. I'm happy to talk on 07700 900312.\nKind regards,\nDaniel Price",
    "lang": "en",
    "note": "With no work history, a personal reference does what a CV can't: a pattern of reliability and one moment under pressure."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-012",
+   "situation": "I'm Rosa Delgado, volunteer coordinator at the Eastside Community Pantry. Kenji Mori has volunteered with us every Saturday for two years and is applying for a Master of Social Work at Ridgeway University. I saw him set up our Saturday intake desk, which cut the morning queue from about 45 minutes to 20, and he trained six new volunteers. I only see him on Saturdays and know nothing about his academic work. My contact is 555-018-7734 or rosa.delgado@example.com.",
+   "reply": "Dear Admissions Committee,\nI'm pleased to recommend Kenji Mori for the Master of Social Work. As volunteer coordinator at the Eastside Community Pantry, I have worked with Kenji every Saturday for two years. He set up our Saturday intake desk, which cut the morning queue from about 45 minutes to 20, and he has trained six new volunteers. I know Kenji through his volunteering, not his academic work, so I'll leave that to his other referees. For a programme built on practical work with people in need, I recommend him strongly. I'd be glad to talk further: 555-018-7734 or rosa.delgado@example.com.\nSincerely,\nRosa Delgado",
+   "lang": "en",
+   "note": "A volunteer reference: say exactly where you saw him, give the evidence you have, and name what you didn't see instead of guessing."
   }
  ]
 }

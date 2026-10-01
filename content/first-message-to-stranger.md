@@ -39,7 +39,7 @@ They reply. That requires: it is clearly about them, it is easy to answer, and i
 > Hi Rosa, your talk on onboarding flows at Config changed how we run our first-week emails; the "delay the tour" idea alone moved our activation rate. I'm building something similar for a nonprofit and had one specific question: how long did you wait before the first check-in email? Would you be open to a two-line reply? Totally understand if not.
 
 **Networking, someone at a company you're interested in:**
-> Hi Dev, I saw you moved to Monzo last year. I'm looking at a similar move and would love 15 minutes of your honest take on the culture, at a time that suits you. Happy to send questions in advance so it's quick.
+> Hi Dev, I saw you moved to Larkfield Bank last year. I'm looking at a similar move and would love 15 minutes of your honest take on the culture, at a time that suits you. Happy to send questions in advance so it's quick.
 
 **Community (forum, Discord, hobby group):**
 > Your write-up on sourdough hydration was the first one that actually made it click for me. Quick question if you have a sec: do you drop to 70% for rye?

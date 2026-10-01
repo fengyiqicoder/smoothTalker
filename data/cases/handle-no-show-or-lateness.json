@@ -5,7 +5,7 @@
   {
    "id": "handle-no-show-or-lateness-001",
    "situation": "Plumber was booked for 8am to fix our leaking water heater. I took the morning off, it's 10 now and nobody showed or called. The company is Apex Plumbing, the scheduler was Tina.",
-   "reply": "Hi Tina, Apex was booked for 8am today to repair the water heater at 45 Linden St, and nobody arrived or called. I took the morning off for this. Can you confirm a new time by end of day tomorrow? If I don't hear back by then, I'll book another plumber.",
+   "reply": "Hi Tina, Apex was booked for 8am today to repair our water heater, and nobody arrived or called. I took the morning off for this. Can you confirm a new time by end of day tomorrow? If I don't hear back by then, I'll book another plumber.",
    "lang": "en",
    "note": "Factual and dated, with the consequence stated once, not threatened."
   },
@@ -18,15 +18,15 @@
   },
   {
    "id": "handle-no-show-or-lateness-003",
-   "situation": "I completely forgot a 9am discovery call with a potential client, Amanda, who runs a group of dental clinics. She just emailed 'Did I have the wrong time?' I'm a freelance web designer.",
+   "situation": "I completely forgot a 9am discovery call with a potential client, Amanda, who runs a group of dental clinics and wants her online booking page redone. She just emailed 'Did I have the wrong time?' I'm a freelance web designer.",
    "reply": "Hi Amanda, you had the right time. I missed our 9am call and I'm sorry, you set aside the start of your morning and I wasn't there. Could we do Thursday at 9 or Friday at 1? I'll bring a first-pass review of your online booking page so the time is well spent.",
    "lang": "en",
    "note": "Take the blame off her first, then offer two slots so she doesn't do the rescheduling work."
   },
   {
    "id": "handle-no-show-or-lateness-004",
-   "situation": "I'm a private math tutor. A parent, Mrs. Alvarez, cancelled her son's session 2 hours before the start, second time this month. My policy, which she signed, is 24 hours' notice or the full $60 is charged. She just texted that charging for a cancellation is ridiculous.",
-   "reply": "Hi Mrs. Alvarez, I understand it's frustrating, especially in a busy week. The 24-hour policy is in the agreement you signed in September, and I apply it to every family, so today's $60 charge stands. I'd like to keep Mateo's momentum going before his unit test: I have Thursday at 5pm or Saturday at 10am open this week. Which suits you better?",
+   "situation": "I'm a private math tutor. A parent, Mrs. Alvarez, cancelled her son Mateo's session 2 hours before the start, second time this month. My policy, which she signed, is 24 hours' notice or the full $60 is charged. She just texted that charging for a cancellation is ridiculous.",
+   "reply": "Hi Mrs. Alvarez, I understand it's frustrating. The 24-hour policy is in the agreement you signed, and I apply it to every family, so today's $60 charge stands. I'd like to keep Mateo's momentum going: I have Thursday at 5pm or Saturday at 10am open this week. Which suits you better?",
    "lang": "en",
    "note": "When a client argues the fee: restate the policy once, apply it evenly, and move straight to rebooking. Waiving it for the loudest parent teaches everyone else."
   },
@@ -35,7 +35,7 @@
    "situation": "朋友介绍的相亲，约了今晚7点在一家叫山海小馆的餐厅见面。现在7点25了，对方还没到，也没发消息。我不想显得很生气，也不想一直干等。",
    "reply": "你好，我已经到山海小馆了，坐在靠窗的位置。路上还顺利吧？我等到7点45，要是今天赶不过来也没关系，我们改天再约。",
    "lang": "zh",
-   "note": "First meeting, one-off: assume good faith, state your cut-off time, and leave an easy way to rebook."
+   "note": "第一次见面、偶尔一次：先往好处想，说清你等到几点，再留一个轻松改约的台阶。"
   },
   {
    "id": "handle-no-show-or-lateness-006",
@@ -47,14 +47,14 @@
   {
    "id": "handle-no-show-or-lateness-007",
    "situation": "Mon amie Claire arrive toujours avec 30 à 40 minutes de retard. On a réservé un resto vendredi 2 octobre à 20h. Je ne veux pas me fâcher, mais je ne veux plus attendre seule devant une carafe d'eau.",
-   "reply": "J'ai réservé chez Paulette vendredi à 20h ! Je te préviens gentiment : à 20h15 je commande, que tu sois là ou pas, comme ça je ne reste pas devant une assiette vide. Hâte de te voir !",
+   "reply": "J'ai réservé pour vendredi à 20h ! Je te préviens gentiment : à 20h15 je commande, que tu sois là ou pas, comme ça je ne reste pas devant une assiette vide. Hâte de te voir !",
    "lang": "fr",
    "note": "Dire ce que tu vas faire, pas ce qu'elle doit faire, et le dire avant le dîner plutôt qu'après 40 minutes d'attente."
   },
   {
    "id": "handle-no-show-or-lateness-008",
    "situation": "In August I told my friend Megan her last-minute cancelling was getting to me, and we agreed to try short weekday coffees. She's cancelled two of those since, the latest an hour before today's. I'm done booking ahead with her, but I don't want to end the friendship.",
-   "reply": "No stress at all, hope your day calms down. I'm going to stop booking things in advance for now, it's easier on both of us. But if you're ever free last minute, text me and I'll come if I can.",
+   "reply": "No stress at all, hope everything's okay. I'm going to stop booking things in advance for now, it's easier on both of us. But if you're ever free last minute, text me and I'll come if I can.",
    "lang": "en",
    "note": "After naming the pattern once, you change how you plan, not the friendship. Say it once, without heat, and don't list the cancellations again."
   },
@@ -81,14 +81,14 @@
   },
   {
    "id": "handle-no-show-or-lateness-012",
-   "situation": "我是奶茶店店长。店员小李这两周早班迟到了三次，9月17日、22日和今天，每次20分钟左右，开店时就我一个人手忙脚乱。他平时干活挺好的，想在微信上跟他说一下。",
+   "situation": "我是奶茶店店长。店员小李这两周9点开店的早班迟到了三次，9月17日、22日和今天，每次20分钟左右，开店时就我一个人手忙脚乱。他平时干活挺好的，想在微信上跟他说一下。",
    "reply": "小李，你平时干活我一直挺放心的。想跟你说个事：这两周早班迟到了三次，9月17日、22日和今天，每次20分钟左右，开店那会儿就我一个人顶着，实在忙不过来。以后早班请8点45前到，万一要迟到，提前半小时给我发个消息。如果9点的早班对你来说确实难赶，直接跟我说，我们看看排班能不能调。",
    "lang": "zh",
    "note": "对员工也是对人温和、对规律清楚：给具体日期，不说“老是”；讲清期待，再留一个可以商量的出口，不追问为什么。"
   },
   {
    "id": "handle-no-show-or-lateness-013",
-   "situation": "I own a café and had an interview booked with a barista candidate, Jordan, yesterday at 3pm. He didn't show or message. His CV is strong and we're short-staffed, so I'm open to one more try.",
+   "situation": "I own a café, Hearth Coffee, and had an interview booked with a barista candidate, Jordan, yesterday at 3pm. He didn't show or message. His CV is strong and we're short-staffed, so I'm open to one more try.",
    "reply": "Hi Jordan, we had your interview at Hearth Coffee booked for 3pm yesterday, and I waited until 3:20. Hope everything's okay. I'm still keen to talk, and I can do Friday 2 October at 10am. If that works, reply to confirm by tomorrow evening, and if you've taken another job, a quick note is completely fine too.",
    "lang": "en",
    "note": "One second chance, one slot, no lecture. If he misses this one too, move on without another message."
@@ -96,7 +96,7 @@
   {
    "id": "handle-no-show-or-lateness-014",
    "situation": "University group project, four of us, presenting on Thursday October 8. Our teammate Ravi missed both rehearsals this week, Monday and yesterday, without a message, and he has the market analysis slides. I want to message him directly, not in the group chat.",
-   "reply": "Hey Ravi, hope you're okay. You missed Monday's and yesterday's rehearsals without a message, and we still haven't seen the market analysis slides. We need them in the shared deck by Saturday 3 October at 6pm so we can run the full thing on Monday. If something's going on, tell me by tomorrow and we'll split it differently. If I haven't heard anything by Saturday, Mei and I will write that section ourselves so we're ready.",
+   "reply": "Hey Ravi, hope you're okay. You missed Monday's and yesterday's rehearsals without a message, and we still haven't seen the market analysis slides. We need them in the shared deck by Saturday 3 October at 6pm so we can run the full thing on Monday. If something's going on, tell me by tomorrow and we'll split it differently. If I haven't heard anything by Saturday, the rest of us will write that section ourselves so we're ready.",
    "lang": "en",
    "note": "Peer no-show: check they're okay, give a dated need, and say what you will do if you hear nothing, not what they must do."
   },

@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -176,6 +176,13 @@
    "reply": "鈴木様\nいつもお世話になっております。青木です。パンフレットの件、細かくご確認いただきありがとうございます。今後の確認事項は、お手数ですがメールでまとめてお送りいただけますでしょうか。いただいた分は当日中にお返事いたします。お電話のほうが早い内容は、毎週火曜・木曜の16時から15分ほどお時間をお取りしますので、その枠でご連絡いただけると助かります。この進め方でいかがでしょうか。",
    "lang": "ja",
    "note": "電話そのものを断るのではなく、メールと決まった時間枠という代わりの手段を示すと角が立ちません。"
+  },
+  {
+   "id": "decline-meeting-or-protect-time-026",
+   "situation": "I'm a freelance developer billing £70 an hour to a retail client. Their marketing lead, Priya, has added me to their hour-long Monday 9am all-hands, which isn't in our agreement, just so I can give a two-minute update on the checkout build. I'd rather send a written update every Friday by 4pm, and join only if they want it billed at my usual rate.",
+   "reply": "Hi Priya, thanks for including me. I'll skip the Monday all-hands; instead I'll send you a short written update on the checkout build every Friday by 4pm, so it's ready for Monday. If you'd like me there in person for a particular week, I'm happy to join, billed at my usual £70 an hour. Does that work?",
+   "lang": "en",
+   "note": "For a contractor, the meeting is billable time: offer the free written version and price the live one, without a lecture about scope."
   }
  ]
 }
