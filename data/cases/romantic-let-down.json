@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -162,6 +162,13 @@
    "reply": "Hallo Jonas, du hast nichts falsch gemacht, und es tut mir leid, dass ich einfach abgetaucht bin. Das war nicht fair von mir. Die beiden Abende waren nett, aber ich spüre keine romantische Verbindung und möchte es nicht weiterführen. Alles Gute für dich.",
    "lang": "de",
    "note": "Wer geghostet hat, entschuldigt sich einmal kurz für das Schweigen und sagt dann trotzdem klar nein."
+  },
+  {
+   "id": "romantic-let-down-024",
+   "situation": "大学同班的男生阿航昨晚在宿舍楼下跟我表白，还塞给我一副新耳机，大概1200块。我对他没有那种感觉，也不想收这么贵的礼物。我们俩在同一个小组做课程项目，要做到12月。",
+   "reply": "阿航，谢谢你昨晚这么认真地跟我说，我知道这需要勇气。不过我对你没有那种感觉，所以我的回答是不。耳机太贵重了，我不能收，明天上课前还给你。小组项目我们照常做，我这部分会按时完成。",
+   "lang": "zh",
+   "note": "贵重礼物一起退回，免得“收了礼物”被当成还有可能；共同的项目照常进行，彼此都不用尴尬。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -162,6 +162,13 @@
    "reply": "Fair point, Bex, and I know it's me. I've missed three of the last four Wednesdays and I should have told you why: my night shifts changed in September. They change back in November and I'll be at every session from then. Until then it's your call whether I start on Sundays, and I'm fine either way. I'll message you directly so we don't clog the chat.",
    "lang": "en",
    "note": "Criticism aimed at you without your name: say 'it's me' first, give the one fact she was missing, hand her the decision, and move the rest out of the group."
+  },
+  {
+   "id": "respond-to-criticism-024",
+   "situation": "I was best man at my brother Owen's wedding on Saturday. Today his wife Rhiannon told me my speech hurt her: I told the story about Owen's ex turning up at his 30th, with her parents sitting right there. That story was a mistake, but I don't agree the whole speech was 'about me', since most of it was about the two of them. I want to text her.",
+   "reply": "Rhiannon, thank you for telling me straight. You're right about the story about Owen's ex: it had no place at your wedding, least of all with your parents sitting there, and I'm sorry. I see the rest of the speech a bit differently, since I meant it to be about you and Owen, but I'd like to understand what made it feel otherwise. Could I take you both for lunch next weekend and say this properly?",
+   "lang": "en",
+   "note": "Own the specific thing fully, disagree once in a clause, and ask rather than argue; she's family for life."
   }
  ]
 }

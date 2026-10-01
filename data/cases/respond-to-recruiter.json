@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -162,6 +162,13 @@
    "reply": "赵先生您好，谢谢您想到我。这个岗位我很感兴趣，不过上周五我已经在他们官网直接投递了，为了避免重复推荐，这次就不麻烦您了。以后有其他市场经理方向的机会，欢迎随时联系我。",
    "lang": "zh",
    "note": "已经自己投过的岗位要在第一句就说清，免得公司收到两份简历、说不清是谁推荐的。"
+  },
+  {
+   "id": "respond-to-recruiter-024",
+   "situation": "My old teammate Ellie moved into recruiting last year and just messaged me on WhatsApp about a product manager role at a retail startup she's hiring for. I'm happy in my job and not looking, but I don't want it to be weird: we get dinner every couple of months and the next one is Friday 9 October.",
+   "reply": "Thanks for thinking of me, Ellie! This one's a no from me: I'm happy where I am and not looking right now. If that changes, you'll be the first recruiter I call, and I'm glad to pass the role on to anyone I know who'd fit. See you at dinner on Friday 9 October, I want to hear how the new job is going.",
+   "lang": "en",
+   "note": "With a friend who recruits, answer the role like any recruiter's in the first two lines, then keep the friendship separate from it."
   }
  ]
 }

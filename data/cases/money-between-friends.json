@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -162,6 +162,13 @@
    "reply": "阿琳，礼物的事辛苦你张罗啦！先跟你说下我这边：这次我最多能出400，1000我出不了。要是大家还是每人1000买咖啡机，我就自己另外准备一份小礼物，不影响你们；要是愿意各自按能出的凑，也可以换个预算低一点的礼物。你看哪种方便都行。",
    "lang": "zh",
    "note": "私下跟组织的人说，直接给出自己能出的数字，不解释家里的账，再给两个不让别人为难的办法。"
+  },
+  {
+   "id": "money-between-friends-024",
+   "situation": "Meine Freundin Lena nimmt mich seit Anfang September jeden Morgen im Auto mit zur Arbeit, wir arbeiten im selben Gewerbegebiet, rund 40 Kilometer am Tag. Sie will kein Geld, aber mir ist das unangenehm. Ich möchte ihr ab Oktober 60 Euro im Monat fürs Benzin geben, immer am Monatsanfang per Überweisung.",
+   "reply": "Hey Lena, ich wollte kurz was ansprechen: Du nimmst mich seit September jeden Morgen mit, das sind rund 40 Kilometer am Tag, und ich bin dir echt dankbar dafür. Ich möchte mich am Benzin beteiligen, mit 60 Euro im Monat, ab Oktober immer am Monatsanfang per Überweisung. Das ist keine Bezahlung für einen Gefallen, so fühle ich mich beim Mitfahren einfach wohler. Wenn dir eine andere Summe fairer vorkommt, sag Bescheid.",
+   "lang": "de",
+   "note": "Wer mitfährt, schlägt selbst eine feste Zahl und einen Rhythmus vor; so wird aus einem Gefallen keine stille Schuld."
   }
  ]
 }

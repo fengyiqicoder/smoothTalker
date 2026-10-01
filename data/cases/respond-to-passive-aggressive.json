@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -162,6 +162,13 @@
    "reply": "That's fair, Maya, and I'm sorry. I promised I'd be at your final and I let a meeting come first, which isn't how I want it to be. Can I come up and say this properly, and hear how the match went?",
    "lang": "en",
    "note": "The dig wraps a real grievance: deal with the contents, don't defend the meeting, and move to face to face."
+  },
+  {
+   "id": "respond-to-passive-aggressive-024",
+   "situation": "For my 30th last Saturday I had a tiny dinner at home for six: mostly family plus my two oldest friends. My friend Bella, who I see at our monthly book club, saw the photos and texted 'Looks like a lovely party, guess my invite got lost in the post 🙃'. Book club is next Thursday, and I'd genuinely like to have a birthday drink with her.",
+   "reply": "It was a really lovely evening, thank you! It was just a tiny dinner at home for six, mostly family, so no invites went out beyond that. I'd love to celebrate with you too, though: fancy a birthday drink before book club on Thursday the 8th?",
+   "lang": "en",
+   "note": "Take it at face value with the honest reason in one line; no long defence of the guest list, and a real invite so the dig has nowhere to go."
   }
  ]
 }

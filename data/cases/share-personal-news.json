@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -162,6 +162,13 @@
    "reply": "Dear Ms Rivera, I wanted to let you know that Leo's dad and I are separating, and Dan moves out on Saturday 10 October. We told Leo last weekend, but he may be more tired or upset than usual over the next few weeks. Please don't raise it with him unless he brings it up himself, and I'd be grateful if it stays between us. If you notice anything, I'd really like to hear, just reply to this email. Thank you, Kate",
    "lang": "en",
    "note": "Telling someone who looks after your child: the fact, what they might see, and exactly how you'd like them to handle it."
+  },
+  {
+   "id": "share-personal-news-024",
+   "situation": "我被医生诊断为中度抑郁，从10月12日（周一）开始请三个月病假，按医生的方案吃药和做心理咨询，人还好，就是很累。想在我和小敏、阿琳的三人群里说一声，不想被劝“想开点”，更希望她们偶尔约我出去走走。",
+   "reply": "想跟你们说件事，打字说比较容易：我被诊断为中度抑郁，从10月12日开始请三个月病假，在按医生的方案吃药和做心理咨询。我还好，就是很累。不用想怎么安慰我，也不用劝我想开点，你们偶尔约我出去走走，我就很感激了。这周末谁有空，一起去公园散散步？",
+   "lang": "zh",
+   "note": "直接说清想要的是陪伴而不是建议；如果情况变糟或出现伤害自己的念头，马上联系医生或当地心理援助热线，有危险时直接打急救电话。"
   }
  ]
 }

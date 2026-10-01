@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -161,6 +161,13 @@
    "reply": "Hi Rachel, thanks for calling me yourself today; I'd much rather hear it from you than from an email. Going with someone internal makes complete sense, and no hard feelings at all. If another lead role opens on your team, I'd like to be considered. Our next coffee is still on me.",
    "lang": "en",
    "note": "With a former boss, protect the friendship first: say the no changes nothing between you, then make one small ask."
+  },
+  {
+   "id": "respond-to-job-rejection-024",
+   "situation": "我写了一部二十万字的悬疑小说，投给一家出版社，编辑周老师读完了全稿，还跟我通了半小时电话，她提的修改建议我觉得很有用。今天她发邮件说选题会没通过，说这类题材今年做得比较多。我在写下一本，也是悬疑，想以后还能投给她。",
+   "reply": "周老师您好，谢谢您告诉我结果，也谢谢您读完了全稿，还专门花半小时跟我通电话，您提的修改建议对我很有用。选题会的决定我理解。我正在写下一本悬疑，写完以后可以再发给您看看吗？不方便的话不用回复。祝工作顺利。",
+   "lang": "zh",
+   "note": "退稿多半是选题时机的问题：谢她读全稿和那通电话，只提一个请求，不问为什么。"
   }
  ]
 }

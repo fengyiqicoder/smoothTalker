@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -162,6 +162,13 @@
    "reply": "陈先生您好，您的三人沙发（订单尾号6630）原定10月9日（周五）上午送装，我们这边排不上了，是我们车队排期出了错，先跟您说一声。我知道您那天特意请了假，真的很抱歉。现在可以改到10月10日（周六）上午，或者10月12日（周一）以后您挑任意一天；如果不想再等，也可以全额退款，当天原路退回。这次的200元送装费我们免掉。10月7日前没收到您回复的话，我就先给您留着10日上午。客服小吴",
    "lang": "zh",
    "note": "上门送装的延误，代价是客户为此请的假：先认这一点，再给新日期、退款和默认安排。"
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-024",
+   "situation": "I'm Ruth and I run a small plant nursery. Mr Patel ordered three bare-root apple trees (order 0412, £135) for delivery on Saturday 3 October, but our grower has pushed them to Saturday 17 October. He doesn't use email, so I'm leaving a voicemail; I can deliver three potted apple trees this Saturday at no extra cost instead, and my number is 01632 960472.",
+   "reply": "Hello Mr Patel, it's Ruth from the nursery, about your order 0412, the three apple trees. They won't make Saturday 3 October: our grower has moved the bare-root trees to Saturday 17 October, and we'd deliver yours that day. If you'd rather not wait, I can bring three potted apple trees this Saturday at no extra cost, or refund your £135 in full. If I don't hear from you, I'll keep your order for the 17th. My number is 01632 960472, again, 01632 960472. I'll ring you on Monday either way.",
+   "lang": "en",
+   "note": "On a voicemail, lead with who you are and which order, keep the options short, and say the number twice."
   }
  ]
 }

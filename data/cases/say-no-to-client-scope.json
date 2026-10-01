@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Noah, thanks for telling me early about the budget, that helps. The $2,500 covers all ten pages, so I can't do the full set for $1,800. What fits your budget is seven pages for $1,750: the four you have plus three more you pick, with the last three added later at the same $250 each. Would you like to go that way, or keep all ten as planned?",
    "lang": "en",
    "note": "When the budget shrinks, cut the scope, not the rate; a lower rate now becomes the rate forever."
+  },
+  {
+   "id": "say-no-to-client-scope-024",
+   "situation": "我是自由开发者，给一家烘焙店做的官网7月上线，合同约定上线后30天内免费修bug，之后的修改按每小时300元收费。现在店长孙姐说网站“有点小问题”，要把首页轮播图换成视频、再加一个预约页面。这两项都不是bug，大概要6小时。",
+   "reply": "孙姐，店里要上视频和预约，挺好的。这两项是新功能，不是bug：合同里上线后30天的免费修复期已经过了，之后的修改按每小时300元算。首页换视频加预约页面大概6小时，一共1800元，您确认后我10月9日（周五）前做完。如果网站有真出错的地方，您随时截图发我，我先帮您看看。您看这样可以吗？",
+   "lang": "zh",
+   "note": "把“bug”和“新功能”分开说，免费修复期按合同写的来，价格和交付日期一次说清再让对方决定。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "small-talk-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Ben, I'm Claire. I remember your library project from your portfolio, the reading room with the north light. What got you interested in libraries?",
    "lang": "en",
    "note": "When you're the senior one, ask about something they're proud of and let them talk; share one small thing back so it doesn't feel like an interview."
+  },
+  {
+   "id": "small-talk-024",
+   "situation": "坐高铁从北京去上海，要五个多小时。邻座是个三十岁左右的女生，在看迟子建的《额尔古纳河右岸》，这本我去年读过，特别喜欢。想聊两句，又怕打扰她看书。",
+   "reply": "不好意思打扰一下，你在看《额尔古纳河右岸》呀？这本我去年读的，特别喜欢。你看到哪儿了？我保证不剧透，你想接着看书就当我没说哈。",
+   "lang": "zh",
+   "note": "在出不去的空间里搭话，开口就给对方一个轻松的台阶；她回得短，就让她安心看书。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -162,6 +162,13 @@
    "reply": "小周，想请你帮个忙：能不能帮我问问沈岚老师，愿不愿意11月来我们读书会做一次分享？如果你觉得不方便开口，或者她最近太忙，直接说就好，完全没关系。\n方便的话，下面这段可以直接转给她：“沈老师，介绍一下我朋友林晓，她在杭州办了一个公益读书会，每月一次，大概40人参加。她想请您11月来做一次一小时左右的分享，没有讲课费，往返高铁票和一晚住宿由读书会承担，时间按您方便来定。”\n不管结果怎样，我都会跟你说一声。",
    "lang": "zh",
    "note": "请人引荐去做无偿的事：在可转发的那段里写明没有讲课费和能提供什么，编辑朋友开口时就不用替你打圆场。"
+  },
+  {
+   "id": "request-intro-or-referral-024",
+   "situation": "Soy Inés y me mudo a Madrid en noviembre por trabajo. Mi amiga Carmen me contó que su tío Andrés alquila un estudio en Lavapiés que queda libre el 1 de noviembre. Quiero pedirle a Carmen que me presente: puedo pagar hasta 850 € al mes, tengo contrato indefinido y puedo enseñar mis últimas nóminas.",
+   "reply": "Carmen, ¿te puedo pedir un favor? ¿Me presentarías a tu tío Andrés por lo del estudio de Lavapiés que queda libre el 1 de noviembre? Si te resulta incómodo meterte en temas de alquiler con la familia, dímelo sin problema, lo entiendo perfectamente.\nSi te parece bien, aquí tienes un mensaje para reenviarle:\n«Andrés, te presento a mi amiga Inés. Se muda a Madrid en noviembre por trabajo, tiene contrato indefinido y puede enseñarte sus últimas nóminas. Busca un estudio de hasta 850 € al mes y le encantaría ver el tuyo. ¿Te paso su número?»\nTe cuento cómo va, salga o no. ¡Gracias!\nInés",
+   "lang": "es",
+   "note": "Presentación a un casero conocido: el texto reenviable lleva lo que a él le importa (solvencia y fechas), y la salida protege la relación familiar de Carmen."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -162,6 +162,13 @@
    "reply": "901的邻居您好，我是对门902的小郑。最近晚上看到电动车在楼道里充电，一充就是一整夜。楼道是大家的逃生通道，电池充电万一出问题，我们两家在同一层，挺让人担心的。物业公告里也写了楼道不能充电，楼下院子里有充电桩，以后能麻烦您推到楼下去充吗？您家要是有什么需要帮忙的，也随时敲我家门。",
    "lang": "zh",
    "note": "安全问题也先友好地直接说；一旦闻到焦味或看到冒烟，马上离开并打119。没改善再找物业，并提前告诉对方。"
+  },
+  {
+   "id": "neighbour-disputes-024",
+   "situation": "I'm Megan at number 5. Our neighbours at number 7, Paul and Gita, had a heat pump installed last month on their side wall, about two metres from our bedroom window, and it hums loudly most nights from about 11pm to 6am. We get on fine but have never had to raise anything like this, and I want to put a note through their door.",
+   "reply": "Hi Paul and Gita, it's Megan from number 5. You probably can't hear it from inside, but the new heat pump on your side wall is about two metres from our bedroom window, and it hums quite loudly most nights from around 11pm to 6am. Would you be willing to ask your installer whether it has a quiet or night mode, or whether a screen would help? I'm happy to pop round and talk it through, and do tell me if anything from our side ever bothers you. Megan",
+   "lang": "en",
+   "note": "Ask them to check with their installer, not to switch it off; if nothing changes, check local guidance on noise and tell them before you go to the council."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Daniel, I hope the job search goes well. I'm not going to put in a referral, and I'd rather say that clearly than leave it hanging. The role is open on the Larkfield careers page, so you can apply there directly. Take care.",
    "lang": "en",
    "note": "A work favour from an ex still gets a kind full stop: no reason, no comment on whether he'd be good at it, and the public route instead of your name."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-024",
+   "situation": "男朋友阿哲昨晚发微信跟我分手，说在一起两年，觉得我们越来越像室友，不想再拖下去。我很难过，但不想求他，也不想吵。他还有一把吉他和几件衣服在我家，我这周六下午都在家，小区门卫也可以代收代取。",
+   "reply": "你的消息我看到了。我很难过，但我尊重你的决定，不会再争取。你的吉他和衣服我收好了，这周六下午我都在家，你可以过来拿；不想见面的话，我放在小区门卫那里也行。你选一个告诉我。",
+   "lang": "zh",
+   "note": "被分手的一方也适用“清楚就是善意”：一句感受，一句接受，剩下只谈东西怎么还，不追问原因。"
   }
  ]
 }

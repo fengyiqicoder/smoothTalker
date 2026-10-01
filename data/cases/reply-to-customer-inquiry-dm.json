@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -162,6 +162,13 @@
    "reply": "Bonjour Camille ! Oui, la chambre du jardin est libre les nuits du vendredi 16 et du samedi 17 octobre, et le petit-déjeuner est compris. C'est 85 € la nuit pour deux, plus 10 € la nuit pour votre chien, soit 190 € pour le week-end. Le jardin est clos, il pourra s'y dégourdir les pattes. Je vous bloque la chambre ?",
    "lang": "fr",
    "note": "Plusieurs questions dans un message : répondre à chacune dans l'ordre, faire le total à sa place, puis une seule question pour réserver."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-024",
+   "situation": "我在杭州做私人写真摄影，单人写真套餐1880元，含2小时拍摄和30张精修。有人在小红书私信：“这个套餐可以分期吗？一次拿不出这么多。”我的做法是先付500元定金锁档期，拍摄当天付清剩下的1380元，不做更多分期。",
+   "reply": "可以分两次付：先付500元定金锁定档期，剩下的1380元拍摄当天付清就行，再细分的分期我这边暂时不做。套餐含2小时拍摄和30张精修。你大概想约哪个月拍？我帮你看看档期。",
+   "lang": "zh",
+   "note": "被问能不能分期，先给一个能做到的付款方式，说清界限，不评价对方的预算。"
   }
  ]
 }

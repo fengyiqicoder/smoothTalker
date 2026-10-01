@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Mrs Kerr, you'd already driven two hours with your boys when my 7am text cancelled this morning's tour, and you found out in the car park. That's a wasted morning and a long drive home, and I'm sorry. The forecast changed at 6:30 to gusts of 35 knots, which is too strong to take beginners out safely, so the cancellation had to stand. I've refunded your $270 in full today, and I'd love to have all three of you out on the water as my guests any weekend in October; just reply with a date that suits. I'm Iona, the owner, and you can reach me directly on 07700 900318.",
    "lang": "en",
    "note": "Sorry for the impact, not for the safety call: hold the decision in one plain line and let the make-good do the rest."
+  },
+  {
+   "id": "respond-to-angry-customer-024",
+   "situation": "I'm Joe, owner of Kettle & Crumb café. A customer, Mrs Nowak, emailed furious that on Tuesday morning our barista repeated her order back in a mocking imitation of her Polish accent, and people in the queue laughed. I've spoken to the barista and he doesn't deny it; I'll talk to the whole team this week, and I want to offer her free coffee for a month. My number is 0161 496 0712.",
+   "reply": "Dear Mrs Nowak,\nOn Tuesday morning one of our baristas repeated your order back in a mocking imitation of your accent, in front of a queue, and people laughed. That was humiliating, it should never happen in my café, and I'm sorry. I've spoken to him directly, and this week I'm telling the whole team that mocking anyone's accent has no place here. If you'd ever like to come back, your coffee is on us for the next month. I'm Joe, the owner, and you can reach me directly on 0161 496 0712.\nJoe",
+   "lang": "en",
+   "note": "When the complaint is about how a staff member treated her, own it as the business, don't defend or name him, and keep any discipline out of the reply."
   }
  ]
 }

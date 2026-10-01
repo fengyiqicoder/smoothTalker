@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -162,6 +162,13 @@
    "reply": "Oi, Juliana, tudo bem? Quero muito fotografar essa linha com vocês. Os R$ 2.000 cobrem as 20 fotos com uso em redes sociais e site por um ano. Para uso ilimitado e permanente, incluindo outdoor, o valor é R$ 3.800, porque as imagens passam a trabalhar para a marca em muito mais lugares. Faz sentido para vocês? Se o outdoor ainda não está nos planos, fechamos em R$ 2.000 agora e licenciamos outros usos quando precisarem.",
    "lang": "pt",
    "note": "Direitos de uso fazem parte do preço: mantenha o valor e negocie o alcance da licença."
+  },
+  {
+   "id": "negotiate-price-or-salary-024",
+   "situation": "我做育儿嫂五年，有育婴师证，上一家的双胞胎是我从出生带到两岁的。现在李女士想请我住家带她8个月大的宝宝，开价每月7500元、每月休4天。我问过家政公司，像我这样的经验在本地一般是8500到9500元。我想谈到9000，最低能接受8500。",
+   "reply": "李女士，谢谢您信任我，我也很想来照顾宝宝。工资这块想跟您商量一下：您开的是每月7500元，我做育儿嫂五年，有育婴师证，上一家的双胞胎是我从出生带到两岁的，这样的经验在本地一般是8500到9500元。我想请您按每月9000元来定，宝宝交给我，您上班可以放心。您看这个数可以吗？如果工资上有难处，每月休息能不能从4天调到5天？",
+   "lang": "zh",
+   "note": "报一个具体数字，理由讲经验和对方能得到的放心，不讲自己家里缺钱；再给一个工资以外的选项。"
   }
  ]
 }

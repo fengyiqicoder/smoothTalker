@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -162,6 +162,13 @@
    "reply": "Maureen, I wanted you to hear it from me first: I'm retiring, and Saturday 19 December will be my last day in the chair. You gave me my first chair when I'd just qualified, and I've never forgotten it. I'll tell my regulars over the next few weeks, and Tasha has said she'd love to take on anyone who wants her, so I'll offer each of them an appointment with her before I go. Is there anything you'd like me to sort out before December?",
    "lang": "en",
    "note": "Retiring follows the same shape: the person most affected first, a date, a handover that leaves clients a choice, and one specific thanks."
+  },
+  {
+   "id": "leave-or-quit-gracefully-024",
+   "situation": "I'm Ellie. My manager, Jo, is also one of my closest friends from university, and she hired me two years ago. I've accepted a job at another firm; my contract says four weeks' notice, so my last day would be Friday 30 October. I own the client onboarding process and I'm telling her over coffee tomorrow without wanting it to wreck the friendship.",
+   "reply": "Jo, I wanted you to hear this from me, as my manager and as my friend: I've decided to leave, and I'm giving my four weeks' notice today, so my last day will be Friday 30 October. I've accepted a role at another firm. Before I go I'll write up the client onboarding process and walk whoever takes it over through it. You took a chance on me two years ago and I'm really grateful. Work aside, I'm not going anywhere as your friend.",
+   "lang": "en",
+   "note": "When your manager is a friend, give the notice as a work conversation first; keep the friendship to one line and save the longer talk for outside work."
   }
  ]
 }

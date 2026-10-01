@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -162,6 +162,13 @@
    "reply": "陈老师您好，我是五年级（1）班王浩然的爷爷王建国。浩然爸妈都在深圳打工，平时是我带他。这学期他数学单元测验从八十多分降到了六十分，作业我辅导不了，心里挺着急。想问问您课堂上有没有看到他哪里跟不上？您方便的话，这周哪天放学后我去学校找您谈十分钟。孩子爸爸的手机是13912345678，有事也可以直接找他，我们一家都会配合。谢谢您！",
    "lang": "zh",
    "note": "监护人不是父母时，先说清自己是谁、平时谁管孩子，再给老师一个能联系到父母的方式。"
+  },
+  {
+   "id": "messages-to-teachers-and-schools-024",
+   "situation": "I'm Kate Walsh. My son Theo (Year 8, form tutor Mr Hughes) has had stomach aches on most school mornings for three weeks and has missed four days. Our GP found no physical cause and thinks it may be anxiety; Theo says the busy corridors between lessons and the packed canteen are the worst part. At home we've started walking to school together in the mornings.",
+   "reply": "Dear Mr Hughes, I'm Theo Walsh's mum (8H). For about three weeks Theo has had stomach aches on most school mornings, and he has missed four days. Our GP found no physical cause and thinks it may be anxiety; Theo says the busy corridors between lessons and the packed canteen are the hardest part. Have you noticed anything in school? Could we meet this week or next, with anyone from the pastoral team you think should be there? At home we've started walking to school together in the mornings. Thank you, Kate Walsh",
+   "lang": "en",
+   "note": "Facts and the GP's view, then ask what school sees and how it supports pupils; if Theo ever talks about harming himself, contact the GP or emergency services straight away."
   }
  ]
 }

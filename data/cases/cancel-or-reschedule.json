@@ -4,14 +4,14 @@
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
-   "situation": "I already cancelled dinner with my friend Dani last month and now I have to cancel tomorrow's too because my son has a fever. I feel terrible.",
+   "situation": "I already cancelled dinner with my friend Dani last month and now I have to cancel tomorrow's too because my son Leo has a fever. I feel terrible. To make it up I've just booked Osteria Lupa for Saturday 10 October at 7.",
    "reply": "Dani, I have to cancel tomorrow, Leo's got a fever and I can't leave him. I know that's twice now and I hate it, so this one's on me to fix: I've booked Saturday the 10th at 7 at Osteria Lupa, and I'll be there first. If that night's bad for you, pick one and I'll move it.",
    "lang": "en",
    "note": "Second cancel in a row means you do the rebooking, not them."
   },
   {
    "id": "cancel-or-reschedule-002",
-   "situation": "明天下午两点约了客户陈总谈合同，结果老板临时让我去上海出差，得跟陈总改时间。微信说。",
+   "situation": "明天下午两点约了客户陈总谈合同，结果老板临时让我去上海出差，得跟陈总改时间。我周四上午10点到12点、周五下午都有空。微信说。",
    "reply": "陈总您好，明天下午两点的会面我需要改一下时间，公司临时安排我去上海出差，这么晚才通知您很抱歉。周四上午10点到12点，或者周五下午，我都可以，您看哪个方便？如果都不合适，您给我两个时间，我来配合。",
    "lang": "zh",
    "note": "对客户第一句就说改期，理由一句带过，然后直接给两个具体时间。"
@@ -19,97 +19,97 @@
   {
    "id": "cancel-or-reschedule-003",
    "situation": "Committed to a camping trip with friends this weekend, cabin split is $80 each. I'm burnt out and want to drop out, don't want to reschedule. Group chat.",
-   "reply": "I've got to drop out of the Big Sur trip this weekend, sorry all. Nothing wrong, I'm just running on empty and need a quiet one. I'm still paying my $80 for the cabin, Venmo coming tonight. Have the best time and send me sunset photos.",
+   "reply": "I've got to drop out of the trip this weekend, sorry all. Nothing wrong, I'm just running on empty and need a quiet one. I'm still paying my $80 for the cabin, Venmo coming tonight. Have the best time and send me sunset photos.",
    "lang": "en",
    "note": "Covering your share is what makes a late drop-out land as honest rather than flaky."
   },
   {
    "id": "cancel-or-reschedule-004",
-   "situation": "I cancelled my sister's birthday lunch two hours before because of a work emergency. She replied 'fine, whatever'. I feel awful and want to fix it.",
+   "situation": "I cancelled my sister's birthday lunch two hours before because of a work emergency. She replied 'fine, whatever'. I feel awful, so I've booked Sunday at 12:30 at Lucia's, the place she loved when we went in the spring, my treat.",
    "reply": "I get it, and I'm sorry. It was your birthday and I bailed on the day. I've booked Sunday at 12:30 at Lucia's, the place you loved in the spring, my treat. If Sunday doesn't work, tell me a day and I'll move it.",
    "lang": "en",
    "note": "Don't argue with 'fine'. Own it once, then do the rebooking yourself so the effort is visibly yours."
   },
   {
    "id": "cancel-or-reschedule-005",
-   "situation": "My daughter's school just called me in for a meeting tomorrow at 10, which is exactly when I have physio with Jess. She has a 24-hour cancellation policy and I'm fine paying the fee. Text.",
+   "situation": "My daughter's school just called me in for a meeting tomorrow at 10, which is exactly when I have physio with Jess. She has a 24-hour cancellation policy and I'm fine paying the fee. I could do Thursday at 10 or Friday at 2. Text.",
    "reply": "Hi Jess, I need to move tomorrow's 10am: my daughter's school has called me in for a meeting at the same time. I know that's inside your 24 hours, so please charge the late fee, that's only fair. Could you do Thursday at 10 or Friday at 2 instead?",
    "lang": "en",
    "note": "Last-minute with a professional: offer the fee before they have to raise it, then two concrete times."
   },
   {
    "id": "cancel-or-reschedule-006",
-   "situation": "我组织了本周六10月3日去莫干山徒步，8个人，订了大巴，每人已经收了120块。台风预报周六有暴雨，我要取消改期，在群里发。",
-   "reply": "各位，这周六（10月3日）的莫干山徒步取消了：台风预报当天有暴雨，山路太危险。大巴公司同意免费改期，所以大家的120元我先留着，改到这两个时间之一：1是10月17日（周六），2是10月24日（周六）。想退钱的也完全没问题，今晚私信我，明天就转回去。大家在群里回1或2，周四晚上前定下来。",
+   "situation": "我组织了本周六10月3日去莫干山徒步，8个人，订了大巴，每人已经收了120块。台风预报周六有暴雨，我要取消改期，大巴公司同意免费改到10月17日或10月24日，都是周六。在群里发。",
+   "reply": "各位，这周六10月3日的莫干山徒步取消了：台风预报当天有暴雨，山路太危险。大巴公司同意免费改期，所以大家的120元我先留着，改到这两个时间之一：1是10月17日周六，2是10月24日周六。想退钱的也完全没问题，今晚私信我，明天就转回去。大家在群里回1或2，周四晚上前定下来。",
    "lang": "zh",
    "note": "组织者取消：第一句说结果，钱的事在别人问之前说清楚，再给两个具体日期。"
   },
   {
    "id": "cancel-or-reschedule-007",
-   "situation": "I have a final-round interview tomorrow (Wed) at 2pm with a recruiter named Hannah at Brightline, and I just got summoned for jury duty the same day. I really want this job. Email.",
+   "situation": "I have a final-round interview tomorrow, Wednesday 30 September, at 2pm with a recruiter named Hannah at Brightline, and I've just been summoned for jury duty that day; it's too late to defer. I really want this job, and I'm free Thursday 1 October after 1pm or Monday 5 October in the morning. Email, signed Daniel Osei.",
    "reply": "Hi Hannah,\nI need to move tomorrow's 2pm interview: I've been called for jury duty on Wednesday and can't defer it at this notice. I'm sorry for the late change, and I'm still very keen on the role. I'm free Thursday 1 October any time after 1pm, or Monday 5 October in the morning. If neither suits the panel, send me a couple of times and I'll make one work.\nBest,\nDaniel Osei",
    "lang": "en",
    "note": "Candidate rescheduling: lead with the change, one true reason, restate your interest once, then give concrete slots so the recruiter doesn't have to chase you."
   },
   {
    "id": "cancel-or-reschedule-008",
-   "situation": "I need to move my dental cleaning with Dr. Okafor on Thursday, Oct 1 at 9:30, because work put me on a site visit that morning. The office didn't pick up, so I'm leaving a voicemail.",
+   "situation": "I'm Marcus Bell and need to move my dental cleaning with Dr. Okafor on Thursday, Oct 1 at 9:30, because work put me on a site visit that morning; any afternoon next week works. The office didn't pick up, so I'm leaving a voicemail with my number, 555 0172.",
    "reply": "Hi, this is Marcus Bell. I have a cleaning with Dr. Okafor this Thursday, October 1, at 9:30. I need to move it, a work commitment has come up that morning, and I'm sorry for the short notice. Any afternoon next week works for me. My number is 555 0172, again, 555 0172. Thanks.",
    "lang": "en",
    "note": "Voicemail: name and appointment first so they can find it, one short reason, a flexible window, and the number said twice, slowly."
   },
   {
    "id": "cancel-or-reschedule-009",
-   "situation": "We booked our babysitter Mia, a college student, for tonight 6 to 11 for our anniversary dinner. My husband Tom just came home with a fever, so we're staying in. It's 2pm. She usually gets $75 for the evening.",
+   "situation": "We booked our babysitter Mia, a college student, for tonight 6 to 11 for our anniversary dinner. My husband Tom just came home with a fever, so we're staying in. It's 2pm. She usually gets $75 for the evening. We could do Friday 2 or Saturday 3 October instead.",
    "reply": "Hi Mia, we need to cancel tonight: Tom's come home with a fever, so we're staying in. I'm sorry it's on the day, when you kept your evening free for us, so I'm sending the $75 anyway. Could you do Friday 2 October or Saturday 3 October instead, same time?",
    "lang": "en",
    "note": "Same-day cancel on someone paid for their time: pay for the evening she held without making her ask, then give two dates."
   },
   {
    "id": "cancel-or-reschedule-010",
-   "situation": "Tengo una primera cita con Lucía, a la que conocí en una app, el jueves 1 de octubre a las 20h, pero en el hospital me han cambiado el turno y trabajo esa noche. No quiero que piense que me estoy echando atrás.",
+   "situation": "Tengo una primera cita con Lucía, a la que conocí en una app, el jueves 1 de octubre a las 20h, pero en el hospital me han cambiado el turno y trabajo esa noche. No quiero que piense que me estoy echando atrás; podría el viernes 2 o el sábado 3 a la misma hora y en el mismo sitio.",
    "reply": "Lucía, tengo que mover lo del jueves: en el hospital me han cambiado el turno y esa noche trabajo. Siento el cambio, sé que ya lo tenías apuntado. Tengo muchas ganas de conocerte, así que te propongo el viernes 2 o el sábado 3, a las 20h en el mismo sitio. ¿Cuál te va mejor?",
    "lang": "es",
    "note": "En una primera cita, dos fechas concretas en el mismo mensaje son lo que demuestra que el cambio es logística y no falta de interés."
   },
   {
    "id": "cancel-or-reschedule-011",
-   "situation": "我是团队主管，今天下午4点本来要和下属小周做季度一对一，他提前说要聊晋升的事，准备了挺久。结果我刚被叫去开一个推不掉的紧急会，要在企业微信上跟他说改时间。",
+   "situation": "我是团队主管，今天下午4点本来要和下属小周做季度一对一，他提前说要聊晋升的事，准备了挺久。结果我刚被叫去开一个推不掉的紧急会，要在企业微信上跟他说改时间，明天上午10点或下午3点我都能空出一小时。",
    "reply": "小周，今天下午4点的一对一我得改一下，刚被叫去一个推不掉的紧急会，这么晚才说，抱歉。我知道你为晋升这件事准备了很久，不想匆匆忙忙聊。明天上午10点或者下午3点，我都给你留出完整的一个小时，你挑一个？",
    "lang": "zh",
    "note": "上级改下属的会，更要第一句说清楚、点出对方的准备，并由你给出具体时间，别让他觉得这件事不重要。"
   },
   {
    "id": "cancel-or-reschedule-012",
-   "situation": "I'm hosting a dinner party this Saturday for six friends and a pipe burst under my kitchen sink last night; the kitchen's out of action for at least a week. One couple, Ana and Raf, have already booked a babysitter. Posting in our group chat.",
-   "reply": "Bad news, I have to cancel Saturday's dinner: a pipe burst under the sink last night and the kitchen's out of action for at least a week. Sorry to pull it with four days to go. Ana and Raf, I know you booked a sitter, so if you can't cancel without paying, tell me the cost and I'll cover it. Could we do Saturday 17 October or Saturday 24 October instead? Reply with a date and I'll lock it in.",
+   "situation": "I booked a table for 8 at Casa Verde for my mum's 60th, Saturday 10 October at 7:30, under Ana Ruiz, and paid a £50 deposit. Mum's flight home has been moved and she won't be back until the 11th; the confirmation email says the deposit can move to a new date with 48 hours' notice. I'd like Saturday 17 October at 7:30 or Sunday 18 October at 1pm. Email.",
+   "reply": "Hello, I need to move my booking for 8 on Saturday 10 October at 7:30, under Ana Ruiz. It's for my mum's 60th, and her flight home has been moved, so she won't be back in time. Your confirmation says the £50 deposit can move to a new date with 48 hours' notice, so I'd like to carry it over. Could you do Saturday 17 October at 7:30, or Sunday 18 October at 1pm?\nThank you,\nAna Ruiz",
    "lang": "en",
-   "note": "When you're the host, you cancel for everyone: cover the cost you caused and give the group two dates to say yes to."
+   "note": "Moving a booking with a business: the booking details first so they can find it, the deposit rule quoted from your own confirmation rather than assumed, then two concrete times."
   },
   {
    "id": "cancel-or-reschedule-013",
    "situation": "I RSVP'd yes for two to my college friend Jess's wedding on Saturday Oct 17, plated dinner at about $140 a head. My dad's surgery has just been scheduled for the 16th and I need to be with him that weekend. The RSVP deadline was two weeks ago.",
-   "reply": "Jess, I can't make the wedding on the 17th, and I'm so sorry to tell you after the RSVP deadline. My dad's surgery has just been booked for the 16th and I need to be with him that weekend. Your caterer numbers are probably locked, so please let me cover our two places; I'm sending $280 tonight. When you're back from the honeymoon, I'd love to take you and Sam out to celebrate, any night you pick, my treat.",
+   "reply": "Jess, I can't make the wedding on the 17th, and I'm so sorry to tell you after the RSVP deadline. My dad's surgery has just been booked for the 16th and I need to be with him that weekend. Your caterer numbers are probably locked, so please let me cover our two places; I'm sending $280 tonight. After the wedding, I'd love to take you both out to celebrate, any night you pick, my treat.",
    "lang": "en",
    "note": "When the event can't move, the make-up is covering the cost you caused and offering a real celebration later, both in the first message."
   },
   {
    "id": "cancel-or-reschedule-014",
-   "situation": "我是初中数学家教，每周六上午9点给初二的小宇上两小时课，家长是刘女士，课时费已经按月交了。我嗓子发炎说不出话，这周六10月3号的课上不了，要跟家长说。",
+   "situation": "我是初中数学家教，每周六上午9点给初二的小宇上两小时课，家长是刘女士，课时费已经按月交了。我嗓子发炎说不出话，这周六10月3号的课上不了，要跟家长说。补课我可以安排在10月10日周六下午2点或10月11日周日上午9点。",
    "reply": "刘女士您好，这周六10月3日上午的数学课我需要改期，我嗓子发炎，这几天说不了话，提前跟您说一声，免得打乱小宇的安排。补课可以放在10月10日周六下午2点，或者10月11日周日上午9点，都是两个小时，不另外收费。您看哪个时间方便？",
    "lang": "zh",
    "note": "服务方取消：第一句说改期，理由一句带过，给两个具体补课时间，并主动说明费用，别让家长来问。"
   },
   {
    "id": "cancel-or-reschedule-015",
-   "situation": "I'm booked to give a 30-minute talk at the Northern Product Summit in Manchester on Thursday Oct 22, and the organiser, Priya, has already booked my hotel. My company just moved our biggest launch to that week, so I can't go. My colleague Sam co-wrote the talk and could give it.",
-   "reply": "Hi Priya, I need to pull out of my talk at the Summit on Thursday 22 October: our biggest launch of the year has just moved to that week and I have to be here for it. I'm sorry to change this three weeks out, when you've built the programme around it. Two options, if either helps: my colleague Sam Okoro, who co-wrote the talk, could give it in the same slot, or I could record it for you to show, with a live Q&A by video. If the hotel charges for cancelling, send me the bill and I'll cover it.",
+   "situation": "I'm booked to give a 30-minute talk at the Northern Product Summit in Manchester on Thursday Oct 22, and the organiser, Priya, has already booked my hotel. My company just moved our biggest launch to that week, so I can't go. My colleague Sam co-wrote the talk and could give it, or I could record it and do the Q&A live by video.",
+   "reply": "Hi Priya, I need to pull out of my talk at the Summit on Thursday 22 October: our biggest launch has just moved to that week and I have to be here for it. I'm sorry to change this when you've built the programme around it. Two options, if either helps: my colleague Sam, who co-wrote the talk, could give it in the same slot, or I could record it for you to show, with a live Q&A by video. If the hotel charges for cancelling, send me the bill and I'll cover it.",
    "lang": "en",
    "note": "When you can't be replaced by a new date, the two alternatives are ways to keep the slot filled, plus covering the cost you caused."
   },
   {
    "id": "cancel-or-reschedule-016",
-   "situation": "I double-booked myself. Carol, a retired director who offered to give me career advice, is meeting me for coffee this Friday, Oct 2 at 10, but I also accepted a client workshop that morning. Completely my mistake, and she's doing me a favour.",
+   "situation": "I double-booked myself. Carol, a retired director who offered to give me career advice, is meeting me for coffee this Friday, Oct 2 at 10, but I also accepted a client workshop that morning. Completely my mistake, and she's doing me a favour. I'm free Tuesday 6 October at 10 or Thursday 8 October at 2.",
    "reply": "Hi Carol, I need to move our coffee on Friday at 10. I double-booked myself with a client workshop, and that's entirely my mistake. I'm sorry, especially when you're giving me your time. Could we do Tuesday 6 October at 10 or Thursday 8 October at 2, somewhere near you? Coffee's on me either way.",
    "lang": "en",
    "note": "Name the double-booking plainly; with someone doing you a favour, owning it beats a vague 'conflict came up'."
@@ -123,14 +123,14 @@
   },
   {
    "id": "cancel-or-reschedule-018",
-   "situation": "I'm the hiring manager, and I have a final interview with a candidate, Tomás Reyes, tomorrow, Thursday Oct 1 at 11am. Our CEO, who's on the panel, has been called away to a customer emergency. Tomás mentioned he took a day off from his current job for it, and nothing has changed on our side: he's still one of our two finalists.",
+   "situation": "I'm the hiring manager, and I have a final interview with a candidate, Tomás Reyes, tomorrow, Thursday Oct 1 at 11am. Our CEO, who's on the panel, has been called away to a customer emergency. Tomás mentioned he took a day off from his current job for it, and nothing has changed on our side: he's still one of our two finalists. We could do Tuesday Oct 6 at 8am or Thursday Oct 8 at 5:30pm, on video if he prefers.",
    "reply": "Hi Tomás, I need to move tomorrow's 11am final interview, and I'm sorry for the short notice. Our CEO is on the panel and has been called away to a customer emergency, and I'd rather you meet the full panel than half of it. Since you took the day off for this, I'd like to fit around your job: could you do Tuesday Oct 6 at 8am or Thursday Oct 8 at 5:30pm, on video if that's easier? Nothing about where you stand in the process has changed.",
    "lang": "en",
    "note": "When the company moves a candidate, offer slots that don't cost them another day off, and say plainly that their standing is unchanged."
   },
   {
    "id": "cancel-or-reschedule-019",
-   "situation": "My son Noah (7) has a playdate at his classmate Ivy's house this Saturday, Oct 3 at 2pm. Her mum Rachel and I only know each other from the school gate, and she told me Ivy's been excited all week. Noah was sick last night, so I want to move it rather than risk passing anything on.",
+   "situation": "My son Noah (7) has a playdate at his classmate Ivy's house this Saturday, Oct 3 at 2pm. Her mum Rachel and I only know each other from the school gate, and she told me Ivy's been excited all week. Noah was sick last night, so I want to move it rather than risk passing anything on; Saturday 10 October at 2 or Sunday 11 October in the afternoon would work for us.",
    "reply": "Hi Rachel, I need to move Saturday's playdate: Noah was sick last night and I'd rather not pass anything on to Ivy. Sorry to change it, especially when she's been so excited. Could we do Saturday 10 October at 2, or Sunday 11 October in the afternoon? Same plan at yours, or I'm happy to host if that's easier.",
    "lang": "en",
    "note": "With a parent you barely know, lead with the change, one true reason, and two dates so the kids aren't left with 'sometime'."
@@ -145,7 +145,7 @@
   {
    "id": "cancel-or-reschedule-021",
    "situation": "I'm in Singapore and have a weekly call with my London client, Helen, on Thursdays at 4pm my time, 9am hers. My flight home has been moved into that slot this Thursday, Oct 1. I could do Friday Oct 2 at 4pm or Monday Oct 5 at 5pm, Singapore time.",
-   "reply": "Hi Helen, I need to move this Thursday's call: my flight home has been rescheduled into that slot. Sorry for the short notice. Could we do Friday 2 October at 9am your time (4pm mine), or Monday 5 October at 10am your time (5pm mine)? If neither suits, send me a couple of times and I'll fit around you.",
+   "reply": "Hi Helen, I need to move this Thursday's call: my flight home has been rescheduled into that slot. Sorry for the short notice. Could we do Friday 2 October at 9am your time, 4pm mine, or Monday 5 October at 10am your time, 5pm mine? If neither suits, send me a couple of times and I'll fit around you.",
    "lang": "en",
    "note": "Across time zones, give each option in their time first so they can say yes without converting."
   },

@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -162,6 +162,13 @@
    "reply": "我们的详情页和包装一直写着“全程手工制作”，这不准确：辣椒的剁和炒是手工，但灌装和封口用的是半自动机器。对不起，是我们写得不实，让大家误会了。详情页今天已经改成“手工炒制，机器灌装”，11月起的新包装也会换成这句话。买过的朋友如果觉得被误导，10月10日前私信店铺，全额退款，不用退货。以后所有宣传文字发出前，我都会对照实际工序逐句核对。有问题加我微信 amei_lajiao，我本人回复。店主 阿梅",
    "lang": "zh",
    "note": "宣传说法不实的道歉：先把真实情况说清楚，不辩解“其实大部分是手工”，退款不设门槛。"
+  },
+  {
+   "id": "public-apology-from-a-business-024",
+   "situation": "I'm Dan, race director of the Riverside 10K, a community run with 640 finishers on Sunday 27 September. A turn point was set up in the wrong place, so the course was about 9.4km and the times can't count as personal bests or for club rankings. Results will go up marked as short course, everyone who entered gets free entry to our 5K on Sunday 15 November by an emailed code, and from now on two of us walk and measure the course the day before and every marshal gets a map with their exact spot. Questions to dan@example.com.",
+   "reply": "At the Riverside 10K on Sunday 27 September, a turn point was set up in the wrong place, so the course all 640 of you ran was about 9.4km, not 10. That means Sunday's times can't count as personal bests or for club rankings. Sorry, that's on us as organisers. Results will go up marked as short course, and everyone who entered gets free entry to our 5K on Sunday 15 November; we'll email you a code. From now on two of us walk and measure the course the day before, and every marshal gets a map with their exact spot. Questions: dan@example.com. Dan, race director",
+   "lang": "en",
+   "note": "Owned by the organisers, with no volunteer blamed; the hard news (no PBs) goes early so nobody has to read between the lines."
   }
  ]
 }

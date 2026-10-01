@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -162,6 +162,13 @@
    "reply": "Thanks for your email. I'm back as of Monday 5 October after three months away and working through a large backlog. I'm reading everything from the last two weeks; anything older has been archived unread, so if it still matters, please send it again. For anything urgent this week, Ines Ortiz (ines.ortiz@example.com) is the fastest route.",
    "lang": "en",
    "note": "A backlog auto-reply is honest triage: say exactly what you will read and how to get the rest seen."
+  },
+  {
+   "id": "out-of-office-and-away-messages-024",
+   "situation": "I'm Ruth, the volunteer coordinator at Hillside Community Food Bank. I'm away from Monday 12 October, back Monday 26 October, and won't read email. Volunteers swapping a shift should email my deputy Sam Okoye (sam.okoye@example.com), and anyone who needs a food parcel urgently can call the food bank on 0113 496 0880, staffed Tuesdays and Fridays 10am to 2pm.",
+   "reply": "Thanks for your email. I'm away from Monday 12 October until Monday 26 October and not reading email. If you need food urgently, please call the food bank on 0113 496 0880, Tuesdays and Fridays, 10am to 2pm. Volunteers swapping a shift, please email Sam Okoye at sam.okoye@example.com. Everything else, I'll reply when I'm back. Ruth",
+   "lang": "en",
+   "note": "When some senders need help rather than an answer, their route goes first, with the hours it is actually staffed."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -162,6 +162,13 @@
    "reply": "Dear Mrs Albright, thank you for telling me this morning. I'm so sorry, that's a lot to take in, and losing the car on top of it. I drive to the supermarket every Tuesday morning anyway, so I'd be glad to take you along with me, or pick up your list if you'd rather. Just knock, or leave the list in my porch. No need to reply. Sarah",
    "lang": "en",
    "note": "Her sight is failing, so write the note in large, clear print, and fit the offer into a routine you already have so it's easy to accept."
+  },
+  {
+   "id": "respond-to-difficult-health-news-024",
+   "situation": "Our WhatsApp group of eight uni friends had been quiet for months. Last night Tom posted that he's been diagnosed with testicular cancer and has surgery on Tuesday 6 October. People are replying with questions about the stage and stories about relatives; I want to reply in the group, and I live ten minutes from him.",
+   "reply": "Tom, thank you for telling us, and I'm so sorry. You don't owe any of us details; share what you want, when you want. I'm ten minutes away, so I can drive you to the hospital on Tuesday or bring dinner round that week, whichever is more use. Just message me privately, and no need to reply here.",
+   "lang": "en",
+   "note": "In a group thread, model the reply you'd want the others to give: no questions, one concrete offer, and the logistics moved to a private message."
   }
  ]
 }

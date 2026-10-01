@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -162,6 +162,13 @@
    "reply": "谢谢小陈喜欢这件大衣！不付定金的话留不了两周：古着每件只有一件，之前这样留过几次，最后没成交，其他想买的人也错过了。我可以免费帮你留到这周日晚上；或者付50元定金留两周，定金到时候直接抵货款。你看哪种方便？",
    "lang": "zh",
    "note": "说出规则保护的是什么（其他买家的机会），再主动给出两个可选的办法。"
+  },
+  {
+   "id": "say-no-to-a-customer-request-024",
+   "situation": "I run a two-chair hair salon that closes at 7pm. Joanne, a client for years, asked to come in at 6pm on Friday 9 October for a full colour, which takes about two and a half hours, because she has a wedding at 3pm on Saturday. My stylist Bea leaves at 7 to collect her kids; I could open at 8am on Saturday, or fit her in at 9am on Friday.",
+   "reply": "Hi Joanne, how lovely, a wedding! I can't do a 6pm start on Friday: a full colour takes about two and a half hours, and we close at 7 because Bea leaves to collect her kids. What I can do is open early just for you on Saturday at 8am, so you're done by about 10:30, well before the 3pm ceremony, or fit you in at 9am on Friday. Which would you like?",
+   "lang": "en",
+   "note": "Offer the alternative before she asks; the reason is a real person's evening, not 'our opening hours'."
   }
  ]
 }

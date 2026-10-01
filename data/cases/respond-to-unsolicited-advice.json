@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -162,6 +162,13 @@
    "reply": "Mark, I know this comes from loving Mum, and being so far away must be hard. Her doctor and I have a plan that's working, and I'm going to stick with it. What would help me more on Sundays is just hearing how your week went and telling you about hers. Can we do that?",
    "lang": "en",
    "note": "Credit the love, hold the plan without listing reasons, and give the call something better to be about."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-024",
+   "situation": "Me mudo a Berlín el 15 de noviembre por un trabajo de ingeniera. Mi abuela Pilar me llama cada domingo para decirme que allí hace mucho frío, que estaré sola y que debería buscar algo en Valencia. La quiero muchísimo, ya está decidido, y su cocido es lo que más voy a echar de menos.",
+   "reply": "Abuela, sé que me lo dices porque me quieres y me vas a echar de menos, y yo a ti también. Ya está decidido: el 15 de noviembre me voy a Berlín. Lo que sí me ayudaría es que me enseñes a hacer tu cocido antes de irme, para llevarme un poco de casa. ¿Te va bien el domingo que viene?",
+   "lang": "es",
+   "note": "Con una abuela basta con nombrar la postura con cariño; si vuelve a salir, repite la misma frase en vez de dar más razones."
   }
  ]
 }

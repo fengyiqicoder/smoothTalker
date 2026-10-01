@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -162,6 +162,13 @@
    "reply": "Hola, familias. A partir del 1 de enero, la cuota de la academia se cobrará cada tres meses en lugar de cada mes: 135 € por trimestre, que son los mismos 45 € al mes de ahora. El motivo es que el banco nos cobra una comisión por cada recibo, y así pasamos de doce recibos al año a cuatro. Las clases, los horarios y el precio no cambian. Si os viene mejor seguir pagando mes a mes, decídmelo antes del 15 de diciembre y lo dejamos como está, sin coste extra. Gracias por bailar con nosotros.\nLucía, Academia Compás",
    "lang": "es",
    "note": "Un cambio en la forma de cobro también es un anuncio: el cambio y la cifra primero, aclarar que el precio no sube y dejar la opción antigua fácil."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-024",
+   "situation": "我叫老周，在小区里开了个快递代收点，现在包裹放多久都免费，架子快放不下了。打算从11月1日起，包裹到站超过3天没取的，每件每天收1元，最多收5元。到站当天照常发取件短信；出差或不方便取的，提前在群里或私信说一声，可以免费多放几天。要在业主群里通知。",
+   "reply": "各位邻居好，我是代收点的老周。通知一件事：从11月1日起，包裹到站超过3天还没取的，每件每天收1元，最多收5元。原因是架子快放不下了，滞留的包裹一多，大家找件也慢。3天内取件还是免费，到站当天照常发取件短信。出差或者不方便取的，提前在群里或私信跟我说一声，可以免费多放几天。谢谢大家一直以来的照顾。老周",
+   "lang": "zh",
+   "note": "新收费第一句写清日期、金额和上限，再给出不花钱的办法，理由一句就够。"
   }
  ]
 }

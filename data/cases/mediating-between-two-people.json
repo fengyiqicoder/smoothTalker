@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -162,6 +162,13 @@
    "reply": "I get why you're frustrated. I'm not going to pass that line on to Mum, though: anything that goes through me comes out sharper, in either language. On Sunday's call I'll translate whatever you both say, word for word, so you can tell her yourself how you feel about the venue. Want to think through how to put it before then?",
    "lang": "en",
    "note": "When you're the interpreter, offer to translate a direct conversation faithfully rather than deliver one-sided messages."
+  },
+  {
+   "id": "mediating-between-two-people-024",
+   "situation": "My two teenagers, Maya (16) and Leo (14), have been fighting for weeks over the family laptop, which they both need for homework; last night it ended in shouting and a slammed door. Each has come to me separately saying the other hogs it. I want to talk to Maya first, then get the three of us to sit down on Sunday afternoon and agree a schedule.",
+   "reply": "Maya, I can see how fed up you are with the laptop situation, and I'm glad you came to me. I'm not going to rule on who's been worse, and I won't pass on what you've told me to Leo. What I'd like is the three of us at the kitchen table on Sunday afternoon: just the laptop schedule, each of you says what you need without being interrupted, and we leave with a plan stuck on the fridge. I'm saying exactly the same to Leo.",
+   "lang": "en",
+   "note": "A parent could just impose a rota, but one they agree to together sticks better; stay neutral on who's worse, and clear that shouting isn't how it gets settled."
   }
  ]
 }
