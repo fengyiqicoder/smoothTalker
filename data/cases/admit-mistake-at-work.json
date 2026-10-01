@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -155,6 +155,13 @@
    "reply": "Anja, I need to tell you about a mistake I made: I filed your quarterly sales tax return two days late, because I had the wrong deadline in my calendar. I filed it this morning, and the tax office's online account now shows a $150 late-filing penalty, which I'll pay myself. I'll send you the payment confirmation by Friday 2 October. From today, every client deadline goes into my calendar with a reminder a week ahead. Sorry for this one.",
    "lang": "en",
    "note": "When your mistake costs a client money, say who pays in the same message as the mistake; they shouldn't have to ask."
+  },
+  {
+   "id": "admit-mistake-at-work-023",
+   "situation": "我和同事小李一起做给客户的月度报告，我负责的销售数据那页用成了8月的数据，报告昨天已经发给客户周经理。小李负责的部分没问题。我已经把9月的正确数据更新好了，要跟组长陈姐说。",
+   "reply": "陈姐，报告一个我的失误：昨天发给周经理的月度报告里，销售数据那页我用成了8月的数据，这页是我负责的，小李那部分没问题。9月的正确数据已经更新好，更正版和给周经理的说明邮件我10分钟内发您过目，您确认后今天就发出。对不起，这次是我的问题。以后报告发出前，我会逐页核对数据的月份和来源。",
+   "lang": "zh",
+   "note": "合作的成果出了错，只认自己那部分，说清楚同事没问题，但不借此撇清，也不把锅推给流程。"
   }
  ]
 }

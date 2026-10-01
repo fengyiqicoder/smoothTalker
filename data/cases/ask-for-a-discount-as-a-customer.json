@@ -4,28 +4,28 @@
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
-   "situation": "Moving on Nov 8. Swift Movers quoted $1,650, Harbor Moving quoted $1,380 for the same job. I'd rather go with Swift (better reviews), want to ask them to come down.",
+   "situation": "Moving our two-bed on Nov 8. Carla at Swift Movers quoted $1,650, Harbor Moving quoted $1,380 for the same job and addresses. I'd rather go with Swift (better reviews), want to ask them to come down.",
    "reply": "Hi Carla, I'd like to book Swift for our move on 8 November. One thing: Harbor quoted $1,380 for the same two-bed and the same addresses, and yours is $1,650. If you can do $1,400, I'll sign today and pay the deposit this afternoon. If not, I understand, and I'd still like to know what your price covers that theirs doesn't.",
    "lang": "en",
    "note": "The quote is real and named; asking what's different gives them a way to hold price and still win you."
   },
   {
    "id": "ask-for-a-discount-as-a-customer-002",
-   "situation": "Le quiero encargar 80 empanadas a una señora del barrio para el cumple de mi papá. Me cobra 1.200 pesos cada una. ¿Cómo le pido un precio por cantidad sin quedar mal?",
+   "situation": "Le quiero encargar 80 empanadas a doña Marta, una señora del barrio, para el cumple de mi papá el sábado 17. Me cobra 1.200 pesos cada una y yo las puedo pasar a buscar. ¿Cómo le pido un precio por cantidad sin quedar mal?",
    "reply": "Hola, doña Marta. Le quiero encargar 80 empanadas para el cumpleaños de mi papá, el sábado 17. Como es un pedido grande y las paso a buscar yo, ¿me las dejaría a 1.050 cada una? Si le parece bien, le transfiero la seña hoy mismo. Y si no se puede, no pasa nada, se las encargo igual.",
    "lang": "es",
    "note": "With a neighbour you'll see again, the out is generous on purpose: the relationship is worth more than the 12,000 pesos."
   },
   {
    "id": "ask-for-a-discount-as-a-customer-003",
-   "situation": "宽带合约下个月到期，续约报价一年1,680元，但官网新用户同样的套餐只要1,200。我用了五年了，想打客服电话要个优惠。",
-   "reply": "你好，我是用了五年的老用户，宽带账号尾号3417，下个月到期，我打算继续用。现在给我的续约价是一年1,680元，官网上新用户同样的300兆套餐是1,200元。老用户能按1,200元续吗？可以的话我现在就在电话里办好。如果办不了也理解，麻烦帮我转一下能处理续约优惠的同事。",
+   "situation": "宽带合约下个月到期，续约报价一年1,680元，但官网新用户同样的300兆套餐只要1,200。我用了五年了，想打客服电话要个优惠。",
+   "reply": "你好，我是用了五年的老用户，宽带下个月到期，我打算继续用。现在给我的续约价是一年1,680元，官网上新用户同样的300兆套餐是1,200元。老用户能按1,200元续吗？可以的话我现在就在电话里办好。如果办不了也理解，麻烦帮我转一下能处理续约优惠的同事。",
    "lang": "zh",
    "note": "如果对方说价格定死了，退一步要附加项：送三个月或者免费提速。"
   },
   {
    "id": "ask-for-a-discount-as-a-customer-004",
-   "situation": "Our wedding photographer, Lena, quoted $3,900 for 8 hours. I asked if she could do $3,500 and she said her price is firm. We still want her. Wedding is May 22, 2027.",
+   "situation": "Our wedding photographer, Lena, quoted $3,900 for 8 hours. I asked if she could do $3,500 and she said her price is firm. She normally offers an engagement shoot as a $350 add-on. We still want her. Wedding is May 22, 2027.",
    "reply": "Understood, thanks for being straight with me. We'd still love to have you. If the price is firm, could you include the engagement shoot you normally offer as a $350 add-on? Either way we're ready to book, so send over the contract and I'll pay the deposit this week.",
    "lang": "en",
    "note": "After a clear no on price, one perk ask, and say you'll book either way so it costs her nothing to refuse."
@@ -46,21 +46,21 @@
   },
   {
    "id": "ask-for-a-discount-as-a-customer-007",
-   "situation": "想在4S店买一台白色卡罗拉双擎，销售王经理报的落地价是14.8万。我打算全款，明天就能去签，想谈到14.2万左右。",
-   "reply": "王经理您好，那台白色卡罗拉双擎我已经决定买了，全款，不走贷款。您报的落地价是14.8万，如果能做到14.0万，我明天9月30号上午就过去签合同、当场付款，正好赶在月底前。实在做不到也理解，您给我回一个能做到的价就行。",
+   "situation": "想在4S店买一台白色混动轿车，销售王经理报的落地价是14.8万。我打算全款，明天9月30号（月底）就能去签，想谈到14.2万左右。",
+   "reply": "王经理您好，那台白色混动轿车我已经决定买了，全款，不走贷款。您报的落地价是14.8万，如果能做到14.0万，我明天9月30号上午就过去签合同、当场付款，正好赶在月底前。实在做不到也理解，您给我回一个能做到的价就行。",
    "lang": "zh",
    "note": "没有竞品报价就别编，用全款和月底成交做筹码；如果价格不动，再退一步只要一个附加项，比如贴膜或首保。"
   },
   {
    "id": "ask-for-a-discount-as-a-customer-008",
-   "situation": "I'm self-employed with a high-deductible plan, and I got a $2,480 bill from St. Mary's for an ER visit in August. I can pay in full now but it hurts. Want to ask their billing office for a discount.",
-   "reply": "Hi, I'm calling about account 7730412, my ER visit on 14 August, with a balance of $2,480. I'd like to pay it in full today by card. Do you offer a prompt-pay discount for settling the whole balance at once? I was hoping for around 30 percent, so $1,736. If that's not something you do, could you tell me what discount you can offer, or whether I qualify for your financial assistance program?",
+   "situation": "I'm self-employed with a high-deductible plan, and I got a $2,480 bill from Lakeview General for an ER visit on 14 August. I can pay in full now but it hurts. Want to ask their billing office for a discount.",
+   "reply": "Hi, I'm calling about my ER visit on 14 August, with a balance of $2,480. I'd like to pay it in full today by card. Do you offer a prompt-pay discount for settling the whole balance at once? I was hoping for around 30 percent, so $1,736. If that's not something you do, could you tell me what discount you can offer, or whether you have a financial assistance program I might qualify for?",
    "lang": "en",
-   "note": "Paying in full today is the lever billing offices respond to; ask for a number, then a named fallback if they can't meet it."
+   "note": "Paying in full today is a lever many billing offices respond to; ask for a number, then a named fallback if they can't meet it."
   },
   {
    "id": "ask-for-a-discount-as-a-customer-009",
-   "situation": "I run operations at a small food bank, a registered 501(c)(3). We want to move volunteer scheduling to Rosterly, whose Team plan is $1,440 a year for 10 seats. Their site doesn't mention nonprofit pricing, but we're ready to switch this month.",
+   "situation": "I'm Maya Collins, operations at Eastside Food Pantry in Dayton, a registered 501(c)(3). We want to move volunteer scheduling to Rosterly, whose Team plan is $1,440 a year for 10 seats. Their site doesn't mention nonprofit pricing, but we're ready to switch this month.",
    "reply": "Hi, we're a registered 501(c)(3) food bank in Dayton and we'd like to move our volunteer scheduling to Rosterly this month. The Team plan for 10 seats is $1,440 a year. Do you offer nonprofit pricing? We're hoping for around half off, so $720, and we'd pay the full year upfront the day it's approved. If there's no nonprofit rate, I understand; could you tell me whether annual prepay changes the price? Thanks, Maya Collins, Operations, Eastside Food Pantry",
    "lang": "en",
    "note": "Nonprofit status is a real anchor. Name the number, offer upfront payment as the easy yes, and have one fallback question ready."
@@ -74,7 +74,7 @@
   },
   {
    "id": "ask-for-a-discount-as-a-customer-011",
-   "situation": "I want the Hayes 3-seater sofa at a furniture store, listed at $1,899. The floor model has a scuff on the back leg and a pulled thread on one cushion. I'd happily take the floor model today if they knock something off.",
+   "situation": "I want the Hayes 3-seater sofa at a furniture store, listed at $1,899. The floor model has a scuff on the back left leg and a pulled thread on one cushion. I'd happily take the floor model today if they knock something off.",
    "reply": "Hi, I'd like to buy the Hayes sofa today and I'm happy to take the floor model as it is. It has a scuff on the back left leg and a pulled thread on one cushion, so would you do $1,550 for it? If yes, I'll pay now and book delivery for this Saturday.",
    "lang": "en",
    "note": "The wear is the anchoring fact, stated plainly without running the sofa down. If the price is firm, ask for free delivery before paying."
@@ -82,27 +82,27 @@
   {
    "id": "ask-for-a-discount-as-a-customer-012",
    "situation": "想给两个孩子（7岁和9岁）在小区附近的琴行报钢琴课，一对一每节200元，一学期16节。我打算两个孩子一起报、一次性交清，想问问王老师能不能便宜点。",
-   "reply": "王老师您好，试听之后两个孩子都很喜欢您，这学期想给哥哥和妹妹一起报名，每人16节，原价一共6,400元，我可以开课前一次性交清。两人同报的话，能不能按每节180元算，也就是5,760元？可以的话我这周六就来签。如果不方便也完全理解，我们就按原价上。",
+   "reply": "王老师您好，这学期想给两个孩子一起报名，每人16节，原价一共6,400元，我可以开课前一次性交清。两人同报的话，能不能按每节180元算，也就是5,760元？可以的话我这周六就来签。如果不方便也完全理解，我们就按原价上。",
    "lang": "zh",
    "note": "没有别家报价时，用“两人同报加一次付清”做筹码，报一个具体数字，并给老师留面子的退路。"
   },
   {
    "id": "ask-for-a-discount-as-a-customer-013",
-   "situation": "J'ai acheté un manteau en laine chez Maison Verne il y a six jours, 240 €. Il est maintenant affiché à 180 € sur leur site. Je ne sais pas s'ils font des ajustements de prix, je voudrais leur écrire.",
-   "reply": "Bonjour, j'ai acheté le manteau Alma en laine, taille M, le 23 septembre pour 240 € (commande 50412), et je l'adore. Je vois qu'il est aujourd'hui affiché à 180 € sur votre site. Pourriez-vous me rembourser la différence de 60 € sur ma carte ? Si ce n'est pas possible, un avoir du même montant me conviendrait très bien. Et si vous ne pratiquez pas d'ajustement de prix, je comprends tout à fait. Merci d'avance, Claire Morel",
+   "situation": "J'ai acheté le manteau en laine Alma chez Maison Verne le 23 septembre, 240 € (commande 50412). Il est maintenant affiché à 180 € sur leur site. Je ne sais pas s'ils font des ajustements de prix, je voudrais leur écrire.",
+   "reply": "Bonjour, j'ai acheté le manteau Alma en laine le 23 septembre pour 240 € (commande 50412), et je l'adore. Je vois qu'il est aujourd'hui affiché à 180 € sur votre site. Pourriez-vous me rembourser la différence de 60 € sur ma carte ? Si ce n'est pas possible, un avoir du même montant me conviendrait très bien. Et si vous ne pratiquez pas d'ajustement de prix, je comprends tout à fait. Merci d'avance.",
    "lang": "fr",
    "note": "Après l'achat, le fait d'ancrage est leur propre prix affiché : demander la différence, proposer l'avoir en repli, sans menacer de retourner l'article."
   },
   {
    "id": "ask-for-a-discount-as-a-customer-014",
-   "situation": "Northside Painting quoted $3,400 to paint our three bedrooms and hallway in October. We're in no rush and could happily wait until January or February. I don't have any other quotes.",
-   "reply": "Hi Luis, thanks for the quote, we'd like to go ahead with you for the three bedrooms and the hallway. We're in no rush, so if it helps to slot us into a quieter stretch, January or February works for us and we can be flexible on the exact days. Would $2,900 work on that basis? If yes, I'll sign and pay the deposit this week to hold the booking. If not, no problem, just let me know what a quiet-season price would look like.",
+   "situation": "Luis from Northside Painting estimated $3,150 on site to paint our three bedrooms and hallway in October, but his written quote is $3,400, including a $250 'materials handling' fee he never mentioned. We want to book him.",
+   "reply": "Hi Luis, thanks for the written quote, we'd like to go ahead with you for the three bedrooms and the hallway in October. One thing: the quote includes a $250 materials handling fee that didn't come up when you estimated $3,150 on site. Could you drop that fee and do it for $3,150? If yes, I'll sign and pay the deposit this week. If the fee needs to stay, no problem, just let me know what it covers.",
    "lang": "en",
-   "note": "No rival quote, so the lever is flexible timing that fills his quiet weeks; never invent a competitor number."
+   "note": "An unexpected fee is a clean anchor: name it, ask for the number you were first given, and ask what it covers rather than accusing."
   },
   {
    "id": "ask-for-a-discount-as-a-customer-015",
-   "situation": "Meu dentista orçou um clareamento mais duas restaurações em R$ 3.200, parcelado em 4x no cartão. Consigo pagar tudo à vista por transferência. Quero pedir um desconto pra secretária, a Juliana, pelo WhatsApp.",
+   "situation": "Meu dentista, o Dr. Paulo, orçou um clareamento mais duas restaurações em R$ 3.200, parcelado em 4x no cartão. Consigo pagar tudo à vista por transferência. Quero pedir um desconto pra secretária, a Juliana, pelo WhatsApp.",
    "reply": "Oi, Juliana, tudo bem? Quero fechar o tratamento com o Dr. Paulo, o clareamento e as duas restaurações, orçado em R$ 3.200. Se eu pagar tudo à vista por transferência, vocês fariam por R$ 2.800? Se der certo, já faço a transferência hoje e marco a primeira sessão. Se não tiver como, sem problema, me diz qual é o valor à vista de vocês.",
    "lang": "pt",
    "note": "Sem orçamento concorrente, a alavanca é pagar tudo à vista: peça um número e deixe espaço para o desconto padrão deles."
@@ -110,7 +110,7 @@
   {
    "id": "ask-for-a-discount-as-a-customer-016",
    "situation": "Our home internet with Clearwave was down for five days, Sept 21 to 25, and I work from home. The plan is $80 a month and I've been with them four years. I want to ask for a credit on the next bill.",
-   "reply": "Hi, I'm calling about account 55120-8. Our service was down from 21 to 25 September, five full days, and I work from home, so it hit hard. I've been with you four years and I'm happy to stay. Could you credit half of this month's bill, $40, on the next statement? If that's more than you can do, I'd appreciate at least the prorated amount for the five days.",
+   "reply": "Hi, I'm calling about our home internet. Our service was down from 21 to 25 September, five full days, and I work from home, so it hit hard. I've been with you four years and I'm happy to stay. Could you credit half of this month's bill, $40, on the next statement? If that's more than you can do, I'd appreciate at least the prorated amount for the five days.",
    "lang": "en",
    "note": "The outage is the anchor: ask for a specific credit a little above prorated, and name the fallback so a smaller yes is still easy."
   },

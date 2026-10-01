@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -69,7 +69,7 @@
    "id": "tell-someone-something-awkward-010",
    "situation": "Le dije a mi compañera Lucía, por mensaje privado y justo antes de una reunión, que tenía pintalabios en los dientes; lo acababa de ver. Se lo quitó, pero me escribió: «Qué vergüenza, ¿desde cuándo lo tenía?». Nos llevamos bien.",
    "reply": "Tranquila, lo vi justo ahora y te lo dije al momento. Nos pasa a todos. ¿Entramos?",
-   "lang": "en",
+   "lang": "es",
    "note": "Si le da vergüenza, se quita hierro en una línea, se responde con verdad y sin detalles, y se cambia de tema."
   },
   {
@@ -148,6 +148,13 @@
    "reply": "Perdone, señora, lleva el bolso abierto y se le ve la cartera. Nos pasa a todos. ¡Que tenga buen día!",
    "lang": "es",
    "note": "Con un desconocido basta una frase en voz baja; luego vuelve a lo tuyo, sin explicar ni vigilar."
+  },
+  {
+   "id": "tell-someone-something-awkward-022",
+   "situation": "Ma collègue Sophie partage son agenda avec tout le service, une quarantaine de personnes, et ses rendez-vous du mardi soir s'affichent en clair : « Psy, Dr Morel ». On s'entend bien sans être proches, et je veux lui écrire en privé.",
+   "reply": "Sophie, petite chose entre nous : dans l'agenda partagé du service, l'intitulé de tes rendez-vous du mardi soir est visible par tout le monde. Si tu les passes en « privé » dans les options du rendez-vous, les autres ne verront plus que « occupé ». Ça arrive à tout le monde avec ces agendas !",
+   "lang": "fr",
+   "note": "Ne jamais répéter ce qui est écrit dans l'intitulé : on signale le problème et la solution, puis on n'en reparle plus."
   }
  ]
 }

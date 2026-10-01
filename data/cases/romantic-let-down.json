@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -148,6 +148,13 @@
    "reply": "Hi Chris, thanks for asking yesterday, that was kind of you. I don't see us that way, so it's a no from me, but I'd really like the girls' Saturday playdates to carry on exactly as they are. See you at pickup.",
    "lang": "en",
    "note": "When the kids' friendship is the shared ground, keep the no clear and the logistics normal; the playdates are not part of the negotiation."
+  },
+  {
+   "id": "romantic-let-down-022",
+   "situation": "I'm Joan, 68, and I've been widowed for three years. Gerald from our Tuesday walking group left a card in my letterbox asking me to dinner. I'm not interested in dating anyone again, I'm happy as I am, but I enjoy the walks and want things to stay easy with him there.",
+   "reply": "Dear Gerald, thank you for your lovely card, it was kind of you to ask. My answer is no: I'm not looking to date again, and I'm genuinely happy as I am. I'd like our Tuesdays to carry on just as they are, so I'll see you on the walk. Joan",
+   "lang": "en",
+   "note": "A reason about yourself is fine when it's true; keep it to one line and make the shared group feel normal straight away."
   }
  ]
 }

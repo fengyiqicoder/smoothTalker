@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -148,6 +148,13 @@
    "reply": "Totally fair, Aled, thanks for saying so. How about this: the cleaner comes for the three of us who are in, so £20 each, and on cleaner weeks you take the bins and hoover the hall instead. If things change later you can switch to paying in. Happy to tweak it if another setup works better for everyone.",
    "lang": "en",
    "note": "When one housemate can't afford a shared cost, offer a way in that isn't money, so nobody is priced out and nobody is carried."
+  },
+  {
+   "id": "roommate-and-shared-living-022",
+   "situation": "Three of us, Priya, Tom and me, are signing a lease on Monday for a flat at £2,100 a month. Priya's room has the en-suite and is about twice the size of mine, and Tom's is in between. Splitting it £700 each feels off, so I want to suggest £800, £700 and £600 in our group chat before we sign.",
+   "reply": "Hey both, before we sign on Monday, can we sort out the rent split? The rooms are quite different, and Priya's has the en-suite, so how about splitting by room: £800 for Priya's, £700 for Tom's and £600 for mine, still £2,100 in total. Happy to tweak the numbers if you'd weigh it differently, I'd just like us to agree it in the chat before we sign.",
+   "lang": "en",
+   "note": "Raise a money split before signing, price the rooms rather than the people, and keep the agreed numbers in writing."
   }
  ]
 }

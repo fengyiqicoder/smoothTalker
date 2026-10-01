@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "small-talk-001",
@@ -148,6 +148,13 @@
    "reply": "Hi all, I'm Mia, joining from London. Quick question to get us going: what time is it where you are, and what did you skip to be here tonight?",
    "lang": "en",
    "note": "In a group call, one easy question everyone can answer breaks the silence; then follow the most interesting answer instead of going round the room again."
+  },
+  {
+   "id": "small-talk-022",
+   "situation": "Ich gebe eine Einweihungsparty. Meine Kollegin Anke und mein Nachbar Jürgen stehen seit ein paar Minuten schweigend nebeneinander am Buffet. Anke ist gerade vom Wandern in Portugal zurück, und Jürgen will nächstes Jahr den Jakobsweg in Portugal gehen.",
+   "reply": "Anke, darf ich dir Jürgen vorstellen, meinen Nachbarn? Jürgen will nächstes Jahr den Jakobsweg in Portugal gehen, und Anke ist gerade vom Wandern dort zurück. Anke, wo genau warst du unterwegs?",
+   "lang": "de",
+   "note": "Als Gastgeber stellt man nicht nur vor, sondern legt beiden gleich den gemeinsamen Faden hin und eine erste Frage dazu."
   }
  ]
 }

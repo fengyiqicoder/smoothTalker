@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -148,6 +148,13 @@
    "reply": "Thanks for reaching out, Jess. I'm open to coming back to the team. Since my role was cut in June, before a call I'd want to know whether this is a permanent, funded headcount, and I'd need a base of at least $118k, what I was on before. If both check out, I'm free for a call Thursday or Friday afternoon this week.",
    "lang": "en",
    "note": "A boomerang offer after a layoff: ask about stability before the call; it is a fair question, not a grudge."
+  },
+  {
+   "id": "respond-to-recruiter-022",
+   "situation": "A recruiter, Erin, emailed about a senior product designer role at a home-goods retailer. Before any call she wants me to complete a design challenge that 'takes about 6 hours'. I'm interested, but I won't do a 6-hour task before knowing the range or talking to the team; after a first call I'd do an exercise of around 2 hours, or walk them through a project from my portfolio.",
+   "reply": "Thanks for reaching out, Erin, the role sounds interesting. Before I take on a design challenge, could you share the base range and set up a short call with the hiring manager? If those line up, I'm happy to do an exercise of around two hours, or walk the team through a project from my portfolio instead.",
+   "lang": "en",
+   "note": "A long unpaid task before the range is the same problem as a call before the range, only bigger: offer a smaller version rather than a flat no."
   }
  ]
 }

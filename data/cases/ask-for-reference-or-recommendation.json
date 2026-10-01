@@ -4,41 +4,41 @@
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
-   "situation": "想请本科毕设导师王老师写推荐信，申请港大交通工程的MPhil，12月1日截止。我毕业两年了，一直没怎么联系过他。",
+   "situation": "我叫李想，2024年本科毕业，毕设《共享单车调度优化》是王老师指导的，我也在他课题组做过数据清洗。现在在物流公司做数据分析，想请他写推荐信申请港大交通工程MPhil，12月1日截止。毕业两年一直没怎么联系过他。",
    "reply": "王老师您好，我是2024届的李想，毕设《共享单车调度优化》是您指导的。好久没向您汇报，我现在在一家物流公司做数据分析。我在申请港大交通工程MPhil，12月1日截止，想请您帮我写一封推荐信，不知是否方便？我可以先整理一份草稿和简历给您参考，重点是毕设的调度模型和我在课题组做的数据清洗。如果您最近太忙，完全理解。",
    "lang": "zh",
    "note": "隔了很久再联系，先提醒对方你是谁、做过什么，再提请求和截止日期。"
   },
   {
    "id": "ask-for-reference-or-recommendation-002",
-   "situation": "Asked my old charge nurse Chris to be a phone reference for an ICU job. He said 'I'm not sure I'm the best person, we only overlapped 8 months.'",
-   "reply": "That's fair, 8 months isn't long. The hiring manager mostly wants to hear about the night shifts we covered together and how I handled the new charting system rollout, which you saw firsthand. Would it help if I sent you those two points and the call details? If it still doesn't feel right, I'll ask someone else, no problem.",
+   "situation": "Asked my old charge nurse Chris to be a phone reference for an ICU job. We covered night shifts together and he saw me handle the new charting system rollout. He said 'I'm not sure I'm the best person, we only overlapped 8 months.'",
+   "reply": "That's fair, 8 months isn't long. The two things I'd most like them to hear about are the night shifts we covered together and how I handled the new charting system rollout, which you saw firsthand. Would it help if I sent you those two points and the call details? If it still doesn't feel right, I'll ask someone else, no problem.",
    "lang": "en",
    "note": "Offer the bullets once. If he still hesitates, move to the next name the same day."
   },
   {
    "id": "ask-for-reference-or-recommendation-003",
-   "situation": "Moving to Leeds in December. The new letting agent wants a reference from my current landlord, Mr Patel, by Friday 9 October. I've paid on time for 3 years. Texting him.",
+   "situation": "Moving to Leeds in December. The new letting agent, Harlow Homes, wants a reference from my current landlord, Mr Patel, by Friday 9 October; it's a short email form. I've paid on time for 3 years. Texting him.",
    "reply": "Hi Mr Patel, I'm moving to Leeds in December and the new letting agent, Harlow Homes, has asked for a landlord reference by Friday 9 October. Would you be willing to give one? It's a short email form, mainly confirming three years of on-time rent and the flat's condition. If this week is bad for you, let me know and I'll ask them for more time.",
    "lang": "en"
   },
   {
    "id": "ask-for-reference-or-recommendation-004",
-   "situation": "My old manager at Brightline, Omar, just said yes to being a reference for a Senior UX Researcher role at Kestrel Health. The recruiter, Hannah Cho, will call references next week. I want to send him everything in one message.",
-   "reply": "Thank you, Omar, that means a lot. Here's everything in one place: the role is Senior UX Researcher at Kestrel Health, and Hannah Cho, hannah.cho@example.com, will email you to set up a 15-minute call sometime between Monday 5 and Friday 9 October. If it helps, the three things they care most about are the patient portal study we ran in 2024, the research repository I set up that the team still uses, and how I worked with engineering on the checkout redesign. I'll let you know how it goes.",
+   "situation": "My old manager at Brightline, Omar, said yes to being a reference for a Senior UX Researcher role at Kestrel Health. Hannah Cho (hannah.cho@example.com) will email him to set up a 15-minute call between Mon 5 and Fri 9 October. I'd like him to mention our 2024 patient portal study, the research repository I set up, and my work with engineering on the checkout redesign.",
+   "reply": "Thank you, Omar, that means a lot. Here's everything in one place: the role is Senior UX Researcher at Kestrel Health, and Hannah Cho, hannah.cho@example.com, will email you to set up a 15-minute call sometime between Monday 5 and Friday 9 October. If it helps, the three things they care most about are the patient portal study we ran in 2024, the research repository I set up, and how I worked with engineering on the checkout redesign. I'll let you know how it goes.",
    "lang": "en",
    "note": "After a yes, one message with who, when, the role and the points to mention, so he never has to dig back through the thread."
   },
   {
    "id": "ask-for-reference-or-recommendation-005",
-   "situation": "I'm a freelance bookkeeper. My client Diane, who owns a physio clinic, told me last month that I'd saved her hours every week. I'm redoing my website and want a short quote from her with her name and clinic.",
-   "reply": "Hi Diane, I'm updating my website this month and a line from you would carry a lot of weight with other clinic owners. Something like: \"Since Ana took over our books, month-end takes me an hour instead of a weekend, and I finally understand our cash flow.\" Feel free to rewrite it completely, or tell me it's not something you'd like to do. Would you be okay with me using your name and Harbourside Physio alongside it? Any time before Friday 16 October would be perfect.",
+   "situation": "I'm Ana, a freelance bookkeeper. My client Diane, who owns Harbourside Physio, told me last month that I'd saved her hours every week. I'm redoing my website and want a short quote from her with her name and clinic.",
+   "reply": "Hi Diane, I'm updating my website this month and a line from you would carry a lot of weight with other clinic owners. Something like: \"Since Ana took over our books, I save hours every week.\" Feel free to rewrite it completely, or tell me it's not something you'd like to do. Would you be okay with me using your name and Harbourside Physio alongside it? Any time before Friday 16 October would be perfect.",
    "lang": "en",
    "note": "Write the quote for her to edit, ask separately about using her name, and put the deadline in the first message."
   },
   {
    "id": "ask-for-reference-or-recommendation-006",
-   "situation": "Tengo 17 años y busco mi primer trabajo, de fines de semana en una librería. No tengo experiencia laboral, pero llevo dos años de voluntaria los sábados en el banco de alimentos del barrio. Quiero pedirle una referencia a la coordinadora, Marta.",
+   "situation": "Tengo 17 años y busco mi primer trabajo, de fines de semana en la Librería Nápoles; me piden una referencia y seguramente la contacten antes del viernes 9 de octubre. Llevo dos años de voluntaria los sábados en el banco de alimentos del barrio, donde coordiné el reparto de Navidad. Quiero pedírsela a la coordinadora, Marta.",
    "reply": "Hola Marta, estoy buscando mi primer trabajo, los fines de semana en la Librería Nápoles, y me piden una referencia. Como nunca he trabajado, eres quien mejor conoce cómo trabajo, por estos dos años de sábados en el banco de alimentos. ¿Te parece bien que dé tu nombre y tu correo? Seguramente te contacten antes del viernes 9 de octubre. Si quieres, te paso la oferta y un par de cosas que podrías mencionar, como que coordiné el reparto de Navidad. Y si no te viene bien, lo entiendo perfectamente.",
    "lang": "es",
    "note": "Sin historial laboral, el voluntariado cuenta: di por qué ella, la fecha, ofrécele material para que le sea fácil y deja una salida sin culpa."
@@ -46,7 +46,7 @@
   {
    "id": "ask-for-reference-or-recommendation-007",
    "situation": "I asked my old head of department, Mrs. Okonkwo, to be a reference for a teaching job at Riverside Academy. I emailed her on Sept 15 and followed up on Sept 22. Nothing. The application closes Friday Oct 9, and my placement mentor, Mr. Hale, would probably say yes.",
-   "reply": "Hi Mrs. Okonkwo, no worries at all if my note got buried at the start of term. I've asked someone else for this one, so there's nothing you need to do. I'd still love to catch up sometime, and I hope Year 11 are treating you well.",
+   "reply": "Hi Mrs. Okonkwo, no worries at all if my note got buried. I've asked someone else for this one, so there's nothing you need to do. I'd still love to catch up sometime, and I hope all is well at school.",
    "lang": "en",
    "note": "After two unanswered messages, treat it as a no: ask Mr. Hale today and send one line that closes the ask without guilt."
   },
@@ -55,11 +55,11 @@
    "situation": "Mein früherer Chef, Herr Wagner, war letzte Woche meine Referenz bei Hausmann Logistik. Heute habe ich die Zusage als Teamleiter Disposition bekommen, Start am 1. November. Die Personalerin, Frau Berger, meinte, er habe sehr konkret über unsere Umstellung der Tourenplanung gesprochen. Ich will mich bei ihm bedanken.",
    "reply": "Hallo Herr Wagner, ich wollte Ihnen gleich Bescheid geben: Ich habe die Stelle als Teamleiter Disposition bei Hausmann Logistik bekommen und fange am 1. November an. Frau Berger hat erzählt, wie konkret Sie über die Umstellung der Tourenplanung gesprochen haben, und das hat offenbar viel ausgemacht. Vielen Dank, dass Sie sich die Zeit genommen haben. Wenn ich mich einmal revanchieren kann, sagen Sie einfach Bescheid.",
    "lang": "de",
-   "note": "Close the loop the same day, with the one thing they did that helped. It's what earns the next yes."
+   "note": "Noch am selben Tag Bescheid geben und das eine nennen, was geholfen hat. Das bringt das nächste Ja."
   },
   {
    "id": "ask-for-reference-or-recommendation-009",
-   "situation": "前领导周总答应给我写推荐信了，我申请新加坡国立大学的MBA，10月20号截止。他回我说“你先起个草稿，我改改再提交”。想把草稿和材料一次发给他。",
+   "situation": "前领导周总答应给我写推荐信了，我申请新加坡国立大学的MBA，10月20号截止，学校10月8日左右会把提交链接发到他邮箱。他回我说“你先起个草稿，我改改再提交”。草稿写了我牵头的2024年华南仓储系统切换、带新人小组把错单率从3%降到0.8%、跨部门协调，想和简历一次发给他。",
    "reply": "周总，太感谢您了！材料都在这里：附件一是推荐信草稿，附件二是我的简历。学校会在10月8日左右把提交链接直接发到您的邮箱，截止日期是10月20日。草稿主要写了三件事：2024年华南仓储系统切换我牵头的部分、带新人小组把错单率从3%降到0.8%、以及跨部门协调的经验。您随便改、随便删，语气按您平时的习惯来就好。结果出来我第一时间告诉您。",
    "lang": "zh",
    "note": "对方答应后，草稿、截止日期、谁会联系他一次发齐，并说明可以随便改，让这件事变成十分钟的活。"
@@ -67,41 +67,41 @@
   {
    "id": "ask-for-reference-or-recommendation-010",
    "situation": "I asked my former team lead Rachel to be a reference for a data engineering job at Plover. She replied that she doesn't feel she saw enough of my work, since she left three months after I joined, and suggested I ask someone else. I don't want to make it awkward.",
-   "reply": "Understood, and thank you for telling me straight, Rachel. That's genuinely helpful, and I'll ask Anton instead. Hope the new role is treating you well.",
+   "reply": "Understood, and thank you for telling me straight, Rachel. That's genuinely helpful, and I'll ask someone else. Hope the new role is treating you well.",
    "lang": "en",
    "note": "A no gets one line of thanks, no 'why', and the next name gets asked the same day."
   },
   {
    "id": "ask-for-reference-or-recommendation-011",
-   "situation": "我在悄悄看机会，一家新公司已经到背调阶段，要一位现同事做证明人。想请隔壁组的赵姐帮忙，我们一起做过去年的会员系统项目。但我还没跟领导说在找工作。",
+   "situation": "我在悄悄看机会，一家新公司已经到背调阶段，要一位现同事下周接个15分钟左右的电话。想请隔壁组的赵姐帮忙，我们一起做过去年的会员系统，她看到过我负责数据迁移、跟产品组协作和赶工时排优先级。我还没跟领导说在找工作。",
    "reply": "赵姐，想请你帮个忙：我在看外面的一个机会，已经到背调阶段，对方需要一位现在的同事接个电话，大概15分钟，下周内都可以。我们一起做过去年的会员系统，对方可能会问三点：我负责的数据迁移、跟产品组的协作、项目赶工时我怎么排优先级。这事我还没跟领导说，麻烦先帮我保密。如果你觉得为难，完全没关系，我再找别人。",
    "lang": "zh",
    "note": "在职背调：一次说清要做什么、多长时间、会被问什么，保密的请求说在明处，出口要真心。"
   },
   {
    "id": "ask-for-reference-or-recommendation-012",
-   "situation": "I'm in the final round for an engineering manager role at Tallyfield, and they want a reference from someone I managed. Lena reported to me for two years at Corvo before I left in March; she's now a senior engineer there. I want to ask her by email.",
+   "situation": "I'm in the final round for an engineering manager role at Tallyfield; they want a 15-minute call, likely 5 to 9 October, with someone I managed. Lena reported to me for two years at Corvo before I left in March; she's now a senior engineer there. We rebuilt the on-call rotation together, I ran weekly 1:1s with her and supported her move to senior.",
    "reply": "Hi Lena, I hope things are going well at Corvo. I'm in the final round for an engineering manager role at Tallyfield, and they've asked for a reference from someone I managed. Would you be open to being that person? It would be one 15-minute call, likely between 5 and 9 October. If you say yes, the things they care most about are how I ran our 1:1s, the on-call rotation we rebuilt, and how I supported your move to senior. Please feel free to say no; I know it's different being asked by a former manager, and it won't change anything between us.",
    "lang": "en",
    "note": "Asking someone you used to manage: make the out extra explicit, because the old power gap can make a no feel harder to say."
   },
   {
    "id": "ask-for-reference-or-recommendation-013",
-   "situation": "I worked alongside Kofi on the same analytics team for three years; he left in June and we still get on well. I've started job hunting and want a LinkedIn recommendation from him, since my manager there is hard to reach.",
-   "reply": "Hi Kofi, hope the new job is going well! I've started looking for my next role and I'm updating my LinkedIn, and a short recommendation from you would carry a lot of weight, since we built the churn dashboard together. Three or four sentences is plenty. If it helps, I can send a draft you can edit or throw out. Any time before 16 October would be perfect, and if the timing's bad, no problem at all.",
+   "situation": "I worked alongside Kofi on the same analytics team for three years, and we built the churn dashboard together; he left in June and we still get on well. I've started job hunting and want a LinkedIn recommendation from him, since my manager there is hard to reach.",
+   "reply": "Hi Kofi, hope all's well since you left! I've started looking for my next role and I'm updating my LinkedIn, and a short recommendation from you would carry a lot of weight, since we built the churn dashboard together. Three or four sentences is plenty. If it helps, I can send a draft you can edit or throw out. Any time before 16 October would be perfect, and if the timing's bad, no problem at all.",
    "lang": "en",
    "note": "A peer can speak to how you work day to day; offer the draft, but only send it once he says yes."
   },
   {
    "id": "ask-for-reference-or-recommendation-014",
-   "situation": "我老公调到成都工作，我年底要跟过去，已经提前跟领导孙总说了，他很支持，说有需要随时找他。现在成都一家公司的采购主管岗位到了背调环节，要现任上级做证明人，下周联系。",
-   "reply": "孙总，上次跟您说了去成都的事，谢谢您这么支持。现在成都锐新科技的采购主管岗位到了背调环节，想请您做我的证明人，他们的HR刘女士下周会给您打个电话，大概15分钟。方便的话可以提三件事：上半年的供应商整合、我带的两个新人，以及年中盘点零差错。您下周要是太忙，跟我说一声，我请他们改个时间。",
+   "situation": "我老公调到成都工作，我年底要跟过去，已经提前跟领导孙总说了，他很支持，说有需要随时找他。现在成都一家公司的采购主管岗位到了背调环节，要现任上级做证明人，HR下周联系。上半年我做了供应商整合、带了两个新人，年中盘点零差错。",
+   "reply": "孙总，上次跟您说了去成都的事，谢谢您这么支持。现在成都那家公司的采购主管岗位到了背调环节，想请您做我的证明人，他们的HR下周会给您打个电话。方便的话可以提三件事：上半年的供应商整合、我带的两个新人，以及年中盘点零差错。您下周要是太忙，跟我说一声，我请他们改个时间；不方便的话也完全没关系。",
    "lang": "zh",
    "note": "现任上级已经知道你要走、也表过态时，可以直接请；谁联系、多长时间、会问什么一次说清。"
   },
   {
    "id": "ask-for-reference-or-recommendation-015",
-   "situation": "I was laid off from Harwick Media in the August cuts, along with half the marketing team. My manager, Priya, fought to keep me and said to use her as a reference anytime. I'm now in the final round for a content lead role at Sellwood and they want to call two references next week.",
+   "situation": "I was laid off from Harwick Media in the August cuts, along with half the marketing team. My manager, Priya, fought to keep me and said to use her as a reference anytime; she saw me run the newsletter relaunch and manage the freelancer budget. I'm now in the final round for a content lead role at Sellwood and they want to call two references between Monday 5 and Friday 9 October.",
    "reply": "Hi Priya, I hope you're doing okay after everything at Harwick. I'm in the final round for a content lead role at Sellwood, and they'd like to call two references between Monday 5 and Friday 9 October. You kindly offered in August, so I wanted to check you're still happy to be one before I pass on your details. If it helps, the things they care most about are the newsletter relaunch, the freelancer budget I managed, and, if they ask, that my role was cut in the restructure rather than for performance. If the timing's bad, no problem at all.",
    "lang": "en",
    "note": "An old 'anytime' still needs a fresh ask with the dates; after a layoff, a reference who can confirm why you left is worth a bullet."
@@ -115,10 +115,10 @@
   },
   {
    "id": "ask-for-reference-or-recommendation-017",
-   "situation": "大学同学阿宁在远川科技做产品经理，我想请她帮我内推他们的高级产品运营岗，内推通道10月15日截止。我们毕业后联系不多，但去年聚会还聊过。我做了四年用户运营，负责的社群从2万人做到了15万人。",
-   "reply": "阿宁，好久不见！去年聚会一别又快一年了。我看到你们远川科技在招高级产品运营，想请你帮我内推一下，内推10月15日截止。我做了四年用户运营，负责的社群从2万人做到了15万人，简历和岗位链接我整理好一起发你，你直接转就行。如果不方便也完全没关系，不用有负担。",
+   "situation": "我叫林溪，上学期选过陈老师的《计量经济学》，考了94分，期末论文写的是最低工资对就业的影响。现在申请学校的海外交换项目，需要两封推荐信，11月10日截止，第二封想请她写。我只上过她一门课，课下没什么交流。",
+   "reply": "陈老师您好，我是上学期选修您《计量经济学》的林溪。我在申请学校的海外交换项目，需要两封推荐信，11月10日截止，想请问您是否方便为我写一封？您主要是通过这门课了解我，所以只写课程表现就足够了：期末94分，以及期末论文研究最低工资对就业的影响。我可以把成绩单和论文一起发给您参考。如果您觉得了解不够、不方便写，完全理解，我再请其他老师。",
    "lang": "zh",
-   "note": "对同辈求内推，把材料准备齐、退路给足，对方才好答应。"
+   "note": "对方只教过你一门课时，把请求限定在他亲眼看到的部分，对方写得出，也更容易答应。"
   },
   {
    "id": "ask-for-reference-or-recommendation-018",

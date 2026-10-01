@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -148,6 +148,13 @@
    "reply": "阿杰，这件事本该当面说，但我不想拖到春节，所以现在告诉你：我想分手。这几个月我想得很清楚，两地这样下去，我想要的日常陪伴我们给不了彼此，这是我自己的决定，不是你做错了什么。你的羽绒服和那箱书，我这周末打包寄到你深圳的地址。祝你一切都好。",
    "lang": "zh",
    "note": "分手放在前两句，只给一个真实的理由，说清东西怎么处理；不说“还做朋友”，除非现在就是真心的。"
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-022",
+   "situation": "分手两个月了，前男友阿浩发微信说想把当初送我的金手镯要回去，说是他奶奶留下的。我本来就打算还，这周六可以用保价快递寄到他家，也可以周日下午放在我家小区的物业前台让他自己来取。不想多聊别的。",
+   "reply": "阿浩，手镯我本来就打算还你。两种方式你选一个：这周六我用保价快递寄到你家，或者周日下午放在我家小区物业前台，你自己来取。告诉我哪个方便就行。",
+   "lang": "zh",
+   "note": "Belongings are logistics only: no comment on the relationship, and the front desk option means no need to meet."
   }
  ]
 }

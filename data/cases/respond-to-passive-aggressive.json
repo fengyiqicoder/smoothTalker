@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -148,6 +148,13 @@
    "reply": "Hi Dana, I might be reading tone into this, but your replies to my last few process updates sound frustrated, and I'd rather ask than guess. I also realise I didn't run any of those changes past your team before posting them. Is that the part that's bothering you, or is it the changes themselves? Either way I'd honestly like to hear it, and I'm happy to grab 15 minutes this week.",
    "lang": "en",
    "note": "A repeated dig with a real grievance inside: name it privately, own the fair part, and ask."
+  },
+  {
+   "id": "respond-to-passive-aggressive-022",
+   "situation": "周六上午10点，部门领导张总在工作群里问月报什么时候能交，我在陪女儿参加钢琴比赛，没看到。下午他又在群里说：“有些同事周末消息都不回啊，看来工作不太着急。”月报我周一上午10点前能交。不想在群里解释。",
+   "reply": "张总，周六上午的消息我下午才看到，回晚了。月报周一上午10点前发给您。",
+   "lang": "zh",
+   "note": "私聊回，只回内容：什么时候看到、什么时候交，不解释周末在做什么，也不在群里接这句话；如果周末必须秒回成了常态，再约一对一谈预期。"
   }
  ]
 }

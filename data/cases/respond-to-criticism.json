@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -148,6 +148,13 @@
    "reply": "Thanks, Marta, fair catch. You're right that the config builder and the formatter are overkill, and I'll fold them into one function. The retry wrapper I'd like to keep in some form, since our logs show the payment API timing out on about 1 in 50 calls. Would a plain function with a retry loop work for you instead of a class? I'll push the changes this afternoon.",
    "lang": "en",
    "note": "In a code review, agree with the specifics, give the one fact behind the part you'd keep, and end with a question rather than a defence."
+  },
+  {
+   "id": "respond-to-criticism-022",
+   "situation": "My son Daniel, 28, told me on the phone last night that growing up he felt nothing he did was ever good enough for me, and he brought up me calling his B+ in chemistry 'not good enough'. I did say that, though I don't think I was as harsh overall as he remembers. I want to text him today.",
+   "reply": "Daniel, I've been thinking about our call. Thank you for telling me, I know that can't have been easy after all these years. What I heard is that growing up you felt nothing you did was ever good enough for me, and you're right that I said exactly that about your B+ in chemistry. I'm sorry I said it. I may remember some of those years differently, but how it felt to you matters more right now, and I'd like to hear more if you're willing. Could I call you on Sunday?",
+   "lang": "en",
+   "note": "When an adult child criticises your parenting, own the specific thing, mention a different memory once and lightly, and ask to hear more instead of defending."
   }
  ]
 }

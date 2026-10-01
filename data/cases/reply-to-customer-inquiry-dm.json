@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -148,6 +148,13 @@
    "reply": "Hi Grace, mostly yes: there's one small step at the door and we have a portable ramp for it, and one of our wheel tables fits a wheelchair. The one thing that isn't accessible is the toilet, which is up a flight of stairs. The 2pm class on Saturday 17 October has space; shall I hold two spots with the accessible table for your mum?",
    "lang": "en",
    "note": "Name the one thing that isn't accessible up front, so they decide now rather than discover it on the day."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-022",
+   "situation": "我在杭州做上门喂猫，一般一天上门一次，每次60元，含喂粮、换水、铲屎和发视频，两只猫不加价。有人微信问：“国庆5号到8号出门，能上门喂两只猫吗？”这几天我都还有空。",
+   "reply": "可以的，5号到8号我都有空！每次60元，两只猫不加价，包括喂粮、换水、铲屎，每次上门都会给您发视频。一天上门一次的话，4天一共240元。您家在哪个小区？我确认一下路线，就帮您把这几天留出来。",
+   "lang": "zh",
+   "note": "Do the total for them: a holiday booking question is really asking what the whole trip costs."
   }
  ]
 }

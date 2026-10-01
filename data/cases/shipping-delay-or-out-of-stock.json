@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -148,6 +148,13 @@
    "reply": "您好，您在我们店预订的手工羊毛围巾，原定10月15日前发货，现在要晚两周：负责织围巾的阿姨生病请了两周假，最快10月29日（周四）能全部发出。想问问您愿不愿意等到那天？如果不方便等，直接回复我，马上给您全额退款。给您添麻烦了，谢谢理解。",
    "lang": "zh",
    "note": "一对多的延期：早说、给具体日期、把退款作为真正的选择，而不是让买家来要。"
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-022",
+   "situation": "I'm Priya and I run a small coffee subscription: 140 subscribers were charged $24 on Oct 1 for the October box, due to ship Monday Oct 5. Our roaster's machine broke down, so the boxes will now ship Monday Oct 12. Anyone who'd rather skip October gets a full refund, and I need to email everyone today.",
+   "reply": "Subject: Your October box now ships Monday 12 October\nHi there, your October coffee box will ship on Monday 12 October instead of Monday 5 October, because our roaster's machine broke down this week. If you're happy to wait, you don't need to do anything: it ships on the 12th and I'll send tracking the same day. If you'd rather skip October, just reply 'skip' and I'll refund your $24 in full that day. I'll be in touch again on the 12th when the boxes go out.\nPriya",
+   "lang": "en",
+   "note": "Subscribers have already paid, so the refund has to be a one-word reply, and doing nothing means waiting."
   }
  ]
 }

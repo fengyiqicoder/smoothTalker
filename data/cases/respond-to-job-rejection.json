@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -147,6 +147,13 @@
    "reply": "Hi Ben, thanks for telling me yourself today, and for a summer where I learned more than in any class, especially getting to own the churn dashboard. I understand about the headcount. I'd love to take you up on your offer to be a reference, and I'll give you a heads-up before I list you anywhere. I hope our paths cross again.",
    "lang": "en",
    "note": "When they have already offered something, the one ask is simply accepting it; save the 'keep me in mind' for later."
+  },
+  {
+   "id": "respond-to-job-rejection-022",
+   "situation": "面了一家物流公司的运营专员，面试官王经理跟我聊了一个小时，挺投机。今天HR刘女士打电话说，我的经验比岗位要求高太多，怕我待不久，所以没录用，还提到他们明年可能会招运营主管。其实我是真心想换行业从基层做起，但不想跟她争。",
+   "reply": "刘女士您好，谢谢您今天专门打电话告诉我，也谢谢王经理面试时花了一个小时跟我聊，收获很多。结果我理解。您提到明年可能会招运营主管，到时候如果合适，希望您能想到我。祝一切顺利。",
+   "lang": "zh",
+   "note": "被说“资历过高”时不去辩解自己会待得住，只提一个请求，把门留给更匹配的岗位。"
   }
  ]
 }

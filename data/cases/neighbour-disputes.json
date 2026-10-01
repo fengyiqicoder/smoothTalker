@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -148,6 +148,13 @@
    "reply": "您好，我是楼下701的小吴，还没正式打过招呼。这一个月开空调的时候，您家空调外机的冷凝水会滴到我卧室窗外的雨棚上，夜里嗒嗒声挺明显，我睡得不太好，估计您在楼上听不到。能不能麻烦把排水管接长一点，引到墙边或雨水管里？需要的话我可以帮忙一起找师傅。我们家要是有什么打扰到您的，也请直接跟我说。",
    "lang": "zh",
    "note": "先假设对方不知道，只提一件具体小事；没改善再找物业，并提前告诉对方。"
+  },
+  {
+   "id": "neighbour-disputes-022",
+   "situation": "I'm Rob at number 31. On Sunday a football from next door at 33, where Grace and Emeka Nwosu live with their two boys, came over the fence and cracked a pane in our greenhouse; a glazier has quoted £85 to replace it. We get on fine and I'm happy for the boys to keep playing, I'd just like the pane paid for.",
+   "reply": "Hi Grace and Emeka, it's Rob from number 31. On Sunday one of the boys' footballs came over and cracked a pane in our greenhouse. Accidents happen, and we're glad they've got the garden to play in. The glazier has quoted £85 to replace it; would you be OK covering that? I'm happy to send you the quote, and do tell me if anything from our side ever bothers you.",
+   "lang": "en",
+   "note": "One ask only: if balls keep coming over, raise where the goal stands in a later message."
   }
  ]
 }

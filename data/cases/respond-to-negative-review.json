@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -148,6 +148,13 @@
    "reply": "谢谢您具体说出房间大小和隔音的问题。隔音差是事实，让您晚上没休息好，真的很抱歉。现在每间房都备了耳塞，页面上也写明了“木造老屋，隔音一般”，让之后的客人提前知道。房间面积页面上标的是12平米，我们也在照片旁边加了面积说明，避免看照片产生误会。如果您愿意再聊聊，欢迎在平台上私信我。美和",
    "lang": "zh",
    "note": "用客人的语言回复；对的部分先认，面积只平静地说一次事实，不争论，也不公开提补偿。"
+  },
+  {
+   "id": "respond-to-negative-review-022",
+   "situation": "Je m'appelle Claire et je tiens Kayak du Lac, une petite location de kayaks à Annecy. Un client, 'Julien D.', a mis 1 étoile sur Google : sa sortie du samedi 26 septembre a été annulée le matin même et le remboursement de 90 euros a mis 12 jours. Nous avons annulé à cause d'une alerte orages, mais le remboursement aurait dû partir le jour même ; depuis, les annulations météo sont remboursées sous 48 heures. Mon adresse : contact@example.com.",
+   "reply": "Merci, Julien, d'avoir détaillé ce qui s'est passé. Une sortie annulée le matin même, c'est frustrant, et douze jours pour rembourser 90 euros, c'est beaucoup trop long : ce délai-là est de notre faute. Pour ceux qui nous lisent, nous avons annulé ce samedi à cause d'une alerte orages, et nous annulerons toujours dans ce cas. Depuis, les annulations pour météo sont remboursées sous 48 heures. Si vous souhaitez en parler, écrivez-moi à contact@example.com. Claire, Kayak du Lac",
+   "lang": "fr",
+   "note": "Une annulation pour la sécurité se maintient, en une phrase neutre ; on assume seulement ce qui a vraiment déraillé, le délai."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -148,6 +148,13 @@
    "reply": "I want the clinic pilot live as much as you do. The catch is the privacy review: without it we'd be texting patients their appointment type with nobody having checked that's okay. Two options: launch Friday 9 October with reminders that give only the date, time and clinic, which Omar can clear by Thursday, and add the appointment type once he signs off; or launch the full version on Wednesday 14 October. I'd go with the first. Which do you prefer?",
    "lang": "en",
    "note": "Don't skip the check quietly or refuse outright; give options that keep it. If she still wants to skip it, put your concern in writing and check with compliance."
+  },
+  {
+   "id": "push-back-on-boss-022",
+   "situation": "My boss Andrés wants our autumn sale email sent to all 40,000 customers in one go on Monday Oct 5. Last month an untested send went out with a broken checkout link and we got about 300 complaints. I'd like to send to 2,000 customers Monday morning, check the links and first orders, then send the rest Monday afternoon; the other option is a full send Monday morning after a test send to our team on Friday.",
+   "reply": "Andrés, I want Monday's sale email to land well with all 40,000 customers. After last month's broken checkout link and the 300 or so complaints, I'd like a safety check before the full send. Two options: send to 2,000 customers Monday morning, check the links and first orders, then send the rest that afternoon; or send everything Monday morning after a test send to our team on Friday. I'd go with the first, since the sale still starts Monday for everyone. Which do you prefer?",
+   "lang": "en",
+   "note": "Disagreeing with how, not whether: keep his date intact so the pushback reads as protecting the launch."
   }
  ]
 }

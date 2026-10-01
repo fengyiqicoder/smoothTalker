@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -148,6 +148,13 @@
    "reply": "Thanks for asking, Aisha, and I can see why it feels like a small step with the baby coming anyway. We've kept it to babies under one for everyone, since it's about little ones who are still feeding, so Zayd can't come this time. I can't wait to meet the baby and to celebrate with you on the 21st.",
    "lang": "en",
    "note": "An exception is still a category: hold its line exactly, or it turns into a rule that seems aimed at the people outside it."
+  },
+  {
+   "id": "wedding-and-event-host-messages-022",
+   "situation": "We're getting married at the registry office on Saturday 12 December with only our parents and siblings, 14 people. We want to invite everyone else, about 100 friends and relatives, to watch a livestream, and to a relaxed party next summer, date not fixed yet. I need one message for the family WhatsApp and our friends.",
+   "reply": "We're getting married! The ceremony is at the registry office on Saturday 12 December, and we've kept it to our parents and siblings, just 14 of us, so the day can be small and quiet. We'd love you to watch it with us online, and we'll send the livestream link a week before. We're also planning a relaxed party for everyone next summer, date to follow. We can't wait to celebrate with you properly.",
+   "lang": "en",
+   "note": "A two-tier wedding lands well when the small circle is a category everyone can see, and the wider circle gets its own real invitation."
   }
  ]
 }

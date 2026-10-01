@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -148,6 +148,13 @@
    "reply": "吴总，您想更紧密地跟进进度，我很理解。我们合同约定的是远程开发、每周五线上同步一次，每周两次上门开会不在这个范围里。有两种方式：继续每周五线上同步，我在会前把进度和问题清单发给您；或者需要上门时按次加收，每次800元。您看哪种更合适？",
    "lang": "zh",
    "note": "时间和路程也是范围：给一个不加钱的方案和一个加钱的方案，让对方选，并以书面确认为准。"
+  },
+  {
+   "id": "say-no-to-client-scope-022",
+   "situation": "I manage online ads for a yoga studio owner, Bea, for $600 a month, and our agreement says the ad spend is paid directly from her own account. She wants to double next month's budget to $5,000 and has asked me to put it on my card and invoice her after, because her card limit is too low.",
+   "reply": "Hi Bea, great that the ads are doing well enough to scale up. Our agreement has the ad spend paid directly from your account, and I don't front client ad spend on my own card. To keep the $5,000 month on track, you could add a second card or another payment method to the ad account, or we start at what your current card allows and scale up as soon as that's sorted. Which would you like? I'll adjust the campaigns this week either way.",
+   "lang": "en",
+   "note": "Fronting a client's spend turns you into their lender; offer routes to the bigger budget that keep the money on their side."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -148,6 +148,13 @@
    "reply": "Marcus, thank you for telling me today. I know it wasn't easy, and I'm really glad you did. It stays with me. Nothing changes on my side, and I'll see you at the wall on Thursday as usual. No need to reply.",
    "lang": "en",
    "note": "With a stigmatised diagnosis, normality is the specific offer: thanks, privacy, the usual plan, and no questions about how."
+  },
+  {
+   "id": "respond-to-difficult-health-news-022",
+   "situation": "大学で講師をしている高橋です。ゼミ生の佐藤さんから、先週てんかんと診断されたので10月8日（木）の中間発表を休ませてほしいとメールが来ました。発表は10月22日（木）に回せますし、ゼミの他の学生に理由を言うつもりはありません。",
+   "reply": "佐藤さん\n知らせてくれてありがとう。大変な一週間でしたね。中間発表は10月22日（木）に移しておきます。ゼミのみんなには日程の変更とだけ伝えて、理由は言いません。ほかにも授業のことで調整が必要になったら、一言くれれば対応します。この返信は不要です。\n高橋",
+   "lang": "ja",
+   "note": "教員から学生へ：病状は聞かず、日程・プライバシー・返信不要の三つを一度に伝える。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -148,6 +148,13 @@
    "reply": "Hi Sofia, it's been about two years, and I'll be upfront about why I'm writing now: I'm hiring a senior designer at my new company, and you were the first person I thought of. Your checkout redesign, the one that halved our support tickets, is still the best example I know of the work I mean. If you're curious, I'd love to tell you more on a 20-minute call; if you're happy where you are, no hard feelings at all, and it's genuinely good to say hello.",
    "lang": "en",
    "note": "When the reason is an offer rather than a favour, say it in the first message and make no an easy answer."
+  },
+  {
+   "id": "reconnect-after-silence-022",
+   "situation": "Sou a Juliana e quero mandar mensagem no WhatsApp para a Camila, minha melhor amiga de infância no Colégio Santa Luzia, em Recife. Não nos falamos há uns sete anos, sem briga, e nem sei se o número ainda é dela. Vi que a escola fez 50 anos e postaram fotos da quadra onde a gente jogava vôlei.",
+   "reply": "Oi, Camila! Aqui é a Juliana, do Santa Luzia. Não sei se esse número ainda é seu; se não for, desculpa o engano! Vi que a escola fez 50 anos e postaram fotos da quadra, e na hora lembrei da gente jogando vôlei lá. Faz uns sete anos que não nos falamos e fiquei com vontade de saber de você. Como você está? Sem pressa para responder.",
+   "lang": "pt",
+   "note": "Name yourself and the shared context first, so a stranger with the old number can simply say it's the wrong person."
   }
  ]
 }

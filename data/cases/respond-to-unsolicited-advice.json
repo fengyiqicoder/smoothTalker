@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -148,6 +148,13 @@
    "reply": "Thanks, Julien, I love that you're this invested in my first marathon! I'm sticking with my coach's plan right to the end, so I'm not changing anything before the 18th. What I'd really love from you now is a cheer at the finish, or at least a message on race morning.",
    "lang": "en",
    "note": "Respond to the care, state the position once, and give him a role that isn't advice."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-022",
+   "situation": "我上个月在小区门口开了家面馆。隔壁开超市的王哥几乎每天过来指点，说我价格定低了、菜单太长。他人挺热心，但我打算先按现在的价格和菜单跑满三个月再看数据。今天刚上了一款番茄牛肉面。",
+   "reply": "王哥，谢谢您天天惦记我这小店。价格和菜单我先按现在这样跑满三个月，看看数据再说，到时候要调整，肯定先听听您的意见。今天新上了番茄牛肉面，您尝一碗，帮我提提口味的意见？",
+   "lang": "zh",
+   "note": "对热心的邻居商户用“说明立场”这一级，给个时间点，再把他的热心引到你真想听意见的地方。"
   }
  ]
 }

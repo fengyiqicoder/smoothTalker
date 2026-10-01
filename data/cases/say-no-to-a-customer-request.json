@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -148,6 +148,13 @@
    "reply": "Thank you for thinking of us for Max's birthday, Rachel. I can't promise a completely nut-free cake: we bake with peanuts and almonds in the same kitchen, and with a severe allergy even a trace matters. Little Oak Bakes across town is a dedicated nut-free bakery, so they can give you the guarantee I can't. I'd love to bake for you another time, whenever nuts aren't a worry.",
    "lang": "en",
    "note": "When the risk is someone's health, the no stays a no: don't soften it to 'we're very careful', and point them to someone who can say yes safely."
+  },
+  {
+   "id": "say-no-to-a-customer-request-022",
+   "situation": "I'm Lena, a private English tutor. Mr. Okafor, whose son Daniel I've tutored for a year, asked me to write Daniel's college personal statement, due October 15, and offered an extra $300. I won't write it, but I can do two 90-minute coaching sessions on it at my usual $60 an hour, and I'm free Saturday and Tuesday evenings.",
+   "reply": "Thank you for trusting me with something this important, Mr. Okafor. I can't write Daniel's personal statement for him: it has to be his own work and his own voice, and anything else puts his application at risk. What I can do is two 90-minute sessions to help him find his story and shape his drafts, at my usual $60 an hour, so $90 a session. I'm free Saturday and Tuesday evenings, which leaves time before the 15 October deadline. Shall we start this Saturday?",
+   "lang": "en",
+   "note": "An integrity no stays firm, the extra money doesn't change it, and the honest paid alternative is offered before he has to ask."
   }
  ]
 }
