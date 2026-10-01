@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -204,6 +204,13 @@
    "reply": "Oi! Estou viajando de 12 a 25 de outubro, quase sem internet, e volto a responder as mensagens na segunda, 26 de outubro. Se você está hospedado aqui e precisa de algo, como chaves, check-in ou um problema no apartamento, procure a Lívia no apartamento 302 do mesmo prédio. Pedidos de novas reservas eu respondo quando voltar. Obrigada!",
    "lang": "pt",
    "note": "Uma rota só, para quem está hospedado; quem quer reservar sabe exatamente quando terá resposta."
+  },
+  {
+   "id": "out-of-office-and-away-messages-030",
+   "situation": "我是一家律所的行政主管，产假结束后先上半天班：10月12日到11月27日（周五），每天上午9点到12点，11月30日（周一）起恢复全天。下午不看邮件，下午的急事由同事何蕾（helei@example.com）处理。想设一个邮件自动回复，不想写原因。",
+   "reply": "您好，10月12日至11月27日，我每天上午9点到12点上班，下午不查看邮件，下午收到的邮件我会在下一个工作日上午处理。下午如有急事，请联系何蕾（helei@example.com）。11月30日（周一）起恢复全天办公。谢谢！",
+   "lang": "zh",
+   "note": "阶段性半天上班：写清哪段时间在、什么时候回复、急事找谁，以及哪天恢复，原因不用写。"
   }
  ]
 }

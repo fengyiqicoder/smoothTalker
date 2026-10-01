@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -204,6 +204,13 @@
    "reply": "Alex, thank you for telling me how you feel, that took courage. I don't feel the same way. I've enjoyed our three dates and you've been lovely company, but I'm not feeling a romantic connection, so I'd like to stop seeing each other. I'm sorry it's not the answer you were hoping for, and I wish you well.",
    "lang": "en",
    "note": "When their feelings run far ahead of yours, answer the declaration directly and quickly; a slow fade after 'I'm falling for you' is the cruel option."
+  },
+  {
+   "id": "romantic-let-down-030",
+   "situation": "Nina from my Monday pottery class asked me out for a drink after class last night. I'm straight, so it's a no, but I like her, and we share a table every week until December. I'd rather text than make it a thing in class.",
+   "reply": "Hi Nina, thanks for asking last night, that was really kind. I'm straight, so it's a no from me, but I'm glad you felt you could ask. See you at our table on Monday, same as always.",
+   "lang": "en",
+   "note": "A reason about who you are is a complete answer: say it once, without apology, and make the shared class feel normal straight away."
   }
  ]
 }

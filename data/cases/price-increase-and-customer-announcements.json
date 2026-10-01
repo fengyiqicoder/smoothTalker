@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -204,6 +204,13 @@
    "reply": "Hello Mr Patel, it's Gloria. I wanted to tell you myself and in good time: from Tuesday 5 January my rate goes from $30 to $34 an hour, because gas and cleaning supplies cost me more now. Nothing else changes, same Tuesdays and same jobs. If that's more than you'd like to spend, I could come every other week instead, and that's completely fine with me. Would you like to think it over and tell me which you prefer when I'm with you next Tuesday?",
    "lang": "en",
    "note": "Said aloud to a customer who doesn't read email: same structure, with a gentler option as the exit and time to decide in person."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-030",
+   "situation": "我是“麦田小坊”的店主小冉，做手工面包，一直在自己的无坚果厨房生产，详情页写着“无坚果车间”。原来的厨房租约到期，11月2日起要搬到和别的甜点店共用的中央厨房，那里也处理坚果，以后不能保证不含坚果痕迹，配方和价格都不变。不少客人是因为孩子坚果过敏才在我们家买；已经付款、11月2日起发货的预订都可以全额退。要在客户群里通知。",
+   "reply": "各位好，我是麦田小坊的小冉。有一件很重要的事要告诉大家：从11月2日起，我们的面包改在一个共用的中央厨房生产，那里也处理坚果，所以从这天起生产的面包不能再保证不含坚果痕迹，详情页“无坚果车间”的说法也会同步删掉。家里有人坚果过敏的，11月2日起生产的面包请不要购买。搬厨房是因为原来的厨房租约到期了，配方和价格都不变。已经付款、11月2日起发货的预订，私信我就全额退款。谢谢大家一直以来的信任。小冉",
+   "lang": "zh",
+   "note": "涉及过敏的变化，安全提醒放在最前面、说得直白，不要为了留住客人写得含糊；详情页和包装上的标注同一天改。"
   }
  ]
 }

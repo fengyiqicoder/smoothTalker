@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -204,6 +204,13 @@
    "reply": "Owen, got a minute? I wanted you to hear this from me before Hannah's note on Friday, and it isn't the news you were hoping for: leadership turned down the four-day-week pilot at Tuesday's review. Their reason was timing; they won't consider it before the new financial year in April. I know you put two months into it, and that's a hard one to hear. They did call your staff survey data strong. I'm around whenever you want to hear how the discussion went.",
    "lang": "en",
    "note": "When you're the messenger for someone else's decision, give the news and their reason plainly, without softening it or defending it."
+  },
+  {
+   "id": "deliver-bad-news-030",
+   "situation": "Me llamo Inés y alquilo un apartamento turístico en Valencia. Ayer reventó una tubería y el piso estará en obras al menos tres semanas, así que tengo que cancelar la reserva de Marta y Jorge, que llegaban el viernes 9 de octubre para cuatro noches por 480 €. Hoy ya les he devuelto el importe completo, y mi vecina Carmen tiene un apartamento libre esas fechas en la misma calle por 440 €. Les escribo por la plataforma.",
+   "reply": "Hola, Marta y Jorge: tengo una mala noticia y prefiero contárosla cuanto antes. Tengo que cancelar vuestra reserva del viernes 9 de octubre, porque ayer reventó una tubería y el piso va a estar en obras al menos tres semanas. Sé que esto os complica el viaje, y lo siento mucho. Hoy mismo os he devuelto los 480 € completos. Si os sirve, mi vecina Carmen tiene un apartamento libre esas mismas fechas en la misma calle por 440 €, y os paso su contacto en cuanto me digáis. Inés",
+   "lang": "es",
+   "note": "La noticia en la segunda frase, el reembolso ya hecho y una alternativa sin presión; revisa antes el proceso de cancelación de la plataforma."
   }
  ]
 }

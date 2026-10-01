@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -204,6 +204,13 @@
    "reply": "Hi Joyce, could I ask a favour? Would you be comfortable asking your sister Ruth whether she'd have 20 minutes for a call with me about the pharmacy licensing exams and how she found her first job here? If it's not a good time for her, or you'd rather not ask, that's completely fine.\n\nIf it helps, here's a note you could send her:\n\n\"Ruth, my neighbour Amara Okeke is a pharmacist with eight years' experience in Lagos who moved to Toronto in July. She's starting the licensing process and would love 20 minutes on the phone to hear how you did it. Happy to pass on her number if you're open to it.\"\n\nI'll let you know how it goes either way. Thank you!\nAmara",
    "lang": "en",
    "note": "A neighbour rather than a work contact: the blurb keeps it a small, specific ask, and Ruth says yes before any number is shared."
+  },
+  {
+   "id": "request-intro-or-referral-030",
+   "situation": "I'm Karen Liu. I was laid off from Ashgrove in August after 12 years running QA. Marcus reported to me there for four years and is now a team lead at Fernway, which has a senior QA manager opening. I'd like him to refer me, but I don't want him to feel he owes me because I used to be his boss.",
+   "reply": "Hi Marcus, I'll be direct: I'm applying for the senior QA manager role at Fernway, and I wondered if you'd be comfortable referring me. Please don't feel any obligation because I used to be your manager; if it's awkward for any reason, a simple no is completely fine and changes nothing between us. If you're up for it, here's a line you can paste: \"Karen Liu ran QA at Ashgrove for 12 years and managed me for four. She's applying for the senior QA manager role.\" I'll let you know how it goes either way.\nKaren",
+   "lang": "en",
+   "note": "Asking someone you used to manage: take the old hierarchy off the table explicitly, because the power gap makes no harder to say."
   }
  ]
 }

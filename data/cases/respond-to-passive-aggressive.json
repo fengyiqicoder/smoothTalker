@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -204,6 +204,13 @@
    "reply": "不好意思，3栋电梯里那摊应该是我家柯基豆豆昨晚尿的，我当时没注意到，给大家添麻烦了。今天早上已经用消毒水擦干净了。以后进电梯前我先带它在楼下解决，出门也随身带纸巾和湿巾。",
    "lang": "zh",
    "note": "带刺的话里有真事：在群里认下自己那一次，说清已经处理和以后怎么做，不接“素质”那句，也不替“又是”的其他几次背锅。"
+  },
+  {
+   "id": "respond-to-passive-aggressive-030",
+   "situation": "For my sister Hannah's birthday I gave her an $80 gift card for a running shop, because she's said twice she wants to choose her own trail shoes. She texted back 'A gift card, wow, so personal 🙃'. She's running a half marathon on Sunday 18 October, and I don't want to make a thing of it.",
+   "reply": "Ha, guilty! You said you wanted to pick your own trail shoes, and I didn't trust myself to get the right ones. If you'd like company in the shop, I'll come along and buy the coffee after. And good luck for the half marathon on the 18th!",
+   "lang": "en",
+   "note": "A dig about a gift gets a face-value answer with the honest reason in one line; no defence of how much thought went into it."
   }
  ]
 }

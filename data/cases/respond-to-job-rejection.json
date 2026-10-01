@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -203,6 +203,13 @@
    "reply": "佐藤様\nご連絡いただき、ありがとうございました。結果について、承知いたしました。最終面接の際に工場見学までさせていただいたことが、強く印象に残っております。また営業職の募集がございましたら、改めて応募させていただければ幸いです。貴社のますますのご発展をお祈りしております。\n田中",
    "lang": "ja",
    "note": "理由を尋ねないと決めたなら、依頼は「また応募したい」の一つだけ。具体的なお礼が次の募集で思い出してもらうきっかけになる。"
+  },
+  {
+   "id": "respond-to-job-rejection-030",
+   "situation": "I interviewed for a senior UX designer role at Brightfield. The hiring manager, Sophie, emailed that they're hiring someone with more research leadership for the senior role, but she'd like to talk to me about a mid-level designer role on the same team that opens in November. I enjoyed the design critique session with her team and I'm open to it, but I'd want to know the scope and pay band before deciding.",
+   "reply": "Hi Sophie, thanks for letting me know, and understood on the senior role. I really enjoyed the design critique with your team, so I'm glad you thought of me for the mid-level one. I'd be happy to hear more: could we have a short call next week where you walk me through the scope and the pay band? Thanks again.",
+   "lang": "en",
+   "note": "Accept the no in one line, then treat the other role as a fresh conversation: ask for scope and pay before committing to anything."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -204,6 +204,13 @@
    "reply": "Hi Marcus and Lily, it's Nora from number 20. Since your kitchen work started on 7 September, two cracks have appeared on our side of the shared living-room wall, one about 40cm long; I've taken dated photos. I'm not jumping to conclusions about the cause, I'd just like it looked at early while it's easy to sort. Could your builder pop round this week to have a look? Happy to show either of you too, whenever suits.",
    "lang": "en",
    "note": "Keep the dated photos, and check whether a party wall agreement or local rules apply before raising who pays."
+  },
+  {
+   "id": "neighbour-disputes-030",
+   "situation": "I'm Leo at number 9. In September my neighbour at number 11, Mrs Dunn, hung a big set of metal wind chimes outside her back door, about three metres from our bedroom window, and on windy nights they clang till morning. She once told me they were a present from her late husband, so I don't want her to take them down, just maybe bring them in at night. We chat over the fence most weeks.",
+   "reply": "Hi Mrs Dunn, it's Leo from next door. You told me the wind chimes were a present from your husband, so this isn't about taking them down. They're only about three metres from our bedroom window, though, and on windy nights they clang right through till morning. Would you be happy to bring them in at night, or hang them round the other side of the house? I'm glad to pop over and move the hook for you, and do tell me if anything from our side ever bothers you.",
+   "lang": "en",
+   "note": "When the object matters to them, say first that you're not asking for it gone, then ask for the smallest change that fixes the nights."
   }
  ]
 }

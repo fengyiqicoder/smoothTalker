@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -204,6 +204,13 @@
    "reply": "Hola, Elena:\nMuchas gracias por la oferta, me hace mucha ilusión incorporarme a la Clínica Valdemar. Quería comentarte un punto antes de firmar: la oferta me sitúa en el nivel 2 de vuestra tabla, pero tengo seis años de experiencia como fisioterapeuta, dos de ellos en un hospital de Lisboa, y creo que no se han tenido en cuenta. Según vuestra tabla, con cinco años o más corresponde el nivel 4, 34.800 €. ¿Podríais revisar el encuadre? Te envío esta semana los certificados de ambos empleos.\nUn saludo,\nSara Molina",
    "lang": "es",
    "note": "Con una tabla salarial fija se negocia el nivel: la cifra concreta, la prueba que la respalda y nada de motivos personales."
+  },
+  {
+   "id": "negotiate-price-or-salary-030",
+   "situation": "I'm Priya, a senior account manager at Halden Media for six years. I'm being made redundant, and my manager Tom has passed on HR's offer of four weeks' pay as severance, with my last day on Friday 30 October. Before then I'm handing over our three largest clients. I'd like eight weeks' pay, and I'd settle for six plus keeping my laptop and an agreed reference.",
+   "reply": "Hi Tom,\nThank you for passing on the offer, and I want the handover of our three largest clients to go smoothly for everyone. I'd like to discuss the severance: four weeks' pay after six years with Halden is lower than I was expecting, and I'm asking for eight weeks. Between now and 30 October I'll be handing over those three accounts, and I'm committed to doing that well. Is there flexibility there? If the amount is fixed, I'd like to talk about keeping my laptop and agreeing the wording of a reference.\nBest,\nPriya",
+   "lang": "en",
+   "note": "Don't sign on the spot; check your contract and any company policy, and get advice on the agreement before accepting."
   }
  ]
 }

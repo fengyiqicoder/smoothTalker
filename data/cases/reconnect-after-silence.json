@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -204,6 +204,13 @@
    "reply": "Hey Leo, it's been about twelve years, which is strange to type. I saw you're running your first marathon in Chicago on the 11th and wanted to say good luck. I still think about that treehouse that swallowed our entire August. How have you been? No rush to reply, especially mid-training.",
    "lang": "en",
    "note": "A former step-sibling has no default label, so the shared memory does the work instead of explaining the family history."
+  },
+  {
+   "id": "reconnect-after-silence-030",
+   "situation": "I'm Alex now; at school everyone knew me as Alexandra, and I came out as nonbinary three years ago. My school friend Hollie and I haven't talked in about seven years, no falling out. I just found the mixtape CD she burned me for my 16th birthday and want to message her on Instagram, where my profile shows my new name.",
+   "reply": "Hi Hollie, it's been about seven years, which is wild. This is Alex; you'll remember me as Alexandra from school, and I go by Alex these days. I just found the mixtape CD you burned me for my 16th birthday and thought of you straight away. How are you doing? No rush to reply, I just wanted to say hello.",
+   "lang": "en",
+   "note": "When your name has changed, say both names once, plainly, so they can place you; no need to explain more unless they ask."
   }
  ]
 }

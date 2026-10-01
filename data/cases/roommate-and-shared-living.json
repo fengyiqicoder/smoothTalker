@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -204,6 +204,13 @@
    "reply": "Hey Kieran, really glad you're settled in, and congrats again on the job. Now you're working, can we sort out the bills? They come to about £180 a month, so how about you chip in £60 on the 1st of each month, starting this month? If the date's tricky, tell me and we'll move it.",
    "lang": "en",
    "note": "Family under your roof is still a housemate: money in writing, a number and a date, and no comment on the months that came before."
+  },
+  {
+   "id": "roommate-and-shared-living-030",
+   "situation": "去年我和室友阿哲合买了一台冰箱，1600元，一人出800。他11月15日搬走，说让我转他800，冰箱就归我。冰箱用了一年，我想按一半算，转他400；或者他带走也行，我再自己买一台。",
+   "reply": "阿哲，冰箱的事跟你商量一下。去年咱俩各出800买的，现在用了一年，我想按买价的一半算：我转你400，冰箱留下；你要是想带走，也完全没问题，我再自己买一台。你看哪种合适？15号搬走前定下来就行，咱们就在微信上说好，以后不会对不上。",
+   "lang": "zh",
+   "note": "合买的东西也是合租里的钱：给出算法和两个选项，用文字定下来，不争谁占便宜。"
   }
  ]
 }

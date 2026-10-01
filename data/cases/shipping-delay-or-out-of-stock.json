@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -204,6 +204,13 @@
    "reply": "Hola, Beatriz. Tienes razón, al armario del pedido 5531 le faltaba la bolsa de herrajes, y el fallo es nuestro al empaquetar. Te la envío hoy por mensajería urgente y llegará el viernes 2 de octubre; esta tarde te paso el número de seguimiento. Por las molestias te devuelvo hoy mismo 20 euros. Si prefieres devolver el armario, lo recogemos sin coste y te reembolso el pedido entero. Si no me dices nada, sigo con el envío de la bolsa.\nCarmen, Pino Claro",
    "lang": "es",
    "note": "Pieza que falta: no le pidas pruebas ni que desmonte nada; envía la pieza ya, ofrece la salida fácil y deja claro qué pasa si no contesta."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-030",
+   "situation": "I'm Hugo and I run a small online pet supply shop. Ms Okafor has a monthly repeat order (#8840) for a 2kg bag of prescription renal diet cat food, $46, due to ship tomorrow, but the manufacturer has a production delay and my next delivery is Monday 19 October. I have three 400g bags of the same food in stock at $10 each, which I can ship tomorrow with free shipping, and I don't stock any equivalent food.",
+   "reply": "Hi Ms Okafor, your repeat order #8840, the 2kg bag of renal diet cat food, won't ship tomorrow: the manufacturer has a production delay, and my next delivery is Monday 19 October. Three options: I send three 400g bags of the same food tomorrow, $30 with free shipping, to tide you over; you wait for the 2kg bag on the 19th; or I refund the $46 today. If I don't hear back, I'll hold your order for the 19th and charge nothing extra. I don't stock an equivalent food, so please check any change of diet with your vet first.\nHugo",
+   "lang": "en",
+   "note": "With food a pet depends on, offer a bridge from the same product and never suggest a substitute diet; that's the vet's call."
   }
  ]
 }

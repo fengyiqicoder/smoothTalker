@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -204,6 +204,13 @@
    "reply": "Thanks for thinking of me, Tom, I'd like to do this and do it properly. Running seven people and two hires is a manager's job, and I can't do it well on top of my full analyst workload. Two options: make it a formal acting manager role from 2 November, with the acting-up allowance the handbook mentions and my analyst work moved to someone else; or I take just the approvals and the two hires, and the rest stays with you or goes to another lead. I'd recommend the first. Which would you prefer? Once we've agreed, I'll send a short note so it's on record.",
    "lang": "en",
    "note": "A yes with terms, not a no; check the handbook's exact wording on the allowance before quoting it."
+  },
+  {
+   "id": "push-back-on-boss-030",
+   "situation": "Soy dependienta en una tienda de muebles y somos tres en el equipo de ventas. Mi jefa, Elena, quiere que desde el lunes 5 de octubre conteste a los clientes por WhatsApp desde mi móvil personal, también por las tardes cuando ya he salido. En la tienda hay una tablet que nadie usa y yo trabajo de 10 a 18 h.",
+   "reply": "Elena, me parece muy buena idea atender a los clientes por WhatsApp, seguro que nos ayuda a vender más. Lo que no me encaja es hacerlo desde mi móvil personal y fuera de mi horario: mi número acabaría en manos de todos los clientes y no podría desconectar por las tardes. Dos opciones: usamos la tablet de la tienda con un número propio, yo contesto de 10 a 18 h y fuera de ese horario sale un mensaje automático diciendo que respondemos a la mañana siguiente; o, si quieres cubrir las tardes, la tablet se la lleva cada semana una persona del equipo, por turnos. Te recomiendo la primera. ¿Cuál prefieres?",
+   "lang": "es",
+   "note": "Sí a la tarea, no al móvil personal ni a estar localizable sin horario: propón el medio de la empresa y deja que ella elija."
   }
  ]
 }

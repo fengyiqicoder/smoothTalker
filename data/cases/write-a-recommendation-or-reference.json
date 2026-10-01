@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -183,6 +183,13 @@
    "reply": "苏晴2024年3月至2026年8月在我们书店任店员，我是她的直属店长。她离职是因为考取了保育员证，想转行做幼教。她最让我放心的是主持周末绘本故事会：她带了一年多，报名从每场十来个孩子涨到三十个左右，常有家长专门来跟我们夸她。在职期间她没有任何投诉或违纪记录，我不了解任何让她不适合与儿童相处的情况；需要说明的是，我只在书店里见过她和孩子相处。如有机会，我很愿意再次雇用她。",
    "lang": "zh",
    "note": "背调表里关于儿童安全的问题要如实回答，并说明你看到的范围，不替对方打包票。"
+  },
+  {
+   "id": "write-a-recommendation-or-reference-027",
+   "situation": "I'm Ruth Adler. Grace Mensah was a home carer for my dad, Leon, three mornings a week through an agency from March 2024 until he died in August 2026. She learned his medication routine so well that twice she noticed a missed evening dose and flagged it, and she kept him walking to the end of the garden most days. She's applying to a care home, Elmwood House, and the manager asked me for a personal reference by email; I'm on 07700 900762 and ruth.adler@example.com, and I only ever saw her work in Dad's home.",
+   "reply": "Dear Manager,\nI'm writing in support of Grace Mensah's application. Grace cared for my father, Leon, three mornings a week from March 2024 until he died in August 2026, so I saw her work week in, week out for over two years. She learned his medication routine so well that twice she noticed a missed evening dose and flagged it straight away. She also kept him walking to the end of the garden most days. I saw her work only in his home, not in a residential setting, and on that basis I recommend her warmly. I'm happy to talk on 07700 900762 or at ruth.adler@example.com.\nKind regards,\nRuth Adler",
+   "lang": "en",
+   "note": "A family reference for a carer: how often you saw her work, two specific moments, and the limit of the setting you saw."
   }
  ]
 }

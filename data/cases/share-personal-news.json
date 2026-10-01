@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -204,6 +204,13 @@
    "reply": "Some news so you hear it from us: we had a kitchen fire at the flat on Tuesday night. Everyone's safe, cat included, but we can't live there for at least two months, so we're staying with my sister Jo in Cheadle. We're shaken but okay. If you'd like to help, Isla needs clothes in size 2-3, and hand-me-downs would be perfect. We'd rather not go over the details yet, but a playdate soon would be lovely.",
    "lang": "en",
    "note": "Hard news with a practical ask: say exactly what helps, and what you'd rather not talk about, so people don't have to guess."
+  },
+  {
+   "id": "share-personal-news-030",
+   "situation": "Tom and I got engaged on Saturday. I was saving it for a call this weekend with my best friend Priya in Singapore because of the time difference, but last night my cousin Ellie posted a congratulations photo on Facebook first, and Priya has probably seen it. I want to message her now.",
+   "reply": "Priya, you should have heard this from me, not from Ellie's post, and I'm sorry it went that way: Tom and I got engaged on Saturday! I was saving it for a proper call this weekend because of the time difference, and Facebook got there first. I'm so happy and I want to tell you all of it. Can I call you tomorrow, at whatever time suits you?",
+   "lang": "en",
+   "note": "When the order breaks, own it in one line and still give the closest person her own moment: a call, not a reply in the comments."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -204,6 +204,13 @@
    "reply": "Thanks for reaching out, Holly, I'm interested in the pricing role. Two questions before we go further: what level is it, and at what point would Paul be told I'm talking to the team? I'd like to tell him myself first. If that works, I'm free for a chat on Tuesday 6 October after 2pm.",
    "lang": "en",
    "note": "For an internal move, your current manager is the stake: ask who gets told and when before the first call."
+  },
+  {
+   "id": "respond-to-recruiter-030",
+   "situation": "Fiz a entrevista final para a vaga de analista de dados sênior com a recrutadora Camila no dia 22 de setembro, e ela disse que me daria um retorno até sexta, 25 de setembro. Desde então, nenhuma notícia. Sou o Rafael e quero perguntar sem parecer desesperado.",
+   "reply": "Oi Camila, tudo bem? Queria saber como está o processo da vaga de analista de dados sênior. Fizemos a entrevista final no dia 22 de setembro e você comentou que teria um retorno até o dia 25. A vaga ainda está aberta? Se o processo tiver seguido outro caminho, sem problema, só me avise para eu me organizar. Abraço, Rafael",
+   "lang": "pt",
+   "note": "Se não houver resposta, mande só mais uma mensagem curta uma semana depois e siga em frente."
   }
  ]
 }

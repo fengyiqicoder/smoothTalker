@@ -4,120 +4,120 @@
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
-   "situation": "I've been fighting a flaky Cypress test for two hours and Jonas wrote most of that test suite. We're peers, he's busy with the release too. How do I ask him without sounding helpless?",
+   "situation": "I've been fighting a flaky Cypress checkout test for two hours: it fails about one run in three, only in CI, and I've ruled out the test data and the retry config. Jonas wrote most of that suite; we're peers and he's busy with the release too. How do I ask him without sounding helpless?",
    "reply": "Hey Jonas, the checkout Cypress test is failing about one run in three and I've spent two hours on it. I've ruled out the test data and the retry config, and it only fails in CI, not locally. Could you pair with me for 15 minutes this afternoon? If you're buried in the release, tomorrow morning works too.",
    "lang": "en",
    "note": "Showing the two things already ruled out turns 'help me' into 'help me finish', and 15 minutes is easy to say yes to."
   },
   {
    "id": "ask-colleague-for-help-or-delegate-002",
-   "situation": "我是组长，想把下个月客户年会的物料统筹交给新来的同事小周，她之前在上一家公司做过活动。怎么说才不像甩锅？",
-   "reply": "小周，想请你来负责11月18号客户年会的全部物料统筹。你之前做过好几场活动，这块你比组里其他人都熟。完成的标准是：11月8号前把展架、手册和伴手礼都定稿下单，预算控制在3万以内。初稿出来我随时帮你过一遍，我也会跟王经理说好，这件事正式算在你的工作量里。你看现在手上的事情，接得下来吗？",
+   "situation": "我是组长，想把11月18号客户年会的物料统筹交给新来的同事小周，她之前在上一家公司做过活动。要在11月8号前把展架、手册和伴手礼定稿下单，预算3万以内，我会跟王经理说好算进她的工作量。怎么说才不像甩锅？",
+   "reply": "小周，想请你来负责11月18号客户年会的全部物料统筹。你之前做过活动，这块你比组里其他人都熟。完成的标准是：11月8号前把展架、手册和伴手礼都定稿下单，预算控制在3万以内。初稿出来我随时帮你过一遍，我也会跟王经理说好，这件事正式算在你的工作量里。你看现在手上的事情，接得下来吗？",
    "lang": "zh",
    "note": "说清结果、为什么是她、完成标准和截止日，最后真心问一句她接不接得住，而不是直接派活。"
   },
   {
    "id": "ask-colleague-for-help-or-delegate-003",
-   "situation": "In a meeting with the VP today she asked me what our churn rate was for enterprise accounts last quarter and I blanked. I want to send a follow-up on Slack.",
-   "reply": "Hi Carla, on your question about enterprise churn in Q2: I didn't have the number in my head and didn't want to guess. I'm pulling it from the billing data with Ahmed now and will send you the exact figure, with the three biggest accounts we lost, by 4pm today. Is this for the board deck, or something else I should shape it for?",
+   "situation": "In a meeting today our VP, Carla, asked me what our churn rate was for enterprise accounts last quarter and I blanked. Ahmed is helping me pull it from the billing data now. I want to send her a follow-up on Slack.",
+   "reply": "Hi Carla, on your question about enterprise churn last quarter: I didn't have the number in my head and didn't want to guess. I'm pulling it from the billing data with Ahmed now and will send you the exact figure by 4pm today. Is this for the board deck, or something else I should shape it for?",
    "lang": "en",
    "note": "The 'I don't know' formula: say it cleanly, name the next step and a time, and ask what the answer feeds into."
   },
   {
    "id": "ask-colleague-for-help-or-delegate-004",
-   "situation": "I'm a marketing manager and need someone from legal to review the rules for our October giveaway before it goes live on Monday Oct 12. Nobody in legal reports to me and I've never worked with them. The legal ops contact is Grace Liu.",
-   "reply": "Hi Grace, I'm running the Harvest giveaway for marketing, launching Monday 12 October, and we need a legal review of the official rules before it goes live. It's a two-page doc, and I've highlighted the three sections I'm least sure about: eligibility, prize value and the entry deadline. Could someone on your team review it by end of day Wednesday 7 October? If that's too tight with your current queue, tell me what date works and I'll plan the launch around it.",
+   "situation": "I'm a marketing manager and need someone from legal to review the two-page rules for our October giveaway by Wednesday Oct 7, before it goes live on Monday Oct 12; I'm least sure about eligibility, prize value and the entry deadline. Nobody in legal reports to me and I've never worked with them. The legal ops contact is Grace Liu.",
+   "reply": "Hi Grace, I'm running the October giveaway for marketing, launching Monday 12 October, and we need a legal review of the official rules before it goes live. It's a two-page doc, and I've highlighted the three sections I'm least sure about: eligibility, prize value and the entry deadline. Could someone on your team review it by end of day Wednesday 7 October? If that's too tight with your current queue, tell me what date works and I'll plan the launch around it.",
    "lang": "en",
    "note": "Cross-team you have no authority, so make the job small, say exactly what done looks like, and let them name the date if yours doesn't fit."
   },
   {
    "id": "ask-colleague-for-help-or-delegate-005",
-   "situation": "I asked my peer Ravi on the data team to build the churn dashboard for our QBR by Friday Oct 9. He replied that there's no way, he's on the migration until the 16th. I still need something for the QBR on Monday Oct 12.",
+   "situation": "I asked my peer Ravi on the data team to build the churn dashboard for our QBR by Friday Oct 9. He replied that there's no way, he's on the migration until the 16th. I still need something for the QBR on Monday Oct 12, and the monthly churn chart by plan tier from the existing billing table would do.",
    "reply": "Understood, Ravi, the migration comes first. Could we trim it to just the monthly churn chart by plan tier, from the existing billing table? If that's doable by Friday 9 October, I'll handle the formatting and the rest of the deck. If even that doesn't fit, is there someone else on your team who knows that table?",
    "lang": "en",
    "note": "When a delegated task gets a no, negotiate scope or ask who else, instead of repeating the original ask. If it's still no, flag it to your manager today."
   },
   {
    "id": "ask-colleague-for-help-or-delegate-006",
-   "situation": "我手上同时有三个项目：官网改版、双十一活动页、还有领导上周又加给我的供应商系统对接，都说要10月底前完成，我一个人肯定做不完。想让李总定优先级，但不想显得在推活。",
-   "reply": "李总，想跟您对一下我手上三个项目的优先级。官网改版、双十一活动页、供应商系统对接目前都排在10月30号前，按我估的工作量，一个人能保证两个按时高质量交付。我的建议是：活动页优先，因为11月1号要开始预热；官网按原计划；供应商对接推到11月中，或者请技术部小王先接前期的接口梳理。您看哪个方案合适？今天能定的话，我明天一早就按新排期推进。",
+   "situation": "我手上同时有三个项目：官网改版、双十一活动页、还有领导上周又加给我的供应商系统对接，都说要10月底前完成，我估计一个人最多保证两个。活动页11月1号要开始预热，技术部小王能先接对接的接口梳理。想让李总定优先级，但不想显得在推活。",
+   "reply": "李总，想跟您对一下我手上三个项目的优先级。官网改版、双十一活动页、供应商系统对接目前都排在10月底前，按我估的工作量，一个人能保证两个按时高质量交付。我的建议是：活动页优先，因为11月1号要开始预热；官网按原计划；供应商对接往后推，或者请技术部小王先接前期的接口梳理。您看哪个方案合适？今天能定的话，我明天一早就按新排期推进。",
    "lang": "zh",
    "note": "向上求助要带上工作量判断和一个推荐方案，让领导做选择题，而不是把问题整个丢过去。"
   },
   {
    "id": "ask-colleague-for-help-or-delegate-007",
-   "situation": "I'm the new team lead and about 20 years older than most of my team. My report Maya is the Figma expert and I need to be able to edit our prototypes before the Harlow client review on Thursday Oct 8. Asking someone junior to teach me feels strange.",
+   "situation": "I'm the new team lead and about 20 years older than most of my team. My report Maya is the Figma expert and I need to edit our onboarding prototype before the Harlow client review on Thursday Oct 8; I've done the basics tutorial but I'm stuck on components and how the flows link up. Asking someone junior to teach me feels strange.",
    "reply": "Hi Maya, could you teach me something? I need to make small edits to the onboarding prototype before the Harlow review on Thursday Oct 8, and you know Figma far better than I do. I've done the basics tutorial, so it's mainly components and how the flows link up that I'm stuck on. Could you spare 30 minutes before then, maybe Friday or Monday? If you're heads-down, a pointer to a good walkthrough would help too.",
    "lang": "en",
    "note": "Asking down uses the same shape as asking across: what you've tried, the exact gap, the time cost and an out. Saying she knows it better is context, not flattery."
   },
   {
    "id": "ask-colleague-for-help-or-delegate-008",
-   "situation": "Yesterday I posted in our #data-help Slack channel asking why the Salesforce sync drops leads created on weekends. Nobody replied. Tomás built the original sync but moved to the payments team in June.",
+   "situation": "Yesterday I posted in our #data-help Slack channel asking why the Salesforce sync dropped 43 leads created last weekend. Nobody replied. I've checked the field mappings and API limits and suspect the scheduler; Tomás built the original sync but moved to the payments team in June.",
    "reply": "Hi Tomás, quick one about the Salesforce sync you built. It's dropping leads created on weekends, 43 of them last Saturday and Sunday. I've checked the field mappings and the API limits and both look fine, so I suspect the scheduler. Could you look at it with me for 15 minutes on Thursday or Friday? If payments has you swamped, a pointer to where the scheduler config lives would already help a lot.",
    "lang": "en",
    "note": "When a group post gets silence, don't re-post: ask one named person directly, with what you've ruled out and a small, time-boxed ask."
   },
   {
    "id": "ask-colleague-for-help-or-delegate-009",
-   "situation": "我10月12号到16号请了年假。手上跟华东几家供应商的对账邮件每天都有，想请同组的小林帮我盯一下。我们是平级，她手上的活也不轻。",
+   "situation": "我10月12号到16号请了年假。手上跟华东几家供应商的对账邮件每天三四封，基本是确认金额，想请同组的小林帮我盯一下，对不上的留给我回来处理。我们是平级，她手上的活也不轻，我可以以后帮她接周报。",
    "reply": "小林，想请你帮个忙：我10月12日到16日休年假，这周华东供应商的对账邮件能不能帮我盯一下？每天大概三四封，基本是确认金额。模板和对账表我9日周五前整理好放在共享盘，遇到金额对不上的直接放着，等我19日回来处理。之后你休假或者忙不过来的时候，你那边的周报我来接。看你那周手上的事，接得过来吗？不方便也没关系，我再找别人。",
    "lang": "zh",
    "note": "平级之间没有分派的权力：说清范围和工作量，把难的留给自己，给一个交换，也给退路。"
   },
   {
    "id": "ask-colleague-for-help-or-delegate-010",
-   "situation": "I'm an account manager at a payroll software company. On a call today, a client, Deborah at Fernway Clinics, asked whether our system will handle Colorado's new overtime rules starting in January. I didn't know and said I'd check. Sending a follow-up email.",
+   "situation": "I'm an account manager at a payroll software company. On a call today, a client, Deborah at Fernway Clinics, asked whether our system will handle Colorado's new overtime rules starting in January. I didn't know, said I'd check, and have asked our compliance lead, Marcus Webb. Sending a follow-up email.",
    "reply": "Hi Deborah, on your question about the Colorado overtime changes you mentioned for January: I don't know off the top of my head whether our system covers them, and I'd rather check than guess on something that affects your payroll. I've asked our compliance lead, Marcus Webb, and I'll come back to you with a clear answer by Thursday 1 October. Which pay run do you need it confirmed for? That will help us check the right thing.",
    "lang": "en",
    "note": "\"I don't know\" works with clients too: say it cleanly, name who you're asking and when they'll hear back."
   },
   {
    "id": "ask-colleague-for-help-or-delegate-011",
-   "situation": "I'm three weeks into managing a team of 5. In our team Slack, Omar asked whether unused holiday days roll over into next year. I have no idea and I don't want to guess.",
+   "situation": "I'm three weeks into managing a team of 5. In our team Slack, Omar asked whether unused holiday days roll over into next year. I have no idea, I don't want to guess, and Priya in HR would know.",
    "reply": "Good question, Omar, and I don't know yet. I'd rather check than guess on something that affects your leave. I've asked Priya in HR and I'll post the answer here by Thursday, so everyone sees the same thing.",
    "lang": "en",
    "note": "A new manager earns credibility with a fast 'I don't know' plus a named source and a date; answering in the same thread keeps it fair for everyone."
   },
   {
    "id": "ask-colleague-for-help-or-delegate-012",
-   "situation": "上周我们组的报表系统出故障，隔壁数据组的阿杰连着加了两个晚上班帮我们修好，赶上了周一给客户的月报。这不是他的活。想在部门群里谢谢他，也让他领导孙姐看到。",
-   "reply": "@阿杰 正式谢谢你！上周报表系统出故障，你连着两个晚上帮我们排查，定位到是数据同步任务的时区设置，周一给恒达的月报才按时发出去。这本来不是你的活，你还顺手写了一份排查文档，以后我们组自己就能处理。@孙姐 想让您也知道，这次阿杰真的帮了大忙。下次你们组需要人手，随时叫我们。",
+   "situation": "我是行政主管，想把公司年会场地的选择全权交给下属小吴：预算5万以内，能坐120人，10月23日（周五）前签合同。上次团建的场地就是她找的，大家都满意。我想让她自己拍板，而不是做完方案再拿回来给我挑。",
+   "reply": "小吴，年会场地这件事想请你全权负责，最后定哪家由你拍板，不用拿方案回来给我挑。上次团建的场地是你找的，大家都满意，所以交给你我很放心。条件就三个：预算5万以内，能坐120人，10月23日周五前签合同。合同需要我签字的话提前一天告诉我，我当天签。你看手上的事，接得下来吗？",
    "lang": "zh",
-   "note": "感谢要具体到他做了什么、带来了什么结果，并且发在他领导看得到的地方。"
+   "note": "交出决定权时把边界说清（预算、人数、截止日），边界内的选择全交给对方，别让她做完了还要等你挑。"
   },
   {
    "id": "ask-colleague-for-help-or-delegate-013",
-   "situation": "I'm new to our Python codebase and I've already asked my teammate Anika for help twice this month. I'm stuck again on the deploy script and I feel like I'm becoming a burden.",
-   "reply": "Hi Anika, I know I've leaned on you a couple of times this month, so I've done my homework first: the deploy script fails at the migration step, and I've checked the env vars and rerun it from a clean branch with the same error. Could you spare 15 minutes this afternoon or tomorrow morning? I'll write up whatever we find in the team wiki so the next new person doesn't need to ask you, and if you want to hand me the release notes this sprint, I'm glad to take them.",
+   "situation": "I'm new to our Python codebase and I've already asked my teammate Anika for help twice this month. Now the deploy script fails at the migration step; I've checked the env vars and rerun it from a clean branch. I feel like I'm becoming a burden, and I'd like to write up whatever we find in the team wiki.",
+   "reply": "Hi Anika, I know I've leaned on you a couple of times this month, so I've done my homework first: the deploy script fails at the migration step, and I've checked the env vars and rerun it from a clean branch with the same error. Could you spare 15 minutes this afternoon or tomorrow morning? I'll write up whatever we find in the team wiki so the next new person doesn't need to ask you.",
    "lang": "en",
    "note": "Name the pattern once and give something back; a third apology would make it heavier, not lighter."
   },
   {
    "id": "ask-colleague-for-help-or-delegate-014",
-   "situation": "I manage a team of 6. Every quarter someone has to do the access review audit, about six hours of checking spreadsheets. Tom did it last quarter; I want to hand it to Lena without pretending it's a growth opportunity.",
-   "reply": "Hi Lena, I'd like you to take the Q4 access review this time. To be straight with you, it's about six hours of checking spreadsheets, not a stretch project, and we rotate it so it never lands on the same person twice. Done means every account signed off in the tracker by Friday 23 October, and Tom will give you 15 minutes on his notes from last quarter. I'll take something else off your plate to make room, so tell me which ticket can slip a week. Does that work with what you've got on?",
+   "situation": "I manage a team of 6. Every quarter someone does the access review audit, about six hours of checking spreadsheets, and we rotate it so nobody gets it twice. Tom did it last quarter and can walk Lena through his notes; I want it done by Friday 23 October, I'll take something off her plate, and I don't want to pretend it's a growth opportunity.",
+   "reply": "Hi Lena, I'd like you to take the Q4 access review this time. To be straight with you, it's about six hours of checking spreadsheets, not a stretch project, and we rotate it so it never lands on the same person twice. Done means every account signed off in the tracker by Friday 23 October, and Tom can walk you through his notes from last quarter. I'll take something else off your plate to make room, so tell me which ticket can slip a week. Does that work with what you've got on?",
    "lang": "en",
    "note": "For dull work, 'it's your turn in the rotation' is an honest why-them; dressing it up as growth backfires."
   },
   {
    "id": "ask-colleague-for-help-or-delegate-015",
    "situation": "Two weeks ago I delegated the vendor cost review to Kenji on my team, due Friday Oct 9 for the budget meeting on Monday Oct 12. I haven't heard a word since. I don't want to micromanage, but I need to know it's on track.",
-   "reply": "Hi Kenji, quick check-in on the vendor cost review, not a status meeting. Is Friday 9 October still realistic for you? If anything's stuck, like missing contracts or a vendor not replying, tell me now and I'll chase it; if we need to, it could cover just our top ten vendors for Monday's budget meeting. A one-line reply is plenty.",
+   "reply": "Hi Kenji, quick check-in on the vendor cost review, not a status meeting. Is Friday 9 October still realistic for you? If anything's stuck, tell me now and I'll chase it, and if we need to, we can trim the scope for Monday's budget meeting. A one-line reply is plenty.",
    "lang": "en",
    "note": "Check the outcome and the date, not the steps, and offer to remove blockers or trim scope; that is support, not micromanagement."
   },
   {
    "id": "ask-colleague-for-help-or-delegate-016",
    "situation": "I'm a nurse on a surgical ward. My son's school play is Saturday Oct 10 and I'm rostered on the day shift. My colleague Tasha is on days Sunday Oct 11 and I'm off that day. Swaps need sign-off from our charge nurse, Grace.",
-   "reply": "Hi Tasha, could I ask you a favour? My son's school play is on Saturday 10 October and I'm on the day shift. Would you swap your Sunday 11 October day for my Saturday? Same hours, and I'll put the request to Grace myself so it's official. If Saturday doesn't suit you, no problem at all, just say and I'll ask around.",
+   "reply": "Hi Tasha, could I ask you a favour? My son's school play is on Saturday 10 October and I'm on the day shift. Would you swap your Sunday 11 October day for my Saturday? I'll put the request to Grace myself so it's official. If Saturday doesn't suit you, no problem at all, just say and I'll ask around.",
    "lang": "en",
    "note": "A shift swap is a peer ask with no authority: name the exact trade, take on the admin yourself, and give a real out."
   },
   {
    "id": "ask-colleague-for-help-or-delegate-017",
-   "situation": "I'm in Singapore and present the Q3 forecast to our regional CFO on Friday Oct 2 at 9am my time. The LatAm tab shows a 14% margin and I can't tell whether freight is in cost of goods. The analyst who built it, Beatriz, is in São Paulo, 11 hours behind, and we've never worked together.",
-   "reply": "Hi Beatriz, I'm Wei from the Singapore finance team. I'm presenting the Q3 forecast to our regional CFO on Friday 2 October at 9am Singapore time, which is Thursday 8pm for you. I can follow the LatAm revenue, but I can't tell whether freight is included in cost of goods for the 14% margin. Could you reply in writing by the end of your Wednesday? Three or four lines is plenty, and if that's too tight, just say so and I'll present the margin as provisional.",
+   "situation": "I'm Wei in the Singapore finance team, presenting the Q3 forecast to our regional CFO on Friday Oct 2 at 9am my time. The LatAm tab shows a 14% margin and I can't tell whether freight is in cost of goods; I need an answer by the end of Wednesday in São Paulo, or I'll present the margin as provisional. The analyst who built it, Beatriz, is in São Paulo, 11 hours behind, and we've never worked together.",
+   "reply": "Hi Beatriz, I'm Wei from the Singapore finance team. I'm presenting the Q3 forecast to our regional CFO on Friday 2 October at 9am Singapore time, which is Thursday 10pm for you. I can follow the LatAm revenue, but I can't tell whether freight is included in cost of goods for the 14% margin. Could you reply in writing by the end of your Wednesday? Three or four lines is plenty, and if that's too tight, just say so and I'll present the margin as provisional.",
    "lang": "en",
    "note": "Across time zones, write the ask so it can be answered without a call: the exact question, both local times, and an out."
   },
@@ -166,7 +166,7 @@
   {
    "id": "ask-colleague-for-help-or-delegate-024",
    "situation": "I'm a solutions engineer on a live demo call with a prospect, Helmsworth Insurance. Their IT lead, Femi, just asked whether our audit logs can be exported to their own storage automatically. I'm not sure, and our product lead, Ana, is the one who'd know. What do I say out loud right now?",
-   "reply": "Good question, Femi, and I don't know for certain whether that export can run automatically. I'd rather not guess on something your security team will rely on. I'll check with Ana, our product lead, and email you a clear answer by end of day tomorrow. Is this for a compliance requirement? That'll help me make sure we answer the right question.",
+   "reply": "Good question, Femi, and I don't know for certain whether that export can run automatically. I'd rather not guess on something you'll rely on. I'll check with Ana, our product lead, and email you a clear answer by end of day tomorrow. Is this for a compliance requirement? That'll help me make sure we answer the right question.",
    "lang": "en",
    "note": "Live and on the spot, the same formula works spoken: say it cleanly, name who you'll ask and when, then move the demo on."
   },
@@ -193,7 +193,7 @@
   },
   {
    "id": "ask-colleague-for-help-or-delegate-028",
-   "situation": "我在外企做采购，下周一（10月5日）要给德国总部发一封英文邮件，解释第四季度包材成本为什么涨了12%。我英文写作一般，已经自己改过一遍、查过词典，主要担心第二段语气太硬，像在推卸责任。同组的陈雯在英国读了六年书，想请她帮忙看看。",
+   "situation": "我在外企做采购，下周一（10月5日）要给德国总部发一封英文邮件，解释第四季度包材成本为什么涨了12%。我英文写作一般，已经自己改过一遍、查过词典，主要担心第二段语气太硬，像在推卸责任。同组的陈雯在英国读了六年书，想请她周五下班前花十分钟帮忙看看。",
    "reply": "陈雯，想请你帮个小忙：下周一（10月5日）我要给德国总部发一封英文邮件，解释第四季度包材成本为什么涨了12%。全文我已经自己改过一遍、查过词典，主要是第二段，担心语气太硬，读起来像在推卸责任。能不能抽10分钟帮我看看这一段？周五下班前看一眼就行；这两天太忙的话直接说，没关系，我再想办法。",
    "lang": "zh",
    "note": "请同事帮忙改外语邮件：先说自己做过什么，再把范围缩到具体一段和十分钟。"

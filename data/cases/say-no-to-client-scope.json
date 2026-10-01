@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -204,6 +204,13 @@
    "reply": "Hi Dr. Hale, I understand wanting some balance against those two reviews. I can't write reviews under made-up patient names: they'd mislead people choosing a dentist, and it's not work I take on. What I can do is write a short follow-up email and a front-desk card asking your real patients for a review, as a one-off add-on for $150. Would you like me to go ahead?",
    "lang": "en",
    "note": "An ethics no still comes with a paid path to what the client actually wants; fake reviews can also put a business listing at risk, so check the platform's rules."
+  },
+  {
+   "id": "say-no-to-client-scope-030",
+   "situation": "I'm a freelance app developer building the iOS app for Mara's dog-walking startup, launching Thursday 22 October; the contract covers iOS only. Mara just asked if I could 'do the Android version too while we're at it' before launch. I'd quote Android as a phase two: $9,000, about six weeks, starting Monday 2 November.",
+   "reply": "Hi Mara, great that you're already thinking about Android users. Our contract covers the iOS app, and Android is a separate build rather than an add-on, so I'd keep the iOS launch on 22 October as planned. I can quote Android as a phase two: $9,000, about six weeks, starting Monday 2 November. Shall I send that over as a separate agreement?",
+   "lang": "en",
+   "note": "A big add-on late in a project goes to phase two: protect the launch, price the extra, and get the yes in writing."
   }
  ]
 }

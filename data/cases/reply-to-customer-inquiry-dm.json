@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -204,6 +204,13 @@
    "reply": "您好，请节哀。可以做的，向日葵现在有货，用叔叔最喜欢的花送他，很好。告别花篮480元起，市区殡仪馆免费送到，会在10月9日周五上午告别前送到。方便的话，发我一下叔叔的姓名和挽联上落款的名字，我先帮您把花留好。",
    "lang": "zh",
    "note": "先一句节哀，再直接回答能不能做、多少钱、能不能送到；不推更贵的款式。"
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-030",
+   "situation": "I run a small tattoo studio. Our policy is 18 and over with photo ID, no exceptions, even with a parent's consent. A girl named Mia DMed: 'hi im 16, can i get a small moon on my wrist if my mum comes with me? how much?' A small wrist piece like that is $90, and we can save a design request until someone turns 18.",
+   "reply": "Hi Mia! Thanks for asking first. We only tattoo people who are 18 or over with photo ID, even with a parent there, so I can't book you in yet. A small wrist moon like that is $90, and I can save your design idea for when you turn 18. Want me to?",
+   "lang": "en",
+   "note": "Answer the real question first, even when it's a no, and never sell around your own age policy."
   }
  ]
 }

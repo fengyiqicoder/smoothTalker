@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -204,6 +204,13 @@
    "reply": "Hi Sam. I won't be going on the trip together. I'll cancel the apartment by Friday 9 October, before the free cancellation deadline, and since I paid for it there's nothing for you to sort on that side. Your flight is yours to use, change or cancel as suits you; I'm doing the same with mine. That's everything from my end.",
    "lang": "en",
    "note": "Shared plans after a breakup are logistics: who does what, by when, and a clean last line."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-030",
+   "situation": "我和男朋友阿远同居一年半，租的房子租约到明年2月底，每月房租5000元我们各付一半。他在新疆出差到10月25日，我想清楚了要分手，不想等他回来再说。我打算10月20日前搬去我姐家，10月和11月我那一半房租照付。",
+   "reply": "阿远，这件事本该当面说，但我不想等到你25号回来，所以现在告诉你：我想分手。我想得很清楚，这是我自己的决定，不是你做错了什么。我会在20号前搬到我姐家，10月和11月我那一半房租照付，之后的租约怎么处理，等你回来我们再商量。出差注意身体。",
+   "lang": "zh",
+   "note": "同居分手，消息里就把搬家和房租说清楚，对方不用猜接下来怎么办；租约后续按合同和房东一起处理。"
   }
  ]
 }

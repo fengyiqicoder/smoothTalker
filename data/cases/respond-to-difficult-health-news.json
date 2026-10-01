@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -204,6 +204,13 @@
    "reply": "Mia, I'm so sorry. Thank you for telling me. I'm here for all of this, and you never have to manage my pregnancy around it; if you need some distance from me for a while, that's okay, and I'll still be here. I can do our Sunday dog walk as usual, or just take your dog out for you, whichever helps. No need to reply.",
    "lang": "en",
    "note": "Names the pregnancy once, gives her permission to step back, then puts the focus back on her."
+  },
+  {
+   "id": "respond-to-difficult-health-news-030",
+   "situation": "My little brother Ollie, 19, is at uni about two hours from me. He just texted that he spent last week in a psychiatric unit, has been diagnosed with bipolar disorder, is out now and on medication, and asked me not to tell our parents yet. He sounded flat rather than panicked, and I'm free to drive down on Saturday 10 October.",
+   "reply": "Ollie, thank you for telling me. I'm really sorry you've been through that, and I'm glad you're out and being looked after. I won't say anything to Mum and Dad; that's yours to share when you're ready. Could I drive down on Saturday the 10th and take you out for lunch? No need to reply tonight, I'm here.",
+   "lang": "en",
+   "note": "Keep his confidence about the diagnosis; if he ever says he's thinking of harming himself, call emergency services or a crisis line with him."
   }
  ]
 }

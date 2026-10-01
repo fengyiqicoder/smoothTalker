@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -204,6 +204,13 @@
    "reply": "Mum, I've been thinking about what you said this morning. You're right that I took over your pill organiser without asking you, and I'd hate that too, so I'm sorry. On the cooking I see it a bit differently, because the gas was left on twice in August and it frightened me. Could we sit down after lunch tomorrow and agree together how we handle both, so it's your plan as much as mine?",
    "lang": "en",
    "note": "Own the fair part plainly and give the one fact behind your worry; if the gas keeps happening, ask her whether you can raise it with her GP together."
+  },
+  {
+   "id": "respond-to-criticism-030",
+   "situation": "我们课程小组作业周五交，组长小陈在微信群里说我负责的文献综述“像凑字数，引用格式也乱七八糟”。引用格式确实乱，我混用了两种格式，今晚可以统一成老师要求的那种；但篇幅是按老师要求的3000字写的，内容我觉得不算凑数。",
+   "reply": "谢谢指出来。引用格式确实是我的问题，我混用了两种，今晚就统一成老师要求的格式。“凑字数”这点我看法不太一样，3000字是按老师的要求写的，我觉得内容不算凑数。不过你要是觉得哪几段可以删或者需要加强，能具体指一下吗？我私聊你，免得刷屏。",
+   "lang": "zh",
+   "note": "群里被公开批评：先认下对的部分并给出时间，不同意的部分平静说一句，具体讨论转私聊。"
   }
  ]
 }

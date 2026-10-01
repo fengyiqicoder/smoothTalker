@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -204,6 +204,13 @@
    "reply": "Dad, the kids love their Fridays with you, and I want that to carry on. From this Friday I'm going to pick them up from school myself, and they won't be getting in a car with anyone who's had a drink. Come round to ours for Friday tea with them instead; we'd love to have you.",
    "lang": "en",
    "note": "Keep the reason to one line and don't debate whether he'd been drinking; if you ever think a driver with children in the car is unsafe, call emergency services."
+  },
+  {
+   "id": "set-boundary-030",
+   "situation": "我今年开始看心理咨询，每两周一次，状态在慢慢变好。我妈每次打电话都追问咨询师跟我聊了什么，上周还说要找咨询师的电话亲自问问。我不想跟她说咨询的内容，也不会给她咨询师的电话，但愿意跟她聊我最近的生活。这周日我回家吃饭。",
+   "reply": "妈，我知道您是担心我，有您惦记着，我心里挺暖的。咨询里聊的内容我不打算说，您问起来我就换个话题，咨询师的电话我也不会给。我最近状态在慢慢变好，周日回家吃饭，跟您好好聊聊我最近的日子。",
+   "lang": "zh",
+   "note": "边界说成自己会怎么做；她再追问，就重复“咨询的事我不聊”，不加理由。情绪变糟或有伤害自己的念头时，及时联系咨询师或当地心理援助热线，有危险直接打急救电话。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -204,6 +204,13 @@
    "reply": "周哥，谢谢您想着来我们这儿吃！自带的野生菌我们不加工：没法确认品种，万一混进一朵有毒的，后果谁都担不起。周六我们刚好有新到的牛肝菌，品种都是确认过的，98元一份，要不要我给您那桌留两份？",
    "lang": "zh",
    "note": "涉及食品安全的拒绝要说死，不要软化成“我们尽量看看”；吃了自采野生菌后如有不适，立即去医院或拨打120。"
+  },
+  {
+   "id": "say-no-to-a-customer-request-030",
+   "situation": "I own a small café with one big six-seat table. A regular, Sam, who works remotely, DM'd on Instagram asking if he can reserve that table every weekday from 9 to 5 for himself and two colleagues. We don't reserve tables during the day because the big table is where groups sit at lunch; they're welcome at it any morning until 11:30, and the three window seats by the sockets are free all day.",
+   "reply": "Thanks, Sam, it's great having you work from here. We don't reserve tables during the day, and the big table is where groups sit at lunch, so I can't hold it 9 to 5. You and your colleagues are welcome at it any morning until 11:30, and the three window seats by the sockets are free all day.",
+   "lang": "en",
+   "note": "The reason is the lunch groups, not 'policy', and the alternative covers most of his day without promising a reservation."
   }
  ]
 }
