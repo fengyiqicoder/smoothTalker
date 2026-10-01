@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -197,6 +197,13 @@
    "reply": "Hi Marcus, I can't make Friday 30 October from 4, as I'm offline from 3:30 on Fridays. I'll put the churn numbers and my two recommendations in the kickoff doc by noon on Thursday 29 October, so the team has them before the session. If you'd like me to walk through them live, I'm free any time Thursday or before 3 on Friday. Does that work?",
    "lang": "en",
    "note": "No need to explain the observance: a stated, fixed limit plus the deliverable and a time that works is enough."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-029",
+   "situation": "My peer Bea set up a weekly launch sync for our loyalty app back in June, Wednesdays at 11. The app launched on 14 September, the last three syncs were ten minutes of 'nothing new', and the remaining bugs are all tracked on the team board. I want to suggest we end it altogether.",
+   "reply": "Hi Bea, now that the loyalty app has been live since 14 September and the last three syncs have wrapped up in ten minutes, could we retire the Wednesday 11am sync? The remaining bugs are all on the team board, so anyone can check status there. If something comes up that needs everyone in a room, I'm happy to set up a one-off session. What do you think?",
+   "lang": "en",
+   "note": "Recurring meetings rarely end on their own: point to where the information now lives and keep a path for the rare live discussion."
   }
  ]
 }

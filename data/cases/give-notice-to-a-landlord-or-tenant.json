@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -197,6 +197,13 @@
    "reply": "陈姨，跟您正式说一声：我准备10月31日搬走，按我们当初说好的提前一个月通知您。10月的房租我照常交，31号上午把房间打扫干净、钥匙还给您，押金1800等您看过房间再退给我就好。麻烦您回个消息确认一下收到。这一年多谢谢您的照顾，尤其是我发烧那次您给我煮的粥。",
    "lang": "zh",
    "note": "没有书面合同时，这条微信和她的确认就是记录，记得截图保存；拿不准的规则可以先咨询当地的租房咨询机构。"
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-029",
+   "situation": "I'm Kofi Mensah, renting Flat 4, 22 Marsh Lane from Mrs Patel on a 12-month tenancy that started on 1 May 2026. Clause 15 is a break clause: either side can end the tenancy from 31 October 2026 onwards with two months' written notice. I've bought a flat and want to leave on 31 December; rent is £1,200, due on the 1st.",
+   "reply": "Dear Mrs Patel,\nI'm writing to give notice under the break clause, clause 15 of our tenancy agreement, that I will be ending my tenancy at Flat 4, 22 Marsh Lane on Thursday 31 December 2026. This gives the two months' written notice the clause requires. I'll pay the £1,200 rent on the 1st of each month as usual through December, and I'm happy to fit around any viewings. Could we book the check-out inspection and key handover for the morning of the 31st? Please confirm in writing that you've received this notice.\nThank you for making this such an easy place to live.\nKofi Mensah",
+   "lang": "en",
+   "note": "Break clauses often carry conditions, such as rent being fully paid; read clause 15 for any before sending, and keep proof of when the notice was served."
   }
  ]
 }

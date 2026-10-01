@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -197,6 +197,13 @@
    "reply": "老公，有件不好的事要告诉你，你先有个心理准备。上个月我没跟你商量，把我们存款里的6万投到了一个网上认识的人推荐的平台，现在平台打不开，人也联系不上，这笔钱很可能是被骗了。这是我们俩一起攒的钱，你生气、失望都是应该的。我昨天已经去派出所报了案，今晚你回来我把所有记录都给你看，我们一起商量下一步。",
    "lang": "zh",
    "note": "钱的坏消息别等对方自己发现：先预告，再说清数额和现状，不辩解。之后如果有人说能“帮忙追回”还要先交钱，多半是二次诈骗，先跟警方核实。"
+  },
+  {
+   "id": "deliver-bad-news-029",
+   "situation": "My colleague Owen spent two months on a four-day-week pilot proposal, and leadership turned it down at Tuesday's review: they won't consider it before the new financial year in April, though they called his staff survey data strong. Owen wasn't in the room, and our director Hannah asked me to tell him before her formal note goes out on Friday. I was in the review and I'm messaging him on Slack.",
+   "reply": "Owen, got a minute? I wanted you to hear this from me before Hannah's note on Friday, and it isn't the news you were hoping for: leadership turned down the four-day-week pilot at Tuesday's review. Their reason was timing; they won't consider it before the new financial year in April. I know you put two months into it, and that's a hard one to hear. They did call your staff survey data strong. I'm around whenever you want to hear how the discussion went.",
+   "lang": "en",
+   "note": "When you're the messenger for someone else's decision, give the news and their reason plainly, without softening it or defending it."
   }
  ]
 }

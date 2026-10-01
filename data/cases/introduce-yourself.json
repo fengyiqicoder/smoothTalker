@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -197,6 +197,13 @@
    "reply": "Hello, I'm Ana Ribeiro, and I'm the new owner of Maple Street Laundry. Mr Chen ran it for 22 years and retired at the end of September, so I have big shoes to fill. Prices stay exactly the same until the end of December, and from Monday 12 October you'll be able to pay by card as well. Before this I was a nurse for ten years, so tumble dryers are a gentle change of pace. If there's one thing you'd keep exactly as Mr Chen had it, or one thing you'd change, I'd love to hear it: reply to this email or tell me in person.",
    "lang": "en",
    "note": "Taking over a business: tell regulars what stays the same before what changes, and ask them for the one thing they care about."
+  },
+  {
+   "id": "introduce-yourself-029",
+   "situation": "我叫王建国，46岁，开了二十年货车，今年考上了开放大学的会计专业。班级微信群有80人，大多是二十多岁的年轻人，班主任让大家发自我介绍。我数学底子弱，但跑车时自己记了二十年账，平时爱钓鱼。",
+   "reply": "大家好，我是王建国，今年46岁，开了二十年货车，现在来学会计，算是班里的“老”同学了。跑车那些年我自己记了二十年的账，所以对数字不怕，就是数学底子弱，以后少不了请教大家。平时爱钓鱼，周边哪儿有好钓点可以问我。谁要组学习小组，算我一个！",
+   "lang": "zh",
+   "note": "年纪大的新同学：一句话说清来历，一个具体长处、一个坦白的短板，再给年轻同学一个容易接话的邀请。"
   }
  ]
 }

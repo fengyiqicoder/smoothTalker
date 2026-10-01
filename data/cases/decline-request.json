@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "decline-request-001",
@@ -197,6 +197,13 @@
    "reply": "Hi Graham, thanks for asking, and good luck with the extension. I'm going to say no to daily access through the garden for the six weeks. If it helps, I'm happy for them to bring the steel beam through once, as long as you let me know the day before. Just tell me which day you're thinking.",
    "lang": "en",
    "note": "Offer only the smaller yes you can live with, with its condition; before anyone crosses, check what your home insurance says about damage."
+  },
+  {
+   "id": "decline-request-029",
+   "situation": "大学室友阿杰12月12日结婚，请我当婚礼司仪。我一上台讲话就紧张得发抖，不想当；但那天早上可以去帮忙接亲，也可以负责礼金登记。",
+   "reply": "阿杰，恭喜恭喜！你能想到让我当司仪，我挺感动的。司仪这个我就不接了，我一上台讲话就紧张得发抖，怕耽误你的大日子。那天早上接亲我一定到，礼金登记也交给我，你放心。",
+   "lang": "zh",
+   "note": "拒绝的是司仪这个角色，不是婚礼本身；理由真实一句就够，接亲和礼金登记是真能给的帮忙。"
   }
  ]
 }

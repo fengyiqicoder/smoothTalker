@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -197,6 +197,13 @@
    "reply": "哥，咱俩别在评论区吵了，“只看短视频”那句是我说过头了，对不起，我已经删了。我知道你一直觉得我老拿大学里那套教育你。周六晚上我给你打个电话，咱俩慢慢聊。一个车的事，不值得伤了兄弟感情。",
    "lang": "zh",
    "note": "公开吵起来时，先把战场挪到私聊：删掉自己那句过火的话，不在评论区再回任何一条。"
+  },
+  {
+   "id": "de-escalate-argument-029",
+   "situation": "My friend Ama is getting married in November and I'm her maid of honour. We've been arguing over voice notes because I said the £600 hen weekend in Lisbon is too much for half the group; she said I'm trying to ruin it, and I called her a bridezilla. I'm free Saturday morning and want to send a voice note to stop this.",
+   "reply": "Hey Ama, it's me. I don't want to keep doing this over voice notes. Calling you a bridezilla was out of order, and I'm sorry. I can hear that you feel I'm not on your side, and I am. Can I call you Saturday morning so we can sort the hen do out properly? You matter way more to me than any weekend away.",
+   "lang": "en",
+   "note": "Own the insult, reflect her feeling, and park the cost question until Saturday; arguing about the £600 now restarts it."
   }
  ]
 }

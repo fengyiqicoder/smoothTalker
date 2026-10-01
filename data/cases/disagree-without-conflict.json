@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -197,6 +197,13 @@
    "reply": "I love that you want to make it a big, joyful moment, and I'm so happy for you both. Here's where I land differently: I'd make it private. Last year Amira told me she'd hate a public proposal, because being the centre of attention makes her anxious. What drew you to the party idea? If you want, I'll help you plan a private version.",
    "lang": "en",
    "note": "Lead with the one reason that is hers, not your taste, and leave the decision with him."
+  },
+  {
+   "id": "disagree-without-conflict-029",
+   "situation": "家族微信群里，68岁的舅舅转了一篇文章，说每天喝芹菜汁能代替降压药，还说他自己已经停药一周了。舅舅有高血压。我不想在群里当众反驳他，想私聊。",
+   "reply": "舅舅，看到您在群里转的芹菜汁那篇文章了。您想用更天然的办法把血压管好，这个我特别理解，谁都不想一直吃药。我这边想法有点不一样：我担心的是没跟医生商量就把药停了。您停药这一周量过血压吗？要不这周我陪您去趟医院，问问医生怎么调整。",
+   "lang": "zh",
+   "note": "长辈的健康问题私聊说，只讲一个担心、不争文章对错；如果他出现剧烈头痛、胸痛或说话不清，马上打120。"
   }
  ]
 }

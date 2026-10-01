@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -197,6 +197,13 @@
    "reply": "Hi Tom, I know the new course is eating your term. Checking in on the final manuscript for the special issue: I need your sign-off on the author order and your methods section by Friday 9 October so I can submit before the 15 October deadline. If you're happy with both as they stand, a one-line 'approved' is all I need, and if you'd like changes, just tell me which parts.\nThanks,\nPriya",
    "lang": "en",
    "note": "Bump 2 with a reason and a tiny reply; silence is not sign-off, so if nothing comes by the 9th, phone him or ask the editor about an extension."
+  },
+  {
+   "id": "follow-up-unanswered-029",
+   "situation": "営業部の中村です。9月24日に、法務部の先輩の高橋さんへ、新しい取引先との業務委託契約書のチェックを社内チャットでお願いしましたが、既読のまま返事がありません。先方への返送期限が10月9日（金）なので、10月7日（水）までに見てもらえると助かります。",
+   "reply": "高橋さん、お疲れさまです。営業部の中村です。お忙しいところすみません、9月24日にお願いした業務委託契約書のチェックの件で改めてご連絡しました。先方への返送期限が10月9日（金）のため、10月7日（水）までに見ていただけると大変助かります。もし難しそうでしたら、どなたに相談すればよいか教えていただくだけでも十分です。",
+   "lang": "ja",
+   "note": "社内の先輩への2回目の連絡は、忙しさへの配慮、用件を一行で、期限の理由、そして断りやすい出口をセットにする。"
   }
  ]
 }

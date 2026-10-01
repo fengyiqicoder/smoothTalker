@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -197,6 +197,13 @@
    "reply": "Reviving this chat with an actual plan: jam at Studio 9, Saturday 24 October, 2 to 5pm, £15 each. 👍 by Tuesday 13 October if you're in, and I'll book it on Wednesday. If three of us are in, it's on at £20 each; if not, I'll suggest another date rather than chase anyone. No reply means you're sitting this one out, no hard feelings.",
    "lang": "en",
    "note": "A dormant chat comes back with a concrete plan, not 'we should catch up'; when it costs money, silence means out."
+  },
+  {
+   "id": "group-chat-coordination-029",
+   "situation": "我是一个徒步群的领队，群里12个人约了10月10日周六去爬山，早上7点在地铁站集合，每人交了50元包车费。今天的天气预报说周六下午有雷阵雨，山顶那段没地方躲。周日11日预报是晴天，司机说周日也能出车。",
+   "reply": "各位，周六下午预报有雷阵雨，山顶那段没地方躲，安全第一，这次就不投票了：改到10月11日周日，还是早上7点地铁站集合，司机周日能出车。周日能来的扣个1，来不了的私信我，50元包车费全退。10月8日周四晚上9点统计人数，到时没回复的我就当周日不来，费用照退。",
+   "lang": "zh",
+   "note": "涉及安全时由组织者拍板，不拿来投票；只给一个方案、一键回复和截止时间。出发当天天气变坏照样取消，遇险立即拨打当地报警或急救电话。"
   }
  ]
 }

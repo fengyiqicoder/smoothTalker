@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -197,6 +197,13 @@
    "reply": "你好苏蔓，我是林晓，系统显示我们是同一间宿舍的室友！看到你那三盆多肉了，打算带到宿舍养吗？",
    "lang": "zh",
    "note": "好友验证就是第一条消息：一句说清你是谁，再接一个关于她的小问题，别一上来就列作息和规矩。"
+  },
+  {
+   "id": "first-message-to-stranger-029",
+   "situation": "My daughter Maya, 9, was diagnosed with type 1 diabetes in July, and her first school camp is in November. On a forum for type 1 families, a dad called Rob posted that his son has done three school camps on his insulin pump, and that they always write a one-page plan for the teachers. I want to message him.",
+   "reply": "Hi Rob, your post about your son's three school camps was the most reassuring thing I've read since my daughter Maya, 9, was diagnosed in July; her first camp is in November. You mentioned the one-page plan for the teachers: what's the one thing on it you'd never leave off? No worries at all if you're not able to reply.",
+   "lang": "en",
+   "note": "One question about something he shared publicly; the medical plan itself stays with Maya's diabetes team."
   }
  ]
 }

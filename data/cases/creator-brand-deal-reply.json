@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -196,6 +196,13 @@
    "reply": "Hi Mia, thanks for thinking of me. I don't pay fees to take part in any campaign, so the $79 isn't something I'll do; on paid work, the brand covers samples and shipping. If Verdeluxe would like to go ahead, please send the brief, deliverables, timeline and a written contract from a company email address, and I'll come back to you within a day.",
    "lang": "en",
    "note": "Paying to get paid is a common scam pattern: send no money or personal details, and report the account to the platform if it keeps pushing."
+  },
+  {
+   "id": "creator-brand-deal-reply-029",
+   "situation": "I review kitchen gadgets on YouTube, 90k subscribers. Two years ago I gave Kova's first blender a critical review because the jug cracked after a month. Now their partnerships lead, Dana, offers $1,800 for a sponsored video on the new Kova 2, on condition that I unlist the old review; my rate for a sponsored video is $1,800 with 30 days of organic usage, and I'd happily test the Kova 2.",
+   "reply": "Hi Dana, thanks for reaching out, I'd be glad to put the Kova 2 through its paces. The one condition I can't accept is unlisting the old review: it's an honest account of the first model, and my viewers rely on reviews staying up. What I can do is pin a comment on the old video linking to the new one once it's live, so anyone who lands there sees the Kova 2 too. The sponsored video itself is $1,800 with 30 days of organic usage. Shall I send you some dates?",
+   "lang": "en",
+   "note": "Keep the deal, refuse the condition that costs your audience's trust, and offer a fair substitute that still helps the brand."
   }
  ]
 }

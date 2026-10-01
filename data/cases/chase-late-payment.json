@@ -4,63 +4,63 @@
  "cases": [
   {
    "id": "chase-late-payment-001",
-   "situation": "Freelance photographer. Shot a restaurant's new menu, invoice #2231 for $1,850 was due Sept 12. Sent a friendly reminder last week, nothing back. Contact is the owner, Marco.",
+   "situation": "I'm Jess, a freelance photographer. Shot a restaurant's new menu, invoice #2231 for $1,850 was due Sept 12. Sent a friendly reminder last week, nothing back. Contact is the owner, Marco; their bookkeeper is Anna.",
    "reply": "Subject: Overdue: Invoice #2231\n\nHi Marco,\nFollowing up on invoice #2231 ($1,850, due 12 September) for the menu shoot, now over two weeks overdue. Could you let me know when I can expect payment, or if there's an issue on your side I should know about? I've copied in your bookkeeper, Anna, in case that helps, and attached the invoice again with bank details.\nThanks,\nJess",
    "lang": "en",
    "note": "Stage 2: finance copied in, a direct question, no apology for chasing."
   },
   {
    "id": "chase-late-payment-002",
-   "situation": "我给一家连锁健身品牌拍了秋季宣传片，发票号FT-0712，金额26,000元，8月20日到期，一直没付。原来对接的市场部刘经理上个月离职了，现在接手的是孙经理，我们从没打过交道。",
+   "situation": "我是摄影师陈悦，7月给一家连锁健身品牌拍了秋季宣传片，验收单是市场部刘经理签的，发票号FT-0712，金额26,000元，8月20日到期，一直没付。刘经理上个月离职了，现在接手的是孙经理，我们从没打过交道。",
    "reply": "孙经理您好，我是陈悦，7月给贵司拍秋季宣传片的摄影师，之前一直和刘经理对接。发票FT-0712，金额26,000元，8月20日到期，目前我这边还没有收到。合同、发票和刘经理签字的验收单都在附件里，收款账户写在发票上。麻烦您在10月9日（周五）前告诉我预计的付款日期，我同时抄送了贵司财务部。",
    "lang": "zh",
    "note": "对接人换了，先一句话说清你是谁、做了什么，把合同、发票和验收单一次附齐，让新人不用翻旧邮件就能直接走付款流程。"
   },
   {
    "id": "chase-late-payment-003",
-   "situation": "Client promised to pay my $4,000 invoice last Friday and it didn't come. When I followed up he snapped that I'm 'hounding' him and he'll pay when he can. I'm a web developer and phase 2 is supposed to start next week.",
-   "reply": "I understand it's been a stressful month. The amount and due date haven't changed: invoice #0917, $4,000, due 1 September. If cash flow is the issue, I can take $2,000 by Friday 2 October and $2,000 by 30 October, confirmed in writing. Phase 2 starts once the first payment arrives.",
+   "situation": "Client promised to pay my invoice #0917 for $4,000 (due 1 September) last Friday and it didn't come. When I followed up he snapped that I'm 'hounding' him and he'll pay when he can. I'm a web developer and phase 2 is supposed to start next week.",
+   "reply": "I understand you're frustrated. The amount and due date haven't changed: invoice #0917, $4,000, due 1 September. If cash flow is the issue, I can take $2,000 by Friday 2 October and $2,000 by 30 October, confirmed in writing. Phase 2 starts once the first payment arrives.",
    "lang": "en",
    "note": "Ignore the tone, restate the facts, offer one real way to pay, and hold the work."
   },
   {
    "id": "chase-late-payment-004",
-   "situation": "Freelance translator. Invoice #0417 for €2,400 was due September 1. Their accounts person, Lukas, said on the 10th it was 'being processed' and then nothing. It's now four weeks late.",
+   "situation": "I'm Elena Rossi, a freelance translator. Invoice #0417 for €2,400 was due September 1. Their accounts person, Lukas, said on the 10th it was 'being processed' and then nothing. It's now four weeks late, and I'm meant to start their October brochure next.",
    "reply": "Subject: Overdue: Invoice #0417\n\nHi Lukas,\nFollowing up on invoice #0417 for €2,400, due 1 September and now four weeks overdue. On 10 September you mentioned it was being processed. Could you confirm the date it's scheduled to be paid? If anything is holding it up, such as a PO number or updated bank details, tell me today and I'll send it straight over. If payment hasn't arrived by Friday 9 October, I'll pause work on the October brochure until it clears. Invoice attached again for convenience.\n\nThanks,\nElena Rossi",
    "lang": "en",
    "note": "'Being processed' gets a request for a specific pay date, an offer to remove any blocker, and the next consequence with a date you will keep."
   },
   {
    "id": "chase-late-payment-005",
-   "situation": "Built a website for a yoga studio. Invoice #1108 for $3,200 was due Sept 15. The owner, Megan, now says she'll only pay $2,400 because the booking page went live a week late.",
+   "situation": "Built a website for a yoga studio. Invoice #1108 for $3,200 was due Sept 15. The owner, Megan, now says she'll only pay $2,400 because the booking page went live on September 8 instead of September 1. The scope and price we agreed on July 20 never changed.",
    "reply": "Hi Megan, thanks for telling me where you're at. You're right that the booking page went live on September 8 instead of September 1, and I'm sorry for that week. The scope and price we agreed on July 20 didn't change, so invoice #1108 stays at $3,200. The $2,400 isn't in dispute, so could you pay that by Friday, October 2, to the bank details on the invoice? I'm free for a 15 minute call on Thursday to settle the remaining $800.",
    "lang": "en",
    "note": "Dispute: own the real delay without discounting unasked, get the undisputed portion paid now, and move the rest to a call."
   },
   {
    "id": "chase-late-payment-006",
-   "situation": "Illustrator. Invoice #0932 for $2,750 to a small agency was due August 14. I've sent a reminder, a follow-up and a firm one with a Sept 25 deadline that passed. Contact is Jordan, nothing back.",
-   "reply": "Hi Jordan, this is a final notice for invoice #0932 for $2,750, due 14 August and now 46 days overdue. If payment isn't received by Friday 9 October, I'll file a small claims case for the full amount plus the late fee set out in our agreement. I'd still rather settle this directly: a call this week, or a payment plan confirmed in writing, would be enough. Bank details are on the attached invoice. Mei",
+   "situation": "I'm Mei, an illustrator. Invoice #0932 for $2,750 to a small agency was due August 14. I've sent a reminder, a follow-up and a firm one with a Sept 25 deadline that passed. Contact is Jordan, nothing back.",
+   "reply": "Hi Jordan, this is a final notice for invoice #0932 for $2,750, due 14 August and now 46 days overdue. If payment isn't received by Friday 9 October, I'll file a small claims case for the full amount. I'd still rather settle this directly: a call this week, or a payment plan confirmed in writing, would be enough. Bank details are on the attached invoice. Mei",
    "lang": "en",
    "note": "Final notice: one date, one consequence you will actually take, and a last easy way to settle."
   },
   {
    "id": "chase-late-payment-007",
    "situation": "我做企业培训，给一家公司上了两天课，发票号HX-0826，金额18,000元，8月31日到期。对方行政赵经理说好上周五9月25日付，到今天还没到账。他们10月下旬还约了第二期。",
-   "reply": "赵经理您好，发票HX-0826的18,000元，您之前说9月25日付款，目前我这边还没有收到。麻烦您明天9月30日（周三）下午5点前确认一下是否已经付出，我同时抄送了贵司财务部的李姐。款项到账前，第二期课程的日期我先不做确认。",
+   "reply": "赵经理您好，发票HX-0826的18,000元，您之前说9月25日付款，目前我这边还没有收到。麻烦您明天9月30日（周三）下午5点前确认一下是否已经付出，我同时抄送了贵司财务部。款项到账前，第二期课程的日期我先不做确认。",
    "lang": "zh",
    "note": "对方给的日期一过就发，只写发票、金额、日期和下一步后果；截止时间放在国庆长假之前，免得一拖就是一周。"
   },
   {
    "id": "chase-late-payment-008",
-   "situation": "I run an online Spanish conversation club, $39 a month, about 300 members. I'm writing the automated email that goes out 7 days after a card payment fails. The due-date one already exists.",
+   "situation": "I'm Lucía and I run an online Spanish conversation club, $39 a month, about 300 members, with classes on Thursdays. I'm writing the automated email that goes out 7 days after a card payment fails. The due-date one already exists; draft it for a member, Marta, whose October payment failed.",
    "reply": "Hi Marta, your October payment of $39 still hasn't gone through, which usually means an expired or replaced card. You can update it in about a minute with the button below. Your membership stays active in the meantime, so you won't miss Thursday's conversation class. Any questions, just reply and you'll reach me, not a bot.\nLucía",
    "lang": "en",
    "note": "Day 7 in an automated sequence: amount, one-click fix, a real reply-to, and shorter than the first. Keep the pause for the final message."
   },
   {
    "id": "chase-late-payment-009",
-   "situation": "Freelance copywriter. Invoice #3317 for $1,600 to a skincare brand was due Friday Sept 25. Nothing has come in yet. My contact is their marketing lead, Hannah. This is my first reminder.",
+   "situation": "I'm Owen, a freelance copywriter. Invoice #3317 for $1,600 to a skincare brand was due Friday Sept 25. Nothing has come in yet. My contact is their marketing lead, Hannah. This is my first reminder.",
    "reply": "Hi Hannah,\nA quick note that invoice #3317 for $1,600 was due on Friday 25 September and I haven't seen it come through yet. It may just be in the queue; if so, please ignore this. I've attached the invoice again with the bank details for convenience.\nThanks,\nOwen",
    "lang": "en",
    "note": "Stage 1 assumes admin error: everything needed to pay, no apology for asking, and no consequence yet."
@@ -75,41 +75,41 @@
   {
    "id": "chase-late-payment-011",
    "situation": "I rent out a one-bed flat to Jordan, who's paid $1,450 on the 20th every month for two years without fail. September's rent hasn't arrived and it's now 9 days late. I don't want to sound like I'm accusing him.",
-   "reply": "Hi Jordan, a quick note that September's rent of $1,450, due on the 20th, hasn't come through on my side yet. You've always been spot on, so it may just be a transfer that didn't go through. Could you check and let me know by Friday when it's on its way? If something's come up, tell me and we'll work out a plan.",
+   "reply": "Hi Jordan, a quick note that September's rent of $1,450, due on the 20th, hasn't come through on my side yet. You've always been spot on, so it may just be a transfer that didn't go through. Could you check and let me know by Friday 2 October when it's on its way? If something's come up, tell me and we'll work out a plan.",
    "lang": "en",
    "note": "Stage one with a long clean record: assume admin error, give the amount and due date, and leave room for a real problem."
   },
   {
    "id": "chase-late-payment-012",
-   "situation": "6月份大学室友阿杰修车，我借了他5000块，他说8月底前还，到现在快10月了也没提。我们关系一直挺好，不想闹僵，但这钱得要回来。",
-   "reply": "阿杰，6月借你的那5000块，你当时说8月底还，我这边还没收到。这周能先转给我吗？一次不方便的话，分两次也行，10月15号前还清就好，你定个时间告诉我。",
+   "situation": "我是自由插画师，给一家文创公司画节日包装插画，发票号WX-0828，金额9,600元，8月28日到期，9月4日和9月14日两次邮件催款，对接的品牌部吴经理都没回。合同第7条约定逾期付款按每日0.05%计违约金，第二批插画原定下周交。",
+   "reply": "吴经理您好，发票WX-0828，金额9,600元，8月28日到期，现已逾期一个多月，9月4日和9月14日的两封邮件都还没有收到回复。请在10月9日（周五）前付款，收款账户见附件发票。如果到时仍未收到，第二批插画先暂停交付，并按合同第7条计收逾期违约金。我不希望走到这一步，如果有什么问题，请今天告诉我，我们一起解决。我同时抄送了贵司财务部。",
    "lang": "zh",
-   "note": "借给朋友的钱也按催款来：金额、原定时间、一个具体的新日期，不说情绪，也不在闲聊里夹着提。"
+   "note": "第三阶段：一个日期、合同里写明的后果、抄送财务，同时留一个直接解决的口子；违约金只按合同条款提。"
   },
   {
    "id": "chase-late-payment-013",
    "situation": "8月31日退租，房东王阿姨当时验房说没问题，说押金6000块一周内退。到现在快一个月了还没退，上周发微信问过一次，她只回了句“最近忙”。",
-   "reply": "王阿姨您好，8月31日退租时您验过房，说押金6000元一周内退，到今天快一个月了，我这边还没收到。麻烦您10月9日前转到我之前交房租的那张招商银行卡上。如果转之前需要我这边提供什么，您直接告诉我。",
+   "reply": "王阿姨您好，8月31日退租时您验过房，说押金6000元一周内退，到今天快一个月了，我这边还没收到。麻烦您10月9日前转到我之前交房租的那张银行卡上。如果转之前需要我这边提供什么，您直接告诉我。",
    "lang": "zh",
    "note": "对方说“忙”，就给一个具体日期；日期过了还没退，下一条先对照租房合同里的押金条款，写明下一步打算怎么做。"
   },
   {
    "id": "chase-late-payment-014",
-   "situation": "Freelance UX writer in Toronto. A client in Munich paid invoice #0822 for €3,000 (due 15 September), but only €2,940 arrived, so it looks like transfer fees were taken off. Our contract says the client covers transfer charges. My contact is Katrin.",
+   "situation": "I'm Priya, a freelance UX writer in Toronto. A client in Munich paid invoice #0822 for €3,000 (due 15 September), but only €2,940 arrived on 28 September, so it looks like transfer fees were taken off. Clause 6 of our contract says the client covers transfer charges. My contact is Katrin.",
    "reply": "Hi Katrin,\nThanks for settling invoice #0822, the payment arrived on 28 September. The amount received was €2,940 rather than €3,000, so it looks like transfer fees were deducted along the way. Clause 6 of our agreement has transfer charges covered by the sender, so could you send the remaining €60 by Friday 9 October? The bank details are on the invoice as before.\nThanks,\nPriya",
    "lang": "en",
    "note": "Short payment: thank them for what arrived, name the exact gap, point to the contract, and still put a date on a small amount."
   },
   {
    "id": "chase-late-payment-015",
-   "situation": "Freelance video editor. Invoice #0611 for $2,200 was due Aug 28. I've emailed Daniel, the agency owner, three times and got nothing back, so tomorrow I'm calling his office. What do I actually say if he picks up?",
-   "reply": "Hi Daniel, it's Rosa Lin, the editor on the Fairmont launch videos. I'm calling about invoice #0611 for $2,200, due on 28 August and now a month overdue. I've emailed three times without a reply, so I wanted to reach you directly. What date will it be paid? I need it by Friday 9 October, and if something's holding it up on your side, tell me now and we'll sort it. I'll confirm whatever we agree by email today.",
+   "situation": "I'm Rosa Lin, a freelance video editor. Invoice #0611 for $2,200 for the launch videos I edited for his agency was due Aug 28. I've emailed Daniel, the agency owner, three times and got nothing back, so tomorrow I'm calling his office. What do I actually say if he picks up?",
+   "reply": "Hi Daniel, it's Rosa Lin, the editor on your agency's launch videos. I'm calling about invoice #0611 for $2,200, due on 28 August and now a month overdue. I've emailed three times without a reply, so I wanted to reach you directly. What date will it be paid? I need it by Friday 9 October, and if something's holding it up on your side, tell me now and we'll sort it. I'll confirm whatever we agree by email today.",
    "lang": "en",
    "note": "On a call, say the invoice, amount and due date in the first breath, get a date out loud, and put it in writing the same day."
   },
   {
    "id": "chase-late-payment-016",
-   "situation": "I paid $846.20 out of pocket for flights and a hotel for a client visit to Chicago in July. My expense claim EXP-2291 was submitted on August 3 and approved by my manager, Dana, on August 6, but it still hasn't been reimbursed. I emailed Tom Reyes in finance on Sept 14 and heard nothing.",
+   "situation": "I'm Sam. I paid $846.20 out of pocket for flights and a hotel for a client visit to Chicago in July. My expense claim EXP-2291 was submitted on August 3 and approved by my manager, Dana, on August 6, but it still hasn't been reimbursed. I emailed Tom Reyes in finance on Sept 14 and heard nothing.",
    "reply": "Subject: Unpaid expense claim EXP-2291\n\nHi Tom,\nFollowing up on expense claim EXP-2291 for $846.20, for the Chicago client visit in July. It was submitted on 3 August and approved by Dana on 6 August, but it hasn't been reimbursed yet, and I haven't heard back on my note of 14 September. Could you let me know the date it will be paid, or whether anything is missing from the claim? I've copied Dana in case anything is needed on her side.\nThanks,\nSam",
    "lang": "en",
    "note": "Chasing your own employer is still a stage 2 chase: claim number, amount, approval date, one question for a pay date, and the approver copied."
@@ -130,7 +130,7 @@
   },
   {
    "id": "chase-late-payment-019",
-   "situation": "Freelance motion designer. Invoice #1147 for $5,600 to a large retail company was due September 14; the contract their marketing director Dana signed says payment within 30 days of invoice (clause 5). Their accounts payable contact, Greg, just replied that 'all vendors are paid net 60 per company policy'.",
+   "situation": "I'm Leila, a freelance motion designer. Invoice #1147 for $5,600 to a large retail company was due September 14; the contract their marketing director Dana signed says payment within 30 days of invoice (clause 5). Their accounts payable contact, Greg, just replied that 'all vendors are paid net 60 per company policy'.",
    "reply": "Hi Greg,\nThanks for coming back to me. The agreement for this project, signed by Dana, sets payment at 30 days from invoice in clause 5, so invoice #1147 for $5,600 was due on 14 September. Could you include it in your next payment run and confirm the date it will go out? I've copied Dana in case an exception to the net 60 policy needs her sign-off, and attached the signed agreement and the invoice again.\nThanks,\nLeila",
    "lang": "en",
    "note": "An internal policy doesn't rewrite a signed contract: quote the clause once, ask for the next payment run, and copy the person who signed."
@@ -151,7 +151,7 @@
   },
   {
    "id": "chase-late-payment-022",
-   "situation": "I'm a freelance illustrator. Invoice #0856 for $2,300 to Brightfold Books was due September 4 and I've sent two reminders with no reply. Today their editor, Sophie, emailed asking if I can start a new cover for their spring list next week. I'd love the work.",
+   "situation": "I'm Alex, a freelance illustrator. Invoice #0856 for $2,300 to Brightfold Books was due September 4 and I've sent two reminders with no reply. Today their editor, Sophie, emailed asking if I can start a new cover for their spring list next week. I'd love the work.",
    "reply": "Subject: Spring cover, and invoice #0856\n\nHi Sophie,\nThanks for thinking of me for the spring cover, I'd love to do it. Before I start anything new, invoice #0856 for $2,300, due 4 September, needs to be settled; I've attached it again with the bank details. As soon as it's paid I can start on the cover straight away. Could you check with your finance team and let me know the payment date?\nThanks,\nAlex",
    "lang": "en",
    "note": "Say yes to the new work and make the unpaid invoice the only thing standing before it; don't start new work while you're still owed."

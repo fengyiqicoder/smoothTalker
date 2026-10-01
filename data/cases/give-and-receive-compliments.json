@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -196,6 +196,13 @@
    "reply": "Dear Mr. Okafor, you may not remember me: Sarah Lindqvist, class of 2006. In my final year you stayed after school every Tuesday to walk me through equilibrium problems until they clicked, and you told me I had a chemist's patience. I've been a hospital pharmacist for twelve years now, and I don't think I'd have chosen it without those Tuesdays. Thank you.",
    "lang": "en",
    "note": "Years later, the specific thing plus what it led to is the whole message; no ask, and no reply needed."
+  },
+  {
+   "id": "give-and-receive-compliments-029",
+   "situation": "My cousin Rachel gave the eulogy at our grandad Harold's funeral on Saturday. She told the story of him stalling his old green van on purpose while teaching her to drive, so she'd stop being scared of stalling, and the whole room laughed through their tears. I want to text her, knowing she's exhausted and grieving too.",
+   "reply": "Rachel, I keep thinking about your eulogy on Saturday. The story about Grandad stalling the green van on purpose so you'd stop being scared was so completely him, and hearing the whole room laugh through the tears was the first moment that day I felt okay. No need to reply, I just wanted you to know.",
+   "lang": "en",
+   "note": "To someone grieving: one specific moment and its effect on you, nothing asked, and the reply made explicitly optional."
   }
  ]
 }

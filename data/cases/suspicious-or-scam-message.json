@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -155,6 +155,13 @@
    "reply": "阿伟，刚才微信上让我借银行卡收货款、每收1万给200的那条，是你本人发的吗？如果是你，卡我不借，也劝你赶紧停下：这种“跑分”常被用来转骗来的钱，借卡、收钱的人很容易被卷进去。如果不是你，那你的微信可能被盗了，赶紧改密码。方便的话给我回个电话。",
    "lang": "zh",
    "note": "用手机里存的号码发短信或打电话，不在那个微信对话里回，卡、密码、验证码一律不给；如果是盗号就在微信里举报，如果他已经借出卡或收过钱，劝他尽快联系银行并报警。"
+  },
+  {
+   "id": "suspicious-or-scam-message-023",
+   "situation": "I do payroll for a 40-person design studio. An email came today from what looks like our designer Kenji Ito's personal address, asking me to switch his salary to a new bank account before payday on Friday 23 October. Kenji is on our Slack every day, and I haven't changed anything yet.",
+   "reply": "Hi Kenji, quick check: we got an email today from what looks like your personal address, asking us to move your salary to a new bank account before payday on Friday 23 October. I haven't changed anything. Did you send it? If not, your personal email may have been hacked, so it's worth changing that password.",
+   "lang": "en",
+   "note": "Ask on a channel you already use, never by replying to the email; change bank details only once he confirms, and report the email to your IT or email provider as phishing."
   }
  ]
 }

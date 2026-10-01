@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -197,6 +197,13 @@
    "reply": "Hattie, we missed you and Tom on Saturday, and I haven't heard from you since, so I wanted to check everything's okay. I'll be honest, it stung a bit to see your two seats empty with no word, which is why I'm asking rather than guessing. If something happened, I'd really like to know. Either way, I'd love to catch up properly; are you free for a coffee next week?",
    "lang": "en",
    "note": "A friend's no-show at a big event: check they're okay first, name the effect in one line, and leave the meal cost out of the first message."
+  },
+  {
+   "id": "handle-no-show-or-lateness-029",
+   "situation": "我妈中风后卧床，身边离不开人，家政公司安排护工张阿姨每天早上8点到家照顾她。今天到9点半人还没来，电话也没人接，我只好请假赶回家。对接的是公司的王经理，我希望明天起能确定有人8点到。",
+   "reply": "王经理您好，今天早上8点张阿姨没到，到9点半也联系不上，我妈卧床离不开人，我只好临时请假赶回家。请您今天下午5点前告诉我：明天早上8点能不能确定有人到，是张阿姨还是换人。以后护工如果来不了，请至少提前一小时通知我；如果再出现没人来也没通知的情况，我就需要考虑换一家公司了。",
+   "lang": "zh",
+   "note": "卧床老人不能干等：联系不上护工时先安排家人或邻居照看，老人情况有异常立刻打120。"
   }
  ]
 }

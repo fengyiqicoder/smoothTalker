@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "apologize-001",
@@ -197,6 +197,13 @@
    "reply": "Robin, I'm sorry about Tuesday at book club. I called you 'she' twice, and then brushing it off as 'old habits' made it worse. You shouldn't have to sit through that with friends, and I can see why you left early. I'm practising so it comes naturally, and if I slip again I'll correct myself and move on without making it a thing.",
    "lang": "en",
    "note": "Misgendering: brief and specific, without so much guilt that they end up comforting you."
+  },
+  {
+   "id": "apologize-029",
+   "situation": "上周我在小红书一个手工皮具博主“阿木”的视频下面留言，说她做的钱包“针脚歪成这样还好意思卖”。今天看到她发动态说这条评论让她难受了好几天。我已经删了评论，想私信跟她道个歉，我们并不认识。",
+   "reply": "阿木你好，上周在你钱包视频下面留言说“针脚歪成这样还好意思卖”的人是我，对不起。那句话很刻薄，你花心思做的东西被一个陌生人这样说，难受好几天太正常了。评论我已经删了，以后有看法我会好好说，或者干脆不说。这条不用回我。",
+   "lang": "zh",
+   "note": "给陌生人道歉：先说清你是谁、说了哪句话，不解释动机，也不要求对方回复。"
   }
  ]
 }

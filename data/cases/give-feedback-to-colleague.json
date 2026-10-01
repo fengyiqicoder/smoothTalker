@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -197,6 +197,13 @@
    "reply": "Kelsey, can I give you some feedback on handover? On Monday and Wednesday, allergies didn't come up in your handover to nights, and on Wednesday the patient in bed 4 nearly got penicillin, which he's allergic to. It was caught at the last check, but it was close. What's your read on it? From now on I need allergies said out loud for every patient at handover; would it help to make them the first line on the handover sheet? Let's check in on Friday 9 October.",
    "lang": "en",
    "note": "Patient safety still gets private, specific feedback with one clear ask; near misses also go through your ward's incident reporting process."
+  },
+  {
+   "id": "give-feedback-to-colleague-029",
+   "situation": "I manage Mateus, a support engineer in São Paulo; the rest of the team is in Berlin, five hours ahead, and he and I only overlap properly on Tuesdays. On the last two Monday handoffs, 21 and 28 September, his escalated tickets had no steps to reproduce, and each time the Berlin team lost about half a day waiting for him to come online to ask. I want to raise it today in a Slack DM rather than wait for Tuesday.",
+   "reply": "Hi Mateus, can I give you some feedback on the Monday handoffs? On 21 and 28 September, the tickets you escalated didn't include steps to reproduce, and each time the Berlin team lost about half a day waiting for you to come online so they could ask. I'm writing now rather than waiting for Tuesday so it doesn't sit, but I'd genuinely like your read: is something making the steps hard to capture? Going forward, could every escalated ticket include repro steps, or a line on why they're missing? Let's talk it through live on Tuesday and look at the next two handoffs together on Tuesday 13 October.",
+   "lang": "en",
+   "note": "Written feedback across time zones still asks for their side; keep it to one issue and book the live conversation in the same message."
   }
  ]
 }

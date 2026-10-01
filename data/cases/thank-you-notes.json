@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -155,6 +155,13 @@
    "reply": "Dear Dr. Osei, Sam and everyone at Willow Lane,\nThank you for the way you looked after Pickle, and us, on Monday. Coming in early so we didn't have to sit in a busy waiting room, and letting us stay with him on his blanket the whole time, meant he went peacefully with his family around him. Sam, the clay paw print is already on our mantelpiece. Mabel will still be seeing you, and we'll think of Pickle every time we come in.\nWith love and thanks,\nHannah",
    "lang": "en",
    "note": "After a pet's death, thank the small choices that made the day gentler; they rarely hear which ones mattered."
+  },
+  {
+   "id": "thank-you-notes-023",
+   "situation": "Me chamo Beatriz e moro em Lisboa. A vizinha da minha mãe em Curitiba, Dona Lurdes, passou três tardes ensinando a minha mãe, Dona Neusa, de 79 anos, a fazer videochamada no celular e escreveu o passo a passo num caderninho para ela. Desde então eu e minha mãe nos vemos por vídeo todo domingo; vou a Curitiba em dezembro e quero mandar uma mensagem no WhatsApp para a Dona Lurdes.",
+   "reply": "Dona Lurdes, aqui é a Beatriz, filha da Dona Neusa. Quero agradecer de coração pelas três tardes que a senhora passou ensinando a minha mãe a fazer videochamada, e pelo caderninho com o passo a passo. Desde então a gente se vê todo domingo, e para quem mora longe isso não tem preço. Em dezembro, quando eu for a Curitiba, faço questão de passar aí para agradecer pessoalmente.",
+   "lang": "pt",
+   "note": "Agradecer uma ajuda dada a outra pessoa: diga quem você é, o que ela fez e o que mudou para você e sua mãe."
   }
  ]
 }

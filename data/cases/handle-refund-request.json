@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -197,6 +197,13 @@
    "reply": "阿敏，恭喜恭喜！身体最要紧，听医生的。课的事你别有负担，两个办法你挑：剩下8节按每节128元退你1024元，今天就原路退回；或者先把课冻结，生完宝宝一年内随时回来上。选哪个都行，告诉我就马上办。",
    "lang": "zh",
    "note": "熟人买课也是第一句给答案：两个选项、金额和时间说清楚，不问身体细节，也不提“规定”。"
+  },
+  {
+   "id": "handle-refund-request-029",
+   "situation": "I sold my old mirrorless camera with one lens on a local marketplace app for $420 to a buyer, Theo, who collected it in person on Saturday. Today he messaged that the autofocus hunts and won't lock in low light, and asked for his money back. I never noticed because I mostly shot outdoors; I'm willing to take it back if it comes back with the box and lens as it left, and refund him in cash or by bank transfer.",
+   "reply": "Hi Theo, sorry the autofocus is hunting in low light. I mostly shot outdoors so I never noticed, but that's not what you paid for. Yes, I'll take it back and refund the full $420. Could you bring it back with the box and lens, the way it left, one evening this week? I'll refund you in cash on the spot or by bank transfer, whichever you prefer.",
+   "lang": "en",
+   "note": "Selling privately you may not owe a refund, but a quick yes on a fault you didn't know about is fair and ends it; check it's the same camera when it comes back."
   }
  ]
 }

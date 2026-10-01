@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -197,6 +197,13 @@
    "reply": "Hi Ravi and Anika, thank you for booking Harbourline for your move, I'm looking forward to it. Here's what happens next: we'll pack your kitchen on Friday 16 October from 1pm, and we arrive at 8am on Saturday 17 October for the move itself. So I can plan the van and the crew properly, could you send me three things by Friday 9 October: a room-by-room list of large items, whether there are stairs or a lift at each address, and confirmation that a 7.5-tonne van can park at both ends? Any questions, text me on 07700 900456 and I'll reply the same day. Owen",
    "lang": "en",
    "note": "For a high-stakes day, the welcome is mostly logistics: two dated steps and one list of what you need, with a deadline that leaves time to fix problems."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-029",
+   "situation": "我是流浪猫救助站“暖窝”的志愿者负责人小周。刘先生刚在我们的小程序上开通了每月100元的定期捐款，第一次扣款是10月5日周一。我们每月10号在公众号发月报，写清钱花在了哪里；他如果需要捐赠收据，要在10月20日前把抬头和邮箱发给我。定期捐款随时可以在小程序里暂停或取消，我工作日微信一般当天回。",
+   "reply": "刘先生您好，我是暖窝救助站的小周，谢谢您开通每月100元的定期捐款，这对我们是很实在的支持。第一次扣款在10月5日（周一）。每月10号我们会在公众号发月报，写清楚每一笔钱花在了哪里。如果需要捐赠收据，麻烦在10月20日前把抬头和邮箱发给我。以后想暂停或取消，在小程序里随时可以操作。有任何问题直接微信找我，工作日一般当天回复。",
+   "lang": "zh",
+   "note": "定期捐款人也需要欢迎信：说清扣款时间、怎么看到钱的去向、怎么随时退出，信任才会持续。"
   }
  ]
 }

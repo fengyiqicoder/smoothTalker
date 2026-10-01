@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -197,6 +197,13 @@
    "reply": "Léa, tu as raison, il devrait être ici, et ma phrase de l'autre jour n'était pas juste. Pardon. Je pense à Hugo et à sa guitare à chacun de nos pique-niques au bord du canal. Samedi midi, je dépose un repas devant ta porte, pas besoin d'ouvrir ni de me répondre.",
    "lang": "fr",
    "note": "Après une maladresse, on la reconnaît en une phrase sans se justifier, puis on revient à Hugo et à une aide concrète."
+  },
+  {
+   "id": "condolences-and-support-029",
+   "situation": "My dad, Frank, is 72, and his best friend of 50 years, Ray, died on Monday. They fished at Miller's Pond every Saturday morning for as long as I can remember, and Ray taught me to bait a hook. Dad doesn't do big feelings talk, I live three hours away, and I'm visiting the weekend of 10 October.",
+   "reply": "Dad, I'm so sorry about Ray. Fifty years of Saturday mornings at Miller's Pond, and he was the one who taught me to bait a hook. I'm coming up the weekend of the 10th; if you fancy it, we could go down to the pond on the Saturday morning, and we don't have to talk unless you want to. You don't need to call me back.",
+   "lang": "en",
+   "note": "Comforting a parent: name their friend and the ritual they shared, offer side-by-side company rather than a big talk, and ask for nothing back."
   }
  ]
 }

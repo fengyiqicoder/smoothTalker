@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -197,6 +197,13 @@
    "reply": "何姐您好，咱们的运维合同10月31日到期，9月15日发您的续约报价是每月8000元，和今年一样。为了不影响所里的日常运转，想请您在10月16日（周五）前回我一句：续约、不续，或者需要再谈都行。如果不续也完全没关系，我们会用最后两周把账号、密码和设备资料整理好，完整交接给您指定的人。没收到书面确认，我们不会默认续约，10月16日我再打个电话跟您确认。",
    "lang": "zh",
    "note": "老客户续约前沉默：给一个倒推出来的日期，让三种回答都容易说出口；合同要求书面确认，沉默不等于续约。"
+  },
+  {
+   "id": "handle-being-ghosted-by-client-029",
+   "situation": "I'm Jo, a massage therapist. Gwen came in for a monthly back massage for two years, but her last visit was in June, and she hasn't rebooked or answered the one text I sent in August. From Monday 2 November I'm moving to a new studio on Elm Street, with Saturday morning slots for the first time.",
+   "reply": "Hi Gwen, Jo here. A quick bit of news in case it's useful: from Monday 2 November I'm moving to a new studio on Elm Street, and for the first time I'll have Saturday morning slots. If a monthly massage still fits your life, I'd be glad to see you again; if it doesn't right now, no need to reply, and I won't keep texting. Take care.",
+   "lang": "en",
+   "note": "A regular who drifts away doesn't owe you an explanation: real news, an easy no, and this is the last nudge unless she replies."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -197,6 +197,13 @@
    "reply": "Sue and Martin, thank you so much for including us, the villa looks wonderful. We won't do the full two weeks, but we'd love to come out for the first four days, 10 to 13 July, if that works for you. Thank you for thinking of us.",
    "lang": "en",
    "note": "A partial yes is still a clear no to the main ask: name the part you'll do, with dates, and let the hosts say whether it suits."
+  },
+  {
+   "id": "decline-invitation-029",
+   "situation": "My friend Sofia invited me to her housewarming on Saturday 10 October, a big party running till late. I have ME/CFS and a night like that wipes me out for days; she already knows about my illness. I'd love to see the new flat one quiet afternoon over a cup of tea instead.",
+   "reply": "Thank you for inviting me, Sofia, and congratulations on the new flat! I won't make the party on the 10th; a big late night is more than my ME can manage right now. I'd love to see the place on a quiet afternoon over a cup of tea instead, whenever suits you.",
+   "lang": "en",
+   "note": "When the host already knows about an illness, one plain clause is enough; skip the apology spiral and offer something you can actually do."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -197,6 +197,13 @@
    "reply": "Great run tonight, everyone, that last boss was a proper team kill. I've got a stats exam at 9, so I'm logging off now. See you Sunday at 8. Night!",
    "lang": "en",
    "note": "Say it on voice, type it in the channel, then actually leave the call; one goodbye is enough."
+  },
+  {
+   "id": "end-conversation-gracefully-029",
+   "situation": "First date with Daniel from a dating app at a wine bar. We've been here an hour and a half, there's no spark for me, and he just suggested ordering another bottle. I want to leave now without hinting we'll do it again.",
+   "reply": "I'm going to call it a night. Thanks for the drink, Daniel, it was nice to meet you. Take care getting home.",
+   "lang": "en",
+   "note": "No future hook and no fake excuse; if he asks about a second date, one honest line ('I don't think we're a match, but I enjoyed meeting you') and go."
   }
  ]
 }

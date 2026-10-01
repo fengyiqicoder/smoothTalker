@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -197,6 +197,13 @@
    "reply": "您好，我是赵晴，合同号KM-0926-112，9月26日搬家。搬运过程中我的全身镜被摔碎，搬家师傅当场拍了照，也确认是搬运时摔的。镜子是今年3月买的，380元，购物记录截图已附。按合同第5条“搬运中造成物品损坏，按购买价格赔偿”，申请赔偿380元。之前两次打客服电话都说会反馈，至今没有结果，麻烦在10月9日（周五）前给我答复。谢谢！赵晴，138 0000 0004",
    "lang": "zh",
    "note": "引用合同原文、写明师傅当场确认，只要一个数字；对方再拖，就按合同写的投诉渠道升级。"
+  },
+  {
+   "id": "complain-as-customer-029",
+   "situation": "I'm Joanna Price (joanna.price@example.com). I booked passenger assistance with Westmoor Rail for my mum, Elaine, who uses a wheelchair, on the 10:15 from Carlton to Bramley on Saturday 26 September, booking ref PA-58830; nobody came with the ramp, so she couldn't board, and staff only found one in time for the 11:15. Her return journey, also with booked assistance, is on Saturday 10 October and she's anxious it will happen again.",
+   "reply": "Hello,\nAssistance booking PA-58830: I booked passenger assistance for my mum, Elaine, who uses a wheelchair, on the 10:15 from Carlton to Bramley on Saturday 26 September. Nobody arrived with the ramp, so she couldn't board, and staff only found one in time for the 11:15. Her return journey, also with booked assistance, is on Saturday 10 October. I'd like written confirmation of what will be in place at both stations that day, so this doesn't happen again. Could you reply by Wednesday 7 October?\nThank you,\nJoanna Price, joanna.price@example.com",
+   "lang": "en",
+   "note": "When the next trip is at risk, ask first for the fix that protects it; any claim about the 26th can follow once the 10th is safe."
   }
  ]
 }

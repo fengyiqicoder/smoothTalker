@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -197,6 +197,13 @@
    "reply": "Ha, Walt, my ballot is the one secret I keep. I'll be voting, and that's all I'm sharing. Now tell me about the pickup, has it been out on the road yet?",
    "lang": "en",
    "note": "Use the same line every time he asks; any reason you give becomes the start of the lecture."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-029",
+   "situation": "我男朋友阿凯离过婚，有个6岁的女儿。奶奶知道后，每次视频都劝我“别找二婚的”。我们感情很好，我不想跟奶奶争，也不想替他解释。奶奶最近在阳台上养了几盆多肉，天天拿给我看。",
+   "reply": "奶奶，我知道您是心疼我。阿凯的事我心里有数，您放心。对了，您阳台那几盆多肉怎么样了？拿近点给我瞧瞧。",
+   "lang": "zh",
+   "note": "不替伴侣解释过去，解释只会引来更多劝说；她下次再提，就原话再说一遍。"
   }
  ]
 }

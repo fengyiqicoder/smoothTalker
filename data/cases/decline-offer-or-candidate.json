@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -197,6 +197,13 @@
    "reply": "林女士您好，非常感谢公司给我转正的机会，也感谢这半年的培养。考虑之后，我决定不接受这份offer：我已经拿到英国一个硕士项目的录取，明年去读书。这半年陈姐手把手带我写行业报告，是我实习里收获最大的部分，我也会当面再跟她道谢。希望以后还有机会合作，祝团队一切顺利。",
    "lang": "zh",
    "note": "实习转正的offer也要尽快、明确地拒绝；感谢落到带你的具体的人身上，留门的话要是真心的。"
+  },
+  {
+   "id": "decline-offer-or-candidate-029",
+   "situation": "Recebi a proposta da Vértice Engenharia para analista de projetos. Nas entrevistas, a gestora, Carla, falou em modelo híbrido com três dias em casa, mas a carta veio com trabalho 100% presencial, e o RH, Rodrigo, confirmou que isso não vai mudar. Moro a duas horas do escritório, então vou recusar, mas gostei muito das conversas com a Carla.",
+   "reply": "Olá, Rodrigo. Agradeço a proposta e por ter confirmado a questão do modelo de trabalho. Depois de pensar bem, decidi não aceitar a vaga de analista de projetos. Como moro a duas horas do escritório, o formato 100% presencial não funciona para mim. As conversas com a Carla foram das melhores do processo, e peço que agradeça a ela por mim. Desejo muito sucesso à equipe.",
+   "lang": "pt",
+   "note": "O motivo real em uma frase, sem acusar a empresa de ter mudado as condições; como o RH já disse que não muda, não há o que negociar."
   }
  ]
 }
