@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -154,6 +154,13 @@
    "reply": "妈，这一个月辛苦您了。您每天变着花样给我做饭，半夜还起来抱孩子让我能睡个整觉，我恢复得这么快，真的多亏了您。明天路上慢点，到家了跟我们说一声。",
    "lang": "zh",
    "note": "不亲近的长辈更要说具体的事，一句“辛苦了”加两件实事，比长篇感谢更自然。"
+  },
+  {
+   "id": "give-and-receive-compliments-023",
+   "situation": "Mark, a colleague on another team, keeps commenting on my looks in Teams chats: 'nice dress today' last week, and today 'you should wear your hair down more often'. Last week I replied 'ha, thanks, anyway about the report' and it didn't stop. We still have to finish the vendor review together by Friday 9 October.",
+   "reply": "Mark, I'd rather you didn't comment on my appearance. Let's keep it to the work. Where are we on the vendor review for Friday?",
+   "lang": "en",
+   "note": "The light deflection already failed, so say it plainly once; if it continues, keep the messages and take it to your manager or HR."
   }
  ]
 }

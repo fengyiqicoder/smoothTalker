@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -155,6 +155,13 @@
    "reply": "Andrés, I want Monday's sale email to land well with all 40,000 customers. After last month's broken checkout link and the 300 or so complaints, I'd like a safety check before the full send. Two options: send to 2,000 customers Monday morning, check the links and first orders, then send the rest that afternoon; or send everything Monday morning after a test send to our team on Friday. I'd go with the first, since the sale still starts Monday for everyone. Which do you prefer?",
    "lang": "en",
    "note": "Disagreeing with how, not whether: keep his date intact so the pushback reads as protecting the launch."
+  },
+  {
+   "id": "push-back-on-boss-023",
+   "situation": "My manager Grace wants me to fly to our Singapore office on Monday Oct 5 for a week to get the Halvorsen client rollout back on track. My partner is away for work until Saturday Oct 10 and I'm the only one looking after our two kids until then. Options I can offer: running it by video on Singapore hours Monday to Friday, my colleague Dev, who also worked on the rollout, flying out Monday with me backing him up remotely, or me flying out Sunday Oct 11 until Friday Oct 16.",
+   "reply": "Hi Grace, I want the Halvorsen rollout back on track as much as you do. The catch is next week: my partner is away until Saturday 10 October and I'm the only one with our two kids, so I can't fly out on Monday. Three options: I run it remotely on Singapore hours Monday to Friday; Dev flies out Monday, since he knows the rollout, and I back him up remotely; or I fly out Sunday 11 October and stay until Friday 16 October. I'd recommend Dev going Monday with me remote, so someone is on the ground straight away. Which would you prefer?",
+   "lang": "en",
+   "note": "Short-notice travel: one plain line on the constraint, no long justification of family life, and options that still get someone there."
   }
  ]
 }

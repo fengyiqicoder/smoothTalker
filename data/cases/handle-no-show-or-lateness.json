@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -155,6 +155,13 @@
    "reply": "Hi Mr Hughes, Ella really enjoys her lessons with you. I wanted to mention that the last three Thursdays, 10, 17 and 24 September, her lesson started 15 to 20 minutes late but still finished at 5:45, so she's had about 25 to 30 minutes rather than 45. Could we either start at 5 or run on to the full 45 minutes? Happy to talk it through when I drop her off tomorrow.",
    "lang": "en",
    "note": "A paid pattern: dates and minutes, a choice of two fixes, no accusation."
+  },
+  {
+   "id": "handle-no-show-or-lateness-023",
+   "situation": "I volunteer Saturday mornings at a dog rescue, 9am to noon. Last Saturday, Sept 26, I completely forgot my shift, and the coordinator, Bev, had to walk 12 dogs with only one other volunteer. I'll be there this Saturday at 9 as usual and could stay until 2 if that helps.",
+   "reply": "Hi Bev, I completely missed my 9am shift last Saturday, and I'm sorry. No excuse, it just went out of my head, and it left you walking 12 dogs with only one other pair of hands. I'll be there this Saturday at 9 as usual, and I can stay until 2 if a few extra hours would help.",
+   "lang": "en",
+   "note": "Unpaid doesn't mean optional: own it the same way you would with a friend or a boss."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -155,6 +155,13 @@
    "reply": "闺女，这几天你请假在医院守着你爸，妈都看在眼里，知道你累，也知道你委屈。不过你和你哥之间的话，妈不传，传来传去只会更僵。周六下午你们俩都来医院，咱们三个在病房外面坐下来，就商量陪护怎么排、护工钱怎么分这两件事，一个人说完另一个再说。我也会这样跟你哥说。你爸这时候最需要的，是咱们一家人齐心。",
    "lang": "zh",
    "note": "A parent between two adult children: acknowledge the one who is carrying more, still refuse to carry the message."
+  },
+  {
+   "id": "mediating-between-two-people-023",
+   "situation": "My mum, Rosa, speaks only Spanish and my husband, Mark, speaks only English, so I translate whenever they talk. They've been clashing over whether our son's christening is at Mum's church in Seville or here in Leeds, and Mark just texted me: 'Tell your mum she's being controlling.' We're all on a video call with her on Sunday anyway.",
+   "reply": "I get why you're frustrated. I'm not going to pass that line on to Mum, though: anything that goes through me comes out sharper, in either language. On Sunday's call I'll translate whatever you both say, word for word, so you can tell her yourself how you feel about the venue. Want to think through how to put it before then?",
+   "lang": "en",
+   "note": "When you're the interpreter, offer to translate a direct conversation faithfully rather than deliver one-sided messages."
   }
  ]
 }

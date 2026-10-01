@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -155,6 +155,13 @@
    "reply": "Dear Mrs Kaur, on 1 September I gave notice to leave Flat 2, 9 Elm Terrace on 31 October. The handover of my new flat has been pushed back to 14 November, so I'd like to ask whether I could stay until then, paying rent pro rata for the extra 14 days. I'll understand if that doesn't work, for example if a new tenant is due to move in. Could you let me know in writing by Friday 9 October either way? Thank you.",
    "lang": "en",
    "note": "Until she agrees in writing, 31 October is still the end date, so keep a backup plan for those two weeks."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-023",
+   "situation": "我在成都有套一居室租给小陈，合同到2027年6月30日，合同里没写房东可以提前收回。我明年调回成都工作，想自己住，想跟她商量能不能2027年2月28日退租；如果她同意，我免她2月的房租，再出1000元搬家费。",
+   "reply": "小陈你好，想跟你商量件事：我明年调回成都工作，想自己住这套房，所以想问问你能不能在2027年2月28日退租，比合同的6月30日早四个月。这是跟你商量，不是通知，合同里没有这一条，你不同意的话我们就照原合同到6月30日。如果你愿意，2月的房租我就不收了，另外出1000元搬家费；现在提前说，也是想给你留足找房的时间。你慢慢考虑，商量好了我们把新的退租日期写进书面补充协议，双方签字。",
+   "lang": "zh",
+   "note": "房东提前收房是请求不是通知；能否单方面收回要看合同和当地规定，拿不准先咨询当地住房部门。"
   }
  ]
 }

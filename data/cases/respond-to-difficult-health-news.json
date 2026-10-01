@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -155,6 +155,13 @@
    "reply": "佐藤さん\n知らせてくれてありがとう。大変な一週間でしたね。中間発表は10月22日（木）に移しておきます。ゼミのみんなには日程の変更とだけ伝えて、理由は言いません。ほかにも授業のことで調整が必要になったら、一言くれれば対応します。この返信は不要です。\n高橋",
    "lang": "ja",
    "note": "教員から学生へ：病状は聞かず、日程・プライバシー・返信不要の三つを一度に伝える。"
+  },
+  {
+   "id": "respond-to-difficult-health-news-023",
+   "situation": "I'm Sarah. My neighbour Mrs Albright, 81, told me over the fence this morning that she's been diagnosed with macular degeneration and isn't allowed to drive any more. She sounded brisk about it but I could tell she was upset. She does her shopping on Tuesdays, and I drive to the supermarket every Tuesday morning anyway. I want to put a note through her door.",
+   "reply": "Dear Mrs Albright, thank you for telling me this morning. I'm so sorry, that's a lot to take in, and losing the car on top of it. I drive to the supermarket every Tuesday morning anyway, so I'd be glad to take you along with me, or pick up your list if you'd rather. Just knock, or leave the list in my porch. No need to reply. Sarah",
+   "lang": "en",
+   "note": "Her sight is failing, so write the note in large, clear print, and fit the offer into a routine you already have so it's easy to accept."
   }
  ]
 }

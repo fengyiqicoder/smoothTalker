@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -155,6 +155,13 @@
    "reply": "可以的，5号到8号我都有空！每次60元，两只猫不加价，包括喂粮、换水、铲屎，每次上门都会给您发视频。一天上门一次的话，4天一共240元。您家在哪个小区？我确认一下路线，就帮您把这几天留出来。",
    "lang": "zh",
    "note": "Do the total for them: a holiday booking question is really asking what the whole trip costs."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-023",
+   "situation": "J'ai une chambre d'hôtes en Dordogne : 85 € la nuit pour deux, petit-déjeuner compris, et les chiens sont acceptés pour 10 € la nuit ; le jardin est clos. Camille m'écrit sur Instagram : « Bonjour ! Vous avez de la place les nuits du vendredi 16 et du samedi 17 octobre pour 2 adultes et un chien ? Le petit-déj est compris ? » La chambre du jardin est libre ces deux nuits.",
+   "reply": "Bonjour Camille ! Oui, la chambre du jardin est libre les nuits du vendredi 16 et du samedi 17 octobre, et le petit-déjeuner est compris. C'est 85 € la nuit pour deux, plus 10 € la nuit pour votre chien, soit 190 € pour le week-end. Le jardin est clos, il pourra s'y dégourdir les pattes. Je vous bloque la chambre ?",
+   "lang": "fr",
+   "note": "Plusieurs questions dans un message : répondre à chacune dans l'ordre, faire le total à sa place, puis une seule question pour réserver."
   }
  ]
 }

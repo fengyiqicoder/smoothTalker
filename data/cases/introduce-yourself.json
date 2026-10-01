@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -155,6 +155,13 @@
    "reply": "Hi everyone, I'm Marcus, Leo's dad, and I'm the new coach for the under-9s. I played Sunday league for ten years, and in the week I'm a paramedic, so scraped knees are in safe hands. What I care about most is that everyone gets the ball and has fun. Kids, shout out your favourite player as we warm up; parents, if you'd like to help with cones, come and find me after.",
    "lang": "en",
    "note": "Two audiences at once: keep it short enough for the kids and give the parents their own invitation."
+  },
+  {
+   "id": "introduce-yourself-023",
+   "situation": "I'm Joel, starting Monday 5 October as a QA engineer on a team that's all in Chicago. I'm in Manila, 13 hours ahead, so our overlap is roughly 7 to 9pm Chicago time. I spent four years testing mobile banking apps and I play in a weekend basketball league; I want to post a hello in the team Slack.",
+   "reply": "Hi all, I'm Joel, joining as a QA engineer today. I'm in Manila, 13 hours ahead of you, so our overlap is roughly 7 to 9pm Chicago time, while you're wrapping up. I spent the last four years testing mobile banking apps, so breaking things on purpose is my happy place. At weekends I play in a basketball league. If there's a bug you'd love someone to finally chase down, drop it in my DMs and I'll have notes waiting when you wake up.",
+   "lang": "en",
+   "note": "Remote in another time zone: give the overlap in their time and turn the gap into something useful to them."
   }
  ]
 }

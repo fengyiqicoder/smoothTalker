@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -155,6 +155,13 @@
    "reply": "哥、妹，妈出院后的陪护咱们今天定下来吧。我提个方案：10月16日周五出院那天我去接；之后两周，工作日上午我在家办公陪着，下午妹妹请假过去接班，周六周日哥哥全天。同意的回个1，想换的直接说换哪天。今晚10点前没人提意见就按这个来，我再做个表发群里。",
    "lang": "zh",
    "note": "家里人之间也一样：给出完整方案和默认做法，比问“谁有空”快得多。"
+  },
+  {
+   "id": "group-chat-coordination-023",
+   "situation": "My grandparents' 50th wedding anniversary is Saturday 21 November. They're both in the big family WhatsApp group, so I've started a separate group with the 9 aunts, uncles and cousins to plan a surprise lunch. Aunt Rosa has offered her house; I'm thinking 1pm, everyone brings a dish.",
+   "reply": "Welcome to the secret group! Nothing about this in the main family chat, since Nana and Grandad are in it. Proposal: surprise lunch for their 50th on Saturday 21 November, 1pm at Aunt Rosa's, everyone brings a dish. 👍 if you're in, 👎 if you can't make it, by Sunday 11 October please. If I hear nothing I'll count you in, and we'll sort who brings what after that.",
+   "lang": "en",
+   "note": "Secrecy is the reason for the smaller thread; say it once, then run the usual proposal, deadline and default."
   }
  ]
 }

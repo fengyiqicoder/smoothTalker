@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -155,6 +155,13 @@
    "reply": "Thanks for your message. I'm on maternity leave from Thursday 15 October and not baking until Monday 1 March, so I can't take orders for any date before then. I'll read email again from Monday 1 February and reply in the order messages arrived, so if your date is in March or later, include it here. Cakes already booked for before 15 October are all going ahead as planned.",
    "lang": "en",
    "note": "Solo with no cover: say plainly that everything waits, and give the date email is read again, not just the reopening date."
+  },
+  {
+   "id": "out-of-office-and-away-messages-023",
+   "situation": "I'm a product lead at a software company, back on Monday 5 October from a three-month sabbatical to about 2,400 unread emails. I'll read everything from the last two weeks but archive anything older unread. My colleague Ines Ortiz (ines.ortiz@example.com) covered my projects and is still the right person for anything urgent this week.",
+   "reply": "Thanks for your email. I'm back as of Monday 5 October after three months away and working through a large backlog. I'm reading everything from the last two weeks; anything older has been archived unread, so if it still matters, please send it again. For anything urgent this week, Ines Ortiz (ines.ortiz@example.com) is the fastest route.",
+   "lang": "en",
+   "note": "A backlog auto-reply is honest triage: say exactly what you will read and how to get the rest seen."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -155,6 +155,13 @@
    "reply": "Hola, Inés. Compré una de tus tazas azules en el mercadillo y la uso cada mañana; después vi tu vídeo del esmalte con ceniza de olivo y por fin entendí de dónde sale ese color. Me caso en mayo y me encantaría regalar a los invitados 12 tazas como esa. ¿Aceptas encargos de ese tamaño?",
    "lang": "es",
    "note": "Una pregunta pequeña y fácil de contestar; fechas, precio y detalles van en el segundo mensaje."
+  },
+  {
+   "id": "first-message-to-stranger-023",
+   "situation": "I'm 61, widowed three years, and this is my first time on a dating app. Matched with Helen, 58; her profile says she's restoring a 1970s caravan, and one photo shows it half-painted in mint green. I have no idea what people say first these days.",
+   "reply": "Mint green is a brave choice for a caravan, and I think the right one. Where's its first trip going to be once it's finished?",
+   "lang": "en",
+   "note": "No need to explain being new to apps or widowed in the first message; let the caravan do the work."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -155,6 +155,13 @@
    "reply": "Dear Mrs Evans, I'm Lily's mum, from your Year 2 class. For about two weeks Lily has been coming home very hungry, and her lunchbox comes back mostly full on most days. She tells me they get about 15 minutes to eat before going out to play, and we've started packing smaller, easier food at home. Could you let me know how lunchtime usually works, and whether you've noticed anything? Thank you, and I'm happy to chat at pick-up any day this week.",
    "lang": "en",
    "note": "Ask how lunchtime works before assuming the 15 minutes is policy; the lunch staff, not the teacher, may be the ones to fix it."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-023",
+   "situation": "我是王建国，孙子王浩然上五年级（1）班，他爸妈都在深圳打工，平时是我带他。这学期他数学单元测验从八十多分掉到了六十分，作业我辅导不了，挺着急。班主任兼数学老师是陈老师，孩子爸爸的手机是13912345678。",
+   "reply": "陈老师您好，我是五年级（1）班王浩然的爷爷王建国。浩然爸妈都在深圳打工，平时是我带他。这学期他数学单元测验从八十多分降到了六十分，作业我辅导不了，心里挺着急。想问问您课堂上有没有看到他哪里跟不上？您方便的话，这周哪天放学后我去学校找您谈十分钟。孩子爸爸的手机是13912345678，有事也可以直接找他，我们一家都会配合。谢谢您！",
+   "lang": "zh",
+   "note": "监护人不是父母时，先说清自己是谁、平时谁管孩子，再给老师一个能联系到父母的方式。"
   }
  ]
 }

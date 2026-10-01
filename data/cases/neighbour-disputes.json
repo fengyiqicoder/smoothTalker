@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -155,6 +155,13 @@
    "reply": "Hi Grace and Emeka, it's Rob from number 31. On Sunday one of the boys' footballs came over and cracked a pane in our greenhouse. Accidents happen, and we're glad they've got the garden to play in. The glazier has quoted £85 to replace it; would you be OK covering that? I'm happy to send you the quote, and do tell me if anything from our side ever bothers you.",
    "lang": "en",
    "note": "One ask only: if balls keep coming over, raise where the goal stands in a later message."
+  },
+  {
+   "id": "neighbour-disputes-023",
+   "situation": "我是902的小郑。对门901的邻居这两周每天晚上把电动车推进楼道，从家里拉电线出来充电，一充就是一整夜。物业公告写了禁止在楼道给电动车充电，楼下院子里有充电桩。我还没跟他们说过话，想先留张字条。",
+   "reply": "901的邻居您好，我是对门902的小郑。最近晚上看到电动车在楼道里充电，一充就是一整夜。楼道是大家的逃生通道，电池充电万一出问题，我们两家在同一层，挺让人担心的。物业公告里也写了楼道不能充电，楼下院子里有充电桩，以后能麻烦您推到楼下去充吗？您家要是有什么需要帮忙的，也随时敲我家门。",
+   "lang": "zh",
+   "note": "安全问题也先友好地直接说；一旦闻到焦味或看到冒烟，马上离开并打119。没改善再找物业，并提前告诉对方。"
   }
  ]
 }

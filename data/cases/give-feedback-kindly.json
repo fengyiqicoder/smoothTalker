@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -155,6 +155,13 @@
    "reply": "The first part is really strong: two dates and photos, it's hard to argue with. The last paragraph is where I'd pause. I think 'slumlord' and 'make sure everyone knows' give him something to react to other than the mould. What if you ended with one clear ask instead, like the date by which you want someone to come and look at it? You're in the right here, which is exactly why I'd let the facts do the work.",
    "lang": "en",
    "note": "She asked 'okay to send?', so lead with what works and name the one change before she hits send."
+  },
+  {
+   "id": "give-feedback-kindly-023",
+   "situation": "Mi pareja, Andrés, va a hacer paella para mis padres el sábado 10 de octubre, la primera vez que cocina para ellos. Anoche hizo una prueba y hoy me escribe por WhatsApp desde el trabajo: '¿Qué te pareció de verdad?'. El socarrat le salió perfecto, pero el arroz estaba bastante salado.",
+   "reply": "¿De verdad de verdad? El socarrat te salió perfecto, crujiente justo como tiene que ser. Lo único que noté es que el arroz me quedó un poco salado; quizá con menos sal en el caldo ya lo tienes. Si quieres, el jueves hacemos otra prueba juntos. Te lo digo porque el sábado te puede quedar buenísima.",
+   "lang": "es",
+   "note": "Un solo punto, concreto y fácil de arreglar, porque todavía hay tiempo antes del sábado."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -155,6 +155,13 @@
    "reply": "Oi, Carla, sei que essas semanas andam corridas. Sobre a procuração do apartamento da mamãe: o cartório marcou para 14 de outubro, então preciso dela assinada até sexta, 9 de outubro. Dá para você assinar até lá? Se tiver alguma dúvida sobre o documento ou preferir conversar antes de assinar, me fala, sem problema nenhum.",
    "lang": "pt",
    "note": "Silence from family on paperwork can be hesitation, not busyness; the offer to talk gives her a way to say so."
+  },
+  {
+   "id": "follow-up-unanswered-023",
+   "situation": "We fly to Porto and land at 11pm on Saturday 10 October, so we'd reach our rental flat around midnight. Five days ago I asked the host, Ana, through the booking app whether self check-in works that late; she's read it but not replied. If it doesn't, we'll book a hotel for the first night, and I'd like to sort it this week.",
+   "reply": "Hi Ana, I know you get a lot of messages, so re-asking in one line: we land at 11pm on Saturday 10 October and would reach the flat around midnight. Is self check-in possible that late? A quick yes or no is perfect; if it's a no, we'll book a hotel for the first night, so either answer helps.",
+   "lang": "en",
+   "note": "Restate the question so she doesn't scroll, and say a no is useful so it's easy to answer."
   }
  ]
 }

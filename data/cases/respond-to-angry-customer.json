@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -155,6 +155,13 @@
    "reply": "Dear Mrs Patel,\nWe quoted you £8,400 and then invoiced £9,150, with £750 of rewiring you never agreed to in writing. You should have seen that cost, and had a say in it, before the work went ahead, and I'm sorry we didn't do that. I've attached an itemised breakdown of the rewiring, and I'm taking £375, half the extra, off your bill, so the balance is now £8,775. If you'd like to go through any of it, reply to me directly or call me on 07700 900456.\nMark Hollis, Hollis Kitchens",
    "lang": "en",
    "note": "Own the missing written agreement, not the rewiring itself; if she wants more off, ask what would make it right rather than re-arguing the work."
+  },
+  {
+   "id": "respond-to-angry-customer-023",
+   "situation": "I'm Iona and I run Saltmarsh Kayaks. The forecast changed at 6:30 this morning to gusts of 35 knots, too strong to take beginners out safely, so at 7am I texted to cancel the 10am sea kayak tour. Mrs Kerr had already driven two hours with her two teenage sons and emailed furious that she found out in the car park. I've refunded her $270 for the three of them today, and I want to offer all three a free tour any weekend in October; my number is 07700 900318.",
+   "reply": "Hi Mrs Kerr, you'd already driven two hours with your boys when my 7am text cancelled this morning's tour, and you found out in the car park. That's a wasted morning and a long drive home, and I'm sorry. The forecast changed at 6:30 to gusts of 35 knots, which is too strong to take beginners out safely, so the cancellation had to stand. I've refunded your $270 in full today, and I'd love to have all three of you out on the water as my guests any weekend in October; just reply with a date that suits. I'm Iona, the owner, and you can reach me directly on 07700 900318.",
+   "lang": "en",
+   "note": "Sorry for the impact, not for the safety call: hold the decision in one plain line and let the make-good do the rest."
   }
  ]
 }

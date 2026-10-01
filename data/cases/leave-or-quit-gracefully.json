@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -155,6 +155,13 @@
    "reply": "Mr. Patel, I wanted to tell you myself: I'm starting an office job on Monday 2 November, so Friday 30 October will be my last lunchtime walk with Bruno. I've loved these two years with him. Aisha from next door has said she'd be happy to take over for a bit of pocket money; if you'd like, I'll bring her along on a few walks this month so Bruno gets to know her. And I'm just across the road, so I'll still pop in to say hello to him.",
    "lang": "en",
    "note": "An unpaid favour still deserves a date and a handover; here the handover is the introduction."
+  },
+  {
+   "id": "leave-or-quit-gracefully-023",
+   "situation": "I'm Pat. I've rented a chair at Maureen's salon for 26 years, ever since she gave me my first chair when I'd just qualified, and I'm retiring; my last day will be Saturday 19 December. About 40 regulars book with me, and my colleague Tasha has said she'd love to take on any who want her. I'm telling Maureen tomorrow before I tell any clients.",
+   "reply": "Maureen, I wanted you to hear it from me first: I'm retiring, and Saturday 19 December will be my last day in the chair. You gave me my first chair when I'd just qualified, and I've never forgotten it. I'll tell my regulars over the next few weeks, and Tasha has said she'd love to take on anyone who wants her, so I'll offer each of them an appointment with her before I go. Is there anything you'd like me to sort out before December?",
+   "lang": "en",
+   "note": "Retiring follows the same shape: the person most affected first, a date, a handover that leaves clients a choice, and one specific thanks."
   }
  ]
 }

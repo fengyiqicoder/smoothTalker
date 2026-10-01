@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -155,6 +155,13 @@
    "reply": "Hi Ben, completely understood, a new date is no use if you're only in town this week. I've refunded the full $180 to your card today, and it should show within 3 to 5 working days. Sorry we couldn't get you both out on the water, and if you're ever back this way, we'd love to take you out.",
    "lang": "en",
    "note": "When you cancelled, the refund is a plain yes; don't make them argue for it."
+  },
+  {
+   "id": "handle-refund-request-023",
+   "situation": "I make small-batch jams and sell wholesale to a few cafés. Hannah at Corner Cup bought 40 jars of plum jam at $6 each in August and wants to send back the 15 unsold ones for a $90 refund. My wholesale terms say no returns on unopened stock, but I'd happily swap them for my new quince jam, which has sold out at two other cafés; my next delivery round is Tuesday 6 October.",
+   "reply": "Hi Hannah, thanks for telling me the plum hasn't moved as fast as we'd both hoped. Wholesale stock isn't returnable, so I can't refund the $90, but I can swap all 15 jars for the new quince jam, which has sold out at two other cafés. I'll bring the quince and collect the plum on my delivery round on Tuesday 6 October, no charge. Shall I do that?",
+   "lang": "en",
+   "note": "With a trade customer, a swap keeps the account and your margin; the terms are the reason, never the opener."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -155,6 +155,13 @@
    "reply": "Daniel, I've been thinking about our call. Thank you for telling me, I know that can't have been easy after all these years. What I heard is that growing up you felt nothing you did was ever good enough for me, and you're right that I said exactly that about your B+ in chemistry. I'm sorry I said it. I may remember some of those years differently, but how it felt to you matters more right now, and I'd like to hear more if you're willing. Could I call you on Sunday?",
    "lang": "en",
    "note": "When an adult child criticises your parenting, own the specific thing, mention a different memory once and lightly, and ask to hear more instead of defending."
+  },
+  {
+   "id": "respond-to-criticism-023",
+   "situation": "I play in a Sunday league netball team. Our captain, Bex, posted in the team WhatsApp that 'some people' keep skipping Wednesday training and still expect to start on Sundays, and everyone knows she means me. I've missed three of the last four sessions because my night shift rota changed in September, and I never told anyone. My shifts change back in November and I'll be able to make every Wednesday.",
+   "reply": "Fair point, Bex, and I know it's me. I've missed three of the last four Wednesdays and I should have told you why: my night shifts changed in September. They change back in November and I'll be at every session from then. Until then it's your call whether I start on Sundays, and I'm fine either way. I'll message you directly so we don't clog the chat.",
+   "lang": "en",
+   "note": "Criticism aimed at you without your name: say 'it's me' first, give the one fact she was missing, hand her the decision, and move the rest out of the group."
   }
  ]
 }

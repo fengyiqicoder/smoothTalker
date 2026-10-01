@@ -4,42 +4,42 @@
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
-   "situation": "My coworker Dave takes speakerphone calls at his desk in our open office almost every morning. I sit right next to him and can't focus. We get along fine.",
-   "reply": "Hey Dave, small thing: the speakerphone calls in the mornings carry right over to my desk and I lose my train of thought when I'm writing. Could you take them on headphones, or grab one of the phone booths? Happy to return the favour if I'm ever the noisy one.",
+   "situation": "My coworker Dave takes speakerphone calls at his desk in our open office almost every morning. I sit right next to him and can't focus. We get along fine, and there are phone booths on our floor.",
+   "reply": "Hey Dave, small thing: the speakerphone calls in the mornings carry right over to my desk and I lose my train of thought. Could you take them on headphones, or grab one of the phone booths? Happy to return the favour if I'm ever the noisy one.",
    "lang": "en",
    "note": "One behaviour, the effect in first person, and a concrete alternative with two easy options."
   },
   {
    "id": "ask-to-change-behavior-002",
-   "situation": "我老公每次跟我妈吃饭都一直刷手机，我妈嘴上不说但我看得出她不开心。想跟他提一下但不想吵架。",
+   "situation": "我老公每次跟我妈吃饭都一直刷手机，一顿饭一个多小时，我妈嘴上不说但我看得出她不开心，我坐旁边也难受。想跟他提一下但不想吵架。",
    "reply": "老公，跟你说个小事，不是要吵架哈。每次跟我妈吃饭的时候你基本都在看手机，我妈其实挺在意的，我坐旁边也有点难受。以后跟她吃饭那一个多小时，手机能不能先放兜里？有急事的话跟她说一声再看就行，我也一样。",
    "lang": "zh",
    "note": "只说一个具体行为和对自己的影响，请求具体到那一个多小时，并把自己也放进同一个规则里。"
   },
   {
    "id": "ask-to-change-behavior-003",
-   "situation": "I already asked my roommate Sam a month ago to stop leaving his bike in the hallway, he did for a week and now it's back. I trip on it every morning.",
-   "reply": "Hey Sam, I mentioned the bike in the hallway a few weeks ago and it's crept back. I'm not trying to nag, I've actually tripped on it twice this week. Could we put up a wall hook in your room or the storage cupboard this weekend? I'll pick one up and help you mount it.",
+   "situation": "My sister Erin and I live ten minutes apart. A month ago I asked her to text before borrowing clothes from my wardrobe when she drops by, and she did for a couple of weeks. Last Saturday she took my green coat without asking and I couldn't find it for work on Monday.",
+   "reply": "Hey Erin, I mentioned the clothes thing a few weeks ago and it's crept back: you took my green coat on Saturday and I spent Monday morning hunting for it before work. I'm not trying to nag, and you're welcome to borrow things. Could you just send a quick text when you take something, even after the fact? Then I'll always know where it is.",
    "lang": "en",
-   "note": "Second ask: name that it slipped, restate the effect, and offer a fix that makes the new habit easier."
+   "note": "Second ask: name that it slipped, give the one recent example and its effect, and shrink the ask so the habit is easier to keep."
   },
   {
    "id": "ask-to-change-behavior-004",
-   "situation": "楼上邻居最近每天晚上11点以后还在拖椅子、走路很响，我12点前要睡，早上6点起。跟他们不认识，只知道是1802，想在他家门上贴张纸条。",
-   "reply": "1802的邻居您好，我是楼下1702的小林。最近晚上11点以后，楼上拖椅子和走路的声音在我家听得挺清楚，我早上6点要起床，有时会被吵醒。能不能11点以后稍微轻一点？我多买了一包椅子脚垫，如果您用得上，我放在您门口。谢谢您！",
+   "situation": "我的好朋友小敏这个月几乎每天都私信发我砍价和拼单的链接，有时一天三四条，我上班时手机一直响，挺分心的。我们关系很好，不想让她觉得我小气。",
+   "reply": "小敏，跟你说个小事哈，不是生气。这个月你几乎每天都发砍价和拼单链接给我，有时一天三四条，我上班手机一直响，有点分心。以后这类链接能不能先不发我？真有你特别想让我一起拼的，晚上发我就行，我一定看。",
    "lang": "zh",
-   "note": "不认识的邻居就用纸条，默认对方不知道；只说一个具体行为和时间段，再附一个很容易做到的办法。"
+   "note": "朋友之间也只说一个行为和对自己的影响，再给一个她还能用的办法，请求就不像拒绝。"
   },
   {
    "id": "ask-to-change-behavior-005",
-   "situation": "My mum keeps posting photos of our 4-month-old, Leo, on her public Facebook. She's so proud and I don't want to hurt her, but we'd rather he wasn't online. Texting her.",
+   "situation": "My mum keeps posting photos of our 4-month-old, Leo, on her public Facebook. She's so proud and I don't want to hurt her, but we'd rather he wasn't online. We already have a family WhatsApp group. Texting her.",
    "reply": "Hi Mum, small thing, and definitely not a telling-off: the photos of Leo on your Facebook, we'd rather keep him off public posts for now. We just feel better keeping his pictures within the family. Could you share them in the family WhatsApp instead? I'll keep sending you plenty, I promise.",
    "lang": "en",
    "note": "With a parent, name the one behaviour, give them a better place for the pride, and keep the reason about your comfort, not their judgement."
   },
   {
    "id": "ask-to-change-behavior-006",
-   "situation": "A senior director, Paul, calls me 'kiddo' in meetings, including in front of clients. I'm 31 and the project lead. He's friendly and probably doesn't realise. Want to message him privately on Teams.",
+   "situation": "I'm Anna, 31, and the project lead. A senior director, Paul, calls me 'kiddo' in meetings, including in front of clients, most recently with the Hollis team last Thursday. He's friendly and probably doesn't realise. Want to message him privately on Teams.",
    "reply": "Hi Paul, a small thing I wanted to raise privately. You've called me 'kiddo' a few times in client meetings, most recently with the Hollis team last Thursday. I know it's meant warmly, but in front of clients it undercuts me as the lead on their project. Would you mind just using Anna? Thanks, I appreciate it.",
    "lang": "en",
    "note": "Upward and across a power gap: private, one dated example, the effect on the work rather than on feelings, and an ask that is easy to say yes to."
@@ -53,17 +53,17 @@
   },
   {
    "id": "ask-to-change-behavior-008",
-   "situation": "My friend Leila turns up 20 to 40 minutes late to basically every Sunday brunch we do. I've never said anything and I end up holding a table on my own. Next one is this Sunday, October 4, at 11.",
-   "reply": "Hey Leila, small thing before Sunday, not a big deal: at most of our brunches you've got there 20 to 40 minutes after we said, and I end up alone at the table fending off the waiter. Could you text me when you're actually leaving home? Then I'll set off to match and we'll arrive together. Still on for 11 at Maple?",
+   "situation": "My friend Leila turns up 20 to 40 minutes late to basically every Sunday brunch we do at Maple. I've never said anything and I end up holding a table on my own. Next one is this Sunday, October 4, at 11.",
+   "reply": "Hey Leila, small thing before Sunday, not a big deal: at most of our brunches you've got there 20 to 40 minutes after we said, and I end up holding the table on my own. Could you text me when you're actually leaving home? Then I'll set off to match and we'll arrive together. Still on for 11 at Maple?",
    "lang": "en",
    "note": "One behaviour, the effect on you, and a shared system that doesn't require her to become punctual overnight."
   },
   {
    "id": "ask-to-change-behavior-009",
-   "situation": "我和室友小雅合租两居室，房租水电平摊。她男朋友阿凯最近基本每周住五天，早上洗手间要排队，上个月电费也多了快一百。我跟她关系挺好，不想闹僵。",
-   "reply": "小雅，跟你商量个事哈，不是要闹什么。最近阿凯差不多每周住五天，早上洗手间经常要排队，上个月电费也多了快一百块。我们能不能定个规矩，一周留宿最多两晚？要是他想常来，水电费分成三份也可以，你看哪种更顺？我这边朋友来住也按同样的规矩来。",
+   "situation": "我们四个同学做一学期的小组作业，每周五交一次进度。组员小王已经连续三周在周四半夜才把他那部分发到群里，我负责汇总，每次都要熬到两点。他人挺好，我想私下微信跟他说。",
+   "reply": "小王，跟你商量个小事哈。这三周你那部分都是周四半夜才发过来，我负责汇总，每次都得熬到两点才弄完。以后能不能周三晚上10点前先发一版？不用很完整，有个初稿我就能先排版，周四你再补细节也行。",
    "lang": "zh",
-   "note": "只说一件事和对自己的影响，把请求说成两个人共同的规矩，并给对方一个选项。"
+   "note": "同学之间只说一个行为和对自己的影响，请求定一个具体时间，并降低门槛让对方容易做到。"
   },
   {
    "id": "ask-to-change-behavior-010",
@@ -82,30 +82,30 @@
   {
    "id": "ask-to-change-behavior-012",
    "situation": "My friend Tasha sends me 5 to 8 minute voice notes several times a day, mostly while I'm at work and can't listen. I love her, but they pile up into a 40-minute backlog and I feel guilty. I want to ask her to text for quick stuff.",
-   "reply": "Can I ask something small without it being a thing? I love your voice notes, but I'm at work most of the day and can't listen, so they pile up and I end up replying a day late. Could quick stuff be a text, and the long ones wait for the evening? I'll get back to you much faster that way.",
+   "reply": "Can I ask something small without it being a thing? I love your voice notes, but I'm at work most of the day and can't listen, so they pile up and I feel bad that I can't keep up. Could quick stuff be a text, and the long ones wait for the evening? I'll be able to reply much faster that way.",
    "lang": "en",
    "note": "Frame it as a system that gets her quicker replies, not as a complaint about how much she talks."
   },
   {
    "id": "ask-to-change-behavior-013",
    "situation": "我领导张总这两周经常晚上11点以后在微信上给我派活，还希望我马上回，我睡眠很受影响。我们关系还行，想私下跟他提一下。",
-   "reply": "张总，想跟您提个小事。最近晚上11点以后常收到您的工作消息，我一般都会马上回，但这两周睡眠受了影响，白天状态也不太好。能不能这样约定：晚上10点以后发来的事，如果不急，我第二天早上9点前处理并回复您；真有急事，您直接打电话，我一定接。您看这样行吗？",
+   "reply": "张总，想跟您提个小事。最近晚上11点以后常收到您的工作消息，这两周我的睡眠受了不小的影响。能不能这样约定：晚上10点以后发来的事，如果不急，我第二天早上9点前处理并回复您；真有急事，您直接打电话，我一定接。您看这样行吗？",
    "lang": "zh",
-   "note": "Upward version: offer a response-time rule plus an urgent channel, so the boss loses nothing."
+   "note": "对上级提请求：给一个回复时间的约定，再留一个急事的通道，让领导什么都不缺。"
   },
   {
    "id": "ask-to-change-behavior-014",
    "situation": "我们请的育儿嫂刘阿姨人很好，带孩子也细心。但这两周她总给14个月的女儿喂饼干和果汁，我们想一岁半前先不给甜的。想当面跟她说，不想让她觉得被挑刺。",
-   "reply": "刘阿姨，跟您商量个小事，您带朵朵这么细心，我们特别放心。这两周看到您给她吃了饼干和果汁，我们俩想让她一岁半前先不吃甜的，怕她以后不爱吃饭。她饿的时候，给她吃蒸南瓜、香蕉或者蒸苹果可以吗？我把能吃的零食列个单子贴在冰箱上，您也省得猜。",
+   "reply": "刘阿姨，跟您商量个小事，您带孩子这么细心，我们特别放心。这两周看到您给她吃了饼干和果汁，我们俩想让她一岁半前先不吃甜的。她饿的时候，给她吃蒸南瓜、香蕉或者蒸苹果可以吗？我把能吃的零食列个单子贴在冰箱上，您也省得猜。",
    "lang": "zh",
-   "note": "Employer to a helper: praise is real, the ask is specific, and the list makes yes easy."
+   "note": "雇主对育儿嫂：夸奖要真诚，请求要具体，列好单子让对方容易答应。"
   },
   {
    "id": "ask-to-change-behavior-015",
-   "situation": "My mother-in-law Linda has a key to our flat and has started dropping by unannounced two or three times a week since our son was born in July. She's genuinely helpful, but last Tuesday she walked in while I was breastfeeding in the living room. My husband Tom agrees I should raise it, and I'd like to text her myself.",
-   "reply": "Hi Linda, can I ask something small? We love how much you're around for Noah, and your help has been huge. A few times lately you've arrived without a heads-up and caught me off guard, including while I was feeding him. Could you text before coming over, even just \"on my way in 20\"? Then I'll have the kettle on, and you're always welcome.",
+   "situation": "My friend Priya often brings her dog, Pepper, when she comes over for our Thursday film nights, without asking first. My cat hides under the bed all evening when Pepper's here. I love having them both, but I'd like a heads-up so I can shut the cat in the bedroom first. Texting her before this Thursday.",
+   "reply": "Hey Priya, small thing before Thursday: when Pepper comes along, my cat spends the whole evening under the bed. I love seeing Pepper, so this isn't a no. Could you just give me a heads-up when she's coming? Then I'll settle the cat in the bedroom first and everyone's happy.",
    "lang": "en",
-   "note": "In-laws: agree it with your partner first, then one behaviour, the effect on you, and a tiny ask that keeps the welcome intact."
+   "note": "Your home, a guest's habit: name the effect, make clear the friend and the dog are still welcome, and ask only for notice."
   },
   {
    "id": "ask-to-change-behavior-016",
@@ -123,10 +123,10 @@
   },
   {
    "id": "ask-to-change-behavior-018",
-   "situation": "My name is Siobhán, pronounced 'shi-VAWN'. Greg, a colleague on another team, has started calling me 'Shiv' in meetings and in our team chat. I've never used a nickname and don't like it, but we get on well and he clearly means it as friendly. I want to message him directly.",
-   "reply": "Hey Greg, small thing, and I know it's meant in a friendly way: I'd rather not go by 'Shiv'. I've never used a short version of my name, so it feels a bit odd hearing it in meetings. Could you stick with Siobhán? And if the spelling ever throws you, it's said 'shi-VAWN', which I know isn't obvious.",
-   "lang": "en",
-   "note": "A name is one of the few things you can ask for plainly; the pronunciation line lets him get it right without embarrassment."
+   "situation": "Juego al pádel los jueves con mi amigo Javier. En casi todos los puntos me da consejos que no le he pedido (\"flexiona más\", \"sube a la red\") y me desconcentro. Nos llevamos genial y sé que lo hace con buena intención. Quiero decírselo por WhatsApp antes del jueves.",
+   "reply": "Javier, una cosa pequeña antes del jueves, sin drama: durante los puntos me sueles dar consejos, tipo \"flexiona más\" o \"sube a la red\", y me desconcentro. ¿Te parece si los guardamos para la caña de después? Ahí te los escucho encantado, que sé que me vienen bien.",
+   "lang": "es",
+   "note": "Un solo comportamiento y su efecto; no se rechazan los consejos, solo se cambia el momento, y así es fácil decir que sí."
   },
   {
    "id": "ask-to-change-behavior-019",
@@ -151,7 +151,7 @@
   },
   {
    "id": "ask-to-change-behavior-022",
-   "situation": "同期の佐藤さんが、私あての細かい確認メールに毎回、課長をCCに入れてきます。先週だけで5通、資料の誤字や会議室の予約みたいな小さい話でした。仲は悪くないので、チャットで軽く頼みたいです。",
+   "situation": "同期の佐藤さんが、私あての細かい確認メールに毎回、課長をCCに入れてきます。先週だけで5通、資料の誤字や会議室の予約みたいな小さい話でした。細かいことまで課長に見られている気がして落ち着きません。仲は悪くないので、チャットで軽く頼みたいです。",
    "reply": "佐藤さん、ちょっと相談です。最近、私あての確認メールに課長がCCで入っていることが多くて、先週は誤字や会議室の予約の件も含めて5通ありました。細かいことまで課長に見られていると思うと、少し落ち着かなくて。細かい確認は私だけに送って、課長の判断が要るものだけCCにする、というのはどうでしょう？私も同じようにしますね。",
    "lang": "ja",
    "note": "意図は決めつけず、行動と自分への影響だけを伝える。お互いのルールにすると頼みやすい。"

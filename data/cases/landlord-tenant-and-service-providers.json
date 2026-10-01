@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -155,6 +155,13 @@
    "reply": "李姐您好，我是阳光花园3栋502的租客。我核对了电费单，实际电价是每度0.62元，这半年咱们一直按每度1.2元结算，算下来我多交了大约600元。合同第五条写的是水电费按表计实际费用缴纳，所以想跟您商量：从下个月起按实际电价结，之前多交的部分在10月房租里抵扣，您看可以吗？电费单截图我一起发给您。",
    "lang": "zh",
    "note": "只摆单据和合同条款，不猜动机；如果她说有公摊等其他费用，请她列出明细再核对。"
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-023",
+   "situation": "I'm Mia. My landlord, Steve, wants me to pay $520 for a new washing machine because the one in the flat stopped spinning last week. It was there when I moved in four years ago, the repair technician's note says the motor wore out with age, and my lease says appliances supplied with the flat are the landlord's to maintain.",
+   "reply": "Hi Steve,\nThanks for letting me know about the replacement. I don't think the $520 should be mine, though: the machine came with the flat when I moved in four years ago, and the technician's note, attached, says the motor wore out with age. Under the lease, appliances supplied with the flat are the landlord's to maintain. Could you confirm by Friday 9 October that the cost sits with you? Happy to talk it through by phone.\nThanks,\nMia",
+   "lang": "en",
+   "note": "Wear and tear versus a charge: the technician's note and the lease clause, once, then a dated ask. Check the exact wording of your lease before citing it."
   }
  ]
 }

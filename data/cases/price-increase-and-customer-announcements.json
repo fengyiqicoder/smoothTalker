@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -155,6 +155,13 @@
    "reply": "孙经理您好，我是洁雅保洁的周敏。按合同第6条，提前书面通知您：从12月1日起，贵司日常保洁月费由6000元调整为6500元，原因是今年保洁员工资上涨了。服务内容、频次和固定上门的两位阿姨都不变，11月及之前的服务仍按6000元结算。对调整有任何疑问，随时打我电话13900001234。谢谢贵司一直以来的信任。周敏",
    "lang": "zh",
    "note": "B2B with a contract: cite the notice clause and check its exact terms before sending, rather than relying on general rules."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-023",
+   "situation": "Soy Lucía y tengo una academia de baile en Valencia, Academia Compás, con unas 90 familias que pagan 45 € al mes por recibo bancario. A partir del 1 de enero quiero cobrar cada trimestre, 135 €, que es el mismo precio, porque el banco nos cobra una comisión por cada recibo. Quien prefiera seguir pagando cada mes puede hacerlo sin coste extra si me lo dice antes del 15 de diciembre. Lo voy a mandar al grupo de WhatsApp de familias.",
+   "reply": "Hola, familias. A partir del 1 de enero, la cuota de la academia se cobrará cada tres meses en lugar de cada mes: 135 € por trimestre, que son los mismos 45 € al mes de ahora. El motivo es que el banco nos cobra una comisión por cada recibo, y así pasamos de doce recibos al año a cuatro. Las clases, los horarios y el precio no cambian. Si os viene mejor seguir pagando mes a mes, decídmelo antes del 15 de diciembre y lo dejamos como está, sin coste extra. Gracias por bailar con nosotros.\nLucía, Academia Compás",
+   "lang": "es",
+   "note": "Un cambio en la forma de cobro también es un anuncio: el cambio y la cifra primero, aclarar que el precio no sube y dejar la opción antigua fácil."
   }
  ]
 }

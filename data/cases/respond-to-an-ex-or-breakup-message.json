@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -155,6 +155,13 @@
    "reply": "阿浩，手镯我本来就打算还你。两种方式你选一个：这周六我用保价快递寄到你家，或者周日下午放在我家小区物业前台，你自己来取。告诉我哪个方便就行。",
    "lang": "zh",
    "note": "Belongings are logistics only: no comment on the relationship, and the front desk option means no need to meet."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-023",
+   "situation": "My ex Daniel and I broke up last year after two years; it ended badly and we haven't talked since. He just messaged me on LinkedIn asking if I'd refer him for a data engineer opening at my company, Larkfield. I don't want to refer him or be back in touch, and the role is open to anyone on the Larkfield careers page.",
+   "reply": "Hi Daniel, I hope the job search goes well. I'm not going to put in a referral, and I'd rather say that clearly than leave it hanging. The role is open on the Larkfield careers page, so you can apply there directly. Take care.",
+   "lang": "en",
+   "note": "A work favour from an ex still gets a kind full stop: no reason, no comment on whether he'd be good at it, and the public route instead of your name."
   }
  ]
 }

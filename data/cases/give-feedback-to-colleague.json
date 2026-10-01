@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -155,6 +155,13 @@
    "reply": "Owen, can I give you some feedback on Tuesday's Brightwater call? Three times you came in before I'd finished, once in the middle of the pricing, and the client had to ask me to repeat the number. With two of us on a call, it makes us look less aligned than we are. What's your read on it? Next time, could you let me finish the point, and drop me a Slack message if you need to jump in? Let's compare notes after the next call.",
    "lang": "en",
    "note": "Peer to peer, the impact is on the client, not on your pride; keep it there."
+  },
+  {
+   "id": "give-feedback-to-colleague-023",
+   "situation": "我是运营组长。组员小林昨晚在朋友圈吐槽“甲方又改到第八版了”，配图是带着客户新禾食品logo的设计稿截图，而客户的对接人跟他是微信好友。他平时做事很拼，改稿次数的事我也打算去跟客户谈。想今天找他单独聊。",
+   "reply": "小林，有件事想跟你聊一下，方便吗？昨晚你朋友圈那条吐槽改到第八版的，配图里有新禾食品的logo和设计稿，他们的对接人跟你是微信好友，很可能看得到。改八版确实磨人，你这阵子也特别拼，你自己怎么看这件事？我需要的是：那条先删掉，以后客户的稿子和信息不发朋友圈，憋屈了直接跟我说，改稿次数我去跟客户谈。周五我们再碰一下改稿流程。",
+   "lang": "zh",
+   "note": "说清看到了什么、可能的影响，再给具体要求；先问他的看法，别直接定性为“不专业”。"
   }
  ]
 }

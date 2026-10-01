@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -155,6 +155,13 @@
    "reply": "Hi Owen, could I ask a favour? Would you be up for introducing me to your aunt Carol? I'm looking to move Ember & Ash up to 500-bottle batches, and her kitchen sounds like exactly the right kind of place. If it feels awkward asking family, just say, no problem at all.\n\nIf you're happy to, here's something you can forward: \"Carol, my friend Leo makes Ember & Ash hot sauce and sells about 200 bottles a month at local markets. He's looking to move to 500-bottle batches and would love a 20-minute call about your pricing and minimum runs. Happy to put you in touch if you're open to it.\"\n\nI'll let you know how it goes either way. Cheers, Leo",
    "lang": "en",
    "note": "The out matters more with family: asking a relative for a favour costs Owen more than asking a colleague."
+  },
+  {
+   "id": "request-intro-or-referral-023",
+   "situation": "我叫林晓，在杭州办了一个公益读书会，每月一次，大概40人参加。想请作家沈岚11月来做一次一小时左右的分享，没有讲课费，但读书会承担往返高铁票和一晚住宿，时间按她方便来定。我的朋友小周是她新书的责任编辑。",
+   "reply": "小周，想请你帮个忙：能不能帮我问问沈岚老师，愿不愿意11月来我们读书会做一次分享？如果你觉得不方便开口，或者她最近太忙，直接说就好，完全没关系。\n方便的话，下面这段可以直接转给她：“沈老师，介绍一下我朋友林晓，她在杭州办了一个公益读书会，每月一次，大概40人参加。她想请您11月来做一次一小时左右的分享，没有讲课费，往返高铁票和一晚住宿由读书会承担，时间按您方便来定。”\n不管结果怎样，我都会跟你说一声。",
+   "lang": "zh",
+   "note": "请人引荐去做无偿的事：在可转发的那段里写明没有讲课费和能提供什么，编辑朋友开口时就不用替你打圆场。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -155,6 +155,13 @@
    "reply": "Hi Mrs. Adeyemi, I hope Tobi's had a good start to the school year. I've been holding his Thursday 4:30pm slot for the autumn term, and I'd like to offer it to a family on my waiting list if he isn't continuing. Could you let me know by Wednesday 7 October whether he's carrying on? A quick yes or no is all I need, and a pause is completely fine too.",
    "lang": "en",
    "note": "A private client who drifts off over the summer: a real reason, a date, and an easy no."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-023",
+   "situation": "I'm a dog trainer. On Sept 15 I did a free assessment for Leo and his reactive collie, Pepper, and on Sept 16 I emailed him a 6-session package for $480; I bumped it on Sept 23 and heard nothing. Since then I've written a one-page guide to walking reactive dogs at quieter times, which I now give all my clients.",
+   "reply": "Hi Leo, I've just put together a one-page guide to walking reactive dogs at quieter times, and I thought it might help with Pepper whatever you decide, so it's attached. Is training still something you're looking at this autumn? A quick yes, no or not yet is all I need.",
+   "lang": "en",
+   "note": "Touch 2: give something useful with no strings and shrink the ask to one word; no discount."
   }
  ]
 }

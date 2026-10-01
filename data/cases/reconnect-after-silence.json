@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -155,6 +155,13 @@
    "reply": "Oi, Camila! Aqui é a Juliana, do Santa Luzia. Não sei se esse número ainda é seu; se não for, desculpa o engano! Vi que a escola fez 50 anos e postaram fotos da quadra, e na hora lembrei da gente jogando vôlei lá. Faz uns sete anos que não nos falamos e fiquei com vontade de saber de você. Como você está? Sem pressa para responder.",
    "lang": "pt",
    "note": "Name yourself and the shared context first, so a stranger with the old number can simply say it's the wrong person."
+  },
+  {
+   "id": "reconnect-after-silence-023",
+   "situation": "我和网友“老K”是十年前在一个网游公会里认识的，每天晚上一起下副本，我在公会里叫“小鹿”，但我们从没见过面。六年前游戏停服后就没再联系，只剩QQ。今天看到这款游戏宣布重新开服，想起当年他带我打通最后一个副本，那晚我们打到凌晨三点。",
+   "reply": "老K，还记得我吗？我是当年公会里的“小鹿”，一晃六年没联系了。今天看到咱们那个游戏宣布重新开服，第一反应就是想起你带着我打通最后那个副本，那晚我们一直打到凌晨三点。你最近怎么样？不急着回，就是想跟你打个招呼。",
+   "lang": "zh",
+   "note": "只在网上认识的朋友：先用当年的称呼帮他认出你，一个共同的记忆，一个好回答的问题，不急着约见面。"
   }
  ]
 }

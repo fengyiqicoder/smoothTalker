@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -155,6 +155,13 @@
    "reply": "Hi Rafael, thanks for the call yesterday. I'm really excited about joining Loomwise as founding designer, and the $135k base works for me. The one piece I'd like to discuss is equity: the offer is 0.1%, and founding design roles I've seen at this stage sit between 0.25% and 0.5%. Since I'd be building the design function from scratch, I'm asking for 0.35%. Is there flexibility there?",
    "lang": "en",
    "note": "Base settled, so the whole ask is one number on equity; if they push back, vesting or a one-year refresh are the next levers."
+  },
+  {
+   "id": "negotiate-price-or-salary-023",
+   "situation": "Sou fotógrafa de produto em Curitiba. A Juliana, da marca de cosméticos Flor de Ipê, quer 20 fotos por R$ 2.000 com uso ilimitado e para sempre, inclusive em outdoor. Meu preço para 20 fotos com uso em redes sociais e site por um ano é R$ 2.000, e para uso ilimitado eu cobro R$ 3.800.",
+   "reply": "Oi, Juliana, tudo bem? Quero muito fotografar essa linha com vocês. Os R$ 2.000 cobrem as 20 fotos com uso em redes sociais e site por um ano. Para uso ilimitado e permanente, incluindo outdoor, o valor é R$ 3.800, porque as imagens passam a trabalhar para a marca em muito mais lugares. Faz sentido para vocês? Se o outdoor ainda não está nos planos, fechamos em R$ 2.000 agora e licenciamos outros usos quando precisarem.",
+   "lang": "pt",
+   "note": "Direitos de uso fazem parte do preço: mantenha o valor e negocie o alcance da licença."
   }
  ]
 }
