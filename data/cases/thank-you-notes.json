@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -176,6 +176,13 @@
    "reply": "阿檬，今天收到了第一志愿的offer，第一个就想告诉你！我们素不相识，你却帮我把个人陈述前后改了三遍，还花一个小时视频跟我讲面试会问什么。面试时真的被问到了你提醒过的“为什么从会计转行”，那一刻我心里特别踏实。谢谢你愿意花这么多时间帮一个陌生人。以后有学妹来问，我也会像你这样帮她们。",
    "lang": "zh",
    "note": "给只在网上认识的人道谢：先报好消息，再说她具体做了什么、在哪一刻起了作用，回报用“传下去”，不必硬约见面。"
+  },
+  {
+   "id": "thank-you-notes-026",
+   "situation": "Ich bin Emma, 17, und war drei Monate als Austauschschülerin bei meiner Gastfamilie in Bern, Petra, Urs und ihrer Tochter Lara; wir duzen uns alle. Urs hat mich jeden Samstag auf den Markt mitgenommen, Lara hat mir geduldig Berndeutsch beigebracht, und sie haben mich sogar zum 80. Geburtstag von Grosi Anni mitgenommen. Im Februar kommt Lara zum Gegenbesuch zu uns nach Hamburg, und ich will der Familie eine Karte schicken.",
+   "reply": "Liebe Petra, lieber Urs, liebe Lara,\ndanke für drei wunderbare Monate in Bern. Urs, ich vermisse unsere Samstage auf dem Markt. Lara, ohne deine Geduld würde ich bis heute kein Wort Berndeutsch verstehen. Dass ihr mich sogar zum 80. Geburtstag von Grosi Anni mitgenommen habt, hat mir gezeigt, dass ich wirklich dazugehöre. Ich freue mich riesig auf Februar, wenn Lara zu uns nach Hamburg kommt und ich euch ein bisschen davon zurückgeben kann.\nAlles Liebe, eure Emma",
+   "lang": "de",
+   "note": "Nach einem langen Aufenthalt bekommt jede Person ihr eigenes Detail; der Gegenbesuch ist der Ausblick."
   }
  ]
 }

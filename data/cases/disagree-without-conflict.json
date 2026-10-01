@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -204,6 +204,13 @@
    "reply": "舅舅，看到您在群里转的芹菜汁那篇文章了。您想用更天然的办法把血压管好，这个我特别理解，谁都不想一直吃药。我这边想法有点不一样：我担心的是没跟医生商量就把药停了。您停药这一周量过血压吗？要不这周我陪您去趟医院，问问医生怎么调整。",
    "lang": "zh",
    "note": "长辈的健康问题私聊说，只讲一个担心、不争文章对错；如果他出现剧烈头痛、胸痛或说话不清，马上打120。"
+  },
+  {
+   "id": "disagree-without-conflict-030",
+   "situation": "Yesterday on Slack I told my co-founder Mei I'd rather not hire a second salesperson until we reach 40 paying customers; we're at 28. She replied 'So you think my plan is wrong?' and went quiet. We have our usual Monday check-in, and I want to reply now without backing down or making it bigger.",
+   "reply": "Not wrong, Mei. We want the same thing, more revenue sooner, and where we differ is only the timing: I'd still rather wait until we're at 40 customers, from the 28 we have now. Could we use Monday's check-in to agree the number that would make us both comfortable hiring? I'd rather decide this together than be right about it.",
+   "lang": "en",
+   "note": "When disagreement lands as an attack, separate the idea from the person once, then move from who is right to how you'll decide."
   }
  ]
 }

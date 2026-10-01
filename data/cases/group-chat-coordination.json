@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -204,6 +204,13 @@
    "reply": "各位，周六下午预报有雷阵雨，山顶那段没地方躲，安全第一，这次就不投票了：改到10月11日周日，还是早上7点地铁站集合，司机周日能出车。周日能来的扣个1，来不了的私信我，50元包车费全退。10月8日周四晚上9点统计人数，到时没回复的我就当周日不来，费用照退。",
    "lang": "zh",
    "note": "涉及安全时由组织者拍板，不拿来投票；只给一个方案、一键回复和截止时间。出发当天天气变坏照样取消，遇险立即拨打当地报警或急救电话。"
+  },
+  {
+   "id": "group-chat-coordination-030",
+   "situation": "My manager asked me to pick the date for our team volunteering day in our team Slack channel; there are 7 of us. Hillgate Community Pantry can take us on Wednesday 21 October or Thursday 29 October, 9am to 1pm, and I have to tell them by Friday 9 October. It's optional, and I don't want anyone to feel pushed into it.",
+   "reply": "Volunteering day: Hillgate Community Pantry can host us on Wednesday 21 October or Thursday 29 October, 9am to 1pm. React with 1️⃣ or 2️⃣ by Wednesday 7 October at 5pm and I'll confirm whichever gets more votes with them on Thursday; if it's a tie, it's the 21st. It's optional, so if neither date works or you'd rather sit this one out, no need to explain.",
+   "lang": "en",
+   "note": "At work, keep the two options, deadline and tie-break, but make opting out as easy as voting so nobody reads it as a requirement."
   }
  ]
 }

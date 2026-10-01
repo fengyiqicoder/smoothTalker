@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -204,6 +204,13 @@
    "reply": "I'm going to call it a night. Thanks for the drink, Daniel, it was nice to meet you. Take care getting home.",
    "lang": "en",
    "note": "No future hook and no fake excuse; if he asks about a second date, one honest line ('I don't think we're a match, but I enjoyed meeting you') and go."
+  },
+  {
+   "id": "end-conversation-gracefully-030",
+   "situation": "Toda vez que vou buscar meu filho Davi na escola, a Cristina, mãe de uma colega dele, me segura uns 20 minutos no portão falando da reforma da casa dela. Hoje o Davi tem natação às 17h30 e já são 17h05. Ela é simpática, não quero ser grosseira.",
+   "reply": "Cristina, preciso ir agora, o Davi tem natação às 17h30. Boa sorte com a reforma, depois você me conta o resto. Tchau, até amanhã!",
+   "lang": "pt",
+   "note": "No portão da escola: motivo real, um gancho leve e nenhuma pergunta no final; diga tchau e vá andando."
   }
  ]
 }

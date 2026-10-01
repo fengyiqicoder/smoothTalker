@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -203,6 +203,13 @@
    "reply": "Rachel, I keep thinking about your eulogy on Saturday. The story about Grandad stalling the green van on purpose so you'd stop being scared was so completely him, and hearing the whole room laugh through the tears was the first moment that day I felt okay. No need to reply, I just wanted you to know.",
    "lang": "en",
    "note": "To someone grieving: one specific moment and its effect on you, nothing asked, and the reply made explicitly optional."
+  },
+  {
+   "id": "give-and-receive-compliments-030",
+   "situation": "In July I argued against my colleague Lena's idea to move our customer newsletter from Friday afternoons to Tuesday mornings, and the team went with her. The September numbers are in: open rates went from 22% to 31%. I want to tell her on Slack that she was right.",
+   "reply": "Lena, the September numbers are in: open rates went from 22% to 31% since the newsletter moved to Tuesday mornings. I argued against it in July, and you were right. That was a smart call, nice work.",
+   "lang": "en",
+   "note": "Name the result, own your earlier objection in one line, and stop there so she doesn't have to manage an apology."
   }
  ]
 }

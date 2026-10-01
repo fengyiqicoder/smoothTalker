@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -204,6 +204,13 @@
    "reply": "Bonjour Monsieur Girard,\nJe vous écris au sujet du cambriolage de l'appartement dans la nuit du 28 septembre. Les cambrioleurs sont entrés par la porte de service : la serrure est cassée et la fenêtre de la cuisine ne ferme plus. J'ai porté plainte (récépissé n° 2026-0928-114) et posé un verrou provisoire ; vous trouverez la copie du récépissé et les photos en pièce jointe. Pourriez-vous me confirmer d'ici le vendredi 9 octobre une date pour remplacer la serrure et réparer la fenêtre ? Je suis disponible tous les soirs après 18 h.\nBien cordialement,\nJulie Bernard",
    "lang": "fr",
    "note": "Vérifiez dans le bail qui prend ces réparations en charge et prévenez votre assurance habitation ; en cas de nouvelle intrusion, appelez la police."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-030",
+   "situation": "I'm Gwen, and I rent my one-bed flat to Tariq for $1,500 a month. Clause 9 of the lease says only the named tenant may live there, and anyone else needs my written consent. A neighbour mentioned that his girlfriend seems to have been living there since August; I'm fine with it if she's added to the lease with one reference, and the rent stays the same.",
+   "reply": "Hi Tariq, I've heard that someone may have been living at the flat with you since August. If so, that's fine with me in principle. Under clause 9 of the lease, anyone living there needs to be named with my written consent, so could you let me know by Friday 9 October? If she is living there, I'll send an addendum adding her, I'd just need one reference for her, and the rent stays at $1,500.\nThanks,\nGwen",
+   "lang": "en",
+   "note": "Landlord side: hearsay gets a question, not an accusation, and the yes path is spelled out. Check local rules on occupants before relying on the clause."
   }
  ]
 }

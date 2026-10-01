@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -204,6 +204,13 @@
    "reply": "小陈，辛苦你张罗！周二那条消息我当时在外地出差，没看到，周五也没去，所以这次的120我就不转了。下次再组织，我一定在群里明确回一声去不去，省得你算人头。",
    "lang": "zh",
    "note": "没回复不等于同意：说清没看到、没参加，不评价他的规则，下次主动表态。"
+  },
+  {
+   "id": "money-between-friends-030",
+   "situation": "My friend Ryan has borrowed from me three times since July, $100, $250 and $150, and hasn't paid any of it back. He's told me he's been betting on football a lot and is 'about to win it back'. Tonight he asked to borrow $400 for rent; I don't want to lend more, I'm happy to let the old money wait, and I'm worried about him.",
+   "reply": "Ryan, I'm not going to lend you the $400, and it's not because I'm annoyed about the other loans. You told me you've been betting a lot and trying to win it back, and honestly I'm more worried about you than the money. The $500 can wait, don't stress about it right now. If you want, I'll sit with you while you call a gambling support line, or while you ring your landlord about the rent. Want to grab food tomorrow?",
+   "lang": "en",
+   "note": "When borrowing is tied to gambling, stop lending and offer support instead; point him to a gambling support service, and if he mentions harming himself, call emergency services."
   }
  ]
 }

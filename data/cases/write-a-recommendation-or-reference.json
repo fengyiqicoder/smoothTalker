@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -176,6 +176,13 @@
    "reply": "To whom it may concern,\nI'm writing in support of Ana Ferreira and Tom Becker. I have known Ana since we were at university together in 2015, and I met Tom in March 2023, when Ana brought him to my birthday. Since January 2024 they have shared a flat in Bristol, where I have stayed with them twice. They also came to my wedding together in June 2025. I can speak only to what I have seen as their friend, and on that basis I know them as a committed couple. I'm happy to be contacted on 07700 900415 or grace.liu@example.com.\nYours faithfully,\nGrace Liu",
    "lang": "en",
    "note": "Ask their lawyer what format the application needs; give only dates and visits you saw yourself, and don't vouch for anything beyond them."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-026",
+   "situation": "我是一家书店的店长。前店员苏晴2024年3月到2026年8月在我们店工作，离职是因为考了保育员证想转行做幼教，现在她应聘一家幼儿园的保育员，幼儿园发来背调表，问工作表现、离职原因、是否愿意再次雇用，以及“是否了解任何让她不适合与儿童相处的情况”。她主持了一年多的周末绘本故事会，报名从每场十来个孩子涨到三十个左右，常有家长专门来夸她；在职期间没有任何投诉或违纪，我只在店里见过她和孩子相处。我愿意再雇用她。",
+   "reply": "苏晴2024年3月至2026年8月在我们书店任店员，我是她的直属店长。她离职是因为考取了保育员证，想转行做幼教。她最让我放心的是主持周末绘本故事会：她带了一年多，报名从每场十来个孩子涨到三十个左右，常有家长专门来跟我们夸她。在职期间她没有任何投诉或违纪记录，我不了解任何让她不适合与儿童相处的情况；需要说明的是，我只在书店里见过她和孩子相处。如有机会，我很愿意再次雇用她。",
+   "lang": "zh",
+   "note": "背调表里关于儿童安全的问题要如实回答，并说明你看到的范围，不替对方打包票。"
   }
  ]
 }

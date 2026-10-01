@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -204,6 +204,13 @@
    "reply": "高橋さん、お疲れさまです。営業部の中村です。お忙しいところすみません、9月24日にお願いした業務委託契約書のチェックの件で改めてご連絡しました。先方への返送期限が10月9日（金）のため、10月7日（水）までに見ていただけると大変助かります。もし難しそうでしたら、どなたに相談すればよいか教えていただくだけでも十分です。",
    "lang": "ja",
    "note": "社内の先輩への2回目の連絡は、忙しさへの配慮、用件を一行で、期限の理由、そして断りやすい出口をセットにする。"
+  },
+  {
+   "id": "follow-up-unanswered-030",
+   "situation": "I manage a small analytics team. On Monday I asked Kenji, who joined in July and is quite reserved, on Slack whether he'd like to present his churn dashboard at the all-hands on Thursday 15 October; he read it but hasn't replied. I need to send the organiser the speaker list by Friday 9 October, and I don't want him to feel he has to say yes because I'm his manager.",
+   "reply": "Hi Kenji, picking up my message from Monday about presenting your churn dashboard at the all-hands on 15 October. It's genuinely optional, and 'not this time' is a completely fine answer. I need to send the speaker list by Friday 9 October, so a yes or no by Thursday 8 October would help me plan.",
+   "lang": "en",
+   "note": "From a manager, make the no as easy as the yes; if he still doesn't answer, leave him off the list rather than reading the silence as a yes."
   }
  ]
 }

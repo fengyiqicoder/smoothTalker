@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -204,6 +204,13 @@
    "reply": "Hey Ama, it's me. I don't want to keep doing this over voice notes. Calling you a bridezilla was out of order, and I'm sorry. I can hear that you feel I'm not on your side, and I am. Can I call you Saturday morning so we can sort the hen do out properly? You matter way more to me than any weekend away.",
    "lang": "en",
    "note": "Own the insult, reflect her feeling, and park the cost question until Saturday; arguing about the £600 now restarts it."
+  },
+  {
+   "id": "de-escalate-argument-030",
+   "situation": "My brother Neil and I are on the phone arguing about Dad, who has dementia and lives near Neil. Neil said I 'swan in once a month' while he does everything, and I snapped that he 'chose to live there'. He's shouting now, and I want to calm it down before we hang up; I'm free Sunday afternoon.",
+   "reply": "Neil, we're both getting heated, and 'you chose to live there' was unfair. I'm sorry. I can hear that you feel like you're carrying Dad on your own. I don't want to sort this out shouting down the phone. Can I call you Sunday at 3 so we can talk properly about sharing it? We're both doing this because we love him.",
+   "lang": "en",
+   "note": "Reflect the load he's carrying without arguing over 'once a month'; who does what gets worked out on Sunday, not now."
   }
  ]
 }

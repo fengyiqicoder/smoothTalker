@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -204,6 +204,13 @@
    "reply": "赵总您好：\n按今天上午当面沟通的，这是我的正式辞职通知。按劳动合同提前30天书面通知，我的最后工作日是11月2日（周一）。去年的资格证培训由公司出资3万元，培训协议约定服务期两年，我还差8个月，按协议比例我理解需返还1万元，具体金额和方式请人事按协议核算，我全力配合。手上两个在测项目，我会在10月16日（周五）前整理好交接文档，并带小孙把流程完整跑一遍。三年来谢谢您，尤其是当初推荐我去参加这次培训。\n周宁",
    "lang": "zh",
    "note": "离职带着培训费返还：主动写清自己对协议的理解，以协议原文和人事核算为准，拿不准就咨询律师。"
+  },
+  {
+   "id": "leave-or-quit-gracefully-030",
+   "situation": "Canto há oito anos no coro da paróquia, com ensaios às quintas, e foi o maestro, o Sr. Joaquim, que me ensinou a ler partituras. Deixei de frequentar a igreja e quero sair sem entrar em conversas sobre fé. Quero que a missa de Todos os Santos, domingo 1 de novembro, seja a última, e a Rita disse que pode ficar com a pasta das partituras de contralto; vou falar com ele depois do ensaio desta quinta.",
+   "reply": "Sr. Joaquim, queria dizer-lhe pessoalmente: vou sair do coro, e a missa de Todos os Santos, domingo 1 de novembro, será a minha última. É uma decisão pessoal e já está tomada. Até lá venho a todos os ensaios, e deixo a pasta das partituras de contralto com a Rita, que já disse que fica com ela. Foram oito anos muito bonitos, e nunca me vou esquecer de que foi o senhor que me ensinou a ler partituras. Obrigada por tudo.",
+   "lang": "pt",
+   "note": "Não é preciso explicar a razão: \"é uma decisão pessoal\" chega, e se ele insistir, repete-se com carinho, sem discutir fé."
   }
  ]
 }

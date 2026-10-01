@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -204,6 +204,13 @@
    "reply": "Dear Mrs Patel,\nI'm writing to give notice under the break clause, clause 15 of our tenancy agreement, that I will be ending my tenancy at Flat 4, 22 Marsh Lane on Thursday 31 December 2026. This gives the two months' written notice the clause requires. I'll pay the £1,200 rent on the 1st of each month as usual through December, and I'm happy to fit around any viewings. Could we book the check-out inspection and key handover for the morning of the 31st? Please confirm in writing that you've received this notice.\nThank you for making this such an easy place to live.\nKofi Mensah",
    "lang": "en",
    "note": "Break clauses often carry conditions, such as rent being fully paid; read clause 15 for any before sending, and keep proof of when the notice was served."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-030",
+   "situation": "I'm Helen Park and I rent out 7 Birch Close, Unit B, to Jordan and Sam on a lease ending 31 January 2027. Clause 4 says either side gives at least 60 days' written notice if they won't renew, and clause 12 says I give 24 hours' notice before viewings. Their rent has been late five times this year, so I'm not renewing; I want to email them now and also post a formal letter.",
+   "reply": "Dear Jordan and Sam, I'm writing to let you know that I won't be renewing the tenancy at 7 Birch Close, Unit B, when it ends on 31 January 2027. This is more than the 60 days' written notice in clause 4 of the lease, and a formal letter is also on its way by post. The main reason is that rent has been late five times this year, and I'd rather end the tenancy on clear terms than keep chasing payments. I'll give at least 24 hours' notice before any viewings, as clause 12 says, and I'm happy to work with you on an earlier move-out date if you find somewhere sooner. Could you confirm you've received this? Helen Park",
+   "lang": "en",
+   "note": "Rules on ending a tenancy vary by place and tenancy type, so check the local rules before sending; give the reason once, calmly, not as a threat."
   }
  ]
 }

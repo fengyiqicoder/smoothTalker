@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -204,6 +204,13 @@
    "reply": "Hi Gwen, Jo here. A quick bit of news in case it's useful: from Monday 2 November I'm moving to a new studio on Elm Street, and for the first time I'll have Saturday morning slots. If a monthly massage still fits your life, I'd be glad to see you again; if it doesn't right now, no need to reply, and I won't keep texting. Take care.",
    "lang": "en",
    "note": "A regular who drifts away doesn't owe you an explanation: real news, an easy no, and this is the last nudge unless she replies."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-030",
+   "situation": "我们公司做餐厅排队点餐系统，给一家连锁面馆的运营负责人孙总三家门店免费试用了30天，9月30日试用结束。试用期间每周发的数据报告他一次都没回，最后一周三家店的平均排队时间从18分钟降到了11分钟。正式版每店每月600元，试用账号10月9日关闭。",
+   "reply": "孙总您好，三家门店的30天试用9月30日已经结束了，最后一周平均排队时间从18分钟降到了11分钟。想问一下您接下来的打算：继续用（每店每月600元）、不用了，或者还想再看看，回一句就行。试用账号会保留到10月9日周五，没收到您的确认，我们不会自动转成正式版收费。",
+   "lang": "zh",
+   "note": "试用结束后的沉默：用一个真实数据做理由，给三个都容易说出口的回答，并说清没回复时不会默认收费。"
   }
  ]
 }

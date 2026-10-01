@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -204,6 +204,13 @@
    "reply": "Hi Bea, now that the loyalty app has been live since 14 September and the last three syncs have wrapped up in ten minutes, could we retire the Wednesday 11am sync? The remaining bugs are all on the team board, so anyone can check status there. If something comes up that needs everyone in a room, I'm happy to set up a one-off session. What do you think?",
    "lang": "en",
    "note": "Recurring meetings rarely end on their own: point to where the information now lives and keep a path for the rare live discussion."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-030",
+   "situation": "我是一家12人创业公司的创始人。天使投资人李总投了我们200万，最近提出每周五下午跟我开一小时电话会了解进展，而投资协议里只约定每月发一次经营数据。我想改成每月5号前发一页月报，每个季度末当面聊一次，第一次放在12月底，有重大事项随时第一时间告诉他。",
+   "reply": "李总好，谢谢您这么关心公司的进展。每周五的电话会，我想跟您商量换个方式：每月5号前，我把收入、现金流、关键进展和需要您帮忙的事整理成一页月报发给您；每个季度末我们当面聊一次，第一次就放在12月底。如果有重大事项，我会第一时间单独告诉您。您看这样可以吗？",
+   "lang": "zh",
+   "note": "对投资人，拒绝的是每周的频率，不是信息透明；双方的具体义务以投资协议为准，有疑问先查协议。"
   }
  ]
 }

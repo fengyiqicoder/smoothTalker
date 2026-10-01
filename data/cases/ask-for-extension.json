@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -204,6 +204,13 @@
    "reply": "孙工您好，想提前跟您商量一下：12.6万的报价有效期到10月10日（周六），我们这边还在等装修贷审批，也在对比方案，最晚10月20日（周二）能定下来。能不能把这个报价保留到20日？如果保留不了这么久，请告诉我最晚能到哪天，或者到期后价格会怎么变，我们心里好有数。",
    "lang": "zh",
    "note": "请卖方延长报价有效期也是延期：早问、给具体日期、一句实话做原因，并问清不行时会怎样。"
+  },
+  {
+   "id": "ask-for-extension-030",
+   "situation": "I manage Leah, a designer on my team. I promised her written feedback on her promotion case by Friday 2 October so she can revise it before the committee deadline on Friday 16 October. A client escalation has eaten my week and I need until Wednesday 7 October, though I could send her my top three points on Friday.",
+   "reply": "Hi Leah, I want to tell you now rather than on Friday: I promised you written feedback on your promotion case by Friday 2 October, and I need until Wednesday 7 October. A client escalation has taken most of my week, and your case deserves a proper read, not a rushed one. That still leaves you more than a week before the committee deadline on the 16th. If you'd rather have something sooner, I can send my top three points on Friday and the full notes on Wednesday. Which would help you more?",
+   "lang": "en",
+   "note": "Asking someone junior for time: they will rarely say no to their manager, so give them a real choice and keep the new date."
   }
  ]
 }

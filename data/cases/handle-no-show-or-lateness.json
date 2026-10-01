@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -204,6 +204,13 @@
    "reply": "王经理您好，今天早上8点张阿姨没到，到9点半也联系不上，我妈卧床离不开人，我只好临时请假赶回家。请您今天下午5点前告诉我：明天早上8点能不能确定有人到，是张阿姨还是换人。以后护工如果来不了，请至少提前一小时通知我；如果再出现没人来也没通知的情况，我就需要考虑换一家公司了。",
    "lang": "zh",
    "note": "卧床老人不能干等：联系不上护工时先安排家人或邻居照看，老人情况有异常立刻打120。"
+  },
+  {
+   "id": "handle-no-show-or-lateness-030",
+   "situation": "I'm Priya Nair. I had a final-round interview yesterday, Wednesday, at 11am with Helen Ortiz, head of design at Fernway Studio, and I'd written it down for Thursday. I only realised this morning when I saw her email saying 'We missed you today.' I'm free any time on Friday 2 or Monday 5 October.",
+   "reply": "Dear Helen, I'm so sorry I missed our interview yesterday at 11. I wrote it down for Thursday by mistake, and that's entirely on me; you set aside time for it and I wasn't there. I'm still very keen on the role. If you're able to offer another slot, I'm free any time on Friday 2 or Monday 5 October, and I completely understand if that isn't possible. Best wishes, Priya Nair",
+   "lang": "en",
+   "note": "When you're the no-show in a hiring process: own the mistake in one clause, acknowledge their time, offer real availability and leave the decision with them."
   }
  ]
 }

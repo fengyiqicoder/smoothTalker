@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 25,
+ "count": 26,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -176,6 +176,13 @@
    "reply": "Hi, on Wednesday 30 September I received a payment of $300 from a name I don't recognise, Jordan Pell. Today I got a text from 555-0163 saying it was sent by mistake and asking me to send it back to a different account urgently. I haven't replied or moved any money. Could you check whether the payment is genuine, and if it was a mistake, return it through the bank rather than me sending it anywhere?",
    "lang": "en",
    "note": "Never send 'mistaken' money on to a new account; let the bank reverse it. Report the text to your carrier's spam service and block the number, and if you have already sent money, call the bank and the police straight away."
+  },
+  {
+   "id": "suspicious-or-scam-message-026",
+   "situation": "I applied for a remote data entry job on a job board, and today someone calling herself Karen from Brightloop Staffing messaged me on Telegram saying I'm hired without an interview. She wants photos of my passport and both sides of my bank card by tonight for 'payroll setup'. I haven't sent anything, and the Brightloop website, which I looked up myself, lists careers@example.com.",
+   "reply": "Hello, I applied for a remote data entry role through a job board, and today someone calling herself Karen from Brightloop Staffing messaged me on Telegram. She said I was hired without an interview and asked for photos of my passport and both sides of my bank card by tonight for payroll setup. I haven't sent anything or replied to her. Could you confirm whether this message came from your team?",
+   "lang": "en",
+   "note": "Never send ID or card photos to anyone you haven't verified; report and block the Telegram account and the job listing, and if any details were already sent, call your bank and report it to the police."
   }
  ]
 }

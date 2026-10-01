@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -204,6 +204,13 @@
    "reply": "Olá, Rodrigo. Agradeço a proposta e por ter confirmado a questão do modelo de trabalho. Depois de pensar bem, decidi não aceitar a vaga de analista de projetos. Como moro a duas horas do escritório, o formato 100% presencial não funciona para mim. As conversas com a Carla foram das melhores do processo, e peço que agradeça a ela por mim. Desejo muito sucesso à equipe.",
    "lang": "pt",
    "note": "O motivo real em uma frase, sem acusar a empresa de ter mudado as condições; como o RH já disse que não muda, não há o que negociar."
+  },
+  {
+   "id": "decline-offer-or-candidate-030",
+   "situation": "I'm an engineering manager at Lumen Freight. Sara Kim was on my team for three years and left on good terms in 2024 to join a startup; she applied for our new team lead role and interviewed last Friday. We've offered it to someone who has already run on-call for a team of eight, which the role needs from day one; her system design round was excellent, and I'd genuinely rehire her as a senior engineer.",
+   "reply": "Hi Sara, thank you for coming back to interview with us last Friday; it was really good to see you again, and your system design round was excellent. We've decided to offer the team lead role to someone who has already run on-call for a team of eight, which the role needs from day one. That's about this role, not about you. If you'd ever like to rejoin us as a senior engineer, I'd be glad to talk, and I mean that.",
+   "lang": "en",
+   "note": "A former colleague gets the same early, clear no as anyone else, plus a door you would really open; call her first if you can."
   }
  ]
 }

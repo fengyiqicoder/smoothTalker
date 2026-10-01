@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -204,6 +204,13 @@
    "reply": "Thank you for inviting me, Sofia, and congratulations on the new flat! I won't make the party on the 10th; a big late night is more than my ME can manage right now. I'd love to see the place on a quiet afternoon over a cup of tea instead, whenever suits you.",
    "lang": "en",
    "note": "When the host already knows about an illness, one plain clause is enough; skip the apology spiral and offer something you can actually do."
+  },
+  {
+   "id": "decline-invitation-030",
+   "situation": "It's 10pm and my friend Dani just texted from the pub: 'we're all at the Crown, get down here!' I said I'm in for the night, and she replied 'come on, just one drink, you never come out anymore'. I'm not going, but I'm free Thursday evening and would love to see her properly.",
+   "reply": "Ha, I really can't tonight, I'm staying in. Have one for me! I'd love a proper catch-up though. Dinner on Thursday?",
+   "lang": "en",
+   "note": "When they push, repeat the no without adding new reasons; a concrete plan answers 'you never come out' better than a defence."
   }
  ]
 }

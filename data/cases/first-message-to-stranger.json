@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -204,6 +204,13 @@
    "reply": "Hi Rob, your post about your son's three school camps was the most reassuring thing I've read since my daughter Maya, 9, was diagnosed in July; her first camp is in November. You mentioned the one-page plan for the teachers: what's the one thing on it you'd never leave off? No worries at all if you're not able to reply.",
    "lang": "en",
    "note": "One question about something he shared publicly; the medical plan itself stays with Maya's diabetes team."
+  },
+  {
+   "id": "first-message-to-stranger-030",
+   "situation": "I'm Tom Hale, a parish councillor, and I'm on a panel about rural broadband at the Northfield Planning Forum on Thursday 15 October with people I've never met. One of them, Dr. Grace Obi, wrote a report on community-owned broadband networks that we've quoted in two of our council papers, especially her finding that volunteer-dug trenches cut costs by about a third. The organisers shared our emails and I want to write to her before the panel.",
+   "reply": "Hi Grace, I'm Tom Hale, one of your fellow panellists at the Northfield Planning Forum on 15 October. Your report on community-owned networks has already done a lot of work for us: the finding that volunteer-dug trenches cut costs by about a third is quoted in two of our council papers. Is there one point you'd most like the panel to reach, so I don't trample on it? A one-line reply is plenty.",
+   "lang": "en",
+   "note": "First contact with someone you'll work alongside: one specific thing from their work, then a tiny question that is easy to answer."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "decline-request-001",
@@ -204,6 +204,13 @@
    "reply": "阿杰，恭喜恭喜！你能想到让我当司仪，我挺感动的。司仪这个我就不接了，我一上台讲话就紧张得发抖，怕耽误你的大日子。那天早上接亲我一定到，礼金登记也交给我，你放心。",
    "lang": "zh",
    "note": "拒绝的是司仪这个角色，不是婚礼本身；理由真实一句就够，接亲和礼金登记是真能给的帮忙。"
+  },
+  {
+   "id": "decline-request-030",
+   "situation": "My manager, Graham, asked if I could spend a couple of Saturdays helping his daughter Ellie with her university personal statement, since I studied English. I keep my weekends for myself and don't want to start doing personal favours for my boss. I'd be happy to send Ellie the guide I used when I applied.",
+   "reply": "Thanks for thinking of me, Graham, I can tell you want Ellie's statement to be as strong as it can be. I'm going to say no to the Saturdays; I keep my weekends for myself. I'm happy to send Ellie the guide I used when I applied, if that would help. I hope it goes really well for her.",
+   "lang": "en",
+   "note": "A personal favour from a boss gets the same short no as anyone's: one true reason, no apology spiral, and the smaller yes only because it's real."
   }
  ]
 }

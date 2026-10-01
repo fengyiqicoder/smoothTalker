@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -204,6 +204,13 @@
    "reply": "Hi Mateus, can I give you some feedback on the Monday handoffs? On 21 and 28 September, the tickets you escalated didn't include steps to reproduce, and each time the Berlin team lost about half a day waiting for you to come online so they could ask. I'm writing now rather than waiting for Tuesday so it doesn't sit, but I'd genuinely like your read: is something making the steps hard to capture? Going forward, could every escalated ticket include repro steps, or a line on why they're missing? Let's talk it through live on Tuesday and look at the next two handoffs together on Tuesday 13 October.",
    "lang": "en",
    "note": "Written feedback across time zones still asks for their side; keep it to one issue and book the live conversation in the same message."
+  },
+  {
+   "id": "give-feedback-to-colleague-030",
+   "situation": "同组的同事小雅下周三要做晋升述职，今天把PPT发给我，说“帮我狠狠挑毛病”。一共32页，前20页都在列她这一年做过的事，她最大的成绩是把客户续约率从78%提到91%，却放在第27页才出现。述职一共只有15分钟。我想在微信上回她。",
+   "reply": "看完了，最想提的一点是：续约率从78%提到91%是你今年最硬的成绩，现在放在第27页，15分钟里评委可能还没看到就到时间了。我建议把它挪到前三页，前面20页做过的事压缩成一两页，只留能支撑这个结果的。你自己觉得哪几页最舍不得删？改完想再过一遍的话，发我就行。",
+   "lang": "zh",
+   "note": "对方主动要反馈也只挑一件最重要的事：看到了什么、有什么影响、具体怎么改，再问她的想法。"
   }
  ]
 }

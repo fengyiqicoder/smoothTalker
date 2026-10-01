@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -204,6 +204,13 @@
    "reply": "钱老师您好，我是二年级（3）班何一鸣的妈妈。我在医院上夜班，每周一、三、五晚上不在家，那几晚是外婆在家带一鸣，她没法帮他检查作业。想跟您商量一下：这三天的作业，能不能由我第二天早上7点半下班到家后检查、签字，8点前在群里补打卡？其他几天我都会在晚上9点前按时完成。给您添麻烦了，谢谢您！",
    "lang": "zh",
    "note": "做不到老师的要求时，给一个具体、自己做得到的替代办法，比解释难处更容易被同意。"
+  },
+  {
+   "id": "messages-to-teachers-and-schools-030",
+   "situation": "I'm Dawn Price. My daughter Ellie (Year 10) was assessed by an educational psychologist in September and diagnosed with dyslexia; the report recommends extra time in exams. Her mocks are in December, and I want to ask the school's SENCO, Mrs Hall, what the process is. At home she uses a coloured overlay for reading, which helps, and I work from home on Mondays and Fridays.",
+   "reply": "Dear Mrs Hall, I'm Ellie Price's mum (Year 10). Ellie was assessed by an educational psychologist in September and diagnosed with dyslexia, and the report, attached, recommends extra time in exams. With her mocks coming up in December, could you let me know what the school's process is for exam arrangements, and whether there's anything you need from us before then? At home she uses a coloured overlay for reading, which seems to help. I'm happy to meet or talk on a Monday or Friday, when I work from home. Thank you, Dawn Price",
+   "lang": "en",
+   "note": "Ask about the school's process and timing rather than stating what she's entitled to; whether a private report is accepted varies, so check."
   }
  ]
 }
