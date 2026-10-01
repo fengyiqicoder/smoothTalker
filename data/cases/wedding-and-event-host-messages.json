@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -183,6 +183,13 @@
    "reply": "Thanks so much for checking first, Bianca, and I bet the dress is gorgeous. We've asked every guest to skip white, cream and ivory, so we're keeping it the same for everyone, sash or not. If you'd like a second opinion on something else, send me photos anytime. I can't wait to celebrate with you on the 14th.",
    "lang": "en",
    "note": "Family gets the same answer as every other guest; one exception for a sister-in-law makes the rule negotiable for all."
+  },
+  {
+   "id": "wedding-and-event-host-messages-027",
+   "situation": "我和老公阿凯11月21日（周六）在老家办婚宴，大概二十桌。我们商量好：婚宴上不劝酒、不拼酒，想喝多少自己定，酒店门口会安排代驾。以前家里办酒常有长辈劝酒，还有人喝多了自己开车。想在家族群和朋友群里提前说一下。",
+   "reply": "各位亲友好，11月21日（周六）我和阿凯的婚宴，提前跟大家说一个小安排：当天不劝酒、不拼酒，想喝多少大家自己定，以茶代酒、喝饮料一样是祝福。酒店门口会安排代驾，喝了酒的亲友千万别自己开车。这个安排对所有人都一样。大家吃好喝好、平平安安回家，就是给我们最好的贺礼！",
+   "lang": "zh",
+   "note": "规则说成婚宴本身的安排、对所有人一样，不点名哪位长辈；酒后不开车这一条要直接说清楚。"
   }
  ]
 }

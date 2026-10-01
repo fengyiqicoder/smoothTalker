@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -183,6 +183,13 @@
    "reply": "山本さま、ご予約とご相談をありがとうございます。翌日のご返却はお受けできません。夜のうちにお手入れをして、翌朝のお客様にお出ししているためです。代わりに、1,000円で19時30分までご返却を延長できます。延長をご希望でしたら、このメールにご返信いただければご予約に追加いたします。",
    "lang": "ja",
    "note": "断りは二文目までに、理由は次のお客様への影響を一言で。代替案はこちらから先に出す。"
+  },
+  {
+   "id": "say-no-to-a-customer-request-027",
+   "situation": "Je tiens un petit atelier de réparation de vélos à Nantes. Un client, M. Lefèvre, veut que je monte sur son vélo de route des freins qu'il a achetés en ligne. Je ne monte pas de pièces apportées par les clients, parce que je ne peux pas garantir leur compatibilité ni leur qualité, mais je peux lui commander des freins compatibles pour 140 € pose comprise, livrés le jeudi 8 octobre.",
+   "reply": "Merci de m'avoir demandé, M. Lefèvre. Je ne monte pas les pièces achetées ailleurs : sur des freins, je ne peux pas garantir une compatibilité et une qualité que je n'ai pas vérifiées moi-même, et c'est votre sécurité qui en dépend. Ce que je peux faire, c'est vous commander des freins compatibles avec votre vélo, à 140 € pose comprise, livrés le jeudi 8 octobre. Voulez-vous que je les commande ?",
+   "lang": "fr",
+   "note": "La raison est la sécurité du client, pas « la politique de l'atelier » ; l'alternative arrive avant qu'il la demande."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -190,6 +190,13 @@
    "reply": "Tienes razón, Lucía, el análisis es cosa nuestra y lo hago yo. Lo único que necesito de vuestro lado es saber cuáles de esas 30 incidencias siguen sin respuesta, porque ese dato solo está en vuestra herramienta de tickets. ¿Podrías pasarme una exportación con el número de incidencia y su estado antes del miércoles 7 de octubre? Si no te da tiempo, dime quién de tu equipo podría hacerlo o si es posible que me deis acceso de lectura y lo saco yo.",
    "lang": "es",
    "note": "Ante un «no me toca», reconoce la parte en la que tiene razón, reduce el pedido a lo que solo ellos pueden dar y ofrece una alternativa."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-028",
+   "situation": "我在外企做采购，下周一（10月5日）要给德国总部发一封英文邮件，解释第四季度包材成本为什么涨了12%。我英文写作一般，已经自己改过一遍、查过词典，主要担心第二段语气太硬，像在推卸责任。同组的陈雯在英国读了六年书，想请她帮忙看看。",
+   "reply": "陈雯，想请你帮个小忙：下周一（10月5日）我要给德国总部发一封英文邮件，解释第四季度包材成本为什么涨了12%。全文我已经自己改过一遍、查过词典，主要是第二段，担心语气太硬，读起来像在推卸责任。能不能抽10分钟帮我看看这一段？周五下班前看一眼就行；这两天太忙的话直接说，没关系，我再想办法。",
+   "lang": "zh",
+   "note": "请同事帮忙改外语邮件：先说自己做过什么，再把范围缩到具体一段和十分钟。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -183,6 +183,13 @@
    "reply": "Hi all, thanks to everyone who came tonight. Quick recap for the winter fair on Saturday 28 November, including for those who couldn't make it:\n- Joanne: book the hall by Friday 9 October.\n- Kofi: ask local shops for raffle prizes by Friday 30 October.\n- Me: volunteer sign-up sheet in this group by Monday 12 October.\nShout if I've got anything wrong.",
    "lang": "en",
    "note": "In a volunteer group chat, the recap is also the briefing for anyone who missed the meeting; names and dates keep it from drifting."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-027",
+   "situation": "Sou a Juliana, da associação de pais da Escola Municipal Ipê Amarelo. Hoje tive uma reunião com a vereadora Cláudia Ramos sobre a falta de faixa de pedestres na frente da escola, onde as crianças atravessam na saída das 17h. Ela disse que envia um ofício à secretaria de trânsito pedindo um estudo até sexta, 9 de outubro, e eu fiquei de mandar as fotos e o abaixo-assinado com 214 assinaturas até segunda, 5 de outubro.",
+   "reply": "Olá, vereadora Cláudia, obrigada pela reunião de hoje e por ouvir com atenção a situação da saída das 17h na Escola Municipal Ipê Amarelo. Resumo do que combinamos, para ficarmos alinhadas:\n- Eu: envio as fotos e o abaixo-assinado com 214 assinaturas até segunda, 5 de outubro.\n- Seu gabinete: ofício à secretaria de trânsito pedindo o estudo da faixa de pedestres até sexta, 9 de outubro.\nSe anotei algo errado, por favor me corrija.\nJuliana, associação de pais da Escola Municipal Ipê Amarelo",
+   "lang": "pt",
+   "note": "Com um representante eleito, o resumo por escrito transforma a promessa da reunião em algo que a associação pode acompanhar com data."
   }
  ]
 }

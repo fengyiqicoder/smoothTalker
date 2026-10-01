@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -183,6 +183,13 @@
    "reply": "佳佳，跟你商量个小事哈。你开始直播挺好的，我也支持！就是现在每天晚上8点到11点客厅都在播，我回来吃饭看电视基本只能待在房间里。要不这样：一三五在客厅播，二四六日在你房间播？具体哪三天你来定，有更好的办法也可以改。",
    "lang": "zh",
    "note": "客厅是两个人的公共空间，提一个按天分的方案，让她挑日子，就不是在否定她的副业。"
+  },
+  {
+   "id": "roommate-and-shared-living-027",
+   "situation": "My housemate Nadia just told our house chat she's throwing a party at ours on Saturday 10 October and has invited about 30 people. I'm fine with a party, but I'm on a 9am shift on Sunday and my bedroom is right next to the living room. I'd like the music down by 1am and guests kept out of the bedrooms.",
+   "reply": "Sounds fun, Nadia, count me in for the first part of the night! Two things so it works for all of us: I'm on a 9am shift on Sunday and my room is right next to the living room, so could the music go down by 1am? And can we keep the bedrooms off-limits to guests, doors shut? Happy to tweak either if it doesn't suit.",
+   "lang": "en",
+   "note": "Agree the end time and house rules for a party days before, not at 1am on the night."
   }
  ]
 }

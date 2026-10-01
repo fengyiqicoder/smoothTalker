@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -190,6 +190,13 @@
    "reply": "Hi Helen, I'm looking forward to starting on Monday 19 October. Before I do, I wanted to flag that I have a trip booked for Monday 7 to Friday 11 December, which I booked before the offer came through. I know I won't have built up much leave by then, so I'm happy to take some of those days unpaid if that's simpler. Could you let me know if that works, and how you'd like me to record it?",
    "lang": "en",
    "note": "Leave booked before an offer goes on the table before day one, with the dates and a solution; how it's recorded is a question for the handbook or HR."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-028",
+   "situation": "Our dog Juno, who's 14, is being put to sleep tomorrow morning, Friday Oct 2, and I want the day off. Our handbook's bereavement leave doesn't cover pets, so I'll use a vacation day. Nothing of mine is due Friday, Marcus has agreed to take any on-call pages, and I'm back Monday for the sprint demo. Slack to my manager, Jen.",
+   "reply": "Hi Jen, I'd like to take tomorrow, Friday 2 October, as a vacation day. Our dog Juno is being put to sleep in the morning and I want to be with my family. Nothing of mine is due Friday, and Marcus has agreed to take any on-call pages. Can you approve? I'll be back Monday for the sprint demo.",
+   "lang": "en",
+   "note": "Short-notice leave for a pet: use the category that actually applies, one plain line of reason, and the cover."
   }
  ]
 }

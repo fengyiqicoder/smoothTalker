@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -183,6 +183,13 @@
    "reply": "妈，您这么惦记豆豆，我们心里都暖暖的。跟您说一下，豆豆8点要洗澡睡觉，一视频就兴奋得睡不着，所以以后晚上8点后我就不接视频了。每周三、周六晚上7点我主动打给您，让豆豆好好跟奶奶聊；平时白天我多给您发照片和小视频。",
    "lang": "zh",
    "note": "说的是自己以后怎么做，再给一个固定的替代时间；她再在8点打来，就不接，第二天照常发照片，不加新理由。"
+  },
+  {
+   "id": "set-boundary-027",
+   "situation": "My brother-in-law Greg starts arguments about politics at every family dinner, and they've been getting heated. I've decided I'm not debating politics with him anymore: if it starts, I'll go and help in the kitchen or take the kids outside. I want to text him before Thanksgiving.",
+   "reply": "Greg, I like having you at family dinners and I want them to stay good for all of us. I'm not going to talk politics at the table anymore, with you or anyone, so if it comes up I'll head to the kitchen or take the kids outside. Anything else, I'm happy to chat. See you at Thanksgiving.",
+   "lang": "en",
+   "note": "The boundary is what you'll do when it starts, not a verdict on his views; if he pushes, repeat it shorter and step away as promised."
   }
  ]
 }

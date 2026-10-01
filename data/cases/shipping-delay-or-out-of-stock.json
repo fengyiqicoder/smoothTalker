@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -183,6 +183,13 @@
    "reply": "Hi Ruth, thank you for letting me know, and I'm sorry, that's not how Laura's gift should have reached you. The box sat in a hot depot over the weekend and the chocolates didn't survive it. I'll send a fresh box tomorrow in an insulated pack, arriving Monday 5 October, and there's no need to send the melted one back. I'll let Laura know it's been sorted so she doesn't hear about it any other way. Owen",
    "lang": "en",
    "note": "When the recipient reports the problem, fix it with them directly and keep money questions for the buyer."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-027",
+   "situation": "I'm Sam and I make ceramic table lamps. Yesterday I emailed Derek that his order #4418 ($210) will ship Wednesday 14 October instead of this week because a glaze firing failed, with the options to wait, swap or get a refund, and said I'd hold it for the 14th if I didn't hear back. He replied angrily: 'This is ridiculous, I'll just file a chargeback with my bank.'",
+   "reply": "Understood, Derek, and I'm sorry this has been frustrating. Your lamp, order #4418, ships on Wednesday 14 October, and you'll have tracking the same day. If you'd rather not wait, reply 'refund' and I'll refund the full $210 today. If I don't hear otherwise, it ships on the 14th as planned.\nSam",
+   "lang": "en",
+   "note": "An angry reply gets no re-explaining of the glaze: confirm the date, offer the refund again, and leave the chargeback as his call."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -183,6 +183,13 @@
    "reply": "阿哲，谢谢你告诉我，我知道说出这些不容易。我没有想走，这一点不用想清楚，我已经很清楚了。这周五下班我飞过去陪你过周末。想聊病的事我们就聊，不想聊就一起吃饭、看电影。这条不用急着回。",
    "lang": "zh",
    "note": "对方担心拖累你时，先正面回应这一句，再给一个具体的陪伴；不追问病情，也不给治疗建议。"
+  },
+  {
+   "id": "respond-to-difficult-health-news-027",
+   "situation": "Ines and I have been in the same online book club on Discord for four years; she's in Lisbon, I'm in Leeds, and we've never met. She just messaged me privately that she's been diagnosed with lupus and will step back from hosting our Sunday reading sessions for a while. I can host the Sunday sessions through November.",
+   "reply": "Ines, thank you for telling me, and I'm so sorry you're dealing with this. Please don't give the Sunday sessions another thought: I'll host them through November, and the chair is yours whenever you want it back. Drop in, just listen, or skip them entirely, whatever suits you. No need to reply.",
+   "lang": "en",
+   "note": "An online friend you've never met: the offer that fits is the shared space you actually have, held open without pressure."
   }
  ]
 }

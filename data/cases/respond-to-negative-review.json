@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -183,6 +183,13 @@
    "reply": "谢谢阿杰把这件事说出来。来健身是为了练得舒心，被一次次推销课程，换谁都会烦；“不买私教练不出效果”这种说法也不对，是我们没管好。现在店里规定：私教不在训练区主动推销，体验课后只介绍一次，会员说不需要就不再提。想听听您的感受，方便的话请打025-8432 6610找我。店主 周航",
    "lang": "zh",
    "note": "推销类差评：不点名教练、不辩解，认下问题，写清新规定，其余私下谈。"
+  },
+  {
+   "id": "respond-to-negative-review-027",
+   "situation": "I'm Lan, owner of Pho Lan Kitchen. A 1-star Google review from 'Greg W.' says his order came out wrong (beef pho instead of chicken) and that our cashier's 'English is so bad she can't take an order, hire people who speak English'. The mix-up was ours, and since last week we read every order back before it goes to the kitchen. Our team serves customers in English and Vietnamese every day; my email is lan@example.com.",
+   "reply": "Thank you for the feedback, Greg, and I'm sorry your order came out wrong: beef when you asked for chicken is our mistake. Since last week we read every order back before it goes to the kitchen. Our team serves customers in English and Vietnamese every day, and I'm proud of every one of them. If you'd like to talk about your visit, I'm at lan@example.com. Lan, owner",
+   "lang": "en",
+   "note": "Own the real mistake, back your staff in one calm line without repeating the insult, and flag the review to the platform separately if it breaks its rules."
   }
  ]
 }

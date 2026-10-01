@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -189,6 +189,13 @@
    "reply": "That's really sweet, and I'm touched you'd want me there. A family wedding in Porto feels like a big step after three dates, so I'm going to sit this one out, but I'd love to keep seeing you. Dinner this Saturday?",
    "lang": "en",
    "note": "When they move faster than you: no to the plan, yes to the person, and a concrete next date in the same message so it doesn't read as a let-down."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-028",
+   "situation": "I've been messaging Sana on a dating app for ten days and I really like her. She lives in Bristol and I'm in London, so a first meeting is a proper trip. I'd like to suggest a video call first, Sunday Oct 4 around 7pm, without it feeling like an interview.",
+   "reply": "I'm really enjoying talking to you, and since Bristol to London is more than a quick coffee, how about a video call first? Sunday around 7, a drink each, no agenda. If it goes well, I'm happy to be the one on the train. And if calls aren't your thing, just say.",
+   "lang": "en",
+   "note": "When distance makes a first meeting a big trip, a short call is the low-pressure step; offering to travel shows you mean it."
   }
  ]
 }

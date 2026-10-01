@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -183,6 +183,13 @@
    "reply": "Thanks, Kai, I like that you're looking at how we work with fresh eyes. We're keeping standup as it is for this quarter, so let's keep it to updates. Could you write your ideas up in a short doc? We'll go through them together at our 1:1 on Tuesday 6 October.",
    "lang": "en",
    "note": "From a junior colleague, receive it warmly, hold the position once, and give the ideas a proper place so they stop landing in the meeting."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-027",
+   "situation": "Our newborn daughter is named Wren, with Margaret, after my late grandmother, as her middle name, and it's all on the birth certificate. My mum keeps saying Wren is 'a bird, not a name' and that Margaret should be her first name, and she texted about it again this morning. I love my mum and want her close to the baby.",
+   "reply": "Mum, I know Margaret means a lot to you, and that's exactly why she carries it as her middle name. Her name is Wren, it's on the birth certificate, and we love it. Come over this weekend for a cuddle?",
+   "lang": "en",
+   "note": "A decision that's already made: say so once, credit what matters to her, and invite her closer instead of debating the name."
   }
  ]
 }

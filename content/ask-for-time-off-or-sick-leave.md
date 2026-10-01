@@ -70,4 +70,4 @@ If the request is out of step with the written policy, ask them to point you to 
 > Nothing I need help with, just unwell. I'll be back as soon as I'm fit to work.
 
 **Silence on a leave request:**
-> Following up on my leave for 14 to 18 October. If I don't hear otherwise by Friday I'll assume it's fine and put it in the system.
+> Following up on my leave for 14 to 18 October. Could you let me know by Friday? I'm happy to put it in the system now for you to approve there.

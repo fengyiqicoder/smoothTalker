@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "apologize-001",
@@ -190,6 +190,13 @@
    "reply": "Hi Grace, I wanted to say sorry properly for yesterday. Leo pushed Maya off the slide and she hurt her knee, and I'm really sorry, for her and for you, dealing with that at the end of the day. We've talked with him at home about pushing, and I'll be staying closer to him at pickup from now on. I hope Maya's knee is feeling better.",
    "lang": "en",
    "note": "Apologising for your child: own it as the parent, say what you've done about it, and don't explain away a 4-year-old's behaviour."
+  },
+  {
+   "id": "apologize-028",
+   "situation": "My friend Robin came out as non-binary in June and uses they/them. At book club on Tuesday I called them 'she' twice and then laughed it off with 'old habits'. Robin left early and I want to text them.",
+   "reply": "Robin, I'm sorry about Tuesday at book club. I called you 'she' twice, and then brushing it off as 'old habits' made it worse. You shouldn't have to sit through that with friends, and I can see why you left early. I'm practising so it comes naturally, and if I slip again I'll correct myself and move on without making it a thing.",
+   "lang": "en",
+   "note": "Misgendering: brief and specific, without so much guilt that they end up comforting you."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -183,6 +183,13 @@
    "reply": "Hey, quick one: your latest story went out to everyone, not just close friends, and a few of your work people follow you. Might be worth deleting it now. Super easy slip, happens to everyone!",
    "lang": "en",
    "note": "A five-minute fix gets a private message straight away; don't repeat what the story said and don't bring it up again."
+  },
+  {
+   "id": "tell-someone-something-awkward-027",
+   "situation": "It's 11pm and I've just noticed my downstairs neighbour's car boot is wide open in our building's car park, with a laptop bag on show. I don't have his number, but I know he lives in flat 1B. I'm Ana from 2A and I'm going to knock on his door.",
+   "reply": "Hi, sorry to knock so late, I'm Ana from 2A. Your car boot's open down in the car park, and there's a laptop bag on show. Thought you'd want to know before morning. Easy one to miss!",
+   "lang": "en",
+   "note": "A quick fix for a near-stranger: tell him in person straight away rather than in the building chat, then leave it there."
   }
  ]
 }

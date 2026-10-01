@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -183,6 +183,13 @@
    "reply": "Abuela, quiero que lo sepas por mí antes del domingo: estoy embarazada, de 16 semanas, y salgo de cuentas a mediados de marzo. He decidido tener este bebé sola, con ayuda de un donante, y estoy muy feliz. Te pido una cosa: que el domingo no hablemos del padre, porque esa parte es solo mía. Lo que más ilusión me hace es que vas a ser bisabuela.",
    "lang": "es",
    "note": "La noticia primero, una línea de sentimiento y una petición concreta sobre cómo responder; si quiere hablarlo más, mejor a solas otro día."
+  },
+  {
+   "id": "share-personal-news-027",
+   "situation": "I've just accepted a senior engineer job at a robotics company, starting Monday 2 November. My best friend Marcus was laid off three weeks ago and is still looking. I want to tell him myself, by text, before I update LinkedIn on Monday.",
+   "reply": "Wanted you to hear this from me before it's on LinkedIn on Monday: I've accepted a senior engineer job at a robotics company, starting 2 November. I know the timing isn't easy with everything you're dealing with, so no need to say anything big, or anything at all. I'm still in your corner for the job hunt, and the first round's on me whenever you fancy it.",
+   "lang": "en",
+   "note": "Good news to someone going through the opposite: tell them individually and first, and give them permission not to celebrate."
   }
  ]
 }

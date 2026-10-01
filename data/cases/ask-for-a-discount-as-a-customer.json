@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -190,6 +190,13 @@
    "reply": "Hi, I've been a member at Summit Wall for three years and I've loved it, but I'm moving to Denver on November 15 for a new job. I'd like to cancel my membership from that date. Since the move is 900 miles away, and I can send you a copy of my new lease, could you waive the $120 early cancellation fee? If that's not possible, I understand, and I'll pay it so we can close the account cleanly.",
    "lang": "en",
    "note": "A fee waiver needs a real anchor: the move plus proof, offered up front, makes it easy for staff to say yes."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-028",
+   "situation": "I'm on holiday in Marrakech and a rug seller in the souk quoted 1,400 dirhams for a small wool rug. Haggling is normal here, and a stall near the entrance offered me a similar size for 950. I'd be happy at around 1,000 and can pay cash now.",
+   "reply": "It's beautiful, and I'd like to buy it today, in cash. A stall near the entrance offered me a similar size for 950, so I was thinking 900 for this one. If we can meet somewhere around there, I'll pay now. And if not, no problem at all, thank you for showing me.",
+   "lang": "en",
+   "note": "Where haggling is expected, open a little below your target and stay warm; the out keeps it friendly if you walk."
   }
  ]
 }

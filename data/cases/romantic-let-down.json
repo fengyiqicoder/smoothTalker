@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -183,6 +183,13 @@
    "reply": "Hi Martin, thanks for asking, but it's a no from me. I'd like to keep things between us just landlord and tenant. For anything about the flat, text is the best way to reach me.",
    "lang": "en",
    "note": "Where someone has power over your housing, keep the no short and keep a copy of messages; if it continues or affects your tenancy, contact a tenants' advice service, and if you ever feel unsafe, call emergency services."
+  },
+  {
+   "id": "romantic-let-down-027",
+   "situation": "我在一个游戏群里认识阿凯两年了，我们和另外三个人每周五晚上一起组队，从没见过面。昨晚他私聊跟我表白，说想下个月来杭州见我。我对他没有那种感觉，但很想继续每周五一起打游戏。",
+   "reply": "阿凯，谢谢你跟我说这些，我知道说出口不容易。不过我对你没有那种感觉，所以下个月就不见面了，免得你白跑一趟。这两年周五晚上一起组队我真的很开心，如果你愿意，我们照常一起玩；你想先缓几周也完全没关系。",
+   "lang": "zh",
+   "note": "网友表白：在对方订行程前说清楚；只有真心想继续一起玩才提照常组队，并给他退一步的空间。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -134,6 +134,13 @@
    "reply": "Leo, you did exactly the right thing telling me, and you are not in trouble. The person doing this is a criminal who does it on purpose, and none of this is your fault. We're not paying and we're not answering them: we'll screenshot everything, block them and report it together tonight. You said you wish you were dead, and I'm taking that seriously, so I'm staying right here with you. We'll get through this together.",
    "lang": "en",
    "note": "Keep the messages as evidence and report to the platform and the police. He has already said he wishes he was dead: call a crisis line with him tonight, don't leave him alone, and call emergency services if he talks about a plan or you think he is in danger."
+  },
+  {
+   "id": "suspicious-or-scam-message-020",
+   "situation": "中学からの友達の美咲のLINEアカウントから「写真コンテストに出てるから投票して！」とリンクが届き、続けて「本人確認のためにSMSに届いた6桁のコードを送って」と来た。リンクは押していない。美咲の電話番号は前から登録してある。",
+   "reply": "美咲、さっき美咲のLINEから投票のリンクと、SMSに届いた確認コードを送ってほしいというメッセージが来たよ。リンクは開いてないし、コードも送ってない。たぶん美咲じゃないよね？アカウントが乗っ取られているかもしれないから、時間のあるときに電話して。",
+   "lang": "ja",
+   "note": "返信はLINEではなく登録済みの番号へ。コードは誰にも送らない。乗っ取りと確認できたらLINEの通報機能で報告し、美咲から別の手段で友達に注意を呼びかけてもらう。"
   }
  ]
 }

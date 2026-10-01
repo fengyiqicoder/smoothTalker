@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -134,6 +134,13 @@
    "reply": "Hi Maya, yes, he can. Tomasz worked my grill for two years, and for his last year he ran it on his own on Saturdays, around 180 covers a night. He also trained our two newer cooks on steak temperatures. I'd hire him back. Happy to talk if you want more.",
    "lang": "en",
    "note": "A quick reference by message: answer her exact question first, then the evidence that matches it."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-020",
+   "situation": "好朋友陈默想从一家流浪猫救助站领养一只三岁的猫，救助站的志愿者小林加了我微信，请我作为推荐人说说她养宠物的情况。我认识陈默十年，她养的上一只猫团团活到16岁，最后两年得了肾病，她每天在家给团团打皮下补液，我去她家时见过好几次。她现在的住处我还没去过。",
+   "reply": "小林你好，我是陈默的朋友，认识她十年了。她养的上一只猫团团活到16岁，最后两年得了肾病，她每天在家给团团打皮下补液，我去她家时亲眼见过好几次，一直很耐心、很细致。她现在的住处我还没去过，这部分就不评价了。就照顾猫这件事，我非常放心地推荐她。还有想了解的，随时微信问我。",
+   "lang": "zh",
+   "note": "领养推荐也一样：说清认识多久，用亲眼见过的事说话，没见过的直接说明。"
   }
  ]
 }

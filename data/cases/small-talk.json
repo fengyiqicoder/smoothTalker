@@ -4,8 +4,8 @@
  "cases": [
   {
    "id": "small-talk-001",
-   "situation": "Going to a fintech conference alone next week and I freeze up at the coffee breaks. Give me something to say to someone standing by the coffee.",
-   "reply": "Hi, I'm Sam. Which session brought you here? I came for the fraud panel and half of it went over my head.",
+   "situation": "I'm Sam, going to a fintech conference alone next week, mainly for the fraud panel. I freeze up at the coffee breaks. Give me something to say to someone standing by the coffee.",
+   "reply": "Hi, I'm Sam. Which session brought you here? I'm mostly here for the fraud panel.",
    "lang": "en",
    "note": "One question plus one line about you. The next question comes from their answer: 'What's the part people don't get about that?'"
   },
@@ -18,35 +18,35 @@
   },
   {
    "id": "small-talk-003",
-   "situation": "At my girlfriend's work party, chatting with a guy named Chris who's given me one-word answers twice now. How do I get out without it being awkward?",
-   "reply": "I'm going to grab another drink. Good to meet you, Chris, enjoy the rest of the night.",
+   "situation": "At my girlfriend Amy's work party, chatting with a guy named Chris who's given me one-word answers twice now. Amy's the only person I know here and we're standing right by the food table. I want to give it one more go before I move on.",
+   "reply": "I'll be honest, Amy's the only person I know here, so I've mostly been guarding the food table. Anything on it worth the trip?",
    "lang": "en",
-   "note": "Two flat answers is the cue. Exit warmly and don't make it a verdict on either of you."
+   "note": "Two flat answers is the cue to share one thing about yourself to lower the pressure. If it stays flat, say it was good to meet him and move on without making it a verdict on either of you."
   },
   {
    "id": "small-talk-004",
-   "situation": "Meeting my boyfriend Arjun's dad for the first time at dinner on Saturday. Arjun says he's quiet and spends weekends restoring old Royal Enfield motorbikes in the garage. I want something to say that isn't about work.",
-   "reply": "Arjun tells me you restore old Royal Enfields. Which one's in the garage at the moment?",
+   "situation": "Meeting my boyfriend Arjun's dad for the first time at dinner on Saturday. Arjun says he's quiet and spends weekends restoring old motorbikes in the garage. I want something to say that isn't about work.",
+   "reply": "Arjun tells me you restore old motorbikes. Which one's in the garage at the moment?",
    "lang": "en",
    "note": "Open on the thing he cares about, then let the next question come from his answer (\"How long does one take, start to finish?\") and share one small thing back before returning to him."
   },
   {
    "id": "small-talk-005",
    "situation": "First video call with my new team and I'm always early. It'll probably be just me and Inês, who's based in Lisbon, waiting for a few minutes. All I know is she's the data analyst.",
-   "reply": "Hi Inês, looks like we're the early ones. I'm new this week, so I'll just ask: what's one thing about this team you wish someone had told you in your first month?",
+   "reply": "Hi Inês, looks like we're the early ones. I'm the new one here, so I'll just ask: what's one thing about this team you wish someone had told you in your first month?",
    "lang": "en",
    "note": "Asks for a view she actually has, which gives a thread to follow; the next question should come from her answer."
   },
   {
    "id": "small-talk-006",
-   "situation": "国庆回老家吃团圆饭，我旁边坐的是表姐的新老公，第一次见，只知道他在深圳做无人机。我怕冷场。",
+   "situation": "国庆回老家吃团圆饭，我旁边坐的是表姐的新老公，第一次见，只听表姐说过他在深圳做无人机。我怕冷场。",
    "reply": "姐夫，听我姐说你在深圳做无人机？我一直挺好奇的，你们做的是航拍那种，还是送快递、给庄稼打药那种？",
    "lang": "zh",
    "note": "问他有自己看法的事，然后顺着他的回答追问“当初怎么入的这行”；分享一句自己的，再把话头还给他。"
   },
   {
    "id": "small-talk-007",
-   "situation": "At my neighbour's barbecue I just asked a woman I met ten minutes ago, Grace, when her baby is due. She said 'I'm not pregnant' with a tight smile and now we're both standing by the grill in silence. What do I say right now?",
+   "situation": "At my neighbours Mark and Deb's barbecue I just asked a woman I met ten minutes ago, Grace, when her baby is due. She said 'I'm not pregnant' with a tight smile and now we're both standing by the grill in silence. What do I say right now?",
    "reply": "That came out wrong, and I'm sorry, I shouldn't have assumed. So how do you know Mark and Deb?",
    "lang": "en",
    "note": "Fix it in one line and hand her a new thread straight away. A second apology makes the moment bigger than it was."
@@ -63,7 +63,7 @@
    "situation": "On vient d'emménager à Lyon et je récupère ma fille à l'école tous les jours. Les autres parents se connaissent tous. Il y a un papa qui attend toujours au portail avec un grand chien roux, et ma fille ne parle que de ce chien.",
    "reply": "Bonjour ! Ma fille ne parle que de votre chien depuis la rentrée. Il s'appelle comment ?",
    "lang": "fr",
-   "note": "Partir de ce qu'il y a sous les yeux, puis rebondir sur sa réponse et glisser une phrase sur vous (« On vient d'arriver de Nantes ») avant de lui rendre la parole."
+   "note": "Partir de ce qu'il y a sous les yeux, puis rebondir sur sa réponse et glisser une phrase sur vous (« On vient d'emménager ») avant de lui rendre la parole."
   },
   {
    "id": "small-talk-010",
@@ -74,14 +74,14 @@
   },
   {
    "id": "small-talk-011",
-   "situation": "Matched with Sam on Hinge. We've done 'how was your weekend' / 'good, you?' twice and it's dying. Their profile says they just got back from climbing in Kalymnos and are learning Greek 'badly'.",
-   "reply": "Okay, I have to ask about Kalymnos. Was it the climbing that got you there, or did the Greek come first? I did a month of Duolingo Greek once and can mostly say 'the cat drinks milk'.",
+   "situation": "Matched with Sam on Hinge. We've done 'how was your weekend' / 'good, you?' twice and it's dying. Their profile says they just got back from climbing in Kalymnos and are learning Greek 'badly'. I once did a month of Greek on an app and can mostly say 'the cat drinks milk'.",
+   "reply": "Okay, I have to ask about Kalymnos. Was it the climbing that got you there, or did the Greek come first? I did a month of Greek on an app once and can mostly say 'the cat drinks milk'.",
    "lang": "en",
    "note": "Swap generic questions for something they chose to show you, share one small thing back, and end on a question they'll enjoy answering."
   },
   {
    "id": "small-talk-012",
-   "situation": "At a friend's housewarming on Saturday, someone will definitely ask 'so what do you do?' I was laid off from my bank job in August and haven't found anything yet. I don't want to lie or kill the conversation.",
+   "situation": "At my friend Nadia's housewarming on Saturday, someone will definitely ask 'so what do you do?' I was laid off in August after six years at Halden Bank, and I've been using the time to learn to bake bread. I don't want to lie or kill the conversation.",
    "reply": "Right now I'm between jobs. I was at Halden Bank for six years until August, and the upside is I've finally had time to learn to bake bread. How do you know Nadia?",
    "lang": "en",
    "note": "One honest sentence, one small thing you'd happily talk about, then hand the thread back to them."
@@ -102,7 +102,7 @@
   },
   {
    "id": "small-talk-015",
-   "situation": "I'm at the reception after my coworker Dana's dad's funeral. I never met him. I'm standing by the tea urn next to an older man I don't know and the silence is getting awkward.",
+   "situation": "I'm Rob, at the reception after my coworker Dana's dad's funeral. I never met him. I'm standing by the tea urn next to an older man I don't know and the silence is getting awkward.",
    "reply": "Hi, I'm Rob, I work with Dana. I never got to meet her dad. How did you know him?",
    "lang": "en",
    "note": "At a funeral, invite a story rather than an opinion. If he shares one, 'What was he like?' keeps it going, and quiet moments can stay quiet."
@@ -117,7 +117,7 @@
   {
    "id": "small-talk-017",
    "situation": "I'm Tom, a junior analyst, and I just ended up alone in the lift with our CEO, Margaret Osei, for about eight floors. The only thing I know is that at last week's all-hands she talked about the new Glasgow office opening in November.",
-   "reply": "Hi, I'm Tom from the analytics team. I enjoyed your all-hands talk last week. How's the Glasgow office coming along, is it still on track for November?",
+   "reply": "Hi, I'm Tom from the analytics team. At the all-hands last week you mentioned the Glasgow office opening in November. How's it coming along?",
    "lang": "en",
    "note": "With someone senior, one specific question about their project beats flattery or a pitch; let them do the talking."
   },
@@ -130,7 +130,7 @@
   },
   {
    "id": "small-talk-019",
-   "situation": "At my cousin Emma's wedding reception, the man next to me, Gary, has just started on about the mayor's new bike lanes and clearly wants me to agree. I don't want a debate at a wedding. The only other thing I know is he said he flew in from Denver this morning.",
+   "situation": "At my cousin Emma's wedding to Josh, the man next to me at the reception, Gary, has just started on about the mayor's new bike lanes and clearly wants me to agree. I don't want a debate at a wedding. The only other thing I know is he said he flew in from Denver this morning.",
    "reply": "Ha, I think that one's a debate for another day, I'm keeping tonight strictly about cake. You flew in from Denver this morning, right? How do you know Emma and Josh?",
    "lang": "en",
    "note": "Politics needs a position; step around it with a smile rather than a counterpoint, then hand him a thread he can enjoy."
@@ -172,10 +172,10 @@
   },
   {
    "id": "small-talk-025",
-   "situation": "下午去一家设计公司面试，前台说面试官陈经理会下来接我，从大堂坐电梯到会议室大概两分钟。我在公司公众号上读到陈经理上个月在成都设计大会上讲无障碍设计的分享，觉得很有意思。不想冷场，也不想一上来就聊面试。",
-   "reply": "陈经理好，谢谢您下来接我。我在公众号上读了您上个月在成都设计大会讲无障碍设计的分享，觉得特别有意思。那是您第一次去那个大会讲吗？",
+   "situation": "公司团建烧烤，我和财务部的小周聊了十几分钟，一直是我问她答，感觉像在面试她。她刚说最近周末在学手冲咖啡，老是冲得太酸。我自己每天早上就喝速溶。",
+   "reply": "哈哈，那我得先坦白，我每天早上就是一包速溶打发的。冲得太酸是哪儿出了问题啊？",
    "lang": "zh",
-   "note": "电梯里的两分钟，问一个她有自己看法的事；她回答后顺着追问一句就够了，进会议室再聊正事。"
+   "note": "一直问会变成面试；先分享一句自己的，再顺着她刚说的往下问，别换新话题。"
   },
   {
    "id": "small-talk-026",

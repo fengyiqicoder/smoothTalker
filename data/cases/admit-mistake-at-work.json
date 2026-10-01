@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -190,6 +190,13 @@
    "reply": "周姐，跟您说一个我的失误：上周给我们部门订培训会议室时，我把你们10月8日（周四）下午见客户的大会议室预订覆盖掉了，今天小王来确认时才发现。现在大会议室已经给你们重新订好，截图发给小王了，我们的培训挪到了小会议室，你们见客户的安排不受影响。对不起，差点耽误你们的正事。以后系统提示会覆盖已有预订时，我会先看清是谁的，再联系对方，不会直接点确认。",
    "lang": "zh",
    "note": "对平级部门认错：第一句说清错在哪，紧接着说已经恢复，让对方马上放心，再给一条具体的防范。"
+  },
+  {
+   "id": "admit-mistake-at-work-028",
+   "situation": "I manage a small bookshop with a team of four. Last month I approved both Tom's and Lucy's leave for 19 to 23 October without noticing they overlap, which leaves us one short of the three people we need on the floor. I'm not cancelling either; I'll work the shop floor myself that week. I want to post in our team WhatsApp.",
+   "reply": "Quick one, and it's my mistake: I approved both Tom's and Lucy's leave for 19 to 23 October without spotting the overlap, which leaves us one short on the floor that week. Both bookings stand, so nobody needs to change their plans. I'll cover the gap by working the floor myself all week, and the updated rota will be up by Friday 9 October. From now on I'll check every leave request against the shared calendar before I approve it.",
+   "lang": "en",
+   "note": "Owning a mistake to your own team: the fix shouldn't cost the people who did nothing wrong."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -190,6 +190,13 @@
    "reply": "陈先生，谢谢您告诉我，这学期小宇真的很用功，96分是他自己拼出来的。想请您帮个小忙：写两三句推荐语，我放在朋友圈和招生海报上，署名只写“初二学生家长”，不会出现小宇的名字、学校和照片。我先起了一段，您随意改：“孩子跟Amy老师学了一学期，期中英语从78分提到了96分。”不方便的话完全没关系，谢谢您！",
    "lang": "zh",
    "note": "给未成年学生的家长要推荐语：先说清楚不放孩子的任何信息，再附一段只用已知事实的草稿。"
+  },
+  {
+   "id": "ask-for-review-or-testimonial-028",
+   "situation": "I'm Rosa, a mobile hairdresser who visits clients at home. I've done Mrs. Patterson's hair every fortnight for a year; she's 89 and isn't online, but her daughter Karen books and pays for the visits. Karen texted today that her mum says she 'feels like herself again' after each visit. My Google review link is https://g.page/r/rosa-mobile-hair/review.",
+   "reply": "Thank you, Karen, that's lovely to hear, and it's a pleasure every fortnight. If you have a minute, a short Google review from you would help other families looking for someone to visit a parent at home find me: https://g.page/r/rosa-mobile-hair/review. Two sentences about what you've seen is plenty. Thank you either way, and give your mum my love.",
+   "lang": "en",
+   "note": "When the client isn't online, ask the family member who books, and only for what they've seen themselves."
   }
  ]
 }

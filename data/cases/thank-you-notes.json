@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 19,
+ "count": 20,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -134,6 +134,13 @@
    "reply": "Dear Grandpa Walt,\nThank you for my toolbox! The hammer is my favourite. I already fixed the wobbly leg on my chair. I carry my toolbox everywhere. I can't wait to build the birdhouse with you in spring.\nLove, Sami",
    "lang": "en",
    "note": "A child's note: short sentences in their own voice, one thing they did with the gift, and the plan the giver mentioned."
+  },
+  {
+   "id": "thank-you-notes-020",
+   "situation": "I'm Nadia and I run a one-woman bakery, Crumb & Co. A regular, Mr Okafor, told the owner of Harbour Café about my sourdough, and since September they've ordered 30 loaves every week, now my biggest account. I want to tuck a handwritten card into his usual Saturday order, with a loaf of the new rye I'm launching next month.",
+   "reply": "Dear Mr Okafor, thank you for telling Harbour Café about my sourdough. Since September they've ordered 30 loaves every week, which makes them my biggest account, and it all started with you mentioning me. For a one-woman bakery, that's a big deal. Here's a first taste of the rye I'm launching next month; I'd love to know what you think. With thanks, Nadia, Crumb & Co.",
+   "lang": "en",
+   "note": "Thanking a customer for a referral: name what it led to, and keep it a thank-you, not a discount or a sales pitch."
   }
  ]
 }
