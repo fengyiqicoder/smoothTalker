@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -196,6 +196,13 @@
    "reply": "Bonjour Madame Moreau, j'espère que vous allez bien, et Léa et Hugo aussi. Je postule à un master en sciences de l'éducation à Montréal, et le dossier demande une lettre de recommandation d'une personne hors du milieu universitaire, avant le 15 novembre. Comme vous m'avez vue m'occuper de Léa et Hugo pendant toute une année, j'aimerais beaucoup que ce soit vous. Si cela peut aider, je peux vous envoyer un court brouillon sur l'aide aux devoirs d'anglais et mon année chez vous, que vous modifierez librement. Si ce n'est pas le bon moment, je comprends tout à fait.",
    "lang": "fr",
    "note": "Une lettre « hors milieu universitaire » vient de quelqu'un qui vous a vue travailler de près : dire pourquoi elle, la date limite, et proposer le brouillon sans l'envoyer avant son accord."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-029",
+   "situation": "転職活動中の田中美咲です。前職で3年間お世話になった上司の佐藤さんにリファレンスをお願いしたいのですが、佐藤さんは今育休中です。株式会社ミドリ設計の最終面接に進み、10月13日から16日の間に15分ほど電話で話せる方を、と言われました。佐藤さんの下で図書館改修プロジェクトの工程管理を担当していて、LINEで連絡するつもりです。",
+   "reply": "佐藤さん、育休中に突然すみません、田中美咲です。いま転職活動中で、株式会社ミドリ設計の最終面接に進み、10月13日から16日の間に15分ほどお電話でリファレンスをお願いできる方を探しています。図書館改修プロジェクトの工程管理を一番近くで見てくださったのが佐藤さんなので、お引き受けいただけたらとてもありがたいです。ただ育休中ですので、少しでも負担になるようでしたら遠慮なく断ってください。ほかの方にお願いしますので、まったく気にしないでくださいね。",
+   "lang": "ja",
+   "note": "休暇中の相手には、期間と所要時間を最初に示し、断りやすさをいつも以上にはっきり伝える。"
   }
  ]
 }

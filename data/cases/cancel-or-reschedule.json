@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -197,6 +197,13 @@
    "reply": "Ju, vou ter que cancelar o jantar de hoje: meu chefe acabou de marcar uma reunião com um cliente às 19h que eu não posso perder. Desculpa avisar no mesmo dia, ainda mais com você já tendo comprado tudo para a moqueca. Me passa quanto gastou nos ingredientes que eu te transfiro hoje mesmo. Se topar, a gente remarca para sábado, dia 3, ou domingo, dia 4, e quem leva a sobremesa sou eu.",
    "lang": "pt",
    "note": "Cancelando no mesmo dia, ofereça cobrir o que a pessoa já gastou antes que ela precise pedir, e já mande duas datas."
+  },
+  {
+   "id": "cancel-or-reschedule-029",
+   "situation": "I'd planned my first coffee with Priyanka, who I met at book club a month ago, for this Saturday, 3 October, but my landlord has booked the boiler repair for that morning and I have to be in. When I texted to move it, she replied 'No worries, maybe we just leave it then!' I'd genuinely like to meet, and I'm free Saturday 10 October in the morning or Wednesday 14 October after 6.",
+   "reply": "Ha, I'd rather not leave it! It really was just the boiler repair, not a change of heart, and I've been looking forward to it. Could you do Saturday 10 October in the morning, or Wednesday 14 October after 6? If neither suits, or you'd rather leave it after all, no problem at all.",
+   "lang": "en",
+   "note": "When they offer to drop the plan, say once that you still want it, give two dates, and accept a real no if it comes."
   }
  ]
 }

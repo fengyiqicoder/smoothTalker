@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -190,6 +190,13 @@
    "reply": "Merci de m'avoir demandé, M. Lefèvre. Je ne monte pas les pièces achetées ailleurs : sur des freins, je ne peux pas garantir une compatibilité et une qualité que je n'ai pas vérifiées moi-même, et c'est votre sécurité qui en dépend. Ce que je peux faire, c'est vous commander des freins compatibles avec votre vélo, à 140 € pose comprise, livrés le jeudi 8 octobre. Voulez-vous que je les commande ?",
    "lang": "fr",
    "note": "La raison est la sécurité du client, pas « la politique de l'atelier » ; l'alternative arrive avant qu'il la demande."
+  },
+  {
+   "id": "say-no-to-a-customer-request-028",
+   "situation": "I run a small flower shop, Petal & Stem. A man called Kieran wants us to deliver a dozen roses with an unsigned card to a woman at her workplace, and when I asked, he said she has blocked him everywhere since they broke up and he just wants her to know he's thinking of her. We don't deliver to someone who has cut off contact with the sender, and he's asking me to make an exception.",
+   "reply": "Thanks for telling me the background, Kieran. We can't take this order: when someone has blocked contact, we don't deliver flowers to them, signed or unsigned, because that choice is hers and a delivery would go around it. I'm glad to do flowers for anyone else in your life, today or any time.",
+   "lang": "en",
+   "note": "Hold the no without lecturing him about the breakup; if he turns threatening or you fear for her safety, call the police."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -197,6 +197,13 @@
    "reply": "周敏你好，我是林悦。下周五10月9日朵朵爸爸出差，之前他跟你说过那天由我去接朵朵，下午5点在学校门口，我会提前十分钟到。朵朵有没有什么需要我特别注意的，比如要带的东西？周四晚上前告诉我就好，谢谢。",
    "lang": "zh",
    "note": "继任伴侣第一次联系对方：说清自己是谁，只谈这一次接送，不评论任何人，育儿上的决定留给两位父母。"
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-029",
+   "situation": "My ex, Rob, texted asking if I'm okay with him getting our daughter Isla (7) her ears pierced on his weekend, Saturday 10 October, as an early birthday present. I'd rather wait until she's 10 and can look after the piercings herself. We've always made decisions like this together.",
+   "reply": "Hi Rob, thanks for checking with me first. I'd rather we waited on Isla's ears until she's 10, when she can look after the piercings herself, and then raised it with her together. If you see it differently, could you let me know by Thursday 8 October so we can settle it before Saturday? Thanks.",
+   "lang": "en",
+   "note": "A non-urgent decision you disagree on: thank them for asking, give your view with one reason, and keep it joint; if you still can't agree, mediation is the next step, not a longer text."
   }
  ]
 }

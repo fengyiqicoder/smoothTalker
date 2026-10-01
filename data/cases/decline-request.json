@@ -4,21 +4,21 @@
  "cases": [
   {
    "id": "decline-request-001",
-   "situation": "Coworker Raj asked me to take his on-call shift the weekend of Oct 17. I've already covered for him twice this quarter and that's my son's football tournament.",
-   "reply": "I can see you need the weekend of the 17th covered. I can't take it this time, it's my son's football tournament. Elena mentioned last week she wanted extra on-call hours, so she might be worth asking.",
+   "situation": "Coworker Raj asked me to take his on-call shift the weekend of Oct 17. I've already covered for him twice this quarter and that's my son's football tournament. Elena said last week she wants extra on-call hours.",
+   "reply": "I can see you need the weekend of the 17th covered. I can't take it this time, it's my son's football tournament. Elena said last week she wants extra on-call hours, so she might be worth asking.",
    "lang": "en",
    "note": "The referral is only there because it is real; skip it if you don't have one."
   },
   {
    "id": "decline-request-002",
-   "situation": "表哥找我借5万说要做生意，之前借的2万到现在也没还。不想借，但他是我舅舅的儿子，不好撕破脸。",
-   "reply": "哥，你开口我知道不容易。这次我不借，我给自己定过规矩，亲戚之间不借钱，对谁都一样。你要是想找人一起把生意的账算一算，我可以陪你看看。",
+   "situation": "表哥找我借5万说要做生意，之前借的2万到现在也没还，那之后我就定了规矩，不再借钱给亲戚。不想借，但愿意帮他算算生意的账，他是我舅舅的儿子，不好撕破脸。",
+   "reply": "哥，你开口我知道不容易。这次我不借，我给自己定了规矩，亲戚之间不借钱，对谁都一样。你要是想找人一起把生意的账算一算，我可以陪你看看。",
    "lang": "zh",
    "note": "用\"规矩\"而不是\"没钱\"，对方就没法在理由上讨价还价；之前那两万另找时间说，别混在这条里。"
   },
   {
    "id": "decline-request-003",
-   "situation": "A former client keeps asking me (graphic designer) to 'quickly' tweak his logo for free. I said no, now he's replied 'wow, after all the business I sent your way'.",
+   "situation": "A former client, Greg, asked me (graphic designer) to 'quickly' tweak his logo for free. I said no, and he's replied 'wow, after all the business I sent your way'. The tweak is about an hour's work and my rate is $90 an hour.",
    "reply": "I understand you're disappointed, Greg, and I do appreciate the referrals. My answer's the same. If you'd like to book the tweaks, it's a one-hour job at $90 and I can fit it in this week.",
    "lang": "en",
    "note": "After a guilt-trip, don't re-explain. State it once, keep the paid option, then stop replying on that thread."
@@ -26,20 +26,20 @@
   {
    "id": "decline-request-004",
    "situation": "My mother-in-law, Carol, asked if we'll host Christmas again this year, 14 people. We've done it three years running and I'm worn out. Want to say no by text but still contribute something.",
-   "reply": "Hi Carol, thanks for thinking of us. We're going to pass on hosting Christmas this year; after three years in a row we'd love a turn as guests. We're happy to bring the ham and the desserts wherever it ends up, and I can come early on the 24th to help set up. Love to you both.",
+   "reply": "Hi Carol, thanks for thinking of us. We're going to pass on hosting Christmas this year; after three years in a row we'd love a turn as guests. We're happy to bring the ham and the desserts wherever it ends up, and I can come early on the 24th to help set up. Love to you.",
    "lang": "en",
    "note": "A real smaller yes, the food and the setup, keeps the no generous. Don't nominate another host; that's her call."
   },
   {
    "id": "decline-request-005",
-   "situation": "An ex-colleague, Josh, asked me to be a reference for a job at Carver Group; his final interview is Thursday. We only worked together on one project and honestly I wasn't impressed with his work. I want to say no without trashing him.",
-   "reply": "Hi Josh, thanks for thinking of me, and congrats on getting to the final round at Carver. I'm going to say no to being a reference this time. We only worked together on the one project, so I couldn't give them the detail a strong reference needs. Priya, who managed you on the rollout, would do you far more good. Good luck on Thursday.",
+   "situation": "An ex-colleague, Josh, asked me to be a reference for a job at Hollowmere Analytics; his final interview is Thursday. We only worked together on one project, a rollout Priya managed, and honestly I wasn't impressed with his work. I want to say no without trashing him.",
+   "reply": "Hi Josh, thanks for thinking of me, and congrats on getting to the final round at Hollowmere. I'm going to say no to being a reference this time. We only worked together on the one project, so I couldn't give them the detail a strong reference needs. Priya, who managed you on the rollout, would do you far more good. Good luck on Thursday.",
    "lang": "en",
    "note": "Declining a reference: give the true reason that doesn't judge the work, and point to someone better placed."
   },
   {
    "id": "decline-request-006",
-   "situation": "Denise, the PTA chair at my kids' school, asked me to be treasurer this year. I've run the bake sale for 3 years, but I'm back at work full time now and I don't want a role with weekly hours.",
+   "situation": "Denise, the PTA chair at my kids' school, asked me to be treasurer this year. I've run the bake sale for 3 years, but I'm back at work full time now and I don't want a role with weekly hours. I'd still run the bake sale on Saturday 7 November.",
    "reply": "Thanks for thinking of me, Denise, I can see the treasurer spot needs filling. I'm going to say no to that one; with a full-time job this year I can't take on a role with weekly hours. I can still run the bake sale table on Saturday 7 November, if that helps.",
    "lang": "en",
    "note": "A true reason that isn't up for debate, and a smaller yes that's real. Skip the offer if you don't actually want the bake sale either."
@@ -53,28 +53,28 @@
   },
   {
    "id": "decline-request-008",
-   "situation": "My friend Jordan asked me to be the guarantor on his new apartment lease, $2,400 a month. I love him, but I don't co-sign anything for anyone. He's texting me and the lease signing is Friday.",
+   "situation": "My friend Jordan asked me to be the guarantor on his new apartment lease, $2,400 a month. I love him, but I don't co-sign anything for anyone. He's texting me and the lease signing is Friday. I'm free tonight and happy to help him look at other options.",
    "reply": "I can tell how much you want this place, and I'm glad you asked me straight. I'm going to say no to being your guarantor. I don't co-sign leases or loans for anyone, family included; it's a rule I keep so money never sits between me and people I care about. If it helps, I'm free tonight to help you ask the landlord whether a larger deposit could replace a guarantor before Friday.",
    "lang": "en",
    "note": "A rule, not a comment on his finances, leaves nothing to argue with. Only offer the help tonight if you actually mean to give it."
   },
   {
    "id": "decline-request-009",
-   "situation": "My manager Karen asked if I'd organise the team holiday party again this year. I've done it the last two years, and our Q4 product launch is on December 8. I want to say no without looking like I'm not a team player.",
-   "reply": "Thanks for thinking of me, Karen. I'm going to pass on organising the holiday party this year; with the launch on 8 December I wouldn't give it the attention it deserves. I'm happy to hand last year's venue contacts and budget sheet to whoever takes it on, and walk them through it in 20 minutes.",
+   "situation": "Someone I don't know in my neighbourhood WhatsApp group messaged me privately asking me to fill in a 20-minute survey for her master's dissertation. I don't want to, and I don't think I owe a stranger a reason.",
+   "reply": "Thanks for asking, but it's not something I can help with. Good luck with the dissertation.",
    "lang": "en",
-   "note": "To a manager, tie the no to a priority she already owns and make the handover the smaller yes. If she says the party matters more, ask which should slip."
+   "note": "Low stakes with a near-stranger: a short, friendly no with no reason; an explanation only invites a follow-up."
   },
   {
    "id": "decline-request-010",
-   "situation": "对门邻居刘先生，平时就电梯里点个头，今天敲门问我国庆10月1号到7号能不能帮他们照看家里的两只猫，每天上门喂一次、铲屎。我国庆在家，但不想担这个责任，万一猫出事说不清。",
+   "situation": "对门邻居刘先生，平时就电梯里点个头，今天敲门问我国庆10月1号到7号能不能帮他们照看家里的两只猫，每天上门喂一次、铲屎。我国庆在家，但我一向不帮别人照看宠物，万一出事说不清。小区门口的喵星球宠物店有上门喂养服务。",
    "reply": "刘先生您好，谢谢您信得过我。照猫这件事我就不接了，别人家的宠物我一向不帮忙照看，怕万一有情况担不起。小区门口的'喵星球'宠物店有上门喂养服务，您可以去问问。国庆愉快！",
    "lang": "zh",
    "note": "不太熟的邻居：用一条规矩拒绝，不用编理由；有真实可用的去处就给一个，简短收尾。"
   },
   {
    "id": "decline-request-011",
-   "situation": "Mi cuñado Andrés me pidió prestado el coche una semana, del 10 al 17 de octubre, para irse a la costa con unos amigos. No presto el coche a nadie y el seguro solo me cubre a mí.",
+   "situation": "Mi cuñado Andrés me pidió prestado el coche una semana, del 10 al 17 de octubre, para irse a la costa con unos amigos. No presto el coche a nadie y el seguro solo me cubre a mí. El verano pasado alquilé uno en una agencia con buen precio por semana.",
    "reply": "Andrés, gracias por preguntarme directamente. Te voy a decir que no: el coche no lo presto, es una regla que tengo con todo el mundo, y además el seguro solo me cubre a mí. Si te sirve, te paso el contacto de la agencia donde alquilé el verano pasado, tenían buen precio por semana. ¡Que lo paséis genial en la costa!",
    "lang": "es",
    "note": "Una regla para todos es difícil de discutir; la alternativa es pequeña y real. Si insiste: 'Te entiendo, pero mi respuesta es la misma'."
@@ -88,36 +88,36 @@
   },
   {
    "id": "decline-request-013",
-   "situation": "表姨让我帮她儿子在我们公司内推，还想让我跟HR打个招呼“关照一下”。表弟专业不太对口，我不想去打招呼，但也不想让表姨觉得我不帮忙。",
+   "situation": "表姨让我帮她儿子在我们公司内推，还想让我跟HR打个招呼“关照一下”。表弟专业不太对口，公司招人的事我一向不插手，但也不想让表姨觉得我不帮忙。",
    "reply": "表姨，我知道您是为表弟着急。跟HR打招呼这件事我不能做，公司招人我一向不插手，对谁都一样。表弟要是想试试，我把官网上正在招的岗位链接发给他，他自己投简历就行，投之前我可以帮他看一眼简历。",
    "lang": "zh",
    "note": "拒绝的是“打招呼”，用一条对谁都一样的规矩；发链接和看简历是真能给的小帮助，不想做就别提。"
   },
   {
    "id": "decline-request-014",
-   "situation": "同组同事小周让我明天早上帮他在钉钉上代打卡，他要送孩子去医院复查，大概晚到一个小时。我理解他，但代打卡这种事我不想做。",
-   "reply": "小周，孩子复查肯定得去，我明白。代打卡这个我不帮，考勤的事我一向不碰，对谁都一样。你直接在钉钉上提个两小时事假，跟王姐说明一下原因就行。上午群里有急事，我先帮你盯着，有情况给你打电话。",
+   "situation": "同组同事小周让我明天早上帮他在钉钉上代打卡，他要送孩子去医院复查，大概晚到一个小时。我理解他，但考勤的事我一向不替人做。",
+   "reply": "小周，孩子复查肯定得去，我明白。代打卡这个我不帮，考勤的事我一向不碰，对谁都一样。你按公司的请假流程在钉钉上提个假，说明一下原因就行。上午群里有急事，我先帮你盯着，有情况给你打电话。",
    "lang": "zh",
    "note": "拒绝的是代打卡，不是这个人：一条对谁都一样的规矩，指一条正当的路，再给一个真能做到的小帮忙。"
   },
   {
    "id": "decline-request-015",
-   "situation": "My friend Marco just opened a taco place and asked me and my partner to post 5-star online reviews this week. We haven't eaten there yet and I'm not comfortable reviewing somewhere I haven't been.",
+   "situation": "My friend Marco just opened a taco place and asked me and my partner to post 5-star online reviews this week. We haven't eaten there yet and I only review places I've been to. My partner Sam and I are planning to go on Friday night.",
    "reply": "Congrats on the opening, Marco, I know how much went into it. I'm going to say no to posting a review before we've eaten there; I only review places I've actually been to. Sam and I are coming in on Friday night though, and I'll happily write an honest review after.",
    "lang": "en",
    "note": "Decline the dishonest part, not the friend; the Friday visit is the smaller yes, and only if you'll really go."
   },
   {
    "id": "decline-request-016",
-   "situation": "大学同学老吴找我借身份证，说他名下的手机号办满了，想用我的身份证再办一张卡，给他店里的收款账号用。我们关系不错，但我不想把证件借出去。",
-   "reply": "老吴，我明白你店里急着用。身份证我就不借了，证件这类东西我一向不外借，对谁都一样。收款的事，你可以带上营业执照去银行问问，看用店的名义能怎么办。",
+   "situation": "大学同学老吴找我借身份证，说他名下的手机号办满了，想用我的身份证再办一张卡，给他店里的收款账号用。我们关系不错，但证件我一向不外借。",
+   "reply": "老吴，我明白你店里收款要用。身份证我就不借了，证件这类东西我一向不外借，对谁都一样。收款的事，你可以去银行问问，看用店的名义能怎么办。",
    "lang": "zh",
    "note": "用证件办卡、开账户，出了问题可能要证件主人担责，具体规定可以去营业厅或银行问清楚；拒绝时讲规矩，不评判他。"
   },
   {
    "id": "decline-request-017",
    "situation": "女儿明年3月产假结束，想让我从那时起每周一到周五全天帮她带孩子。我今年刚退休，想留点时间给自己，不想全天都带，但每周三可以全天去带，平时有急事也愿意搭把手。",
-   "reply": "闺女，妈知道产假结束后孩子怎么带，你心里发愁。每周五天全天带，妈就不接了，我刚退休，想给自己留点时间，这个我想好了。每周三我可以全天过来带，平时有急事也随时叫我。其他几天怎么安排，你和女婿商量商量，需要我出主意就说。",
+   "reply": "闺女，妈知道产假结束后孩子怎么带，你心里发愁。每周五天全天带，妈就不接了，我刚退休，想给自己留点时间，这个我想好了。每周三我可以全天过来带，平时有急事也随时叫我。其他几天怎么安排，你们商量商量，需要我出主意就说。",
    "lang": "zh",
    "note": "长辈拒绝子女也可以说得很清楚：一个真实理由，不道歉个没完；每周三和应急是真能给的小帮忙。"
   },
@@ -151,8 +151,8 @@
   },
   {
    "id": "decline-request-022",
-   "situation": "高中同学阿芳现在做保险代理，这周已经第三次在微信上约我聊，想让我给女儿买一份年缴8000元的重疾险。我家的保险都是我和老公一起定的，今年已经配好了，不想再加，也不想伤了同学情分。",
-   "reply": "阿芳，谢谢你想着我们家。这份保险我就不考虑了，我家的保险都是我和老公一起商量定的，今年已经配齐，暂时不会再加。你做这行挺不容易的，祝你顺利！有空约个饭，只聊天不聊保险哈。",
+   "situation": "高中同学阿芳现在做保险代理，这周在微信上约我聊，想让我给女儿买一份年缴8000元的重疾险。我家的保险都是我和老公一起定的，今年已经配好了，不想再加，也不想伤了同学情分。",
+   "reply": "阿芳，谢谢你想着我们家。这份保险我就不考虑了，我家的保险都是我和老公一起商量定的，今年已经配齐，不会再加了。你做这行挺不容易的，祝你顺利！有空约个饭，只聊天不聊保险哈。",
    "lang": "zh",
    "note": "给一个家里的固定做法当理由，比解释预算更难被继续推销；她再约就重复同一句话。"
   },

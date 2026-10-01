@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -190,6 +190,13 @@
    "reply": "各位，跟大家说一件事：台风明天10月2日（周五）白天登陆，商场刚通知明天全天闭店，所以明天排班的同事都不用来店里，公司决定当天工资照发。10月3日（周六）能不能正常开门，我明天下午5点前在群里告诉大家。明天尽量待在家里，关好门窗，非必要别出门，遇到危险先打110或119，安全了再跟我说一声。有问题群里问或者私聊我都行。",
    "lang": "zh",
    "note": "紧急通知也是同样的顺序：先说结论，再说对每个人意味着什么，说清下次什么时候更新，安全提醒放进去。"
+  },
+  {
+   "id": "team-announcements-as-a-manager-028",
+   "situation": "I manage a café with 9 part-time staff. From Monday 2 November to Friday 26 February we'll close at 3pm on weekdays instead of 6pm, because weekday afternoon sales have dropped by about half since the office block next door emptied; the owner and I decided it together. That's 15 fewer weekday shift-hours a week across the team, I'll spread it so nobody loses more than 3 hours a week, weekend hours don't change, and the rota goes up by Friday 16 October. I've told Jade and Tomasz, who are hit hardest, in person, and now I'm posting in the staff WhatsApp group.",
+   "reply": "From Monday 2 November to Friday 26 February, we'll close at 3pm on weekdays instead of 6pm. Since the office block next door emptied, weekday afternoon sales have dropped by about half, and the owner and I decided this together. For you, it means 15 fewer weekday shift-hours a week across the team. I'll spread that so nobody loses more than 3 hours a week, and weekend hours stay exactly as they are. The new rota will be up by Friday 16 October. If losing those hours causes you a real problem, message me this week and we'll look at the rota together.",
+   "lang": "en",
+   "note": "Cutting hours: the people hit hardest hear it in person first, and the post gives the cap on losses before anyone has to ask."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "small-talk-001",
@@ -190,6 +190,13 @@
    "reply": "Welcome, Haruto! You like baseball? Do you play, or watch? I know nothing about baseball, so you can teach me.",
    "lang": "en",
    "note": "With limited English, short sentences and an either-or question make answering easy; save the okonomiyaki for another night's thread."
+  },
+  {
+   "id": "small-talk-028",
+   "situation": "I'm Leah, in the London finance team. Our company's Slack bot has paired me for a 'virtual coffee' with Tomás from the Madrid sales team, whom I've never met. His Slack status is a surfboard emoji and his profile says 'learning to surf, badly', and I want to send the first message so it doesn't feel like a form.",
+   "reply": "Hi Tomás, I'm Leah from finance in London, looks like the bot has matched us for coffee! I have to ask about the surfboard: where are you learning, and how badly are we talking? I'm free for 20 minutes any afternoon this week, whenever suits you.",
+   "lang": "en",
+   "note": "Open with the thing he chose to show, add one line about you, and let the next question come from his answer."
   }
  ]
 }

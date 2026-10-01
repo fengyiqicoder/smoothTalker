@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -148,6 +148,13 @@
    "reply": "I've worked with Farah on the open-source charting library Plotwick for 14 months, entirely online. She rewrote our date-axis code, which closed 31 open bugs in one go. She has also reviewed about 120 pull requests from new contributors, and her feedback is so kind and specific that several first-timers came back with a second one. I know her through open source rather than a day job, and on that basis I recommend her strongly to any team that values careful code and generous review.",
    "lang": "en",
    "note": "An online-only collaboration is real evidence: say where you saw the work and scope the endorsement to it."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-022",
+   "situation": "Sou a Camila Rocha, dona da padaria Pão da Vila, em Belo Horizonte. O designer freelancer Rafael Lima fez a nossa identidade visual e as embalagens entre junho e agosto: entregou tudo uma semana antes do prazo, apresentou três propostas de logo explicando cada escolha, e desde a troca das embalagens as encomendas para presente passaram de 15 para 40 por mês. Ele me pediu um depoimento curto para o site dele; só fizemos esse projeto juntos, e eu o contrataria de novo.",
+   "reply": "A Pão da Vila contratou o Rafael Lima para criar a nossa identidade visual e as embalagens, entre junho e agosto. Ele entregou tudo uma semana antes do prazo e apresentou três propostas de logo, explicando cada escolha. Desde que trocamos as embalagens, as encomendas para presente passaram de 15 para 40 por mês. Foi o único projeto que fizemos juntos, e eu contrataria o Rafael de novo.\nCamila Rocha, Pão da Vila, Belo Horizonte",
+   "lang": "pt",
+   "note": "Depoimento para site: curto, com um resultado em número e o limite do que você viu, para quem lê confiar no resto."
   }
  ]
 }

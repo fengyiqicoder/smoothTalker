@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -196,6 +196,13 @@
    "reply": "Hi Mira, I tested Bright Sprout's new course player with a screen reader and the play button has no label. I'm an accessibility auditor; on Learnloop's platform we fixed 46 issues before its public-sector launch. Want my short list of what I found? A no is useful too. Joel",
    "lang": "en",
    "note": "With a 300-character limit, the why-them is the bug itself; then one number and a yes/no."
+  },
+  {
+   "id": "cold-outreach-029",
+   "situation": "I'm Priya Nair and I run Brightmolar Books, a bookkeeping service for dental practices. Last week I emailed Dr. Alan Brooks at Brooks Family Dental once, using the address on the contact page of his practice's website, and I haven't added him to any mailing list. He replied: 'How did you get this address? Who gave it to you?'",
+   "reply": "Hi Dr. Brooks, fair question. I found it on the contact page of the Brooks Family Dental website; nobody passed it to me, and I haven't added you to any mailing list. If you'd rather not hear from me again, just say so and I won't write again.\nPriya Nair",
+   "lang": "en",
+   "note": "Answer the question plainly and offer the exit; don't turn the reply into a second pitch. If he says stop, reply 'Done, apologies' and remove him everywhere."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -197,6 +197,13 @@
    "reply": "Hallo Herr Vogel,\ndanke für Ihre schnelle Rückmeldung. Für Rechnung Nr. 2026-047 über 1.850 Euro, fällig am 15. September, ist auf meinem Konto bis heute keine Zahlung eingegangen. Könnten Sie mir bis Montag, 5. Oktober, den Überweisungsbeleg schicken? Dann kann ich mit meiner Bank klären, wo die Zahlung geblieben ist. Bitte gleichen Sie dabei auch die IBAN mit der auf der Rechnung ab, die ich noch einmal anhänge.\nViele Grüße\nSabine Krüger",
    "lang": "de",
    "note": "„Schon bezahlt“ deutet meist auf einen Verwaltungsfehler: nicht widersprechen, sondern Beleg und Bankdaten abgleichen, mit Datum."
+  },
+  {
+   "id": "chase-late-payment-029",
+   "situation": "I'm Kai, a freelance sound designer. Invoice #0815 for $3,400 to Northlight Studio, an agency, was due 20 September; our signed agreement says payment within 30 days of invoice (clause 3) and says nothing about waiting for their client. Their producer, Priya, has just told me they'll pay 'once our client pays us, probably November'.",
+   "reply": "Hi Priya,\nThanks for telling me where things stand. Our agreement is between Northlight and me, and clause 3 sets payment at 30 days from invoice, with nothing tied to your client's payment, so invoice #0815 for $3,400 was due on 20 September. Could you confirm a payment date by Friday 9 October? If cash flow is tight until your client pays, I can take $1,700 by 16 October and $1,700 by 13 November, confirmed in writing.\nThanks,\nKai",
+   "lang": "en",
+   "note": "'We'll pay when we're paid' isn't in the contract: quote the clause once, then offer one written plan instead of an open-ended wait."
   }
  ]
 }

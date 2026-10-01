@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -148,6 +148,13 @@
    "reply": "Querida familia Ruiz:\nMe llamo Andrea Gil y este curso soy la estudiante de la Beca Elena Ruiz. Gracias a ella he podido dejar uno de mis dos trabajos de fin de semana y dedicar ese tiempo a las prácticas en la UCI pediátrica. Me emociona pensar que Elena trabajaba justo en lo que estoy aprendiendo, y les agradezco de corazón que hayan querido que otros sigamos su camino. Me encantaría escribirles al final del curso para contarles cómo me ha ido.\nCon todo mi agradecimiento,\nAndrea Gil",
    "lang": "es",
    "note": "A un donante que no conoces: di quién eres, qué te ha permitido hacer la beca y nombra a la persona en cuya memoria existe; la cantidad no hace falta."
+  },
+  {
+   "id": "thank-you-notes-022",
+   "situation": "I'm Hannah. Our 14-year-old beagle, Pickle, was put to sleep at Willow Lane Vets on Monday and went peacefully. Dr. Osei came in early so we didn't have to wait in the busy waiting room and let us stay with him on his blanket the whole time, and the nurse, Sam, sent us his paw print in clay two days later. We'll keep bringing our cat, Mabel, to them, and I want to send the practice a card.",
+   "reply": "Dear Dr. Osei, Sam and everyone at Willow Lane,\nThank you for the way you looked after Pickle, and us, on Monday. Coming in early so we didn't have to sit in a busy waiting room, and letting us stay with him on his blanket the whole time, meant he went peacefully with his family around him. Sam, the clay paw print is already on our mantelpiece. Mabel will still be seeing you, and we'll think of Pickle every time we come in.\nWith love and thanks,\nHannah",
+   "lang": "en",
+   "note": "After a pet's death, thank the small choices that made the day gentler; they rarely hear which ones mattered."
   }
  ]
 }

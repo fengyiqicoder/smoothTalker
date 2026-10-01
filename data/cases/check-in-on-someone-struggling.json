@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -197,6 +197,13 @@
    "reply": "Ola, Ben, I saw the photo of Zuri and I've been thinking about all three of you. No need to reply to this. I've got your spare key, so I can walk and feed Miso every morning and evening this week, starting tomorrow. Just send 'yes' or 'not now', either is completely fine.",
    "lang": "en",
    "note": "With a baby in hospital, take a job at home off their list instead of asking for updates; they'll share news when they want to."
+  },
+  {
+   "id": "check-in-on-someone-struggling-029",
+   "situation": "同事兼好朋友小美上周在小红书发了一篇吐槽加班的帖子，被几千人骂，还有人扒出了她的公司，她这几天请了假，微信也基本不回。她每天都要喝楼下那家奶茶店的杨枝甘露。我们住得很近，我想给她发条消息。",
+   "reply": "小美，这几天一直在想你，这条不用回。网上那些话说的不是你，认识你的人都知道。周四下班我给你带一杯楼下那家的杨枝甘露，放你家门口就走，想下楼聊两句也行，不想见人也完全没关系。回个“好”或者“改天”就行。",
+   "lang": "zh",
+   "note": "不提评论内容，也不劝她“别看了”，只给一个不用见面也能接受的关心。如果有人威胁她的安全，帮她截图留证并报警（110）；如果她流露出不想活的念头，直接问她，必要时打120或心理援助热线。"
   }
  ]
 }

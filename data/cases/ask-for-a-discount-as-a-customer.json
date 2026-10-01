@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -197,6 +197,13 @@
    "reply": "It's beautiful, and I'd like to buy it today, in cash. A stall near the entrance offered me a similar size for 950, so I was thinking 900 for this one. If we can meet somewhere around there, I'll pay now. And if not, no problem at all, thank you for showing me.",
    "lang": "en",
    "note": "Where haggling is expected, open a little below your target and stay warm; the out keeps it friendly if you walk."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-029",
+   "situation": "在家电卖场看好了一台冰箱（5,999元）和一台洗衣机（3,299元），打算今天一起买。导购小周说这个品牌价格全国统一，不能降。家里的旧冰箱和旧洗衣机需要处理，我还想多要一年延保。",
+   "reply": "小周，这两台我今天就一起买，冰箱5,999元、洗衣机3,299元，一共9,298元。价格统一我理解，那能不能帮我把家里的旧冰箱和旧洗衣机免费拉走，再送一年延保？可以的话我现在就付款。如果只能给其中一样，也告诉我一声，实在都不行也没关系，我照样买。",
+   "lang": "zh",
+   "note": "价格定死时直接要附加项，给对方只答应一样的余地，并说明不行也照买。"
   }
  ]
 }

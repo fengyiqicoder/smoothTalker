@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -197,6 +197,13 @@
    "reply": "Quick one, and it's my mistake: I approved both Tom's and Lucy's leave for 19 to 23 October without spotting the overlap, which leaves us one short on the floor that week. Both bookings stand, so nobody needs to change their plans. I'll cover the gap by working the floor myself all week, and the updated rota will be up by Friday 9 October. From now on I'll check every leave request against the shared calendar before I approve it.",
    "lang": "en",
    "note": "Owning a mistake to your own team: the fix shouldn't cost the people who did nothing wrong."
+  },
+  {
+   "id": "admit-mistake-at-work-029",
+   "situation": "我负责公司的官方微博。今天上午10:05，我本想用个人号吐槽一部电视剧，结果发到了公司官方账号上，10:30同事提醒我才删掉，删之前大约有120条转发，我已经截图保存。要马上在企业微信上跟市场部赵总说。",
+   "reply": "赵总，报告一个我的失误：今天上午10:05，我把一条本想发在个人号上的电视剧吐槽，误发到了公司官方微博，10:30已经删除，删除前大约有120条转发。截图我已经保存，11点前整理好发您；如果需要发一条说明，我先拟好稿子给您定。对不起，这次是我的问题。以后这台手机只登录官方账号，个人号我换另一台设备用。",
+   "lang": "zh",
+   "note": "账号误发：先说发了什么、挂了多久、多少人看到，再说已经做了什么；要不要公开说明由领导定，自己先把稿子备好。"
   }
  ]
 }

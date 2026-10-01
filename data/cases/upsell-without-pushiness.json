@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -190,6 +190,13 @@
    "reply": "Fair question. Yes, it's $15 more a week, so I'd only suggest it if it helps you: with 45 minutes we can play the whole nocturne through every lesson, not just the tricky bars. Honestly, if you keep up your 20 minutes a day, 30-minute lessons will still get you ready for 12 December. Your call, and I'm happy either way.",
    "lang": "en",
    "note": "When they call out the sale, agree on the money first, then give the honest case for the cheaper option; never raise it again unless he does."
+  },
+  {
+   "id": "upsell-without-pushiness-028",
+   "situation": "I run a small florist. Hannah ordered a $90 wreath for her grandfather's funeral on Saturday 10 October and mentioned her grandmother will be at home alone afterwards. We could deliver a small posy to her grandmother's house that afternoon for $35, and I don't want to sound like I'm selling to someone who's grieving.",
+   "reply": "Hi Hannah, I'm so sorry about your grandfather. The wreath is all set for Saturday 10 October. Since you mentioned your grandmother will be at home afterwards, we could take a small posy to her that afternoon for $35, if you'd like something waiting for her. Please don't feel you need to; the wreath is complete on its own, and you only need to reply if you'd like the posy.",
+   "lang": "en",
+   "note": "With someone grieving, offer once, make silence the no, and never follow up on it."
   }
  ]
 }

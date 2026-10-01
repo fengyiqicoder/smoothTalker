@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -197,6 +197,13 @@
    "reply": "陈哥，我理解您的顾虑。我不是跟其他店长比，是按我这家店的结果来谈：月营业额从18万做到了24万，还带出了两个能独立开店的店员。其他店长做到同样的结果，按同样的标准加，我觉得也公平。所以我还是希望调到7500；如果现在不行，能不能定一个标准，比如营业额保持在多少、什么时候可以调？",
    "lang": "zh",
    "note": "对“别人也会来要”的顾虑，把加薪绑在可复制的结果标准上，而不是当成例外。"
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-029",
+   "situation": "I'm a school office administrator on Grade 4 of our pay scale. Since January I've managed the school's £180,000 budget and supervised two part-time assistants, which matches the Grade 5 job description, not mine. The scale itself is fixed, but regrading requests go through the head teacher, Mrs Patel, and we've booked 20 minutes on Tuesday before the spring review.",
+   "reply": "Mrs Patel, thank you for making time. I really enjoy running the office and I want to keep growing here. Since January I've managed the school's £180,000 budget and supervised our two part-time assistants, and when I compared my work with the job descriptions, it matches Grade 5 rather than Grade 4. I know the pay scale itself is fixed, so I'm asking whether you'd submit a regrading request for my role before the spring review. If you see it differently, could we go through the Grade 5 description together and agree what's missing?",
+   "lang": "en",
+   "note": "On a fixed pay scale the ask is a regrade, not a raise: match your duties to the next grade's description, then confirm in writing what she agreed."
   }
  ]
 }

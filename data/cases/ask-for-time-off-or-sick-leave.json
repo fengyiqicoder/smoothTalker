@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -197,6 +197,13 @@
    "reply": "Hi Jen, I'd like to take tomorrow, Friday 2 October, as a vacation day. Our dog Juno is being put to sleep in the morning and I want to be with my family. Nothing of mine is due Friday, and Marcus has agreed to take any on-call pages. Can you approve? I'll be back Monday for the sprint demo.",
    "lang": "en",
    "note": "Short-notice leave for a pet: use the category that actually applies, one plain line of reason, and the cover."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-029",
+   "situation": "I'm on holiday in Porto and was due back at work on Monday 5 October, but I've been ill since yesterday and a local doctor told me not to fly until Thursday 8 October; she gave me a written note. I've rebooked a flight landing Thursday evening, so I'd be back on Friday 9 October. My manager is Sophie, and Daniel, who's been covering the client inbox, says he can keep it until I'm back.",
+   "reply": "Hi Sophie, I've been taken ill on holiday in Porto, and a doctor here has told me not to fly until Thursday 8 October. I've rebooked to land Thursday evening, so I'll be back on Friday 9 October instead of Monday. Daniel has agreed to keep covering the client inbox until then. I have a written note from the doctor and will email it to you and HR today, and I'll record the extra days however the policy says.",
+   "lang": "en",
+   "note": "Ill abroad: the new return date first, the cover, and the note sent unasked; whether the days count as sick leave or holiday is a question for the handbook or HR, not a guess."
   }
  ]
 }

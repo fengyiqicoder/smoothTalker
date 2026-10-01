@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -197,6 +197,13 @@
    "reply": "Thank you, Karen, that's lovely to hear, and it's a pleasure every fortnight. If you have a minute, a short Google review from you would help other families looking for someone to visit a parent at home find me: https://g.page/r/rosa-mobile-hair/review. Two sentences about what you've seen is plenty. Thank you either way, and give your mum my love.",
    "lang": "en",
    "note": "When the client isn't online, ask the family member who books, and only for what they've seen themselves."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-029",
+   "situation": "I'm Mei and I run a dog-walking business, Paws & Pace. Linda, whose spaniel Rufus I've walked for six months, said she'd happily leave a Google review and offered to get her husband, her sister and two neighbours to 'post five stars too to help you out'. Only Linda uses my service; my review link is https://g.page/r/paws-and-pace/review.",
+   "reply": "Thank you, Linda, that's really kind of you. A review from you would be lovely, since you've seen six months of walks with Rufus: https://g.page/r/paws-and-pace/review. Two sentences is plenty. I'd rather keep reviews to people who've actually used the walks, so please don't ask the others to post, but if any of them ever need a dog walker, a word from you is the best help there is. Thanks either way, Mei",
+   "lang": "en",
+   "note": "Reviews from people who never used the service mislead future customers; decline them warmly and point the goodwill at a real referral instead."
   }
  ]
 }

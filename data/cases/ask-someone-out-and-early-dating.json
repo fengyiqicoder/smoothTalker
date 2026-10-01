@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -196,6 +196,13 @@
    "reply": "I'm really enjoying talking to you, and since Bristol to London is more than a quick coffee, how about a video call first? Sunday around 7, a drink each, no agenda. If it goes well, I'm happy to be the one on the train. And if calls aren't your thing, just say.",
    "lang": "en",
    "note": "When distance makes a first meeting a big trip, a short call is the low-pressure step; offering to travel shows you mean it."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-029",
+   "situation": "昨晚和在朋友聚会上认识的女生小雨第一次约会，看了话剧又吃了宵夜，聊得特别好，她提到一直想去家附近新开的那家猫咖。结果分开时我张开手想抱一下，她伸手要握手，最后变成半个拥抱半个握手，挺尴尬的。想今天发消息，把尴尬轻轻带过，再约第二次。",
+   "reply": "昨晚很开心，话剧好看，宵夜也好吃。最后那个一半拥抱一半握手的告别，我回家路上自己笑了一路，下次争取配合默契一点。你说想去那家新开的猫咖，这周日下午要不要一起去？不方便的话也完全没关系。",
+   "lang": "zh",
+   "note": "尴尬的小插曲用一句自嘲带过就够了，不解释、不道歉，然后落到一个具体、容易拒绝的邀约。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -190,6 +190,13 @@
    "reply": "Understood, Derek, and I'm sorry this has been frustrating. Your lamp, order #4418, ships on Wednesday 14 October, and you'll have tracking the same day. If you'd rather not wait, reply 'refund' and I'll refund the full $210 today. If I don't hear otherwise, it ships on the 14th as planned.\nSam",
    "lang": "en",
    "note": "An angry reply gets no re-explaining of the glaze: confirm the date, offer the refund again, and leave the chargeback as his call."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-028",
+   "situation": "I'm Jade and I sell candles through my Instagram shop. Under my latest post, a customer, Mel, commented publicly: 'Ordered 2 weeks ago and still nothing, is this shop even real?' Her order #3391 left us on 21 September but tracking stopped on 24 September at a sorting hub; I can open a trace today, send a replacement by express if it hasn't moved by Monday 5 October, or refund her in full if she prefers, and I don't want her order details in a public comment.",
+   "reply": "Hi Mel, you're right to ask, and I'm sorry it's taken this long. Your parcel left us and then stalled at a sorting hub, so I'm opening a trace with the courier today. If it hasn't moved by Monday 5 October, I'll send you a replacement by express, or a full refund if you'd rather. I've sent you a DM with the details. Jade",
+   "lang": "en",
+   "note": "In public, own it and show the plan with a date so other followers see it handled; the order number and options go in the DM."
   }
  ]
 }

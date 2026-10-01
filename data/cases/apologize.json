@@ -5,44 +5,44 @@
   {
    "id": "apologize-001",
    "situation": "My roommate Nadia and I had a blowup on Sunday about the cleaning rota. She said some unfair things too, but I called her lazy and brought up her being out of work. I want to text her and apologize for my part without starting the argument again.",
-   "reply": "Nadia, I'm sorry I called you lazy on Sunday and brought up you being out of work. That was a low shot and it had nothing to do with the rota. I know the job hunt is already weighing on you, and I used it against you. From now on, when we talk about the flat, I'll keep it to the flat.",
+   "reply": "Nadia, I'm sorry I called you lazy on Sunday and brought up you being out of work. That was a low shot and it had nothing to do with the rota. Being out of work is hard enough without me throwing it at you. From now on, when we talk about the flat, I'll keep it to the flat.",
    "lang": "en",
    "note": "When you were both out of line, apologise only for your part. Adding 'but you also' cancels it; her share is a separate, later conversation, if at all."
   },
   {
    "id": "apologize-002",
-   "situation": "答应周六去高铁站接我妈，结果睡过头了，她等了半小时自己打车回的家。她在家族群里什么都没说，但我知道她不高兴，想给她发个微信。",
-   "reply": "妈，周六说好去高铁站接你，我睡过头没去，对不起。让你拎着箱子等了半小时，最后还得自己打车，是我的错。下周日你去姨妈家，我早上九点到楼下送你，闹钟已经定好了。",
+   "situation": "早上赶时间，把合租室友小林放在冰箱里的一盒酸奶当成我的喝掉了，刚发现。想在微信上跟她说一声，不想搞得很严重。",
+   "reply": "小林，早上把你冰箱里那盒酸奶当成我的喝了，不好意思。下班我买两盒给你放回去。",
    "lang": "zh",
-   "note": "长辈不需要长篇解释：点明具体的事、承认影响、给一个能兑现的补偿。"
+   "note": "小事就小着道歉：说清是什么、补上就够了，不用长篇自责，否则对方反过来还得安慰你。"
   },
   {
    "id": "apologize-003",
    "situation": "I already apologized to my girlfriend for joking about her cooking in front of her parents. She just replied 'whatever, it's fine' and it's clearly not fine. What do I send now?",
-   "reply": "It doesn't sound fine, and that's fair. Making a joke about your cooking in front of your parents was a cheap laugh at your expense, and I'm sorry. I'm not going to push you to talk about it tonight. I'm here when you're ready.",
+   "reply": "It doesn't sound fine, and that's fair. Making a joke about your cooking in front of your parents was a cheap laugh at your expense, and I'm sorry. I'm not going to push you to talk about it right now. I'm here when you're ready.",
    "lang": "en",
    "note": "Second message after a cold reply: don't defend, don't ask 'are we okay', then actually leave space."
   },
   {
    "id": "apologize-004",
-   "situation": "I run a small catering company. At a corporate lunch for 40 yesterday we forgot the three gluten-free meals the client, Rachel at Northwind Legal, had specifically ordered. Those guests ended up eating side salad. Want to email her today.",
-   "reply": "Hi Rachel,\nI'm sorry we didn't bring the three gluten-free meals you ordered for yesterday's lunch. That was our mistake, and it left three of your guests with a side salad while everyone else ate, in front of people you were hosting. From today, every dietary order gets a separate checklist sign-off before the van leaves. I've refunded the $135 for those meals, and if you'd like, I'll send a gluten-free lunch for those three colleagues any day next week, on us.",
+   "situation": "My girlfriend Zoe had her driving test on Thursday, her third attempt. I forgot completely: no good-luck text, and I didn't ask how it went. She passed, and last night she said 'you didn't even ask'.",
+   "reply": "Zoe, you're right, I didn't even ask. Your third go at the test was a big day and I forgot it completely, no good-luck text and nothing afterwards. You passed something you'd been working towards and I wasn't part of it. From now on, anything big you tell me about goes straight into my calendar. I'd love to take you out on Saturday to celebrate, if you're up for it.",
    "lang": "en",
-   "note": "A business apology names the exact miss and the cost to the client as host, then shows the process fix. The refund is already done, not dangled."
+   "note": "Forgetting a partner's big day: agree with their words instead of explaining, then make the change something practical, and the celebration an offer."
   },
   {
    "id": "apologize-005",
    "situation": "I yelled at my 14-year-old son Ethan last night for leaving dishes in the sink. I'd had a bad day at work and it was way out of proportion, he went to his room and slammed the door. I want to text him before school.",
-   "reply": "Ethan, I'm sorry I yelled at you last night. The dishes were a small thing and I blew it up because I'd had a rough day, which isn't on you. I know it made you feel like you couldn't do anything right, and that's not true. Next time I come home wound up, I'll take a few minutes before I bring up chores. Pizza and the match tonight, just us?",
+   "reply": "Ethan, I'm sorry I yelled at you last night. The dishes were a small thing and I blew it up because I'd had a rough day, which isn't on you. You didn't deserve that. Next time I come home wound up, I'll take a few minutes before I bring up chores. Pizza tonight, just us?",
    "lang": "en",
    "note": "Kids need the same four parts as adults: the specific thing, ownership, the impact, and something that repairs. The context goes in one clause, after ownership."
   },
   {
    "id": "apologize-006",
-   "situation": "I'm a team lead. In yesterday's leadership meeting I presented the churn analysis my report Aisha did and never mentioned her. She found out from the meeting notes. I want to message her before our 1:1 tomorrow.",
-   "reply": "Aisha, I presented your churn analysis at yesterday's leadership meeting without crediting you, and I'm sorry. It was your work and your insight, and your name should have been on it in that room. It probably felt like I took it, and in effect I did. I've emailed the leadership group this morning to say the analysis is yours, and when it goes to the board on 15 October I'd like you to present it.",
+   "situation": "My friend Dev texted me last week that his dog Biscuit, who he'd had for 12 years, had died. I replied 'oh no, RIP' and in the same message asked if he was still coming to my birthday drinks. He didn't come and hasn't messaged since.",
+   "reply": "Dev, I'm sorry about how I answered when you told me Biscuit had died. I gave you two words and then asked about my birthday drinks, as if twelve years with him were a footnote. You deserved a real reply. I'd love to hear about him whenever you feel like it, and I'm around this week if you want company.",
    "lang": "en",
-   "note": "Names the exact failure, owns it without a 'but', and the fix is public because the harm was public."
+   "note": "Apologising for a careless reply to someone's loss: name exactly what you wrote, and make the repair the attention you didn't give the first time."
   },
   {
    "id": "apologize-007",
@@ -53,57 +53,57 @@
   },
   {
    "id": "apologize-008",
-   "situation": "At Sunday dinner at our parents' place I said my brother Sam's new girlfriend, Mei, was 'another one who won't last'. Mei was in the kitchen and heard it. Sam hasn't answered my texts since. He prefers voice notes, so I'm sending one.",
-   "reply": "Hey Sam, it's me. I've been thinking about Sunday. What I said about Mei was cruel. And she heard it, on a night that was meant to welcome her. I'm sorry. I'd like to say sorry to her too, in person, if you're both okay with that. You don't need to call back. I just didn't want it sitting there.",
+   "situation": "At Sunday dinner at our parents' place, Mei's first time meeting the family, I said my brother Sam's new girlfriend, Mei, was 'another one who won't last'. Mei was in the kitchen and heard it. Sam hasn't answered my texts since. He prefers voice notes, so I'm sending one.",
+   "reply": "Hey Sam, it's me. I've been thinking about Sunday. What I said about Mei was cruel. And she heard it, on her first night meeting the family. I'm sorry. I'd like to say sorry to her too, in person, if you're both okay with that. You don't need to call back. I just didn't want it sitting there.",
    "lang": "en",
    "note": "Real hurt by voice note: short spoken clauses, no 'I was only joking', and the make-good to Mei offered, not imposed."
   },
   {
    "id": "apologize-009",
-   "situation": "El sábado me dejé abierto el grifo de la bañera y el agua pasó al piso de abajo. La vecina, Carmen, tiene una mancha grande en el techo del baño. Ya avisé al seguro, pero quiero mandarle un WhatsApp.",
-   "reply": "Carmen, siento mucho lo del sábado. Me dejé abierto el grifo de la bañera y el agua le ha calado el techo del baño; fue un despiste mío. Sé que le ha tocado limpiar y que ahora tiene una mancha en casa que no ha buscado. Ya he dado parte al seguro y el perito puede pasar el jueves 1 de octubre por la mañana; si no le va bien, lo cambio al día que usted diga. La pintura corre de mi cuenta.",
+   "situation": "El sábado me dejé abierto el grifo de la bañera y el agua pasó al piso de abajo. La vecina, Carmen, tiene una mancha grande en el techo del baño. Ya avisé al seguro y el perito puede pasar el jueves 1 de octubre por la mañana. Quiero mandarle un WhatsApp.",
+   "reply": "Carmen, siento mucho lo del sábado. Me dejé abierto el grifo de la bañera y el agua le ha calado el techo del baño; fue un despiste mío. Sé que ahora tiene una mancha en casa que no ha buscado. Ya he dado parte al seguro, y el perito puede pasar el jueves 1 de octubre por la mañana; si no le va bien, lo cambio al día que usted diga. La pintura corre de mi cuenta.",
    "lang": "es",
    "note": "Entre vecinos: el hecho concreto sin excusas, el impacto en su casa y el arreglo ya en marcha, con fecha y dejando que ella elija."
   },
   {
    "id": "apologize-010",
    "situation": "My friend Hana told me in confidence that she and her husband are doing IVF. At drinks on Friday I mentioned it to our friend Chloe, thinking she already knew. She didn't, and Chloe messaged Hana to say she was thinking of her. Hana just texted me 'I can't believe you told Chloe.'",
-   "reply": "You're right, and I'm so sorry. You told me about the IVF in confidence and I repeated it to Chloe on Friday. That was yours to share, not mine, and I took that choice away from you at a time that's already hard. I won't bring it up with anyone again. I'm here whenever you want to talk, or not.",
+   "reply": "You're right, and I'm so sorry. You told me about the IVF in confidence and I repeated it to Chloe on Friday. That was yours to share, not mine, and I took that choice away from you about something this personal. I won't bring it up with anyone again. I'm here whenever you want to talk, or not.",
    "lang": "en",
    "note": "Breaking a confidence: no 'I thought she knew', name what you took from her, and don't ask if you're okay."
   },
   {
    "id": "apologize-011",
    "situation": "我是小区志愿者群的负责人。上周六（9月26日）的垃圾分类宣传活动，我在群里把集合时间写成了早上8点，其实是9点，十几位邻居白白早到，在门口等了一个小时。想在群里正式道个歉。",
-   "reply": "各位邻居，上周六活动的集合时间是我在群里写错了，写成了8点，实际是9点，让十几位邻居一早赶过来，又在门口多等了一个小时，真的对不起。以后每次活动通知，我发之前先跟社区王主任核对一遍，活动前一晚再在群里提醒一次时间。下次活动的早饭我来准备。",
+   "reply": "各位邻居，上周六活动的集合时间是我在群里写错了，写成了8点，实际是9点，让十几位邻居一早赶过来，又在门口多等了一个小时，真的对不起。以后每次活动通知，我发之前先对照活动安排核对一遍，活动前一晚再在群里提醒一次时间。下次活动的早饭我来准备。",
    "lang": "zh",
    "note": "群里道歉：说清具体错在哪、给大家带来的影响，再给一个以后怎么避免的做法，不用解释是怎么写错的。"
   },
   {
    "id": "apologize-012",
    "situation": "My college roommate Jess's dad died three years ago and I never called, didn't go to the funeral, and we just drifted after that. She was the person who got me through college. I want to message her now, even though it's late.",
-   "reply": "Jess, I've wanted to say this for a long time. When your dad died three years ago, I didn't call and I didn't come to the funeral, and I'm sorry. You got me through four years of college, and when it was your turn to need someone, I disappeared. You don't owe me a reply. I'm here now, and if you ever want to talk about him, or about anything, I'll listen.",
+   "reply": "Jess, I've wanted to say this for a long time. When your dad died three years ago, I didn't call and I didn't come to the funeral, and I'm sorry. You got me through college, and when it was your turn to need someone, I disappeared. You don't owe me a reply. I'm here now, and if you ever want to talk about him, or about anything, I'll listen.",
    "lang": "en",
    "note": "A years-late apology still needs the specific thing and its impact; don't ask for forgiveness or a reply, just leave the door open."
   },
   {
    "id": "apologize-013",
-   "situation": "取引先の山本部長に送った9月分の請求書で、正しくは42万円のところを48万円と書いてしまった。先方の経理の方から指摘があった。メールでお詫びと訂正をしたい。",
-   "reply": "山本部長\nいつもお世話になっております。9月分の請求書で、正しくは42万円のところを48万円と誤って記載しておりました。大変申し訳ございません。経理の皆様にも確認のお手間をおかけしてしまいました。訂正した請求書を本日中にお送りいたします。今後は発行前に担当者二名で金額を照合いたします。",
+   "situation": "妻の美咲に相談せず、共同口座から30万円のロードバイクを買ってしまった。彼女は通帳を見て気づき、「なんで一言もないの」と言った。LINEで謝りたい。",
+   "reply": "美咲、相談しないでロードバイクを買ってしまって、ごめん。30万円は二人のお金なのに、一人で決めてしまった。通帳で知ることになって、嫌な気持ちになったと思う。これからは大きな買い物は、必ず先に美咲に相談してから決める。",
    "lang": "ja",
-   "note": "取引先へのお詫びも四つの要素で十分：具体的な誤り、言い訳なしの謝罪、相手の手間、再発防止策。経緯の説明は求められたら答える。"
+   "note": "二人のお金を一人で使ったときは、買った物ではなく「相談しなかったこと」を謝る。返品するかどうかは、そのあと一緒に決めればいい。"
   },
   {
    "id": "apologize-014",
    "situation": "本来想跟闺蜜吐槽婆婆周末来我家一直挑我做饭咸、说孩子穿少了，结果手滑发到了婆婆微信上。两分钟后撤回了，但她回了一句“看到了”。老公说让我自己处理。",
-   "reply": "妈，刚才那条是我发给朋友吐槽的，发错到您这儿了，您也看到了，对不起。背后那样说您是我不对，您周末大老远过来帮我们带孩子，看到这些心里肯定不好受。以后我对哪件事有想法，就直接跟您商量，不在背后说。这周六我想带孩子过去看看您，您方便吗？",
+   "reply": "妈，刚才那条是我发给朋友吐槽的，发错到您这儿了，您也看到了，对不起。背后那样说您是我不对，您周末来家里，看到这些心里肯定不好受。以后我对哪件事有想法，就直接跟您商量，不在背后说。这周六我想带孩子过去看看您，您方便吗？",
    "lang": "zh",
    "note": "道歉的是背后说和说的方式，不假装那些想法不存在；“以后直接商量”才是真正的改变。"
   },
   {
    "id": "apologize-015",
    "situation": "昨晚快递柜被占满，我在小区门口冲保安刘师傅发了火，说他们什么都不管，其实这根本不归他管。今天下班想当面跟他道个歉。",
-   "reply": "刘师傅，昨晚快递柜那事，我冲您发火了，对不起。柜子满了本来就不归您管，是我把气撒在您身上了，您站了一天岗还要挨我一顿说。以后有事我好好说。",
+   "reply": "刘师傅，昨晚快递柜那事，我冲您发火了，对不起。柜子满了本来就不归您管，是我把气撒在您身上了，还平白挨了我一顿说。以后有事我好好说。",
    "lang": "zh",
    "note": "当面道歉用短句：具体的事、承认是迁怒、对方受的委屈，说完就停，不用等对方说“没事”。"
   },
@@ -117,7 +117,7 @@
   {
    "id": "apologize-017",
    "situation": "昨晚教我爸用手机挂号，他问到第三遍的时候，我不耐烦地说了句“跟你说了多少遍了”。他把手机一放说“不学了”，今天也没怎么理我。我周六会回家。",
-   "reply": "爸，昨晚教你用手机挂号，我说“跟你说了多少遍了”，那个语气太冲了，对不起。你第一次弄这个，问几遍很正常，是我自己没耐心，你听了心里肯定不好受。周六我回去，陪你从头一步一步操作一遍，再把步骤写在纸上给你留着。",
+   "reply": "爸，昨晚教你用手机挂号，我说“跟你说了多少遍了”，那个语气太冲了，对不起。这个本来就要多问几遍，是我自己没耐心，你听了心里肯定不好受。周六我回去，陪你从头一步一步操作一遍，再把步骤写在纸上给你留着。",
    "lang": "zh",
    "note": "对长辈道歉同样点名具体那句话，再给一个实实在在的补救。"
   },
@@ -144,10 +144,10 @@
   },
   {
    "id": "apologize-021",
-   "situation": "I'm a grad student. I had a 30-minute meeting with my supervisor, Professor Adeyemi, yesterday at 2pm to go over my thesis chapter, and I completely forgot because I was in the lab. She waited and just emailed 'Did we not have a meeting?'",
-   "reply": "Dear Professor Adeyemi, I'm sorry I missed our 2pm meeting yesterday. It was my mistake: I lost track of time in the lab and didn't check my calendar. You set aside half an hour for my chapter and ended up waiting for nothing. From now on I'll set a phone reminder for every meeting with you. If you can find another slot, I'll fit around whatever suits you.",
+   "situation": "My grandmother Rose broke her hip last month and spent two weeks in hospital. I live 20 minutes away and didn't visit once. She's home now and doesn't really use phones, so I'm bringing her a card when I visit on Sunday.",
+   "reply": "Gran, I'm sorry I didn't come to see you in hospital. You were there two weeks with a broken hip, I live twenty minutes away, and I didn't come once. I should have been there. From now on I'll be round every Sunday afternoon, starting today.",
    "lang": "en",
-   "note": "Upward apology: keep it brief and formal, and leave the reschedule to her calendar."
+   "note": "A card is read more than once: keep it short and warm, and make the change something she will see happen."
   },
   {
    "id": "apologize-022",
@@ -172,10 +172,10 @@
   },
   {
    "id": "apologize-025",
-   "situation": "Hier soir, sous la photo Instagram où mon amie Claire montrait sa nouvelle coupe, j'ai commenté « on dirait ma grand-mère » pour rigoler. Une quarantaine de personnes ont liké mon commentaire et Claire a supprimé la photo ce matin. J'ai déjà supprimé mon commentaire et je veux lui écrire en privé.",
-   "reply": "Claire, je suis désolée pour mon commentaire sous ta photo hier soir. C'était une blague nulle, et en public en plus : tu étais contente de ta coupe et je t'ai mise mal à l'aise devant tout le monde. J'ai supprimé le commentaire. Je ne ferai plus ce genre de blague sur toi en public.",
+   "situation": "Samedi, j'ai dit à mon amie Claire que j'étais malade pour ne pas aller au vernissage de son expo photo. En fait j'étais à un dîner chez d'autres amis, et elle l'a vu sur Instagram. L'expo reste ouverte jusqu'au dimanche 18 octobre.",
+   "reply": "Claire, samedi je t'ai dit que j'étais malade, et ce n'était pas vrai : j'étais à un dîner. Je suis désolée. Ne pas venir à ton vernissage, c'était déjà dommage, mais te mentir, c'est pire, et tu l'as découvert sur Instagram. Je viendrai voir ton expo avant le 18 octobre, et à l'avenir, si je ne peux pas venir, je te le dirai franchement.",
    "lang": "fr",
-   "note": "Une faute publique s'excuse en privé, avec la réparation déjà faite ; ne pas demander pardon dans le même message."
+   "note": "Quand on s'excuse d'un mensonge, c'est le mensonge qu'on nomme, pas seulement l'absence ; aucune nouvelle excuse pour expliquer la première."
   },
   {
    "id": "apologize-026",

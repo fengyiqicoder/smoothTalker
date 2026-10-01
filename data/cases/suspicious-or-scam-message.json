@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 21,
+ "count": 22,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -148,6 +148,13 @@
    "reply": "Heads up: an account called @ryeandcrumb.giveaway is messaging our followers about a hamper giveaway and asking for $9.99 shipping through a link. That isn't us. We're not running a giveaway, and we will never ask you to pay or enter card details through a DM. Please don't click the link; report and block the account instead. If you've already paid, call the number on the back of your card today so your bank can stop it. Anything really from us comes from @ryeandcrumb only.",
    "lang": "en",
    "note": "Report the fake account to Instagram and don't message it; reply privately to the customer who paid, pointing them to their bank and to the police if money has gone."
+  },
+  {
+   "id": "suspicious-or-scam-message-022",
+   "situation": "大学室友阿伟（认识八年了）今晚在微信上找我，说他在做“跑分”兼职，想借我的银行卡帮他收几笔“货款”，每收1万给我200块好处费，钱一到账就转走。我觉得不对劲，不想借，也想提醒他。他的手机号我一直存着。",
+   "reply": "阿伟，刚才微信上让我借银行卡收货款、每收1万给200的那条，是你本人发的吗？如果是你，卡我不借，也劝你赶紧停下：这种“跑分”常被用来转骗来的钱，借卡、收钱的人很容易被卷进去。如果不是你，那你的微信可能被盗了，赶紧改密码。方便的话给我回个电话。",
+   "lang": "zh",
+   "note": "用手机里存的号码发短信或打电话，不在那个微信对话里回，卡、密码、验证码一律不给；如果是盗号就在微信里举报，如果他已经借出卡或收过钱，劝他尽快联系银行并报警。"
   }
  ]
 }
