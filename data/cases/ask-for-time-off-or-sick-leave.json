@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -183,6 +183,13 @@
    "reply": "Hi Rob, good news: I'm back on Monday 12 October. My fit note recommends a phased return, mornings only, 9 to 1, for the first two weeks, so until Friday 23 October, and I'll email it to you and HR today. I'll pick up everything I can in the mornings. Could you confirm the plan, including Leanne keeping the afternoon client calls for those two weeks?",
    "lang": "en",
    "note": "The phased return comes from the fit note, so quote its hours and end date and send it; how it's recorded and paid is a question for the handbook or HR, not a guess."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-027",
+   "situation": "I start at Larkfield Design on Monday 19 October, and before I got the offer I'd already booked a trip for Monday 7 to Friday 11 December. I won't have built up much leave by then and I'm happy to take some of those days unpaid if needed. I want to email my new manager, Helen, before I start so it isn't a surprise.",
+   "reply": "Hi Helen, I'm looking forward to starting on Monday 19 October. Before I do, I wanted to flag that I have a trip booked for Monday 7 to Friday 11 December, which I booked before the offer came through. I know I won't have built up much leave by then, so I'm happy to take some of those days unpaid if that's simpler. Could you let me know if that works, and how you'd like me to record it?",
+   "lang": "en",
+   "note": "Leave booked before an offer goes on the table before day one, with the dates and a solution; how it's recorded is a question for the handbook or HR."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -99,6 +99,13 @@
    "reply": "Bonjour Hélène, j'ai reçu ce matin un SMS qui se présente comme venant des impôts et m'annonce un remboursement de 312 euros, avec un lien pour saisir ma carte bancaire. Je n'ai pas cliqué et je n'ai rien répondu. Avez-vous connaissance d'un remboursement prévu pour moi ? Merci d'avance et bonne journée.",
    "lang": "fr",
    "note": "On vérifie auprès d'un contact qu'on avait déjà, jamais via le lien ; signalez le SMS au service anti-spam de votre opérateur, puis supprimez-le."
+  },
+  {
+   "id": "suspicious-or-scam-message-015",
+   "situation": "我女儿林小雨在三年级二班，班主任是王老师。今晚班级家长群里有个和王老师同名同头像的账号发了收款二维码，说每位家长交380元资料费，晚上8点前截止。我手机里存着王老师开学时给的电话。",
+   "reply": "王老师您好，我是三年级二班林小雨的妈妈。今晚家长群里有个和您同名同头像的账号发了收款二维码，让每位家长交380元资料费，说晚上8点前截止。我还没有扫码，也没有付钱。想跟您确认一下，这是您发的吗？如果不是，可能需要尽快提醒其他家长先别转账。",
+   "lang": "zh",
+   "note": "用开学时存的电话发短信或直接打给老师，不要私聊群里那个账号，也不要扫码；确认是假冒后在微信里举报该账号，并请群主把它移出群。"
   }
  ]
 }

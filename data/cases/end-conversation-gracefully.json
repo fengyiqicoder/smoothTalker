@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -183,6 +183,13 @@
    "reply": "Primo, qué bien lo del piso, me alegro mucho. Aquí son las 3 de la madrugada y entro a trabajar a las 8, así que me voy a dormir. El sábado te llamo a las 10 de tu mañana y me lo enseñas por videollamada. Un abrazo.",
    "lang": "es",
    "note": "Con diferencia horaria, nombra tu hora y propone un momento que sirva a los dos; si sigue escribiendo, contesta mañana."
+  },
+  {
+   "id": "end-conversation-gracefully-027",
+   "situation": "闺蜜小雨今晚在微信上连发了十几条一分钟的语音，吐槽家里装修的事，最后说她决定换施工队了。我都听完了，主要的事已经聊完，我明早7点要赶高铁，想睡了。",
+   "reply": "小雨，你那几条语音我都听完了，换施工队这个决定我觉得挺对的。我明早7点要赶高铁，得先睡了。到了给你发消息，晚安！",
+   "lang": "zh",
+   "note": "一句总结表示都听进去了，再说真实的理由；最后不留问句，免得又来一轮语音。"
   }
  ]
 }

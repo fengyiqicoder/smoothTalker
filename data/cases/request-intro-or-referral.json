@@ -4,56 +4,56 @@
  "cases": [
   {
    "id": "request-intro-or-referral-001",
-   "situation": "My old coworker Ben is friends with Laura Kim, the head of product at Canopy. I'm launching a scheduling tool for clinics and Canopy's clinic software would be a great integration partner. Ben and I are friendly but haven't talked in a year.",
+   "situation": "I'm Nora Diaz and I run Slotwise, a scheduling tool for small clinics that cuts no-shows by about 30%. My old coworker Ben is friends with Laura Kim, the head of product at Canopy, whose clinic software would be a great integration partner. Ben and I are friendly but haven't talked in a year.",
    "reply": "Hi Ben,\nCould I ask a favour? I'd love an intro to Laura Kim at Canopy. I'm building Slotwise, a scheduling tool for small clinics, and I think a Canopy integration could cut no-shows for their customers too. If you're not close enough for that to be comfortable, no worries at all, just say.\nIf you're up for it, here's a blurb you can forward:\n\"Laura, I'd like to introduce Nora Diaz. Nora runs Slotwise, which cuts no-shows for small clinics by about 30%, and she's interested in an integration with Canopy. She's asked for 20 minutes to compare notes; happy to connect you if you're open to it.\"\nI'll let you know how it goes either way.\nNora",
    "lang": "en",
    "note": "The ask up front, a forwardable blurb, a real out and a promise to report back."
   },
   {
    "id": "request-intro-or-referral-002",
-   "situation": "我想申请字节的一个数据分析岗，我大学学长在那边做产品，关系还行但不算特别熟，也没一起工作过。想问问他能不能内推。",
-   "reply": "学长好，冒昧问一下：我在申请字节商业化团队的数据分析岗，想问你方便帮我内推吗？我们没一起工作过，如果你觉得不太合适，完全理解，直接说就好，我不会介意的。如果可以的话，我把岗位链接和两行简历摘要发你，尽量不给你添麻烦。",
+   "situation": "我想申请星澜科技商业化团队的数据分析岗，我做了三年电商数据分析，主要用SQL和Python做用户分层。我大学学长在那边做产品，关系还行但不算特别熟，也没一起工作过，想问问他能不能内推。",
+   "reply": "学长好，冒昧问一下：我在申请星澜科技商业化团队的数据分析岗，想问你方便帮我内推吗？我们没一起工作过，如果你觉得不太合适，完全理解，直接说就好，我不会介意的。\n如果可以，我把岗位链接发你，下面这段可以直接贴进内推说明：“我做了三年电商数据分析，主要用SQL和Python做用户分层，想加入商业化团队的数据分析岗。”\n不管结果怎样，我都会跟你说一声。",
    "lang": "zh",
    "note": "内推是对方拿名声担保，所以要明确给他说不的空间，并把他要做的事减到最少。"
   },
   {
    "id": "request-intro-or-referral-003",
-   "situation": "Ben introduced me to Laura at Canopy two weeks ago. We had a call last Tuesday, it went well but there's no partnership yet, she said maybe next quarter. Should I tell Ben?",
-   "reply": "Quick update: Laura and I spoke last Tuesday and it was really useful. No integration yet, they're looking at partners again in Q1 and she's asked me to check back in January. Thank you for making it happen; I owe you a coffee next time you're downtown.",
+   "situation": "Ben introduced me to Laura at Canopy two weeks ago. We had a call last Tuesday and it went well, but there's no partnership yet: they're looking at partners again in Q1 and she asked me to check back in January. Should I tell Ben?",
+   "reply": "Quick update: Laura and I spoke last Tuesday and it was really useful. No integration yet, they're looking at partners again in Q1 and she's asked me to check back in January. Thank you for making it happen; I owe you a coffee.",
    "lang": "en",
    "note": "Report back even when it's not a win. Silence after their effort is what stops the next intro."
   },
   {
    "id": "request-intro-or-referral-004",
-   "situation": "Eight days ago I asked my former professor, Dr. Alvarez, if she'd introduce me to one of her old students who's now a hiring manager at Medtronic. I even wrote the blurb for her. No reply. Do I follow up?",
-   "reply": "Hi Dr. Alvarez, resurfacing my note from last Monday in case it got buried under the start of term. It's completely fine to say no if you'd rather not make the intro to Kevin Tran, I'd just like to know whether to try another route. Either way, thank you for considering it.",
+   "situation": "On 23 September I asked my former professor, Dr. Alvarez, if she'd introduce me to Kevin Tran, one of her old students who's now a hiring manager at a medical device company. I even wrote the blurb for her. No reply after eight days. Do I follow up?",
+   "reply": "Hi Dr. Alvarez, resurfacing my note of 23 September in case it got buried. It's completely fine to say no if you'd rather not make the intro to Kevin Tran, I'd just like to know whether to try another route. Either way, thank you for considering it.",
    "lang": "en",
    "note": "One nudge with the out restated, then find another path. A second chaser makes people avoid you."
   },
   {
    "id": "request-intro-or-referral-005",
-   "situation": "I asked my friend Priya, who works at Spotify, to refer me for a product analyst role. She said she's not comfortable because we've never worked together and referrals are tracked against her. I'm a bit embarrassed.",
+   "situation": "I asked my friend Priya, who works at Larkfield Audio, to refer me for a product analyst role. She said she's not comfortable because we've never worked together and referrals are tracked against her. I'm a bit embarrassed, and we're still meant to get ramen on Thursday.",
    "reply": "Totally fair, Priya, and thanks for being straight with me. I know your name's on the line with those. No awkwardness at all on my side, and I'm still up for that ramen on Thursday.",
    "lang": "en",
    "note": "A no on a referral is about her reputation, not your worth. Thank her, don't argue, and move the friendship straight back to normal."
   },
   {
    "id": "request-intro-or-referral-006",
-   "situation": "I'm raising a pre-seed round for my scheduling app for home-care nurses. I met a founder, Olu Adeyemi, once at a meetup in June and we've swapped a few LinkedIn messages since. He's close with Rachel Stein, an angel who backed two home-care startups. Is it too much to ask him for an intro?",
-   "reply": "Hi Olu,\nCould I ask a favour? Please say no if it's too much, given we've only met once. I'm raising a pre-seed round for Shiftwell and I'd love an intro to Rachel Stein, since she backed Carely and knows home care better than almost anyone. The ask for her would be a 20-minute call in the next few weeks, nothing more.\nIf you're up for it, here's a blurb you can forward or edit:\n\"Rachel, I'd like to introduce Maya Chen. Maya runs Shiftwell, a scheduling and handover app for home-care nurses, with 14 agencies on a paid pilot. She's raising a pre-seed round and would value 20 minutes of your view on the space. Happy to connect you if you're open to it.\"\nEither way, I'll let you know how the raise goes. Thanks, Olu.\nMaya",
+   "situation": "I'm Maya Chen, raising a pre-seed round for Shiftwell, my scheduling app for home-care nurses, with 14 agencies on a paid pilot. I met a founder, Olu Adeyemi, once at a meetup in June and we've swapped a few LinkedIn messages since. He's close with Rachel Stein, an angel who backed two home-care startups, including Carely. Is it too much to ask him for an intro?",
+   "reply": "Hi Olu,\nCould I ask a favour? Please say no if it's too much, given we've only met once. I'm raising a pre-seed round for Shiftwell and I'd love an intro to Rachel Stein, since she backed Carely and knows home care well. The ask for her would be a 20-minute call in the next few weeks, nothing more.\nIf you're up for it, here's a blurb you can forward or edit:\n\"Rachel, I'd like to introduce Maya Chen. Maya runs Shiftwell, a scheduling and handover app for home-care nurses, with 14 agencies on a paid pilot. She's raising a pre-seed round and would value 20 minutes of your view on the space. Happy to connect you if you're open to it.\"\nEither way, I'll let you know how the raise goes. Thanks, Olu.\nMaya",
    "lang": "en",
    "note": "A weak tie asking for an investor intro: the out comes first and the blurb carries one real traction number, so his reputation risk stays small."
   },
   {
    "id": "request-intro-or-referral-007",
-   "situation": "I'm in the final round for a senior analyst job at Ridgeway Bank and they want two references by Friday. My old manager, Priya Shah, left my last company a year ago and we haven't spoken since her farewell drinks. I want to ask her by email.",
-   "reply": "Hi Priya,\nCould I ask a favour? I'm in the final round for a senior analyst role at Ridgeway Bank, and they've asked for references by Friday 2 October. Would you be willing to be one? You saw my work on the credit risk dashboards more closely than anyone, and that's exactly what this team cares about. It would be one call of about 15 minutes sometime next week. If the timing or anything else makes it awkward, no problem at all; a quick heads-up is all I need so I can ask someone else.\nIf yes, I'll send you the job description and a two-line summary of the projects they're likely to ask about.\nI'll let you know how it turns out either way.\nDaniel",
+   "situation": "I'm Daniel, newly self-employed as a sound engineer with simple books. My friend Priya's accountant, Helen Ward, isn't taking new clients, but Priya says she sometimes makes room for referrals. I want to ask Priya to pass on a note asking Helen for a 15-minute call.",
+   "reply": "Hi Priya,\nCould I ask a favour? Would you be comfortable passing a note to Helen Ward for me? I've just gone self-employed and my books are simple, so I'd be an easy client, and you mentioned she sometimes makes room for referrals. If it would use up goodwill you'd rather keep for yourself, no problem at all, just say.\nIf you're happy to, here's something you can forward:\n\"Helen, my friend Daniel has just gone self-employed as a sound engineer and his books are simple. He knows you're not taking new clients, so he'd just value a 15-minute call to see whether you might have room. No pressure either way.\"\nI'll let you know how it goes either way.\nDaniel",
    "lang": "en",
-   "note": "A reference puts her voice on the line: say why her specifically, keep the ask to one short call, and give the out before she has to look for one."
+   "note": "Asking a friend to spend her standing with her own provider: the out names that cost, and the blurb lets Helen say no easily."
   },
   {
    "id": "request-intro-or-referral-008",
-   "situation": "我在市场部做了三年，想转到产品部。领导周姐人很好，跟产品部的何总很熟。想请她帮我引荐，跟何总聊半小时，但怕她觉得我是嫌弃现在的工作。",
+   "situation": "我叫林悦，在市场部做了三年用户增长，今年牵头的会员拉新活动转化率比去年高40%，手上还有双十一项目。想转到产品部，领导周姐人很好，跟产品部的何总很熟，想请她帮我引荐聊半小时，但怕她觉得我是嫌弃现在的工作。",
    "reply": "周姐，想请您帮个忙：能不能帮我引荐一下产品部的何总？我以后想往产品方向发展，想先跟何总聊30分钟，了解他们团队需要什么样的人。手上的双十一项目我会负责到底，这个不会变。您要是觉得现在不合适，直接跟我说就好。\n如果方便，下面这段可以直接转给何总：\n“何总，介绍一下我们组的林悦。她做了三年用户增长，今年的会员拉新活动是她牵头的，转化率比去年高了40%。她对产品方向很感兴趣，想约您30分钟聊聊，您看方便吗？”\n不管结果怎样，聊完我都跟您说一声。",
    "lang": "zh",
    "note": "请现任领导引荐内部转岗：先说清手上的工作不受影响，给她说不的空间，附一段能直接转发的介绍。"
@@ -67,49 +67,49 @@
   },
   {
    "id": "request-intro-or-referral-010",
-   "situation": "我是做小程序的自由开发者，刚给一家烘焙店做完点单小程序，上线一个月线上订单占了三成，老板娘王姐很满意。听说她跟隔壁街豆子咖啡的周老板很熟，周老板最近在找人做会员系统。想请王姐帮我引荐。",
+   "situation": "我叫小林，是做小程序的自由开发者，刚给一家烘焙店做完点单小程序，上线一个月线上订单占了三成，老板娘王姐很满意。听说她跟隔壁街豆子咖啡的周老板很熟，周老板最近在找人做会员系统。想请王姐帮我引荐。",
    "reply": "王姐，想请您帮个忙：听说您跟豆子咖啡的周老板挺熟，他最近在找人做会员小程序，方便帮我引荐一下吗？如果不好开口，完全没关系，直接跟我说就行。\n\n要是方便，这段可以直接转给他：'周老板，介绍一下小林，我们店的点单小程序就是他做的，上线一个月线上订单占了三成，做事很靠谱。他想跟你聊20分钟，看看会员系统怎么做合适。'\n\n不管结果怎样，我都会跟您说一声。谢谢王姐！",
    "lang": "zh",
    "note": "向满意的客户要引荐：开头就说请求，附一段带真实数字、可直接转发的介绍，给她说不的余地，并承诺回报结果。"
   },
   {
    "id": "request-intro-or-referral-011",
-   "situation": "I'm applying for PhDs in marine ecology this winter. My undergrad thesis advisor, Dr. Chen, did her postdoc with Prof. Adaeze Okafor, whose lab at Dalhousie is my first choice. I'd like to ask Chen for an intro before I apply.",
+   "situation": "I'm Jordan Lee, applying for PhDs in marine ecology this winter; my undergrad thesis with Dr. Chen was on urchin grazing in kelp beds. Chen did her postdoc with Prof. Adaeze Okafor, whose kelp forest recovery lab at Dalhousie is my first choice. I'd like Chen to introduce me so I can ask whether she's taking students for fall 2027 before I apply.",
    "reply": "Hi Dr. Chen,\nCould I ask a favour? I'd love an intro to Prof. Okafor at Dalhousie. Her lab's work on kelp forest recovery is the closest match to my thesis, and I'd like to ask whether she's taking PhD students for fall 2027 before I apply. If it's not a good moment to reach out to her, no problem at all, just say.\nIf you're up for it, here's a blurb you can forward:\n\"Adaeze, I'd like to introduce Jordan Lee, who did an honours thesis with me on urchin grazing in kelp beds. Jordan is applying for PhDs this winter and would value a 15-minute call, or a short email, about whether your lab is taking students next year.\"\nI'll let you know how it goes either way.\nJordan",
    "lang": "en",
    "note": "Academic intros follow the same shape: one small, specific ask of the professor, a blurb in the advisor's voice, and a real out."
   },
   {
    "id": "request-intro-or-referral-012",
-   "situation": "我11月从杭州调到成都工作，在那边一个人都不认识。大学好友小雅有个朋友阿楠在成都住了五年，也喜欢爬山。想请小雅介绍我们认识，主要想问问租房和生活。",
+   "situation": "我叫林晓，做设计，11月从杭州调到成都工作，在那边一个人都不认识。大学室友小雅有个朋友阿楠在成都住了五年，也喜欢爬山。想请小雅介绍我们认识，主要想问问租房和生活。",
    "reply": "小雅，想请你帮个忙：我11月要调到成都了，那边一个人都不认识，能不能把我介绍给阿楠？我主要想请她吃顿饭，问问住哪个区方便，别的不多打扰。你们要是最近联系不多、不好开口，直接说就行，我自己慢慢摸索。\n\n方便的话，这段可以直接转给她：“阿楠，介绍一下我大学室友林晓，11月从杭州调到成都做设计。她想找个本地人问问租房和生活，顺便认识个爬山搭子，想请你吃顿饭。你愿意的话我拉个群。”\n\n见完一定跟你汇报！",
    "lang": "zh",
    "note": "不是为工作的引荐也一样：说清要对方花多少时间，附一段能直接转发的介绍，给一个真的退路。"
   },
   {
    "id": "request-intro-or-referral-013",
-   "situation": "I'm applying for a flat in Bristol and the letting agent wants a reference from a previous landlord by Monday Oct 5. I rented from Mr. Okafor for three years, 2021 to 2024, always paid on time, but we haven't been in touch since I moved out.",
-   "reply": "Hi Mr. Okafor, could I ask a favour? I'm applying for a flat in Bristol and the letting agent, Harbour Lettings, has asked for a reference from a previous landlord by Monday 5 October. Would you be willing to give one? It's a short email form confirming that I rented Flat 3 on Kingsley Road from 2021 to 2024 and paid rent on time. If it's not convenient, no problem at all, just let me know and I'll ask elsewhere. I'll tell you how it goes either way. Thanks, Priya",
+   "situation": "I'm Priya, a freelance illustrator. Ruth, an art director at Brightwater Books and my biggest current client, mentioned that her former colleague Sofia Marsh now runs a picture-book imprint. I'd like an intro for a 15-minute call to show Sofia my portfolio, but I don't want Ruth to feel obliged because she pays me.",
+   "reply": "Hi Ruth, could I ask a favour, with no pressure at all? I'd love an intro to Sofia Marsh, for a 15-minute call to show her my portfolio in case it's a fit for her imprint. This is completely separate from our work together, and if it doesn't feel right for any reason, just say and nothing changes on my side.\n\nIf you're up for it, here's a blurb you can forward:\n\"Sofia, I'd like to introduce Priya, a freelance illustrator I work with regularly. She'd love 15 minutes to show you her portfolio, in case it's a fit for your list. Happy to connect you if you're open to it.\"\n\nI'll let you know how it goes either way. Thanks, Priya",
    "lang": "en",
-   "note": "A reference from someone you've lost touch with: the ask and deadline first, exactly what they'd confirm, and an easy out."
+   "note": "Asking a paying client for an intro: keep it apart from the work you do for her and make the out explicit, so it never feels like part of the deal."
   },
   {
    "id": "request-intro-or-referral-014",
-   "situation": "My nephew Aarav just finished a civil engineering degree and wants to get into bridge design. My old college friend Dana Whitfield is a senior engineer at a bridge consultancy in Denver. We haven't talked in about two years, and I want to ask if she'd talk to Aarav, not give him a job.",
-   "reply": "Hi Dana, could I ask a small favour? My nephew Aarav has just graduated in civil engineering and wants to go into bridge design, and I'd love for him to have 20 minutes with you about how you got into the field. He isn't asking for a job, just a real picture of the work before he applies anywhere. If the timing's bad, no problem at all. If you're up for it, here's a note from him, and you can reply to him directly:\n\n\"Hi Dana, I'm Aarav Mehta, a May civil engineering graduate from Colorado State. My senior project was a load study on a pedestrian bridge, and I'm deciding between structural consultancies and the state DOT. Would you have 20 minutes for a call in the next few weeks? I'm happy to work around your schedule.\"\n\nI'll let you know how he gets on. Thanks either way.",
+   "situation": "My nephew Aarav Mehta graduated in civil engineering in May; his senior project was a load study on a pedestrian bridge, and he's deciding between structural consultancies and the state DOT. My old college friend Dana Whitfield is a senior engineer at a bridge consultancy in Denver; we haven't talked in about two years. I want to ask if she'd talk to Aarav, not give him a job.",
+   "reply": "Hi Dana, could I ask a small favour? My nephew Aarav has just graduated in civil engineering and wants to go into bridge design, and I'd love for him to have 20 minutes with you about how you got into the field. He isn't asking for a job, just a real picture of the work before he applies anywhere. If the timing's bad, no problem at all. If you're up for it, here's a note from him, and you can reply to him directly:\n\n\"Hi Dana, I'm Aarav Mehta, a May civil engineering graduate. My senior project was a load study on a pedestrian bridge, and I'm deciding between structural consultancies and the state DOT. Would you have 20 minutes for a call in the next few weeks? I'm happy to work around your schedule.\"\n\nI'll let you know how he gets on. Thanks either way.",
    "lang": "en",
    "note": "Asking on someone else's behalf: keep the ask small, let them speak for themselves in the blurb, and you still owe the report back."
   },
   {
    "id": "request-intro-or-referral-015",
-   "situation": "Ich suche eine technische Mitgründerin für Hofkiste, meine App, über die Hofläden Vorbestellungen annehmen; 23 Höfe im Raum Freiburg nutzen sie schon. Mein früherer Kollege Jonas hat erzählt, dass seine Freundin Lena Vogel, Backend-Entwicklerin, gerade gekündigt hat und etwas Eigenes sucht. Jonas und ich schreiben uns nur ab und zu auf WhatsApp.",
+   "situation": "Ich bin Katrin Weber und suche eine technische Mitgründerin für Hofkiste, meine App, über die Hofläden Vorbestellungen annehmen; 23 Höfe im Raum Freiburg nutzen sie schon. Mein früherer Kollege Jonas hat erzählt, dass seine Freundin Lena Vogel, Backend-Entwicklerin, gerade gekündigt hat und etwas Eigenes sucht. Jonas und ich schreiben uns nur ab und zu auf WhatsApp.",
    "reply": "Hi Jonas, darf ich dich um einen Gefallen bitten? Ich würde mich über eine Vorstellung bei Lena Vogel freuen. Ich suche für Hofkiste eine technische Mitgründerin, und nach dem, was du erzählt hast, könnte ein Gespräch für beide spannend sein. Wenn es sich für dich komisch anfühlt, ist das völlig in Ordnung, sag einfach Bescheid.\n\nFalls du magst, hier ein Text zum Weiterleiten:\n„Lena, ich möchte dir Katrin Weber vorstellen. Katrin baut Hofkiste, eine App, über die Hofläden Vorbestellungen annehmen; 23 Höfe im Raum Freiburg nutzen sie schon. Sie sucht eine technische Mitgründerin und würde sich gern 30 Minuten unverbindlich mit dir austauschen. Soll ich euch verbinden?“\n\nIch sage dir so oder so Bescheid, wie es gelaufen ist. Danke dir!\nKatrin",
    "lang": "de",
    "note": "Co-founder intro: the ask stays small (30 minutes, no commitment) so Jonas only vouches for a conversation, not a partnership."
   },
   {
    "id": "request-intro-or-referral-016",
-   "situation": "I run a small nonprofit, Second Shift, that repairs donated laptops for school kids; we've given out 1,200 so far. My cousin Hannah used to work with Mark Ellis, the education reporter at our city paper. I'd like her to introduce me so I can tell him about our open day on Nov 14.",
+   "situation": "I'm Leah Porter and I run a small nonprofit, Second Shift, that repairs donated laptops for school kids; we've given out 1,200 so far. My cousin Hannah used to work with Mark Ellis, the education reporter at our city paper. I'd like her to introduce me so I can tell him about our open day on Nov 14.",
    "reply": "Hi Hannah, could I ask a favour? I'd love an intro to Mark Ellis. Second Shift has now given 1,200 repaired laptops to school kids, and our open day on 14 November could be a good local education story for him. If you're not in touch enough for that to feel comfortable, just say, no problem at all.\nIf you're up for it, here's a blurb you can forward:\n\"Mark, I'd like to introduce my cousin Leah Porter. Leah runs Second Shift, a nonprofit that repairs donated laptops for school kids, 1,200 so far. She has an open day on 14 November and would value 10 minutes to tell you about it, in case it's useful for a story.\"\nI'll let you know how it goes either way. Thanks!\nLeah",
    "lang": "en",
    "note": "A press intro: the blurb gives the reporter a story hook and asks for 10 minutes, never for coverage."
@@ -172,10 +172,10 @@
   },
   {
    "id": "request-intro-or-referral-025",
-   "situation": "我叫陈悦，做企业沟通培训。去年给一家集团下面的物流子公司做了两期新经理培训，HR经理李姐很满意，课后评分平均4.8分（满分5分）。听说集团零售子公司的HR总监赵总今年在找新经理培训，我想请李姐帮我引荐，跟赵总约30分钟电话。",
-   "reply": "李姐，想请您帮个忙：听说零售子公司的赵总今年在找新经理培训，方便帮我引荐一下吗？我想约赵总30分钟电话，先听听他们的需求。您要是觉得不方便开口，直接跟我说就好，完全没关系。\n\n方便的话，这段可以直接转给赵总：“赵总，介绍一下陈悦，她去年给我们物流公司做了两期新经理培训，课后评分平均4.8分（满分5分）。听说您那边在找类似的培训，她想约您30分钟电话聊聊需求。”\n\n不管后面谈得怎么样，我都会跟您说一声。",
+   "situation": "我叫陈悦，我爸68岁，医生建议他做膝关节置换，我们想手术前再听一次第二意见。好友小何的大学同学孙医生在一家三甲医院骨科看关节。想请小何问问能不能正常挂孙医生的号看一次，我们按流程挂号付费，不想让她私下看片子。",
+   "reply": "小何，想请你帮个忙：能不能帮我问问你同学孙医生，我爸能不能正常挂她的号看一次膝关节？医生建议他做置换，我们想手术前再听一次第二意见，按流程挂号付费，不用她私下看片子。要是你们不常联系，或者问这种事让你为难，直接跟我说就行，完全没关系。\n\n方便的话，这段可以直接转给她：“孙医生，我朋友陈悦的父亲68岁，医生建议做膝关节置换，家里想在手术前听一次第二意见。他们想正常挂您的号看一次，不知道您门诊方便吗？”\n\n不管能不能约上，我都跟你说一声。谢谢！",
    "lang": "zh",
-   "note": "请满意的客户在集团内部引荐：给一段能直接转发的话，并说清楚只要30分钟电话。"
+   "note": "为家人请朋友引荐医生：把请求限定在正常挂号，不让朋友替你去要私下的人情，退路也要说得明确。"
   },
   {
    "id": "request-intro-or-referral-026",

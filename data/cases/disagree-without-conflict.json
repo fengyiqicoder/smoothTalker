@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -183,6 +183,13 @@
    "reply": "给张师傅送份礼物这个主意特别好，他带了我们这么多年，我也想表示一下。我这边有个小想法：每人500元对刚来的几个实习生可能压力有点大，要不改成每人随意、上限200元？心意到了就好。小刘，你定500元是已经看中了哪件礼物吗？有的话我们一起看看怎么凑。",
    "lang": "zh",
    "note": "在群里唱反调：先认同提议本身，只讲一个理由，再问发起人的考虑，给对方留台阶。"
+  },
+  {
+   "id": "disagree-without-conflict-027",
+   "situation": "My son Theo, 10, swims in a club squad. Coach Danielle announced in the parents' WhatsApp group that from November the squad trains five mornings a week at 6am instead of three. Theo is already worn out on the three early mornings, and I'd like him to stay on three; I want to message her privately, not in the group.",
+   "reply": "Hi Danielle, thanks for all the work you put into the squad, and I can see the extra sessions are about helping the kids improve. Where I land differently is for Theo: he's already worn out on three 6am mornings, and I'd rather he stayed on three for now. Could that work within the squad, or is five a requirement? I'd also like to hear what you're seeing in the pool that I might not be.",
+   "lang": "en",
+   "note": "Parent to coach: disagree only about your own child, in private, and leave room for what she sees at training."
   }
  ]
 }

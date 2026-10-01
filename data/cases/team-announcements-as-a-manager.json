@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -169,6 +169,13 @@
    "reply": "Sharing this with Ash's go-ahead: from today, our teammate you've known as Alex goes by Ash and uses she/her. Her Slack name and email switch over on Monday 5 October. Nothing about her role or work changes. If you slip up, a quick correction and carrying on is all that's needed, and please don't quiz her about it. Any questions, bring them to me directly.",
    "lang": "en",
    "note": "Share only what she agreed to, in the words she chose, and route questions to you so she doesn't field them."
+  },
+  {
+   "id": "team-announcements-as-a-manager-025",
+   "situation": "我带一个11人的数据团队。公司决定从明年1月1日起，每人每年的培训预算从8000元降到4000元，原因是今年海外业务亏损要控制成本，这个决定我同意。已经审批过的课程和考试照常报销，10月31日前提交的申请也按8000元的旧标准审。想在团队群里通知大家。",
+   "reply": "跟大家说一件事：从明年1月1日起，每人每年的培训预算从8000元降到4000元。原因是今年海外业务亏损，公司要控制成本，这个决定我是同意的。已经审批过的课程和考试照常报销；10月31日前提交的申请，也按原来8000元的标准审。所以手上有培训计划的同学，这个月内把申请交上来。如果预算减少影响到你正在准备的证书或者职业规划，这周单独找我聊。",
+   "lang": "zh",
+   "note": "涉及钱的政策变化：第一句给数字，说清哪些不受影响，再给大家一个能抓住的时间窗口。"
   }
  ]
 }

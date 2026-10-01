@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -183,6 +183,13 @@
    "reply": "小林様\nお世話になっております。翻訳を担当いたしました中村です。\n9月25日（金）お支払い期日の請求書（No. 2026-0912、165,000円）につきまして、本日時点でまだ入金を確認できておりませんでしたので、念のためご連絡いたしました。行き違いでご手配済みでしたら、どうぞご放念ください。請求書を改めて添付いたします。お振込先は請求書に記載のとおりです。\nお手数ですが、ご確認のほどよろしくお願いいたします。\n中村",
    "lang": "ja",
    "note": "初回は事務ミスを前提に「行き違いでしたらご放念ください」と添え、番号・金額・期日・振込先をそろえてそのまま払える形にする。"
+  },
+  {
+   "id": "chase-late-payment-027",
+   "situation": "I'm Leon, a freelance designer. I made a logo for Ruth's bakery; invoice #0712 for $950 was due August 30. When I sent a first reminder on September 8, she replied that her husband had died in August and she'd look at it soon. Nothing since; I need the money, but I don't want to be heartless.",
+   "reply": "Hi Ruth, I've thought of you often since your message, and I hope you're managing as well as anyone can. I'm writing about invoice #0712 for $950 for the bakery logo, due on 30 August, which is still open. Would paying it by Friday 30 October work for you? If it's easier, two payments of $475, one now and one by the end of November, are fine too. The bank details are on the attached invoice, and if someone else is handling the bakery's accounts at the moment, tell me who and I'll send it to them.\nLeon",
+   "lang": "en",
+   "note": "A client in grief: one line of care, then the same facts and a date with more room than usual, and no consequence yet."
   }
  ]
 }

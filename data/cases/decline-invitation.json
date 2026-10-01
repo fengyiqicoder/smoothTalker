@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -183,6 +183,13 @@
    "reply": "Thank you for the invitation, Richard, that's very generous of you. We won't be able to join on Saturday the 17th; we keep our weekends for the kids. I hope you get a calm, sunny day out on the water.",
    "lang": "en",
    "note": "Saying no up a steep power gap needs no counter-offer: one true reason, and warmth without grovelling. If he asks again, repeat it once."
+  },
+  {
+   "id": "decline-invitation-027",
+   "situation": "大学闺蜜小雨12月19日在泰国清迈办婚礼，邀请我去。机票酒店算下来要七八千，我今年刚换工作，手头紧，去不了。我们是很好的朋友，她1月初回上海，我想等她回来请她和老公吃饭庆祝。",
+   "reply": "小雨，收到邀请真的特别开心，谢谢你想着我！清迈这次我去不了，今年刚换工作，手头有点紧。那天我会一直守着你的朋友圈，替你高兴。等你们1月初回上海，我请你和老公吃饭，好好给你们庆祝！",
+   "lang": "zh",
+   "note": "关系很近时，一个真实的理由可以直接说；不提具体金额，免得她提出帮你出钱，再给一个回来后能兑现的庆祝。"
   }
  ]
 }

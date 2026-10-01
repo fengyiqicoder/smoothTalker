@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -182,6 +182,13 @@
    "reply": "Jonas, ein Jahr. Ich mache kein Theater draus, versprochen, nur eins: Dass du dieses Jahr jeden Samstagmorgen mit mir laufen warst, statt freitags in der Kneipe zu sitzen, hat mir gezeigt, wie ernst du es meinst. Ich bin stolz auf dich.",
    "lang": "de",
    "note": "Die Mühe loben, nicht das Aussehen; privat statt in der Gruppe, ohne Ratschläge und ohne Fragen dazu."
+  },
+  {
+   "id": "give-and-receive-compliments-027",
+   "situation": "国庆在婆婆家，第一次在她面前包饺子。婆婆尝了一个说“比我包得还好吃”。按习惯我差点说“哪里哪里”，其实馅是照着她上回教的方法调的，我在家练了三次，被夸挺高兴的。",
+   "reply": "谢谢妈！我在家练了三次，听您这么说真高兴。馅是照着您上回教的方法调的，您教得好。",
+   "lang": "zh",
+   "note": "长辈夸你时先接住再归功，比一句“哪里哪里”更让对方觉得自己的夸奖被当真。"
   }
  ]
 }

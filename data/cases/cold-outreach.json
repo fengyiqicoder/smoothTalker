@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -182,6 +182,13 @@
    "reply": "黄小姐您好，我是青叶绿植的小吴，占用您半分钟。听说方圆设计刚搬进科技园B栋，我们给这栋楼里12家公司做绿植租摆，定期上门换盆和养护。想问一下，我加您微信发一份价目表给您看看，可以吗？不需要的话直接说一声，我就不打扰了。",
    "lang": "zh",
    "note": "电话陌拜要更短：先说你是谁、为什么找她、一个数字，只问能不能发资料，并让她一句话就能拒绝。"
+  },
+  {
+   "id": "cold-outreach-027",
+   "situation": "I'm Ravi Menon, a site reliability engineer at a mid-size bank. Katrin Weber, who organises the DevOps Days North conference, posted that the call for talks closes Friday 16 October and they want more talks on incident response at regulated companies. Last year my team cut our average incident recovery time from 52 to 19 minutes, and I've given a talk on how we did it twice internally.",
+   "reply": "Subject: Talk idea: incident response at a regulated company\n\nHi Katrin,\nYou posted that you'd like more talks on incident response at regulated companies before the call for talks closes on 16 October. I'm a site reliability engineer at a mid-size bank, and last year my team cut our average incident recovery time from 52 to 19 minutes; I've given the talk on how we did it twice internally. Would that be worth submitting for a 30-minute slot? If it's not a fit, a quick no is genuinely helpful.\nRavi Menon",
+   "lang": "en",
+   "note": "Pitching a talk: the organiser's own stated gap as the why-you, one number, and a yes/no before you spend an evening on the submission."
   }
  ]
 }

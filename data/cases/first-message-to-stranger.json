@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -183,6 +183,13 @@
    "reply": "周老师您好，您上个月讲判断滤波电容鼓包那期我看了三遍。我爷爷留下一台六十年代的电子管收音机，通电后只有嗡嗡声、收不到台。想请教一句：这种情况一般先查电容，还是先查电子管？方便的话回一句就很感谢，没空也完全理解。",
    "lang": "zh",
    "note": "先说清看过他哪一期，再问一个一句话能答的二选一问题，不要求他帮忙修。"
+  },
+  {
+   "id": "first-message-to-stranger-027",
+   "situation": "Every Saturday at the Riverside Saturday 5k I finish within a few seconds of a woman called Aiko; we've never spoken. She's in our running club's Strava group and last week posted a new 5k PB of 24:10 with the caption 'finally kept it together in the last km'. I want to message her there.",
+   "reply": "Hi Aiko, I think I'm the one who's been finishing a few seconds behind you at Riverside every Saturday, so I watched that 24:10 happen from close range. What finally clicked for keeping it together in the last km?",
+   "lang": "en",
+   "note": "One shared detail so you're not a random stranger, one question about her thing, and no ask to run together yet."
   }
  ]
 }

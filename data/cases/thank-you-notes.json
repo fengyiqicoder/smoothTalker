@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -99,6 +99,13 @@
    "reply": "王老师您好，我是2006届三班的林晓，不知道您还记不记得我。高三那年我差点退学，是您每周五放学后把我留在办公室补课，还把自己的复习笔记借给我。今年我出了第一本书，写后记的时候，第一个想到的就是您。谢谢您当年没有放弃我。如果您方便，我想寄一本给您，您告诉我地址就好。",
    "lang": "zh",
    "note": "多年后的感谢：先说自己是谁，再说出她做过的那件具体的事，以及它后来带来了什么。"
+  },
+  {
+   "id": "thank-you-notes-015",
+   "situation": "I'm leaving Fernhill Labs tomorrow, Friday, after six years. The design team chipped in for an old film camera, because years ago at a team lunch I once mentioned shooting film as a teenager, plus a book of handwritten notes from everyone. I want to post a thank-you in our #design Slack channel; leaving drinks are tomorrow evening.",
+   "reply": "Thank you, everyone, for the film camera and the book of notes. I mentioned shooting film as a teenager exactly once, at a team lunch years ago, so whoever remembered that has a frightening memory and a very kind heart. I've read every note twice already, and the book is coming with me to my next desk. The first roll is going to be all of you at drinks tomorrow evening, so consider yourselves warned.",
+   "lang": "en",
+   "note": "A group gift in a public channel: thank everyone at once, name the detail that shows someone listened, and end on the next time you'll see them."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -183,6 +183,13 @@
    "reply": "Hi Oakline, I ordered a desk chair on 2 September (order OL-55102, $180) and it hasn't arrived. I've emailed three times, on 10, 17 and 24 September, and haven't had a reply. Could someone DM me today so we can sort out delivery or a refund? Thanks, Tom",
    "lang": "en",
    "note": "In public, stay factual and keep contact details out of the comment; if it still goes unanswered, a chargeback for the $180 is the next step, so check your card provider's time limits."
+  },
+  {
+   "id": "complain-as-customer-027",
+   "situation": "I'm Leah Grant (leah.grant@example.com). At Copper Pot restaurant on Friday 25 September I told our server my son Sam (9) has a peanut allergy, and she said the chicken noodles were peanut-free, but they came with peanut sauce. Sam got hives and swelling, we used his auto-injector and he spent the night in A&E; he's fine now. I don't want money, I want the manager to tell me in writing what they'll change.",
+   "reply": "Dear Manager,\nOn Friday 25 September we ate at Copper Pot. I told our server that my son Sam, who is 9, has a peanut allergy, and she told us the chicken noodles were peanut-free. They arrived with peanut sauce. Sam came out in hives and swelling, we used his auto-injector, and he spent the night in A&E; he is fine now. I'm not asking for money. I'd like you to tell me in writing, by Friday 9 October, what will change in how allergy orders are checked.\nThank you,\nLeah Grant, leah.grant@example.com",
+   "lang": "en",
+   "note": "One ask that maps to the failure. If a reaction ever starts, use the auto-injector and call emergency services first; check how to report it to your local food safety authority too."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -183,6 +183,13 @@
    "reply": "Priya, have you got five minutes? I wanted you to hear this from me before Monday: I got the senior analyst role. I know you've been working towards it for two years, and I'm not going to pretend that's easy news. Tom's announcing it on Monday at 10. You don't have to say anything now, and whenever you want to talk about it, or not, I'm around.",
    "lang": "en",
    "note": "When you are the good news that is their bad news, don't ask for congratulations or explain why you got it; say it plainly and let her react."
+  },
+  {
+   "id": "deliver-bad-news-027",
+   "situation": "I volunteer as an editor for Tidelines, a small poetry anthology. My close friend Mara submitted three poems and none made the final cut; the panel reads every submission blind and we picked 24 out of 310. The results email goes out Monday Oct 5, the next call opens in March, and I want to text her before the email lands.",
+   "reply": "Mara, I wanted you to hear this from me before Monday's email, and it isn't the news you were hoping for: none of your three poems made it into Tidelines this year. We picked 24 out of 310, and the panel reads everything blind. I know how much of yourself went into those poems, and I'm sorry. The next call opens in March, and I'd love to see more of your work then. I'm around if you want to talk, and it's fine if you don't.",
+   "lang": "en",
+   "note": "When you're both the friend and the gatekeeper, tell her before the form email, keep the reason factual, and promise nothing about next time."
   }
  ]
 }

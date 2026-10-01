@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -183,6 +183,13 @@
    "reply": "Bonjour Monsieur Lefèvre, merci pour votre confiance, je me réjouis de commencer avec vous. Il n'y a aucune honte à avoir : on avancera à votre rythme. Votre premier cours a lieu mardi 6 octobre à 10h chez vous, et les 450 € du forfait de 10 cours sont bien reçus. D'ici lundi 5, pourriez-vous me dire si vous avez un piano ou un clavier, et quels morceaux vous rêvez de jouer ? Je préparerai le premier cours en fonction. Pour toute question, un SMS au 06 12 34 56 78, je réponds dans la journée. Claire",
    "lang": "fr",
    "note": "Il a exprimé une gêne : une phrase pour la lever, puis les étapes concrètes, sans en faire un discours."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-027",
+   "situation": "I'm Wei, a freelance web developer in Singapore. New client Rachel in Toronto just paid the deposit for her salon's booking site; kickoff is a 30-minute video call on Tuesday 6 October at 8pm Toronto time, which is 8am Wednesday for me, and the first version goes live for her review on Friday 23 October. I need her logo files and her list of services with prices by Monday 5 October, and I reply to email within 12 hours, usually overnight her time.",
+   "reply": "Hi Rachel, thank you for choosing me for your booking site, I'm looking forward to it. Next steps: a 30-minute video call on Tuesday 6 October at 8pm your time (8am Wednesday for me in Singapore), then the first version goes live for your review on Friday 23 October. Before the call, could you send me two things by Monday 5 October: your logo files and your list of services with prices? I reply to email within 12 hours, usually while it's night for you, so you'll often wake up to an answer. Wei",
+   "lang": "en",
+   "note": "Across time zones, give every time in theirs first and set the reply-time expectation, so overnight silence never reads as being ignored."
   }
  ]
 }

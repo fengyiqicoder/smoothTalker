@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -183,6 +183,13 @@
    "reply": "Ollie, I'm so sorry about your mum. I keep thinking about you telling us she taught you to play with her old dice, so in a way she's been at our table every Wednesday for three years. Don't give the campaign a thought; I'll tell the group we're pausing until you're ready to come back, whenever that is. No need to reply.",
    "lang": "en",
    "note": "An online-only friendship is still a real one: the memory can be something he told you, and the concrete offer is the thing you actually share."
+  },
+  {
+   "id": "condolences-and-support-027",
+   "situation": "My colleague Ben Adler's father, Saul, died on Sunday. Ben's email says the family is sitting shiva at his home through Thursday 8 October, visitors welcome 7 to 9pm. I'm not Jewish and have never been to a shiva. Saul came to our office summer picnic last year and spent the whole afternoon teaching the interns backgammon. I want to text Ben that I'd like to come on Tuesday evening.",
+   "reply": "Ben, I'm so sorry about your dad. I keep thinking of Saul at the summer picnic, spending the whole afternoon teaching the interns backgammon. I'd like to come by on Tuesday evening during the shiva hours, just to be there with you. No need to reply to this.",
+   "lang": "en",
+   "note": "At a shiva, follow the mourners' lead: let them speak first, keep it short, and ask a family friend before bringing any food."
   }
  ]
 }

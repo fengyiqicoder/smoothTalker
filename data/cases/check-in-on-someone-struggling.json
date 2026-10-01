@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -183,6 +183,13 @@
    "reply": "小鹿，看到你上周在群里说的事了，这几天一直惦记你。不用回我。周二晚上我照样上线，你想来就来，不想说话光打游戏也行，不来也完全没关系。哪天想找人说说话，随时找我。",
    "lang": "zh",
    "note": "没见过面的网友，就用你们本来就有的东西（每周二的开黑）当邀约，不追问细节，也不要求回复。"
+  },
+  {
+   "id": "check-in-on-someone-struggling-027",
+   "situation": "My friend Lena moved in with her boyfriend Ben in the spring and I've barely seen her since. She's cancelled our last three plans saying Ben doesn't like her going out without him, and she mentioned he checks her phone. I want to stay in touch without criticising him, since he might read it.",
+   "reply": "Hey Lena, I've missed you and I've been thinking about you. No need to reply to this. Whatever's going on in your life, I'm not going anywhere, and you never have to explain anything to me. I'm walking by the canal on Sunday at 11 if you fancy joining, and if not, I'll text again next week.",
+   "lang": "en",
+   "note": "Keep it neutral in case it's read by someone else and keep showing up; a domestic abuse helpline can advise you on how to support her, and if you ever think she's in danger, call emergency services."
   }
  ]
 }

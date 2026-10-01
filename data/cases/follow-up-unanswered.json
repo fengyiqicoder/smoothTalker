@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -183,6 +183,13 @@
    "reply": "赵叔，知道您这阵子忙。还是院墙那道裂缝的事：师傅报价2400元，我想的是两家一人一半。师傅要10月10日前定档期，您看是这个月修，还是等过阵子再说？哪个都行，回我一句我好跟师傅说。",
    "lang": "zh",
    "note": "第一次跟进：一句话重说事情，给两个好选的答案；他的沉默不等于同意，没回之前别替他定下来。"
+  },
+  {
+   "id": "follow-up-unanswered-027",
+   "situation": "I missed my friend Leah's first gallery opening on Sept 19 because I got the date wrong, and on Sept 21 I texted her a real apology. She's read it but hasn't replied in 10 days. I don't want to pressure her, but I don't want her to think I've just moved on.",
+   "reply": "Hey Leah, no need to reply to this. I meant every word of my message about missing your opening, and I'm here whenever you feel like talking. I'd still love to see the work.",
+   "lang": "en",
+   "note": "After an apology, the follow-up asks for nothing and goes once; then let her come to you."
   }
  ]
 }

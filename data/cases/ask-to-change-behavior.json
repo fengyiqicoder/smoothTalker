@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -183,6 +183,13 @@
    "reply": "小周，跟你说个小事，不是生气哈。这个月你两次把我们私聊的截图发到同学群里，一次是我吐槽工作，一次是换房子的事，我知道你是想帮我问问。不过群里二十多个人，我看到的时候挺不自在的。以后我私聊跟你说的事，发群里之前能不能先问我一句？想帮我打听的话，直接在群里问、不带截图也完全可以。",
    "lang": "zh",
    "note": "先认下她的好意，只谈截图这一件事和自己的感受，再给她一个还能继续帮忙的办法。"
+  },
+  {
+   "id": "ask-to-change-behavior-027",
+   "situation": "I share the school run with another mum, Gemma: I drive Monday to Wednesday, she does Thursday and Friday. On three of her last four mornings she's arrived after 8:35, and our kids got in after the 8:45 bell and were marked late. We're friendly but not close; I want to text her tonight before her Friday run.",
+   "reply": "Hi Gemma, small school-run thing, not a big deal. On three of the last four of your mornings you've got here after 8:35, and the kids have made it in after the 8:45 bell and been marked late. Could we aim for an 8:25 pickup on your days, so there's a bit of slack? And if mornings have got tricky for you, I'm happy to look at swapping days.",
+   "lang": "en",
+   "note": "A shared arrangement with someone you're not close to: the facts, the effect on the kids rather than on you, a concrete time, and a way out if the schedule itself is the problem."
   }
  ]
 }

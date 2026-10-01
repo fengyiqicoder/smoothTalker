@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -183,6 +183,13 @@
    "reply": "Hi all, Saturday's training on 3 October is cancelled: I'm ill and couldn't find another coach to cover. Sorry, I know the girls look forward to it and some of you plan your morning around it. Two options: a make-up session on Wednesday 7 October, 5 to 6pm at the leisure centre, or we pick up again on Saturday 10 October as usual. Could you reply 'Wednesday' or 'Saturday' by Sunday evening so I know whether to book the court?",
    "lang": "en",
    "note": "To a group of parents: the change first, one short reason, and two options they can answer in one word."
+  },
+  {
+   "id": "cancel-or-reschedule-027",
+   "situation": "我答应了这周六10月3日帮老同学阿峰搬家，他没请搬家公司，就靠我和另一个朋友。今天公司通知周六必须加班赶上线，推不掉。我周日10月4日全天有空，或者周六晚上7点以后能过去帮他拆装家具，也愿意出钱帮他周六白天叫两个搬运小工。",
+   "reply": "阿峰，周六帮你搬家我去不了了，公司刚通知周六必须加班赶上线，推不掉。你本来就指着我出力，这么临时真的对不住。两个办法：能改到周日10月4日的话，我全天都在；周六不能动的话，我晚上7点以后过去帮你拆装家具。另外，周六白天叫两个搬运小工的钱我来出，你看怎么安排。",
+   "lang": "zh",
+   "note": "答应出力的事临时去不了：第一句说清，给两个具体替代，再主动承担因为你缺席多出来的成本。"
   }
  ]
 }

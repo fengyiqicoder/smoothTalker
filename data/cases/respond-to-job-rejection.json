@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -182,6 +182,13 @@
    "reply": "Hi Hannah, I want to follow up on my email last night. I wrote it while disappointed, and it came across as a complaint, which wasn't fair to you or the panel. I accept the decision, and thank you for rescheduling the interviews twice around my notice period. I'd welcome being considered for future roles at Aldergate.",
    "lang": "en",
    "note": "Repairing a bitter reply: own it in one line, don't re-argue the decision, then send the gracious close you'd have sent first."
+  },
+  {
+   "id": "respond-to-job-rejection-027",
+   "situation": "我叫赵磊。上周二面了一家咨询公司的分析师岗位，今天HR张小姐发邮件说没通过。整个流程挺顺的，案例面试前她还提前把题目背景发给我准备。想回一封邮件，问问能不能给一句反馈，以后有合适的岗位还想再投。",
+   "reply": "张小姐您好，谢谢您告知结果，也谢谢整个流程安排得这么周到，案例面试前提前发来背景资料，让我准备得很充分。如果方便，想请您给一句反馈，看我哪方面还需要加强。无论如何，以后如有合适的岗位，也很希望能再有机会。\n赵磊",
+   "lang": "zh",
+   "note": "被拒后只回这一封：先谢流程，再请一句反馈，不追问原因；她不回也就到此为止。"
   }
  ]
 }

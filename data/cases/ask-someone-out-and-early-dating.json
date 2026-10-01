@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -182,6 +182,13 @@
    "reply": "My friend Julien is having birthday drinks on Saturday 10 October, about 20 people, and I'd really like you to come with me. Totally casual: we can stay an hour and leave whenever you like. And if a big group of my friends feels like a lot this early, that's completely fine, we'll do something just the two of us that weekend instead.",
    "lang": "en",
    "note": "Inviting someone into your world early: a specific event, an easy exit on the night, and a no that still comes with a plan."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-027",
+   "situation": "I've been on three dates with Leo since early September and I really like him. He just texted asking me to be his plus-one at his sister's wedding in Porto in November. A family wedding abroad feels too soon, but I want to keep seeing him.",
+   "reply": "That's really sweet, and I'm touched you'd want me there. A family wedding in Porto feels like a big step after three dates, so I'm going to sit this one out, but I'd love to keep seeing you. Dinner this Saturday?",
+   "lang": "en",
+   "note": "When they move faster than you: no to the plan, yes to the person, and a concrete next date in the same message so it doesn't read as a let-down."
   }
  ]
 }

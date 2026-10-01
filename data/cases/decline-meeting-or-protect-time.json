@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -183,6 +183,13 @@
    "reply": "Hi Priya, thanks for including me. I'll skip the Monday all-hands; instead I'll send you a short written update on the checkout build every Friday by 4pm, so it's ready for Monday. If you'd like me there in person for a particular week, I'm happy to join, billed at my usual £70 an hour. Does that work?",
    "lang": "en",
    "note": "For a contractor, the meeting is billable time: offer the free written version and price the live one, without a lecture about scope."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-027",
+   "situation": "I'm a hydrologist at a university. Megan, a reporter at our local paper, emailed this morning asking for a 30-minute phone interview today about last week's river flooding. I'm teaching all afternoon, but I can answer up to five questions in writing by 5pm today, and she's welcome to quote me.",
+   "reply": "Hi Megan, thanks for getting in touch about last week's flooding. I'm teaching all afternoon, so I can't do a call today, but I'm happy to answer in writing: send me up to five questions and I'll reply by 5pm today, and you're welcome to quote me. Does that work for your deadline?",
+   "lang": "en",
+   "note": "With press, written answers are often quicker for them and clearer for you; asking about their deadline makes sure the alternative actually fits."
   }
  ]
 }

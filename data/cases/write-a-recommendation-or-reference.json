@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 14,
+ "count": 15,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -99,6 +99,13 @@
    "reply": "We used Dev Sandhu to rewire our kitchen in July. He quoted £1,850, finished in the two days he said he would, and the final bill matched the quote exactly. He also left the place spotless. That's the only job he's done for us, so I can't speak to bigger work, but I'd call him again. His number is 07700 900527.",
    "lang": "en",
    "note": "A recommendation in a group chat: what he did for you, the evidence people care about (price, time, tidiness), and the honest limit of what you saw."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-015",
+   "situation": "Ich bin Teamleiterin bei Kranich Software und schreibe den Leistungsteil für das Arbeitszeugnis unseres Werkstudenten Felix Bauer, der vom 1. März 2024 bis 30. September 2026 bei uns war und geht, weil sein Studium endet. Er hat die automatisierte Testabdeckung unserer Kernanwendung eigenständig von 40 auf 75 Prozent erhöht und zwei neue Werkstudenten eingearbeitet, die nach wenigen Wochen selbstständig arbeiteten. Ich war sehr zufrieden und möchte, dass das im Zeugnis auch so ankommt.",
+   "reply": "Herr Felix Bauer war vom 1. März 2024 bis zum 30. September 2026 als Werkstudent in unserem Entwicklungsteam tätig. Er hat die automatisierte Testabdeckung unserer Kernanwendung eigenständig von 40 auf 75 Prozent erhöht. Zudem hat er zwei neue Werkstudenten eingearbeitet, die bereits nach wenigen Wochen selbstständig arbeiteten. Die ihm übertragenen Aufgaben erledigte er stets zu unserer vollsten Zufriedenheit. Herr Bauer verlässt uns, weil sein Studium endet. Wir bedauern sein Ausscheiden sehr, danken ihm für seine wertvolle Arbeit und wünschen ihm für seinen weiteren Weg alles Gute.",
+   "lang": "de",
+   "note": "Zeugnissprache ist codiert: „stets zu unserer vollsten Zufriedenheit“ gilt als Bestnote, also nur so schreiben, wenn man es meint; Formulierungen im Zweifel mit HR prüfen."
   }
  ]
 }

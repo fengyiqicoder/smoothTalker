@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -183,6 +183,13 @@
    "reply": "Subject: Confirmation needed by Wed 7 Oct: Brooks wedding, 24 October\nHi Greg, our wedding is at Willowmere Barn on Saturday 24 October. I emailed Chloe on 14 and 25 September asking for the final floor plan and confirmation that our 12 vegetarian meals are on the catering order, and haven't had a reply; I let her know yesterday that I'd be in touch with you. The caterer needs final numbers by Friday 9 October. Could you send the floor plan and confirm the vegetarian meals by Wednesday 7 October, or tell me who's handling our booking now? Thanks, Hana Brooks",
    "lang": "en",
    "note": "A personal event with a hard date: the ask lands two days before the caterer's cutoff, and Chloe hears it from you first."
+  },
+  {
+   "id": "escalate-an-issue-027",
+   "situation": "派遣社員の山本恵です。派遣先で、契約書の業務内容にない電話対応を9月から毎日2時間ほど任されていて、本来のデータ入力が終わらず9月の残業は15時間になりました。派遣元の営業担当の田中さんに9月10日と24日に伝え、契約書の業務内容も見せましたが「確認します」のままです。田中さんには上長の小林課長に連絡すると伝えてあり、10月15日の更新面談より前に方針を決めてほしいです。",
+   "reply": "件名：10月9日（金）までにご判断のお願い：派遣先での契約外の業務について\n小林課長\nお世話になっております。派遣社員の山本恵です。派遣先にて、9月から毎日2時間ほど電話対応を任されていますが、契約書の業務内容には含まれておりません。そのため本来のデータ入力が終わらず、9月の残業は15時間になりました。9月10日と24日に田中さんにご相談し、契約書の業務内容もお見せしましたが、まだ方針が決まっていない状況です。田中さんには、小林課長にご連絡することをお伝えしております。10月15日の更新面談の前に、派遣先とご確認のうえ、10月9日（金）までに方針をお知らせいただけますでしょうか。私としては、契約書どおりの業務に戻していただくか、電話対応を続ける場合は契約内容を見直していただくのがよいと考えております。\nよろしくお願いいたします。\n山本恵",
+   "lang": "ja",
+   "note": "派遣の三者関係でも形は同じ。契約外かどうかは一般論で断定せず、契約書の記載に結びつけて伝える。"
   }
  ]
 }
