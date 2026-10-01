@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -190,6 +190,13 @@
    "reply": "Zara, can I give you some feedback on the market-sizing memo? It cites '68% of mid-size firms plan to switch vendors in 2027' with no source, and I couldn't find that figure anywhere. If someone at Thursday's review asks where it comes from and we can't say, it puts the whole memo in doubt, and the rest of it is solid. What's your read on where it came from? Going forward, every figure needs a source you've opened yourself, whatever tool helped with the draft. Can you send me the sourced version by Wednesday noon?",
    "lang": "en",
    "note": "Keep it on the unsourced number and its impact, not on using the tool; the rule is the same for any draft."
+  },
+  {
+   "id": "give-feedback-to-colleague-028",
+   "situation": "I'm a charge nurse on a surgical ward. On Monday and Wednesday this week my colleague Kelsey did handover to the night shift without mentioning patients' allergies, and on Wednesday the night nurse nearly gave penicillin to the patient in bed 4, who is allergic; she caught it at the last check. Kelsey has been here eight years and is great with patients, and I'm talking to her privately before her shift tomorrow.",
+   "reply": "Kelsey, can I give you some feedback on handover? On Monday and Wednesday, allergies didn't come up in your handover to nights, and on Wednesday the patient in bed 4 nearly got penicillin, which he's allergic to. It was caught at the last check, but it was close. What's your read on it? From now on I need allergies said out loud for every patient at handover; would it help to make them the first line on the handover sheet? Let's check in on Friday 9 October.",
+   "lang": "en",
+   "note": "Patient safety still gets private, specific feedback with one clear ask; near misses also go through your ward's incident reporting process."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -190,6 +190,13 @@
    "reply": "Hi Paul, thanks for picking up Eva and Jude from after-school club on Tuesday at such short notice, it made a real difference. If it's useful, I'm happy to have them on Saturday 17 October so you get a free day. Could you let me know by Wednesday 14 October either way? Thanks.",
    "lang": "en",
    "note": "Thanks in a tense co-parenting relationship stays brief and specific, and the offer is an easy yes or no, not a debt he has to repay."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-028",
+   "situation": "我叫林悦，是朵朵（8岁）爸爸的现任妻子。朵朵爸爸和前妻周敏每周五下午5点在学校门口交接。下周五10月9日他出差，他已经跟周敏说好那天由我去接，周敏回了“好”。这是我第一次直接联系周敏，想发微信说一下，不想越界。",
+   "reply": "周敏你好，我是林悦。下周五10月9日朵朵爸爸出差，之前他跟你说过那天由我去接朵朵，下午5点在学校门口，我会提前十分钟到。朵朵有没有什么需要我特别注意的，比如要带的东西？周四晚上前告诉我就好，谢谢。",
+   "lang": "zh",
+   "note": "继任伴侣第一次联系对方：说清自己是谁，只谈这一次接送，不评论任何人，育儿上的决定留给两位父母。"
   }
  ]
 }

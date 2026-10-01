@@ -4,64 +4,64 @@
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
-   "situation": "Got a WhatsApp from my friend Priya's number saying she's stuck abroad, lost her wallet and needs $600 wired today, and please don't tell anyone because it's embarrassing. Doesn't sound like her.",
-   "reply": "Hey, I just got a message from your WhatsApp asking me to wire $600 today. I'm guessing that wasn't you? Ring me when you can.",
+   "situation": "My friend Priya's Instagram has been posting stories all morning about making $8,000 with a crypto 'mentor' and tagging people to DM him. Priya would never post that, and her phone number is saved in my contacts.",
+   "reply": "Priya, your Instagram has been posting stories this morning about making $8,000 with a crypto mentor and tagging people to message him. I'm pretty sure that's not you, so I haven't replied or clicked anything. If you can still log in, change the password and turn on two-step; if not, use Instagram's hacked-account help. Then warn your followers from another account so nobody sends money. Call me if you want a hand.",
    "lang": "en",
-   "note": "Money, urgency and secrecy together. Don't reply in the WhatsApp thread; send this by SMS or call her saved number."
+   "note": "Warn the real person by text or a call to the saved number, never by DM to the hacked account, and report the posts to Instagram so they come down faster."
   },
   {
    "id": "suspicious-or-scam-message-002",
    "situation": "我爸最近总跟我说他在一个'理财群'里跟着'老师'炒股赚了不少，还说老师让他加大投入、别跟家里人说。我很担心，但他很好面子。",
    "reply": "爸，想跟你聊聊那个理财群的事，我保证不是来说教的。那个老师有没有让你往他给的账户里转钱，或者让你别告诉家里人？现在这种骗子都很专业，很多聪明人都被骗过。不管情况怎样，我们一起想办法，我周六回家陪你一起看看。",
    "lang": "zh",
-   "note": "目标是让他愿意跟你说实话。羞辱会让他把下一个骗局藏起来。"
+   "note": "目标是让他愿意跟你说实话。羞辱会让他把下一个骗局藏起来。如果他已经往对方账户转过钱，尽快陪他打银行卡背面的电话并报警。"
   },
   {
    "id": "suspicious-or-scam-message-003",
    "situation": "My neighbour Gary (retired, 70s) just told me he clicked a 'Royal Mail' text link yesterday and paid a £1.99 redelivery fee with his card. Now he's worried.",
-   "reply": "Don't be hard on yourself, Gary, these texts are built to look exactly like the real thing. Call the number on the back of your card right now and tell them what happened, so they can block it before anything else goes through. Then forward the text to 7726 and delete it. I'm home all afternoon if you want me to sit with you while you call.",
+   "reply": "Don't be hard on yourself, Gary, these texts are built to look exactly like the real thing. Call the number on the back of your card right now and tell them what happened, so they can block it before anything else goes through. Then report the text as spam to your phone provider and delete it. I'm home all afternoon if you want me to sit with you while you call.",
    "lang": "en",
    "note": "Act first, talk later. Calling the bank fast is what limits the damage."
   },
   {
    "id": "suspicious-or-scam-message-004",
-   "situation": "I do the accounts at a small architecture firm. Got an email that looks like it's from our print supplier Linden Press saying they've changed banks and we should pay their $6,420 invoice to a new account by Thursday. The address looks right but it feels off.",
+   "situation": "I do the accounts at a small architecture firm. Got an email that looks like it's from our print supplier Linden Press saying they've changed banks and we should pay their $6,420 invoice to a new account by Thursday. The address looks right but it feels off. Our contact there is Marcus, and my direct line is 555 0148.",
    "reply": "Hi Marcus, we received an email today from what looks like your accounts address, asking us to pay the $6,420 invoice into a new bank account by Thursday. We're holding the payment until we've confirmed it with you by phone, so could you call me on 555 0148 today or tomorrow? If that email didn't come from you, your mailbox may be compromised and it's worth telling your IT people.",
    "lang": "en",
-   "note": "Send this to the contact details already on file, never to the reply address or number in the suspicious email."
+   "note": "Send this to the contact details already on file, never to the reply address or number in the suspicious email. If Marcus confirms it's fake, report the email to your own IT or email provider as phishing."
   },
   {
    "id": "suspicious-or-scam-message-005",
    "situation": "我姑姑昨天接到一个电话，声音特别像我表弟，说在外地出了车祸要她马上转3万，还不让告诉别人。幸好她打了表弟本人电话。想在家族群里提醒长辈们，但不想让姑姑难堪。",
    "reply": "各位长辈，提醒大家一件事：最近有骗子用AI模仿孩子的声音打电话，说出了车祸或者被派出所扣了，要马上转钱，还叮嘱别告诉家里人。咱们家这两天就接到过一次，好在及时识破了。以后不管声音多像，只要是要钱，先挂掉，再用自己手机里存的号码打回去确认，或者在群里问一声。这种骗局很专业，谁都可能碰上，拿不准就随时打给我。",
    "lang": "zh",
-   "note": "群里提醒只讲骗局的套路和核实办法，不点名是谁接到的；让长辈觉得遇到了可以说，而不是怕丢面子。"
+   "note": "群里提醒只讲骗局的套路和核实办法，不点名是谁接到的；让长辈觉得遇到了可以说，而不是怕丢面子。如果谁已经转了钱，马上打银行卡背面的电话并报警。"
   },
   {
    "id": "suspicious-or-scam-message-006",
-   "situation": "My mom (68) has been chatting for 3 months with a man on Facebook who says he's an engineer on an oil rig. Now he wants $2,500 from her for a 'customs fee' to ship his things. She gets defensive when I bring it up.",
+   "situation": "My mom (68) has been chatting for 3 months with a man on Facebook called Richard who says he's an engineer on an oil rig. Now he wants $2,500 from her for a 'customs fee' to ship his things. She gets defensive when I bring it up.",
    "reply": "Mom, I'm glad you've had someone to talk to, and I'm not trying to take that away. Before any money goes anywhere, can we do one thing together: ask Richard for a live video call, not a photo or a voice note. If he is who he says, that's easy for him. I can come over Saturday and we'll set it up together.",
    "lang": "en",
-   "note": "Don't say 'scam' to someone emotionally invested; agree on one test the real person would pass and do it with her."
+   "note": "Don't say 'scam' to someone emotionally invested; agree on one test the real person would pass and do it with her. If she has already sent money, help her call her bank's number and report it to the police."
   },
   {
    "id": "suspicious-or-scam-message-007",
    "situation": "Someone texted pretending to be WhatsApp support and I gave them my 6-digit code. Now I'm locked out and my account is messaging my contacts asking for money. I've reported it to WhatsApp. What do I post on Instagram and text to my family?",
-   "reply": "My WhatsApp was taken over this morning, so any message from it asking for money, codes or favours is not me. Please don't send anything or reply to it. If you're not sure whether a message is really from me, call me on my usual number. I'm working on getting the account back and I'll post here when it's sorted.",
+   "reply": "My WhatsApp has been taken over, so any message from it asking for money, codes or favours is not me. Please don't send anything or reply to it. If you're not sure whether a message is really from me, call me on my usual number. I'm working on getting the account back and I'll post here when it's sorted.",
    "lang": "en",
    "note": "Warn people on channels the scammer can't reach, say exactly what to ignore and give one way to verify. Skip the story of how it happened; nobody needs it to stay safe."
   },
   {
    "id": "suspicious-or-scam-message-008",
-   "situation": "Me ha llegado un WhatsApp de un número que no conozco diciendo que son de Recursos Humanos de Hogar Sur, la cadena de tiendas, y que me ofrecen trabajar desde casa dando 'me gusta' a vídeos por 350 euros al día. Me piden que conteste SÍ. Me huele raro, pero estoy buscando trabajo de verdad.",
+   "situation": "Soy Lucía Romero. Me ha llegado un WhatsApp del +34 612 48 03 17, un número que no conozco, diciendo que son de Recursos Humanos de Hogar Sur, la cadena de tiendas, y que me ofrecen trabajar desde casa dando 'me gusta' a vídeos por 350 euros al día. Me piden que conteste SÍ. Me huele raro, pero estoy buscando trabajo de verdad.",
    "reply": "Hola: he recibido un WhatsApp desde el número +34 612 48 03 17 que dice ser del equipo de Recursos Humanos de Hogar Sur y me ofrece un trabajo desde casa por 350 euros al día. ¿Podéis confirmarme si es un mensaje vuestro? No he contestado ni he pulsado ningún enlace. Gracias, Lucía Romero",
    "lang": "es",
    "note": "No se contesta al número: este correo va a la dirección de empleo que aparece en la web oficial, escrita a mano. Si confirman que es falso, bloquear y denunciar el número en WhatsApp."
   },
   {
    "id": "suspicious-or-scam-message-009",
-   "situation": "Just got a text from a number I don't know: 'Hi it's Dana, stuck in a board meeting, need you to buy five $100 Apple gift cards for a client and text me photos of the codes, I'll pay you back today.' Dana is my manager and I only started two weeks ago. I don't want to look stupid by checking.",
-   "reply": "Hi Dana, quick check: I just got a text from (415) 555 0192 signed as you, asking me to buy five $100 Apple gift cards and send the codes. I haven't bought anything or replied. I'm guessing that wasn't you? I'll forward it to IT unless you tell me otherwise.",
+   "situation": "Just got a text from a number I don't know, 415 555 0192: 'Hi it's Dana, stuck in a board meeting, need you to buy five $100 Apple gift cards for a client and text me photos of the codes, I'll pay you back today.' Dana is my manager and I only started two weeks ago. I don't want to look stupid by checking.",
+   "reply": "Hi Dana, quick check: I just got a text from 415 555 0192 signed as you, asking me to buy five $100 Apple gift cards and send the codes. I haven't bought anything or replied. I'm guessing that wasn't you? I'll forward it to IT unless you tell me otherwise.",
    "lang": "en",
    "note": "Send this on Slack or Teams, never to the number. Gift cards, urgency and a new number are the tell; new starters are targeted because they don't want to ask, and asking never looks stupid."
   },
@@ -102,7 +102,7 @@
   },
   {
    "id": "suspicious-or-scam-message-015",
-   "situation": "我女儿林小雨在三年级二班，班主任是王老师。今晚班级家长群里有个和王老师同名同头像的账号发了收款二维码，说每位家长交380元资料费，晚上8点前截止。我手机里存着王老师开学时给的电话。",
+   "situation": "我是林小雨的妈妈，她在三年级二班，班主任是王老师。今晚班级家长群里有个和王老师同名同头像的账号发了收款二维码，说每位家长交380元资料费，晚上8点前截止。我手机里存着王老师开学时给的电话。",
    "reply": "王老师您好，我是三年级二班林小雨的妈妈。今晚家长群里有个和您同名同头像的账号发了收款二维码，让每位家长交380元资料费，说晚上8点前截止。我还没有扫码，也没有付钱。想跟您确认一下，这是您发的吗？如果不是，可能需要尽快提醒其他家长先别转账。",
    "lang": "zh",
    "note": "用开学时存的电话发短信或直接打给老师，不要私聊群里那个账号，也不要扫码；确认是假冒后在微信里举报该账号，并请群主把它移出群。"
@@ -116,10 +116,10 @@
   },
   {
    "id": "suspicious-or-scam-message-017",
-   "situation": "Ich verkaufe auf einer Verkaufsplattform mein Rennrad für 600 Euro. Ein Käufer, der sich Thomas nennt, schreibt, er habe aus Versehen 900 Euro überwiesen, schickt einen Screenshot der angeblichen Überweisung und bittet mich, ihm die 300 Euro Differenz sofort zurückzuschicken. In meiner Banking-App ist nichts eingegangen.",
-   "reply": "Hallo Thomas, auf meinem Konto ist keine Zahlung eingegangen, und ein Screenshot reicht mir nicht. Ich überweise kein Geld zurück. Wenn du das Rad möchtest, geht das nur bei Abholung mit Barzahlung von 600 Euro vor Ort.",
+   "situation": "Ich heiße Sabine Koch. Gerade hat mich jemand angerufen, angeblich von der Betrugsabteilung meiner Bank, die angezeigte Nummer sah aus wie die echte: Mein Konto sei gehackt, ich solle meine 8.400 Euro Ersparnisse heute auf ein „sicheres Konto“ überweisen. Ich habe aufgelegt, nichts überwiesen und keine Daten genannt, und rufe jetzt selbst die Nummer auf meiner Karte an.",
+   "reply": "Guten Tag, mein Name ist Sabine Koch, ich bin Kundin bei Ihnen und möchte einen Betrugsversuch melden. Gerade hat mich jemand angerufen, der sich als Ihre Betrugsabteilung ausgegeben hat, und die angezeigte Nummer sah aus wie Ihre. Er sagte, mein Konto sei gehackt und ich solle meine Ersparnisse von 8.400 Euro heute auf ein „sicheres Konto“ überweisen. Ich habe aufgelegt, nichts überwiesen und keine Daten genannt. Können Sie prüfen, ob mit meinem Konto alles in Ordnung ist, und den Vorfall vermerken?",
    "lang": "de",
-   "note": "Überzahlung plus Bitte um Rückzahlung ist ein typisches Muster: Zahlungen nur selbst in der eigenen Banking-App prüfen, dann nicht weiter diskutieren und den Nutzer auf der Plattform melden."
+   "note": "Keine echte Bank verlangt eine Überweisung auf ein „sicheres Konto“, und angezeigte Nummern lassen sich fälschen. Nie zurückrufen, nur die Nummer auf der Karte wählen, und den Anruf zusätzlich bei der Polizei anzeigen."
   },
   {
    "id": "suspicious-or-scam-message-018",

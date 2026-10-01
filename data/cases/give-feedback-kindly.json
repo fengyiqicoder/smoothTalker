@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -190,6 +190,13 @@
    "reply": "You asked me to be straight, so I will be: I don't think it's ready for agents yet, and I think it's close. The floating salt markets are some of the best world-building I've read. What held me back is Wren. She doesn't make a choice of her own until chapter 6, so for the first five chapters I was watching things happen to her rather than following her. If she made one real decision in chapter 1, I think the whole opening would come alive. I'd rather you hear it from me now than get a form rejection that tells you nothing.",
    "lang": "en",
    "note": "When they ask for brutal and it isn't ready, say so plainly once, then give the one fix that matters most."
+  },
+  {
+   "id": "give-feedback-kindly-028",
+   "situation": "Meu irmão Rafael está aprendendo a pintar retratos a óleo e me pediu uma opinião sincera sobre o retrato da nossa avó, que ele quer dar no aniversário de 90 anos dela, dia 18 de outubro. Os olhos ficaram idênticos, com aquele jeito dela quando ri, mas a pele ficou acinzentada e ela parece doente.",
+   "reply": "Rafa, os olhos ficaram idênticos, é o olhar da vó quando ela ri de alguma coisa. O que me pegou foi a pele: para mim ficou meio acinzentada, e ela parece cansada, quase doente. Será que um tom mais quente no rosto resolveria? Falo isso porque acho que esse quadro vai ser o presente que ela mais vai guardar.",
+   "lang": "pt",
+   "note": "Uma única observação, descrita como impressão sua, sobre algo que ele ainda pode mudar antes do dia 18."
   }
  ]
 }

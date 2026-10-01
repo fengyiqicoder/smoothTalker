@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -190,6 +190,13 @@
    "reply": "件名：10月9日（金）までにご判断のお願い：派遣先での契約外の業務について\n小林課長\nお世話になっております。派遣社員の山本恵です。派遣先にて、9月から毎日2時間ほど電話対応を任されていますが、契約書の業務内容には含まれておりません。そのため本来のデータ入力が終わらず、9月の残業は15時間になりました。9月10日と24日に田中さんにご相談し、契約書の業務内容もお見せしましたが、まだ方針が決まっていない状況です。田中さんには、小林課長にご連絡することをお伝えしております。10月15日の更新面談の前に、派遣先とご確認のうえ、10月9日（金）までに方針をお知らせいただけますでしょうか。私としては、契約書どおりの業務に戻していただくか、電話対応を続ける場合は契約内容を見直していただくのがよいと考えております。\nよろしくお願いいたします。\n山本恵",
    "lang": "ja",
    "note": "派遣の三者関係でも形は同じ。契約外かどうかは一般論で断定せず、契約書の記載に結びつけて伝える。"
+  },
+  {
+   "id": "escalate-an-issue-028",
+   "situation": "I'm Ruth Adler. Ashgrove Renovations is redoing our bathroom, and since the tiler left on Sept 18 the new shower valve has been dripping into the kitchen ceiling below, which now has a brown stain the size of a dinner plate. I told the site foreman, Kev, on Sept 21 and Sept 28 with photos, and both times he said a plumber would come 'this week', but nobody has. The contract says the job finishes Oct 9, and I've told Kev I'm emailing the owner, Martin Ash, today.",
+   "reply": "Subject: Plumber needed by Tue 6 Oct: leak from new shower valve\n\nHi Martin,\nI've let Kev know I'm writing to you. Since the tiler left on 18 September, the new shower valve in our bathroom has been dripping into the kitchen ceiling below, and there's now a stain the size of a dinner plate. I reported it to Kev with photos on 21 and 28 September, and both times a plumber was due 'this week', but nobody has come. The damage grows every day it runs, and the job is due to finish on 9 October. Can you get a plumber to us by Tuesday 6 October and confirm the visit time by reply? Photos attached.\nThanks,\nRuth Adler",
+   "lang": "en",
+   "note": "A homeowner escalating past a site foreman: heads-up first, dated facts, the damage as impact, one visit by one date."
   }
  ]
 }

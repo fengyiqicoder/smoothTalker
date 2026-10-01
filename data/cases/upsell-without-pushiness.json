@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 26,
+ "count": 27,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -183,6 +183,13 @@
    "reply": "All pinned, Daniel: the trousers will be hemmed for $25 and ready Friday. One thing I noticed when you tried the jacket on: the sleeves cover your shirt cuffs completely, and taking them up a little is what usually makes a suit look made for you. That's $35 more, and the whole suit would be ready Saturday instead of Friday, still in good time for Monday. The trousers alone are absolutely fine if you'd rather keep it simple; just say before you go.",
    "lang": "en",
    "note": "The suggestion comes from what you both saw in the mirror, and the price and the extra day are named so a no is easy."
+  },
+  {
+   "id": "upsell-without-pushiness-027",
+   "situation": "I teach piano. My adult student Greg has 30-minute lessons at $35 and is preparing a Chopin nocturne to play at his daughter's wedding on 12 December. I suggested 45-minute lessons at $50 so we'd have time to play the whole piece through each week, and he asked, half joking, 'Be honest, is that just you making more money?' If he keeps practising 20 minutes a day, 30 minutes would still get him there.",
+   "reply": "Fair question. Yes, it's $15 more a week, so I'd only suggest it if it helps you: with 45 minutes we can play the whole nocturne through every lesson, not just the tricky bars. Honestly, if you keep up your 20 minutes a day, 30-minute lessons will still get you ready for 12 December. Your call, and I'm happy either way.",
+   "lang": "en",
+   "note": "When they call out the sale, agree on the money first, then give the honest case for the cheaper option; never raise it again unless he does."
   }
  ]
 }

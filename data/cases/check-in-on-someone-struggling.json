@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -190,6 +190,13 @@
    "reply": "Hey Lena, I've missed you and I've been thinking about you. No need to reply to this. Whatever's going on in your life, I'm not going anywhere, and you never have to explain anything to me. I'm walking by the canal on Sunday at 11 if you fancy joining, and if not, I'll text again next week.",
    "lang": "en",
    "note": "Keep it neutral in case it's read by someone else and keep showing up; a domestic abuse helpline can advise you on how to support her, and if you ever think she's in danger, call emergency services."
+  },
+  {
+   "id": "check-in-on-someone-struggling-028",
+   "situation": "My friends Ola and Ben's baby, Zuri, was born seven weeks early on Sunday and is in the neonatal unit; Ola posted a photo in our group chat and said they're basically living at the hospital. Their dog, Miso, is at home. I live five minutes from them and I have their spare key.",
+   "reply": "Ola, Ben, I saw the photo of Zuri and I've been thinking about all three of you. No need to reply to this. I've got your spare key, so I can walk and feed Miso every morning and evening this week, starting tomorrow. Just send 'yes' or 'not now', either is completely fine.",
+   "lang": "en",
+   "note": "With a baby in hospital, take a job at home off their list instead of asking for updates; they'll share news when they want to."
   }
  ]
 }

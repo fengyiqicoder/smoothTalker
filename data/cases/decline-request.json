@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "decline-request-001",
@@ -190,6 +190,13 @@
    "reply": "Hi Tobias, thanks for reaching out, and good luck with the switch into engineering. I'm going to say no to the weekly mock interviews; I don't take on ongoing mentoring with people I haven't worked with. If it helps, send me your CV by Friday 9 October and I'll give you written comments once. Best of luck with the search.",
    "lang": "en",
    "note": "A stranger asking for regular time: a rule instead of a calendar excuse, and a one-off smaller yes with a clear edge."
+  },
+  {
+   "id": "decline-request-028",
+   "situation": "My neighbour Graham is having an extension built and asked if his builders can come through my back garden every weekday for six weeks from 2 November, because it's easier than carrying everything through his house. I don't want people crossing my garden every day, but I'm fine with them bringing the big steel beam through once, as long as he tells me the day before.",
+   "reply": "Hi Graham, thanks for asking, and good luck with the extension. I'm going to say no to daily access through the garden for the six weeks. If it helps, I'm happy for them to bring the steel beam through once, as long as you let me know the day before. Just tell me which day you're thinking.",
+   "lang": "en",
+   "note": "Offer only the smaller yes you can live with, with its condition; before anyone crosses, check what your home insurance says about damage."
   }
  ]
 }

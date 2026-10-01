@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -190,6 +190,13 @@
    "reply": "小雨，你那几条语音我都听完了，换施工队这个决定我觉得挺对的。我明早7点要赶高铁，得先睡了。到了给你发消息，晚安！",
    "lang": "zh",
    "note": "一句总结表示都听进去了，再说真实的理由；最后不留问句，免得又来一轮语音。"
+  },
+  {
+   "id": "end-conversation-gracefully-028",
+   "situation": "I've been in a Discord voice channel with my raid group for four hours and it's past 1am. I have a statistics exam at 9 tomorrow morning, and we already agreed to raid again Sunday at 8pm. They're planning the next run and I don't want to just vanish from the call.",
+   "reply": "Great run tonight, everyone, that last boss was a proper team kill. I've got a stats exam at 9, so I'm logging off now. See you Sunday at 8. Night!",
+   "lang": "en",
+   "note": "Say it on voice, type it in the channel, then actually leave the call; one goodbye is enough."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -189,6 +189,13 @@
    "reply": "Subject: Talk idea: incident response at a regulated company\n\nHi Katrin,\nYou posted that you'd like more talks on incident response at regulated companies before the call for talks closes on 16 October. I'm a site reliability engineer at a mid-size bank, and last year my team cut our average incident recovery time from 52 to 19 minutes; I've given the talk on how we did it twice internally. Would that be worth submitting for a 30-minute slot? If it's not a fit, a quick no is genuinely helpful.\nRavi Menon",
    "lang": "en",
    "note": "Pitching a talk: the organiser's own stated gap as the why-you, one number, and a yes/no before you spend an evening on the submission."
+  },
+  {
+   "id": "cold-outreach-028",
+   "situation": "I'm Joel Haddad, a freelance accessibility auditor. Bright Sprout, an e-learning company, launched a new course player last week, and when I tested it with a screen reader the play button had no label. Their head of product is Mira Castellano, and I want to send her a LinkedIn connection request, which allows only 300 characters. Last year I audited a course platform, Learnloop, and we fixed 46 issues before its public-sector launch.",
+   "reply": "Hi Mira, I tested Bright Sprout's new course player with a screen reader and the play button has no label. I'm an accessibility auditor; on Learnloop's platform we fixed 46 issues before its public-sector launch. Want my short list of what I found? A no is useful too. Joel",
+   "lang": "en",
+   "note": "With a 300-character limit, the why-them is the bug itself; then one number and a yes/no."
   }
  ]
 }

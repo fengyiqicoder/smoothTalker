@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -190,6 +190,13 @@
    "reply": "阿峰，周六帮你搬家我去不了了，公司刚通知周六必须加班赶上线，推不掉。你本来就指着我出力，这么临时真的对不住。两个办法：能改到周日10月4日的话，我全天都在；周六不能动的话，我晚上7点以后过去帮你拆装家具。另外，周六白天叫两个搬运小工的钱我来出，你看怎么安排。",
    "lang": "zh",
    "note": "答应出力的事临时去不了：第一句说清，给两个具体替代，再主动承担因为你缺席多出来的成本。"
+  },
+  {
+   "id": "cancel-or-reschedule-028",
+   "situation": "Minha amiga Juliana me convidou para jantar na casa dela hoje às 20h e já comprou tudo para fazer moqueca. Meu chefe acabou de marcar uma reunião com um cliente às 19h que eu não posso perder. Posso no sábado, dia 3, ou no domingo, dia 4, e quero pagar os ingredientes.",
+   "reply": "Ju, vou ter que cancelar o jantar de hoje: meu chefe acabou de marcar uma reunião com um cliente às 19h que eu não posso perder. Desculpa avisar no mesmo dia, ainda mais com você já tendo comprado tudo para a moqueca. Me passa quanto gastou nos ingredientes que eu te transfiro hoje mesmo. Se topar, a gente remarca para sábado, dia 3, ou domingo, dia 4, e quem leva a sobremesa sou eu.",
+   "lang": "pt",
+   "note": "Cancelando no mesmo dia, ofereça cobrir o que a pessoa já gastou antes que ela precise pedir, e já mande duas datas."
   }
  ]
 }

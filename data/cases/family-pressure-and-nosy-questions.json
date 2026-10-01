@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -190,6 +190,13 @@
    "reply": "妈，我知道您是想热热闹闹的，让亲戚们都来沾沾喜气。桌数我们俩已经定了，就五桌，这个不改了。对了，您那件旗袍挑好了吗？发张照片给我看看。",
    "lang": "zh",
    "note": "不解释为什么只办五桌，理由一出口就会变成讨价还价；她再提，就用几乎一样的话再说一遍。"
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-028",
+   "situation": "It's an election year, and my father-in-law, Walt, asks me at every Sunday dinner who I'm voting for, then lectures me whatever I say. I keep my vote private. He just finished restoring a 1968 pickup and loves talking about it.",
+   "reply": "Ha, Walt, my ballot is the one secret I keep. I'll be voting, and that's all I'm sharing. Now tell me about the pickup, has it been out on the road yet?",
+   "lang": "en",
+   "note": "Use the same line every time he asks; any reason you give becomes the start of the lecture."
   }
  ]
 }

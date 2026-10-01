@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -189,6 +189,13 @@
    "reply": "谢谢妈！我在家练了三次，听您这么说真高兴。馅是照着您上回教的方法调的，您教得好。",
    "lang": "zh",
    "note": "长辈夸你时先接住再归功，比一句“哪里哪里”更让对方觉得自己的夸奖被当真。"
+  },
+  {
+   "id": "give-and-receive-compliments-028",
+   "situation": "I'm Sarah Lindqvist. In my final year of high school, in 2006, my chemistry teacher, Mr. Okafor, stayed after school every Tuesday to walk me through equilibrium problems, and once told me I had 'a chemist's patience'. I've been a hospital pharmacist for twelve years now. I just found his email on the school website and want to thank him, 20 years late.",
+   "reply": "Dear Mr. Okafor, you may not remember me: Sarah Lindqvist, class of 2006. In my final year you stayed after school every Tuesday to walk me through equilibrium problems until they clicked, and you told me I had a chemist's patience. I've been a hospital pharmacist for twelve years now, and I don't think I'd have chosen it without those Tuesdays. Thank you.",
+   "lang": "en",
+   "note": "Years later, the specific thing plus what it led to is the whole message; no ask, and no reply needed."
   }
  ]
 }

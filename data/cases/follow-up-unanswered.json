@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -190,6 +190,13 @@
    "reply": "Hey Leah, no need to reply to this. I meant every word of my message about missing your opening, and I'm here whenever you feel like talking. I'd still love to see the work.",
    "lang": "en",
    "note": "After an apology, the follow-up asks for nothing and goes once; then let her come to you."
+  },
+  {
+   "id": "follow-up-unanswered-028",
+   "situation": "I'm Priya. I sent my co-author, Dr. Tom Lund, our final manuscript on Sept 18 and nudged him by email on Sept 25, with no reply either time. The special issue deadline is Oct 15, and before I submit I need his sign-off on the author order and on the methods section he wrote. He's teaching a new course this term.",
+   "reply": "Hi Tom, I know the new course is eating your term. Checking in on the final manuscript for the special issue: I need your sign-off on the author order and your methods section by Friday 9 October so I can submit before the 15 October deadline. If you're happy with both as they stand, a one-line 'approved' is all I need, and if you'd like changes, just tell me which parts.\nThanks,\nPriya",
+   "lang": "en",
+   "note": "Bump 2 with a reason and a tiny reply; silence is not sign-off, so if nothing comes by the 9th, phone him or ask the editor about an extension."
   }
  ]
 }

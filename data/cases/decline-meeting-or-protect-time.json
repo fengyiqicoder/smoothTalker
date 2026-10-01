@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -190,6 +190,13 @@
    "reply": "Hi Megan, thanks for getting in touch about last week's flooding. I'm teaching all afternoon, so I can't do a call today, but I'm happy to answer in writing: send me up to five questions and I'll reply by 5pm today, and you're welcome to quote me. Does that work for your deadline?",
    "lang": "en",
    "note": "With press, written answers are often quicker for them and clearer for you; asking about their deadline makes sure the alternative actually fits."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-028",
+   "situation": "Our team lead Marcus booked the Q4 kickoff for Friday 30 October, 4 to 6pm. I keep Shabbat, and my Friday finish at 3:30 is already blocked in my calendar. My part is the customer churn numbers and two recommendations, and I'm free all of Thursday 29 October and before 3 on the Friday.",
+   "reply": "Hi Marcus, I can't make Friday 30 October from 4, as I'm offline from 3:30 on Fridays. I'll put the churn numbers and my two recommendations in the kickoff doc by noon on Thursday 29 October, so the team has them before the session. If you'd like me to walk through them live, I'm free any time Thursday or before 3 on Friday. Does that work?",
+   "lang": "en",
+   "note": "No need to explain the observance: a stated, fixed limit plus the deliverable and a time that works is enough."
   }
  ]
 }

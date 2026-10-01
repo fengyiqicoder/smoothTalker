@@ -4,85 +4,85 @@
  "cases": [
   {
    "id": "thank-you-notes-001",
-   "situation": "My neighbour Mrs. Alvarez watered my plants and fed my cat Pepper for 2 weeks while I was in Portugal. She left a little note saying Pepper slept on her lap. I want to leave a card with some pastéis de nata I brought back.",
+   "situation": "I'm Clara. My neighbour Mrs. Alvarez watered my plants and fed my cat Pepper for 2 weeks while I was in Portugal. She left a little note saying Pepper slept on her lap. I want to leave a card with some pastéis de nata I brought back from a little bakery in Lisbon.",
    "reply": "Dear Mrs. Alvarez, thank you so much for looking after Pepper and the plants for two whole weeks. Your note about Pepper napping on your lap made me laugh, she clearly had a better holiday than I did. These pastéis are from a little bakery in Lisbon I think you'd love. Please let me return the favour whenever you're away. Warmly, Clara",
    "lang": "en",
    "note": "One concrete detail she couldn't have guessed you'd mention, and a forward line."
   },
   {
    "id": "thank-you-notes-002",
-   "situation": "结婚的时候我大学导师随了2000块红包，还专门从外地赶过来参加婚礼。想给他发条微信好好谢谢。",
+   "situation": "结婚的时候我大学导师陈老师随了2000块红包，还专门从成都赶来杭州参加婚礼，看到他坐在台下我特别感动。我们打算用这笔钱买一台一直想要的咖啡机，想给他发条微信好好谢谢。",
    "reply": "陈老师，谢谢您专程从成都赶来参加我们的婚礼，看到您坐在台下的时候我特别感动。您的红包我们打算用来买一台一直想要的咖啡机，以后每天早上都会想起您。等您下次来杭州，我们请您来家里吃饭。",
    "lang": "zh",
    "note": "礼金不提数目，说用来做什么；重点谢他这个人和他跑的这一趟。"
   },
   {
    "id": "thank-you-notes-003",
-   "situation": "My old manager Denise wrote me a reference 4 months ago and I got the job. I completely forgot to thank her and I feel awful.",
+   "situation": "My old manager Denise wrote me a reference in June for a role leading the analytics team at Harlow, and I got it. I've just finished my first quarter and I run my team a lot like she ran ours; she's in Leeds, where I visit now and then. I completely forgot to thank her and I feel awful.",
    "reply": "Hi Denise, this is embarrassingly late, but I didn't want it to go unsaid: thank you for the reference in June. I got the role at Harlow and I've just finished my first quarter leading the analytics team. A lot of how I run my team comes from watching you run ours. Coffee next time I'm back in Leeds?",
    "lang": "en",
    "note": "One clause of ownership for the lateness, then the thanks. No paragraph of apology."
   },
   {
    "id": "thank-you-notes-004",
-   "situation": "先週木曜日、取引先の工場見学で製造部長の山本さんが3時間も案内してくださった。特に検品ラインの説明がわかりやすく、うちの品質基準の見直しに役立ちそう。お礼のメールを送りたい。",
-   "reply": "山本部長\n\n先週木曜日の工場見学では、3時間にわたりご案内いただき、誠にありがとうございました。特に検品ラインで目視と画像検査の二段階で確認されている様子は、弊社の品質基準を見直すうえで大変参考になりました。お忙しい中、現場の皆様にもお時間を割いていただき、心より感謝申し上げます。10月中旬に社内での検討結果を改めてご報告いたします。今後ともどうぞよろしくお願いいたします。\n\n株式会社ミナト 佐藤健",
+   "situation": "私は佐藤美穂で、いま育休中。部長の山本さんから出産祝いにスタイ3枚セットと手書きのカードが届き、カードの「焦らずゆっくり」という一言に励まされた。来年4月に復帰予定で、メールでお礼を送りたい。",
+   "reply": "山本部長\n\nこのたびは出産祝いにスタイの3枚セットをお送りいただき、誠にありがとうございました。早速使わせていただきます。添えてくださったカードの「焦らずゆっくり」というお言葉に、とても励まされました。来年4月の復帰の際には、改めてご挨拶に伺います。部長もどうぞお体にお気をつけください。\n\n佐藤美穂",
    "lang": "ja",
-   "note": "Business thanks in Japanese: formal register, but still one concrete detail (the two-stage inspection) and a forward line with a timeframe."
+   "note": "目上の人からの出産祝い：丁寧な敬語で、品物とカードの一言を具体的に挙げ、復帰という先の話で締める。"
   },
   {
    "id": "thank-you-notes-005",
-   "situation": "父亲上个月去世，他以前厂里的老同事刘叔前后忙了三天，帮着联系殡仪馆、招呼来吊唁的老工友。想给他发条微信正式谢谢。",
-   "reply": "刘叔，爸走的那几天家里乱成一团，是您前后跑了三天，联系殡仪馆，又站在门口一位位招呼厂里来送他的老工友。好多叔叔阿姨我都叫不上名字，有您在，我们才没有失礼。爸生前常说您是厂里最靠得住的老哥们，这回我们全家是真切体会到了。等过了这阵，我和妈想请您来家里吃顿便饭。",
+   "situation": "父亲上个月去世，他以前厂里的老同事刘叔前后忙了三天，帮着联系殡仪馆、招呼来吊唁的老工友。爸生前常说刘叔是厂里最靠得住的老哥们。我和我妈想等过了这阵请他来家里吃饭，先给他发条微信正式谢谢。",
+   "reply": "刘叔，爸走的那几天家里乱成一团，是您前后跑了三天，联系殡仪馆，又站在门口一位位招呼厂里来送他的老工友。爸生前常说您是厂里最靠得住的老哥们，这回我们全家是真切体会到了。等过了这阵，我和妈想请您来家里吃顿便饭。",
    "lang": "zh",
    "note": "丧事后的感谢要具体到对方做的事，再带一句逝者对他的评价，最后留一个往后的约定。"
   },
   {
    "id": "thank-you-notes-006",
-   "situation": "A stranger, Tomas, found my wallet on the 14 bus Saturday and drove it over to my flat because my licence had the address. Everything was still in it. He left his number on a note.",
-   "reply": "Hi Tomas, it's Rachel, whose wallet you rescued from the 14 bus on Saturday. Thank you for driving it all the way over instead of just handing it in. Getting my licence and cards back saved me a week of phone calls, and your note honestly made my day. If you're ever near Fairview, I'd love to buy you a coffee. Either way, thank you.",
+   "situation": "I'm Rachel and I live in Fairview. A stranger, Tomas, found my wallet on the 14 bus Saturday and drove it over to my flat because my licence had the address. Everything was still in it. He left his number on a note.",
+   "reply": "Hi Tomas, it's Rachel, whose wallet you rescued from the 14 bus on Saturday. Thank you for driving it all the way over instead of just handing it in. Getting my licence and cards back made my day. If you're ever near Fairview, I'd love to buy you a coffee. Either way, thank you.",
    "lang": "en",
    "note": "A stranger: say who you are first, name the extra effort he chose, and keep any offer light and optional."
   },
   {
    "id": "thank-you-notes-007",
-   "situation": "婆婆给我织了一件大红色的毛衣，织了两个月，颜色和款式我都不太会穿。想发微信谢谢她，但不想假装特别喜欢，不然以后得一直穿给她看。",
+   "situation": "婆婆给我织了一件大红色的毛衣，老公建国说她每天晚上看电视的时候织，织了两个月，可颜色和款式我都不太会穿。想发微信谢谢她，但不想假装特别喜欢，不然以后得一直穿给她看。国庆我们打算回去看她。",
    "reply": "妈，毛衣收到了，谢谢您。听建国说您每天晚上看电视的时候一针一针织，织了整整两个月，想到这个我心里特别暖。天凉了您也多注意身体，国庆我们回去看您。",
    "lang": "zh",
    "note": "不喜欢的礼物：谢她的心思和付出，不编造对毛衣本身的喜爱，免得以后一直演下去；结尾落在见面上。"
   },
   {
    "id": "thank-you-notes-008",
-   "situation": "My dad spent 9 days on Ward 7 at St. James's after a stroke and is home now. The nurses were incredible, especially Grace on nights, who sat with him when he was frightened. I want to leave a card with a box of chocolates for the whole team.",
-   "reply": "To everyone on Ward 7,\nThank you for looking after my dad, Peter Walsh, for the nine days he was with you. You kept him safe, and you also kept him laughing, which he'll tell anyone who listens. A special thank you to Grace, who sat with him at 3am when he was frightened; he still talks about it. He's home now and walking to the end of the road and back every morning. We'll never forget what you did for our family.\nWith love and thanks,\nClaire Walsh and family",
+   "situation": "I'm Claire Walsh. My dad, Peter, spent 9 days on Ward 7 at St. James's after a stroke and is home now, walking to the end of the road and back every morning. The nurses were incredible, especially Grace on nights, who sat with him at 3am when he was frightened; he still talks about it. I want to leave a card with a box of chocolates for the whole team.",
+   "reply": "To everyone on Ward 7,\nThank you for looking after my dad, Peter Walsh, for the nine days he was with you. A special thank you to Grace, who sat with him at 3am when he was frightened; he still talks about it. He's home now and walking to the end of the road and back every morning. We'll never forget what you did for our family.\nWith love and thanks,\nClaire Walsh and family",
    "lang": "en",
    "note": "A card for a team: thank everyone, name the one person and the moment, and give them the update they rarely get, how the patient is doing now."
   },
   {
    "id": "thank-you-notes-009",
-   "situation": "My friend's brother Omar referred me for a product manager role at Fielding and spent half an hour on the phone prepping me the night before my final round. I didn't get it; they went with an internal candidate. I still want to thank him.",
+   "situation": "My friend's brother Omar referred me for a product manager role at Fielding and spent half an hour on the phone explaining how their product team works the night before my final round. I didn't get it; they went with an internal candidate. I still want to thank him.",
    "reply": "Hi Omar, I wanted to let you know I didn't get the Fielding role; they went with someone internal. I still wanted to thank you properly for the referral, and for the half hour on the phone the night before my final round explaining how the product team works. It's the reason I got as far as I did. If I can ever return the favour, I will, and I'll let you know where I land.",
    "lang": "en",
    "note": "Thank the effort, not the outcome. The bad news goes in one plain line so he isn't left wondering, then the specific thing he did."
   },
   {
    "id": "thank-you-notes-010",
-   "situation": "J'ai passé le week-end chez les parents de mon copain Hugo, Martine et Gérard, à Quimper. C'était la première fois que je les rencontrais. Martine avait fait un kouign-amann maison et Gérard m'a emmenée voir le phare d'Eckmühl samedi matin. Je veux leur envoyer une carte.",
-   "reply": "Chère Martine, cher Gérard,\nMerci mille fois pour ce week-end à Quimper. Le kouign-amann maison restera dans les annales, et la balade au phare d'Eckmühl samedi matin, dans le vent et avec vos histoires sur la côte, a été mon moment préféré. Merci surtout de m'avoir accueillie si simplement, je me suis tout de suite sentie à l'aise. Hugo et moi serions ravis de vous recevoir à Nantes cet hiver.\nBien amicalement,\nClara",
+   "situation": "Je m'appelle Clara, j'habite à Nantes avec Hugo. J'ai passé le week-end chez les parents de mon copain Hugo, Martine et Gérard, à Quimper. Martine avait fait un kouign-amann maison et Gérard m'a emmenée voir le phare d'Eckmühl samedi matin. C'était notre première rencontre et je veux leur envoyer une carte.",
+   "reply": "Chère Martine, cher Gérard,\nMerci mille fois pour ce week-end à Quimper. Le kouign-amann maison restera dans les annales, et la balade au phare d'Eckmühl samedi matin a été mon moment préféré. Merci surtout de m'avoir accueillie pour cette première rencontre. Hugo et moi serions ravis de vous recevoir à Nantes cet hiver.\nBien amicalement,\nClara",
    "lang": "fr",
    "note": "Premier séjour chez la belle-famille : une carte manuscrite, un détail précis pour chacun, et une invitation en retour."
   },
   {
    "id": "thank-you-notes-011",
-   "situation": "Had my second-round interview yesterday for a senior product designer role at Northbeam with Elena Park, their head of design. She walked me through how they ran an accessibility audit on checkout, with screen reader users testing in the room, and was very open about their messy legacy design system. Want to send a thank-you email today.",
-   "reply": "Hi Elena,\nThank you for your time yesterday. Hearing how your team ran the accessibility audit on checkout, with screen reader users testing in the room, made the role much more concrete for me, and it's exactly the kind of work I want to be doing. I also appreciated how openly you talked about the legacy design system; it's the part of the job I'd most like to dig into. I'm looking forward to hearing about next steps.\nBest,\nJordan Lee",
+   "situation": "After my divorce went through this summer, my friend Ben came over every Sunday evening for two months with takeaway to watch football with me so I wasn't alone. Those evenings got me through the worst of it, and I never properly thanked him. I started a new job on Monday and I'm doing much better; I want to text him.",
+   "reply": "Ben, I never said this properly, so here it is: thank you for every one of those Sunday evenings after the divorce. The takeaway and the football got me through the worst of it, and you turned up every single week. I started the new job on Monday and I'm doing a lot better, and a lot of that is down to you. This Sunday the takeaway's on me.",
    "lang": "en",
-   "note": "A post-interview thank-you works when it names one real detail from the conversation, not a restated cover letter."
+   "note": "Thanks for support in a hard time: name what they kept doing, say where you are now, and repay it in kind rather than with a gift."
   },
   {
    "id": "thank-you-notes-012",
-   "situation": "My daughter Maisie, 7, was terrified of putting her face in the water. Her swimming teacher, Coach Lena, spent the first three lessons just playing a 'blow bubbles at the fish' game with her on the steps, and last Saturday Maisie swam her first width. Her term ends next week and I want to give Lena a card.",
-   "reply": "Dear Lena,\nThank you for the patience you've shown Maisie this term. Those first three lessons of blowing bubbles at the fish on the steps were what made the difference, and on Saturday she swam her first width. She hasn't stopped talking about it since. Thank you for never rushing her. We'll see you next term.\nWith thanks,\nMaisie's mum",
+   "situation": "I'm Maisie's mum; she's 7 and was terrified of putting her face in the water. Her swimming teacher, Coach Lena, spent the first three lessons just playing a 'blow bubbles at the fish' game with her on the steps, and last Saturday Maisie swam her first width. Her term ends next week, she's signed up again for next term, and I want to give Lena a card.",
+   "reply": "Dear Lena,\nThank you for the patience you've shown Maisie this term. Those first three lessons of blowing bubbles at the fish on the steps were what made the difference, and on Saturday she swam her first width. Thank you for never rushing her. We'll see you next term.\nWith thanks,\nMaisie's mum",
    "lang": "en",
    "note": "For a teacher or coach, name the method that worked, not only the result, so they know what they did right."
   },
@@ -96,28 +96,28 @@
   {
    "id": "thank-you-notes-014",
    "situation": "我叫林晓，2006届三班的。高三那年我差点退学，班主任王老师（教语文）每周五放学后把我留在办公室补课，还把她自己的复习笔记借给我。今年我出版了第一本书，刚从同学那拿到她的微信，想加上后好好谢谢她，也想寄一本书给她。",
-   "reply": "王老师您好，我是2006届三班的林晓，不知道您还记不记得我。高三那年我差点退学，是您每周五放学后把我留在办公室补课，还把自己的复习笔记借给我。今年我出了第一本书，写后记的时候，第一个想到的就是您。谢谢您当年没有放弃我。如果您方便，我想寄一本给您，您告诉我地址就好。",
+   "reply": "王老师您好，我是2006届三班的林晓，不知道您还记不记得我。高三那年我差点退学，是您每周五放学后把我留在办公室补课，还把自己的复习笔记借给我。今年我出了第一本书，能走到今天，离不开您当年没有放弃我。谢谢您。如果您方便，我想寄一本给您，您告诉我地址就好。",
    "lang": "zh",
    "note": "多年后的感谢：先说自己是谁，再说出她做过的那件具体的事，以及它后来带来了什么。"
   },
   {
    "id": "thank-you-notes-015",
    "situation": "I'm leaving Fernhill Labs tomorrow, Friday, after six years. The design team chipped in for an old film camera, because years ago at a team lunch I once mentioned shooting film as a teenager, plus a book of handwritten notes from everyone. I want to post a thank-you in our #design Slack channel; leaving drinks are tomorrow evening.",
-   "reply": "Thank you, everyone, for the film camera and the book of notes. I mentioned shooting film as a teenager exactly once, at a team lunch years ago, so whoever remembered that has a frightening memory and a very kind heart. I've read every note twice already, and the book is coming with me to my next desk. The first roll is going to be all of you at drinks tomorrow evening, so consider yourselves warned.",
+   "reply": "Thank you, everyone, for the film camera and the book of notes. I mentioned shooting film as a teenager exactly once, at a team lunch years ago, so whoever remembered that has a frightening memory and a very kind heart. The book is coming with me to my next desk. The first roll is going to be all of you at drinks tomorrow evening, so consider yourselves warned.",
    "lang": "en",
    "note": "A group gift in a public channel: thank everyone at once, name the detail that shows someone listened, and end on the next time you'll see them."
   },
   {
    "id": "thank-you-notes-016",
    "situation": "I'm Jess. Our flat on Dunmore Street was gutted by a kitchen fire on 12 September; nobody was hurt. My friend Hollie set up a fundraiser and 64 people gave, which covered two months' rent on a temporary place and new school uniforms for our girls, Ava and Rose, who went back to school last week. I want to post a thank-you on the fundraiser page from me, my husband Martin and the girls.",
-   "reply": "Thank you, all 64 of you. When the fire took our kitchen and most of our things on 12 September, we didn't know where to start, and you made sure we didn't have to start alone. Your gifts have paid for two months' rent on our temporary place and new school uniforms for Ava and Rose, who went back to school last week. Hollie, thank you for setting this up when we couldn't think straight. We'll post again when we're settled in a proper home.\nWith love, Jess, Martin, Ava and Rose",
+   "reply": "Thank you, all 64 of you. When the fire gutted our flat on 12 September, you made sure we didn't have to start again alone. Your gifts have paid for two months' rent on our temporary place and new school uniforms for Ava and Rose, who went back to school last week. Hollie, thank you for setting this up. We'll post again when we're settled in a proper home.\nWith love, Jess, Martin, Ava and Rose",
    "lang": "en",
    "note": "A public thanks for money from many people: say what it paid for rather than the total, and name the one person who made it happen."
   },
   {
    "id": "thank-you-notes-017",
    "situation": "女儿刚满月，老家82岁的姑婆（我爸的姑姑）托我爸带来一双她亲手做的虎头鞋，红底黄边，老虎胡子是一根根绣上去的。我爸说她眼睛不好，断断续续做了快一个月。她不怎么看手机，我想写几句短的，让表姐念给她听。我们打算过年带孩子回老家。",
-   "reply": "姑婆，您做的虎头鞋收到了，红底黄边，连老虎的胡子都是一根根绣上去的，我拿在手里半天舍不得放下。听我爸说您眼睛不好，还一针一线做了快一个月，这份心意我们全家都记着。等孩子会走路了，第一双鞋就穿它。过年我们带她回去给您看。",
+   "reply": "姑婆，您做的虎头鞋收到了，红底黄边，连老虎的胡子都是一根根绣上去的，做得真精细。听我爸说您眼睛不好，还一针一线做了快一个月，这份心意我们全家都记着。等孩子会走路了，第一双鞋就穿它。过年我们带她回去给您看。",
    "lang": "zh",
    "note": "给不看手机的老人：写短句，适合念出来；说一个看得见的细节，再谢她花的工夫。"
   },
@@ -131,7 +131,7 @@
   {
    "id": "thank-you-notes-019",
    "situation": "My son Sami just turned 6. His grandpa Walt sent him a real wooden toolbox with a small hammer and a note saying 'for when you help me build the birdhouse next spring'. Sami has carried it everywhere for three days and already 'fixed' the wobbly leg on his bedroom chair. I want to help Sami write the card in his own words.",
-   "reply": "Dear Grandpa Walt,\nThank you for my toolbox! The hammer is my favourite. I already fixed the wobbly leg on my chair. I carry my toolbox everywhere. I can't wait to build the birdhouse with you in spring.\nLove, Sami",
+   "reply": "Dear Grandpa Walt,\nThank you for my toolbox! I already fixed the wobbly leg on my chair. I carry my toolbox everywhere. I can't wait to build the birdhouse with you in spring.\nLove, Sami",
    "lang": "en",
    "note": "A child's note: short sentences in their own voice, one thing they did with the gift, and the plan the giver mentioned."
   },

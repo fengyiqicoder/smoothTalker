@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -190,6 +190,13 @@
    "reply": "Hi Ruth, I've thought of you often since your message, and I hope you're managing as well as anyone can. I'm writing about invoice #0712 for $950 for the bakery logo, due on 30 August, which is still open. Would paying it by Friday 30 October work for you? If it's easier, two payments of $475, one now and one by the end of November, are fine too. The bank details are on the attached invoice, and if someone else is handling the bakery's accounts at the moment, tell me who and I'll send it to them.\nLeon",
    "lang": "en",
    "note": "A client in grief: one line of care, then the same facts and a date with more room than usual, and no consequence yet."
+  },
+  {
+   "id": "chase-late-payment-028",
+   "situation": "Ich bin freiberufliche Lektorin, Sabine Krüger. Meine Rechnung Nr. 2026-047 über 1.850 Euro an meinen Kunden Herrn Vogel war am 15. September fällig. Er schreibt mir, er habe schon am 14. September überwiesen, aber auf meinem Konto ist bis heute nichts angekommen.",
+   "reply": "Hallo Herr Vogel,\ndanke für Ihre schnelle Rückmeldung. Für Rechnung Nr. 2026-047 über 1.850 Euro, fällig am 15. September, ist auf meinem Konto bis heute keine Zahlung eingegangen. Könnten Sie mir bis Montag, 5. Oktober, den Überweisungsbeleg schicken? Dann kann ich mit meiner Bank klären, wo die Zahlung geblieben ist. Bitte gleichen Sie dabei auch die IBAN mit der auf der Rechnung ab, die ich noch einmal anhänge.\nViele Grüße\nSabine Krüger",
+   "lang": "de",
+   "note": "„Schon bezahlt“ deutet meist auf einen Verwaltungsfehler: nicht widersprechen, sondern Beleg und Bankdaten abgleichen, mit Datum."
   }
  ]
 }

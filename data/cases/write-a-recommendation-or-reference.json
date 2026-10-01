@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 20,
+ "count": 21,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -141,6 +141,13 @@
    "reply": "小林你好，我是陈默的朋友，认识她十年了。她养的上一只猫团团活到16岁，最后两年得了肾病，她每天在家给团团打皮下补液，我去她家时亲眼见过好几次，一直很耐心、很细致。她现在的住处我还没去过，这部分就不评价了。就照顾猫这件事，我非常放心地推荐她。还有想了解的，随时微信问我。",
    "lang": "zh",
    "note": "领养推荐也一样：说清认识多久，用亲眼见过的事说话，没见过的直接说明。"
+  },
+  {
+   "id": "write-a-recommendation-or-reference-021",
+   "situation": "I maintain an open-source charting library, Plotwick. Farah Siddiqui has contributed for 14 months: she rewrote our date-axis code, which closed 31 open bugs, and she's reviewed about 120 pull requests from new contributors, kindly and specifically enough that several first-timers came back with a second one. We've only ever worked together online, I've never seen her in a regular job, and she's asked me for a LinkedIn recommendation.",
+   "reply": "I've worked with Farah on the open-source charting library Plotwick for 14 months, entirely online. She rewrote our date-axis code, which closed 31 open bugs in one go. She has also reviewed about 120 pull requests from new contributors, and her feedback is so kind and specific that several first-timers came back with a second one. I know her through open source rather than a day job, and on that basis I recommend her strongly to any team that values careful code and generous review.",
+   "lang": "en",
+   "note": "An online-only collaboration is real evidence: say where you saw the work and scope the endorsement to it."
   }
  ]
 }

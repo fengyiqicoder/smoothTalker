@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -190,6 +190,13 @@
    "reply": "小雨，收到邀请真的特别开心，谢谢你想着我！清迈这次我去不了，今年刚换工作，手头有点紧。那天我会一直守着你的朋友圈，替你高兴。等你们1月初回上海，我请你和老公吃饭，好好给你们庆祝！",
    "lang": "zh",
    "note": "关系很近时，一个真实的理由可以直接说；不提具体金额，免得她提出帮你出钱，再给一个回来后能兑现的庆祝。"
+  },
+  {
+   "id": "decline-invitation-028",
+   "situation": "My in-laws, Sue and Martin, invited us to spend two weeks with them at a villa they've rented in Mallorca, 10 to 24 July next year. Two weeks away is more than we want, but we'd genuinely love to come for the first four days, 10 to 13 July. I'm replying in the family WhatsApp group.",
+   "reply": "Sue and Martin, thank you so much for including us, the villa looks wonderful. We won't do the full two weeks, but we'd love to come out for the first four days, 10 to 13 July, if that works for you. Thank you for thinking of us.",
+   "lang": "en",
+   "note": "A partial yes is still a clear no to the main ask: name the part you'll do, with dates, and let the hosts say whether it suits."
   }
  ]
 }

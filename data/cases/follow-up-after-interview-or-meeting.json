@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -190,6 +190,13 @@
    "reply": "Olá, vereadora Cláudia, obrigada pela reunião de hoje e por ouvir com atenção a situação da saída das 17h na Escola Municipal Ipê Amarelo. Resumo do que combinamos, para ficarmos alinhadas:\n- Eu: envio as fotos e o abaixo-assinado com 214 assinaturas até segunda, 5 de outubro.\n- Seu gabinete: ofício à secretaria de trânsito pedindo o estudo da faixa de pedestres até sexta, 9 de outubro.\nSe anotei algo errado, por favor me corrija.\nJuliana, associação de pais da Escola Municipal Ipê Amarelo",
    "lang": "pt",
    "note": "Com um representante eleito, o resumo por escrito transforma a promessa da reunião em algo que a associação pode acompanhar com data."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-028",
+   "situation": "我叫刘畅，研二。今天下午和导师赵老师讨论开题，定下来几件事：题目改成聚焦长三角城市的社区养老服务；我10月16日前交文献综述初稿；赵老师帮我联系民政局，要2020到2025年的数据；开题答辩定在11月6日。想发微信给赵老师确认一下。",
+   "reply": "赵老师好，谢谢您今天下午帮我把开题思路理清楚。我把定下来的几件事整理一下：1. 题目调整为聚焦长三角城市的社区养老服务；2. 我10月16日前交文献综述初稿；3. 您帮忙联系民政局，要2020到2025年的数据；4. 开题答辩定在11月6日。如果有记错的地方，麻烦您指正。",
+   "lang": "zh",
+   "note": "给导师的会后纪要：一句具体的感谢，每件事写清谁做、什么时候，最后请对方纠正，而不是再提新问题。"
   }
  ]
 }

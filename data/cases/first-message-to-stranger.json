@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -190,6 +190,13 @@
    "reply": "Hi Aiko, I think I'm the one who's been finishing a few seconds behind you at Riverside every Saturday, so I watched that 24:10 happen from close range. What finally clicked for keeping it together in the last km?",
    "lang": "en",
    "note": "One shared detail so you're not a random stranger, one question about her thing, and no ask to run together yet."
+  },
+  {
+   "id": "first-message-to-stranger-028",
+   "situation": "我叫林晓，下个月去成都读大一。新生系统显示我和一个叫苏蔓的女生分在同一间宿舍，我在新生群里找到了她，她朋友圈刚发了自己养的三盆多肉，配文“只要不死就算成功”。想加她微信，第一句话不知道说什么。",
+   "reply": "你好苏蔓，我是林晓，系统显示我们是同一间宿舍的室友！看到你那三盆多肉了，打算带到宿舍养吗？",
+   "lang": "zh",
+   "note": "好友验证就是第一条消息：一句说清你是谁，再接一个关于她的小问题，别一上来就列作息和规矩。"
   }
  ]
 }

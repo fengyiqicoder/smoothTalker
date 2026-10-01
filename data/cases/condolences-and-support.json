@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -190,6 +190,13 @@
    "reply": "Ben, I'm so sorry about your dad. I keep thinking of Saul at the summer picnic, spending the whole afternoon teaching the interns backgammon. I'd like to come by on Tuesday evening during the shiva hours, just to be there with you. No need to reply to this.",
    "lang": "en",
    "note": "At a shiva, follow the mourners' lead: let them speak first, keep it short, and ask a family friend before bringing any food."
+  },
+  {
+   "id": "condolences-and-support-028",
+   "situation": "Mon amie Léa a perdu son compagnon Hugo dans un accident de vélo il y a dix jours. Le jour même, je lui ai écrit « il est dans un monde meilleur » et elle m'a répondu sèchement « non, il devrait être ici ». Hugo jouait de la guitare à chacun de nos pique-niques au bord du canal, et je voudrais lui réécrire sans tout aggraver.",
+   "reply": "Léa, tu as raison, il devrait être ici, et ma phrase de l'autre jour n'était pas juste. Pardon. Je pense à Hugo et à sa guitare à chacun de nos pique-niques au bord du canal. Samedi midi, je dépose un repas devant ta porte, pas besoin d'ouvrir ni de me répondre.",
+   "lang": "fr",
+   "note": "Après une maladresse, on la reconnaît en une phrase sans se justifier, puis on revient à Hugo et à une aide concrète."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -189,6 +189,13 @@
    "reply": "小雅你好，谢谢发合同过来，笔记的内容和报价都没问题。唯一需要改的是第9条：我的肖像和声音不授权用于生成AI数字人广告，也不做永久授权。这篇图文按6000元、含30天授权，照常可以做。麻烦发我一版删掉第9条的合同，我确认后这周就签。",
    "lang": "zh",
    "note": "肖像和声音是比单条内容大得多的授权：只划掉这一条，保住这单合作；签之前可以请懂合同的人看一下其他条款。"
+  },
+  {
+   "id": "creator-brand-deal-reply-028",
+   "situation": "I have 25k followers on Instagram for my plant care videos. Someone called Mia, DMing from a brand-new account, offered $1,500 for three posts for a brand called Verdeluxe, but says I first need to pay a $79 'shipping and onboarding fee' for the sample kit, and she won't give a company email or a written contract. I want to reply without burning a bridge in case it's real.",
+   "reply": "Hi Mia, thanks for thinking of me. I don't pay fees to take part in any campaign, so the $79 isn't something I'll do; on paid work, the brand covers samples and shipping. If Verdeluxe would like to go ahead, please send the brief, deliverables, timeline and a written contract from a company email address, and I'll come back to you within a day.",
+   "lang": "en",
+   "note": "Paying to get paid is a common scam pattern: send no money or personal details, and report the account to the platform if it keeps pushing."
   }
  ]
 }
