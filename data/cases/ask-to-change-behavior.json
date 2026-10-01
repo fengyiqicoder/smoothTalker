@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -211,6 +211,13 @@
    "reply": "Can I raise a small, slightly odd thing before Friday? You've grabbed the bill at our last four dinners, and I love that you're generous, but it's started to make me feel I can't suggest places, or that I owe you. Could we take turns from now on, starting with me on Friday? Ramen's on me.",
    "lang": "en",
    "note": "Even a generous habit is one behaviour: name the effect on you and offer a simple shared system."
+  },
+  {
+   "id": "ask-to-change-behavior-031",
+   "situation": "我的好朋友阿雅这个月有三次都是在约好的当天下午才取消：一次是一起报的普拉提课，名额作废扣了我80元；两次是吃饭，我订的位子只能临时退掉。她每次都说工作突然有事，我想请她以后有变化的话前一天晚上就告诉我。",
+   "reply": "阿雅，跟你说个小事，不是怪你哈。这个月有三次我们约好的事都是当天下午取消的，普拉提那次名额作废扣了80，两次吃饭我订的位子也只能临时退掉。以后要是觉得可能去不了，能不能前一天晚上就跟我说一声？真是临时突发的事当然没关系，提前说的话我也好安排。",
+   "lang": "zh",
+   "note": "只谈“当天才取消”这一件事和实际影响；请求的是提前说，而不是不许取消。"
   }
  ]
 }

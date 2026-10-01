@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -190,6 +190,13 @@
    "reply": "Ollie, I've been meaning to say this properly: thank you for getting Mum to all nine physio appointments while I was in Singapore. The photo you sent after every single one made being that far away so much easier. She's walking to the shops on her own again, and you were part of how she got there. I'm back next week and dinner's on me, you pick the place.",
    "lang": "en",
    "note": "Thanking a sibling for shared family care still needs the specific detail; repay with time together rather than a gift."
+  },
+  {
+   "id": "thank-you-notes-028",
+   "situation": "I'm Priya. Our nanny, Marta, leaves on Friday 9 October after four years with us, moving back to Kraków to be near her parents; she started when our son Arlo was 8 months old. She taught him to ride his bike in the park, and last week she gave us a little notebook she'd kept of all his 'firsts'. She's agreed Arlo can video call her on Sundays, and my husband Sam and I want to give her a card.",
+   "reply": "Dear Marta, thank you for four years of looking after Arlo. The notebook of his firsts made us both cry: we'd have forgotten half of those moments, and now we never will. Thank you for teaching him to ride his bike, and for everything in between. We're so glad he'll still get to see you on Sundays. We'll miss you so much. With love, Priya, Sam and Arlo",
+   "lang": "en",
+   "note": "A long-term carer gets a paragraph, and the notebook is the detail only this family could mention."
   }
  ]
 }

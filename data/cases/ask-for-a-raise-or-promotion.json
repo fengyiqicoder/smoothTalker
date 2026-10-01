@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -211,6 +211,13 @@
    "reply": "郑总，想约您30分钟聊一聊我的发展，这周四或周五下午您看哪个方便？这次主管没选我，我想听听您真实的看法：我离主管还差哪些。我还是很想在这个团队长期做下去，短期内希望明年能升高级专员，月薪从1.3万调到1.5万。见面时我们能不能把需要做到的几条和时间定下来？",
    "lang": "zh",
    "note": "没被选上之后不评价招聘结果，把谈话变成书面的标准和日期；谈完当天发微信把结论确认一遍。"
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-031",
+   "situation": "Je suis Claire, comptable chez un éditeur de logiciels, à 46 000 € brut par an. Depuis février je gère seule la clôture mensuelle des filiales belge et suisse, et le délai de clôture est passé de 8 à 5 jours ; les postes équivalents sont affichés entre 50 000 et 54 000 €. Ma manager, Sophie, est à Montréal, nous avons un entretien en visio mardi 6 octobre et je veux demander 52 000 €.",
+   "reply": "Merci de prendre ce temps, Sophie. J'aime beaucoup mon travail ici et j'ai envie de continuer à évoluer dans l'équipe. Depuis février, je gère seule la clôture mensuelle des filiales belge et suisse, et le délai de clôture est passé de 8 à 5 jours. Au vu de ce périmètre et des postes équivalents, affichés entre 50 000 et 54 000 €, je souhaiterais passer de 46 000 à 52 000 € brut par an. Si ce n'est pas possible tout de suite, que faudrait-il réunir, et pour quand ?",
+   "lang": "fr",
+   "note": "En visio avec une manager à distance, même déroulé : des chiffres qu'elle pourra relayer, un montant, puis un mail récapitulatif le jour même."
   }
  ]
 }

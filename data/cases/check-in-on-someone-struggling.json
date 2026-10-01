@@ -4,10 +4,10 @@
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
-   "situation": "My friend Nadia's dad died two weeks ago. I went to the funeral but haven't messaged since because I don't know what to say. She's been quiet.",
-   "reply": "Hey Nadia, I've been thinking about you and your dad a lot this week. No need to reply to this. I'm going to the farmers' market Saturday morning and would love to drop off some of those peaches you like, around 11. Just say no if you'd rather not have company.",
+   "situation": "My friend Nadia has spent a year in a legal fight with her former business partner, and the court hearing is next Tuesday. She's been quiet in our group chat for weeks. I'm free Wednesday evening and I'm a decent cook.",
+   "reply": "Hey Nadia, I know Tuesday is the hearing and I've been thinking about you. No need to reply to this. I'll send you one text that evening just to say hi, nothing to answer. And whatever happens, come to mine for dinner on Wednesday at 7 if you fancy it; we don't have to talk about any of it.",
    "lang": "en",
-   "note": "Why you're writing in one line, no question that needs a report, one concrete offer with a time, and a release."
+   "note": "When a hard date is coming, mark it without asking for a report and put something gentle on the day after."
   },
   {
    "id": "check-in-on-someone-struggling-002",
@@ -18,7 +18,7 @@
   },
   {
    "id": "check-in-on-someone-struggling-003",
-   "situation": "My coworker Mark has been on sick leave for cancer treatment for two months. We're not super close but I liked working with him. I texted once a month ago, no reply.",
+   "situation": "My coworker Mark has been on sick leave for cancer treatment for two months. We're not super close but I liked working with him; he was famous for the terrible pun he slipped into his March all-hands talk. I texted once a month ago, no reply.",
    "reply": "Hi Mark, the team was talking about your terrible pun in the March all-hands today and it made me think of you. No need to reply. Just wanted you to know you're missed around here.",
    "lang": "en",
    "note": "After silence, send something that needs zero response and never mention the unanswered text."
@@ -32,14 +32,14 @@
   },
   {
    "id": "check-in-on-someone-struggling-005",
-   "situation": "妈妈走了半年，爸爸一个人住在老家。每次打电话他都说'挺好的，你别操心'，但邻居说他最近很少出门。国庆我能回去几天。",
+   "situation": "妈妈走了半年，爸爸一个人住在老家。每次打电话他都说'挺好的，你别操心'，但邻居说他最近很少出门，以前他最爱去河边钓鱼，也爱吃老街那家羊肉粉。国庆我能回去几天。",
    "reply": "爸，我10月2号下午到家，待到6号。这几天你别做饭，我带你去老街吃那家羊肉粉，再陪你去河边钓两天鱼。你什么都不用准备。平时想说说话了，随时打给我，不用找理由。",
    "lang": "zh",
-   "note": "他说'挺好的'就先接受，不追问；直接给一个带日期的具体安排，再留一扇门。"
+   "note": "给独居的老人，打电话问不出实话：别追问，直接定下带日期的陪伴，把他以前爱做的事重新带回来，再留一扇门。"
   },
   {
    "id": "check-in-on-someone-struggling-006",
-   "situation": "I manage a small team. My report Priyanka told me briefly that her mum went into hospice last week. She's still logging on every day and says she's fine. I want to check in without making her feel watched.",
+   "situation": "I manage a small team. My report Priyanka told me briefly that her mum went into hospice last week. She's still logging on every day and says she's fine. She owns the Kessler report, due next week, and Thursday's client call, which Jamal can cover. I want to check in without making her feel watched.",
    "reply": "Priyanka, I'm thinking of you and your mum this week. No need to reply to this. I've moved the Kessler report to October 16 and Jamal is covering Thursday's client call, so both are off your plate. If you want to take days, just tell me which ones; you don't need to explain.",
    "lang": "en",
    "note": "From a manager the most useful concrete help is taking work away, done already, not offered. No questions she has to answer."
@@ -53,14 +53,14 @@
   },
   {
    "id": "check-in-on-someone-struggling-008",
-   "situation": "好朋友阿敏生完孩子两个多月，朋友圈好久没更新。上次视频她一直哭，说没睡过一个整觉。我们住同一个城市，我想帮点实际的忙。",
+   "situation": "好朋友阿敏生完孩子两个多月，朋友圈好久没更新。上次视频她一直哭，说没睡过一个整觉。我们住同一个城市，她楼下有家她爱喝的粥铺，我想帮点实际的忙。",
    "reply": "阿敏，这几天一直惦记你，不用回我。周六上午10点我过去帮你抱两个小时娃，你去睡一觉，午饭我从你楼下那家粥铺带上来。不方便的话回个“改天”就行，一点不用客气。",
    "lang": "zh",
    "note": "不问“你还好吗”，只给一个带时间、容易接受也容易拒绝的具体帮忙。"
   },
   {
    "id": "check-in-on-someone-struggling-009",
-   "situation": "My older sister Hannah is a nurse who has been working extra shifts since the summer and doing most of the parenting for her two kids on her own. Every time I tell her to rest she snaps that she can't. I live across town.",
+   "situation": "My older sister Hannah is a nurse who has been working extra shifts since the summer and doing most of the parenting for her two kids, Mia and Owen, on her own. Every time I tell her to rest she snaps that she can't. I live across town.",
    "reply": "Han, you've been running on empty for months and I can see it. I'm not going to tell you to rest, you've heard it enough. I'll take Mia and Owen to the park and then to ours for lunch on Sunday, 10 till 4, so you get an actual day. Just reply 'yes' or 'not this week'.",
    "lang": "en",
    "note": "With burnout, drop the advice they've already heard and take a block of their load away, with a time on it and an easy no."
@@ -74,15 +74,15 @@
   },
   {
    "id": "check-in-on-someone-struggling-011",
-   "situation": "好朋友小雅上周流产了，是她老公告诉我的。她在上海，我在北京，一时过不去。她只在朋友圈发了一句“晚安”，别的什么都没说。",
-   "reply": "小雅，听说了上周的事，心里很难受，一直在想你。不用回我。我给你点了明天中午的外卖，是你喜欢的那家云南米线，12点左右送到，不想吃就放着。我一直都在。",
+   "situation": "同组同事小周请了两个月病假，私下跟我说过是抑郁症在治疗，组里其他人只知道是“身体原因”。他下周一回来上班，就坐我旁边。我们以前常一起去公司后面那家面馆吃午饭。",
+   "reply": "小周，听说你下周一回来，挺高兴的。不用回我。回来那天中午，要不要一起去后面那家面馆？不想去就说“改天”，一点问题都没有。",
    "lang": "zh",
-   "note": "不问“你还好吗”，不找安慰的角度，只给一个不需要回应的具体行动；过几天再发一条不需要回复的消息。"
+   "note": "知道内情也别在消息里提病名或病假原因，更别当着同事问；像平常一样给一个小邀约，让他自己决定说多少。"
   },
   {
    "id": "check-in-on-someone-struggling-012",
    "situation": "My friend Jess has been really low since her divorce in the spring. We talk every Thursday and she keeps saying she can't sleep and can't see it getting better, but she's never mentioned therapy. I want to suggest it once without it sounding like I'm handing her off.",
-   "reply": "I'm always going to be here for our Thursday calls, that's not changing. I also think you deserve more support than me and a glass of wine. If you ever want a hand finding someone to talk to, I'll help you look, or sit with you while you book it. No judgment, just an offer, and I won't bring it up again unless you do.",
+   "reply": "I'm always going to be here for our Thursday calls, that's not changing. I also think you deserve more support than one call a week can give. If you ever want a hand finding someone to talk to, I'll help you look, or sit with you while you book it. No judgment, just an offer, and I won't bring it up again unless you do.",
    "lang": "en",
    "note": "Professional help gets one warm line, as an option, never a verdict. 'Can't see it getting better' can hide more: if she ever talks about not wanting to be here, ask her directly whether she's thinking of ending her life, and if she might act on it, call your local emergency number or help her reach a crisis line."
   },
@@ -95,17 +95,17 @@
   },
   {
    "id": "check-in-on-someone-struggling-014",
-   "situation": "I heard through a mutual friend that Sam, my old flatmate from uni, had to close his restaurant in Leeds last month. We haven't really spoken in about four years and I feel awkward messaging out of nowhere.",
+   "situation": "My mutual friend Priya told me that Sam, my old uni flatmate, had to close his restaurant in Leeds last month. We haven't spoken in about four years; in second year he cooked lamb for our whole corridor. I'm in Leeds for work on Thursday 15 October.",
    "reply": "Hi Sam, Priya mentioned the restaurant closed last month, and I've been thinking about you since. I still remember the lamb you cooked for our whole corridor in second year. No need to reply to this, I know it's been ages. I'm in Leeds for work on Thursday 15 October; if you fancy a pint that evening, I'm buying, and if not, no worries at all.",
    "lang": "en",
    "note": "After years of silence, say how you heard and keep it light: one shared memory, one offer, and a release so the gap never becomes his problem."
   },
   {
    "id": "check-in-on-someone-struggling-015",
-   "situation": "Mon amie Élodie a dû faire euthanasier son chien Pixel samedi, il avait 14 ans. Elle vit seule et elle a juste posté une photo de lui, sans rien écrire. On habite le même quartier à Nantes.",
-   "reply": "Élodie, j'ai vu ta photo de Pixel. Quatorze ans ensemble, c'est toute une vie, et je pense beaucoup à toi. Pas besoin de répondre. Je passe à la boulangerie demain matin : je peux te déposer des croissants devant ta porte vers 9h, sans sonner si tu préfères. Dis-moi juste « oui » ou « pas cette fois ».",
+   "situation": "Ma voisine du dessous, Mme Bernard, 84 ans, vit seule depuis que sa fille est partie au Canada cet été. Avant, on discutait souvent à la boulangerie, mais depuis un mois ses volets restent fermés et je ne la croise plus. Je vais au marché tous les samedis matin et j'habite au 3e.",
+   "reply": "Chère Madame Bernard, nos discussions à la boulangerie me manquent et je pense souvent à vous. Je vais au marché samedi matin : si vous voulez que je vous rapporte quelque chose, glissez simplement un petit mot sous ma porte, au 3e. Et si vous n'avez besoin de rien, aucune réponse n'est nécessaire. Bien amicalement, votre voisine du 3e",
    "lang": "fr",
-   "note": "Le deuil d'un animal est souvent minimisé : le prendre au sérieux, ne rien demander, et proposer une aide qui n'oblige même pas à voir quelqu'un."
+   "note": "Pour une voisine âgée et isolée, un mot glissé sous la porte vaut mieux qu'un message : une aide concrète, une façon simple de l'accepter, et aucune obligation de répondre."
   },
   {
    "id": "check-in-on-someone-struggling-016",

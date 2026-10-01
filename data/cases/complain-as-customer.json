@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -211,6 +211,13 @@
    "reply": "店长您好，我是孙悦，9月26日到29日把狗狗可乐寄养在店里，三晚共450元。29日接回时发现它左前爪有一道伤口，店员当时说可能是在笼子里刮的。当天我带它去宠物医院清创上药，花了260元，病历、发票和伤口照片都附在下面。希望店里承担这260元的医药费，麻烦在10月9日（周五）前回复我。谢谢！",
    "lang": "zh",
    "note": "只要和损失对应的医药费，不扩大到寄养费；如果伤口发红化脓或狗狗精神变差，先带它回宠物医院复诊。"
+  },
+  {
+   "id": "complain-as-customer-031",
+   "situation": "I'm Yusuf Rahman (555-0119). Our Larkfield Grocers delivery on Wednesday 30 September, order LG-62218, swapped the halal chicken sausages I ordered ($7.50) for pork sausages, even though I'd ticked 'call me before substituting' and nobody called. We're Muslim and don't eat pork, so they're no use to us. I want the refund and for it not to happen again.",
+   "reply": "Hi,\nOrder LG-62218, delivered Wednesday 30 September: the halal chicken sausages I ordered ($7.50) were replaced with pork sausages. I'd ticked 'call me before substituting', and nobody called. We don't eat pork for religious reasons, so the substitute is no use to us. Please refund the $7.50 and add a note to my account that halal items are never swapped for non-halal ones. Could you confirm by Friday 2 October?\nThanks,\nYusuf Rahman, 555-0119",
+   "lang": "en",
+   "note": "A swap that breaks a religious diet is stated once as a fact, not argued; ask for the refund plus the one account change that stops it happening again."
   }
  ]
 }

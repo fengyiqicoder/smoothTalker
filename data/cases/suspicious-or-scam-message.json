@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -190,6 +190,13 @@
    "reply": "物业您好，我是3栋1201的住户。今天下午有两个人来敲门，说是燃气公司做安全检查，说我家燃气软管老化必须马上换，要收280元，还不让我先打电话核实。我没有开门，也没有付钱，他们接着去敲邻居家了。请问这周物业或燃气公司有没有安排上门检查？如果没有，麻烦尽快在业主群和单元门口提醒大家别开门、别付钱，也请保安留意一下这两个人。谢谢！",
    "lang": "zh",
    "note": "只用手机里存的物业电话核实，不打对方给的号码；他们再来纠缠或想硬闯，别开门，直接打110。已经有邻居付了钱的，提醒他们保留凭证并报警。"
+  },
+  {
+   "id": "suspicious-or-scam-message-028",
+   "situation": "I'm Dee, admin of our Millbrook neighbourhood WhatsApp group. After last week's flooding, Rosa Kim, who manages the community centre, posted on Monday that donations are only being collected at the centre's front desk, and I have her number saved. Today a number I don't know, 555-0187, posted a bank account claiming to be 'Rosa's relief team' and asking everyone to transfer money by tonight; I've deleted the post.",
+   "reply": "Hi all, I've removed a post from 555-0187 asking for flood relief money by bank transfer in Rosa's name. Rosa told us on Monday that donations are only collected at the community centre's front desk, so please don't send anything to that account or reply to that number. If you've already transferred money, call your bank's fraud line straight away. I'm phoning Rosa on her saved number to check, and I'll update here.",
+   "lang": "en",
+   "note": "Remove and report the number in WhatsApp; anyone who paid should contact their bank and report it to the police."
   }
  ]
 }

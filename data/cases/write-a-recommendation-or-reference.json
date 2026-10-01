@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 27,
+ "count": 28,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -190,6 +190,13 @@
    "reply": "Dear Manager,\nI'm writing in support of Grace Mensah's application. Grace cared for my father, Leon, three mornings a week from March 2024 until he died in August 2026, so I saw her work week in, week out for over two years. She learned his medication routine so well that twice she noticed a missed evening dose and flagged it straight away. She also kept him walking to the end of the garden most days. I saw her work only in his home, not in a residential setting, and on that basis I recommend her warmly. I'm happy to talk on 07700 900762 or at ruth.adler@example.com.\nKind regards,\nRuth Adler",
    "lang": "en",
    "note": "A family reference for a carer: how often you saw her work, two specific moments, and the limit of the setting you saw."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-028",
+   "situation": "I'm Dan Lee, head coach at Riverside Rowing Club. Nia Adebayo, 18, has rowed with us for four years and needs a reference letter for a sports scholarship at Ashford University by Friday 16 October. This season she captained our junior squad and organised the 5am winter training rota for 12 juniors, and at the summer regatta, when our stroke was injured that morning, she switched seats and the crew still won silver; I know nothing about her grades. I'm on 555-0134 and coach.lee@example.com.",
+   "reply": "I'm pleased to recommend Nia Adebayo for the sports scholarship at Ashford University. I'm head coach at Riverside Rowing Club and have coached Nia for four years. This season she captained our junior squad and organised the 5am winter training rota for 12 juniors. At our summer regatta, when our stroke was injured on the morning of the race, Nia switched seats at short notice and the crew still won silver. I can't speak to her academic work, but as an athlete and a leader I recommend her strongly, and I'd be glad to talk further: 555-0134 or coach.lee@example.com. Dan Lee",
+   "lang": "en",
+   "note": "Name the limit of what you saw (her grades) in one clause, then go back to the strong evidence."
   }
  ]
 }

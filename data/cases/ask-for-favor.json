@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -211,6 +211,13 @@
    "reply": "Hi Lucy, a big-ish ask: could Bruno stay with you from Friday 16 to Sunday 18 October while I'm at my sister's wedding? I'd drop him off at 8am Friday and pick him up at 7pm Sunday. To be upfront, he's nervous around other dogs, so it's two 30-minute walks a day on the lead, steering clear of other dogs, plus one pill with breakfast. If that's more than you want to take on, just say, and I'll book a kennel. I'll bring his food, his bed and a written list.",
    "lang": "en",
    "note": "Name the hard part of the favour before they agree; a yes given without knowing the dog is nervous isn't a real yes."
+  },
+  {
+   "id": "ask-for-favor-031",
+   "situation": "我奶奶82岁，一直想学用微信跟在国外的小姑视频，还想学用手机买菜，不过她学东西慢，同一步要讲好几遍。表弟小凯在读大学，国庆在家，10月5日（周一）下午有空。想请他那天下午花两个小时教教奶奶，教完我请他吃饭；他没空的话我自己慢慢教。",
+   "reply": "小凯，想请你帮个忙，正好是你拿手的：奶奶一直想学用微信跟小姑视频，还想学用手机买菜。你10月5日周一下午要是有空，能不能花两个小时教教她？先跟你说清楚，奶奶学得慢，同一步可能要讲好几遍。不方便也完全没关系，我自己慢慢教。教完我请你吃饭。",
+   "lang": "zh",
+   "note": "替家人开口求助：说清帮谁、做什么、花多久、难在哪，再给一个真的退路。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -211,6 +211,13 @@
    "reply": "Ana, I need to pull out of helping at the stall on Saturday 10 October: Tom has just surprised me with a birthday weekend away, already paid for, and I only found out today. I'm sorry, I know you were counting on me with your usual helper away. I can do Saturday 17 or Saturday 24 October instead, or both if that's useful. Which would help most?",
    "lang": "en",
    "note": "Tell them the day you know; nine days' notice keeps the apology short and leaves her time to find cover."
+  },
+  {
+   "id": "cancel-or-reschedule-031",
+   "situation": "I'm hosting Sunday lunch for six friends this Sunday, 4 October, at 1pm at my flat. Last night my upstairs neighbour's pipe burst and part of my kitchen ceiling came down; the repair is booked for Thursday 8 October. My friend Ben has offered his place for the same time, or we could move it to Sunday 11 October at 1pm at mine, and I'm posting in our WhatsApp group.",
+   "reply": "Change of plan for Sunday, everyone: part of my kitchen ceiling came down last night after a burst pipe upstairs, so I can't host lunch at mine on the 4th. Sorry to shuffle it with only a few days' notice. Two options: same time, 1pm on Sunday, at Ben's, who has kindly offered his place, or Sunday 11 October at 1pm at mine, once the repair's done on Thursday. Could you reply 'Ben's' or 'the 11th' by tomorrow evening so I can confirm?",
+   "lang": "en",
+   "note": "When you're the host, the alternative can be a new place as well as a new date; give both and let the group answer in one word."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -211,6 +211,13 @@
    "reply": "吴经理，想提前跟您请个假：2027年2月2日到4日三天年假，连上春节假期，节后按公司安排正常上班。我老家在喀什，单程要两天，所以想早点定下来去抢票。年度数据报表我1月29日前交，那三天的客户咨询小梁已经答应帮我看，我会提前跟她交接。组里节前请假的人如果多，需要错开的话您跟我说。您看可以批吗？",
    "lang": "zh",
    "note": "热门假期提前几个月请，日期、交接一次写清；主动提一句可以错开，但不要先把自己的日期让掉。"
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-031",
+   "situation": "I woke up to water coming through my kitchen ceiling from the flat above, and the plumber and my landlord's agent are coming between 9 and 12. I'm a dental receptionist and my shift starts at 8:30; Zoe has said she can open the front desk, and the morning patient list is on the shared calendar. I can be in by 1pm. Texting the practice manager, Linda.",
+   "reply": "Hi Linda, I've got water coming through my kitchen ceiling from the flat upstairs, and the plumber and the landlord's agent are coming between 9 and 12, so I can't be in this morning. Zoe is opening the front desk, and the morning patient list is on the shared calendar. I'll be in by 1pm and will text you if that changes.",
+   "lang": "en",
+   "note": "A home emergency gets the same three lines as a sick day; if the water reaches lights or sockets, keep clear and call the emergency services."
   }
  ]
 }

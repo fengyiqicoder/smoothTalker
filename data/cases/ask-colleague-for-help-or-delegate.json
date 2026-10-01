@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -211,6 +211,13 @@
    "reply": "Júlia, queria te passar uma tarefa que vai ser só sua: levantar os planos e preços dos nossos cinco principais concorrentes. O resumo de concorrentes que você fez semana passada ficou muito bom, então faz sentido ser você. Pronto quer dizer uma planilha com os planos e preços de cada um até sexta, 9 de outubro. Na quarta a gente olha junto o que você tiver, por 15 minutos, e se travar antes é só me chamar. Dá para encaixar com o que você já tem?",
    "lang": "pt",
    "note": "Com estagiário, dizer por que ele, o que é 'pronto' e um ponto de apoio marcado faz a tarefa parecer confiança, não repasse."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-031",
+   "situation": "I'm project lead for our client offsite on Thursday 22 October. In our team Slack thread, four people have said 'someone should book the venue' since Monday and nobody has. Ines found last year's venue, Paul has worked with the caterer before, and I'll do the agenda myself; I want the venue booked by Wednesday 7 October and a catering quote by Friday 9 October.",
+   "reply": "Let's give this owners so it actually happens. @Ines, could you own booking the venue? You found last year's, so you know what works; done means a confirmed booking by Wednesday 7 October. @Paul, could you get a catering quote by Friday 9 October, since you've worked with the caterer before? I'll take the agenda. If either doesn't fit your week, reply here or DM me today and I'll rearrange.",
+   "lang": "en",
+   "note": "In a group thread, name one owner per task with a date and why them; 'someone should' is how nothing gets booked."
   }
  ]
 }

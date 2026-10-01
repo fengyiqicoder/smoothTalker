@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "small-talk-001",
@@ -204,6 +204,13 @@
    "reply": "Hello Evelyn, I'm Josh, I'll be coming to see you on Tuesdays. I couldn't help noticing the sailing boat on your windowsill. Is there a story behind it?",
    "lang": "en",
    "note": "Start from something in her room and let her stories lead; keep the teaching years for another visit, and let quiet stretches be quiet."
+  },
+  {
+   "id": "small-talk-030",
+   "situation": "Entrei para o coral do bairro aqui em Porto Alegre há duas semanas e, no intervalo do ensaio, acabo ficando sozinha num canto. A senhora que canta ao meu lado, Dona Célia, está no coral há 20 anos e hoje trouxe um bolo de fubá para todo mundo. Quero puxar conversa com ela no intervalo de hoje.",
+   "reply": "Dona Célia, esse bolo de fubá está uma delícia, é receita de família? Eu entrei faz só duas semanas e ainda estou meio perdida por aqui. Vinte anos de coral, hein: como a senhora começou?",
+   "lang": "pt",
+   "note": "Comece pelo que está na mesa e deixe a próxima pergunta sair da resposta dela."
   }
  ]
 }

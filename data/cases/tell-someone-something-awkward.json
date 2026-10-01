@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -204,6 +204,13 @@
    "reply": "Leo, quick one before it goes out: it's still pink by the bone. Back in the oven for a bit should sort it, and I'll top up everyone's drinks in the meantime. Happens to everyone with their first roast!",
    "lang": "en",
    "note": "Undercooked chicken can make people ill, so say it straight away, quietly in the kitchen, never at the table."
+  },
+  {
+   "id": "tell-someone-something-awkward-030",
+   "situation": "好朋友小美正在直播卖她自己做的手工香皂，现在在讲薰衣草款，但直播间挂出来的购物链接是玫瑰款，评论区已经有人在问了。我在看直播，想马上在微信上私信提醒她。",
+   "reply": "小美，直播间挂的链接是玫瑰款，不是你正在讲的薰衣草款，评论区已经有人在问了，换一下就好。直播手忙脚乱太正常了，讲得很好，继续！",
+   "lang": "zh",
+   "note": "她马上就能改，所以要快、私下、一句话说清，别在评论区提醒。"
   }
  ]
 }

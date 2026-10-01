@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -211,6 +211,13 @@
    "reply": "Neil, we're both getting heated, and 'you chose to live there' was unfair. I'm sorry. I can hear that you feel like you're carrying Dad on your own. I don't want to sort this out shouting down the phone. Can I call you Sunday at 3 so we can talk properly about sharing it? We're both doing this because we love him.",
    "lang": "en",
    "note": "Reflect the load he's carrying without arguing over 'once a month'; who does what gets worked out on Sunday, not now."
+  },
+  {
+   "id": "de-escalate-argument-031",
+   "situation": "我和女朋友小雯在微信上为彩礼吵起来了：她爸妈希望8.8万，我爸妈说只能拿5万。她说我们家不重视她，我回了句“你们家这是在卖女儿吗”，她就不回了。她今晚10点下班。",
+   "reply": "小雯，刚才“卖女儿”那句话太难听了，是我说错了，对不起，你和你爸妈都不该被这么说。我知道你是觉得我们家没把你当回事。钱的事今晚先不吵，你10点下班我给你打电话，我们俩先商量好，再一起去跟两边爸妈说。我想娶的是你，这一点不会变。",
+   "lang": "zh",
+   "note": "牵涉两家的事，先收回伤到她家人的那句话；数字留到电话里谈，先让两个人站在同一边。"
   }
  ]
 }

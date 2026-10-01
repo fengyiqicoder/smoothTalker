@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -211,6 +211,13 @@
    "reply": "Hi everyone, thank you for reading The Salt House early, and to those of you who wrote to me about the ending, it made my month. The book came out on Tuesday, and if you have a minute, an honest review on its page at example.com/salt-house is how readers find a self-published book. Two or three sentences is plenty, and please mention that you got a free advance copy, since the store asks for that. Thank you either way, Leah",
    "lang": "en",
    "note": "Ask for an honest review, not a good one, and build the free-copy disclosure into the ask so nobody's review gets pulled."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-031",
+   "situation": "我叫林夏，开了一家两个人的UI设计工作室“木格设计”。给“青禾茶饮”做的小程序界面9月初上线，对接人是市场部的苏经理，她上周说新界面上线后线上下单多了不少。想请她同意把青禾的logo放在我们官网“合作客户”一栏，配一句项目介绍，上线前发给她确认。",
+   "reply": "苏经理您好，听您说新界面上线后线上下单多了不少，我们特别开心。想跟您提个小请求：能否把青禾的logo放在木格设计官网的“合作客户”一栏，配一句“为青禾茶饮设计小程序界面”？页面上线前我会先发截图给您确认，您想改哪里我们就改哪里。如果公司对使用logo有规定，或者不方便，完全没关系，谢谢您这次的信任。林夏",
+   "lang": "zh",
+   "note": "用客户的logo比要一条评价更重：说清放在哪、写什么、上线前给她确认，并给公司规定留出口。"
   }
  ]
 }

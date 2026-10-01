@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -210,6 +210,13 @@
    "reply": "Hi Danielle, I'm applying for a youth sports leader apprenticeship at Oakhurst Leisure Centre, and they need a character reference by Friday 16 October. You've coached me for six years, so you'd be my first choice. If it helps, the things that matter most for the role are helping you run the Saturday beginners' group for the last two years and the Level 1 coaching certificate I passed in June. I can send you the form link and those points tonight. If the timing's bad, no problem at all. Thanks, Sam",
    "lang": "en",
    "note": "With no work history, a coach stands in for a manager: say why her, the deadline, and the two things she has seen with her own eyes."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-031",
+   "situation": "I'm Nadia Rahman, applying to be school bursar at Willowbrook School, and they need a reference from a finance role by Friday 16 October. My old manager at Calder Housing Trust, Geoff Barnes, retired last year, and my former colleague Lynn gave me his number after checking with him. Under Geoff I ran the 2023 payroll changeover, and we closed that year-end audit with no findings.",
+   "reply": "Hi Geoff, it's Nadia Rahman from Calder Housing Trust. Lynn passed on your number after checking with you, and I hope retirement is treating you well. I'm applying to be school bursar at Willowbrook School, and they need a reference from a finance role by Friday 16 October. Would you be willing to be that person? If it helps, the things they'll care most about are the 2023 payroll changeover I ran and the year-end audit we closed with no findings. If you'd rather keep retirement free of this sort of thing, no problem at all.",
+   "lang": "en",
+   "note": "A retired referee owes you nothing: say how you got the number, put the deadline in the first message, and make the out respect that he's stepped back."
   }
  ]
 }

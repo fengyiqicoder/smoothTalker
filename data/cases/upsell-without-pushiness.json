@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -204,6 +204,13 @@
    "reply": "Hi Ms Reyes, the spare bedroom is booked for Wednesday 14 October at $420. Since you mentioned the bike scuffs in the hallway, I could paint it straight after on Thursday 15 October for $260, which is $60 less than a separate visit later because I'll already be set up. Honestly, if it's only the scuffs, I can leave you the leftover white and a touch-up might be all it needs. The bedroom on its own is completely fine; just let me know if you'd like the hallway added.",
    "lang": "en",
    "note": "The suggestion comes from her own comment, the saving is real rather than a deadline, and the free option sits right next to the paid one."
+  },
+  {
+   "id": "upsell-without-pushiness-030",
+   "situation": "我在一家小眼镜店上班。顾客王师傅来配近视眼镜，选了380元的普通树脂镜片，配镜时提到他晚上跑网约车，对面车灯晃得眼睛难受。我们有一款带防眩光膜层的镜片，贵260元，能减少镜片表面的反光，但对迎面车灯直射的帮助有限。",
+   "reply": "王师傅，镜片就按您选的380元这款配，没问题。您说晚上开车车灯晃眼，我们有一款带防眩光膜层的，贵260元，能减少镜片本身的反光，但对迎面车灯直射的帮助有限，不是换了就完全不晃。您觉得值就换，不需要的话就按原来的配，都可以。",
+   "lang": "zh",
+   "note": "如果他说晃得越来越厉害，建议他先去医院眼科检查，而不是靠镜片解决。"
   }
  ]
 }

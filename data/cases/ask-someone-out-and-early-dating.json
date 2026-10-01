@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -210,6 +210,13 @@
    "reply": "Hi Ben, it's Lauren, Aisha's friend. She's been very pleased with herself about setting us up, so I figured one of us should go first. She tells me you're new from Glasgow and into jazz: the Blue Heron has a free jazz night on Thursdays, or there's coffee on Saturday if you'd rather keep it simple. And no pressure at all if set-ups aren't your thing.",
    "lang": "en",
    "note": "A set-up has already done the introductions: name the friend, use one thing you were told, offer a plan and a no-fault out."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-031",
+   "situation": "First date last night with Tomás at a Peruvian place, and he quietly paid the whole bill while I was in the bathroom. We talked for ages about his plan to finally learn to surf this winter. I want to thank him and ask for a second date, my treat, Friday or Saturday.",
+   "reply": "I had a really good time last night, and thank you for dinner, that was very smooth of you. Next one's my treat, no arguments: Friday or Saturday? I want to hear more about this surfing plan before you get too good to talk to me.",
+   "lang": "en",
+   "note": "Thank them once and turn the bill into the reason for the next date; a debate about who pays kills the mood."
   }
  ]
 }
