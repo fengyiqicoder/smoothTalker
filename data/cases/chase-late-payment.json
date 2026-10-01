@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -169,6 +169,13 @@
    "reply": "Hi Brendan, thanks for settling September's invoice #0905 yesterday. October's invoice #1005 for $1,200 is attached, due on Thursday 8 October. Over the last four months payments have arrived 10 to 15 days after the due date, and I'd rather neither of us had to think about reminders. Could you set up a recurring bank transfer of $1,200 on the 8th of each month, starting this month? If another date suits your cash flow better, tell me which and I'll move the due date to match.",
    "lang": "en",
    "note": "A repeat late payer: thank them for the last payment, state the pattern as a fact, and propose a system instead of another reminder."
+  },
+  {
+   "id": "chase-late-payment-025",
+   "situation": "我在小区门口开五金店。老顾客王师傅做装修，7月到9月在我这赊了三次材料，一共1,380元，单子上都有他签字，当时说每月月底结，到现在一次都没结。他人挺好，我以后还想做他生意，想在微信上跟他说。",
+   "reply": "王师傅，跟您对一下账：7月到9月您在店里拿了三次材料，一共1,380元，单子上都有您签字，我拍照发您。当时说的是月底结，这三个月还没结。麻烦10月10日周六前结一下，微信转账就行。一次不方便的话，先结一半，剩下的10月底前结清也可以。",
+   "lang": "zh",
+   "note": "熟客赊账也按催款写：明细、金额、原定时间和一个新日期；结清之前，先别再赊新的。"
   }
  ]
 }

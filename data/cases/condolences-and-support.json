@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -169,6 +169,13 @@
    "reply": "田中部長\nこのたびはお母様のご逝去の報に接し、心よりお悔やみ申し上げます。昨年お土産にいただいたお母様の梅干しの味を、今もよく覚えております。10月8日（木）の定例会議はこちらで延期いたしますので、お仕事のことはどうかお気になさらず、ご家族とのお時間を大切になさってください。ご返信には及びません。",
    "lang": "ja",
    "note": "ビジネスでも一つの具体的な思い出と、自分で決められる仕事の配慮だけを書き、「重ね重ね」などの忌み言葉は避けます。"
+  },
+  {
+   "id": "condolences-and-support-025",
+   "situation": "I'm Dr. Amara Bello, a vet at Larkfield Vet Clinic. Yesterday we put Mr. Okoye's 16-year-old cat, Pepper, to sleep; he'd brought her in every year since she was a kitten, and she always purred on the exam table. We send a handwritten card, and we'll post Pepper's clay paw print to his home next week.",
+   "reply": "Dear Mr. Okoye,\nAll of us at Larkfield were so sorry to say goodbye to Pepper yesterday. Sixteen years of check-ups, and she purred on the exam table every single time, which hardly any cat does. We'll post her clay paw print to you next week, so there's nothing you need to do. No need to reply to this card.\nWith warm wishes,\nDr. Amara Bello and the Larkfield team",
+   "lang": "en",
+   "note": "From a business, the card is only for him: no invoice, no reminders, no booking prompts."
   }
  ]
 }

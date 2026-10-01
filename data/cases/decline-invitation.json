@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -61,7 +61,7 @@
   {
    "id": "decline-invitation-009",
    "situation": "My ex, Daniel, and I dated for four years and stayed friendly after we split in 2022. He just sent me an invite to his wedding on Saturday November 21. I'm genuinely happy for him, but I don't want to go.",
-   "reply": "Daniel, thank you for inviting me, it really means a lot that you'd want me there. I won't be coming on the 21st, but I'm so happy for you both. I hope it's a brilliant day.",
+   "reply": "Daniel, thank you for inviting me, it really means a lot that you'd want me there. I won't be coming on the 21st, but I'm so happy for you. I hope it's a brilliant day.",
    "lang": "en",
    "note": "No reason and no alternative date, because you wouldn't go on any date; the warmth does the work, and there's no second apology."
   },
@@ -169,6 +169,13 @@
    "reply": "王经理，谢谢您的邀请，也谢谢这一年的配合。10月9日的饭我就不去了，我们员工手册规定采购岗不能接受供应商宴请，这个我得守着。下个月您来公司对年度合同，结束后我请您在楼下喝杯咖啡，咱们好好聊聊明年的计划。",
    "lang": "zh",
    "note": "The policy is the one reason, stated once; check whether your policy also covers small treats before offering the coffee."
+  },
+  {
+   "id": "decline-invitation-025",
+   "situation": "My friend Jade invited me to her baby shower on Saturday October 17. My husband and I are in the middle of IVF and I can't face a room full of baby games right now, but I haven't told Jade about the IVF and don't want to. I'm genuinely happy for her and would like to drop a gift round to her place next week.",
+   "reply": "Jade, thank you so much for the invite. I can't make the shower on the 17th, but I'm so happy for you. Could I drop a little something round for the baby one evening next week?",
+   "lang": "en",
+   "note": "A private reason can stay private: 'I can't make it' is a complete and true answer, and the gift shows the no isn't about her."
   }
  ]
 }

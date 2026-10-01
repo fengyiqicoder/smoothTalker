@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "decline-request-001",
@@ -169,6 +169,13 @@
    "reply": "Dona Lurdes, obrigada por confiar em mim, sei que ir ao caixa eletrônico anda difícil para a senhora. Guardar a sua senha eu não vou: senha de cartão eu não guardo de ninguém, é uma regra minha com todo mundo. Mas na quinta de manhã posso ir com a senhora até a agência, para ver com o gerente que outras opções existem. É só me avisar.",
    "lang": "pt",
    "note": "A regra protege as duas: a senha fica só com ela. A ida à agência é o sim menor, e só entra porque é real."
+  },
+  {
+   "id": "decline-request-025",
+   "situation": "小区业主群里的王阿姨私信我，让我在要求更换物业公司的联名信上签字，说已经有60多户签了。我对现在的物业还算满意，不想签。平时跟王阿姨关系不错，在电梯里经常聊天。",
+   "reply": "王阿姨，谢谢您特意来问我，这事您张罗得挺辛苦的。联名信我就不签了，我对现在的物业还算满意，不打算参与换物业的事。咱们平时该怎么聊还怎么聊，您别往心里去哈。",
+   "lang": "zh",
+   "note": "一句真实理由就够，不评价联名对错，也不跟她争物业好坏；她再劝，就说“我的想法还是一样”。"
   }
  ]
 }

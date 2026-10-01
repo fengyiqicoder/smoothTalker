@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -169,6 +169,13 @@
    "reply": "你好，说一下10月10、11日这个周末。浩浩10月12日周一期中考试，他跟我说想在家复习，但不太好意思跟你开口。我跟他说这事最好他自己跟你商量，所以麻烦你10月8日周四前给他打个电话，你们俩定。不管最后在哪边过，我这边都配合。谢谢。",
    "lang": "zh",
    "note": "State the fact once and hand the conversation back to father and son, so the child is never the messenger."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-025",
+   "situation": "Our son Max (10) has asked both me and my ex, Laura, for a games console for Christmas, about £280. Last year we both bought him the same scooter. I'd like to suggest we split the console 50/50 as a joint present and each do smaller gifts separately; I'm happy to order it, and I need to know by Sunday 1 November.",
+   "reply": "Hi Laura, Max has asked us both for a games console for Christmas, about £280. Would you like to make it a joint present from both of us, £140 each, and we each do smaller gifts separately? I'm happy to order it and send you the receipt. Could you let me know by Sunday 1 November? Thanks.",
+   "lang": "en",
+   "note": "Leave last year's double scooter out of it; the proposal alone prevents a repeat without sounding like a complaint."
   }
  ]
 }

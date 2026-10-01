@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -169,6 +169,13 @@
    "reply": "Hi Ingrid, I need to pause our runs for a few weeks: I sprained my ankle on Sunday and my physio says no running for four weeks. Sorry to leave you without a running buddy at 6:30. Two options: we walk together on Thursdays at the usual time, since walking's fine, or we pick the runs back up on Tuesday 3 November. Would either of those suit you?",
    "lang": "en",
    "note": "Pausing a standing plan: lead with the pause, give it an end date, and offer a smaller version in the meantime."
+  },
+  {
+   "id": "cancel-or-reschedule-025",
+   "situation": "好朋友小雨上周刚分手，我们约了这周六10月3日下午陪她去看电影，她说这几天就盼着这个。结果我妈周五要做个小手术，我得回老家陪两天，周日晚上才回来。想改到10月10日周六或11日周日下午，票我来买，也想今晚9点先给她打个电话。",
+   "reply": "小雨，周六的电影我得改期：我妈周五要做个小手术，我得回老家陪两天，周日晚上才回来。你这几天一直盼着，我真的很过意不去。今晚9点我给你打个电话好不好？电影改到10月10日周六下午或者11日周日下午，票我来买，你挑一天。",
+   "lang": "zh",
+   "note": "对方正难受时取消，先给一个不用等的替代（今晚的电话），再给两个具体日期。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -169,6 +169,13 @@
    "reply": "Marcus, thank you for telling me, I know that wasn't easy. Eighteen months still counts, and nothing about this changes how I see you. No need to reply properly to this. I'll be at our usual spot by the station on Wednesday morning and I'd love to see you there; if you'd rather not, just send 'next week' and that's completely fine.",
    "lang": "en",
    "note": "No lecture, no day counting, no questions about meetings unless he raises them; the job is to lower the shame, not to fix the drinking. If he says he feels unsafe or talks about harming himself, call emergency services or a crisis line with him."
+  },
+  {
+   "id": "check-in-on-someone-struggling-025",
+   "situation": "同期の山本くんが先週、課長昇進試験に落ちたと人づてに聞きました。それから昼ご飯も一人で食べていて、チャットの返事も短いです。私は試験を受けていません。前はよく二人で会社近くのラーメン屋に行っていました。",
+   "reply": "山本くん、試験のこと聞きました。結果がどうでも、山本くんの仕事ぶりの評価は私の中で変わらないです。返信は気にしないでね。金曜のお昼、久しぶりにあのラーメン屋行かない？気が乗らなければ「また今度」の一言で全然大丈夫です。",
+   "lang": "ja",
+   "note": "職場の同僚には詳しく聞かず、いつもの場所への小さな誘いと、一言で断れる逃げ道だけを添える。"
   }
  ]
 }

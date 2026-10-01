@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -168,6 +168,13 @@
    "reply": "Subject: German players asking for Tidewell in German\nHi Ines,\n14 of Tidewell's recent Steam reviews are in German, and several of them ask for a translation. I'm a freelance English-to-German game translator; after I localised Mossgrove last year, German-speaking players went from 3% to 11% of its sales. Would a free German sample of the first level's text be useful to you? If it's not relevant, a 'no' is genuinely helpful.\nLena",
    "lang": "en",
    "note": "The hook is evidence from their own reviews, and the ask is a free sample, not a call."
+  },
+  {
+   "id": "cold-outreach-025",
+   "situation": "我是苏州的婚礼摄影师阿哲，今年拍了32场婚礼，其中6场在园林婚礼场地“临水园”。临水园的婚礼策划负责人许经理最近在朋友圈说，在整理明年推荐给新人的供应商名单。我想先私信问她能不能发一套我在临水园拍的样片给她看。",
+   "reply": "许经理您好，看到您在朋友圈说正在整理明年推荐给新人的供应商名单。我是苏州的婚礼摄影师阿哲，今年拍了32场婚礼，其中6场就在临水园。方便的话，我先把在临水园拍的一套样片发给您看看？不合适的话，回一句“不用”也很有帮助。",
+   "lang": "zh",
+   "note": "想进推荐名单，先只请对方看一套在她场地拍的样片，名单的事等她看完再谈。"
   }
  ]
 }

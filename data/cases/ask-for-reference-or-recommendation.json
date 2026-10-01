@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -168,6 +168,13 @@
    "reply": "Hi Joanne, I wanted you to hear this from me first: I've applied for the internal QA analyst role on the product team. Ben would like to speak to you by Friday 9 October, and I'd be grateful if you'd be my reference. If it helps, the most relevant things for QA are the 40 saved-reply templates I wrote and the bugs I log for product, 31 this quarter. If you'd like to talk it through first, I'm free any time this week. Thanks, Maya",
    "lang": "en",
    "note": "For an internal move, your manager hears it from you before the hiring manager calls; the reference ask comes second."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-025",
+   "situation": "I'm Leah. My old manager Grace has already been a reference for me twice this year, for Fenmore in March and Tallis in June; I didn't get either job and never told her how they ended. Now I'm in the final round for an operations manager role at Brookline Health, and they'll call references between Monday 12 and Friday 16 October. I'd like her to mention the 2024 warehouse consolidation I led and the 15% cut in overtime; my old colleague Tom could also do it if she'd rather not.",
+   "reply": "Hi Grace, I owe you an update first: neither Fenmore nor Tallis came through, and I should have told you sooner. Thank you for doing both. I'm now in the final round for an operations manager role at Brookline Health, and they'd like to call references between Monday 12 and Friday 16 October. I know this would be the third time this year, so please say no if it's one too many; I have someone else I can ask. If you're up for it, the things they care most about are the 2024 warehouse consolidation and the 15% cut in overtime. Thanks, Leah",
+   "lang": "en",
+   "note": "A repeat ask starts by closing the old loops, then makes the no easier than usual because the favour has added up."
   }
  ]
 }

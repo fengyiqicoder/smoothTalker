@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -169,6 +169,13 @@
    "reply": "闺女，有个不好的消息，想先跟你说。豆豆查出了肝癌晚期，兽医说它现在已经很痛苦，建议让它安详地走，我和你爸商量后同意了，定在这周六上午。我知道你跟豆豆最亲，人又在英国赶不回来，这个消息对你来说太难受了。周六我们开视频，你可以陪着它、跟它说说话。今晚你想聊的话，随时打给我。",
    "lang": "zh",
    "note": "前两句就把事情说清，不绕弯；给她一个能参与的方式，再留出随时可以聊的口子。"
+  },
+  {
+   "id": "deliver-bad-news-025",
+   "situation": "My neighbours Pat and Leo are away until Sunday. In last night's storm the big oak in my garden came down and flattened about 4 metres of their back fence and smashed their greenhouse; nobody was hurt and I've taken photos. I reported it to my home insurer this morning, a tree surgeon is coming Saturday morning to clear it, and I've decided to pay for the fence and greenhouse myself if insurance doesn't. Texting them now.",
+   "reply": "Pat, Leo, I've got some news you won't love, and I wanted you to hear it from me before you get home. In last night's storm our big oak came down across your garden: about 4 metres of your back fence is flattened and the greenhouse is smashed. Nobody was hurt. I'm so sorry, I know this is the last thing you want to come back to. I reported it to my insurer this morning, a tree surgeon is clearing it on Saturday morning, and if insurance doesn't cover the fence and greenhouse, I'll pay for them myself. Photos below, and call me any time if you want to talk it through.",
+   "lang": "en",
+   "note": "Lead with the damage and that nobody was hurt, then what is already in motion; check the policy before saying what insurance will pay."
   }
  ]
 }

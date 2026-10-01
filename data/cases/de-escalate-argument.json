@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -169,6 +169,13 @@
    "reply": "Raj, I don't want to do this in front of Arjun and Maya. I got loud about the card bill and I'm sorry for that. Can we finish dinner and talk properly at 8:30, once they're in bed? We'll sort it out together.",
    "lang": "en",
    "note": "Then give the kids one calm line, like 'We disagreed about money and we're going to talk it through later', and keep the 8:30 time."
+  },
+  {
+   "id": "de-escalate-argument-025",
+   "situation": "My stepson Ethan, 16, and I are arguing in the hallway because I took his phone at 11pm on a school night. He shouted 'you're not my dad, you don't get to make rules', and I shot back 'while you live under my roof you do'. His mum is at work until late tonight but off tomorrow.",
+   "reply": "Okay. We're both heated, and that 'my roof' line was out of order, I'm sorry. You're right, I'm not your dad, and I can hear how angry you are that it was me who took your phone. I'm not going to argue about it tonight. Let's sit down with your mum tomorrow after school and sort out the phone rules together.",
+   "lang": "en",
+   "note": "With a stepchild, don't fight the 'not my dad' line; own your part, agree with what's true, and bring their parent into the follow-up."
   }
  ]
 }

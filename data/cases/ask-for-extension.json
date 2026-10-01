@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -169,6 +169,13 @@
    "reply": "@Grace @Owen heads-up on the release: QA found a crash at login on older phones, so I'd like to move the release from Tuesday 6 October to Friday 9 October to fix and retest it properly. That clashes with the launch email on Wednesday the 7th. Could the email move to Monday the 12th, or go out on the 7th as a 'coming Friday' announcement? Which works better on your side?",
    "lang": "en",
    "note": "In a public channel, tag the people downstream and give them a choice about their part, not just your new date."
+  },
+  {
+   "id": "ask-for-extension-025",
+   "situation": "I'm a policy analyst. I told my director, Ruth, I'd have the housing survey report to her by Friday Oct 9 for the council briefing on Wednesday Oct 14. That's on me: I underestimated the 1,800 open-text responses. The numbers and charts will be done by Friday, but the themes from the comments won't be ready until Tuesday Oct 13.",
+   "reply": "Ruth, a heads-up on the housing survey report: I underestimated the 1,800 open-text responses. I can send the numbers and charts by Friday 9 October as planned, and the themes from the comments by Tuesday 13 October, which still leaves a day before the briefing on the 14th. Would that work, or would you rather I trim the comment analysis and send everything on Friday?",
+   "lang": "en",
+   "note": "When the delay is your own misjudgment, say so in one line, ask a week early, and offer the split or the cut."
   }
  ]
 }

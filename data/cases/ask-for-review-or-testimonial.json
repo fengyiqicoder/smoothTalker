@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -169,6 +169,13 @@
    "reply": "王经理，谢谢您特意来说！两天80个人，听到大家都满意，我们特别开心。想跟您提个小请求：您说园区里有几家公司也在找团建，方便的话把我的微信推给他们就行，不用多介绍。不方便也完全没关系，谢谢您这次的信任。",
    "lang": "zh",
    "note": "B2B推荐请求接住对方自己提到的线索，只请她做一件很小的事，再给一个真的退路。"
+  },
+  {
+   "id": "ask-for-review-or-testimonial-025",
+   "situation": "I run a small Thai takeaway, Lemongrass Lane. A regular, Mr. Evans, told us at pickup on Friday that his pad thai was cold and the order was 25 minutes late; we were short-staffed. We normally text customers our review link after an order, but I don't want to ask him for a public review. I'd like to ask him privately what else went wrong and give him his next pad thai free.",
+   "reply": "Hi Mr. Evans, thank you for telling us on Friday that your pad thai was cold and the order was 25 minutes late. We were short-staffed, and that's on us, not you. If anything else wasn't right, could you reply here and tell me? It comes straight to me, not to a review site. Your next pad thai is on us, whenever you next order.",
+   "lang": "en",
+   "note": "After a bad experience, swap the public review ask for private feedback, and never link the free meal to a review."
   }
  ]
 }

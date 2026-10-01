@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -169,6 +169,13 @@
    "reply": "Morning all, I'm unwell and won't be in today. Olivia is running the 9am huddle and taking escalations, so anything that would normally come to me goes to her. I'll check messages once at lunchtime and let you know about tomorrow by 5.",
    "lang": "en",
    "note": "Telling your own team: the same three lines, but the cover has to say exactly where their questions go now."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-025",
+   "situation": "On 18 September I emailed my manager, Karen, asking for Monday 2 to Friday 6 November off for my brother's wedding in Lisbon, back on Monday 9 November. Theo has agreed to cover the weekly supplier report that week. No reply after almost two weeks, and flight prices keep going up.",
+   "reply": "Hi Karen, following up on my leave request from 18 September: Monday 2 to Friday 6 November, for my brother's wedding in Lisbon, back on Monday 9 November. Theo has agreed to cover the weekly supplier report that week. Flight prices are climbing, so could you let me know by Wednesday 7 October? If it's easier, I can put it in the leave system now for you to approve there.",
+   "lang": "en",
+   "note": "Silence on planned leave gets one follow-up with the dates, the cover and a date you need an answer by; don't treat silence as approval or book before it's confirmed. If there's still no reply, ask HR or the next manager up how to get it signed off."
   }
  ]
 }

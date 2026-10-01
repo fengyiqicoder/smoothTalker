@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -162,6 +162,13 @@
    "reply": "王女士，很高兴您喜欢这组周岁照！您提到爷爷奶奶不太会用手机看照片，如果想让他们拿在手里翻，我们可以做一本30页的实体相册，880元，制作大概两周。电子版您打印几张放相框里也很好，不做相册完全没问题。需要的话回我一句，我把排版先发您看。",
    "lang": "zh",
    "note": "在对方满意之后提，理由来自她自己说的话，价格和工期说清，并给一个不花钱的替代。"
+  },
+  {
+   "id": "upsell-without-pushiness-024",
+   "situation": "I'm a receptionist at a vet clinic. Mr. Alvarez is on the phone booking his 9-year-old lab, Biscuit, for vaccinations on Tuesday Oct 6 at 4pm. At Biscuit's April visit the vet noted tartar and recommended a dental check within six months; adding it to Tuesday's visit is $35 and 15 extra minutes, against $60 as a separate appointment.",
+   "reply": "Lovely, Biscuit's booked for his vaccinations on Tuesday 6 October at 4pm. One thing from his notes: in April the vet suggested a dental check within six months because of some tartar. We can add it to Tuesday's visit for $35 and about 15 extra minutes, or it's $60 as a separate appointment later. Totally fine to keep it to the vaccinations, just let me know if you'd like it added.",
+   "lang": "en",
+   "note": "The reason comes from the vet's own note, not the receptionist's pitch; state the price and time, then let a no be a no."
   }
  ]
 }

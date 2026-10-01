@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -169,6 +169,13 @@
    "reply": "I know, and I appreciated the April raise. That was the cost-of-living one everyone got, though, and what I'm asking about is the extra work since June: opening up and cashing up as Saturday keyholder, and training the five seasonal staff this summer. That's why I'm asking for $19.50 an hour. If that's not possible now, what would it take, and when could we look at it again?",
    "lang": "en",
    "note": "Separate the across-the-board raise from a raise for added scope, then ask for the path, not just a yes."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-025",
+   "situation": "My manager Paula moves to another team on Monday Nov 16, and her Team Manager role is being advertised externally. I've been her deputy for 18 months and ran our team of 9 on my own during her six weeks away this summer, including the July close. I want to message the hiring manager, our director Sam, to be considered.",
+   "reply": "Hi Sam, I saw the Team Manager role opening when Paula moves on Monday 16 November, and I'd like to be considered for it. I've been Paula's deputy for 18 months and ran the team of 9 on my own during her six weeks away this summer, including the July close. Could we find 30 minutes next week to talk about the role and what you're looking for? I'll apply through the posting too, so I'm in the same process as everyone else.",
+   "lang": "en",
+   "note": "An internal opening: book the conversation, lead with scope you've already carried, and don't ask to skip the process."
   }
  ]
 }

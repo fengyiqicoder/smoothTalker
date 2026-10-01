@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -168,6 +168,13 @@
    "reply": "Oi, Rafael! Te devo uma resposta faz dez dias, desculpa o sumiço: o fechamento do trimestre no trabalho me engoliu. Aquela noite em Pinheiros foi ótima e eu queria muito te ver de novo. Topa um café ou um chope no sábado à tarde? Se não fizer mais sentido pra você, tudo bem, eu entendo.",
    "lang": "pt",
    "note": "Quando quem sumiu foi você: uma linha assumindo, um motivo curto, um convite concreto e uma saída fácil."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-025",
+   "situation": "I've been chatting with Jonah on Hinge for a week. I use a wheelchair, it's in my profile photos, and he's been easy and curious about it. I want to suggest a drink at The Lantern on Thursday 8 October, which has step-free entry, and I'd rather not have a long logistics chat beforehand.",
+   "reply": "I'm enjoying this and I'd rather keep it going in person. How about a drink at The Lantern on Thursday 8 October? I tend to pick places that work for my chair so neither of us has to think about it on the night, and that one's step-free. If Thursday's no good, tell me a night that is.",
+   "lang": "en",
+   "note": "Choosing the venue yourself, with one line on why, sets the logistics without making them the topic of the date."
   }
  ]
 }

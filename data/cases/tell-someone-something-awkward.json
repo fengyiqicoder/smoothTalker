@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -162,6 +162,13 @@
    "reply": "Jen, can I mention something quickly, just between us? During the squats today those leggings went a bit see-through under the studio lights. It happens with lots of black leggings once they've stretched, and I'd want someone to tell me. See you Thursday!",
    "lang": "en",
    "note": "A quiet word after class, not during it; one plain sentence, normalise it, and never bring it up again."
+  },
+  {
+   "id": "tell-someone-something-awkward-024",
+   "situation": "好朋友阿敏明天上午10点要视频面试，今晚跟我视频练习。她身后的晾衣架上挂着几件内衣，镜头里看得很清楚，她自己没发现。",
+   "reply": "敏敏，练得挺好的！有个小细节：你身后晾衣架上的内衣在镜头里能看到，明天面试前收一下或者换个角度就好。在家视频谁都遇到过，明天加油！",
+   "lang": "zh",
+   "note": "明天就要用的镜头，今晚私下一句话说清楚，再给一个马上能做的办法，说完就回到面试本身。"
   }
  ]
 }

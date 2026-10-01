@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "apologize-001",
@@ -169,6 +169,13 @@
    "reply": "Rafa, desculpa, fui eu que estraguei a surpresa da Bia: falei da festa sem querer no almoço de domingo. Você passou dois meses organizando tudo e eu acabei justamente com a parte que mais importava para você. O vídeo com as mensagens dos amigos ela ainda não sabe que existe, então deixa comigo: eu junto tudo e edito até sexta, para no sábado ainda ter uma surpresa de verdade.",
    "lang": "pt",
    "note": "O pedido de desculpas reconhece o que o irmão perdeu, não só o deslize, e a reparação devolve a ele uma parte da surpresa."
+  },
+  {
+   "id": "apologize-025",
+   "situation": "Hier soir, sous la photo Instagram où mon amie Claire montrait sa nouvelle coupe, j'ai commenté « on dirait ma grand-mère » pour rigoler. Une quarantaine de personnes ont liké mon commentaire et Claire a supprimé la photo ce matin. J'ai déjà supprimé mon commentaire et je veux lui écrire en privé.",
+   "reply": "Claire, je suis désolée pour mon commentaire sous ta photo hier soir. C'était une blague nulle, et en public en plus : tu étais contente de ta coupe et je t'ai mise mal à l'aise devant tout le monde. J'ai supprimé le commentaire. Je ne ferai plus ce genre de blague sur toi en public.",
+   "lang": "fr",
+   "note": "Une faute publique s'excuse en privé, avec la réparation déjà faite ; ne pas demander pardon dans le même message."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -169,6 +169,13 @@
    "reply": "Hi Ravi, sounds like you want to get set up on the ticket dashboard. I'll skip tomorrow's 2pm call; instead I'm recording a 10-minute walkthrough and will post it in #support-tools by noon tomorrow, Friday 2 October. If anything's still unclear after watching, drop your questions in the thread and I'll answer them there. Does that work for you?",
    "lang": "en",
    "note": "One recording replaces every future version of this call; send the same link to the next person who books one."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-025",
+   "situation": "青木です。取引先の印刷会社の営業、鈴木さんが、パンフレット案件の細かい確認のたびに1日3〜4回電話をかけてきて、作業がそのたびに止まってしまいます。確認事項はメールでまとめてもらえれば当日中に返信できますし、話す必要があるときは毎週火曜と木曜の16時から15分なら空いています。関係は良好なので角を立てたくありません。",
+   "reply": "鈴木様\nいつもお世話になっております。青木です。パンフレットの件、細かくご確認いただきありがとうございます。今後の確認事項は、お手数ですがメールでまとめてお送りいただけますでしょうか。いただいた分は当日中にお返事いたします。お電話のほうが早い内容は、毎週火曜・木曜の16時から15分ほどお時間をお取りしますので、その枠でご連絡いただけると助かります。この進め方でいかがでしょうか。",
+   "lang": "ja",
+   "note": "電話そのものを断るのではなく、メールと決まった時間枠という代わりの手段を示すと角が立ちません。"
   }
  ]
 }

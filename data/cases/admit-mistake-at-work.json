@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -169,6 +169,13 @@
    "reply": "Marta, I need to flag a mistake: I didn't shut the walk-in door properly when I closed on Tuesday, and the morning team found it at 12°C at 6am. Following the food safety log, they binned about $640 of dairy and prepped food. I've ordered replacements, which arrive by 11am, and we're on a short menu until then. I'm sorry, that one's mine. From tonight I'll add a photo of the closed door and the thermometer to the closing checklist before I lock up.",
    "lang": "en",
    "note": "With food safety, the binning already followed the log; say so plainly and don't suggest anything could have been saved."
+  },
+  {
+   "id": "admit-mistake-at-work-025",
+   "situation": "I'm a team lead. At 6:30 this morning we published release notes that used Halden Bank as a named customer example, which their contract doesn't allow. My report Nina wrote them, but I approved the draft without catching it. I took the page down at 9:40 and need to tell my director, Victor, on Slack.",
+   "reply": "Victor, I approved release notes this morning that named Halden Bank as a customer example, which their contract doesn't allow. The page was live from 6:30 to 9:40, when I took it down. I'm checking with legal by 2pm today whether we need to tell Halden, and I'll draft that note if so. From this week, any customer name in public copy gets checked against the approved reference list before it goes out. The sign-off was mine, so this one is on me.",
+   "lang": "en",
+   "note": "When your team's work goes wrong, the approver owns it upward; don't name the person who drafted it."
   }
  ]
 }

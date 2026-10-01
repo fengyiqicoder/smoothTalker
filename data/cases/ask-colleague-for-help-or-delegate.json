@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -169,6 +169,13 @@
    "reply": "Good question, Femi, and I don't know for certain whether that export can run automatically. I'd rather not guess on something your security team will rely on. I'll check with Ana, our product lead, and email you a clear answer by end of day tomorrow. Is this for a compliance requirement? That'll help me make sure we answer the right question.",
    "lang": "en",
    "note": "Live and on the spot, the same formula works spoken: say it cleanly, name who you'll ask and when, then move the demo on."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-025",
+   "situation": "我上个月刚升组长，组里的老刘比我早来八年，做过很多次验厂。想把新供应商华晟的验厂交给他，10月23日（周五）前出报告，结论是能不能进合格供应商名单、有哪些整改项。怕他觉得我在指挥他。",
+   "reply": "刘哥，想请你负责新供应商华晟的验厂。这块你比组里谁都有经验，交给你最合适。要的结果是10月23日（周五）前出一份报告：能不能进合格供应商名单，有哪些整改项。具体怎么查你来定，需要跟采购那边协调的话告诉我，我去沟通。你手上现在的活排得开吗？",
+   "lang": "zh",
+   "note": "交给比自己资深的人，只说要什么结果和截止日，不列步骤，最后真心问一句他排不排得开。"
   }
  ]
 }

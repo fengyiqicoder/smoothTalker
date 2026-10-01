@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -162,6 +162,13 @@
    "reply": "各位伴郎伴娘，先谢谢大家11月7日（周六）来帮忙！提前跟大家说一下我和阿凯商量好的安排：接亲只做两个简单的小游戏，热闹一下就好；当天不整伴郎伴娘，晚上也不闹洞房，对所有人都一样。那天大家辛苦了，开开心心吃好喝好最重要。有想法的话私下找我或者阿凯就行。",
    "lang": "zh",
    "note": "规则说成对所有人的安排，不提哪两位伴娘的经历，免得她们被单独点出来。"
+  },
+  {
+   "id": "wedding-and-event-host-messages-024",
+   "situation": "We're getting married on Saturday 24 October at a farm venue, outdoors. The venue doesn't allow dogs for any guest, apart from assistance dogs. My friend Priya just asked if she can bring her dog Bruno since it's outside anyway.",
+   "reply": "Thanks for asking, Priya, I know Bruno goes everywhere with you. The venue doesn't allow dogs for any guests, so it's the same for everyone and he'll need to sit this one out. I can't wait to see you on the 24th, and I'll expect a full report on Bruno's evening.",
+   "lang": "en",
+   "note": "The limit comes from the venue and applies to every guest; if she pushes, repeat it once, shorter, without new reasons."
   }
  ]
 }
