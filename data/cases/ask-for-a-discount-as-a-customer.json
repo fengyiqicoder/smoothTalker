@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -162,6 +162,13 @@
    "reply": "Thanks, Ken, that's a fair offer, but 1,000 flyers would just sit in a cupboard. For the 500, could you do $190 if I pay upfront today? If $210 is the price, no problem, I'll go ahead at that.",
    "lang": "en",
    "note": "Turning down a volume upsell: say plainly why it doesn't fit, make one smaller counter, and show you'll buy either way."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-024",
+   "situation": "我们在一家酒店订了18桌婚宴，每桌3,688元，定金已付。酒店规定自带酒水每桌收200元开瓶服务费，我们打算自己带白酒和红酒，一共3,600元。另外还准备在这家酒店给外地亲戚订6间房。想请宴会部的赵经理免掉这笔服务费。",
+   "reply": "赵经理您好，我们在您这里订了18桌婚宴，酒水打算自己带。按规定每桌收200元开瓶服务费，一共3,600元。另外我们还准备在酒店给外地亲戚订6间房，想问这笔服务费能不能免掉？可以的话，房间我这周就跟您这边订好。如果全免不好办，减半也很感谢；实在不行也理解，我们照规定来。",
+   "lang": "zh",
+   "note": "已经是大客户，筹码是追加的客房；先要全免，再给一个减半的台阶，最后说明不行也照常合作。"
   }
  ]
 }

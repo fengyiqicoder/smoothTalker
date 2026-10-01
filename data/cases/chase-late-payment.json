@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Fiona,\nThanks for coming back to me. I've attached invoice #0738 again, along with the two emails sending it to your accounts address on 11 August and 18 September. Clause 4 of our agreement sets payment at 30 days from the invoice date, so the £1,200 was due on 10 September. Could you include it in your next payment run and confirm the date it will go out? If future invoices should go to a different address, tell me which one and I'll use it from now on.\nThanks,\nNadia",
    "lang": "en",
    "note": "'Never received it' gets the proof of sending and the contract date once, no argument, plus a fix for the real cause."
+  },
+  {
+   "id": "chase-late-payment-024",
+   "situation": "I'm a freelance social media manager on a $1,200 monthly retainer with Brendan, who owns two cafés. Invoices go out on the 1st and are due on the 8th; for the last four months he's paid 10 to 15 days late, and only after reminders. He paid September's invoice #0905 yesterday, and October's, #1005, goes out today. I want to fix the pattern without souring things.",
+   "reply": "Hi Brendan, thanks for settling September's invoice #0905 yesterday. October's invoice #1005 for $1,200 is attached, due on Thursday 8 October. Over the last four months payments have arrived 10 to 15 days after the due date, and I'd rather neither of us had to think about reminders. Could you set up a recurring bank transfer of $1,200 on the 8th of each month, starting this month? If another date suits your cash flow better, tell me which and I'll move the due date to match.",
+   "lang": "en",
+   "note": "A repeat late payer: thank them for the last payment, state the pattern as a fact, and propose a system instead of another reminder."
   }
  ]
 }

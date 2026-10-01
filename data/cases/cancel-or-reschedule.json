@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -162,6 +162,13 @@
    "reply": "Bonjour M. Garnier, c'est Claire Dubois. Je dois déplacer notre rendez-vous de demain, vendredi 2 octobre à 8h, pour le tableau électrique : mon train de retour de Lyon est annulé et je ne rentre que samedi. Désolée de vous prévenir la veille, alors que vous m'aviez réservé toute la matinée. Est-ce que mardi 6 ou mercredi 7 octobre au matin vous irait ? Si ce changement vous occasionne des frais, dites-le-moi.",
    "lang": "fr",
    "note": "Avec un artisan, le nom et le rendez-vous d'abord pour qu'il le retrouve, puis deux matinées précises et une offre de couvrir le coût du changement."
+  },
+  {
+   "id": "cancel-or-reschedule-024",
+   "situation": "My neighbour Ingrid and I run together every Tuesday and Thursday at 6:30am. I sprained my ankle on Sunday and my physio says no running for four weeks, though walking is fine. I could walk with her on Thursdays at the usual time, or we could restart our runs on Tuesday 3 November.",
+   "reply": "Hi Ingrid, I need to pause our runs for a few weeks: I sprained my ankle on Sunday and my physio says no running for four weeks. Sorry to leave you without a running buddy at 6:30. Two options: we walk together on Thursdays at the usual time, since walking's fine, or we pick the runs back up on Tuesday 3 November. Would either of those suit you?",
+   "lang": "en",
+   "note": "Pausing a standing plan: lead with the pause, give it an end date, and offer a smaller version in the meantime."
   }
  ]
 }

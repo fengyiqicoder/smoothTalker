@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Mr Clarke, I'd like to request Monday 9 November off for Diwali, to be with my family in Leicester. I'll leave full cover lessons for my four classes that day, ready the Friday before. Could you approve it, or let me know if it needs to go anywhere else?",
    "lang": "en",
    "note": "A religious holiday is a dates-plus-cover request like any other; check the school's leave policy for how it's recorded."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-024",
+   "situation": "I lead a team of five at a call centre and I woke up sick, so I won't be in today. Olivia, our most senior agent, has agreed to run the 9am huddle and take escalations. I need to post in our team WhatsApp group before the 8:30 start.",
+   "reply": "Morning all, I'm unwell and won't be in today. Olivia is running the 9am huddle and taking escalations, so anything that would normally come to me goes to her. I'll check messages once at lunchtime and let you know about tomorrow by 5.",
+   "lang": "en",
+   "note": "Telling your own team: the same three lines, but the cover has to say exactly where their questions go now."
   }
  ]
 }

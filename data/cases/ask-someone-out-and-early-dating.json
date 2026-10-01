@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -161,6 +161,13 @@
    "reply": "Hi Ana, I've really enjoyed our chats about your film course. If you'd ever like to get a coffee somewhere you're not the one making it, I'd love that. My number's 555-0142. If not, no need to reply, and I'll still be in for my usual with zero awkwardness. Leo",
    "lang": "en",
    "note": "Someone at work can't easily say no to a customer's face, so a note lets her answer in her own time, or not at all."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-024",
+   "situation": "Saí com o Rafael há duas semanas, num bar em Pinheiros, e foi ótimo. Aí sumi porque o fechamento do trimestre no trabalho me engoliu, e ele mandou mensagem há dez dias perguntando se estava tudo bem; não respondi. Ainda quero vê-lo e quero retomar sem fazer drama.",
+   "reply": "Oi, Rafael! Te devo uma resposta faz dez dias, desculpa o sumiço: o fechamento do trimestre no trabalho me engoliu. Aquela noite em Pinheiros foi ótima e eu queria muito te ver de novo. Topa um café ou um chope no sábado à tarde? Se não fizer mais sentido pra você, tudo bem, eu entendo.",
+   "lang": "pt",
+   "note": "Quando quem sumiu foi você: uma linha assumindo, um motivo curto, um convite concreto e uma saída fácil."
   }
  ]
 }

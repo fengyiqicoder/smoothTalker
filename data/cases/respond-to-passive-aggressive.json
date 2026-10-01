@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -155,6 +155,13 @@
    "reply": "张总，周六上午的消息我下午才看到，回晚了。月报周一上午10点前发给您。",
    "lang": "zh",
    "note": "私聊回，只回内容：什么时候看到、什么时候交，不解释周末在做什么，也不在群里接这句话；如果周末必须秒回成了常态，再约一对一谈预期。"
+  },
+  {
+   "id": "respond-to-passive-aggressive-023",
+   "situation": "I promised my daughter Maya, 16, I'd be at her volleyball final on Tuesday, and I missed it because a work meeting ran over. Tonight she texted 'Don't worry, I know work comes first 🙂'. She's in her room upstairs, and honestly she's right to be upset.",
+   "reply": "That's fair, Maya, and I'm sorry. I promised I'd be at your final and I let a meeting come first, which isn't how I want it to be. Can I come up and say this properly, and hear how the match went?",
+   "lang": "en",
+   "note": "The dig wraps a real grievance: deal with the contents, don't defend the meeting, and move to face to face."
   }
  ]
 }

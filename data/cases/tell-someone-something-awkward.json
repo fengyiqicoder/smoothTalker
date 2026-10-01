@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -155,6 +155,13 @@
    "reply": "Sophie, petite chose entre nous : dans l'agenda partagé du service, l'intitulé de tes rendez-vous du mardi soir est visible par tout le monde. Si tu les passes en « privé » dans les options du rendez-vous, les autres ne verront plus que « occupé ». Ça arrive à tout le monde avec ces agendas !",
    "lang": "fr",
    "note": "Ne jamais répéter ce qui est écrit dans l'intitulé : on signale le problème et la solution, puis on n'en reparle plus."
+  },
+  {
+   "id": "tell-someone-something-awkward-023",
+   "situation": "I teach a Tuesday and Thursday evening strength class. One of my regulars, Jen, wore black leggings today that went see-through under the studio lights every time we did squats, and she clearly hadn't noticed. I want to say something quietly after class.",
+   "reply": "Jen, can I mention something quickly, just between us? During the squats today those leggings went a bit see-through under the studio lights. It happens with lots of black leggings once they've stretched, and I'd want someone to tell me. See you Thursday!",
+   "lang": "en",
+   "note": "A quiet word after class, not during it; one plain sentence, normalise it, and never bring it up again."
   }
  ]
 }

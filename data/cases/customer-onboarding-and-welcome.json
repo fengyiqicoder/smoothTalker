@@ -4,112 +4,112 @@
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
-   "situation": "I'm a wedding photographer. Couple (Priya and Ben) just paid the deposit for their June 14 wedding. I need their timeline, shot list, and venue contact eventually. Want a welcome email that isn't a novel.",
-   "reply": "Hi Priya and Ben, thank you for booking me for 14 June, I'm genuinely excited about the Hollins Barn setting. Here's what happens next: we'll have a 30-minute planning call in April, and your engagement shoot can be any weekend in May you like. Before the call, could you send me three things by 31 March: your rough day timeline, a list of must-have family groupings, and your venue coordinator's contact? Any questions, reply here or text me on 0161 496 0718; I usually answer within a day. Maria",
+   "situation": "I'm Maria, a wedding photographer. Priya and Ben just paid the deposit for their 14 June wedding at Hollins Barn; we'll have a 30-minute planning call in April. I need their rough timeline, must-have family groupings and venue coordinator's contact by 31 March, and I answer texts on 0161 496 0718 within a day. Want a welcome email that isn't a novel.",
+   "reply": "Hi Priya and Ben, thank you for booking me for 14 June, I'm genuinely excited about the Hollins Barn setting. Here's what happens next: we'll have a 30-minute planning call in April to walk through the day. Before the call, could you send me three things by 31 March: your rough day timeline, a list of must-have family groupings, and your venue coordinator's contact? Any questions, reply here or text me on 0161 496 0718; I usually answer within a day. Maria",
    "lang": "en",
    "note": "Next steps with dates, everything needed in one list with a deadline, and a real person to reach."
   },
   {
    "id": "customer-onboarding-and-welcome-002",
-   "situation": "Ich gebe Online-Nachhilfe in Mathe. Eine Mutter, Frau Becker, hat gerade für ihren Sohn Luca (10. Klasse) ein Paket mit 10 Stunden gebucht. Erste Stunde soll nächste Woche sein.",
+   "situation": "Ich bin Jana Hofmann und gebe Online-Nachhilfe in Mathe per Zoom. Frau Becker hat für ihren Sohn Luca (10. Klasse) ein Paket mit 10 Stunden gebucht; die erste Stunde ist Dienstag, 6. Oktober, 16:30 Uhr, den Link schicke ich am Vortag. Bis Sonntag brauche ich ein Foto der letzten Mathearbeit und das aktuelle Thema; erreichbar bin ich per WhatsApp unter 0176 5550 2231, meist am selben Tag.",
    "reply": "Liebe Frau Becker, vielen Dank für die Buchung, ich freue mich auf die Stunden mit Luca. Die erste Stunde ist am Dienstag, 6. Oktober, um 16:30 Uhr per Zoom; den Link bekommen Sie am Vortag. Damit ich gezielt vorbereiten kann, schicken Sie mir bitte bis Sonntag ein Foto der letzten Mathearbeit und das aktuelle Thema im Unterricht. Bei Fragen erreichen Sie mich per WhatsApp unter 0176 5550 2231, ich antworte meistens noch am selben Tag. Viele Grüße, Jana Hofmann",
    "lang": "de",
    "note": "Termin, Link, eine kurze Liste mit Frist und ein Mensch zum Erreichen. Kein Upsell auf ein größeres Paket."
   },
   {
    "id": "customer-onboarding-and-welcome-003",
-   "situation": "Web design client (Dev, runs a bakery) was supposed to send his photos and menu text last Friday for the site launch on Oct 20. Nothing yet. I don't want to sound annoyed.",
+   "situation": "Web design client (Dev, runs a bakery with a chalkboard menu) was supposed to send his photos and menu text last Friday for the site launch on Oct 20. If I get them by Wednesday we keep that date; otherwise launch moves to the 27th. I don't want to sound annoyed.",
    "reply": "Hi Dev, quick nudge on the photos and menu text for the site. If I have them by Wednesday, we're still on track to launch on 20 October; after that it moves to the 27th. Phone photos are completely fine, and if writing the menu is the hard part, send me a picture of the chalkboard and I'll type it up.",
    "lang": "en",
    "note": "One friendly reminder with the concrete consequence, not a warning, plus a way to make the task smaller."
   },
   {
    "id": "customer-onboarding-and-welcome-004",
-   "situation": "我在大理开民宿。客人林女士刚订了国庆10月2日到4日两晚的洱海景观房，一共1360元已经付了。想发条欢迎微信，顺便要她的到店时间和入住人身份证信息。",
+   "situation": "我是大理民宿“苍洱小院”的阿雯。客人林女士刚订了10月2日到4日两晚的洱海景观房，1360元已付，下午两点后入住，中午12点前退房。想发条欢迎微信，要她10月1日前告诉我到店时间和入住人身份证信息；我白天微信一般一小时内回，国庆古城人多，想提醒她下午五点前到，正好看日落。",
    "reply": "林女士您好，我是苍洱小院的阿雯，谢谢您订了我们的洱海景观房！跟您确认一下：10月2日周五入住，下午两点后可以进房；10月4日周日中午12点前退房，两晚房费1360元已收到。为了提前安排，麻烦您10月1日前发我两样信息：大概几点到店，以及入住人的姓名和身份证号，入住登记要用。有任何问题直接微信我，白天一般一小时内回复。小贴士：国庆古城人多，建议下午五点前到，正好赶上洱海边的日落。",
    "lang": "zh",
    "note": "付款后马上确认日期和金额，一次列清要的信息和截止时间，写明怎么找到人，最后给一个小贴士，不推销。"
   },
   {
    "id": "customer-onboarding-and-welcome-005",
-   "situation": "Kitchen fitter. Client Ruth paid her deposit two weeks ago and the install starts Monday Oct 12. She's emailed twice this week asking if everything is still on track and whether the cabinets have arrived.",
+   "situation": "I'm Dan, a kitchen fitter; client Ruth paid her deposit two weeks ago and the install starts Monday Oct 12: Jake and I arrive at 8am to strip the old units, and worktops get templated Thursday the 15th. The cabinets arrived at our workshop Friday and I checked them myself. She's emailed twice this week asking if it's on track; I need a clear kitchen by Sunday evening, and she can text me on 07700 900456.",
    "reply": "Hi Ruth, yes, everything is on track for Monday 12 October. The cabinets arrived at our workshop on Friday and I checked them against your order myself. Jake and I arrive at 8am on the 12th to take out the old units, and the worktops get templated on Thursday the 15th. The one thing I need from you is a clear kitchen by Sunday evening. Any question before then, text me on 07700 900456 and I'll answer the same day. Dan",
    "lang": "en",
    "note": "Anxiety before the start is about uncertainty, so answer fast and restate the next steps with dates."
   },
   {
    "id": "customer-onboarding-and-welcome-006",
-   "situation": "I run customer success at a small scheduling software company. Harbor Physio (4 clinics) just signed an annual contract; their ops manager is Lena. We need their staff list and a kickoff call booked, and go-live target is Monday Nov 2.",
+   "situation": "I run customer success at a small scheduling software company. Harbor Physio (4 clinics) just signed, and their ops manager is Lena; plan: 45-minute kickoff this week (Thu Oct 1 or Fri Oct 2 at 10am), we build their setup by Fri Oct 23, go-live Mon Nov 2. I need their staff list (name, email, clinic, role) and any treatment types over 60 minutes by Fri Oct 9; I reply within one business day.",
    "reply": "Hi Lena, welcome aboard, and thanks for choosing us for all four Harbor Physio clinics. Next steps: a 45-minute kickoff call this week, then we build your clinics and booking rules by Friday Oct 23, and you go live Monday Nov 2. To keep that date I need two things by Friday Oct 9: your staff list as a spreadsheet (name, email, clinic, role) and any treatment types longer than 60 minutes. Does Thursday Oct 1 or Friday Oct 2 at 10am work for the kickoff? I'm your contact throughout and reply within one business day.",
    "lang": "en",
    "note": "B2B onboarding: one named contact, dated milestones, and the inputs tied to the go-live date so they have a reason to send them."
   },
   {
    "id": "customer-onboarding-and-welcome-007",
-   "situation": "I run small-group puppy training classes. Tom just booked our 6-week Puppy Foundations course for his cockapoo, Biscuit (14 weeks old). First class is Saturday Oct 10 at 9am at Elm Park community hall. I need his vaccination record before the first class.",
+   "situation": "I'm Jess and I run small-group puppy training. Tom just booked our 6-week Puppy Foundations course for his cockapoo, Biscuit, every Saturday from Oct 10 at 9am at Elm Park community hall. I need a photo of his vaccination record by Wednesday Oct 7, owners bring a flat collar or harness, a lead and small treats, and I answer texts on 07700 900456 the same day.",
    "reply": "Hi Tom, thanks for booking Biscuit into Puppy Foundations, we can't wait to meet him. The first class is Saturday Oct 10 at 9am at Elm Park community hall, and the course runs every Saturday until Nov 14. Could you send a photo of Biscuit's vaccination record by Wednesday Oct 7? We ask every owner so the whole group stays safe. On the day, bring a flat collar or harness, a normal lead and a pocket of his favourite small treats. Any questions, reply here or text me on 07700 900456; I usually reply the same day.\nJess",
    "lang": "en",
    "note": "Date and place, the one thing needed with a deadline and a reason, and what to bring as the small welcome touch. No upsell to private sessions yet."
   },
   {
    "id": "customer-onboarding-and-welcome-008",
-   "situation": "我是自由插画师，9月21号接了一个茶饮品牌的包装插画，当时在欢迎邮件里跟客户陈经理说10月9号交初稿。现在印刷厂的刀版图10月8号才能给我，初稿得推到10月14号。想趁早跟她说。",
+   "situation": "我是自由插画师，9月21号接了茶饮品牌的包装插画，当时跟客户陈经理说10月9号交初稿，初稿后她有一周时间反馈。现在印刷厂的刀版图10月8号才能给我，初稿得推到10月14号。想趁早跟她说。",
    "reply": "陈经理您好，提前跟您同步一下：初稿会从10月9日推迟到10月14日（周三）。原因是印刷厂的刀版图10月8日才能出，我想直接按最终尺寸来画，免得初稿之后再大改。之后的节奏不变，初稿后您有一周时间反馈，定稿日期我周五前跟您重新确认。我宁可现在告诉您，也不想让它悄悄拖着。",
    "lang": "zh",
    "note": "发现当初的承诺做不到，要在对方开口问之前说，给新日期和一句原因，并重申后面的节奏。"
   },
   {
    "id": "customer-onboarding-and-welcome-009",
-   "situation": "I make personalised walnut chopping boards and sell them on my own site. Grace just ordered one ($95) engraved 'The Okafor Kitchen, est. 2026' as a housewarming gift for her sister on Saturday Oct 10. I engrave on Thursday and ship by Tuesday. I want the confirmation to double-check the wording.",
+   "situation": "I'm Tom and I make personalised walnut chopping boards at Grain & Co., sold on my own site, and Grace just ordered one ($95) engraved 'The Okafor Kitchen, est. 2026' as a gift for her sister's housewarming on Saturday Oct 10. I engrave Thursday, ship by Tuesday Oct 6, and delivery takes about three days. I want the confirmation to double-check the wording.",
    "reply": "Hi Grace, thank you for your order, what a lovely housewarming gift! Your walnut board goes into the workshop this week and ships by Tuesday 6 October, so it should reach you by Friday 9 October, in time for Saturday. Before I engrave, please check the wording exactly as it will appear: The Okafor Kitchen, est. 2026. Could you reply with a yes or any changes by Thursday 1 October? Engraving can't be undone. Any questions, just reply here and you'll get me.\nTom, Grain & Co.",
    "lang": "en",
    "note": "Confirm the one detail that can't be fixed later, with a deadline tied to when work starts, and a delivery date checked against her event. No upsell."
   },
   {
    "id": "customer-onboarding-and-welcome-010",
-   "situation": "I run a two-person home cleaning business. Marta just booked a fortnightly clean, first one Thursday Oct 8, 9am to 12. I need to know how we get in, whether there are pets, and any rooms or products to avoid. I also want to be clear that ovens and inside windows aren't included.",
-   "reply": "Hi Marta, thanks for booking with us! Your first clean is Thursday 8 October, 9am to 12, then every other Thursday at the same time. Could you reply by Monday the 5th with three things: how we'll get in (you at home, a key safe or a spare key), any pets we should know about, and any rooms or products to avoid? Each visit covers the kitchen, bathrooms, dusting, floors and bins; ovens and inside windows are extras we can quote for any time. Questions, text me on 07700 900456, I usually reply within a couple of hours. Ines",
+   "situation": "I'm Ines and I run a two-person home cleaning business. Marta just booked a fortnightly clean, first one Thursday Oct 8, 9am to 12; each visit covers kitchen, bathrooms, dusting, floors and bins, not ovens or inside windows; by Monday the 5th I need to know how we get in, any pets, and rooms or products to avoid. I answer texts on 07700 900456 within a couple of hours.",
+   "reply": "Hi Marta, thanks for booking with us! Your first clean is Thursday 8 October, 9am to 12, then every other Thursday at the same time. Could you reply by Monday the 5th with three things: how we'll get in (you at home, a key safe or a spare key), any pets we should know about, and any rooms or products to avoid? Each visit covers the kitchen, bathrooms, dusting, floors and bins; ovens and inside windows aren't included. Questions, text me on 07700 900456, I usually reply within a couple of hours. Ines",
    "lang": "en",
    "note": "One list, one deadline, and what's included said once up front, so nobody is disappointed on the first visit."
   },
   {
    "id": "customer-onboarding-and-welcome-011",
-   "situation": "Arrendei o meu T1 em Lisboa, na Rua de Arroios, à Inês Carvalho. Ela entra quinta-feira, 1 de outubro, e já pagou a caução e a primeira renda. Quero mandar uma mensagem de boas-vindas e preciso que me envie a leitura do contador da luz no dia em que entrar.",
+   "situation": "Sou a Marta e arrendei o meu T1 na Rua de Arroios, em Lisboa, à Inês Carvalho, que já pagou caução e primeira renda. Ela entra quinta, 1 de outubro, e a D. Rosa, a porteira, entrega as chaves a partir das 14h. Preciso de uma foto da leitura do contador da luz nesse dia; o meu número é 912 345 678 e costumo responder no mesmo dia.",
    "reply": "Olá Inês, bem-vinda e obrigada pela confiança! Fica combinado assim: na quinta, 1 de outubro, a D. Rosa, a porteira, entrega-lhe as chaves a partir das 14h. No próprio dia só preciso de uma coisa: uma foto da leitura do contador da luz, para a primeira fatura ficar certa. Para qualquer avaria ou dúvida, ligue ou mande mensagem para o 912 345 678; costumo responder no mesmo dia. Boa mudança! Marta",
    "lang": "pt",
    "note": "Primeira mensagem curta: data e hora concretas, um único pedido com o motivo e o contacto de uma pessoa; o inventário vai em anexo, não na mensagem."
   },
   {
    "id": "customer-onboarding-and-welcome-012",
-   "situation": "我在网上卖手机摄影课，399元，8节录播加两次直播答疑。学员刘先生刚付款。第一次直播是10月11日周日晚8点，我需要他进学员群，并在直播前交一张自己拍的照片当点评素材。",
+   "situation": "我是阿宁，网上卖手机摄影课，399元，8节约20分钟的录播，用付款手机号登录，另有两次直播答疑。学员刘先生刚付款，助理小周今天会加他进学员群。第一次直播10月11日周日晚8点，我要他10月9日前往群里发一张自己拍的照片当点评素材；工作日一般两小时内回复。",
    "reply": "刘先生您好，我是阿宁，谢谢您报名手机摄影课！课程已经开通，用付款的手机号登录就能看8节录播，建议先看前两节，每节20分钟左右。第一次直播答疑是10月11日周日晚上8点。直播前麻烦您做两件事：通过助理小周的好友申请，她今天会拉您进学员群；10月9日周五前往群里发一张您自己拍的照片，直播时我会挑来点评。有问题直接回复这条消息，工作日一般两小时内回复。",
    "lang": "zh",
    "note": "自助类产品先告诉对方现在就能做什么，再给下一个带日期的节点，要的东西一次列清。"
   },
   {
    "id": "customer-onboarding-and-welcome-013",
-   "situation": "I'm a self-employed accountant. My new client Mr. Hughes, 81, has hired me for his tax return and doesn't use email, so I'm posting him a welcome letter. I need his pension statements and bank interest letters by Friday Oct 30.",
-   "reply": "Dear Mr. Hughes, thank you for asking me to prepare your tax return, and for the tea when we met last week. Here is what happens next: once I have your papers, I'll prepare the return, post you a copy by mid-November, and go through it with you by phone before anything is submitted. What I need from you by Friday 30 October: your pension statements for the year and any letters from your bank about interest paid, in the enclosed prepaid envelope, or I can collect them on Wednesday 28 October if that's easier. If you have a question at any time, ring the office number at the top of this letter, weekdays 9 to 5, and I'll call you back the same day. Kind regards, Sarah Lin",
+   "situation": "I'm Sarah Lin, a self-employed accountant, and Mr. Hughes, 81, has hired me for his tax return and doesn't use email, so I'm posting a welcome letter with a prepaid envelope. I need his pension statements and bank interest letters by Friday Oct 30 (or I can collect them Wednesday Oct 28); I'll post him a copy of the return by mid-November and go through it by phone before submitting. My office line is answered weekdays 9 to 5.",
+   "reply": "Dear Mr. Hughes, thank you for asking me to prepare your tax return. Here is what happens next: once I have your papers, I'll prepare the return, post you a copy by mid-November, and go through it with you by phone before anything is submitted. What I need from you by Friday 30 October: your pension statements for the year and any letters from your bank about interest paid, in the enclosed prepaid envelope, or I can collect them on Wednesday 28 October if that's easier. If you have a question at any time, ring the office number at the top of this letter, weekdays 9 to 5, and I'll call you back the same day. Kind regards, Sarah Lin",
    "lang": "en",
    "note": "Offline client: a posted letter, a prepaid envelope and a collection option remove every step he'd need help with."
   },
   {
    "id": "customer-onboarding-and-welcome-014",
-   "situation": "陶芸教室をやっています。佐藤さんがお母さんへのプレゼントに体験レッスンのギフトチケット（6,600円）を買ってくれて、お母さんの佐藤恵子さんが10月17日（土）14時の回を予約しました。恵子さんは陶芸がまったく初めてだそうです。",
-   "reply": "佐藤恵子様、ご予約ありがとうございます。娘さんからの素敵な贈り物ですね、お会いできるのを楽しみにしています。レッスンは10月17日（土）14時から約2時間、場所は桜台駅から徒歩5分の教室です。参加される方のほとんどが初めてなので、道具とエプロンはすべてこちらで用意します。汚れてもよい服装で、爪は短めにしてお越しください。作品は約1か月後に焼き上がりますので、郵送をご希望の場合は当日ご住所をお知らせください。ご不明な点はこのメールへの返信か、090-1234-5678までお電話ください。平日は当日中にお返事します。\n陶芸工房つち　山本",
+   "situation": "陶芸工房つちの山本です。佐藤さんが母の恵子さんに体験レッスンのギフトチケット（6,600円）を贈り、陶芸が初めての恵子さんが10月17日（土）14時、約2時間の回を予約しました。教室は桜台駅徒歩5分、道具とエプロンは用意し、汚れてよい服と短い爪でお願いしていて、作品は約1か月で焼き上がり郵送も可、電話は090-1234-5678で平日は当日中に返信します。",
+   "reply": "佐藤恵子様、ご予約ありがとうございます。素敵な贈り物ですね、お会いできるのを楽しみにしています。レッスンは10月17日（土）14時から約2時間、場所は桜台駅から徒歩5分の教室です。参加される方のほとんどが初めてなので、道具とエプロンはすべてこちらで用意します。汚れてもよい服装で、爪は短めにしてお越しください。作品は約1か月後に焼き上がりますので、郵送をご希望の場合は当日ご住所をお知らせください。ご不明な点はこのメールへの返信か、090-1234-5678までお電話ください。平日は当日中にお返事します。\n陶芸工房つち　山本",
    "lang": "ja",
    "note": "ギフトで来る人は自分で選んでいないので、初心者で大丈夫なこと、服装、連絡先を先に伝えて不安を消す。"
   },
   {
    "id": "customer-onboarding-and-welcome-015",
-   "situation": "我开了一家社区托班，收1到3岁的孩子。周女士刚给两岁的女儿乐乐交了10月的托费4800元，10月12日周一开始入托。我需要她家的疫苗接种本、过敏和饮食禁忌，还有能来接孩子的家人名单。",
+   "situation": "我是小橡树托班的陈老师，收1到3岁的孩子。周女士刚给两岁的女儿乐乐交了10月托费4800元，10月12日周一入托，第一周上午9点到11点半适应，第二周全天。10月9日前我需要疫苗本照片、过敏和饮食禁忌、能接孩子的家人名单，名单外的人不能接走孩子；工作日微信一般一小时内回，想提醒她带个孩子喜欢的小玩偶。",
    "reply": "周女士您好，我是小橡树托班的陈老师，谢谢您把乐乐交给我们，10月的托费4800元已经收到。乐乐10月12日（周一）开始入托，第一周建议上午9点到11点半，让她慢慢适应，第二周再改成全天。麻烦您10月9日（周五）前发我三样东西：疫苗接种本的照片；过敏和饮食禁忌，没有也请说一声；能来接她的家人姓名和电话，不在名单上的人我们不会让孩子跟着走。有问题直接微信我，工作日一般一小时内回复。第一周可以带一个她喜欢的小玩偶或小毯子，孩子会安心很多。",
    "lang": "zh",
    "note": "确认日期和费用，一次列清要的材料并说明原因，写清适应期安排，最后给一个让家长安心的小建议，不推销。"
   },
   {
    "id": "customer-onboarding-and-welcome-016",
-   "situation": "I'm a tattoo artist. Chloe just paid a £100 deposit for a botanical forearm piece, booked for Saturday 24 October at 11am at my studio. I send designs two days before, I need her reference photos of the flowers by Sunday 11 October, and I usually reply to messages within a day. I want her to know how to prepare without it reading like a list of rules.",
+   "situation": "I'm Mae, a tattoo artist. Chloe just paid a £100 deposit for a botanical forearm piece, booked for Saturday 24 October at 11am at my studio. I send designs two days before, I need her reference photos of the flowers by Sunday 11 October, and I usually reply to messages within a day. I want her to know how to prepare without it reading like a list of rules.",
    "reply": "Hi Chloe, thank you for booking, I'm really looking forward to this one. Your session is Saturday 24 October at 11am at the studio, and I'll send you the design by Thursday 22 October so there's time for tweaks. The one thing I need from you is a few reference photos of the flowers you'd like, by Sunday 11 October. On the day, eat a proper breakfast and wear a top with loose sleeves; it makes the few hours much comfier. Any questions, message me here and I usually reply within a day. Mae",
    "lang": "en",
    "note": "Prep advice framed as comfort, not rules, and the one input needed dated well before the design is due."
@@ -130,7 +130,7 @@
   },
   {
    "id": "customer-onboarding-and-welcome-019",
-   "situation": "I'm Gareth, a driving instructor. Mr. Shah just paid for a block of 10 lessons for his daughter Priya, who is 17 and has never driven. First lesson is Monday 5 October at 4pm, and I'll pick her up from home. Before then I need her provisional licence number, and to know whether she wears glasses or contacts for driving.",
+   "situation": "I'm Gareth, a driving instructor. Mr. Shah just paid for 10 lessons for his daughter Priya, 17, who has never driven. First lesson is Monday 5 October at 4pm, pickup from home, and it's just getting to know the car on quiet roads. Before then I need her provisional licence number and whether she wears glasses or contacts for driving; I answer texts within a few hours.",
    "reply": "Hi Mr. Shah and Priya, thanks for booking the 10 lessons, I'm looking forward to getting started. Priya, I'll pick you up from home on Monday 5 October at 4pm, and the first lesson is all about the car and quiet roads, so no need to prepare anything. Before Monday, could one of you send me Priya's provisional licence number, and let me know if she wears glasses or contacts for driving? Any questions, just reply here or text me, I usually answer within a few hours. Gareth",
    "lang": "en",
    "note": "The payer and the learner are different people: address both, and speak to the nervous first-timer directly."

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -162,6 +162,13 @@
    "reply": "本日はお時間をいただきありがとうございます。この会社での仕事にやりがいを感じており、これからもここで役割を広げていきたいと考えています。今年4月から在庫管理システムの移行を担当し、棚卸差異を年間1,200万円から300万円まで減らすことができました。また、新人2名の指導も担当しております。そこで、来年4月の係長昇格をご検討いただけないでしょうか。もし現時点で難しければ、何が足りないのか、いつまでに何を示せばよいのかを教えていただけますと幸いです。",
    "lang": "ja",
    "note": "面談では控えめでも具体的に：数字で成果を示し、昇格と道筋を一度ずつお願いする。給与等級も変わるか確認し、合意内容は当日メールで残す。"
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-024",
+   "situation": "I've worked at a garden centre for three years on $17.50 an hour. In April everyone got the same 3% cost-of-living raise. Since June I've been the Saturday keyholder, opening up and cashing up, and I trained the five seasonal staff this summer. I asked my manager Brenda for $19.50 and she said 'you already got a raise in April'.",
+   "reply": "I know, and I appreciated the April raise. That was the cost-of-living one everyone got, though, and what I'm asking about is the extra work since June: opening up and cashing up as Saturday keyholder, and training the five seasonal staff this summer. That's why I'm asking for $19.50 an hour. If that's not possible now, what would it take, and when could we look at it again?",
+   "lang": "en",
+   "note": "Separate the across-the-board raise from a raise for added scope, then ask for the path, not just a yes."
   }
  ]
 }

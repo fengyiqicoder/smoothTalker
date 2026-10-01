@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -155,6 +155,13 @@
    "reply": "Subject: Your October box now ships Monday 12 October\nHi there, your October coffee box will ship on Monday 12 October instead of Monday 5 October, because our roaster's machine broke down this week. If you're happy to wait, you don't need to do anything: it ships on the 12th and I'll send tracking the same day. If you'd rather skip October, just reply 'skip' and I'll refund your $24 in full that day. I'll be in touch again on the 12th when the boxes go out.\nPriya",
    "lang": "en",
    "note": "Subscribers have already paid, so the refund has to be a one-word reply, and doing nothing means waiting."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-023",
+   "situation": "我开家具店。顾客陈先生的三人沙发（订单尾号6630）原定10月9日（周五）上午送货安装，他说那天特意请了假。我们的送装车队排期出了错，最早只能10月10日（周六）上午，或者10月12日（周一）以后他挑一天。是我们的问题，想免掉他200元送装费。我是客服小吴。",
+   "reply": "陈先生您好，您的三人沙发（订单尾号6630）原定10月9日（周五）上午送装，我们这边排不上了，是我们车队排期出了错，先跟您说一声。我知道您那天特意请了假，真的很抱歉。现在可以改到10月10日（周六）上午，或者10月12日（周一）以后您挑任意一天；如果不想再等，也可以全额退款，当天原路退回。这次的200元送装费我们免掉。10月7日前没收到您回复的话，我就先给您留着10日上午。客服小吴",
+   "lang": "zh",
+   "note": "上门送装的延误，代价是客户为此请的假：先认这一点，再给新日期、退款和默认安排。"
   }
  ]
 }

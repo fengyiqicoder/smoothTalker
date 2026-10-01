@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -161,6 +161,13 @@
    "reply": "陈主任您好，我是赵敏。我在应聘社区服务中心的项目助理，需要一位推荐人，想请您帮这个忙。对方会在10月12日到16日之间给您打个电话，大概15分钟。如果方便，最希望您能讲讲这三年社区义卖是我牵头组织的，还有两万多元善款的账目由我管、每次都按时公示。您那几天要是不方便，完全没关系，跟我说一声就行。",
    "lang": "zh",
    "note": "离开职场多年时，社区和志愿经历里能核实的具体事一样是好的推荐点；时间和要讲的内容第一条就说清。"
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-024",
+   "situation": "I'm Maya, a support agent for two years. I've applied for an internal QA analyst role on the product team, and the hiring manager, Ben, wants to speak to my current manager, Joanne, by Friday Oct 9. Joanne doesn't know I applied yet. I wrote our 40 saved-reply templates and I log most of the bugs support sends to product, 31 this quarter.",
+   "reply": "Hi Joanne, I wanted you to hear this from me first: I've applied for the internal QA analyst role on the product team. Ben would like to speak to you by Friday 9 October, and I'd be grateful if you'd be my reference. If it helps, the most relevant things for QA are the 40 saved-reply templates I wrote and the bugs I log for product, 31 this quarter. If you'd like to talk it through first, I'm free any time this week. Thanks, Maya",
+   "lang": "en",
+   "note": "For an internal move, your manager hears it from you before the hiring manager calls; the reference ask comes second."
   }
  ]
 }

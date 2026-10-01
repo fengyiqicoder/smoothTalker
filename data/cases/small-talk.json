@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "small-talk-001",
@@ -155,6 +155,13 @@
    "reply": "Anke, darf ich dir Jürgen vorstellen, meinen Nachbarn? Jürgen will nächstes Jahr den Jakobsweg in Portugal gehen, und Anke ist gerade vom Wandern dort zurück. Anke, wo genau warst du unterwegs?",
    "lang": "de",
    "note": "Als Gastgeber stellt man nicht nur vor, sondern legt beiden gleich den gemeinsamen Faden hin und eine erste Frage dazu."
+  },
+  {
+   "id": "small-talk-023",
+   "situation": "I'm Claire, a partner at an architecture firm. At our intern welcome drinks tonight, one of the new interns, Ben, is standing alone near me looking nervous. All I know is he's from Glasgow and his portfolio had a library project with a reading room lit from the north.",
+   "reply": "Hi Ben, I'm Claire. I remember your library project from your portfolio, the reading room with the north light. What got you interested in libraries?",
+   "lang": "en",
+   "note": "When you're the senior one, ask about something they're proud of and let them talk; share one small thing back so it doesn't feel like an interview."
   }
  ]
 }

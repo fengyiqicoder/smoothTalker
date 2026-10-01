@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -162,6 +162,13 @@
    "reply": "刘老师您好，我是本次海外交换奖学金的申请人，个人材料已经全部在系统里提交。我的推荐人张教授目前在国外开会，最早10月14日（周三）才能上传推荐信，比10月9日（周五）的截止时间晚五天。想请问推荐信能否在10月14日前补交？如果截止时间不能调整，也请您告诉我，我会马上联系张教授，看能否提前。谢谢您！",
    "lang": "zh",
    "note": "别人的延误导致要延期：先说明自己那部分已按时完成，给出具体日期，再问清楚不能延时该怎么办。"
+  },
+  {
+   "id": "ask-for-extension-024",
+   "situation": "I'm the developer on our booking app, and the release is planned for Tuesday Oct 6. QA just found a crash at login on older phones, and I need until Friday Oct 9 to fix and retest it. Marketing has a launch email going out Wednesday Oct 7. I want to post in our #release Slack channel, tagging our PM Grace and the marketing lead Owen.",
+   "reply": "@Grace @Owen heads-up on the release: QA found a crash at login on older phones, so I'd like to move the release from Tuesday 6 October to Friday 9 October to fix and retest it properly. That clashes with the launch email on Wednesday the 7th. Could the email move to Monday the 12th, or go out on the 7th as a 'coming Friday' announcement? Which works better on your side?",
+   "lang": "en",
+   "note": "In a public channel, tag the people downstream and give them a choice about their part, not just your new date."
   }
  ]
 }

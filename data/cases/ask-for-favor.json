@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Mrs Okoro, we're holding a careers morning for Year 4 on Thursday 22 October, and I'd love to ask whether you'd come in and talk about being a paramedic. It would be about 20 minutes at 10am, including the children's questions. I know you work shifts, so if the day doesn't fit, or it's simply not your thing, that's completely fine and it won't change a thing. Thank you for considering it.",
    "lang": "en",
    "note": "From a child's teacher, a parent may feel a no is risky, so the out has to say outright that nothing changes."
+  },
+  {
+   "id": "ask-for-favor-024",
+   "situation": "我10月12日到25日去德国出差。我爸78岁，一个人住，楼下的李阿姨跟他很熟，也有我的微信。想请她这两周每天下午敲门看一眼我爸，大概五分钟。",
+   "reply": "李阿姨，想请您帮个忙：我10月12日到25日去德国出差，我爸一个人在家。这两周您方便的话，每天下午敲门看他一眼，五分钟就够，看到他好好的给我发个微信说一声。万一敲门没人应，或者他看着不舒服，请直接打120，再跟我说。那段时间要是不方便，完全没关系，直接告诉我，我再想别的办法。回来请您喝茶！",
+   "lang": "zh",
+   "note": "请邻居照看老人：每天做什么、花多久说清楚，紧急情况先打120写在明处，再给一个真的退路。"
   }
  ]
 }

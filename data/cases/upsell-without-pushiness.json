@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -155,6 +155,13 @@
    "reply": "Your two jars are ready for Saturday, Leah. Since you said your flatmates get through it too, the new 500g jar might suit you better: $19 for 500g, against $18 for your usual 400g. If the smaller jars are easier for you, keep them, either is great.",
    "lang": "en",
    "note": "Selling to a friend makes the easy no matter more, not less: one option, the sum done for her, and no follow-up if she passes."
+  },
+  {
+   "id": "upsell-without-pushiness-023",
+   "situation": "我开儿童摄影工作室，上周给王女士家宝宝拍了周岁照，电子版昨天发给她了，她说特别喜欢，还说爷爷奶奶不太会用手机看照片。我们有30页的实体相册，880元，制作要两周。",
+   "reply": "王女士，很高兴您喜欢这组周岁照！您提到爷爷奶奶不太会用手机看照片，如果想让他们拿在手里翻，我们可以做一本30页的实体相册，880元，制作大概两周。电子版您打印几张放相框里也很好，不做相册完全没问题。需要的话回我一句，我把排版先发您看。",
+   "lang": "zh",
+   "note": "在对方满意之后提，理由来自她自己说的话，价格和工期说清，并给一个不花钱的替代。"
   }
  ]
 }

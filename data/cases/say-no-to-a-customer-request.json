@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -155,6 +155,13 @@
    "reply": "Thank you for trusting me with something this important, Mr. Okafor. I can't write Daniel's personal statement for him: it has to be his own work and his own voice, and anything else puts his application at risk. What I can do is two 90-minute sessions to help him find his story and shape his drafts, at my usual $60 an hour, so $90 a session. I'm free Saturday and Tuesday evenings, which leaves time before the 15 October deadline. Shall we start this Saturday?",
    "lang": "en",
    "note": "An integrity no stays firm, the extra money doesn't change it, and the honest paid alternative is offered before he has to ask."
+  },
+  {
+   "id": "say-no-to-a-customer-request-023",
+   "situation": "我在小红书卖古着，每件只有一件。买家小陈看中一件380元的羊毛大衣，问能不能不付定金帮她留两周，等发工资再买。以前这样留过几次，最后对方都没买，别人也错过了。我可以免费留到这周日晚上，或者付50元定金留两周，定金抵货款。",
+   "reply": "谢谢小陈喜欢这件大衣！不付定金的话留不了两周：古着每件只有一件，之前这样留过几次，最后没成交，其他想买的人也错过了。我可以免费帮你留到这周日晚上；或者付50元定金留两周，定金到时候直接抵货款。你看哪种方便？",
+   "lang": "zh",
+   "note": "说出规则保护的是什么（其他买家的机会），再主动给出两个可选的办法。"
   }
  ]
 }

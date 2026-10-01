@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -155,6 +155,13 @@
    "reply": "Hi Bea, great that the ads are doing well enough to scale up. Our agreement has the ad spend paid directly from your account, and I don't front client ad spend on my own card. To keep the $5,000 month on track, you could add a second card or another payment method to the ad account, or we start at what your current card allows and scale up as soon as that's sorted. Which would you like? I'll adjust the campaigns this week either way.",
    "lang": "en",
    "note": "Fronting a client's spend turns you into their lender; offer routes to the bigger budget that keep the money on their side."
+  },
+  {
+   "id": "say-no-to-client-scope-023",
+   "situation": "I'm a freelance copywriter writing 10 product pages for Noah's outdoor gear shop at $250 a page, $2,500 total, per our 3 September contract, and I've delivered 4. Noah just emailed that his budget was cut and asked if I can finish all 10 for $1,800. I'd rather scale the work than the rate.",
+   "reply": "Hi Noah, thanks for telling me early about the budget, that helps. The $2,500 covers all ten pages, so I can't do the full set for $1,800. What fits your budget is seven pages for $1,750: the four you have plus three more you pick, with the last three added later at the same $250 each. Would you like to go that way, or keep all ten as planned?",
+   "lang": "en",
+   "note": "When the budget shrinks, cut the scope, not the rate; a lower rate now becomes the rate forever."
   }
  ]
 }

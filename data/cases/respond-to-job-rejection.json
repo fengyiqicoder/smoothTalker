@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -154,6 +154,13 @@
    "reply": "刘女士您好，谢谢您今天专门打电话告诉我，也谢谢王经理面试时花了一个小时跟我聊，收获很多。结果我理解。您提到明年可能会招运营主管，到时候如果合适，希望您能想到我。祝一切顺利。",
    "lang": "zh",
    "note": "被说“资历过高”时不去辩解自己会待得住，只提一个请求，把门留给更匹配的岗位。"
+  },
+  {
+   "id": "respond-to-job-rejection-023",
+   "situation": "My former manager Rachel, who I worked under for three years at Copperline, is now a director at Quill Health and interviewed me for a team lead role. She called today to say they went with an internal candidate. We still get coffee every couple of months and I don't want this to make things awkward.",
+   "reply": "Hi Rachel, thanks for calling me yourself today; I'd much rather hear it from you than from an email. Going with someone internal makes complete sense, and no hard feelings at all. If another lead role opens on your team, I'd like to be considered. Our next coffee is still on me.",
+   "lang": "en",
+   "note": "With a former boss, protect the friendship first: say the no changes nothing between you, then make one small ask."
   }
  ]
 }

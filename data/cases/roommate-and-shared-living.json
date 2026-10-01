@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -155,6 +155,13 @@
    "reply": "Hey both, before we sign on Monday, can we sort out the rent split? The rooms are quite different, and Priya's has the en-suite, so how about splitting by room: £800 for Priya's, £700 for Tom's and £600 for mine, still £2,100 in total. Happy to tweak the numbers if you'd weigh it differently, I'd just like us to agree it in the chat before we sign.",
    "lang": "en",
    "note": "Raise a money split before signing, price the rooms rather than the people, and keep the agreed numbers in writing."
+  },
+  {
+   "id": "roommate-and-shared-living-023",
+   "situation": "I'm Muslim and keep halal. My new flatmate Ollie has started frying bacon in the shared frying pan and cooked pork sausages in the big pot I brought. He's friendly and probably has no idea. I'm going to buy my own frying pan and pot and keep them on the top shelf.",
+   "reply": "Hey Ollie, a small kitchen thing I should have mentioned when you moved in: I keep halal, so I can't use pans that have had pork in them. Not something you'd have known! I'm getting my own frying pan and pot and keeping them on the top shelf, so could you leave those two for me? Everything else in the cupboard is fair game.",
+   "lang": "en",
+   "note": "State the cultural need as a fact about you, bring the fix yourself, and don't make him feel bad for what already happened."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Claire, thank you for saying the kitchen is exactly what you'd pictured; that made our week. Would you be happy for us to feature it on our website, with a few photos and a line from you? The photos would show no faces and nothing that gives away your address. To make it easy, here's a line you can edit or replace: \"Tom and his team fitted our kitchen and it's exactly what I'd pictured.\" If you'd rather keep your home off the internet, that's completely fine. Thanks either way, Tom",
    "lang": "en",
    "note": "Photos of someone's home are a bigger ask than a review: say exactly what will and won't be shown, and make the no easy."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-024",
+   "situation": "我叫周凯，做企业团建策划。上周六给星河科技组织了80人的千岛湖两日团建，行政王经理今天微信说大家都很满意，还提到园区里好几家公司也在找团建。想请她帮忙推荐，但不想太功利。",
+   "reply": "王经理，谢谢您特意来说！两天80个人，听到大家都满意，我们特别开心。想跟您提个小请求：您说园区里有几家公司也在找团建，方便的话把我的微信推给他们就行，不用多介绍。不方便也完全没关系，谢谢您这次的信任。",
+   "lang": "zh",
+   "note": "B2B推荐请求接住对方自己提到的线索，只请她做一件很小的事，再给一个真的退路。"
   }
  ]
 }

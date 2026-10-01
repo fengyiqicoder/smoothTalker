@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -155,6 +155,13 @@
    "reply": "Dear Gerald, thank you for your lovely card, it was kind of you to ask. My answer is no: I'm not looking to date again, and I'm genuinely happy as I am. I'd like our Tuesdays to carry on just as they are, so I'll see you on the walk. Joan",
    "lang": "en",
    "note": "A reason about yourself is fine when it's true; keep it to one line and make the shared group feel normal straight away."
+  },
+  {
+   "id": "romantic-let-down-023",
+   "situation": "Ich hatte vor drei Wochen zwei Dates mit Jonas, beide Abende waren nett, aber danach habe ich einfach nicht mehr geantwortet. Heute schreibt er: 'Hab ich was falsch gemacht? Würde es gern wissen.' Ich habe kein Interesse, will mich aber für das Schweigen entschuldigen.",
+   "reply": "Hallo Jonas, du hast nichts falsch gemacht, und es tut mir leid, dass ich einfach abgetaucht bin. Das war nicht fair von mir. Die beiden Abende waren nett, aber ich spüre keine romantische Verbindung und möchte es nicht weiterführen. Alles Gute für dich.",
+   "lang": "de",
+   "note": "Wer geghostet hat, entschuldigt sich einmal kurz für das Schweigen und sagt dann trotzdem klar nein."
   }
  ]
 }

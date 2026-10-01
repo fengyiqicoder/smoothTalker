@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -155,6 +155,13 @@
    "reply": "Merci, Julien, d'avoir détaillé ce qui s'est passé. Une sortie annulée le matin même, c'est frustrant, et douze jours pour rembourser 90 euros, c'est beaucoup trop long : ce délai-là est de notre faute. Pour ceux qui nous lisent, nous avons annulé ce samedi à cause d'une alerte orages, et nous annulerons toujours dans ce cas. Depuis, les annulations pour météo sont remboursées sous 48 heures. Si vous souhaitez en parler, écrivez-moi à contact@example.com. Claire, Kayak du Lac",
    "lang": "fr",
    "note": "Une annulation pour la sécurité se maintient, en une phrase neutre ; on assume seulement ce qui a vraiment déraillé, le délai."
+  },
+  {
+   "id": "respond-to-negative-review-023",
+   "situation": "I'm Dr. Anna Kerr, owner of Riverside Vet Clinic. 'Paul G.' left a 1-star Google review after his 14-year-old cat Misty died the day after we sent her home, saying nobody told them how serious it was and we didn't care. The treatment was sound, but the discharge talk was rushed on a busy Saturday; every serious discharge now gets a 15-minute sit-down and written notes. My email is anna@example.com.",
+   "reply": "Paul, I'm so sorry about Misty. Fourteen years is a whole life together, and losing her the day after she came home must have been awful. You should have left us with a clear picture of how serious things were, and our rushed conversation that Saturday didn't give you that; that's on us. Every serious discharge now gets a 15-minute sit-down and written notes to take home. Whenever you're ready, I'd like to talk with you personally at anna@example.com. Dr. Anna Kerr",
+   "lang": "en",
+   "note": "A grief review: condolence first, own the communication gap, and never defend the clinical care or discuss the case in public."
   }
  ]
 }

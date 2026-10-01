@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -155,6 +155,13 @@
    "reply": "王哥，谢谢您天天惦记我这小店。价格和菜单我先按现在这样跑满三个月，看看数据再说，到时候要调整，肯定先听听您的意见。今天新上了番茄牛肉面，您尝一碗，帮我提提口味的意见？",
    "lang": "zh",
    "note": "对热心的邻居商户用“说明立场”这一级，给个时间点，再把他的热心引到你真想听意见的地方。"
+  },
+  {
+   "id": "respond-to-unsolicited-advice-023",
+   "situation": "My brother Mark lives in Singapore and calls every Sunday with advice on how I should care for our mum, who has dementia and lives with me: a stricter routine, a different diet, a supplement he read about. I do the daily care, her doctor is happy with the plan we have, and last Sunday he said 'I'm just saying what anyone would see.'",
+   "reply": "Mark, I know this comes from loving Mum, and being so far away must be hard. Her doctor and I have a plan that's working, and I'm going to stick with it. What would help me more on Sundays is just hearing how your week went and telling you about hers. Can we do that?",
+   "lang": "en",
+   "note": "Credit the love, hold the plan without listing reasons, and give the call something better to be about."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "apologize-001",
@@ -162,6 +162,13 @@
    "reply": "阿杰，跟你说件事：上周借你的相机，收工的时候我不小心把镜头摔了，镜片裂了，对不起。你放心把相机借给我，我却没保管好，这是我的问题。维修店报价1,800元，费用全部我出，这周六我就送修，修好后给你送回去。你要是更想自己找店修，跟我说一声就行，钱照样我来出。",
    "lang": "zh",
    "note": "弄坏别人的东西：说清楚发生了什么，赔偿和修理已经安排好，选择权留给对方。"
+  },
+  {
+   "id": "apologize-024",
+   "situation": "Meu irmão Rafael passou dois meses organizando uma festa surpresa para os 40 anos da esposa dele, a Bia, no sábado 10 de outubro. No almoço de domingo eu falei da festa sem querer na frente dela. Ainda tem um vídeo com mensagens dos amigos que ela não sabe que existe, e eu posso juntar e editar até sexta.",
+   "reply": "Rafa, desculpa, fui eu que estraguei a surpresa da Bia: falei da festa sem querer no almoço de domingo. Você passou dois meses organizando tudo e eu acabei justamente com a parte que mais importava para você. O vídeo com as mensagens dos amigos ela ainda não sabe que existe, então deixa comigo: eu junto tudo e edito até sexta, para no sábado ainda ter uma surpresa de verdade.",
+   "lang": "pt",
+   "note": "O pedido de desculpas reconhece o que o irmão perdeu, não só o deslize, e a reparação devolve a ele uma parte da surpresa."
   }
  ]
 }

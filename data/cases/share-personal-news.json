@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 22,
+ "count": 23,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -155,6 +155,13 @@
    "reply": "姐妹们，报个好消息：今天复查结果出来了，医生说完全缓解了！以后每三个月还要复查一次，但今天先好好高兴一下。这一年你们陪着我，每一条消息我都记得。等我再养一养，请大家吃饭，地方你们挑！",
    "lang": "zh",
    "note": "好消息也要短：消息本身、一句感受、一句接下来做什么，再把感谢说具体。"
+  },
+  {
+   "id": "share-personal-news-023",
+   "situation": "I'm Kate. My husband Dan and I are separating and he moves out on Saturday 10 October. We told our son Leo, who's 8, last weekend. I want to email his teacher, Ms Rivera, so she knows if he seems off, but I don't want it raised with him at school or mentioned to other parents.",
+   "reply": "Dear Ms Rivera, I wanted to let you know that Leo's dad and I are separating, and Dan moves out on Saturday 10 October. We told Leo last weekend, but he may be more tired or upset than usual over the next few weeks. Please don't raise it with him unless he brings it up himself, and I'd be grateful if it stays between us. If you notice anything, I'd really like to hear, just reply to this email. Thank you, Kate",
+   "lang": "en",
+   "note": "Telling someone who looks after your child: the fact, what they might see, and exactly how you'd like them to handle it."
   }
  ]
 }

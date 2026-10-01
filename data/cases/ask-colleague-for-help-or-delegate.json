@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 23,
+ "count": 24,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -162,6 +162,13 @@
    "reply": "Hi Dmitri, my last day is Friday 16 October, and Hannah and I would like you to take over Brookfield Dental, Orla Studio and Kessler Farms. You already know Brookfield from covering my holidays, so you're the natural fit. Done means each client knows you're their contact and you can run the account without me. I'll send a handover doc for each by Friday 9 October, and the week of 12 October I'll set up intro calls with you and each client while I'm still around. Can you take them on alongside what you've got?",
    "lang": "en",
    "note": "A leaving handover is still delegation: the outcome, why them, your part with dates, then a real question rather than an announcement."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-024",
+   "situation": "I'm a solutions engineer on a live demo call with a prospect, Helmsworth Insurance. Their IT lead, Femi, just asked whether our audit logs can be exported to their own storage automatically. I'm not sure, and our product lead, Ana, is the one who'd know. What do I say out loud right now?",
+   "reply": "Good question, Femi, and I don't know for certain whether that export can run automatically. I'd rather not guess on something your security team will rely on. I'll check with Ana, our product lead, and email you a clear answer by end of day tomorrow. Is this for a compliance requirement? That'll help me make sure we answer the right question.",
+   "lang": "en",
+   "note": "Live and on the spot, the same formula works spoken: say it cleanly, name who you'll ask and when, then move the demo on."
   }
  ]
 }
