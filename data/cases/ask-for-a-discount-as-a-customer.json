@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -204,6 +204,13 @@
    "reply": "小周，这两台我今天就一起买，冰箱5,999元、洗衣机3,299元，一共9,298元。价格统一我理解，那能不能帮我把家里的旧冰箱和旧洗衣机免费拉走，再送一年延保？可以的话我现在就付款。如果只能给其中一样，也告诉我一声，实在都不行也没关系，我照样买。",
    "lang": "zh",
    "note": "价格定死时直接要附加项，给对方只答应一样的余地，并说明不行也照买。"
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-030",
+   "situation": "My friend Hannah runs a small cake business and quoted $260 for a 3-tier cake for my son's birthday on Saturday 24 October, including $30 delivery. I don't want to lean on the friendship, but a 2-tier would be plenty and I can collect it myself. I'd like to ask if she could do a 2-tier for around $200.",
+   "reply": "Hi Hannah, thank you for the quote, we'd love one of your cakes for Saturday 24 October. Could you do a 2-tier version for around $200 if I collect it myself? If that doesn't work for you, please just say so; I'd much rather pay your full price than have you undercharge because we're friends.",
+   "lang": "en",
+   "note": "With a friend's business, cut scope rather than squeeze the price, and make the out protect her income, not just your face."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -204,6 +204,13 @@
    "reply": "Mrs Patel, thank you for making time. I really enjoy running the office and I want to keep growing here. Since January I've managed the school's £180,000 budget and supervised our two part-time assistants, and when I compared my work with the job descriptions, it matches Grade 5 rather than Grade 4. I know the pay scale itself is fixed, so I'm asking whether you'd submit a regrading request for my role before the spring review. If you see it differently, could we go through the Grade 5 description together and agree what's missing?",
    "lang": "en",
    "note": "On a fixed pay scale the ask is a regrade, not a raise: match your duties to the next grade's description, then confirm in writing what she agreed."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-030",
+   "situation": "我在一家医药公司做市场专员四年，月薪1.3万。上个月市场主管的位置空出来，我申请了，结果公司外招了一位新主管，下周一入职。想在微信上约部门总监郑总聊聊我差在哪、下一步怎么走，短期目标是明年升高级专员，月薪调到1.5万。",
+   "reply": "郑总，想约您30分钟聊一聊我的发展，这周四或周五下午您看哪个方便？这次主管没选我，我想听听您真实的看法：我离主管还差哪些。我还是很想在这个团队长期做下去，短期内希望明年能升高级专员，月薪从1.3万调到1.5万。见面时我们能不能把需要做到的几条和时间定下来？",
+   "lang": "zh",
+   "note": "没被选上之后不评价招聘结果，把谈话变成书面的标准和日期；谈完当天发微信把结论确认一遍。"
   }
  ]
 }

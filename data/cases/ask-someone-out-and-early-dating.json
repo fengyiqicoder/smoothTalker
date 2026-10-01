@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -203,6 +203,13 @@
    "reply": "昨晚很开心，话剧好看，宵夜也好吃。最后那个一半拥抱一半握手的告别，我回家路上自己笑了一路，下次争取配合默契一点。你说想去那家新开的猫咖，这周日下午要不要一起去？不方便的话也完全没关系。",
    "lang": "zh",
    "note": "尴尬的小插曲用一句自嘲带过就够了，不解释、不道歉，然后落到一个具体、容易拒绝的邀约。"
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-030",
+   "situation": "I'm Lauren. My friend Aisha set me up with her colleague Ben and gave us each other's numbers on Monday; neither of us has texted yet. Aisha says he just moved here from Glasgow and loves jazz. The Blue Heron bar has a free jazz night on Thursdays, and I'd suggest that or a Saturday coffee.",
+   "reply": "Hi Ben, it's Lauren, Aisha's friend. She's been very pleased with herself about setting us up, so I figured one of us should go first. She tells me you're new from Glasgow and into jazz: the Blue Heron has a free jazz night on Thursdays, or there's coffee on Saturday if you'd rather keep it simple. And no pressure at all if set-ups aren't your thing.",
+   "lang": "en",
+   "note": "A set-up has already done the introductions: name the friend, use one thing you were told, offer a plan and a no-fault out."
   }
  ]
 }

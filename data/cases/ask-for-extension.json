@@ -4,57 +4,57 @@
  "cases": [
   {
    "id": "ask-for-extension-001",
-   "situation": "Freelance copywriter here. Client wants 12 product pages by Friday but they only sent the product specs yesterday, 4 days late. I need until next Wednesday.",
-   "reply": "Hi Megan, a heads-up now rather than Thursday night: the product specs arrived yesterday instead of last Wednesday, so all 12 pages by Friday would mean rushing them. I'd like to move delivery to Wednesday the 7th. If Friday is tied to your launch, I'll send the six hero products Friday and the rest Wednesday. Which works better for you?",
+   "situation": "Freelance copywriter here. My client Megan wants 12 product pages by Friday 2 October, but she only sent the product specs yesterday, 4 days late. I need until Wednesday 7 October.",
+   "reply": "Hi Megan, a heads-up now rather than Thursday night: the product specs arrived yesterday, four days later than planned, so all 12 pages by Friday would mean rushing them. I'd like to move delivery to Wednesday the 7th. If Friday is tied to your launch, I'll send the six hero products Friday and the rest Wednesday. Which works better for you?",
    "lang": "en",
    "note": "One line of reason, a specific new date, and a partial-delivery trade in case the date is fixed."
   },
   {
    "id": "ask-for-extension-002",
-   "situation": "研究生，导师让我周五交论文第三章初稿，但是实验数据要重跑，周五肯定出不来完整的。想申请延到下周三。",
+   "situation": "研究生，导师李老师让我周五交论文第三章初稿。上周发现第二组实验的参数设错了要重跑，数据下周一才能出来，周五肯定交不了完整的。想申请延到下周三。",
    "reply": "李老师，您好。第三章初稿原定周五交，但上周发现第二组实验的参数设置有误，需要重跑，数据周一才能出来。想跟您申请延到下周三晚上交完整版。如果周五您需要先看框架，我周五可以先把前两节和图表初稿发给您。您看哪种方式合适？",
    "lang": "zh",
    "note": "对导师也是同样结构：一句原因、一个具体日期、一个部分交付的备选。"
   },
   {
    "id": "ask-for-extension-003",
-   "situation": "I promised my sister I'd finish her wedding slideshow by Saturday but work exploded this week. Wedding is in 3 weeks so there's slack, just feel bad.",
-   "reply": "Hey Jess, I said I'd have the slideshow done by Saturday and I'm going to need until next Thursday; I want to do the music timing properly, not rush it. That still leaves two weeks before the wedding. Is that okay, or do you need it sooner for the rehearsal?",
+   "situation": "I promised my sister Jess I'd finish her wedding slideshow by Saturday but work exploded this week. Wedding is in 3 weeks so there's slack, just feel bad. I'd like until next Thursday.",
+   "reply": "Hey Jess, I said I'd have the slideshow done by Saturday and I'm going to need until next Thursday; work has been flat out this week and I want to do it properly, not rush it. That still leaves two weeks before the wedding. Is that okay, or do you need it sooner for anything?",
    "lang": "en",
    "note": "Personal deadlines get the same shape, just warmer and shorter. No paragraph of guilt."
   },
   {
    "id": "ask-for-extension-004",
-   "situation": "在职读MBA，《管理会计》课程论文昨天周一晚上12点截止，因为公司季度结账连续加班没交上。想给任课的陈老师发邮件，问能不能周四交。",
+   "situation": "我叫李晓雯，在职读周末班MBA，《管理会计》课程论文昨天周一晚上12点截止，因为公司季度结账连续加班没交上。想给任课的陈老师发邮件，问能不能周四交。",
    "reply": "陈老师您好，我是周末班的李晓雯。《管理会计》课程论文昨晚12点截止，我没有按时提交，也没有提前跟您说明，这是我的问题。这周公司季度结账，连续加班耽误了进度。能否允许我在本周四，10月1日晚上12点前提交？如果不方便延期，我今晚先把已完成的部分发给您，逾期扣分我也接受。谢谢老师。",
    "lang": "zh",
    "note": "已经逾期时，先认没提前说，再给一个具体新时间和部分交付的备选，理由只写一句。"
   },
   {
    "id": "ask-for-extension-005",
-   "situation": "My employer switched payroll systems and my September pay is delayed until October 9. Rent ($1,650) is due October 1 to my landlord, Mr. Delgado, who's been easy to deal with for two years. I want to ask now, not on the 1st.",
+   "situation": "My employer switched payroll systems and my September pay is delayed until October 9. Rent ($1,650) is due October 1 to my landlord, Mr. Delgado, who's been easy to deal with for two years; I could manage $600 on the 1st. I want to ask now, not on the 1st.",
    "reply": "Hi Mr. Delgado, a heads-up now rather than on the 1st: my employer's payroll switch has pushed my September pay to October 9. Could I pay October's rent on Friday October 9 instead? If it helps, I can send $600 on the 1st and the remaining $1,050 on the 9th. Would either of those work for you?",
    "lang": "en",
    "note": "Money deadlines get the same shape: ask before the due date, one line of reason, an exact new date and a partial payment as the trade."
   },
   {
    "id": "ask-for-extension-006",
-   "situation": "I asked my manager Nadia if the vendor comparison report could move from Friday to next Tuesday because two vendors still haven't sent pricing. She said no, leadership reviews it Monday morning. What do I say back?",
-   "reply": "Understood, Monday's review is fixed. Here's what I can do: by Friday 5pm you'll have the full comparison for the four vendors who've sent pricing, with Corvel and Brightpath marked as pending. I've chased both again today, and if their numbers arrive over the weekend I'll add them before 8am Monday. Does that work for the review?",
+   "situation": "I asked my manager Nadia if the vendor comparison report could move from Friday to next Tuesday because two of the six vendors, Tessaly and Brookvane, still haven't sent pricing; I chased both again today. She said no, leadership reviews it Monday morning. What do I say back?",
+   "reply": "Understood, Monday's review is fixed. Here's what I can do: by Friday 5pm you'll have the full comparison for the four vendors who've sent pricing, with Tessaly and Brookvane marked as pending. I've chased both again today, and if their numbers arrive over the weekend I'll add them before 8am Monday. Does that work for the review?",
    "lang": "en",
    "note": "After a no, stop asking for time and offer the partial version that fits the downstream deadline."
   },
   {
    "id": "ask-for-extension-007",
-   "situation": "I run a small literacy nonprofit. Our annual grant report to the Hollins Foundation is due Thursday Oct 15, but our auditor is behind and the audited financials won't be final until Oct 23. Our program officer is Ms. Adebayo. I want to ask now rather than at the last minute.",
+   "situation": "I'm Laila Hassan, director of Open Pages Literacy, a small nonprofit. Our annual grant report to the Hollins Foundation is due Thursday Oct 15, but our auditor is behind and the audited financials won't be final until Oct 23. Our program officer is Ms. Adebayo, and I want to ask now rather than at the last minute.",
    "reply": "Dear Ms. Adebayo,\nI'm writing early about our annual report, due Thursday 15 October. Our audit is running late, and the audited financials won't be final until 23 October. Could we submit the full report by Monday 26 October? If the 15th feeds into your committee's timeline, I can send the narrative and outcomes sections on the 15th and the financials on the 26th.\nThank you for considering it.\nKind regards,\nLaila Hassan\nDirector, Open Pages Literacy",
    "lang": "en",
    "note": "Asked two weeks out with one line of reason, an exact date, and a split delivery in case the original date feeds something downstream."
   },
   {
    "id": "ask-for-extension-008",
-   "situation": "I'm a freelance developer building a booking site for a physio clinic. The original deadline was Sept 25, and my client Dr. Patel already agreed to move it to this Friday, Oct 2. Now the card payment step is fighting me and I need until Wednesday Oct 7.",
-   "reply": "Hi Dr. Patel, I want to flag this early: the card payment step won't be ready by this Friday, 2 October, and I know this is the second time I've moved the date. The booking calendar and all the pages will still go live on Friday, so patients can book from then and pay at the clinic. I'd like until Wednesday 7 October to finish the payment step properly. Would that work for your launch?",
+   "situation": "I'm a freelance developer building a booking site for a physio clinic. The original deadline was Sept 25, and my client Dr. Patel already agreed to move it to this Friday, Oct 2. The booking calendar and pages are ready, but the card payment step is fighting me and I need until Wednesday Oct 7.",
+   "reply": "Hi Dr. Patel, I want to flag this early: the card payment step won't be ready by this Friday, 2 October, and I know this is the second time I've moved the date. I'd like until Wednesday 7 October to finish it properly. The booking calendar and all the pages are ready, so if you'd like, they can go live on Friday with patients paying at the clinic until then. Would that work for your launch?",
    "lang": "en",
    "note": "A second extension is a bigger conversation: name it as the second, ship something useful on the original date, and don't ask for a third."
   },
@@ -81,24 +81,24 @@
   },
   {
    "id": "ask-for-extension-012",
-   "situation": "I'm a first-time author. My manuscript is due to my editor, Ruth, on December 1, but my mother has been seriously ill since the summer and I've lost about two months of writing. I want to ask for February 15 now, not in November.",
+   "situation": "I'm a first-time author. My manuscript is due to my editor, Ruth, on December 1, but my mother has been seriously ill since the summer and I've lost about two months of writing; eight of the twelve chapters are drafted. I want to ask for February 15 now, not in November.",
    "reply": "Hi Ruth, I'm writing now rather than in November: my mother has been seriously ill since the summer and I've lost about two months of writing time. I'd like to ask to move the manuscript from 1 December to 15 February. If the schedule needs something sooner, I can send the first eight chapters, about two-thirds of the book, by 1 December so editing can start. Would either of those work?",
    "lang": "en",
    "note": "Big deadline, months out: one line of reason with no medical detail, a firm new date, and a partial delivery as the trade."
   },
   {
    "id": "ask-for-extension-013",
-   "situation": "我在市场部，答应10月16日（周五）把三季度活动费用明细交给财务部的赵姐，她要用来做月度结账。但还有两家代理商的发票没到，最快下周一才能收齐。想在企业微信上跟她说延到10月20日（周二）。",
+   "situation": "我在市场部，答应10月16日（周五）把三季度十个活动的费用明细交给财务部的赵姐，她要用来做月度结账。其中八个活动的发票齐了，还有两家代理商的发票没到，最快下周一才能收齐。想在企业微信上跟她说延到10月20日（周二）。",
    "reply": "赵姐，提前跟你说一下：三季度活动费用明细原定16号周五给你，但还有两家代理商的发票没到，最快下周一才能收齐。能不能让我20号周二中午前给你完整版？如果你周五就要开始做账，我16号先把已经齐全的八个活动发你，剩下两家20号补上。你看哪种方便？",
    "lang": "zh",
    "note": "跨部门同事没有义务等你：早说、给具体时间，并按她的结账节奏提供先交一部分的方案。"
   },
   {
    "id": "ask-for-extension-014",
-   "situation": "Ich habe eine kleine Schreinerei. Herr Brandt bekommt einen Esstisch aus Eiche, zugesagt für Freitag, 16. Oktober. Unser Holzlieferant liefert die Platte eine Woche zu spät, realistisch schaffe ich Freitag, 30. Oktober.",
+   "situation": "Ich habe eine kleine Schreinerei. Herr Brandt bekommt einen Esstisch aus Eiche, zugesagt für Freitag, 16. Oktober, aber unser Holzlieferant liefert die Platte eine Woche zu spät; realistisch schaffe ich Freitag, 30. Oktober. In der Werkstatt haben wir einen Leihtisch, den ich ihm für die Zwischenzeit anbieten kann.",
    "reply": "Guten Tag Herr Brandt, ich melde mich lieber jetzt als kurz vor dem Termin: Unser Holzlieferant liefert die Eichenplatte für Ihren Tisch eine Woche später als vereinbart. Wäre eine Lieferung am Freitag, 30. Oktober, statt am 16. Oktober für Sie in Ordnung? Dann habe ich nach Eingang der Platte genug Zeit, den Tisch ohne Eile so zu fertigen, wie wir ihn besprochen haben. Falls Sie ihn vorher für einen Anlass brauchen, bringe ich Ihnen bis dahin gern einen Leihtisch aus unserer Werkstatt vorbei.",
    "lang": "de",
-   "note": "When you are the supplier, the customer is the one granting the extension: ask early and bring a stopgap."
+   "note": "Wenn man selbst der Lieferant ist, entscheidet der Kunde über die Verlängerung: früh fragen und eine Überbrückung anbieten."
   },
   {
    "id": "ask-for-extension-015",
@@ -109,17 +109,17 @@
   },
   {
    "id": "ask-for-extension-016",
-   "situation": "I'm interviewing for a data analyst role at Brightline. The recruiter, Sofia, sent a take-home case study on Monday, due Friday Oct 2 at noon. I have a production release at my current job on Thursday night and want to ask for Monday Oct 5 at noon instead.",
+   "situation": "I'm Arjun, interviewing for a data analyst role at Fernmoor Analytics. The recruiter, Sofia, sent a take-home case study on Monday, due Friday Oct 2 at noon. I have a production release at my current job on Thursday night and want to ask for Monday Oct 5 at noon instead.",
    "reply": "Hi Sofia, thank you for sending the case study. I'm asking now rather than on Friday: I have a release at my current job on Thursday night, which would leave me only a few rushed hours for it. Could I submit by Monday 5 October at noon instead? If Friday is tied to the panel's schedule, I'll send it on time and note which parts I'd take further with more time.\nThanks,\nArjun",
    "lang": "en",
    "note": "A hiring deadline: ask early, one line of reason that shows you take your current job seriously, and offer to hit the original date if it matters."
   },
   {
    "id": "ask-for-extension-017",
-   "situation": "In June I borrowed $2,000 from my friend Chris and promised to pay it all back by October 15. Last week my car needed a $900 repair. I can pay $1,000 on the 15th and the other $1,000 by Friday November 13.",
-   "reply": "Hey Chris, I want to raise this now rather than on the 15th: my car needed a $900 repair last week, so I can't pay back the full $2,000 on October 15 as I promised. Could I send $1,000 on the 15th and the other $1,000 by Friday November 13? If you need the full amount sooner for something, tell me and we'll work out what I can move around.",
+   "situation": "I'm Ellie Moss, a second-year undergraduate. My history essay for Dr. Hale is due Friday 9 October, and I've had flu since Sunday 4 October, with a doctor's note covering 4 to 8 October. The module handbook says extensions of more than 48 hours go through the department's extenuating circumstances form, and I want to ask for Wednesday 14 October.",
+   "reply": "Dear Dr. Hale,\nI'm writing to ask for an extension on my history essay, due Friday 9 October, to Wednesday 14 October. I've had flu since Sunday and have a doctor's note covering 4 to 8 October. As the module handbook asks for extensions over 48 hours to go through the extenuating circumstances form, I'll submit the form with the note today. Would you be willing to support the request?\nKind regards,\nEllie Moss",
    "lang": "en",
-   "note": "Money owed to a friend: ask before the date, pay part on time, and give an exact date for the rest."
+   "note": "When the course has a formal extension process, follow it and say so; the email to the tutor asks for support, not a way around the rules."
   },
   {
    "id": "ask-for-extension-018",
@@ -144,7 +144,7 @@
   },
   {
    "id": "ask-for-extension-021",
-   "situation": "I agreed to peer-review a manuscript, JCE-2026-0412, for the Journal of Coastal Ecology; the editor is Dr. Mireille Okafor and the review is due Monday Oct 5. My institution just moved an internal grant deadline to Oct 6 and it's eaten my week. I could do the review by Monday Oct 12, but if that's too late I'd rather step aside now.",
+   "situation": "I'm Daniel Mercer. I agreed to peer-review a manuscript, JCE-2026-0412, for the Journal of Coastal Ecology; the editor is Dr. Mireille Okafor and the review is due Monday Oct 5. My institution just moved an internal grant deadline to Oct 6 and it's eaten my week; I could do the review by Monday Oct 12, but if that's too late I'd rather step aside now.",
    "reply": "Dear Dr. Okafor,\nI'm writing now rather than on the 5th about my review of JCE-2026-0412. An internal grant deadline at my institution has moved to 6 October and taken this week. Could I send the review by Monday 12 October instead? If that's too late for your decision timeline, tell me and I'll step aside today so you can invite another reviewer without losing more time.\nWith apologies for the change,\nDaniel Mercer",
    "lang": "en",
    "note": "When the work is a favour to someone's process, the alternative to a new date is stepping aside early, not a rushed review."

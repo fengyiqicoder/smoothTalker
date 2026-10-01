@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -204,6 +204,13 @@
    "reply": "Dad, I'm so sorry about Ray. Fifty years of Saturday mornings at Miller's Pond, and he was the one who taught me to bait a hook. I'm coming up the weekend of the 10th; if you fancy it, we could go down to the pond on the Saturday morning, and we don't have to talk unless you want to. You don't need to call me back.",
    "lang": "en",
    "note": "Comforting a parent: name their friend and the ritual they shared, offer side-by-side company rather than a big talk, and ask for nothing back."
+  },
+  {
+   "id": "condolences-and-support-030",
+   "situation": "我是研究生，导师王老师的爱人李阿姨上周因病去世了。每年中秋李阿姨都请我们课题组去家里吃她包的饺子，还总让我们打包带走。王老师这周请假了，我和师兄小陈商量好，这两周实验室的日常和师弟师妹的问题由我们俩先盯着。想给王老师发条微信。",
+   "reply": "王老师，听说李阿姨走了，我们都很难过。每年中秋去您家，李阿姨包的饺子我们吃完还要打包带走，她的热情我们一直记得。实验室这边您不用操心，这两周的日常和师弟师妹的问题，我和小陈师兄先盯着。您和家人多保重，不用回复。",
+   "lang": "zh",
+   "note": "学生给导师写：一个具体的记忆，加上自己真能做到的帮助，不打听，也不提论文进度。"
   }
  ]
 }

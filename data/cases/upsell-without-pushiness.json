@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -197,6 +197,13 @@
    "reply": "Hi Hannah, I'm so sorry about your grandfather. The wreath is all set for Saturday 10 October. Since you mentioned your grandmother will be at home afterwards, we could take a small posy to her that afternoon for $35, if you'd like something waiting for her. Please don't feel you need to; the wreath is complete on its own, and you only need to reply if you'd like the posy.",
    "lang": "en",
    "note": "With someone grieving, offer once, make silence the no, and never follow up on it."
+  },
+  {
+   "id": "upsell-without-pushiness-029",
+   "situation": "I'm Kofi, a decorator. I've quoted Ms Reyes $420 to paint her spare bedroom on Wednesday 14 October, and while I was measuring she said the hallway walls, the same white as the bedroom, are scuffed from her kids' bikes. I could paint the hallway straight after on Thursday 15 October for $260, or $320 as a separate visit later, and if it's only the scuffs, a touch-up with the leftover white I'd leave her might be enough.",
+   "reply": "Hi Ms Reyes, the spare bedroom is booked for Wednesday 14 October at $420. Since you mentioned the bike scuffs in the hallway, I could paint it straight after on Thursday 15 October for $260, which is $60 less than a separate visit later because I'll already be set up. Honestly, if it's only the scuffs, I can leave you the leftover white and a touch-up might be all it needs. The bedroom on its own is completely fine; just let me know if you'd like the hallway added.",
+   "lang": "en",
+   "note": "The suggestion comes from her own comment, the saving is real rather than a deadline, and the free option sits right next to the paid one."
   }
  ]
 }

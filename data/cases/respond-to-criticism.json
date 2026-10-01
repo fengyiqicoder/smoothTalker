@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -197,6 +197,13 @@
    "reply": "阿峰，你的消息我想了一晚上。磨豆机这件事你说得对，八千块不是小钱，我该先跟你商量再买，这是我的问题。“什么都自己拍板”这点我看法不太一样，菜单和装修都是我们一起定的。不过我想知道，还有哪些事让你有这种感觉？我提议以后超过两千块的支出都先商量再定。周日店休，我们坐下来好好聊聊，行吗？",
    "lang": "zh",
    "note": "合伙人的批评：认下具体的那件事，不同意的地方说一句，再问一个问题，并给出一条以后能检验的规矩。"
+  },
+  {
+   "id": "respond-to-criticism-029",
+   "situation": "I moved in with my mum, who's 81, after her fall in July. This morning she snapped that I treat her like a child, because I took over her pill organiser without asking and I hover whenever she cooks. The pills part is fair, but she left the gas on twice in August, which is why I watch the cooking.",
+   "reply": "Mum, I've been thinking about what you said this morning. You're right that I took over your pill organiser without asking you, and I'd hate that too, so I'm sorry. On the cooking I see it a bit differently, because the gas was left on twice in August and it frightened me. Could we sit down after lunch tomorrow and agree together how we handle both, so it's your plan as much as mine?",
+   "lang": "en",
+   "note": "Own the fair part plainly and give the one fact behind your worry; if the gas keeps happening, ask her whether you can raise it with her GP together."
   }
  ]
 }

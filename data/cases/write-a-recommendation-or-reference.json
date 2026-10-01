@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -169,6 +169,13 @@
    "reply": "Dear Sir or Madam,\nI'm writing as a character referee for Owen Price. I have known Owen for 12 years, and for the last five we have coached an under-10s football team together every Saturday. He has told me about the drink-driving charge he has pleaded guilty to. Throughout those five years he has organised the team's minibus rota and kit fund. Since July he has sold his car and now cycles to training. I can speak only to what I have seen as his friend and fellow coach, and on that basis I know him as a reliable and committed person. I'm happy to be contacted on 07700 900284 or helen.moore@example.com.\nYours faithfully,\nHelen Moore",
    "lang": "en",
    "note": "Ask his solicitor what the court needs; show you know the offence, vouch only for what you've seen, and leave the case and sentence alone."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-025",
+   "situation": "I'm Grace Liu. My friends Ana Ferreira and Tom Becker are applying for a partner visa, and their lawyer asked me for a short letter about their relationship by Friday 16 October. I've known Ana since university in 2015 and met Tom in March 2023 when she brought him to my birthday; I've stayed twice at the Bristol flat they've shared since January 2024, and they came to my wedding together in June 2025. I'm on 07700 900415 and grace.liu@example.com.",
+   "reply": "To whom it may concern,\nI'm writing in support of Ana Ferreira and Tom Becker. I have known Ana since we were at university together in 2015, and I met Tom in March 2023, when Ana brought him to my birthday. Since January 2024 they have shared a flat in Bristol, where I have stayed with them twice. They also came to my wedding together in June 2025. I can speak only to what I have seen as their friend, and on that basis I know them as a committed couple. I'm happy to be contacted on 07700 900415 or grace.liu@example.com.\nYours faithfully,\nGrace Liu",
+   "lang": "en",
+   "note": "Ask their lawyer what format the application needs; give only dates and visits you saw yourself, and don't vouch for anything beyond them."
   }
  ]
 }

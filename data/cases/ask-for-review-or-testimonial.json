@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -204,6 +204,13 @@
    "reply": "Thank you, Linda, that's really kind of you. A review from you would be lovely, since you've seen six months of walks with Rufus: https://g.page/r/paws-and-pace/review. Two sentences is plenty. I'd rather keep reviews to people who've actually used the walks, so please don't ask the others to post, but if any of them ever need a dog walker, a word from you is the best help there is. Thanks either way, Mei",
    "lang": "en",
    "note": "Reviews from people who never used the service mislead future customers; decline them warmly and point the goodwill at a real referral instead."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-030",
+   "situation": "I'm Leah Moran and I self-published my second mystery novel, The Salt House, on Tuesday 29 September. In August, 30 people on my newsletter got a free advance copy, and several emailed to say they loved the ending. I want one email asking them for an honest review on the book's store page, example.com/salt-house; the store asks reviewers to mention when they got a free copy.",
+   "reply": "Hi everyone, thank you for reading The Salt House early, and to those of you who wrote to me about the ending, it made my month. The book came out on Tuesday, and if you have a minute, an honest review on its page at example.com/salt-house is how readers find a self-published book. Two or three sentences is plenty, and please mention that you got a free advance copy, since the store asks for that. Thank you either way, Leah",
+   "lang": "en",
+   "note": "Ask for an honest review, not a good one, and build the free-copy disclosure into the ask so nobody's review gets pulled."
   }
  ]
 }

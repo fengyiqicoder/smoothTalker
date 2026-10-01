@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 24,
+ "count": 25,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -169,6 +169,13 @@
    "reply": "To my donor,\nI don't know your name, but I know you said yes to helping a complete stranger, and that stranger was me. Your stem cells were my transplant in March, and six months later I'm cycling to work again. Last month I walked my four-year-old daughter to her first day at nursery, and I got to be there because of you. Thank you. I hope life is treating you well.\nTom",
    "lang": "en",
    "note": "An anonymous donor gets the specific thing their gift made possible; check the registry's rules on what you can include before you send it."
+  },
+  {
+   "id": "thank-you-notes-025",
+   "situation": "我在小红书发帖问申请英国社工硕士的个人陈述怎么写，一个叫“阿檬”的网友（她正在英国读社工）主动私信我，前后帮我改了三遍，还跟我视频聊了一个小时讲面试会问什么。面试时真的被问到了她提醒过的“为什么从会计转行”。今天我收到了第一志愿的offer，我们从没见过面。",
+   "reply": "阿檬，今天收到了第一志愿的offer，第一个就想告诉你！我们素不相识，你却帮我把个人陈述前后改了三遍，还花一个小时视频跟我讲面试会问什么。面试时真的被问到了你提醒过的“为什么从会计转行”，那一刻我心里特别踏实。谢谢你愿意花这么多时间帮一个陌生人。以后有学妹来问，我也会像你这样帮她们。",
+   "lang": "zh",
+   "note": "给只在网上认识的人道谢：先报好消息，再说她具体做了什么、在哪一刻起了作用，回报用“传下去”，不必硬约见面。"
   }
  ]
 }

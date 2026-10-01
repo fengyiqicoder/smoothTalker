@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -204,6 +204,13 @@
    "reply": "Hello,\nAssistance booking PA-58830: I booked passenger assistance for my mum, Elaine, who uses a wheelchair, on the 10:15 from Carlton to Bramley on Saturday 26 September. Nobody arrived with the ramp, so she couldn't board, and staff only found one in time for the 11:15. Her return journey, also with booked assistance, is on Saturday 10 October. I'd like written confirmation of what will be in place at both stations that day, so this doesn't happen again. Could you reply by Wednesday 7 October?\nThank you,\nJoanna Price, joanna.price@example.com",
    "lang": "en",
    "note": "When the next trip is at risk, ask first for the fix that protects it; any claim about the 26th can follow once the 10th is safe."
+  },
+  {
+   "id": "complain-as-customer-030",
+   "situation": "我叫孙悦。9月26日到29日把狗狗“可乐”寄养在“汪汪之家”宠物店，三晚共450元。29日接回来发现它左前爪有一道伤口，店员说可能是在笼子里刮的；当天带去宠物医院清创上药，花了260元，有病历、发票和伤口照片。想给店长发微信，要回医药费。",
+   "reply": "店长您好，我是孙悦，9月26日到29日把狗狗可乐寄养在店里，三晚共450元。29日接回时发现它左前爪有一道伤口，店员当时说可能是在笼子里刮的。当天我带它去宠物医院清创上药，花了260元，病历、发票和伤口照片都附在下面。希望店里承担这260元的医药费，麻烦在10月9日（周五）前回复我。谢谢！",
+   "lang": "zh",
+   "note": "只要和损失对应的医药费，不扩大到寄养费；如果伤口发红化脓或狗狗精神变差，先带它回宠物医院复诊。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -204,6 +204,13 @@
    "reply": "鈴木さん、ひとつご相談があります。先週腰を痛めて、医師から2週間は重い物を持たないように言われています。10月8日（木）の棚卸しで、いつも私が担当している段ボールの移動をお願いできないでしょうか。その代わり、鈴木さん担当のデータ入力は私がすべて引き受けます。難しければ遠慮なく言ってください、別の方法を考えます。",
    "lang": "ja",
    "note": "体調の理由は一言で十分。頼むことと引き受けることを具体的に示し、断りやすい一言を添える。"
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-030",
+   "situation": "Sou analista de marketing e a estagiária Júlia está com a gente há três semanas. Quero passar para ela a primeira tarefa só dela: levantar numa planilha os planos e preços dos cinco principais concorrentes até sexta, 9 de outubro. O resumo de concorrentes que ela fez na semana passada ficou muito bom.",
+   "reply": "Júlia, queria te passar uma tarefa que vai ser só sua: levantar os planos e preços dos nossos cinco principais concorrentes. O resumo de concorrentes que você fez semana passada ficou muito bom, então faz sentido ser você. Pronto quer dizer uma planilha com os planos e preços de cada um até sexta, 9 de outubro. Na quarta a gente olha junto o que você tiver, por 15 minutos, e se travar antes é só me chamar. Dá para encaixar com o que você já tem?",
+   "lang": "pt",
+   "note": "Com estagiário, dizer por que ele, o que é 'pronto' e um ponto de apoio marcado faz a tarefa parecer confiança, não repasse."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -197,6 +197,13 @@
    "reply": "So glad you're coming, Tara! We had to cap it at 60, so it's only partners who live together, and it was a hard line to draw. You're on the cousins' table with Jake and Mia, which I suspect will be the loudest table in the room. Can't wait to see you on the 14th.",
    "lang": "en",
    "note": "From the host's side: take it at face value, give the rule in one line without defending it, and make her feel wanted."
+  },
+  {
+   "id": "respond-to-passive-aggressive-029",
+   "situation": "我住3栋。昨晚遛狗回来，我家柯基豆豆在电梯里尿了一点，我当时没注意。今早业主群里有人发了照片，说“3栋电梯里又是狗尿，某些人养狗真有素质哈”。我已经用消毒水把电梯擦干净了，想在群里回一句。",
+   "reply": "不好意思，3栋电梯里那摊应该是我家柯基豆豆昨晚尿的，我当时没注意到，给大家添麻烦了。今天早上已经用消毒水擦干净了。以后进电梯前我先带它在楼下解决，出门也随身带纸巾和湿巾。",
+   "lang": "zh",
+   "note": "带刺的话里有真事：在群里认下自己那一次，说清已经处理和以后怎么做，不接“素质”那句，也不替“又是”的其他几次背锅。"
   }
  ]
 }

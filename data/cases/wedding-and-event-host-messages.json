@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -197,6 +197,13 @@
    "reply": "Will there be a bar? Yes! Wine with dinner and the toast are on us. From 9pm the bar is pay-your-own and card only, so bring a card or a phone you can pay with. We can't wait to celebrate with you on the 21st.",
    "lang": "en",
    "note": "State the cost once, where guests will look, with the practical detail (card only) so nobody is embarrassed at the bar."
+  },
+  {
+   "id": "wedding-and-event-host-messages-029",
+   "situation": "Our wedding is Saturday 7 November. My bridesmaid Olivia has asked us to uninvite her ex, Marcus, who has been my fiancé Sam's close friend since school. They broke up in August; it was painful but there was nothing unsafe about it. Sam and I have agreed both stay invited, they'll sit at opposite ends of the room, and Olivia is on the top table with me.",
+   "reply": "Olivia, thank you for telling me how you feel, I know August was really hard. Sam and I have decided to keep the guest list as it is, so Marcus will be there too. We've put the two of you at opposite ends of the room, and you'll be up on the top table with me. I want you right next to me all day.",
+   "lang": "en",
+   "note": "A guest asking you to cut someone is still an exception request: keep the list, soften the logistics. If she tells you she feels unsafe around him, stop and talk to her privately, because that changes the answer."
   }
  ]
 }

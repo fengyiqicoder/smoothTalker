@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -204,6 +204,13 @@
    "reply": "完全不是不喜欢阿伦，跟他没关系。我只是挺想念我们三个人随便聊天的那种时间。每个月那一次聚餐能不能留给我们三个？其他时候一起出去玩，我很欢迎他来。10月17号周六那次，就我们仨，好吗？",
    "lang": "zh",
    "note": "对方把请求理解成针对某个人时，先把这个误会卸下来，再回到同一个具体请求，不翻旧账。"
+  },
+  {
+   "id": "ask-to-change-behavior-030",
+   "situation": "My friend Hiroshi grabs the bill before I can every time we eat out, including our last four dinners. I earn fine, and it's started to make me feel I can't suggest nicer places, or that I'm running up a tab with him. We're getting ramen this Friday.",
+   "reply": "Can I raise a small, slightly odd thing before Friday? You've grabbed the bill at our last four dinners, and I love that you're generous, but it's started to make me feel I can't suggest places, or that I owe you. Could we take turns from now on, starting with me on Friday? Ramen's on me.",
+   "lang": "en",
+   "note": "Even a generous habit is one behaviour: name the effect on you and offer a simple shared system."
   }
  ]
 }

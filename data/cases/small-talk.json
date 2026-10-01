@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "small-talk-001",
@@ -197,6 +197,13 @@
    "reply": "Hi Tomás, I'm Leah from finance in London, looks like the bot has matched us for coffee! I have to ask about the surfboard: where are you learning, and how badly are we talking? I'm free for 20 minutes any afternoon this week, whenever suits you.",
    "lang": "en",
    "note": "Open with the thing he chose to show, add one line about you, and let the next question come from his answer."
+  },
+  {
+   "id": "small-talk-029",
+   "situation": "I've signed up with a befriending scheme, and tomorrow is my first Tuesday visit to Evelyn, 91, at her care home. The coordinator told me she was a primary school teacher for 40 years, and there's a framed photo of a little sailing boat on her windowsill. I'm Josh and I'm worried we'll just sit in silence.",
+   "reply": "Hello Evelyn, I'm Josh, I'll be coming to see you on Tuesdays. I couldn't help noticing the sailing boat on your windowsill. Is there a story behind it?",
+   "lang": "en",
+   "note": "Start from something in her room and let her stories lead; keep the teaching years for another visit, and let quiet stretches be quiet."
   }
  ]
 }

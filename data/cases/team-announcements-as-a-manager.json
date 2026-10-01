@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -197,6 +197,13 @@
    "reply": "From Monday 2 November to Friday 26 February, we'll close at 3pm on weekdays instead of 6pm. Since the office block next door emptied, weekday afternoon sales have dropped by about half, and the owner and I decided this together. For you, it means 15 fewer weekday shift-hours a week across the team. I'll spread that so nobody loses more than 3 hours a week, and weekend hours stay exactly as they are. The new rota will be up by Friday 16 October. If losing those hours causes you a real problem, message me this week and we'll look at the rota together.",
    "lang": "en",
    "note": "Cutting hours: the people hit hardest hear it in person first, and the post gives the cap on losses before anyone has to ask."
+  },
+  {
+   "id": "team-announcements-as-a-manager-029",
+   "situation": "我带一个7人的测试团队。同事小何休了三个月病假，10月12日（周一）回来上班，前六周每周只上三天（周一、周二、周四），这段时间先不接紧急任务。她同意我在群里说这些，希望大家像平常一样对她，不要问病情。她休假期间的回归测试由阿凯代管，回来后先交还一半，具体怎么分他们俩这周定。",
+   "reply": "跟大家说一件事：小何10月12日（周一）回来上班。前六周她每周上三天，周一、周二和周四，这段时间先不接紧急任务，有急事还是找我。她休假期间由阿凯代管的回归测试，回来后先交还一半，具体怎么分他们俩这周定好。小何希望大家像平常一样就好，不用问身体的事，说一句欢迎回来就够了。如果这样安排影响到你手上的工作，单独找我。",
+   "lang": "zh",
+   "note": "同事回归的公告：只说她同意说的，先讲日期和工作安排，再告诉大家怎么做最自然。"
   }
  ]
 }

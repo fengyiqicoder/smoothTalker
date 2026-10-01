@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -203,6 +203,13 @@
    "reply": "Hi Dr. Brooks, fair question. I found it on the contact page of the Brooks Family Dental website; nobody passed it to me, and I haven't added you to any mailing list. If you'd rather not hear from me again, just say so and I won't write again.\nPriya Nair",
    "lang": "en",
    "note": "Answer the question plainly and offer the exit; don't turn the reply into a second pitch. If he says stop, reply 'Done, apologies' and remove him everywhere."
+  },
+  {
+   "id": "cold-outreach-030",
+   "situation": "Ich bin Jonas Albrecht und betreibe eine mobile Fahrradwerkstatt in Leipzig. Frau Lehmann, Personalleiterin der Softwarefirma Kranichsoft, hat auf LinkedIn geschrieben, dass inzwischen 40 Mitarbeitende mit dem Rad kommen und der neue Fahrradkeller eingeweiht ist. Im Mai habe ich bei der Druckerei Hessel an einem Tag 85 Räder direkt auf dem Firmenhof gewartet.",
+   "reply": "Betreff: Servicetag für Ihren neuen Fahrradkeller\n\nHallo Frau Lehmann,\nIhr Beitrag über den neuen Fahrradkeller und die 40 Kolleginnen und Kollegen, die mit dem Rad kommen, hat mich gefreut. Ich betreibe eine mobile Fahrradwerkstatt in Leipzig und warte Räder direkt vor Ort; bei der Druckerei Hessel waren es im Mai 85 Räder an einem Tag. Wäre ein Servicetag bei Kranichsoft für Sie interessant? Falls nicht, hilft mir auch ein kurzes Nein.\nViele Grüße\nJonas Albrecht",
+   "lang": "de",
+   "note": "Der Anlass kommt aus ihrem eigenen Beitrag, dazu eine Zahl und eine Ja-oder-Nein-Frage statt eines Termins."
   }
  ]
 }

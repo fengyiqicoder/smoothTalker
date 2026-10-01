@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -197,6 +197,13 @@
    "reply": "Dad, quick one before you go up: your hearing aid's whistling. A quick adjust should sort it. Happens all the time, and you're going to be great.",
    "lang": "en",
    "note": "A parent gets the same rule as anyone: a five-second fix, one quiet line right away, then straight back to cheering him on."
+  },
+  {
+   "id": "tell-someone-something-awkward-029",
+   "situation": "I'm at my friend Leo's flat for a dinner party with eight of us. I'm helping in the kitchen while he carves his first ever roast chicken, and the meat by the bone is still pink with red juices. The plates haven't gone out yet and nobody else has seen it.",
+   "reply": "Leo, quick one before it goes out: it's still pink by the bone. Back in the oven for a bit should sort it, and I'll top up everyone's drinks in the meantime. Happens to everyone with their first roast!",
+   "lang": "en",
+   "note": "Undercooked chicken can make people ill, so say it straight away, quietly in the kitchen, never at the table."
   }
  ]
 }

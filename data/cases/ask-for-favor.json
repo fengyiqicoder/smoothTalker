@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -204,6 +204,13 @@
    "reply": "Hi, could I ask you something quickly? Our cat Pepper, a grey tabby with a white chest, has been missing since Sunday night. Would it be okay to pin this A5 poster on your noticeboard by the till for two weeks? I'll come back and take it down myself after that. If the board's full or you'd rather not, no problem at all.",
    "lang": "en",
    "note": "A stranger owes you nothing: keep it small, time-limited, and promise to clear up after yourself."
+  },
+  {
+   "id": "ask-for-favor-030",
+   "situation": "I'm away Friday 16 to Sunday 18 October for my sister's wedding. My dog Bruno, a 6-year-old rescue, is nervous around other dogs, needs two 30-minute walks a day on a lead, and takes one pill with breakfast. I want to ask my friend Lucy, who's met him and has no pets, to have him at hers; I'd drop him off at 8am Friday and collect him at 7pm Sunday, and if not I'll book a kennel.",
+   "reply": "Hi Lucy, a big-ish ask: could Bruno stay with you from Friday 16 to Sunday 18 October while I'm at my sister's wedding? I'd drop him off at 8am Friday and pick him up at 7pm Sunday. To be upfront, he's nervous around other dogs, so it's two 30-minute walks a day on the lead, steering clear of other dogs, plus one pill with breakfast. If that's more than you want to take on, just say, and I'll book a kennel. I'll bring his food, his bed and a written list, and dinner's on me when I'm back.",
+   "lang": "en",
+   "note": "Name the hard part of the favour before they agree; a yes given without knowing the dog is nervous isn't a real yes."
   }
  ]
 }

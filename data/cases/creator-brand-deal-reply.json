@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -203,6 +203,13 @@
    "reply": "Hi Dana, thanks for reaching out, I'd be glad to put the Kova 2 through its paces. The one condition I can't accept is unlisting the old review: it's an honest account of the first model, and my viewers rely on reviews staying up. What I can do is pin a comment on the old video linking to the new one once it's live, so anyone who lands there sees the Kova 2 too. The sponsored video itself is $1,800 with 30 days of organic usage. Shall I send you some dates?",
    "lang": "en",
    "note": "Keep the deal, refuse the condition that costs your audience's trust, and offer a fair substitute that still helps the brand."
+  },
+  {
+   "id": "creator-brand-deal-reply-030",
+   "situation": "I post dog training tips on Instagram, 40k followers. Maya from a small local dog rescue, Second Chance Paws, asked if I'd make three reels for their adoption drive for free, since they have no budget. I love what they do and I'm happy to donate one reel and share their adoption posts in my stories through October, but three reels is about two days' work I can't give away.",
+   "reply": "Hi Maya, thank you for asking, I love what Second Chance Paws does. Three reels is more than I can give for free, but I'd be glad to donate one reel for the adoption drive and share your adoption posts in my stories through October. If that helps, send me a short brief with the dogs you'd most like featured and your timing, and I'll come back to you within a day.",
+   "lang": "en",
+   "note": "For a cause you believe in, decide what you'll give and offer it as a clear package, so the free work has edges."
   }
  ]
 }

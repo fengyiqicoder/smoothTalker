@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -204,6 +204,13 @@
    "reply": "Hi Rob, thanks for checking with me first. I'd rather we waited on Isla's ears until she's 10, when she can look after the piercings herself, and then raised it with her together. If you see it differently, could you let me know by Thursday 8 October so we can settle it before Saturday? Thanks.",
    "lang": "en",
    "note": "A non-urgent decision you disagree on: thank them for asking, give your view with one reason, and keep it joint; if you still can't agree, mediation is the next step, not a longer text."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-030",
+   "situation": "My ex Jordan collects our daughter Mia (6) from my front door at 6pm on Sundays for his weekends, and the last two handovers turned into arguments in front of her. I'd like his weekends to run from Friday school pickup at 3:15 to Monday school drop-off instead, so handovers happen at school; his next weekend is 9 to 11 October.",
+   "reply": "Hi Jordan, I'd like to propose a change to handovers. Starting with your next weekend, could you collect Mia from school on Friday 9 October at 3:15 and drop her at school on Monday 12 October, instead of the current handovers at my door? That gives you an extra night with her, and the switch happens at school, which keeps things simple for her. Could you let me know by Wednesday 7 October? Thanks.",
+   "lang": "en",
+   "note": "Leave the arguments out; the proposal solves them. If a handover ever feels unsafe, call emergency services."
   }
  ]
 }
