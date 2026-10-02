@@ -25,7 +25,7 @@
   },
   {
    "id": "respond-to-unsolicited-advice-004",
-   "situation": "I told my dad I'm leaving my accounting job in March to open a bakery. He's sent me three articles about small business failure rates. I told him I'd thought it through and he replied 'I'm only trying to help, I don't want you to lose everything.'",
+   "situation": "I told my dad I'm leaving my accounting job in March to open a bakery. He's sent me three articles about small business failure rates. I told him I'd thought it through and he replied 'I'm only trying to help, I don't want you to lose everything.' I'm trying out the menu at home on Sunday 11 October.",
    "reply": "I know, Dad, and I love that you're looking out for me. I've thought it through and I've made my decision. What would really help is you coming to taste the menu on Sunday 11 October.",
    "lang": "en",
    "note": "Agree with the intention, keep the position, and give him a way to help that isn't advice. Don't send back counter-statistics."
@@ -40,7 +40,7 @@
   {
    "id": "respond-to-unsolicited-advice-006",
    "situation": "My retired neighbour Gary gives me lawn tips every time I'm out front on a Saturday (aerate, overseed, mow higher). He's sweet and proud of his tomatoes, and I'm happy with a low-effort lawn, dandelions and all; I just don't want a 20 minute lecture every weekend.",
-   "reply": "Ha, Gary, you'll make a lawn man of me yet. I'm keeping it low effort this year, dandelions and all. How did your tomatoes end up doing?",
+   "reply": "Ha, Gary, you'll have me out here with a soil tester yet. I'm keeping it low effort this year, dandelions and all. How did your tomatoes end up doing?",
    "lang": "en",
    "note": "Low stakes and someone you like: receive it with humour and hand him a topic he enjoys. Save the firmer rungs for if it keeps eating your Saturdays."
   },
@@ -74,7 +74,7 @@
   },
   {
    "id": "respond-to-unsolicited-advice-011",
-   "situation": "我今年63岁，刚退休，刚花8万块钱报了一个半年的老年大学游学团，去云南和欧洲。女儿知道后天天发消息劝我把钱存定期，说“这钱要留着养老”。钱是我自己攒的，退休金也够花。",
+   "situation": "我（女）今年63岁，刚退休，刚花8万块钱报了一个半年的老年大学游学团，去云南和欧洲。女儿知道后天天发消息劝我把钱存定期，说“这钱要留着养老”。钱是我自己攒的，退休金也够花。",
    "reply": "闺女，妈知道你是担心我，这份心我收下了。这笔账我算过，退休金和存款都够，游学团也报好了，我想趁还走得动出去看看。你要真想帮我，就帮我挑个好用的翻译软件吧，到了欧洲我怕看不懂菜单。",
    "lang": "zh",
    "note": "回应关心，不摊开账本逐条解释；把她的在意引到一件能帮上忙的具体小事上。"
@@ -82,7 +82,7 @@
   {
    "id": "respond-to-unsolicited-advice-012",
    "situation": "My friend Dev made a lot of money on crypto this year and every time we meet he tells me I'm 'an idiot' for keeping my savings in a normal savings account. I've thought about it and I'm not interested. He means well, and we play five-a-side together on Thursdays.",
-   "reply": "Ha, you've made the case well, Dev. I'm keeping my savings where they are, it lets me sleep at night. Genuinely glad it's worked out for you though. Are we still on for five-a-side Thursday?",
+   "reply": "Ha, you've made the case well, Dev. I'm keeping my savings where they are. Genuinely glad it's worked out for you though. Are we still on for five-a-side Thursday?",
    "lang": "en",
    "note": "Name your position once, warmly, and change the subject; if he raises it again, repeat the same sentence rather than debating."
   },
@@ -91,7 +91,7 @@
    "situation": "宝宝乐乐8个月了，婆婆一直说该在米糊里加点糖、喝点果汁。我说医生建议先不加糖，当时语气有点冲，她就说“好好好，以后我什么都不说了”，这两天都不太理我。她带大了两个孩子。我不想改决定，但想缓和一下。",
    "reply": "妈，那天我语气急了点，您别往心里去。您带大了两个孩子，经验比我多多了，我知道您是心疼乐乐。加糖这件事我们还是按医生说的先不加，别的事我真的很想听您的。周末您来家里教我做南瓜小米粥吧，乐乐肯定爱吃。",
    "lang": "zh",
-   "note": "When they take offence: apologise for the tone, not the decision, and give them a real role."
+   "note": "对方被冒犯时：为语气道歉，不为决定道歉，再给她一个实实在在能参与的角色。"
   },
   {
    "id": "respond-to-unsolicited-advice-014",
@@ -126,7 +126,7 @@
    "situation": "I'm halfway through chemo for breast cancer. My aunt Rosa keeps sending me articles saying juice cleanses cure cancer and that I should stop chemo. I love her, I'm sticking with my oncology team's plan, I'm too tired to debate it, and my next session is Tuesday Oct 6.",
    "reply": "Aunt Rosa, I know you send these because you love me and you're scared too. I'm staying with the plan my oncology team and I chose, and I'm not going to discuss other treatments, so please stop sending the articles. What would really help is your company: could you come and sit with me at my session on Tuesday 6 October?",
    "lang": "en",
-   "note": "Treatment decisions stay with the medical team; close the topic instead of rebutting articles, and give her worry somewhere useful to go."
+   "note": "Treatment decisions stay with the medical team: close the topic instead of rebutting articles, and take any question an article raises to your oncology team, not to her. Give her worry somewhere useful to go."
   },
   {
    "id": "respond-to-unsolicited-advice-019",
@@ -161,7 +161,7 @@
    "situation": "My brother Mark lives in Singapore and calls every Sunday with advice on how I should care for our mum, who has dementia and lives with me: a stricter routine, a different diet, a supplement he read about. I do the daily care, her doctor is happy with the plan we have, and last Sunday he said 'I'm just saying what anyone would see.'",
    "reply": "Mark, I know this comes from loving Mum, and being so far away must be hard. Her doctor and I have a plan that's working, and I'm going to stick with it. What would help me more on Sundays is just hearing how your week went and telling you about hers. Can we do that?",
    "lang": "en",
-   "note": "Credit the love, hold the plan without listing reasons, and give the call something better to be about."
+   "note": "Credit the love, hold the plan without listing reasons, and give the call something better to be about. If a suggestion like the supplement seems worth checking, ask her doctor rather than debating it on the call."
   },
   {
    "id": "respond-to-unsolicited-advice-024",
@@ -173,7 +173,7 @@
   {
    "id": "respond-to-unsolicited-advice-025",
    "situation": "I've been going to the same hairdresser, Tasha, for four years. At every appointment she tells me I'd suit a short bob, and last time she said I'm 'hiding behind all that hair'. I'm keeping it long, and I'm texting her now to book a trim for Saturday 10 October.",
-   "reply": "Hi Tasha, could I book a trim for Saturday 10 October? I know you'd love to get me into a bob, but I'm keeping it long, it's very much me, so just a tidy-up on the ends. Looking forward to catching up!",
+   "reply": "Hi Tasha, could I book a trim for Saturday 10 October? I know you'd love to get me into a bob, but I'm keeping it long, so just a tidy-up on the ends. Looking forward to catching up!",
    "lang": "en",
    "note": "With a service provider you like, name the decision once in the booking so it isn't debated in the chair; if the bob comes up again, repeat the same line."
   },
@@ -200,7 +200,7 @@
   },
   {
    "id": "respond-to-unsolicited-advice-029",
-   "situation": "我68岁，老伴走了两年。最近在公园跳广场舞认识了老李，常一起吃饭散步。儿子知道后天天打电话说“妈，您这把年纪了，别让人笑话”。我心里有数，日子过得挺开心。这周日儿子要带孙子回来吃饭，他最爱吃我做的红烧肉。",
+   "situation": "我（女）68岁，老伴走了两年。最近在公园跳广场舞认识了老李，常一起吃饭散步。儿子知道后天天打电话说“妈，您这把年纪了，别让人笑话”。我心里有数，日子过得挺开心。这周日儿子要带孙子回来吃饭，他最爱吃我做的红烧肉。",
    "reply": "儿子，妈知道你是怕我被人说闲话、怕我吃亏，这份心妈领了。你爸走了两年，我现在跟老李跳跳舞、吃吃饭，日子过得挺开心，这件事我自己拿主意。周日带孙子回来吃饭吧，妈给你做红烧肉。",
    "lang": "zh",
    "note": "长辈面对子女的劝告也一样：接住关心，立场说一次，不摆理由，再把话题拉回家常；他再提，就重复同一句。"
@@ -224,14 +224,14 @@
    "situation": "I've used a wheelchair since a spinal injury eight years ago. Joan from my Thursday book club keeps telling me about a supplement and a 'healer' her cousin swears by so I could 'walk again', and last week she brought me a leaflet. I'm happy with my life and my care as they are, and this month we're reading a mystery Joan picked.",
    "reply": "Thanks, Joan, I know you mean it kindly. I'm happy with my life and my care as they are, so I'll pass on the leaflet. Now, I need to know: did you guess the killer in your pick before the end?",
    "lang": "en",
-   "note": "Advice about a disability gets the shortest rungs: one line of position, no medical debate, then back to what you share; if it returns, repeat the same line."
+   "note": "Advice about a disability gets the shortest rungs: one line of position, no medical debate, then back to what you share; if it returns, repeat the same line. Any new treatment you want to explore goes to your own doctor, never a leaflet or a healer."
   },
   {
    "id": "respond-to-unsolicited-advice-033",
-   "situation": "我养了只领养的狗叫可乐，召回还没练好，训犬师让我遛的时候一直牵绳。同楼的王大爷每次在小区碰到都说“老拴着太可怜了，解开让它跑跑”。王大爷人挺好，他家养了只柯基叫团团。",
-   "reply": "王大爷，谢谢您心疼可乐。它现在还得一直牵着，我们这样挺好的。团团最近怎么样？",
+   "situation": "我35岁，最近开始学滑板，护具全套都配齐了。我在大学同学微信群里发了练习视频，老周在群里@我说“这把年纪玩这个，摔骨折了不划算，还是去打打太极吧”，几个人跟着发笑脸。我不生气，想在群里轻松回一句就过去。",
+   "reply": "@老周 谢谢关心哈，护具我全套配齐了，摔不坏。太极先留着，等我六十岁再跟你学！",
    "lang": "zh",
-   "note": "对邻居用最低一两档：接住好意，立场说一句，不搬出训犬师讲道理，再换到他爱聊的团团；下次他再说，就重复同一句。"
+   "note": "在群里被当众“劝”，用一句轻松的玩笑接住就够，不在群里解释或争论；他私下再提，再平静地说一次立场。"
   },
   {
    "id": "respond-to-unsolicited-advice-034",

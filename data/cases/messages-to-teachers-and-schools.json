@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -253,6 +253,13 @@
    "reply": "Dear Mr Brennan, I'm Noor Haddad in Year 12. I'd like to ask about switching from A-level Chemistry to Psychology. I've been getting E grades in the Chemistry topic tests, and I'm hoping to study criminology at university, so Psychology feels like a better fit; my parents agree with the change. Is it still possible to switch at this point, and if so, what's the process and is there a deadline? I'm free in my study periods on Tuesday and Thursday mornings if it would help to talk. Thank you, Noor",
    "lang": "en",
    "note": "When the student writes, the same shape applies: who you are, the facts, a question about the process, and when you're free."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-037",
+   "situation": "我是四年级（2）班张一航的妈妈周敏。最近两周有两次放学后一航被留在教室补作业，到5点半才出来，事先没人通知我，我在校门口等了一个多小时，打他电话手表也没接通，急坏了。班主任是黄老师；补作业我理解，家里我们也开始每天睡前检查他的作业，只希望以后留堂能提前在微信上告诉我一声。",
+   "reply": "黄老师您好，我是四年级（2）班张一航的妈妈周敏。最近两周一航有两次放学后留在教室补作业，到5点半才出来，我在校门口等了一个多小时，打他电话手表也没接通，当时挺着急的。补作业我完全理解，家里我们也开始每天睡前检查他的作业了。想拜托您，以后如果需要留他，能不能提前在微信上跟我说一声，我好安排接送？谢谢您！",
+   "lang": "zh",
+   "note": "只提一个以后的请求，不追究那两次是谁的疏忽；说清家里在做什么，老师更容易配合。"
   }
  ]
 }

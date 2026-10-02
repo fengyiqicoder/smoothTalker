@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Grace, we had our call at 3pm today and I didn't see you join, so I hope all's okay; I know the year-end audit is full on. Would any lunchtime next week work for 30 minutes? If the next few weeks are too packed, I'm very happy to pick it up once the audit's done, just say.",
    "lang": "en",
    "note": "When someone senior doing you a favour misses a slot: no guilt, an easy rebooking and an open offer to pause."
+  },
+  {
+   "id": "handle-no-show-or-lateness-037",
+   "situation": "My friend Kenji offered to drive me to the airport this morning: pickup at 5am, and my flight is at 7:40. It's 5:15, he isn't here and isn't answering his phone. If he's not here by 5:25 I'll book a taxi on the app.",
+   "reply": "Hey Kenji, all okay? I'm outside with my bag. If I haven't heard from you by 5:25 I'll grab a taxi so I don't miss the flight, so no need to rush if you've overslept. Text me when you see this.",
+   "lang": "en",
+   "note": "With a hard deadline, set your cut-off early and say it out loud; the backup takes the pressure off both of you."
   }
  ]
 }

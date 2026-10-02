@@ -11,7 +11,7 @@
   },
   {
    "id": "respond-to-recruiter-002",
-   "situation": "猎头在脉脉上找我，说一个大厂的高级产品经理岗位。我刚跳槽4个月，不想动，但这个猎头挺专业的，想保持联系。",
+   "situation": "猎头在脉脉上找我，说一个大厂的高级产品经理岗位。我刚跳槽4个月，不想动，但这个猎头挺专业的，想保持联系，明年六月前后可以再聊。",
    "reply": "谢谢您想到我。我刚换工作四个月，现阶段不考虑新机会，明年六月前后很愿意再聊。我们先在这里保持联系？",
    "lang": "zh",
    "note": "\"暂时不考虑\"要带一个时间点，不然对方会当成委婉的拒绝。"
@@ -25,21 +25,21 @@
   },
   {
    "id": "respond-to-recruiter-004",
-   "situation": "A recruiter, Nadia, emailed that before she passes me to the hiring manager she needs my current salary. I make $128k and I'm targeting $150k base. I'm interested in the role.",
+   "situation": "A recruiter, Nadia, emailed that before she passes me to the hiring manager she needs my current salary. I make $128k and I'm targeting $150k base. I'm interested in the role and free Thursday or Friday afternoon.",
    "reply": "Thanks, Nadia, glad this is moving. I'd rather not share my current salary, but I can tell you what I'm targeting: $150k base for this role. If that fits the band, I'm happy to speak with the hiring manager this week; Thursday or Friday afternoon works for me.",
    "lang": "en",
    "note": "Share the target, never the current number; stay clearly interested so the redirect doesn't read as a no."
   },
   {
    "id": "respond-to-recruiter-005",
-   "situation": "Gestern hatte ich ein Erstgespräch mit Frau Keller, Recruiterin bei einer Unternehmensberatung, für eine Senior-Consultant-Stelle. Klang gut, aber die Rolle hat 60 Prozent Reisetätigkeit und das passt mit meinen zwei kleinen Kindern nicht. Ich heiße Jana Hoffmann und will höflich absagen.",
+   "situation": "Gestern hatte ich ein Erstgespräch mit Frau Keller, Recruiterin bei einer Unternehmensberatung, für eine Senior-Consultant-Stelle. Klang gut, aber die Rolle hat 60 Prozent Reisetätigkeit und das passt mit meinen zwei kleinen Kindern nicht. Für Rollen mit überwiegend regionalen Projekten wäre ich offen. Ich heiße Jana Hoffmann und will höflich absagen.",
    "reply": "Guten Tag Frau Keller, vielen Dank für das Gespräch gestern. Ich habe es mir gut überlegt und möchte die Stelle nicht weiterverfolgen: 60 Prozent Reisetätigkeit passt in meiner jetzigen Lebensphase nicht. Wenn Sie eine vergleichbare Rolle mit überwiegend regionalen Projekten haben, höre ich sehr gern wieder von Ihnen. Viele Grüße, Jana Hoffmann",
    "lang": "de",
    "note": "Absage nach dem Gespräch: die Antwort in den ersten zwei Zeilen, ein kurzer Grund, und eine konkrete Tür für passende Rollen."
   },
   {
    "id": "respond-to-recruiter-006",
-   "situation": "去年10月猎头周小姐找过我一个高级数据分析岗位，我当时婉拒了，说保持联系。现在公司在裁员，我想主动找她，想找上海电商或金融公司的数据团队负责人，年薪期望55万左右，但不想显得很急。",
+   "situation": "去年10月猎头周小姐找过我一个高级数据分析岗位，我当时婉拒了，说保持联系。现在公司在裁员，我想主动找她，想找上海电商或金融公司的数据团队负责人，年薪期望55万左右，但不想显得很急。这周四或周五下午我有空通电话。",
    "reply": "周小姐您好，去年10月您联系过我聊高级数据分析的机会，当时时机不合适，谢谢您还记得我。我现在开始看新的机会，方向是电商或金融公司的数据团队负责人，base上海，年薪期望55万左右。如果您手上有合适的，这周四或周五下午都方便电话聊15分钟。",
    "lang": "zh",
    "note": "主动回头找猎头：直接说方向、城市和薪资，方便她匹配；裁员的事不必解释。"
@@ -67,17 +67,17 @@
   },
   {
    "id": "respond-to-recruiter-010",
-   "situation": "ビズリーチ経由で、エージェントの田中さんから物流系SaaS企業のプロダクトマネージャー職のスカウトが来た。自分は山本。興味はあるけど、自分はPM歴5年で今は3人のチームのリード。募集要項を見るとメンバークラスっぽいので、面談の前にレベル感と年収レンジを確認したい。",
+   "situation": "ビズリーチ経由で、エージェントの田中さんから物流系SaaS企業のプロダクトマネージャー職のスカウトが来た。自分は山本。興味はあるけど、自分はPM歴5年で今は3人のチームのリード。募集要項を見るとメンバークラスっぽいので、面談の前にレベル感と年収レンジを確認したい。面談は10月6日（火）か7日（水）の19時以降なら可能。",
    "reply": "田中様\nご連絡ありがとうございます。物流領域には関心があり、前向きに検討したいと考えています。面談の前に2点確認させてください。1点目はポジションのレベルです。現在PMとして5年、3名のチームのリードをしておりますので、リード以上のポジションを想定されているかを伺えますか。2点目は想定年収レンジです。この2点が合うようでしたら、10月6日（火）か7日（水）の19時以降にお話しできれば幸いです。\nよろしくお願いいたします。\n山本",
    "lang": "ja",
    "note": "レベルと年収レンジを面談前に聞いておけば、合わない場合にお互いの時間を使わずに済む。"
   },
   {
    "id": "respond-to-recruiter-011",
-   "situation": "一个猎头在脉脉上联系我，是深圳一家互联网公司的高级前端岗位，方向我挺感兴趣。但我听说他们是大小周，我现在不考虑大小周。想在约电话前先问清楚。",
-   "reply": "谢谢您想到我。这个方向我挺感兴趣的，约电话前想先确认一点：这个岗位是双休还是大小周，平时一般几点下班？我目前不考虑大小周的团队。如果是双休，这周三或周四晚上8点后都可以通话。",
+   "situation": "猎头郑女士三周前在脉脉上给我发消息，推荐深圳一家互联网公司的高级前端岗位，我最近忙项目，今天才看到。方向我挺感兴趣，想问问还在不在招、薪资范围多少。这周三或周四晚上8点后我可以通电话。",
+   "reply": "郑女士您好，谢谢您想到我，抱歉这么晚才回复。这个方向我挺感兴趣，想问一下岗位还在招吗？如果还在，麻烦先发我薪资范围；合适的话，这周三或周四晚上8点后都可以通话。",
    "lang": "zh",
-   "note": "硬性条件在约电话之前问，一句话说清楚底线，对双方都省时间。"
+   "note": "回晚了，一句道歉就够，不用解释原因；直接问岗位还在不在，再问薪资范围。"
   },
   {
    "id": "respond-to-recruiter-012",
@@ -88,7 +88,7 @@
   },
   {
    "id": "respond-to-recruiter-013",
-   "situation": "An agency recruiter, Owen, called my desk phone at work this morning with my manager sitting right next to me. I said I couldn't talk and he emailed my personal address after. I'd actually like to hear more, just not on that line.",
+   "situation": "An agency recruiter, Owen, called my desk phone at work this morning with my manager sitting right next to me. I said I couldn't talk and he emailed my personal address after. I'd actually like to hear more, just not on that line, and I'm free for a call Thursday after 6.",
    "reply": "Hi Owen, thanks for reaching out, and sorry I was brief this morning. I'm open to hearing about the role, but please don't call my work number; this email is the best way to reach me. Could you send the base range and location first? If those line up, I'm free for a call Thursday after 6.",
    "lang": "en",
    "note": "Move the channel in the first reply and still ask for the range before the call. A recruiter who keeps ringing your desk after this is telling you how he works."
@@ -102,7 +102,7 @@
   },
   {
    "id": "respond-to-recruiter-015",
-   "situation": "A recruiter, Hannah, messaged me on LinkedIn about a senior backend role at a fintech in Amsterdam. I'm Canadian, based in Toronto, and would need visa sponsorship and help relocating. I'm genuinely interested.",
+   "situation": "A recruiter, Hannah, messaged me on LinkedIn about a senior backend role at a fintech in Amsterdam. I'm Canadian, based in Toronto, and would need visa sponsorship and help relocating. I'm genuinely interested and free for a call Tuesday or Thursday at 9am Toronto time.",
    "reply": "Thanks for reaching out, Hannah, this sounds interesting. Before we book a call: would the company sponsor a work visa for a Canadian and offer relocation support, and what's the base range in euros? If those line up, I'm free for a call Tuesday or Thursday at 9am Toronto time.",
    "lang": "en",
    "note": "For a move abroad, sponsorship is the dealbreaker, so ask it before the call alongside the range."
@@ -137,14 +137,14 @@
   },
   {
    "id": "respond-to-recruiter-020",
-   "situation": "An agency recruiter, Rachel, emailed about a finance manager role at a manufacturing company that sounds right for me. Before she'll submit me she wants names and numbers for three references, including my current manager, who doesn't know I'm looking. I can send my CV today and talk Thursday afternoon.",
+   "situation": "An agency recruiter, Rachel, emailed about a finance manager role at a manufacturing company that sounds right for me. Before she'll submit me she wants names and numbers for three references, including my current manager, who doesn't know I'm looking. I only share references once there's an offer. I can send my CV today and talk Thursday afternoon.",
    "reply": "Thanks for reaching out, Rachel. I'm interested in the finance manager role and happy for you to put me forward. I share references once there's an offer on the table, and my current manager doesn't know I'm looking, so they won't be one until I've accepted. I can send my CV today; are you free for a call Thursday afternoon?",
    "lang": "en",
    "note": "If she insists references come first, repeat the same line once; a role worth having will not hinge on it."
   },
   {
    "id": "respond-to-recruiter-021",
-   "situation": "Recruiter Jess from Halden Analytics, where I was laid off in June, messaged me on LinkedIn about a senior analyst role on my old team. I'd consider going back, but only if it's a permanent, funded headcount and the base is at least my old $118k.",
+   "situation": "Recruiter Jess from Halden Analytics, where I was laid off in June, messaged me on LinkedIn about a senior analyst role on my old team. I'd consider going back, but only if it's a permanent, funded headcount and the base is at least my old $118k. I'm free Thursday or Friday afternoon this week.",
    "reply": "Thanks for reaching out, Jess. I'm open to coming back to the team. Since my role was cut in June, before a call I'd want to know whether this is a permanent, funded headcount, and I'd need a base of at least $118k, what I was on before. If both check out, I'm free for a call Thursday or Friday afternoon this week.",
    "lang": "en",
    "note": "A boomerang offer after a layoff: ask about stability before the call; it is a fair question, not a grudge."

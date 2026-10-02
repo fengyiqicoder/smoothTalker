@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Theo, thanks for the offer, I'm genuinely excited about Plotline and I'd love to build it. I price projects mainly in cash, though, and $8,000 is a long way from the $24,000 quote, which covers the full MVP in eight weeks, deployment and a month of bug fixes after launch. I can meet you partway at $20,000 cash plus 0.5% equity. To make that easier on cash flow, we could split the fee into four milestone payments. Would that work for you?",
    "lang": "en",
    "note": "Equity can sweeten a deal but it isn't a fee: anchor on cash, keep your floor to yourself, and use payment timing as the lever."
+  },
+  {
+   "id": "negotiate-price-or-salary-037",
+   "situation": "I'm Tariq. Brindle Cloud offered me a site reliability engineer role at $140k base, which I'm happy with, but it includes being on call 24/7 one week in five with no on-call pay. My current employer pays $500 per on-call week. I'd ask for $600 a week, would accept $400, and would also take a day off after each on-call week instead. The recruiter is Lauren.",
+   "reply": "Hi Lauren,\nThank you for the offer, I'm really excited about the role, and the $140k base works for me. The one thing I'd like to raise is on-call: the role includes 24/7 cover one week in five, with no on-call pay. In my current role on-call is paid at $500 a week, and for this role I'm asking for $600 a week. Is there flexibility there? If an on-call payment isn't possible, a day off after each on-call week would work for me instead.\nBest,\nTariq",
+   "lang": "en",
+   "note": "When the base is settled, negotiate the hidden cost of the role, and keep the $400 floor to yourself."
   }
  ]
 }

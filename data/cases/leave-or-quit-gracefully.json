@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -253,6 +253,13 @@
    "reply": "Hola a todos:\nOs quería contar que, a partir del 1 de diciembre, dejo la coordinación del equipo y vuelvo a un puesto técnico; Elena ya lo sabe y está aprobado. Echo de menos el trabajo técnico, y es buen momento. Andrés asumirá la coordinación, y estas semanas le pasaré las reuniones individuales y la planificación de turnos. Gracias por estos dos años, sobre todo por cómo sacamos adelante la migración del sistema de tickets en primavera. Y no me voy a ningún sitio: sigo en el equipo, ahora con más tiempo para resolver tickets con vosotros.\nLucía",
    "lang": "es",
    "note": "Dejar un cargo sin dejar la empresa: la fecha, quién toma el relevo, un traspaso concreto y que quede claro que sigues en el equipo."
+  },
+  {
+   "id": "leave-or-quit-gracefully-037",
+   "situation": "I've been the game master for our tabletop role-playing group of five friends for three years, every other Sunday. With a baby due in January I can't keep prepping sessions. I'd like to wrap up the current story arc over our last four sessions, ending Sunday 13 December, and Priya has said she'd love to run the next campaign; I'm telling them in our group chat tonight.",
+   "reply": "I'd rather tell you all now than let sessions quietly slip: with the baby due in January I can't keep up the prep, so I'm stepping down as GM. I'd like to finish the current arc properly over our last four sessions, ending Sunday 13 December. Priya has said she'd love to run the next campaign, and I'll hand over all my notes and maps if she wants them. Three years of Sundays with you lot has been brilliant, thank you.",
+   "lang": "en",
+   "note": "When the group runs on you, give it a proper ending and a named successor so it doesn't just stop."
   }
  ]
 }

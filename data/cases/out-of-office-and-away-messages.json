@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -253,6 +253,13 @@
    "reply": "Thank you for your email. I'm away from Friday 16 October and back on Wednesday 28 October, and I won't be reading email until then. If anyone is in danger, for example from a gas smell or a fallen tree blocking a road, call the emergency services first. For urgent casework, please contact my fellow Riverside councillor, Pete Lowe, at pete.lowe@example.com. Everything else will get a reply in the week I'm back. Amira Hassan",
    "lang": "en",
    "note": "Constituents may write about danger, so that route goes first; casework goes to one named colleague who agreed to cover it."
+  },
+  {
+   "id": "out-of-office-and-away-messages-037",
+   "situation": "I'm Yusuf Rahman, procurement lead at a logistics firm in Dubai. For the month of Ramadan I'll work shorter hours, 8am to 2pm Gulf time, Sunday to Thursday, and anything that arrives after 2pm gets a reply the next working morning. My colleague Hana Ali (hana.ali@example.com) has agreed to handle urgent supplier issues in the afternoons, and I want an auto-reply that runs for the month.",
+   "reply": "Thanks for your email. During Ramadan I'm working shorter hours, 8am to 2pm Gulf time, Sunday to Thursday. Anything that arrives after 2pm gets a reply from me the next working morning. For an urgent supplier issue in the afternoon, please contact Hana Ali (hana.ali@example.com). Yusuf",
+   "lang": "en",
+   "note": "Reduced hours, not away: the working window in the reader's time zone, when late messages get answered, and one named afternoon route."
   }
  ]
 }

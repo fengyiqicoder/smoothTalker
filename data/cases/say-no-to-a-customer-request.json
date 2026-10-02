@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -253,6 +253,13 @@
    "reply": "Thanks for asking ahead, Nadia, and happy birthday to your mum! We can't have dogs inside: our kitchen is open to the room, and some of our regulars are allergic. What I can do is reserve the big table on our covered garden terrace for 3pm on Sunday; it has heaters, and Pepper is very welcome out there. Shall I book it for four?",
    "lang": "en",
    "note": "The reason is the open kitchen and other guests, not 'policy', and the alternative keeps the birthday and the dog together."
+  },
+  {
+   "id": "say-no-to-a-customer-request-037",
+   "situation": "I'm Dev, a one-person locksmith; my number is 07700 900418. A woman called Claire texted asking me to let her into a flat at 14 Elm Court: she says it's her boyfriend's, he's away and not answering, and she has no ID with that address. I only open a door when the person shows they live there or the tenant or landlord confirms by phone; if they do, I can be there in about 40 minutes, and the callout is £85.",
+   "reply": "Thanks for getting in touch, Claire. I can't open the flat without proof that you live there or a go-ahead from someone who does: people trust that a locksmith won't let anyone into their home just because they ask, and I hold that line for every door. If your boyfriend or the landlord calls me on 07700 900418 to confirm, I can be with you in about 40 minutes, and the callout is £85.",
+   "lang": "en",
+   "note": "Hold the no if she pushes; if she says she's unsafe or stuck somewhere dangerous, she should call emergency services."
   }
  ]
 }

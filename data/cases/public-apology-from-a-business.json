@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -253,6 +253,13 @@
    "reply": "In August we advertised a junior designer role at Quillmark, about 210 of you applied, and not one of you heard back from us. Applying takes real time and you deserved an answer, so I'm sorry. The role was put on hold and nobody on our side owned telling you; that's on us as a studio. It reopens on Monday 12 October, and if you applied in August you'll be considered without reapplying; just email me if you'd rather we withdrew your application. From now on every applicant gets a reply within two weeks, even if it's a no. Questions: farah@example.com. Farah, co-founder, Quillmark",
    "lang": "en",
    "note": "The public here is job applicants, not customers: own the silence as the studio, name no one, and make the fix a reply time you can keep."
+  },
+  {
+   "id": "public-apology-from-a-business-037",
+   "situation": "Je suis Sophie Martin, je dirige Escapades Alpines, une petite agence de voyages à Annecy. Samedi 26 septembre, notre autocar n'est pas venu chercher 34 clients à l'aéroport de Lyon parce que nous avions transmis la mauvaise date au chauffeur, et ils ont attendu près de trois heures avant que nous leur envoyions des taxis. Nous remboursons à chacun la première nuit du séjour, 95 €, d'ici le vendredi 9 octobre sans démarche, désormais chaque transfert est confirmé par téléphone avec le chauffeur la veille, et je veux le publier sur nos réseaux et l'envoyer par e-mail aux voyageurs ; contact sophie@example.com.",
+   "reply": "Samedi 26 septembre, notre autocar n'est pas venu vous chercher à l'aéroport de Lyon, et 34 d'entre vous ont attendu près de trois heures avant que nous envoyions des taxis. C'est notre erreur : nous avions transmis la mauvaise date au chauffeur. Je vous présente mes excuses. Chaque voyageur concerné sera remboursé de la première nuit du séjour, 95 €, d'ici le vendredi 9 octobre, sans aucune démarche. Désormais, chaque transfert est confirmé par téléphone avec le chauffeur la veille. Pour toute question, écrivez-moi à sophie@example.com.\nSophie Martin, Escapades Alpines",
+   "lang": "fr",
+   "note": "L'agence assume l'erreur de transmission sans accuser le chauffeur, s'excuse une fois, rembourse automatiquement et annonce un contrôle vérifiable."
   }
  ]
 }

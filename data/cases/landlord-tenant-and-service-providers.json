@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Mr Hughes and Kerry,\nThanks for letting me know about the sale; I'm happy to help with viewings. Clause 11 of the lease asks for 24 hours' written notice before anyone enters, so please don't treat a missed reply as agreement or let yourselves in without confirmed notice. Viewings on Wednesdays 5pm to 7pm and Saturdays 10am to 12pm work for me, and I'll be there to let people in. Could you confirm by Monday that we'll go with those slots?\nThanks,\nSam",
    "lang": "en",
    "note": "Offer real slots so you're not the obstacle to the sale; the lease clause is cited once, and local rules on access are worth checking too."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-037",
+   "situation": "I'm Ruth in flat 61, on the sixth floor of Linden Court. The lift has been out of order since Monday 21 September; I reported it to the managing agent, Fairholm Estates, by email that day and again on the 28th, and they said 'parts are on order'. My mum lives with us, uses a wheelchair and hasn't been able to leave the flat since it broke; our lease says the landlord maintains the common parts, including the lift.",
+   "reply": "Dear Fairholm Estates,\nThis is a formal request about the lift at Linden Court, which has been out of order since Monday 21 September. I reported it by email that day and again on 28 September, and was told parts are on order. My mother lives with us in flat 61 on the sixth floor, uses a wheelchair, and hasn't been able to leave the flat since it broke. Under the lease, the landlord maintains the common parts, including the lift. Please confirm a repair date by Tuesday, and let me know what you can arrange in the meantime for residents who can't use the stairs.\nThanks,\nRuth",
+   "lang": "en",
+   "note": "If your mum needs urgent medical help, call emergency services and tell them the lift is out; check the lease wording before citing it."
   }
  ]
 }

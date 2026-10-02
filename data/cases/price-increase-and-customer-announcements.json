@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -253,6 +253,13 @@
    "reply": "Hallo zusammen,\nab Montag, 2. November, kostet ein Kostenvoranschlag bei uns 15 Euro. Jede Prüfung ist etwa eine halbe Stunde Arbeit, und die blieb bisher unbezahlt. Wenn ihr die Reparatur dann bei uns machen lasst, rechnen wir die 15 Euro voll an, für euch ändert sich in dem Fall also nichts. Die Preise für Reparaturen bleiben genau gleich. Danke, dass ihr mit euren Rädern zu uns kommt!\nKatrin, Fahrradwerkstatt Speiche",
    "lang": "de",
    "note": "Eine neue Gebühr: Datum und Betrag zuerst, ein ehrlicher Grund, und gleich dazu der Weg, auf dem sie für die meisten nichts kostet."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-037",
+   "situation": "我叫老彭，开了个小装修队“彭师傅装修”，正在给业主林女士家做全屋翻新，合同总价12.8万元，第9条写明主材涨价超过5%可以凭发票调价，但要书面通知、业主同意后才执行。这个月瓷砖供应商涨价8%，按清单算她家瓷砖要多出3200元，发票我都留着；工期和人工费都不变。她也可以换成同等级、不涨价的另一款砖，或者瓷砖改由她自己买、我只收人工。想在微信上正式跟她说。",
+   "reply": "林女士您好，我是彭师傅装修的老彭。正式跟您说一件事：这个月瓷砖供应商涨价8%，按您家的清单算，瓷砖要多出3200元。按合同第9条，主材涨价超过5%可以凭发票调价，但要您同意后才执行，涨价的发票我今天一并发给您。工期和人工费都不变。您有三个选择：按新价执行；换成同等级、不涨价的另一款砖，我把样品照片发您；或者瓷砖改由您自己买，我只收人工。您没点头之前，我不会按新价下单。",
+   "lang": "zh",
+   "note": "施工中途调价：第一句说清涨多少，按合同条款原文办并附发票，给出不涨价的路；没有她明确同意就不执行，不把没回复当成同意。"
   }
  ]
 }

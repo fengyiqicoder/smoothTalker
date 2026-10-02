@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -253,6 +253,13 @@
    "reply": "谢谢你先来问我，这一点我很感激。说实话我心里有点别扭，但你们的事你们自己决定，我不会拦着，也不会因此跟阿涛闹僵。只是我需要一段时间适应，接下来几次聚会我可能会少去一点，你们不用顾虑我。祝你们好。",
    "lang": "zh",
    "note": "前任问“你介意吗”：如实说一句感受，但把决定权还给他们，再说清自己需要的距离，不谈过去的感情。"
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-037",
+   "situation": "I just matched with my ex, Gabe, on a dating app; we dated for a year and broke up eighteen months ago, fairly amicably. He messaged 'ha, small world! fancy a drink for old times' sake?' I don't want to meet up or start talking again, and I'll unmatch after I reply.",
+   "reply": "Ha, small world indeed, and it's nice to see you're doing well. I'll pass on the drink, though; I think we're both better off keeping our searches separate. I'm going to unmatch after this, so don't read anything into it. Good luck out there, Gabe.",
+   "lang": "en",
+   "note": "A match isn't a door reopening: one light line, a clear no, and say you're unmatching so the disappearance doesn't read as a snub."
   }
  ]
 }

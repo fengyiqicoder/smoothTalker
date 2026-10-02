@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Steve, it's Jo from number 6. A small thing: a couple of times lately your bags have gone into our bin the night before collection, and then ours don't fit and the lid won't close. Could you stick to your own bin from now on? If yours is often full, it might be worth checking with the council whether a bigger one is available. Thanks, and let me know if anything from our side ever bothers you.",
    "lang": "en",
    "note": "Say what you saw once, plainly, with a fix he can act on; a note stuck on the bin would be read by the whole street."
+  },
+  {
+   "id": "neighbour-disputes-037",
+   "situation": "我是3栋201的小许，儿子今年高三，晚上在家复习。楼下广场每晚7点到9点有阿姨们跳广场舞，领头的是王阿姨，音箱正对着我们楼，关着窗也听得很清楚。我不想让她们别跳，只想请她们把音箱转向广场里面，8点以后声音调小一点。",
+   "reply": "王阿姨您好，我是3栋201的小许。大家每天晚上跳舞锻炼身体挺好的，我不是来说不让跳的。就是音箱正对着我们楼，关着窗也听得很清楚，我儿子今年高三，晚上要在家复习。能不能麻烦您把音箱转个方向，朝着广场里面，8点以后声音再调小一点？谢谢您！我们家要是有什么打扰到大家的，也随时跟我说。",
+   "lang": "zh",
+   "note": "先当面跟领头的人说，只提两个她马上做得到的小调整，不提物业也不发业主群；没改善再找社区或物业，并提前跟她说一声。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -253,6 +253,13 @@
    "reply": "Thank you, Kate, for telling us how this felt. Hearing no through a two-line email with no reason is a poor way to be turned down, and that's on us. We match each animal to a home based on that animal's needs, and we don't discuss anyone's application in public. From now on, everyone we decline gets a phone call from me explaining why and suggesting animals that might suit them better. If you'd like that conversation, please email me at adopt@example.com. Ruth, adoption coordinator, Paws Harbor Rescue",
    "lang": "en",
    "note": "A rejected applicant's review: own how the no was delivered, never explain her application in public, and offer the reason privately."
+  },
+  {
+   "id": "respond-to-negative-review-037",
+   "situation": "I'm Dave and I own Two Oaks Removals; my email is dave@example.com. A 1-star Google review from 'Sandra P.' says our crew broke her late grandmother's mirror during her move last week and that we're 'refusing to pay'. The crew did break it and logged it on the day; her damage claim is open, not refused, and since this week every mirror over a metre goes in a wooden crate instead of blankets.",
+   "reply": "Thank you, Sandra, and I'm so sorry. Your grandmother's mirror was broken by our crew during your move, and that's on us. For anyone reading: we haven't refused your claim; it's open, and I'd like to settle it with you directly. Since this week, every mirror over a metre travels in a wooden crate rather than blankets. Please email me at dave@example.com and I'll take it from there. Dave, owner, Two Oaks Removals",
+   "lang": "en",
+   "note": "Correct 'refusing to pay' once, calmly, and keep amounts and claim terms out of the public reply."
   }
  ]
 }

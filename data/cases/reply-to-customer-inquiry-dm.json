@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -253,6 +253,13 @@
    "reply": "可以开发票，不过我是个体户，只能开增值税普通发票，开不了专用发票，麻烦您先跟财务确认一下普票能不能报。80盒按团购价每盒88元，一共7040元，还可以免费印贵公司的logo贴纸。春节前要发的话，最晚1月20日前下单。要我先把开票信息表发给您吗？",
    "lang": "zh",
    "note": "公司采购最关心能不能报销：先把发票能开什么、不能开什么说清，再算好总价，最后一个问题推进下单。"
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-037",
+   "situation": "I sell silver pendant necklaces on Instagram for $68 each, with a gift box, shipping in 2 days. I carve and cast every pendant myself in my studio and have work-in-progress photos of each design, but the chains are bought in ready-made. Someone named Leila DMed: 'are these actually handmade or just resold? lots of shops say handmade lol'.",
+   "reply": "Hi Leila, fair question! The pendants are mine: I carve and cast every one myself in my studio. The chains I buy in ready-made, so the whole necklace isn't handmade. It's $68 with a gift box, and ships in 2 days. Want me to send you a work-in-progress photo of the design you're looking at?",
+   "lang": "en",
+   "note": "A provenance question gets exactly what you make and what you buy in; an honest 'mostly' beats a claim a customer can disprove."
   }
  ]
 }

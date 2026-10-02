@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Martin, could I ask a favour? Would you be comfortable asking Paul Hendry whether he'd have 15 minutes to talk about sponsoring the under-11s' new kits? It's £600 for 18 players, and Hendry's Hardware would have its logo on the shirts for two seasons. If it feels awkward bringing it up on the golf course, no problem at all, just say.\nIf you're up for it, here's something you can forward:\n\"Paul, Kemi Adeyemi coaches Jayden's under-11s team at Westfield Rovers. They need £600 for new kits for 18 players, and a sponsor gets their logo on the shirts for two seasons. She'd love 15 minutes to tell you more, no obligation at all.\"\nI'll let you know how it goes either way. Thanks, Martin.\nKemi",
    "lang": "en",
    "note": "A sponsorship intro: the blurb carries the price and what the sponsor gets, so Martin is passing on an offer, not asking his friend for money."
+  },
+  {
+   "id": "request-intro-or-referral-037",
+   "situation": "我叫郑岚，在一家物流公司做了五年供应链计划，还在职，在悄悄看机会，不能让现在的公司知道。前同事老吴去年跳槽到“远航仓储”，跟他们的人力资源总监宋姐很熟，听说他们在招供应链计划经理。我想请老吴帮我引荐，跟宋姐私下聊20分钟；我主导的项目把库存周转天数从45天降到了32天。",
+   "reply": "老吴，想请你帮个忙：听说远航仓储在招供应链计划经理，能不能帮我引荐一下宋姐，私下聊20分钟？我还在职，这事公司还不知道，所以麻烦你只跟宋姐一个人提。你要是觉得不方便开口，直接跟我说就行，完全没关系。\n方便的话，这段可以直接转给宋姐：“宋姐，介绍一下我前同事郑岚，做了五年供应链计划，主导的项目把库存周转天数从45天降到了32天。她目前在职，想私下跟您聊20分钟，了解一下供应链计划经理这个岗位，还请先帮她保密。”\n不管结果怎样，我都会跟你说一声。",
+   "lang": "zh",
+   "note": "在职找机会的引荐：把保密写进请求，也写进可转发的那段，老吴转发时就不用替你多解释。"
   }
  ]
 }

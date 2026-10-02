@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Marco, happy to take the fryer on, I know Saturdays are packed. The thing is I've never been shown how to use the new pressure fryer, and the manual says operators need training first, so I don't want my first go to be in the middle of dinner service. Two options: Dani, who's trained, runs it tomorrow while I take her grill station, or you give me a 30-minute walkthrough at 3pm before service and I run it from then. I'd suggest the walkthrough, so two of us can use it. Which works for you?",
    "lang": "en",
    "note": "Yes to the job, no to running dangerous kit untrained; if you're told to anyway, say no to that part and check the kitchen's health and safety procedure or raise it with the owner."
+  },
+  {
+   "id": "push-back-on-boss-037",
+   "situation": "我在一家小餐厅做店长助理。老板钱总让我这周用我自己和家人的手机号，在点评平台上给店里刷20条五星好评，说“大家都这么干”。我不想做；我可以从下周起在每张小票上印一个二维码，邀请真实到店的顾客评价，或者每天把差评逐条回复，写清楚整改了什么。",
+   "reply": "钱总，店里的评分我也想尽快提上来。只是用我和家人的号刷好评这件事我做不了，这等于在骗看评价的顾客。两个办法：一是下周起在每张小票上印个二维码，请真实到店的顾客评价；二是我每天把差评逐条回复，写清楚我们整改了什么。我建议先做第一个。您看选哪个？",
+   "lang": "zh",
+   "note": "对造假说不，对提高评分说是。老板坚持的话也不要做，用文字留个记录，自己查一下平台规则；公司有举报渠道就向那里反映。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -253,6 +253,13 @@
    "reply": "小郑，10月这期的500收到啦！顺便对个账：8月和9月那两期还没转，一共1000元，当时怕影响信用记录，我先自己还上了。麻烦你在10月15号还款日前把这1000元转我。以后每期也想请你每月10号前转，我这边好安排，谢谢啦～",
    "lang": "zh",
    "note": "分期挂在自己名下时，钱更要说得具体：数目、截止日和以后的固定日子，不翻旧账，也不评价人。"
+  },
+  {
+   "id": "money-between-friends-037",
+   "situation": "My friend Rowan owes me $400 for his share of the Tahoe cabin in August. He's just offered me his old snowboard instead of the cash, but I don't snowboard and I'd rather have the money; he's said he's short right now, so $100 a month from 1 November would be fine. My Venmo is @dana-hill.",
+   "reply": "Thanks for the offer, Rowan, that's kind, but I don't snowboard, so it would just sit in my hallway. I'd rather keep it simple with the $400 for the cabin. No need to do it all at once: how about $100 on the 1st of each month from November? My Venmo is @dana-hill, and then it's all done by February.",
+   "lang": "en",
+   "note": "Turn down payment in kind lightly, then make the cash easy with a small dated plan."
   }
  ]
 }

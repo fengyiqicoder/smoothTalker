@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -253,6 +253,13 @@
    "reply": "Some news I'd rather you heard from me: my visa renewal was refused, so I'm moving back to Manila by 14 November. After six years in Bristol I'm gutted, but I've made peace with it and I'm not appealing, so no need to look for fixes. What would really help is buyers for my furniture; I'll post a list here this week. And I'd love one last game night at mine on Friday 6 November, if you can make it.",
    "lang": "en",
    "note": "Hard news with a practical ask: say you're not looking for fixes, and give people one concrete way to help."
+  },
+  {
+   "id": "share-personal-news-037",
+   "situation": "Our son Theo was born on Tuesday, eight weeks early, and he's in the neonatal unit; my wife Hannah is recovering well. We're overjoyed and frightened at once, and our parents already know. I want to tell our 10-person friends' group chat; we're not up to visitors or questions about his weight or how long he'll be in, but home-cooked freezer meals left on our doorstep would really help.",
+   "reply": "Some news: our son Theo was born on Tuesday, eight weeks early. He's in the neonatal unit, and Hannah is recovering well. We're overjoyed and frightened at the same time. We're not up to visitors yet, and we'd rather not answer questions about his weight or how long he'll be in. If you'd like to help, home-cooked freezer meals left on our doorstep would mean a lot.",
+   "lang": "en",
+   "note": "Mixed news: name both feelings in one line, then say what not to ask and the one thing that helps."
   }
  ]
 }

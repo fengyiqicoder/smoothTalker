@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -253,6 +253,13 @@
    "reply": "Ha, oui, ça fait un an déjà ! Pas de souci, j'apporte un gratin de lentilles pour tout le monde dimanche, comme ça tu n'as rien de plus à prévoir. Je viens pour quelle heure ?",
    "lang": "fr",
    "note": "Une pique isolée se prend au pied de la lettre : on ne justifie pas son régime, on règle le problème pratique et on passe à la suite."
+  },
+  {
+   "id": "respond-to-passive-aggressive-037",
+   "situation": "Meu amigo Rafael me emprestou a furadeira dele há dois meses e hoje mandou no WhatsApp: 'Pelo jeito a furadeira mudou de casa de vez, né? 😅'. Ele tem razão, esqueci de devolver. Posso passar na casa dele no sábado de manhã para entregar.",
+   "reply": "Haha, tem razão, ela já estava se sentindo em casa aqui! Foi mal, esqueci completamente. Passo aí no sábado de manhã para devolver, pode ser? Valeu demais pelo empréstimo.",
+   "lang": "pt",
+   "note": "A alfinetada embrulha um pedido justo: responda ao conteúdo, assuma em meia frase e marque a devolução."
   }
  ]
 }

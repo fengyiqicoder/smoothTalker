@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Mrs Okafor, it makes sense to do it all while the dust sheets are down. The landing and stairs aren't in the £1,450 quote, which covers the living room and hallway; they're about two extra days of work, so I'd add £520. I can carry straight on after the hallway and finish by Thursday 15 October. Would you like me to add them? If so, I'll send the updated quote in writing before I start.",
    "lang": "en",
    "note": "On a fixed-price trade job, 'while you're here' is new scope: price it and get the yes in writing before the brush touches the stairs."
+  },
+  {
+   "id": "say-no-to-client-scope-037",
+   "situation": "我是自由译者，给一家做户外家具的公司翻译英文产品手册，合同只包括笔译，按字数算。对接人郑经理说下周去广州参展两天，“反正你懂产品”，想让我顺便去展位做口译。我可以接，陪同口译每天2000元，往返交通和住宿另计，需要他们书面确认。",
+   "reply": "郑经理，能陪你们去展会我挺乐意的，产品我确实熟。不过我们的合同只包括产品手册的笔译，展会口译是另一项工作：陪同口译每天2000元，两天共4000元，往返交通和住宿另计。您看可以的话，回邮件确认一下，我就把下周这两天留出来。",
+   "lang": "zh",
+   "note": "“顺便”的口译也是新工作：先报价，书面确认后再排时间。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -253,6 +253,13 @@
    "reply": "Dear Mr Osei,\nOn Wednesday you waited 55 minutes past your 3pm appointment with no update from us, had to leave for the school pickup, and were then charged our $50 missed-appointment fee on top. That's our failure, not yours, and I'm sorry. I've refunded the $50 today. So you don't have to wait again, I can offer you the first appointment of the day, 8am on Tuesday or Thursday; which would suit you? From this week, reception tells anyone waiting more than 15 minutes how long the delay is. I'm Nadia, the practice manager, and you can reach me directly on 555-0124.\nNadia",
    "lang": "en",
    "note": "Two failures, the wait and the wrong charge: name both, reverse the charge before he asks, and make the next visit the one with no wait."
+  },
+  {
+   "id": "respond-to-angry-customer-037",
+   "situation": "I'm Jade, owner of Willow Hair Studio. On Thursday I coloured Sophie's hair: she asked for ash blonde, paid $210, and it came out brassy orange, which is my mistake. She's messaged furious with photos, because her sister's wedding is on Saturday 10 October. I'm refunding the $210 today and will correct the colour myself, free, and I have Saturday 3 October at 9am or Monday 5 October at 5pm; my number is 555-0186.",
+   "reply": "Sophie, you asked for ash blonde, paid $210, and left with brassy orange, with your sister's wedding on Saturday 10 October. That's my mistake, and I'm sorry. I've refunded the $210 today, and I'll correct the colour myself, free, well before the wedding. I can do Saturday 3 October at 9am or Monday 5 October at 5pm; which suits you? My direct number is 555-0186.\nJade",
+   "lang": "en",
+   "note": "A result she has to wear to a wedding: her words back, own it, a full refund plus a free fix with two real slots, and no explanation of what went wrong in the chair."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -253,6 +253,13 @@
    "reply": "Marta, me encanta venir los sábados y quiero seguir haciéndolo mucho tiempo. A partir de ahora no voy a cubrir turnos entre semana, porque con el trabajo a jornada completa no me da. Lo que sí puedo hacer es formar a los voluntarios nuevos un sábado al mes. ¡Nos vemos el sábado!",
    "lang": "es",
    "note": "Si vuelve a pedírtelo, repite la misma frase más corta: entre semana no, los sábados sí. Sin razones nuevas."
+  },
+  {
+   "id": "set-boundary-037",
+   "situation": "我们五个大学同学每个月聚一次，因为我有车，每次都默认我开车、不能喝酒，散场还要绕路把大家一个个送回家，到家常常过了一点。我还想继续参加，但以后不再每次都开车了：一年开两三次，其余时候跟大家一样打车，也能喝两杯，轮到我开的那次提前在群里说。",
+   "reply": "跟大家说个事～每个月的聚会我特别珍惜，会一直来。以后我就不每次都开车了，一年里我开两三次，其他时候跟大家一样打车，也陪你们喝两杯。哪次轮到我开，我提前在群里说。",
+   "lang": "zh",
+   "note": "说的是自己以后怎么做，不翻绕路送人的旧账；有人说“你就顺便嘛”，重复同一句，不加新理由。"
   }
  ]
 }

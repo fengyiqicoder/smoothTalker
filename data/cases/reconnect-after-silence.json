@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -253,6 +253,13 @@
    "reply": "阿哲，好久不见，一晃七年了。今天音乐App随机播放，居然放到了咱们“末班车”大四录的那首《凌晨两点》，评论区还有人留言，我一个人笑了半天。你现在还打鼓吗？不急着回，就是想跟你打个招呼。",
    "lang": "zh",
    "note": "老乐队队友：一首共同录过的歌就是最好的理由，再问一个他好回答的问题，先不提重组或见面。"
+  },
+  {
+   "id": "reconnect-after-silence-037",
+   "situation": "Imogen and I were in the same evening writing class eight years ago and swapped chapters every week over cheap noodles; we drifted after she moved to Edinburgh. Her second novel is now everywhere, and she's doing a reading at a bookshop in my town on Thursday 15 October, which I'm planning to go to. I don't want to come across as a fan, or as someone who wants something from her.",
+   "reply": "Imogen, it's been about eight years, which seems impossible. Your novel is everywhere and I'm so pleased for you; I still think about us swapping chapters every week over cheap noodles. I saw you're reading in town on Thursday the 15th, so I'll be in the audience cheering quietly. How are you finding all of it? No need to reply, I know it must be a busy time.",
+   "lang": "en",
+   "note": "With a friend who's now well known, write to the person you knew: one shared memory, no ask, and an easy pass on replying."
   }
  ]
 }
