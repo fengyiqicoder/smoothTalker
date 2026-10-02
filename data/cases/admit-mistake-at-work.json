@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -260,6 +260,13 @@
    "reply": "Hi Siobhan, I found a mistake on my September timesheet: I logged the same 6 hours twice, so you were overbilled £390. That's my error, and I'm sorry. I'll take the £390 off my October invoice, which goes out next Friday, as its own line so it's easy to check. From now on I'm using a time tracker that blocks duplicate entries.",
    "lang": "en",
    "note": "Report it even when nobody would ever notice; volunteering an overcharge is what makes every other invoice believable."
+  },
+  {
+   "id": "admit-mistake-at-work-038",
+   "situation": "Je suis comptable junior. Mardi, en réunion, j'ai dit à ma responsable Claire que les rapprochements bancaires de septembre étaient terminés, alors qu'il restait trois comptes sur douze. Personne ne s'en est rendu compte, mais elle compte dessus pour la clôture de lundi ; je peux finir les trois aujourd'hui avant 16 h et je veux le lui écrire tout de suite.",
+   "reply": "Claire, je dois corriger ce que je t'ai dit mardi en réunion : les rapprochements bancaires de septembre n'étaient pas terminés, il restait trois comptes sur douze. Je n'aurais pas dû les annoncer comme finis, et je suis désolé. Je termine les trois aujourd'hui avant 16 h et je t'envoie le fichier complet dès que c'est fait, pour que la clôture de lundi se fasse sur des chiffres complets. À partir de maintenant, je te donnerai l'état réel d'une tâche, même incomplet, plutôt que de la dire terminée trop tôt.",
+   "lang": "fr",
+   "note": "Corriger une fausse affirmation dès que possible, même si personne ne l'a remarquée : nommer ce qui était faux, sans excuse, puis le correctif avec une heure."
   }
  ]
 }

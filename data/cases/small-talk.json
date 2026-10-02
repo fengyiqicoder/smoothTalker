@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "small-talk-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Zoe, it's Jo from board game night. I've been wondering all week: did the dragon get finished? I'd love to see a photo. The most I've ever painted is my bedroom wall, so anything that small genuinely impresses me.",
    "lang": "en",
    "note": "Over text, pick up the thread she gave you and share one small thing back; if her reply is short, let it rest rather than sending more questions."
+  },
+  {
+   "id": "small-talk-037",
+   "situation": "Mi compañera Lucía vuelve mañana a la oficina después de tres meses de baja. No sé por qué fue la baja y no quiero preguntar. Antes de irse siempre bajábamos juntas al café de las once y me contaba que estaba aprendiendo a tocar el ukelele; yo no sé tocar ningún instrumento.",
+   "reply": "¡Lucía, qué bien tenerte de vuelta! Se te echaba de menos en el café de las once. Oye, ¿sigues con el ukelele? Yo sigo sin saber tocar ni la pandereta.",
+   "lang": "es",
+   "note": "Tras una baja no se pregunta el motivo: dale un tema suyo y, si ella saca lo demás, escucha sin insistir."
   }
  ]
 }

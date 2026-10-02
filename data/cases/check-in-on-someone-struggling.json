@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -260,6 +260,13 @@
    "reply": "阿伟，好久没聊，最近常想起你，这条不用回。我10月5号回老家，离你那儿就隔一个县，想约你去钓半天鱼，鱼竿我带。不方便就回个“下次”，一点不用客气。",
    "lang": "zh",
    "note": "不问生意和钱，也不劝他“东山再起”，只用他以前爱做的事当邀约。如果他流露出不想活的念头，直接问他是否安全，陪他打心理援助热线；有危险马上打120或110。"
+  },
+  {
+   "id": "check-in-on-someone-struggling-038",
+   "situation": "My friend Dom, a secondary school PE teacher, has been suspended on full pay while his school investigates a complaint. He told me he's not allowed to discuss it, and he's been home on his own for two weeks. We used to cycle the reservoir loop together on Sunday mornings at 8, and I want to message him without asking anything about the case.",
+   "reply": "Dom, I've been thinking about you. I'm not going to ask about any of it, and you never have to explain anything to me. I'm riding the reservoir loop on Sunday at 8, like old times, and I'd love the company. If you'd rather not, just reply 'not this week', and otherwise no need to reply at all.",
+   "lang": "en",
+   "note": "Keep the case out of every message and every ride, so he never has to refuse a question; advice on it is for his union or a lawyer. If he seems very low or talks about not wanting to be here, ask him directly and help him reach a crisis line or emergency services."
   }
  ]
 }

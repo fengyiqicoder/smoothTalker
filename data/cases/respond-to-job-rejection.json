@@ -38,7 +38,7 @@
   },
   {
    "id": "respond-to-job-rejection-006",
-   "situation": "想申请明年的直博，给北大环境学院的周教授发邮件自荐，他看了我附的材料，很快回复说今年名额已经满了，建议我考虑其他老师。我还是很想跟他做土壤修复方向。",
+   "situation": "想申请明年的直博，给一所大学环境学院的周教授发邮件自荐，他看了我附的材料，很快回复说今年名额已经满了，建议我考虑其他老师。我还是很想跟他做土壤修复方向。",
    "reply": "周老师您好，谢谢您这么快回复，还专门看了我的材料。今年名额的情况我明白了。我对您组里土壤修复的工作一直很感兴趣，明年九月如果您组里有名额，我可以再给您发邮件吗？不方便的话不用回复。祝您工作顺利。",
    "lang": "zh",
    "note": "学术场合同样适用：谢具体的事，一句接受，只提一个小请求，并允许对方不回。"
@@ -53,7 +53,7 @@
   {
    "id": "respond-to-job-rejection-008",
    "situation": "I'm a freelance journalist. I pitched a feature on rural bus cuts to Dana, features editor at Northline Magazine. She replied the same day: 'Not quite right for us, but thanks for thinking of us.' I'd really like to write for them eventually.",
-   "reply": "Thanks for the quick answer, Dana, and for reading it. Understood on the bus piece. One quick question, only if it takes you under a minute: is there a kind of story you're short of for the winter issues? A single line is plenty, and it's fine to skip it.",
+   "reply": "Thanks for the quick answer, Dana, and for reading it. Understood on the bus piece. One quick question, only if it takes you under a minute: is there a kind of story you're short of in the next few issues? A single line is plenty, and it's fine to skip it.",
    "lang": "en",
    "note": "A pitch rejection: ask what they need, not why they said no. Editors answer that question, and it makes the next pitch land."
   },
@@ -185,17 +185,17 @@
   },
   {
    "id": "respond-to-job-rejection-027",
-   "situation": "我叫赵磊。上周二面了一家咨询公司的分析师岗位，今天HR张小姐发邮件说没通过。整个流程挺顺的，案例面试前她还提前把题目背景发给我准备。想回一封邮件，问问能不能给一句反馈，以后有合适的岗位还想再投。",
-   "reply": "张小姐您好，谢谢您告知结果，也谢谢整个流程安排得这么周到，案例面试前提前发来背景资料，让我准备得很充分。如果方便，想请您给一句反馈，看我哪方面还需要加强。无论如何，以后如有合适的岗位，也很希望能再有机会。\n赵磊",
+   "situation": "我叫赵磊，被裁员五个月了，这是第二十几次被拒：一家咨询公司的分析师岗位，HR张小姐今天邮件通知没通过，案例面试前她还提前把题目背景发给我准备。钱快花完了，我最近觉得撑不下去，但还是想体面地回一封。",
+   "reply": "张小姐您好，谢谢您告知结果，也谢谢案例面试前提前发来背景资料，让我准备得很充分。结果我接受。以后如有合适的分析师岗位，希望您能想到我。祝工作顺利。\n赵磊",
    "lang": "zh",
-   "note": "被拒后只回这一封：先谢流程，再请一句反馈，不追问原因；她不回也就到此为止。"
+   "note": "这封回信短而得体就够了，不提自己的处境。但“撑不下去”的感觉要当回事：今天就跟信任的人说一声，或拨打当地的心理援助热线；失业期间的生活困难，可以向当地社保或街道咨询失业保险和救助。"
   },
   {
    "id": "respond-to-job-rejection-028",
-   "situation": "我叫何佳。上个月面试了一家咨询公司的分析师岗位，一直走到终面，今天HR赵女士邮件通知我没通过。整个流程她安排得很周到，每轮结束都当天通知我结果。我想回复她，顺便问能不能给一句反馈。",
-   "reply": "赵女士您好，谢谢您告知结果，也谢谢您一路的安排，每一轮结束都当天通知我，整个流程让人很安心。如果方便的话，想请您给一句反馈：哪方面是我最需要提升的？这对我会很有帮助。以后如果有合适的岗位，也很希望还有机会合作。\n何佳",
+   "situation": "我叫何佳。猎头赵女士把我推荐给一家咨询公司的分析师岗位，一直走到终面，每轮前她都帮我模拟面试。今天她打电话说客户选了别人。我想谢谢她，并请她以后有类似的分析师岗位继续想着我。",
+   "reply": "赵女士您好，谢谢您今天打电话告诉我，也谢谢每轮面试前您都帮我模拟，终面我准备得很踏实。结果我理解。接下来几个月如果有类似的分析师岗位，希望您还能想到我，需要的话我随时把更新的简历发给您。\n何佳",
    "lang": "zh",
-   "note": "被拒后只回一次：谢流程里一个具体的细节，请一句反馈，留个门，然后就不再追了。"
+   "note": "被猎头推荐的岗位落选：要维护的是和猎头的关系，谢她具体的付出，只提一个请求（继续推荐），不让她去追问客户原因。"
   },
   {
    "id": "respond-to-job-rejection-029",

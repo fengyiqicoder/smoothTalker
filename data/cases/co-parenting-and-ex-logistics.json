@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -260,6 +260,13 @@
    "reply": "Hallo Jens, Samstag um 10 Uhr bei mir steht, Paul ist dann fertig. Fragen zu Paul beantworte ich gern, über mein Privatleben schreibe ich nicht. Bitte frag auch Paul nicht danach. Danke.",
    "lang": "de",
    "note": "Nur die Logistik und eine klare Grenze, ohne Rechtfertigung; Nachrichten mit Datum sichern. Ständige Kontrolle kann Teil häuslicher Gewalt sein: Eine Beratungsstelle gegen häusliche Gewalt kann helfen, und bei akuter Gefahr den Notruf 110 wählen."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-038",
+   "situation": "离婚一年，女儿彤彤（6岁）平时跟我住，隔周周末去她爸爸刘伟那里。彤彤奶奶直接给我发微信，说10月10日（周六）是她七十大寿，想让彤彤去吃饭，可那个周末轮到我。我愿意让彤彤去，周六上午10点我送过去、晚上8点我去接，但想跟刘伟本人把安排定下来，以后也不想跟奶奶来回商量。",
+   "reply": "你好，说一下10月10日（周六）的安排。你妈妈发微信跟我说那天是她七十大寿，想让彤彤去吃饭。那个周末本来轮到我，我同意彤彤去：周六上午10点我送过去，晚上8点我去接。送到哪里，麻烦你10月7日（周三）前告诉我。以后彤彤的时间安排，我们俩直接商量就好。谢谢。",
+   "lang": "zh",
+   "note": "老人直接来问时，可以答应，但安排要落到孩子的爸爸身上；回奶奶一句“已经跟刘伟说好了”就够，不用解释更多。"
   }
  ]
 }

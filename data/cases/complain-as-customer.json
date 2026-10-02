@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -260,6 +260,13 @@
    "reply": "您好，我是吴迪，订单号T2026100121873，10月1日晚上从火车站打车回家，下单时预估38元，实付71元。这段路平时十二公里左右，这次行程轨迹显示车绕到了高架另一头，多跑了将近十公里，轨迹截图已附。请按正常路线重新核算，退还超出预估的33元。麻烦在10月9日（周五）前给我答复，谢谢！",
    "lang": "zh",
    "note": "只摆订单号、预估价、实付和轨迹，不猜司机的动机；App里有行程费用申诉入口的话，优先走那个，记录更清楚。"
+  },
+  {
+   "id": "complain-as-customer-038",
+   "situation": "I'm Owen Grey (owen.grey@example.com). On 1 September I paid £240 to Claystone Studio for an eight-week online watercolour course, order CS-1187, sold as 'eight live sessions with Q&A', and I have a screenshot of the course page. Only the first three sessions were live; weeks four to six were pre-recorded with no Q&A, and the studio's email of 22 September says the rest will be recorded too. I'd like a refund for the five sessions that aren't live.",
+   "reply": "Hi,\nOrder CS-1187, paid on 1 September: £240 for the eight-week online watercolour course, sold as eight live sessions with Q&A (screenshot of the course page attached). Only the first three sessions were live; weeks four to six were pre-recorded with no Q&A, and your email of 22 September says the remaining sessions will be recorded too. I'd like a refund for the five sessions that aren't live, which is £150. Could you confirm by Friday 16 October?\nThanks,\nOwen Grey, owen.grey@example.com",
+   "lang": "en",
+   "note": "When a service changes format partway through, quote how it was sold and price the gap per session; a partial refund is easier to approve than the whole course."
   }
  ]
 }

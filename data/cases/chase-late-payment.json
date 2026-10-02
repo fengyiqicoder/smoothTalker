@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -260,6 +260,13 @@
    "reply": "Hi Marcus,\nThanks for letting me know where things stand. Clause 11 of our signed contract sets a kill fee of 50% of the $6,000 project fee if the client cancels, due within 14 days, and it doesn't depend on whether the art is used. That's invoice #0910 for $3,000, which was due on 24 September; I've attached it again with the contract. Could you confirm a payment date by Friday 9 October? If something is holding it up on your side, tell me and I'll help sort it.\nThanks,\nNoor Haddad",
    "lang": "en",
    "note": "A kill fee is money owed under the contract like any invoice: quote the clause once, attach it, and ask for a date rather than arguing about the art."
+  },
+  {
+   "id": "chase-late-payment-038",
+   "situation": "我叫阿珍，做上门私厨宴席，收到定金才开始订食材。客户孙先生10月17日（周六）在家办30人的寿宴，报价9,000元，他9月25日签了合同，合同第3条写明30%定金2,700元须在活动前14天、也就是10月3日前支付，逾期未付视为取消预订，收款信息也写在合同里。定金到今天还没付，我为这场已经推掉了另一单，想在微信上提醒他。",
+   "reply": "孙先生您好，我是阿珍。10月17日（周六）您家30人寿宴的定金我这边还没收到：合同第3条约定30%定金2,700元，在活动前14天、也就是10月3日前支付，收款信息在合同里。麻烦明天10月3日前转一下，转好跟我说一声，我就开始订食材。按合同，逾期未付视为取消预订，我很希望这场照常办，如果有什么问题，今天跟我说就好。",
+   "lang": "zh",
+   "note": "活动前的定金：只讲合同写明的金额、期限和后果，不加码；他要是一直没回，打个电话确认他看到了消息。"
   }
  ]
 }

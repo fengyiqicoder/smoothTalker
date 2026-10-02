@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -260,6 +260,13 @@
    "reply": "Inès, un changement qui ne vient pas de toi : la direction a avancé le lancement, et le guide d'accueil client doit maintenant être prêt le vendredi 9 octobre au lieu du 23. Avec ce délai, je le reprends moi-même avec le prestataire. Ta partie facturation est très bonne, je la garde telle quelle. Est-ce qu'on peut prendre 20 minutes lundi pour que tu me passes tes notes ?",
    "lang": "fr",
    "note": "Reprendre une tâche déléguée : dire tout de suite que la cause est extérieure, nommer ce qui est bon, et organiser un passage de relais court."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-038",
+   "situation": "I'm on our clinic's admin team. Our appointment-letter mail merge stopped pulling in dates this morning; I've re-linked the data source and checked the field names match, and the dates still come out blank. Graham built the template, but he works part time, Tuesday to Thursday, so today is his day off, and the next batch of letters goes out next Wednesday.",
+   "reply": "Hi Graham, no need to look at this until you're back on Tuesday. The appointment-letter mail merge stopped pulling in dates this morning. I've re-linked the data source and checked the field names match, and the dates still come out blank. Could you spare 20 minutes with me on Tuesday? The next batch goes out on Wednesday, so that's plenty of time, and if Tuesday is swamped, a pointer to where the date field is set up would already help.",
+   "lang": "en",
+   "note": "With a part-time colleague, say plainly you don't expect them on their day off, and fit the ask into the days they work."
   }
  ]
 }

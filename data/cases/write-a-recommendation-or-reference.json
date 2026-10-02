@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -253,6 +253,13 @@
    "reply": "Pinefold closed last week, and Ollie Grant, the product designer I managed for two years, is looking for his next role. Ollie ran the 30 user interviews that led us to redesign our onboarding, and activation went from 22% to 31%. He also built our design system on his own. If you're hiring a product designer, talk to him; he's happy for you to message him directly. I'd hire him again tomorrow.",
    "lang": "en",
    "note": "A public post for someone job hunting: post only with their go-ahead, lead with what they're looking for, and back it with one result."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-037",
+   "situation": "I'm Priya Nair, engineering manager at Coldharbour Labs. Marcus Webb was on my team from 2023 to July 2025; we clashed over his request to go fully remote and he resigned in a tense team meeting. His work was strong: he built our billing reconciliation service, which cut failed payments by 18%, and he wrote the on-call runbook the team still uses. A recruiter, Jo Kim at Saltmarsh Software, emailed asking about his technical work, and I want to be fair to him.",
+   "reply": "Hi Jo,\nThanks for getting in touch about Marcus. I managed Marcus Webb at Coldharbour Labs from 2023 to July 2025. His technical work was strong: he built our billing reconciliation service, which cut failed payments by 18%, and he wrote the on-call runbook our team still uses today. For a role built on careful backend engineering, I recommend him.\nBest regards,\nPriya Nair",
+   "lang": "en",
+   "note": "A personal clash is not evidence about someone's work: answer what was asked, keep to what you saw, and leave the falling-out out."
   }
  ]
 }

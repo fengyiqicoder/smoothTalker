@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -260,6 +260,13 @@
    "reply": "Hey Ade, small thing before Saturday, not a big deal: you've posted a few clips of me on your stories from our nights out, and with people from my work following you, I'd rather choose what of me goes up. Film away for yourself, that's completely fine. Could you just check with me before posting anything I'm in? Happy to do the same for you.",
    "lang": "en",
    "note": "Ask for a check before posting, not a ban on filming: one behaviour, the effect on you, and an ask that's easy to say yes to."
+  },
+  {
+   "id": "ask-to-change-behavior-038",
+   "situation": "My son Jamie, 24, moved back home in June while he saves for a deposit. Most nights he doesn't say whether he'll be in for dinner, and three times this week I cooked for him and it ended up in the bin. I don't want to treat him like a teenager; I just want a text by 5pm on days he won't be home for dinner.",
+   "reply": "Jamie, small thing, not a telling-off. Three times this week I cooked for you and you weren't back, so it ended up in the bin. Your evenings are your business and I'm not asking where you are. Could you just send me a quick text by 5 on days you won't be in for dinner? If you are in, no need to say anything.",
+   "lang": "en",
+   "note": "With an adult child at home, ask for the one signal you need and say plainly you're not asking for a report on their life."
   }
  ]
 }

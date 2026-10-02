@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -259,6 +259,13 @@
    "reply": "Subject: Ember Jar chilli oil, from Tuesday's fair\n\nHi Greg,\nWe spoke briefly at my stand at the Northern Fine Food Fair on Tuesday; you tried the smoked garlic chilli oil and asked me to email after the show. Ember Jar is now stocked in 14 independent shops. Could I send you a sample case of six jars for your team to try? If it's not one for Larder & Loaf, a quick no is genuinely helpful.\nFarah Qureshi",
    "lang": "en",
    "note": "A two-minute chat at a fair still needs reminding: the moment he asked you to write is your why-him, then one number and one small ask."
+  },
+  {
+   "id": "cold-outreach-038",
+   "situation": "I'm Tara Quinn and I run Data Drinks Sheffield, a free monthly meetup with about 60 people at each one. Dr Helen Achebe, a researcher at the local hospital trust, wrote a blog post last month on how her team cut missed appointments with a simple reminder model. I'd like to invite her to give a 20-minute talk on Thursday 19 November; it's unpaid but we cover travel, and I've never been in touch with her before.",
+   "reply": "Subject: A 20-minute talk at Data Drinks Sheffield?\n\nHi Dr Achebe,\nYour post last month on cutting missed appointments with a simple reminder model is exactly the kind of practical work our members love. I run Data Drinks Sheffield, a free monthly meetup with about 60 people at each one. Would you consider giving a 20-minute talk on it on Thursday 19 November? It's unpaid, but we cover travel. If it's not for you, a quick no is genuinely helpful.\nTara Quinn",
+   "lang": "en",
+   "note": "Inviting a speaker is still a cold ask: her own work as the reason, the audience size as proof, and the terms up front so she can answer without a call."
   }
  ]
 }

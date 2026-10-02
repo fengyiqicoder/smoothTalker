@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -253,6 +253,13 @@
    "reply": "Thanks for asking, Hannah, it's lovely that you'd want to be there. Joe and I have kept the ceremony to our day guests so it stays small, and it's the same for everyone. We can't wait to celebrate with you at the evening party from 8pm on the 5th.",
    "lang": "en",
    "note": "With two tiers of guests, the tier is the rule; one quiet exception at the back of the church becomes ten."
+  },
+  {
+   "id": "wedding-and-event-host-messages-037",
+   "situation": "Our wedding is Saturday 14 November with 70 guests, family and close friends only, and we haven't invited anyone from work. My colleague Megan, who I get on well with, just messaged me on Slack asking if her invitation got lost in the post. I'd like to take her for a drink when we're back from our honeymoon in December.",
+   "reply": "Thanks for asking, Megan, and I'm glad you did. Your invitation didn't get lost: we've kept the wedding to family and close friends, 70 people, so we haven't invited anyone from work. I'd love to take you for a drink when we're back from the honeymoon in December.",
+   "lang": "en",
+   "note": "When someone asks outright, give the category honestly rather than a white lie about the post; every colleague gets the same answer."
   }
  ]
 }

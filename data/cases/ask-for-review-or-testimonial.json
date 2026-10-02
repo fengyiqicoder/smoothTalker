@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -260,6 +260,13 @@
    "reply": "张阿姨，谢谢您！十年了还这么照顾我生意。跟您说个小事：您上周在美团点的那单，方便的话在订单里写两句评价就行，一分钟的事。我们外卖店刚开，一条评价都还没有，新客人都是看评价下单的。不会弄也没关系，下回来我教您，不写也完全没事。",
    "lang": "zh",
    "note": "只请真正点过外卖的老顾客评价；当面请时说清写在哪、多短，给一个真的退路。"
+  },
+  {
+   "id": "ask-for-review-or-testimonial-038",
+   "situation": "I'm Dan Ortiz, a freelance customer service trainer. I just finished a six-week programme for Harlow Hotels' front desk team, and guest complaints dropped from about 40 a month to 18. My contact, HR manager Joy Adeyemi, thanked me yesterday and mentioned she leaves Harlow on Friday 16 October. I'd like a short testimonial for my website with her name and her job title at Harlow.",
+   "reply": "Hi Joy, thank you for yesterday's message, and all the best for what's next. Before you go, could I ask a favour? A testimonial of two or three sentences would help me a lot with future clients. Here's a line to start from, which you can edit or replace: \"Dan's six-week programme with our front desk team cut guest complaints from about 40 a month to 18.\" Would you be happy for me to sign it with your name and your title at Harlow? If you'd rather not, or need to check with Harlow first, that's completely fine. Thanks either way, Dan",
+   "lang": "en",
+   "note": "When your contact is leaving, ask before their last day, and leave room for them to check whether they can name the company."
   }
  ]
 }

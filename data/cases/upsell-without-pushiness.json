@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -253,6 +253,13 @@
    "reply": "Thanks, Mr Huang, your flights to Lisbon for 12 to 26 November are held on the $640 fare. Since you mentioned your leave isn't approved yet, one thing to consider: the flexible fare is $80 more, at $720, and lets you change the dates once for free. On your current fare, a date change would cost $150 plus any fare difference. If you're confident about the dates, the fare you've picked is the better deal. I issue the tickets at 6pm today, so just let me know before then if you'd like to switch.",
    "lang": "en",
    "note": "The reason comes from his own worry, the numbers let him judge it, and the deadline is the real ticketing time, not pressure."
+  },
+  {
+   "id": "upsell-without-pushiness-037",
+   "situation": "Je dirige une petite école d'anglais à Lyon. Mme Bernard vient de s'inscrire au cours collectif du jeudi soir (240 € le trimestre) et m'a dit qu'elle a un entretien d'embauche en anglais le 23 octobre. Je propose aussi des cours particuliers de préparation aux entretiens à 45 € l'heure : deux séances suffiraient, alors que le cours collectif ne commence les simulations d'entretien qu'en novembre.",
+   "reply": "Bonjour Madame Bernard, votre inscription au cours collectif du jeudi soir est bien enregistrée. Comme vous avez un entretien en anglais le 23 octobre, une suggestion : le cours collectif n'aborde les simulations d'entretien qu'en novembre, alors deux cours particuliers de préparation, à 45 € l'heure, soit 90 € au total, vous y prépareraient plus directement. Ce n'est pas indispensable : dites-moi simplement si cela vous intéresse, sinon on en reste au cours collectif.",
+   "lang": "fr",
+   "note": "La suggestion vient de sa propre échéance, le coût total est donné, et le cours collectif seul reste une vraie option."
   }
  ]
 }

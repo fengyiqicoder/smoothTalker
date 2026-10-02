@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -253,6 +253,13 @@
    "reply": "李小姐您好，谢谢您这段时间的推荐和安排。我昨天已经接受了另一家公司的offer，所以想退出这个流程，下周三的终面就不参加了。麻烦您帮我跟对方说一声，也替我谢谢面试官。您一直很用心，以后有合适的机会，还希望保持联系。",
    "lang": "zh",
    "note": "接了别家offer就尽早告诉猎头，赶在终面之前；不必说是哪家，也不用解释原因。"
+  },
+  {
+   "id": "respond-to-recruiter-037",
+   "situation": "I'm in my final year of a geography degree and graduate next June. Ms Patel, a graduate recruiter at a consulting firm, messaged me on LinkedIn after the careers fair about their graduate analyst programme; I'm interested, but before applying I want to know the start date and whether there's a Manchester intake, since I'd rather be based in Manchester than move to London. I'm free for a call Wednesday after 1pm.",
+   "reply": "Thanks for reaching out, Ms Patel, I'm interested in the graduate analyst programme. Before I apply, could you tell me when the programme starts and whether there's a Manchester intake? I graduate next June and I'd rather be based in Manchester than move to London. If that works, I'm free for a call on Wednesday after 1pm.",
+   "lang": "en",
+   "note": "Early in a career the shape is the same: the answer first, the one dealbreaker before the call, then a time."
   }
  ]
 }

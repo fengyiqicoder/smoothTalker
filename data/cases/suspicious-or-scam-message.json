@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Anjali, it's Sam Ellis, buying 4 Rowan Court. This morning I got an email from what looks like your address saying your bank details have changed and asking me to send the £38,500 deposit to a new account by 5pm tomorrow. I haven't sent anything. Can you confirm whether your details have really changed? I won't transfer anything until we've checked the account details together on this call.",
    "lang": "en",
    "note": "Use the number from paperwork you already had, never one in the email. If it's fake, report it to your bank and the police; if any money has gone, call the bank straight away."
+  },
+  {
+   "id": "suspicious-or-scam-message-037",
+   "situation": "我妹妹小琳刚毕业，在一个兼职群里接了“给商品点赞返佣金”的活，前两单真的到账了15元和48元。现在群里的“导师”让她先垫付2000元做“联单任务”，说做完连本带利返3000。她还没转，刚在微信上问我要不要做，今晚我可以给她打电话。",
+   "reply": "小琳，先别转，一分钱都别转。前面到账的15块和48块，正是这类骗局的套路：先给小钱让你放心，再让你垫大钱，垫了之后往往会说任务没做完、要你继续充。正经的兼职不会让你先垫钱。退群，把那个导师拉黑，在平台里举报。今晚我给你打电话，一起看看你都给过他们哪些个人信息。",
+   "lang": "zh",
+   "note": "小额返利不能证明安全，只是诱饵；如果已经转了钱，马上联系银行并报警。"
   }
  ]
 }

@@ -5,14 +5,14 @@
   {
    "id": "price-increase-and-customer-announcements-001",
    "situation": "I'm Jess, a dog walker raising my 30-minute walk from $22 to $25 on Jan 1 because insurance and fuel went up; first increase in 2 years. Clients can prepay December walks at the old rate. Texting my regulars, starting with Megan, whose dog is Pepper.",
-   "reply": "Hi Megan, a heads up: from 1 January my 30-minute walks go from $22 to $25. It's my first increase in two years, and it covers insurance and fuel going up. Same walks, same photos of Pepper mid-zoomies. If you'd like to prepay any December walks at the current rate, just tell me. Thanks for trusting me with him. Jess",
+   "reply": "Hi Megan, a heads up: from 1 January my 30-minute walks go from $22 to $25. It's my first increase in two years, and it covers insurance and fuel going up. Same walks, same photos of Pepper mid-zoomies. If you'd like to prepay any December walks at the current rate, just tell me. Thanks for trusting me with Pepper. Jess",
    "lang": "en",
    "note": "No apology for a fair increase; the prepay option is the easy win."
   },
   {
    "id": "price-increase-and-customer-announcements-002",
-   "situation": "我是林老师，教钢琴，一节课从200元涨到230元，明年3月开始，是四年来第一次涨，因为琴房房租涨了。已经买了课时包的按原价上完。要在家长群里发通知。",
-   "reply": "各位家长好，通知一件事：从明年3月1日起，一对一钢琴课课时费由每节200元调整为230元。这是四年来第一次调整，主要是琴房房租上涨了。上课时间和内容都不变。已经买了课时包的家长，剩余课时按原价上完。有任何问题欢迎私信我。谢谢大家一直以来的信任。林老师",
+   "situation": "我是林老师，教钢琴，一节课从200元涨到230元，明年3月开始，是四年来第一次涨，因为琴房房租涨了，上课时间和内容不变。已经买了课时包的按原价上完。要在家长群里发通知。",
+   "reply": "各位家长好，通知一件事：从明年3月起，一对一钢琴课课时费由每节200元调整为230元。这是四年来第一次调整，主要是琴房房租上涨了。上课时间和内容都不变。已经买了课时包的家长，剩余课时按原价上完。有任何问题欢迎私信我。谢谢大家一直以来的信任。林老师",
    "lang": "zh",
    "note": "第一句就说清日期和金额，原因一句话，已买课时包按原价是最重要的善意。"
   },
@@ -32,7 +32,7 @@
   },
   {
    "id": "price-increase-and-customer-announcements-005",
-   "situation": "I'm Maya and I run Still Point Yoga. From Nov 1 we're charging a $15 fee for classes cancelled less than 12 hours before, because late cancellations leave mats empty while our evening classes have waitlists. I'll waive it for illness or emergencies. Emailing our 200 members, e.g. Carmen.",
+   "situation": "I'm Maya and I run Still Point Yoga. From Nov 1 we're charging a $15 fee for classes cancelled less than 12 hours before, because late cancellations leave mats empty while our evening classes have waitlists. I'll waive it for illness or emergencies; nothing else about membership changes. Emailing our 200 members, e.g. Carmen.",
    "reply": "Hi Carmen,\nFrom Sunday 1 November, cancelling a class less than 12 hours before it starts will carry a $15 late-cancel fee. The reason: our evening classes have waitlists, and late cancellations were leaving mats empty that someone else could have used. Cancelling 12 hours or more ahead stays free, and if you're ill or something urgent comes up, just email me and I'll waive it. Nothing else about your membership changes. Thank you for being part of the studio.\nMaya, Still Point Yoga",
    "lang": "en",
    "note": "A policy change, not a price rise: date and rule first, one honest reason, and a human exception that doesn't need a form."
@@ -53,7 +53,7 @@
   },
   {
    "id": "price-increase-and-customer-announcements-008",
-   "situation": "I'm Marco and I run Green Crate, a small veg box delivery with about 180 weekly subscribers at $32, delivered Tuesdays from the same partner farms. From Monday Nov 2 it goes to $35 because those farms raised their prices; members of over two years, like Ruth, stay at $32 until the end of February.",
+   "situation": "I'm Marco and I run Green Crate, a small veg box delivery with about 180 weekly subscribers at $32, delivered Tuesdays from the same partner farms. From Monday Nov 2 it goes to $35 because those farms raised their prices; members of over two years, like Ruth, stay at $32 until the end of February, and anyone can pause or cancel by replying.",
    "reply": "Hi Ruth,\nFrom Monday 2 November, your weekly veg box goes from $32 to $35. Our partner farms have raised their prices this season, and this is what it costs to keep paying them fairly. Because you've been with us for over two years, you'll stay at $32 until the end of February. The box itself doesn't change: same farms, same Tuesday delivery. If you'd like to pause or cancel, just reply and I'll sort it the same day, no questions asked. Thank you for eating with us all this time.\nMarco, Green Crate",
    "lang": "en",
    "note": "Subscription increase: price and date first, one honest reason, a loyalty hold for long-time members and an exit that is genuinely easy."
@@ -67,7 +67,7 @@
   },
   {
    "id": "price-increase-and-customer-announcements-010",
-   "situation": "I'm Maya and I make soap. We're discontinuing our best-selling Lavender Oat bar on Monday Nov 30 because the small mill that supplied our oats closed and I can't match the quality. We've made a final batch of 600 bars, which keep a year. Emailing our list of regulars, e.g. Sam.",
+   "situation": "I'm Maya and I make soap. We're discontinuing our best-selling Lavender Oat bar on Monday Nov 30 because the small mill that supplied our oats closed and I can't match the quality. We've made a final batch of 600 bars, which keep a year; the rest of the range stays the same. Emailing our list of regulars, e.g. Sam.",
    "reply": "Hi Sam,\nThe Lavender Oat bar is being discontinued, and the last day to order it is Monday Nov 30. The small mill that supplied our oats has closed, and I haven't found oats that make the same creamy bar, so I'd rather stop than make a lesser one. Everything else in the range stays exactly as it is. We've made one final batch of 600 bars, and they keep well for a year if you'd like to stock up.\nThank you for loving this one as much as we did.\nMaya",
    "lang": "en",
    "note": "Discontinuing a favourite follows the announcement shape: date first, one honest reason, what stays the same, and a real way to keep going."
@@ -123,7 +123,7 @@
   },
   {
    "id": "price-increase-and-customer-announcements-018",
-   "situation": "I'm Anna and I run a small neighbourhood bakery with about 60 weekly bread subscribers, like Tom, who pay week by week. We're closing for a kitchen renovation from Monday Oct 19 and reopening Monday Nov 9; subscriptions pause and nobody is charged for those weeks. Same bakers and recipes when we reopen.",
+   "situation": "I'm Anna and I run a small neighbourhood bakery with about 60 weekly bread subscribers, like Tom, who pay week by week. We're closing for a kitchen renovation from Monday Oct 19 and reopening Monday Nov 9; subscriptions pause and nobody is charged for those weeks. Same bakers and recipes when we reopen, and anyone can cancel by replying.",
    "reply": "Hi Tom,\nThe bakery will be closed for three weeks, from Monday 19 October, and reopens on Monday 9 November while we renovate the kitchen. Your subscription pauses automatically for those weeks and you won't be charged for them. When we reopen it's the same bakers and the same recipes, and your first loaf back will be ready on Monday 9 November. If you'd rather cancel instead, just reply and I'll sort it the same day. Thank you for your patience.\nAnna",
    "lang": "en",
    "note": "A temporary closure is an announcement like any other: dates first, one line of reason, what happens to their money, and an easy exit."

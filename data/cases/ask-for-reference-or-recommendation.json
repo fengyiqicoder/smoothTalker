@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -259,6 +259,13 @@
    "reply": "Rosa, have you got two minutes? You know I'm leaving at the end of the month for pastry school. Fennick needs a reference from my current employer by Friday 23 October, just a one-page form. Would you be willing to do it? You've seen me run desserts on weekends since March, so that's really the main thing. If you say yes, I'll bring you the form tomorrow. And if you'd rather not, honestly, that's fine.",
    "lang": "en",
    "note": "Asked face to face, keep it short and spoken, put the deadline in, and hand over the form only once she's said yes."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-038",
+   "situation": "I'm self-employed, and the letting agent for a flat I want, Fairway Lettings, needs a reference letter from my accountant confirming my income for the last two tax years by Friday 16 October. Helen Price at Brook & Price Accountants has done my returns for four years; I expect she'll charge for the letter and I'm happy to pay. I can send her the agent's reference form today.",
+   "reply": "Hi Helen, I'm renting a new flat, and the letting agent, Fairway Lettings, needs a letter from my accountant confirming my income for the last two tax years. Would you be able to provide one by Friday 16 October? I can send you their reference form today so you can see exactly what they ask for. I assume it's billable work, so just let me know the fee. If the timing is too tight, tell me and I'll ask the agent for more time.",
+   "lang": "en",
+   "note": "When the referee is a paid professional, offer to pay up front and send the exact form, so it's a quick, ordinary job for them."
   }
  ]
 }

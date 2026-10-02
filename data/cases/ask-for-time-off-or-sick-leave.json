@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -260,6 +260,13 @@
    "reply": "Hi Ruth, I'd like to take Thursday 8 and Friday 9 October as holiday. A close friend has died and his funeral is in Glasgow on Thursday. Hassan has agreed to run Thursday's stock count. I'll be back on Monday 12 October. Can you approve?",
    "lang": "en",
    "note": "When the leave policy doesn't fit, use the category that does and keep the reason to one line; if the loss stays heavy, a GP or an employee assistance programme, if your company has one, can help."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-038",
+   "situation": "Trabalho meio período numa livraria em Coimbra, aos sábados e domingos, e estudo na faculdade. Tenho exames na semana de 9 a 13 de novembro e preciso de folga no sábado 7 e no domingo 8 de novembro para estudar. A minha colega Inês aceitou fazer os meus turnos nesses dias e eu faço os dela nos dias 21 e 22; quero mandar mensagem no WhatsApp ao gerente, o senhor Paulo.",
+   "reply": "Bom dia, senhor Paulo. Queria pedir folga no sábado 7 e no domingo 8 de novembro, por causa dos exames da faculdade na semana seguinte. A Inês aceitou fazer os meus turnos nesses dois dias, e eu faço os dela nos dias 21 e 22. Pode aprovar a troca?",
+   "lang": "pt",
+   "note": "Num trabalho por turnos, a troca já combinada é a cobertura: o gerente só tem de dizer sim. Pedir com semanas de antecedência ajuda."
   }
  ]
 }

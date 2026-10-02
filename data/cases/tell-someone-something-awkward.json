@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -253,6 +253,13 @@
    "reply": "Rachel, quick one, just between us: it looks like your period has come through a bit on the back of your jeans. Happens to everyone. There's a cardigan on the hook by the back door you're welcome to tie round, and pads in the cabinet in the upstairs bathroom.",
    "lang": "en",
    "note": "Wait until she's alone, say it once in a low voice with the fixes ready, then go back to hosting as if nothing happened."
+  },
+  {
+   "id": "tell-someone-something-awkward-037",
+   "situation": "我是部门经理，新来的下属小郑今天第一次跟我去见客户，穿了一身新西装。在客户公司前台等着的时候，我发现他左袖口上的商标还没拆，他自己没注意到，前台桌上有剪刀。",
+   "reply": "小郑，小提醒：左袖口的商标还没拆，跟前台借一下剪刀，进会议室前剪掉就好。新西装谁都忘过，别在意。",
+   "lang": "zh",
+   "note": "对下属也一样：趁旁边没人小声说一句，附上马上能用的办法，会后不再提。"
   }
  ]
 }
