@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -267,6 +267,13 @@
    "reply": "周总，柜子装得很好，验收也都没问题，谢谢您和师傅们。尾款我还是按合同来：1.8万全款转账到公司账户，麻烦您开一张发票。少收1000元的好意心领了，我这边需要凭证，以后保修也有据可查。另外合同里写的柜体保修5年，也请您出一张书面保修卡。您把公司账户发我，我当天就转，发票和保修卡下周内给我就行。",
    "lang": "zh",
    "note": "谢绝现金折扣不必讲道理或指责对方，只说自己需要凭证和保修依据；付款和保修以合同为准。"
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-039",
+   "situation": "I'm Dev Malhotra. My broadband provider, Kestrel Broadband, emailed that my monthly price goes from £32 to £38 from 1 November. I signed an 18-month contract in March, account KB-55120, and section 4 of the terms I signed says the monthly price is fixed for the minimum term. I want to stay at £32 until the term ends and get that confirmed in writing; I'm writing through their online chat.",
+   "reply": "Hi, I'm Dev Malhotra, account KB-55120. I've had an email saying my monthly price will go from £32 to £38 from 1 November. I signed an 18-month contract in March, and section 4 of the terms I signed says the monthly price is fixed for the minimum term. Could you confirm in writing that my price stays at £32 until the minimum term ends? A reply by email by Friday 9 October would be great. Thanks.",
+   "lang": "en",
+   "note": "Quote the clause you signed, not general consumer law; if they point to a different clause, ask to see it and check the terms before escalating."
   }
  ]
 }

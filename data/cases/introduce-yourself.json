@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -267,6 +267,13 @@
    "reply": "Buenos días, soy Lucía Ortega y desde hoy soy vuestra profesora de Física. Antes de dar clase pasé cinco años en un laboratorio de óptica, así que la luz es mi tema favorito y lo vais a notar. Fuera de aquí toco la batería en un grupo de versiones, por si alguna vez necesitáis ritmo para memorizar fórmulas. Sé que cambiar de profesora a mitad de trimestre no es fácil, así que quiero empezar por vosotros: decidme qué tema se os ha atragantado más hasta ahora y por ahí arrancamos.",
    "lang": "es",
    "note": "Con adolescentes, corto: un dato concreto, un gancho humano y una invitación que les dé la palabra desde el primer día."
+  },
+  {
+   "id": "introduce-yourself-039",
+   "situation": "我叫周晴，在医院急诊科当护士，经常上夜班。这周六搬进一套三室合租房的次卧，另外两个室友都没见过，房东把我拉进了合租的微信群。我是苏州人，周末爱做点心，做多了愿意分给室友，想打个招呼，也顺便让大家知道我白天常在补觉。",
+   "reply": "大家好，我是这周六搬进次卧的周晴，苏州人。我在医院急诊科当护士，经常上夜班，所以白天有时在补觉，看到我房门关着，多半是在睡觉。周末我爱做点心，做多了就放在厨房，欢迎大家尝尝。以后住在一起，有什么习惯或者需要注意的，随时在群里跟我说就好。",
+   "lang": "zh",
+   "note": "合租群里的自我介绍：把会影响大家的作息说成信息而不是要求，再用一个生活爱好和开放的邀请拉近距离。"
   }
  ]
 }

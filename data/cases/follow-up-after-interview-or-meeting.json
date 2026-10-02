@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -267,6 +267,13 @@
    "reply": "Liebe Frau Becker,\nvielen Dank für das Kennenlerngespräch gestern. Die Waldtage jeden Donnerstag gehen uns seitdem nicht aus dem Kopf; genau so etwas wünschen wir uns für Emil. Anbei wie besprochen sein Impfnachweis. Wir wissen, dass die Plätze bis Ende Oktober vergeben werden und die Eingewöhnung frühestens im Januar beginnt, und würden uns sehr über einen Platz freuen. Wenn Sie noch etwas von uns brauchen, melden Sie sich gern.\nViele Grüße\nJana Weber",
    "lang": "de",
    "note": "Nach einem Kita-Gespräch wie nach einem Vorstellungsgespräch: ein konkretes Detail, das Fehlende gleich mitschicken, Interesse in einem Satz und vor Ende Oktober nicht nachhaken."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-039",
+   "situation": "我和两个室友小雨、阿哲今晚开了个合租会，定了：从这周日（10月4日）开始，每周日晚上轮流倒垃圾、打扫公共区域，顺序是我、小雨、阿哲；水电燃气费每月5号前我在群里报账，大家当天转账；阿哲10月10日前联系物业修好阳台的晾衣架。还没定的是要不要合买一台洗碗机，说好11月1日再商量。想在合租群里发个纪要。",
+   "reply": "今晚辛苦大家了，我把定下来的事理一下：\n- 打扫：从这周日（10月4日）开始，每周日晚上轮流倒垃圾、打扫公共区域，顺序是我、小雨、阿哲。\n- 水电燃气：每月5号前我在群里报账，大家当天转账。\n- 阿哲：10月10日前联系物业修好阳台的晾衣架。\n- 还没定：要不要合买洗碗机，11月1日再商量。\n有记错的直接在群里改。",
+   "lang": "zh",
+   "note": "室友之间的会也要纪要：每件事写清谁做、哪天，没定的事写明哪天再定，免得以后各记各的。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -267,6 +267,13 @@
    "reply": "Hi Martin,\nYour website care plan renews on Tuesday 1 December, and this year it goes from £600 to £720. It's my first increase in three years, and it covers what hosting and security tools now cost me. The plan itself stays the same: updates, backups, and fixes within one working day. I won't renew you at the new price unless you reply to confirm, so just let me know either way. If you'd rather leave, I'll give you a full backup of your site and help you move it.\nHollie",
    "lang": "en",
    "note": "An annual renewal at a new price waits for a yes: say plainly that nothing renews on silence, and make leaving as easy as staying."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-039",
+   "situation": "I'm Priyanka, a self-employed bookkeeper. From Friday 1 January 2027 I'm moving clients from hourly billing at $55 an hour to a fixed monthly fee, because several clients told me surprise bills were hard to budget for. For Leon, who runs a small plumbing firm and averaged six hours a month this year ($330), the fee will be $310 a month, covering monthly reconciliation, payroll and quarterly tax prep, with anything else quoted before I start; any client who'd rather stay on hourly at $55 can, by telling me before Tuesday 1 December.",
+   "reply": "Hi Leon,\nFrom Friday 1 January 2027 I'm moving from hourly billing to a fixed monthly fee. For you that's $310 a month, covering monthly reconciliation, payroll and quarterly tax prep; this year you averaged six hours a month, which came to $330. A few clients told me surprise bills were hard to budget for, and a fixed fee solves that. Anything outside those three I'll quote before I start. If you'd rather stay on hourly at $55, just tell me before Tuesday 1 December and nothing changes for you.\nPriyanka",
+   "lang": "en",
+   "note": "A change in how you charge goes out with each client's own numbers, old and new, so nobody has to work out whether it costs them more."
   }
  ]
 }

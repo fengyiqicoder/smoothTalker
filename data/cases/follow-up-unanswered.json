@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -267,6 +267,13 @@
    "reply": "Hi Mrs Lin, I know the weeks fill up fast. A quick one about Daniel's Wednesday 4:30 lesson: is he carrying on after half-term? A yes or a no is all I need, and either is completely fine. Another family has asked about a Wednesday slot, so an answer by next Friday would help me plan. Ruth",
    "lang": "en",
    "note": "Her silence isn't a no: if nothing comes by Friday, ask once more before offering the slot, rather than giving it away unannounced."
+  },
+  {
+   "id": "follow-up-unanswered-039",
+   "situation": "I'm Laura. My ex, Dan, and I co-parent our daughter Mia, 9. Six days ago I texted asking whether he can have Mia for half-term, Monday 26 to Friday 30 October, while I'm away on a work trip; he's read it but hasn't replied. If he can't, I'll book her into the school holiday club, which has to be booked by Friday 9 October.",
+   "reply": "Hi Dan, I know things are busy. Re-asking in one line: can you have Mia for half-term, Monday 26 to Friday 30 October, while I'm on my work trip? A yes or no is all I need. If I haven't heard by Friday 9 October, I'll book her into the holiday club, so either answer works.",
+   "lang": "en",
+   "note": "Between co-parents, keep it to logistics with no comment on the silence; his silence is not a yes, so book the club if nothing comes."
   }
  ]
 }

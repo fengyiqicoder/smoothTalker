@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -267,6 +267,13 @@
    "reply": "Okay, chat, I'm going to wrap it there, we're half an hour over and my hands are done for the night. Thank you for hanging out and for all the great questions. I'll start next Tuesday's stream at 8pm with the ones I didn't get to. Night, everyone!",
    "lang": "en",
    "note": "With a live audience, close on the next date, then actually end the stream; answering 'one more' after the goodbye restarts it."
+  },
+  {
+   "id": "end-conversation-gracefully-039",
+   "situation": "My ex, Jordan, texted me happy birthday tonight and we've been chatting for an hour, mostly nice memories. We broke up in March, it was mutual and we're on good terms, but I don't want to slide back into texting every day.",
+   "reply": "Thanks for remembering my birthday, Jordan, that was really kind, and it's been nice to laugh about the old stuff. I'm going to sign off now, and honestly I think it's better for me if we don't make this a regular thing. Take care of yourself.",
+   "lang": "en",
+   "note": "With an ex, the boundary is the reason: no 'let's catch up soon', and if they reply, one short 'you too' and leave it."
   }
  ]
 }

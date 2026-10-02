@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -267,6 +267,13 @@
    "reply": "Hi Mr Doyle, it's Rachel from number 3. You may not see it from your side, but when there's a bonfire on Saturday afternoons the smoke drifts right over our garden and into the house; our washing ends up smelling of it, and our six-year-old, who has asthma, starts coughing. Would you be willing to text me on 07700 900562 before you light one, so we can get the washing in and close the windows? And if it ever helps, our green bin goes out every other Tuesday and you're welcome to put some of your garden waste in it. Thanks, and do tell me if anything from our side ever bothers you.",
    "lang": "en",
    "note": "Ask for a heads-up he can easily give, not a ban; check local guidance on garden bonfires before mentioning any rules, and if the smoke sets off an asthma attack, follow her asthma plan and get medical help."
+  },
+  {
+   "id": "neighbour-disputes-039",
+   "situation": "我是1楼101的小陈，家里带个小院子，种了些菜。隔壁102赵阿姨家的白猫这个月几乎每天钻进我的院子，在菜地里刨土、拉屎，已经刨坏了两排刚出苗的生菜。平时见面会打招呼。我打算这周末在院子边上加一圈防猫网，想请她在网装好前的这几天尽量把猫关在家里。",
+   "reply": "赵阿姨您好，我是隔壁101的小陈。跟您说个小事：您家的白猫这个月常钻进我家院子，在菜地里刨土、上厕所，已经刨坏了两排刚出苗的生菜。猫爱跑也正常，我这周末准备在院子边上加一圈防猫网。网装好之前这几天，能麻烦您尽量把它关在家里吗？谢谢您！我们家要是有什么打扰到您的，也随时跟我说。",
+   "lang": "zh",
+   "note": "猫很难完全管住：自己先做能做的，再只请对方配合几天，不评价猫也不评价主人。"
   }
  ]
 }

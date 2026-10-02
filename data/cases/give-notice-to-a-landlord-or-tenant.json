@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -267,6 +267,13 @@
    "reply": "孙先生您好，我是周宁。按合同第8条，书面通知您：合同12月31日到期后我不再续租，租期到2026年12月31日结束。12月的房租我照常交，31日我们约个时间一起验房、交钥匙、抄水电表。另外主动跟您说一件事：前两天我不小心把卫生间洗手盆磕裂了一道缝，问过师傅，换一个连安装大约400元。您看是从押金里扣，还是我自己找师傅在搬走前换好？两种都可以。麻烦您回个消息确认收到这份通知，谢谢。",
    "lang": "zh",
    "note": "通知放在最前面，损坏的事随后主动说清并给两个办法；截图保存这条消息和他的确认，合同期限和押金规则以合同为准。"
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-039",
+   "situation": "I'm Ben Hart. Since 2024 I've rented my flat at 9 Larch Walk, Flat 4, to my close friend Sophie while I've been working in Singapore; our written agreement says either of us gives two months' written notice. My contract is ending and I'm moving back, so I need the flat from 28 February 2027. I want to give her nearly five months, let her leave sooner if she finds somewhere (rent only up to the day she leaves), and give her a reference.",
+   "reply": "Dear Sophie,\nI wanted to tell you myself, and in writing as our agreement asks: my contract in Singapore is ending and I'm moving back, so I'm giving notice to end your tenancy at 9 Larch Walk, Flat 4, on 28 February 2027. That's well over the two months' written notice in our agreement, because I want you to have plenty of time. If you find somewhere sooner, just tell me, and you'll only pay rent up to the day you leave. I'm very happy to give you a reference too. Could you reply to confirm you've received this?\nYou've looked after the place brilliantly, and I'm sorry to be handing you a move to plan.\nBen",
+   "lang": "en",
+   "note": "A friend as tenant still gets the exact date and the agreement's terms in writing; check local rules on landlord notice before sending, and put any earlier end date in writing."
   }
  ]
 }

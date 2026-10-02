@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -267,6 +267,13 @@
    "reply": "Objet : Licences U11 à envoyer avant le vendredi 16 octobre\nBonjour Monsieur Lefèvre, les licences de six enfants de l'équipe U11 n'ont pas encore été envoyées à la ligue. Karim a les dossiers depuis le 12 septembre ; je lui ai écrit le 21 et le 28 septembre, et il sait que je vous écris aujourd'hui. Ce n'est pas un reproche contre lui, c'est une question de date : sans licence avant le vendredi 16 octobre, ces six enfants ne pourront pas jouer en championnat. Pourriez-vous faire envoyer les dossiers d'ici le vendredi 9 octobre, ou me dire qui peut s'en charger ? Je peux les déposer moi-même si cela aide.\nMerci,\nClaire Dubois",
    "lang": "fr",
    "note": "Dans un club de bénévoles, l'escalade porte sur la date, pas sur la personne : prévenir l'entraîneur d'abord et proposer de faire le travail soi-même."
+  },
+  {
+   "id": "escalate-an-issue-039",
+   "situation": "I'm Maya, payroll lead. Yesterday I escalated to our finance director, Femi, that our payroll vendor's year-end tax file, due 11 September, still hasn't arrived; I chased the vendor on 14 September and raised it with my manager Liam on 21 September, and Liam knows I went to Femi. Femi replied: 'Why am I only hearing about this now?' Honestly, I waited too long hoping the vendor would come through, and I still need his approval by Tuesday 6 October to bring in our backup contractor for $4,000 so we meet the 30 October filing deadline.",
+   "reply": "Fair question, Femi. I waited too long: after I chased the vendor on 14 September I hoped they'd come through, and I should have flagged the risk to you then. Next time a vendor date slips, I'll raise it with you within a week. Where we are now: the year-end file, due 11 September, still hasn't arrived, and the filing deadline is 30 October. I need your approval by Tuesday 6 October to bring in the backup contractor for $4,000. My recommendation is to approve, so we're not relying on the vendor for a date that can't move.",
+   "lang": "en",
+   "note": "When the decision-maker asks why it's late, own it in one line without blaming Liam or the vendor, then restate the one ask."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -267,6 +267,13 @@
    "reply": "Hi Priya, it's been about six years, which feels impossible. Funny news: I start on the design team at Fenwick Labs on Monday, and I've just spotted you on the team page. I'd rather say hello now than surprise you in the lift. I still think about surviving final-year exams on your terrible microwave curry. How are you finding it there? No rush to reply.",
    "lang": "en",
    "note": "When you're about to be colleagues, say hello before the corridor does it for you, and ask for nothing about the job; suggest a coffee only once she replies warmly."
+  },
+  {
+   "id": "reconnect-after-silence-039",
+   "situation": "我和大学同学阿伟合伙开过一家奶茶店，2022年关门了，亏的钱两人平摊，没吵过架，但之后都觉得尴尬，三年没联系。开业那天我们俩在门口发传单一直发到天黑。今天路过原来的店面，现在开成了一家花店。",
+   "reply": "阿伟，好久不见，一晃三年了。今天路过咱们以前那家奶茶店，现在开成了花店，一下想起开业那天咱俩在门口发传单，一直发到天黑。你最近怎么样？不急着回，就是想跟你打个招呼。",
+   "lang": "zh",
+   "note": "一起经历过失败的人：不提亏损，也不复盘谁对谁错，用一段好的共同记忆打招呼，问一个轻松的问题。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -267,6 +267,13 @@
    "reply": "Hi Sam, sorry to hear your partner is ill, I hope they feel better soon. With Saturday this close I can't refund the seats outright, but there are four people on the waiting list, so I'll offer your two seats to them now and refund $75 for each one that's taken, the same day. You're also welcome to pass them to a friend instead. I'll let you know as soon as I hear back.",
    "lang": "en",
    "note": "When the terms say no, look for the route that costs you nothing: resell the seat and pass the money back."
+  },
+  {
+   "id": "handle-refund-request-039",
+   "situation": "I run Brightnest Cleaning, a two-person house-cleaning business. Mrs Okoro booked a $160 deep clean yesterday including the $30 oven add-on, and emailed this morning that the oven wasn't done and she wants a full refund; she hasn't raised anything else. We did miss it. Our service terms say anything on the booked checklist that's missed and reported within 24 hours gets a free return visit, and I can come back tomorrow between 9 and 11am or refund the $30 add-on today.",
+   "reply": "Hi Mrs Okoro, you're right, the oven was on your booking and we missed it, and I'm sorry. Our terms cover exactly this: anything on the checklist that's missed and reported within 24 hours gets a free return visit, and you told us in time. So rather than refunding the whole clean, I can come back tomorrow between 9 and 11am and do the oven at no charge, or refund the $30 oven add-on today. Which would you prefer?",
+   "lang": "en",
+   "note": "Own the miss, tie the fix to your own terms, and put the remedy on the part that went wrong rather than the whole booking."
   }
  ]
 }

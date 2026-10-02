@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -267,6 +267,13 @@
    "reply": "Dear Mrs Grant,\nOn Saturday you were refused two bottles of wine at the till, in front of a queue, and left feeling treated like a child. I'm sorry your visit ended that way. Hana was following our policy: we ask for photo ID from anyone who looks under 30, and we don't sell without it, for anyone. I've put your two bottles aside until Saturday 10 October, so bring photo ID any time before then and they'll be ready for you. I'm Ben, the owner, and you can reach me directly on 555-0129.\nBen",
    "lang": "en",
    "note": "Sorry for how the moment felt, not for the policy: explain it once, without blaming her or Hana, and make the next visit easy."
+  },
+  {
+   "id": "respond-to-angry-customer-039",
+   "situation": "I'm Owen, owner of Greenleaf Garden Supplies. On Tuesday our driver reversed into Mr Abbott's front garden wall while delivering his compost, knocked down about a metre of brickwork, and left without telling him; he found it that evening and has emailed furious, calling us vandals. The driver admits it. A bricklayer, Dan Price, can rebuild it on Monday at our cost, I'm refunding the $95 delivery charge today, and my number is 555-0152.",
+   "reply": "Dear Mr Abbott,\nOn Tuesday our driver reversed into your front wall while delivering your compost, knocked down about a metre of brickwork, and drove off without telling you, so you found it yourself that evening. That's on us, and I'm sorry. A bricklayer, Dan Price, can rebuild it on Monday, at our cost; does Monday suit you? I've also refunded your $95 delivery charge today. I'm Owen, the owner, and you can reach me directly on 555-0152.\nOwen",
+   "lang": "en",
+   "note": "Own the damage and the driving off, since the silence is what turned an accident into 'vandals'; leave the driver unnamed."
   }
  ]
 }

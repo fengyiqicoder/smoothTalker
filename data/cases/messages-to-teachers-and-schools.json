@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -267,6 +267,13 @@
    "reply": "吴老师您好，我是四年级（1）班林小米的妈妈。小米9月因为肺炎请了两周假，缺了四次排练，我理解比赛前大家要排练整齐，您这样决定一定有您的考虑。想请教一下，这次参赛名单是根据什么定的？如果她在比赛前把进度补上，还有没有机会，比如找个时间让您听她唱一遍？病好以后她每天在家跟着排练录音练半小时。不管结果怎样，都谢谢您。我工作日下午5点后都方便通电话。",
    "lang": "zh",
    "note": "对老师的决定有疑问时，先问依据和补救的办法，不要求推翻；孩子的失落在家里接住，不拿来给老师施压。"
+  },
+  {
+   "id": "messages-to-teachers-and-schools-039",
+   "situation": "I'm Hana Brooks. My daughter Ivy is in Year 5, and her class teacher, Mr Daley, has been on long-term leave since mid-September; the class has had four different supply teachers since then. Ivy says her reading record hasn't been signed or her homework marked for about three weeks, and she's started saying school 'doesn't count right now'. I'd like to ask the Year 5 phase leader, Mrs Kaur, how the class is being covered, and I'm free any morning before 9.",
+   "reply": "Dear Mrs Kaur, I'm Hana Brooks, Ivy's mum, in Mr Daley's Year 5 class. I know the class has had several supply teachers since mid-September, and that can't be easy to arrange. Ivy tells me her reading record hasn't been signed or her homework marked for about three weeks, and she's started saying school 'doesn't count right now'. Could you let me know how the class will be covered for the rest of term, and who Ivy should go to with her reading and homework in the meantime? I'm happy to talk any morning before 9. Thank you, Hana Brooks",
+   "lang": "en",
+   "note": "Ask about the plan, not about why the teacher is away, and don't fault the supply staff, who are working without a handover."
   }
  ]
 }

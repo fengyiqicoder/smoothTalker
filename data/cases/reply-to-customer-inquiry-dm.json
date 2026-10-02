@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -267,6 +267,13 @@
    "reply": "可以先寄布样！燕麦色遮光帘每米128元，含加工和挂钩；用布一般是窗户宽度的2倍，做好后7天左右发货。布样每份5元包邮，之后下单可以抵扣。要我先给您寄一份吗？",
    "lang": "zh",
    "note": "顾客怕色差，就先给她看实物的路；“用布是窗宽的2倍”要在第一次报价时说清，免得量完尺寸才发现总价比想的高一倍。"
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-039",
+   "situation": "I'm a massage therapist with a small studio in Leeds: a 60-minute massage is £55 and 90 minutes is £75. Gift vouchers can be for any amount or for a set treatment and last 12 months; I can email a PDF voucher the same day, or post a printed card, which takes two to three days. Tom DMed on Instagram today: 'do you do gift vouchers? my wife's birthday is tomorrow'.",
+   "reply": "Hi Tom! Yes, vouchers can be for any amount or for a set treatment, and they last 12 months. A 60-minute massage is £55 and 90 minutes is £75. With her birthday tomorrow, I'd go for the PDF voucher, which I can email you today; a printed card takes two to three days by post. Which would you like it for?",
+   "lang": "en",
+   "note": "When the question comes with a deadline, answer it, then steer them to the format that actually arrives in time."
   }
  ]
 }

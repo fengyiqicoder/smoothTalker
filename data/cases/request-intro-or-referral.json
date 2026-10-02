@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -267,6 +267,13 @@
    "reply": "Hi Jordan, could I ask a favour? Would you be up for asking your dad if he'd have 15 minutes for a chat with me? I'm looking for an apprenticeship placement with a qualified electrician, and I'd love to hear whether his firm ever takes one on. If it feels awkward asking your dad, no problem at all, just say.\nIf you're happy to, here's something you can forward:\n\"Dad, my mate Callum Reid is 24 and retraining as an electrician. He finished his college course in July and needs a placement to complete his apprenticeship. He's got his own basic tools and a full driving licence, and he'd love 15 minutes to chat, no promises either way.\"\nI'll let you know how it goes either way. Cheers, Callum",
    "lang": "en",
    "note": "Asking through a friend's parent: the blurb is in the friend's own voice, carries the two practical facts a small firm checks first, and the ask stays a chat, not a job."
+  },
+  {
+   "id": "request-intro-or-referral-039",
+   "situation": "Je suis Julien Morel et j'anime un repair café bénévole à Nantes, le deuxième samedi de chaque mois ; on a réparé 340 objets en un an, mais on perd notre salle en décembre. Mon voisin Patrick connaît bien Mme Garnier, la directrice de la médiathèque du quartier, qui prête parfois sa salle à des associations. J'aimerais 15 minutes avec elle pour présenter le projet ; l'association a sa propre assurance et on rend toujours la salle propre.",
+   "reply": "Bonjour Patrick,\nJe peux te demander un service ? Accepterais-tu de me présenter à Mme Garnier, à la médiathèque ? Le repair café perd sa salle en décembre, et j'aimerais 15 minutes avec elle pour voir si la médiathèque pourrait nous accueillir. Si ça te gêne de lui demander, aucun souci, dis-le-moi simplement.\nSi tu es d'accord, voici un message que tu peux lui transférer :\n« Madame Garnier, je vous présente mon voisin Julien Morel, qui anime un repair café bénévole le deuxième samedi de chaque mois ; ils ont réparé 340 objets en un an. Ils cherchent une nouvelle salle à partir de décembre. L'association a sa propre assurance et rend toujours la salle propre. Julien aimerait 15 minutes pour vous présenter le projet, si vous êtes d'accord. »\nJe te tiens au courant dans tous les cas. Merci !\nJulien",
+   "lang": "fr",
+   "note": "Pour une salle prêtée, le message à transférer répond d'avance aux deux questions de la directrice : l'assurance et le ménage."
   }
  ]
 }

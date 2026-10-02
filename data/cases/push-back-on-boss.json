@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -267,6 +267,13 @@
    "reply": "Sílvia, eu também quero que o Pedro tenha uma chance de passar e que isso se resolva bem com a família. Só não consigo subir a nota de 4,5 para 6,0 sem base: ele não fez duas das quatro provas, e uma nota alterada assim não seria justa com os outros alunos nem se sustentaria se alguém perguntasse. Duas opções: aplico a prova de recuperação que o regimento prevê para todos abaixo de 6,0, na quinta, 8 de outubro; ou fazemos uma reunião com você e os pais para revisar as provas dele juntos. Recomendo a primeira, porque dá ao Pedro uma chance real de chegar ao 6,0. Qual você prefere?",
    "lang": "pt",
    "note": "Sim ao objetivo, não à nota alterada. Se ela insistir, não altere a nota: registre o pedido por escrito e leve à direção ou ao canal de denúncias da escola."
+  },
+  {
+   "id": "push-back-on-boss-039",
+   "situation": "I drive a delivery van for a parcel depot. My manager Gary wants me to take 30 extra drops on Saturday, which would mean about 11 hours behind the wheel and skipping my break; my contract says I take a 45-minute break after four and a half hours of driving. Kerry's van only has a half load on Saturday and she could take the 30 drops, or I could do them first thing Monday.",
+   "reply": "Hi Gary, I want Saturday's parcels out as much as you do. The catch is that 30 extra drops would put me at about 11 hours behind the wheel with no break, and my contract has me taking 45 minutes after four and a half hours of driving, so I won't skip it. Two options: Kerry takes the 30 drops, since her van only has a half load on Saturday, or I do them first thing Monday. I'd suggest Kerry, so they still go out on Saturday. Which would you prefer?",
+   "lang": "en",
+   "note": "Yes to the parcels, no to driving without a break; if you're told to skip it anyway, don't, put it in writing, check your local driving-hours rules, and raise it with HR or the company's whistleblowing channel."
   }
  ]
 }

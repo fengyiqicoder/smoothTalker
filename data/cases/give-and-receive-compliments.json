@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -266,6 +266,13 @@
    "reply": "张姐，上周那通退货电话我在旁边听完了。客户吵了二十分钟，您一直没抬高声音，最后把退款和换货两个办法讲清楚让他自己选，他挂电话前还跟您道了谢。这一招我得好好学。",
    "lang": "zh",
    "note": "夸比自己资深的人，也是说具体做法和效果；用“我得学”代替“做得不错”，就不像在打分。"
+  },
+  {
+   "id": "give-and-receive-compliments-039",
+   "situation": "My mum died last month, and I gave the eulogy at her funeral on Saturday; I rewrote it four times. Her oldest friend, Pat, texted today: 'Your eulogy was perfect, she'd have been so proud of you.' I'm exhausted, and I usually brush these things off.",
+   "reply": "Thank you, Pat. That means so much, especially coming from you. I rewrote it four times trying to get her right, so I'm really glad to hear it.",
+   "lang": "en",
+   "note": "Receiving praise while grieving: accept it plainly, no bounce-back, and no need to open a longer conversation than you have energy for."
   }
  ]
 }

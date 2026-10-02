@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -267,6 +267,13 @@
    "reply": "Hi Hannah and Jay, thank you for coming back to me, and I'm so glad you loved the designs. I can't match $2,200 for the same list: my $3,400 covers building every arrangement the week of your wedding and doing the setup and clear-away myself on the day. What I can do is bring the price down by changing the list: swapping the imported peonies for seasonal garden roses takes it to $2,900, or dropping the ceremony arch takes it to $2,800. Would either of those work for you? Either way, I'd love to do your flowers on 12 June.",
    "lang": "en",
    "note": "Against a cheaper quote, don't run down the other florist or match it blindly: hold the price, give one reason, and move the scope."
+  },
+  {
+   "id": "negotiate-price-or-salary-039",
+   "situation": "I'm Laura, selling my house through Mossgate Homes, and my agent is Fiona. We agreed £285,000 with the buyers, Sam and Priya, but their survey found the roof needs work and they've asked for £8,000 off, based on their builder's quote. My own roofer quoted £4,500 for the same repairs, and I'm happy to share his quote; I'd accept £5,000 off, and they mentioned wanting to complete before Christmas, which I can work to.",
+   "reply": "Hi Fiona, thanks for passing on Sam and Priya's request. I'm keen to keep the sale moving and I'd like this to work for them. I had my own roofer price the same repairs, and his quote is £4,500, which I'm happy to share. On that basis I can reduce the price by £4,000, to £281,000. Could you put that to them? I can also work to completing before Christmas, if that's still what they'd like.",
+   "lang": "en",
+   "note": "Answer their quote with your own evidence, never a story about other buyers; the completion date is the second lever, and your £5,000 limit stays private."
   }
  ]
 }

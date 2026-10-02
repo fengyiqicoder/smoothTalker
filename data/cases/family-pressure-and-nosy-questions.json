@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -267,6 +267,13 @@
    "reply": "Ha, Sanjay Uncle, still keeping an eye on me. When there's news, you'll be among the first to hear. Now tell me about the cruise, which stop was the best?",
    "lang": "en",
    "note": "No status update and no reasons, since every detail invites the next story; if he asks again, repeat the same line nearly word for word."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-039",
+   "situation": "我读博第五年了，原计划去年毕业，延期了。每次家里聚会，姑父都当着一桌人问“到底什么时候毕业”，还说“读这么久不如早点工作”。他退休后迷上了拍鸟，天天在家族群里发白鹭的照片。这周日去奶奶家吃饭。",
+   "reply": "哈哈，姑父又来催进度了。等有准信儿了，第一个告诉您。对了，您群里发的那几张白鹭拍得真好，是在哪儿拍的？",
+   "lang": "zh",
+   "note": "不解释延期原因，也不报一个自己没把握的日子；他再问，就用几乎一样的话再说一遍。"
   }
  ]
 }

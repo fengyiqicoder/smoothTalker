@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -267,6 +267,13 @@
    "reply": "Hey Ana, I hope you're doing okay. A bit of admin I'd rather sort now than let drift: the $600 I lent you and Ben in March for the flat deposit. I'm suggesting $300 each, by the end of November, by bank transfer to the details you already have. I'm sending Ben the same message, so you don't need to sort it out between you. If a different split or timing works better for you, just say.",
    "lang": "en",
    "note": "After a breakup, ask each person separately for an equal share in the same words, so neither has to deal with the other about it."
+  },
+  {
+   "id": "money-between-friends-039",
+   "situation": "My friend Aiko lives in Osaka and I'm in Manchester. On our trip to Seoul last month I paid for our shared hotel, 480,000 won, so her half is 240,000 won, about £130 at today's rate. She's just messaged asking how much she owes and how to pay; she has my bank details from before, and I'd be just as happy for her to pay for our dinners when I visit her in Osaka in December.",
+   "reply": "Thanks for asking! The hotel was 480,000 won, so your half is 240,000 won. At today's rate that's about £130, so let's just call it £130 to the bank details you already have, no need to chase the exact rate. Or, if a transfer from Japan is a hassle, you can get our dinners when I'm in Osaka in December instead, whichever is easier for you.",
+   "lang": "en",
+   "note": "Across currencies, convert once, round it and name an easy way to pay, so nobody ends up debating exchange rates."
   }
  ]
 }

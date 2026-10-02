@@ -32,7 +32,7 @@
   },
   {
    "id": "handle-being-ghosted-by-client-005",
-   "situation": "I'm a copywriter halfway through a 6-page website for a physio clinic. Sent pages 1 to 3 to the owner, Dr. Brennan, on Sept 14 for feedback. Nothing since, and my October is filling up.",
+   "situation": "I'm a copywriter halfway through a 6-page website for a physio clinic. Sent pages 1 to 3 to the owner, Dr. Brennan, on Sept 14 for feedback. Nothing since, and my October is filling up: I need her notes by Friday 9 October to finish on schedule.",
    "reply": "Hi Dr. Brennan, a quick one on the website copy: pages 1 to 3 have been with you since September 14, and I'm holding time to finish pages 4 to 6. To keep things on schedule I need your notes by Friday, October 9; if you're happy with them as they are, a one-word \"approved\" is plenty. If the project has moved down your list, just tell me and I'll pause it and pick it back up when you're ready.",
    "lang": "en",
    "note": "Mid-project silence: a real date tied to your schedule, the smallest possible reply, and an explicit pause option."
@@ -46,14 +46,14 @@
   },
   {
    "id": "handle-being-ghosted-by-client-007",
-   "situation": "我是婚礼跟拍摄影师。一对新人陈先生和小雅9月初口头定了11月21号，报价6800，说好月底前付2000定金，之后微信一直没回，我追过一次也没回。现在另一对新人也想约同一天。",
+   "situation": "我是婚礼跟拍摄影师。一对新人陈先生和小雅9月初口头定了11月21号，报价6800，说好月底前付2000定金，之后微信一直没回，我追过一次也没回。现在另一对新人也想约同一天，我想请他们10月2号周五前付定金，不然就把档期放出去。",
    "reply": "陈先生、小雅，你们好！11月21号那天我一直帮你们留着。现在有另一对新人也想约这一天，所以想跟你们确认一下：如果还定我，麻烦10月2号周五前付一下2000元定金，我就正式锁定档期；如果计划有变或者选了别的摄影师，也完全没关系，回我一句就行，我好把档期放出去。祝筹备顺利！",
    "lang": "zh",
    "note": "需要对方在某个日期前做决定时，说清为什么（档期要放出去），给一个具体截止日，并把说“不”变得很容易。"
   },
   {
    "id": "handle-being-ghosted-by-client-008",
-   "situation": "I'm a freelance bookkeeper. My client Omar, who runs two food trucks, went quiet for three weeks on the receipts I need to catch up his July and August books. Today he texted: 'So sorry, crazy month, still want to get this done, what do you need?'",
+   "situation": "I'm a freelance bookkeeper. My client Omar, who runs two food trucks, went quiet for three weeks on the receipts I need to catch up his July and August books. I need the fuel and supplier receipts for both trucks and the card sales reports for both months; if I get them by Monday 5 October, I can finish by Friday 9 October. Today he texted: 'So sorry, crazy month, still want to get this done, what do you need?'",
    "reply": "No apology needed, Omar, I know how busy the season gets. To catch up July and August I need two things: the fuel and supplier receipts for both trucks, and the card sales reports for those two months. Phone photos are fine. If I have them by Monday 5 October, your books will be up to date by Friday 9 October.",
    "lang": "en",
    "note": "When they come back: skip the reproach, answer 'what do you need' with a short list and a date, and make picking up easy."
@@ -81,8 +81,8 @@
   },
   {
    "id": "handle-being-ghosted-by-client-012",
-   "situation": "I'm Marco Ruiz and I run Clearline Cleaning, a commercial cleaning company; my number is 555 0148. I sent Dana, facilities manager for a dental group with four clinics, a $3,800/month proposal on Sept 1, then followed up twice by email. Nothing. I have her direct line and want to leave one voicemail as my last touch.",
-   "reply": "Hi Dana, it's Marco Ruiz from Clearline Cleaning, on 555 0148. I'm calling about the cleaning proposal for your four clinics that I sent on September 1. I don't want to keep filling your inbox, so this is my last follow-up. If it's still on your list, a quick call back or a one-line email is all I need; if the timing's wrong, no need to call, and I'll close it on my side. Again, Marco, 555 0148. Thanks.",
+   "situation": "I'm Marco Ruiz and I run Clearline Cleaning, a commercial cleaning company; my number is 555-0148. I sent Dana, facilities manager for a dental group with four clinics, a $3,800/month proposal on Sept 1, then followed up twice by email. Nothing. I have her direct line and want to leave one voicemail as my last touch.",
+   "reply": "Hi Dana, it's Marco Ruiz from Clearline Cleaning, on 555-0148. I'm calling about the cleaning proposal for your four clinics that I sent on September 1. I don't want to keep filling your inbox, so this is my last follow-up. If it's still on your list, a quick call back or a one-line email is all I need; if the timing's wrong, no need to call, and I'll close it on my side. Again, Marco, 555-0148. Thanks.",
    "lang": "en",
    "note": "Switching to voicemail for the close: name and number at both ends, one line on what it's about, and offer the no so she doesn't have to call to say it."
   },
@@ -95,14 +95,14 @@
   },
   {
    "id": "handle-being-ghosted-by-client-014",
-   "situation": "我给一家瑜伽馆做小红书代运营，包月3,000元，9月的钱已经付了。但从8月底开始，老板娘Coco就没再回过我发的内容排期，连着5周没审。10月的排期我已经做好了，但不敢擅自发。",
+   "situation": "我给一家瑜伽馆做小红书代运营，包月3,000元，9月的钱已经付了。但从8月底开始，老板娘Coco就没再回过我发的内容排期，连着5周没审。10月的排期我已经做好了，但不敢擅自发。想让她二选一：不逐条审、我按排期直接发，或者先暂停；10月9日周五前没回复就先暂停。",
    "reply": "Coco你好，10月的内容排期我已经做好了，想跟你确认接下来怎么安排：1是你不用逐条审，我按排期直接发，有问题随时叫停；2是先暂停，等你忙完再接上。回我“1”或“2”就行。10月9号周五前没收到回复的话，我先暂停发布，等你消息。",
    "lang": "zh",
    "note": "包月客户长期沉默：把回复缩成一个数字，并说清楚没回复时你会怎么做；暂停期间费用怎么算，以合同为准，另外单独说。"
   },
   {
    "id": "handle-being-ghosted-by-client-015",
-   "situation": "Soy consultora de marketing. Andrés, dueño de tres panaderías, agendó una videollamada conmigo para el lunes 28 a las 10 y no se conectó. Le escribí ese mismo día y no ha contestado.",
+   "situation": "Soy consultora de marketing. Andrés, dueño de tres panaderías, agendó una videollamada conmigo para el lunes 28 a las 10 y no se conectó. Le escribí ese mismo día y no ha contestado. Tengo libre el jueves 8 de octubre a las 10 y el viernes 9 a las 16.",
    "reply": "Hola, Andrés: imagino que el lunes se complicó el día, con tres panaderías es lo más normal. Si todavía te interesa hablar del marketing de las tiendas, te propongo dos opciones de 20 minutos: jueves 8 de octubre a las 10 o viernes 9 a las 16. Contéstame solo «jueves» o «viernes». Y si ahora no es buen momento, un «ahora no» también me sirve y lo dejo aquí.",
    "lang": "es",
    "note": "Un plantón no es un rechazo: sin reproches, dos horarios concretos y una salida fácil. Si no responde, un mensaje de cierre en dos semanas."

@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -267,6 +267,13 @@
    "reply": "Ollie, I hear you, and I'm glad you told me rather than bottling it up. I can see why it might feel like I'm on Steve's side, so let me be clear: I'm not ruling on who's been worse, and I'm not going to pass messages between you two. This is still your home, and I want it to work for all three of us. Can we sit down on Sunday after dinner and agree a few house rules, just dishes and music late at night, each of us saying our piece without being interrupted? I'm saying exactly the same to Steve.",
    "lang": "en",
    "note": "Between your child and your partner, answer the 'you take his side' feeling directly, then move both to shared house rules in the same words."
+  },
+  {
+   "id": "mediating-between-two-people-039",
+   "situation": "My friends Amira and Tess fell out after Tess skipped Amira's housewarming last Saturday. Amira has just sent me six screenshots of their WhatsApp argument and asked, 'Read these and tell me I'm not crazy.' I care about them both and don't want to be the judge.",
+   "reply": "I can tell this has really upset you, and I'm glad you reached out. I'm not going to go through the screenshots and rule on who's right, though; I care about you both, and I'd only ever be seeing part of it. I won't pass anything on to Tess either. If you want to sort it out with her, a call or a coffee will go further than more messages, and I'm happy to help you think about how to start it.",
+   "lang": "en",
+   "note": "Screenshots are an invitation to judge: acknowledge the feeling, decline the verdict, and point her back to Tess, ideally by voice rather than text."
   }
  ]
 }

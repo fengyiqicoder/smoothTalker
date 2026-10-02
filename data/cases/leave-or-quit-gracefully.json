@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -267,6 +267,13 @@
    "reply": "I wanted to tell you myself, before you hear it any other way: I'm closing my private practice to take up a hospital post, and my last sessions will be in the week of Monday 14 December. Until then we'll keep meeting as usual, and I'd like us to use one session to review where you've got to and what you'd like next. If you want to keep going with someone, my colleague Dr Amaka Obi, who works in the same building, has space, or I can help you find another counsellor you'd prefer. We can talk it all through at our next session.\nWarm wishes,\nHelen Marsh",
    "lang": "en",
    "note": "Clients who rely on you hear it from you first, with a date and a real handover; include your usual crisis contacts, and anyone in crisis before then should call emergency services."
+  },
+  {
+   "id": "leave-or-quit-gracefully-039",
+   "situation": "我在一家物流公司做了两年调度，这份工作是我舅舅介绍的，他和老板王总是老朋友。我已经接了另一家公司的offer，今天上午当面跟王总提了离职，最后一天是10月30日，手上的线路排班交给同事小马。舅舅当初帮了大忙，我想今晚给他发微信说一声，不想让他从王总那儿先听到，也不想让他夹在中间难做。",
+   "reply": "舅舅，想先跟您说一声：我今天上午已经当面跟王总提了离职，最后一天是10月30日，我接了另一家公司的offer。手上的线路排班我会交给同事小马，走之前一定交接清楚。王总那边我自己会处理好，您不用替我出面。当初是您介绍我进去的，这两年学了很多，真的谢谢您。",
+   "lang": "zh",
+   "note": "熟人介绍的工作：先当面告诉老板，再亲自告诉介绍人；理由一句，交接具体，不让介绍人夹在中间。"
   }
  ]
 }

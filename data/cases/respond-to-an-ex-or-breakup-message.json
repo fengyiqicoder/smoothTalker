@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -267,6 +267,13 @@
    "reply": "阿彬，你说以前的照片都还留着，我想把话说清楚：你手机和网盘里我的私密照片，请全部删除，包括所有备份，也不要发给任何人。删完回我一句“已删”就行。别的我不想再聊。",
    "lang": "zh",
    "note": "保存好聊天记录。如果他拿照片威胁你，或者发给别人、传到网上，马上报警，也可以向平台举报要求删除；感到不安全时直接打110。"
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-039",
+   "situation": "My ex Rhys and I were together for three years in our twenties, and he married Clare last year. At 11pm last night he messaged me on Instagram saying he's unhappy in his marriage and asking to meet for a drink, adding 'Clare doesn't need to know'. I'm not going to meet him or keep anything secret, and I'm replying this morning.",
+   "reply": "Rhys, I'm sorry things are hard at home. I'm not going to meet up, and I won't be in touch in any way Clare couldn't know about. I hope you find someone good to talk it through with. Take care.",
+   "lang": "en",
+   "note": "Say no to the meeting and to the secrecy itself; don't counsel him on his marriage, and don't reply to the reply."
   }
  ]
 }

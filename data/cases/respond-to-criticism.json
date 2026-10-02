@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -267,6 +267,13 @@
    "reply": "Lieber Herr Albrecht, danke für Ihre offene Nachricht. Mit den Noten haben Sie recht: Ich hatte sie zweimal nicht dabei, und ab Dienstag sind sie fest in meiner Chortasche. Beim Üben sehe ich es etwas anders, denn ich übe jede Woche mit der Übe-Datei; die Stelle ab Takt 48 sitzt allerdings noch nicht. Hätten Sie am Dienstag vor der Probe fünf Minuten, um sie kurz mit mir durchzugehen? Viele Grüße, Katrin",
    "lang": "de",
    "note": "Das Wahre ohne Aber zugeben, das Falsche in einem ruhigen Satz richtigstellen und die echte Lücke in eine Bitte verwandeln."
+  },
+  {
+   "id": "respond-to-criticism-039",
+   "situation": "我教钢琴，学生小雨今年14岁，跟我学了三年。今天下课后她微信跟我说：“老师你每次上课只说我哪里弹错了，从来不说哪里好，我都不想学了。”这学期确实几乎每节课都在挑错；但“从来不说”不太对，上个月她汇报演出后我当面夸过她的踏板。下周三还有课。",
+   "reply": "小雨，谢谢你直接告诉我，敢跟老师说这个不容易。你说得对，这学期我几乎每节课都在挑错，弹得好的地方说得太少，换我也会泄气。“从来不说”我记得有点不一样，上个月汇报演出后我夸过你的踏板，不过一次显然不够。从下周三开始，每节课我先说你这周弹得好的地方，再说要改的。我要是又只顾着挑错，你当场提醒我，好吗？",
+   "lang": "zh",
+   "note": "学生的批评：先谢她敢说，认下对的部分，不同意的一句带过，再给一个她下节课就能看到的改变。"
   }
  ]
 }
