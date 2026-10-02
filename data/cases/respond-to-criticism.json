@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -218,6 +218,13 @@
    "reply": "Tamsin, thanks for telling me rather than letting it build up. You're right about your PhD news: a thumbs-up was a lazy reply to something that big, and I'm sorry. For plans and logistics I think the thumbs-up still does the job, but I can see how it reads when that's all I ever send. Can I take you out for a proper celebration dinner? Pick a night next week.",
    "lang": "en",
    "note": "Own the moment that mattered in full, keep your view on the small stuff to one clause, and give the big news the reply it deserved."
+  },
+  {
+   "id": "respond-to-criticism-032",
+   "situation": "I stayed at Mrs Kowalski's holiday flat in Porto last weekend. She messaged that we left it 'filthy': we did leave dishes in the sink and the bins full, but the red wine stain on the sofa was there when we arrived, and I have a photo from check-in on Friday at 4pm. I'm happy to pay the €25 extra cleaning she mentioned.",
+   "reply": "Thank you for telling me directly, Mrs Kowalski. You're right about the dishes and the full bins; we should have sorted both before we left, and I'm sorry. I'll pay the €25 extra cleaning today. The red wine stain on the sofa was already there when we arrived: I took a photo at check-in on Friday at 4pm, and I've attached it. Thank you for having us.",
+   "lang": "en",
+   "note": "Pay for the part that's yours without a 'but', then correct the rest once, with the photo rather than with tone."
   }
  ]
 }

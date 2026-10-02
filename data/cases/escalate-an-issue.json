@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -218,6 +218,13 @@
    "reply": "Subject: Sign-off needed by Wed 7 Oct: ethics application\nDear Dr Okoye, my ethics application for my classroom interview study has been with Dr Harmon for sign-off since 24 August, and I reminded him on 9 and 21 September. The committee's deadline for its 14 October meeting is 7 October; the next meeting is in December, after our partner school's interview window closes on 30 November, so missing this one means losing the fieldwork. Dr Harmon knows I'm writing and is copied. Could you help me get his sign-off, or tell me who else can sign, before 7 October?",
    "lang": "en",
    "note": "Academic skip-level: the supervisor is told first and copied, and the ask leaves him room to sign himself."
+  },
+  {
+   "id": "escalate-an-issue-032",
+   "situation": "Sou a Carla Mendes, desenvolvedora freelancer do app de fidelidade da rede de farmácias Bem Viver. Preciso que o cliente aprove o teste de aceitação da versão 2.3 até quarta-feira, 7 de outubro, para publicar o app antes da campanha de 15 de outubro; enviei o relatório de testes à gerente do projeto, Inês, em 28 de setembro, mas ela está de licença até 19 de outubro e a resposta automática não indica substituto. Vou escrever para o diretor dela, Rogério Lima, com a Inês em cópia.",
+   "reply": "Assunto: Aprovação necessária até quarta, 7 de outubro: versão 2.3 do app Bem Viver\nOlá, Rogério, a Inês está de licença até 19 de outubro e a resposta automática dela não indica substituto, por isso escrevo diretamente a você; ela está em cópia para ver isto quando voltar. Enviei a ela o relatório de testes da versão 2.3 em 28 de setembro e ainda falta a aprovação do teste de aceitação. Para publicar o app antes da campanha de 15 de outubro, preciso dessa aprovação até quarta-feira, 7 de outubro. Você pode aprovar ou indicar quem responde pelo projeto enquanto ela está fora? Minha sugestão é indicar alguém para validar o relatório, que já está pronto.\nObrigada,\nCarla Mendes",
+   "lang": "pt",
+   "note": "Quando não dá para avisar a pessoa antes, diga por quê e deixe-a em cópia; o pedido é uma decisão ou um nome, não uma reclamação."
   }
  ]
 }

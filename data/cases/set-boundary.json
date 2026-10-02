@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -218,6 +218,13 @@
    "reply": "Jonas, ich bin so gern mit dir zusammen, und ich mag deine Mutter wirklich. Über unsere Streits rede ich mit Heike ab jetzt nicht mehr: Wenn sie mich darauf anspricht, sage ich, dass das zwischen dir und mir bleibt, und wechsle das Thema. Wenn dich etwas stört, will ich es zuerst von dir hören.",
    "lang": "de",
    "note": "Die Grenze beschreibt, was du tust, nicht was er tun muss; fragt er nach, dieselbe Aussage kürzer wiederholen."
+  },
+  {
+   "id": "set-boundary-032",
+   "situation": "I'm 22 and in my final year at uni in another city. My mum has had my location shared to her phone since I was 16, and she texts when she sees me somewhere unexpected, like 'why are you at a bar on a Tuesday?'. I'm turning location sharing off this weekend; I'll text her whenever I'm travelling home, and we'll keep our Sunday calls.",
+   "reply": "Mum, I know the location sharing started because you love me and wanted me safe. I'm 22 now, so I'm turning it off this weekend. I'll text you whenever I'm travelling home, and we've still got our Sunday calls.",
+   "lang": "en",
+   "note": "Say what you'll do and what she still gets; don't debate the bar on a Tuesday. If she pushes, repeat it shorter."
   }
  ]
 }

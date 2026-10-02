@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -218,6 +218,13 @@
    "reply": "各位，跟大家说一件事：从11月1日（周日）起，办卡提成从个人提成改成全店按月平分。原因是之前出现过抢客、互相挖顾客的情况，客诉也多了，这个决定我是同意的。按过去三个月的数据算，大部分人到手的变化在正负300元以内；前三个月里，如果谁比原来的算法少拿超过300元，差额由公司补上。这件事跟每个人的收入直接相关，有顾虑的这周单独找我，我把你的数字跟你一起算一遍。",
    "lang": "zh",
    "note": "改收入规则：第一句说变化，原因不点名，再给出具体的数字和保底，单独算账的出口比群里争论更有用。"
+  },
+  {
+   "id": "team-announcements-as-a-manager-032",
+   "situation": "I manage 9 account executives. From Monday 2 November, HR is changing job titles company-wide so ours match the other offices and internal moves are simpler: 'Senior Account Executive' becomes 'Account Executive II' and 'Account Executive' becomes 'Account Executive I', with pay, bands, duties and promotion criteria unchanged; I agree with it, and HR publishes the full ladder by Friday 16 October. Four of my people lose 'Senior' and will read it as a demotion, especially with clients; I've already told those four one to one, and now I'm posting in team Slack.",
+   "reply": "From Monday 2 November, our job titles change as part of a company-wide update: Senior Account Executive becomes Account Executive II, and Account Executive becomes Account Executive I. Your pay, band, duties and promotion criteria stay exactly the same. The reason is to match the titles used in our other offices so moving between them is simpler, and I agree with it. I know losing 'Senior' can feel like a step down, especially with clients, and it isn't one; if a client or a future employer ever needs that confirmed, I'll put it in writing for you. HR will publish the full ladder by Friday 16 October, and if this lands badly for you, grab 15 minutes with me this week.",
+   "lang": "en",
+   "note": "A change that looks like a loss but isn't: say what stays the same in the second sentence, name the worry, and offer something concrete you can do about it."
   }
  ]
 }

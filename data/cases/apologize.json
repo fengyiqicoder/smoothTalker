@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "apologize-001",
@@ -225,6 +225,13 @@
    "reply": "Aoife, I've been saying your name wrong for six months, including when I introduced you to the whole group at the relay, and I'm sorry. You were kind about it, but you shouldn't have to hear your own name mangled twice a week by a friend. It's EE-fa from now on, starting Saturday.",
    "lang": "en",
    "note": "Small but repeated: name it once, skip the guilt, and let getting it right be the repair."
+  },
+  {
+   "id": "apologize-033",
+   "situation": "Auf meiner Geburtstagsfeier am Samstag habe ich vor etwa zwanzig Leuten den Akzent meiner Freundin Aylin nachgemacht, mitten in einer Geschichte, die sie erzählt hat, und alle haben gelacht. Sie hat danach kaum noch geredet und ist früh gegangen. Wir kennen uns seit dem Studium, und ich will ihr auf WhatsApp schreiben.",
+   "reply": "Aylin, es tut mir leid, dass ich am Samstag vor allen deinen Akzent nachgemacht habe, mitten in deiner Geschichte. Das war kein Spaß, sondern ging auf deine Kosten, vor zwanzig Leuten, die dann auch noch gelacht haben. Ich kann gut verstehen, dass dir danach die Lust aufs Erzählen vergangen ist. So etwas mache ich nicht wieder. Du musst nicht antworten.",
+   "lang": "de",
+   "note": "Keine Erklärung, dass es nur ein Witz war: genau benennen, was man getan hat, was es für sie bedeutet hat, und ihr Raum lassen."
   }
  ]
 }

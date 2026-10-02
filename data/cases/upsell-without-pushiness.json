@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -218,6 +218,13 @@
    "reply": "小郑你好，你这两周发来的问题我都看了，看得出你在拿公司的报表认真练。这些问题大多跟你们公司自己的报表有关，课程里讲不到那么细，所以提一个选择：一对一辅导，三次一共600元，可以直接对着你的表格讲。如果不想多花钱，10月29日（周四）晚上8点有免费的直播答疑，把问题带来也可以。都不选也完全没问题。",
    "lang": "zh",
    "note": "建议来自他自己的提问方式，价格说清，免费的选择放在旁边，建议才像建议而不是推销。"
+  },
+  {
+   "id": "upsell-without-pushiness-032",
+   "situation": "I run a small veg box delivery, Greenrow Boxes. Ellen emailed to cancel her weekly $32 family box: her kids have moved out, she lives alone now and veg keeps going to waste. I've already processed the cancellation, her last box goes out Thursday 8 October, and we have a $19 single box with about half the veg.",
+   "reply": "Hi Ellen, all done: your family box is cancelled, and your last delivery is Thursday 8 October. Since you mentioned it's just you now, we do a $19 single box with about half the veg, if you'd ever like something smaller. There's no need to reply, and it's completely fine to stop here. Thanks for all your time with us.",
+   "lang": "en",
+   "note": "At a cancellation, confirm the cancellation first and in full; the smaller option is mentioned once, and silence means no."
   }
  ]
 }

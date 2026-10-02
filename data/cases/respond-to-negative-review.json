@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -218,6 +218,13 @@
    "reply": "Thank you, Tom, for pointing this out. You're right: modules 1 and 2 were recorded in 2023 and the menus have changed since, which makes them harder to follow than they should be. Modules 3 and 4 were re-recorded in September, and new versions of modules 1 and 2 will be up by 15 November, free for everyone already enrolled. If anything else tripped you up, I'd like to hear it at priya@example.com. Priya Nair",
    "lang": "en",
    "note": "For a digital product, the update date is the fix other readers need; state it once and keep any refund or extra in private."
+  },
+  {
+   "id": "respond-to-negative-review-032",
+   "situation": "I'm Callum, manager of The Drover's Arms; my email is callum@example.com. 'Ryan K.' left a 1-star Google review saying our door staff refused his group of five on Saturday night for 'no reason' and were rude. I've checked the CCTV: one of the group was very drunk, and our licence conditions say we refuse entry to anyone who appears drunk; since Sunday our door team hands a short card with our entry policy to anyone turned away.",
+   "reply": "Thank you for the review, Ryan, and I'm sorry your Saturday night ended at our door. Our door team follows the entry conditions in our licence, and having looked into Saturday, I'm satisfied they applied them as they should. A refusal at the door can feel abrupt, so since Sunday anyone we turn away gets a short card setting out our entry policy. If you'd like to talk it through, I'm at callum@example.com. Callum, manager",
+   "lang": "en",
+   "note": "Never describe the reviewer or his group in public; stand by the call in one line and show what you changed."
   }
  ]
 }

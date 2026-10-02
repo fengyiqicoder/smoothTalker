@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -218,6 +218,13 @@
    "reply": "Hi Raj, thanks so much for RSVPing, we're thrilled you and Leela can make it on the 14th! Just a quick note, since the form came through for four: we're keeping the wedding adults-only for everyone, so the invitation is for the two of you, and I've updated our list. I hope it's a chance for a night off, and we can't wait to celebrate with you both.",
    "lang": "en",
    "note": "Assume an honest slip and correct the RSVP lightly; if he says they can't come without the kids, accept it warmly and don't bargain."
+  },
+  {
+   "id": "wedding-and-event-host-messages-032",
+   "situation": "Vamos casar no sábado, 7 de novembro, em Campinas, com 150 convidados. O mapa de mesas já foi para o buffet e eu e o Diego combinamos não mudar mais nenhum lugar, para ninguém. Minha prima Carol pediu para sair da mesa da família e sentar com os amigos da faculdade; a mesa deles fica ao lado da pista de dança.",
+   "reply": "Carol, obrigada por perguntar antes! O mapa de mesas já foi para o buffet, e o Diego e eu combinamos não mudar mais nenhum lugar, para ninguém. Então desta vez você fica na mesa da família. A mesa do pessoal da faculdade fica do lado da pista, então depois do jantar vocês têm a noite inteira juntos. Mal posso esperar para te ver no dia 7!",
+   "lang": "pt",
+   "note": "Pedido de troca de lugar é um pedido de exceção: a regra vale para todos, e o que ela quer (estar com os amigos) aparece em outro momento da festa."
   }
  ]
 }

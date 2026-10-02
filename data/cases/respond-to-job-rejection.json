@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -217,6 +217,13 @@
    "reply": "Liebe Frau Keller, vielen Dank für Ihre Nachricht und für das Einsingen mit der Gruppe, das hat mir richtig Freude gemacht. Ich verstehe, dass der Alt gerade voll besetzt ist. Eine kurze Frage, nur wenn Sie eine Minute haben: Gibt es eine Sache, an der ich bis zum Vorsingen im März arbeiten sollte? Ein Satz genügt, und wenn Sie dazu nichts sagen möchten, ist das völlig in Ordnung. Viele Grüße, Miriam",
    "lang": "de",
    "note": "Absage nach einem Vorsingen: für etwas Konkretes danken, den Grund nicht anzweifeln und genau eine kleine Frage für das nächste Mal stellen."
+  },
+  {
+   "id": "respond-to-job-rejection-032",
+   "situation": "I'm Arjun, on a graduate visa that ends in June. I interviewed for a junior data engineer role at Pellow Systems and really enjoyed the pairing exercise with their engineer, Kim. The recruiter, Laura, emailed that they liked me but can't sponsor the work visa I'd need from June; I'd like to hear if that ever changes.",
+   "reply": "Hi Laura, thanks for letting me know, and for being clear about the reason. I really enjoyed the pairing exercise with Kim. I understand about sponsorship. If Pellow's position on sponsoring visas ever changes, would you let me know? I'd be glad to talk again.\nArjun",
+   "lang": "en",
+   "note": "A structural no isn't about you: don't argue for an exception, just leave one easy door open."
   }
  ]
 }

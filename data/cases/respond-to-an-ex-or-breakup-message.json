@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -218,6 +218,13 @@
    "reply": "Ethan, I'm worried about you after that message. My answer about us hasn't changed, and I still care whether you're safe. If you're thinking about hurting yourself, please call emergency services or a crisis line right now. I'm going to text Ryan so you're not on your own tonight.",
    "lang": "en",
    "note": "If he says he's in danger or stops replying, call emergency services yourself; caring about his safety doesn't mean reopening the relationship."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-032",
+   "situation": "I've been with Kyle for 18 months. When we argue he punches walls, and last month he blocked the door so I couldn't leave; he has a key to my flat, so I'm staying at my friend Tasha's for now. I want to end it by text tonight, not in person, and my brother Dev will drop Kyle's PlayStation and two bags of clothes at his mum's on Saturday.",
+   "reply": "Kyle, I'm ending our relationship. I'm telling you by message because that's what feels right for me, and my decision is final. I won't be meeting up to talk it over. Dev will drop your PlayStation and your clothes at your mum's on Saturday. Please don't come to my flat or contact me again.",
+   "lang": "en",
+   "note": "No reasons and no location: don't mention where you're staying, change the locks, keep his messages, and call emergency services if he threatens you or turns up; a domestic abuse helpline can help you plan the next few days."
   }
  ]
 }

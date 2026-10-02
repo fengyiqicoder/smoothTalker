@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "small-talk-001",
@@ -218,6 +218,13 @@
    "reply": "Morning, Frank! The path's been so much easier since you cut the hedge back, thank you. Is that convertible as much work as it looks, or is the Saturday polish the fun part?",
    "lang": "en",
    "note": "Thank him once for the hedge, then move straight to the thing he cares about; the thread to follow is the car, not the disagreement."
+  },
+  {
+   "id": "small-talk-032",
+   "situation": "I drive for a rideshare app at weekends. My next passenger, Maya, is going to the airport, about 40 minutes, and she's just loaded a cello case into the back. I like a bit of chat, but some passengers want quiet and I don't want to be pushy.",
+   "reply": "Hi Maya, airport, right? That's a serious-looking case. Off to play somewhere, or heading home? And if you'd rather have a quiet ride, just say, I won't be offended.",
+   "lang": "en",
+   "note": "One question from what's in front of you plus an easy way out; if her answers are short, let the ride be quiet."
   }
  ]
 }

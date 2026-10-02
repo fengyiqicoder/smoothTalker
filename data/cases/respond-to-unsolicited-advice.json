@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -218,6 +218,13 @@
    "reply": "Grandpa, I know you want me to have a steady future, and I love that you worry about me. I've decided on art school, and Mum and Dad are behind me. You're the one who taught me to draw, so it's partly your fault! Can I bring my portfolio on Sunday to show you?",
    "lang": "en",
    "note": "Name the decision once, warmly, and give him a way to be part of it instead of a debate about careers."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-032",
+   "situation": "I've used a wheelchair since a spinal injury eight years ago. Joan from my Thursday book club keeps telling me about a supplement and a 'healer' her cousin swears by so I could 'walk again', and last week she brought me a leaflet. I'm happy with my life and my care as they are, and this month we're reading a mystery Joan picked.",
+   "reply": "Thanks, Joan, I know you mean it kindly. I'm happy with my life and my care as they are, so I'll pass on the leaflet. Now, I need to know: did you guess the killer in your pick before the end?",
+   "lang": "en",
+   "note": "Advice about a disability gets the shortest rungs: one line of position, no medical debate, then back to what you share; if it returns, repeat the same line."
   }
  ]
 }

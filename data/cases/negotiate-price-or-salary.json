@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -218,6 +218,13 @@
    "reply": "Hola, Carmen:\nMuchas gracias por la oferta, tengo muchas ganas de unirme al equipo y el salario me encaja. Quería plantearte un punto: si me incorporo el 1 de diciembre, pierdo el bonus anual de mi empresa actual, unos 6.000 €, que se cobra en marzo. ¿Podríais compensarlo con una prima de incorporación de 6.000 €? Si no es posible, otra opción sería incorporarme el 1 de abril, ya cobrado el bonus. Puedo enviarte la cláusula del contrato que lo recoge.\nUn saludo,\nLucía Ferrer",
    "lang": "es",
    "note": "Lo que pierdes al cambiar de trabajo se negocia con una cifra concreta y la prueba; la fecha de incorporación es la segunda palanca."
+  },
+  {
+   "id": "negotiate-price-or-salary-032",
+   "situation": "我叫王璐，之前在一家外资零售企业做了7年采购，牵头过一个供应商谈判项目，一年降本12%，之后在家带孩子三年。现在一家家电公司给了我采购经理的offer，HR林女士说因为有三年空窗期，月薪只能给1.5万；我了解到这个岗位在本地一般是1.8万到2.2万。我想谈到1.9万，最低能接受1.7万。",
+   "reply": "林女士您好，谢谢您发来的offer，我很期待加入采购团队。月薪这块想跟您坦率沟通一下：现在是1.5万，这个岗位在本地一般是1.8万到2.2万，我希望按1.9万来定。我之前做了7年采购，牵头的供应商谈判项目一年降本12%，这些经验入职就能直接用上。薪资上有没有调整的空间？如果起薪确实定了，能不能在offer里写明试用期结束后按1.9万复评？",
+   "lang": "zh",
+   "note": "对方拿空窗期压价时，不解释、不道歉，回到岗位价值和市场价；1.7万的底线不说出口。"
   }
  ]
 }

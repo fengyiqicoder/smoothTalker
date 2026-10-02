@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -218,6 +218,13 @@
    "reply": "爸、妈，想先跟你们说件事：第二次考研还是没过，差了8分。我挺难受的，但已经想清楚了，不再考了，下个月开始找运营方面的工作。这一年你们每个月给我2000块生活费撑着我，我都记着。不用劝我再考一年，我更希望你们支持我这个决定。周末我打电话跟你们细说。",
    "lang": "zh",
    "note": "坏消息和决定一起说：结果放第一句，一句感受，一句接下来做什么，再明说希望他们怎么回应。"
+  },
+  {
+   "id": "share-personal-news-032",
+   "situation": "I'm a freelance translator. Since my divorce I'm going back to my maiden name, so from Monday 12 October I'll be Laura Bennett instead of Laura Hughes, with a new email, laura.bennett@example.com. I want to email my 15 regular clients without mentioning the divorce or inviting sympathy, just making the switch easy.",
+   "reply": "Subject: My name and email change on Monday 12 October\nHi all, a quick update: from Monday 12 October I'll be working as Laura Bennett instead of Laura Hughes, with a new email address, laura.bennett@example.com. Nothing else changes: same service, same me. Please update your records to the new name and address. No need to reply, and I look forward to the next project.\nLaura",
+   "lang": "en",
+   "note": "Personal news in a work channel: only what people need to act on, no backstory, and a clear 'no need to reply'."
   }
  ]
 }

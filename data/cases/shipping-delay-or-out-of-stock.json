@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -218,6 +218,13 @@
    "reply": "Hi Ana, thank you for telling me, and I'm sorry: I swapped the labels on two parcels, so you received another customer's order instead of your order #6120. Your two kids' T-shirts go out today by express and will arrive on Tuesday 6 October, and I've refunded $10 for the trouble. Could you keep the other parcel aside, unworn, and not share the packing slip, as it has the other customer's details on it? A courier will collect it from you on Monday 5 October at no cost; if you'd rather have a full refund instead of the reship, just say so.\nKofi",
    "lang": "en",
    "note": "A mix-up exposes someone else's details: fix her order first, then ask once, plainly, for the other parcel and slip to stay private."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-032",
+   "situation": "我是做定制运动服的阿峰。少儿足球队的刘指导订了15件队服（订单尾号5208），已经送到，但我今天发现其中一件把“李浩然”印成了“李浩燃”，是我们排版出的错，他还没发现。比赛是10月10日（周六）；我可以今天重印，加急10月8日（周四）送到，运费我出，印错的不用寄回；或者这一件退款68元。",
+   "reply": "刘指导您好，订单尾号5208的15件队服里，有一件把“李浩然”印成了“李浩燃”，是我们排版出的错，先跟您说一声。我今天重印这一件，走加急，10月8日（周四）送到，赶得上周六的比赛，运费我们出，印错的那件不用寄回。如果您更想退这一件的钱，回我“退款”，68元当天原路退回。明天中午前没收到您的回复，我就按重印处理，发出后把单号发给您。阿峰",
+   "lang": "zh",
+   "note": "团队订单只错了一件：主动先说，指明哪件错在哪，补救排在比赛日前，默认做法写清楚。"
   }
  ]
 }

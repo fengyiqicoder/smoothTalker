@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -225,6 +225,13 @@
    "reply": "Marcus, I need to flag a mistake: at 9:50 this morning I clicked a link in an email that looked like our payroll portal and entered my work password before I noticed the address was wrong. I changed my password at 10:05 and signed out of all sessions, and I haven't seen anything odd so far. I'm forwarding you the email now so you can check whether anyone else got it. Sorry, this one's mine. From now on I'll only open the payroll portal from my bookmark, never from an email link. What else do you need from me?",
    "lang": "en",
    "note": "Report a phishing click within minutes, before you've decided it was harmless; IT may need to check sign-ins and warn others."
+  },
+  {
+   "id": "admit-mistake-at-work-033",
+   "situation": "我是一家小设计公司的行政，负责对外付款。插画师小鹿8月31日发来6,000元的稿费发票，合同约定30天内付款，我把发票归错了文件夹一直没提交，今天她来问才发现，已经逾期两天。我刚提交了加急付款，财务说今天下午5点前到账；以后每张发票收到当天我都登记进付款表。",
+   "reply": "小鹿你好，你的6,000元稿费逾期了，是我的失误：你8月31日发来的发票我归错了文件夹，一直没提交，按合同9月30日前就该付到。刚才已经提交了加急付款，财务说今天下午5点前到账，到账后我再跟你确认一下。对不起，还让你自己来问。以后每张发票收到当天，我都会登记进付款表。",
+   "lang": "zh",
+   "note": "欠外部合作方的钱：先认逾期和金额，再给确定的到账时间，不把原因推给财务流程。"
   }
  ]
 }

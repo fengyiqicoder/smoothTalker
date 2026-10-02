@@ -4,38 +4,38 @@
  "cases": [
   {
    "id": "push-back-on-boss-001",
-   "situation": "My manager just asked me on Slack to build the competitor pricing dashboard by Friday. I already have the quarterly board report due Thursday and a client migration Wednesday. It's realistically 3 days of work.",
+   "situation": "My manager just asked me on Slack to build the competitor pricing dashboard by Friday. I already have the quarterly board report due Thursday and a client migration Wednesday. It's realistically 3 days of work. I could do a first version with the top five competitors by Friday and the full one next Wednesday, or the board report could move to Monday.",
    "reply": "Happy to take the pricing dashboard, I think it'll be useful. Quick priority check though: I've got the client migration Wednesday and the board report Thursday, and the dashboard is about three days' work on its own. Options: I deliver a first version with the top five competitors Friday and the full one next Wednesday, or the board report moves to Monday and I focus on the dashboard. My recommendation is the first. Which do you prefer?",
    "lang": "en",
    "note": "Align, name the constraint in days, show the trade-off, recommend, and ask them to choose."
   },
   {
    "id": "push-back-on-boss-002",
-   "situation": "我在做双十一活动的全套物料，王总这周已经第三次改主视觉方向了，交付还是定在周五。每换一次方向，整套物料要重做大概两天，现在离周五只剩两天。",
+   "situation": "我在做双十一活动的全套物料，王总这周已经第三次改主视觉方向了，交付还是定在周五。每换一次方向，整套物料要重做大概两天，现在离周五只剩两天。我想的办法是今天下午花半小时把方向定死、周五交全套，或者周五先交主海报、其余下周三交齐。",
    "reply": "王总，我也想让这次的主视觉一次做到位。现在的情况是每换一次方向，整套物料要重做大约两天，离周五只剩两天，如果再调整就赶不上了。两个办法：一是今天下午我们花半小时把方向最终定下来，我按这个版本周五交全套；二是周五先交主海报，其余物料下周三交齐。我建议第一个。您看选哪个？",
    "lang": "zh",
    "note": "需求反复改时，不抱怨改动本身，而是说清每次改动的时间成本，给出锁定方向或调整交付两个选项，让老板来选。"
   },
   {
    "id": "push-back-on-boss-003",
-   "situation": "Pushed back on my boss about delivering the grant application and the five-story donor newsletter both by Monday, on top of the volunteer training schedule. She said 'I need both, figure it out.' I'm a program coordinator at a nonprofit.",
+   "situation": "Pushed back on my boss about delivering the grant application and the five-story donor newsletter both by Monday, on top of the volunteer training schedule. She said 'I need both, figure it out.' I'm a program coordinator at a nonprofit. I can do it if the newsletter drops to three stories and the training schedule moves to Wednesday, with the grant to her by 2pm Monday.",
    "reply": "Understood, I'll make Monday the priority for both. To be clear, that means the newsletter goes out with three stories instead of five, and the volunteer training schedule moves to Wednesday. I'll send the grant application for your review by 2pm Monday.",
    "lang": "en",
    "note": "When they insist, don't argue a second time. Say what slips, in writing, and deliver what you said."
   },
   {
    "id": "push-back-on-boss-004",
-   "situation": "My boss Alan just texted asking me to finish the investor memo over the weekend. Saturday is my sister's wedding and I'm a bridesmaid. It's about a day of work.",
+   "situation": "My boss Alan just texted asking me to finish the investor memo over the weekend. Saturday is my sister's wedding and I'm a bridesmaid. It's about a day of work. I could have it to him by noon Monday, or send him my outline and the latest numbers tonight.",
    "reply": "Hi Alan, I can't work on it this weekend, it's my sister's wedding on Saturday and I'm in the wedding party. I can start first thing Monday and have the memo to you by noon. If it truly can't wait, I can send you my outline and the latest numbers tonight so you can pick it up. Which would you prefer?",
    "lang": "en",
    "note": "A clear no to the weekend, then what it would take and a choice for him. No long apology for having a life."
   },
   {
    "id": "push-back-on-boss-005",
-   "situation": "My boss Rachel wants me to tell our client, Halden Travel, on Thursday's status call that the app launch is on track for Oct 20. QA has 14 blocking bugs open, most in payments, and my honest estimate is Nov 3.",
-   "reply": "Rachel, I want Thursday's call with Halden to go well and keep their trust. Right now QA has 14 blocking bugs open, mostly in payments, and my honest estimate for launch is November 3, not October 20. If we say on track and then slip, it will cost us more with them than two weeks will. Two options: tell them Thursday about the new date with the fix plan, or launch the core flows on the 20th and ship payments on the 3rd. I'd go with the second. Could you decide by tomorrow so I can prepare for the call?",
+   "situation": "My contract is 37.5 hours a week with overtime paid at time and a half. My boss Rachel wants me to stay until 8pm every Tuesday and Thursday through November to cover the new evening customer line, about five extra hours a week, and says it's 'part of the job, not overtime'. I'm happy to help if it's paid, or if I start at 12 on those days instead.",
+   "reply": "Hi Rachel, I want the evening line to work and I'm happy to help cover it. My contract has me on 37.5 hours a week with overtime paid at time and a half, and the Tuesday and Thursday evenings would add about five hours a week through November. Two options: I log those hours as paid overtime, or I start at 12 on Tuesdays and Thursdays so the evenings sit inside my normal hours. I'd suggest the second, since it costs nothing extra. Which would you prefer?",
    "lang": "en",
-   "note": "Pushing back on being asked to mislead a client: frame it around the relationship both of you want to protect, and give options that are all honest."
+   "note": "Quote the contract as a fact, not a threat; check the exact overtime clause first, and if she still says the hours are unpaid, ask HR or check your local working-time rules."
   },
   {
    "id": "push-back-on-boss-006",
@@ -46,7 +46,7 @@
   },
   {
    "id": "push-back-on-boss-007",
-   "situation": "For six weeks my manager Priya has added 'urgent' requests every Monday, and every week I've had to triage and push other things back. I'm working most evenings. Tom on our team used to own the vendor reporting and has room now. We have a 1:1 on Thursday and I want to send her the topic ahead.",
+   "situation": "For six weeks my manager Priya has added 'urgent' requests every Monday, and every week I've had to triage and push other things back. I'm working most evenings. Tom on our team used to own the vendor reporting and has room now; another fix would be a fixed Monday slot where new requests get ranked against existing work. We have a 1:1 on Thursday and I want to send her the topic ahead.",
    "reply": "Hi Priya, for our 1:1 on Thursday I'd like to talk about my overall load rather than any single task. For the last six weeks we've re-prioritised every Monday, and I've been finishing most weeks in the evenings, which isn't sustainable and puts quality at risk. I'll bring a list of everything on my plate with rough hours, plus two options: moving the vendor reporting to Tom, or a fixed Monday slot where new requests get ranked against what's already there. Could we use the time to pick one to try?",
    "lang": "en",
    "note": "When pushback happens every week, raise it once as a capacity problem, with data and options, and let her choose."
@@ -60,84 +60,84 @@
   },
   {
    "id": "push-back-on-boss-009",
-   "situation": "同组的小美10月12日开始休四个月产假，经理陈总让我把她负责的6个客户都接过来。我手上已经有8个客户，每家的月度复盘大概要一天。组里阿杰手上客户少，有余量。",
+   "situation": "同组的小美10月12日开始休四个月产假，经理陈总让我把她负责的6个客户都接过来。我手上已经有8个客户，每家的月度复盘大概要一天。组里阿杰手上客户少，有余量。我想的方案是我接她最大的3家、其余给阿杰，或者6家都接但复盘改成两个月一次。",
    "reply": "陈总，小美的客户我愿意接，也想保证她休假期间客户这边不掉链子。现在我手上有8个客户，每家的月度复盘大概要一天，再加6家就是14家，我一个人做不到每家都按时复盘。两个方案：一是我接她最大的3家，另外3家给阿杰；二是6家都我接，这四个月的复盘从每月一次改成两个月一次。我建议第一个，大客户不受影响，阿杰那边也有余量。您看选哪个？定了我就排时间跟小美交接。",
    "lang": "zh",
    "note": "不是拒绝接活，而是把工作量算清楚，给两个方案和自己的建议，让领导来选。"
   },
   {
    "id": "push-back-on-boss-010",
-   "situation": "My manager Derek in New York just announced our daily standup moves to 9am Eastern from Monday Oct 5. That's 6am for June and Rafael on our team in Seattle. They mentioned it to me and I said I'd raise it. I'd rather message Derek privately than push back in the team channel.",
+   "situation": "My manager Derek in New York just announced our daily standup moves to 9am Eastern from Monday Oct 5. That's 6am for June and Rafael on our team in Seattle. They mentioned it to me and I said I'd raise it. Better options would be 11:30 Eastern, or 9am with Seattle posting updates async. I'd rather message Derek privately than push back in the team channel.",
    "reply": "Derek, can I flag one thing about the 9am standup before it starts Monday? I like getting everyone together earlier in the day, but 9 Eastern is 6am in Seattle for June and Rafael, every day, and they've both said it'll be tough. If there's a reason it has to be 9, I'll get behind it. If not, two options: 11:30 Eastern, which is 8:30 for them and still before lunch here, or 9am live with Seattle posting updates async. My vote is 11:30. Which would you prefer?",
    "lang": "en",
    "note": "Disagreeing with a decision: privately, before it takes effect, the cost in plain facts, room for a reason you don't know, and options with a recommendation."
   },
   {
    "id": "push-back-on-boss-011",
-   "situation": "国庆10月1日到8日我请的假早就批了，机票也订了回成都。今天周二下午王总突然说系统10月5日上线，让我假期每天在线盯着。我是后端，上线主要涉及我负责的支付模块，同组的小李也熟悉这块。",
-   "reply": "王总，上线很重要，我也希望5号稳稳上线。现在的情况是我1号到8号的假已经批了，机票也订了。我想了两个办法：一是明天下班前把支付模块的上线手册和回滚方案写好，跟小李过一遍，5号由他值守，上线当天上午10点到12点我远程在线；二是如果必须由我全程盯，上线改到9月30日或10月9日。我建议第一个，您看哪个合适？",
+   "situation": "我10月12日到16日的年假早就批了，机票也订了回成都。今天王总突然说系统10月14日上线，让我休假期间每天在线盯着。我是后端，上线主要涉及我负责的支付模块，同组的小李也熟悉这块；我可以10月9日前写好手册交给他值守、上线当天上午远程在线，或者上线改到10月9日或19日。",
+   "reply": "王总，上线很重要，我也希望14号稳稳上线。现在的情况是我12号到16号的假已经批了，机票也订了。我想了两个办法：一是10月9日（周五）前把支付模块的上线手册和回滚方案写好，跟小李过一遍，14号由他值守，上线当天上午10点到12点我远程在线；二是如果必须由我全程盯，上线改到10月9日或10月19日。我建议第一个，您看哪个合适？",
    "lang": "zh",
    "note": "先认同目标，再把冲突和两个选项摆出来并给出建议，让老板来选；定下来后发一条文字确认。"
   },
   {
    "id": "push-back-on-boss-012",
-   "situation": "I work at a small café. My manager Sam wants me to close alone from Monday Oct 5, including cashing up and walking the takings to the bank's night safe at 10pm. Two people always closed before. We do have a locked safe in the office.",
+   "situation": "I work at a small café. My manager Sam wants me to close alone from Monday Oct 5, including cashing up and walking the takings to the bank's night safe at 10pm. Two people always closed before. We do have a locked office safe, so the takings could wait there for the morning opener, or a second person could stay until 10:15 for the bank run.",
    "reply": "Hi Sam, happy to take on the closes, I know the rota is tight. The one part I'm not comfortable with is walking the takings to the night safe alone at 10pm. Two options: keep a second person on until 10:15 for the bank run, or lock the takings in the office safe and whoever opens banks them in the morning. I'd suggest the second, since it costs nothing. Which would you prefer?",
    "lang": "en",
-   "note": "On a safety concern, say yes to the job and no to the specific risky part, with cheap fixes; if it's refused, check the staff handbook on lone working."
+   "note": "On a safety concern, say yes to the job and no to the specific risky part, with cheap fixes; if it's refused, check the staff handbook on lone working or your local health and safety rules."
   },
   {
    "id": "push-back-on-boss-013",
-   "situation": "Mein Chef, Herr Becker, hat das Budget für unsere Kundenkonferenz am 19. November von 40.000 auf 28.000 Euro gekürzt, erwartet aber weiterhin 200 Gäste und ein gesetztes Abendessen. Laut Angeboten kostet das rund 39.000 Euro; ein Flying Buffet statt des Abendessens spart etwa 12.000 Euro. Der Vertrieb hat die Gästeliste schon fertig.",
-   "reply": "Herr Becker, ich möchte, dass die Kundenkonferenz am 19. November auch mit dem kleineren Budget ein Erfolg wird. Mit 28.000 Euro reicht es laut den aktuellen Angeboten aber nicht für beides: 200 Gäste und das gesetzte Abendessen kommen auf rund 39.000 Euro. Zwei Möglichkeiten: Wir bleiben bei 200 Gästen und ersetzen das Abendessen durch ein Flying Buffet, das spart etwa 12.000 Euro, oder wir behalten das Abendessen und laden 140 Gäste ein. Ich empfehle das Buffet, weil der Vertrieb die Gästeliste schon hat. Können Sie mir bis Freitag sagen, welche Variante wir nehmen?",
+   "situation": "Mein Chef, Herr Becker, hat das Budget für unsere Kundenkonferenz am 19. November von 40.000 auf 28.000 Euro gekürzt, erwartet aber weiterhin 200 Gäste und ein gesetztes Abendessen. Laut Angeboten kostet das rund 39.000 Euro; ein Flying Buffet statt des Abendessens spart etwa 12.000 Euro, sonst passen mit Abendessen nur 140 Gäste. Der Vertrieb hat die Gästeliste schon fertig.",
+   "reply": "Herr Becker, ich möchte, dass die Kundenkonferenz am 19. November auch mit dem kleineren Budget ein Erfolg wird. Mit 28.000 Euro reicht es laut den aktuellen Angeboten aber nicht für beides: 200 Gäste und das gesetzte Abendessen kommen auf rund 39.000 Euro. Zwei Möglichkeiten: Wir bleiben bei 200 Gästen und ersetzen das Abendessen durch ein Flying Buffet, das spart etwa 12.000 Euro, oder wir behalten das Abendessen und laden 140 Gäste ein. Ich empfehle das Buffet, weil der Vertrieb die Gästeliste schon hat. Können Sie mir bis Freitag, 9. Oktober, sagen, welche Variante wir nehmen?",
    "lang": "de",
    "note": "Budgetkürzung bei gleichem Umfang: die Zahlen nebeneinanderstellen, zwei Varianten nennen, die ins neue Budget passen, eine empfehlen und ihn entscheiden lassen."
   },
   {
    "id": "push-back-on-boss-014",
-   "situation": "My offer letter says hybrid, three office days and two at home. Our new director Kevin just told the team we're moving to four office days from Monday Nov 2. We have a 1:1 on Thursday. I have a 70-minute commute each way and want to keep my two home days, or at least get an exception, without sounding like I'm refusing.",
+   "situation": "My offer letter says hybrid, three office days and two at home. Our new director Kevin just told the team we're moving to four office days from Monday Nov 2. We have a 1:1 on Thursday. I have a 70-minute commute each way and want to keep my pattern, coming in on the days the team most needs me, or at least trial four days through November and review in December.",
    "reply": "Hi Kevin, I want the new setup to work, and I can see why you want more of us in the room. My offer letter set my pattern at three office days and two at home, and with a 70-minute commute each way that arrangement is a big part of why I can do this role well. Two options: I keep my current pattern and make sure I'm in on the days the team most needs me, or we trial four days through November and review it together in December. My preference is the first. Could we talk it through at our 1:1 on Thursday?",
    "lang": "en",
    "note": "State the written arrangement as a fact, not a threat, and check with HR how the offer letter terms apply before assuming they are fixed."
   },
   {
    "id": "push-back-on-boss-015",
-   "situation": "I'm an account executive. Halfway through Q4, my sales director Mark raised my quarterly target from $400k to $520k because another rep, Jess, left, but didn't move any of her accounts or renewals to me. My pipeline realistically supports about $430k.",
-   "reply": "Hi Mark, I want to help cover the gap from Jess leaving and hit a strong Q4. Right now my qualified pipeline supports about $430k, and the new $520k target assumes deals I don't have. Three options: move four or five of Jess's open accounts to me, which could plausibly get us near $520k; keep my target at $430k and I take on her renewals; or split the difference at $470k with two of her larger accounts. My recommendation is the first. Which would you like to go with?",
+   "situation": "I'm an account executive. Halfway through Q4, my sales director Mark raised my quarterly target from $400k to $520k because another rep, Jess, left, but didn't move any of her accounts or renewals to me. My pipeline realistically supports about $430k. Four or five of Jess's open accounts could get me near $520k; otherwise I'd keep $430k and take her renewals.",
+   "reply": "Hi Mark, I want to help cover the gap from Jess leaving and hit a strong Q4. Right now my qualified pipeline supports about $430k, and the new $520k target assumes deals I don't have. Two options: move four or five of Jess's open accounts to me, which could plausibly get us near $520k, or keep my target at $430k and I take on her renewals. My recommendation is the first. Which would you like to go with?",
    "lang": "en",
    "note": "On a target, bring the pipeline number and tie the higher figure to the accounts that would make it real."
   },
   {
    "id": "push-back-on-boss-016",
-   "situation": "I report to Ana, but Marcus, the head of sales, just messaged me directly asking for a territory model by Friday. Ana already has me on the churn analysis due Friday, which feeds the board pack on Tuesday Oct 6. Each is about two days of work and I have three days free this week.",
-   "reply": "Hi Marcus, happy to build the territory model. Ana has me on the churn analysis for Friday too, and each piece is about two days of work, with three days free this week. Options: the churn analysis Friday and the territory model next Wednesday, or the territory model Friday and the churn analysis moves, which means it misses the board pack on Tuesday 6 October. My suggestion is the first. I've copied Ana in so the two of you can confirm which goes first.",
+   "situation": "I report to Ana, but Marcus, the head of sales, just messaged me directly asking for a territory model by Friday Oct 9. Ana already has me on the churn analysis due that same Friday, which feeds the board pack on Tuesday Oct 13. Each is about two days of work, I have three days free next week, and the territory model could follow on Wednesday Oct 14.",
+   "reply": "Hi Marcus, happy to build the territory model. Ana has me on the churn analysis due Friday 9 October too, and each piece is about two days of work, with three days free next week. Options: the churn analysis Friday and the territory model on Wednesday 14 October, or the territory model Friday and the churn analysis moves, which means it misses the board pack on Tuesday 13 October. My suggestion is the first. I've copied Ana in so the two of you can confirm which goes first.",
    "lang": "en",
    "note": "Two people pulling on your week: don't pick the winner yourself; show the clash, recommend, and let them agree in writing."
   },
   {
    "id": "push-back-on-boss-017",
-   "situation": "My new manager Paula started two weeks ago and wants each of us to send a written end-of-day update plus join a 4pm check-in call every day. For me that's about 45 minutes a day, and it eats the afternoons when I do the deep work on the data migration due Oct 23. I want to suggest something lighter before our 1:1 on Friday.",
-   "reply": "Hi Paula, I want you to have good visibility on the data migration, especially while you're settling in. The written update plus the 4pm call comes to about 45 minutes a day for me, and it lands in the afternoons, which is when I do the migration work for the 23 October deadline. Two options: a three-line written update each day and I skip the call unless something is blocked, or the call on Tuesdays and Thursdays only with no written update. I'd lean towards the first. Could we pick one in our 1:1 on Friday?",
+   "situation": "My new manager Paula started two weeks ago and wants each of us to send a written end-of-day update plus join a 4pm check-in call every day. For me that's about 45 minutes a day, and it eats the afternoons when I do the deep work on the data migration due Oct 23. Before our 1:1 on Friday Oct 9 I want to suggest a three-line daily update with no call unless I'm blocked, or the call on Tuesdays and Thursdays only.",
+   "reply": "Hi Paula, I want you to have good visibility on the data migration, especially while you're settling in. The written update plus the 4pm call comes to about 45 minutes a day for me, and it lands in the afternoons, which is when I do the migration work for the 23 October deadline. Two options: a three-line written update each day and I skip the call unless something is blocked, or the call on Tuesdays and Thursdays only with no written update. I'd lean towards the first. Could we pick one in our 1:1 on Friday 9 October?",
    "lang": "en",
    "note": "With a new manager, frame it as giving her the same visibility for less time, not as resisting oversight."
   },
   {
    "id": "push-back-on-boss-018",
-   "situation": "我昨晚开始发烧，今早38.5度，已经请了病假。刚才赵总微信说明天上午10点给华东区客户的方案汇报很重要，让我吃片药来公司讲。方案是我和同事小孙一起做的，她全程参与，内容也熟。",
+   "situation": "我昨晚开始发烧，今早38.5度，已经请了病假。刚才赵总微信说明天上午10点给华东区客户的方案汇报很重要，让我吃片药来公司讲。方案是我和同事小孙一起做的，她全程参与，内容也熟；不然也可以跟客户商量改到下周一由我讲。",
    "reply": "赵总，这个汇报我也很想讲好。现在的情况是我今早烧到38.5度，明天去公司状态讲不好，也怕传染给客户和同事。两个办法：一是由小孙主讲，她全程参与了方案，我今天把讲稿和客户可能问的问题整理好发给她；二是跟客户商量改到下周一，由我来讲。我建议第一个，客户那边不用改时间。您看选哪个？",
    "lang": "zh",
    "note": "生病时对“带病来”说不，但不空着手，给出保住结果的方案；如果烧一直不退或加重，先去看医生。"
   },
   {
    "id": "push-back-on-boss-019",
-   "situation": "我在公司做运营，部门老大周总经常晚上十一点在工作群里发消息，上周还说“群里消息十分钟内要回”。我晚上九点以后要哄孩子睡觉，经常看不到，白天的工作我都按时交。想私下跟他说一下。",
+   "situation": "我在公司做运营，部门老大周总经常晚上十一点在工作群里发消息，上周还说“群里消息十分钟内要回”。我晚上九点以后要哄孩子睡觉，经常看不到，白天的工作我都按时交。想私下跟他说：急事直接打我电话，其他消息第二天早上九点前回；或者组里晚上轮流值班。",
    "reply": "周总，想跟您对一下晚上群里回复的事。紧急的事不能耽误，这点我完全认同。我这边的情况是晚上九点以后要哄孩子睡觉，十分钟内回复很难保证，白天的工作我都会按时交。想了两个办法：一是真正紧急的事您直接打我电话，我一定接，其他消息我第二天早上九点前统一回复；二是组里晚上轮流值班，每人一周。我建议第一个，您看哪个合适？",
    "lang": "zh",
    "note": "对下班后秒回的要求，不空口拒绝，给出“急事打电话”的替代方案让领导选；定下来后发一条文字确认。"
   },
   {
    "id": "push-back-on-boss-020",
-   "situation": "I lead our checkout redesign, which is about 80% done and launching Friday Oct 16. My director Hugo just messaged that he wants me to move to the new mobile app project starting Monday Oct 5. Jin on my team knows the checkout code, but if she takes over, launch would likely slip to Friday Oct 30.",
+   "situation": "I lead our checkout redesign, which is about 80% done and launching Friday Oct 16. My director Hugo just messaged that he wants me to move to the new mobile app project starting Monday Oct 5. Jin on my team knows the checkout code, but if she takes over, launch would likely slip to Friday Oct 30. I could also start mobile on Monday Oct 19, or do mobile planning part-time until launch.",
    "reply": "Hugo, I'm glad to lead the mobile app, and I want checkout to land well too. Right now checkout is about 80% done and launching Friday 16 October. Three options: I finish checkout and start on mobile Monday 19 October; I hand checkout to Jin now and launch likely slips to Friday 30 October; or I start mobile planning part-time from Monday 5 October and go full-time after launch. I'd recommend the first, since checkout is two weeks from done. Which would you prefer?",
    "lang": "en",
    "note": "When asked to switch mid-project, put a date on each option so the cost of switching now is visible."
@@ -151,8 +151,8 @@
   },
   {
    "id": "push-back-on-boss-022",
-   "situation": "My boss Andrés wants our autumn sale email sent to all 40,000 customers in one go on Monday Oct 5. Last month an untested send went out with a broken checkout link and we got about 300 complaints. I'd like to send to 2,000 customers Monday morning, check the links and first orders, then send the rest Monday afternoon; the other option is a full send Monday morning after a test send to our team on Friday.",
-   "reply": "Andrés, I want Monday's sale email to land well with all 40,000 customers. After last month's broken checkout link and the 300 or so complaints, I'd like a safety check before the full send. Two options: send to 2,000 customers Monday morning, check the links and first orders, then send the rest that afternoon; or send everything Monday morning after a test send to our team on Friday. I'd go with the first, since the sale still starts Monday for everyone. Which do you prefer?",
+   "situation": "My boss Andrés wants our autumn sale email sent to all 40,000 customers in one go on Monday Oct 12. Last month an untested send went out with a broken checkout link and we got about 300 complaints. I'd like to send to 2,000 customers Monday morning, check the links and first orders, then send the rest Monday afternoon; the other option is a full send Monday morning after a test send to our team on Friday Oct 9.",
+   "reply": "Andrés, I want Monday's sale email to land well with all 40,000 customers. After last month's broken checkout link and the 300 or so complaints, I'd like a safety check before the full send. Two options: send to 2,000 customers Monday morning, check the links and first orders, then send the rest that afternoon; or send everything Monday morning after a test send to our team on Friday 9 October. I'd go with the first, since the sale still starts Monday for everyone. Which do you prefer?",
    "lang": "en",
    "note": "Disagreeing with how, not whether: keep his date intact so the pushback reads as protecting the launch."
   },
@@ -165,8 +165,8 @@
   },
   {
    "id": "push-back-on-boss-024",
-   "situation": "我在一家建材公司做销售助理。销售总监钱总让我这周五晚上跟他陪一个大客户吃饭，说“要能喝，帮我挡酒”。我正在吃头孢类的药，医生交代这段时间绝对不能喝酒。饭局我不想推，周六上午客户来厂里参观，接待我可以全程负责。",
-   "reply": "钱总，周五的饭局我去，客户这边我也想帮您招待好。有个情况得先跟您说：我这段时间在吃头孢类的药，医生交代绝对不能喝酒，所以挡酒这件事我做不了。两个办法：一是我照常参加，负责点菜、安排座位和结账，席上以茶代酒；二是周五您带能喝酒的同事去，周六上午客户来厂参观的接待全部由我负责。我建议第一个，您看哪个合适？",
+   "situation": "我在一家建材公司做销售助理。销售总监钱总让我下周五（10月9日）晚上跟他陪一个大客户吃饭，说“要能喝，帮我挡酒”。我正在吃头孢类的药，医生交代这段时间绝对不能喝酒。饭局我不想推，点菜、安排座位、结账我都可以做；第二天上午客户来厂里参观，接待我也可以全程负责。",
+   "reply": "钱总，周五的饭局我去，客户这边我也想帮您招待好。有个情况得先跟您说：我这段时间在吃头孢类的药，医生交代绝对不能喝酒，所以挡酒这件事我做不了。两个办法：一是我照常参加，负责点菜、安排座位和结账，席上以茶代酒；二是周五您带能喝酒的同事去，第二天上午客户来厂参观的接待全部由我负责。我建议第一个，您看哪个合适？",
    "lang": "zh",
    "note": "健康原因说一句就够，不细说病情；对喝酒说不，对招待好客户说是。被坚持要求喝酒时，按医嘱不喝，并用文字留个记录。"
   },
@@ -179,7 +179,7 @@
   },
   {
    "id": "push-back-on-boss-026",
-   "situation": "我在我爸开的五金厂做财务，他昨天吃饭时说从11月起仓库月底盘点也归我管，盘点每次要两天。可月底正是我结账的时候，每月3号前要把账交给会计师事务所。仓库的老刘干了十年，盘点流程他最熟。想在微信上跟我爸正式说一下。",
+   "situation": "我在我爸开的五金厂做财务，他昨天吃饭时说从11月起仓库月底盘点也归我管，盘点每次要两天。可月底正是我结账的时候，每月3号前要把账交给会计师事务所。仓库的老刘干了十年，盘点流程他最熟，我可以每月5号前核他的盘点表；或者结账交事务所推到6号。想在微信上跟我爸正式说一下。",
    "reply": "爸，11月起仓库盘点归我管这件事，我想跟您正式商量一下。我也希望盘点做扎实，账和货对得上。问题是盘点每次要两天，正好撞上月底结账，每月3号前账要交给事务所，两件一起做，哪件都做不好。两个办法：一是盘点继续由老刘负责，我每月5号前把他的盘点表和账核一遍；二是盘点归我，结账交事务所的时间推到每月6号，这得您跟事务所打个招呼。我建议第一个，老刘最熟流程。您看选哪个？",
    "lang": "zh",
    "note": "老板是家人也按工作来谈：说清时间冲突，给两个选项和建议，让他来选；别在饭桌上争，用文字正式提。"
@@ -200,24 +200,24 @@
   },
   {
    "id": "push-back-on-boss-029",
-   "situation": "My manager Tom starts a six-month secondment on Monday Nov 2 and asked me to 'step up and run the team' while he's away: seven people, approvals, and hiring for two open roles, on top of my full analyst workload, with no change in title or pay. I want to do it, just not as a free extra, and our HR handbook mentions an acting-up allowance for temporarily covering a higher role.",
+   "situation": "My manager Tom starts a six-month secondment on Monday Nov 2 and asked me to 'step up and run the team' while he's away: seven people, approvals, and hiring for two open roles, on top of my full analyst workload, with no change in title or pay. I'd do it as a formal acting role with the acting-up allowance our HR handbook mentions, or take just the approvals and the two hires.",
    "reply": "Thanks for thinking of me, Tom, I'd like to do this and do it properly. Running seven people and two hires is a manager's job, and I can't do it well on top of my full analyst workload. Two options: make it a formal acting manager role from 2 November, with the acting-up allowance the handbook mentions and my analyst work moved to someone else; or I take just the approvals and the two hires, and the rest stays with you or goes to another lead. I'd recommend the first. Which would you prefer? Once we've agreed, I'll send a short note so it's on record.",
    "lang": "en",
    "note": "A yes with terms, not a no; check the handbook's exact wording on the allowance before quoting it."
   },
   {
    "id": "push-back-on-boss-030",
-   "situation": "Soy dependienta en una tienda de muebles y somos tres en el equipo de ventas. Mi jefa, Elena, quiere que desde el lunes 5 de octubre conteste a los clientes por WhatsApp desde mi móvil personal, también por las tardes cuando ya he salido. En la tienda hay una tablet que nadie usa y yo trabajo de 10 a 18 h.",
+   "situation": "Soy dependienta en una tienda de muebles y somos tres en el equipo de ventas. Mi jefa, Elena, quiere que desde el lunes 5 de octubre conteste a los clientes por WhatsApp desde mi móvil personal, también por las tardes cuando ya he salido. Trabajo de 10 a 18 h; en la tienda hay una tablet que nadie usa, con la que podríamos tener un número propio y un mensaje automático fuera de horario, o turnarnos para llevarla por las tardes.",
    "reply": "Elena, me parece muy buena idea atender a los clientes por WhatsApp, seguro que nos ayuda a vender más. Lo que no me encaja es hacerlo desde mi móvil personal y fuera de mi horario: mi número acabaría en manos de todos los clientes y no podría desconectar por las tardes. Dos opciones: usamos la tablet de la tienda con un número propio, yo contesto de 10 a 18 h y fuera de ese horario sale un mensaje automático diciendo que respondemos a la mañana siguiente; o, si quieres cubrir las tardes, la tablet se la lleva cada semana una persona del equipo, por turnos. Te recomiendo la primera. ¿Cuál prefieres?",
    "lang": "es",
-   "note": "Sí a la tarea, no al móvil personal ni a estar localizable sin horario: propón el medio de la empresa y deja que ella elija."
+   "note": "Sí a la tarea, no al móvil personal ni a estar localizable sin horario: propón el medio de la empresa y deja que ella elija. Revisa tu contrato o el convenio sobre el derecho a la desconexión digital."
   },
   {
    "id": "push-back-on-boss-031",
    "situation": "I'm the analyst who built the numbers for Monday's board meeting. My boss Carla wants the Q3 slide to say customer churn fell to 3%. That's only true if we leave out the 41 accounts that downgraded to the free plan; counting them, churn is 5.2%.",
    "reply": "Carla, I want Monday's churn slide to land well too. The 3% only holds if we leave out the 41 accounts that downgraded to free; with them it's 5.2%, and if a board member asks how we define churn, the gap will be hard to explain in the room. Two options: show 5.2% with paid-plan churn of 3% beside it and a one-line definition, or show 3% clearly labelled as paid cancellations, with the 41 downgrades listed underneath. I'd go with the first. Which would you prefer?",
    "lang": "en",
-   "note": "Both options are honest; the pushback is about the label, not the boss's goal, so keep the exchange in writing."
+   "note": "Both options are honest; the pushback is about the label, not the boss's goal, so keep the exchange in writing. If she insists on an unlabelled 3%, don't present it yourself; raise it with finance leadership or your company's ethics or whistleblowing channel."
   },
   {
    "id": "push-back-on-boss-032",

@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -218,6 +218,13 @@
    "reply": "Mum, can I mention something small, just between us? There are a few marks down the front of that cardigan, and they're easy to miss in this light. Shall I pop it in the wash while I'm here, and have a quick look through the others with you?",
    "lang": "en",
    "note": "Leave her eyesight out of it unless she raises it; if you notice other everyday things slipping, suggest a GP visit together."
+  },
+  {
+   "id": "tell-someone-something-awkward-032",
+   "situation": "I've been dating Jonah for six weeks and really like him. His flat has a strong cat litter smell from his cat, Miso, and I think he's gone nose-blind to it. I'm staying over on Saturday and want to mention it once, kindly, by text beforehand.",
+   "reply": "Can I mention something small, the kind of thing I'd want you to tell me? The flat's had quite a strong cat litter smell the last few times I've been over. I think you just stop noticing it when you live with it; it happens to everyone with pets. That's it, and I'm really looking forward to Saturday.",
+   "lang": "en",
+   "note": "Early dating: say it once, make it about the flat rather than him, and if it's still there on Saturday, let it go."
   }
  ]
 }

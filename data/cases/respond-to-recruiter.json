@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -218,6 +218,13 @@
    "reply": "吴先生您好，谢谢您想到我，这个岗位我挺感兴趣。base比我现在低，所以期权对我很关键，约电话前想先了解几点：期权数量、行权价、归属期，以及公司最近一轮融资的情况。这些合适的话，10月8日（周四）或10月9日（周五）晚上8点后都可以通话。",
    "lang": "zh",
    "note": "“有期权”不能代替数字；拿到书面条款再判断，签字前最好请懂行的人帮你看一遍。"
+  },
+  {
+   "id": "respond-to-recruiter-032",
+   "situation": "A recruiter, Marco, messaged me on LinkedIn about a six-month contract-to-hire QA engineer role at Brindle Software. I'm in a permanent job with benefits now, so I'd only consider it at $75 an hour or more and with the conversion terms in writing. I'm free Wednesday 7 October after 4pm.",
+   "reply": "Thanks for reaching out, Marco, the role sounds interesting. Since I'm in a permanent job now, two things before we book a call: what's the hourly rate, and what are the conversion terms? My floor for a contract move is $75 an hour, and I'd need the conversion terms in writing. If those line up, I'm free Wednesday 7 October after 4pm.",
+   "lang": "en",
+   "note": "Contract-to-hire trades your security for a promise, so get the rate and the conversion terms before the call."
   }
  ]
 }

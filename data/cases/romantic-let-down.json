@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -218,6 +218,13 @@
    "reply": "Hi Daniel, it was good to meet you at Kemal's birthday on Saturday. I said yes to dinner too quickly, and having thought about it, I'm not feeling a romantic connection, so I'm going to cancel Thursday. Better to tell you now than on the day. Take care.",
    "lang": "en",
    "note": "Taking back a yes is still a clean no: own the quick yes in half a sentence, give the no, and cancel early so his Thursday is free."
+  },
+  {
+   "id": "romantic-let-down-032",
+   "situation": "上周六朋友生日聚会后，我和同学院的学长周航一起过了一夜。他今天发微信说想跟我正式在一起，问我周末要不要去看电影。那晚对我来说只是一次，我对他没有恋爱的感觉，以后在学院还会经常碰到。",
+   "reply": "周航，谢谢你直接问我，我也想跟你说清楚。那晚对我来说只是一次，我对你没有恋爱的感觉，所以不想在一起，周末的电影我也不去了。以后在学院碰到，我们就正常打招呼。祝你一切都好。",
+   "lang": "zh",
+   "note": "亲密过不等于有承诺：不列理由，把“只是一次”说清楚，别让对方以为还有可能。"
   }
  ]
 }

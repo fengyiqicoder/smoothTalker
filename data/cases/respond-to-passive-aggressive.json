@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -218,6 +218,13 @@
    "reply": "That's fair, Ruby. I've missed our last two calls since starting the job, and I hate that it's left you feeling that way, because you're not. Text is making this harder than it needs to be. Can I call you this Sunday, my morning, your evening?",
    "lang": "en",
    "note": "Someone close with a real grievance inside the dig: own it in one line and move to a voice call rather than a long text."
+  },
+  {
+   "id": "respond-to-passive-aggressive-032",
+   "situation": "我跟分管副总王总说，10月16日上线前加不了新的用量看板，除非砍掉CSV导出功能：要么看板10月30日再上，要么导出功能挪到10月30日。他邮件回了一句：“知道了，我会跟董事会说研发交付不了。”我不想顶回去，但要让董事会看到真实的选项。",
+   "reply": "王总，收到。为了让董事会看到完整情况，我把两个方案列一下：一是10月16日按原计划带CSV导出上线，用量看板10月30日补上；二是16日先上用量看板，导出功能挪到10月30日。不管选哪个，两个功能10月30日都能上线。您看选哪个？需要的话，我可以一起参加跟董事会的汇报。",
+   "lang": "zh",
+   "note": "不接话里的刺，只回应内容：把真实的取舍写下来，免得“交付不了”成为传出去的版本。"
   }
  ]
 }

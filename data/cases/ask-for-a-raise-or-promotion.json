@@ -12,7 +12,7 @@
   {
    "id": "ask-for-a-raise-or-promotion-002",
    "situation": "Hatte heute mein Gespräch mit meiner Chefin Frau Albers wegen der Beförderung zur Teamleiterin ab 1. Januar. Sie will das mit dem Geschäftsführer Herrn Brandt besprechen, hat aber kein Datum genannt. Ich (Jana Keller) habe dieses Jahr die drei neuen Kolleginnen eingearbeitet und will eine Follow-up-Mail schreiben.",
-   "reply": "Liebe Frau Albers, vielen Dank für das offene Gespräch heute. Zur Bestätigung: Sie besprechen die Beförderung zur Teamleiterin zum 1. Januar mit Herrn Brandt. Könnten Sie mir bis zum 30. Oktober Bescheid geben? Bis Freitag schicke ich Ihnen noch die Übersicht zur Einarbeitung der drei neuen Kolleginnen, falls sie für das Gespräch hilft. Viele Grüße, Jana Keller",
+   "reply": "Liebe Frau Albers, vielen Dank für das offene Gespräch heute. Zur Bestätigung: Sie besprechen die Beförderung zur Teamleiterin zum 1. Januar mit Herrn Brandt. Könnten Sie mir bis zum 30. Oktober Bescheid geben? Bis Freitag, 9. Oktober, schicke ich Ihnen noch die Übersicht zur Einarbeitung der drei neuen Kolleginnen, falls sie für das Gespräch hilft. Viele Grüße, Jana Keller",
    "lang": "de",
    "note": "Das Datum für die Antwort steht in der Mail, auch wenn es im Gespräch gefehlt hat."
   },
@@ -25,24 +25,24 @@
   },
   {
    "id": "ask-for-a-raise-or-promotion-004",
-   "situation": "My company just published salary bands. I'm a senior analyst on $68,000 and the band for my level is $74,000 to $88,000. I lead the pricing model now. Want to raise it with my manager Laura without sounding accusatory.",
+   "situation": "My company just published salary bands. I'm a senior analyst on $68,000 and the band for my level is $74,000 to $88,000. I lead the pricing model now and want to ask for $78,000. Want to raise it with my manager Laura without sounding accusatory.",
    "reply": "Hi Laura, now that the pay bands are published, I noticed my salary of $68,000 sits below the $74,000 to $88,000 band for senior analyst. I'd like to understand how my pay was set, and whether we can bring it to $78,000, given I now own the pricing model. Could we find 30 minutes next week to talk it through? Thursday or Friday afternoon both work.",
    "lang": "en",
    "note": "Anchor on the published band and your scope, never on a colleague's pay, and name the number you want."
   },
   {
    "id": "ask-for-a-raise-or-promotion-005",
-   "situation": "我在一家跨境电商公司做数据分析三年，月薪1.8万。去年搭了广告投放的归因看板，获客成本降了约15%，现在也在带新人。上周拿到另一家公司2.4万的offer，要在10月12号前回复。我更想留下，想跟领导王姐谈加薪，怎么提这个offer才不像威胁？",
-   "reply": "王姐，我很喜欢现在的工作，也想在这个团队长期做下去。过去一年我搭了广告投放的归因看板，投放组的获客成本降了大约15%，新人的数据培训现在也是我在带。坦白说，上周我拿到了另一家公司月薪2.4万的offer，但我更想留下，所以想先跟您谈：能不能把我的月薪调到2.3万？需要什么材料往上申请，我这周都可以准备。那边要我10月12日前答复，所以想请您10月9日周五前给我一个结果。",
+   "situation": "我在一家跨境电商公司做数据分析三年，月薪1.8万。去年搭了广告投放的归因看板，获客成本降了约15%，现在也在带新人。上周拿到另一家公司2.4万的offer，要在10月12号前回复。我更想留下，想跟领导王姐谈调到2.3万；如果这边调不了，我是真的会去。怎么提这个offer才不像威胁？",
+   "reply": "王姐，我很喜欢现在的工作，也想在这个团队长期做下去。过去一年我搭了广告投放的归因看板，投放组的获客成本降了大约15%，新人的数据培训现在也是我在带。坦白说，上周我拿到了另一家公司月薪2.4万的offer，但我更想留下，所以想先跟您谈：能不能把我的月薪调到2.3万？需要什么材料往上申请，我下周都可以准备。那边要我10月12日前答复，所以想请您10月9日周五前给我一个结果。",
    "lang": "zh",
    "note": "外部offer只提一次，语气平静，先说想留下；只有真的会去才提，否则就别拿它当筹码。"
   },
   {
    "id": "ask-for-a-raise-or-promotion-006",
-   "situation": "Sous chef at a 30-seat restaurant, 3 years. Since our head chef left in June I've written the menus and done all the ordering, food cost went from 34% to 29%. I want the head chef title and $62k (I'm on $51k). Owner Marco runs everything; I want to text him to set up the talk.",
-   "reply": "Hi Marco, could we sit down for 30 minutes before service this week, Wednesday or Thursday around 2? I'd like to talk about my role since June, with the menus and the ordering, and where it goes from here, including title and pay. I love this kitchen and want to keep building it with you, so I'd rather do this properly than mid-shift.",
+   "situation": "Sous chef at a 30-seat restaurant, 3 years. Since our head chef left in June I've written the menus and done all the ordering, food cost went from 34% to 29%. Yesterday I asked the owner, Marco, for the head chef title and $62k (I'm on $51k); he got defensive and it ended badly. I want to text him to pick it up again calmly, Wednesday or Thursday around 2 before service.",
+   "reply": "Hi Marco, thanks for hearing me out yesterday. I know it got tense at the end, and I'd like to pick it up again calmly. I love this kitchen and want to keep building it with you. Since June I've written the menus and done all the ordering, and food cost has gone from 34% to 29%, which is why I'm asking for the head chef title and $62k. Could we sit down next Wednesday or Thursday around 2, before service?",
    "lang": "en",
-   "note": "The booking text names the topic so it isn't an ambush; save the food-cost numbers and the $62k for the meeting itself."
+   "note": "After a tense first talk, don't drop it or argue by text: acknowledge it calmly, restate the case and the number in one line, and book a fresh conversation."
   },
   {
    "id": "ask-for-a-raise-or-promotion-007",
@@ -54,7 +54,7 @@
   {
    "id": "ask-for-a-raise-or-promotion-008",
    "situation": "我在一家设计公司做了四年，今年三月开始带小吴和小赵两个新人，审他们的稿，上季度组里准时交付率从80%提到了95%。上周刘总说给我升设计组长，但工资不变，明年再看。我月薪1.5万，公司其他组长大概1.8万，明天约了他谈。",
-   "reply": "刘总，谢谢您给我这个机会，组长这个角色我很想做好。从三月开始我已经在带小吴和小赵，他们的稿子都是我审，上个季度组里的准时交付率从80%提到了95%。升组长之后责任和范围都变了，我希望薪资同步调整到1.8万，和公司其他组长一致。如果现在调不了，我们能不能把条件和时间定下来，比如明年一月的调薪就按这个执行？",
+   "reply": "刘总，谢谢您给我这个机会，组长这个角色我很想做好。从三月开始我已经在带小吴和小赵，他们的稿子都是我审，上个季度组里的准时交付率从80%提到了95%。升组长之后责任和范围都变了，我希望薪资同步调整到1.8万，和公司其他组长一致。如果现在调不了，我们能不能把调薪的条件和时间定下来，写下来各留一份？",
    "lang": "zh",
    "note": "晋升是头衔、职责加薪资；只给头衔时不要直接接受，先谈薪资，谈不下来就把条件和日期写下来。"
   },
@@ -82,13 +82,13 @@
   {
    "id": "ask-for-a-raise-or-promotion-012",
    "situation": "In August my manager Tom agreed my raise from $70k to $78k from September 1, and HR sent a confirmation letter on August 21. My September payslip still shows $70k, and Tom has said 'HR is on it' twice in two weeks. I want to follow up in writing without sounding pushy.",
-   "reply": "Hi Tom, following up on my raise to $78,000 from 1 September, confirmed in HR's letter of 21 August. My September payslip still shows $70,000, so I was paid about $667 short before tax. Could you or HR confirm by Friday 2 October that the October payroll will include the new salary and the September back pay? Happy to forward the letter and the payslip if that helps.",
+   "reply": "Hi Tom, following up on my raise to $78,000 from 1 September, confirmed in HR's letter of 21 August. My September payslip still shows $70,000, so I was paid about $667 short before tax. Could you or HR confirm by Wednesday 7 October that the October payroll will include the new salary and the September back pay? Happy to forward the letter and the payslip if that helps.",
    "lang": "en",
    "note": "Once a raise is agreed, the follow-up is admin: the letter, the gap, one dated ask. If October passes, go to HR directly with both documents."
   },
   {
    "id": "ask-for-a-raise-or-promotion-013",
-   "situation": "I asked my manager Denise for $82k (I'm on $70k), the market rate for this scope, after taking over our two biggest client accounts. She emailed back today offering $75k from January, saying it's what she could get approved. I want to take it but not drop the rest.",
+   "situation": "I asked my manager Denise for $82k (I'm on $70k), the market rate for this scope, after taking over our two biggest client accounts. She emailed back today offering $75k from January, saying it's what she could get approved. Our next review is in July. I want to take it but not drop the rest.",
    "reply": "Thanks, Denise, I appreciate you getting it approved and coming back so quickly. I'm glad to accept $75,000 from January. I'd still like to close the gap to $82,000, since that's where this scope sits in the market. Could we agree in writing what you'd need to see from me by the July review to get there?",
    "lang": "en",
    "note": "Accept what's on the table, keep your number, and turn the rest into written criteria with a date."
@@ -102,7 +102,7 @@
   },
   {
    "id": "ask-for-a-raise-or-promotion-015",
-   "situation": "Llevo cuatro años trabajando en la ferretería de mi tío Paco en Valencia y cobro 1.450 euros al mes. Desde enero llevo yo los pedidos a proveedores y la tienda online, que ya es el 20% de las ventas. Hemos quedado el sábado después de cerrar y quiero pedirle 1.700 euros sin que se convierta en una conversación de familia.",
+   "situation": "Llevo cuatro años trabajando en la ferretería de mi tío Paco en Valencia y cobro 1.450 euros al mes. Desde enero llevo yo los pedidos a proveedores y la tienda online, que ya es el 20% de las ventas. Hemos quedado el sábado después de cerrar y quiero pedirle 1.700 euros desde noviembre sin que se convierta en una conversación de familia.",
    "reply": "Paco, hoy quiero hablar contigo como jefe, no como sobrino. Me gusta mucho la tienda y quiero seguir aquí muchos años. Desde enero llevo los pedidos a proveedores y la tienda online, que ya es el 20% de las ventas. Por eso te pido pasar de 1.450 a 1.700 euros al mes a partir de noviembre. Si ahora no es posible, ¿qué necesitarías ver y cuándo lo podemos revisar?",
    "lang": "es",
    "note": "Con un familiar como jefe, separa los papeles en la primera frase y apóyate solo en el trabajo, nunca en la familia."
@@ -110,7 +110,7 @@
   {
    "id": "ask-for-a-raise-or-promotion-016",
    "situation": "My director Hannah just asked if I'll take over the Northern region team when Raj leaves on October 16, on top of my own team, so 12 people instead of 6. I'm a regional manager on $95k and want to say yes, but the doubled scope should come with a title and pay change.",
-   "reply": "Hi Hannah, thanks for trusting me with this, and yes, I'd like to take on the Northern team. Going from 6 people to 12 across two regions is a real change in the role, so alongside the handover plan I'd like us to talk about the title and pay that go with it. Could we find 30 minutes before Raj leaves on Friday 16 October? Thursday or Friday afternoon this week both work for me.",
+   "reply": "Hi Hannah, thanks for trusting me with this, and yes, I'd like to take on the Northern team. Going from 6 people to 12 across two regions is a real change in the role, so alongside the handover plan I'd like us to talk about the title and pay that go with it. Could we find 30 minutes before Raj leaves on Friday 16 October? Thursday or Friday afternoon next week both work for me.",
    "lang": "en",
    "note": "The moment scope is added is the best time to ask: say yes, name the change, and book the pay talk before the handover. Bring the number to the meeting."
   },
@@ -124,7 +124,7 @@
   {
    "id": "ask-for-a-raise-or-promotion-018",
    "situation": "I'm Leila, a marketing analyst at a logistics company for two years, on $72k. My manager Tom has my annual review on Thursday Oct 8. Since my last raise I took over the $400k-a-year paid ads budget after a colleague left, and similar roles are posting at $82k to $88k. I want to email him before the review asking for $85k.",
-   "reply": "Hi Tom, I'm looking forward to Thursday's review, and I've really enjoyed this year on the team. Since I took over the $400k paid ads budget, my role has grown a lot, and similar roles are currently posting at $82k to $88k. I'd like to discuss moving my salary from $72k to $85k. Could we make that part of Thursday's conversation? If the full amount is hard this cycle, I'm open to talking about timing or a title that reflects the budget too. Thanks, Leila",
+   "reply": "Hi Tom, I'm looking forward to Thursday's review, and I've really enjoyed this year on the team. Since I took over the $400k paid ads budget, my role has grown a lot, and similar roles are currently posting at $82k to $88k. I'd like to discuss moving my salary from $72k to $85k. Could we make that part of Thursday's conversation? Thanks, Leila",
    "lang": "en",
    "note": "Sent ahead so Tom can check budget before the meeting instead of reacting on the spot."
   },
@@ -145,7 +145,7 @@
   {
    "id": "ask-for-a-raise-or-promotion-021",
    "situation": "我在一家物业公司做客服主管三年，月薪一直是7500，三年没调过。今年接手了阳光花园和锦绣苑两个新小区的投诉处理，平均结案时间从5天缩短到2天。想在微信上约经理周姐单独谈，目标是月薪8500。",
-   "reply": "周姐，想跟您约20分钟单独聊聊我的岗位和薪资，这周四或周五下午您看哪个方便？我挺喜欢现在这份工作，也想在这边长期干下去。简单说一下：今年我接手了阳光花园和锦绣苑的投诉处理，平均结案时间从5天缩短到了2天；我入职三年月薪一直是7500，想跟您谈谈调到8500。见面时我把具体数据带上。",
+   "reply": "周姐，想跟您约20分钟单独聊聊我的岗位和薪资，下周四或周五下午您看哪个方便？我挺喜欢现在这份工作，也想在这边长期干下去。简单说一下：今年我接手了阳光花园和锦绣苑的投诉处理，平均结案时间从5天缩短到了2天；我入职三年月薪一直是7500，想跟您谈谈调到8500。见面时我把具体数据带上。",
    "lang": "zh",
    "note": "预约消息里就给出数字和一条证据，领导有时间提前准备，不算突然袭击。"
   },
@@ -186,8 +186,8 @@
   },
   {
    "id": "ask-for-a-raise-or-promotion-027",
-   "situation": "On September 3 I asked my manager Elena to move my salary from $68k to $76k after I took over the partner onboarding programme. She said she'd talk to finance and come back to me by September 18. It's now October 1, she hasn't mentioned it, and our 1:1 last week was cancelled. I want to follow up on Slack without nagging.",
-   "reply": "Hi Elena, following up on our 3 September conversation about moving my salary from $68,000 to $76,000. You mentioned you'd speak to finance and come back to me by 18 September, and I know the last few weeks have been busy. Could you let me know where it stands, or when you expect an answer? If it's easier to talk it through, I'd be glad to find 20 minutes this week or next.",
+   "situation": "On September 3 I asked my manager Elena to move my salary from $68k to $76k after I took over the partner onboarding programme. She said she'd talk to finance and come back to me by September 18. It's now October 2, she hasn't mentioned it, and our 1:1 last week was cancelled. I want to follow up on Slack without nagging.",
+   "reply": "Hi Elena, following up on our 3 September conversation about moving my salary from $68,000 to $76,000. You mentioned you'd speak to finance and come back to me by 18 September, and I know the last few weeks have been busy. Could you let me know where it stands, or when you expect an answer? If it's easier to talk it through, I'd be glad to find 20 minutes next week.",
    "lang": "en",
    "note": "Silence is neither a yes nor a no: restate the number and the date she gave, and ask for a new date. If that slips too, ask what would make it a yes."
   },
@@ -208,7 +208,7 @@
   {
    "id": "ask-for-a-raise-or-promotion-030",
    "situation": "我在一家医药公司做市场专员四年，月薪1.3万。上个月市场主管的位置空出来，我申请了，结果公司外招了一位新主管，下周一入职。想在微信上约部门总监郑总聊聊我差在哪、下一步怎么走，短期目标是明年升高级专员，月薪调到1.5万。",
-   "reply": "郑总，想约您30分钟聊一聊我的发展，这周四或周五下午您看哪个方便？这次主管没选我，我想听听您真实的看法：我离主管还差哪些。我还是很想在这个团队长期做下去，短期内希望明年能升高级专员，月薪从1.3万调到1.5万。见面时我们能不能把需要做到的几条和时间定下来？",
+   "reply": "郑总，想约您30分钟聊一聊我的发展，下周四或周五下午您看哪个方便？这次主管没选我，我想听听您真实的看法：我离主管还差哪些。我还是很想在这个团队长期做下去，短期内希望明年能升高级专员，月薪从1.3万调到1.5万。见面时我们能不能把需要做到的几条和时间定下来？",
    "lang": "zh",
    "note": "没被选上之后不评价招聘结果，把谈话变成书面的标准和日期；谈完当天发微信把结论确认一遍。"
   },

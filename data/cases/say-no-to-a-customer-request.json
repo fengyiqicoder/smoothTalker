@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -218,6 +218,13 @@
    "reply": "Liebe Frau Brandt, vielen Dank, dass Ihnen der Ring so gut gefällt. Eine genaue Kopie fertige ich nicht an: Jedem Paar, das bei mir einen Ring in Auftrag gibt, verspreche ich ein Einzelstück, und dieses Versprechen gilt auch für die beiden. Gern entwerfe ich mit Ihnen einen Ring im selben Stil, mit gewellter Fassung und Saphir, aber mit Details, die nur zu Ihnen gehören. Für ein kostenloses Entwurfsgespräch von 30 Minuten hätte ich Dienstag, den 6. Oktober, oder Donnerstag, den 8. Oktober. Welcher Tag passt Ihnen?",
    "lang": "de",
    "note": "Der Grund ist das Versprechen an andere Kunden, nicht eine Regel; die Alternative gibt ihr den Stil, den sie eigentlich will."
+  },
+  {
+   "id": "say-no-to-a-customer-request-032",
+   "situation": "我在网上开手工皂小店。桂花款去年停产了：原来的桂花精油供应商停货，换了几家香味都不稳定。老顾客王姐问能不能再做20块桂花皂送同事。现在香味最接近的是茉莉款，38元一块，我可以随单送她两块小样先闻闻。",
+   "reply": "王姐，谢谢您一直记着桂花款！这20块桂花皂我做不了：原来的桂花精油供应商停货了，换了几家香味都不稳定，我不想卖跟以前不一样的皂。现在香味最接近的是茉莉款，38元一块，下单的话我随单送您两块小样，您先闻闻合不合适。以后要是找到靠谱的桂花精油，我第一个告诉您。",
+   "lang": "zh",
+   "note": "停产的老款：先说做不了，理由落在品质上，再主动给最接近的替代；别说“以后会恢复”。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -218,6 +218,13 @@
    "reply": "刘先生，带着70多岁的父母，晚上11点洗不了热水澡，换谁都着急，这是我们设备没保障好，对不起。3号房空着，热水是好的，我现在就过来帮您和叔叔阿姨把行李搬过去。今晚的房费我退给您，2号房的热水器明早8点师傅来修。我是店主阿梅，今晚有任何事直接微信找我。",
    "lang": "zh",
    "note": "客人还住在店里时，速度比措辞重要：先给今晚就能用上的办法，再说退款和维修时间。"
+  },
+  {
+   "id": "respond-to-angry-customer-032",
+   "situation": "I'm Priya, founder of Tallybook, an invoicing app for tradespeople. Our 28 September update removed offline mode, and Gary, a plumber who's used us for six years, emailed in capitals that he can't create invoices on sites with no signal. We're not bringing offline mode back this year, but version 4.2 can still be reinstalled and will keep working until 31 December, and I want to give him three months free; my number is 555-0163.",
+   "reply": "Hi Gary, since our 28 September update you can't write invoices on sites with no signal, after six years of relying on us every working day. That decision was ours, and I'm sorry for what it's done to your week. Offline mode isn't coming back this year, so here's what I can do now: version 4.2, which still has it, can be reinstalled and will keep working until 31 December, and I'll email you the steps today. I've also made your next three months free. I'm Priya, the founder; reply to me directly or call 555-0163.",
+   "lang": "en",
+   "note": "When the cause is a product decision you're keeping, own the impact, say plainly it isn't changing, and lead with the workaround."
   }
  ]
 }

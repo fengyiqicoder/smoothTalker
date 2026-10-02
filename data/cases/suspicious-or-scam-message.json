@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -218,6 +218,13 @@
    "reply": "Dad, please don't send Kevin that code. A real buyer never needs a code from you, and the text itself says not to share it with anyone. Don't reply to Kevin at all: just block him and report him on the marketplace. If you've already sent it, ring me straight away and we'll change your passwords together. A genuine buyer will come and look at the mower and pay you in person.",
    "lang": "en",
    "note": "Report the account on the marketplace; if a code was shared, secure the accounts at once, and if any money has gone, call the bank and the police."
+  },
+  {
+   "id": "suspicious-or-scam-message-032",
+   "situation": "I'm Priya Shah. Yesterday I posted publicly that Skyvale Air lost my suitcase; my claim reference is LB-7731. Within minutes an account called @SkyvaleCare_Help, using the airline's logo, replied asking me to DM my phone number and card details so they can pay compensation. I haven't replied, and I'm writing to the airline through the chat in its own app.",
+   "reply": "Hi, I'm Priya Shah, writing about my lost-bag claim LB-7731. After I posted about it publicly yesterday, an account called @SkyvaleCare_Help, using your logo, replied asking me to send my phone number and card details by DM for compensation. I haven't replied or sent anything. Can you confirm that account isn't yours, and tell me how compensation on my claim will actually be paid?",
+   "lang": "en",
+   "note": "Don't reply to the lookalike account; report it to the platform. If card details were already sent, call the bank at once, and the police if money has gone."
   }
  ]
 }

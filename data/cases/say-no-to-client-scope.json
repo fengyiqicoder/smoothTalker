@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -218,6 +218,13 @@
    "reply": "Hi Priya, it makes sense to get more mileage out of every video on social. The cutdowns aren't part of the current retainer, which covers four edited videos a month for $2,400. Two ways to do it: I add all 16 cutdowns at $75 each, so $1,200 a month on top, or we keep the budget at $2,400 and I deliver three full videos plus four cutdowns of each. Which would you like to go with?",
    "lang": "en",
    "note": "A hint that they might leave is not a new fact: stay warm, don't answer the threat, don't lower the price, and decide privately beforehand what you'll do if they walk."
+  },
+  {
+   "id": "say-no-to-client-scope-032",
+   "situation": "I'm Hana, a freelance designer. My contract with Brightfield Books for their autumn catalogue covers print-ready files only, and I delivered them on Monday. Their marketing lead, Tom, now asks me to 'just handle the printer': get quotes, check the proofs and sort delivery. I'd do print management for a flat $350, or if they run it themselves, the printer can email me technical questions about the files.",
+   "reply": "Hi Tom, great to hear the catalogue is heading to print. Our contract covers the print-ready files, which I delivered on Monday, so managing the printer would be an add-on: getting quotes, checking proofs and arranging delivery, for a flat $350. If you'd rather run it in-house, the printer is welcome to email me any technical questions about the files. Which would you like?\nHana",
+   "lang": "en",
+   "note": "Coordinating other vendors is work too: name where the contract ends, price the extra, and offer the in-house route."
   }
  ]
 }

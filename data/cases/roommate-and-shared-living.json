@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -218,6 +218,13 @@
    "reply": "小陈，跟你商量个网络的小事哈。我工作日在家上班，上午10点有视频会，最近老是卡，白天下载大游戏、看4K视频的时候网速基本被占满了。要不这样：工作日9点到18点，大文件下载放到晚上；或者咱们把宽带升到500M，每月多出的50元我出30，你出20。你看哪种合适？有更好的办法也可以说。",
    "lang": "zh",
    "note": "网速是两个人共用的东西：说清对自己工作的影响，带两个方案，升级的话自己多出一点，讨论就不会变成指责。"
+  },
+  {
+   "id": "roommate-and-shared-living-032",
+   "situation": "Je partage un appart à Lyon avec Camille. Elle emprunte mes vêtements sans demander : mon manteau beige la semaine dernière, et ma robe verte est revenue avec une tache de vin. On s'entend bien et je veux bien lui prêter si elle me demande avant par message ; j'aimerais qu'elle fasse nettoyer la robe avant le samedi 10 octobre, je la porte à un mariage.",
+   "reply": "Hello Camille, petite chose sur les fringues ! Mon manteau beige et ma robe verte ont fait des sorties sans moi ces derniers temps, et la robe est revenue avec une tache de vin. Je te prête avec plaisir, envoie-moi juste un message avant. Pour la robe, tu peux la faire nettoyer d'ici le samedi 10 octobre ? Je la porte à un mariage. Si tu vois une autre façon de faire, dis-moi.",
+   "lang": "fr",
+   "note": "Un seul sujet, raconté comme un fait, avec une règle simple (demander avant) et une demande précise pour la robe."
   }
  ]
 }
