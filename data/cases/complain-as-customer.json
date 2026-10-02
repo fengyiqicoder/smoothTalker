@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -225,6 +225,13 @@
    "reply": "Bonjour,\nMerci d'avoir accepté de remplacer le home-trainer de la commande VR-40922 du 8 septembre (329 €), tombé en panne le 27 septembre avec le message ERR 5, moins de trois semaines après l'achat. Le renvoyer à mes frais me coûterait 68 € pour un colis de 21 kg. Je vous demande donc d'organiser l'enlèvement à votre charge, ou de m'envoyer une étiquette de retour prépayée. Pouvez-vous me confirmer la solution d'ici le vendredi 9 octobre ?\nMerci,\nCamille Roux, camille.roux@example.com",
    "lang": "fr",
    "note": "On prend acte de ce qui est acquis, puis une seule demande sur le point restant ; qui paie le retour d'un produit en panne dépend des conditions de vente et de la garantie, à vérifier avant d'envoyer."
+  },
+  {
+   "id": "complain-as-customer-033",
+   "situation": "I'm Laura Bennett (laura.bennett@example.com). I ordered an $85 bouquet of white roses from Petal Lane, order PL-30419, for my mum Joan's 60th birthday; she lives in another city, and it was delivered to her yesterday, Thursday 1 October, with most of the roses wilted and brown at the edges. She sent me photos. Her birthday party is on Saturday 10 October, and I'd like a fresh bouquet delivered to her on Friday 9 October.",
+   "reply": "Hi,\nOrder PL-30419: the white rose bouquet ($85) I sent to my mum, Joan, for her 60th birthday was delivered yesterday, Thursday 1 October, with most of the roses wilted and brown at the edges (her photos attached). Her birthday party is on Saturday 10 October, so I'd like a fresh bouquet delivered to her at the same address on Friday 9 October. Could you confirm by Tuesday 6 October?\nThanks,\nLaura Bennett, laura.bennett@example.com",
+   "lang": "en",
+   "note": "When the order went to someone else, ask for the fix that still saves the occasion, with the dates, rather than only a refund."
   }
  ]
 }

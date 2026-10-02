@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -225,6 +225,13 @@
    "reply": "Assunto: Aprovação necessária até quarta, 7 de outubro: versão 2.3 do app Bem Viver\nOlá, Rogério, a Inês está de licença até 19 de outubro e a resposta automática dela não indica substituto, por isso escrevo diretamente a você; ela está em cópia para ver isto quando voltar. Enviei a ela o relatório de testes da versão 2.3 em 28 de setembro e ainda falta a aprovação do teste de aceitação. Para publicar o app antes da campanha de 15 de outubro, preciso dessa aprovação até quarta-feira, 7 de outubro. Você pode aprovar ou indicar quem responde pelo projeto enquanto ela está fora? Minha sugestão é indicar alguém para validar o relatório, que já está pronto.\nObrigada,\nCarla Mendes",
    "lang": "pt",
    "note": "Quando não dá para avisar a pessoa antes, diga por quê e deixe-a em cópia; o pedido é uma decisão ou um nome, não uma reclamação."
+  },
+  {
+   "id": "escalate-an-issue-033",
+   "situation": "我叫吴婷。9月25日在购物平台上的“清风家电旗舰店”买了一台1899元的空气净化器，订单号20260925-7731，到货时外壳就是裂的，我有完整的开箱视频。店铺客服9月26日同意退货，我9月27日寄回，对方9月30日签收后却说是“人为损坏”，拒绝退款。我已经在聊天里跟店铺客服说了会申请平台介入，现在要写申请说明。",
+   "reply": "您好，我申请平台介入订单20260925-7731（清风家电旗舰店，空气净化器，1899元）。9月25日下单，到货时外壳已开裂，我有完整的开箱视频。9月26日店铺客服同意退货，我9月27日寄回，商家9月30日签收后以“人为损坏”为由拒绝退款。我已在聊天中告知店铺客服会申请平台介入。开箱视频和聊天记录截图附后。请平台核实后支持全额退款1899元，并告知处理时限。谢谢。\n吴婷",
+   "lang": "zh",
+   "note": "向平台申诉也按升级的写法：订单号、日期、证据和一个请求；具体规则和时限以平台说明为准，开箱视频原件别删。"
   }
  ]
 }

@@ -4,10 +4,10 @@
  "cases": [
   {
    "id": "follow-up-unanswered-001",
-   "situation": "I've emailed Ruth, who owns a local bookstore called Chapter House, twice about hosting a reading of my novel. No reply in 3 weeks. Want to send one last email.",
-   "reply": "Hi Ruth, last nudge from me on the reading. I'll assume the timing isn't right and stop filling your inbox, but if a slot opens up in the new year, I'd still love to do it at Chapter House. Thanks, Nadia",
+   "situation": "I'm Nadia. I've emailed Ruth, who owns a local bookstore called Chapter House, twice about hosting a reading of my novel, with no reply in 3 weeks. Before I let it go, I want to leave one short voicemail on the shop's phone. My number is 07700 900456.",
+   "reply": "Hi Ruth, this is Nadia. I emailed a couple of times about doing a reading of my novel at Chapter House, and I know the shop keeps you busy, so I thought a call might be easier. Is it something you'd consider? A quick yes or no is plenty. I'm on 07700 900456. Thanks.",
    "lang": "en",
-   "note": "Third and final bump: close the loop yourself, and don't send a fourth."
+   "note": "Switching channel once is fine when email gets nothing: name and number, one question, and treat it as the last nudge."
   },
   {
    "id": "follow-up-unanswered-002",
@@ -25,7 +25,7 @@
   },
   {
    "id": "follow-up-unanswered-004",
-   "situation": "My former professor, Dr. Hayes, agreed on Sept 8 to write me a recommendation for the Urban Planning MA at Northfield; I took her seminar and did two projects in it. The deadline is Oct 15 and the portal still shows it as not submitted. I already resent the link once on Sept 15.",
+   "situation": "I'm Sofia. My former professor, Dr. Hayes, agreed on Sept 8 to write me a recommendation for the Urban Planning MA at Northfield; I took her seminar and did two projects in it. The deadline is Oct 15 and the portal still shows it as not submitted. I already resent the link once on Sept 15.",
    "reply": "Hi Dr. Hayes,\nI know the start of term is hectic. A quick note on the recommendation for the Urban Planning MA at Northfield: the portal still shows it as pending, and the deadline is Thursday 15 October. I've pasted the upload link below so you don't have to dig for it. If a short list of the projects I did in your seminar would save you time, I can send it today.\nThank you again,\nSofia",
    "lang": "en",
    "note": "Assume busy, restate the thing and the date in one line, and make doing it easier than postponing it. Don't ask whether they're still willing."
@@ -53,15 +53,15 @@
   },
   {
    "id": "follow-up-unanswered-008",
-   "situation": "Ich bin am 31. Juli aus meiner Wohnung in der Kochstraße 14, 2. OG links, in Leipzig ausgezogen, die Übergabe war ohne Mängel. Am 1. September habe ich die Hausverwaltung, Frau Krüger, per Mail nach meiner Kaution von 1.650 Euro gefragt, mit meiner IBAN in der Mail, und nie eine Antwort bekommen. Ich will nachhaken, ohne unfreundlich zu wirken.",
-   "reply": "Sehr geehrte Frau Krüger,\nich weiß, dass bei Ihnen gerade viel los ist, und melde mich noch einmal wegen meiner Mietkaution für die Wohnung Kochstraße 14, 2. OG links. Die Übergabe war am 31. Juli ohne Mängel, die Kaution beträgt 1.650 Euro. Könnten Sie mir kurz sagen, bis wann ich mit der Rückzahlung rechnen kann? Ein ungefähres Datum reicht mir völlig, damit ich planen kann. Meine IBAN steht in der Mail vom 1. September, ich schicke sie aber gern noch einmal.\nMit freundlichen Grüßen\nTobias Lange",
+   "situation": "Ich bin Tobias Lange und am 15. September in die Kochstraße 14, 2. OG links, in Leipzig eingezogen. Für die Anmeldung beim Bürgeramt brauche ich die Wohnungsgeberbestätigung; am 18. September habe ich die Hausverwaltung, Frau Krüger, per Mail darum gebeten und keine Antwort bekommen. Mein Termin beim Bürgeramt ist am Donnerstag, 15. Oktober.",
+   "reply": "Sehr geehrte Frau Krüger,\nich weiß, dass bei Ihnen gerade viel los ist, und melde mich noch einmal wegen der Wohnungsgeberbestätigung für meine Wohnung Kochstraße 14, 2. OG links, in die ich am 15. September eingezogen bin. Mein Termin beim Bürgeramt ist am Donnerstag, 15. Oktober. Könnten Sie mir die Bestätigung bis dahin per Mail schicken? Ein kurzer Hinweis, bis wann es klappt, hilft mir auch schon.\nMit freundlichen Grüßen\nTobias Lange",
    "lang": "de",
-   "note": "Zweiter Anstoß: das Anliegen in einer Zeile und eine winzige Antwort (ein Datum). Vermieter behalten oft einen Teil bis zur Nebenkostenabrechnung ein; was gilt, im Mietvertrag oder bei einer Mieterberatung prüfen. Deshalb nach einem Datum fragen statt sofortige Zahlung fordern."
+   "note": "Erster Anstoß an eine Verwaltung: das Anliegen in einer Zeile, der echte Termin als Grund für die Frist und eine kleine Antwort (ein Datum) als Ausweg."
   },
   {
    "id": "follow-up-unanswered-009",
-   "situation": "我在做季度经营分析，一周前在钉钉上找财务部的小陈要三季度各区域的退款数据，三天前又提醒过一次，都没回。报告10月12日周一要交。",
-   "reply": "小陈，知道季度末你们财务最忙。还是三季度各区域退款数据的事，我的报告10月12日要交，如果明天下班前能给我就能赶上；来不及的话，给我一个大概时间也行，我好排进度。实在排不开也没关系，告诉我找谁拿更方便。",
+   "situation": "我在做季度经营分析，一周前在钉钉上找财务部的小陈要三季度各区域的退款数据，三天前又提醒过一次，都没回。报告10月12日周一要交，最好10月9日周五前拿到数据。",
+   "reply": "小陈，知道季度末你们财务最忙。还是三季度各区域退款数据的事，我的报告10月12日要交，如果10月9日周五前能给我就能赶上；来不及的话，给我一个大概时间也行，我好排进度。实在排不开也没关系，告诉我找谁拿更方便。",
    "lang": "zh",
    "note": "第二次提醒：先替对方想到忙，一句话说清要什么，截止时间是为了排期，再留一个体面的出口。"
   },
@@ -74,8 +74,8 @@
   },
   {
    "id": "follow-up-unanswered-011",
-   "situation": "Six days ago I emailed Maple Hall, a community venue, asking if Saturday 14 November is free for my daughter's 10th birthday party, 1pm to 4pm. No reply yet, and I'd like to send invitations next week.",
-   "reply": "Hi, bumping this in case it got buried: is the main hall free on Saturday 14 November, 1pm to 4pm, for a children's birthday party? A quick yes or no is all I need for now, and I can sort the booking details after. Thanks, Laura",
+   "situation": "I'm Laura. Six days ago I emailed Maple Hall, a community venue, asking if Saturday 14 November is free for my daughter's 10th birthday party, 1pm to 4pm. No reply yet, and I'd like to send invitations next week.",
+   "reply": "Hi, bumping this in case it got buried: is the hall free on Saturday 14 November, 1pm to 4pm, for a children's birthday party? A quick yes or no is all I need for now, and I can sort the booking details after. Thanks, Laura",
    "lang": "en",
    "note": "First bump to a busy inbox: lightest touch, the whole question in one line, and a yes or no is enough."
   },
@@ -96,14 +96,14 @@
   {
    "id": "follow-up-unanswered-014",
    "situation": "In my review on Sept 3, my manager Karen said she'd put me forward for the senior analyst promotion and get back to me 'in a couple of weeks'. It's been four weeks and I mentioned it once in passing on the 17th. I led the Q3 pricing work. I don't want to seem pushy with my own boss. Slack DM.",
-   "reply": "Hi Karen, I know quarter-end is busy. A quick one on the senior analyst promotion we talked about in my review on 3 September: is there an update, or a rough date when you expect to hear? Even 'still in progress' is useful. If it would help, I can put together a one-page summary of my Q3 pricing work by Friday.",
+   "reply": "Hi Karen, I know quarter-end is busy. A quick one on the senior analyst promotion we talked about in my review on 3 September: is there an update, or a rough date when you expect to hear? Even 'still in progress' is useful. If it would help, I can put together a one-page summary of my Q3 pricing work by Wednesday 7 October.",
    "lang": "en",
    "note": "With your own manager, ask about timing rather than commitment, and offer something that makes her case easier to push through."
   },
   {
    "id": "follow-up-unanswered-015",
-   "situation": "The heating in my flat stopped working on Sept 21. I texted my landlord, Mr. Doyle, about my flat at 12 Carlow Road that day and he said he'd send someone 'this week'. Nobody came, I nudged on Sept 26 and got no reply. Nights are dropping to about 4°C. I'm home Friday and Monday, and my neighbour at number 14 can hold a key.",
-   "reply": "Hi Mr. Doyle, I know you've got a lot on. Following up on the heating at 12 Carlow Road, which has been off since 21 September; nights are getting close to freezing now. Could you let me know which day your engineer can come? I'm home all day Friday and Monday, or I can leave a key with the neighbour at number 14.",
+   "situation": "The heating in my flat stopped working on Sept 21. I texted my landlord, Mr. Doyle, about my flat at 12 Carlow Road that day and he said he'd send someone 'this week'. Nobody came, I nudged on Sept 26 and got no reply. Nights are dropping to about 4°C. I'm home Monday 5 and Tuesday 6 October, and my neighbour at number 14 can hold a key.",
+   "reply": "Hi Mr. Doyle, I know you've got a lot on. Following up on the heating at 12 Carlow Road, which has been off since 21 September; nights are getting close to freezing now. Could you let me know which day your engineer can come? I'm home all day Monday 5 and Tuesday 6 October, or I can leave a key with the neighbour at number 14.",
    "lang": "en",
    "note": "Second bump: the date it started, a one-word reply (a day), and access made easy. Keep the texts; if this gets nothing, check your lease and local tenant advice on repairs."
   },
@@ -117,14 +117,14 @@
   {
    "id": "follow-up-unanswered-017",
    "situation": "我是儿子班上的家委会成员。9月23日在家长群发了放学护导的接龙：10月9日起每周五下午3:30到4:00在校门口，一共要排12位家长，到现在只有2位接了。排班表得在10月7日前交给班主任。",
-   "reply": "各位家长好，知道这阵子大家都忙，国庆前再提一下护导接龙。10月9日起每周五下午3:30到4:00，在校门口站半小时就行。方便的直接在接龙里填名字和想排的日期；这学期排不开的，私信我一句“不行”也很有帮助。我10月7日前要把排班表交给班主任，谢谢大家！",
+   "reply": "各位家长好，知道这阵子大家都忙，趁国庆假期再提一下护导接龙。10月9日起每周五下午3:30到4:00，在校门口站半小时就行。方便的直接在接龙里填名字和想排的日期；这学期排不开的，私信我一句“不行”也很有帮助。我10月7日前要把排班表交给班主任，谢谢大家！",
    "lang": "zh",
    "note": "群里跟进不点名、不数谁没接，给“不行”留个出口，比催促更能让人动。"
   },
   {
    "id": "follow-up-unanswered-018",
-   "situation": "Last Thursday I asked my brother Kieran on WhatsApp whether he can drive Dad to his eye appointment on Wednesday Oct 14 at 2pm, because I'm working that day. He read it and hasn't replied. If I don't know by Friday, I'll book Dad a taxi instead.",
-   "reply": "Hey Kieran, I know work's full on right now. Can you take Dad to his eye appointment on Wednesday 14 October at 2pm? A yes or no is all I need. If I haven't heard by Friday, I'll book him a taxi, no hard feelings either way.",
+   "situation": "Last Thursday I asked my brother Kieran on WhatsApp whether he can drive Dad to his eye appointment on Wednesday Oct 14 at 2pm, because I'm working that day. He read it and hasn't replied. If I don't know by Friday Oct 9, I'll book Dad a taxi instead.",
+   "reply": "Hey Kieran, I know work's full on right now. Can you take Dad to his eye appointment on Wednesday 14 October at 2pm? A yes or no is all I need. If I haven't heard by Friday 9 October, I'll book him a taxi, no hard feelings either way.",
    "lang": "en",
    "note": "Between siblings, skip the guilt about who does more: one line, a yes or no, and the fallback said out loud so silence still gets Dad there."
   },
@@ -144,7 +144,7 @@
   },
   {
    "id": "follow-up-unanswered-021",
-   "situation": "My accountant, Helen, said on Sept 10 she'd send my draft self-employed accounts by Sept 18. I emailed on Sept 22 asking for an update and heard nothing. She told me the filing deadline is Oct 31, I'm away Oct 19 to 25, and I want time to review them before then.",
+   "situation": "I'm Sam. My accountant, Helen, said on Sept 10 she'd send my draft self-employed accounts by Sept 18. I emailed on Sept 22 asking for an update and heard nothing. She told me the filing deadline is Oct 31, I'm away Oct 19 to 25, and I want time to review them before then.",
    "reply": "Hi Helen, I know this is a busy season for you. Following up on my draft accounts, which we'd planned for 18 September. Could you let me know roughly when they'll be ready? I'm away 19 to 25 October, so having them by Friday 16 October would give me time to go through them before the 31 October deadline. Even a rough date helps me plan.\nThanks,\nSam",
    "lang": "en",
    "note": "Second bump to someone you pay: the date you need is about your planning, and a rough date is enough of a reply."
@@ -154,11 +154,11 @@
    "situation": "Minha irmã Carla precisa assinar a procuração para vendermos o apartamento da nossa mãe. Mandei o documento por WhatsApp em 15 de setembro e lembrei em 23 de setembro; ela visualizou e não respondeu. O cartório marcou para 14 de outubro e preciso da procuração assinada até 9 de outubro.",
    "reply": "Oi, Carla, sei que essas semanas andam corridas. Sobre a procuração do apartamento da mamãe: o cartório marcou para 14 de outubro, então preciso dela assinada até sexta, 9 de outubro. Dá para você assinar até lá? Se tiver alguma dúvida sobre o documento ou preferir conversar antes de assinar, me fala, sem problema nenhum.",
    "lang": "pt",
-   "note": "Silence from family on paperwork can be hesitation, not busyness; the offer to talk gives her a way to say so."
+   "note": "O silêncio da família sobre papelada pode ser hesitação, não falta de tempo; oferecer uma conversa dá a ela um jeito de dizer isso."
   },
   {
    "id": "follow-up-unanswered-023",
-   "situation": "We fly to Porto and land at 11pm on Saturday 10 October, so we'd reach our rental flat around midnight. Five days ago I asked the host, Ana, through the booking app whether self check-in works that late; she's read it but not replied. If it doesn't, we'll book a hotel for the first night, and I'd like to sort it this week.",
+   "situation": "We fly to Porto and land at 11pm on Saturday 10 October, so we'd reach our rental flat around midnight. Five days ago I asked the host, Ana, through the booking app whether self check-in works that late; she's read it but not replied. If it doesn't, we'll book a hotel for the first night, and I'd like it sorted by Tuesday 6 October.",
    "reply": "Hi Ana, I know you get a lot of messages, so re-asking in one line: we land at 11pm on Saturday 10 October and would reach the flat around midnight. Is self check-in possible that late? A quick yes or no is perfect; if it's a no, we'll book a hotel for the first night, so either answer helps.",
    "lang": "en",
    "note": "Restate the question so she doesn't scroll, and say a no is useful so it's easy to answer."
@@ -217,7 +217,7 @@
    "situation": "我9月15日从上家公司离职，新公司要我10月12日入职前交离职证明，说扫描件也行。9月21日和9月27日我在微信上问了前公司的HR林姐，她都没回。",
    "reply": "林姐好，再打扰一下。我的离职证明新公司要求10月12日入职前交，扫描件就可以。您方便告诉我大概哪天能开吗？如果需要我补什么材料，说一声我马上发。",
    "lang": "zh",
-   "note": "第三次跟进，只问一个日期；还没回就换渠道，打人事部座机或请原部门领导帮忙问。"
+   "note": "第二次跟进，只问一个日期；还没回就换渠道，打人事部座机或请原部门领导帮忙问。"
   },
   {
    "id": "follow-up-unanswered-032",

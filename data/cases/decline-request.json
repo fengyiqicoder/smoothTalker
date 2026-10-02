@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "decline-request-001",
@@ -225,6 +225,13 @@
    "reply": "I get it, Dom, £900 is a lot for a fridge. I can't use my staff discount for you; it's only for staff and immediate family, and I stick to that. Our store-wide sale starts on Monday 12 October and it's open to everyone, so it might be worth waiting for. Happy fridge hunting!",
    "lang": "en",
    "note": "The employer's rule is the one reason, so there's nothing to negotiate; the sale date is a real smaller yes that doesn't bend it."
+  },
+  {
+   "id": "decline-request-033",
+   "situation": "I'm 16. My friend Zoe asked me on Snapchat if she can copy my chemistry lab report, due Tuesday 6 October, because she's behind. I don't share my written work with anyone, but I'm happy to go through the method with her at lunch on Monday.",
+   "reply": "I get it, that report is a lot. I'm not going to send you mine; I don't share my written work with anyone. I can go through the method with you at lunch on Monday, though, if that helps you get yours done by Tuesday.",
+   "lang": "en",
+   "note": "Same shape at 16: a rule about your own work, no lecture about cheating, and a smaller yes you actually mean."
   }
  ]
 }

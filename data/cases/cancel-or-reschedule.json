@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -225,6 +225,13 @@
    "reply": "林先生您好，周日10月4日下午3点的见面我得改个时间，公司刚通知我那天要去天津陪客户，推不掉。临时变动，真不好意思。改到10月11日（周日）下午或者10月17日（周六）下午，您看哪个方便？地点还是国贸那家咖啡馆。王阿姨那边我也会跟她说一声。",
    "lang": "zh",
    "note": "经人介绍的见面也自己直接改期，别让介绍人传话；两个具体时间说明不是不想见。"
+  },
+  {
+   "id": "cancel-or-reschedule-033",
+   "situation": "I promised my 12-year-old daughter Maddie we'd go to the climbing gym this Saturday, 3 October, just the two of us. Work has just sent me to a trade show on Friday and Saturday and I can't get out of it. Her mum has agreed I can take her on Sunday afternoon instead, or we can go on Saturday 17 October, my next weekend with her.",
+   "reply": "Maddie, I have to change our climbing plan for Saturday: work is sending me to a trade show and I can't get out of it. I'm really sorry, I know you've been looking forward to it, and so have I. Mum says I can pick you up on Sunday afternoon instead, or we can go on Saturday 17 October. You choose, and milkshakes after are on me.",
+   "lang": "en",
+   "note": "With your own kid the shape is the same: the change first, one true reason, and a choice that hands them some control back."
   }
  ]
 }

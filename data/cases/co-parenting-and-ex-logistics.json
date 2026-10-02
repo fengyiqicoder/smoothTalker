@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -225,6 +225,13 @@
    "reply": "Hi Simon, a quick one about Hazel's things. Her winter coat and two school jumpers are at yours, and on Tuesday she went to school without a coat. Could you send them back in her bag at Sunday's handover? To stop things getting stuck at one house, I'll buy a second set of uniform so we each keep one. Does that work for you? Thanks.",
    "lang": "en",
    "note": "Belongings without blame: where the things are, a fix that costs him nothing, and a yes-or-no question."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-033",
+   "situation": "Our daughter Ruby (12) has been having panic attacks before school since September, and her GP referred her to a child counsellor, Dr. Anita Shah, at the Elmwood Family Clinic. The first appointment is Tuesday 13 October at 4pm, then weekly on Tuesdays, and I can take her. The clinic needs consent from both parents by Friday 9 October, and my ex, Marcus, and I share decisions about her health.",
+   "reply": "Hi Marcus, one thing about Ruby. She's been having panic attacks before school since September, and her GP has referred her to a child counsellor, Dr. Anita Shah, at the Elmwood Family Clinic. The first appointment is Tuesday 13 October at 4pm, then weekly on Tuesdays, and I can take her. The clinic needs consent from both of us by Friday 9 October. Could you let me know by Wednesday 7 October if you're okay to sign? Thanks.",
+   "lang": "en",
+   "note": "A health decision goes in writing as facts plus one yes-or-no question, with no theories about the cause. If Ruby ever talks about hurting herself, contact emergency services or a crisis line straight away."
   }
  ]
 }

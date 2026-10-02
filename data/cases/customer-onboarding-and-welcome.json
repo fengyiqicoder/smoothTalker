@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -225,6 +225,13 @@
    "reply": "Hi Nadia, thanks for trying Tallybook. I'm Leo, one of the founders. Your trial runs until Thursday 15 October, no card needed, and nothing is charged unless you choose a plan. The quickest way to see if it fits is to send your first invoice in the next day or two; if your clients are in a spreadsheet, the 'Import clients' button brings them in from a CSV. One question, if you have a second: what kind of work do you mostly invoice for? Reply here any time and you'll get me; I answer within a day. Leo",
    "lang": "en",
    "note": "For a self-serve trial, the end date and 'no card' up front remove the fear of a surprise charge; then one small action, one question and a real person."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-033",
+   "situation": "I'm Nadia and I run Loft 22, a coworking space. Ben Carter's three-person design studio just signed up for three fixed desks, 14 to 16, starting Monday 12 October, and I'll meet them at 9am that day to hand over key fobs and show them round. By Wednesday 7 October I need the full name and email of each of the three, to set up fobs and wifi logins. I reply to texts on 07700 900318 within a few hours on weekdays; coffee in the kitchen is free and the quiet room can be booked at the front desk.",
+   "reply": "Hi Ben, thanks for choosing Loft 22 for the studio, we're glad to have you. Desks 14 to 16 are yours from Monday 12 October, and I'll meet you at 9am that day to hand over key fobs and show you round. So the fobs and wifi logins are ready, could you send me the full name and email of each of the three of you by Wednesday 7 October? Any questions, reply here or text me on 07700 900318; I usually reply within a few hours on weekdays. One tip: coffee in the kitchen is free, and the quiet room can be booked at the front desk. Nadia",
+   "lang": "en",
+   "note": "When a team signs up, one person buys and several people use it: ask the buyer for everyone's details in one list, with the reason."
   }
  ]
 }

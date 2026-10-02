@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -225,6 +225,13 @@
    "reply": "Okay, I won't push. Taking the £400 from our holiday savings without asking was wrong, and 'it's my money too' made it worse; I'm sorry. I get that it felt like I went behind your back on something we were saving for together. I'm free Sunday evening if you'd like to talk then, and if you need longer, that's okay too.",
    "lang": "en",
    "note": "When they ask for the pause, give it: own your part, offer a time they can take or leave, then actually wait."
+  },
+  {
+   "id": "de-escalate-argument-033",
+   "situation": "Mon compagnon Antoine a reçu une offre de poste à Montréal et on se dispute par SMS depuis ce matin. Je lui ai écrit « tu ne penses qu'à ta carrière », et il m'a répondu que je ne l'écoute jamais quand il parle de son travail. Il rentre vers 19h et je veux calmer les choses d'ici là.",
+   "reply": "Antoine, on s'emballe tous les deux et je ne veux pas continuer par SMS. « Tu ne penses qu'à ta carrière », c'était injuste, pardon. J'entends que tu as l'impression que je ne t'écoute pas quand tu parles de ton travail. On en parle ce soir quand tu rentres vers 19h ? Montréal ou pas, on décidera ça à deux.",
+   "lang": "fr",
+   "note": "On retire la phrase qui a blessé sans trancher Montréal par SMS ; la vraie discussion attend ce soir."
   }
  ]
 }

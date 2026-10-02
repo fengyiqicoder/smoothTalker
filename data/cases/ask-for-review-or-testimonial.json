@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -225,6 +225,13 @@
    "reply": "Really glad to hear it, Ollie, enjoy it! If you get a minute, a quick rating from the order page on Swapnest would help me a lot. I'm new on there with zero ratings so far, and that's how buyers decide whether to trust a seller. A line is plenty. Thanks either way.",
    "lang": "en",
    "note": "A private seller asks the same way a shop does: right after the good news, one place, how short it is, and a real out."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-033",
+   "situation": "我开了一家少儿美术工作室“小画笔”。学生乐乐学了一学期，她妈妈周姐今天微信说乐乐现在每天回家都要画画。我们有个推荐活动：朋友介绍来报名正式课，双方孩子各送一节课。想请周姐推荐给身边的家长，但不想像在推销。",
+   "reply": "周姐，谢谢您告诉我！听到乐乐天天在家画画，我们老师都特别开心。想跟您提个小请求：身边如果有家长也在给孩子找美术课，方便的话把我的微信推给他们就行。顺便说一下，我们有个推荐活动，朋友报名正式课的话，乐乐和对方孩子各送一节课，您跟朋友直说就好。没有合适的也完全没关系，谢谢您一直支持我们。",
+   "lang": "zh",
+   "note": "推荐奖励要摆在明处，让被推荐的家长也知道；奖励只跟推荐挂钩，不跟评价挂钩。"
   }
  ]
 }

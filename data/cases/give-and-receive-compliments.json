@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -224,6 +224,13 @@
    "reply": "Dear Mr and Mrs Haddad,\nI wanted to share something lovely from today. At lunch, Amir noticed that our new pupil, Lily, was sitting on her own, and he went over all by himself and spent the whole break teaching her the playground clapping game. It was such a kind thing to do, and it made my day. You should be very proud of him.\nBest wishes,\nMs Clarke",
    "lang": "en",
    "note": "A note home with no 'but' and no ask: the specific act and its effect, so it gets read out at the dinner table."
+  },
+  {
+   "id": "give-and-receive-compliments-033",
+   "situation": "My 16-year-old daughter Mia, who's rarely mushy, texted me after I spoke at her school's careers day: 'ngl you were actually the best one, my friends said you were cool'. I was nervous about embarrassing her in front of her friends, and I usually joke these things away.",
+   "reply": "Thank you, Mia, that genuinely made my day. I was nervous about embarrassing you in front of your friends, so I'm really glad it went well.",
+   "lang": "en",
+   "note": "Receiving praise from your teenager: accept it plainly, with no joke and no fuss, so she feels safe saying it again."
   }
  ]
 }

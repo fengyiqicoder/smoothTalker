@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -225,6 +225,13 @@
    "reply": "Hi Rick, thanks for the offer, that's kind, but I'll need the invoice paid in money rather than a membership. Invoice #0904 for $1,100 was due on 20 September, and the bank details are on the attached copy. Could you pay by Friday 9 October? If it's easier on cash flow, I can take $550 by 9 October and $550 by 30 October, confirmed in writing.",
    "lang": "en",
    "note": "An offer to pay in kind is a polite no to the invoice: decline it once, warmly, and restate amount, date and how to pay."
+  },
+  {
+   "id": "chase-late-payment-033",
+   "situation": "I'm Tariq, a freelance video editor. On 20 August my client Joelle agreed by email to pay invoice #0731 ($3,600) in three instalments of $1,200, on 31 August, 30 September and 31 October; the same email says that if an instalment is more than seven days late, the remaining balance becomes due at once. The first one arrived; the 30 September one hasn't.",
+   "reply": "Hi Joelle,\nThe second instalment of $1,200 for invoice #0731, due on Wednesday 30 September under the plan we agreed on 20 August, hasn't arrived yet. Could you send it by Wednesday 7 October? Under that plan, if an instalment is more than seven days late, the remaining $2,400 becomes due at once, and I'd much rather we kept to the schedule. If something has changed on your side, tell me today and we can talk it through. Bank details are on the attached invoice.\nThanks,\nTariq",
+   "lang": "en",
+   "note": "A missed instalment gets a reply within days: the plan's own terms, one date, and an open door before the consequence applies."
   }
  ]
 }

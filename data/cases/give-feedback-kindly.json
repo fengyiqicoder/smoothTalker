@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -225,6 +225,13 @@
    "reply": "Hey Hannah, no need to reply to any of my thoughts on the vows. Just missing you this week. Still on for yoga on Thursday?",
    "lang": "en",
    "note": "Don't retract the point or add to it; one warm line about the friendship, and let her bring the vows back up if she wants."
+  },
+  {
+   "id": "give-feedback-kindly-033",
+   "situation": "弟弟小凯打算10月17日周六向女朋友求婚，今晚把求婚词念给我听，问我真实意见。开头讲他们第一次在雨天的公交站认识那段特别打动我，但后面一大半都是“以后我一定买大房子、让你过上好日子”，听着像在写保证书。",
+   "reply": "小凯，雨天在公交站认识那段我听得鼻子都酸了，那是只有你们俩才有的故事。我听着有点出戏的是后面那一大段“买大房子、过上好日子”，越往后越像保证书，反而没那么像你了。要不把那段缩成一句，多讲一两件你们在一起的小事，像公交站那样？离17号还有两个星期，我是真觉得这段求婚词能让她记一辈子。",
+   "lang": "zh",
+   "note": "只提一个点，用“我听着”说感受；求婚词是他的，改不改由他定。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -225,6 +225,13 @@
    "reply": "Guten Tag Herr Vogel, Ihr Beitrag im Forum hat mich sofort gepackt: Sie sind am 9. Oktober 1989 auf dem Ring mitgelaufen und haben Ihr selbst gemaltes Plakat bis heute aufgehoben. Ich studiere Geschichte in Leipzig und schreibe meine Bachelorarbeit über die Montagsdemonstrationen. Hätten Sie Lust auf ein Gespräch von etwa 30 Minuten, am Telefon oder in einem Café? Die Fragen schicke ich Ihnen gern vorher, und wenn es Ihnen nicht passt, ist das völlig in Ordnung.",
    "lang": "de",
    "note": "Ein konkretes Detail aus seinem Beitrag, ein Satz über Sie, dann eine kleine, klar begrenzte Bitte mit einem leichten Nein."
+  },
+  {
+   "id": "first-message-to-stranger-033",
+   "situation": "I'm a night-shift nurse in Glasgow. I just finished Ruth Okonkwo's novel The Night Ward, and the scene where the nurse writes the 4am handover on her own arm in biro is exactly what I've done on bad nights. Her website has a contact form, and I want to write to her without expecting a reply.",
+   "reply": "Dear Ruth, I'm a night-shift nurse in Glasgow, and I've just finished The Night Ward. The scene where she writes the 4am handover on her arm in biro stopped me, because I've done exactly that on bad nights and never seen it in a book before. Thank you for getting the small hours so right. No need to reply; I just wanted you to know it reached someone who's lived it.",
+   "lang": "en",
+   "note": "To someone you admire with nothing to ask: one specific moment, one clause about you that connects to it, and a clear release from replying."
   }
  ]
 }

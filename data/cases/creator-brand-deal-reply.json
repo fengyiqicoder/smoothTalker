@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -224,6 +224,13 @@
    "reply": "Hi Rhea, thanks for being upfront about the numbers, and I understand 12,000 views is below what we both hoped for. Our contract was a flat fee with no view guarantee, so a free second reel isn't something I can do. What I can add at no extra cost is a story set of three resharing the reel, labelled as a paid partnership like the original, and I'll send you the reel's full insights today. If you'd like a second reel, it would be my usual $1,000. Would the story set help?",
    "lang": "en",
    "note": "A post that underperforms is not a breach: point to the flat fee once, offer a small goodwill extra with the same disclosure, and price any new work."
+  },
+  {
+   "id": "creator-brand-deal-reply-033",
+   "situation": "我写一个家居改造的微信公众号，去年给一个灯具品牌报的是平均每篇阅读2万，今年改版后降到1.2万左右。现在他们的对接人小陈又来约稿，准备按去年的数字下单。我现在一篇软文报价6000元，是按1.2万的阅读定的，文章会标注“广告”，可以发近三个月的后台截图。",
+   "reply": "小陈你好，谢谢你们又想到我。先把数据说准：去年报给你们的平均2万是去年的水平，今年改版后平均每篇阅读在1.2万左右，近三个月的后台截图我今天发你。按现在的阅读，一篇软文6000元，文章会标注“广告”。你们看看这样还合适吗？",
+   "lang": "zh",
+   "note": "数据下滑时主动说清，比被品牌自己查出来更能保住合作；报价跟着真实数字走，广告标注照常。"
   }
  ]
 }

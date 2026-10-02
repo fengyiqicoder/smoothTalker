@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -225,6 +225,13 @@
    "reply": "Ollie, everyone's asking about the baby, so this one's just for you. No need to reply. I'm making a big lasagne on Sunday and could drop half round at 5; I'll hand it over at the door and go, unless you fancy ten minutes on the step. Just reply 'yes' or 'not this week', both are completely fine.",
    "lang": "en",
    "note": "New dads rarely get asked; name him, skip the advice, and if the low mood drags on, offer once to help him find support. If he talks about harming himself, call emergency services."
+  },
+  {
+   "id": "check-in-on-someone-struggling-033",
+   "situation": "My friend Aisha's flat was broken into on Monday night while she was asleep; the police have been, and she's still living there. She posted that she hasn't slept properly since. I live 15 minutes away and could stay over on Friday 9 October with my air mattress and a takeaway.",
+   "reply": "Aisha, I saw your post about Monday night and I've been thinking about you since. No need to reply properly to this. I could come and stay over on Friday 9 October, with my air mattress and a takeaway, so you're not on your own for a night. Just reply 'yes' or 'not this time', both are completely fine.",
+   "lang": "en",
+   "note": "After a break-in, company at night is the concrete help; if she ever feels unsafe, she should call emergency services, and a victim support service can help with the aftermath."
   }
  ]
 }

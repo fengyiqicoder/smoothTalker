@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -225,6 +225,13 @@
    "reply": "林姐，我的试用期10月31日到期，想约您30分钟聊聊转正，10月中旬您看哪天方便？这几个月我很喜欢这里的工作，也想长期做下去。offer里写着转正后根据考核调整薪资，所以想一起谈谈：试用期里我独立负责了两个客户的月度推文，其中一个客户续签了一年，我希望转正后月薪调到1.35万。见面时我把具体的材料带上。",
    "lang": "zh",
    "note": "转正是offer里写明的调薪节点：提前约时间，带一个数字和成果，谈完当天用微信把结论确认一遍。"
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-033",
+   "situation": "I'm a payroll specialist on $61k. I asked my manager Grace for $67k after automating our timesheet import, which saves the team about 10 hours a week, and taking over Canadian payroll permanently in March. She offered a one-off $3,000 bonus instead. I'm grateful, but the Canadian payroll is ongoing work and I want my base salary to reflect it.",
+   "reply": "Thank you, Grace, I really appreciate the bonus, and I'm happy to take it for the timesheet automation. The Canadian payroll is different, though: it's been part of my job every month since March and it isn't going away, so I think it belongs in my base salary rather than a one-off. Could we still look at moving my base from $61,000 to $67,000? If that's not possible now, what would it take, and when could we revisit it?",
+   "lang": "en",
+   "note": "A one-off bonus pays for a one-off result; ongoing scope belongs in base pay, so accept the bonus and keep the number on the table."
   }
  ]
 }

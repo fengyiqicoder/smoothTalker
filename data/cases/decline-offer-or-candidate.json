@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -225,6 +225,13 @@
    "reply": "Hi Marcus, that's fair feedback about the take-home. Our brief said three to four hours, that estimate was too low, and I'm sorry it cost you six; I'm making sure the brief gets fixed. The decision is final, and the one specific thing behind it is that your take-home didn't include tests, which this role relies on every day. Thank you for the time you put in, and I wish you the best with the search.",
    "lang": "en",
    "note": "Concede the part he's right about in one line, give one defensible reason, then hold the decision and close."
+  },
+  {
+   "id": "decline-offer-or-candidate-033",
+   "situation": "I'm hiring a junior UX designer at Fernbrook, a small app studio. Olivia Grant, a primary school teacher changing careers, applied with a cover letter about redesigning her school's parent portal. For this round we're only interviewing people who have already shipped work on a live app, and she hasn't yet; I want to send a short, personal rejection.",
+   "reply": "Hi Olivia, thank you for applying for the junior UX designer role at Fernbrook, and for your cover letter about redesigning your school's parent portal, which was a genuinely good read. We're not moving forward with your application this time. For this round we're only interviewing people who have already shipped work on a live app, which isn't a comment on your ability. I hope you find the right fit soon.",
+   "lang": "en",
+   "note": "At the application stage, one detail from her letter proves it was read, and the shortlist rule is the honest reason; no 'CV on file' unless you'll use it."
   }
  ]
 }

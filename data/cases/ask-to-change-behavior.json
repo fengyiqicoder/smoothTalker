@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -225,6 +225,13 @@
    "reply": "爸，跟你说个小事，不是说你哈。这个月你在家族群里转了七八篇养生文章，上周姑姑还真来问我降压药能不能停，我挺担心的，吃药的事还是得听医生的。以后看到健康类的文章，转到群里之前能不能先发我看一眼？我帮你查查靠不靠谱，没问题你再转。",
    "lang": "zh",
    "note": "私下说、只谈转发这一件事；涉及停药，提醒以医生意见为准，也可以单独跟姑姑说一声先问医生。"
+  },
+  {
+   "id": "ask-to-change-behavior-033",
+   "situation": "I came out as nonbinary in August and now go by Robin, with they/them pronouns. My old uni friend Sam is supportive, but still uses my old name and 'she' about half the time in our group chat, then sends a long apology each time. We're meeting for drinks on Saturday and I want to text before.",
+   "reply": "Hey Sam, small thing before Saturday, and I know you're on my side. You still slip into my old name and 'she' sometimes in the group chat, and the long apologies afterwards make it a bigger moment than it needs to be. Could you just use Robin and they, and if you slip, a quick correction and carry on? That's honestly all I need. Looking forward to Saturday.",
+   "lang": "en",
+   "note": "Ask for the behaviour and a low-key fix for slips: big apologies turn each mistake into something you have to soothe."
   }
  ]
 }

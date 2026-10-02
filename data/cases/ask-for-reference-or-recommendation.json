@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -224,6 +224,13 @@
    "reply": "刘主任您好，想请您帮个忙：我们在投市图书馆的保洁项目，标书要求两家现有客户出具一份盖章的履约证明，10月16日（周五）前要交。我们和明华小学合作三年，每学期检查都是零投诉，所以第一个就想到您。模板我们已经按标书格式拟好了，主要写合作时间和服务情况，您看过、需要改的地方直接改，没问题的话盖个章就行，我们派人上门取。如果学校盖章有流程上的困难，您直接告诉我，完全没关系。",
    "lang": "zh",
    "note": "企业之间的证明也要做成十分钟的事：说清用途和截止日期，模板准备好，盖章的流程问题给对方留出口。"
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-033",
+   "situation": "Last year Dr. Ferris, my master's supervisor, wrote my reference for the Alder Trust research fellowship; I didn't get it, and I told her at the time. I'm reapplying this cycle, deadline Friday 13 November, and the portal accepts the same letter or an updated one. Since then, my paper on river sediment modelling was accepted by a journal in July.",
+   "reply": "Hi Dr. Ferris, I'm reapplying for the Alder Trust fellowship this cycle, and I wondered if you'd be willing to support me again. The portal accepts last year's letter as it is, or an updated version, and the deadline is Friday 13 November. The one thing that's new is that my paper on river sediment modelling was accepted in July, so if you'd like to add a line about it, I can send you last year's letter and a sentence you could drop in. If you'd rather not this time, no problem at all.",
+   "lang": "en",
+   "note": "A repeat application is a smaller ask: say the old letter still works, name the one new fact, and make the update optional."
   }
  ]
 }
