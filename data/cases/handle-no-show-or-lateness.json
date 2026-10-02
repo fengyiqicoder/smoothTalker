@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -211,6 +211,13 @@
    "reply": "Dear Helen, I'm so sorry I missed our interview yesterday at 11. I wrote it down for Thursday by mistake, and that's entirely on me; you set aside time for it and I wasn't there. I'm still very keen on the role. If you're able to offer another slot, I'm free any time on Friday 2 or Monday 5 October, and I completely understand if that isn't possible. Best wishes, Priya Nair",
    "lang": "en",
    "note": "When you're the no-show in a hiring process: own the mistake in one clause, acknowledge their time, offer real availability and leave the decision with them."
+  },
+  {
+   "id": "handle-no-show-or-lateness-031",
+   "situation": "我每周三晚上组织同事打羽毛球，场地两小时120元，四个人AA每人30。老周9月16日、23日和30日都在群里报了名，到点没来也没说一声，我们三个只能轮着打，场地费也是三个人分的。他人挺好的，我想私聊跟他说：以后报了名、当天下午5点前没说不来的，30块场地费照常AA。",
+   "reply": "老周，每周三打球有你一起挺热闹的，想跟你说个小事。9月16日、23日和30日你都报了名，到点没来也没消息，我们三个只能轮着打，场地费也是三个人分的。不是怪你，就是想定个简单的规矩：以后报了名，当天下午5点前说不来就没事，没说的话那30块场地费还是照常AA。要是最近周三晚上不好排，直接跟我说，哪周想来再报就行。",
+   "lang": "zh",
+   "note": "用具体日期代替“老是”，说清你以后怎么做，再给他一个轻松退出的选项；不追问为什么。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -211,6 +211,13 @@
    "reply": "Volunteering day: Hillgate Community Pantry can host us on Wednesday 21 October or Thursday 29 October, 9am to 1pm. React with 1️⃣ or 2️⃣ by Wednesday 7 October at 5pm and I'll confirm whichever gets more votes with them on Thursday; if it's a tie, it's the 21st. It's optional, so if neither date works or you'd rather sit this one out, no need to explain.",
    "lang": "en",
    "note": "At work, keep the two options, deadline and tie-break, but make opting out as easy as voting so nobody reads it as a requirement."
+  },
+  {
+   "id": "group-chat-coordination-031",
+   "situation": "Le père de notre collègue Hélène est décédé mardi. Dans le groupe WhatsApp de l'équipe, dont Hélène ne fait pas partie, je veux proposer d'envoyer une gerbe pour les obsèques, jeudi 8 octobre, et une carte signée par tous. Le fleuriste veut la commande avant mardi 6 octobre midi ; la gerbe coûte 90 euros, soit 10 euros chacun si nous participons tous les neuf.",
+   "reply": "Bonjour à tous, comme vous le savez peut-être, le père d'Hélène est décédé mardi. Je propose qu'on envoie une gerbe pour les obsèques jeudi 8 octobre, 90 euros, soit 10 euros chacun si on participe tous, et une carte que je ferai circuler au bureau pour que chacun la signe. Un 👍 d'ici lundi soir si vous participez : je commande mardi matin et je partage le montant entre ceux qui auront répondu. Si vous préférez ne pas participer, aucun souci, dites-le-moi en privé.",
+   "lang": "fr",
+   "note": "Sujet délicat : une proposition complète, un délai, et le silence ne compte pas comme un oui."
   }
  ]
 }

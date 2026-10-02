@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -211,6 +211,13 @@
    "reply": "看完了，最想提的一点是：续约率从78%提到91%是你今年最硬的成绩，现在放在第27页，15分钟里评委可能还没看到就到时间了。我建议把它挪到前三页，前面20页做过的事压缩成一两页，只留能支撑这个结果的。你自己觉得哪几页最舍不得删？改完想再过一遍的话，发我就行。",
    "lang": "zh",
    "note": "对方主动要反馈也只挑一件最重要的事：看到了什么、有什么影响、具体怎么改，再问她的想法。"
+  },
+  {
+   "id": "give-feedback-to-colleague-031",
+   "situation": "My co-founder Leo and I run a two-person design studio. On client calls on 14 and 29 September he agreed to extra revision rounds for free, beyond the two rounds in our contracts, and the Harbor Dental job ran 11 hours over. I want to raise it with him over coffee tomorrow.",
+   "reply": "Leo, can I give you some feedback on client calls? On the 14th and again on the 29th you agreed extra revision rounds for free, beyond the two in our contracts, and Harbor Dental ended up 11 hours over. That's time neither of us gets paid for. What's your read on it? Going forward, I'd like us to quote any extra round before saying yes, and I'm happy to draft a one-line answer we can both use on calls.",
+   "lang": "en",
+   "note": "A co-founder is a peer with equal say: ask, then listen, then agree the rule together."
   }
  ]
 }

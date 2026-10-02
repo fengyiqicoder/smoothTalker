@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -211,6 +211,13 @@
    "reply": "哥、妹，今晚辛苦了，我把定下来的事理一下：\n- 哥哥：10月6日到10日请假，在医院陪护。\n- 妹妹：周末给妈做饭、送饭。\n- 我：10月8日前跟主治医生问清楚出院后的康复安排，问完发群里。\n- 费用：三家平摊。\n还没定的：出院后妈住谁家，10月10日再开一次会定。有记错的直接在群里改。",
    "lang": "zh",
    "note": "家里的会也要纪要：每件事写清谁、哪天，没定的事写明哪天再定，免得之后各说各的。"
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-031",
+   "situation": "I'm Ben. In this morning's budget meeting I told our finance director, Naomi, that the client conference would cost about £18,000. Rechecking afterwards, venue hire is £14,500 and catering £6,200, so £20,700. We agreed I'd send the final budget by Wednesday 7 October.",
+   "reply": "Hi Naomi, thanks for this morning. One correction to the figure I gave: the conference comes to £20,700, not £18,000, because venue hire is £14,500 and catering £6,200. I'll send the final budget with that breakdown by Wednesday 7 October. Let me know if the higher total changes anything before then.\nBen",
+   "lang": "en",
+   "note": "Correct a wrong number the same day, plainly and with the breakdown, before it ends up in someone else's plan."
   }
  ]
 }

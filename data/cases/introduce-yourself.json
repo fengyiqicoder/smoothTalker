@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -211,6 +211,13 @@
    "reply": "大家好，我是郑一帆，在义乌做宠物用品出口七年，主要做欧洲市场。最近在研究开美国站，那边的物流和退货怎么处理还摸不太清，有经验的朋友想请教一二；欧洲站的问题也欢迎来找我聊，知道的都分享。平时爱跑马拉松，义乌的跑友可以约起来。",
    "lang": "zh",
    "note": "同行交流群里不发广告：说清做什么、想请教什么、能分享什么，以交换代替推销。"
+  },
+  {
+   "id": "introduce-yourself-031",
+   "situation": "I'm Sina, 20, from Hamburg, and I've been matched as an au pair with Rachel and Tom Morgan in Seattle, looking after Ava (7) and Ben (4) from Monday 2 November. I've coached children's swimming for three years and I play the ukulele badly. I want to send my first email to the parents before I arrive.",
+   "reply": "Hi Rachel and Tom, I'm Sina, and I'm so happy to be joining your family as Ava and Ben's au pair from Monday 2 November. For the last three years I've coached children's swimming in Hamburg, so I'm used to wet towels and lots of energy. I also play the ukulele, badly, but kids usually don't mind. Before I arrive, I'd love to hear what a normal day looks like for Ava and Ben, and what they're into right now. Best, Sina",
+   "lang": "en",
+   "note": "Before a live-in role, make the invitation a question about the children's routine: it shows you're already thinking about them."
   }
  ]
 }

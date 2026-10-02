@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -211,6 +211,13 @@
    "reply": "Dear Mrs Hall, I'm Ellie Price's mum (Year 10). Ellie was assessed by an educational psychologist in September and diagnosed with dyslexia, and the report, attached, recommends extra time in exams. With her mocks coming up in December, could you let me know what the school's process is for exam arrangements, and whether there's anything you need from us before then? At home she uses a coloured overlay for reading, which seems to help. I'm happy to meet or talk on a Monday or Friday, when I work from home. Thank you, Dawn Price",
    "lang": "en",
    "note": "Ask about the school's process and timing rather than stating what she's entitled to; whether a private report is accepted varies, so check."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-031",
+   "situation": "儿子李子轩在初二（5）班，班主任孙老师每次月考后都会在家长群里发全班成绩排名表。这次他排第38名（全班45人），他说有同学拿排名开他玩笑，这两天早上都说不想去学校。我们在家每周日晚上跟他一起订下一周的学习计划。",
+   "reply": "孙老师您好，我是初二（5）班李子轩的家长。想跟您商量一件小事：这次月考排名在家长群里发出来后，子轩说有同学拿排名开他玩笑，这两天早上都说不想去学校。以后的成绩，能不能考虑私下发给每位家长，各家只看自己孩子的分数和名次？我们在家每周日晚上都会跟他一起订下一周的学习计划，会继续配合学校。您方便的时候回我一下就好，谢谢您！",
+   "lang": "zh",
+   "note": "只提一件事，请求放在“以后”，不评价老师的做法；孩子如果持续不想上学或情绪明显低落，及时再找老师，必要时看医生。"
   }
  ]
 }

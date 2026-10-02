@@ -4,28 +4,28 @@
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
-   "situation": "Landlord Ray emailed that my rent goes from $1,650 to $1,950 at renewal in December. Similar 1-beds on my block are $1,700 to $1,800. I've been here 4 years and never paid late.",
+   "situation": "I'm Nina. Landlord Ray emailed that my rent goes from $1,650 to $1,950 at renewal in December. Similar 1-beds on my block are $1,700 to $1,800. I've been here 4 years and never paid late.",
    "reply": "Hi Ray,\nThanks for the heads-up about the increase to $1,950. I'd like to ask you to reconsider. Comparable one-bedrooms on this block are listed at $1,700 to $1,800, and I've paid on time for four years. I'd be glad to sign another 12 months at $1,750. Would that work? Happy to talk by phone.\nBest,\nNina",
    "lang": "en",
    "note": "Counter with a number and facts, not a flat no. If he holds firm, meet halfway and attach a repair to it."
   },
   {
    "id": "landlord-tenant-and-service-providers-002",
-   "situation": "Bin Ende August ausgezogen. Mein Vermieter Herr Vogt will 350 € fürs Streichen von der Kaution (1.200 €) abziehen, obwohl die Wände laut Übergabeprotokoll in Ordnung waren. Die 60 € für die Reinigung sind okay.",
+   "situation": "Ich bin Lena Hoffmann und am 31. August ausgezogen. Mein Vermieter Herr Vogt will 350 € fürs Streichen von der Kaution (1.200 €) abziehen, obwohl die Wände laut Übergabeprotokoll in Ordnung waren. Die 60 € für die Reinigung sind okay.",
    "reply": "Sehr geehrter Herr Vogt,\nvielen Dank für die Abrechnung. Den Abzug von 350 € für das Streichen kann ich nicht akzeptieren: Im Übergabeprotokoll vom 31. August sind die Wände als einwandfrei vermerkt, die Fotos hänge ich an. Die 60 € für die Reinigung akzeptiere ich. Bitte überweisen Sie mir die verbleibenden 1.140 € bis zum 16. Oktober. Ich würde das gern direkt mit Ihnen klären, rufen Sie mich gern an.\nMit freundlichen Grüßen\nLena Hoffmann",
    "lang": "de",
    "note": "Den berechtigten Posten anzuerkennen macht den Widerspruch beim Rest glaubwürdiger."
   },
   {
    "id": "landlord-tenant-and-service-providers-003",
-   "situation": "装修师傅报价说好全屋刷墙8000，现在结账要10500，说是多加了一遍腻子。之前完全没跟我提过要加钱。",
+   "situation": "装修的李师傅报价说好全屋刷墙8000，现在结账要10500，说是多加了一遍腻子。之前完全没跟我提过要加钱。",
    "reply": "李师傅，这段时间辛苦了。当时说好的全屋刷墙是8000，这次的单子是10500，多出来的2500能跟我说说具体是哪几项吗？加腻子的事之前没跟我确认过。说好的8000我今天就先转给您，剩下的咱们对一下再说。",
    "lang": "zh",
    "note": "先付没有争议的部分，只对差额提问，不指责对方故意多收。"
   },
   {
    "id": "landlord-tenant-and-service-providers-004",
-   "situation": "Our heating has been broken since Sept 14. I texted our landlord Donna that day and again on the 21st, she said 'I'll get someone out' and nothing happened. Nights are getting cold and we have two little kids.",
+   "situation": "Our heating has been broken since Sept 14. I texted our landlord Donna that day and again on the 21st, she said 'I'll get someone out' and nothing happened. Nights are getting cold and we have two little kids. I'm Owen, mobile 07700 900 482.",
    "reply": "Hi Donna,\nThis is a formal repair request for the heating, first reported to you by text on 14 September and again on the 21st. It still isn't working, and with two young children at home and nights getting colder, it can't wait much longer. Please confirm a repair date by Monday 5 October. I'd still prefer to sort this informally, so do call me on 07700 900 482.\nThanks,\nOwen",
    "lang": "en",
    "note": "Third step on the ladder: dates of the earlier requests and one dated ask. Not a threat yet. Cite the lease only if it actually says who repairs heating; otherwise check local rules or a tenant advice service."
@@ -39,63 +39,63 @@
   },
   {
    "id": "landlord-tenant-and-service-providers-006",
-   "situation": "房东突然说要卖房，让我10月底前搬走。合同签到明年2月底，里面写了房东提前解约要提前一个月通知并赔一个月租金（4,500元）。我可以搬，但时间太紧，想争取一下。",
-   "reply": "王姐您好，卖房的事收到了，我理解，也愿意配合。10月底前找房加搬家时间比较紧，我想11月15号前搬完。按合同约定，房东提前解约需赔付一个月租金4,500元，麻烦您在我交钥匙当天把押金和这4,500元一起退给我。这段时间带人看房我都配合，提前一天说一声就行。您看这样可以吗？周五前回我一下，我好开始安排。",
+   "situation": "我叫小林，租房两年从没晚交过房租。房租每月4500元，每月5号交给房东王姐；公司这个月工资推迟到10月15日才发，我想把这次房租晚到10月16日交。",
+   "reply": "王姐您好，提前跟您说一声：公司这个月工资推迟到10月15号才发，10月5号的4500元房租，我想晚到16号交，可以吗？租了两年我还没晚交过，16号工资一到我当天就转给您。给您添麻烦了，您看行的话回我一下。小林",
    "lang": "zh",
-   "note": "合同只引用一次、语气平和，把要求落到具体日期和金额；配合看房是让对方好答应的筹码。"
+   "note": "租客请宽限：在到期前开口，原因一句话，给一个确定的日期，只请这一次；不要先斩后奏。"
   },
   {
    "id": "landlord-tenant-and-service-providers-007",
    "situation": "Hired a kitchen fitter, Wes, for £9,200. I've paid £6,000 so far and the last £3,200 is due on completion. He was meant to finish on 18 September. The worktops and sink still aren't in and his texts have been vague for a week.",
-   "reply": "Hi Wes, the kitchen was due to be finished on Friday 18 September, and the worktops and sink still aren't in, and I haven't had a clear answer on timing for a week. Could you give me a completion date by Thursday 1 October? I'll pay the final £3,200 as soon as the job's done, as agreed.",
+   "reply": "Hi Wes, the kitchen was due to be finished on Friday 18 September, and the worktops and sink still aren't in, and I haven't had a clear answer on timing for a week. Could you give me a completion date by Thursday 8 October? I'll pay the final £3,200 as soon as the job's done, as agreed.",
    "lang": "en",
    "note": "Facts, the agreed payment as the lever, one dated ask. If Thursday passes, move one step up to a formal written deadline, not a threat."
   },
   {
    "id": "landlord-tenant-and-service-providers-008",
-   "situation": "9月20号退租搬走，钥匙当面交给房东张阿姨，她当时看了房子说没问题。合同写押金6000元退房后7天内退，到今天还没退，之前发过一条消息她也没回。",
+   "situation": "9月20号退租搬走，钥匙当面交给房东张阿姨，她当时看了房子说没问题。合同写押金6000元退房后7天内退，到今天还没退，我在这儿住了两年，押金退到交房租用的那张银行卡就行。之前发过一条消息她也没回。",
    "reply": "张阿姨您好，我9月20号退的房，钥匙当面交给您，您当时也看过房子，说没问题。合同里写押金6000元在退房后7天内退还，麻烦您在10月9日（周五）前退到我之前交房租用的那张银行卡上。这两年住得很舒心，谢谢您的照顾。",
    "lang": "zh",
    "note": "第一次正式提：事实、合同写的期限、一个带日期的具体请求，语气客气。到期还没退，再往上走一步，写明会去哪里投诉。"
   },
   {
    "id": "landlord-tenant-and-service-providers-009",
-   "situation": "Roofer Carlos quoted $6,800 to replace the flat roof on our garage. Another roofer quoted $5,200 for the same job, but Carlos was much more thorough and explained the flashing issues. I'd rather hire him if he can come down.",
+   "situation": "Roofer Carlos quoted $6,800 to replace the flat roof on our garage. Another roofer quoted $5,200 for the same job, but Carlos was much more thorough and explained the flashing issues. I'd rather hire him if he can come down; he mentioned we could reuse the existing gutters, and he can start the week of 12 October.",
    "reply": "Hi Carlos, thanks for the detailed quote and for explaining the flashing issues. At $6,800 it's above what I can do; I have another quote at $5,200 for the same scope. I'd rather go with you, given how carefully you went through the flashing. Could you get it to $5,800, perhaps by reusing the existing gutters? If so, I can confirm today for the week of 12 October.",
    "lang": "en",
    "note": "Quote too high: name the competing number once, say why you prefer them, and ask for a specific figure with a way to reach it."
   },
   {
    "id": "landlord-tenant-and-service-providers-010",
-   "situation": "Mould in our bedroom since late August. I emailed my landlord, Gary, on Sept 3 and again on Sept 17 with photos. Today he replied: 'Stop harassing me. It's condensation, open a window, I'll look at it when I have time.'",
-   "reply": "Hi Gary,\nI'll leave the tone to one side. The mould in the bedroom has been there since late August. I reported it by email on 3 September and again on 17 September, with photos, and it is still there. Whatever the cause, I'd like it looked at properly. Please confirm a date for someone to inspect it by Friday 2 October. If I haven't heard by then, I'll ask the local council's housing team to inspect, which I'd rather avoid.\nThanks,\nPriya",
+   "situation": "I'm Priya. Mould in our bedroom since late August. I emailed my landlord, Gary, on Sept 3 and again on Sept 17 with photos. Today he replied: 'Stop harassing me. It's condensation, open a window, I'll look at it when I have time.'",
+   "reply": "Hi Gary,\nI'll leave the tone to one side. The mould in the bedroom has been there since late August. I reported it by email on 3 September and again on 17 September, with photos, and it is still there. Whatever the cause, I'd like it looked at properly. Please confirm a date for someone to inspect it by Tuesday 6 October. If I haven't heard by then, I'll ask the local council's housing team to inspect, which I'd rather avoid.\nThanks,\nPriya",
    "lang": "en",
    "note": "A hostile reply gets only the facts, one step up the ladder, and a next step you would actually take. Check your tenancy agreement and local rules on who is responsible for damp before citing either."
   },
   {
    "id": "landlord-tenant-and-service-providers-011",
-   "situation": "我租的房子，房东周叔这个月两次趁我上班时自己开门进来，说是看看热水器，事先都没说。合同第六条写了进屋需提前24小时通知。我不想闹翻，但这样不行。",
+   "situation": "我租的房子，房东周叔这个月两次（9月12日和9月26日）趁我上班时自己开门进来，说是看看热水器，事先都没说。合同第六条写了进屋需提前24小时通知。我工作日晚上7点后和周末都在家。我不想闹翻，但这样不行。",
    "reply": "周叔您好，9月12日和9月26日您在我上班时进过屋，我事先都不知道。您关心热水器我很感谢，但屋里有我的私人物品，没人在时有人进来我会很不安。合同第六条约定进屋要提前24小时通知，以后麻烦您先发微信约个时间，我工作日晚上7点后和周末都在。热水器如果需要检修，这周六上午10点您方便吗？",
    "lang": "zh",
-   "note": "事实加日期，合同只引用一次，给一个具体的替代做法和时间，不指责、不威胁。"
+   "note": "事实加日期，合同只引用一次，给一个具体的替代做法和时间，不指责、不威胁；如果他继续擅自进屋，可咨询当地的租户援助机构。"
   },
   {
    "id": "landlord-tenant-and-service-providers-012",
-   "situation": "房东刘姐说续租房租要从5200涨到5800。我回复说附近同户型挂5300到5500，我住了三年从没拖欠过，希望续一年5400。她回：“5800已经很便宜了，不行就算了。”我还是想留下。",
+   "situation": "房东刘姐说续租房租要从5200涨到5800。我回复说附近同户型挂5300到5500，我住了三年从没拖欠过，希望续一年5400。她回：“5800已经很便宜了，不行就算了。”我还是想留下，也想请她把阳台那扇关不严的推拉门修好。",
    "reply": "刘姐，理解您的考虑。那我们各让一步，5600续签一年，您看行吗？另外阳台那扇关不严的推拉门，如果能在新合同开始前修好，我这周就可以签。",
    "lang": "zh",
    "note": "对方态度变硬时不争谁对：给一个折中数字，附一个具体的修缮请求，并说明你马上可以签。"
   },
   {
    "id": "landlord-tenant-and-service-providers-013",
-   "situation": "Swift Movers moved us on Sept 25. They cracked the glass top of our dining table and dented the fridge door; the crew lead, Marco, noted both on the delivery sheet before I signed. New glass is quoted at $420, and the contract says damage claims must be in writing within 30 days.",
+   "situation": "I'm Elena Park. Swift Movers moved us on Sept 25 (job 48213). They cracked the glass top of our dining table and dented the fridge door; the crew lead, Marco, noted both on the delivery sheet before I signed. New glass is quoted at $420, and the contract says damage claims must be in writing within 30 days.",
    "reply": "Hi,\nI'm filing a damage claim for our move on 25 September, job 48213. During the move the glass top of our dining table was cracked and the fridge door was dented; your crew lead, Marco, noted both on the delivery sheet before I signed. Photos, the signed sheet and a $420 quote for replacement glass are attached, and I'll send a repair estimate for the fridge door next week. I'm filing within the 30 days set out in our contract. Could you confirm receipt and your next steps by Friday 9 October? I'd much rather settle this directly with you.\nThanks,\nElena Park",
    "lang": "en",
    "note": "A service-provider claim: dated facts, their own paperwork as evidence, the contract cited once. Check whether the contract caps payouts before accepting an offer."
   },
   {
    "id": "landlord-tenant-and-service-providers-014",
-   "situation": "A pipe off our boiler burst around 11pm on Saturday Sept 26 and water came through the kitchen ceiling. I called my landlord Peter three times and texted, no answer until Monday, so I got an emergency plumber out myself for £285. I want him to pay it back.",
+   "situation": "A pipe off our boiler burst around 11pm on Saturday Sept 26 and water came through the kitchen ceiling. I called my landlord Peter three times and texted, no answer until Monday, so I got an emergency plumber out myself for £285. He capped the pipe that night. I'm Amara, home after 5pm on weekdays; my first text was at 11:10pm. I want Peter to pay the £285 back.",
    "reply": "Hi Peter,\nConfirming what happened on Saturday 26 September: a pipe off the boiler burst at about 11pm and water was coming through the kitchen ceiling. I called you three times and texted at 11:10pm, and when I couldn't reach you I called an emergency plumber, who capped the pipe that night. His £285 invoice and photos of the leak are attached. Could you reimburse the £285 by Friday 9 October, by bank transfer, or confirm in writing that I can take it off November's rent? The permanent repair still needs booking, and I'm home after 5pm any weekday.\nThanks,\nAmara",
    "lang": "en",
    "note": "Keep the call log and the invoice. Check what the lease says about emergency repairs, and never deduct from rent without his written okay."
@@ -124,7 +124,7 @@
   {
    "id": "landlord-tenant-and-service-providers-018",
    "situation": "租的房子用燃气热水器，装在卫生间里。最近洗澡时一氧化碳报警器响了两次，9月27日和29日，27日当天我就微信告诉了房东赵哥，他回“老房子都这样，开窗就行”。我现在不敢用热水器了，晚上7点后和周末都在家。",
-   "reply": "赵哥，热水器的事想再正式跟您说一下：卫生间的一氧化碳报警器9月27日和29日洗澡时响了两次，27日当天我就微信告诉过您。报警器响可能是漏气或排烟不畅，开窗解决不了根本问题，所以检查之前我先不用热水器了。麻烦您10月2日（周五）前安排有资质的师傅上门检查，我晚上7点后和周末都在家。谢谢您。",
+   "reply": "赵哥，热水器的事想再正式跟您说一下：卫生间的一氧化碳报警器9月27日和29日洗澡时响了两次，27日当天我就微信告诉过您。报警器响可能是漏气或排烟不畅，开窗解决不了根本问题，所以检查之前我先不用热水器了。麻烦您10月3日（周六）前安排有资质的师傅上门检查，我晚上7点后和周末都在家。谢谢您。",
    "lang": "zh",
    "note": "报警器再响就立刻关气、开窗、离开屋子，到室外打燃气抢修电话或119。"
   },

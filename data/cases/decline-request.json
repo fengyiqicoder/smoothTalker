@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "decline-request-001",
@@ -211,6 +211,13 @@
    "reply": "Thanks for thinking of me, Graham, I can tell you want Ellie's statement to be as strong as it can be. I'm going to say no to the Saturdays; I keep my weekends for myself. I'm happy to send Ellie the guide I used when I applied, if that would help. I hope it goes really well for her.",
    "lang": "en",
    "note": "A personal favour from a boss gets the same short no as anyone's: one true reason, no apology spiral, and the smaller yes only because it's real."
+  },
+  {
+   "id": "decline-request-031",
+   "situation": "My cousin Hannah asked me to be godmother to her baby son, Rory, at his christening on Sunday 8 November. I'm not religious and wouldn't feel right making the promises in church, but I'd love to be at the christening and be a really involved part of Rory's life.",
+   "reply": "Hannah, I'm so touched you asked me, and I love that you want me in Rory's life. I'm going to say no to being his godmother; I'm not religious, and I wouldn't feel right making those promises in church. I'll absolutely be there on Sunday 8 November, and I'd love to be a really involved part of Rory's life as he grows up. Thank you for asking, it means a lot.",
+   "lang": "en",
+   "note": "Decline the role, not the child: a true reason about yourself, no comment on their faith, and only the smaller yes you mean."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -211,6 +211,13 @@
    "reply": "爸，我知道您想搬过来，是想离我们近一点，这份心我明白。不过这事我不去劝妈，也不替妈来劝您，你们俩跟我说的话我都不往对面传。房子是你们俩的，得你们俩商量着定。10月3日我回家，到时候咱们三个坐下来，就聊这一件事：您先说想搬的理由，妈再说她舍不得什么，一个人说完另一个再说，不急着当天就定。我也会跟妈说一样的话。",
    "lang": "zh",
    "note": "父母之间的事，子女即使有自己的偏好也不当说客：两边同样的话，搭一个有规则的当面谈。"
+  },
+  {
+   "id": "mediating-between-two-people-031",
+   "situation": "I'm a project coordinator. My manager, Karen, and our senior designer, Tomas, have been clashing for weeks over deadlines on the Bramble app project. In our 1:1 today Karen asked me to 'keep an eye on Tomas and quietly tell you when he's slipping'. I already send a weekly status update on Fridays to the whole project team.",
+   "reply": "I understand the deadlines are worrying you, Karen, and I want the project to land too. I'd rather not report on Tomas privately, though: I work closely with both of you, and it would put me in the middle of something that's really between the two of you. What I can do is make the Friday status update more detailed, with every task's due date and where it stands, so you and Tomas are looking at the same picture. If deadlines are still a sticking point after that, it might help for the two of you to sit down with the update in front of you.",
+   "lang": "en",
+   "note": "When someone senior asks you to be their eyes, decline the private channel and offer something open that both sides see."
   }
  ]
 }

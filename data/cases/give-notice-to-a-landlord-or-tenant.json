@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -211,6 +211,13 @@
    "reply": "Dear Jordan and Sam, I'm writing to let you know that I won't be renewing the tenancy at 7 Birch Close, Unit B, when it ends on 31 January 2027. This is more than the 60 days' written notice in clause 4 of the lease, and a formal letter is also on its way by post. The main reason is that rent has been late five times this year, and I'd rather end the tenancy on clear terms than keep chasing payments. I'll give at least 24 hours' notice before any viewings, as clause 12 says, and I'm happy to work with you on an earlier move-out date if you find somewhere sooner. Could you confirm you've received this? Helen Park",
    "lang": "en",
    "note": "Rules on ending a tenancy vary by place and tenancy type, so check the local rules before sending; give the reason once, calmly, not as a threat."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-031",
+   "situation": "我在南京租了一套一居室，合同到2027年2月28日，第9条写提前退租要提前一个月书面通知，并付一个月租金作违约金，月租3200，邮件通知有效。我要出国读书，想11月30日退租。房东赵先生在国外，只用邮件联系，他说过钥匙可以交给小区物业。",
+   "reply": "赵先生您好，我是租住您南京那套一居室的租客。按合同第9条，特此书面通知：我将于2026年11月30日提前退租。11月的房租我会照常支付，并按合同另付一个月租金3200元作为违约金。11月30日我会把全部钥匙交给小区物业，并拍下房屋现状和水电燃气表读数的照片发您邮箱。麻烦您回邮件确认收到这份通知，谢谢您。",
+   "lang": "zh",
+   "note": "按合同条款书面通知并留存邮件；房东在国外，交接靠物业和照片留证，押金事宜另行确认。"
   }
  ]
 }

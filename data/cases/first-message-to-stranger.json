@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -211,6 +211,13 @@
    "reply": "Hi Grace, I'm Tom Hale, one of your fellow panellists at the Northfield Planning Forum on 15 October. Your report on community-owned networks has already done a lot of work for us: the finding that volunteer-dug trenches cut costs by about a third is quoted in two of our council papers. Is there one point you'd most like the panel to reach, so I don't trample on it? A one-line reply is plenty.",
    "lang": "en",
    "note": "First contact with someone you'll work alongside: one specific thing from their work, then a tiny question that is easy to answer."
+  },
+  {
+   "id": "first-message-to-stranger-031",
+   "situation": "I'm doing an online evening course in Python while working full-time. On the course forum, a classmate called Farah posted a solution to the week 3 exercise using zip that was far cleaner than my three nested loops, and she mentioned she's on UK time and studies after work too. I'd like to message her and maybe compare notes on the weekly exercises.",
+   "reply": "Hi Farah, your zip solution to the week 3 exercise was so much cleaner than my three nested loops. How did you spot that zip would work there? I'm also squeezing the course in after work on UK time, so if you ever fancy comparing notes on the weekly exercises, I'd be up for it.",
+   "lang": "en",
+   "note": "One question about her thing, then a light, easy-to-ignore offer rather than a request."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -197,6 +197,13 @@
    "reply": "I'm pleased to recommend Nia Adebayo for the sports scholarship at Ashford University. I'm head coach at Riverside Rowing Club and have coached Nia for four years. This season she captained our junior squad and organised the 5am winter training rota for 12 juniors. At our summer regatta, when our stroke was injured on the morning of the race, Nia switched seats at short notice and the crew still won silver. I can't speak to her academic work, but as an athlete and a leader I recommend her strongly, and I'd be glad to talk further: 555-0134 or coach.lee@example.com. Dan Lee",
    "lang": "en",
    "note": "Name the limit of what you saw (her grades) in one clause, then go back to the strong evidence."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-029",
+   "situation": "物流会社で課長をしている田中裕子です。元部下の小林健太さん（2022年4月〜2026年3月在籍）の転職先候補、コハク物流の人事の森さんからメールで照会があり、「懸念点があれば教えてください」とも聞かれました。小林さんは2024年に発注ミスで約80万円の損失を出しましたが、すぐ自分から報告して再発防止のチェックリストを作り、その後同じミスはありません。在庫管理を任せてからは棚卸差異を1年で半分に減らし、またぜひ一緒に働きたい人です。",
+   "reply": "森様\nお問い合わせいただきありがとうございます。田中裕子と申します。小林健太さんは2022年4月から2026年3月まで、私の課で直属の部下として勤務していました。在庫管理を任せてからの1年で、棚卸差異を半分に減らしてくれました。懸念点についてのご質問ですが、2024年に発注ミスで約80万円の損失を出したことがあります。ただ、本人がすぐに自分から報告し、再発防止のチェックリストを作成して、それ以降同じミスは一度もありません。機会があれば、また一緒に働きたいと思っている人です。\n田中裕子",
+   "lang": "ja",
+   "note": "懸念点を聞かれたら、事実を一つ短く述べ、その後の対応とセットで伝える。元社員の照会に答える前に社内規定も確認する。"
   }
  ]
 }

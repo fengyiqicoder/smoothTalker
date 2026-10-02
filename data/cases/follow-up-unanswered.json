@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -211,6 +211,13 @@
    "reply": "Hi Kenji, picking up my message from Monday about presenting your churn dashboard at the all-hands on 15 October. It's genuinely optional, and 'not this time' is a completely fine answer. I need to send the speaker list by Friday 9 October, so a yes or no by Thursday 8 October would help me plan.",
    "lang": "en",
    "note": "From a manager, make the no as easy as the yes; if he still doesn't answer, leave him off the list rather than reading the silence as a yes."
+  },
+  {
+   "id": "follow-up-unanswered-031",
+   "situation": "我9月15日从上家公司离职，新公司要我10月12日入职前交离职证明，说扫描件也行。9月21日和9月27日我在微信上问了前公司的HR林姐，她都没回。",
+   "reply": "林姐好，再打扰一下。我的离职证明新公司要求10月12日入职前交，扫描件就可以。您方便告诉我大概哪天能开吗？如果需要我补什么材料，说一声我马上发。",
+   "lang": "zh",
+   "note": "第三次跟进，只问一个日期；还没回就换渠道，打人事部座机或请原部门领导帮忙问。"
   }
  ]
 }

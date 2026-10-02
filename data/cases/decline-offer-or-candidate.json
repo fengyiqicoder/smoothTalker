@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -211,6 +211,13 @@
    "reply": "Hi Sara, thank you for coming back to interview with us last Friday; it was really good to see you again, and your system design round was excellent. We've decided to offer the team lead role to someone who has already run on-call for a team of eight, which the role needs from day one. That's about this role, not about you. If you'd ever like to rejoin us as a senior engineer, I'd be glad to talk, and I mean that.",
    "lang": "en",
    "note": "A former colleague gets the same early, clear no as anyone else, plus a door you would really open; call her first if you can."
+  },
+  {
+   "id": "decline-offer-or-candidate-031",
+   "situation": "我是一家电商公司的HR主管。运营岗候选人周婷终面后我们没有录用，选了另一位有跨境电商经验的候选人，这是岗位的核心要求；周婷做的活动策划案很出色。她今天在微信上问我：“是不是因为我面试时说今年刚结婚？”婚育情况在我们的评估里完全没有涉及，也没有影响决定。",
+   "reply": "周婷你好，谢谢你直接来问，我理解你会这样想。我可以明确告诉你：你的婚姻状况和这次的决定没有任何关系，我们的评估里也完全没有涉及。决定的原因是这个岗位的核心是跨境电商运营，另一位候选人在这方面有直接经验。你的活动策划案是这次面试里最出色的之一。这次的结果不会改变，祝你早日找到合适的机会。",
+   "lang": "zh",
+   "note": "候选人怀疑被区别对待时，不辩解、不生气，正面回答再重申真实理由；她若要正式投诉，按公司流程转给负责人并如实记录。"
   }
  ]
 }

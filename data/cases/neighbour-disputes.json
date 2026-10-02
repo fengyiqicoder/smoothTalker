@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -211,6 +211,13 @@
    "reply": "Hi Mrs Dunn, it's Leo from next door. You told me the wind chimes were a present from your husband, so this isn't about taking them down. They're only about three metres from our bedroom window, though, and on windy nights they clang right through till morning. Would you be happy to bring them in at night, or hang them round the other side of the house? I'm glad to pop over and move the hook for you, and do tell me if anything from our side ever bothers you.",
    "lang": "en",
    "note": "When the object matters to them, say first that you're not asking for it gone, then ask for the smallest change that fixes the nights."
+  },
+  {
+   "id": "neighbour-disputes-031",
+   "situation": "I'm Tara in flat 2, directly above Bella Cucina, the restaurant on the ground floor. Their kitchen extractor fan hums loudly until about 1am most nights; my log shows 14 nights since 1 September, and the vent is right under my bedroom window. I've never met the owner, Marco, and I'm going to drop a note in at the restaurant.",
+   "reply": "Hi Marco, I'm Tara from flat 2, right above the restaurant. You probably can't hear it from the kitchen, but the extractor fan vent sits just under my bedroom window, and most nights it hums loudly until about 1am. Would it be possible to switch it off or turn it down once the kitchen closes, or ask your engineer whether it can go on a timer? Thanks, and do let me know if anything from our side ever causes you trouble. Tara, flat 2",
+   "lang": "en",
+   "note": "A business below you gets the same friendly first note; keep the log, and if nothing changes, tell him before you go to the landlord or council."
   }
  ]
 }

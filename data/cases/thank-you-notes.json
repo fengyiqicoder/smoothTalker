@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -197,6 +197,13 @@
    "reply": "Dear Marta, thank you for four years of looking after Arlo. The notebook of his firsts made us both cry: we'd have forgotten half of those moments, and now we never will. Thank you for teaching him to ride his bike, and for everything in between. We're so glad he'll still get to see you on Sundays. We'll miss you so much. With love, Priya, Sam and Arlo",
    "lang": "en",
    "note": "A long-term carer gets a paragraph, and the notebook is the detail only this family could mention."
+  },
+  {
+   "id": "thank-you-notes-029",
+   "situation": "I'm Daniel. In June, Professor Anika Brandt, my PhD second reader, spent a weekend writing 11 pages of comments that took apart the argument in my chapter 3, and it stung at the time. I rewrote it from the ground up and yesterday the Tidewater Review accepted it as an article. She retires in December and I want to email her.",
+   "reply": "Dear Professor Brandt, I wanted to thank you for the 11 pages of comments you wrote on my chapter 3 in June. I'll admit they stung at first, and they were exactly what the argument needed. I rewrote it from the ground up, and yesterday the Tidewater Review accepted it as an article. Thank you for giving up a weekend to be that honest with me. I hope December brings a wonderful start to your retirement. With gratitude, Daniel",
+   "lang": "en",
+   "note": "Thanks for tough feedback: name what it cost them, admit the sting in one clause, and show what it turned into."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 28,
+ "count": 29,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -197,6 +197,13 @@
    "reply": "Hi all, I've removed a post from 555-0187 asking for flood relief money by bank transfer in Rosa's name. Rosa told us on Monday that donations are only collected at the community centre's front desk, so please don't send anything to that account or reply to that number. If you've already transferred money, call your bank's fraud line straight away. I'm phoning Rosa on her saved number to check, and I'll update here.",
    "lang": "en",
    "note": "Remove and report the number in WhatsApp; anyone who paid should contact their bank and report it to the police."
+  },
+  {
+   "id": "suspicious-or-scam-message-029",
+   "situation": "I'm Nadia, a piano teacher. A new student's father, Paul Grady, who I've only dealt with by email, mailed me a cheque for $1,850 for ten lessons at $85 each, then said it was a mistake and asked me to send the $1,000 difference today by bank transfer to his 'assistant'. I deposited it yesterday, my banking app already shows the money as available, I haven't sent anything, and I'm messaging my bank through its app.",
+   "reply": "Hi, yesterday I deposited a cheque for $1,850 from Paul Grady, the father of a new piano student I've only dealt with by email. It was meant to cover ten lessons at $85, so it's $1,000 too much, and he's now asking me to send the difference today by bank transfer to his assistant. I haven't sent anything. Could you check whether the cheque is genuine and tell me when it has truly cleared, since the app already shows the money as available?",
+   "lang": "en",
+   "note": "'Available' can appear before a cheque has really cleared: send none of it on, stop replying to Paul and report the emails as fraud; if money has already gone, call the bank and the police straight away."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -211,6 +211,13 @@
    "reply": "Cristina, preciso ir agora, o Davi tem natação às 17h30. Boa sorte com a reforma, depois você me conta o resto. Tchau, até amanhã!",
    "lang": "pt",
    "note": "No portão da escola: motivo real, um gancho leve e nenhuma pergunta no final; diga tchau e vá andando."
+  },
+  {
+   "id": "end-conversation-gracefully-031",
+   "situation": "My grandad Albert is 88 and video calls me every Sunday at 4. After about an hour he gets tired, but he doesn't know how to end the call, so he keeps saying 'well, anyway' and starting a new story. We'll talk again next Sunday at 4, and I want to show him my photos from Lisbon then.",
+   "reply": "Grandad, this has been lovely, and I'm going to say goodbye now. Next Sunday at 4 I'll show you my photos from Lisbon. I'll press the button to hang up on my end, so you don't need to do anything. Bye for now, love you.",
+   "lang": "en",
+   "note": "When someone struggles to end a call, close it for them: a warm recap, the next date, and you do the hanging up."
   }
  ]
 }

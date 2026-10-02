@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -211,6 +211,13 @@
    "reply": "Hi, this is Kofi Mensah in room 512. The air conditioning stopped working last night, the room was 29°C at midnight, and I have three more nights booked. I reported it to the front desk at 11pm and again at 7am, and both times was told maintenance would come later today, with no time given. Could you either have it repaired or move me to a room with working air conditioning by 6pm today, and confirm here which it will be? My preference is a room move, so neither of us is relying on a same-day repair.",
    "lang": "en",
    "note": "Same shape as any escalation: facts with times, impact, what you've tried, one decision with a deadline, and no blame on the front desk."
+  },
+  {
+   "id": "escalate-an-issue-031",
+   "situation": "I'm Leo Grant, a second-year PhD student. My ethics application for my classroom interview study has been with my supervisor, Dr Harmon, for sign-off since 24 August; I reminded him on 9 and 21 September. The committee's deadline for its 14 October meeting is 7 October, the next meeting is in December, and our partner school can only host interviews until 30 November, so I've told Dr Harmon I'm asking the graduate director, Dr Okoye, for help and I'll copy him in.",
+   "reply": "Subject: Sign-off needed by Wed 7 Oct: ethics application\nDear Dr Okoye, my ethics application for my classroom interview study has been with Dr Harmon for sign-off since 24 August, and I reminded him on 9 and 21 September. The committee's deadline for its 14 October meeting is 7 October; the next meeting is in December, after our partner school's interview window closes on 30 November, so missing this one means losing the fieldwork. Dr Harmon knows I'm writing and is copied. Could you help me get his sign-off, or tell me who else can sign, before 7 October?",
+   "lang": "en",
+   "note": "Academic skip-level: the supervisor is told first and copied, and the ask leaves him room to sign himself."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -211,6 +211,13 @@
    "reply": "Not wrong, Mei. We want the same thing, more revenue sooner, and where we differ is only the timing: I'd still rather wait until we're at 40 customers, from the 28 we have now. Could we use Monday's check-in to agree the number that would make us both comfortable hiring? I'd rather decide this together than be right about it.",
    "lang": "en",
    "note": "When disagreement lands as an attack, separate the idea from the person once, then move from who is right to how you'll decide."
+  },
+  {
+   "id": "disagree-without-conflict-031",
+   "situation": "My co-author Dr. Wei Lin, who is senior to me, wants the abstract of our paper to say that night-shift work 'causes' poor sleep in nurses. Our study is a one-time survey of 412 nurses, so I'd rather write 'is associated with'. I'm leaving a comment in our shared draft.",
+   "reply": "Wei, I agree the night-shift finding is the heart of the paper and belongs front and centre in the abstract. Where I land differently is the word 'causes': with a one-time survey of 412 nurses, I think reviewers will push back on a causal claim, so I'd suggest 'is associated with'. Is there something in the data you're seeing that supports the stronger wording? Happy to be corrected.",
+   "lang": "en",
+   "note": "In a shared draft, comment on the wording, not the person; if you still differ after her answer, agree who makes the final call."
   }
  ]
 }

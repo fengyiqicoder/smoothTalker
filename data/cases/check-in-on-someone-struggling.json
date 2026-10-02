@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -211,6 +211,13 @@
    "reply": "Mateo, I saw your message and I've been thinking about you since. Six years here, that's a huge thing to be hit with, and you don't need to have a plan yet. No need to reply to this. I'll bring lunch round on Sunday at 1 if you'd like company; just reply 'yes' or 'not this week', both are completely fine.",
    "lang": "en",
    "note": "Skip the appeals and advice for now; if he asks for practical help later, help him find a qualified immigration adviser."
+  },
+  {
+   "id": "check-in-on-someone-struggling-031",
+   "situation": "我是研究生导师张老师。硕士生小何已经两周没来组会，微信也只回过一句“不好意思老师”，上学期他提过父亲住院的事。我已经把他的开题报告从10月底挪到了11月底，每周四下午我都在办公室。想关心他一下，又不想让他觉得是在催论文。",
+   "reply": "小何，这两周没见到你，有点惦记你，这条不用急着回。开题报告的时间我已经帮你挪到11月底了，组会想来就来，不来也没关系，论文的事先放一放。每周四下午我都在办公室，哪天想过来坐坐、聊点别的，直接过来就行。",
+   "lang": "zh",
+   "note": "导师的关心容易被听成催进度：先把压力拿掉，不问原因；学校的心理咨询等他愿意时再提一句，如果他流露出不想活的念头，直接问他是否安全，必要时打120或心理援助热线。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -211,6 +211,13 @@
    "reply": "Sr. Joaquim, queria dizer-lhe pessoalmente: vou sair do coro, e a missa de Todos os Santos, domingo 1 de novembro, será a minha última. É uma decisão pessoal e já está tomada. Até lá venho a todos os ensaios, e deixo a pasta das partituras de contralto com a Rita, que já disse que fica com ela. Foram oito anos muito bonitos, e nunca me vou esquecer de que foi o senhor que me ensinou a ler partituras. Obrigada por tudo.",
    "lang": "pt",
    "note": "Não é preciso explicar a razão: \"é uma decisão pessoal\" chega, e se ele insistir, repete-se com carinho, sem discutir fé."
+  },
+  {
+   "id": "leave-or-quit-gracefully-031",
+   "situation": "我叫苏晴，在出版社做了六年编辑，下周五10月9日是最后一天，之后去读全日制研究生。部门今晚给我办欢送饭，主编陈老师让我说几句。六年前我连校样都不会看，是陈老师一页一页带我改出来的；手上的三本书已经交接给小林了。",
+   "reply": "谢谢大家今晚来给我送行。下周五是我在社里的最后一天，之后我要去读研了。六年前我刚来的时候连校样都不会看，是陈老师一页一页带着我改出来的，这个我会一直记着。手上的三本书已经跟小林交接好了，之后有什么问题也随时找我。以后社里出了新书，记得给我留一本！",
+   "lang": "zh",
+   "note": "欢送会上的发言：不展开离开的理由，不翻旧账，说一件具体的感谢、交代好交接，再用一句轻松的话收尾。"
   }
  ]
 }

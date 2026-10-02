@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -211,6 +211,13 @@
    "reply": "Hi Tom,\nThank you for passing on the offer, and I want the handover of our three largest clients to go smoothly for everyone. I'd like to discuss the severance: four weeks' pay after six years with Halden is lower than I was expecting, and I'm asking for eight weeks. Between now and 30 October I'll be handing over those three accounts, and I'm committed to doing that well. Is there flexibility there? If the amount is fixed, I'd like to talk about keeping my laptop and agreeing the wording of a reference.\nBest,\nPriya",
    "lang": "en",
    "note": "Don't sign on the spot; check your contract and any company policy, and get advice on the agreement before accepting."
+  },
+  {
+   "id": "negotiate-price-or-salary-031",
+   "situation": "Soy Lucía y mi pareja Andrés y yo queremos casarnos en la finca Los Olivos. Carmen, la coordinadora, nos ha pasado un presupuesto de 12.000 € por 90 invitados para el sábado 15 de mayo de 2027, y nos comentó que los viernes tienen menos demanda. Nuestro tope es 10.000 €; podríamos hacerlo el viernes 14 de mayo y pagar una señal del 30 % esta misma semana.",
+   "reply": "Hola, Carmen:\nMuchas gracias por el presupuesto. A Andrés y a mí nos encanta la finca y nos haría mucha ilusión celebrar allí la boda. Los 12.000 € del sábado 15 de mayo quedan por encima de lo que podemos invertir. Como nos comentaste que los viernes tienen menos demanda, ¿podríais hacernos el viernes 14 de mayo, para 90 invitados, por 9.500 €? Si es así, pagamos la señal del 30 % esta misma semana. ¿Qué te parece?\nUn saludo,\nLucía",
+   "lang": "es",
+   "note": "Como compradores: una cifra concreta algo por debajo del tope y, a cambio, algo que les sirve a ellos (llenar un viernes, señal inmediata). Pedid por escrito qué incluye el precio."
   }
  ]
 }

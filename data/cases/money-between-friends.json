@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -211,6 +211,13 @@
    "reply": "Ryan, I'm not going to lend you the $400, and it's not because I'm annoyed about the other loans. You told me you've been betting a lot and trying to win it back, and honestly I'm more worried about you than the money. The $500 can wait, don't stress about it right now. If you want, I'll sit with you while you call a gambling support line, or while you ring your landlord about the rent. Want to grab food tomorrow?",
    "lang": "en",
    "note": "When borrowing is tied to gambling, stop lending and offer support instead; point him to a gambling support service, and if he mentions harming himself, call emergency services."
+  },
+  {
+   "id": "money-between-friends-031",
+   "situation": "My friend Marcus asked me to be the guarantor on his new flat, £1,350 a month on a 12-month lease. I don't want to take on that liability, but we were flatmates for two years and he paid his share of the rent on time every month, so I'd happily write him a reference saying exactly that.",
+   "reply": "Hey Marcus, thanks for trusting me with this, I know it's a big thing to ask anyone. I'm going to say no to being guarantor; I'm not comfortable taking on that kind of liability, and I'd rather be straight with you now than hesitate. What I can do is write you a reference for the landlord: we shared a flat for two years and you paid your share of the rent on time every month, and I'm happy to put that in writing. Want me to send it over this week?",
+   "lang": "en",
+   "note": "A clear no to the risk without explaining your finances, plus real help that vouches only for what you actually saw."
   }
  ]
 }

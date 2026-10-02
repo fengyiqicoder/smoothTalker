@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -211,6 +211,13 @@
    "reply": "Listened to the whole thing. Your questions are clearly well researched, and the one about her first year nearly going bust was the best moment; I was hooked. The one thing I noticed was that you cut in on her answers quite a lot, five or six times in the first ten minutes, and I kept losing her thread. For Saturday, maybe try counting two seconds after she stops before you come in? I'm only saying it because your questions are good enough that the answers deserve the room.",
    "lang": "en",
    "note": "One habit he can change before the next recording, described as a listener's experience, not a verdict on him as a host."
+  },
+  {
+   "id": "give-feedback-kindly-031",
+   "situation": "My mate Kris has been applying for warehouse supervisor jobs for four months with no callbacks. He sent me his CV only so I could print it at my office; he didn't ask for opinions. The line about rebuilding the stock system at Hallam's is strong, but it sits under a 400-word personal statement at the top.",
+   "reply": "Printed, it's on my desk for you. The bit about rebuilding the stock system at Hallam's jumped out at me, that's a real result. Do you want a couple of thoughts on the rest, or are you happy with it as it is? Either's fine.",
+   "lang": "en",
+   "note": "Unasked: earn the opening with specific praise and ask permission; save the personal statement point for if he says yes."
   }
  ]
 }
