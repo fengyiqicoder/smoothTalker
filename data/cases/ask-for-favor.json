@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -274,6 +274,13 @@
    "reply": "Hi Marco, any chance you're free on Saturday 10 October to help me put together a flat-pack wardrobe? It's a two-person job, about three hours. If you've got plans or just fancy a lazy Saturday, no problem at all, the shop does assembly and I'll book that. Pizza's on me if you come.",
    "lang": "en",
    "note": "Leave the deck out of it: a favour you once did isn't a debt, and mentioning it makes a no feel costly."
+  },
+  {
+   "id": "ask-for-favor-040",
+   "situation": "I'm Jess, and from Tuesday 13 October I start a job that finishes at 5:30, so I can't collect my daughter Mia, 8, from school at 3:15 on Tuesdays. Her friend Ruby's dad, Tom, collects Ruby every day and lives on our street; I'd like to ask if Mia can walk home with them on Tuesdays until the Christmas break, and I'd collect her from his at 6. I'm off on Fridays so I could take Ruby then, and if it doesn't work I'll book the after-school club.",
+   "reply": "Hi Tom, it's Jess, Mia's mum. I start a new job on Tuesday 13 October that finishes at 5:30, so I can't do the 3:15 school pickup on Tuesdays. Could Mia walk home with you and Ruby on Tuesdays until the Christmas break? I'd collect her from yours at 6, so it's about two and a half hours each week. I'm off on Fridays, so I'd be happy to have Ruby then if that helps you. If it's too much, no problem at all, I'll book the after-school club.",
+   "lang": "en",
+   "note": "A recurring favour needs an end date and the weekly cost spelled out; if he says yes, tell the school in writing who is collecting Mia."
   }
  ]
 }

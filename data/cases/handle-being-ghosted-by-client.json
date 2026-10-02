@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -267,6 +267,13 @@
    "reply": "Hi Tom, I saw the news about the changes at Corvane, and I hope you and the team are holding up. Please don't give the January workshop another thought right now; I'll close it on my side so it's one less thing in your inbox. If it comes back up later, just reply to this thread. Wishing you all the best with everything. Priyanka",
    "lang": "en",
    "note": "When the silence has an obvious hard cause on their side, skip the rest of the sequence: acknowledge it once, close the file yourself and leave the door open."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-039",
+   "situation": "Soy Marta, sastre. Le hice un traje a medida a Álvaro para una boda; lo terminé el 10 de septiembre, le avisé por WhatsApp ese día y el 21, y no contesta. Al recogerlo quedan por pagar los 250 euros acordados, y puedo guardarlo en el taller hasta finales de octubre.",
+   "reply": "Hola, Álvaro: tu traje está terminado y te espera en el taller. Al recogerlo quedan los 250 euros que acordamos. ¿Te viene bien pasar esta semana o la próxima? Con que me digas el día me basta. Si ha cambiado algo con la boda o con el traje, dímelo sin problema y lo hablamos. Te lo guardo en el taller hasta finales de octubre. Un saludo, Marta",
+   "lang": "es",
+   "note": "Con un encargo ya hecho, el silencio no cancela nada: recuerda qué falta, da una fecha real y deja una salida fácil; lo que pase después con el traje, según lo que acordasteis al encargarlo."
   }
  ]
 }

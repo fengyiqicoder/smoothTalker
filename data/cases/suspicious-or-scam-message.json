@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -267,6 +267,13 @@
    "reply": "小郑，先挂电话，软件别下，屏幕别共享，钱一分都别转。“学生账户不注销会影响征信”是很常见的骗局，正规平台和银行不会让你共享屏幕，更不会让你把钱转到什么“验证账户”。征信有没有问题，你自己通过官方渠道查，别用对方给的任何链接或号码。挂了以后截图留证，把号码拉黑并标记为诈骗电话。我就在旁边，拿不准的随时问我。",
    "lang": "zh",
    "note": "对方再打来不要接，也不要回拨；如果已经转了钱或共享过屏幕，马上打银行卡背面的电话并报警。"
+  },
+  {
+   "id": "suspicious-or-scam-message-039",
+   "situation": "My dad Walter, 79, got a letter in the post saying he's won €250,000 in an overseas lottery he never entered, and that he must pay a €900 'processing fee' by bank transfer within 10 days and keep it confidential. He's excited and has already rung the number on the letter, but hasn't paid anything. He's proud and hates being told what to do; I'm seeing him on Sunday.",
+   "reply": "Dad, I've been thinking about that lottery letter, and I promise I'm not going to lecture. A real prize never asks you to pay a fee first or keep it quiet, and you never entered that lottery, so please don't send the €900. These letters are written by professionals and they fool clever people every day. If they ring you, just put the phone down. Let's look at the letter together on Sunday.",
+   "lang": "en",
+   "note": "Don't call the number on the letter; report it to the police or the national fraud reporting service, and if any money goes, call his bank on the number on his card straight away. Expect more calls now he's rung them."
   }
  ]
 }

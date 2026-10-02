@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -274,6 +274,13 @@
    "reply": "Hi, I've been on the meal kit plan for 14 months and I've really enjoyed it, but at $89 a week it's more than I want to spend now, so I'm planning to cancel. Before I do: if you could do $70 a week, I'd happily stay and commit to at least another six months. If that isn't possible, no problem at all, please cancel the plan from my next delivery.",
    "lang": "en",
    "note": "The lever is a real decision to leave plus a commitment to stay; only say you'll cancel if you will, and never invent a rival offer."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-040",
+   "situation": "在一家网店订了一副亚麻窗帘，380元，下单选的是米白色，收到的是浅灰色，我有下单截图。店主阿琳说可以换，但要我自己拆下来寄回去，来回要一周多。其实浅灰跟我家也挺搭，想问能不能退我100元，我就留下不换了。",
+   "reply": "阿琳你好，谢谢你愿意给我换。窗帘收到了，就是颜色不对：我下单选的是米白色，收到的是浅灰色，下单截图附上。拆下来寄回去再等新的，来回要一周多，其实浅灰跟我家也挺搭。如果能退我100元，我就留下不换了。不方便的话也没关系，我就按你说的寄回去换。",
+   "lang": "zh",
+   "note": "筹码是替对方省下的退换麻烦：报一个具体金额，事实说清，并表明不行也照常走换货。"
   }
  ]
 }

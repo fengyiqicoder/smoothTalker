@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -267,6 +267,13 @@
    "reply": "Mrs Hale, can I mention something, just between us? There's a mole on the back of your scalp that looks bigger and darker than it did in August. It's probably nothing, but it's worth asking your doctor to take a quick look. I'd want someone to tell me. Now, same as usual on the length?",
    "lang": "en",
    "note": "Point to the doctor rather than guess what it is; if she asks, offer to take a photo of it on her phone so she can see it."
+  },
+  {
+   "id": "tell-someone-something-awkward-039",
+   "situation": "My brother Neil is giving the eulogy at our Aunt Carol's funeral tomorrow and just texted me his draft to check. Twice he calls her late husband 'Geoff', but Uncle Graham's name was Graham. Neil was up most of the night writing it and he's wrecked.",
+   "reply": "Neil, I've read it, and it's lovely. One small thing to fix before tomorrow: it says 'Geoff' in two places, and Uncle Graham's name was Graham. Easy slip when you've been up half the night. The rest I wouldn't touch.",
+   "lang": "en",
+   "note": "Fixable before the moment that matters, so say it now, privately, in one line, and don't turn it into a full edit of his speech."
   }
  ]
 }

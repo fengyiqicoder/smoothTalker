@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -274,6 +274,13 @@
    "reply": "周老师，想请您帮个忙：我带的二班课堂纪律一直管不住，调过座位、试过课堂积分，效果都不大。您带过十几届初二，想向您取取经：下周四第三节能不能让我去听您的课？我坐最后一排，不打扰上课，听完自己整理笔记。您那节课要是不方便，完全没关系，我先去看学校存的公开课录像。",
    "lang": "zh",
    "note": "请资深同事让你观摩：先说自己试过什么，把请求缩成一节课、坐后排不打扰，再给一个真的退路。"
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-040",
+   "situation": "I'm head of support with a team of 8. I've written a two-page proposal to move us from a weekly on-call rotation to four-day shifts, and it goes to our director on Thursday. Ayesha, who reports to me, has run on-call longer than anyone on the team and would be the most affected; I want her honest critique by Tuesday, and I'll credit any changes she suggests in the doc.",
+   "reply": "Hi Ayesha, could I ask for your honest read on something? I've drafted a two-page proposal to move on-call from weekly to four-day shifts, and it goes to our director on Thursday. You've run on-call longer than anyone here and it affects you more than most, so I'd rather hear where it breaks from you now than find out later. About 20 minutes with the doc by Tuesday would be plenty. If your week's too full, just say, no problem at all, and any changes you suggest will be credited to you in the doc.",
+   "lang": "en",
+   "note": "Asking a report to critique your own work: say why them, cap the time, and make it clear that pushback and a no are both welcome."
   }
  ]
 }

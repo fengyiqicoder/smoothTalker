@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -267,6 +267,13 @@
    "reply": "Thanks, Natalie. Yes, I'm interested, and you're welcome to tell the client that today. Before I'm shortlisted, could you send the base range and confirm whether the role includes weekend on-call? That one's a dealbreaker for me, and I'll reply within the hour once I have both.",
    "lang": "en",
    "note": "Deadline pressure doesn't change the order: confirm interest, but get the range and the dealbreaker answered before you go further."
+  },
+  {
+   "id": "respond-to-recruiter-039",
+   "situation": "A recruiter, Fiona, messaged me on LinkedIn about a project coordinator role at a housing association that sounds right for me. Before any call she wants me to email a scan of my passport and my home address to 'pre-verify right to work'. I do have the right to work in the UK and I'm happy to share documents once there's an offer, through the employer's own checks; I'm free for a call Tuesday or Wednesday after 5pm.",
+   "reply": "Thanks for reaching out, Fiona, the role sounds interesting. I can confirm I have the right to work in the UK. I don't send passport scans or my home address at this stage, but I'm happy to provide documents once there's an offer, through the employer's own checks. Before we book a call, could you share the base range? If it lines up, I'm free Tuesday or Wednesday after 5pm.",
+   "lang": "en",
+   "note": "Confirm the fact, hold the documents back; if a recruiter insists on ID up front, check the agency is genuine before sending anything."
   }
  ]
 }

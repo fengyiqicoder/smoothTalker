@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "small-talk-001",
@@ -267,6 +267,13 @@
    "reply": "Tea's here, Marek. I've been enjoying the jazz through the wall all week; my grandad had a stack of jazz records when I was a kid. Who's this playing?",
    "lang": "en",
    "note": "Ask about the thing he chose to bring into the room, share one line back, and let him get on with the wall if his answer is short."
+  },
+  {
+   "id": "small-talk-039",
+   "situation": "3丁目に住む佐藤です。半年前に引っ越してきて、近所の人とはあいさつ程度。日曜の朝、町内会の公園清掃に初めて参加します。いつも清掃を仕切っている70代くらいの田中さんが公園の花壇の世話をしていると回覧板に書いてあったので、軍手を受け取るときに何か一言話したいです。",
+   "reply": "おはようございます。半年前に3丁目に越してきた佐藤です。回覧板で、公園の花壇は田中さんがお世話されていると知りました。今の時期は何が咲いているんですか？",
+   "lang": "ja",
+   "note": "質問はひとつだけ。次の質問は田中さんの答えから拾い、家族や仕事のことは相手が話し出すまで聞かない。"
   }
  ]
 }

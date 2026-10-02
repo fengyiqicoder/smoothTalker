@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -267,6 +267,13 @@
    "reply": "K, that was me, sorry! I thought it was the communal milk. There's a new carton in the fridge for you. Tom, 3rd floor",
    "lang": "en",
    "note": "The dig wraps a fair complaint: own it in the same place, replace what you used, and leave the smiley alone."
+  },
+  {
+   "id": "respond-to-passive-aggressive-039",
+   "situation": "I make celebration cakes from home. Leanne, a regular customer, messaged me on Instagram on Monday asking about a birthday cake for 24 October, and I missed it. Today she wrote 'No worries, I'll find someone who actually reads their messages 🙂'. The 24th is still free.",
+   "reply": "Hi Leanne, sorry, I missed your message on Monday, that's on me. The 24th is still free and I'd love to make the birthday cake. What flavour were you thinking, and how many people is it for? If you've already sorted someone else, no hard feelings at all.",
+   "lang": "en",
+   "note": "Face value with a small own: answer what she actually asked, skip the reasons you missed it, and leave the smiley alone."
   }
  ]
 }

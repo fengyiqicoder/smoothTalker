@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -267,6 +267,13 @@
    "reply": "Thanks for thinking of me for Leo's intensive, Mr Hale. I can't guarantee a first-time pass: the examiner makes that call on the day, not me. What I can do is a full mock test in hour 8 and give you an honest read on whether Leo looks ready, so there's still time to think about moving the test if he isn't. Would you like me to pencil in the 10 hours?",
    "lang": "en",
    "note": "Never sell a result you don't control; offer the honest checkpoint instead."
+  },
+  {
+   "id": "say-no-to-a-customer-request-039",
+   "situation": "I make small-batch chilli oil, about 200 jars a month, £9 a jar, and cap orders at two jars per person so regulars aren't shut out. A buyer, Theo, emailed asking for 12 jars from this Friday's batch to resell at his market stall. He can have two from Friday's batch, and I'm starting a wholesale run of 60 jars in November at £7 a jar.",
+   "reply": "Thanks, Theo, it's great that you want to stock it. I can't sell you 12 from Friday's batch: I only make about 200 jars a month, and I cap orders at two per person so my regulars aren't left out. You're welcome to two from this batch, and in November I'm starting a wholesale run of 60 jars at £7 a jar instead of £9. Shall I put you down for some of those?",
+   "lang": "en",
+   "note": "A per-customer limit protects the regulars, so say that; the wholesale run gives a reseller a real path instead of an exception."
   }
  ]
 }

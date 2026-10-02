@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -267,6 +267,13 @@
    "reply": "Oi, Dra. Beatriz, obrigado por avisar com antecedência, entendo a necessidade de pausar. Posso pausar o app sem problema. A reserva de agenda não está no nosso contrato, então funciona assim: para garantir a mesma vaga daqui a três meses, a reserva custa R$ 1.500 por mês; sem reserva, retomamos na primeira vaga livre depois que a senhora me avisar. Qual opção a senhora prefere?",
    "lang": "pt",
    "note": "Segurar a agenda é trabalho que você deixa de vender: aceite a pausa, dê preço à reserva e registre a escolha por escrito."
+  },
+  {
+   "id": "say-no-to-client-scope-039",
+   "situation": "我是自由UI设计师，给一家连锁健身房做小程序界面，合同约定两轮修改，每轮由对接人刘经理统一汇总意见后发我。现在他们拉了个微信群，群里五六个人各自提修改，有几条还互相矛盾，这一轮算合同里的第一轮。我想请刘经理把意见汇总成一份清单周三前发我，收到后三个工作日内出修改稿，群里零散的意见我不单独改。",
+   "reply": "刘经理，大家这么积极提意见，说明都很重视这个小程序。按合同约定，每轮修改由您统一汇总后发我；现在群里的意见比较分散，有几条还互相矛盾，所以我先不逐条改。麻烦您把这一轮的意见汇总成一份清单，周三前发我，我收到后三个工作日内出修改稿。这一轮算合同里的第一轮，之后还有一轮。您看可以吗？",
+   "lang": "zh",
+   "note": "多人在群里提意见时，按合同回到一个对接人和一份清单，不要逐条照改，否则轮数和方向都会失控。"
   }
  ]
 }

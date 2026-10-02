@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -274,6 +274,13 @@
    "reply": "Entendo, Renata, e obrigada por ser direta. Queria só entender melhor: três anos de casa é um critério escrito para sênior, ou o que conta é o escopo do trabalho? Desde março eu lidero a integração com o novo processador de pagamentos, que reduziu as falhas de 5% para 1%, e faço o code review dos dois juniores. Podemos olhar juntas os critérios de sênior, anotar o que ainda falta e combinar uma data para revisitar o pedido de R$ 12.500?",
    "lang": "pt",
    "note": "Quando a resposta é tempo de casa, pergunte se é critério escrito e leve a conversa para escopo e uma data, sem discutir."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-040",
+   "situation": "I'm the Marketing Coordinator at a 20-person furniture maker, on $58k. Since February I've run all our trade shows and negotiated our three new distributor agreements on my own, and distributors keep asking to speak to 'someone senior'. I'm fine with my pay until our March reviews, but I want the title Marketing Manager now; the owner, Gareth, and I have 20 minutes booked on Wednesday.",
+   "reply": "Thanks for making time, Gareth. I really enjoy this job and want to keep growing it here. Since February I've run all our trade shows and negotiated our three new distributor agreements on my own, and distributors keep asking to speak to someone senior. My title is still Marketing Coordinator, so I'd like to move to Marketing Manager now, to match the work I'm already doing. I'm not asking to change my pay today, but I'd like us to look at it properly in the March review, in light of the new role. Could we agree that in writing?",
+   "lang": "en",
+   "note": "A title-only ask is still a promotion: get the title now and a written date for the pay talk, so the title doesn't quietly replace the money."
   }
  ]
 }

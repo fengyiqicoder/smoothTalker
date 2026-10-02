@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -267,6 +267,13 @@
    "reply": "Thanks for asking, Zoe, and I'm so glad you can make Saturday. The cottage is a fixed £1,200 for both nights however many of us stay, so we're splitting it evenly at £120 each, and it's the same for everyone whichever nights they come. The cooking class on Saturday is £45 and only for those who want to join. If £120 for one night doesn't feel worth it, I completely understand, and we'll celebrate with you at the wedding.",
    "lang": "en",
    "note": "A fixed cost split by head is a rule for everyone; give an easy no rather than a per-night discount the other nine would then ask for."
+  },
+  {
+   "id": "wedding-and-event-host-messages-039",
+   "situation": "我是小雨，10月24日（周六）结婚，酒店下周一要定最后的桌数，宾客回复的截止日是上周五。表舅一直没回，我发了两次微信都没动静。我妈说不回就当他不来，我不想这么替他定。",
+   "reply": "表舅好，我是小雨。10月24日（周六）我们的婚礼，酒店下周一要定最后的桌数，想跟您确认一下能不能来？方便的话这个周末回我一句就行。微信不方便的话，我周六晚上给您打个电话。",
+   "lang": "zh",
+   "note": "没回复既不等于来，也不等于不来：截止日过了就再直接问一次、换个渠道打电话，别替对方做决定，也别催出愧疚感。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -267,6 +267,13 @@
    "reply": "Mrs Doyle, for video calls with your grandchildren and taking photos, the $399 model does both really well, so honestly you don't need the $1,099 one. Since you mentioned your last phone cracked twice, a case with a screen protector is $25 and would save you a lot of bother. It's entirely your choice, and the phone on its own is fine too.",
    "lang": "en",
    "note": "The honest downsell matters most when the customer would trust any advice; then one add-on, tied to what she told you."
+  },
+  {
+   "id": "upsell-without-pushiness-039",
+   "situation": "I'm Mateo and I run small-group walking tours in Seville. Six friends booked Saturday's 10am old-town tour at €30 each, and their organiser Priya added me to their WhatsApp group; two of them mentioned they love food. I offer an optional tapas stop at the end, €18 per person and about 45 minutes, and each person can join or skip it individually.",
+   "reply": "Hi all, Mateo here, looking forward to Saturday's 10am old-town tour! Since a couple of you mentioned you love food, there's an optional tapas stop at the end: €18 per person and about 45 minutes. It works person by person, so some of you can stay for it and others can head off, no need to decide as a group. If you'd like it, just message me privately before Saturday; the tour is complete without it.",
+   "lang": "en",
+   "note": "In a group chat, keep the opt-in private and individual so nobody feels pushed in front of friends; no reply means no."
   }
  ]
 }

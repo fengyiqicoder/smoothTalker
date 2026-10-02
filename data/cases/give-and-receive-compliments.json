@@ -24,10 +24,10 @@
   },
   {
    "id": "give-and-receive-compliments-004",
-   "situation": "When I was in hospital for 5 days in August, my neighbour Glen walked and fed my dog Biscuit twice a day without me having to ask twice. Now I'm back on my feet I want to send him a proper thank-you text.",
-   "reply": "Glen, I've been meaning to say this properly. When I was in hospital in August, knowing you were walking and feeding Biscuit twice a day meant I could actually rest instead of lying there worrying. You're a brilliant neighbour. Thank you, truly.",
+   "situation": "I ran my first marathon on Sunday in 4:41, well off the 4:15 I trained for, and I walked most of the last 6 miles. My colleague Jess messaged: 'You ran a MARATHON, that's incredible!' I'm disappointed with the time, though proud I finished, and my instinct is to explain it all away.",
+   "reply": "Thank you, Jess! The time wasn't what I trained for, but I finished my first marathon and I'm proud of that.",
    "lang": "en",
-   "note": "What he did, what it made possible, one line about him, and no favour or gift attached, so it stays a thank-you."
+   "note": "Receiving praise for something you're not happy with: accept the part that's true for you in one line, with no list of what went wrong."
   },
   {
    "id": "give-and-receive-compliments-005",
@@ -59,7 +59,7 @@
   },
   {
    "id": "give-and-receive-compliments-009",
-   "situation": "My mom, Linda Price, was on the cardiac ward at St. Luke's for 9 days in September. One nurse, Joanne, explained every medication to her in plain words and came back after her shift ended to check on her the night before surgery. I'm Emma, and I want to email Joanne and copy her ward manager.",
+   "situation": "My mom, Linda Price, was on the cardiac ward at Northgate General for 9 days in September. One nurse, Joanne, explained every medication to her in plain words and came back after her shift ended to check on her the night before surgery. I'm Emma, and I want to email Joanne and copy her ward manager.",
    "reply": "Dear Joanne, I wanted to thank you for how you cared for my mother, Linda Price, on the cardiac ward in September. You explained every new medication to her in plain words, and the night before her surgery you came back after your shift had ended just to check on her. That kind of care is something our family won't forget. Thank you. With gratitude, Emma Price",
    "lang": "en",
    "note": "Copying the manager makes the thanks count where it matters to her; keep it to what she did and what it changed, with nothing asked."
@@ -94,10 +94,10 @@
   },
   {
    "id": "give-and-receive-compliments-014",
-   "situation": "上周我搬家，我爸从老家开了六个小时车过来，两天里帮我把柜子全装好，换了漏水的水龙头，走的时候还把冰箱塞满了饺子。我们家平时不太说这些话，想发微信好好谢谢他。",
-   "reply": "爸，到家了吧？这次搬家多亏您，开六个小时车过来，两天就把柜子全装好了，漏水的龙头也换了，要是我一个人，不知道得折腾多久。今天打开冰箱，满满都是您包的饺子，一下子觉得这个新家有家的样子了。谢谢爸。",
+   "situation": "我接手了调去别的组的同事小王的项目，两天里把方案改了三版。客户赵总在微信上说：“这次改得又快又好，比之前那个小王靠谱多了。”我被夸挺高兴，但不想跟着说小王的不是。",
+   "reply": "谢谢赵总！两天改了三版，能让您满意我很开心。后面有什么需要随时找我。",
    "lang": "zh",
-   "note": "家里越不常说谢谢，越要具体：他做了什么、帮你省了什么、给你带来什么感觉，不附带任何请求。"
+   "note": "夸奖里夹着对别人的贬低：只接住对你的那部分，不接对比的话茬，也不跟着评价前同事。"
   },
   {
    "id": "give-and-receive-compliments-015",
@@ -199,7 +199,7 @@
   },
   {
    "id": "give-and-receive-compliments-029",
-   "situation": "My cousin Rachel gave the eulogy at our grandad Harold's funeral on Saturday. She told the story of him stalling his old green van on purpose while teaching her to drive, so she'd stop being scared of stalling, and the whole room laughed through their tears. I want to text her, knowing she's exhausted and grieving too.",
+   "situation": "My cousin Rachel gave the eulogy at our grandad Harold's funeral on Saturday. She told the story of him stalling his old green van on purpose while teaching her to drive, so she'd stop being scared of stalling, and the whole room laughed through their tears; for me it was the first moment that day I felt okay. I want to text her, knowing she's exhausted and grieving too.",
    "reply": "Rachel, I keep thinking about your eulogy on Saturday. The story about Grandad stalling the green van on purpose so you'd stop being scared was so completely him, and hearing the whole room laugh through the tears was the first moment that day I felt okay. No need to reply, I just wanted you to know.",
    "lang": "en",
    "note": "To someone grieving: one specific moment and its effect on you, nothing asked, and the reply made explicitly optional."

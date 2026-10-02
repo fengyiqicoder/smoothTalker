@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -267,6 +267,13 @@
    "reply": "Hi Siobhan, I can't send your order #3075, the jasmine perfume oil, to Ireland: our courier told me this week they no longer carry perfume oils on international routes, and I have no other way to ship it. Two options: swap it for the jasmine solid perfume, the same scent, which the courier does carry; it ships tomorrow and I'll refund the $6 difference. Or a full refund of $34. If I haven't heard from you by Wednesday 7 October, I'll refund you in full.\nNoor",
    "lang": "en",
    "note": "When the item can't reach them at all, there's no wait option, and the default is the refund, never a swap they didn't choose."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-039",
+   "situation": "我是网店卖手工陶瓷杯的小叶。昨晚上新时我把一套青釉对杯的价格298元误标成了29.8元，被下了17单，这个价连成本都不够。想给这些顾客统一发消息：补268.2元差价的照常在48小时内发货，不想补的全额退款，每人都送一张20元无门槛券；3天内没回复的一律按退款处理，不会自动扣钱。",
+   "reply": "您好，我是店主小叶。您昨晚下单的青釉对杯（29.8元）是我上新时把价格标错了，正确价格是298元，这个价格我发不了货，先跟您说一声。两个选择：一是补268.2元差价，补齐后48小时内照常发货；二是回我“退款”，29.8元当天原路全额退回。不管选哪个，都送您一张20元无门槛券。3天内没收到您的回复，我就按退款处理，不会自动扣您任何钱。给您添麻烦了。小叶",
+   "lang": "zh",
+   "note": "标错价是自己的错：默认只能是退款，补差价必须等顾客点头；平台对标错价可能有专门规定，发消息前先查一下。"
   }
  ]
 }

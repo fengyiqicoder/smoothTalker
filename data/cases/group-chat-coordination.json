@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -267,6 +267,13 @@
    "reply": "Cabin weekend, 13 to 15 November: 10 of us are in, and the cabin sleeps 8 in beds plus 2 on the lounge sofa bed. Two options. A: all of us in the cabin; the two on the sofa bed pay £60 and everyone else £85. B: add the pub's twin room next door for both nights, £90, so it's £89 each and everyone gets a bed. Vote A or B by Wednesday 9pm; a tie or no votes means B. If A wins, sofa-bed volunteers message me privately.",
    "lang": "en",
    "note": "When there aren't enough beds, build the fairness and the prices into the options, so nobody has to argue for themselves in the group."
+  },
+  {
+   "id": "group-chat-coordination-039",
+   "situation": "我们线上英语角有8个人，每周三晚上8点开视频会练口语。有两个人经常加班错过，有人提议把每次都录下来发群里。我想在群里问大家同不同意录，但可能有人不愿意被录音。",
+   "reply": "大家好，有人提议把每周三晚上的英语角录下来，方便加班错过的同学补听。录音会录到每个人的声音，所以必须8个人都同意才录：同意的回“1”，不同意的回“2”，或者私聊我都行，不用说理由。周日晚上10点前统计，只要有一个人不同意或者没回复，就不录，英语角照常进行。",
+   "lang": "zh",
+   "note": "要录别人的声音，沉默不算同意：有人反对或没回就按不录处理，并给一个私下说“不”的渠道。"
   }
  ]
 }

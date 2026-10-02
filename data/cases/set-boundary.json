@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -267,6 +267,13 @@
    "reply": "Jess, I love your two and I love having you next door. I work from home 9 to 5, so on weekdays I'm not going to take the twins anymore, even for an hour. Saturday afternoons I'm happy to have them, just ask me the day before. If there's ever a real emergency, call me.",
    "lang": "en",
    "note": "If she knocks on a weekday anyway, repeat it shorter at the door: weekdays I'm working, Saturday's fine."
+  },
+  {
+   "id": "set-boundary-039",
+   "situation": "My sister-in-law Rosa brings sweets and fizzy drinks for my kids, 5 and 8, every time she visits and hands them over just before dinner, even though I've asked her twice not to. I love her visits and want them to keep happening. From now on any sweets she brings I'll put in the cupboard for after Saturday lunch, and fruit or a book is always welcome instead.",
+   "reply": "Rosa, the kids adore you, and so do we. From now on, any sweets you bring I'll put in the cupboard for after Saturday lunch, so they don't fill up before dinner. If you'd like to bring something they can have straight away, fruit or a book always goes down well.",
+   "lang": "en",
+   "note": "The boundary is what you do with the sweets, not a rule for her; if she hands them over anyway, take them with a smile and put them in the cupboard, no new reasons."
   }
  ]
 }

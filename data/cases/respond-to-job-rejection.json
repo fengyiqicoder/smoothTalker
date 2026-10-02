@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -266,6 +266,13 @@
    "reply": "Hi Helen, thank you for letting me know, and for the trial morning, which gave me a real boost after eight years away. I understand you needed someone who already knows the booking system. You mentioned that your sister practice in Hadley sometimes needs reception cover: would you be happy to pass my name on to them? Thanks again,\nDenise",
    "lang": "en",
    "note": "A returner doesn't need to explain the gap or argue the reason; one specific thanks and one small ask that uses what she already offered."
+  },
+  {
+   "id": "respond-to-job-rejection-039",
+   "situation": "My close friend Zara is a hiring manager at Northgate Studio, and I applied for a content lead role on her team through the normal process. She called today to say the panel chose someone else, and she sounded awkward about it. We've been friends since university and we do a pub quiz together on Thursday.",
+   "reply": "Zara, thanks for telling me yourself, I know that wasn't an easy call to make. No hard feelings at all: the panel made its call, and I'd much rather you ran it properly than bent anything for me. You don't owe me feedback, but if there's ever one thing you're able to share, I'd take it. See you at the quiz on Thursday, first round's on me.",
+   "lang": "en",
+   "note": "When a friend delivers the no, release them first; the one ask stays optional and never presses them about the panel."
   }
  ]
 }

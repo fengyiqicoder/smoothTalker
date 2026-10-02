@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -267,6 +267,13 @@
    "reply": "小雨，有件事想先单独跟你说，不想你在群里才看到：我和阿凯订婚了，明年4月办婚礼。我知道你这几个月不容易，这个消息听着可能五味杂陈，不用急着回我，怎么想都可以。我很想请你当伴娘，但一点压力都没有，你能来参加婚礼，我就一样高兴。",
    "lang": "zh",
    "note": "好消息对读的人可能刺痛时，先单独说，给她不回应、不答应的空间。"
+  },
+  {
+   "id": "share-personal-news-039",
+   "situation": "I had a seizure last month and was diagnosed with epilepsy; I'm on medication and doing fine, but on my doctor's advice I can't drive for at least six months. I share the Wednesday and Friday school run with three other parents in a WhatsApp group. I want to tell them, offer to walk the kids to the bus stop on those days or chip in for fuel, and I'd rather not get questions about the medical side.",
+   "reply": "Some news that affects the school run: I had a seizure last month and I've been diagnosed with epilepsy. I'm on medication and doing fine, but on my doctor's advice I can't drive for at least six months, so I need to come off the Wednesday and Friday rota. To pull my weight, I can walk the kids to the bus stop on those days, or chip in for fuel. I'd rather not get into the medical side, but I'm very happy to talk rota. Which would help more?",
+   "lang": "en",
+   "note": "News that changes a shared commitment: the fact, what it means for them, what you offer instead, and the one topic to leave alone. Questions about driving go to your doctor."
   }
  ]
 }

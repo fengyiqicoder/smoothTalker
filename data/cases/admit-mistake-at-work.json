@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -274,6 +274,13 @@
    "reply": "Hi Mrs Okafor, I need to tell you about a mistake: I lost your spare house key yesterday afternoon on Pip's walk. It was on the ring with only the paw-print tag, so there's no address on it, but I'd completely understand if you'd rather not take the chance. I've retraced the route twice and left my number with the park café in case it's handed in. A locksmith can change your front door lock on Monday for £95, and I'll pay for it if you'd like it done. I'm sorry. From now on I'll keep client keys clipped inside a zipped pocket.",
    "lang": "en",
    "note": "A lost key is a security question, not just a lost object: say so plainly and leave the lock decision to her, with the cost already covered."
+  },
+  {
+   "id": "admit-mistake-at-work-040",
+   "situation": "I'm three weeks into a graduate analyst job. On Monday my manager Rhea asked me for a competitor price comparison for the six regional grocery chains by today, and I built it for the six national chains instead; I only realised at this morning's check-in when she asked about one of the regional ones. I can have the regional version to her by Tuesday noon.",
+   "reply": "Rhea, I got Monday's brief wrong: I built the price comparison for the six national chains, not the six regional ones, so the version you asked for isn't done. That's on me; I didn't check the scope back with you before I started. I can have the regional comparison to you by Tuesday noon. If there's a part you need sooner, tell me and I'll do that first. From now on I'll send you a two-line summary of any new brief before I start on it.",
+   "lang": "en",
+   "note": "When you misread a brief, don't hint it was unclear: own the scope miss, give the new time, and fix the step that let it happen."
   }
  ]
 }

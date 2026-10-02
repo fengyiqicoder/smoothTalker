@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -267,6 +267,13 @@
    "reply": "Thanks, Gail, I know you mean well. My treatment is something I've sorted with my GP, and I'd rather keep it out of work chat. Good luck with the 10k on Saturday!",
    "lang": "en",
    "note": "Medical advice at work gets one line of position and a new subject, never a debate; any question about the medication is for your GP."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-039",
+   "situation": "My 13-year-old dog Biscuit has kidney disease, and my vet has him on a prescription kidney diet. Ron, a man I chat to at the park most mornings, keeps telling me to switch him to raw meat because 'vets just push the expensive stuff'. He's kind and adores Biscuit, and his own dog, Pepper, just turned 10.",
+   "reply": "Thanks, Ron, I know you're fond of Biscuit. His food is something my vet and I have sorted, so I'm sticking with it. Did Pepper get anything special for her 10th?",
+   "lang": "en",
+   "note": "One line of position and a new subject; any question about Biscuit's diet goes to the vet, not to a debate at the park."
   }
  ]
 }

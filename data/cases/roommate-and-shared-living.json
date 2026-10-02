@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -267,6 +267,13 @@
    "reply": "Hey Freya, can I raise the camera? I get why you put it up after the parcel went missing, but it films the sofa and kitchen, and I'm not comfortable being recorded at home. Could we swap it for a doorbell camera on the front door? It's about £40, so £20 each. Until we've sorted it, could you switch the living room one off? Happy to talk it through tonight if you see it differently.",
    "lang": "en",
    "note": "Filming shared space needs everyone's clear yes, not just no objection; keep it about the house and bring the alternative."
+  },
+  {
+   "id": "roommate-and-shared-living-039",
+   "situation": "I'm a lodger in Margaret's house, and she lives here too. Twice this month she's come into my room while I was out, once to check the radiator and once to drop off post. I'd like her to knock when I'm in, text me a day ahead if she needs to come in while I'm out, and leave post outside my door.",
+   "reply": "Hi Margaret, can I raise something small? Twice this month you've been into my room while I was out, for the radiator and to drop off post. I'd feel more settled if you could knock when I'm in, and text me a day ahead if you need to come in while I'm out. Post is fine left outside my door. Happy to talk it through if something else works better for you.",
+   "lang": "en",
+   "note": "When the housemate is also your landlord, ask for one simple rule in writing; check what your lodger agreement says about access before taking it further."
   }
  ]
 }
