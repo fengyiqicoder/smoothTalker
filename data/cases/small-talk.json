@@ -25,10 +25,10 @@
   },
   {
    "id": "small-talk-004",
-   "situation": "Meeting my boyfriend Arjun's dad for the first time at dinner on Saturday. Arjun says he's quiet and spends weekends restoring old motorbikes in the garage. I want something to say that isn't about work.",
-   "reply": "Arjun tells me you restore old motorbikes. Which one's in the garage at the moment?",
+   "situation": "At my friend Lena's birthday drinks, a guy called Owen just told me he's a sign language interpreter, mostly in hospitals. I've never met an interpreter, my mind went blank and I just said 'oh, cool'. I want a follow-up that isn't 'that must be interesting'.",
+   "reply": "Hang on, I said 'cool' and moved on too fast. I've never met an interpreter before. What's the part of the job people usually don't get?",
    "lang": "en",
-   "note": "Open on the thing he cares about, then let the next question come from his answer (\"How long does one take, start to finish?\") and share one small thing back before returning to him."
+   "note": "The second question comes from his first answer: ask for the view only he has, follow whatever he picks, and share one small thing back before the next question."
   },
   {
    "id": "small-talk-005",
@@ -116,7 +116,7 @@
   },
   {
    "id": "small-talk-017",
-   "situation": "I'm Tom, a junior analyst, and I just ended up alone in the lift with our CEO, Margaret Osei, for about eight floors. The only thing I know is that at last week's all-hands she talked about the new Glasgow office opening in November.",
+   "situation": "I'm Tom, a junior analyst on the analytics team, and I just ended up alone in the lift with our CEO, Margaret Osei, for about eight floors. The only thing I know is that at last week's all-hands she talked about the new Glasgow office opening in November.",
    "reply": "Hi, I'm Tom from the analytics team. At the all-hands last week you mentioned the Glasgow office opening in November. How's it coming along?",
    "lang": "en",
    "note": "With someone senior, one specific question about their project beats flattery or a pitch; let them do the talking."
@@ -145,7 +145,7 @@
   {
    "id": "small-talk-021",
    "situation": "I'm Mia, doing an 8-week online UX course, and tonight we get put into Zoom breakout rooms of four for 10 minutes before the exercise starts. Last week everyone sat there with cameras on in total silence. All I know is the tutor said people are joining from London, Lagos and Toronto; I'm in London.",
-   "reply": "Hi all, I'm Mia, joining from London. Quick question to get us going: what time is it where you are, and what did you skip to be here tonight?",
+   "reply": "Hi all, I'm Mia, joining from London. Quick question to get us going: what time is it where you are, and what did you skip to be here?",
    "lang": "en",
    "note": "In a group call, one easy question everyone can answer breaks the silence; then follow the most interesting answer instead of going round the room again."
   },
@@ -193,7 +193,7 @@
   },
   {
    "id": "small-talk-028",
-   "situation": "I'm Leah, in the London finance team. Our company's Slack bot has paired me for a 'virtual coffee' with Tomás from the Madrid sales team, whom I've never met. His Slack status is a surfboard emoji and his profile says 'learning to surf, badly', and I want to send the first message so it doesn't feel like a form.",
+   "situation": "I'm Leah, in the London finance team. Our company's Slack bot has paired me for a 'virtual coffee' with Tomás from the Madrid sales team, whom I've never met. His Slack status is a surfboard emoji and his profile says 'learning to surf, badly', I'm free most afternoons this week for the 20-minute call, and I want to send the first message so it doesn't feel like a form.",
    "reply": "Hi Tomás, I'm Leah from finance in London, looks like the bot has matched us for coffee! I have to ask about the surfboard: where are you learning, and how badly are we talking? I'm free for 20 minutes any afternoon this week, whenever suits you.",
    "lang": "en",
    "note": "Open with the thing he chose to show, add one line about you, and let the next question come from his answer."
@@ -221,10 +221,10 @@
   },
   {
    "id": "small-talk-032",
-   "situation": "I drive for a rideshare app at weekends. My next passenger, Maya, is going to the airport, about 40 minutes, and she's just loaded a cello case into the back. I like a bit of chat, but some passengers want quiet and I don't want to be pushy.",
-   "reply": "Hi Maya, airport, right? That's a serious-looking case. Off to play somewhere, or heading home? And if you'd rather have a quiet ride, just say, I won't be offended.",
+   "situation": "I'm Priya, at a local product managers' meetup where I don't know anyone. Three people by the drinks are debating whether AI note-takers in meetings are worth it, and I've just started trialling one at work. I want to join without barging in.",
+   "reply": "Mind if I join? I caught 'AI note-takers' and I've just started trialling one at work. I'm Priya. Are you finding they're worth it?",
    "lang": "en",
-   "note": "One question from what's in front of you plus an easy way out; if her answers are short, let the ride be quiet."
+   "note": "Wait for a pause, give one line on why you're joining, then hand their own question back so you add to their thread instead of starting a new one. If they stay closed, 'enjoy the evening' and a smile is a fine exit."
   },
   {
    "id": "small-talk-033",

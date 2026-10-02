@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -246,6 +246,13 @@
    "reply": "Dear Fiona, it's Hannah, the mum with the baby next to you on Tuesday's overnight flight to Dublin. Thank you for walking Leo up and down the aisle for almost an hour so I could eat and sleep. You did it for a complete stranger as if it were nothing, and it was everything to me that night. As promised, here's a photo of Leo, safely landed and settling in at my sister's for the month. Thank you again, from both of us.\nHannah",
    "lang": "en",
    "note": "A stranger who helped in passing: say who you are first, name what she did, and keep the one promise she asked for."
+  },
+  {
+   "id": "thank-you-notes-036",
+   "situation": "我是文创小店“青柚纸品”的老板阿岚。合作的印刷厂周厂长为了赶我们国庆前上架的新年台历，让工人连着加了三个晚上的班，还亲自开车把2000本送到我们仓库，比约定早了两天。台历上架三天卖出了800本。想发微信好好谢谢他，明年的台历我还想交给他们厂印。",
+   "reply": "周厂长，台历上架三天卖出了800本，第一个想告诉您。为了赶国庆前上架，您让师傅们连着加了三个晚上的班，最后还亲自开车把2000本送到仓库，比约定早了两天。台历能赶在国庆前上架，全靠您和师傅们。替我谢谢加班的师傅们，明年的台历还交给您厂里印。阿岚",
+   "lang": "zh",
+   "note": "谢合作方也要说出对方具体多做了什么、带来了什么结果；回报只说自己能兑现的，比如明年的订单。"
   }
  ]
 }

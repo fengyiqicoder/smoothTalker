@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "apologize-001",
@@ -253,6 +253,13 @@
    "reply": "Priya, I'm so sorry about Saturday. I served you a curry with shrimp paste in it, and you'd eaten a full bowl before I even checked the jar. You've been vegetarian your whole life and you trusted me to feed you, and I didn't take the care you deserved. You were gracious about it in front of everyone, and you shouldn't have had to be. I read every label now, and if you'll let me cook for you again, I'll have checked everything twice.",
    "lang": "en",
    "note": "Name what she ate and the trust it broke rather than how easy the slip was; don't ask if you're okay in the same message."
+  },
+  {
+   "id": "apologize-037",
+   "situation": "上周在家族微信群里，我转了一篇说吃大蒜能防流感的文章，当医生的表哥建忠出来说不靠谱，我当着全家回了一句“就你懂，显摆什么”，群里一下子安静了。我已经在群里补了一句那篇文章不靠谱，现在想私下给他发微信道歉。",
+   "reply": "建忠哥，上周在家族群里你出来纠正那篇大蒜防流感的文章，我回了句“就你懂，显摆什么”，对不起。你是好心提醒大家别信错的东西，我却当着全家人的面呛你，让你下不来台。我已经在群里说了那篇文章不靠谱，以后群里有健康方面的东西，我先问问你再转。",
+   "lang": "zh",
+   "note": "当众说错的话，群里的更正和私下的道歉都要有；道歉里只认自己那句话，不争文章本身。"
   }
  ]
 }

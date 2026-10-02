@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -252,6 +252,13 @@
    "reply": "Thanks for explaining, Victor, that's really helpful to know. I'll point Corran to HR so they can confirm my dates and title, and I'll ask someone else to speak to my day-to-day work. Thanks for being clear, and I hope all is well at Halden.",
    "lang": "en",
    "note": "A policy limit isn't a personal no: don't ask him to bend it, take what the policy allows and ask Bea the same day."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-037",
+   "situation": "I'm a line cook leaving at the end of the month to train as a pastry chef. The pastry school, Fennick Culinary, wants a reference from my current employer by Friday 23 October, on a one-page form. I want to ask my head chef, Rosa, in person after service tonight; she's seen me run the dessert section on weekends since March.",
+   "reply": "Rosa, have you got two minutes? You know I'm leaving at the end of the month for pastry school. Fennick needs a reference from my current employer by Friday 23 October, just a one-page form. Would you be willing to do it? You've seen me run desserts on weekends since March, so that's really the main thing. If you say yes, I'll bring you the form tomorrow. And if you'd rather not, honestly, that's fine.",
+   "lang": "en",
+   "note": "Asked face to face, keep it short and spoken, put the deadline in, and hand over the form only once she's said yes."
   }
  ]
 }

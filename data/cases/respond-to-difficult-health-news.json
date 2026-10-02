@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -246,6 +246,13 @@
    "reply": "Dad, thank you for telling me. A numb arm and words coming out wrong can be signs of a stroke, even when they pass, so please call emergency services now. It isn't making a fuss, it's exactly what they're there for. I'm getting in the car and will be with you in 40 minutes. If you'd rather I call them for you, just say and I will.",
    "lang": "en",
    "note": "Symptoms happening now come before the usual no-need-to-reply: urge emergency help, and if he doesn't answer, call emergency services to his address yourself."
+  },
+  {
+   "id": "respond-to-difficult-health-news-036",
+   "situation": "我和女朋友小婧谈了两年。今天去她家吃饭，她妈妈在饭桌上说自己确诊了帕金森，语气挺平静，说“不影响生活，你们别担心”。我跟阿姨不算很熟，想晚上私下发条微信，不想太生分也不想越界；小婧说下周六要陪阿姨去复诊，我可以开车接送。",
+   "reply": "阿姨，谢谢您今天愿意跟我们说这件事，听到的时候我挺心疼的。您说照常过日子，我们就照常来，您不用顾着我们的情绪。下周六您去复诊，我开车送您和小婧过去，结束再接你们回来，您看行吗？这条不用急着回。",
+   "lang": "zh",
+   "note": "伴侣的父母：跟着她平静的语气，不问病情、不给建议，提一件具体又不越界的小事。"
   }
  ]
 }

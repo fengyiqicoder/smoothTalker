@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -246,6 +246,13 @@
    "reply": "Aisha, I love you, and our Friday wine nights are the best part of my week. I'm not going to hear news about Tom anymore, so if he comes up I'll change the subject, and I'll leave any screenshots of him unopened. Everything else, I want to hear all of it.",
    "lang": "en",
    "note": "If she says she thought you'd want to know, repeat it shorter: no Tom news. No new reasons."
+  },
+  {
+   "id": "set-boundary-036",
+   "situation": "Hago voluntariado en el banco de alimentos de mi barrio los sábados por la mañana. La coordinadora, Marta, me pide casi cada semana que cubra turnos extra entre semana, y este mes ya he dicho que sí cuatro veces aunque trabajo a jornada completa. Quiero seguir con mis sábados y dejar de cubrir turnos entre semana; puedo ofrecerme a formar a los voluntarios nuevos un sábado al mes.",
+   "reply": "Marta, me encanta venir los sábados y quiero seguir haciéndolo mucho tiempo. A partir de ahora no voy a cubrir turnos entre semana, porque con el trabajo a jornada completa no me da. Lo que sí puedo hacer es formar a los voluntarios nuevos un sábado al mes. ¡Nos vemos el sábado!",
+   "lang": "es",
+   "note": "Si vuelve a pedírtelo, repite la misma frase más corta: entre semana no, los sábados sí. Sin razones nuevas."
   }
  ]
 }

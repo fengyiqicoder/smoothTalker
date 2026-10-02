@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -246,6 +246,13 @@
    "reply": "陈经理，谢谢您的邀请。不过我对您没有那种感觉，周六的饭就不去了。我们的合作我一直很珍惜，下个月那批说明书定了时间您告诉我，我照常安排。",
    "lang": "zh",
    "note": "对方是客户时，拒绝要说清，再提一句工作照常；如果他继续追或合作因此受影响，保留聊天记录，必要时换他公司的其他对接人。"
+  },
+  {
+   "id": "romantic-let-down-036",
+   "situation": "At my friend Hannah's wedding last Saturday I chatted with Sam, a friend of the groom, for most of the evening. He's just messaged on WhatsApp asking me out for dinner and said he's married but in an open marriage and his wife is fine with it. I'm not interested in dating someone who's married, open or not, and I'll probably see him at Hannah's parties.",
+   "reply": "Hi Sam, thanks for the message, and it was nice chatting at Hannah's wedding. I'll say no, though: I'm not interested in dating someone who's married, open or not. No hard feelings, and I'm sure I'll see you around at Hannah's.",
+   "lang": "en",
+   "note": "A reason about what you want is enough; don't debate how open marriages work, and keep shared circles easy."
   }
  ]
 }

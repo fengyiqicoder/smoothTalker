@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -246,6 +246,13 @@
    "reply": "Hi Helen, thanks for thinking of me for the Larkspur Fund application. I don't work on a success-fee basis: the funder's decision is out of my hands, so my fee covers the writing either way, and it stays at £1,200. If that's more than you can commit before knowing the outcome, I can review and edit a draft your team writes, for £600. Which would suit you better?\nRuth",
    "lang": "en",
    "note": "A fee tied to someone else's decision is a payment change, not a discount; hold the rate and offer a smaller paid scope."
+  },
+  {
+   "id": "say-no-to-client-scope-036",
+   "situation": "I'm Gareth, a self-employed decorator. My fixed quote to the Okafors is £1,450 to paint their living room and hallway, starting Monday. Mrs Okafor asked if I could 'just do the landing and stairs too while the dust sheets are down'; that's about two extra days, which I'd price at £520, and I could carry straight on and finish by Thursday 15 October.",
+   "reply": "Hi Mrs Okafor, it makes sense to do it all while the dust sheets are down. The landing and stairs aren't in the £1,450 quote, which covers the living room and hallway; they're about two extra days of work, so I'd add £520. I can carry straight on after the hallway and finish by Thursday 15 October. Would you like me to add them? If so, I'll send the updated quote in writing before I start.",
+   "lang": "en",
+   "note": "On a fixed-price trade job, 'while you're here' is new scope: price it and get the yes in writing before the brush touches the stairs."
   }
  ]
 }

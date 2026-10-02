@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -246,6 +246,13 @@
    "reply": "Buenas tardes, Sr. Navarro:\nGracias por reunirse hoy con nosotros por el ascensor, que ya lleva tres semanas parado. Le resumo lo acordado para que todos tengamos lo mismo:\n- Usted: dos presupuestos de reparación antes del viernes 9 de octubre.\n- Junta extraordinaria para aprobar uno: martes 13 de octubre a las 19:00 en el portal.\n- Yo: aviso a los vecinos por el grupo de WhatsApp.\nSi he anotado algo mal, dígamelo y lo corrijo.\nUn saludo,\nLucía Ferrer, presidenta de la comunidad de Olmo 14",
    "lang": "es",
    "note": "Con un administrador, el resumen escrito convierte lo hablado en plazos que toda la comunidad puede seguir."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-036",
+   "situation": "I'm Hana Okafor, a hydrologist. Mateo Silva, a reporter at the Ridgeline Courier, interviewed me by phone today about the town's new flood maps and asked me to email him our report. When he asked how many homes are in the new flood zone I guessed 'about 400', but the report says 612, and his story runs on Thursday.",
+   "reply": "Hi Mateo,\nThanks for the call today, and for taking the time to get the flood maps right. One correction before Thursday: the number of homes in the new flood zone is 612, not the 'about 400' I guessed on the phone. That figure is from our report, which is attached as you asked. If you'd like to check any other number before the story runs, I'm happy to answer by email.\nBest,\nHana Okafor",
+   "lang": "en",
+   "note": "After a press interview, the follow-up that matters is the correction, sent before publication, with the source attached."
   }
  ]
 }

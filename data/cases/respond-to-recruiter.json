@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -246,6 +246,13 @@
    "reply": "Thanks for reaching out, Kevin. I think this one reached me by mistake: I'm a technical writer, not a developer, so it isn't a fit. If you ever recruit for documentation or technical writing roles, I'd be glad to hear about them.",
    "lang": "en",
    "note": "No need to correct the name or call out the mass message; a clear no and the right door is enough."
+  },
+  {
+   "id": "respond-to-recruiter-036",
+   "situation": "猎头李小姐推荐我去一家新能源公司做采购经理，二面过了，她帮我约了下周三的终面。昨天我接受了另一家公司的offer，不打算说是哪家。想告诉她退出这个流程，她一直挺用心的，以后还想保持联系。",
+   "reply": "李小姐您好，谢谢您这段时间的推荐和安排。我昨天已经接受了另一家公司的offer，所以想退出这个流程，下周三的终面就不参加了。麻烦您帮我跟对方说一声，也替我谢谢面试官。您一直很用心，以后有合适的机会，还希望保持联系。",
+   "lang": "zh",
+   "note": "接了别家offer就尽早告诉猎头，赶在终面之前；不必说是哪家，也不用解释原因。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -253,6 +253,13 @@
    "reply": "小林你好，提前跟你商量一下视频的发布时间：样品9月30日才到，比约好的晚了一周，我想至少真实用满两周再拍，这样测评才站得住。能不能把发布从10月16日（周五）延到10月23日（周五）？如果16日那天你们的排期必须有内容，我可以先发一条开箱图文，视频23日再上。你看哪种更合适？",
    "lang": "zh",
    "note": "对品牌方也是同样结构：一句原因、具体的新日期、一个先交一部分的方案，把选择交给对方。"
+  },
+  {
+   "id": "ask-for-extension-037",
+   "situation": "I bought a pair of hiking boots from Ridgeway Outdoor on 6 September (order 88213), and their 30-day return window closes on Tuesday 6 October. They're unworn and still boxed, but I'm travelling for work until Wednesday 14 October and can't get to the shop or a post office. I want to email them now to ask if I can return them by Friday 16 October.",
+   "reply": "Hi, I bought a pair of hiking boots from you on 6 September, order 88213, and the 30-day return window closes on Tuesday 6 October. They're unworn and still boxed, but I'm travelling for work until Wednesday 14 October and can't get to a shop or post office before then. Could you extend the return window for this order to Friday 16 October? If that isn't possible, could you tell me before Tuesday whether starting the return online would hold it? Thanks.",
+   "lang": "en",
+   "note": "A shop's deadline is still a deadline: ask before it passes, one line of reason, an exact new date, and a fallback question."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -253,6 +253,13 @@
    "reply": "Hey Jonas, ich hätte eine Bitte, und sag ruhig ab, wenn es nicht passt: Ich habe am Dienstag, 13. Oktober, um 18 Uhr eine Wohnungsbesichtigung in Schwabing, zehn Minuten von dir, und schaffe es aus Hamburg nicht hin. Könntest du dir die Wohnung für mich ansehen und ein paar Videos machen? Das wären etwa 45 Minuten. Wenn es nicht klappt, kein Problem, dann frage ich die Maklerin nach einer Videobesichtigung. So oder so lade ich dich zum Essen ein, wenn ich das nächste Mal in München bin.",
    "lang": "de",
    "note": "Zeit, Ort und Aufwand stehen in einer Nachricht, und der Plan B nimmt ihm den Druck."
+  },
+  {
+   "id": "ask-for-favor-037",
+   "situation": "我在读研二，毕业论文在做城市通勤的研究，问卷链接已经做好了：12道题，大约5分钟，匿名，不收集手机号，10月16日（周五）截止。想发到本科校友群里（300多人，大部分不认识我），填过的人想看的话，论文完成后我把结论摘要发给他们。",
+   "reply": "各位校友好，我是正在读研二的校友，想请大家帮个小忙：我的毕业论文在做城市通勤的研究，需要一份问卷，12道题，大约5分钟，匿名填写，不收集手机号。10月16日（周五）截止，链接放在下面。没时间或者不感兴趣的话直接划过就好，完全没关系。填过的朋友如果想看结论，私信我，论文完成后我把摘要发给你。",
+   "lang": "zh",
+   "note": "向一群陌生人求助：一次说清花多久、收不收个人信息、截止哪天，不点名、不催，划过去就当没看见。"
   }
  ]
 }

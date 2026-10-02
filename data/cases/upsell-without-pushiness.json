@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -246,6 +246,13 @@
    "reply": "Hi everyone, a short note from Ade. Your monthly bookkeeping carries on exactly as it is. From November I'm also offering an optional quarterly cash-flow review: a one-hour call where we go through your numbers and the quarter ahead, for $90 a quarter. It's most useful if you've had a surprise tight month or you're planning a big purchase or a hire; if your cash flow feels steady, you don't need it. If you'd like one, just reply to this email; otherwise there's nothing to do.",
    "lang": "en",
    "note": "A message to every client can't be tailored, so say plainly who it's for and who it isn't, and make doing nothing the no."
+  },
+  {
+   "id": "upsell-without-pushiness-036",
+   "situation": "I'm a travel agent. Mr Huang has just booked return flights to Lisbon for 12 to 26 November on a $640 non-refundable fare, for his mother's 70th birthday, and mentioned his leave from work isn't approved yet. The flexible fare is $720 and allows one free date change; on his fare a date change costs $150 plus any fare difference. I issue tickets at 6pm today and he can switch fares until then.",
+   "reply": "Thanks, Mr Huang, your flights to Lisbon for 12 to 26 November are held on the $640 fare. Since you mentioned your leave isn't approved yet, one thing to consider: the flexible fare is $80 more, at $720, and lets you change the dates once for free. On your current fare, a date change would cost $150 plus any fare difference. If you're confident about the dates, the fare you've picked is the better deal. I issue the tickets at 6pm today, so just let me know before then if you'd like to switch.",
+   "lang": "en",
+   "note": "The reason comes from his own worry, the numbers let him judge it, and the deadline is the real ticketing time, not pressure."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -246,6 +246,13 @@
    "reply": "I'm happy as I am, thanks. So you flew in from Denver for this, how was the trip?",
    "lang": "en",
    "note": "A near-stranger commenting on your body gets the shortest rung: one line of position, no explanation, a new subject; if she tries again, repeat the same line."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-036",
+   "situation": "I have two job offers, one in Leeds and one in Bristol, and I have to decide by Friday. My older sister Nina texts me several times a day about why Bristol is obviously the right choice. I haven't decided yet and want to think it through on my own first, then talk it over with her on Thursday evening.",
+   "reply": "Nina, I know you want this to go well for me, and I love you for it. I haven't decided yet, and I need a couple of days to think it through on my own, so could you hold the Bristol case for now? Call me on Thursday evening and I'll tell you where I've landed, and then I'd really like your take.",
+   "lang": "en",
+   "note": "When you haven't decided yet, you can still pause the advice: name the thinking time and give it a set place to come back."
   }
  ]
 }

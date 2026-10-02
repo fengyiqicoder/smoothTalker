@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -253,6 +253,13 @@
    "reply": "马总，跟您提前报备一下：我10月10日领结婚证，打算明年4月办婚礼，想按员工手册休10天婚假，2027年4月12日（周一）到21日（周三），22日（周四）回来上班。4月初的季度报表我4月9日前交完，客户对接交给小周，走之前我会跟他交接好。领证后我把结婚证复印件交给HR。您看这样安排可以吗？",
    "lang": "zh",
    "note": "提前半年请长假：日期、返岗日、依据的制度和交接一次说清，私事不用多讲；等领导确认，没回复不算批准。"
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-037",
+   "situation": "My close friend Tom died suddenly last weekend, and his funeral is in Glasgow on Thursday 8 October. Our handbook's bereavement leave only covers family, so I'll take Thursday and Friday as holiday and be back on Monday 12 October. Hassan has agreed to run Thursday's stock count, and I want to message my manager, Ruth, on Slack today.",
+   "reply": "Hi Ruth, I'd like to take Thursday 8 and Friday 9 October as holiday. A close friend has died and his funeral is in Glasgow on Thursday. Hassan has agreed to run Thursday's stock count. I'll be back on Monday 12 October. Can you approve?",
+   "lang": "en",
+   "note": "When the leave policy doesn't fit, use the category that does and keep the reason to one line; if the loss stays heavy, a GP or an employee assistance programme, if your company has one, can help."
   }
  ]
 }

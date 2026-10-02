@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -253,6 +253,13 @@
    "reply": "Thank you so much, Peter, that's really kind of you. One small change, if you don't mind: I'm not a doctor, so I keep health claims off my website. Could we keep it to what you noticed? Something like: \"After three sessions with Grace, I'm sleeping through the night again.\" Feel free to reword it, and if you'd rather leave it, that's completely fine. Thanks either way, Grace",
    "lang": "en",
    "note": "Keep testimonials to what the client experienced, not medical claims; if unsure, check the advertising rules for your profession."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-037",
+   "situation": "我在菜市场卖手工豆腐十年了，这个月刚在美团开了外卖店“老周豆腐坊”，一条评价都还没有。老顾客张阿姨上周第一次在美团上点了我家的外卖，今天来摊上买豆腐，说吃了我家豆腐十年，别家的都吃不惯。想当面请她帮忙写两句评价，但她不太会用手机。",
+   "reply": "张阿姨，谢谢您！十年了还这么照顾我生意。跟您说个小事：您上周在美团点的那单，方便的话在订单里写两句评价就行，一分钟的事。我们外卖店刚开，一条评价都还没有，新客人都是看评价下单的。不会弄也没关系，下回来我教您，不写也完全没事。",
+   "lang": "zh",
+   "note": "只请真正点过外卖的老顾客评价；当面请时说清写在哪、多短，给一个真的退路。"
   }
  ]
 }

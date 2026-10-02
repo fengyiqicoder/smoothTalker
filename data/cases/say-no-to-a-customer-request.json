@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -246,6 +246,13 @@
    "reply": "谢谢您这么信任我们，也看得出孩子很想跟好朋友一起上课。小班课这次报不了：小班是一个教练带6个孩子，家长不下水，所以要求满4岁，这是为了每个孩子在水里的安全。现在可以先上周六上午10点的亲子课，每节120元，您陪着她一起下水。明年3月她满4岁，我优先给她留小班的名额。",
    "lang": "zh",
    "note": "涉及安全的年龄线不破例；理由落在孩子的安全上，并主动给出现在能上的课和满龄后的安排。"
+  },
+  {
+   "id": "say-no-to-a-customer-request-036",
+   "situation": "I run a small tearoom, The Copper Kettle. A customer, Nadia, messaged asking if she can bring her dog, Pepper, inside on Sunday for her mum's birthday afternoon tea for four. We don't have dogs inside because our kitchen is open to the room and some of our regulars are allergic, but our covered garden terrace has heaters, takes dogs, and I can reserve the big table there for 3pm.",
+   "reply": "Thanks for asking ahead, Nadia, and happy birthday to your mum! We can't have dogs inside: our kitchen is open to the room, and some of our regulars are allergic. What I can do is reserve the big table on our covered garden terrace for 3pm on Sunday; it has heaters, and Pepper is very welcome out there. Shall I book it for four?",
+   "lang": "en",
+   "note": "The reason is the open kitchen and other guests, not 'policy', and the alternative keeps the birthday and the dog together."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -246,6 +246,13 @@
    "reply": "That's not something I'll go into, Carl; I keep health and leave out of references. What I can speak to is his work. He closed year-end on time every year I managed him, and he set up our expense approval workflow, which cut processing from 10 days to 3. I'm happy to answer anything else about how he did the job.",
    "lang": "en",
    "note": "Decline the health question in one line without hinting either way, then go straight back to the evidence; check your HR policy on what you can share."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-036",
+   "situation": "Our startup, Pinefold, shut down last week. I was head of design and managed Ollie Grant, a product designer, for two years: he ran 30 user interviews that led us to redesign onboarding, which lifted activation from 22% to 31%, and he built our design system on his own. He's looking for product design roles and asked me to post about him on LinkedIn, and he's happy for people to message him directly. I'd hire him again tomorrow.",
+   "reply": "Pinefold closed last week, and Ollie Grant, the product designer I managed for two years, is looking for his next role. Ollie ran the 30 user interviews that led us to redesign our onboarding, and activation went from 22% to 31%. He also built our design system on his own. If you're hiring a product designer, talk to him; he's happy for you to message him directly. I'd hire him again tomorrow.",
+   "lang": "en",
+   "note": "A public post for someone job hunting: post only with their go-ahead, lead with what they're looking for, and back it with one result."
   }
  ]
 }

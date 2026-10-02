@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -246,6 +246,13 @@
    "reply": "抱歉这么久才回你，这周项目上线忙晕了，是我不好。伴娘我当然愿意！11月7日我请好假，全天都是你的。什么时候试伴娘服，你说一声我就到。",
    "lang": "zh",
    "note": "一次性的小刺：认一句晚回，直接回答她真正问的事，不接“大忙人”那句。"
+  },
+  {
+   "id": "respond-to-passive-aggressive-036",
+   "situation": "Ma belle-soeur Camille organise le déjeuner de famille dimanche. Je lui ai demandé s'il y aurait un plat végétarien, et elle m'a répondu : « Ah oui, j'oublie toujours que Madame ne mange plus comme tout le monde 🙃 ». Je suis végétarienne depuis un an, je ne veux pas en faire une histoire, et je peux apporter un gratin de lentilles pour tout le monde.",
+   "reply": "Ha, oui, ça fait un an déjà ! Pas de souci, j'apporte un gratin de lentilles pour tout le monde dimanche, comme ça tu n'as rien de plus à prévoir. Je viens pour quelle heure ?",
+   "lang": "fr",
+   "note": "Une pique isolée se prend au pied de la lettre : on ne justifie pas son régime, on règle le problème pratique et on passe à la suite."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -246,6 +246,13 @@
    "reply": "小雨，先别再回那个电话里的人。真正的大使馆和警察不会在电话里让你保密、一个人去住酒店、开着视频汇报，这是专门针对留学生的骗局，很多人都遇到过，不是你的错。你告诉我不会给你惹任何麻烦。你现在在哪？把位置发我，我马上过去陪你，然后我们一起报警。",
    "lang": "zh",
    "note": "发完就打她存着的号码；联系不上她，或她说已经转了钱、被要求拍视频，马上打当地紧急电话报警，钱已转出的同时联系银行。"
+  },
+  {
+   "id": "suspicious-or-scam-message-036",
+   "situation": "I'm Sam Ellis, buying my first flat, 4 Rowan Court, with completion next Friday. This morning an email that looks like it's from my solicitor, Anjali Mehta at Kettlewell Conveyancing, said their bank details have changed and asked me to transfer the £38,500 deposit to the new account by 5pm tomorrow. I haven't sent anything; I'm calling her direct line from the engagement letter they posted me in August, 0161 496 0723.",
+   "reply": "Hi Anjali, it's Sam Ellis, buying 4 Rowan Court. This morning I got an email from what looks like your address saying your bank details have changed and asking me to send the £38,500 deposit to a new account by 5pm tomorrow. I haven't sent anything. Can you confirm whether your details have really changed? I won't transfer anything until we've checked the account details together on this call.",
+   "lang": "en",
+   "note": "Use the number from paperwork you already had, never one in the email. If it's fake, report it to your bank and the police; if any money has gone, call the bank straight away."
   }
  ]
 }

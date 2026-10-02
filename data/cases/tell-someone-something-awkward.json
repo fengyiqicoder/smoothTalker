@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -246,6 +246,13 @@
    "reply": "你好，书架收到了，很满意，谢谢！顺便小提醒一下：你在卖的那盏台灯，照片背景里有张快递单，能看清你的全名、地址和手机号，建议换一张图。拍照时很容易没注意到，别介意哈。",
    "lang": "zh",
    "note": "对陌生人也一样：私信说、一句话讲清、附上办法，不在评论区提，也不复述具体信息。"
+  },
+  {
+   "id": "tell-someone-something-awkward-036",
+   "situation": "I'm hosting a birthday barbecue in our garden. My partner's colleague Rachel, who I met an hour ago, has a period stain on the back of her light jeans and doesn't seem to have noticed. There's a spare cardigan on the hook by the back door and pads in the cabinet of the upstairs bathroom, and she's at the drinks table on her own right now.",
+   "reply": "Rachel, quick one, just between us: it looks like your period has come through a bit on the back of your jeans. Happens to everyone. There's a cardigan on the hook by the back door you're welcome to tie round, and pads in the cabinet in the upstairs bathroom.",
+   "lang": "en",
+   "note": "Wait until she's alone, say it once in a low voice with the fixes ready, then go back to hosting as if nothing happened."
   }
  ]
 }

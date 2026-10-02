@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -246,6 +246,13 @@
    "reply": "Bonjour M. Dubois, le colis de remplacement de votre commande 4417 est perdu lui aussi : le transporteur me l'a confirmé ce matin. Après deux pertes, je ne veux pas vous faire attendre une troisième fois sans votre accord. Deux options : je vous rembourse les 52 € aujourd'hui, ou je vous renvoie la commande lundi en envoi suivi avec signature, livrée le mardi 6 octobre, avec un coffret de 3 bougies offert. Sans réponse de votre part d'ici lundi, je vous rembourse. Toutes mes excuses pour ce double contretemps.\nLéa, atelier Mèche Claire",
    "lang": "fr",
    "note": "Après une deuxième perte, le remboursement devient l'option par défaut : on ne refait pas attendre le client sans son oui."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-036",
+   "situation": "我是网店卖帆布鞋的小陈。何女士把买的38码小白鞋（订单尾号8135，259元）寄回来换39码，退回的鞋已经收到了，但白色39码刚好卖完，厂家下一批10月14日（周三）到货。米色39码有现货，明天能发；也可以全额退款259元。她还不知道。",
+   "reply": "何女士您好，您换货的订单（尾号8135）出了点问题：退回的38码我们已经收到，但白色39码刚好卖完了，厂家下一批10月14日（周三）到货，到货当天给您发出。三种选择：一是等14日的白色39码，发出后把单号发您；二是换成米色39码，有现货，明天就发；三是回我“退款”，259元当天原路全额退回。没收到您回复的话，我就先给您留着14日的白色39码。给您添麻烦了。小陈",
+   "lang": "zh",
+   "note": "换货时缺码：先说退回的鞋已收到让她放心，再给日期、三个选择和默认做法。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -246,6 +246,13 @@
    "reply": "Danke für Ihre ehrliche Rückmeldung. Es tut mir leid, dass Sie nach Ihrem Besuch nicht wiederkommen möchten; das wünschen wir uns für niemanden. Ich würde gern verstehen, was passiert ist, damit wir es besser machen können. Schreiben Sie mir gern direkt an jonas@example.com. Jonas, Backstube Lindner",
    "lang": "de",
    "note": "Bei einer Bewertung ohne Details nichts raten und nichts bestreiten: kurz bedauern und einladen, es privat zu erklären."
+  },
+  {
+   "id": "respond-to-negative-review-036",
+   "situation": "I'm Ruth, adoption coordinator at Paws Harbor Rescue, a small animal rescue; my email is adopt@example.com. 'Kate S.' left a 1-star Google review saying we turned down her application to adopt a dog by a two-line email with no reason, and that we 'think we're too good for normal families'. We decline when a dog's needs don't match a home, but that email gave no reason; from now on everyone we decline gets a phone call from me explaining why and suggesting animals that might suit them better.",
+   "reply": "Thank you, Kate, for telling us how this felt. Hearing no through a two-line email with no reason is a poor way to be turned down, and that's on us. We match each animal to a home based on that animal's needs, and we don't discuss anyone's application in public. From now on, everyone we decline gets a phone call from me explaining why and suggesting animals that might suit them better. If you'd like that conversation, please email me at adopt@example.com. Ruth, adoption coordinator, Paws Harbor Rescue",
+   "lang": "en",
+   "note": "A rejected applicant's review: own how the no was delivered, never explain her application in public, and offer the reason privately."
   }
  ]
 }

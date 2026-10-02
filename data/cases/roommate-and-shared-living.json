@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -246,6 +246,13 @@
    "reply": "Hey Arjun, quick one about my stand mixer: when I went to use it, the bowl had a crack down the side. It might have happened without you noticing. A replacement bowl is £35; could you cover it by Friday? Happy to keep lending it, just give me a heads-up if anything breaks.",
    "lang": "en",
    "note": "Assume he didn't notice, give the cost and a date, and keep lending on the table so it stays about the bowl, not about him."
+  },
+  {
+   "id": "roommate-and-shared-living-036",
+   "situation": "我和室友小吴共用一台洗衣机。她经常把洗好的衣服在洗衣机里放一整天才拿出来，这周有两次我想洗衣服都只能干等。我们关系挺好，我想提议洗完两小时内拿出来，超过了另一个人可以帮忙放进对方门口的洗衣篮，我可以买两个洗衣篮。",
+   "reply": "小吴，跟你商量个洗衣机的小事哈。这周有两次我想洗衣服的时候，洗衣机里还放着洗好的衣服，只能等着。要不咱们定个规矩：洗完两小时内拿出来，超过了另一个人可以帮忙放进对方门口的洗衣篮，我的也一样。洗衣篮我来买两个。你觉得行吗？有更好的办法也可以说。",
+   "lang": "zh",
+   "note": "说发生了什么，不评价她拖拉；规矩对两个人一样，她点头之前不要动她的衣服。"
   }
  ]
 }

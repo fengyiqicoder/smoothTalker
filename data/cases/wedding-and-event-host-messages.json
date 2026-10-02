@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -246,6 +246,13 @@
    "reply": "Thanks for checking, Fiona, that's really thoughtful of you. Yes, please do: we'd love guests in Indian clothes or formal wear, whichever you're comfortable in, and the only ask for everyone is bright colours rather than all white or all black. If you'd like a hand with the draping, my aunt Meena is helping anyone who wants it at 9am in the bridal suite. I can't wait to see you on the 12th, and save some energy for the ceilidh!",
    "lang": "en",
    "note": "For a mixed-culture dress code, answer with the rule that applies to everyone and offer the help to all guests, not just the one who asked."
+  },
+  {
+   "id": "wedding-and-event-host-messages-036",
+   "situation": "Our wedding is Saturday 5 December: the ceremony and dinner are for 60 day guests, and the evening party from 8pm is for another 70 people. My colleague Hannah, an evening guest, asked if she could slip into the back of the church for the ceremony. My fiancé Joe and I have agreed the ceremony is for day guests only, for everyone, to keep it small.",
+   "reply": "Thanks for asking, Hannah, it's lovely that you'd want to be there. Joe and I have kept the ceremony to our day guests so it stays small, and it's the same for everyone. We can't wait to celebrate with you at the evening party from 8pm on the 5th.",
+   "lang": "en",
+   "note": "With two tiers of guests, the tier is the rule; one quiet exception at the back of the church becomes ten."
   }
  ]
 }

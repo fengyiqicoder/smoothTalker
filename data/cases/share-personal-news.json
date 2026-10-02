@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -246,6 +246,13 @@
    "reply": "Dear Joan and Bill, I wanted you to hear this from me before the children mention it: Paul and I are getting married in the spring. Mark will always be part of this family, and so will you. It would mean a great deal to me and to the kids if you came to the wedding. Take whatever time you need with this, and I'd love to come round and talk whenever you're ready.",
    "lang": "en",
    "note": "News that may reopen grief: tell them first and individually, say what doesn't change, and give them room to respond in their own time."
+  },
+  {
+   "id": "share-personal-news-036",
+   "situation": "My work visa renewal was refused, so after six years in Bristol I have to move back to Manila by Saturday 14 November. I'm gutted but I've made peace with it, and I'm not appealing. I've already told my two closest friends one to one; now I want to tell my eight-person board games group on WhatsApp, where what would help most is buyers for my furniture, and I'd love one last game night at mine on Friday 6 November.",
+   "reply": "Some news I'd rather you heard from me: my visa renewal was refused, so I'm moving back to Manila by 14 November. After six years in Bristol I'm gutted, but I've made peace with it and I'm not appealing, so no need to look for fixes. What would really help is buyers for my furniture; I'll post a list here this week. And I'd love one last game night at mine on Friday 6 November, if you can make it.",
+   "lang": "en",
+   "note": "Hard news with a practical ask: say you're not looking for fixes, and give people one concrete way to help."
   }
  ]
 }

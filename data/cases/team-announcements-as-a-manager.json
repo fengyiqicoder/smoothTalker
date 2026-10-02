@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -246,6 +246,13 @@
    "reply": "I need to tell you about a mistake involving your personal details. On Tuesday, a spreadsheet with our team's home addresses and personal phone numbers was emailed by mistake to an external supplier, Brackwell Freight. They've confirmed in writing that they deleted it, and IT has checked that no bank details were in it. This was a gap in how we stored that list, not one person's fault, so I won't be naming anyone, and fixing it is on me: from Monday, staff contact details move to a restricted HR folder. IT security will take a call with anyone who wants one before next Friday. If this raises a safety worry for you, for example about someone finding your address, come and talk to me privately today.",
    "lang": "en",
    "note": "Say what was exposed and what wasn't, without promising zero risk; if anyone fears for their safety, help them contact the police or a support service."
+  },
+  {
+   "id": "team-announcements-as-a-manager-036",
+   "situation": "我带一个9人的内容运营组。小罗10月30日（周五）调去品牌部，公司决定她的岗位不补人，这个决定我同意。她负责的公众号从日更改成每周三更，小红书交给阿美，视频号暂停到明年1月，其他人的工作不变。我已经单独跟小罗和阿美聊过，11月底会复盘一次大家的工作量，想在组里群发通知。",
+   "reply": "跟大家同步一件事：小罗10月30日（周五）调去品牌部，公司决定她的岗位不补人，这个决定我是同意的。少了一个人，活不能还是一样多，所以有三处调整：公众号从日更改成每周三更，小红书交给阿美，视频号暂停到明年1月。其他人手上的工作不变。11月底我会把大家的工作量复盘一次。如果你觉得负担变重了，别硬扛，这周单独找我聊。小罗，谢谢你这段时间的付出！",
+   "lang": "zh",
+   "note": "不补人的消息要直接说，紧接着说清砍掉了哪些活，免得大家以为要用更少的人干同样多的事。"
   }
  ]
 }
