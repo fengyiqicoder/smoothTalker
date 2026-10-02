@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -246,6 +246,13 @@
    "reply": "Thank you for sharing those stories about Vikram, it's been lovely to hear what he was like. I need to head off to collect my kids from school, and I'd like to find Raj before I go. Take care of yourself.",
    "lang": "en",
    "note": "At a funeral, a warm recap and a true reason are enough; the goodbye that matters most is the one to Raj."
+  },
+  {
+   "id": "end-conversation-gracefully-036",
+   "situation": "I asked Margaret, a director at another firm, for a 20-minute video call about moving into product management, and she said yes. We've hit 20 minutes and she's still happily answering, but I promised to keep it short and want to show I respect her time. The most useful thing she said was to shadow our own PMs for a month before applying anywhere.",
+   "reply": "Margaret, I promised to keep this to 20 minutes and we're there, so I'm going to wrap us up. Thank you, this has been so useful, especially the advice to shadow our PMs for a month before I apply anywhere. I'm going to start on that this month. Thanks again, and have a great rest of your day.",
+   "lang": "en",
+   "note": "When you asked for the time, you close it on time; if she offers to keep going, take one more question at most, then close again."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -246,6 +246,13 @@
    "reply": "Ollie, I'm so sorry, I have to bail on lunch: my manager has just pulled me into an emergency client call that will run until about 4. I know you're already on the train, which makes it worse. I'm sending you the £34 for the ticket now. If you're up for it, I can meet you at 4:30 near Paddington before your train home, or you come to mine for dinner next Saturday. Your call.",
    "lang": "en",
    "note": "When they're already travelling, tell them before they arrive, cover what it cost them, and give one option for today and one for later."
+  },
+  {
+   "id": "cancel-or-reschedule-036",
+   "situation": "我是研二学生，原定下周三下午3点向导师王教授汇报论文进度，但实验数据还没跑完，现在去只能讲一半。想改到下周五下午2点或者下下周一上午10点，那时能带完整结果。王教授平时用邮件联系。",
+   "reply": "王老师您好，下周三下午3点的进度汇报我需要改一下时间：实验数据还没跑完，现在汇报只能讲一半，我想等结果完整了再向您汇报。提前跟您说一声，免得占用您的时间。下周五下午2点或者下下周一上午10点，您看哪个方便？如果都不合适，您定一个时间，我来配合。谢谢老师！",
+   "lang": "zh",
+   "note": "对导师也是第一句说改期，理由说真话（数据没跑完），提前一周说，道歉就可以短，再给两个具体时间。"
   }
  ]
 }

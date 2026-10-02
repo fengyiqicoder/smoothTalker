@@ -4,8 +4,8 @@
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
-   "situation": "I run a small bakery. A regular customer asked if I can make a 4-tier wedding cake for 150 people. I only have one oven and do 2-tier max. She's lovely and I don't want to lose her. Marisol at Crumb & Co does big tiered cakes.",
-   "reply": "Thank you for thinking of us for the wedding, that means a lot! I don't make cakes above two tiers, with one oven I can't bake enough at once to keep a four-tier cake fresh and consistent. What I can do is a two-tier display cake for the table plus sheet cakes in the same flavour to serve 150, which a lot of couples do. Or I'd happily introduce you to Marisol at Crumb & Co, who does big tiered cakes beautifully.",
+   "situation": "I run a small bakery. A regular customer asked if I can make a 4-tier wedding cake for 150 people. I only have one oven and do 2-tier max. She's lovely and I don't want to lose her. I could do a 2-tier display cake plus sheet cakes in the same flavour to serve 150, or refer her to Marisol at Crumb & Co, who does big tiered cakes.",
+   "reply": "Thank you for thinking of us for the wedding, that means a lot! I don't make cakes above two tiers, with one oven I can't bake enough at once to keep a four-tier cake fresh and consistent. What I can do is a two-tier display cake for the table plus sheet cakes in the same flavour to serve 150. Or I'd happily introduce you to Marisol at Crumb & Co, who does big tiered cakes beautifully.",
    "lang": "en",
    "note": "The no in the first two sentences, the real reason in one line, then an alternative and a referral."
   },
@@ -25,91 +25,91 @@
   },
   {
    "id": "say-no-to-a-customer-request-004",
-   "situation": "我在杭州开民宿。有位客人10月3日周六入住，想上午十点就进房间，但前一组客人十二点才退房，保洁要两个小时。她是回头客，不想让她扫兴。",
+   "situation": "我在杭州开民宿。有位客人10月3日周六入住，想上午十点就进房间，但前一组客人十二点才退房，保洁要两个小时。她是回头客，不想让她扫兴。最早下午两点能进房，可以先寄存行李，房间好了我微信通知她，前一组提前退房也会告诉她。",
    "reply": "谢谢您提前告诉我们行程，又来住我们很开心！周六上午十点入住这次安排不了，前一组客人中午十二点退房，保洁需要两个小时，最早下午两点可以进房间。您十点到了可以先把行李放在前台，去西湖边走走、吃个午饭，房间一收拾好我马上微信通知您。如果前一组客人提前退房，我第一时间告诉您。",
    "lang": "zh",
    "note": "回头客也一样：第二句就说清做不到，理由讲一句，再把等房的四个小时安排得有用。"
   },
   {
    "id": "say-no-to-a-customer-request-005",
-   "situation": "I own a small climbing gym. Hannah, a member for 6 years, asked to freeze her membership for 3 months while she recovers from shoulder surgery. Our max freeze is 1 month because memberships are capped and there's a waitlist, but I'd like to help her.",
+   "situation": "I own a small climbing gym. Hannah, a member for 6 years, asked to freeze her membership for 3 months while she recovers from shoulder surgery. Our max freeze is 1 month because memberships are capped and there's a waitlist, but after six years I've decided to make an exception: frozen 1 October to 31 December at no charge.",
    "reply": "Hi Hannah, sorry to hear about the shoulder, and thanks for asking before cancelling. Our freeze is normally capped at one month, because memberships are limited and a frozen spot is one we can't offer to the waitlist. After six years with us, I'm making an exception: your membership is frozen from 1 October to 31 December at no charge and restarts on 1 January. Heal properly and we'll see you on the wall.",
    "lang": "en",
    "note": "When you bend a rule for a good reason, decide fast and call it an exception so it doesn't become the new baseline."
   },
   {
    "id": "say-no-to-a-customer-request-006",
-   "situation": "Sou personal trainer. Uma aluna, a Renata, pediu para eu mandar treinos pelo WhatsApp e responder dúvidas a qualquer hora, sem custo extra, além das duas aulas por semana. Não dá para mim: é o tempo em que preparo as aulas de todos os alunos. Tenho um plano de acompanhamento online completo por R$ 180 por mês.",
-   "reply": "Oi Renata, adoro ver você tão animada com os treinos! Acompanhamento pelo WhatsApp fora das aulas eu não consigo incluir no pacote atual: é o tempo que uso para preparar as aulas de todos os alunos. O que posso fazer é te mandar uma ficha para os dias sem aula, que eu atualizo uma vez por mês. Se um dia quiser acompanhamento online completo, tenho um plano de R$ 180 por mês e te explico como funciona.",
+   "situation": "Sou personal trainer. Uma aluna, a Renata, pediu para trazer uma amiga às duas aulas particulares por semana, sem custo extra. Não dá: a aula particular é montada para uma pessoa, e com duas eu não consigo corrigir a execução de cada uma com segurança. Tenho aula em dupla às quartas às 19h, por R$ 70 por pessoa, e posso dar uma aula experimental grátis para a amiga.",
+   "reply": "Oi Renata, que bom que você quer trazer sua amiga! Nas suas aulas particulares eu não consigo incluir mais uma pessoa: elas são montadas só para você, e com duas eu não consigo corrigir a execução de cada uma com segurança. O que posso fazer é uma aula experimental grátis para ela e, se ela gostar, vocês treinam juntas na aula em dupla das quartas às 19h, por R$ 70 por pessoa. Quer que eu marque a experimental?",
    "lang": "pt",
-   "note": "O não vem cedo, com o motivo real, e ela sai com uma alternativa grátis e uma paga."
+   "note": "O não vem cedo, com o motivo real (a qualidade e a segurança da aula), e as duas saem com um caminho para treinar juntas."
   },
   {
    "id": "say-no-to-a-customer-request-007",
-   "situation": "I sell hand-poured candles online. A customer, Olivia, emailed that her code FALL15 didn't work. It expired Sunday night (Sept 27), she placed the $64 order at full price today anyway, and she's asking if I can still apply the 15%. Her parcel ships Thursday, and my next newsletter code goes out on Thursday 15 October.",
+   "situation": "I sell hand-poured candles online. A customer, Olivia, emailed that her code FALL15 didn't work. It expired Sunday night (Sept 27), she placed the $64 order at full price today anyway, and she's asking if I can still apply the 15%. Her parcel ships Thursday and I can add a free wick trimmer, and my next newsletter code goes out on Thursday 15 October.",
    "reply": "Hi Olivia, thanks for the order, and for asking. FALL15 ended at midnight on Sunday 27 September, so it can't go on this one; I keep end dates firm so it stays fair to everyone who used it in time. What I can do is tuck a free wick trimmer into your parcel, which ships Thursday. The next newsletter code goes out on Thursday 15 October, if you'd like to use it on your next order.",
    "lang": "en",
    "note": "The no in the second sentence, the real reason (fairness) in one clause, and a small gift offered before she has to push."
   },
   {
    "id": "say-no-to-a-customer-request-008",
-   "situation": "I sell leather wallets on Etsy. A customer, Derek, asked me to emboss his initials, D.M.K., on the bifold he bought and I told him I don't personalise that model. He just sent a screenshot of my own listing saying 'personalisation available'. It's old text I forgot to update. The wallet was due to ship Friday 2 October; embossing would push that to Monday 5 October.",
+   "situation": "I sell leather wallets on Etsy. A customer, Derek, asked me to emboss his initials, D.M.K., on the bifold he bought and I told him I don't personalise that model. He just sent a screenshot of my own listing saying 'personalisation available'. It's old text I forgot to update, and I've now corrected it. I'll do the embossing at no charge. The wallet was due to ship Friday 2 October; embossing would push that to Monday 5 October.",
    "reply": "You're right, Derek, and thanks for sending the screenshot. The listing still said personalisation was available, which is my mistake, so I'll emboss D.M.K. on your wallet at no charge. Embossing adds a little time, so it ships Monday 5 October instead of Friday. I've corrected the listing so nobody else gets the same mixed message.",
    "lang": "en",
    "note": "A genuinely new fact changes the answer: say so, honour it without fuss, and fix the source so the exception doesn't become the baseline."
   },
   {
    "id": "say-no-to-a-customer-request-009",
-   "situation": "我们做一款给小餐馆用的收银小程序。老客户李老板开了三家面馆，要我们加一个按门店分开的会员积分功能。今年开发全年都排在外卖平台对接上，而且这个功能只有很少客户需要，不打算做。",
+   "situation": "我们做一款给小餐馆用的收银小程序。老客户李老板开了三家面馆，要我们加一个按门店分开的会员积分功能。今年开发全年都排在外卖平台对接上，而且这个功能只有很少客户需要，不打算做。现在可以给三家店各设一个会员标签、按标签导出积分明细，我明天下午能远程帮他设置，大概20分钟。",
    "reply": "李老板，谢谢您把需求说得这么细。按门店分开积分这个功能今年我们不做，开发这边全年都排在外卖平台对接上，我不想让您空等。现在能做到的是：给三家店各设一个会员标签，后台按标签导出积分明细，效果跟分店核算差不多。我明天下午可以远程帮您设置好，大概20分钟。您的需求我已经记下来，以后要是做了，第一时间告诉您。",
    "lang": "zh",
    "note": "功能请求：前两句就说不做，给一个真实理由，再主动给出现在就能用的替代办法；没排上的功能别说“在规划中”。"
   },
   {
    "id": "say-no-to-a-customer-request-010",
-   "situation": "I own a tattoo studio in Bristol. A mum messaged asking if we'll do her daughter's first tattoo, a small moon on the wrist, and says she'll sign consent. The daughter is 17 and turns 18 on November 20. UK law doesn't allow tattooing under-18s, even with a parent's consent.",
+   "situation": "I own a tattoo studio in Bristol. A mum messaged asking if we'll do her daughter's first tattoo, a small moon on the wrist, and says she'll sign consent. The daughter is 17 and turns 18 on November 20. UK law doesn't allow tattooing under-18s, even with a parent's consent. We can design it with her now and book her in for the day after her birthday.",
    "reply": "Thanks for asking first, it sounds like a lovely first piece. We can't tattoo anyone under 18, even with a parent's consent; that's UK law, not a studio rule. What we can do is design the moon with her now and book her in for Saturday 21 November, the day after her birthday. Want me to hold that slot?",
    "lang": "en",
    "note": "When the no is the law, say so in one clause; the alternative is the same tattoo on the first day it's allowed."
   },
   {
    "id": "say-no-to-a-customer-request-011",
-   "situation": "我在南京做手作蛋糕，只送主城区15公里以内。有位客人订了10月3日（周六）的生日蛋糕，想让我送到溧水，大概60公里。来回要三个小时，我一个人做一个人送，那天还有别的单。店里有保温箱和冰袋。",
+   "situation": "我在南京做手作蛋糕，只送主城区15公里以内。有位客人订了10月3日（周六）的生日蛋糕，想让我送到溧水，大概60公里。来回要三个小时，我一个人做一个人送，那天还有别的单。店里有保温箱和冰袋，她可以当天下午2点后到店自提，或者约个跑腿，我打包好交给师傅。",
    "reply": "谢谢您选我们家的蛋糕！溧水我这边送不了，我是一个人做一个人送，来回三个小时会耽误当天其他客人的蛋糕。可以这样：10月3日下午2点后您来店里自提，我用保温箱加冰袋装好，路上一个多小时没问题；或者您约个跑腿，我负责打包好交给师傅。您看哪个方便？",
    "lang": "zh",
    "note": "先说送不了，理由一句讲清楚，再主动给两个能落地的办法，不让客人自己去想。"
   },
   {
    "id": "say-no-to-a-customer-request-012",
-   "situation": "我做上门家电清洗，空调清洗一台150元。有位客户家里5台，要我打到100一台，说别家就这个价。我们每台都拆面板、高压冲洗蒸发器，一台要四十分钟左右，100一台我连人工都不够。",
+   "situation": "我做上门家电清洗，空调清洗一台150元。有位客户家里5台，要我打到100一台，说别家就这个价。我们每台都拆面板、高压冲洗蒸发器，一台要四十分钟左右，100一台我连人工都不够。5台一起我最多能给到每台130。",
    "reply": "谢谢您考虑我们，5台一起做确实量不小。100一台我这边做不了，我们每台都拆面板、高压冲洗蒸发器，一台要四十分钟左右，这个价格覆盖不了。5台一起我可以算每台130，一共650，一次上门全部做完。如果您更看重价格，选别家也完全理解，以后有需要随时找我。",
    "lang": "zh",
    "note": "砍价时先明确说不，讲清价格背后是什么，再主动给一个你真能接受的数量优惠，而不是被压着一点点让。"
   },
   {
    "id": "say-no-to-a-customer-request-013",
-   "situation": "I run a small auto body shop. A repeat customer, Greg, paid $850 for a bumper repair and asked me to write $1,200 on the invoice so his insurance pays out more. He's a nice guy and I don't want to lose him.",
+   "situation": "I run a small auto body shop. A repeat customer, Greg, paid $850 for a bumper repair and asked me to write $1,200 on the invoice so his insurance pays out more. He's a nice guy and I don't want to lose him. I can have a fully itemised invoice with parts, labour hours and before-and-after photos ready tomorrow afternoon.",
    "reply": "Thanks, Greg, and I get it, insurance never seems to cover enough. I can't put $1,200 on the invoice; it has to show the $850 you actually paid, or it puts both of us at real risk. What I can do is a fully itemised invoice with parts, labour hours and before-and-after photos, which gives your claim the best shot at covering everything it should. I'll have it ready for you by tomorrow afternoon.",
    "lang": "en",
    "note": "A request to misstate an invoice is a firm no; offer the honest version that genuinely helps the claim."
   },
   {
    "id": "say-no-to-a-customer-request-014",
-   "situation": "我在成都开了个小摄影工作室，婚纱照套餐是精修60张。客人刘小姐拍完后想要全部1,200张原片，说“反正都是拍我的”。我们一直不给全部原片，套餐外加精修每张30元。",
+   "situation": "我在成都开了个小摄影工作室，婚纱照套餐是精修60张。客人刘小姐拍完后想要全部1,200张原片，说“反正都是拍我的”。我们一直不给全部原片，套餐外加精修每张30元，可以把全部照片做成带小水印的预览图给她挑。",
    "reply": "刘小姐好，谢谢您这么喜欢这次的照片！全部原片我们不提供，原片里有大量试光、闭眼和没调色的片子，发出去代表不了成片的水准。可以这样：我把全部照片做成带小水印的预览图发给您挑，套餐的60张之外，想多加精修的每张30元，所有精修片都给高清无水印大图。您挑好后直接把编号发我就行。",
    "lang": "zh",
    "note": "说清原片不给是为了保证交付的成片质量，同时主动给出付费加修的路径，而不是一句“规定如此”。"
   },
   {
    "id": "say-no-to-a-customer-request-015",
-   "situation": "I run a solo dog-walking business. Mrs. Ferreira, a client for two years, asked me to add her new rescue, Bruno, to her lab Daisy's group walks. At our meet-and-greet on Monday Bruno lunged at two other dogs, and I don't take reactive dogs in groups. My solo 30-minute walks are $22.",
+   "situation": "I run a solo dog-walking business. Mrs. Ferreira, a client for two years, asked me to add her new rescue, Bruno, to her lab Daisy's group walks. At our meet-and-greet on Monday Bruno lunged at two other dogs, and I don't take reactive dogs in groups. My solo 30-minute walks are $22, and I'd try a group intro later if he gets more comfortable.",
    "reply": "Thanks for thinking of me for Bruno, and congratulations on adopting him! I can't add him to the group walks; after how he reacted to the other dogs on Monday, it wouldn't be safe for him or the rest of the group. What I can do is a 30-minute solo walk for Bruno on the same days, at $22 a walk, while he settles in. Daisy's walks carry on exactly as they are, and if Bruno gets more comfortable around other dogs later on, I'm happy to try a group intro then.",
    "lang": "en",
    "note": "A safety no: the reason is the dogs, not a rule, and the paid solo option is offered before she has to ask."
   },
   {
    "id": "say-no-to-a-customer-request-016",
-   "situation": "I sell hand-knit baby blankets from home in Ohio, $45 each, and only ship within the US. A customer, Megan, asked in a public comment under my latest post on my shop account whether I'll ship to Australia, and a few other people liked her comment. Shipping one blanket there would cost about $58.",
+   "situation": "I sell hand-knit baby blankets from home in Ohio, $45 each, and only ship within the US. A customer, Megan, asked in a public comment under my latest post on my shop account whether I'll ship to Australia, and a few other people liked her comment. Shipping one blanket there would cost about $58; I'm happy to ship gift-wrapped to someone in the US for her.",
    "reply": "Thanks for asking, Megan! I only ship within the US for now; sending a blanket to Australia costs about $58, more than the $45 blanket itself, and I'd rather not ask anyone to pay that. If you have family or a friend in the US, I'm happy to ship there, gift-wrapped for the trip. I'll post here if that ever changes.",
    "lang": "en",
    "note": "A no in public is read by everyone who liked the comment: keep it short, give the real number, and offer the workaround where they can all see it."
@@ -123,7 +123,7 @@
   },
   {
    "id": "say-no-to-a-customer-request-018",
-   "situation": "我开了一家小钢琴教室。学生家长陈妈妈想要另一位学生乐乐妈妈的手机号，说两个孩子都是周六上午的课，想约着拼车接送。我们从不把家长的联系方式给别人。",
+   "situation": "我开了一家小钢琴教室。学生家长陈妈妈想要另一位学生乐乐妈妈的手机号，说两个孩子都是周六上午的课，想约着拼车接送。我们从不把家长的联系方式给别人，但可以把她的微信转告乐乐妈妈。",
    "reply": "陈妈妈，谢谢您想到拼车，这个主意挺好的。乐乐妈妈的手机号我不能直接给您，家长留给我们的联系方式只用来联系上课的事，没经过本人同意不外传，您的号码我们也一样保护着。我可以把您的微信和拼车的想法转告乐乐妈妈，她愿意的话会直接加您。您看这样行吗？",
    "lang": "zh",
    "note": "涉及别人隐私的请求：先说不，说清保护的是谁，再主动当中间人，把决定权留给另一位家长。"
@@ -147,7 +147,7 @@
    "situation": "I run a small bakery. A mum, Rachel, wants a birthday cake for her son Max, who's turning 5 and has a severe peanut allergy, and asked me to promise it will be completely nut-free. We bake with peanuts and almonds in the same kitchen, so I can't rule out traces. Little Oak Bakes across town is a dedicated nut-free bakery.",
    "reply": "Thank you for thinking of us for Max's birthday, Rachel. I can't promise a completely nut-free cake: we bake with peanuts and almonds in the same kitchen, and with a severe allergy even a trace matters. Little Oak Bakes across town is a dedicated nut-free bakery, so they can give you the guarantee I can't. I'd love to bake for you another time, whenever nuts aren't a worry.",
    "lang": "en",
-   "note": "When the risk is someone's health, the no stays a no: don't soften it to 'we're very careful', and point them to someone who can say yes safely."
+   "note": "When the risk is someone's health, the no stays a no: don't soften it to 'we're very careful', and point them to someone who can say yes safely. Questions about what's safe for Max go to his allergist or doctor."
   },
   {
    "id": "say-no-to-a-customer-request-022",
@@ -210,7 +210,7 @@
    "situation": "I own a small café with one big six-seat table. A regular, Sam, who works remotely, DM'd on Instagram asking if he can reserve that table every weekday from 9 to 5 for himself and two colleagues. We don't reserve tables during the day because the big table is where groups sit at lunch; they're welcome at it any morning until 11:30, and the three window seats by the sockets are free all day.",
    "reply": "Thanks, Sam, it's great having you work from here. We don't reserve tables during the day, and the big table is where groups sit at lunch, so I can't hold it 9 to 5. You and your colleagues are welcome at it any morning until 11:30, and the three window seats by the sockets are free all day.",
    "lang": "en",
-   "note": "The reason is the lunch groups, not 'policy', and the alternative covers most of his day without promising a reservation."
+   "note": "A DM no in three sentences: the reason is the lunch groups, not 'policy', and the alternative covers most of his day without promising a reservation."
   },
   {
    "id": "say-no-to-a-customer-request-031",

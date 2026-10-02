@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -246,6 +246,13 @@
    "reply": "Dear Mrs. Abbott, thank you for your kind email. It meant a great deal to the team, and we were glad his letters and medals made it safely to you. If, at some point, you felt like writing a few lines at example.com/kindly-cleared-reviews, it would help other families find someone they can trust at a hard time. Please don't feel you need to; your message was thanks enough.",
    "lang": "en",
    "note": "When the job sits next to a loss, ask once, with no time pressure, and never send a reminder."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-036",
+   "situation": "I'm Grace, a massage therapist. My client Peter kindly offered a testimonial for my website and sent: 'Grace cured my sciatica in three sessions.' I'm not a doctor and don't want to claim massage cures anything, but he also told me he's sleeping through the night again after three sessions.",
+   "reply": "Thank you so much, Peter, that's really kind of you. One small change, if you don't mind: I'm not a doctor, so I keep health claims off my website. Could we keep it to what you noticed? Something like: \"After three sessions with Grace, I'm sleeping through the night again.\" Feel free to reword it, and if you'd rather leave it, that's completely fine. Thanks either way, Grace",
+   "lang": "en",
+   "note": "Keep testimonials to what the client experienced, not medical claims; if unsure, check the advertising rules for your profession."
   }
  ]
 }

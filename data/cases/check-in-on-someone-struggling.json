@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -246,6 +246,13 @@
    "reply": "小凯，最近老想起你，这条不用回。下周六我回家，中午带你去楼下那家牛肉面，就咱俩，吃完陪你打两把游戏。想聊什么都行，不想聊也没关系。平时想吐槽什么，QQ上随时找我。",
    "lang": "zh",
    "note": "对青少年别追问学校的事，也别急着给建议；如果他提到不想活或想伤害自己，直接问他是否安全，马上告诉父母和学校，必要时打120或心理援助热线。"
+  },
+  {
+   "id": "check-in-on-someone-struggling-036",
+   "situation": "My uncle Ray, 66, retired in August after 38 years driving buses. My aunt says he mostly sits in front of the TV now and has stopped going to his Thursday darts night. He's not one for feelings talk but loves a practical job, and I'm repainting my shed on Saturday from 10 and can do bacon rolls.",
+   "reply": "Uncle Ray, I've been thinking about you since the big retirement. No need to reply properly to this. I'm repainting my shed on Saturday from 10 and could use someone who actually knows what he's doing; bacon rolls are on me. Just reply 'in' or 'not this week', both are completely fine.",
+   "lang": "en",
+   "note": "For someone who won't do feelings talk, offer a job done side by side, and leave out what your aunt told you so he doesn't feel watched. If the low mood deepens, offer once to help him find support."
   }
  ]
 }

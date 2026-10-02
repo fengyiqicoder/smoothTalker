@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -246,6 +246,13 @@
    "reply": "Can I raise a small thing, not a big deal? At the Okafors' on Saturday you corrected a few details while I was telling stories, like the day or the number, and each time I lost the thread and felt a bit silly. Could you let the small details go while I'm telling it, and tell me afterwards if one really matters? I'll do the same for you.",
    "lang": "en",
    "note": "One behaviour, one recent example, and an ask that still lets her correct something that matters."
+  },
+  {
+   "id": "ask-to-change-behavior-036",
+   "situation": "Meine Schwiegermutter Gisela räumt bei jedem Besuch unsere Küchenschränke um, letzten Sonntag die Gewürze und die Töpfe, und ich suche danach tagelang. Sie meint es gut und hilft gern, und unsere Tochter Mia backt am liebsten mit ihr. Sie kommt nächsten Sonntag wieder, und ich will ihr vorher auf WhatsApp schreiben.",
+   "reply": "Liebe Gisela, eine kleine Bitte vor Sonntag, ganz ohne Ärger. Bei deinen Besuchen räumst du oft unsere Küchenschränke um, letzten Sonntag die Gewürze und die Töpfe, und ich suche danach tagelang alles zusammen. Könntest du die Schränke einfach so lassen, wie sie sind? Wenn du Lust hast mit anzupacken: Mia würde sich riesig freuen, am Sonntag mit dir zu backen. Wir freuen uns auf dich!",
+   "lang": "de",
+   "note": "Ein Verhalten, die Wirkung auf dich und ein anderer Weg, wie sie helfen kann, damit die Bitte nicht wie eine Zurückweisung klingt."
   }
  ]
 }

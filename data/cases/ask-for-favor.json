@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -246,6 +246,13 @@
    "reply": "Hi Grace, it's Owen from flat 2. Could I ask a small favour? Our remortgage deed needs a witness who isn't family, which means watching me sign and then adding your name, address and signature. It takes about 10 minutes, any evening before Thursday that suits you. If you'd rather not, no problem at all, I'll ask someone at work.",
    "lang": "en",
    "note": "Say exactly what witnessing involves, including that their address goes on the form, so the yes is informed."
+  },
+  {
+   "id": "ask-for-favor-036",
+   "situation": "Ich ziehe im Dezember von Hamburg nach München und habe am Dienstag, 13. Oktober, um 18 Uhr eine Wohnungsbesichtigung in Schwabing, kann aber nicht hinfahren. Mein früherer Mitbewohner Jonas wohnt zehn Minuten entfernt; ich möchte ihn bitten, sich die Wohnung etwa 45 Minuten lang anzusehen und ein paar Videos zu machen. Wenn er nicht kann, frage ich die Maklerin nach einer Videobesichtigung, und beim nächsten Besuch lade ich ihn zum Essen ein.",
+   "reply": "Hey Jonas, ich hätte eine Bitte, und sag ruhig ab, wenn es nicht passt: Ich habe am Dienstag, 13. Oktober, um 18 Uhr eine Wohnungsbesichtigung in Schwabing, zehn Minuten von dir, und schaffe es aus Hamburg nicht hin. Könntest du dir die Wohnung für mich ansehen und ein paar Videos machen? Das wären etwa 45 Minuten. Wenn es nicht klappt, kein Problem, dann frage ich die Maklerin nach einer Videobesichtigung. So oder so lade ich dich zum Essen ein, wenn ich das nächste Mal in München bin.",
+   "lang": "de",
+   "note": "Zeit, Ort und Aufwand stehen in einer Nachricht, und der Plan B nimmt ihm den Druck."
   }
  ]
 }

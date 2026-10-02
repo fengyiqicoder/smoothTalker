@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -239,6 +239,13 @@
    "reply": "Hi Dr Okafor, a quick heads up about this week's slides on the course page: slide 14 has a spreadsheet screenshot that shows several students' names and midterm marks. It might be worth taking the file down and re-uploading it without that slide. Easy thing to miss in a long deck. Best wishes, Maya Chen",
    "lang": "en",
    "note": "Name the slide and the fix, not whose marks you saw, and don't mention it on the course forum."
+  },
+  {
+   "id": "tell-someone-something-awkward-035",
+   "situation": "我在二手平台上跟一个陌生卖家买了个书架，周三收到货，挺满意。翻她其他在售商品时发现，一张台灯照片的背景里有张快递单，能看清她的全名、小区地址和手机号。想通过平台私信提醒她。",
+   "reply": "你好，书架收到了，很满意，谢谢！顺便小提醒一下：你在卖的那盏台灯，照片背景里有张快递单，能看清你的全名、地址和手机号，建议换一张图。拍照时很容易没注意到，别介意哈。",
+   "lang": "zh",
+   "note": "对陌生人也一样：私信说、一句话讲清、附上办法，不在评论区提，也不复述具体信息。"
   }
  ]
 }

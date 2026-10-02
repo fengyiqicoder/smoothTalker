@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -239,6 +239,13 @@
    "reply": "跟大家说一件事：今年1月的年会取消了。原因是今年公司利润下滑，要控制费用，这个决定我是同意的。我知道很多人每年都盼着年会抽奖，这次确实少了一份热闹。公司会给每人发一张300元购物卡，春节前随工资一起发。另外我们部门自己聚一次餐，人均150元由部门经费出，我稍后在群里发投票，大家选时间。有想法随时找我。",
    "lang": "zh",
    "note": "取消福利也是坏消息：第一句说清取消，承认大家的失望，再说清补上了什么，不用“惊喜”包装。"
+  },
+  {
+   "id": "team-announcements-as-a-manager-035",
+   "situation": "I manage a team of 12 at a logistics firm. On Tuesday a spreadsheet with all 12 of our home addresses and personal phone numbers was emailed by mistake to an external supplier, Brackwell Freight; they've confirmed in writing that they deleted it, and IT says no bank details were in it. I see it as a gap in how we stored the list, not one person's fault, so I won't name who sent it; from Monday staff contact details move to a restricted HR folder, and IT security will take a call with anyone who wants one before next Friday. Posting in team Slack.",
+   "reply": "I need to tell you about a mistake involving your personal details. On Tuesday, a spreadsheet with our team's home addresses and personal phone numbers was emailed by mistake to an external supplier, Brackwell Freight. They've confirmed in writing that they deleted it, and IT has checked that no bank details were in it. This was a gap in how we stored that list, not one person's fault, so I won't be naming anyone, and fixing it is on me: from Monday, staff contact details move to a restricted HR folder. IT security will take a call with anyone who wants one before next Friday. If this raises a safety worry for you, for example about someone finding your address, come and talk to me privately today.",
+   "lang": "en",
+   "note": "Say what was exposed and what wasn't, without promising zero risk; if anyone fears for their safety, help them contact the police or a support service."
   }
  ]
 }

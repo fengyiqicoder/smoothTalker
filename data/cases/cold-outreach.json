@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -245,6 +245,13 @@
    "reply": "Subject: Licensing your tea terraces photo for a tin label\n\nHi Tomas,\nYour photo of the misty tea terraces at dawn is exactly the feeling I want on our next tin. I run Kettle & Field, a small tea company, and I'd like to license it for the label: a first run of 2,000 tins, a flat €400, and your name credited on every tin. Our first tin sold out its 1,500-tin run in five weeks. Would you be open to it? If not, a quick no is genuinely helpful.\nElla Novak",
    "lang": "en",
    "note": "A licensing ask: name the exact image, the use, the run size and the fee up front, so the creator can answer without a call."
+  },
+  {
+   "id": "cold-outreach-036",
+   "situation": "I'm Ben Ortiz and I sell Shelfsense, shelf sensors that flag low stock for small pharmacies: £39 a month per store, sensors included, no contract, with a 30-day free trial. Last week I cold-emailed Linda Moss, who owns two independent pharmacies, and she replied with one line: 'How much is it?'",
+   "reply": "Hi Linda, thanks for asking. It's £39 a month per store, sensors included, so £78 for both pharmacies, with no contract. You can try it free for 30 days first. Would you like me to set up a trial at one of the stores? A no is genuinely fine too.\nBen",
+   "lang": "en",
+   "note": "When they ask the price, give it in the first line with no hedging or call request, then one small yes/no next step."
   }
  ]
 }

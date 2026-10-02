@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -246,6 +246,13 @@
    "reply": "刘姐，我是周明。老赵走了，我心里一直过不去。他跟了我八年，每次干完活都把工地扫得干干净净，好多客户都点名要他。他9月和10月这几天的工资，我这周内一并转给您；公司这边要办的手续我来跑，您不用来回奔波。您不用回我。",
    "lang": "zh",
    "note": "雇主写给家属：一个具体的记忆，加上只有你能做的实际安排，不提事故细节，也不催她做任何事。"
+  },
+  {
+   "id": "condolences-and-support-036",
+   "situation": "I'm Sunita, a home carer. For two years I visited Mrs. Evans every morning; she always had the crossword half done and saved the hardest clues for me. She died last week, and I want to write a card to her daughter, Claire, whom I've met a few times.",
+   "reply": "Dear Claire,\nI was so sorry to hear about your mum. For two years she greeted me every morning with the crossword half done, saving the hardest clues for me, and those mornings were a real highlight of my work. It was a privilege to look after her. No need to reply to this card.\nWith warm wishes,\nSunita",
+   "lang": "en",
+   "note": "From a carer, the everyday memory only you have is the gift; no offer is needed, and the card asks nothing of the family."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -246,6 +246,13 @@
    "reply": "杜经理您好，我是财务部新入职的孙悦，想请您帮忙推动一下我的ERP系统权限。9月21日我提了IT工单IT-3087，9月24日和29日跟负责的小张确认过，都说还在排队；我已经跟小张说了会联系您，陈经理也知道。我从10月12日（周一）起要独立做月结，没有ERP权限就没法开展。能否请您在10月9日（周五）前安排开通，或者告诉我还缺哪些审批？谢谢！",
    "lang": "zh",
    "note": "新人找IT主管也按升级的写法：工单号、跟进过的日期、截止日和一个请求，并且先跟经手的同事打招呼。"
+  },
+  {
+   "id": "escalate-an-issue-036",
+   "situation": "I'm Priya Nair, on the phone with Tidewren Air's baggage line. My suitcase from flight 218 last Sunday has been missing for five days (file reference LHR-55821); I called on Tuesday, Wednesday and Thursday and was told each time that it's 'being traced', with no update. It has the dress I'm wearing to my sister's wedding next Saturday, and the agent is about to read me the same script, so I want to ask politely for a supervisor who can give me a date.",
+   "reply": "I know you're working from the same system, and this isn't about you. This is my fourth call about file LHR-55821, my suitcase from flight 218 last Sunday; on Tuesday, Wednesday and Thursday I was told it's being traced, with no update. It has the dress for my sister's wedding next Saturday. Could you put me through to a supervisor who can tell me where the bag is and give me a delivery date? If nobody is free right now, could you book a supervisor callback for today and give me a reference for this call?",
+   "lang": "en",
+   "note": "On a live call, the agent is the person you're going past, so the 'not about you' line comes first; note their name and the call reference."
   }
  ]
 }

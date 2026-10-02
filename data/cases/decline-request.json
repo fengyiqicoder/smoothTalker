@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "decline-request-001",
@@ -246,6 +246,13 @@
    "reply": "Hugo, je vois que tu cherches un endroit pour tes 30 ans. Pour l'appart, ce sera non : je ne le prête pas pour des fêtes, et c'est pareil pour tout le monde. Par contre, je te prête volontiers mes guirlandes lumineuses et ma grosse enceinte, où que tu fasses la fête. Et bon anniversaire d'avance !",
    "lang": "fr",
    "note": "Une règle valable pour tous évite de débattre des risques ; le prêt du matériel est le petit oui, et seulement parce qu'il est réel."
+  },
+  {
+   "id": "decline-request-036",
+   "situation": "Mein neuer Nachbar, Herr Yilmaz, hat geklingelt und gefragt, ob er ein paar Wochen mein WLAN mitbenutzen darf, bis sein eigener Anschluss freigeschaltet ist. Mein WLAN-Passwort gebe ich grundsätzlich niemandem außerhalb der Familie. Ich will freundlich bleiben, wir wohnen Tür an Tür.",
+   "reply": "Danke, dass Sie einfach fragen, Herr Yilmaz, ohne Internet zu sein ist wirklich lästig. Mein WLAN teile ich aber nicht: Das Passwort bekommt bei mir niemand außerhalb der Familie, das halte ich bei allen so. Ich hoffe, Ihr Anschluss ist bald freigeschaltet. Willkommen im Haus!",
+   "lang": "de",
+   "note": "Eine Regel für alle statt technischer Gründe; ein kleineres Ja gibt es hier nicht, also wird keins erfunden."
   }
  ]
 }

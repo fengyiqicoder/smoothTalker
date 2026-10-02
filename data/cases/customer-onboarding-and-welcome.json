@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -246,6 +246,13 @@
    "reply": "Hi Tomasz, thanks for choosing me for the café's bookkeeping, I'm glad to have you on board. To get started I need two things by Friday 9 October: adviser access to your accounting software, and the attached authority letter, signed. With the letter I'll request your records from your previous bookkeeper myself, so there's nothing for you to chase. Your first monthly report will be with you by Tuesday 10 November. Any questions, reply here; I answer within one working day. Priya",
    "lang": "en",
    "note": "When a client is switching providers, take the handover with the old one off their plate and say so in the welcome."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-036",
+   "situation": "I'm Bridget, volunteer secretary of Hillside Community Garden. Joel just paid the £40 yearly fee for plot 17; I'll meet him at the main gate on Saturday 10 October at 10am for an induction walk and hand over the shed key, and by Wednesday 7 October I need an emergency contact name and number for our records. There's an optional work party every Sunday from 10 to 12, and as a volunteer I reply to emails within a couple of days.",
+   "reply": "Hi Joel, welcome to Hillside Community Garden, and thank you for taking on plot 17! I'll meet you at the main gate on Saturday 10 October at 10am for a walk round, and I'll hand over the shed key then. Before that, could you send me an emergency contact name and number by Wednesday 7 October, for our records? I'm a volunteer, so I usually reply to emails within a couple of days. One tip: there's an optional work party every Sunday from 10 to 12, a nice way to meet the other plot holders.\nBridget",
+   "lang": "en",
+   "note": "Volunteer-run membership: date, place and the one record you need, plus an honest reply time so a slow answer never reads as being ignored."
   }
  ]
 }

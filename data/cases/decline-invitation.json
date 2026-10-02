@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -246,6 +246,13 @@
    "reply": "Thanks for organising, Tom. I'm a no for the ski week, the new job won't stretch to a week off in February. Have the best time, and count me in for dinner when you're all back.",
    "lang": "en",
    "note": "In a group chat, answer the organiser's question in one line so they can count heads; one short true reason, and the warmth goes into the dinner."
+  },
+  {
+   "id": "decline-invitation-036",
+   "situation": "My friend Ruth has invited me to three things in a row; I said no to the first two, a gig and her book launch, for real reasons. Now she's asked me to her allotment harvest lunch on Sunday and I genuinely can't go, it's my nephew's christening. I'm worried she'll think I'm avoiding her; I'm free Wednesday evening and would love to have dinner with her.",
+   "reply": "Thanks for asking me again, Ruth, I really do want to see you. I can't do Sunday, it's my nephew's christening. I know I've missed the last couple of things too, so let me sort the next one: dinner on Wednesday evening?",
+   "lang": "en",
+   "note": "After a run of no's, the concrete plan carries the message; name the pattern once and don't re-explain the earlier declines."
   }
  ]
 }

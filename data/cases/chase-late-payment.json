@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -246,6 +246,13 @@
    "reply": "Subject: Account statement, two invoices overdue\n\nHi Tom,\nHere's where the Bluebell Corner account stands (statement attached):\n#W-2208, £320, due 5 September\n#W-2215, £410, due 19 September\n#W-2222, £290, due 3 October, not yet due\nThe two overdue invoices come to £730. Could you pay that by Monday 5 October, to the bank details on the statement? Under the trade account form you signed, deliveries pause once any invoice is 30 days overdue, and #W-2208 reaches that point on Monday, so I'd like us to settle it before then. If anything on the statement looks wrong, tell me and I'll check it today.\nThanks,\nHana",
    "lang": "en",
    "note": "Several invoices: one statement, the overdue total as a single number, the one not yet due listed but not chased, and only the consequence the signed terms set out."
+  },
+  {
+   "id": "chase-late-payment-036",
+   "situation": "I'm Dev Malik, a self-employed electrician. I rewired a house extension as a subcontractor for builder Gary Holt; he paid 95% and held back 5% retention, £620, which clause 9 of our signed subcontract says is released 30 days after practical completion. Sign-off was 14 August, so it was due on 13 September; when I asked on WhatsApp on 20 September he said 'end of the month', nothing has arrived, and my bank details are on the original invoice.",
+   "reply": "Hi Gary, following up on the retention for the extension rewire: £620, the 5% held back, which clause 9 of our subcontract releases 30 days after practical completion. Sign-off was 14 August, so it was due on 13 September, and on the 20th you mentioned the end of the month. It hasn't come through yet. Could you send it by Friday 9 October, to the bank details on the original invoice, or tell me today if anything is holding it up? Thanks, Dev",
+   "lang": "en",
+   "note": "Retention is easy to forget on both sides: quote the clause and the sign-off date so the due date isn't up for debate, and save any firmer step for after the new date passes."
   }
  ]
 }

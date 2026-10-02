@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -245,6 +245,13 @@
    "reply": "Aurélie, j'ai une demande un peu particulière. Avec Mathieu, on se lance pour devenir famille d'accueil, et on nous demande deux références personnelles. Tu nous connais depuis douze ans et tu nous confies tes enfants le mercredi, alors tu serais notre premier choix. Concrètement, une travailleuse sociale t'appellerait puis te rencontrerait, environ une heure, en octobre ou novembre. Si ça te paraît trop, ou si ce n'est pas le bon moment, dis-le-moi sans hésiter, ça ne change rien entre nous.",
    "lang": "fr",
    "note": "Pour une référence personnelle, dire ce qu'elle a vu de ses propres yeux et le vrai temps que ça demande avant qu'elle accepte."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-036",
+   "situation": "I asked my former manager at Halden Freight, Victor, to be a reference for a logistics coordinator role at Corran Logistics, due Friday 9 October. He replied that company policy only lets managers confirm dates and job title, through HR. My old teammate Bea, who worked with me on the depot scheduling, could speak to my work instead.",
+   "reply": "Thanks for explaining, Victor, that's really helpful to know. I'll point Corran to HR so they can confirm my dates and title, and I'll ask someone else to speak to my day-to-day work. Thanks for being clear, and I hope all is well at Halden.",
+   "lang": "en",
+   "note": "A policy limit isn't a personal no: don't ask him to bend it, take what the policy allows and ask Bea the same day."
   }
  ]
 }

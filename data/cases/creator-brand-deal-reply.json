@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -245,6 +245,13 @@
    "reply": "Hi Dev, thanks for reaching out, a seed company is a natural fit for our listeners. Dirt Under Nails averages 6,000 downloads per episode in the first 30 days, and my rate for a 60-second host-read mid-roll is $150 per episode, so four episodes would be $600. If $400 is the budget, I can do three episodes for $400 as a first test. Every read opens with 'this episode is sponsored by', so listeners always know. Could you share the timing and the key points you'd like covered?",
    "lang": "en",
    "note": "Quote from your real per-episode numbers, match a tight budget with fewer episodes rather than a cut rate, and state how the sponsorship is disclosed."
+  },
+  {
+   "id": "creator-brand-deal-reply-036",
+   "situation": "我是B站数码区UP主，12万粉。和一个充电宝品牌的对接人小何谈好一条定制视频，8000元，含30天授权。今天他发来brief，最后补了一句要所有原始素材（未剪辑的源文件），方便他们自己剪广告。我的做法是：原始素材另加3000元，只能用在他们自己的渠道，授权90天；或者不给源文件，我免费多导出一版竖屏成片。",
+   "reply": "小何你好，brief收到了，内容方向没问题。原始素材需要单独说一下：未剪辑的源文件不包含在8000元的定制视频里。如果需要，原始素材另加3000元，只能用在你们自己的渠道，授权90天。如果主要是想要更多尺寸方便剪广告，我也可以免费多导出一版竖屏成片。你们看选哪种？确认后我们把范围写进合同。",
+   "lang": "zh",
+   "note": "原始素材是比成片大得多的授权：单独定价、限定渠道和期限，再给一个不加钱的替代方案。"
   }
  ]
 }

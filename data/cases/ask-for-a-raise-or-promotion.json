@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -246,6 +246,13 @@
    "reply": "Thanks for making time, Joanne. I really like working here, and I'm grateful the practice paid half of my radiography course. Since I qualified in September I've been taking about 40 X-rays a week, which frees up the dentists' time. Local adverts for dental nurses with radiography are at £28,500 to £30,000, so I'd like to move from £26,500 to £29,000. If that's not possible now, what would it take, and when could we look at it again?",
    "lang": "en",
    "note": "A new qualification is evidence only once you're using it: show the work it now covers, then name one number."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-036",
+   "situation": "I'm Inês, a QA lead working remotely from Lisbon for a Berlin-based company, on €54,000. Since the April reorg I've led the test team of 4, and defects found after release dropped from 22 to 6 per release. The company's published band for QA Lead is €58,000 to €66,000; my manager Katrin asked me to send my case in writing before our call next Tuesday, and I want to ask for €62,000.",
+   "reply": "Hi Katrin, as you asked, here's my case ahead of our call on Tuesday. I really enjoy this team and want to keep growing here. Since the April reorg I've led the test team of four, and defects found after release have dropped from 22 to 6 per release. The published band for QA Lead is €58,000 to €66,000 and I'm on €54,000, so I'd like to move to €62,000. Happy to talk it through on Tuesday, including what you'd need from me if that isn't possible now. Best, Inês",
+   "lang": "en",
+   "note": "When the manager asks for it in writing first, the email is the case: commitment, evidence, the band and one number, with the live talk still booked."
   }
  ]
 }

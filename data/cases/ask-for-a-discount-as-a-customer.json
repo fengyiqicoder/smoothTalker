@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -246,6 +246,13 @@
    "reply": "刘师傅您好，下周六上午想请您来洗空调：我家3台，对门王姐家2台，两家挨着，一趟就能做完5台。您报的是每台150元，5台一起的话，能不能按每台120元算？那天两家都在家，做完当场付现金。如果这个价不好做也没关系，您说个能做的价，我们再商量。",
    "lang": "zh",
    "note": "跟邻居拼单的筹码是一趟活做两家、省路程；报一个具体数字，再给师傅说出自己价格的台阶。"
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-036",
+   "situation": "I'm Joanna, organising a colleague's retirement dinner in the private room at The Copper Pot on Tuesday 20 October, a quiet night for them. The room has a $2,000 minimum spend; we're 28 people on the $55 set menu, so $1,540, and the $500 deposit is paid. I'd like to ask the events manager, Rhys, to waive the $460 shortfall or at least halve it, and I can confirm final numbers today.",
+   "reply": "Hi Rhys, we're all set for the retirement dinner in the private room on Tuesday 20 October. Our final number is 28 on the $55 set menu, so $1,540, which is $460 under the room's $2,000 minimum spend. As it's a Tuesday night, could you waive the shortfall? If that's not possible, halving it to $230 would be a real help. I can confirm the numbers today, and if the minimum has to stand, I understand and we'll go ahead as booked. Thanks, Joanna",
+   "lang": "en",
+   "note": "A minimum spend is a fee like any other: name the gap in money, use the quiet night as the anchor, and offer a halfway number."
   }
  ]
 }

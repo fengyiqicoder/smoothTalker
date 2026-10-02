@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -246,6 +246,13 @@
    "reply": "Dad, I know how much the shop means to you. I'm staying in nursing, so it won't be me who takes it on, and I'd rather you hear that straight from me than keep wondering. Now, how's the motorbike coming along?",
    "lang": "en",
    "note": "A deflection here would keep him hoping, so give the answer once, plainly, with no reasons to argue with; if he asks again, repeat the same line."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-036",
+   "situation": "我在深圳工作，攒了一些钱。我妈打电话说弟弟明年结婚要买房，让我出20万帮他凑首付，说“你是姐姐，应该的”。我不打算出这笔钱，也不想跟她吵；弟弟婚礼那天我会包个红包。我妈最近在跟邻居学打太极。",
+   "reply": "妈，我知道您是为弟弟的婚事着急，想让他早点安个家。这20万我不出，这件事我想好了。弟弟结婚那天，我这个当姐姐的红包一定到。对了，您跟邻居学的太极打得怎么样了？",
+   "lang": "zh",
+   "note": "直接的要求要给明确的答复，但不解释存款和理由，理由一出口就会变成讨价还价；她再提，就用几乎一样的话再说一遍。"
   }
  ]
 }

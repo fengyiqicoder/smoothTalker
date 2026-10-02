@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -246,6 +246,13 @@
    "reply": "Kofi, hang on. We're both wound up, and the jingle comment was a cheap shot, I'm sorry. I can tell it felt like I binned something you've put a lot into. Can we get a coffee tomorrow at 11 and talk about the setlist properly? Ten years of this band matters more than one song.",
    "lang": "en",
    "note": "Own the one line in front of the people who heard it, and move the setlist decision to tomorrow instead of settling it while he's packing up."
+  },
+  {
+   "id": "de-escalate-argument-036",
+   "situation": "My wife Dana and I argued last night about her taking a job in Leeds, paused it, and sat down at 8 tonight like we agreed. Twenty minutes in, I said 'you've already decided anyway' and it's blown up again. I don't want to walk out, but I don't want to keep going either; we're both free tomorrow at 6:30am, before the kids wake up.",
+   "reply": "Dana, I'm going to stop, because I just made it worse. Saying you've already decided wasn't fair, and I'm sorry. I can hear that you feel I'm not really listening about Leeds. Can we try again tomorrow at 6:30, before the kids are up? I'm not walking away from this, or from you.",
+   "lang": "en",
+   "note": "When the talk after the pause flares up again, take a second, shorter pause and own the new line instead of restarting the original fight."
   }
  ]
 }
