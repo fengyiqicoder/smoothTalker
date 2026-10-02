@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Olivia, thank you for applying for the junior UX designer role at Fernbrook, and for your cover letter about redesigning your school's parent portal, which was a genuinely good read. We're not moving forward with your application this time. For this round we're only interviewing people who have already shipped work on a live app, which isn't a comment on your ability. I hope you find the right fit soon.",
    "lang": "en",
    "note": "At the application stage, one detail from her letter proves it was read, and the shortlist rule is the honest reason; no 'CV on file' unless you'll use it."
+  },
+  {
+   "id": "decline-offer-or-candidate-034",
+   "situation": "I'm hiring a warehouse operations supervisor, and an agency recruiter, Tom Price at Kestrelway Staffing, sent us his candidate Leon, who interviewed on Tuesday. Leon's answer on the safety walk-through was the best we heard, but we've chosen someone who has already run a night shift, which this role needs from day one. I want to email Tom today so he can tell Leon, with feedback he can pass on.",
+   "reply": "Hi Tom, thanks for sending Leon our way, and please thank him for coming in on Tuesday. We've decided not to offer him the operations supervisor role. We've gone with a candidate who has already run a night shift, which this role needs from day one. Feedback you're welcome to pass on: his answer on the safety walk-through was the best we heard from anyone. Could you let him know today?",
+   "lang": "en",
+   "note": "Through an agency, write the decision, the one reason and one real positive in words the recruiter can pass on unchanged."
   }
  ]
 }

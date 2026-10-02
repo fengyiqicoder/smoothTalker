@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -232,6 +232,13 @@
    "reply": "Hi,\nOrder PL-30419: the white rose bouquet ($85) I sent to my mum, Joan, for her 60th birthday was delivered yesterday, Thursday 1 October, with most of the roses wilted and brown at the edges (her photos attached). Her birthday party is on Saturday 10 October, so I'd like a fresh bouquet delivered to her at the same address on Friday 9 October. Could you confirm by Tuesday 6 October?\nThanks,\nLaura Bennett, laura.bennett@example.com",
    "lang": "en",
    "note": "When the order went to someone else, ask for the fix that still saves the occasion, with the dates, rather than only a refund."
+  },
+  {
+   "id": "complain-as-customer-034",
+   "situation": "I'm Ben Okafor (07700 900131). I collected new glasses from Brightline Opticians on Saturday 26 September, order BO-11873, £240, and since then everything in the distance is blurry. I compared the lab sheet in the case with the prescription from my eye test on 12 September, and the right lens was made at -1.50 instead of -2.50; I've photographed both.",
+   "reply": "Hi,\nOrder BO-11873, collected on Saturday 26 September (£240). Since then my distance vision through the new glasses has been blurry. I've compared the lab sheet that came in the case with my prescription from the eye test on 12 September: the right lens was made at -1.50 instead of -2.50 (photos of both attached). I'd like the right lens remade to the correct prescription at no charge. Could you confirm by Thursday 8 October when it will be ready?\nThanks,\nBen Okafor, 07700 900131",
+   "lang": "en",
+   "note": "The lab sheet against the prescription is the whole case, so show it rather than describe the blur; don't drive in the wrong glasses while you wait."
   }
  ]
 }

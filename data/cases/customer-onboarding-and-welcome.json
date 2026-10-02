@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Ben, thanks for choosing Loft 22 for the studio, we're glad to have you. Desks 14 to 16 are yours from Monday 12 October, and I'll meet you at 9am that day to hand over key fobs and show you round. So the fobs and wifi logins are ready, could you send me the full name and email of each of the three of you by Wednesday 7 October? Any questions, reply here or text me on 07700 900318; I usually reply within a few hours on weekdays. One tip: coffee in the kitchen is free, and the quiet room can be booked at the front desk. Nadia",
    "lang": "en",
    "note": "When a team signs up, one person buys and several people use it: ask the buyer for everyone's details in one list, with the reason."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-034",
+   "situation": "我叫阿哲，做手工黄铜台灯，品牌叫“铜光”。客人孙女士刚在我们网店预订了一盏台灯，1,280元已付，这一批要11月20日前后才发货。制作期间每两周发一次进度照片，第一次在10月16日；发货前想取消可以全额退款。我需要她10月15日前确认灯罩选白色还是米色，微信一般两小时内回。",
+   "reply": "孙女士您好，我是铜光的阿哲，谢谢您预订我们的黄铜台灯，1,280元已经收到。先跟您说清时间：这一批是手工制作，预计11月20日前后发货，发出后马上把物流单号发给您。制作期间每两周我会发一次进度照片，第一次在10月16日（周五）。现在只需要您做一件事：10月15日（周四）前告诉我灯罩选白色还是米色。发货前如果想取消，可以全额退款。有问题直接微信我，一般两小时内回复。",
+   "lang": "zh",
+   "note": "预售付款后要等很久，最容易起疑：先说清发货时间和中间的节点，再说一次怎么退出。"
   }
  ]
 }

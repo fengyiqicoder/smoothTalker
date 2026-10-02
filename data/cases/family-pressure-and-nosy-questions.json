@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -232,6 +232,13 @@
    "reply": "哈哈，堂伯一来就问到点子上了。这是我们一家人商量好的，大家都挺满意。对了，您家小孙子现在多重了？有照片没，给我们看看。",
    "lang": "zh",
    "note": "不解释为什么跟妈姓，也不接“倒插门”那半句；他再问，就用几乎一样的话再说一遍。"
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-034",
+   "situation": "I'm 72 and widowed four years. Since I started seeing Harold, a retired teacher I met at the library, my son Paul asks on every phone call whether Harold is 'after the house' and whether we're going to marry. I'm not discussing my relationship or my money with him. Paul has just started coaching his daughter's soccer team.",
+   "reply": "Ha, Paul, the tables have turned. Harold and I are happy, and that's all I'm sharing. Now tell me, how's the coaching going with the soccer team?",
+   "lang": "en",
+   "note": "No reassurance about the house or a wedding, since every detail becomes the next question; if he asks again, repeat the same line nearly word for word."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Tasha, thanks for lining these up. I'll keep the two backend panels on Tuesday 6 and Thursday 8 October and step out of the other four. For those, I've written up my system design question with a scoring guide that any trained interviewer can run, and I'll send it to you today. Does that work for you?",
    "lang": "en",
    "note": "Decline the volume, not the hiring: keep the panels where you're needed and hand over what makes you replaceable for the rest."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-034",
+   "situation": "Tenho uma lojinha online de amigurumi, a Ponto Miúdo. Uma cliente, a Renata, quer fazer uma videochamada de meia hora amanhã para escolher as cores de uma girafa de crochê de 45 reais para o filho. Tenho uma cartela com as 12 cores disponíveis que posso mandar pelo WhatsApp hoje, e respondo mensagens todos os dias até as 18h.",
+   "reply": "Oi, Renata, que bom que você quer a girafa para o seu filho! Não faço videochamadas, mas dá para resolver as cores por aqui: hoje mesmo te mando pelo WhatsApp a cartela com as 12 cores disponíveis. Você escolhe com calma e me manda as que preferir; respondo todas as mensagens até as 18h. Pode ser assim?",
+   "lang": "pt",
+   "note": "Numa venda pequena, o que a cliente precisa é escolher as cores: ofereça a cartela por escrito, não a chamada."
   }
  ]
 }

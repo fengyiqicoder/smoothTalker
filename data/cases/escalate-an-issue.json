@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -232,6 +232,13 @@
    "reply": "您好，我申请平台介入订单20260925-7731（清风家电旗舰店，空气净化器，1899元）。9月25日下单，到货时外壳已开裂，我有完整的开箱视频。9月26日店铺客服同意退货，我9月27日寄回，商家9月30日签收后以“人为损坏”为由拒绝退款。我已在聊天中告知店铺客服会申请平台介入。开箱视频和聊天记录截图附后。请平台核实后支持全额退款1899元，并告知处理时限。谢谢。\n吴婷",
    "lang": "zh",
    "note": "向平台申诉也按升级的写法：订单号、日期、证据和一个请求；具体规则和时限以平台说明为准，开箱视频原件别删。"
+  },
+  {
+   "id": "escalate-an-issue-034",
+   "situation": "I run the data pipeline at a small logistics firm, and we rely on Larkspur, an open-source CSV library. On 8 September I opened pull request #612 fixing a crash on files with an empty header row, which hits about 30 of our nightly imports, so we're running a patched copy in the meantime; one contributor approved it on 12 September, but Sven, the maintainer who owns that module, hasn't replied to my pings on 18 and 25 September. The project's contributing guide says to raise PRs left unreviewed for two weeks on the core team forum, and I've told Sven in the PR thread that I'm doing that.",
+   "reply": "Title: Review needed: PR #612, crash on empty header rows\nHi core team, I'm raising this under the contributing guide's two-week rule. PR #612, opened on 8 September, fixes a crash when a CSV file has an empty header row, and one contributor approved it on 12 September. I pinged Sven, who owns that module, on 18 and 25 September, and I've let him know in the PR thread that I'm posting here. The crash hits about 30 of our nightly imports, so we're running a patched copy until it's merged. Could someone with merge rights review it, or tell me what's blocking it, by Friday 9 October? I'm happy to make any changes needed.",
+   "lang": "en",
+   "note": "In a volunteer project there's no boss: use the project's own escalation route, tell the maintainer first, and ask for a review or the blocker, not a guaranteed merge."
   }
  ]
 }

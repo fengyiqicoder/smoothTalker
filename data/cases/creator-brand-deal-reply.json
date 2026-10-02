@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -231,6 +231,13 @@
    "reply": "小陈你好，谢谢你们又想到我。先把数据说准：去年报给你们的平均2万是去年的水平，今年改版后平均每篇阅读在1.2万左右，近三个月的后台截图我今天发你。按现在的阅读，一篇软文6000元，文章会标注“广告”。你们看看这样还合适吗？",
    "lang": "zh",
    "note": "数据下滑时主动说清，比被品牌自己查出来更能保住合作；报价跟着真实数字走，广告标注照常。"
+  },
+  {
+   "id": "creator-brand-deal-reply-034",
+   "situation": "I'm a running creator on YouTube with 70k subscribers, and I'm under a signed exclusivity for running footwear with another shoe brand until 31 December. Paolo from a shoe brand, Kestrel Run, emailed offering $2,200 for one video in November. I'd genuinely like to work with them from January, and my rate for a dedicated video is $2,200 with 30 days of organic usage.",
+   "reply": "Hi Paolo, thanks for reaching out, and for a generous offer. I'm under an exclusivity agreement for running footwear until 31 December, so I can't take on a shoe video in November. From January I'd be glad to talk: my rate for a dedicated video is $2,200 with 30 days of organic usage. Shall I get in touch in early January, or would you rather come back to me when you plan your spring campaigns?",
+   "lang": "en",
+   "note": "Say the exclusivity exists without naming the partner or its terms; check your contract for what you're allowed to disclose."
   }
  ]
 }

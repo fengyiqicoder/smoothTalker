@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Grace and Daniel, one I thought of you for: a 3-bed at 41 Fern Lane, listing Monday at $509,000, two blocks from Westbrook Elementary. The first open house is Saturday, and I can get you in before then if you'd like. Are you still looking this autumn? A quick yes, no or not yet is all I need, and if you've paused or found something, I'll stop sending listings.",
    "lang": "en",
    "note": "Touch 2 brings something they actually asked for and an easy no; don't invent urgency the listing doesn't have."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-034",
+   "situation": "我做室内软装设计。客户刘女士是好朋友阿梅介绍的，8月底量完房后我给她出了客厅和卧室的软装方案，报价2.6万。9月8日和9月22日我两次在微信上跟进，她都没回。我不想让阿梅夹在中间，想发最后一条就收尾。",
+   "reply": "刘女士您好，软装方案的事我就不再打扰您了，想来现在时机不太合适，我这边先收尾。以后哪天想动客厅或卧室了，直接回这条消息就好，方案我都留着。祝您住得舒心。",
+   "lang": "zh",
+   "note": "熟人介绍的客户沉默时，自己干净收尾，不去找介绍人打听，也不在介绍人面前提这件事。"
   }
  ]
 }

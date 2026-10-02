@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -231,6 +231,13 @@
    "reply": "Thank you, Mia, that genuinely made my day. I was nervous about embarrassing you in front of your friends, so I'm really glad it went well.",
    "lang": "en",
    "note": "Receiving praise from your teenager: accept it plainly, with no joke and no fuss, so she feels safe saying it again."
+  },
+  {
+   "id": "give-and-receive-compliments-034",
+   "situation": "Le pedí a mi amiga Lucía que fuera mi testigo de boda y anoche me contestó por WhatsApp, con mucho cariño, que este año está tan desbordada que no podría darle al papel lo que merece, pero que quiere estar en la boda como invitada. Me dolió un poco, pero valoro mucho que me lo dijera de frente en vez de aceptar y agobiarse. Quiero decírselo.",
+   "reply": "Lucía, gracias por decírmelo así, de frente y con tanto cariño. Sé que no era fácil, y me dice mucho de ti que prefirieras ser sincera antes que aceptar y agobiarte. Me hace muchísima ilusión que estés en la boda, y eso es lo que de verdad importa.",
+   "lang": "es",
+   "note": "Elogiar la sinceridad de un no: lo concreto que hizo y su efecto, sin pedirle nada ni intentar que cambie de idea."
   }
  ]
 }

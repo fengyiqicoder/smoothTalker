@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -232,6 +232,13 @@
    "reply": "Antoine, on s'emballe tous les deux et je ne veux pas continuer par SMS. « Tu ne penses qu'à ta carrière », c'était injuste, pardon. J'entends que tu as l'impression que je ne t'écoute pas quand tu parles de ton travail. On en parle ce soir quand tu rentres vers 19h ? Montréal ou pas, on décidera ça à deux.",
    "lang": "fr",
    "note": "On retire la phrase qui a blessé sans trancher Montréal par SMS ; la vraie discussion attend ce soir."
+  },
+  {
+   "id": "de-escalate-argument-034",
+   "situation": "我忘了接女儿放学，和老婆小琳在微信上吵起来了，是我先吼的。我刚发了“我们都冷静一下”，她回：“别说‘我们’，激动的是你，忘了接孩子的也是你，家里的事最后总落在我一个人身上。”她晚上7点到家。",
+   "reply": "你说得对，先吼的是我，忘了接女儿的也是我，对不起。我知道你是觉得家里的事最后总落在你一个人身上。今晚7点你到家，我们好好聊接孩子怎么安排，我先听你说。你和女儿比我争这口气重要。",
+   "lang": "zh",
+   "note": "对方不接受“我们都”的说法时，别争这个词，把自己那部分认全，再给回来谈的时间。"
   }
  ]
 }

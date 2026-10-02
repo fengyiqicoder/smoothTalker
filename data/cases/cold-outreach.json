@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -231,6 +231,13 @@
    "reply": "王师傅您好，我是群里的老周，在崇明种有机番茄。看到您在群里说本地番茄品质不稳，做冷汤酸度总对不上。我们现在每周给3家西餐厅供货，一共200公斤左右。想先免费寄5公斤给您试一锅冷汤，您看可以吗？不需要的话，回一句“不用”也很有帮助。",
    "lang": "zh",
    "note": "在群里认识的人，第一句先说清是在哪看到他的话；样品免费、量小，对方说“好”或“不用”都很容易。"
+  },
+  {
+   "id": "cold-outreach-034",
+   "situation": "Sou a Joana, guia de passeios a pé em Alfama, Lisboa, com nota 4,9 em 310 avaliações. O Ricardo, gerente de um hotel pequeno, a Casa do Miradouro, publicou no LinkedIn que os hóspedes estão sempre a pedir passeios 'fora do roteiro turístico'. Quero propor que o hotel recomende o meu passeio, com 10% de desconto para os hóspedes.",
+   "reply": "Assunto: Passeios fora do roteiro para os hóspedes da Casa do Miradouro\n\nOlá Ricardo,\nVi a sua publicação sobre os hóspedes que pedem passeios fora do roteiro turístico. Sou guia de passeios a pé em Alfama e é exatamente isso que faço, com nota 4,9 em 310 avaliações. Posso oferecer 10% de desconto aos hóspedes da Casa do Miradouro. Faz sentido para o hotel? Se não fizer, um «não» também me ajuda.\nJoana",
+   "lang": "pt",
+   "note": "O porquê vem da própria publicação dele; um número como prova e uma pergunta de sim ou não, sem pedir reunião."
   }
  ]
 }

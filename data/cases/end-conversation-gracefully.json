@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -232,6 +232,13 @@
    "reply": "Kenji, merci pour cette heure, et pour le début de l'histoire de Marseille. Je vais m'arrêter là pour ce soir, je suis fatiguée. Tu me raconteras la suite mercredi prochain à 19 h. Bonne soirée !",
    "lang": "fr",
    "note": "Pas besoin d'inventer un rendez-vous : la fatigue suffit, et le prochain créneau fixe sert de crochet sans poser de question."
+  },
+  {
+   "id": "end-conversation-gracefully-034",
+   "situation": "我在理发店剪头发，理发师Tony一边剪一边推销3000元的充值卡，已经说了二十分钟。我不打算办卡，只想安安静静剪完，还得再坐半个小时。",
+   "reply": "Tony老师，卡我就不办了，谢谢你介绍。我想闭眼歇一会儿，剪完你叫我就行。",
+   "lang": "zh",
+   "note": "走不开的时候，先一句话把推销关掉，再用闭眼这个动作结束聊天；他再提，就说“不办了，谢谢”，不解释。"
   }
  ]
 }

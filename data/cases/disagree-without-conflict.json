@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -232,6 +232,13 @@
    "reply": "Agree that juniors need a lot of real time with experienced people, Martin; that's what makes or breaks the first year. Where I land differently is 'killing'. I've mentored four junior engineers fully remotely over the last three years, with a daily 30-minute pairing session, and three of them were promoted within 18 months. What have you seen go wrong most often?",
    "lang": "en",
    "note": "In public with a stranger: one piece of your own evidence and a real question; if he pushes back, one reply at most, then leave it."
+  },
+  {
+   "id": "disagree-without-conflict-034",
+   "situation": "My co-host Dev wants our comedy podcast to take a $600-an-episode sponsorship from SpinLuck, a sports betting app. I agree we need money for new mics, but a lot of our listeners have written in about recovering from gambling debt, and I don't want to read betting ads to them. We record on Thursday.",
+   "reply": "Dev, I'm with you that we need the money, and $600 an episode would sort the new mics fast. Where I land differently is SpinLuck: a lot of our listeners have written in about recovering from gambling debt, and I'm not comfortable reading betting ads to them. What drew you to this one in particular? I'd like us to settle it together before Thursday's recording.",
+   "lang": "en",
+   "note": "The one reason is about the listeners, not Dev's judgement; if you still differ, agree how the two of you decide on sponsors."
   }
  ]
 }

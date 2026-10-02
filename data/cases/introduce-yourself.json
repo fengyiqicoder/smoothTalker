@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -232,6 +232,13 @@
    "reply": "Oi, Juliana, seja bem-vinda! Sou a Camila, analista de compras aqui há quatro anos. Cuido dos contratos com os 30 fornecedores de embalagem, e em julho renegociei o frete com uma economia de 8%, então, se quiser um panorama dos fornecedores, é só pedir. Nos fins de semana costumo fazer trilhas por aqui. Quando tiver um tempinho nesta semana, adoraria 20 minutos para te contar como as coisas funcionam e ouvir o que é prioridade para você.",
    "lang": "pt",
    "note": "Para uma nova gestora, o útil é dizer o que você cuida e oferecer contexto; o convite é ouvir as prioridades dela."
+  },
+  {
+   "id": "introduce-yourself-034",
+   "situation": "I'm Leah, joining the comms team at a housing charity on Monday as maternity cover for Sarah, who's back next July. I've done six years of comms for a hospice, mostly press and fundraising appeals, and I swim in the sea all year round. Sarah has left me a handover doc, and I want to post a hello in the team Slack channel on my first day.",
+   "reply": "Hi all, I'm Leah, and I'm covering Sarah's role on the comms team until she's back in July. I've spent six years doing comms for a hospice, mostly press and fundraising appeals, so that side of the work is familiar ground. I've got Sarah's handover doc, and my aim is to keep things running the way she set them up, not to reinvent them. Outside work I swim in the sea all year round, yes, even in January. If there's something in Sarah's patch you rely on that might not be in the doc, I'd love to hear it.",
+   "lang": "en",
+   "note": "Maternity cover: say it's temporary and that you're keeping her work going, so the team doesn't brace for change."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -232,6 +232,13 @@
    "reply": "小凯，雨天在公交站认识那段我听得鼻子都酸了，那是只有你们俩才有的故事。我听着有点出戏的是后面那一大段“买大房子、过上好日子”，越往后越像保证书，反而没那么像你了。要不把那段缩成一句，多讲一两件你们在一起的小事，像公交站那样？离17号还有两个星期，我是真觉得这段求婚词能让她记一辈子。",
    "lang": "zh",
    "note": "只提一个点，用“我听着”说感受；求婚词是他的，改不改由他定。"
+  },
+  {
+   "id": "give-feedback-kindly-034",
+   "situation": "My friend Rosa built a website for her new dog-grooming side business and asked me to look at it before she shares it in our neighbourhood Facebook group on Monday. The before-and-after photos of the dogs are brilliant, but I couldn't find her prices until page three, inside a PDF, and I gave up twice on my phone before I got there.",
+   "reply": "Rosa, the before-and-after photos are brilliant, you can see exactly what you'd get. The one thing that tripped me up was the prices: on my phone I gave up twice before I found them on page three, inside a PDF. Could you put a simple price list on the front page before Monday? I think it's the first thing people in the group will look for, and the photos will do the rest.",
+   "lang": "en",
+   "note": "One fix she can make before Monday, described as what happened when you used the site, not as a verdict."
   }
  ]
 }

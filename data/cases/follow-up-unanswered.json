@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Ms Okafor,\nI know claims teams are stretched. Following up on claim HL-48213, the burst pipe and hallway floor, filed on 8 September. Your email of 14 September said an assessor would be in touch within 10 working days, and I haven't heard from anyone yet. Could you give me a date for the visit, or the assessor's contact details so I can arrange it directly? I'm free any weekday after 3pm.\nThanks,\nDaniel Reyes",
    "lang": "en",
    "note": "Claim number in the first line, dates of each contact, and two easy ways to answer; if this gets nothing, ask how to raise a complaint under the policy."
+  },
+  {
+   "id": "follow-up-unanswered-034",
+   "situation": "I'm buying a used bike trailer for $70 from a seller called Gwen on a local marketplace app. On Tuesday she said it was still available and I could pick it up next week; I asked which evening suits and she hasn't replied. I can do Tuesday or Thursday after 6pm next week and pay in cash.",
+   "reply": "Hi Gwen, I know these apps get busy. Still keen on the bike trailer for $70: would Tuesday or Thursday evening next week work for pickup, any time after 6pm? I'll bring cash. If it's gone or you've changed your mind, no problem, a quick note is all I need.",
+   "lang": "en",
+   "note": "As the buyer, make the reply one word (a day) and give an easy out; if one more nudge gets nothing, assume it's sold."
   }
  ]
 }

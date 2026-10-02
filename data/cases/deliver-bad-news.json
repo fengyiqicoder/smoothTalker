@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -232,6 +232,13 @@
    "reply": "Dan, have you got a few minutes? I've got news that isn't what we were hoping for, and I wanted you to hear it from me. The transplant coordinator told me on Wednesday that I'm not a compatible match, so I can't be your donor. I know how much we were both counting on this. You're still on the waiting list, and she's going to go through the other options with you on the 14th, including the paired exchange scheme. I'd like to come to that appointment with you, if you want me there.",
    "lang": "en",
    "note": "The result in the first lines, the medical options left to his team, and the only promise is your own presence."
+  },
+  {
+   "id": "deliver-bad-news-034",
+   "situation": "今天查了法考客观题成绩，我差6分没过。这一年我在家全职备考，爸妈每个月给我2000块生活费，一直盼着我考过。我想好了不再考了，这周就开始投简历找工作。想今晚先在微信上跟他们说，周末回家再当面聊。",
+   "reply": "爸、妈，有个不好的消息想先跟你们说：今天法考客观题出成绩了，我差6分，没过。这一年你们每个月给我2000块生活费，一直盼着我考过，这个结果让你们失望了，我心里也很难受。我已经想好了，不再考了，这周就开始投简历找工作。周末我回家，当面跟你们细说。",
+   "lang": "zh",
+   "note": "坏消息放在前两句，不铺垫一堆理由；下一步只说自己能做到的事，不承诺什么时候能找到工作。"
   }
  ]
 }

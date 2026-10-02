@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -232,6 +232,13 @@
    "reply": "One thing to change: in the last three sprints, priorities have changed mid-sprint in Slack threads that QA wasn't part of, and twice our testers spent about two days on features that were then dropped. That's testing time we couldn't get back before release. It would help a lot if mid-sprint changes were posted in the sprint channel with QA tagged, even as a one-line note. I'm happy to talk it through whenever suits you.",
    "lang": "en",
    "note": "A written review can't pause for their side, so keep it to one dated behaviour, its impact and one ask, and offer the conversation; better still, mention it to her in person before the form lands."
+  },
+  {
+   "id": "give-feedback-to-colleague-034",
+   "situation": "我开了家面包店，表弟阿强在店里当店员半年了，手脚麻利。最近两周他给来店里的朋友免单了好几次，上周对账少了260元，监控里都能看到。家里人都知道他在我这儿干，我不想闹到亲戚那边，打算明天早上开店前单独跟他聊。",
+   "reply": "阿强，开店前跟你聊件事，方便吗？这两周你给来店里的朋友免了好几次单，上周对账少了260元，监控里都能看到。你干活麻利，我一直放心，但这些都是店里的成本，免单多了店撑不住。你那边是怎么想的？以后朋友来一律按价收，你想请客就自己付。这事就我们俩知道，不跟家里说。下周五对账时我们再一起看看。",
+   "lang": "zh",
+   "note": "亲戚当员工也用同样的结构：私下说、具体金额和依据、先问他的想法、清楚的要求和复盘时间，亲戚关系不放进要求里。"
   }
  ]
 }

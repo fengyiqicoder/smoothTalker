@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Mrs Rahman, it's Tom. My train is delayed, so I'll be about 40 minutes late and at your door around 1:40. I'm really sorry, especially for a first visit. Please don't hold lunch for me, and I'll text again if anything changes.",
    "lang": "en",
    "note": "Warn before the start time, give a real arrival time and release them from waiting; one apology is enough, save the rest for in person."
+  },
+  {
+   "id": "handle-no-show-or-lateness-034",
+   "situation": "I run a monthly coding meetup. Darren, a volunteer speaker, was booked to give a 20-minute talk on testing at 7pm last night; he didn't turn up or reply to my two texts, and we filled the slot with lightning talks. I'd still like him to speak, and the next meetup is Thursday 5 November at 7pm.",
+   "reply": "Hi Darren, we had you down for the testing talk at 7pm last night and didn't hear from you, so I hope everything's okay. We covered the slot with lightning talks. If you'd still like to give it, the next meetup is Thursday 5 November at 7pm and the slot is yours; could you let me know by Friday 23 October either way?",
+   "lang": "en",
+   "note": "A volunteer no-show: check they're okay, state the facts once without guilt, and offer one dated slot with a reply-by date; if he misses that too, stop booking him."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Leila, thanks for your email. I confirm I've received your notice to end your tenancy at 23 Wren Street, Flat 1 on Monday 30 November, in line with clause 6 of the lease. I'd like to start viewings soon and will always give at least 24 hours' notice, as clause 13 says; are there days or times that suit you best? Could we do the check-out at 10am on the 30th, with the keys and meter readings then? Your £1,200 deposit will be returned through the deposit scheme once we've agreed any deductions, and I'll send a written breakdown either way. Thank you for three great years, and I'd be glad to give you a reference.",
    "lang": "en",
    "note": "Landlord receiving a valid notice: confirm the date in writing, keep viewings within the lease, and say how the deposit comes back; check the scheme's and local rules on timing."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-034",
+   "situation": "I'm Ruth Ellis, landlord of 5 Mill Lane, Flat 2, rented to Omar on a fixed-term lease that ends on 31 January 2027; clause 9 says either side gives at least two months' written notice of not renewing. The building needs full rewiring, about three months of work, which can't be done with anyone living there. Omar has been a great tenant for four years, and I'd like to offer him the flat back at the same rent of £950 once the work is done, and help with references.",
+   "reply": "Dear Omar,\nI'm writing to let you know that I won't be renewing your tenancy at 5 Mill Lane, Flat 2, when it ends on 31 January 2027. This is more than the two months' written notice in clause 9 of the lease. The reason is that the building needs full rewiring, about three months of work, and it can't be done with anyone living there. You've been a great tenant for four years, so I'd like to offer you the flat back at the same rent of £950 once the work is done, and I'm very happy to give you references in the meantime. Could you confirm you've received this, and let me know whether you'd like to take up the offer?\nBest wishes,\nRuth Ellis",
+   "lang": "en",
+   "note": "Landlord ending a tenancy for works: date and clause first, the reason in one line, a real offer to return; check local rules on ending a tenancy for renovation before sending, and put any return agreement in writing."
   }
  ]
 }

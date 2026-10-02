@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -232,6 +232,13 @@
    "reply": "Dear Ruth, I'm a night-shift nurse in Glasgow, and I've just finished The Night Ward. The scene where she writes the 4am handover on her arm in biro stopped me, because I've done exactly that on bad nights and never seen it in a book before. Thank you for getting the small hours so right. No need to reply; I just wanted you to know it reached someone who's lived it.",
    "lang": "en",
    "note": "To someone you admire with nothing to ask: one specific moment, one clause about you that connects to it, and a clear release from replying."
+  },
+  {
+   "id": "first-message-to-stranger-034",
+   "situation": "A local indie band, The Paper Lanterns, posted in our city's online musicians' group that they need a bassist for gigs starting in January. Their demo of 'Low Tide' has a walking bass line in the bridge that I love. I've played bass for five years in a covers band and want to message their singer, Mia, who posted it.",
+   "reply": "Hi Mia, saw your post about needing a bassist. That walking line in the bridge of 'Low Tide' is the bit I keep replaying; I've played bass for five years in a covers band and would love to have a go at it with you. Would a quick recording of me playing it help before any audition?",
+   "lang": "en",
+   "note": "Proof you listened, one clause of relevant experience, and a tiny ask she can answer in a line."
   }
  ]
 }

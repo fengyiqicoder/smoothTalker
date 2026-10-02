@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -232,6 +232,13 @@
    "reply": "Aisha, I saw your post about Monday night and I've been thinking about you since. No need to reply properly to this. I could come and stay over on Friday 9 October, with my air mattress and a takeaway, so you're not on your own for a night. Just reply 'yes' or 'not this time', both are completely fine.",
    "lang": "en",
    "note": "After a break-in, company at night is the concrete help; if she ever feels unsafe, she should call emergency services, and a victim support service can help with the aftermath."
+  },
+  {
+   "id": "check-in-on-someone-struggling-034",
+   "situation": "My friend Hollie called off her wedding to Sam last week; it was meant to be Saturday 17 October. She hasn't posted anything since, and she told me she can't face ringing the florist, the photographer and the band to cancel. I'm free Saturday morning and I'm good on the phone.",
+   "reply": "Hollie, I've been thinking about you all week. No need to reply properly to this. If it would help, I could come over on Saturday morning and make the calls to the florist, the photographer and the band for you, so you don't have to say it out loud three times. Just reply 'yes' or 'not this week', both are completely fine.",
+   "lang": "en",
+   "note": "Take the dreaded admin off her plate instead of asking what happened; she'll share the why if and when she wants to."
   }
  ]
 }

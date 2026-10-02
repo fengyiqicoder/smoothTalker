@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Mr. Okafor, thanks for letting us know, that must have been a surprise on the card statement. In-app purchases aren't normally refundable, but since your son bought these without your permission, I've refunded the full $64 to your card today as a one-off. It should show within 3 to 5 working days. To stop it happening again, you can switch on the parent PIN for purchases under Settings in the app.",
    "lang": "en",
    "note": "A child's unauthorised purchase gets a quick yes framed as a one-off, plus the practical fix so it doesn't happen again."
+  },
+  {
+   "id": "handle-refund-request-034",
+   "situation": "我在网店卖手工发簪。住在新加坡的顾客林小姐买了一支128元的珍珠发簪，今天收到后说颜色比图片暗很多，想退款。国际寄回的运费比发簪还贵。我愿意全额退款、不用寄回，退款1到3个工作日原路到账；或者免费给她补寄一支浅色款。",
+   "reply": "林小姐您好，收到的颜色比图片暗这么多，确实不是您想要的，抱歉。发簪不用寄回了，国际运费比发簪还贵，不值得折腾。两个选择您挑：全额退您128元，1到3个工作日原路到账；或者我免费给您补寄一支浅色款。告诉我选哪个，我今天就办。",
+   "lang": "zh",
+   "note": "寄回运费比商品还贵时直接免寄回；答案放在前两句，给退款和补寄两个选项，不争图片有没有色差。"
   }
  ]
 }

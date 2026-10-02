@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Marcus, one thing about Ruby. She's been having panic attacks before school since September, and her GP has referred her to a child counsellor, Dr. Anita Shah, at the Elmwood Family Clinic. The first appointment is Tuesday 13 October at 4pm, then weekly on Tuesdays, and I can take her. The clinic needs consent from both of us by Friday 9 October. Could you let me know by Wednesday 7 October if you're okay to sign? Thanks.",
    "lang": "en",
    "note": "A health decision goes in writing as facts plus one yes-or-no question, with no theories about the cause. If Ruby ever talks about hurting herself, contact emergency services or a crisis line straight away."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-034",
+   "situation": "Our son Theo turns 8 on Saturday 7 November, which is my ex Megan's weekend, and last year we each threw a separate party. I'd like to suggest one joint party from both of us at the Rollerdrome on Sunday 8 November, 2 to 4pm, £180 for 12 kids, split 50/50. I'm happy to book it and send the invites, and Theo would stay with Megan that weekend as planned.",
+   "reply": "Hi Megan, about Theo's 8th birthday. Would you be open to one joint party this year, from both of us? There's a slot at the Rollerdrome on Sunday 8 November, 2 to 4pm, £180 for 12 kids, so £90 each. I'm happy to book it and send the invites, and he'd still be with you that weekend as planned. Could you let me know by Friday 16 October so I can hold the slot? Thanks.",
+   "lang": "en",
+   "note": "A joint event is an offer, not something owed: propose it once with the cost and the work already sorted, and if she says no, plan your own celebration around her answer."
   }
  ]
 }

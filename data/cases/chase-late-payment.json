@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Joelle,\nThe second instalment of $1,200 for invoice #0731, due on Wednesday 30 September under the plan we agreed on 20 August, hasn't arrived yet. Could you send it by Wednesday 7 October? Under that plan, if an instalment is more than seven days late, the remaining $2,400 becomes due at once, and I'd much rather we kept to the schedule. If something has changed on your side, tell me today and we can talk it through. Bank details are on the attached invoice.\nThanks,\nTariq",
    "lang": "en",
    "note": "A missed instalment gets a reply within days: the plan's own terms, one date, and an open door before the consequence applies."
+  },
+  {
+   "id": "chase-late-payment-034",
+   "situation": "我是自由平面设计师。表哥王强开装修公司，8月让我做了公司画册，说好设计费8,000元，9月15日前结，发票LX-0815也开给他了，到现在还没付。我们都在一个家族群里，过节总要见面，我不想伤和气，但这是正经工作的钱。",
+   "reply": "哥，跟你说个工作上的事。8月给你们公司做的画册，设计费8,000元，发票LX-0815，说好9月15日前结，我这边还没收到。麻烦10月9日（周五）前转一下，收款账户写在发票上。要是公司财务走流程需要我补什么材料，你直接告诉我。",
+   "lang": "zh",
+   "note": "亲戚的账也按工作来催：私聊单独发一条，只讲发票、金额和日期，不在家族群或饭桌上提。"
   }
  ]
 }

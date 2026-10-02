@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Helen,\nThank you for the conversation yesterday. Your plans for automating the month-end close stuck with me; it's the kind of work I'd really enjoy. One question I didn't get to ask: could the role start at 9:30 on Tuesdays and Thursdays, for my daughter's school drop-off? I'd rather raise it now than later. I'm very interested in the role and look forward to hearing from you by the 16th.\nBest,\nPriya Nair",
    "lang": "en",
    "note": "The one thing a follow-up adds can be a question; asking before the offer is an honest way to check the fit."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-034",
+   "situation": "我叫何雨，今天参加了青禾食品管培生的群面，HR是孙女士。我们组讨论新品怎么在县城推广，我提了先在县城菜市场做试吃，但总结时没讲清楚理由：县城菜市场早上人流最集中。孙女士说10月16日前通知结果。",
+   "reply": "孙女士您好，我是今天参加管培生群面的何雨，谢谢您今天的组织和安排。补充一点讨论时没讲清楚的：我提议新品先在县城菜市场做试吃，是因为县城菜市场早上人流最集中，试吃最容易被看到。我很希望加入青禾食品，等您10月16日前的消息。",
+   "lang": "zh",
+   "note": "群面人多，感谢信只补一件事：把讨论里没讲清的那个理由说完整，不重复整场发言。"
   }
  ]
 }
