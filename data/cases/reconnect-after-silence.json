@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Gemma, it's been about 18 months. I never knew what to say after the layoffs, so I said nothing, and I'm sorry for that. I just saw you've started your own bookkeeping business, which is brilliant news, congratulations. I still can't do the Friday crossword without wanting to ask you for help. How's the first stretch going? No rush to reply.",
    "lang": "en",
    "note": "When the silence came from not knowing what to say, one plain line owning it is enough; then make the message about her news."
+  },
+  {
+   "id": "reconnect-after-silence-034",
+   "situation": "我叫刘洋，2014年在新疆当兵时的班长是赵磊，退伍后我们十年没联系，只留着微信。今天刷到他发的带女儿去天安门看升旗的视频。当年冬天站夜岗，他半夜给我们几个新兵送过热馒头，我一直记得。",
+   "reply": "班长，我是刘洋，2014年在新疆你带的那批新兵。一晃十年没联系了。今天刷到你带闺女去天安门看升旗的视频，一下想起当年冬天站夜岗，你半夜给我们送热馒头。这些年过得怎么样？不急着回，就是想跟老班长问声好。",
+   "lang": "zh",
+   "note": "老战友、老上级：先报上当年的身份帮他想起你，再用一个具体的共同记忆，问一个好回答的问题。"
   }
  ]
 }

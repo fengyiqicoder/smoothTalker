@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Grace,\nThanks again for organising Wednesday's final round, I came away even more excited about the role. One thing I'd like to flag before an offer is drafted: when we first spoke I mentioned $90k, based on the role as it was described then. The scope now includes managing two field staff and a $400k grants budget, so for this version of the role I'm looking for $102k. Could you take that into account? Happy to talk it through on a call.\nBest,\nOmar",
    "lang": "en",
    "note": "Revising your number is fair when the scope grows; say why once, before the offer is drafted, and keep your floor to yourself."
+  },
+  {
+   "id": "negotiate-price-or-salary-034",
+   "situation": "我是数学家教小陈，一对一每小时300元，每月会给家长发一份学习反馈。家长李姐想请我同时教她家两个孩子（初二和小学五年级），每人每周两小时，问能不能都按每小时200元。我的底线是每小时250元；如果她预算定了，也可以每人每周改上一个半小时。",
+   "reply": "李姐，谢谢您信任我，两个孩子我都很乐意教。我一对一的课时费是每小时300元，两个孩子一起报，我可以按每小时270元算，每月照样给您发一份两个孩子各自的学习反馈。每小时200元我做不到。如果预算已经定了，也可以每人每周改上一个半小时，总费用就下来了。您看哪种更合适？",
+   "lang": "zh",
+   "note": "多报一个孩子可以给一点优惠，但报略高于底线的具体数；预算卡住时动课时，不动单价，250的底线不说出口。"
   }
  ]
 }

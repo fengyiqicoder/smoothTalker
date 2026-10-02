@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Ollie, thanks for asking, that was kind of you. It's a no from me: I'm seeing someone, and I don't see us that way either. I'm enjoying the Sunday games, so see you at the table.",
    "lang": "en",
    "note": "'I'm seeing someone' on its own can sound like 'maybe later'; pair it with the plain no so there's nothing to wait for."
+  },
+  {
+   "id": "romantic-let-down-034",
+   "situation": "我是部门主管。组里入职两个月、直接向我汇报的同事小何，昨晚发微信说对我有好感，约我周末单独去看电影。我对他没有那种感觉，而且我不会和自己的下属约会。想今天私下回他，让他别有负担，工作照常。",
+   "reply": "小何，谢谢你昨晚坦诚地说出来，我知道这需要勇气。我的回答是不：我对你没有那种感觉，而且作为你的直属领导，我也不会和组里的同事约会。这件事就到这里，不会影响我对你工作的看法，我们照常合作。",
+   "lang": "zh",
+   "note": "上级拒绝下属：一句说清不，一句说清工作照常，之后言行也真的照常；如果他继续追，按公司的相关规定找HR处理。"
   }
  ]
 }

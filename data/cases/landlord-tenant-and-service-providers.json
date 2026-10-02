@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -232,6 +232,13 @@
    "reply": "您好，我今天上午的搬家订单，下单价1200元全包，订单页面写明“含楼层费”，截图附上。现在东西已经装车，跟车师傅说新家六楼没电梯要再加800元，否则不卸货。请您在今天中午12点前联系师傅，按订单把东西卸到六楼，卸完我按订单支付1200元。订单以外的费用，在说清楚之前我不会付。",
    "lang": "zh",
    "note": "只摆订单截图，不在楼下跟师傅争；如果对方扣着东西不卸或者态度让你觉得不安全，别硬拦，直接报警。"
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-034",
+   "situation": "I'm Callum, renting flat 4 from Mrs Okafor. On Wednesday night the double socket behind the kitchen fridge smelled of burning and now has scorch marks around it; I took photos, unplugged everything and switched that circuit off at the fuse box, so the fridge is running off an extension lead from the hall. The lease says electrical repairs are the landlord's responsibility, and I'm home after 6pm or can leave a key with my neighbour in flat 3.",
+   "reply": "Hi Mrs Okafor,\nOn Wednesday night the double socket behind the kitchen fridge smelled of burning, and there are now scorch marks around it; photos attached. I've unplugged everything and switched that circuit off at the fuse box, so for now the fridge is running off an extension lead from the hall. Under the lease electrical repairs are the landlord's responsibility, so could you arrange a qualified electrician by Tuesday 6 October? I'm home after 6pm, or I can leave a key with my neighbour in flat 3.\nThanks,\nCallum",
+   "lang": "en",
+   "note": "If it sparks, smokes or smells of burning again, switch off at the main fuse box, get out and call the fire service; for a power cut or exposed wiring, call your electricity network's emergency line."
   }
  ]
 }

@@ -12,7 +12,7 @@
   {
    "id": "roommate-and-shared-living-002",
    "situation": "合租室友的男朋友阿杰最近一周要住四五天，早上洗澡要排队，水电费也涨了。我和室友关系还不错，不想弄僵。",
-   "reply": "跟你商量个小事哈。我挺喜欢阿杰的，也理解他常来。不过最近他差不多一周住四五天，早上洗澡要排队，水电也涨了不少。要不我们定一下：一周最多住两晚，或者多住的话他分摊一部分水电？你觉得哪种更合适都行。",
+   "reply": "跟你商量个小事哈。阿杰常来我能理解，不过最近他差不多一周住四五天，早上洗澡要排队，水电也涨了不少。要不我们定一下：一周最多住两晚，或者多住的话他分摊一部分水电？你觉得哪种更合适都行。",
    "lang": "zh",
    "note": "说的是房子里的事实，不评价人；带着两个方案去，抱怨就变成了一起做决定。"
   },
@@ -32,7 +32,7 @@
   },
   {
    "id": "roommate-and-shared-living-005",
-   "situation": "我和两个室友合租，下个月底要搬走了，押金是三个人一起交给房东的。想在群里说一声，顺便把房间交接和最后的水电费说清楚，别到时候扯皮。",
+   "situation": "我和两个室友合租，10月31日要搬走，押金是三个人一起交给房东的。想在群里说一声，顺便把房间交接和最后的水电费说清楚，别到时候扯皮。",
    "reply": "跟大家说个事：我10月31日搬走，这周会正式跟房东说。你们要是想找熟人来住我那间，我很乐意配合带看。走之前想约个时间一起看看房间和客厅厨房的状况，10月30日周五晚上可以吗？卫生间我走前会彻底打扫，10月的水电按账单算好我这份转给你们，押金我们到时候三个人一起跟房东确认。跟你们住得很开心，谢谢你们！",
    "lang": "zh",
    "note": "搬走前把日期、交接检查和最后的账单都落在群里，押金三个人一起跟房东对，免得之后各说各话。"
@@ -61,7 +61,7 @@
   {
    "id": "roommate-and-shared-living-009",
    "situation": "My flatmate Leo keeps eating my food from the fridge. Last week it was my leftover lasagne and half a block of cheese, this week my yoghurts. We get on well and it's probably just different habits, but it's adding up.",
-   "reply": "Hey Leo, small fridge thing. A few bits of my food have gone lately, the lasagne last week and my yoghurts this week, and I'd been planning meals around them. Could we keep to our own shelves and just ask before borrowing something? I'll do the same, and I'm happy to go halves on basics like milk and eggs if that's easier.",
+   "reply": "Hey Leo, small fridge thing. A few bits of my food have gone lately, the lasagne last week and my yoghurts this week. Could we keep to our own shelves and just ask before borrowing something? I'll do the same, and I'm happy to go halves on basics like milk and eggs if that's easier.",
    "lang": "en",
    "note": "One issue, told as what happened rather than what he is, plus a small system so neither of you has to police the fridge."
   },
@@ -102,15 +102,15 @@
   },
   {
    "id": "roommate-and-shared-living-015",
-   "situation": "合租室友阿凯每天晚上在阳台抽烟，阳台挨着我房间的窗户，烟味都飘进来，我这几天只能关窗睡。我们平时处得还行，他人不坏。",
-   "reply": "阿凯，跟你说个小事哈。你晚上在阳台抽烟的时候，烟会从我房间窗户飘进来，这几天我都只能关着窗睡。以后抽烟能不能去楼下抽？你要是有更方便的办法，咱们也可以再商量。",
+   "situation": "合租室友阿凯在自己房间里抽烟，这周我发现他把房间的烟雾报警器拆下来放在桌上了。我们住六楼，我担心万一着火没人察觉。我们平时处得还行，他人不坏。",
+   "reply": "阿凯，跟你说个事哈。这周我看到你房间的烟雾报警器拆下来放在桌上了，咱们住六楼，万一着火没报警真的很危险。今天能把它装回去吗？抽烟的话去楼下抽。要是报警器老误报，咱们一起跟房东说，让他们来看看怎么处理。",
    "lang": "zh",
-   "note": "只说烟飘进房间这个事实，不评价他抽烟；带一个具体方案，再留一个调整的余地。"
+   "note": "消防安全不绕弯子：说清看到的事实，提一个今天就能做的动作。他不肯装回去，就直接联系房东或物业；真闻到烟、看到火，先打119。"
   },
   {
    "id": "roommate-and-shared-living-016",
    "situation": "Am Samstag, 3. Oktober, zieht Mia in unsere Dreier-WG ein. Bei uns gibt es einen Putzplan am Kühlschrank, der jede Woche rotiert, und Strom plus Internet kosten zusammen 90 Euro im Monat, die wir durch drei teilen und am Monatsersten an Jonas überweisen. Ich will ihr das vorab freundlich schreiben, bevor es später Missverständnisse gibt.",
-   "reply": "Hey Mia, wir freuen uns total, dass du am Samstag einziehst! Kurz zwei WG-Sachen, damit du gleich Bescheid weißt: Am Kühlschrank hängt ein Putzplan, der jede Woche rotiert, und Strom plus Internet sind 90 Euro im Monat, also 30 Euro pro Person, die jeweils am Monatsersten an Jonas gehen. Wenn dir nach ein paar Wochen etwas anders besser passt, sag einfach Bescheid, dann passen wir es an.",
+   "reply": "Hey Mia, schön, dass du am Samstag einziehst! Kurz zwei WG-Sachen, damit du gleich Bescheid weißt: Am Kühlschrank hängt ein Putzplan, der jede Woche rotiert, und Strom plus Internet sind 90 Euro im Monat, also 30 Euro pro Person, die jeweils am Monatsersten an Jonas gehen. Wenn dir nach ein paar Wochen etwas anders besser passt, sag einfach Bescheid, dann schauen wir es uns zusammen an.",
    "lang": "de",
    "note": "Regeln gleich beim Einzug klären ist leichter, als sie später als Beschwerde einzuführen."
   },

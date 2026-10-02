@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "small-talk-001",
@@ -232,6 +232,13 @@
    "reply": "Derek, this has been great, you've properly got me thinking about trying a stout. I want to catch Amara before she heads off, but I'd love to carry this on. Are you on LinkedIn?",
    "lang": "en",
    "note": "Exit on a high note with a real reason and a thread for next time, rather than waiting for the conversation to die."
+  },
+  {
+   "id": "small-talk-034",
+   "situation": "For two months I've chatted with another mum at the poolside during our kids' Saturday swim lessons, and we've never swapped names; I only know her son is Arlo. Last week she said she was starting a pottery course on Wednesday evenings. I'm Hannah, and it feels too late to ask her name, but I want to.",
+   "reply": "I've just realised that after two months of Saturdays I don't know your name. I'm Hannah, by the way. So how was the first pottery class?",
+   "lang": "en",
+   "note": "Own the missing name lightly in one line so it's a shared joke, then pick up the thread she gave you last week."
   }
  ]
 }

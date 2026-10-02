@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -232,6 +232,13 @@
    "reply": "妈，这一周辛苦您了，乐乐跟您玩得特别开心。您说得对，吃饭给他看平板是我们图省事，从今天起吃饭时平板收起来。抱着哄睡是我和建军商量好的，打算明年他上幼儿园再慢慢改，这件事我们想先按自己的节奏来。以后您看到哪里不妥，随时跟我说，我宁愿早点知道。",
    "lang": "zh",
    "note": "长辈批评带娃：先谢帮忙，认下对的那条并马上改，不同意的那条说明是两口子的决定，不争谁对谁错。"
+  },
+  {
+   "id": "respond-to-criticism-034",
+   "situation": "Comparto coche para ir al trabajo con Rocío y Javier. Rocío me ha escrito por WhatsApp que conduzco demasiado rápido, que le da miedo y que además siempre llego tarde a recogerlos. Lo de la velocidad es verdad: el martes pasado fui a 140 por la autovía para no llegar tarde; pero tarde solo llegué ese día, por unas obras. A partir del lunes voy a salir diez minutos antes.",
+   "reply": "Rocío, gracias por decírmelo claramente. Tienes razón con la velocidad: el martes fui a 140 por la autovía y no está bien, y menos llevándoos a vosotros. A partir del lunes salgo diez minutos antes para no ir con prisas. Lo de llegar siempre tarde lo veo distinto: solo fue ese martes, por las obras. Y si algo te da miedo mientras conduzco, dímelo en el momento, por favor.",
+   "lang": "es",
+   "note": "Cuando la crítica toca la seguridad, se acepta sin peros y se cambia ya; el desacuerdo sobre el 'siempre' cabe en una frase."
   }
  ]
 }

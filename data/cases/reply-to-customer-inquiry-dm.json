@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Priya! For 50 guests, the 2oz tins come to $190, and custom labels with your names and date are free on orders of 40 or more. The 4oz tins would be $325, so the 2oz is the one that fits your budget. Wedding orders take 3 weeks; when's the big day?",
    "lang": "en",
    "note": "A budget-first question: lead with the option that fits their number, do the maths for them, then one question that moves to a booking."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-034",
+   "situation": "I hand-knit cardigans and sell them on Instagram; ready-made sizes run XS to XL, and I knit any design to measurements for $40 extra, which takes about three weeks. Rosa DMed: 'love the Fern cardigan! do you go above XL? I'm usually a 3XL'. The Fern is $145, and I have a measuring guide I can send.",
+   "reply": "Hi Rosa! The ready-made Fern stops at XL, but I can knit it to your measurements for $40 extra, so $185 in total, and it takes about three weeks. Want me to send you the measuring guide?",
+   "lang": "en",
+   "note": "Answer the size question honestly in the first line, then the route that works, priced in full; nothing about her size beyond the measurements."
   }
  ]
 }

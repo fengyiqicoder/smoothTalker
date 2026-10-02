@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -232,6 +232,13 @@
    "reply": "I'm not going to pass on what either of you says to me, Jo, so I can't answer that one, and I'd say exactly the same to Marta. What I can say is that you clearly miss her. If you want to know where she stands, a short message from you is the way to find out, and I'm happy to help you word it.",
    "lang": "en",
    "note": "Even when the news is good, keep the confidence; nudge each of them towards the first move without hinting at what the other said."
+  },
+  {
+   "id": "mediating-between-two-people-034",
+   "situation": "I'm in a four-person group for our marketing module, and the presentation is next Thursday. Two of the group, Kofi and Hannah, have been arguing in the group chat for days about Kofi missing two meetings and Hannah rewriting his slides without asking. Hannah has just messaged me privately asking me to back her up when she emails our tutor, Dr Reyes, to say Kofi isn't pulling his weight; I'm free for a call tomorrow evening.",
+   "reply": "Hannah, I can tell how stressed you are about next Thursday, and I get why. I'm not going to back either of you to Dr Reyes, though; I'm working with both of you and I don't want to take sides. What we all want is a presentation that comes together. Could the whole group get on a call tomorrow evening, just to agree who owns which slides and when each part is due, one person talking at a time? I'll say exactly the same to Kofi. Whether you contact Dr Reyes after that is your call.",
+   "lang": "en",
+   "note": "Declining to co-sign a complaint is still neutral; steer both towards the shared deadline and one practical agreement."
   }
  ]
 }

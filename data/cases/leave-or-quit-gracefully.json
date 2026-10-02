@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Leo, no need to reply to this, enjoy the time with the baby. I wanted you to hear it from me rather than secondhand: I've resigned, and my last day is Friday 6 November. Sunita knows and is running the handover, so there's nothing on your plate. Thank you for backing my diary study last year; I learned so much from it.",
    "lang": "en",
    "note": "When your manager is away, formal notice goes to whoever is covering; the note to them is personal, and asks nothing of them."
+  },
+  {
+   "id": "leave-or-quit-gracefully-034",
+   "situation": "我叫阿琴，一年半来每个工作日早上开车顺路捎同事小刘和老马上班，他们每月各给我200元油费，10月的月初已经给了。我11月搬到城东，以后不顺路了，10月30日（周五）是最后一次。小区门口早上7点20分有一趟班车直达公司附近，想在我们三个人的微信小群里说一声。",
+   "reply": "小刘、老马，跟你们说一声：我11月搬到城东，以后上班就不顺路了，10月30日周五是我最后一次捎你们。提前一个月说，是想给你们留点时间安排。小区门口早上7点20分有一趟班车，直达公司附近，可以试试。10月的油费你们月初已经给过了，就到这儿，不用再给。这一年半每天早上一路聊着去上班，真挺舍不得的。",
+   "lang": "zh",
+   "note": "退出固定的顺路接送也是离开：提前说、给日期，交接就是告诉对方替代的路线，钱的事一句说清。"
   }
  ]
 }

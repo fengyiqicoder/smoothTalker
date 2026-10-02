@@ -60,8 +60,8 @@
   },
   {
    "id": "family-pressure-and-nosy-questions-009",
-   "situation": "Every year my grandma asks if I'll come to midnight Mass with the family on Christmas Eve. I stopped going to church years ago and I'm not going, but she's 88 and I don't want to hurt her. She asked again on the phone this week.",
-   "reply": "I know how much Christmas Eve Mass means to you, Nana, and I love that you want us all there. I won't be coming to Mass, but I'll be at the house by 6 on the 24th to help with dinner, and I'll have the cocoa ready when you're all back. What are you cooking this year?",
+   "situation": "Every year my grandma asks if I'll come to midnight Mass with the family on Christmas Eve. I stopped going to church years ago and I'm not going, but she's 88 and I don't want to hurt her. The family has dinner at her house after Mass, and I'm happy to come at 6 to help cook. She asked again on the phone this week.",
+   "reply": "I know how much Christmas Eve Mass means to you, Nana, and I love that you want us all there. I won't be coming to Mass, but I'll be at the house by 6 on the 24th to help with dinner. What are you cooking this year?",
    "lang": "en",
    "note": "A direct invitation needs a clear answer, but no reasons about faith, which only open a debate. Give her a warm, specific plan, redirect, and repeat the same line if she asks again."
   },
@@ -91,7 +91,7 @@
    "situation": "I've been sober for eight months. At every family barbecue my uncle Dave hands me a beer, and when I say no he jokes 'what, you pregnant or something?' His 60th is on Saturday and I don't want to explain my recovery to the whole patio.",
    "reply": "Ha, nope, not pregnant, just on the lemonade today, Uncle Dave. Pass me one of those, would you? And tell me, how does sixty feel so far?",
    "lang": "en",
-   "note": "No reason for not drinking, since a reason invites a debate; if he pushes again, repeat the same line and keep a drink of your own in hand."
+   "note": "No reason for not drinking, since a reason invites a debate; if he pushes again, repeat the same line and keep a drink of your own in hand. If the pressure starts to shake your recovery, call your support group or a recovery helpline before the party."
   },
   {
    "id": "family-pressure-and-nosy-questions-014",
@@ -144,7 +144,7 @@
   },
   {
    "id": "family-pressure-and-nosy-questions-021",
-   "situation": "我32岁，我妈又没问我就给我约了相亲，这周六下午见她同事的儿子。前两次我都去了，这次不想去，以后也不想她再帮我约。她最近在跟小区阿姨们排广场舞准备比赛。在微信上回她。",
+   "situation": "我32岁，我妈又没问我就给我约了相亲，这周六下午见她同事的儿子。前两次我都去了，这次不想去，以后也不想她再帮我约。周六下午我正好有空，可以回家陪她吃饭。她最近在跟小区阿姨们排广场舞准备比赛。在微信上回她。",
    "reply": "妈，我知道您是替我操心。这周六的相亲我不去了，麻烦您跟阿姨说一声抱歉，以后这类安排也先别帮我约了。周六下午我回家陪您吃饭，顺便看看您比赛的舞排得怎么样了？",
    "lang": "zh",
    "note": "不解释为什么不想相亲，解释会变成新一轮劝说；她再提，就用几乎一样的话再说一遍。"
@@ -154,7 +154,7 @@
    "situation": "我今年高三，每次家里聚会舅舅都当着一桌人问我模拟考多少分、想考哪个大学，还说“考不上985就白读了”。这周六外婆过八十大寿，一大家子吃饭。舅舅最近迷上了钓鱼。",
    "reply": "哈哈，舅舅又来查成绩啦。等有结果了，第一个告诉您。对了舅舅，听说您最近迷上钓鱼了，钓到过大的没？",
    "lang": "zh",
-   "note": "A teenager can deflect too: no scores, no targets, straight to the fishing."
+   "note": "高中生也可以这样接：不报分数、不说目标，直接转到钓鱼；他再问，就原话再说一遍。"
   },
   {
    "id": "family-pressure-and-nosy-questions-023",
@@ -221,7 +221,7 @@
   },
   {
    "id": "family-pressure-and-nosy-questions-032",
-   "situation": "我下个月结婚。国庆家宴上，三姨肯定会当着一桌人问“男方给了多少彩礼”，还会拿她儿媳家比。彩礼是我们两家私下商量好的，我不想说数字。三姨最近在学跳交谊舞，一聊起来就停不下来。",
+   "situation": "我下个月结婚。国庆家宴上，三姨肯定会当着一桌人问“男方给了多少彩礼”，还会拿她儿媳家比。彩礼是我们两家私下商量好的，双方都满意，我不想说数字。三姨最近在学跳交谊舞，一聊起来就停不下来。",
    "reply": "哈哈，三姨一上来就问重点。这事两家已经商量好了，我们都挺满意的。对了三姨，听说您最近在学交谊舞，学到哪一步了？",
    "lang": "zh",
    "note": "不报数字也不解释，数字一出口就会被拿去比较；她再问，就用几乎一样的话再说一遍。"

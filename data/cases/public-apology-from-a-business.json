@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -232,6 +232,13 @@
    "reply": "10月1日晚上的直播里，我们的主播模仿一位外地顾客的口音开玩笑。这不好笑，也不尊重人，很多看到的朋友都觉得不舒服。对不起，这是我们店的直播，责任在我。直播回放已经删除，我已经私下向这位顾客道歉，也跟主播谈过了。以后每场直播都会有第二个人在场，出现不合适的话当场纠正、当场道歉。想跟我说说的，直接私信店铺，我本人回复。店主 王岚",
    "lang": "zh",
    "note": "不点名主播，也不再提那位顾客是谁，责任由店铺承担；改进只写一条每场都做得到的。"
+  },
+  {
+   "id": "public-apology-from-a-business-034",
+   "situation": "I'm Ines, founder of Hollowtree, a small online knitwear brand. From 7 to 28 September the size guide for our new Ridge jumper listed chest measurements one size too small, so about 150 customers ordered a size too big. Anyone who bought a Ridge in that window can exchange it with free postage both ways until 30 November, or return it for a full refund; the guide is fixed, every new size guide is now checked against a sample garment before it goes live, and questions can go to ines@example.com.",
+   "reply": "From 7 to 28 September, the size guide for our new Ridge jumper listed chest measurements one size too small, so about 150 of you ordered a size too big. Sorry, that was our mistake, not yours. If you bought a Ridge in that window, you can exchange it with free postage both ways until 30 November, or return it for a full refund. The guide is now fixed, and every new size guide is checked against a sample garment before it goes live. Questions: ines@example.com. Ines, founder, Hollowtree",
+   "lang": "en",
+   "note": "A small, contained error: what was wrong and who it hit, one sorry, an easy fix both ways, and one check you can keep."
   }
  ]
 }

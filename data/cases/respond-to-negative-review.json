@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -232,6 +232,13 @@
    "reply": "Thank you, Megan, for the kind words about the repair, and for being straight about the rest. It's your bike, so you should have been the one we spoke to, and nobody should be talked down to at our counter. That's on us. I've talked with the team, and we now speak to whoever owns the bike and ask what they already know before explaining anything. If you'd like to tell me more, I'm at joe@example.com. Joe, owner",
    "lang": "en",
    "note": "A complaint about how someone was treated: own it without defending the mechanic's intent or naming him, and say what changed at the counter."
+  },
+  {
+   "id": "respond-to-negative-review-034",
+   "situation": "I'm Ana and I run Fernleaf Refill, a refill shop; my email is ana@example.com. 'Jo P.' left a 2-star Google review saying our 'plastic-free' claim is a lie because our detergent arrives in plastic drums. Our bulk stock does arrive in 20-litre plastic drums that the supplier collects and refills, and our website said 'plastic-free shop'; I've changed it to 'plastic-free for customers: bring your own containers' and added a page explaining how our stock arrives.",
+   "reply": "Thank you, Jo, for holding us to our word. You're right that our bulk stock arrives in 20-litre plastic drums, and calling ourselves a 'plastic-free shop' overstated it. The drums go back to the supplier to be refilled, and we should have said so plainly. Our website now says 'plastic-free for customers: bring your own containers', and there's a new page explaining how our stock arrives. If you'd like to talk it through, I'm at ana@example.com. Ana, Fernleaf Refill",
+   "lang": "en",
+   "note": "When a review challenges a marketing claim, fix the claim rather than defend it, and show the new wording."
   }
  ]
 }

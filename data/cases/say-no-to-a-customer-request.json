@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -232,6 +232,13 @@
    "reply": "Thanks for being upfront, Kwame, and I understand wanting to be careful after being caught out before. I can't ship before payment: I'm a one-person shop, and one unpaid laptop would wipe out a month's profit. What protects you instead is my 30-day return: pay through the shop checkout, and if anything's not right, send it back for a full refund. Or come to my workshop on a Saturday morning, try it, and pay there. Which suits you better?",
    "lang": "en",
    "note": "Shipping before payment moves all the risk onto you; offer the protections you already have instead of a one-off exception."
+  },
+  {
+   "id": "say-no-to-a-customer-request-034",
+   "situation": "I run a small yoga studio, Saltmarsh Yoga. A member, Jade, who's building a YouTube channel, asked if she can film herself during our Thursday 7pm class. We don't allow filming in group classes because the other students haven't agreed to be on camera; she can film in the empty studio for 15 minutes after the class at no charge, or book a private session at £45 and film the whole hour.",
+   "reply": "Thanks for asking first, Jade, and congrats on the channel! We don't allow filming in group classes: people come to practise, not to be on camera, and the others in the room haven't agreed to it. What I can offer is the empty studio for 15 minutes after Thursday's class to film on your own, at no charge, or a private session at £45 where you can film the whole hour. Which would suit you?",
+   "lang": "en",
+   "note": "The reason is the other students, not 'policy', and both alternatives give her the footage she actually wants."
   }
  ]
 }

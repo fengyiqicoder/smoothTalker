@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -232,6 +232,13 @@
    "reply": "¡Hola, Marta y Álvaro! Me encanta que queráis un recuerdo en vídeo. El contrato es solo de fotografía, y el vídeo no es algo que haga: grabar a la vez haría que las fotos salieran peor. Os propongo dos opciones: un montaje de 60 segundos con las fotos de la boda, perfecto para redes, por 150 €, o os paso el contacto de Marcos, un videógrafo con quien trabajo. ¿Qué preferís?",
    "lang": "es",
    "note": "Cuando el extra no es tu oficio, la salida es un producto tuyo con precio o alguien de confianza, nunca regalarlo ni improvisarlo."
+  },
+  {
+   "id": "say-no-to-client-scope-034",
+   "situation": "我是自由文案，给一家茶饮品牌写秋季新品推文，合同约定10月12日（周一）交稿，稿费3000元。今天国庆假期，客户市场部的周经理发微信要求提前到10月8日（周四）交，还说“放假你反正有空”。我1号到5号陪家人回老家，6号、7号可以赶稿，加急费按原价的50%算，即1500元。",
+   "reply": "周经理，新品想早点上线，我理解。合同约定的交稿时间是10月12日（周一），提前到8日（周四）就属于加急。有两种方式：一是按原计划12日交稿；二是我加急赶稿，8日交，加急费按原价的50%，即1500元。您看选哪种？书面确认后我就按这个排期来。",
+   "lang": "zh",
+   "note": "节假日加急也是加急：不解释自己放假在做什么，也不接“反正有空”这句，给原计划和加价两个选项，让对方书面确认。"
   }
  ]
 }

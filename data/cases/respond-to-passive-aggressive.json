@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -232,6 +232,13 @@
    "reply": "I'm sorry I can't be there on Saturday, I know moving day is a lot. The christening is all day, so that one can't move, but my Sunday offer stands: pizza at your new place, on me. Does around 7 work?",
    "lang": "en",
    "note": "When the dig follows your no, keep the no, restate your offer warmly and leave the bait alone; if the digs keep coming, name the pattern."
+  },
+  {
+   "id": "respond-to-passive-aggressive-034",
+   "situation": "I have a plot at our community garden and missed Saturday's clean-up day because I was working a shift. The committee chair, Bernard, emailed all plot holders: 'Huge thanks to the eight of us who bothered to turn up. I'm sure the rest of you had more important things on.' I'm Priya, and I'm free to do two hours of weeding on Sunday afternoon.",
+   "reply": "Hi Bernard, sorry to have missed Saturday's clean-up, I was working. I'd like to do my share: I'm free for two hours on Sunday afternoon, so if you tell me which jobs are still left, I'll get them done. Priya",
+   "lang": "en",
+   "note": "A dig sent to the whole list gets a private reply that does the fair part; no reply-all and no defence of the shift."
   }
  ]
 }

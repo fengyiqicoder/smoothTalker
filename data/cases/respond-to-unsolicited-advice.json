@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -232,6 +232,13 @@
    "reply": "王大爷，谢谢您心疼可乐。它现在还得一直牵着，我们这样挺好的。团团最近怎么样？",
    "lang": "zh",
    "note": "对邻居用最低一两档：接住好意，立场说一句，不搬出训犬师讲道理，再换到他爱聊的团团；下次他再说，就重复同一句。"
+  },
+  {
+   "id": "respond-to-unsolicited-advice-034",
+   "situation": "I told my oldest friend Sophie that my boyfriend Callum and I are moving in together next month, after four months of dating. She's said twice it's too soon, and when I told her we'd decided, she replied 'Fine, but don't come crying to me when it goes wrong.' I want to keep things warm, and we have brunch booked for Sunday.",
+   "reply": "I know you say it because you've got my back, Soph, and I love that about you. We've decided, and I'm really excited about it. Whatever happens, I hope you'll always be someone I can call. See you at brunch on Sunday?",
+   "lang": "en",
+   "note": "When the pushback is a parting shot, agree with the care, keep the position, and don't argue about 'when it goes wrong'."
   }
  ]
 }

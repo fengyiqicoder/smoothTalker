@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -232,6 +232,13 @@
    "reply": "Owen, I want Brookhaven to see this land on time as much as you do. The catch is the data import: it's about eight working days on its own, so the full portal realistically lands on Friday 6 November, and I'd rather not promise them a date I know we'll miss. Two options: we tell them search and the map view on Friday 23 October and exports on 6 November, or we give them 6 November for the whole thing. I'd recommend the first, so they have something real on the 23rd. Which would you prefer?",
    "lang": "en",
    "note": "Pushing back on a promise to a client protects you both; once he picks, confirm the date in writing before it goes to Brookhaven."
+  },
+  {
+   "id": "push-back-on-boss-034",
+   "situation": "My manager Hannah wants me to give my payroll system login to Leo, our temp, so he can enter timesheets while I'm on leave next week. Anything he entered would show up under my name, and my account can see everyone's pay details. IT can set up a temporary timesheet-only account for him by Monday morning if I ask today, or Priyanka in finance, who already has access, could enter the timesheets Leo collects.",
+   "reply": "Hi Hannah, I want the timesheets in on time while I'm away. The catch is sharing my payroll login: anything Leo entered would show up under my name, and my account can see everyone's pay details. Two options: I ask IT today for a temporary timesheet-only account for Leo, which they can set up by Monday morning, or Leo collects the timesheets and Priyanka in finance, who already has access, enters them. I'd recommend the first. Which would you prefer?",
+   "lang": "en",
+   "note": "Yes to the goal, no to the shared password; if you're still told to share it, check the company's IT security policy and raise it with IT before doing anything."
   }
  ]
 }

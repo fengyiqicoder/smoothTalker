@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -232,6 +232,13 @@
    "reply": "Jess, thank you for telling me. A whole week of waiting sounds awful, and spiralling a bit would be completely normal. I'm not going to guess at the results; I'm just here, for the waiting and for whatever comes after. I work from home on Thursdays, so I can be with you when you get the call, or on the phone, whichever you'd like. No need to reply.",
    "lang": "en",
    "note": "In the waiting stage, skip 'I'm sure it's nothing': it makes her fear feel unreasonable. Offer company for the day the news comes."
+  },
+  {
+   "id": "respond-to-difficult-health-news-034",
+   "situation": "My friend Raj texted that tests have confirmed progressive hearing loss in both ears; he gets hearing aids next month, and phone calls are already hard for him. We've talked on the phone every Sunday evening for years. I'm happy to switch to video with captions or to texting, whichever he prefers.",
+   "reply": "Raj, thank you for telling me, and I'm sorry, that's a lot to adjust to. Let's make Sunday evenings work for you: we can switch to video with captions on, or just text, whichever is easier, and you can change your mind any week. Nothing else changes. No need to reply tonight.",
+   "lang": "en",
+   "note": "When the news changes how someone communicates, the specific offer is to adapt to them, and let them choose the format."
   }
  ]
 }

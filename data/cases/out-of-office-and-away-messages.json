@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -232,6 +232,13 @@
    "reply": "Gracias por tu mensaje. Estoy de vacaciones del 13 al 23 de octubre, no leo el correo y vuelvo el lunes 26 de octubre. Si participas en el proceso de jefe de almacén: las entrevistas finales siguen el martes 27 de octubre, como estaba previsto, y para cualquier duda puedes escribir a Nuria Gil (nuria.gil@example.com). Para todo lo demás, te respondo a mi vuelta. Marta Vidal",
    "lang": "es",
    "note": "Con un proceso de selección abierto, lo primero que quiere saber un candidato es si cambian las fechas: respóndelo antes que nada."
+  },
+  {
+   "id": "out-of-office-and-away-messages-034",
+   "situation": "I'm Dana Brooks, an engineering manager with eight direct reports. I'm on holiday from Monday 19 October to Friday 23 October, back Monday 26 October, and won't read email or Slack. My peer Kofi Mensah (kofi.mensah@example.com) has agreed to approve timesheets, expenses and leave requests for my team while I'm away; everything else waits for me.",
+   "reply": "I'm away from Monday 19 October, back on Monday 26 October, and not reading email or Slack. If you're on my team and need a timesheet, expense or leave request approved, Kofi Mensah (kofi.mensah@example.com) is approving them while I'm away. Everything else will get a reply from me when I'm back. Dana",
+   "lang": "en",
+   "note": "When people need a sign-off from you, name exactly what the cover can approve, so nobody waits a week for a signature."
   }
  ]
 }

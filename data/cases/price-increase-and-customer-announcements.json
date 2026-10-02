@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Jordan,\nFrom Monday 4 January 2027, my session fee goes from $110 to $125. It's my first increase in four years, and it covers higher rent and professional insurance. Nothing about our sessions changes. I keep four reduced-fee places at $80; if the new fee is hard for you, you can ask me about one in confidence, by reply or when we meet. And if you decide to stop or move, I'll help you find another counsellor so you're not left without support.\nHannah",
    "lang": "en",
    "note": "In a care relationship, give long notice, put the hardship route in every client's letter, and make leaving safe as well as easy."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-034",
+   "situation": "I'm Gemma and I run Tidy Paws, a mobile dog grooming business with about 120 regular clients, like Rob, who pay by bank transfer after each groom. From Monday 2 November I'm moving the business account, so the bank details for payments will change; prices and grooms stay the same. The new details will only ever be on the printed invoice I hand over in person, I'll never send new bank details by email or text, and I want clients to call me on 555-0163 before paying anywhere new.",
+   "reply": "Hi Rob,\nFrom Monday 2 November, the bank details for paying Tidy Paws are changing, because I'm moving the business account. Prices and grooms stay exactly the same, and until then you pay just as you do now. You'll get the new details only on the printed invoice I hand you in person at your first groom from 2 November; I will never send new bank details by email or text. If you ever get a message asking you to pay somewhere new, call me on 555-0163 before paying anything.\nThanks,\nGemma",
+   "lang": "en",
+   "note": "A payment-details change is a magnet for fake invoices, so tell customers exactly how real changes will reach them and how to check."
   }
  ]
 }

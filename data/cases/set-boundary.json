@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -232,6 +232,13 @@
    "reply": "Sam, I'm looking forward to Saturday and I want to keep coming to these. I'm not drinking, so I'll bring my own drinks and say no to any beer, once. If the offers keep coming, I'll head home early. Save me a burger.",
    "lang": "en",
    "note": "Don't explain or defend your sobriety; if the pressure gets hard, lean on whoever supports your recovery, and leaving early is always allowed."
+  },
+  {
+   "id": "set-boundary-034",
+   "situation": "My uncle Pete sends me political videos on WhatsApp most days and starts debates about the election at family dinners. We vote differently and I'm tired of arguing. From now on I won't reply to political messages or discuss politics at dinner, but I love fishing with him and we've got a trip planned for Saturday 17 October.",
+   "reply": "Pete, you're one of my favourite people, and I don't want politics getting between us. From now on I'm not going to reply to political videos or talk about the election at dinner; if it comes up, I'll change the subject. Everything else, I'm all yours, especially fishing. Still on for Saturday the 17th?",
+   "lang": "en",
+   "note": "If another video arrives, leave it unanswered and reply to his next non-political message as normal; don't debate the boundary itself."
   }
  ]
 }

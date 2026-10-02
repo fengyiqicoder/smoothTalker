@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -232,6 +232,13 @@
    "reply": "林老师您好，我是三（1）班黄可可的妈妈陈静。谢谢您和心理老师今天下午抽时间跟我谈可可午休的事。我把商定的几件事整理一下，您看是否准确：一是您这边调整可可午休的座位；二是心理老师每周二找可可聊一次；三是10月16日（周五）我们再一起碰一次，看看效果。家里我每天晚上都会问问她午休过得怎么样，有情况及时跟您说。再次感谢您！",
    "lang": "zh",
    "note": "会后当天用文字确认商定的事，语气是核对而不是留证据；以后如果需要再找学校，日期都在这里。"
+  },
+  {
+   "id": "messages-to-teachers-and-schools-034",
+   "situation": "I'm Priti Shah. My son Arjun (Year 6, Mr Bell's class) goes on the three-night residential trip on Monday 12 October. He still sometimes wets the bed at night, which our GP says is common at his age, and he's terrified the other children will find out; he'll pack disposable night pants and a sleeping bag liner he can manage on his own. I'd like the staff to know discreetly, and I'm free after 3:30 any day.",
+   "reply": "Dear Mr Bell, I'm Arjun Shah's mum, from your Year 6 class. Ahead of the residential on Monday 12 October, I wanted to let you know privately that Arjun still sometimes wets the bed at night; our GP says it's common at his age. He's very worried the other children will find out. He'll pack disposable night pants and a sleeping bag liner he can manage on his own. Could you let me know how staff usually handle this discreetly on trips, and who will know? I'm free after 3:30 any day if a quick chat is easier. Thank you, Priti Shah",
+   "lang": "en",
+   "note": "Share only what staff need, ask about their usual approach rather than prescribing one, and ask who will be told."
   }
  ]
 }

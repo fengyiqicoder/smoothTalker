@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -232,6 +232,13 @@
    "reply": "Thanks for reaching out, Ben. This one's a no from me: betting isn't an industry I want to work in. I'd be glad to hear about payments roles in fintech or e-commerce, though.",
    "lang": "en",
    "note": "A values-based no needs one neutral line, not a justification; naming the door you do want open keeps the recruiter useful."
+  },
+  {
+   "id": "respond-to-recruiter-034",
+   "situation": "Une recruteuse, Mme Girard, m'a contactée sur LinkedIn pour un poste de cheffe de projet logistique, et le poste m'intéresse. Avant de me présenter au client, elle me demande d'expliquer le trou de trois ans sur mon CV : de 2022 à 2025, je me suis occupée de ma mère malade, je suis aujourd'hui disponible à temps plein et je ne veux pas entrer dans les détails. Je suis Claire Morel, disponible pour un appel mardi ou jeudi après 14 h.",
+   "reply": "Bonjour Madame Girard, merci pour votre message, le poste m'intéresse. De 2022 à 2025, j'ai fait une pause professionnelle pour m'occuper d'un proche malade, et je suis aujourd'hui disponible à temps plein. Avant de me présenter au client, pourriez-vous m'indiquer la fourchette de salaire ? Si elle correspond, je suis disponible pour un appel mardi ou jeudi après 14 h. Bien cordialement, Claire Morel",
+   "lang": "fr",
+   "note": "Une ligne factuelle suffit pour une pause de carrière, sans détails médicaux ; la question de la fourchette reste avant l'appel."
   }
  ]
 }
