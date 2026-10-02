@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -217,6 +217,13 @@
    "reply": "Hi Geoff, it's Nadia Rahman from Calder Housing Trust. Lynn passed on your number after checking with you, and I hope retirement is treating you well. I'm applying to be school bursar at Willowbrook School, and they need a reference from a finance role by Friday 16 October. Would you be willing to be that person? If it helps, the things they'll care most about are the 2023 payroll changeover I ran and the year-end audit we closed with no findings. If you'd rather keep retirement free of this sort of thing, no problem at all.",
    "lang": "en",
    "note": "A retired referee owes you nothing: say how you got the number, put the deadline in the first message, and make the out respect that he's stepped back."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-032",
+   "situation": "我们是一家做保洁外包的小公司，在投市图书馆的保洁项目，标书要求两家现有客户出具盖章的“履约证明”，10月16日（周五）前要拿到。想请明华小学后勤处的刘主任帮忙，我们合作三年，每学期的检查都是零投诉。证明的模板我们已经按标书格式拟好了。",
+   "reply": "刘主任您好，想请您帮个忙：我们在投市图书馆的保洁项目，标书要求两家现有客户出具一份盖章的履约证明，10月16日（周五）前要交。我们和明华小学合作三年，每学期检查都是零投诉，所以第一个就想到您。模板我们已经按标书格式拟好了，主要写合作时间和服务情况，您看过、需要改的地方直接改，没问题的话盖个章就行，我们派人上门取。如果学校盖章有流程上的困难，您直接告诉我，完全没关系。",
+   "lang": "zh",
+   "note": "企业之间的证明也要做成十分钟的事：说清用途和截止日期，模板准备好，盖章的流程问题给对方留出口。"
   }
  ]
 }

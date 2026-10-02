@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -211,6 +211,13 @@
    "reply": "妈，我知道您是担心我，有您惦记着，我心里挺暖的。咨询里聊的内容我不打算说，您问起来我就换个话题，咨询师的电话我也不会给。我最近状态在慢慢变好，周日回家吃饭，跟您好好聊聊我最近的日子。",
    "lang": "zh",
    "note": "边界说成自己会怎么做；她再追问，就重复“咨询的事我不聊”，不加理由。情绪变糟或有伤害自己的念头时，及时联系咨询师或当地心理援助热线，有危险直接打急救电话。"
+  },
+  {
+   "id": "set-boundary-031",
+   "situation": "Mein Freund Jonas erzählt seiner Mutter Heike von unseren Streits, und beim Sonntagskaffee spricht sie mich dann darauf an, zuletzt auf unseren Streit wegen des Urlaubs. Ich liebe ihn und mag Heike, aber über unsere Beziehung will ich mit ihr nicht mehr reden. Wenn ihn etwas stört, möchte ich es zuerst von ihm hören.",
+   "reply": "Jonas, ich bin so gern mit dir zusammen, und ich mag deine Mutter wirklich. Über unsere Streits rede ich mit Heike ab jetzt nicht mehr: Wenn sie mich darauf anspricht, sage ich, dass das zwischen dir und mir bleibt, und wechsle das Thema. Wenn dich etwas stört, will ich es zuerst von dir hören.",
+   "lang": "de",
+   "note": "Die Grenze beschreibt, was du tust, nicht was er tun muss; fragt er nach, dieselbe Aussage kürzer wiederholen."
   }
  ]
 }

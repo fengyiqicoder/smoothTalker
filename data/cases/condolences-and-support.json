@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -218,6 +218,13 @@
    "reply": "Callum, I'm so sorry about Isla. Everyone's asking after Sara, and I wanted you to know I'm thinking of you too. Your spot on Tuesdays is there whenever you want it, and not before. I'll drop some food at yours on Thursday evening, no need to answer the door. You don't need to reply to this.",
    "lang": "en",
    "note": "The partner of the person who carried the baby is often overlooked: write to him directly, say her name, and keep the offer easy to ignore."
+  },
+  {
+   "id": "condolences-and-support-032",
+   "situation": "好朋友小雅的妈妈今年3月因病去世了。10月5日是阿姨的生日，也是她走后的第一个生日。以前每年阿姨生日都会煮一大锅长寿面，叫我们几个去家里吃。我想那天晚上下班后煮碗面给小雅送过去。",
+   "reply": "小雅，想到10月5日周一是阿姨的生日，也是她走后的第一个生日。我一直记得每年这一天，阿姨煮一大锅长寿面，叫我们去家里吃。那天晚上下班后我煮碗面送过去，挂在你家门把手上；想要人陪的话，叫我一声我就上楼。这条不用回。",
+   "lang": "zh",
+   "note": "第一个生日、第一个节日往往比葬礼后更难熬：提前说出那一天，再给一个不需要回应的陪伴。"
   }
  ]
 }

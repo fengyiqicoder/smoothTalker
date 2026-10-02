@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -218,6 +218,13 @@
    "reply": "小雯，刚才“卖女儿”那句话太难听了，是我说错了，对不起，你和你爸妈都不该被这么说。我知道你是觉得我们家没把你当回事。钱的事今晚先不吵，你10点下班我给你打电话，我们俩先商量好，再一起去跟两边爸妈说。我想娶的是你，这一点不会变。",
    "lang": "zh",
    "note": "牵涉两家的事，先收回伤到她家人的那句话；数字留到电话里谈，先让两个人站在同一边。"
+  },
+  {
+   "id": "de-escalate-argument-032",
+   "situation": "Last night my partner Jordan and I fought because I spent £400 from our joint holiday savings on a bike without asking, and I said 'it's my money too'. This morning Jordan texted: 'I need a couple of days. Please don't push me on this.' I want to respect that without going silent, and I'm free Sunday evening.",
+   "reply": "Okay, I won't push. Taking the £400 from our holiday savings without asking was wrong, and 'it's my money too' made it worse; I'm sorry. I get that it felt like I went behind your back on something we were saving for together. I'm free Sunday evening if you'd like to talk then, and if you need longer, that's okay too.",
+   "lang": "en",
+   "note": "When they ask for the pause, give it: own your part, offer a time they can take or leave, then actually wait."
   }
  ]
 }

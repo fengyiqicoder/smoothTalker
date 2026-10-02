@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -217,6 +217,13 @@
    "reply": "I had a really good time last night, and thank you for dinner, that was very smooth of you. Next one's my treat, no arguments: Friday or Saturday? I want to hear more about this surfing plan before you get too good to talk to me.",
    "lang": "en",
    "note": "Thank them once and turn the bill into the reason for the next date; a debate about who pays kills the mood."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-032",
+   "situation": "I'm Kai in flat 4A. Mara in 2C and I have chatted in the lift and by the bins for months, mostly about the tomatoes on her balcony, and we have each other's numbers from the building WhatsApp group. I want to ask her for a drink on Friday at the wine bar on our corner, but we'll keep sharing a building whatever she says.",
+   "reply": "Hi Mara, it's Kai from 4A. I've really enjoyed our lift chats about your tomatoes, so I'll just ask: would you like to get a drink with me sometime, just the two of us? The wine bar on our corner on Friday evening, if that works. And if not, no awkwardness at all, I'll still want tomato updates in the lift.",
+   "lang": "en",
+   "note": "A neighbour can't avoid you after a no, so text rather than ask face to face, and promise that the lift stays normal."
   }
  ]
 }

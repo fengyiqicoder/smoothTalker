@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -218,6 +218,13 @@
    "reply": "小凯，想请你帮个忙，正好是你拿手的：奶奶一直想学用微信跟小姑视频，还想学用手机买菜。你10月5日周一下午要是有空，能不能花两个小时教教她？先跟你说清楚，奶奶学得慢，同一步可能要讲好几遍。不方便也完全没关系，我自己慢慢教。教完我请你吃饭。",
    "lang": "zh",
    "note": "替家人开口求助：说清帮谁、做什么、花多久、难在哪，再给一个真的退路。"
+  },
+  {
+   "id": "ask-for-favor-032",
+   "situation": "I'm meeting my girlfriend Jiwoo's grandparents in Busan on Saturday 24 October and I've written a five-sentence hello in Korean myself with a dictionary. My coworker Hana in finance is a native Korean speaker, but we've only worked on one project together. I'd like her to check it and maybe record a voice note of how it sounds, about 15 minutes; if not, I'll book a session with a tutor, and I'd buy her a coffee either way.",
+   "reply": "Hi Hana, a slightly personal ask, so feel free to say no: I'm meeting my girlfriend Jiwoo's grandparents in Busan on 24 October, and I've written a five-sentence hello in Korean with a dictionary. Would you have about 15 minutes to check it, and maybe record a quick voice note so I can hear how it should sound? If you're swamped or would rather not, no problem at all, I'll book a session with a tutor. Coffee's on me either way.",
+   "lang": "en",
+   "note": "Asking someone you barely know to use their language for you: say it's personal, cap the time, and have a paid backup ready."
   }
  ]
 }

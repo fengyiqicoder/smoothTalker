@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -218,6 +218,13 @@
    "reply": "周老师您好，我是一名在读研究生，论文方向是零售数据分析，很想参加11月14日（周六）的数智零售大会。门票是2,800元，官网上没看到学生价，想请问能否按1,000元的学生价参加？我可以提供学生证；如果会务需要人手，我也很愿意当天来做志愿者。可以的话我收到回复就付款报名。如果没有学生优惠，也完全理解，谢谢您。",
    "lang": "zh",
    "note": "学生没有价格筹码时，用学生身份和可以出力做志愿者做筹码，报一个具体数字，并给对方好说不的台阶。"
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-032",
+   "situation": "My Pellow espresso machine stopped heating on 28 September, three weeks after its two-year warranty ended on 7 September. Pellow's service centre has quoted $180 to repair it. It's registered with them and I've had it descaled at their centre every year; I'd like to ask them to cover the repair as a goodwill gesture, or at least half, and I'll book it with them either way.",
+   "reply": "Hi, my Pellow espresso machine stopped heating on 28 September, three weeks after its two-year warranty ended on 7 September. Your service centre has quoted $180 for the repair, and I'd like to have it done there. The machine is registered with you and has been descaled at your centre every year, so could you cover the repair as a goodwill gesture? If that's not possible, half would be a real help, and either way I'll book it in as soon as I hear back.",
+   "lang": "en",
+   "note": "Just out of warranty, the anchors are how close it was and your care record; a named fallback makes a partial yes easy."
   }
  ]
 }

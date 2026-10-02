@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -218,6 +218,13 @@
    "reply": "Change of plan for Sunday, everyone: part of my kitchen ceiling came down last night after a burst pipe upstairs, so I can't host lunch at mine on the 4th. Sorry to shuffle it with only a few days' notice. Two options: same time, 1pm on Sunday, at Ben's, who has kindly offered his place, or Sunday 11 October at 1pm at mine, once the repair's done on Thursday. Could you reply 'Ben's' or 'the 11th' by tomorrow evening so I can confirm?",
    "lang": "en",
    "note": "When you're the host, the alternative can be a new place as well as a new date; give both and let the group answer in one word."
+  },
+  {
+   "id": "cancel-or-reschedule-032",
+   "situation": "王阿姨给我介绍了一个相亲对象林先生，加了微信，约好10月4日（周日）下午3点在国贸一家咖啡馆见面。公司刚通知我4号要去天津陪客户，推不掉。想直接跟林先生说改到10月11日（周日）下午或10月17日（周六）下午，王阿姨那边我自己也会说一声。",
+   "reply": "林先生您好，周日10月4日下午3点的见面我得改个时间，公司刚通知我那天要去天津陪客户，推不掉。临时变动，真不好意思。改到10月11日（周日）下午或者10月17日（周六）下午，您看哪个方便？地点还是国贸那家咖啡馆。王阿姨那边我也会跟她说一声。",
+   "lang": "zh",
+   "note": "经人介绍的见面也自己直接改期，别让介绍人传话；两个具体时间说明不是不想见。"
   }
  ]
 }

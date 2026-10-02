@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -218,6 +218,13 @@
    "reply": "苏经理您好，听您说新界面上线后线上下单多了不少，我们特别开心。想跟您提个小请求：能否把青禾的logo放在木格设计官网的“合作客户”一栏，配一句“为青禾茶饮设计小程序界面”？页面上线前我会先发截图给您确认，您想改哪里我们就改哪里。如果公司对使用logo有规定，或者不方便，完全没关系，谢谢您这次的信任。林夏",
    "lang": "zh",
    "note": "用客户的logo比要一条评价更重：说清放在哪、写什么、上线前给她确认，并给公司规定留出口。"
+  },
+  {
+   "id": "ask-for-review-or-testimonial-032",
+   "situation": "I sold my old road bike to a guy called Ollie for £320 on Swapnest, a second-hand app; he collected it on Sunday. He messaged today saying he's done his first proper ride and loves it. I'm new on the app with zero ratings, and buyers can rate sellers from the order page.",
+   "reply": "Really glad to hear it, Ollie, enjoy it! If you get a minute, a quick rating from the order page on Swapnest would help me a lot. I'm new on there with zero ratings so far, and that's how buyers decide whether to trust a seller. A line is plenty. Thanks either way.",
+   "lang": "en",
+   "note": "A private seller asks the same way a shop does: right after the good news, one place, how short it is, and a real out."
   }
  ]
 }

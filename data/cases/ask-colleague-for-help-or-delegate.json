@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -218,6 +218,13 @@
    "reply": "Let's give this owners so it actually happens. @Ines, could you own booking the venue? You found last year's, so you know what works; done means a confirmed booking by Wednesday 7 October. @Paul, could you get a catering quote by Friday 9 October, since you've worked with the caterer before? I'll take the agenda. If either doesn't fit your week, reply here or DM me today and I'll rearrange.",
    "lang": "en",
    "note": "In a group thread, name one owner per task with a date and why them; 'someone should' is how nothing gets booked."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-032",
+   "situation": "我是组长，带5个人。组员小郑今天私下问我，听说公司要裁员，是不是真的，我们组会不会受影响。我确实什么都不知道，不想瞎猜，也不想随口安慰。我打算明天找部门总监周总问清楚，周五前告诉他我能说的部分。",
+   "reply": "小郑，谢谢你直接来问我。说实话，这件事我现在不知道，不想猜，也不想随口说一句“没事”来安慰你。明天我会去找周总问清楚，周五前把我能说的告诉你。这之间你听到什么、心里有什么担心，也随时来找我聊。",
+   "lang": "zh",
+   "note": "敏感问题上的“不知道”同样要带下一步和时间；只答应告诉他能说的，不承诺自己控制不了的结果。"
   }
  ]
 }

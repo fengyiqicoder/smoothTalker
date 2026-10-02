@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -217,6 +217,13 @@
    "reply": "Thanks for the straight answer, Owen, that's genuinely helpful, and I'm glad it's working well for you. If that ever changes, I'm easy to find.\nMarta",
    "lang": "en",
    "note": "'We're happy with what we have' is a no: thank him, leave the door open in one line, and don't ask why or when his contract renews."
+  },
+  {
+   "id": "cold-outreach-032",
+   "situation": "我叫陈默，做办公室咖啡机租赁，公司叫“豆仓”，软件园里已经有18家公司在用。上周私信了“启明科技”的行政吴先生，他回：“这事不归我管，你找后勤的何姐，她管采购，可以说是我让你找的。”现在想加何姐微信后发第一条消息。",
+   "reply": "何姐您好，我是豆仓的陈默。启明科技行政的吴先生让我直接联系您，说办公采购归您管。我们做办公室咖啡机租赁，软件园里已经有18家公司在用。方便的话，我发一页价目表给您看看？不需要的话，回一句“不用”也很有帮助。",
+   "lang": "zh",
+   "note": "被转介时，第一句就说清是谁让你来找她，这就是“为什么找你”；其余照旧：一个数字，一个小请求。"
   }
  ]
 }

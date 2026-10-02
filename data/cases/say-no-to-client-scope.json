@@ -4,14 +4,14 @@
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
-   "situation": "I'm a web developer. Client Karen wants the new booking feature live by Monday for a promo. It's a 7-day job and I have another launch due Thursday.",
+   "situation": "I'm a web developer. Client Karen wants the new booking feature live by Monday for a promo. It's a 7-day job and I have another launch due Thursday; I could have a simple booking request form that emails her each request live by Monday, and the full calendar booking by Wednesday 21 October.",
    "reply": "Hi Karen, I'd love to get this live for your promo. Done properly, the booking feature is about seven working days, and I have a launch due Thursday, so Monday isn't possible. What I can do: a simple booking request form live by Monday that emails you each request, and the full calendar booking by Wednesday the 21st. Would that work for the promo?",
    "lang": "en",
    "note": "The no comes with a version of yes that serves her actual goal, the promo."
   },
   {
    "id": "say-no-to-client-scope-002",
-   "situation": "我做品牌logo设计，合同里两轮修改已经用完了，客户王总又要改颜色和字体。不想无限免费改下去。",
+   "situation": "我做品牌logo设计，合同里两轮修改已经用完了，客户王总又要改颜色和字体。不想无限免费改下去：这次我愿意免费改一次，之后每轮按800元收。",
    "reply": "王总，收到您的修改意见。合同里包含两轮修改，目前两轮都已经用完。这次颜色和字体的调整，我作为一次性的额外修改帮您做，之后每轮修改按800元收费。您看这样可以吗？确认后我周四前把新版发给您。",
    "lang": "zh",
    "note": "免费的只做一次，并且明说是一次性的，否则会变成默认。"
@@ -25,21 +25,21 @@
   },
   {
    "id": "say-no-to-client-scope-004",
-   "situation": "I run social media for a restaurant group on a $1,500/month retainer that covers 12 posts a month. The owner, Luca, now wants me to also answer all their Instagram DMs and Google reviews every day.",
+   "situation": "I run social media for a restaurant group on a $1,500/month retainer that covers 12 posts a month. The owner, Luca, now wants me to also answer all their Instagram DMs and Google reviews every day. I'd add community management for $600 a month from November, or drop to 8 posts and cover the inbox within the $1,500.",
    "reply": "Hi Luca, good call, the DMs are where a lot of your bookings start. Daily inbox and review replies aren't part of the current retainer, which covers the 12 posts a month. Two ways to do it: I add community management for $600 a month from November, or we drop to 8 posts and I cover the inbox within the $1,500. Which works better for you?",
    "lang": "en",
    "note": "On a retainer, offer a swap as well as a price so the client can say yes without a bigger budget."
   },
   {
    "id": "say-no-to-client-scope-005",
-   "situation": "I'm a freelance photographer. A friend of a friend, Priya, wants product photos for her candle shop and asked for 'mates rates', half my usual $900 day rate, since we know people in common.",
+   "situation": "I'm a freelance photographer. A friend of a friend, Priya, wants product photos for her candle shop and asked for 'mates rates', half my usual $900 day rate, since we know people in common. I could offer a half day for $500 covering her 10 bestsellers on a white background.",
    "reply": "Hi Priya, lovely to hear from you, and the candles look great. My rate is set for the work rather than who it's for, so a full day of product shots is $900. If that's more than you'd planned, I can do a half day for $500 covering your 10 bestsellers on a white background, which is usually what a shop needs first. Which would suit you better?",
    "lang": "en",
    "note": "Hold the price and scale the scope. A friend discount given once becomes the rate everyone in that circle expects."
   },
   {
    "id": "say-no-to-client-scope-006",
-   "situation": "I've done bookkeeping for a small landscaping company for 18 months at $600 a month. The owner, Gary, has paid late five of the last six months, August's invoice is still unpaid, and he keeps adding payroll questions that aren't in our agreement. I want to end it, and I know a bookkeeper, Dana Whitfield, who does bookkeeping and payroll together.",
+   "situation": "I'm Meera, and I've done bookkeeping for a small landscaping company for 18 months at $600 a month. The owner, Gary, has paid late five of the last six months, August's invoice is still unpaid, and he keeps adding payroll questions that aren't in our agreement. I want to end it, and I know a bookkeeper, Dana Whitfield, who does bookkeeping and payroll together.",
    "reply": "Hi Gary,\nI've valued working with you over the last 18 months. I've decided to wind down our engagement at the end of October, so October's books will be my last. Before then I'll close out September and October and send you a written handover: accounts, logins and the monthly checklist, so whoever takes over can start cleanly. The August invoice for $600 is still open; please settle it along with October's by Friday, November 6. If it helps, I can introduce you to Dana Whitfield, who handles bookkeeping and payroll together.\nBest,\nMeera",
    "lang": "en",
    "note": "Ending the relationship, not a scope fight: no list of grievances, a clean end date, a proper handover and one clear ask about the money owed."
@@ -53,35 +53,35 @@
   },
   {
    "id": "say-no-to-client-scope-008",
-   "situation": "I'm a freelance bookkeeper for a dental practice, $800 a month for the monthly books. The practice manager, Lisa, messaged 'quick favour, can you pull together a cash flow forecast for our bank meeting next Wednesday?' That's a good six hours of work.",
+   "situation": "I'm a freelance bookkeeper for a dental practice, $800 a month for the monthly books. The practice manager, Lisa, messaged 'quick favour, can you pull together a cash flow forecast for our bank meeting next Wednesday?' A proper 12-month forecast is a good six hours of work, which I'd bill at $450.",
    "reply": "Hi Lisa, happy to help with the forecast for the bank. It's a proper piece of work rather than a quick one, about six hours to build a 12-month forecast the bank will take seriously, so I'd bill it separately at $450. I can have it to you by Monday 5 October, which leaves time to go through it together before Wednesday. Shall I go ahead?",
    "lang": "en",
    "note": "A 'quick favour' that isn't quick: say yes to the work, name the real size and the price in writing, and let her decide before you start."
   },
   {
    "id": "say-no-to-client-scope-009",
-   "situation": "I'm a freelance web developer on a $2,000/month maintenance retainer with an online furniture store. The owner, Mark, has started texting me at 10pm and on Sundays and expects a reply within the hour. Our agreement says support is weekdays 9 to 6.",
-   "reply": "Hi Mark, great to see the shop this busy. Our maintenance agreement covers weekdays 9 to 6, so anything that arrives outside those hours I'll pick up first thing the next working morning. For real emergencies, like checkout or the whole site going down, call me on 555 0134 any time and I'll jump on it. If you'd like guaranteed weekend cover through the Black Friday rush, I can add it for $300 a weekend. Does that work for you?",
+   "situation": "I'm a freelance web developer on a $2,000/month maintenance retainer with an online furniture store. The owner, Mark, has started texting me at 10pm and on Sundays and expects a reply within the hour. Our agreement says support is weekdays 9 to 6; for real emergencies he can call me on 555-0134, and I'd add weekend cover for Black Friday at $300 a weekend.",
+   "reply": "Hi Mark, great to see the shop this busy. Our maintenance agreement covers weekdays 9 to 6, so anything that arrives outside those hours I'll pick up first thing the next working morning. For real emergencies, like checkout or the whole site going down, call me on 555-0134 any time and I'll jump on it. If you'd like guaranteed weekend cover through the Black Friday rush, I can add it for $300 a weekend. Does that work for you?",
    "lang": "en",
    "note": "Availability is scope too: name the hours in the agreement, give a real emergency route, and price extra cover instead of quietly absorbing it."
   },
   {
    "id": "say-no-to-client-scope-010",
-   "situation": "我做插画，给一家茶饮品牌画了一套包装插画，报价12000元，合同写的是交付PNG和PDF成品，不含源文件。现在对方市场部的陈经理说要AI和PSD源文件，方便他们以后自己改。",
+   "situation": "我做插画，给一家茶饮品牌画了一套包装插画，报价12000元，合同写的是交付PNG和PDF成品，不含源文件。现在对方市场部的陈经理说要AI和PSD源文件，方便他们以后自己改。源文件我按3600元另收，含分层整理和修改的商用授权，付款后两个工作日内交付。",
    "reply": "陈经理，理解，有源文件以后调整确实方便很多。合同里约定的交付是PNG和PDF成品文件，源文件不在这次的范围里。如果需要，源文件可以作为附加项提供，费用是3600元，含分层整理和后续修改的商用授权，付款后两个工作日内发您。您看需要加上吗？",
    "lang": "zh",
    "note": "先认可需求，再指向合同，给出价格和交付时间，让对方做决定；不道歉，也不解释成本。"
   },
   {
    "id": "say-no-to-client-scope-011",
-   "situation": "フリーランスで英日の技術翻訳をしています。新規の見込み客、医療機器メーカーの鈴木さんから、発注前に取扱説明書10ページを無料でトライアル翻訳してほしいと言われました。通常は1ページ4,000円で、無料トライアルはいつも1ページ（約300語）までにしています。",
-   "reply": "鈴木様\nお問い合わせありがとうございます。発注前に品質を確認されたいお気持ちはよく分かります。無料のトライアルは1ページ（約300語）までとしており、それでよろしければ10月2日（金）までにお送りします。10ページすべてをご希望の場合は、有償トライアルとして通常料金の半額、2万円で承ります。この2万円は本発注の際に全額差し引きます。どちらで進めるか、ご希望をお聞かせください。\n山本",
+   "situation": "フリーランスで英日の技術翻訳をしている山本です。見込み客の医療機器メーカーの鈴木さんから、取扱説明書10ページを無料でトライアル翻訳してほしいと言われました。通常は1ページ4,000円、無料トライアルは1ページ（約300語）までで、10ページなら半額の2万円の有償トライアルにして、本発注時に全額差し引くつもりです。",
+   "reply": "鈴木様\nお問い合わせありがとうございます。発注前に品質を確認されたいお気持ちはよく分かります。無料のトライアルは1ページ（約300語）までとしており、それでよろしければ10月6日（火）までにお送りします。10ページすべてをご希望の場合は、有償トライアルとして通常料金の半額、2万円で承ります。この2万円は本発注の際に全額差し引きます。どちらで進めるか、ご希望をお聞かせください。\n山本",
    "lang": "ja",
    "note": "無料の範囲を先に示し、それを超える分は価格と扱いを明記して相手に選んでもらう。黙って10ページ無料で訳さない。"
   },
   {
    "id": "say-no-to-client-scope-012",
-   "situation": "I'm a freelance brand designer in final review of the approved logo route and brand guide for a coffee chain. The contract, signed 12 May, covers two concept routes and two revision rounds, and we've used both. Their new CMO, Derek, joined today's final call with my usual contact, Sarah, and wants a completely new direction.",
+   "situation": "I'm Nina, a freelance brand designer in final review of the approved logo route for a coffee chain. The contract, signed 12 May, covers two concept routes and two revision rounds, both used. Their new CMO, Derek, joined today's final call with my contact, Sarah, and wants a completely new direction; I'd quote a third route at $3,200, about three weeks, or finish now and revisit the look in the new year.",
    "reply": "Hi Derek and Sarah,\nThanks for today's call, and Derek, it's good to have you involved before this goes live. A new direction would be a fresh concept route rather than a revision: our 12 May agreement covers two routes and two revision rounds, and we've used both. I can add a third route for $3,200, about three weeks of work, or we can finish the approved route now and revisit the look in the new year. Which would you prefer?\nBest,\nNina",
    "lang": "en",
    "note": "A new stakeholder's new direction is new scope: welcome them, point to the agreement, and give two paths to choose from."
@@ -102,7 +102,7 @@
   },
   {
    "id": "say-no-to-client-scope-015",
-   "situation": "Je suis rédactrice freelance : une agence immobilière lyonnaise me paie 900 € par mois pour 4 articles de blog. Hier au téléphone, leur directeur, M. Garnier, m'a demandé « en passant » d'écrire aussi leur newsletter mensuelle ; je lui ai seulement dit que je lui répondrais par écrit. Je facturerais 250 € par newsletter.",
+   "situation": "Je suis Léa, rédactrice freelance : une agence immobilière lyonnaise me paie 900 € par mois pour 4 articles de blog. Hier au téléphone, leur directeur, M. Garnier, m'a demandé « en passant » d'écrire aussi leur newsletter mensuelle ; je lui ai seulement dit que je lui répondrais par écrit. Je facturerais 250 € par newsletter.",
    "reply": "Bonjour Monsieur Garnier,\nMerci pour notre échange d'hier, et bonne idée, la newsletter. Comme convenu, je vous réponds par écrit : elle ne fait pas partie de notre accord actuel, qui couvre les 4 articles mensuels. Je peux la prendre en charge pour 250 € par numéro, en plus des 900 € mensuels. Si cela vous convient, confirmez-le-moi par retour de mail et je commence avec le numéro de novembre.\nBien cordialement,\nLéa",
    "lang": "fr",
    "note": "Une demande glissée à l'oral se confirme par écrit, avec son prix ; on ne commence rien avant l'accord écrit du client."
@@ -151,7 +151,7 @@
   },
   {
    "id": "say-no-to-client-scope-022",
-   "situation": "I manage online ads for a yoga studio owner, Bea, for $600 a month, and our agreement says the ad spend is paid directly from her own account. She wants to double next month's budget to $5,000 and has asked me to put it on my card and invoice her after, because her card limit is too low.",
+   "situation": "I manage online ads for a yoga studio owner, Bea, for $600 a month, and our agreement says the ad spend is paid directly from her own account. She wants to double next month's budget to $5,000 and has asked me to put it on my card and invoice her after, because her card limit is too low. She could add another card or payment method to the ad account, or start at her current limit.",
    "reply": "Hi Bea, great that the ads are doing well enough to scale up. Our agreement has the ad spend paid directly from your account, and I don't front client ad spend on my own card. To keep the $5,000 month on track, you could add a second card or another payment method to the ad account, or we start at what your current card allows and scale up as soon as that's sorted. Which would you like? I'll adjust the campaigns this week either way.",
    "lang": "en",
    "note": "Fronting a client's spend turns you into their lender; offer routes to the bigger budget that keep the money on their side."
@@ -166,7 +166,7 @@
   {
    "id": "say-no-to-client-scope-024",
    "situation": "我是自由开发者，给一家烘焙店做的官网7月上线，合同约定上线后30天内免费修bug，之后的修改按每小时300元收费。现在店长孙姐说网站“有点小问题”，要把首页轮播图换成视频、再加一个预约页面。这两项都不是bug，大概要6小时。",
-   "reply": "孙姐，店里要上视频和预约，挺好的。这两项是新功能，不是bug：合同里上线后30天的免费修复期已经过了，之后的修改按每小时300元算。首页换视频加预约页面大概6小时，一共1800元，您确认后我10月9日（周五）前做完。如果网站有真出错的地方，您随时截图发我，我先帮您看看。您看这样可以吗？",
+   "reply": "孙姐，店里要上视频和预约，挺好的。这两项是新功能，不是bug：合同里上线后30天的免费修复期已经过了，之后的修改按每小时300元算。首页换视频加预约页面大概6小时，一共1800元，您确认后我10月9日（周五）前做完。您看这样可以吗？",
    "lang": "zh",
    "note": "把“bug”和“新功能”分开说，免费修复期按合同写的来，价格和交付日期一次说清再让对方决定。"
   },
@@ -186,10 +186,10 @@
   },
   {
    "id": "say-no-to-client-scope-027",
-   "situation": "我是自由平面设计师，给一家茶馆设计宣传册，合同只包括设计和交付印刷文件，报价6000元。老板娘许姐现在希望我帮她对接印刷厂、去厂里看样、一直盯到印完。去印刷厂单程一个多小时，这部分我想打包收1500元。",
-   "reply": "许姐，想把宣传册印好，盯印刷这一步确实很关键。我们合同约定的是设计和交付印刷文件，对接印刷厂、去厂里看样和跟进印刷不在这次的范围里。如果需要，我可以把这部分作为附加服务，打包1500元，包括和印刷厂对接、去厂里看一次样，一直跟到印完。您看要不要加上？",
+   "situation": "我是自由平面设计师，在给一家茶馆设计宣传册，合同只包括这本宣传册，报价6000元。老板娘许姐说“顺便把菜单也改改，就是去年别人做的那份，改几个地方就行”，但我还没看过原文件，不知道是小改还是要重做。",
+   "reply": "许姐，宣传册和菜单风格统一起来，确实更好看。菜单不在这次宣传册的合同里，而且是别的设计师做的，要先看过原文件才知道是小改还是要重做。您把菜单的原文件发我，我看完后在下周一（10月5日）前给您报价和工期。您看可以吗？",
    "lang": "zh",
-   "note": "对接供应商、跑现场也是工作量：先认可需求，指明合同范围，给出价格，让对方决定。"
+   "note": "工作量不清楚时先别答应也别报价：先看文件，再按实际情况报价，让对方决定。"
   },
   {
    "id": "say-no-to-client-scope-028",

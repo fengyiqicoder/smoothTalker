@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -218,6 +218,13 @@
    "reply": "孙经理好，我每周上班是周一到周三，周四的例会我参加不了。我负责的客服数据周报，每周三下午6点前更新到共享文件夹，例会前就能看到。会上如果有需要我跟进的事，麻烦会后发我一下，我下周一上班先处理。哪次确实需要我在场的话，周一到周三的时间都可以。您看这样可以吗？",
    "lang": "zh",
    "note": "兼职或非全日制的人不用为不在场道歉：说清自己的工作日，提前交付自己那部分，再给一个能找到你的时间。"
+  },
+  {
+   "id": "decline-meeting-or-protect-time-032",
+   "situation": "I'm on a Teams call with a client, booked 2 to 3pm and chaired by our VP, Diane; it's now 3:05 and still going. I have a supplier call at 3:15 that I can't move. The only topic left is the data migration timeline, which my colleague Sean owns and is presenting, and I can send my input on it by 10am tomorrow.",
+   "reply": "Diane, I need to drop at 3:10 for a supplier call I can't move. Sean has the migration timeline covered, and I'll read the notes and send you both my input by 10am tomorrow. Does that work?",
+   "lang": "en",
+   "note": "For an overrunning meeting, a private chat message beats interrupting the client: a leaving time, who covers, and your input with a time."
   }
  ]
 }

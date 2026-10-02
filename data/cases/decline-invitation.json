@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -218,6 +218,13 @@
    "reply": "Thanks for the invite, Nadia. I'll skip Friday, but I'd love to catch up, just the two of us. Brunch on Saturday the 17th, my treat?",
    "lang": "en",
    "note": "The decline doesn't need to name Greg; if you want to raise his comments, do it separately and calmly, not inside a no."
+  },
+  {
+   "id": "decline-invitation-032",
+   "situation": "楼下的张阿姨在电梯里当面邀请我这周日中午去她家吃饭，说她儿子从外地回来，人多热闹。我们平时就在电梯里聊几句，我不想去，但不想让她觉得我冷淡。上次她送我的自家腌的咸菜我特别爱吃，想当场回她。",
+   "reply": "谢谢张阿姨，还想着叫上我！周日中午我就不过去了，您一家人好好团聚。上次您给的咸菜特别下饭，我可爱吃了。",
+   "lang": "zh",
+   "note": "当面拒绝更要短：一句谢谢、一句不去、把温度放在她身上；本来就不想去，就不提改天。"
   }
  ]
 }

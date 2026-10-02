@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -218,6 +218,13 @@
    "reply": "Hi Linda, I've got water coming through my kitchen ceiling from the flat upstairs, and the plumber and the landlord's agent are coming between 9 and 12, so I can't be in this morning. Zoe is opening the front desk, and the morning patient list is on the shared calendar. I'll be in by 1pm and will text you if that changes.",
    "lang": "en",
    "note": "A home emergency gets the same three lines as a sick day; if the water reaches lights or sockets, keep clear and call the emergency services."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-032",
+   "situation": "Trabajo como niñera para la familia Ortega de lunes a viernes. Quiero pedir libre del lunes 23 al viernes 27 de noviembre para ir a Colombia a la graduación de mi hija, y volvería el lunes 30. Mi prima Daniela, que ya cuidó a los niños una vez en agosto, puede cubrirme esa semana; le quiero escribir por WhatsApp a la señora Lucía Ortega.",
+   "reply": "Hola Lucía, quería pedirles libre del lunes 23 al viernes 27 de noviembre para ir a Colombia a la graduación de mi hija. Volvería el lunes 30. Mi prima Daniela, que ya cuidó a los niños en agosto, puede cubrirme esa semana si les parece bien. ¿Me lo pueden confirmar esta semana para comprar el billete?",
+   "lang": "es",
+   "note": "Cuando el empleador es una familia, el mensaje es el mismo: fechas primero, quién cubre y una pregunta cerrada."
   }
  ]
 }

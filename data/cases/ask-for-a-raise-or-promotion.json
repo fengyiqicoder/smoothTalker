@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -218,6 +218,13 @@
    "reply": "Merci de prendre ce temps, Sophie. J'aime beaucoup mon travail ici et j'ai envie de continuer à évoluer dans l'équipe. Depuis février, je gère seule la clôture mensuelle des filiales belge et suisse, et le délai de clôture est passé de 8 à 5 jours. Au vu de ce périmètre et des postes équivalents, affichés entre 50 000 et 54 000 €, je souhaiterais passer de 46 000 à 52 000 € brut par an. Si ce n'est pas possible tout de suite, que faudrait-il réunir, et pour quand ?",
    "lang": "fr",
    "note": "En visio avec une manager à distance, même déroulé : des chiffres qu'elle pourra relayer, un montant, puis un mail récapitulatif le jour même."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-032",
+   "situation": "我今年5月入职一家广告公司做文案，月薪1.2万，试用期到10月31日，offer里写着“转正后根据考核结果调整薪资”。试用期里我独立负责了两个客户的月度推文，其中一个客户续签了一年。想在微信上约组长林姐，在转正谈话里提调到1.35万。",
+   "reply": "林姐，我的试用期10月31日到期，想约您30分钟聊聊转正，10月中旬您看哪天方便？这几个月我很喜欢这里的工作，也想长期做下去。offer里写着转正后根据考核调整薪资，所以想一起谈谈：试用期里我独立负责了两个客户的月度推文，其中一个客户续签了一年，我希望转正后月薪调到1.35万。见面时我把具体的材料带上。",
+   "lang": "zh",
+   "note": "转正是offer里写明的调薪节点：提前约时间，带一个数字和成果，谈完当天用微信把结论确认一遍。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -211,6 +211,13 @@
    "reply": "Heads up, team: the 'Q4 bonus review' email from Ines this morning didn't come from her. Her account was compromised, and IT has confirmed it. Please don't open the link or sign in. If you already did, change your password now and tell IT straight away, no blame at all. Ines is on a flight until 6pm, so no need to message her about it.",
    "lang": "en",
    "note": "Warn in a channel the team already trusts, make owning up blame-free, and forward the email to IT's phishing report route before deleting it."
+  },
+  {
+   "id": "suspicious-or-scam-message-031",
+   "situation": "My dad Frank, 71, is selling his old lawnmower for $120 on a local marketplace. He's just texted me that a buyer called Kevin wants to 'make sure he's real' before driving over, so Kevin is sending a 6-digit code to Dad's phone and Dad should read it back; Dad says he'll do it in five minutes. The text with the code says not to share it with anyone.",
+   "reply": "Dad, please don't send Kevin that code. A real buyer never needs a code from you, and the text itself says not to share it with anyone. Don't reply to Kevin at all: just block him and report him on the marketplace. If you've already sent it, ring me straight away and we'll change your passwords together. A genuine buyer will come and look at the mower and pay you in person.",
+   "lang": "en",
+   "note": "Report the account on the marketplace; if a code was shared, secure the accounts at once, and if any money has gone, call the bank and the police."
   }
  ]
 }

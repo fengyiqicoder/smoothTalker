@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -218,6 +218,13 @@
    "reply": "Hi Daniel,\nThanks for settling invoice #0614 for $4,000; the payment arrived on 29 September. As it was due on 15 August, it came in 45 days late, so the $150 late fee in clause 7 of our agreement applies. I've attached a separate invoice for it, #0615, due Thursday 15 October, with the same bank details as before.\nThanks,\nSofia Marsh",
    "lang": "en",
    "note": "Charging the late fee after payment: thank them first, quote the clause once, and give the fee its own invoice and due date. Waiving it is your call to make, not theirs."
+  },
+  {
+   "id": "chase-late-payment-032",
+   "situation": "I'm Maya, a freelance photographer. Invoice #0904 for $1,100 for the brand shoot at Rick's gym was due September 20. When I followed up, Rick replied offering me a free year's membership instead of paying. I don't want the membership, and I'd accept two payments of $550 if that helps him.",
+   "reply": "Hi Rick, thanks for the offer, that's kind, but I'll need the invoice paid in money rather than a membership. Invoice #0904 for $1,100 was due on 20 September, and the bank details are on the attached copy. Could you pay by Friday 9 October? If it's easier on cash flow, I can take $550 by 9 October and $550 by 30 October, confirmed in writing.",
+   "lang": "en",
+   "note": "An offer to pay in kind is a polite no to the invoice: decline it once, warmly, and restate amount, date and how to pay."
   }
  ]
 }

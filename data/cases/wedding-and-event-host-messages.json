@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -211,6 +211,13 @@
    "reply": "We're celebrating Mum's life on Saturday 17 October at 2pm at the Elm Street community hall, and we'd love you to be there. The cremation will be private, just family. Mum hated wearing black and loved her garden, so please come in something bright. Instead of flowers, if you'd like to, bring a cutting or a packet of seeds from your own garden for the memorial bed we're planting for her. Mostly, we just want to be with the people she loved.",
    "lang": "en",
    "note": "State the dress code and the no-flowers wish once, for everyone, and keep the cutting optional."
+  },
+  {
+   "id": "wedding-and-event-host-messages-031",
+   "situation": "Our wedding is Saturday 14 November and the invitation says it's an adults-only celebration. My colleague Raj RSVP'd online for four, him, his wife Leela and their kids aged 9 and 12, though the invitation was addressed to Raj and Leela. I'm sure it's an honest slip, and I'll update our list to two.",
+   "reply": "Hi Raj, thanks so much for RSVPing, we're thrilled you and Leela can make it on the 14th! Just a quick note, since the form came through for four: we're keeping the wedding adults-only for everyone, so the invitation is for the two of you, and I've updated our list. I hope it's a chance for a night off, and we can't wait to celebrate with you both.",
+   "lang": "en",
+   "note": "Assume an honest slip and correct the RSVP lightly; if he says they can't come without the kids, accept it warmly and don't bargain."
   }
  ]
 }

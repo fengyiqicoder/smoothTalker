@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -218,6 +218,13 @@
    "reply": "你好，有件事想在告诉小树之前先让你知道：我怀孕了，预产期明年4月。我们打算10月10日周六跟小树说。之后他到你那边可能会提起，或者有些情绪，你心里先有个准备。你对怎么跟他说有什么想法的话，10月8日周四前告诉我就行。谢谢。",
    "lang": "zh",
    "note": "新家庭的消息先让对方父母知道：只讲和孩子有关的事实和日期，不谈感情细节，给对方一个提意见的期限。"
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-032",
+   "situation": "My daughter Hazel (9) splits the week between my place and her dad Simon's. Since September her winter coat and two school jumpers have gone to his and not come back, and on Tuesday she went to school without a coat. I want him to send them back in her bag at Sunday's handover, and I'll buy a second set of uniform so each house keeps its own.",
+   "reply": "Hi Simon, a quick one about Hazel's things. Her winter coat and two school jumpers are at yours, and on Tuesday she went to school without a coat. Could you send them back in her bag at Sunday's handover? To stop things getting stuck at one house, I'll buy a second set of uniform so we each keep one. Does that work for you? Thanks.",
+   "lang": "en",
+   "note": "Belongings without blame: where the things are, a fix that costs him nothing, and a yes-or-no question."
   }
  ]
 }

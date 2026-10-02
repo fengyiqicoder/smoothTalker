@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -218,6 +218,13 @@
    "reply": "Hi Dev, a heads-up now rather than on Monday: my cousin has asked me to shoot the family brunch on Saturday 10 October as well. Could I hang on to the 70-200 until Monday 12 October instead of this Monday? It'll come back with the glass cleaned, still well ahead of your shoot on the 17th. If you'd rather have it back as planned, no problem at all, I'll return it on Monday 5 October and sort something else for the brunch.",
    "lang": "en",
    "note": "Borrowed kit has a deadline too: ask before the return date, name the new day, and show it won't touch their own plans."
+  },
+  {
+   "id": "ask-for-extension-032",
+   "situation": "町内会で会報の編集をボランティアで担当しています。会長の佐藤さんには10月9日（金）までに原稿をまとめて渡すと言っていましたが、仕事の繁忙期と重なって間に合わず、10月14日（水）まで待ってほしいです。印刷所の締め切りは10月16日（金）で、表紙と行事予定のページはもうできています。",
+   "reply": "佐藤会長、お疲れさまです。会報の原稿について、早めにご相談させてください。10月9日（金）にお渡しするとお約束していましたが、仕事の繁忙期と重なり、間に合いそうにありません。10月14日（水）までお待ちいただけないでしょうか。印刷所の締め切りの16日（金）には間に合わせます。9日の時点で必要なものがあれば、もうできている表紙と行事予定のページを先にお送りします。",
+   "lang": "ja",
+   "note": "ボランティアの役割でも構造は同じ：早めに、理由は一言、具体的な日付、先に渡せる部分。"
   }
  ]
 }

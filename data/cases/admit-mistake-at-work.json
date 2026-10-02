@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -218,6 +218,13 @@
    "reply": "Dr Lin, I need to flag a mistake I made in March. When I renewed our contract with Sparrow Cleaning, I missed that it auto-renewed at $180 a month more, so we've paid $1,080 extra since April. I found it today and have already emailed them asking to go back to the old rate; they'll reply by Friday 9 October. I'm sorry, I should have checked the renewal terms. I've now set a reminder 60 days before every contract renewal so this can't slip through again.",
    "lang": "en",
    "note": "A mistake found months later still gets reported the day you find it, with the total, not just the monthly figure."
+  },
+  {
+   "id": "admit-mistake-at-work-032",
+   "situation": "At 9:50 this morning I clicked a link in an email that looked like our payroll portal and typed in my work password before I noticed the web address was wrong. I changed my password at 10:05 and signed out of all sessions, and I haven't seen anything odd yet. I need to tell our IT lead, Marcus, on Slack and forward him the email.",
+   "reply": "Marcus, I need to flag a mistake: at 9:50 this morning I clicked a link in an email that looked like our payroll portal and entered my work password before I noticed the address was wrong. I changed my password at 10:05 and signed out of all sessions, and I haven't seen anything odd so far. I'm forwarding you the email now so you can check whether anyone else got it. Sorry, this one's mine. From now on I'll only open the payroll portal from my bookmark, never from an email link. What else do you need from me?",
+   "lang": "en",
+   "note": "Report a phishing click within minutes, before you've decided it was harmless; IT may need to check sign-ins and warn others."
   }
  ]
 }
