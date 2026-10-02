@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -225,6 +225,13 @@
    "reply": "Hello Camille, petite chose sur les fringues ! Mon manteau beige et ma robe verte ont fait des sorties sans moi ces derniers temps, et la robe est revenue avec une tache de vin. Je te prête avec plaisir, envoie-moi juste un message avant. Pour la robe, tu peux la faire nettoyer d'ici le samedi 10 octobre ? Je la porte à un mariage. Si tu vois une autre façon de faire, dis-moi.",
    "lang": "fr",
    "note": "Un seul sujet, raconté comme un fait, avec une règle simple (demander avant) et une demande précise pour la robe."
+  },
+  {
+   "id": "roommate-and-shared-living-033",
+   "situation": "我和阿琳、大刘合租，家里只有一个卫生间。女朋友下周五从成都来看我，想在我房间住6晚，下周四走。我想先在合租群里问一下大家，这几天水电我多出50元，她早上用卫生间会错开大家7点到8点的高峰。",
+   "reply": "跟大家商量个事～我女朋友下周五从成都过来看我，想在我房间住6晚，下周四走。这几天水电我多出50元，早上7点到8点大家用卫生间的时候，她会错开。你们觉得可以吗？有不方便的地方直接说，我们再调。",
+   "lang": "zh",
+   "note": "自己是带客人的一方时，提前问、带着补偿方案；群里没人回不等于同意，她来之前私下跟每个人再确认一下。"
   }
  ]
 }

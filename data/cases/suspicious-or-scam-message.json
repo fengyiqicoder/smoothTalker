@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -225,6 +225,13 @@
    "reply": "Hi, I'm Priya Shah, writing about my lost-bag claim LB-7731. After I posted about it publicly yesterday, an account called @SkyvaleCare_Help, using your logo, replied asking me to send my phone number and card details by DM for compensation. I haven't replied or sent anything. Can you confirm that account isn't yours, and tell me how compensation on my claim will actually be paid?",
    "lang": "en",
    "note": "Don't reply to the lookalike account; report it to the platform. If card details were already sent, call the bank at once, and the police if money has gone."
+  },
+  {
+   "id": "suspicious-or-scam-message-033",
+   "situation": "Meu irmão Rafael, de 34 anos, colocou R$ 5.000 num aplicativo chamado Lucro Certo que promete 3% de rendimento por dia e quer colocar mais R$ 10.000 na semana que vem; ele também me chamou para entrar. Ontem eu disse que parecia golpe e ele ficou bravo, disse que eu estou com inveja. Ele nunca tentou sacar nada e eu não quero que ele pare de falar comigo.",
+   "reply": "Rafa, desculpa pelo jeito que eu falei ontem. O dinheiro é seu e a decisão é sua, não vou ficar insistindo, e eu não vou entrar. Só te peço uma coisa antes de colocar os R$ 10.000: tenta sacar os R$ 5.000 que já estão lá. Mesmo que caia, espera uma semana antes de colocar mais, porque esses apps costumam pagar os primeiros saques. Se aparecer taxa, prazo ou desculpa para não liberar, me liga, e eu juro que não vou dizer que eu avisei.",
+   "lang": "pt",
+   "note": "Com quem ficou na defensiva, um teste concreto vale mais que discutir, mas um saque que funciona não prova que é seguro: promessa de 3% ao dia é sinal clássico de golpe. Se ele já perdeu dinheiro, ajude a ligar para o banco e registrar boletim de ocorrência."
   }
  ]
 }

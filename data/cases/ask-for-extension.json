@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -232,6 +232,13 @@
    "reply": "赵老师您好，我是墨林印务的，关于毕业纪念册的报价想提前跟您商量一下。我们纸张供应商的新一季纸价要10月12日（周一）才出，想申请把报价延到10月13日（周二）交，这样报给您的价格不会过几天又变。如果截止时间需要对所有报价单位统一、不方便延，我们就10月9日（周五）按现在的纸价按时交，并在报价里注明纸价的有效期。您看哪种方式合适？",
    "lang": "zh",
    "note": "向采购方申请延期：一句原因、一个具体日期，再主动给出按原日期提交的方案，尊重对其他报价方的公平。"
+  },
+  {
+   "id": "ask-for-extension-034",
+   "situation": "Organizo la comida de la primera comunión de mi hija el sábado 24 de octubre en el restaurante El Olivar. Sergio, el encargado, necesita el número final de invitados el viernes 9 de octubre, pero aún me faltan 15 confirmaciones. Ya tengo 60 seguros y quiero pedirle hasta el martes 13 de octubre.",
+   "reply": "Hola Sergio, te escribo con tiempo por lo de la comunión del sábado 24 de octubre. Todavía me faltan 15 confirmaciones, así que el viernes 9 no voy a poder darte el número final. ¿Podría dártelo el martes 13 de octubre? Mientras tanto, te confirmo ya 60 invitados seguros, para que puedas ir organizándote con ese mínimo. Si el viernes es una fecha cerrada por los proveedores, dímelo y te paso la cifra más ajustada que tenga ese día.",
+   "lang": "es",
+   "note": "Con un proveedor de eventos, dar ya el mínimo seguro es la entrega parcial que hace fácil decir que sí."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -225,6 +225,13 @@
    "reply": "徐先生您好，我是苏然，和唐悦在上海合租了两年，从2024年9月到今年9月。房租和水电由我统一交，她每个月都提前转给我，两年里一次都没晚过。厨房和卫生间我们按轮值表打扫，她从没缺过一次；晚上11点以后她那边基本就很安静了。她的工作和收入我不了解，这部分就不评价了。作为室友，我非常放心地推荐她。",
    "lang": "zh",
    "note": "室友推荐：说清合住多久，用付钱、打扫、作息这些房东真正关心的事说话，不了解的部分直接说明。"
+  },
+  {
+   "id": "write-a-recommendation-or-reference-033",
+   "situation": "I'm Joel Park and I run the monthly Data Visualization meetup in Leeds. Kavya Rao gave a 20-minute talk at our June meetup on making accessible charts: 85 people came, our biggest turnout, and 40 of the 52 who filled in our feedback form rated it 5 out of 5; she has never spoken at a conference. Dr Ellen Shaw, who organises the Northcharts conference, asked meetup leads to suggest first-time speakers by email, and Kavya has asked me to put her name forward.",
+   "reply": "Hi Ellen, I'd like to suggest Kavya Rao as a first-time speaker for Northcharts. I run the monthly Data Visualization meetup in Leeds, and Kavya gave a 20-minute talk at our June meetup on making accessible charts. It drew 85 people, our biggest turnout so far, and 40 of the 52 people who filled in our feedback form rated it 5 out of 5. I've only seen her speak that once, so I can't say how she'd handle a longer slot, but for a short talk on accessibility I recommend her strongly. Happy to introduce you both. Best, Joel Park",
+   "lang": "en",
+   "note": "Putting someone forward unasked by the reader: say where you saw them, give the numbers, and scope the endorsement to that one talk."
   }
  ]
 }

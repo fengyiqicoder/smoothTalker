@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -225,6 +225,13 @@
    "reply": "Carol, obrigada por perguntar antes! O mapa de mesas já foi para o buffet, e o Diego e eu combinamos não mudar mais nenhum lugar, para ninguém. Então desta vez você fica na mesa da família. A mesa do pessoal da faculdade fica do lado da pista, então depois do jantar vocês têm a noite inteira juntos. Mal posso esperar para te ver no dia 7!",
    "lang": "pt",
    "note": "Pedido de troca de lugar é um pedido de exceção: a regra vale para todos, e o que ela quer (estar com os amigos) aparece em outro momento da festa."
+  },
+  {
+   "id": "wedding-and-event-host-messages-033",
+   "situation": "Our wedding is Saturday 14 November, and plus-ones are only for partners who are engaged or living together. My friend Nina, who's single, asked if she can bring a friend because she won't know anyone there. We've seated her next to my cousin Ava, who's also coming on her own, and I'll introduce them at the welcome drinks.",
+   "reply": "Thanks for asking, Nina, and I completely get not wanting to walk in alone. We've kept plus-ones to partners who are engaged or live together, so it's the same for everyone and just you this time. I've seated you next to my cousin Ava, who's also coming on her own, and I'll introduce you two at the welcome drinks. I can't wait to see you on the 14th.",
+   "lang": "en",
+   "note": "When the worry behind the request is being alone, hold the rule and answer the worry instead."
   }
  ]
 }

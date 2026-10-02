@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -232,6 +232,13 @@
    "reply": "周姐，谢谢您告诉我！听到乐乐天天在家画画，我们老师都特别开心。想跟您提个小请求：身边如果有家长也在给孩子找美术课，方便的话把我的微信推给他们就行。顺便说一下，我们有个推荐活动，朋友报名正式课的话，乐乐和对方孩子各送一节课，您跟朋友直说就好。没有合适的也完全没关系，谢谢您一直支持我们。",
    "lang": "zh",
    "note": "推荐奖励要摆在明处，让被推荐的家长也知道；奖励只跟推荐挂钩，不跟评价挂钩。"
+  },
+  {
+   "id": "ask-for-review-or-testimonial-034",
+   "situation": "I'm the solo developer of a habit-tracker app, Tally Habits. I want a short in-app message that shows once, when someone hits a 30-day streak, asking for an app store rating, with 'Rate now' and 'Not now' buttons. I don't want to screen for happy users first or offer anything in return.",
+   "reply": "30 days in a row. That's a real habit now, nice work. Tally is built by one person, and ratings are how other people find it. If you have a minute, a quick rating in the app store would help a lot. Thanks either way, and keep going.",
+   "lang": "en",
+   "note": "Show it once at a real high point, ask everyone the same way rather than only users who say they're happy, and let 'Not now' mean not again soon."
   }
  ]
 }

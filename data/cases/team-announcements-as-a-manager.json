@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -225,6 +225,13 @@
    "reply": "From Monday 2 November, our job titles change as part of a company-wide update: Senior Account Executive becomes Account Executive II, and Account Executive becomes Account Executive I. Your pay, band, duties and promotion criteria stay exactly the same. The reason is to match the titles used in our other offices so moving between them is simpler, and I agree with it. I know losing 'Senior' can feel like a step down, especially with clients, and it isn't one; if a client or a future employer ever needs that confirmed, I'll put it in writing for you. HR will publish the full ladder by Friday 16 October, and if this lands badly for you, grab 15 minutes with me this week.",
    "lang": "en",
    "note": "A change that looks like a loss but isn't: say what stays the same in the second sentence, name the worry, and offer something concrete you can do about it."
+  },
+  {
+   "id": "team-announcements-as-a-manager-033",
+   "situation": "I manage a team of 7 engineers. The company has just decided there will be no salary increases in the January pay review, because new orders are down about 20% this year; I agree with the decision. The 2026 bonuses are still being paid as planned in March, and leadership will look again in July at whether a mid-year review is possible, but nobody can promise one. I'm telling the team on our Monday call and then posting in our Teams channel.",
+   "reply": "As we covered on Monday's call: there will be no salary increases in the January pay review. The reason is that new orders are down about 20% this year, and I agree with the decision, even though I know it's not what any of you wanted to hear. Your 2026 bonuses are still being paid in March as planned. Leadership will look again in July at whether a mid-year review is possible; I can't promise it will happen, and I'll tell you what I hear as soon as I hear it. If this hits your plans in a real way, come and talk to me, and I'm booking 1:1s with everyone over the next two weeks.",
+   "lang": "en",
+   "note": "A pay freeze: say it in the first line, say what's protected, and don't turn a July review into a promise."
   }
  ]
 }

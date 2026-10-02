@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -225,6 +225,13 @@
    "reply": "Can I mention something small, the kind of thing I'd want you to tell me? The flat's had quite a strong cat litter smell the last few times I've been over. I think you just stop noticing it when you live with it; it happens to everyone with pets. That's it, and I'm really looking forward to Saturday.",
    "lang": "en",
    "note": "Early dating: say it once, make it about the flat rather than him, and if it's still there on Saturday, let it go."
+  },
+  {
+   "id": "tell-someone-something-awkward-033",
+   "situation": "我是外包设计师，甲方对接人刘经理刚在他们公司的公众号上发了周六读书会的推文，我扫了一下文中的报名二维码，打开的是去年的活动页面，已经显示“报名结束”。推文发出才二十分钟，我们只是工作上的合作关系。",
+   "reply": "刘经理，读书会的推文看到了！小提醒一下：文中的报名二维码扫出来是去年的活动页面，显示“报名结束”。推文才发出二十分钟，换一下二维码就好。这种事谁都遇到过，需要的话新码我这边帮您核对。",
+   "lang": "zh",
+   "note": "对甲方也一样：马上能改的错，私下一句话说清，附上解决办法，不在评论区提。"
   }
  ]
 }

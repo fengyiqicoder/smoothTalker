@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "small-talk-001",
@@ -225,6 +225,13 @@
    "reply": "Hi Maya, airport, right? That's a serious-looking case. Off to play somewhere, or heading home? And if you'd rather have a quiet ride, just say, I won't be offended.",
    "lang": "en",
    "note": "One question from what's in front of you plus an easy way out; if her answers are short, let the ride be quiet."
+  },
+  {
+   "id": "small-talk-033",
+   "situation": "I'm at a local tech meetup and have been chatting with Derek for 25 minutes about his home brewing; it was fun, and he's got me curious about trying a stout. I want to catch tonight's speaker, Amara, before she leaves, and I'd like to stay in touch with Derek.",
+   "reply": "Derek, this has been great, you've properly got me thinking about trying a stout. I want to catch Amara before she heads off, but I'd love to carry this on. Are you on LinkedIn?",
+   "lang": "en",
+   "note": "Exit on a high note with a real reason and a thread for next time, rather than waiting for the conversation to die."
   }
  ]
 }

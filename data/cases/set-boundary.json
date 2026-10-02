@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -225,6 +225,13 @@
    "reply": "Mum, I know the location sharing started because you love me and wanted me safe. I'm 22 now, so I'm turning it off this weekend. I'll text you whenever I'm travelling home, and we've still got our Sunday calls.",
    "lang": "en",
    "note": "Say what you'll do and what she still gets; don't debate the bar on a Tuesday. If she pushes, repeat it shorter."
+  },
+  {
+   "id": "set-boundary-033",
+   "situation": "I've been sober for eight months. My brother Sam hosts a family barbecue next Saturday, and at the last two he kept offering me a beer, saying 'just one won't hurt'. I love him and want to go; I'll bring my own drinks, and if the offers keep coming I'll head home early.",
+   "reply": "Sam, I'm looking forward to Saturday and I want to keep coming to these. I'm not drinking, so I'll bring my own drinks and say no to any beer, once. If the offers keep coming, I'll head home early. Save me a burger.",
+   "lang": "en",
+   "note": "Don't explain or defend your sobriety; if the pressure gets hard, lean on whoever supports your recovery, and leaving early is always allowed."
   }
  ]
 }

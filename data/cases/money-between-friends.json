@@ -4,14 +4,14 @@
  "cases": [
   {
    "id": "money-between-friends-001",
-   "situation": "I paid for my friend Leo's Taylor Swift ticket 3 weeks ago, $186. He said he'd Venmo me 'this week' and hasn't. We're close and I don't want it weird.",
+   "situation": "I paid for my friend Leo's Taylor Swift ticket 3 weeks ago, $186. He said he'd Venmo me 'this week' and hasn't; I'm @maya-chen on there. We're close and I don't want it weird.",
    "reply": "Hey, whenever you're near your phone: $186 for the Taylor Swift ticket, I'm @maya-chen on Venmo. Just so it doesn't slip for either of us!",
    "lang": "en",
    "note": "The number, what it was for and how to pay. No story, no hint. He almost certainly forgot."
   },
   {
    "id": "money-between-friends-002",
-   "situation": "去年借给大学同学小赵8000块，说好半年还，现在一年了他一直没提。我11月初要交新房子的押金，确实需要这笔钱。",
+   "situation": "去年借给大学同学小赵8000块，说好半年还，现在一年了他一直没提。我11月初要交新房子的押金，确实需要这笔钱，他分两次还也可以。",
    "reply": "小赵，跟你说个事哈：去年借你的那8000块，我这边11月初要交新房子的押金，想看看能不能在10月底前先还一部分？分两次也完全没问题，你看怎么方便，给我个大概时间就行。",
    "lang": "zh",
    "note": "数目、用途、截止时间都围绕自己的需要来说，不翻旧账也不评价对方，并主动给分期的台阶。"
@@ -19,13 +19,13 @@
   {
    "id": "money-between-friends-003",
    "situation": "My friend Jade keeps asking me to book concert and brunch stuff on my card and then pays late or forgets. She just asked me to put the $140 festival tickets on my card again. The presale opens Thursday at 10.",
-   "reply": "I can't front it this time, I'm keeping things tight this month. The presale opens Thursday at 10, want to both jump on at the same time and grab tickets next to each other?",
+   "reply": "I'm going to stop putting tickets on my card for us, it's just simpler if we each pay our own. The presale opens Thursday at 10, want to both jump on at the same time and grab tickets next to each other?",
    "lang": "en",
    "note": "When it's a pattern, the fix is to stop fronting money, not a sharper reminder. Keep the plan, drop the float."
   },
   {
    "id": "money-between-friends-004",
-   "situation": "I reminded my friend Priya about the $64 she owes for her share of the Airbnb in Asheville and she replied 'wow, you're really chasing me over $64?' Not sure how to answer without it turning into a thing.",
+   "situation": "I reminded my friend Priya about the $64 she owes for her share of the Airbnb in Asheville and she replied 'wow, you're really chasing me over $64?' My Venmo is @tess-marlow. Not sure how to answer without it turning into a thing.",
    "reply": "Ha, fair, it's not a lot, which is exactly why I'd like to get it off the list. My Venmo is @tess-marlow whenever you're ready, and then it's done.",
    "lang": "en",
    "note": "When they get defensive, agree it's small, repeat the ask once and don't explain your finances. If it still doesn't come, decide whether to write it off for real."
@@ -39,50 +39,50 @@
   },
   {
    "id": "money-between-friends-006",
-   "situation": "上个月找好朋友阿杰借了3,000块周转，说好9月底还。结果公司工资推迟到10月15号才发，这周还不上。他还没催我，我想主动跟他说。",
+   "situation": "上个月找好朋友阿杰借了3,000块周转，说好9月底还。结果公司工资推迟到10月15号才发，这周还不上。他还没催我，我想主动跟他说；他要是急用，我可以先凑一部分。",
    "reply": "阿杰，那3,000块说好这周还你，但公司这个月工资推迟到10月15号发，我得晚两周。15号到账当天我就转给你。拖了真不好意思，要是你这几天急用，跟我说一声，我先想办法凑一部分给你。",
    "lang": "zh",
    "note": "欠钱的一方要在对方开口前主动说，给确定日期，并给对方说急需的空间。"
   },
   {
    "id": "money-between-friends-007",
-   "situation": "Seven of us had dinner on Saturday and paid by throwing cash into a pot. It came up $42 short, so I put the difference on my card. I don't know who underpaid and I don't want to accuse anyone.",
+   "situation": "Seven of us had dinner on Saturday and paid by throwing cash into a pot. It came up $42 short, so I put the difference on my card; my Venmo is @ana-ruiz. I don't know who underpaid and I don't want to accuse anyone.",
    "reply": "Quick one from Saturday: the cash pot came up $42 short of the bill, so I put the gap on my card. Could everyone check what they had against what they put in, and if you're under, send it to my Venmo, @ana-ruiz? Easy to miss with cash. Great night!",
    "lang": "en",
    "note": "When you don't know who's short, ask everyone to check rather than guessing: the number, one way to pay, and no finger-pointing."
   },
   {
    "id": "money-between-friends-008",
-   "situation": "I lent my friend Marco $200 back in April for a car repair. He just got laid off and I've decided I don't want the money back. I want to tell him so he stops feeling bad about it.",
+   "situation": "I lent my friend Marco $200 back in April for a car repair. He just got laid off and I've decided I don't want the money back. I want to tell him so he stops feeling bad about it, and invite him for beers on me Friday.",
    "reply": "Hey Marco, about the $200 from April: please forget it, we're square. You've got enough on your plate right now, and I'd much rather have my friend than the money. Beers are on me Friday if you're up for it.",
    "lang": "en",
    "note": "Writing it off works only if you actually let it go: say it once, clearly, and never mention the amount again."
   },
   {
    "id": "money-between-friends-009",
-   "situation": "Il y a trois semaines, j'ai payé les billets de train pour notre week-end à Bordeaux, 96 euros la part de mon pote Hugo. Je lui ai rappelé la semaine dernière, il a vu le message mais n'a pas répondu. Mon loyer part le 5 octobre.",
-   "reply": "Salut Hugo, je relance pour les 96 euros du train pour Bordeaux. Mon loyer part le 5 octobre, alors si tu peux me faire le virement avant, ça m'arrange bien. Je te renvoie mon RIB juste en dessous. Merci !",
+   "situation": "Samedi dernier, mon ami Hugo a acheté nos deux places pour le concert et ne m'a jamais dit combien je lui dois. Je ne veux pas qu'il ait à me relancer, je préfère le rembourser par virement cette semaine.",
+   "reply": "Salut Hugo, merci d'avoir pris les places pour samedi ! Je te dois combien pour la mienne ? Envoie-moi juste le montant et je te fais le virement cette semaine.",
    "lang": "fr",
-   "note": "Deuxième relance : le montant, ce que c'était, comment payer et une échéance liée à ses propres besoins, sans commenter son silence."
+   "note": "Quand c'est toi qui dois, demande le chiffre toi-même et dis quand tu paies : l'autre n'a jamais à relancer."
   },
   {
    "id": "money-between-friends-010",
-   "situation": "I bought the joint 30th birthday present for our friend Sophie, a £240 weekender bag, split six ways at £40 each. Four people paid within a day. Josh hasn't, two weeks later. I want to clear it off my card this weekend without calling him out in the group chat.",
-   "reply": "Hey Josh, for Sophie's bag: it came to £240, so £40 each. My details are sort code 20-45-77, account 41558203. I'm clearing it off my card this weekend, so before Saturday would be great. Thanks!",
+   "situation": "I bought the joint 30th birthday present for our friend Sophie, a £240 weekender bag, split six ways at £40 each. Four people paid within a day. Josh hasn't, two weeks later. I want to clear it off my card this weekend without calling him out in the group chat; my bank details are pinned in the group chat.",
+   "reply": "Hey Josh, for Sophie's bag: it came to £240, so £40 each. My bank details are pinned in the group chat. I'm clearing it off my card this weekend, so before Saturday would be great. Thanks!",
    "lang": "en",
    "note": "Chase group-gift stragglers one at a time, in private, with the number and how to pay; never in the group chat."
   },
   {
    "id": "money-between-friends-011",
-   "situation": "下周六10月10日和大学同学六个人聚餐，每次都AA。上次他们点了两瓶红酒一千多，我不喝酒也跟着均摊了。这次想提前在群里说，酒水单独算。",
+   "situation": "下周六10月10日和大学同学六个人聚餐，每次都AA。上次他们点了两瓶红酒一千多，我不喝酒也跟着均摊了。这次想提前在群里说，酒水单独算，我来负责结账、发明细。",
    "reply": "周六见！提前说个小事：我不喝酒，这次酒水能不能喝的人单独分，饭菜还是六个人AA？我来负责结账，吃完在群里发明细，大家转我就行。",
    "lang": "zh",
    "note": "饭前定规则比买单时再算轻松得多；只讲办法，不翻上次的账，自己揽下结账让大家更容易同意。"
   },
   {
    "id": "money-between-friends-012",
-   "situation": "I lent my friend Theo my camera for his trip to Iceland and he dropped it. The lens repair quote is $210. At the time he said he'd pay 'whatever it costs', but it's been three weeks and he hasn't mentioned it. I need the lens for a paid shoot on the 17th.",
-   "reply": "Hey Theo, got the repair quote back for the lens: $210 at Kelso Camera, invoice attached. Venmo is easiest, I'm @maya-lin. I'd like to book the repair before my shoot on the 17th, so sometime next week would be great.",
+   "situation": "I lent my friend Theo my camera for his trip to Iceland and he dropped it. Kelso Camera quoted $210 for the lens repair. At the time he said he'd pay 'whatever it costs', but it's been three weeks and he hasn't mentioned it. I need the lens for a paid shoot on the 17th; my Venmo is @maya-lin.",
+   "reply": "Hey Theo, got the repair quote back for the lens: $210 at Kelso Camera, quote attached. Venmo is easiest, I'm @maya-lin. I'd like to book the repair before my shoot on the 17th, so sometime next week would be great.",
    "lang": "en",
    "note": "Sending the invoice makes the number a fact rather than a judgement about the accident, and the deadline is about your shoot, not his lapse."
   },
@@ -95,7 +95,7 @@
   },
   {
    "id": "money-between-friends-014",
-   "situation": "发小阿斌想开一家奶茶店，找我借两万块，说一年内还。我手头有这笔钱，也愿意帮他，但想把怎么还说清楚，最好写个借条，又怕他觉得我不信任他。",
+   "situation": "发小阿斌想开一家奶茶店，找我借两万块，说一年内还。我手头有这笔钱，也愿意帮他。我想让他从明年1月起每月还2,500、8月底还完，并写个简单的借条，又怕他觉得我不信任他。",
    "reply": "阿斌，两万我可以借你，开店是好事，我挺支持的。为了咱俩都省心，把还款说清楚：从明年1月开始每月还2,500，8月底还完，你看行不行？我顺手写了个简单的借条，写上金额和还款安排，签个字各留一份，不是不信你，是这样以后谁都不用记。店开起来我第一个去喝。",
    "lang": "zh",
    "note": "只借自己亏得起的钱；借条当成办事流程来提，语气放轻，重点放在还款安排上。"
@@ -116,14 +116,14 @@
   },
   {
    "id": "money-between-friends-017",
-   "situation": "My friend Chris owes me $900: I covered his share of our Lisbon trip in June. When I reminded him last week he said money's tight and he can't pay it all at once. He gets paid on the 15th of each month.",
+   "situation": "My friend Chris owes me $900: I covered his share of our Lisbon trip in June. When I reminded him last week he said money's tight and he can't pay it all at once. He gets paid on the 15th of each month, and I'd be happy with $300 a month from October.",
    "reply": "Hey, thanks for being straight with me about money being tight, no stress about paying it all at once. How about $300 on the 15th of October, November and December? That clears the $900 by Christmas. If a different split works better for you, tell me and we'll adjust. Mostly I'd just like us to have a plan so neither of us has to think about it.",
    "lang": "en",
    "note": "Turns 'can't pay it all' into a small dated plan tied to his payday, and leaves room for him to suggest a different split."
   },
   {
    "id": "money-between-friends-018",
-   "situation": "Reservé un piso en Oporto para cuatro amigas del 23 al 25 de octubre: 480 euros sin reembolso, 120 cada una, y lo adelanté yo. Las otras dos ya me han pagado por transferencia. Marta acaba de decir que no puede venir por trabajo y no ha mencionado su parte.",
+   "situation": "Reservé un piso en Oporto para cuatro amigas del 23 al 25 de octubre: 480 euros sin reembolso, 120 cada una, y lo adelanté yo. Las otras dos ya me han pagado por transferencia. Marta acaba de decir que no puede venir por trabajo y no ha mencionado su parte; si alguien ocupa su plaza, me vale que le pague a ella.",
    "reply": "¡Qué pena que no puedas venir, Marta! Te vamos a echar de menos. Sobre el piso: la reserva no tiene reembolso, así que tu parte de 120 euros sigue en pie, y la adelanté yo. Si encuentras a alguien que quiera tu plaza, que te la pague a ti y listo; si no, pásamela por transferencia antes del viaje, así lo dejamos cerrado. Y te traemos un oporto.",
    "lang": "es",
    "note": "Cuando alguien se cae de un plan ya pagado: la cifra, por qué sigue en pie y una salida real (ceder su plaza), sin reproches ni hablar de su trabajo."
@@ -137,14 +137,14 @@
   },
   {
    "id": "money-between-friends-020",
-   "situation": "好朋友阿宁是职业摄影师，上周六给我拍了孕妇照，拍了三个小时，还修了30张图。她平时拍一组收2,000元，这次坚持不收钱，说是送我的礼物。我想把钱付给她，又怕她觉得我见外。",
+   "situation": "好朋友阿宁是职业摄影师，上周六给我拍了孕妇照，拍了三个小时，还修了30张图。她平时拍一组收2,000元，这次坚持不收钱，说是送我的礼物。我想按原价微信转给她；她实在不收，就请她吃顿大餐。",
    "reply": "阿宁，照片我翻来覆去看了好几遍，每一张都舍不得删，真的谢谢你！你说是送我的礼物，这份心意我收下了。但拍三个小时再修30张图是你的工作，我想按你平时的价格付2,000元，刚在微信上转给你了，点一下收款就好。你要是实在不肯收，那就让我请你吃顿大餐，地方你挑。",
    "lang": "zh",
    "note": "朋友用专业帮你，付钱是尊重她的工作，不是还人情；她坚持不收就真的放下，换个方式谢她。"
   },
   {
    "id": "money-between-friends-021",
-   "situation": "我开了个视频网站的家庭会员，一年248元，和三个大学同学分，每人62元。9月15号续费的时候我在群里说过了，另外两个人都转了，阿凯还没动静，可能没看到。想私聊提醒他一下。",
+   "situation": "我开了个视频网站的家庭会员，一年248元，和三个大学同学分，每人62元。9月15号续费的时候我在群里说过了，另外两个人都转了，阿凯还没动静，可能没看到。想私聊提醒他；他要是不用了，明年就三个人分。",
    "reply": "阿凯，会员9月15号已经续上了，今年一年248，四个人分，每人62～方便的时候微信转我就行。要是你今年不太用了也没关系，跟我说一声，我就把你的位置让出来，明年按三个人算。",
    "lang": "zh",
    "note": "每年都有的小额分摊：私聊、给数字、说怎么付，再给一个体面的退出选项。"
@@ -179,7 +179,7 @@
   },
   {
    "id": "money-between-friends-026",
-   "situation": "In June I lent my friend Ollie $500 for his car insurance, and he's paid back $200 so far. Today he asked to borrow another $300 for a concert trip next month. I don't want to lend more until the first loan is cleared, and I'd be fine with the remaining $300 in two payments.",
+   "situation": "In June I lent my friend Ollie $500 for his car insurance, and he's paid back $200 so far. Today he asked to borrow another $300 for a concert trip next month. I don't want to lend more until the first loan is cleared, and I'd be fine with the remaining $300 as $150 on 15 October and $150 on 15 November.",
    "reply": "Hey Ollie, I'm going to pass on lending for the concert, I'd rather not have two loans open between us. On the June one, you've paid back $200 of the $500, so there's $300 to go. Could we do $150 on 15 October and $150 on 15 November? Then we're square. Thanks for chipping away at it already.",
    "lang": "en",
    "note": "Say no to the new loan in one line without a lecture, and turn the old one into a small dated plan."
@@ -200,14 +200,14 @@
   },
   {
    "id": "money-between-friends-029",
-   "situation": "我们组八个同事有个微信群，周二小陈在群里说“周五下班唱K，包间我先订了，一共960，每人120，不说话就当参加了”。我那几天在外地出差，没看群，周五也没去。今天他私聊我，让我转120。",
+   "situation": "我们大学同学八个人有个微信群，周二小陈在群里说“周五晚上唱K，包间我先订了，一共960，每人120，不说话就当参加了”。我那几天在外地出差，没看群，周五也没去。今天他私聊我，让我转120。",
    "reply": "小陈，辛苦你张罗！周二那条消息我当时在外地出差，没看到，周五也没去，所以这次的120我就不转了。下次再组织，我一定在群里明确回一声去不去，省得你算人头。",
    "lang": "zh",
    "note": "没回复不等于同意：说清没看到、没参加，不评价他的规则，下次主动表态。"
   },
   {
    "id": "money-between-friends-030",
-   "situation": "My friend Ryan has borrowed from me three times since July, $100, $250 and $150, and hasn't paid any of it back. He's told me he's been betting on football a lot and is 'about to win it back'. Tonight he asked to borrow $400 for rent; I don't want to lend more, I'm happy to let the old money wait, and I'm worried about him.",
+   "situation": "My friend Ryan has borrowed from me three times since July, $100, $250 and $150, and hasn't paid any of it back. He's told me he's been betting on football a lot and is 'about to win it back'. Tonight he asked to borrow $400 for rent; I don't want to lend more, I'm happy to let the old money wait, and I'm worried about him. I'd sit with him while he calls a support line or his landlord, and take him for food tomorrow.",
    "reply": "Ryan, I'm not going to lend you the $400, and it's not because I'm annoyed about the other loans. You told me you've been betting a lot and trying to win it back, and honestly I'm more worried about you than the money. The $500 can wait, don't stress about it right now. If you want, I'll sit with you while you call a gambling support line, or while you ring your landlord about the rent. Want to grab food tomorrow?",
    "lang": "en",
    "note": "When borrowing is tied to gambling, stop lending and offer support instead; point him to a gambling support service, and if he mentions harming himself, call emergency services."

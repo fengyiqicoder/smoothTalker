@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -225,6 +225,13 @@
    "reply": "赵先生您好，新房餐厅比预想的小，确实得重新考虑，我理解。木料已经按原来的尺寸开好，花了1800元，这部分退不了，所以如果取消，我退您1200元，今天原路退回。另一个办法是用这批木料给您改做一张小一号的餐桌，总价6200元，3000元定金全部抵扣。您看哪个更合适，告诉我就马上安排。",
    "lang": "zh",
    "note": "定制做到一半被取消：把已经花掉的成本说清楚，给退剩余定金和改做两个选项，不劝他别取消。"
+  },
+  {
+   "id": "handle-refund-request-033",
+   "situation": "I run Pebblefoot Games, a two-person app studio. A dad, Mr. Okafor, emailed that his 8-year-old son spent $64 on gem packs in our app over the weekend using the saved card, without asking. Our terms say in-app purchases aren't refundable, but for a child buying without permission I'm happy to refund the full $64 as a one-off, which takes 3 to 5 working days, and the app has a parent PIN for purchases under Settings.",
+   "reply": "Hi Mr. Okafor, thanks for letting us know, that must have been a surprise on the card statement. In-app purchases aren't normally refundable, but since your son bought these without your permission, I've refunded the full $64 to your card today as a one-off. It should show within 3 to 5 working days. To stop it happening again, you can switch on the parent PIN for purchases under Settings in the app.",
+   "lang": "en",
+   "note": "A child's unauthorised purchase gets a quick yes framed as a one-off, plus the practical fix so it doesn't happen again."
   }
  ]
 }

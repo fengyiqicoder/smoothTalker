@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -225,6 +225,13 @@
    "reply": "Thank you, all of you, for the white lilies at Mum's funeral and the card you all signed. I read it the evening after the funeral, and it helped more than I can easily say. Tom, Mum would have been delighted that her fruitcake from the Christmas fair stayed with you. It's good to be back with you all this week.\nLeila",
    "lang": "en",
    "note": "Thanks for sympathy can be short: name what they sent, one line on what it did, and one personal detail from the card."
+  },
+  {
+   "id": "thank-you-notes-033",
+   "situation": "After my baby shower on Sunday I texted my aunt Rosa to thank her for the knitted blanket, but the blanket was from my cousin Elena; Rosa gave us the bath set with the hooded duck towel. Rosa replied '??'. We used the duck towel on our son Noah for his first bath at home last night, and he looked like a tiny duckling.",
+   "reply": "Rosa, small mix-up: I thanked you for the blanket, and that was Elena. Yours was the bath set, and thank you! The duck towel had its first outing last night after Noah's first bath at home, and he looked like a tiny duckling. Thank you for being there on Sunday, it meant a lot.",
+   "lang": "en",
+   "note": "Correct a mix-up lightly in one line, then give the right thanks with its own detail; send Elena her thanks separately."
   }
  ]
 }

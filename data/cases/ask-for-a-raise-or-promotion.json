@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -232,6 +232,13 @@
    "reply": "Thank you, Grace, I really appreciate the bonus, and I'm happy to take it for the timesheet automation. The Canadian payroll is different, though: it's been part of my job every month since March and it isn't going away, so I think it belongs in my base salary rather than a one-off. Could we still look at moving my base from $61,000 to $67,000? If that's not possible now, what would it take, and when could we revisit it?",
    "lang": "en",
    "note": "A one-off bonus pays for a one-off result; ongoing scope belongs in base pay, so accept the bonus and keep the number on the table."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-034",
+   "situation": "Jake and I were peers on the data team for three years until he became my manager in June. I'm a data engineer on $92k; since he moved up I've taken over the on-call scheduling and the two vendor integrations he used to own, and similar roles pay $100k to $108k. We've booked 30 minutes on Thursday for this and I want to ask for $102k without it feeling weird.",
+   "reply": "Thanks for making time, Jake. I'm asking you as my manager, not as my old teammate, so feel free to treat it that way. I like this team and want to keep growing here. Since June I've taken over the on-call scheduling and the two vendor integrations you used to own, and roles with that scope pay $100k to $108k. I'd like to move from $92k to $102k. What would you need from me to make that case, and when could we have an answer?",
+   "lang": "en",
+   "note": "With a former peer, name the role change once, then give the same evidence and number you'd give any manager; confirm in writing the same day."
   }
  ]
 }

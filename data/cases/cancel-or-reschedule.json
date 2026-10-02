@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -232,6 +232,13 @@
    "reply": "Maddie, I have to change our climbing plan for Saturday: work is sending me to a trade show and I can't get out of it. I'm really sorry, I know you've been looking forward to it, and so have I. Mum says I can pick you up on Sunday afternoon instead, or we can go on Saturday 17 October. You choose, and milkshakes after are on me.",
    "lang": "en",
    "note": "With your own kid the shape is the same: the change first, one true reason, and a choice that hands them some control back."
+  },
+  {
+   "id": "cancel-or-reschedule-034",
+   "situation": "I'm due to visit our supplier, Northgate Textiles, in Leeds on Tuesday Oct 6 at 10am to walk through their new production line with their ops manager, Fiona. A rail strike has just been announced for that day. I could do a video call at the same time, with her walking the line on a phone, or come in person on Tuesday Oct 13 or Wednesday Oct 14.",
+   "reply": "Hi Fiona, I need to change Tuesday's visit: a rail strike has just been announced for 6 October, so I can't get to Leeds. Sorry for the shuffle when you've set the morning aside. Two options: keep 10am on Tuesday as a video call, with you walking the line on a phone, or I come in person on Tuesday 13 or Wednesday 14 October. Which suits you better?",
+   "lang": "en",
+   "note": "Sometimes the alternative is a different format at the same time rather than a new date; offer both."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -225,6 +225,13 @@
    "reply": "Thanks, Joan, I know you mean it kindly. I'm happy with my life and my care as they are, so I'll pass on the leaflet. Now, I need to know: did you guess the killer in your pick before the end?",
    "lang": "en",
    "note": "Advice about a disability gets the shortest rungs: one line of position, no medical debate, then back to what you share; if it returns, repeat the same line."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-033",
+   "situation": "我养了只领养的狗叫可乐，召回还没练好，训犬师让我遛的时候一直牵绳。同楼的王大爷每次在小区碰到都说“老拴着太可怜了，解开让它跑跑”。王大爷人挺好，他家养了只柯基叫团团。",
+   "reply": "王大爷，谢谢您心疼可乐。它现在还得一直牵着，我们这样挺好的。团团最近怎么样？",
+   "lang": "zh",
+   "note": "对邻居用最低一两档：接住好意，立场说一句，不搬出训犬师讲道理，再换到他爱聊的团团；下次他再说，就重复同一句。"
   }
  ]
 }

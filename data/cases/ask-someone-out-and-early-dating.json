@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -231,6 +231,13 @@
    "reply": "阿泽，跟你打了半年游戏，想见见真人了。10月11日周日下午，要不要在体育西路那家“慢半拍”喝杯咖啡？就坐一会儿聊聊天，看看你本人是不是跟语音里一样能说。不方便或者觉得太快了，直接说就行，周末照样一起打。",
    "lang": "zh",
    "note": "网友第一次见面：白天、人多的公共场所，自己去自己回，出门前告诉一个朋友你在哪；觉得不对劲就离开，遇到危险打110。"
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-034",
+   "situation": "Second date with Sam last night went really well: dinner and a long walk by the river, and she told me about her plan to adopt a greyhound. At the end she invited me back to hers; I said I'd rather not yet and she was lovely about it. I want to text today that I had a great time, that I like taking things slowly but I'm keen, and suggest Saturday's food market.",
+   "reply": "Last night was great, and I'm still thinking about your greyhound plans. Thank you for being so easy about me heading home. I like to take things slowly, and it's not a lack of interest, quite the opposite. I'd really like to see you again: how about the food market on Saturday?",
+   "lang": "en",
+   "note": "Say your pace once, plainly, then make a concrete plan; it reassures without turning the text into a negotiation."
   }
  ]
 }
