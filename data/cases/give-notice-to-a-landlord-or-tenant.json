@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -260,6 +260,13 @@
    "reply": "Dear Mr Reyes,\nThank you for letting me know on the phone yesterday that your son needs Flat 3, 18 Sefton Road. Clause 10 of my lease says the landlord gives at least 60 days' written notice, so could you send me the notice in writing, with the end date it gives? I'll start looking for somewhere new straight away, and once I have it we can agree dates for viewings, the check-out and the keys. Please confirm you've received this.\nKind regards,\nNina Brooks",
    "lang": "en",
    "note": "A phone call may not count as notice: ask for it in writing under the lease, don't agree to 31 October on the call, and check local rules with a tenant advice service."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-038",
+   "situation": "我叫周宁，在武汉租住房东孙先生的一套一居室，合同12月31日到期，第8条写到期不续租要提前一个月书面通知，微信通知有效，我不打算续租了。前两天我不小心把卫生间洗手盆磕裂了一道缝，想主动说：问过师傅，换一个连安装大约400元，可以从押金里扣，也可以我自己找师傅在搬走前换好。",
+   "reply": "孙先生您好，我是周宁。按合同第8条，书面通知您：合同12月31日到期后我不再续租，租期到2026年12月31日结束。12月的房租我照常交，31日我们约个时间一起验房、交钥匙、抄水电表。另外主动跟您说一件事：前两天我不小心把卫生间洗手盆磕裂了一道缝，问过师傅，换一个连安装大约400元。您看是从押金里扣，还是我自己找师傅在搬走前换好？两种都可以。麻烦您回个消息确认收到这份通知，谢谢。",
+   "lang": "zh",
+   "note": "通知放在最前面，损坏的事随后主动说清并给两个办法；截图保存这条消息和他的确认，合同期限和押金规则以合同为准。"
   }
  ]
 }

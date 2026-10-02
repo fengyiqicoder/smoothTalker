@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -260,6 +260,13 @@
    "reply": "Hi Lauren,\nThank you for the offer, I'm really excited about the role, and the $140k base works for me. The one thing I'd like to raise is on-call: the role includes 24/7 cover one week in five, with no on-call pay. In my current role on-call is paid at $500 a week, and for this role I'm asking for $600 a week. Is there flexibility there? If an on-call payment isn't possible, a day off after each on-call week would work for me instead.\nBest,\nTariq",
    "lang": "en",
    "note": "When the base is settled, negotiate the hidden cost of the role, and keep the $400 floor to yourself."
+  },
+  {
+   "id": "negotiate-price-or-salary-038",
+   "situation": "I'm a wedding florist. Hannah and Jay loved my $3,400 quote for their wedding flowers on 12 June next year, which covers building every arrangement the week of the wedding and doing the setup and clear-away myself, but another florist quoted them $2,200 for the same list and they've asked if I can match it. I won't drop the price for the same list, but swapping the imported peonies for seasonal garden roses takes $500 off, and dropping the ceremony arch takes $600 off.",
+   "reply": "Hi Hannah and Jay, thank you for coming back to me, and I'm so glad you loved the designs. I can't match $2,200 for the same list: my $3,400 covers building every arrangement the week of your wedding and doing the setup and clear-away myself on the day. What I can do is bring the price down by changing the list: swapping the imported peonies for seasonal garden roses takes it to $2,900, or dropping the ceremony arch takes it to $2,800. Would either of those work for you? Either way, I'd love to do your flowers on 12 June.",
+   "lang": "en",
+   "note": "Against a cheaper quote, don't run down the other florist or match it blindly: hold the price, give one reason, and move the scope."
   }
  ]
 }

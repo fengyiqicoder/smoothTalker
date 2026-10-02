@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -260,6 +260,13 @@
    "reply": "老婆，“你妈就是事多”那句是我说错了，对不起。我知道你是觉得一到你家的事，我就往后缩，留你一个人扛。去年中秋的事我们今天先不争。你今晚9点下班，我们打个电话，好好商量这周末怎么安排。我不想跟你争输赢，我想跟你站一边。",
    "lang": "zh",
    "note": "对方翻旧账时，别去辩解中秋那次，只认今天说错的那句话，旧账留到冷静下来再谈。"
+  },
+  {
+   "id": "de-escalate-argument-038",
+   "situation": "My girlfriend Priya and I are arguing in our flat because I forgot her work awards dinner on Thursday, and I told her she 'always makes everything a crisis'. When I said I needed 30 minutes to cool off, she started crying and asked 'so you're just leaving?' I'm only going to the bedroom, and I want to say the right thing right now, in person.",
+   "reply": "No, I'm not leaving. I'm staying right here in the flat, and saying you always make everything a crisis was unfair, I'm sorry. I know forgetting your awards dinner made it feel like your work doesn't matter to me. I just need 30 minutes so I don't make this worse, and then I'll come and find you. I'm not going anywhere.",
+   "lang": "en",
+   "note": "When a pause sounds like abandonment, say where you'll be and when you'll be back; the return time is what makes the pause feel safe."
   }
  ]
 }

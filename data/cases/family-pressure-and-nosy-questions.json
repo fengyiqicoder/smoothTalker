@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -260,6 +260,13 @@
    "reply": "Ha, Aunt Bev, it counted, I was there. Sam and I are married and very happy, and there's no second wedding planned. Now tell me about your fortieth, how are the party plans coming along?",
    "lang": "en",
    "note": "A direct question gets a clear answer with no reasons and no apology for the small wedding; if she says it again, repeat 'married and very happy' word for word."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-038",
+   "situation": "I moved to Toronto on a work permit two years ago and I'm waiting to hear about permanent residency. My uncle Sanjay asks on every family video call, in front of everyone, 'so are they letting you stay or not?' and then tells stories about people who got sent back. I don't want to share where my application is; he's just back from a cruise and loves talking about it, and the next call is Sunday.",
+   "reply": "Ha, Sanjay Uncle, still keeping an eye on me. When there's news, you'll be among the first to hear. Now tell me about the cruise, which stop was the best?",
+   "lang": "en",
+   "note": "No status update and no reasons, since every detail invites the next story; if he asks again, repeat the same line nearly word for word."
   }
  ]
 }

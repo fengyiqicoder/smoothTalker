@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -260,6 +260,13 @@
    "reply": "Emma, Dad and I have some news that's hard to hear, and we wanted to tell you together. We've decided to separate, after 31 years. It's been coming for a while, and nobody else is involved. Dad's moving into a flat in town in November, and we'll sell the house in the spring, which we know is your home too. Christmas this year will still be at the house with both of us, and you can ask us anything, now or whenever you're ready.",
    "lang": "en",
    "note": "Both parents, one voice: the news in the second line, the practical changes she'll wonder about, and no blame. Then stop and let her react."
+  },
+  {
+   "id": "deliver-bad-news-038",
+   "situation": "I'm Sarah and I coach the under-10 gymnastics group at our community sports hall. Ten minutes ago Mia, 8, fell from the beam and landed on her wrist; it's swollen and she's in a lot of pain, but she's talking and alert. Dev, our first-aider, has put it in a sling and thinks it needs an X-ray, and our rule is that a parent takes the child to A&E unless it's an emergency, when we call 999. I'm phoning her dad, Tom, now.",
+   "reply": "Tom, it's Sarah, Mia's gymnastics coach. Mia's talking and alert, but she's hurt her wrist. About ten minutes ago she fell from the beam and landed on it; it's swollen and she's in a lot of pain. Dev, our first-aider, has put it in a sling and thinks it needs an X-ray. Can you come to the sports hall now and take her to A&E? I'll stay with her until you get here, and if anything changes before then, we'll call 999 straight away.",
+   "lang": "en",
+   "note": "With an injured child, the parent hears 'she's alert' and the injury in one breath; if she gets worse before he arrives, call emergency services first and the parent second."
   }
  ]
 }

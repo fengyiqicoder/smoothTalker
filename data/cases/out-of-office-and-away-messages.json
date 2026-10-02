@@ -11,28 +11,28 @@
   },
   {
    "id": "out-of-office-and-away-messages-002",
-   "situation": "Je suis Camille, graphiste freelance. Je pars trois semaines du 3 au 24 novembre et personne ne me remplace ; je peux lire mes SMS une fois par semaine au 06 12 34 56 78 si le site d'un client en cours tombe. Je veux un message d'absence qui ne fasse pas fuir les nouveaux clients.",
-   "reply": "Merci pour votre message. Je suis absente du 3 au 24 novembre et je ne lis pas mes e-mails pendant cette période. Pour un client en cours dont le site ne fonctionne plus, un SMS au 06 12 34 56 78 : je le consulte une fois par semaine. Pour un nouveau projet, répondez avec deux lignes sur votre besoin et je vous propose un créneau à partir du 25 novembre. Camille",
+   "situation": "Je suis Camille, graphiste freelance. Je pars trois semaines du 3 au 24 novembre et personne ne me remplace ; mes clients en cours ont mon portable et je peux lire mes SMS une fois par semaine si leur site tombe. Je veux un message d'absence qui ne fasse pas fuir les nouveaux clients.",
+   "reply": "Merci pour votre message. Je suis absente du 3 au 24 novembre et je ne lis pas mes e-mails pendant cette période. Pour un client en cours dont le site ne fonctionne plus, envoyez-moi un SMS sur mon portable : je les consulte une fois par semaine. Pour un nouveau projet, répondez avec deux lignes sur votre besoin et je vous propose un créneau à partir du 25 novembre. Camille",
    "lang": "fr",
    "note": "Seule sans remplaçant : une seule voie d'urgence qu'on consulte vraiment, et le message reste une porte d'entrée commerciale."
   },
   {
    "id": "out-of-office-and-away-messages-003",
-   "situation": "我在淘宝开了个手工皂小店，春节要关店，1月25号到2月5号，1月22号前的订单都已经寄出了。想设置一个自动回复，客人问的话能知道还能不能买。",
+   "situation": "我在淘宝开了个手工皂小店，春节要关店，1月25号到2月5号，1月22号前的订单都已经寄出了。休息期间照常可以下单，2月6日起按顺序发货。想设置一个自动回复，客人问的话能知道还能不能买。",
    "reply": "亲，小店春节休息，1月25日至2月5日暂停发货，2月6日起恢复。这期间可以正常下单，我们开工后按顺序发出；1月22日前的订单都已经寄出啦。留言我们回来后会一一回复，祝新年快乐！",
    "lang": "zh",
    "note": "小店客人最关心的是还能不能买、什么时候发货。日期写清楚，其他不用多说。"
   },
   {
    "id": "out-of-office-and-away-messages-004",
-   "situation": "My dad passed away and I'm taking bereavement leave from Oct 1, back two weeks later. I'm an HR business partner and my colleague Tanya Brooks (tanya.brooks@example.com) agreed to cover. I don't want any details in the auto-reply.",
+   "situation": "My dad passed away and I'm taking bereavement leave from Oct 1, back two weeks later. I'm an HR business partner and my colleague Tanya Brooks (tanya.brooks@example.com) agreed to cover. Messages won't be forwarded, and I don't want any details in the auto-reply.",
    "reply": "I'm on leave until Thursday 15 October and not reading email. For anything active, please contact Tanya Brooks (tanya.brooks@example.com). Messages here won't be forwarded, so do resend anything important.",
    "lang": "en",
    "note": "For bereavement, less detail, not more. Colleagues who need to know will hear it from your team."
   },
   {
    "id": "out-of-office-and-away-messages-005",
-   "situation": "I'm Hana, a freelance copywriter, fully booked until Friday Nov 13 and free from Monday Nov 16. I'm getting lots of new inquiries and want an auto-reply that doesn't lose them.",
+   "situation": "I'm Hana, a freelance copywriter, fully booked until Friday Nov 13 and free from Monday Nov 16. I'm getting lots of new inquiries and want an auto-reply that doesn't lose them. If someone needs it sooner, I'm happy to suggest a copywriter I trust.",
    "reply": "Thanks for getting in touch. I'm fully booked until Friday 13 November, so I can't start anything new before then. If your timeline allows, reply with two lines about the project and your deadline, and I'll hold you a slot from Monday 16 November. Need someone sooner? Say so and I'll suggest a copywriter I trust. Hana",
    "lang": "en",
    "note": "An at-capacity auto-reply is still a sales message: the next free date and one easy way to claim it."
@@ -46,7 +46,7 @@
   },
   {
    "id": "out-of-office-and-away-messages-007",
-   "situation": "我开了一间定制西装工作室，中秋休息了5天（9月24日到28日），今天刚回来。客户王先生25号发微信问西装能不能在10月10日他婚礼前改好，昨天又发了一句“都好几天了也没人回”。我看了，袖长和腰身要改，10月6日前能改好。",
+   "situation": "我开了一间定制西装工作室，中秋休息了5天（9月24日到28日），今天刚回来。客户王先生25号发微信问西装能不能在10月10日他婚礼前改好，昨天又发了一句“都好几天了也没人回”。我看了，袖长和腰身要改，10月6日前能改好，7日或8日来试穿，要微调的话9日前交货。",
    "reply": "王先生您好，让您等了好几天，确实着急，谢谢您耐心等我们回来。今天一到店我就先看了您的西装：袖长和腰身10月6日（周二）前能改好，您7日或8日来试穿，如果还要微调，9日前一定交到您手上，赶得上10日的婚礼。您看哪天过来方便？",
    "lang": "zh",
    "note": "对方等急了：先承认等得久，不为放假道歉，也不解释，直接给具体日期和下一步。"
@@ -60,8 +60,8 @@
   },
   {
    "id": "out-of-office-and-away-messages-009",
-   "situation": "I'm Sam, a solo physiotherapist with my own small clinic in Bristol. I've come down with flu and need to close Wednesday Sept 30 to Friday Oct 2. Nobody covers for me. I want a WhatsApp away message for patients.",
-   "reply": "Hi, the clinic is closed from Wednesday 30 September to Friday 2 October, and reopens Monday 5 October. If you're booked on those days, I'll message you by Monday to rebook, so there's nothing you need to do. For new pain or an injury that can't wait, please contact your GP or call NHS 111. Sam",
+   "situation": "I'm Sam, a solo physiotherapist with my own small clinic in Bristol. I've come down with flu and need to close Wednesday Sept 30 to Friday Oct 2. Nobody covers for me; I'll message booked patients by Monday to rebook. I want a WhatsApp away message for patients.",
+   "reply": "Hi, the clinic is closed from Wednesday 30 September to Friday 2 October, and reopens Monday 5 October. If you're booked on those days, I'll message you by Monday to rebook, so there's nothing you need to do. For new pain or an injury that can't wait, please contact your GP or their out-of-hours service, and for anything severe call emergency services. Sam",
    "lang": "en",
    "note": "Solo and sick: the dates, no symptoms, a real route for urgent cases since nobody covers, and the rebooking work taken off patients."
   },
@@ -74,14 +74,14 @@
   },
   {
    "id": "out-of-office-and-away-messages-011",
-   "situation": "I'm based in London and I'll be at a conference in Singapore from Oct 12 to 16, back at my desk Monday Oct 19. I'll check Slack once a day around 10am UK time. My teammate Priya Shah covers incidents. I want a Slack status and a short note in the team channel.",
-   "reply": "At a conference in Singapore 12 to 16 October, back at my desk Monday 19 October. I check Slack once a day, around 10am UK time, so expect replies then. For incidents or anything that can't wait until that check, go to Priya Shah.",
+   "situation": "I'm Nadia and I sell handmade jewellery from home; customers message me through my website, and my home address is on old invoices. I'm on holiday from Monday 12 October to Friday 16 October and back Monday 19 October; the shop stays open and anything ordered while I'm away ships on Tuesday 20 October. I don't want the auto-reply to say the house is empty or that I'm abroad.",
+   "reply": "Thanks for your message. I'm not answering messages until Monday 19 October. The shop is open as usual, and anything ordered before then ships on Tuesday 20 October. I'll reply to everything else on the 19th. Nadia",
    "lang": "en",
-   "note": "Partly available is its own promise: say exactly when you look, in the reader's time zone, and name the cover once."
+   "note": "When the business address is your home, say when you'll reply, not that you're away or where: the date and what happens to orders are all a customer needs."
   },
   {
    "id": "out-of-office-and-away-messages-012",
-   "situation": "I'm Lily Chen and I run export sales at a furniture factory in Foshan. We close for National Day from Oct 1 to 8 and I'm back Friday Oct 9. Confirmed orders already have the holiday built into their ship dates, but overseas buyers worry every year. Our freight forwarder, Leo Zhang at Pearl Freight (leo.zhang@example.com), stays open for anything already at the port.",
+   "situation": "I'm Lily Chen and I run export sales at a furniture factory in Foshan. We close for National Day from Oct 1 to 8 and I'm back Friday Oct 9. Confirmed orders already have the holiday built into their ship dates, but overseas buyers worry every year. Our freight forwarder, Leo Zhang at Pearl Freight (leo.zhang@example.com), stays open for anything already at the port. New quotes will get answers by Tuesday Oct 13.",
    "reply": "Our factory is closed for China's National Day holiday from 1 to 8 October, and I'm back on Friday 9 October. Confirmed orders ship on the dates in your contract; the holiday is already built in. New quotes will be answered by Tuesday 13 October. For a shipment already at the port, please contact Leo Zhang at Pearl Freight, leo.zhang@example.com. Lily Chen, Export Sales",
    "lang": "en",
    "note": "For a public holiday abroad, answer the buyer's real worry (does my shipment move?) before anything else."
@@ -130,10 +130,10 @@
   },
   {
    "id": "out-of-office-and-away-messages-019",
-   "situation": "Ich bin Jan Keller, selbstständiger Installateur in Kassel, ohne Angestellte. Vom 12. bis 23. Oktober bin ich im Urlaub und ab Montag, 26. Oktober, wieder da. Mein Kollege Stefan Brandt von einem anderen Betrieb übernimmt Notfälle wie Rohrbruch oder Heizungsausfall unter 030 23125 456, und ich brauche eine Ansage für meine Mailbox.",
-   "reply": "Guten Tag, hier ist die Mailbox von Installateur Jan Keller. Ich bin vom 12. bis 23. Oktober im Urlaub und ab Montag, 26. Oktober, wieder erreichbar; Nachrichten höre ich erst dann ab. Bei einem Notfall wie Rohrbruch oder Heizungsausfall rufen Sie bitte Stefan Brandt an: 030 23125 456. Ich wiederhole: 030 23125 456. Wenn Sie Gas riechen, verlassen Sie das Haus und rufen Sie den Notruf. Vielen Dank.",
+   "situation": "Ich bin Jan Keller, selbstständiger Installateur in Kassel, ohne Angestellte. Vom 12. bis 23. Oktober bin ich im Urlaub und ab Montag, 26. Oktober, wieder da. Mein Kollege Stefan Brandt von einem anderen Betrieb übernimmt Notfälle wie Rohrbruch oder Heizungsausfall; Anrufer werden mit der Taste 1 direkt zu ihm weitergeleitet, und ich brauche eine Ansage für meine Mailbox.",
+   "reply": "Guten Tag, hier ist die Mailbox von Installateur Jan Keller. Ich bin vom 12. bis 23. Oktober im Urlaub und ab Montag, 26. Oktober, wieder erreichbar; Nachrichten höre ich erst dann ab. Bei einem Notfall wie Rohrbruch oder Heizungsausfall drücken Sie bitte die 1, dann werden Sie direkt mit meinem Kollegen Stefan Brandt verbunden. Ich wiederhole: Taste 1 für Notfälle. Wenn Sie Gas riechen, verlassen Sie das Haus und rufen Sie den Notruf. Vielen Dank.",
    "lang": "de",
-   "note": "Eine Mailbox-Ansage hört man nur einmal: Rückkehrdatum, ob abgehört wird, die Notfallnummer zweimal, und bei Gasgeruch zuerst der Notruf."
+   "note": "Eine Mailbox-Ansage hört man nur einmal: Rückkehrdatum, ob abgehört wird, den Weg zum Notdienst zweimal, und bei Gasgeruch zuerst der Notruf."
   },
   {
    "id": "out-of-office-and-away-messages-020",
@@ -207,10 +207,10 @@
   },
   {
    "id": "out-of-office-and-away-messages-030",
-   "situation": "我是一家律所的行政主管，产假结束后先上半天班：10月12日到11月27日（周五），每天上午9点到12点，11月30日（周一）起恢复全天。下午不看邮件，下午的急事由同事何蕾（helei@example.com）处理。想设一个邮件自动回复，不想写原因。",
-   "reply": "您好，10月12日至11月27日，我每天上午9点到12点上班，下午不查看邮件，下午收到的邮件我会在下一个工作日上午处理。下午如有急事，请联系何蕾（helei@example.com）。11月30日（周一）起恢复全天办公。谢谢！",
+   "situation": "我是独立接单的上门护理员小周，照顾三位独居老人，每天上门帮他们吃药和洗漱。10月12日到14日我要回老家，这三天由同行李姐（电话13800000047）照常上门，时间不变，她已经跟我上过一次门；15日起我照常上门。想给三家家属发一条微信消息，也设成自动回复。",
+   "reply": "您好，我10月12日至14日回老家，这三天由李姐照常上门，时间不变，吃药和洗漱都按平时的安排，她已经跟我上过一次门。有事请直接打李姐的电话：13800000047。老人如果摔倒、胸痛或叫不醒，请马上拨打120。15日起我照常上门。小周",
    "lang": "zh",
-   "note": "阶段性半天上班：写清哪段时间在、什么时候回复、急事找谁，以及哪天恢复，原因不用写。"
+   "note": "照护类的不在消息：谁来替班、时间变不变、紧急情况打120，三件事一件都不能少。"
   },
   {
    "id": "out-of-office-and-away-messages-031",

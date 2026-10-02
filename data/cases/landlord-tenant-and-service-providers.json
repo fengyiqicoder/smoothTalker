@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -260,6 +260,13 @@
    "reply": "Dear Fairholm Estates,\nThis is a formal request about the lift at Linden Court, which has been out of order since Monday 21 September. I reported it by email that day and again on 28 September, and was told parts are on order. My mother lives with us in flat 61 on the sixth floor, uses a wheelchair, and hasn't been able to leave the flat since it broke. Under the lease, the landlord maintains the common parts, including the lift. Please confirm a repair date by Tuesday, and let me know what you can arrange in the meantime for residents who can't use the stairs.\nThanks,\nRuth",
    "lang": "en",
    "note": "If your mum needs urgent medical help, call emergency services and tell them the lift is out; check the lease wording before citing it."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-038",
+   "situation": "家里的全屋定制柜子是一家小装修公司做的，合同总价6.8万，已付5万，尾款1.8万约定验收后付。上周验收没问题，老板周总说尾款付现金、不开发票的话可以少收1000元。我想按合同转账付全款1.8万，请他开发票，再把合同里写的柜体保修5年出一张书面保修卡。",
+   "reply": "周总，柜子装得很好，验收也都没问题，谢谢您和师傅们。尾款我还是按合同来：1.8万全款转账到公司账户，麻烦您开一张发票。少收1000元的好意心领了，我这边需要凭证，以后保修也有据可查。另外合同里写的柜体保修5年，也请您出一张书面保修卡。您把公司账户发我，我当天就转，发票和保修卡下周内给我就行。",
+   "lang": "zh",
+   "note": "谢绝现金折扣不必讲道理或指责对方，只说自己需要凭证和保修依据；付款和保修以合同为准。"
   }
  ]
 }

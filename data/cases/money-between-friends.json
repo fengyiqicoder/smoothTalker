@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -260,6 +260,13 @@
    "reply": "Thanks for the offer, Rowan, that's kind, but I don't snowboard, so it would just sit in my hallway. I'd rather keep it simple with the $400 for the cabin. No need to do it all at once: how about $100 on the 1st of each month from November? My Venmo is @dana-hill, and then it's all done by February.",
    "lang": "en",
    "note": "Turn down payment in kind lightly, then make the cash easy with a small dated plan."
+  },
+  {
+   "id": "money-between-friends-038",
+   "situation": "In March I lent my friends Ana and Ben, who were a couple then, $600 for the deposit on their flat, and they said they'd pay it back by the end of the summer. They split up in August, neither has mentioned it, and I'm still friends with both. I'd like to message each of them separately and ask for $300 each by the end of November, by bank transfer; they both have my details.",
+   "reply": "Hey Ana, I hope you're doing okay. A bit of admin I'd rather sort now than let drift: the $600 I lent you and Ben in March for the flat deposit. I'm suggesting $300 each, by the end of November, by bank transfer to the details you already have. I'm sending Ben the same message, so you don't need to sort it out between you. If a different split or timing works better for you, just say.",
+   "lang": "en",
+   "note": "After a breakup, ask each person separately for an equal share in the same words, so neither has to deal with the other about it."
   }
  ]
 }

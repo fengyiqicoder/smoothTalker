@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -260,6 +260,13 @@
    "reply": "Oi, Marina! Comprei num sebo aqui de BH um Grande Sertão: Veredas com uma dedicatória à mão: 'Para a minha Marina, leia devagar. Vó Dalva, 2009.' Vi você falar da sua avó Dalva nas resenhas e fiquei pensando: esse livro é seu? Se for, adoraria te mandar pelo correio, por minha conta. Se não for, desculpa o engano e boas leituras!",
    "lang": "pt",
    "note": "Uma pergunta de sim ou não, nada pedido em troca e uma saída fácil; se ela não responder, não insista."
+  },
+  {
+   "id": "first-message-to-stranger-038",
+   "situation": "上周五晚上在地铁站出口听到一个街头歌手弹吉他唱歌，有一首写外婆家老房子的原创歌，我站着听完了，副歌里那句“灶台上的灯一直亮着”到现在还在脑子里转。他琴盒上贴着短视频账号“阿远在路口”，我想私信问问这首歌叫什么、有没有在哪儿发布。",
+   "reply": "你好，上周五晚上在地铁站出口听你唱了那首写外婆家老房子的歌，我站着听完了，“灶台上的灯一直亮着”那句到现在还在我脑子里转。想问一句：这首歌叫什么名字，有在哪儿发布吗？没空回也完全没关系。",
+   "lang": "zh",
+   "note": "给街头表演者的第一条私信：说清在哪儿听到、记住了哪一句，只问一个好回答的问题，不顺带提别的要求。"
   }
  ]
 }

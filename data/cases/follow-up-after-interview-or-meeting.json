@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -260,6 +260,13 @@
    "reply": "Hi Mr Haas,\nThank you for hearing me yesterday. Hearing that the winter programme is Dvořák's Eighth made me even keener to join. One correction to what I told you: I'm away for work on Thursday 12 and Thursday 19 November, so I'd miss those two rehearsals, and I'd rather you knew before you decide. I'd practise the parts at home to keep up. I'd love to play with the orchestra and look forward to hearing from you by Friday 9 October.\nBest wishes,\nElena Petrov",
    "lang": "en",
    "note": "The one thing a follow-up adds can be a correction about yourself; better now than at the first missed rehearsal."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-038",
+   "situation": "Ich bin Jana Weber. Gestern hatten wir in der Kita Sonnenblume ein Kennenlerngespräch mit der Leiterin, Frau Becker, für unseren Sohn Emil (2); besonders gefallen haben uns die Waldtage jeden Donnerstag, von denen sie erzählt hat. Sie sagte, die Plätze werden bis Ende Oktober vergeben, die Eingewöhnung beginnt frühestens im Januar, und sie braucht noch Emils Impfnachweis, den ich inzwischen eingescannt habe.",
+   "reply": "Liebe Frau Becker,\nvielen Dank für das Kennenlerngespräch gestern. Die Waldtage jeden Donnerstag gehen uns seitdem nicht aus dem Kopf; genau so etwas wünschen wir uns für Emil. Anbei wie besprochen sein Impfnachweis. Wir wissen, dass die Plätze bis Ende Oktober vergeben werden und die Eingewöhnung frühestens im Januar beginnt, und würden uns sehr über einen Platz freuen. Wenn Sie noch etwas von uns brauchen, melden Sie sich gern.\nViele Grüße\nJana Weber",
+   "lang": "de",
+   "note": "Nach einem Kita-Gespräch wie nach einem Vorstellungsgespräch: ein konkretes Detail, das Fehlende gleich mitschicken, Interesse in einem Satz und vor Ende Oktober nicht nachhaken."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -260,6 +260,13 @@
    "reply": "赵先生您好，骑行中电机突然断电确实让人不放心，给您添麻烦了，抱歉。车还在一年保修期内，按店里的规定是包修不包退，全额退款这次做不了，但维修我们全包：麻烦您先发一段断电时的视频给我，收到后48小时内派师傅上门检测，修不好就免费给您换电机。检测之前，为了安全，建议您先别骑。",
    "lang": "zh",
    "note": "金额大时请对方提供视频是合理的；答案和替代方案放在前面，不争是不是骑法的问题，安全提醒放最后。"
+  },
+  {
+   "id": "handle-refund-request-038",
+   "situation": "I host a monthly supper club, $75 a seat; the booking terms say no refunds within 7 days, but seats can be passed to someone else. Sam booked two seats for this Saturday and just emailed that her partner is ill and they can't come, asking for the $150 back. There are four people on the waiting list, and I'm happy to refund her $75 for each seat I fill, the same day it's taken.",
+   "reply": "Hi Sam, sorry to hear your partner is ill, I hope they feel better soon. With Saturday this close I can't refund the seats outright, but there are four people on the waiting list, so I'll offer your two seats to them now and refund $75 for each one that's taken, the same day. You're also welcome to pass them to a friend instead. I'll let you know as soon as I hear back.",
+   "lang": "en",
+   "note": "When the terms say no, look for the route that costs you nothing: resell the seat and pass the money back."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -259,6 +259,13 @@
    "reply": "Tomás, about last Friday: you caught the overtime rate yourself, told me straight away and fixed it before the 8pm cut-off, so all 14 people were paid right. That's exactly what I want anyone on this team to do when something goes wrong, and it's a big part of why I trust your work.",
    "lang": "en",
    "note": "Praise the choice to flag it, with no 'but' and no lesson attached, so the next mistake gets raised just as fast."
+  },
+  {
+   "id": "give-and-receive-compliments-038",
+   "situation": "我30岁，上个月刚当上客服主管。组里的张姐45岁，干了十二年。上周有位客户为退货在电话里吵了二十分钟，我当时就在旁边，张姐一直没抬高声音，最后把退款和换货两个办法讲清楚让客户自己选，客户挂电话前还跟她道了谢。想在微信上私下夸她一句，又怕显得像在居高临下地打分。",
+   "reply": "张姐，上周那通退货电话我在旁边听完了。客户吵了二十分钟，您一直没抬高声音，最后把退款和换货两个办法讲清楚让他自己选，他挂电话前还跟您道了谢。这一招我得好好学。",
+   "lang": "zh",
+   "note": "夸比自己资深的人，也是说具体做法和效果；用“我得学”代替“做得不错”，就不像在打分。"
   }
  ]
 }

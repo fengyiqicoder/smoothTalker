@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -260,6 +260,13 @@
    "reply": "Hi Neil, thanks for following up, and I can see you'd like to know what tipped it. I'll skip the call: the short answer is that the other quote came in lower, and the decision is made. Thanks for the time you put into yours.",
    "lang": "en",
    "note": "After a decision, a call is a chance to reopen it; the one-line answer gives him what he asked for without that. If he pushes, repeat that the decision is made."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-038",
+   "situation": "我是组里的产品经理之一。每周二上午10点的项目例会，组长老郑这两个月每次都让我做会议纪要，整理一次大概要一个小时。我想提议大家轮流做，已经拟好轮值表放在共享文档里，按姓名拼音排，纪要模板也在里面。",
+   "reply": "郑哥，想跟你商量一下例会纪要的事：这两个月都是我在整理，每次大概要花一个小时。从下周起能不能大家轮流做？我拟好了轮值表放在共享文档里，按姓名拼音排，纪要模板也在里面，谁接手都很快。你看过觉得可以，我就发到群里。",
+   "lang": "zh",
+   "note": "拒绝的是“总是我”，不是纪要本身：说清花了多少时间，把替代方案做好摆出来，再请组长确认。"
   }
  ]
 }

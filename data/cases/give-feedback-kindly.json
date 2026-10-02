@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -260,6 +260,13 @@
    "reply": "Honestly? The art is gorgeous, and the moment the water tiles flipped was genuinely tense. The one thing that got me was the waiting: each turn took about five minutes, so I sat for nearly 20 between mine and drifted out of the game a bit. Would it be worth timing a few turns and looking for steps you could cut, or that everyone could do at once? I'm only saying it because I think this is close, and I want the publisher to feel that tension the whole way through.",
    "lang": "en",
    "note": "One point, framed as what the wait felt like as a player, with the fix left to her as the designer."
+  },
+  {
+   "id": "give-feedback-kindly-038",
+   "situation": "My 16-year-old daughter Ava is learning to drive, and after our practice drive on the highway today she asked me how she did. She checks her mirrors every time and her merging was smooth, but at 60 mph she sat about one car length behind the car in front, and I had to stop myself grabbing the dashboard. We're going out again on Saturday.",
+   "reply": "Honestly? Your mirror checks were spot on, every single time, and that merge was really smooth. The one thing I'd change is the gap: at 60 you were about a car length behind the car in front, and that doesn't leave you room if they brake hard. On Saturday, try picking a sign and counting three seconds after the car in front passes it before you get there. I'm only saying it because you're already driving like someone I'd happily ride with.",
+   "lang": "en",
+   "note": "When it's a safety point, that is the one point, said calmly once you've parked, not mid-merge; her instructor can confirm the right gap."
   }
  ]
 }

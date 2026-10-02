@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -260,6 +260,13 @@
    "reply": "Hi Owen, a heads-up that changes the timeline: I start maternity leave on Monday 30 November. To finish the app copy myself, I'd need your notes on the onboarding screens by Friday 16 October; if you're happy with them as they are, 'approved' is plenty. If that's too tight, my colleague Pia Hart, also a freelancer, could pick up the rest, and I'd brief her fully before I go. And if the project is on hold, just say so and I'll pause it. Which works best for you?",
    "lang": "en",
    "note": "A fixed date in your own life is a real deadline: say it once, offer the options, and don't start a handover until he picks one."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-038",
+   "situation": "I'm Priyanka, a freelance leadership trainer. I ran two workshops for Tom, HR director at Corvane Logistics, in the spring, and on Sept 8 sent him a $4,200 quote for a third in January; I followed up on Sept 18 and heard nothing. Last week Corvane announced it is cutting 15% of its staff, and I want to close this without seeming tone-deaf or pushy.",
+   "reply": "Hi Tom, I saw the news about the changes at Corvane, and I hope you and the team are holding up. Please don't give the January workshop another thought right now; I'll close it on my side so it's one less thing in your inbox. If it comes back up later, just reply to this thread. Wishing you all the best with everything. Priyanka",
+   "lang": "en",
+   "note": "When the silence has an obvious hard cause on their side, skip the rest of the sequence: acknowledge it once, close the file yourself and leave the door open."
   }
  ]
 }

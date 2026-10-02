@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -260,6 +260,13 @@
    "reply": "Arlo, I love your volcano questions, and now it's time for sleep. Save your best one for tomorrow, and we'll look it up together at the library after school. Night night, I love you.",
    "lang": "en",
    "note": "With a child, close it yourself and give the question somewhere to go; if he asks again, one line, 'tomorrow at the library', and leave the room."
+  },
+  {
+   "id": "end-conversation-gracefully-038",
+   "situation": "I livestream pottery on my channel every Tuesday, and I told viewers tonight's stream would end at 9. It's 9:30, my hands are done for the night, and the chat keeps asking 'one more question'. Next stream is Tuesday at 8pm, and I'm happy to start it with the questions I didn't get to.",
+   "reply": "Okay, chat, I'm going to wrap it there, we're half an hour over and my hands are done for the night. Thank you for hanging out and for all the great questions. I'll start next Tuesday's stream at 8pm with the ones I didn't get to. Night, everyone!",
+   "lang": "en",
+   "note": "With a live audience, close on the next date, then actually end the stream; answering 'one more' after the goodbye restarts it."
   }
  ]
 }

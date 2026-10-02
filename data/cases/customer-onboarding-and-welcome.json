@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -260,6 +260,13 @@
    "reply": "Hi Sam and Joe, thank you for booking your newborn session, I'm so looking forward to meeting your little one. Here's how it works: once the baby arrives, text me and we'll pick a day within the first two weeks for me to come to you. Before then, could you send me your address and where I can park by Friday 16 October? I'd also love to share a few of your photos on my website and social media, but only if you say yes in writing; if I don't hear a yes, nothing gets shared, and that's completely fine. Any questions, text me on 07700 900612 and I'll reply within a few hours. Leah",
    "lang": "en",
    "note": "Permission to share photos is opt-in: no reply means no, so the default protects the family, not the business."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-038",
+   "situation": "I'm Kai and I run Fade Room, a one-chair barbershop. A new client, Marcus, just booked his first cut for Thursday at 6pm, and my confirmations go out as one short text. The shop is above the bakery on Lane Street with the entrance round the side, and he can text me on 555-0147 to move the booking up to 24 hours before.",
+   "reply": "Hi Marcus, it's Kai at Fade Room, thanks for booking! You're in for Thursday at 6pm. We're above the bakery on Lane Street, entrance round the side. Need to move it? Text me here on 555-0147 up to 24 hours before. See you Thursday.",
+   "lang": "en",
+   "note": "In a single text, keep only the time, the way in and how to reach you; the side entrance is the detail that saves a lost first visit."
   }
  ]
 }

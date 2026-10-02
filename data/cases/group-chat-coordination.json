@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -260,6 +260,13 @@
    "reply": "表哥辛苦了，我家出500，算我们一份。提个小建议：有几家长辈不常看群，要不改成愿意参加的回个“1”，周五按回了“1”的家数来分？没回的我挨个打电话问问，问到之前先别算进去。",
    "lang": "zh",
    "note": "要大家掏钱时，沉默不算同意；群员也可以温和地把“不反对就算”改成“回1才算”，并主动接下补问的活。"
+  },
+  {
+   "id": "group-chat-coordination-038",
+   "situation": "I'm organising a cabin weekend, Friday 13 to Sunday 15 November, and 10 friends have said yes, but the cabin sleeps 8 in beds plus 2 on a sofa bed in the lounge. It's £800, so £80 each. The pub next door has a twin room for both nights at £90 in total, and I need to tell the owner our plan by Thursday.",
+   "reply": "Cabin weekend, 13 to 15 November: 10 of us are in, and the cabin sleeps 8 in beds plus 2 on the lounge sofa bed. Two options. A: all of us in the cabin; the two on the sofa bed pay £60 and everyone else £85. B: add the pub's twin room next door for both nights, £90, so it's £89 each and everyone gets a bed. Vote A or B by Wednesday 9pm; a tie or no votes means B. If A wins, sofa-bed volunteers message me privately.",
+   "lang": "en",
+   "note": "When there aren't enough beds, build the fairness and the prices into the options, so nobody has to argue for themselves in the group."
   }
  ]
 }

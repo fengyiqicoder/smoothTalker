@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -260,6 +260,13 @@
    "reply": "Hey Kenji, all okay? I'm outside with my bag. If I haven't heard from you by 5:25 I'll grab a taxi so I don't miss the flight, so no need to rush if you've overslept. Text me when you see this.",
    "lang": "en",
    "note": "With a hard deadline, set your cut-off early and say it out loud; the backup takes the pressure off both of you."
+  },
+  {
+   "id": "handle-no-show-or-lateness-038",
+   "situation": "上周六是好朋友小雨的婚礼，我是伴娘，说好早上6点到她家帮忙接亲。结果闹钟没响，我7点20才到，堵门差点没人，她妈妈临时叫了表妹顶上。我想认真道个歉，下周五晚上或周日中午我都有空，想请她和新郎吃顿饭。",
+   "reply": "小雨，上周六接亲我迟到了一个多小时，说好6点到，7点20才进门，真的对不起。闹钟没响不是理由，是我自己没多定一个。那天你们本来就忙，还害阿姨临时去叫表妹顶上堵门，给你们添了好多乱。下周五晚上或者周日中午，我请你和新郎吃顿饭好不好？你挑一个时间就行。",
+   "lang": "zh",
+   "note": "迟到的是自己：说清迟了多久、对方因此多做了什么，不找借口，再给两个具体时间的弥补，不让对方费心安排。"
   }
  ]
 }

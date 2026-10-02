@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -260,6 +260,13 @@
    "reply": "田中さん、話してくれてありがとうございます。皆の前で案を否定されて、つらい思いをしたのはよく分かります。ただ、私から伝言する形にはしたくありません。人を介すと、意図が変わって伝わりやすいからです。どちらが正しいかを判断するつもりもありません。来週木曜の定例の後に、ミュラーさんと3人で30分ほど時間をもらえませんか。議題は会議での意見の伝え方だけにして、一人ずつ最後まで話し、一つ合意して終わる形にしたいと思います。ミュラーさんにも同じように伝えます。",
    "lang": "ja",
    "note": "拠点や文化が違っても伝言役にはならず、同じ言葉で両方に声をかける。会議での振る舞いの基準は、リーダーとして別にはっきり示してよい。"
+  },
+  {
+   "id": "mediating-between-two-people-038",
+   "situation": "My partner Steve moved in with me in June, and my son Ollie, 19, still lives at home. They've been snapping at each other for weeks over dishes left in the sink and music after midnight, and tonight Ollie texted me: 'You always take his side, tell him to back off.' I want the three of us to agree some house rules on Sunday after dinner.",
+   "reply": "Ollie, I hear you, and I'm glad you told me rather than bottling it up. I can see why it might feel like I'm on Steve's side, so let me be clear: I'm not ruling on who's been worse, and I'm not going to pass messages between you two. This is still your home, and I want it to work for all three of us. Can we sit down on Sunday after dinner and agree a few house rules, just dishes and music late at night, each of us saying our piece without being interrupted? I'm saying exactly the same to Steve.",
+   "lang": "en",
+   "note": "Between your child and your partner, answer the 'you take his side' feeling directly, then move both to shared house rules in the same words."
   }
  ]
 }

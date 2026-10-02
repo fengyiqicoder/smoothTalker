@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -260,6 +260,13 @@
    "reply": "Subject: Guidance needed by Mon 5 Oct: Brookfield order date\nHi Ana, on Tuesday 29 September Derek asked me in a Slack DM to enter the Brookfield order ($62k) with a 30 September date so it counts toward Q3; the customer signed it on 1 October. I said no in the same thread and have kept the messages. I haven't raised this with Derek before writing, because our code of conduct says requests like this go straight to finance or the ethics line. Q3 books close on Tuesday 6 October. Could you confirm by Monday 5 October that the order is booked on its signed date, and tell me what you need from me? I can send the Slack messages today. Thanks, Sam Ortiz",
    "lang": "en",
    "note": "When the person you'd normally warn is the subject, say why you didn't; follow your company's reporting policy, and check it for any protection it gives people who report."
+  },
+  {
+   "id": "escalate-an-issue-038",
+   "situation": "Je suis Claire Dubois, maman bénévole à l'US Ternay, le club de foot de mon fils. Les licences de six enfants de l'équipe U11 ne sont toujours pas envoyées à la ligue : l'entraîneur, Karim, a les dossiers depuis le 12 septembre, je lui ai écrit le 21 et le 28 et il répond « je m'en occupe ». Sans licence avant le vendredi 16 octobre, ces six enfants ne pourront pas jouer en championnat ; j'ai prévenu Karim que j'écris au président du club, M. Lefèvre, et je peux déposer les dossiers moi-même si besoin.",
+   "reply": "Objet : Licences U11 à envoyer avant le vendredi 16 octobre\nBonjour Monsieur Lefèvre, les licences de six enfants de l'équipe U11 n'ont pas encore été envoyées à la ligue. Karim a les dossiers depuis le 12 septembre ; je lui ai écrit le 21 et le 28 septembre, et il sait que je vous écris aujourd'hui. Ce n'est pas un reproche contre lui, c'est une question de date : sans licence avant le vendredi 16 octobre, ces six enfants ne pourront pas jouer en championnat. Pourriez-vous faire envoyer les dossiers d'ici le vendredi 9 octobre, ou me dire qui peut s'en charger ? Je peux les déposer moi-même si cela aide.\nMerci,\nClaire Dubois",
+   "lang": "fr",
+   "note": "Dans un club de bénévoles, l'escalade porte sur la date, pas sur la personne : prévenir l'entraîneur d'abord et proposer de faire le travail soi-même."
   }
  ]
 }

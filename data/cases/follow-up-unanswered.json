@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -260,6 +260,13 @@
    "reply": "表叔好，知道您平时忙，微信消息一多就容易被刷下去。还是11月21日我婚宴的事，想问问您一家三口方便来吗？酒店要11月10日前报桌数，您回个“来”或者“来不了”就行，打字不方便发条语音也可以。来不了也完全没关系。",
    "lang": "zh",
    "note": "长辈不常看微信，就把回复缩成一两个字；这次还没回，就直接打电话问，别把沉默当成来或不来。"
+  },
+  {
+   "id": "follow-up-unanswered-038",
+   "situation": "I'm Ruth and I teach piano privately. Six days ago I texted Mrs Lin, whose son Daniel has the Wednesday 4:30 lesson, asking whether he's carrying on after half-term; she's read it but not replied. Another family has asked about a Wednesday slot, and I'd like to know by next Friday so I can tell them.",
+   "reply": "Hi Mrs Lin, I know the weeks fill up fast. A quick one about Daniel's Wednesday 4:30 lesson: is he carrying on after half-term? A yes or a no is all I need, and either is completely fine. Another family has asked about a Wednesday slot, so an answer by next Friday would help me plan. Ruth",
+   "lang": "en",
+   "note": "Her silence isn't a no: if nothing comes by Friday, ask once more before offering the slot, rather than giving it away unannounced."
   }
  ]
 }

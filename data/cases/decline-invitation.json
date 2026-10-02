@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -260,6 +260,13 @@
    "reply": "Querida Montse, muchas gracias por acordaros de mi madre para el 50 aniversario, me ha emocionado de verdad. Pilar no podrá ir al concierto del sábado 24 de octubre: con el alzhéimer, un sitio con tanta gente la altera mucho. Quiero que sepáis que hasta hace poco seguía cantando vuestras canciones en casa. Os deseo un concierto precioso.",
    "lang": "es",
    "note": "Al declinar en nombre de otra persona, basta un motivo breve y verdadero, sin más detalle médico del necesario; el cariño va a lo que el coro significó para ella."
+  },
+  {
+   "id": "decline-invitation-038",
+   "situation": "我在一个线上读书会认识了网友“木子”，我们只在线上聊了半年，从没见过面。她邀请我国庆后去成都玩三天，住她家。我不想去，但还想继续在读书会里聊；下周四晚上的线上读书会我照常参加。",
+   "reply": "木子，谢谢你邀请我去成都，还想着让我住你家，这份心意我收到了。这次我就不去了。下周四晚上的读书会我照常来，咱们接着聊。",
+   "lang": "zh",
+   "note": "不想去就不用编理由；以后真想见网友，选白天的公共场所，住自己订的地方，并把行程告诉家人或朋友。"
   }
  ]
 }

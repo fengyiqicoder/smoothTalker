@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -259,6 +259,13 @@
    "reply": "Hi Jade, thanks for reaching out about the V2, and $2,500 with 30 days of organic usage works for me. The one condition I can't accept is taking down the V1 review: my channel runs on honest reviews, so it stays up. What I can do is pin a comment on it linking to the V2 video, so viewers find the new model, and your team is welcome to fact-check the script before it goes live. Would that work for you?",
    "lang": "en",
    "note": "Refuse the condition, not the deal: an honest past review isn't something a sponsorship can buy, and the new video is labelled as sponsored like any other."
+  },
+  {
+   "id": "creator-brand-deal-reply-038",
+   "situation": "I post baking videos on Instagram, 38k followers. Joanna from a stand mixer brand, Whiskwell, asked me to host a giveaway of one of their mixers, with entry by following both accounts and tagging three friends, but no fee for me. My rate for a giveaway is $500 for one feed post plus a reminder story, labelled as a paid partnership, with the brand shipping the prize straight to the winner and providing written giveaway terms I can link in the caption.",
+   "reply": "Hi Joanna, thanks for thinking of me, I'd love my followers to have a chance at a Whiskwell mixer. A giveaway is still sponsored content for me, so my rate is $500 for one feed post plus a reminder story, labelled as a paid partnership. Whiskwell would ship the prize straight to the winner, and I'd need your written giveaway terms, such as who can enter and the closing date, to link in the caption. If that works, could you send me the dates you have in mind?",
+   "lang": "en",
+   "note": "A prize for followers is not a fee for the creator; giveaway rules differ by platform and country, so check the platform's promotion rules and who runs the draw."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -260,6 +260,13 @@
    "reply": "Hi Ben, thank you for the offer, and for the time you and the team put into the process; my conversation with Grace about how her team tests releases was a real highlight. Since the deadline can't move past 5pm today, and I need until Monday to finish another process I'm in, I'm going to decline. I'd rather tell you clearly now than say yes without being sure. I'd be glad to stay in touch. Best, Ana",
    "lang": "en",
    "note": "When an offer comes with a deadline you can't meet, decline cleanly and say why; accepting and backing out later costs them far more."
+  },
+  {
+   "id": "decline-offer-or-candidate-038",
+   "situation": "Mi tío Ramón me ha ofrecido ser jefa de compras en la fábrica de muebles de la familia en Murcia, que fundó mi abuelo, para empezar en enero. Yo quiero seguir con mi trabajo de ingeniera en Madrid. Desde hace un año le ayudo a revisar las fichas del catálogo online un sábado al mes, y eso lo puedo seguir haciendo.",
+   "reply": "Tío Ramón, gracias de corazón por la oferta y por la confianza; que pienses en mí para el puesto de jefa de compras me hace mucha ilusión. Lo he pensado bien y te voy a decir que no: quiero seguir con mi trabajo de ingeniera en Madrid. La fábrica que fundó el abuelo merece a alguien que esté en Murcia al cien por cien. Si te sirve, sigo ayudándote con las fichas del catálogo online un sábado al mes, como hasta ahora.",
+   "lang": "es",
+   "note": "Con la familia, el no llega igual de pronto; la ayuda que se ofrece es la que ya das, no una promesa nueva."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -260,6 +260,13 @@
    "reply": "小何，想跟你聊聊周报邮件的事，方便吗？上周那封里，“供应商可能延期两周”写在最后一段，王总监没看到，周一开会才知道，当场有点不高兴。你做事细，这一点我一直放心，问题是最要紧的事被埋在了后面。你写的时候是怎么安排顺序的？以后周报开头先用三行写风险和需要领导决定的事，细节放后面。下一封发出去之前，我们一起看一眼。",
    "lang": "zh",
    "note": "说清是哪一封、造成了什么影响，先问他的考虑，再给一个下一封就能照做的格式。"
+  },
+  {
+   "id": "give-feedback-to-colleague-038",
+   "situation": "I'm Yusuf, a QA engineer. My calendar has Fridays 1 to 2pm blocked for Friday prayers, but Kate, a product manager at my level who schedules our sprint reviews, has booked them over that slot on the last three Fridays, so I've missed each review and my test results went in with nobody from QA there to answer questions. I want to raise it with her privately on a call on Monday.",
+   "reply": "Hi Kate, can I give you some feedback on sprint review timing? The last three reviews have landed on Fridays at 1pm, which is blocked on my calendar for Friday prayers, so I've missed all three and my test results went in with nobody from QA there to answer questions. I don't think it's been deliberate. What's your read on how the slot gets picked? Could we keep the review outside 1 to 2pm on Fridays, starting with the next one? Let's check after the next two sprints that it's working.",
+   "lang": "en",
+   "note": "Keep it on the calendar block and the impact on the work, not on your faith; if it carries on after this, raise it with your manager."
   }
  ]
 }
