@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -224,6 +224,13 @@
    "reply": "Hi Laura, thanks for letting me know, and for being clear about the reason. I really enjoyed the pairing exercise with Kim. I understand about sponsorship. If Pellow's position on sponsoring visas ever changes, would you let me know? I'd be glad to talk again.\nArjun",
    "lang": "en",
    "note": "A structural no isn't about you: don't argue for an exception, just leave one easy door open."
+  },
+  {
+   "id": "respond-to-job-rejection-033",
+   "situation": "我叫阿禾，做手工冷泡茶包。上个月给杭州一家买手店“山野集”寄了样品，主理人林姐亲自试喝了，还在电话里花二十分钟给我提了包装建议。今天她微信说这次不进货，今年店里茶类已经有两个品牌了。我明年春天会出新包装，想以后还能合作。",
+   "reply": "林姐，谢谢您告诉我，也谢谢您亲自试喝样品，还花二十分钟给我提包装建议，我都记下了。今年茶类已经满了，我理解。明年春天我会出新包装，到时候可以再给您寄一份样品吗？不方便的话不用回我。祝店里生意越来越好。阿禾",
+   "lang": "zh",
+   "note": "买手店不进货：她已经给了原因，就不再问为什么，谢具体的事，只提一个带时间点的小请求。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -225,6 +225,13 @@
    "reply": "Hi Ella, thanks for messaging this morning, I appreciate it. Last night was a tricky one: with no word by 6:30, I ended up missing Sam's work dinner. You've been brilliant with the kids for a year and we'd love to keep you. From now on, could you send me a quick text the day before each booking to confirm? The next one is Saturday 10 October at 7pm, so a message on Friday would be perfect, and if I haven't heard by Friday evening I'll find cover for that night, no hard feelings.",
    "lang": "en",
    "note": "A young, apologetic first slip: name the cost once, keep her, and fix it with a small system rather than a lecture."
+  },
+  {
+   "id": "handle-no-show-or-lateness-033",
+   "situation": "I'm Tom, and I'm meeting my girlfriend Aisha's parents for the first time at Sunday lunch at their house at 1pm. My train is delayed and I'll arrive around 1:40. Aisha is already there, and I have her mum Farida's number; it's 12:45 now.",
+   "reply": "Hi Mrs Rahman, it's Tom. My train is delayed, so I'll be about 40 minutes late and at your door around 1:40. I'm really sorry, especially for a first visit. Please don't hold lunch for me, and I'll text again if anything changes.",
+   "lang": "en",
+   "note": "Warn before the start time, give a real arrival time and release them from waiting; one apology is enough, save the rest for in person."
   }
  ]
 }

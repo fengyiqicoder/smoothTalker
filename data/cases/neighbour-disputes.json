@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -225,6 +225,13 @@
    "reply": "Hi Rachel and Tom, it's Owen from number 3. I've seen the plans for your extension, and I can see why you want the space. Looking at the drawings, the two-storey part runs about 4 metres along our boundary, and it would shade our kitchen and patio in the afternoons. Before I send anything to the planning team, I'd much rather talk it through with you: would you consider stepping the upper floor back, or keeping that part single storey? Could we have a cup of tea this weekend? The comment deadline is Friday 16 October, so I wanted you to hear this from me first.",
    "lang": "en",
    "note": "Raise it with them before the formal comment, and tell them the comment is coming; check your council's guidance on what planning comments can cover."
+  },
+  {
+   "id": "neighbour-disputes-033",
+   "situation": "我是302的小林。楼上402每天早上把刚洗好的衣服直接挂到窗外晾，水一直往下滴，落在我家阳台外晾的被子和衣服上，这周已经有三次得重洗。还没跟他们说过话，想先留张字条。",
+   "reply": "402的邻居您好，我是楼下302的小林，一直没正式打过招呼。您家早上晾到窗外的衣服会往下滴水，正好落在我家阳台外晾的被子和衣服上，这周已经有三次得重洗，您在楼上应该看不到。以后能麻烦您衣服多甩干一遍再挂出去吗？我们家要是有什么打扰到您的，也请直接跟我说。",
+   "lang": "zh",
+   "note": "只提一个对方马上做得到的小请求，不要求别在窗外晾；没改善再找物业，并提前跟对方说一声。"
   }
  ]
 }

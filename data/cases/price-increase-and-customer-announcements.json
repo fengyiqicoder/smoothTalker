@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -225,6 +225,13 @@
    "reply": "各位好，我是晨光酸奶的小周。跟大家说一个变化：从11月1日起，我们的酸奶改用青禾牧场的普通鲜奶，不再是有机奶，价格从每杯15元降到13元。原因是牧场停了有机奶线。配方和做法都不变，详情页的“有机”字样也会在同一天删掉。已经买了10次卡的朋友，剩余次数每次退2元差价，11月底前微信转给大家，不用做任何操作。有问题直接私信我。谢谢大家一直以来的支持。小周",
    "lang": "zh",
    "note": "原料变了就第一句说清，哪怕价格降了也不能悄悄换；已付钱的客户按新价自动退差。"
+  },
+  {
+   "id": "price-increase-and-customer-announcements-033",
+   "situation": "I'm Hannah Moss, a counsellor in private practice. From Monday 4 January 2027 my session fee goes from $110 to $125, my first increase in four years, because rent and professional insurance went up; sessions themselves stay the same. I keep four reduced-fee places at $80 that existing clients can ask about in confidence, and anyone who decides to stop or move will get my help finding another counsellor. I'm emailing each current client, starting with Jordan.",
+   "reply": "Hi Jordan,\nFrom Monday 4 January 2027, my session fee goes from $110 to $125. It's my first increase in four years, and it covers higher rent and professional insurance. Nothing about our sessions changes. I keep four reduced-fee places at $80; if the new fee is hard for you, you can ask me about one in confidence, by reply or when we meet. And if you decide to stop or move, I'll help you find another counsellor so you're not left without support.\nHannah",
+   "lang": "en",
+   "note": "In a care relationship, give long notice, put the hardship route in every client's letter, and make leaving safe as well as easy."
   }
  ]
 }

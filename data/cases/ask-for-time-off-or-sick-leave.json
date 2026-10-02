@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -225,6 +225,13 @@
    "reply": "Hola Lucía, quería pedirles libre del lunes 23 al viernes 27 de noviembre para ir a Colombia a la graduación de mi hija. Volvería el lunes 30. Mi prima Daniela, que ya cuidó a los niños en agosto, puede cubrirme esa semana si les parece bien. ¿Me lo pueden confirmar antes del viernes 9 de octubre para comprar el billete?",
    "lang": "es",
    "note": "Cuando el empleador es una familia, el mensaje es el mismo: fechas primero, quién cubre y una pregunta cerrada."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-033",
+   "situation": "9月26、27日那个周末为了赶客户的投标书加了两天班，领导许总当时在飞书上说可以调休两天。我想调10月15日周四和16日周五，19日周一回来。这两天我没有会，客户那边的消息同事小吴答应帮我回。",
+   "reply": "许总，9月26、27日那个周末赶投标书加了两天班，按您当时说的可以调休，我想调10月15日周四和16日周五两天，19日周一回来上班。这两天我没有会，客户那边的消息小吴答应帮我回。您看可以的话，我今天就在系统里提交调休申请。",
+   "lang": "zh",
+   "note": "调休是兑现已有的约定：引用当时的说法、写清日期和交接，但仍等领导确认，没回复不等于同意；具体怎么记以公司制度为准。"
   }
  ]
 }

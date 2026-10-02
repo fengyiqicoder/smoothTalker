@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -225,6 +225,13 @@
    "reply": "Thanks for reaching out, Marco, the role sounds interesting. Since I'm in a permanent job now, two things before we book a call: what's the hourly rate, and what are the conversion terms? My floor for a contract move is $75 an hour, and I'd need the conversion terms in writing. If those line up, I'm free Wednesday 7 October after 4pm.",
    "lang": "en",
    "note": "Contract-to-hire trades your security for a promise, so get the rate and the conversion terms before the call."
+  },
+  {
+   "id": "respond-to-recruiter-033",
+   "situation": "A recruiter, Ben, messaged me on LinkedIn about a head of payments role at Luckstone, an online betting company. The pay sounds great, but I don't want to work in gambling, and I don't want to lecture him about it. I'd be open to payments roles in fintech or e-commerce.",
+   "reply": "Thanks for reaching out, Ben. This one's a no from me: betting isn't an industry I want to work in. I'd be glad to hear about payments roles in fintech or e-commerce, though.",
+   "lang": "en",
+   "note": "A values-based no needs one neutral line, not a justification; naming the door you do want open keeps the recruiter useful."
   }
  ]
 }

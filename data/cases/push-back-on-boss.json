@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -225,6 +225,13 @@
    "reply": "周总，这份合同我也想让您签之前看得明明白白。问题是30页的法律条款，我不是专业翻译，万一哪句译错，签约时可能吃亏。两个办法：一是全文交给翻译公司，3个工作日能交，报价2400元；二是同样交翻译公司，另外我10月9日（周五）前先把付款、违约和终止几条关键条款整理成中文摘要给您，您先看重点。我建议第二个。您看选哪个？",
    "lang": "zh",
    "note": "超出能力范围的活，不是推掉，而是说清风险、给出靠谱的替代方案让老板选；合同条款最终以专业翻译或律师意见为准。"
+  },
+  {
+   "id": "push-back-on-boss-033",
+   "situation": "My boss Owen wants me to tell our client, Brookhaven Housing, that their tenant data portal will be ready on Friday 23 October. My realistic estimate is Friday 6 November, because the data import alone is about eight working days. I could deliver search and the map view by 23 October with exports on 6 November, or we tell them 6 November for the whole thing.",
+   "reply": "Owen, I want Brookhaven to see this land on time as much as you do. The catch is the data import: it's about eight working days on its own, so the full portal realistically lands on Friday 6 November, and I'd rather not promise them a date I know we'll miss. Two options: we tell them search and the map view on Friday 23 October and exports on 6 November, or we give them 6 November for the whole thing. I'd recommend the first, so they have something real on the 23rd. Which would you prefer?",
+   "lang": "en",
+   "note": "Pushing back on a promise to a client protects you both; once he picks, confirm the date in writing before it goes to Brookhaven."
   }
  ]
 }

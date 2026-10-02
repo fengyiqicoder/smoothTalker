@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -225,6 +225,13 @@
    "reply": "阿哲，最后打扰一次播客的事。我就当这阵子时间不合适，不再催你了。以后哪天想聊聊开民宿这几年，随时找我。",
    "lang": "zh",
    "note": "第三次也是最后一次：自己把这件事收尾，留一个以后的口子；之后他还不回，就不再发了。"
+  },
+  {
+   "id": "follow-up-unanswered-033",
+   "situation": "I'm Daniel Reyes. On Sept 8 I filed a home insurance claim with Harbourline Insurance for a burst pipe that ruined my hallway floor, claim number HL-48213. The handler, Ms Okafor, emailed on Sept 14 that an assessor would contact me within 10 working days; nobody has, and my email on Sept 25 got no reply. I'm free for a visit any weekday after 3pm.",
+   "reply": "Hi Ms Okafor,\nI know claims teams are stretched. Following up on claim HL-48213, the burst pipe and hallway floor, filed on 8 September. Your email of 14 September said an assessor would be in touch within 10 working days, and I haven't heard from anyone yet. Could you give me a date for the visit, or the assessor's contact details so I can arrange it directly? I'm free any weekday after 3pm.\nThanks,\nDaniel Reyes",
+   "lang": "en",
+   "note": "Claim number in the first line, dates of each contact, and two easy ways to answer; if this gets nothing, ask how to raise a complaint under the policy."
   }
  ]
 }

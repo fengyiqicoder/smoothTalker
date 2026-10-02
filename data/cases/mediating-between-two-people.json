@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -225,6 +225,13 @@
    "reply": "Can I pause us for a second? Grace, would you stay a few more minutes? Hannah, I can hear the wedding still really hurts, and it deserves its own conversation, just not today. We came here for Grandma's visits, so let's try to agree on one thing: who goes this Sunday. If you two want to talk about the wedding another time, I'm happy to help set that up.",
    "lang": "en",
    "note": "When old history hijacks a joint conversation, name it kindly, park it for another day and steer back to the one agreed topic."
+  },
+  {
+   "id": "mediating-between-two-people-033",
+   "situation": "My friends Marta and Jo haven't spoken in two months since a fight about Jo's wedding guest list. This week each of them separately told me they miss the other but won't make the first move. Now Jo has texted me: 'Has Marta said anything about me?'",
+   "reply": "I'm not going to pass on what either of you says to me, Jo, so I can't answer that one, and I'd say exactly the same to Marta. What I can say is that you clearly miss her. If you want to know where she stands, a short message from you is the way to find out, and I'm happy to help you word it.",
+   "lang": "en",
+   "note": "Even when the news is good, keep the confidence; nudge each of them towards the first move without hinting at what the other said."
   }
  ]
 }

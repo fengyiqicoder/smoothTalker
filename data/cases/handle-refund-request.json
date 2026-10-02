@@ -4,8 +4,8 @@
  "cases": [
   {
    "id": "handle-refund-request-001",
-   "situation": "I sell handmade leather wallets online. A customer bought one 5 weeks ago (my window is 30 days) and wants a refund because the stitching came loose on one side. $85.",
-   "reply": "Sorry the stitching came loose on the side, that shouldn't happen at five weeks. It's past the 30-day return window, but loose stitching is a defect, so that one's on me: I'll restitch it or send you a new wallet, whichever you prefer, and I'll cover the postage both ways. Just tell me which and I'll send a prepaid label today.",
+   "situation": "I sell handmade leather wallets online. A customer bought one 5 weeks ago (my window is 30 days) and wants a refund because the stitching came loose on one side. $85. I'm happy to refund it in full, restitch it or send a new one, and to cover postage both ways with a prepaid label.",
+   "reply": "Sorry the stitching came loose on the side, that shouldn't happen at five weeks. It's past the 30-day return window, but loose stitching is a defect, so that one's on me: I can refund the $85, restitch it or send you a new wallet, whichever you prefer, and I'll cover the postage both ways. Just tell me which and I'll send a prepaid label today.",
    "lang": "en",
    "note": "A defect isn't a change of mind, so the window isn't the point. Fix it fast and generously."
   },
@@ -18,78 +18,78 @@
   },
   {
    "id": "handle-refund-request-003",
-   "situation": "Customer bought a $240 custom embroidered jacket from my shop, it matches the proof they approved on 12 September exactly, and now says they 'just don't like it' and will dispute the charge if I don't refund.",
+   "situation": "Customer bought a $240 custom embroidered jacket from my shop, it matches the proof they approved on 12 September exactly, and now says they 'just don't like it' and will dispute the charge if I don't refund. I can offer a 40% refund or change the embroidery colour for free.",
    "reply": "I'd really rather sort this directly with you than through the bank, and I think we can. Because the jacket was made to the proof you approved on 12 September, I can't refund it in full, since I can't resell it. What I can offer today is a 40% refund, $96, or I'll change the embroidery colour for free if that's what's bothering you. Tell me which works, or what would.",
    "lang": "en",
    "note": "Calm, one-line reason, a real partial offer. If they file anyway, send the bank the approved proof and stop negotiating in the thread."
   },
   {
    "id": "handle-refund-request-004",
-   "situation": "我在网上卖表格软件实用课程，199元，规定购买7天内可退。有位学员王女士买了18天，说公司裁员用不上了，想退款，她只看了两节课。我想给她退，但不想变成新规矩。",
+   "situation": "我在网上卖表格软件实用课程，199元，规定购买7天内可退。有位学员王女士买了18天，说公司裁员用不上了，想退款，她只看了两节课。我想给她退，但不想变成新规矩。退款1到3个工作日原路到账，退款后课程权限会关闭。",
    "reply": "王女士您好，消息收到了，工作上的变动真的不容易。这次我给您全额退款199元，1到3个工作日原路退回，课程权限会同时关闭。我们平时的退款期是7天，您这次是特殊情况。祝您一切顺利，以后有需要随时欢迎回来。",
    "lang": "zh",
    "note": "答案放在最前面，再一句话点明常规期限和“这次”的例外，就不会变成新规矩；退得快比退得多更重要。"
   },
   {
    "id": "handle-refund-request-005",
-   "situation": "I run weekend pottery workshops, $140 a place. Liam just emailed that he's got COVID and can't make this Saturday's class, and asked for a refund. My policy is no refunds within 7 days, but I can move people to another date. The 17 October, 7 November and 5 December workshops still have space.",
-   "reply": "Hi Liam, sorry you're ill, rest up. With the class this close I can't refund the place, but I can move you to any Saturday workshop before Christmas at no charge: 17 October, 7 November and 5 December all have space. Tell me which one suits and I'll book you in.",
+   "situation": "I run weekend pottery workshops, $140 a place. Liam just emailed that he's got COVID and can't make this Saturday's class, and asked for a refund. My policy is no refunds within 7 days, but I can move people to another date free of charge. The 17 October, 7 November and 5 December workshops still have space.",
+   "reply": "Hi Liam, sorry you're ill, rest up. With the class this close I can't refund the place, but I can move you to another Saturday workshop at no charge: 17 October, 7 November and 5 December all have space. Tell me which one suits and I'll book you in.",
    "lang": "en",
    "note": "Middle option: no refund, but the transfer is free, concrete and offered in the same breath."
   },
   {
    "id": "handle-refund-request-006",
-   "situation": "I run a meal-planning app. A customer, Derek, paid $120 for an annual plan in June and now, four months in, wants a full refund because he 'hasn't really used it'. Annual plans are refundable within 14 days only. He's been polite about it.",
+   "situation": "I run a meal-planning app. A customer, Derek, paid $120 for an annual plan in June and now, four months in, wants a full refund because he 'hasn't really used it'. Annual plans are refundable within 14 days only. He's been polite about it. I can switch off his auto-renew and pause his remaining eight months until he's ready.",
    "reply": "Hi Derek, thanks for being straight with me that it hasn't fitted into your routine. Annual plans can only be refunded in the first 14 days, so a full refund of the $120 isn't something I can do. What I can do is switch off auto-renew now so you're never charged again, and pause your remaining eight months so they start whenever you're ready to use them. Shall I set that up?",
    "lang": "en",
    "note": "Subscription middle option: the no is one line, and the alternative protects what he paid for rather than offering a discount."
   },
   {
    "id": "handle-refund-request-007",
-   "situation": "Je vends du thé en ligne. Une cliente, Mme Roussel, a acheté un coffret à 45 € il y a six semaines (retours sous 14 jours), elle l'a ouvert et n'aime pas le goût. Elle exige un remboursement et menace de laisser un avis une étoile.",
+   "situation": "Je vends du thé en ligne. Une cliente, Mme Roussel, a acheté un coffret à 45 € il y a six semaines (retours sous 14 jours), elle l'a ouvert et n'aime pas le goût. Elle exige un remboursement et menace de laisser un avis une étoile. Je peux lui proposer un avoir de 45 € ou trois échantillons gratuits d'autres mélanges.",
    "reply": "Bonjour Madame Roussel, je comprends votre déception et je tiens à trouver une solution avec vous. Le coffret a été ouvert et commandé il y a six semaines, je ne peux donc pas le rembourser. En revanche, je peux vous faire un avoir de 45 € sur la boutique, ou vous envoyer gratuitement trois échantillons d'autres mélanges pour trouver celui qui vous plaît. Dites-moi ce qui vous convient et je m'en occupe aujourd'hui.",
    "lang": "fr",
    "note": "Face à une menace d'avis, on n'en parle pas : réponse rapide, ton calme et la meilleure offre possible, prête à être traitée le jour même."
   },
   {
    "id": "handle-refund-request-008",
-   "situation": "我在微信上卖手工茶具。9月18号答应顾客周小姐，给她寄到时摔破的茶壶退168元，结果我忘了操作。她今天发消息问：“说好的退款呢？”",
+   "situation": "我在微信上卖手工茶具。9月18号答应顾客周小姐，给她寄到时摔破的茶壶退168元，结果我忘了操作。她今天发消息问：“说好的退款呢？”我刚把168元退回她的微信零钱，一般几分钟到账，还想送她一张20元无门槛券。",
    "reply": "周小姐，您说得对，是我的问题：9月18日答应给您退的168元我忘了操作，还让您来追着问，真的很抱歉。刚刚已经原路退回到您的微信零钱，一般几分钟就到账，今晚之前没看到的话直接告诉我。另外送您一张20元无门槛券，下次选茶具时用。",
    "lang": "zh",
    "note": "答应了却没退，拖延本身才是真正的投诉：先认错，马上办好，说清什么时候到账。"
   },
   {
    "id": "handle-refund-request-009",
-   "situation": "I'm a wedding photographer. Nadia paid a $1,500 non-refundable deposit to hold June 12 next year. She's just emailed that the wedding is off and asked if she can have the deposit back. I turned away two other couples for that date.",
+   "situation": "I'm a wedding photographer. Nadia paid a $1,500 non-refundable deposit to hold June 12 next year. She's just emailed that the wedding is off and asked if she can have the deposit back. I turned away two other couples for that date. I can offer to refund $750 this week, or keep the full $1,500 as credit for any shoot in the next two years.",
    "reply": "Hi Nadia, I'm so sorry to hear the wedding is off; that can't have been an easy email to write. The deposit held your date, and I turned other couples away for it, so I can't refund the full $1,500. What I can do is refund $750 this week, or keep the whole $1,500 as credit for any shoot in the next two years, whether that's portraits, family photos or another celebration. Tell me which suits you and I'll sort it straight away.",
    "lang": "en",
    "note": "A life event isn't a policy argument: the human line first, the no in one clause, two real alternatives. Never ask what happened."
   },
   {
    "id": "handle-refund-request-010",
-   "situation": "我在网店卖多肉。顾客陈女士买了4盆，一共132元，今天收到说其中一盆38元的桃蛋烂根了，发了照片，要求整单退款。另外三盆她说状态还行。",
+   "situation": "我在网店卖多肉。顾客陈女士买了4盆，一共132元，今天收到说其中一盆38元的桃蛋烂根了，发了照片，要求整单退款。另外三盆她说状态还行。我可以退这盆的38元，1到2天原路到账，或者明天重新挑一盆发快递，烂的那盆不用寄回。",
    "reply": "陈女士您好，看了照片，桃蛋确实烂根了，这盆不该这样发给您，抱歉。这盆的38元我现在就退，1到2天原路到账；如果您更想要一盆新的，我明天重新挑一盆发快递，您选一个告诉我就行。烂的那盆不用寄回。另外三盆是好的，就不做整单退款了，希望它们在您那儿长得好。",
    "lang": "zh",
    "note": "部分出问题就部分解决：坏的那盆马上退或补，给两个选项；不为另外三盆争论，也不让她寄回。"
   },
   {
    "id": "handle-refund-request-011",
-   "situation": "I sell hand-poured candles in my online shop. A customer, Marisol, says her $38 order never arrived, but tracking shows it delivered to her mailbox on Sept 24. She's polite and this is her third order.",
-   "reply": "Hi Marisol, I'm sorry your candles haven't turned up, that's frustrating. I'll send a replacement out tomorrow morning and you'll have the new tracking by the afternoon. Tracking on the first parcel shows it delivered to your mailbox on 24 September, so it may be worth a quick word with neighbours in case it went to the wrong door. If it does turn up, keep it as a spare, on me.",
+   "situation": "I sell hand-poured candles in my online shop. A customer, Marisol, says her $38 order never arrived and asked for a refund, but tracking shows it delivered to her mailbox on Sept 24. She's polite and this is her third order, so I'm happy to refund it or send a replacement tomorrow morning.",
+   "reply": "Hi Marisol, I'm sorry your candles haven't turned up, that's frustrating. I can refund the $38 today or send a replacement out tomorrow morning, with new tracking by the afternoon, whichever you'd prefer. Tracking on the first parcel shows it delivered to your mailbox on 24 September, so it may be worth a quick word with neighbours in case it went to the wrong door. If it does turn up, keep it, on me.",
    "lang": "en",
    "note": "For a small amount and a repeat customer, resending costs less than asking her to prove anything; on a big order, open a carrier claim first."
   },
   {
    "id": "handle-refund-request-012",
-   "situation": "I tutor maths. Jamal's parents, the Haddads, bought a 10-lesson bundle for $500 by card (single lessons are $60) and he's had 4. They're moving abroad next month and asked if they can get money back for the rest. The bundle terms don't mention refunds either way.",
-   "reply": "Hi Mrs. Haddad, congratulations on the move, and thank you for telling me early. Yes, I'll refund the six lessons Jamal hasn't used, $300, back to your card by Friday 2 October. If he'd like to keep going online after you've settled, just say and we'll find a time. Wishing you all a smooth move. Daniel",
+   "situation": "I tutor maths. Jamal's parents, the Haddads, bought a 10-lesson bundle for $500 by card (single lessons are $60) and he's had 4. They're moving abroad next month and asked if they can get money back for the rest. The bundle terms don't mention refunds either way. I also teach online.",
+   "reply": "Hi Mrs. Haddad, congratulations on the move, and thank you for telling me early. Yes, I'll refund the six lessons Jamal hasn't used, $300, back to your card by Wednesday. If he'd like to keep going online after you've settled, just say and we'll find a time. Wishing you all a smooth move.",
    "lang": "en",
    "note": "A fair request with nothing to weigh: the yes and the exact amount go in the first lines so there's nothing to negotiate."
   },
   {
    "id": "handle-refund-request-013",
-   "situation": "我开了家小理发店。顾客李先生昨天剪了个168元的造型，今天发照片说两边剪得太短，要求全额退款。头发已经剪了，我觉得全退不合适，但确实比他说的要短。",
-   "reply": "李先生您好，照片我看了，两侧确实比您要求的短，这是我们没沟通到位，抱歉。剪掉的没法恢复，全额退款这次就不做了，给您两个选择：退一半84元，今天原路退回；或者两周后头发长一点，店长亲自给您免费修型。您选哪个都行，告诉我就马上安排。",
+   "situation": "我开了家小理发店。顾客李先生昨天剪了个168元的造型，今天发照片说两边剪得太短，要求全额退款。头发已经剪了，我觉得全退不合适，但确实比他说的要短。我可以退一半84元，或者等两周后头发长一点，我亲自给他免费修型。",
+   "reply": "李先生您好，照片我看了，两侧确实比您要求的短，这是我们没沟通到位，抱歉。剪掉的没法恢复，全额退款这次就不做了，给您两个选择：退一半84元，今天原路退回；或者两周后头发长一点，我亲自给您免费修型。您选哪个都行，告诉我就马上安排。",
    "lang": "zh",
    "note": "服务已经用掉时，先认下具体的问题，再给退一部分或免费补救两个选项，不争是谁的错。"
   },
@@ -98,18 +98,18 @@
    "situation": "I sell art prints on my own site. A customer bought a $60 print, said the colours looked duller than on his screen, and I offered a full refund once it's returned or a free reprint on matte paper. He's now sent three messages calling me a scammer and swearing at me.",
    "reply": "I've set out what I can offer: a full $60 refund once the print is back with me, or a free reprint on matte paper. I'm going to leave it there, and both options stay open if you'd like either. I won't be replying to further messages in this tone.",
    "lang": "en",
-   "note": "Abuse doesn't earn a better offer or a longer reply: restate the offer once, end the thread, and don't answer the insults."
+   "note": "Abuse doesn't earn a better offer or a longer reply: restate the offer once, end the thread, and don't answer the insults. If the messages keep coming, mute or block the sender, and report any threats to the platform or the police."
   },
   {
    "id": "handle-refund-request-015",
-   "situation": "I sell handmade ceramics online. A woman, Priya, emailed that her aunt bought her a $90 serving bowl as a birthday gift, she already has one just like it, and she wants the money refunded to her own bank account. I can only refund to the card that paid.",
+   "situation": "I sell handmade ceramics online. A woman, Priya, emailed that her aunt bought her a $90 serving bowl as a birthday gift, she already has one just like it, and she wants the money refunded to her own bank account. I can only refund to the card that paid. I can offer her a swap for anything in the shop with a free return label, or a $90 store credit in her name that never expires, and her aunt can ask for the refund from her order email.",
    "reply": "Thanks for letting me know, Priya, and happy birthday. I can't send the refund to your account, because refunds can only go back to the card your aunt paid with, but I can do one of two things: swap the bowl for anything in the shop, with a free return label, or issue a $90 store credit in your name that never expires. If your aunt would rather have the refund herself, she can reply to her order email and I'll process it as soon as the bowl is back. Which would you prefer?",
    "lang": "en",
    "note": "When the person asking isn't the payer, give them options that are theirs to take, and keep the refund route with the buyer."
   },
   {
    "id": "handle-refund-request-016",
-   "situation": "I sell retro-style sneakers online, $120 a pair, with 30-day returns if unworn. A customer, Owen, sent a pair back inside the window for a full refund, but they arrived today with scuffed soles and creased toes, clearly worn outside.",
+   "situation": "I sell retro-style sneakers online, $120 a pair, with 30-day returns if unworn. A customer, Owen, sent a pair back inside the window for a full refund, but they arrived today with scuffed soles and creased toes, clearly worn outside. I'm willing to refund $60 or post them back at my cost.",
    "reply": "Hi Owen, thanks for sending the sneakers back, they arrived today. They've been worn outside, with scuffed soles and creased toes, so I can't resell them and can't refund the full $120. What I can do is refund $60 today, or post them back to you at my cost so you keep them. Which would you prefer? Either way, sorry they weren't the right pair for you.",
    "lang": "en",
    "note": "When a return breaks the condition, describe what arrived as a fact, not an accusation, and offer two real options."
@@ -123,14 +123,14 @@
   },
   {
    "id": "handle-refund-request-018",
-   "situation": "I sell handmade soap and skincare online. A customer, Joanne, bought a $34 lavender face balm and says it gave her a red, itchy rash after two uses; she sent a photo and asked for a refund. The full ingredient list is on the jar and the listing.",
+   "situation": "I sell handmade soap and skincare online. A customer, Joanne, bought a $34 lavender face balm by card and says it gave her a red, itchy rash after two uses; she sent a photo and asked for a refund. The full ingredient list is on the jar and the listing.",
    "reply": "Hi Joanne, I'm so sorry the balm gave you a rash, and thank you for sending the photo. I've refunded the full $34 to your card today, and there's no need to send the jar back; please just stop using it. If the redness spreads or doesn't settle in a couple of days, do see a pharmacist or doctor, and if you ever get swelling of the lips or face or trouble breathing, call emergency services straight away. The full ingredient list is on the jar if it helps to show them.",
    "lang": "en",
    "note": "A possible skin reaction: refund in full, don't ask for proof or defend the ingredients, point to medical help, and keep a note of it in case another customer reports the same."
   },
   {
    "id": "handle-refund-request-019",
-   "situation": "我开了家烘焙工作室。张女士订了388元的生日蛋糕，另付了30元配送费，约好下午5点送到，结果我们的配送车半路坏了，5点40才送到，孩子的生日会已经先切了备用的小蛋糕。蛋糕后来他们也吃了。张女士今天发微信要求全额退款。",
+   "situation": "我开了家烘焙工作室。张女士昨天订了388元的生日蛋糕，另付了30元配送费，约好下午5点送到，结果我们的配送车半路坏了，5点40才送到，孩子的生日会已经先切了备用的小蛋糕。蛋糕后来他们也吃了。张女士今天发微信要求全额退款。我打算退30元配送费和蛋糕钱的一半194元，今天下午原路退回。",
    "reply": "张女士，昨天蛋糕晚到了40分钟，让您在孩子生日会上着急了，这是我们的问题，非常抱歉。蛋糕后来大家吃了，全额退款我这边做不到，但30元配送费全退，再退您蛋糕钱的一半194元，一共224元，今天下午原路退回。您看这样可以吗？",
    "lang": "zh",
    "note": "错在自己就先认，东西已经被享用了就给一个明确的中间方案，金额和到账时间说清楚。"
@@ -145,7 +145,7 @@
   {
    "id": "handle-refund-request-021",
    "situation": "Ich betreibe ein kleines Yogastudio. Frau Becker schreibt per Mail, dass ihre 10er-Karte für 150 Euro zweimal abgebucht wurde. Im System sehe ich tatsächlich zwei Zahlungen vom 28. September, und eine Rückerstattung auf die Karte dauert bei uns 3 bis 5 Werktage.",
-   "reply": "Liebe Frau Becker, danke für den Hinweis, und entschuldigen Sie den Ärger: Ihre 10er-Karte wurde am 28. September tatsächlich zweimal abgebucht. Die doppelte Zahlung über 150 Euro habe ich heute zurückerstattet, sie sollte in 3 bis 5 Werktagen wieder auf Ihrer Karte sein. Falls bis Mittwoch, 7. Oktober, nichts angekommen ist, schreiben Sie mir bitte direkt, dann kümmere ich mich sofort darum. Bis bald im Studio!",
+   "reply": "Liebe Frau Becker, danke für den Hinweis, und entschuldigen Sie den Ärger: Ihre 10er-Karte wurde am 28. September tatsächlich zweimal abgebucht. Die doppelte Zahlung über 150 Euro habe ich heute zurückerstattet, sie sollte in 3 bis 5 Werktagen wieder auf Ihrer Karte sein. Falls bis Ende nächster Woche nichts angekommen ist, schreiben Sie mir bitte direkt, dann kümmere ich mich sofort darum. Bis bald im Studio!",
    "lang": "de",
    "note": "Ein Fehler auf unserer Seite braucht keine Abwägung: das Ja in die erste Zeile, Betrag, Zeitraum und was zu tun ist, falls nichts ankommt."
   },
@@ -165,7 +165,7 @@
   },
   {
    "id": "handle-refund-request-024",
-   "situation": "I run a small climbing gym. Laura Becker emailed that her husband Tom, who climbed with us most mornings, died on 20 September. He paid $540 for a 12-month membership that started on 1 April, and she asked whether anything can be refunded. Memberships aren't refundable, but I want to refund the six unused months, $270, to the card he paid with, by Monday 5 October.",
+   "situation": "I run a small climbing gym. Laura Becker emailed that her husband Tom, who climbed with us most mornings, died on 20 September. He paid $540 for a 12-month membership that started on 1 April, and she asked whether anything can be refunded. Memberships aren't refundable, but I want to refund the six unused months, $270, to the card he paid with, by Monday 5 October. We'll all miss him here.",
    "reply": "Dear Laura, I'm so sorry about Tom. He was here most mornings, and we'll miss him. Yes, I'll refund the six unused months of his membership, $270, to the card he paid with, by Monday 5 October. There's nothing you need to send me. If that card has been closed, just reply and we'll find another way to get it to you.",
    "lang": "en",
    "note": "Bereavement: condolences first, the yes in the next line, and no paperwork asked for an amount like this."
@@ -180,7 +180,7 @@
   {
    "id": "handle-refund-request-026",
    "situation": "I'm a freelance illustrator. Owen at Tidewell Books paid a $1,200 deposit, half of $2,400, for 12 chapter illustrations; I've delivered sketches for the first 4 chapters, 10 hours at my $60 hourly rate. Today he emailed that the book is cancelled and asked for the deposit back; our contract says the deposit covers work done up to cancellation and any unused part is refunded.",
-   "reply": "Hi Owen, sorry to hear the book's been cancelled, I was enjoying these. Yes, I'll refund the unused part of the deposit: the sketches for the first four chapters came to 10 hours at $60, so $600, and I'll send the other $600 back to you by Friday 2 October. If the book is ever revived, I'd love to pick it up again.",
+   "reply": "Hi Owen, sorry to hear the book's been cancelled. Yes, I'll refund the unused part of the deposit: the sketches for the first four chapters came to 10 hours at $60, so $600, and I'll send the other $600 back to you by Wednesday. If the book is ever revived, I'd love to pick it up again.",
    "lang": "en",
    "note": "Business client, contract-based: the yes and the exact maths up front, with the work already done shown plainly rather than argued."
   },
@@ -201,9 +201,9 @@
   {
    "id": "handle-refund-request-029",
    "situation": "I sold my old mirrorless camera with one lens on a local marketplace app for $420 to a buyer, Theo, who collected it in person on Saturday. Today he messaged that the autofocus hunts and won't lock in low light, and asked for his money back. I never noticed because I mostly shot outdoors; I'm willing to take it back if it comes back with the box and lens as it left, and refund him in cash or by bank transfer.",
-   "reply": "Hi Theo, sorry the autofocus is hunting in low light. I mostly shot outdoors so I never noticed, but that's not what you paid for. Yes, I'll take it back and refund the full $420. Could you bring it back with the box and lens, the way it left, one evening this week? I'll refund you in cash on the spot or by bank transfer, whichever you prefer.",
+   "reply": "Hi Theo, sorry the autofocus is hunting in low light. I mostly shot outdoors so I never noticed, but that's not what you paid for. Yes, I'll take it back and refund the full $420. Could you bring it back with the box and lens, the way it left, one evening in the next few days? I'll refund you in cash on the spot or by bank transfer, whichever you prefer.",
    "lang": "en",
-   "note": "Selling privately you may not owe a refund, but a quick yes on a fault you didn't know about is fair and ends it; check it's the same camera when it comes back."
+   "note": "Selling privately you may not owe a refund, so check local consumer rules, but a quick yes on a fault you didn't know about is fair and ends it; check it's the same camera when it comes back."
   },
   {
    "id": "handle-refund-request-030",

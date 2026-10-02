@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -225,6 +225,13 @@
    "reply": "Subject: Yesterday's email, and an apology\nHi,\nYou asked us not to send you Mother's Day emails, and yesterday we sent you our 'Treat Mum' promotion anyway. Your opt-out only covered the weeks before Mother's Day, and we didn't think beyond that. I'm sorry; for some of you that email will have landed on something painful. Your opt-out now covers every mum-themed email we send, all year round. If you'd like to tell me anything, or stop hearing from us altogether, just reply and I'll read it myself.\nLeah, owner, Bloom Lane",
    "lang": "en",
    "note": "Write only to the people affected, own the gap in your own setup, and keep the sorry quiet and single, with no promotion attached."
+  },
+  {
+   "id": "public-apology-from-a-business-033",
+   "situation": "我是“山野小铺”的店主王岚，我们在网上卖家乡土特产。10月1日晚上直播时，主播模仿一位外地顾客的口音开玩笑，被截成视频在小红书上转了不少，很多人说看了不舒服。回放已经删了，我已私信向那位顾客道歉，也跟主播谈过；以后每场直播都会有第二个人在场，出现不合适的话当场纠正、当场道歉。",
+   "reply": "10月1日晚上的直播里，我们的主播模仿一位外地顾客的口音开玩笑。这不好笑，也不尊重人，很多看到的朋友都觉得不舒服。对不起，这是我们店的直播，责任在我。直播回放已经删除，我已经私下向这位顾客道歉，也跟主播谈过了。以后每场直播都会有第二个人在场，出现不合适的话当场纠正、当场道歉。想跟我说说的，直接私信店铺，我本人回复。店主 王岚",
+   "lang": "zh",
+   "note": "不点名主播，也不再提那位顾客是谁，责任由店铺承担；改进只写一条每场都做得到的。"
   }
  ]
 }

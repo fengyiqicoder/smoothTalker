@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -225,6 +225,13 @@
    "reply": "Hi Gary, since our 28 September update you can't write invoices on sites with no signal, after six years of relying on us every working day. That decision was ours, and I'm sorry for what it's done to your week. Offline mode isn't coming back this year, so here's what I can do now: version 4.2, which still has it, can be reinstalled and will keep working until 31 December, and I'll email you the steps today. I've also made your next three months free. I'm Priya, the founder; reply to me directly or call 555-0163.",
    "lang": "en",
    "note": "When the cause is a product decision you're keeping, own the impact, say plainly it isn't changing, and lead with the workaround."
+  },
+  {
+   "id": "respond-to-angry-customer-033",
+   "situation": "Soy Marta, fisioterapeuta, con una consulta pequeña en Sevilla; cobro 30 € si se cancela con menos de 24 horas. Andrés me ha escrito muy enfadado porque le cobré los 30 € de la cita del martes: no vino porque esa mañana llevó a su hijo a urgencias, cosa que yo no sabía. Hoy le devuelvo los 30 € y puedo ofrecerle el jueves a las 10 o el viernes a las 17.",
+   "reply": "Hola, Andrés: te cobramos 30 € por la cita del martes cuando esa mañana estabas en urgencias con tu hijo, y siento que el cargo te llegara en un momento así. Hoy mismo te devuelvo los 30 €. Si quieres recuperar la sesión, tengo hueco el jueves a las 10 o el viernes a las 17. Soy Marta y puedes escribirme directamente por aquí. Espero que tu hijo esté mejor.",
+   "lang": "es",
+   "note": "La norma de cancelación es para ausencias sin motivo, no para una urgencia: se devuelve sin discutir y sin pedir justificantes."
   }
  ]
 }

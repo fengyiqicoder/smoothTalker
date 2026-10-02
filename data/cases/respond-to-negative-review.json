@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -225,6 +225,13 @@
    "reply": "Thank you for the review, Ryan, and I'm sorry your Saturday night ended at our door. Our door team follows the entry conditions in our licence, and having looked into Saturday, I'm satisfied they applied them as they should. A refusal at the door can feel abrupt, so since Sunday anyone we turn away gets a short card setting out our entry policy. If you'd like to talk it through, I'm at callum@example.com. Callum, manager",
    "lang": "en",
    "note": "Never describe the reviewer or his group in public; stand by the call in one line and show what you changed."
+  },
+  {
+   "id": "respond-to-negative-review-033",
+   "situation": "I'm Joe and I own Spoke & Chain, a bike repair shop; my email is joe@example.com. 'Megan L.' left a 3-star Google review: the brake repair was quick and fairly priced, but the mechanic talked down to her, explained things she already knew and only addressed her boyfriend, even though it's her bike. I've talked with the team: we now speak to whoever owns the bike and ask what they already know before explaining.",
+   "reply": "Thank you, Megan, for the kind words about the repair, and for being straight about the rest. It's your bike, so you should have been the one we spoke to, and nobody should be talked down to at our counter. That's on us. I've talked with the team, and we now speak to whoever owns the bike and ask what they already know before explaining anything. If you'd like to tell me more, I'm at joe@example.com. Joe, owner",
+   "lang": "en",
+   "note": "A complaint about how someone was treated: own it without defending the mechanic's intent or naming him, and say what changed at the counter."
   }
  ]
 }

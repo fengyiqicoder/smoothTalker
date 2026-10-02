@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -225,6 +225,13 @@
    "reply": "Hi Dr Shah, one time-sensitive thing: the clinic's web address is registered in your account and expires on Tuesday 20 October. If it lapses, the website and the clinic's email addresses stop working. You can either renew it yourself in your account, or reply 'go ahead' and send me access, and I'll renew it for you. If you've moved the site to someone else, just let me know and I'll stop chasing.",
    "lang": "en",
    "note": "When the silence puts the client's own business at risk, lead with the date and the consequence and offer the smallest fix; still don't act without her go-ahead."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-033",
+   "situation": "I'm Tasha, a real estate agent. Grace and Daniel Okafor viewed five houses with me in August, looking for a 3-bed under $520,000 near Westbrook Elementary, then stopped replying after Sept 12. A 3-bed at 41 Fern Lane, $509,000, two blocks from the school, lists on Monday, the first open house is Saturday, and I can show it to buyers before then.",
+   "reply": "Hi Grace and Daniel, one I thought of you for: a 3-bed at 41 Fern Lane, listing Monday at $509,000, two blocks from Westbrook Elementary. The first open house is Saturday, and I can get you in before then if you'd like. Are you still looking this autumn? A quick yes, no or not yet is all I need, and if you've paused or found something, I'll stop sending listings.",
+   "lang": "en",
+   "note": "Touch 2 brings something they actually asked for and an easy no; don't invent urgency the listing doesn't have."
   }
  ]
 }

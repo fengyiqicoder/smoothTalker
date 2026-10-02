@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -225,6 +225,13 @@
    "reply": "Laura, I need to tell you something, and I'd rather say it now than let it drift: I'm going to step down as a bridesmaid. Since I lost my job in August, the dress, the hen weekend and the travel are more than I can afford, and I don't want to pretend otherwise. I'd still love to be there as a guest, and I'll still do the table plan I promised. I'm sorry to change things, and I'm so happy for you both.",
    "lang": "en",
    "note": "Early, in person and with what you'll still do. If she offers to cover your costs, decide before the call whether you'd want that, so you don't get talked round."
+  },
+  {
+   "id": "leave-or-quit-gracefully-033",
+   "situation": "I'm Hannah, a UX researcher, and I've resigned; my contract says one month's notice, so my last day is Friday 6 November. My manager Leo is on parental leave until January, so I told Sunita, his manager, who is covering, on a call this morning, and she's running the handover. Leo backed my diary study project last year, and I want to send him a short personal note so he doesn't hear it from someone else, without making him feel he has to do anything.",
+   "reply": "Hi Leo, no need to reply to this, enjoy the time with the baby. I wanted you to hear it from me rather than secondhand: I've resigned, and my last day is Friday 6 November. Sunita knows and is running the handover, so there's nothing on your plate. Thank you for backing my diary study last year; I learned so much from it.",
+   "lang": "en",
+   "note": "When your manager is away, formal notice goes to whoever is covering; the note to them is personal, and asks nothing of them."
   }
  ]
 }

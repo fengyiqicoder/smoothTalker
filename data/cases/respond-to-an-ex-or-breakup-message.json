@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -225,6 +225,13 @@
    "reply": "Kyle, I'm ending our relationship. I'm telling you by message because that's what feels right for me, and my decision is final. I won't be meeting up to talk it over. Dev will drop your PlayStation and your clothes at your mum's on Saturday. Please don't come to my flat or contact me again.",
    "lang": "en",
    "note": "No reasons and no location: don't mention where you're staying, change the locks, keep his messages, and call emergency services if he threatens you or turns up; a domestic abuse helpline can help you plan the next few days."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-033",
+   "situation": "我妈上个月走了。分手两年的前男友阿诚在微信上发来一段话，说听说了很难过，还记得我妈以前给他包的韭菜饺子，问我还好吗、需不需要他做什么。我很感动，身边也有家人朋友陪着，但不想重新联系。",
+   "reply": "阿诚，谢谢你，也谢谢你还记得我妈包的韭菜饺子。我还在慢慢缓过来，身边有家人和朋友陪着，你不用担心。我们就不再联系了，这样对我比较好。祝你一切都好。",
+   "lang": "zh",
+   "note": "前任的慰问也可以温和地关门：真心谢一句，说身边有人陪，再一句收住；他再回复，不接也没关系。"
   }
  ]
 }

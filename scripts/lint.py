@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Quality lint for content/*.md. Run before build_index.py. Exit 1 on errors; warnings do not fail."""
-import json, re, sys
+import datetime, json, re, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -67,6 +67,43 @@ CASES = ROOT / "cases"
 BANNED = re.compile(r"\b(unfortunately|i'm afraid|i'll have to)\b", re.I)
 LANGS = {"en", "zh", "es", "pt", "de", "fr", "ja"}
 seen_case_ids = set()
+
+# Weekday + date pairs ("Friday 9 October", "Oct 9", "10月9日（周五）") must agree.
+# With no year written, September to December means 2026; January to August may be 2026 or 2027. Cases whose point is a wrong weekday are listed here.
+WEEKDAY_OK = {"tell-someone-something-awkward-007"}
+_EN_DAYS = {"monday": 0, "mon": 0, "tuesday": 1, "tue": 1, "tues": 1, "wednesday": 2, "wed": 2,
+            "thursday": 3, "thu": 3, "thur": 3, "thurs": 3, "friday": 4, "fri": 4,
+            "saturday": 5, "sat": 5, "sunday": 6, "sun": 6}
+_MONTHS = {"january": 1, "jan": 1, "february": 2, "feb": 2, "march": 3, "mar": 3, "april": 4, "apr": 4,
+           "may": 5, "june": 6, "jun": 6, "july": 7, "jul": 7, "august": 8, "aug": 8, "september": 9,
+           "sep": 9, "sept": 9, "october": 10, "oct": 10, "november": 11, "nov": 11, "december": 12, "dec": 12}
+_ZH_DAYS = {"一": 0, "二": 1, "三": 2, "四": 3, "五": 4, "六": 5, "日": 6, "天": 6}
+_dn = "|".join(sorted(_EN_DAYS, key=len, reverse=True))
+_mn = "|".join(sorted(_MONTHS, key=len, reverse=True))
+_DATE_PATS = [
+    (re.compile(rf"\b({_dn})\.?,?\s+(\d{{1,2}})(?:st|nd|rd|th)?\s+({_mn})\b\.?(?:,?\s+(20\d\d))?", re.I),
+     lambda m: (_EN_DAYS[m[1].lower()], int(m[2]), _MONTHS[m[3].lower()], m[4])),
+    (re.compile(rf"\b({_dn})\.?,?\s+({_mn})\.?\s+(\d{{1,2}})(?:st|nd|rd|th)?\b(?:,?\s+(20\d\d))?", re.I),
+     lambda m: (_EN_DAYS[m[1].lower()], int(m[3]), _MONTHS[m[2].lower()], m[4])),
+    (re.compile(r"(?:(20\d\d)年)?(\d{1,2})月(\d{1,2})[日号]\s*[（(]?\s*(?:周|星期|礼拜)([一二三四五六日天])"),
+     lambda m: (_ZH_DAYS[m[4]], int(m[3]), int(m[2]), m[1])),
+]
+
+def weekday_mismatches(text):
+    bad = []
+    for pat, get in _DATE_PATS:
+        for m in pat.finditer(text):
+            wd, day, month, year = get(m)
+            ok = False
+            for y in ([int(year)] if year else [2026] if month >= 9 else [2026, 2027]):
+                try:
+                    ok = ok or datetime.date(y, month, day).weekday() == wd
+                except ValueError:
+                    pass
+            if not ok:
+                bad.append(m.group(0).strip())
+    return bad
+
 if CASES.exists():
     for p in sorted(CASES.glob("*.jsonl")):
         if not (CONTENT / f"{p.stem}.md").exists():
@@ -101,6 +138,9 @@ if CASES.exists():
             for num in re.findall(r"(?<!\d)1[3-9]\d[ -]?\d{4}[ -]?\d{4}(?!\d)", text):
                 if not re.sub(r"\D", "", num).startswith("1380000"):
                     err(p, f"{where}: mainland mobile {num} could be real; use 138 0000 xxxx")
+            if cid not in WEEKDAY_OK:
+                for pair in weekday_mismatches(text):
+                    warn(p, f"{where}: weekday does not match the date in '{pair}'")
             if len(str(c.get("reply", ""))) > 900:
                 warn(p, f"{where}: reply over 900 characters; keep cases short")
 

@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -225,6 +225,13 @@
    "reply": "Dear Dr Fry,\nI'm Amara Diallo, a second-year nursing student, and I'm delighted to have been matched with you through the mentoring scheme. Before university I spent two years as a healthcare assistant on a stroke ward, which is where I first got curious about critical care. Outside placements I sing in a gospel choir. I'd love to hear how you came into intensive care; would you have time for a first call? I'm free any Tuesday or Thursday after 4pm.\nBest wishes,\nAmara",
    "lang": "en",
    "note": "With an assigned mentor, the invitation is a small first step that is easy to say yes to; one human line keeps it from reading like a CV."
+  },
+  {
+   "id": "introduce-yourself-033",
+   "situation": "Sou a Camila, analista de compras há quatro anos numa empresa em Curitiba. Hoje começou a nova gerente do setor, a Juliana, que veio de outra empresa. Cuido dos contratos com os 30 fornecedores de embalagem, em julho renegociei o frete com economia de 8%, e nos fins de semana faço trilhas. Quero me apresentar a ela por mensagem no Teams.",
+   "reply": "Oi, Juliana, seja bem-vinda! Sou a Camila, analista de compras aqui há quatro anos. Cuido dos contratos com os 30 fornecedores de embalagem, e em julho renegociei o frete com uma economia de 8%, então, se quiser um panorama dos fornecedores, é só pedir. Nos fins de semana costumo fazer trilhas por aqui. Quando tiver um tempinho nesta semana, adoraria 20 minutos para te contar como as coisas funcionam e ouvir o que é prioridade para você.",
+   "lang": "pt",
+   "note": "Para uma nova gestora, o útil é dizer o que você cuida e oferecer contexto; o convite é ouvir as prioridades dela."
   }
  ]
 }

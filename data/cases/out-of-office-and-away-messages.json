@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -225,6 +225,13 @@
    "reply": "Thanks for your email. From Monday 12 October to Friday 30 October I'm working from Tokyo, 13 hours ahead of Toronto. I'm online 9am to 5pm Tokyo time, which is 8pm to 4am Toronto time, so you'll usually hear from me overnight. If you need an answer during Toronto hours the same day, please contact Ana Lima at ana.lima@example.com. Ben",
    "lang": "en",
    "note": "Not away, just shifted: give your hours in the reader's time zone so they know when to expect a reply."
+  },
+  {
+   "id": "out-of-office-and-away-messages-033",
+   "situation": "Soy Marta Vidal, responsable de selección en una empresa de logística de Sevilla. Estoy de vacaciones del martes 13 al viernes 23 de octubre, vuelvo el lunes 26 y no leo el correo. Tengo abierto un proceso para jefe de almacén con las entrevistas finales el martes 27 de octubre, que se mantienen, y mi compañera Nuria Gil (nuria.gil@example.com) responde a las dudas de los candidatos.",
+   "reply": "Gracias por tu mensaje. Estoy de vacaciones del 13 al 23 de octubre, no leo el correo y vuelvo el lunes 26 de octubre. Si participas en el proceso de jefe de almacén: las entrevistas finales siguen el martes 27 de octubre, como estaba previsto, y para cualquier duda puedes escribir a Nuria Gil (nuria.gil@example.com). Para todo lo demás, te respondo a mi vuelta. Marta Vidal",
+   "lang": "es",
+   "note": "Con un proceso de selección abierto, lo primero que quiere saber un candidato es si cambian las fechas: respóndelo antes que nada."
   }
  ]
 }

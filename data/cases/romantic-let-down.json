@@ -11,8 +11,8 @@
   },
   {
    "id": "romantic-let-down-002",
-   "situation": "相亲认识的男生，见了三次面，人挺好，但我没感觉。他约我周末去看展。",
-   "reply": "谢谢你这几次的安排，和你聊天很舒服。我认真想了想，对我们之间没有那种感觉，不想拖着让你误会，所以周末就不去了。真心祝你一切顺利。",
+   "situation": "相亲认识的男生，见了三次面，人挺好，聊天也挺舒服，但我没感觉。他约我周末去看展。",
+   "reply": "谢谢你这几次的见面，和你聊天很舒服。我认真想了想，对我们之间没有那种感觉，不想拖着让你误会，所以周末就不去了。真心祝你一切顺利。",
    "lang": "zh",
    "note": "不给理由清单，不说“以后再说”，含糊才是最伤人的。"
   },
@@ -67,7 +67,7 @@
   },
   {
    "id": "romantic-let-down-010",
-   "situation": "Second date with Jonah on Friday and we kissed at the end of the night. Since then I've realised I'm not into him, and today he texted 'Friday was great, same time next week?'. I don't want the kiss to make my no confusing.",
+   "situation": "Second date with Jonah last Friday and we kissed at the end of the night. Since then I've realised I'm not into him, and today he texted 'Friday was great, same time next week?'. I don't want the kiss to make my no confusing.",
    "reply": "Hi Jonah, thanks for Friday, and for the message. I've been thinking since then, and I'm not feeling a romantic connection, so I don't think we should see each other again. I know the end of the night might have said something different, and I'd rather be clear now than let that linger. Take care of yourself.",
    "lang": "en",
    "note": "A kiss isn't a promise: name the mixed signal once so the no can't be misread, without explaining or reliving the evening."
@@ -81,7 +81,7 @@
   },
   {
    "id": "romantic-let-down-012",
-   "situation": "我妈的同事王阿姨给我介绍了个男生小刘，加了微信也见了一次面，我没感觉。现在王阿姨发微信问我：“觉得小刘怎么样？他对你印象挺好的。”我不想让王阿姨难做，也不想拖着。",
+   "situation": "我妈的同事王阿姨给我介绍了个男生小刘，加了微信也见了一次面，他人很有礼貌，那天聊得也挺愉快，但我没感觉。现在王阿姨发微信问我：“觉得小刘怎么样？他对你印象挺好的。”我不想让王阿姨难做，也不想拖着。",
    "reply": "王阿姨，谢谢您费心张罗，小刘人很有礼貌，那天聊得也挺愉快。不过我对他没有那种感觉，就不继续接触了。我今天也会自己给他发条消息说清楚，不让您夹在中间为难。辛苦您了，改天请您喝茶。",
    "lang": "zh",
    "note": "介绍人问起时给明确答案，不说“再看看”；已经直接联系过对方的，自己再跟他说一句。"
@@ -110,7 +110,7 @@
   {
    "id": "romantic-let-down-016",
    "situation": "I've been on two dates with Ben. On the second one last night he told me he'd been laid off on Monday and seemed really low. I'd already decided I'm not feeling it, and now he's asked about Sunday. The timing makes me feel awful.",
-   "reply": "Hi Ben, thanks for the last two evenings, and for telling me about work; I'm sorry, that's a rough week. I've been thinking, and I'm not feeling a romantic connection, so I'll pass on Sunday. I'd rather say that now than leave you guessing. I really hope the next job comes quickly.",
+   "reply": "Hi Ben, thanks for our two dates, and for telling me about work; I'm sorry, that's a rough week. I've been thinking, and I'm not feeling a romantic connection, so I'll pass on Sunday. I'd rather say that now than leave you guessing. I really hope the next job comes quickly.",
    "lang": "en",
    "note": "Bad timing doesn't make ambiguity kinder: acknowledge the news once, give the clear no, and don't offer friendship as a consolation."
   },
@@ -166,7 +166,7 @@
   {
    "id": "romantic-let-down-024",
    "situation": "大学同班的男生阿航昨晚在宿舍楼下跟我表白，还塞给我一副新耳机，大概1200块。我对他没有那种感觉，也不想收这么贵的礼物。我们俩在同一个小组做课程项目，要做到12月。",
-   "reply": "阿航，谢谢你昨晚这么认真地跟我说，我知道这需要勇气。不过我对你没有那种感觉，所以我的回答是不。耳机太贵重了，我不能收，明天上课前还给你。小组项目我们照常做，我这部分会按时完成。",
+   "reply": "阿航，谢谢你昨晚这么认真地跟我说，我知道这需要勇气。不过我对你没有那种感觉，所以我的回答是不。耳机太贵重了，我不能收，这两天就还给你。小组项目我们照常做，我这部分会按时完成。",
    "lang": "zh",
    "note": "贵重礼物一起退回，免得“收了礼物”被当成还有可能；共同的项目照常进行，彼此都不用尴尬。"
   },
@@ -186,10 +186,10 @@
   },
   {
    "id": "romantic-let-down-027",
-   "situation": "我在一个游戏群里认识阿凯两年了，我们和另外三个人每周五晚上一起组队，从没见过面。昨晚他私聊跟我表白，说想下个月来杭州见我。我对他没有那种感觉，但很想继续每周五一起打游戏。",
-   "reply": "阿凯，谢谢你跟我说这些，我知道说出口不容易。不过我对你没有那种感觉，所以下个月就不见面了，免得你白跑一趟。这两年周五晚上一起组队我真的很开心，如果你愿意，我们照常一起玩；你想先缓几周也完全没关系。",
+   "situation": "我在游戏群里认识阿凯两年，一直只在网上组队，从没见过面。上周他表白，我已经明确拒绝了。今天他说买了周六来杭州的火车票，要“当面谈谈”，还说知道我在哪个学校。我不想见他。",
+   "reply": "阿凯，我上周已经说清楚了，答案不会变。我不会跟你见面，请不要来杭州找我。之后我不会再回复。",
    "lang": "zh",
-   "note": "网友表白：在对方订行程前说清楚；只有真心想继续一起玩才提照常组队，并给他退一步的空间。"
+   "note": "拒绝之后对方还要上门“当面谈”，这是安全问题，不是礼貌问题：只回这一次，截图保存聊天记录，在游戏和微信里拉黑并举报，告诉室友或辅导员；如果他真的出现在学校或住处附近，联系学校保卫处或直接打110。"
   },
   {
    "id": "romantic-let-down-028",

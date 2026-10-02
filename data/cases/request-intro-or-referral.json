@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -225,6 +225,13 @@
    "reply": "Hi Alice, could I ask a favour? You mentioned Dev Patel ran operations for a coffee chain and might be open to a move. Would you be comfortable asking him if he'd like a 20-minute chat about the operations manager role at Crumbwell? No commitment on his side, and if you'd rather not, or you think he isn't looking, just say.\nIf you're up for it, here's a blurb you can forward:\n\"Dev, my friend Sara Klein runs Crumbwell Bakeries, four bakeries with 30 staff, and she's hiring an operations manager, £48,000, hybrid. She'd love a 20-minute chat, no commitment, if you're curious. Shall I pass on your email?\"\nI'll let you know how it goes either way.\nSara",
    "lang": "en",
    "note": "When you're the one hiring, the blurb leads with the salary and setup so Dev can say no before anyone's time is spent."
+  },
+  {
+   "id": "request-intro-or-referral-033",
+   "situation": "I'm Hannah Moss. I was a payroll manager for nine years, then took three years out to care for my dad. My old friend Leila works in finance at Calder Homes, which runs a 12-week paid returnship for people coming back after a career break; applications close on Friday 23 October. We still text, but we've never worked together.",
+   "reply": "Hi Leila, could I ask a favour? I'm applying for the returnship at Calder Homes, and I wondered if you'd be comfortable referring me. We've never worked together, so if you'd rather not put your name to it, just say, and it changes nothing between us. If you're up for it, here's a line you can paste: \"Hannah Moss was a payroll manager for nine years, then took three years out as a carer. She's applying for the 12-week returnship.\" Applications close on Friday 23 October, and I'll let you know how it goes either way.\nHannah",
+   "lang": "en",
+   "note": "Coming back from a career break: name the gap plainly in the blurb so your friend never has to explain it, and keep the out real."
   }
  ]
 }

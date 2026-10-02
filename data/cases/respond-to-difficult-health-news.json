@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -225,6 +225,13 @@
    "reply": "周姐，谢谢你告诉我，也谢谢你信得过我。听到这个消息我很难过。10月5日周一店休，我单独给你开门，就我们两个人，慢慢剪，想剪多短我们一起商量。这次不收钱。几点来你定，这条不用急着回。",
    "lang": "zh",
    "note": "服务关系里也一样：不问病情，给一个具体安排，把私密和主动权留给她。"
+  },
+  {
+   "id": "respond-to-difficult-health-news-033",
+   "situation": "My friend Jess texted that her doctor found a lump in her breast; she had a biopsy yesterday and won't get the results until next Thursday. She wrote 'trying not to spiral but the waiting is awful.' I work from home on Thursdays.",
+   "reply": "Jess, thank you for telling me. A whole week of waiting sounds awful, and spiralling a bit would be completely normal. I'm not going to guess at the results; I'm just here, for the waiting and for whatever comes after. I work from home on Thursdays, so I can be with you when you get the call, or on the phone, whichever you'd like. No need to reply.",
+   "lang": "en",
+   "note": "In the waiting stage, skip 'I'm sure it's nothing': it makes her fear feel unreasonable. Offer company for the day the news comes."
   }
  ]
 }

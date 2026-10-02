@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -225,6 +225,13 @@
    "reply": "Hey Nadia, I believe you that it was working fine for you, swelling batteries are easy to miss from the outside. The shop says it had been going for a while, and the replacement is $120. Would you be up for splitting it, $60 each? My Venmo is @jo-park. Either way, thanks for selling it to me, the rest of it is great.",
    "lang": "en",
    "note": "When you bought from a friend, don't argue about who knew what: accept her account, give the number, and propose a fair split."
+  },
+  {
+   "id": "money-between-friends-033",
+   "situation": "My friend Callum has owed me £180 for his festival ticket since July; I reminded him once in August and he said he'd sort it. He's just posted photos from a weekend in Barcelona and I'm annoyed, but I want to keep it about the money. He paid me back for gig tickets in March by bank transfer, and my car insurance renews at the end of October.",
+   "reply": "Hey Callum, bumping the £180 for the festival ticket from July. The same account you sent the gig money to in March works. My car insurance renews at the end of October, so before then would be a real help. Cheers!",
+   "lang": "en",
+   "note": "Leave the Barcelona photos out entirely: once it's about how he spends his money, it's about character, not the debt."
   }
  ]
 }

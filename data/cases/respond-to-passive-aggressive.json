@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -225,6 +225,13 @@
    "reply": "王总，收到。为了让董事会看到完整情况，我把两个方案列一下：一是10月16日按原计划带CSV导出上线，用量看板10月30日补上；二是16日先上用量看板，导出功能挪到10月30日。不管选哪个，两个功能10月30日都能上线。您看选哪个？需要的话，我可以一起参加跟董事会的汇报。",
    "lang": "zh",
    "note": "不接话里的刺，只回应内容：把真实的取舍写下来，免得“交付不了”成为传出去的版本。"
+  },
+  {
+   "id": "respond-to-passive-aggressive-033",
+   "situation": "My friend Zoe asked me to help her move flats on Saturday. I said I couldn't because I'm at my nephew's christening all day, and offered to bring pizza round to her new place on Sunday evening instead. She replied 'No worries, I'll ask people who actually show up for their friends 🙂'.",
+   "reply": "I'm sorry I can't be there on Saturday, I know moving day is a lot. The christening is all day, so that one can't move, but my Sunday offer stands: pizza at your new place, on me. Does around 7 work?",
+   "lang": "en",
+   "note": "When the dig follows your no, keep the no, restate your offer warmly and leave the bait alone; if the digs keep coming, name the pattern."
   }
  ]
 }

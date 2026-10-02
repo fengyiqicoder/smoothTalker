@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 32,
+ "count": 33,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -225,6 +225,13 @@
    "reply": "Dear Mr Fenwick,\nThank you for confirming my notice to leave Flat 3, 60 Rowan Street on 31 October. The move-in date for my new flat has slipped to 14 November, so I'd like to ask whether I could stay on until Saturday 14 November. I'd pay £550 for the extra two weeks, and I'd do the check-out and hand back the keys that day. If you already have plans for the flat, I understand, and 31 October stands. Could you let me know by Wednesday 7 October, and if it's a yes, confirm the new end date in writing?\nKind regards,\nHana Brooks",
    "lang": "en",
    "note": "Staying past your notice date is a request: the original date stands until he agrees in writing. Check the lease and local rules on what an extension means for the tenancy."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-033",
+   "situation": "I'm Graham, landlord of 23 Wren Street, Flat 1. My tenant Leila emailed today giving notice to leave on Monday 30 November, which fits the one month's notice in clause 6 of her lease; clause 13 says I give 24 hours' notice before viewings. Her £1,200 deposit is held in a deposit scheme. She's been a great tenant for three years, I'd gladly give her a reference, and I'd like to do the check-out at 10am on the 30th.",
+   "reply": "Hi Leila, thanks for your email. I confirm I've received your notice to end your tenancy at 23 Wren Street, Flat 1 on Monday 30 November, in line with clause 6 of the lease. I'd like to start viewings soon and will always give at least 24 hours' notice, as clause 13 says; are there days or times that suit you best? Could we do the check-out at 10am on the 30th, with the keys and meter readings then? Your £1,200 deposit will be returned through the deposit scheme once we've agreed any deductions, and I'll send a written breakdown either way. Thank you for three great years, and I'd be glad to give you a reference.",
+   "lang": "en",
+   "note": "Landlord receiving a valid notice: confirm the date in writing, keep viewings within the lease, and say how the deposit comes back; check the scheme's and local rules on timing."
   }
  ]
 }
