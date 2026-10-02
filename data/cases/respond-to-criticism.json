@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -239,6 +239,13 @@
    "reply": "Rocío, gracias por decírmelo claramente. Tienes razón con la velocidad: el martes fui a 140 por la autovía y no está bien, y menos llevándoos a vosotros. A partir del lunes salgo diez minutos antes para no ir con prisas. Lo de llegar siempre tarde lo veo distinto: solo fue ese martes, por las obras. Y si algo te da miedo mientras conduzco, dímelo en el momento, por favor.",
    "lang": "es",
    "note": "Cuando la crítica toca la seguridad, se acepta sin peros y se cambia ya; el desacuerdo sobre el 'siempre' cabe en una frase."
+  },
+  {
+   "id": "respond-to-criticism-035",
+   "situation": "我在一个业余乐队打鼓。排练完主唱阿乐私信我，说我“每次副歌都拖拍，整首歌都被我拖垮了”。我回去听了排练录音，第二段副歌确实拖了，但第一段没问题；桥段放慢是上周大家一起定的。下周六还要排练。",
+   "reply": "阿乐，谢谢你直接跟我说。我回去听了录音，第二段副歌确实拖了，这是我的问题，这周我每天跟着节拍器练这一段。第一段副歌我听着是稳的，桥段放慢是上周大家一起定的，这两处我看法不太一样。下周六排练时，你觉得哪里拖了，能当场提醒我吗？我想知道具体是哪几小节。",
+   "lang": "zh",
+   "note": "用录音说话：认下录音里听得到的问题并给出练法，不同意的部分说一句，再请他当场指出具体位置。"
   }
  ]
 }

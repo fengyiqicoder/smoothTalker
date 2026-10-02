@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -239,6 +239,13 @@
    "reply": "Customer service: Maya was the strongest person on our till. Several regulars asked for her by name, and she ran our stock system on her own through our busiest Christmas.\nReliability and punctuality: in her first six months she was late around ten times. That stopped once we moved her start time from 8am to 10am, and she was on time from then on.\nWould you re-employ: yes, on shifts starting at 10am or later.\nOwen Reid, Manager, Corner Shelf",
    "lang": "en",
    "note": "A reservation goes in as one factual line with what changed after it; leave out reasons you weren't told or that are hers to share."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-035",
+   "situation": "I'm Nora, finance manager at Tallis & Co. I managed Ben Carter as an accountant from 2022 to 2026: he closed year-end on time every year, and he set up our expense approval workflow, which cut processing from 10 days to 3. On his reference call, the hiring manager, Carl, has just asked: 'How much sick leave did he take? I heard he had some health stuff.' I won't discuss Ben's health or leave.",
+   "reply": "That's not something I'll go into, Carl; I keep health and leave out of references. What I can speak to is his work. He closed year-end on time every year I managed him, and he set up our expense approval workflow, which cut processing from 10 days to 3. I'm happy to answer anything else about how he did the job.",
+   "lang": "en",
+   "note": "Decline the health question in one line without hinting either way, then go straight back to the evidence; check your HR policy on what you can share."
   }
  ]
 }

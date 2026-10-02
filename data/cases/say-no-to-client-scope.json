@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -239,6 +239,13 @@
    "reply": "周经理，新品想早点上线，我理解。合同约定的交稿时间是10月12日（周一），提前到8日（周四）就属于加急。有两种方式：一是按原计划12日交稿；二是我加急赶稿，8日交，加急费按原价的50%，即1500元。您看选哪种？书面确认后我就按这个排期来。",
    "lang": "zh",
    "note": "节假日加急也是加急：不解释自己放假在做什么，也不接“反正有空”这句，给原计划和加价两个选项，让对方书面确认。"
+  },
+  {
+   "id": "say-no-to-client-scope-035",
+   "situation": "I'm Ruth, a freelance grant writer. Helen, director of a small food bank, wants me to write a £40,000 application to the Larkspur Fund and pay my £1,200 fee only if the grant is awarded. I don't work on success fees because the funder's decision is out of my hands, but I could review and edit a draft her team writes for £600.",
+   "reply": "Hi Helen, thanks for thinking of me for the Larkspur Fund application. I don't work on a success-fee basis: the funder's decision is out of my hands, so my fee covers the writing either way, and it stays at £1,200. If that's more than you can commit before knowing the outcome, I can review and edit a draft your team writes, for £600. Which would suit you better?\nRuth",
+   "lang": "en",
+   "note": "A fee tied to someone else's decision is a payment change, not a discount; hold the rate and offer a smaller paid scope."
   }
  ]
 }

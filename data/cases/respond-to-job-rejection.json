@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -238,6 +238,13 @@
    "reply": "孙女士您好，谢谢您告知结果，也谢谢这一个月来您帮我安排各轮面试。结果我尊重。只想确认一点：如果这次的决定和背调中的某项信息有关，方便告诉我是哪一项吗？我手上有前公司开的离职证明，写明2025年6月30日离职，如果是信息有出入，我可以提供。不方便说也完全理解。\n苏晴",
    "lang": "zh",
    "note": "背调后被拒可能是信息有误：只问一个窄问题，主动提出可以提供证明，不争论决定本身。"
+  },
+  {
+   "id": "respond-to-job-rejection-035",
+   "situation": "I'm Maya, 16, and I applied for my first Saturday job at Ferngrove Garden Centre. The manager, Mr Patel, interviewed me for 15 minutes and showed me round the plant nursery, and today he emailed that they went with someone who can also work Sundays. In the interview he mentioned they take on extra Saturday staff in the run-up to Christmas.",
+   "reply": "Hi Mr Patel, thank you for letting me know, and for showing me round the plant nursery during the interview. I understand you needed someone for Sundays too. You mentioned you take on extra Saturday staff before Christmas: could you keep me in mind for that? Thanks again,\nMaya",
+   "lang": "en",
+   "note": "A first-job rejection: one specific thank-you, no explaining your availability, and one concrete door to keep open."
   }
  ]
 }

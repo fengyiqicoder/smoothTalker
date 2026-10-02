@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -239,6 +239,13 @@
    "reply": "Hi Mrs Adeyemi, your special order #1458, the cookbook hardcover, is out of stock: our distributor has just told us the reprint reaches us on Friday 20 November. The reprint price has gone up to $38, but you've paid $32 and that's what it stays. Three options: wait, and I'll let you know the day it arrives; take the paperback edition, which is in stock, and I'll refund the $14 difference today; or a full refund of $32 today. If I don't hear back by next Friday, I'll keep your order for the 20th. Theo, Larkspur Books",
    "lang": "en",
    "note": "When the restock costs more, honour the price you took; the customer shouldn't pay for the wait twice."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-035",
+   "situation": "Je m'appelle Léa et je vends des bougies artisanales en ligne (atelier Mèche Claire). La commande 4417 de M. Dubois (52 €) a été perdue par le transporteur, je lui ai renvoyé un colis de remplacement le 18 septembre, et ce matin le transporteur m'a confirmé que celui-ci est perdu aussi. Je peux lui rembourser les 52 € aujourd'hui, ou lui renvoyer la commande lundi en envoi suivi avec signature, livrée le mardi 6 octobre, avec un coffret de 3 bougies offert.",
+   "reply": "Bonjour M. Dubois, le colis de remplacement de votre commande 4417 est perdu lui aussi : le transporteur me l'a confirmé ce matin. Après deux pertes, je ne veux pas vous faire attendre une troisième fois sans votre accord. Deux options : je vous rembourse les 52 € aujourd'hui, ou je vous renvoie la commande lundi en envoi suivi avec signature, livrée le mardi 6 octobre, avec un coffret de 3 bougies offert. Sans réponse de votre part d'ici lundi, je vous rembourse. Toutes mes excuses pour ce double contretemps.\nLéa, atelier Mèche Claire",
+   "lang": "fr",
+   "note": "Après une deuxième perte, le remboursement devient l'option par défaut : on ne refait pas attendre le client sans son oui."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -239,6 +239,13 @@
    "reply": "爸、妈，有件事想先跟你们说，周六回家再细聊：上个月医生确诊我是成人ADHD，就是注意力缺陷多动障碍。我已经按医嘱开始治疗，这几周状态好了很多，说实话心里松了口气。这不是谁的错，更不是你们小时候没管好我，不用自责。资料先别去查，也先别跟亲戚说，有什么想问的，周六直接问我就好。",
    "lang": "zh",
    "note": "可能让读的人内疚的消息：事实放第一句，一句感受，再直接说清不是谁的错、希望他们怎么回应。"
+  },
+  {
+   "id": "share-personal-news-035",
+   "situation": "My husband Mark died two years ago, and I'm still close to his parents, Joan and Bill, who see our kids most weekends. I'm marrying Paul in the spring, and I want to tell Joan and Bill by letter before the kids mention it, let them know Mark will always be part of our family and so will they, and invite them to the wedding.",
+   "reply": "Dear Joan and Bill, I wanted you to hear this from me before the children mention it: Paul and I are getting married in the spring. Mark will always be part of this family, and so will you. It would mean a great deal to me and to the kids if you came to the wedding. Take whatever time you need with this, and I'd love to come round and talk whenever you're ready.",
+   "lang": "en",
+   "note": "News that may reopen grief: tell them first and individually, say what doesn't change, and give them room to respond in their own time."
   }
  ]
 }

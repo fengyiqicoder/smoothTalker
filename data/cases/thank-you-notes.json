@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -239,6 +239,13 @@
    "reply": "株式会社ミナト精工\n森部長\n\n昨夜は貴重なお時間をいただき、またすっかりご馳走になり、誠にありがとうございました。森部長が新人時代に工場で失敗されたお話が、とても心に残っております。この春に営業へ異動したばかりの私にとって、大きな励みになりました。来週火曜日のお打ち合わせでも、どうぞよろしくお願いいたします。\n\n高橋健",
    "lang": "ja",
    "note": "会食のお礼は翌日中に。ご馳走になったことに加え、相手の話の中で心に残った一点を具体的に書く。"
+  },
+  {
+   "id": "thank-you-notes-035",
+   "situation": "I'm Hannah. On our overnight flight from Boston to Dublin on Tuesday, the woman next to me, Fiona, a grandmother of five, walked my 10-month-old son Leo up and down the aisle for almost an hour so I could eat and sleep. She gave me her email, fiona.byrne@example.com, and asked me to send her a photo of Leo once we'd landed; we're in Dublin for a month visiting my sister.",
+   "reply": "Dear Fiona, it's Hannah, the mum with the baby next to you on Tuesday's overnight flight to Dublin. Thank you for walking Leo up and down the aisle for almost an hour so I could eat and sleep. You did it for a complete stranger as if it were nothing, and it was everything to me that night. As promised, here's a photo of Leo, safely landed and settling in at my sister's for the month. Thank you again, from both of us.\nHannah",
+   "lang": "en",
+   "note": "A stranger who helped in passing: say who you are first, name what she did, and keep the one promise she asked for."
   }
  ]
 }

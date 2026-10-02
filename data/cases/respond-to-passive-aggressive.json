@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -239,6 +239,13 @@
    "reply": "Hi Bernard, sorry to have missed Saturday's clean-up, I was working. I'd like to do my share: I'm free for two hours on Sunday afternoon, so if you tell me which jobs are still left, I'll get them done. Priya",
    "lang": "en",
    "note": "A dig sent to the whole list gets a private reply that does the fair part; no reply-all and no defence of the shift."
+  },
+  {
+   "id": "respond-to-passive-aggressive-035",
+   "situation": "大学室友阿琪周一微信问我能不能当她11月7日婚礼的伴娘，我这周项目上线忙晕了，今天周五才回。她刚回了一句：“哟，大忙人终于想起我了。”我当然愿意当伴娘，那天我会请好假。",
+   "reply": "抱歉这么久才回你，这周项目上线忙晕了，是我不好。伴娘我当然愿意！11月7日我请好假，全天都是你的。什么时候试伴娘服，你说一声我就到。",
+   "lang": "zh",
+   "note": "一次性的小刺：认一句晚回，直接回答她真正问的事，不接“大忙人”那句。"
   }
  ]
 }

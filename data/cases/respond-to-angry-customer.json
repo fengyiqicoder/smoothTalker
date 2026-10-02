@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -239,6 +239,13 @@
    "reply": "Mr Clarke, the screen we fitted on Monday has stopped responding to touch, and you're without a working phone again. That's on us, and I'm sorry. It's covered by our 90-day warranty: bring it in tomorrow from 10am and I'll replace it myself, free, in about an hour, with a loan phone for you while you wait. I want to put this right, and threats towards Sam or anyone on my team aren't acceptable; if that happens again, I'll end the conversation. I'm Dev, the owner, and you can reach me directly on 555-0178.",
    "lang": "en",
    "note": "Fix the problem and draw the line once, calmly; keep the email, brief Sam, and call emergency services if he turns up and threatens anyone."
+  },
+  {
+   "id": "respond-to-angry-customer-035",
+   "situation": "I'm Tara and I do dress alterations from home. Carol Greene, my best friend's mum, who I've known since I was a kid, paid me £180 to alter her dress for her son's wedding on Saturday 10 October; she's messaged upset that the hem is uneven and 'I expected better from you of all people'. It's my mistake: I pinned it with her in flat shoes instead of her wedding heels and never asked. I can redo it free with her in the heels, fitting Monday at 6pm or Tuesday at 10am, ready by Wednesday, and refund the £45 hem charge today.",
+   "reply": "Carol, you're right, the hem is uneven, and with the wedding on Saturday 10 October that's the last thing you need. That's my mistake: I pinned it with you in flat shoes and never asked about your wedding heels, and I'm sorry. I'll redo it free, with you in the heels, and have it ready by Wednesday. Could you come for a fitting on Monday at 6pm or Tuesday at 10am? I'm also refunding the £45 hem charge today.",
+   "lang": "en",
+   "note": "When the customer is practically family, keep the business shape: own the specific mistake, a fix with a date and a proportionate make-good, without leaning on the friendship to soften it."
   }
  ]
 }

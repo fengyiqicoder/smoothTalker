@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -239,6 +239,13 @@
    "reply": "班长，我是刘洋，2014年在新疆你带的那批新兵。一晃十年没联系了。今天刷到你带闺女去天安门看升旗的视频，一下想起当年冬天站夜岗，你半夜给我们送热馒头。这些年过得怎么样？不急着回，就是想跟老班长问声好。",
    "lang": "zh",
    "note": "老战友、老上级：先报上当年的身份帮他想起你，再用一个具体的共同记忆，问一个好回答的问题。"
+  },
+  {
+   "id": "reconnect-after-silence-035",
+   "situation": "I'm Sean. My old friend Kieran and I drifted about three years ago when my drinking got bad, and I missed his 30th after promising I'd be there; there was no big fight. I've been sober a year now, and I just saw on Instagram that he's restoring an old Vespa, the kind we always said we'd buy together. I want to reach out without making it a big amends speech.",
+   "reply": "Kieran, it's been about three years, which is far too long. I just saw you're restoring a Vespa, the kind we always said we'd buy together, and I couldn't not message. I'll say this once: I've been sober a year now, and I'm sorry I missed your 30th after promising I'd be there. How's the Vespa coming along? No rush to reply.",
+   "lang": "en",
+   "note": "Name the reason for the drift once, own the one specific thing, then hand him an easy question; the rest of the story can wait until he asks."
   }
  ]
 }

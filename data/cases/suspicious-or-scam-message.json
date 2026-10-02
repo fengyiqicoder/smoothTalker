@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -239,6 +239,13 @@
    "reply": "Hi, my name is Tom Reyes and I'd like to report a fraudulent payment. Last night I sent $240 by bank transfer to a seller called Jade for two concert tickets she advertised in a fan group on social media. This morning she has blocked me and the post has been deleted, so I believe it was a scam. Can you try to recall the payment, and tell me what else you need from me?",
    "lang": "en",
    "note": "Call straight away, since speed improves the chance of a recall; then report it to the police and the platform, and ignore anyone who later offers to recover the money for a fee."
+  },
+  {
+   "id": "suspicious-or-scam-message-035",
+   "situation": "我和室友小雨在墨尔本读书。她今天下午接到自称“中国大使馆”和“公安”的电话，说她涉嫌洗钱，要她保密、一个人去住酒店、开着视频随时汇报；她刚在微信上跟我说今晚不回宿舍了，让我别告诉别人。她的手机号我存着，我现在在宿舍。",
+   "reply": "小雨，先别再回那个电话里的人。真正的大使馆和警察不会在电话里让你保密、一个人去住酒店、开着视频汇报，这是专门针对留学生的骗局，很多人都遇到过，不是你的错。你告诉我不会给你惹任何麻烦。你现在在哪？把位置发我，我马上过去陪你，然后我们一起报警。",
+   "lang": "zh",
+   "note": "发完就打她存着的号码；联系不上她，或她说已经转了钱、被要求拍视频，马上打当地紧急电话报警，钱已转出的同时联系银行。"
   }
  ]
 }

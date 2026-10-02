@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -239,6 +239,13 @@
    "reply": "李阿姨，屏幕下午4点就能换好，280元。检测时看到电池健康度只有72%，您也说一天要充两次电，所以顺便提一下：现在一起换电池加120元，多等半小时就行；以后单独来换是150元。要是一天充两次您觉得不麻烦，先不换也完全没问题，就按换屏幕来。",
    "lang": "zh",
    "note": "理由来自她自己说的充电次数，价格和多等的时间说清，不换也给足台阶。"
+  },
+  {
+   "id": "upsell-without-pushiness-035",
+   "situation": "I'm Ade, a freelance bookkeeper. My client Marisol runs a two-chair hair salon and pays me $150 a month for bookkeeping; on our call she mentioned she's hiring her first employee, starting Monday 2 November. I could run payroll for her for $60 a month more, but the accounting software she already uses has a payroll feature she could run herself, and I'd show her how in a free 30-minute session.",
+   "reply": "Hi Marisol, congratulations on hiring your first employee! Your bookkeeping carries on as usual. Since they start on Monday 2 November, one thing worth thinking about is payroll: I can run it for you for $60 a month on top of your $150. Honestly, the payroll feature in the software you already use is a perfectly good option too, and I'd happily show you how to run it yourself in a free 30-minute session. Either is fine, or neither if you've already got it covered.",
+   "lang": "en",
+   "note": "The reason comes from the client's own news, and the free do-it-yourself route sits right next to the paid one."
   }
  ]
 }

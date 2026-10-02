@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -239,6 +239,13 @@
    "reply": "Thank you, Jo, for holding us to our word. You're right that our bulk stock arrives in 20-litre plastic drums, and calling ourselves a 'plastic-free shop' overstated it. The drums go back to the supplier to be refilled, and we should have said so plainly. Our website now says 'plastic-free for customers: bring your own containers', and there's a new page explaining how our stock arrives. If you'd like to talk it through, I'm at ana@example.com. Ana, Fernleaf Refill",
    "lang": "en",
    "note": "When a review challenges a marketing claim, fix the claim rather than defend it, and show the new wording."
+  },
+  {
+   "id": "respond-to-negative-review-035",
+   "situation": "Ich bin Jonas und habe eine kleine Bäckerei, die Backstube Lindner; meine Adresse ist jonas@example.com. Gestern hat 'M. Becker' bei Google einen Stern gegeben, nur mit dem Text 'Nie wieder.' Wir wissen nicht, um welchen Besuch es geht, und finden in unseren Bestellungen keinen Namen dazu.",
+   "reply": "Danke für Ihre ehrliche Rückmeldung. Es tut mir leid, dass Sie nach Ihrem Besuch nicht wiederkommen möchten; das wünschen wir uns für niemanden. Ich würde gern verstehen, was passiert ist, damit wir es besser machen können. Schreiben Sie mir gern direkt an jonas@example.com. Jonas, Backstube Lindner",
+   "lang": "de",
+   "note": "Bei einer Bewertung ohne Details nichts raten und nichts bestreiten: kurz bedauern und einladen, es privat zu erklären."
   }
  ]
 }

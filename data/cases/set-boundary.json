@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -239,6 +239,13 @@
    "reply": "Pete, you're one of my favourite people, and I don't want politics getting between us. From now on I'm not going to reply to political videos or talk about the election at dinner; if it comes up, I'll change the subject. Everything else, I'm all yours, especially fishing. Still on for Saturday the 17th?",
    "lang": "en",
    "note": "If another video arrives, leave it unanswered and reply to his next non-political message as normal; don't debate the boundary itself."
+  },
+  {
+   "id": "set-boundary-035",
+   "situation": "Since my breakup with Tom in June, my best friend Aisha keeps telling me news about him and sending me screenshots of his posts with his new girlfriend. I asked her lightly once to stop and it's still happening. From now on I won't open anything about Tom and I'll change the subject if he comes up, but I love our Friday wine nights.",
+   "reply": "Aisha, I love you, and our Friday wine nights are the best part of my week. I'm not going to hear news about Tom anymore, so if he comes up I'll change the subject, and I'll leave any screenshots of him unopened. Everything else, I want to hear all of it.",
+   "lang": "en",
+   "note": "If she says she thought you'd want to know, repeat it shorter: no Tom news. No new reasons."
   }
  ]
 }

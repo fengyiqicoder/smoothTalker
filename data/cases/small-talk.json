@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "small-talk-001",
@@ -239,6 +239,13 @@
    "reply": "I've just realised that after two months of Saturdays I don't know your name. I'm Hannah, by the way. So how was the first pottery class?",
    "lang": "en",
    "note": "Own the missing name lightly in one line so it's a shared joke, then pick up the thread she gave you last week."
+  },
+  {
+   "id": "small-talk-035",
+   "situation": "每周日晚上跟老家的爸爸视频，他总是“都挺好”“吃了”，三分钟就说挂了吧。妈妈偷偷告诉我，他今年在阳台种了一排辣椒，最近结果了，天天去看。我在上海，一盆植物都没养活过。",
+   "reply": "爸，听妈说你阳台的辣椒结果了？结了多少个？把手机转过去让我看看呗。我在上海一盆植物都没养活过，你这手艺得教教我。",
+   "lang": "zh",
+   "note": "跟话少的长辈视频，问他正在用心的东西，最好让他拿给你看；接着顺着他的回答问“怎么种的”，别急着换话题。"
   }
  ]
 }

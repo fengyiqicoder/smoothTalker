@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -246,6 +246,13 @@
    "reply": "Great question, Kofi, and honestly I don't know. That choice was made before I joined. Lin wrote that code and she's on the platform team now, so I'll message her today and ask for 15 minutes this week. Want to join that chat? You spotted it, so you should hear the answer first-hand.",
    "lang": "en",
    "note": "A senior saying 'I don't know' to a junior shows it's safe to ask; the next step and an invite turn it into teaching."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-036",
+   "situation": "I'm Rob, an account manager. Our new client in Monterrey, Alondra Textiles, works only in Spanish, and I need our 2-page onboarding guide translated by Friday 9 October. Daniela, a data analyst on another team, speaks Spanish and has already translated three emails for people on my team this month as favours; if she says yes I'll ask her manager, Gwen, to count it as her work, and if not we'll pay an outside translator.",
+   "reply": "Hi Daniela, I have an ask, and I know you've had a few of these from my team lately. Our new client in Monterrey, Alondra Textiles, works only in Spanish, and I need our 2-page onboarding guide translated by Friday 9 October. It isn't your job, so if you're up for it I'll ask Gwen to count it as part of your work, not a favour on top. And if it's a no, that's completely fine: we'll pay an outside translator.",
+   "lang": "en",
+   "note": "When one person keeps getting asked for a skill outside their role, name it, make the work official, and make no a real option."
   }
  ]
 }

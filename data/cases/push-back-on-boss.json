@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -239,6 +239,13 @@
    "reply": "Hi Hannah, I want the timesheets in on time while I'm away. The catch is sharing my payroll login: anything Leo entered would show up under my name, and my account can see everyone's pay details. Two options: I ask IT today for a temporary timesheet-only account for Leo, which they can set up by Monday morning, or Leo collects the timesheets and Priyanka in finance, who already has access, enters them. I'd recommend the first. Which would you prefer?",
    "lang": "en",
    "note": "Yes to the goal, no to the shared password; if you're still told to share it, check the company's IT security policy and raise it with IT before doing anything."
+  },
+  {
+   "id": "push-back-on-boss-035",
+   "situation": "我在一家食品包装厂做质检员。车间主任老韩让我在今天这批2000箱餐盒的质检单上直接签字，说明早要发货，来不及检。这批已经抽检完1200箱，剩下800箱大概要两小时；我可以今晚加班两小时检完再签，或者明早先发检过的1200箱，剩下800箱中午前检完再发。",
+   "reply": "韩主任，明早按时发货我也想保证。只是没检过的货我不能在质检单上签字，签了就等于替没做过的检验担保，万一出问题，客户和厂里都说不清。两个办法：一是我今晚加班两小时把剩下800箱检完，检完就签，明早照常全部发货；二是明早先发已经检过的1200箱，剩下800箱中午前检完再发。我建议第一个。您看选哪个？",
+   "lang": "zh",
+   "note": "对签假单说不，对按时发货说是；如果他坚持要你先签，不要签，用文字留下记录，并向质量经理或公司的举报渠道反映。"
   }
  ]
 }

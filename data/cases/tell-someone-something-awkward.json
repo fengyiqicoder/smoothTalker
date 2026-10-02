@@ -21,7 +21,7 @@
    "situation": "I manage a small warehouse office team. One of my reports, Derek, has had noticeable body odour for a few weeks and two people have mentioned it to me. I need to raise it with him privately.",
    "reply": "Derek, can I raise something a bit personal? It stays between us. Over the last few weeks I've noticed a body odour at times, mostly in the afternoons. I'm not assuming anything about the reason. If something's going on, a health thing or something at home, tell me and we'll work out what helps. Otherwise, can we agree you'll keep an eye on it, and that's the end of it?",
    "lang": "en",
-   "note": "Never mention that others complained. Say it once, in person, and don't bring it up again if it's fixed."
+   "note": "Never mention that others complained. Say it once, in person, and don't bring it up again if it's fixed. If he mentions a health or personal issue, point him to HR or your employee assistance programme, and to a doctor for anything medical."
   },
   {
    "id": "tell-someone-something-awkward-004",
@@ -35,7 +35,7 @@
    "situation": "I told my gym buddy Marcus, privately, that there's been a strong smell after our sessions lately. He replied 'wow, ok, thanks for that I guess' and has been short with me since. We train together Tuesdays and Thursdays.",
    "reply": "Marcus, I didn't mean to upset you. I only said it because I'd want someone to tell me. That's all, I won't mention it again. Still on for Thursday?",
    "lang": "en",
-   "note": "When they get defensive, don't repeat the details or add evidence. One line, then straight back to normal."
+   "note": "When they get defensive, don't repeat the details or add evidence. One line, then straight back to normal. If he later raises a health worry himself, suggest a doctor and leave it there."
   },
   {
    "id": "tell-someone-something-awkward-006",
@@ -74,10 +74,10 @@
   },
   {
    "id": "tell-someone-something-awkward-011",
-   "situation": "I'm at a trade fair with a client, Sabine, who's about to go on stage for a 20-minute talk. The size sticker from her new blazer is still on the back of the collar, a big 'M'. She's the client and I don't know her that well.",
-   "reply": "Sabine, quick one before you go up: the size sticker from your blazer is still on the back of the collar. Want me to get it? Happens with every new jacket.",
-   "lang": "en",
-   "note": "Client or not, a five-second fix gets told immediately and quietly; offering to remove it saves her twisting round in the wings."
+   "situation": "Minha colega de trabalho Carla me mandou por engano no WhatsApp um áudio que claramente era para o marido, sobre uma briga dos dois. Ouvi só os primeiros segundos, parei e apaguei. A gente se dá bem, mas não somos próximas.",
+   "reply": "Carla, acho que o último áudio que você me mandou era para outra pessoa. Ouvi só o comecinho, parei e já apaguei aqui. Acontece com todo mundo!",
+   "lang": "pt",
+   "note": "Diga só que não era para você e o que fez com ele, sem comentar o conteúdo, e nunca mais toque no assunto."
   },
   {
    "id": "tell-someone-something-awkward-012",
@@ -98,7 +98,7 @@
    "situation": "儿子14岁，上初二，最近打完球回家身上汗味很重，他自己好像没察觉。想今晚单独跟他说，又怕伤他自尊。",
    "reply": "儿子，跟你说件小事，就咱俩之间：最近打完球回来，身上汗味挺明显的。这个年纪长身体，谁都会这样。运动完洗个澡，衣服一天一换就行，要不要买瓶止汗露，你自己挑。好了，就这些，吃饭吧。",
    "lang": "zh",
-   "note": "对青春期的孩子也是私下说、一句讲清楚、说明这很正常，再给一个具体办法，之后不再反复提。"
+   "note": "对青春期的孩子也是私下说、一句讲清楚、说明这很正常，再给一个具体办法，之后不再反复提。如果勤洗澡换衣后味道还是很重，可以带他去看看医生。"
   },
   {
    "id": "tell-someone-something-awkward-015",
@@ -109,7 +109,7 @@
   },
   {
    "id": "tell-someone-something-awkward-016",
-   "situation": "先輩の田中さんと、昼にニンニクたっぷりのラーメンを食べたあと、これから客先訪問です。田中さんの口臭が気になりますが、本人は気づいていないようです。移動中に二人きりなので、今言いたいです。",
+   "situation": "先輩の田中さんと、昼にニンニクたっぷりのラーメンを食べたあと、これから客先訪問です。田中さんの口臭が気になりますが、本人は気づいていないようです。移動中に二人きりなので、今言いたいです。ミントタブレットを持っています。",
    "reply": "田中さん、ちょっと言いにくいんですが、さっきのラーメンのニンニクが少し残っているかもしれません。ミントタブレットがあるので、よかったらどうぞ。よくあることなので、気にしないでください。",
    "lang": "ja",
    "note": "目上の人でも、すぐ直せることなら二人きりのときに一言で伝え、対処法を添えて、あとは話題を変える。"
@@ -126,7 +126,7 @@
    "situation": "女儿的同学朵朵周末在我们家过夜，两个孩子玩得很开心。昨晚给朵朵梳头时，我看到她头发里有几只虱子和虱卵。我和朵朵妈妈只是接孩子时认识，想私下发微信告诉她。",
    "reply": "朵朵妈妈你好，朵朵这两天在我们家玩得很开心，谢谢你让她来！私下跟你说件小事：昨晚给她梳头时，我看到她头发里有几只小虱子和虱卵。小朋友之间传这个挺常见的，我这边也会给我女儿查一查。就这个，别有负担哈。",
    "lang": "zh",
-   "note": "关于孩子的尴尬事也是私下、一句说清、说明很常见，不在家长群里提，说完就不再追问。"
+   "note": "关于孩子的尴尬事也是私下、一句说清、说明很常见，不在家长群里提，说完就不再追问。如果对方问怎么处理，建议她咨询社区医生或药店药剂师。"
   },
   {
    "id": "tell-someone-something-awkward-019",
@@ -159,7 +159,7 @@
   {
    "id": "tell-someone-something-awkward-023",
    "situation": "I teach a Tuesday and Thursday evening strength class. One of my regulars, Jen, wore black leggings today that went see-through under the studio lights every time we did squats, and she clearly hadn't noticed. I want to say something quietly after class.",
-   "reply": "Jen, can I mention something quickly, just between us? During the squats today those leggings went a bit see-through under the studio lights. It happens with lots of black leggings once they've stretched, and I'd want someone to tell me. See you Thursday!",
+   "reply": "Jen, can I mention something quickly, just between us? During the squats today those leggings went a bit see-through under the studio lights. It happens with lots of black leggings once they've stretched, and I'd want someone to tell me. See you next class!",
    "lang": "en",
    "note": "A quiet word after class, not during it; one plain sentence, normalise it, and never bring it up again."
   },
@@ -172,10 +172,10 @@
   },
   {
    "id": "tell-someone-something-awkward-025",
-   "situation": "My desk neighbour Priya started wearing a strong new perfume this week. I get migraines that strong scents can set off, and I've had two at my desk since Monday. We get on well and she clearly has no idea; I want to mention it privately, once.",
-   "reply": "Priya, can I mention something small, just between us? I get migraines that strong scents can set off, and the new perfume has triggered a couple at my desk this week. It smells lovely, it's just my head. Would you mind going lighter on it on office days? That's all, I won't bring it up again.",
+   "situation": "My desk neighbour Priya came back from two weeks' holiday on Monday, but her out-of-office is still on: I got it again when I emailed her this morning. We get on well and she clearly hasn't noticed.",
+   "reply": "Priya, quick one: your out-of-office is still on, I got it again this morning. Probably worth switching off before more people see it. Everyone forgets that one after a holiday!",
    "lang": "en",
-   "note": "Make it about your migraines, not her taste; say it once, privately, and drop it."
+   "note": "A two-minute fix gets a quick private word straight away, with no teasing about the holiday, and then it's forgotten."
   },
   {
    "id": "tell-someone-something-awkward-026",

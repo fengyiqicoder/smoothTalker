@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -246,6 +246,13 @@
    "reply": "Amara, I need to flag a mistake: last Monday I swapped the labels on the control and treated plates in your drug-response run, so this week's data from that run can't be used. I found it today when I checked the plates against the freezer log. I can restart the run on Monday and have results to you by Friday 16 October. I'm sorry, this one's mine. From now on I'll ask a colleague to double-check every label before plates go into the incubator.",
    "lang": "en",
    "note": "Flag it before anyone analyses the data, and say exactly which results are affected so none of them get used."
+  },
+  {
+   "id": "admit-mistake-at-work-036",
+   "situation": "我是社区药店的药师助理。今天上午10:20给王大爷发降糖药时，处方写的是每片0.5克，我拿成了同一种药每片0.85克的规格。11点核对发药记录时发现，11:05给他打了电话，他说还没吃，下午2点会把药拿回来换。要马上跟值班药师刘姐说。",
+   "reply": "刘姐，报告一个我的失误：今天上午10:20给王大爷发降糖药，处方是每片0.5克，我拿成了同一种药每片0.85克的。11点核对发药记录时发现的，11:05已经打电话给他，他说还没吃，下午2点会把药拿回来换。对不起，这是我的问题。他来换药时想请您一起核对，也看看要不要按店里的流程登记。以后发药前，我会对着处方把规格念一遍，再请第二个人复核。",
+   "lang": "zh",
+   "note": "用药出错先确认对方有没有服用；如果他已经吃了或有任何不适，马上请他联系医生，情况紧急就打120。"
   }
  ]
 }

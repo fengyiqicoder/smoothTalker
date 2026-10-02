@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -239,6 +239,13 @@
    "reply": "Hi Rosa! The ready-made Fern stops at XL, but I can knit it to your measurements for $40 extra, so $185 in total, and it takes about three weeks. Want me to send you the measuring guide?",
    "lang": "en",
    "note": "Answer the size question honestly in the first line, then the route that works, priced in full; nothing about her size beyond the measurements."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-035",
+   "situation": "Ich habe eine kleine Fahrradwerkstatt in Köln. Lena schreibt mir auf Instagram: 'Hi, flickt ihr heute noch einen Platten? Hinterrad, brauche das Rad morgen früh für die Arbeit.' Ein neuer Schlauch hinten kostet bei uns 18 Euro inklusive Schlauch, bei Nabenschaltung 25 Euro; wer vor 16 Uhr kommt, kann in etwa 30 Minuten wieder fahren, und wir haben bis 18 Uhr offen.",
+   "reply": "Hallo Lena, ja, das machen wir heute noch! Wir wechseln dafür den Schlauch: hinten 18 Euro inklusive Schlauch, mit Nabenschaltung 25 Euro. Wenn du vor 16 Uhr kommst, ist das Rad in etwa 30 Minuten fertig und du kannst einfach warten; offen haben wir bis 18 Uhr. Schaffst du es vor 16 Uhr?",
+   "lang": "de",
+   "note": "Eilige Anfrage: das Ja in die erste Zeile, der Preis mit der einen Variante, die ihn ändert, und eine Frage, die direkt zum Termin führt."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -239,6 +239,13 @@
    "reply": "Thanks for asking first, Jade, and congrats on the channel! We don't allow filming in group classes: people come to practise, not to be on camera, and the others in the room haven't agreed to it. What I can offer is the empty studio for 15 minutes after Thursday's class to film on your own, at no charge, or a private session at £45 where you can film the whole hour. Which would suit you?",
    "lang": "en",
    "note": "The reason is the other students, not 'policy', and both alternatives give her the footage she actually wants."
+  },
+  {
+   "id": "say-no-to-a-customer-request-035",
+   "situation": "我开儿童游泳馆，独立小班课要求满4岁，因为小班是一个教练带6个孩子，家长不下水。有位家长想让3岁半的女儿进小班，因为她的好朋友在那个班。我们有周六上午10点的亲子课，每节120元，家长陪着下水；她明年3月满4岁，到时候我可以优先给她留小班名额。",
+   "reply": "谢谢您这么信任我们，也看得出孩子很想跟好朋友一起上课。小班课这次报不了：小班是一个教练带6个孩子，家长不下水，所以要求满4岁，这是为了每个孩子在水里的安全。现在可以先上周六上午10点的亲子课，每节120元，您陪着她一起下水。明年3月她满4岁，我优先给她留小班的名额。",
+   "lang": "zh",
+   "note": "涉及安全的年龄线不破例；理由落在孩子的安全上，并主动给出现在能上的课和满龄后的安排。"
   }
  ]
 }

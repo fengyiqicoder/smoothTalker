@@ -4,7 +4,7 @@
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
-   "situation": "My team member Priya is leaving at the end of October to start a PhD in computational biology, after two years with us. Marcus takes over her forecasting pipeline. She's happy for me to share that. Slack post to our team of 8.",
+   "situation": "My team member Priya's last day is 30 October; she's leaving to start a PhD in computational biology, after two years with us. Marcus takes over her forecasting pipeline. She's happy for me to share that, and send-off drinks are on the 29th. Slack post to our team of 8.",
    "reply": "Some news: Priya's last day is 30 October. She's off to start a PhD in computational biology, which is exactly as impressive as it sounds. Priya, thank you for two years of turning our messiest data into things people could actually use. Marcus will pick up the forecasting pipeline, and I'll share the handover plan by next Friday. Send-off drinks on the 29th, details to follow.",
    "lang": "en",
    "note": "Share only what Priya agreed to, and say who picks up her work before anyone has to ask."
@@ -12,7 +12,7 @@
   {
    "id": "team-announcements-as-a-manager-002",
    "situation": "I have to announce our team is joining the weekend on-call rotation from Nov 1, one weekend in six, with a paid day off in lieu. The reason: we now run the payments service, and weekend incidents were landing on two burnt-out people. People will hate it.",
-   "reply": "From 1 November, our team joins the weekend on-call rotation. The reason: we now run the payments service, and weekend incidents were landing on two people who were burning out. For you, it means one weekend in six, with a paid day off the following week. I'll share the schedule by 16 October so you can swap early. If this creates a real problem for you, childcare or anything else, come talk to me this week and we'll work it out.",
+   "reply": "From 1 November, our team joins the weekend on-call rotation. The reason: we now run the payments service, and weekend incidents were landing on two people who were burning out. For you, it means one weekend in six, with a paid day off in lieu. I'll share the schedule by 16 October so you can swap early. If this creates a real problem for you, childcare or anything else, come talk to me this week and we'll work it out.",
    "lang": "en",
    "note": "No 'exciting' framing. Say what it costs them and where the flexibility is."
   },
@@ -32,8 +32,8 @@
   },
   {
    "id": "team-announcements-as-a-manager-005",
-   "situation": "I've resigned to lead a data team at a smaller company; my last day is Oct 30. I've told my boss Dana and she'll be interim manager for my team of 6 until they hire. Need to tell the team in our Thursday meeting and then post it in Slack.",
-   "reply": "Some news I wanted you to hear from me first: I've resigned, and my last day is Friday 30 October. I'm going to lead the data team at a smaller company, and leaving you all was the hardest part of the decision. From 2 November, Dana will be your interim manager; your roles, projects and review dates stay exactly as they are. I'll share what I know about hiring my replacement as soon as I know it. I'll hold a 1:1 with each of you before 16 October to hand over anything that matters to you, so ask me anything, here or privately.",
+   "situation": "I've resigned to lead a data team at a smaller company; my last day is Oct 30. I've told my boss Dana and she'll be interim manager for my team of 6 until they hire; their roles, projects and review dates don't change. Need to tell the team in our Thursday meeting and then post it in Slack.",
+   "reply": "As I shared in Thursday's meeting: I've resigned, and my last day is Friday 30 October. I'm going to lead the data team at a smaller company. From 2 November, Dana will be your interim manager; your roles, projects and review dates stay exactly as they are. I'll share what I know about hiring my replacement as soon as I know it. I'll hold a 1:1 with each of you before 16 October to hand over anything that matters to you, so ask me anything, here or privately.",
    "lang": "en",
    "note": "When the news is your own exit, the team's first worry is who they report to next, so answer that before anyone has to ask."
   },
@@ -46,8 +46,8 @@
   },
   {
    "id": "team-announcements-as-a-manager-007",
-   "situation": "This morning we laid off 3 people from my team of 11: Jonah, Wei and Carla. I told each of them myself at 9, then held a call with the other 8 at 11. Now I need the written summary for our team Slack. The cause is the Northwind contract ending in August; I agreed with the decision. Their accounts go to Priti, Sam and me. No more cuts are planned for us, but I can't see past March.",
-   "reply": "As we covered on the 11am call: this morning Jonah, Wei and Carla were let go as part of cuts across the company. I told each of them myself before we spoke. It's a hard day. The reason is that the Northwind contract ended in August and revenue fell below what our plan could carry; I agreed with the decision, and I hate what it means for three people we value. Your roles and pay don't change. Their accounts move to Priti, Sam and me, with a handover list by Friday 2 October. No further cuts are planned for our team; I can't see past March yet, and I'll tell you as soon as I know more. My calendar is open for 1:1s all week, and no question is too awkward.",
+   "situation": "This morning we laid off 3 people from my team of 11: Jonah, Wei and Carla. I told each of them myself at 9, then held a call with the other 8 at 11. Now I need the written summary for our team Slack. The cause is the Northwind contract ending in August; I agreed with the decision. Their accounts go to Priti, Sam and me. The other 8 keep their roles and pay, and we have an employee assistance programme. No more cuts are planned for us, but I can't see past March.",
+   "reply": "As we covered on the 11am call: this morning Jonah, Wei and Carla were let go. I told each of them myself before we spoke. It's a hard day. The reason is that the Northwind contract ended in August; I agreed with the decision, and I hate what it means for three people we value. Your roles and pay don't change. Their accounts move to Priti, Sam and me, with a handover list by Friday 2 October. No further cuts are planned for our team; I can't see past March yet, and I'll tell you as soon as I know more. If today is weighing on you, the employee assistance programme is there for you. My calendar is open for 1:1s all week, and no question is too awkward.",
    "lang": "en",
    "note": "Written summary after the live call: say the affected people heard first, own the decision, and be honest about how far ahead you can see."
   },
@@ -67,7 +67,7 @@
   },
   {
    "id": "team-announcements-as-a-manager-010",
-   "situation": "Reorg: from Monday Nov 2, two of my 9 analysts, Hugo and Rina, move to the Growth team under Carmen and take the marketing dashboards with them. Growth wants analysts inside the team, and I agreed. The other seven stay with me. I told Hugo and Rina 1:1 yesterday. Posting in team Slack after today's meeting.",
+   "situation": "Reorg: from Monday Nov 2, two of my 9 analysts, Hugo and Rina, move to the Growth team under Carmen and take the marketing dashboards with them. Growth wants analysts inside the team, and I agreed. The other seven stay with me, with the same role and pay, and marketing requests will go to Growth instead of our queue. Hugo and Rina will run handover sessions the weeks of Oct 12 and Oct 19. I told Hugo and Rina 1:1 yesterday. Posting in team Slack after today's meeting.",
    "reply": "As we covered in this morning's meeting: from Monday Nov 2, Hugo and Rina move to the Growth team under Carmen, and the marketing dashboards go with them. Growth needs analysts inside the team, and I agreed with the move. For the other seven of you, your role, pay and manager stay the same; what changes is that marketing requests will go to Growth instead of our queue. Hugo and Rina will run handover sessions the weeks of Oct 12 and Oct 19, and I'll share the schedule by Friday. Questions here or in a 1:1, and I'm booking 20 minutes with each of you next week anyway.",
    "lang": "en",
    "note": "The people moving heard it first; the post leads with the news, owns the decision and spends most of its words on what changes for those who stay."
@@ -82,7 +82,7 @@
   {
    "id": "team-announcements-as-a-manager-012",
    "situation": "Our teammate Samir died suddenly on Sunday. His family has said we can share the news and that funeral details will follow. We have an employee assistance programme. I told my team of 9 on a call this morning and now need the written follow-up in our Slack.",
-   "reply": "As I shared on this morning's call: Samir died suddenly on Sunday. His family has asked us to share that and nothing more for now, and I'll pass on funeral details as soon as they send them. There's no right way to feel today, and nobody is expected to be at full speed this week. None of Samir's work needs to move before Monday 5 October; I'll look at it with you next week, so please don't pick anything up in the meantime. If you need time off, tell me and I'll sort it, no explanation needed, and the employee assistance details are pinned in this channel. I'm around all day if you want to talk, or just sit together for a bit.",
+   "reply": "As I shared on this morning's call: Samir died suddenly on Sunday. His family has said we can share this, and I'll pass on funeral details as soon as they send them. There's no right way to feel today, and nobody is expected to be at full speed this week. None of Samir's work needs to move before Monday 5 October; I'll look at it with you next week, so please don't pick anything up in the meantime. If you need time off, tell me and I'll sort it, no explanation needed, and the employee assistance details are pinned in this channel. I'm around all day if you want to talk, or just sit together for a bit.",
    "lang": "en",
    "note": "A colleague's death: live first, then a short written note that shares only what the family agreed and takes the work pressure off explicitly."
   },
@@ -95,7 +95,7 @@
   },
   {
    "id": "team-announcements-as-a-manager-014",
-   "situation": "Leadership just cancelled Project Atlas, the billing redesign my team of 6 has spent five months on, to put everyone on reliability after this quarter's outages. I argued to finish phase one and lost, but I agree with the call overall. The invoice engine they built will be folded into the current billing system. I'm telling the team at standup tomorrow morning, then posting the summary in Slack.",
+   "situation": "Leadership just cancelled Project Atlas, the billing redesign my team of 6 has spent five months on, to put everyone on reliability after this quarter's outages. I argued to finish phase one and lost, but I agree with the call overall. The invoice engine they built will be folded into the current billing system. Their roles, pay and team stay the same, and reliability work starts Monday 5 October. I'm telling the team at standup tomorrow morning, then posting the summary in Slack.",
    "reply": "As I shared at standup this morning: Project Atlas is cancelled, effective today. The reason is this quarter's outages: the company is putting every spare engineer on reliability. I pushed to finish phase one first and didn't get it, but I agree with the decision overall. Your roles, pay and team stay the same; from Monday 5 October we move to reliability work, and I'll share the plan by Friday 9 October. The invoice engine you built gets folded into the current billing system, and I'll make sure leadership knows who built it. Questions here or in a 1:1 this week, including \"is the next project safe\".",
    "lang": "en",
    "note": "A cancelled project: lead with it, say what happens to their work and their next weeks, and credit what they built where leadership will see it."

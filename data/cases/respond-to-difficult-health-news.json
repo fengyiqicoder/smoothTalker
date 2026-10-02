@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -239,6 +239,13 @@
    "reply": "Raj, thank you for telling me, and I'm sorry, that's a lot to adjust to. Let's make Sunday evenings work for you: we can switch to video with captions on, or just text, whichever is easier, and you can change your mind any week. Nothing else changes. No need to reply tonight.",
    "lang": "en",
    "note": "When the news changes how someone communicates, the specific offer is to adapt to them, and let them choose the format."
+  },
+  {
+   "id": "respond-to-difficult-health-news-035",
+   "situation": "My dad, 67, texted me at 11pm: 'Had a funny turn this evening, left arm went numb and my words came out wrong for a few minutes. Fine now, don't want to make a fuss.' Mum is away at her sister's this week, and I live 40 minutes from him.",
+   "reply": "Dad, thank you for telling me. A numb arm and words coming out wrong can be signs of a stroke, even when they pass, so please call emergency services now. It isn't making a fuss, it's exactly what they're there for. I'm getting in the car and will be with you in 40 minutes. If you'd rather I call them for you, just say and I will.",
+   "lang": "en",
+   "note": "Symptoms happening now come before the usual no-need-to-reply: urge emergency help, and if he doesn't answer, call emergency services to his address yourself."
   }
  ]
 }

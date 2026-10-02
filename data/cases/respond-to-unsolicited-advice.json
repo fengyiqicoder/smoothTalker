@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -239,6 +239,13 @@
    "reply": "I know you say it because you've got my back, Soph, and I love that about you. We've decided, and I'm really excited about it. Whatever happens, I hope you'll always be someone I can call. See you at brunch on Sunday?",
    "lang": "en",
    "note": "When the pushback is a parting shot, agree with the care, keep the position, and don't argue about 'when it goes wrong'."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-035",
+   "situation": "At my cousin's engagement party, her fiancé's aunt Denise, who I'd met ten minutes earlier, told me I'd be 'so pretty if I lost a bit of weight' and recommended her diet group. She'd just told me she flew in from Denver for the party. I don't want to make a scene or discuss my body.",
+   "reply": "I'm happy as I am, thanks. So you flew in from Denver for this, how was the trip?",
+   "lang": "en",
+   "note": "A near-stranger commenting on your body gets the shortest rung: one line of position, no explanation, a new subject; if she tries again, repeat the same line."
   }
  ]
 }

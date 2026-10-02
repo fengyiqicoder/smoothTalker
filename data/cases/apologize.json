@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "apologize-001",
@@ -246,6 +246,13 @@
    "reply": "王阿姨，手链昨天在沙发缝里找到了。上周我当面问您是不是拿了，冤枉了您，真的对不起。您在我们家做了三年，一直很尽心，我却没先好好找就怀疑您，换成谁都会委屈。以后东西找不到，我会先自己仔细找，不会再随便怀疑人。",
    "lang": "zh",
    "note": "冤枉了人：先说真相，再认错和对方受的委屈，不解释当时为什么着急，也不要求她马上说没事。"
+  },
+  {
+   "id": "apologize-036",
+   "situation": "My friend Priya has been vegetarian her whole life. At my dinner party on Saturday I made a Thai curry and forgot the paste had shrimp in it; she'd eaten a full bowl before I checked the jar and told her. She was gracious in front of everyone but has been quiet since, and I've started reading every label.",
+   "reply": "Priya, I'm so sorry about Saturday. I served you a curry with shrimp paste in it, and you'd eaten a full bowl before I even checked the jar. You've been vegetarian your whole life and you trusted me to feed you, and I didn't take the care you deserved. You were gracious about it in front of everyone, and you shouldn't have had to be. I read every label now, and if you'll let me cook for you again, I'll have checked everything twice.",
+   "lang": "en",
+   "note": "Name what she ate and the trust it broke rather than how easy the slip was; don't ask if you're okay in the same message."
   }
  ]
 }

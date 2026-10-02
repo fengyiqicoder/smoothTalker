@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -239,6 +239,13 @@
    "reply": "阿伟，收到请柬了，真心恭喜你们！婚礼那天我就不去了，红包我先转给你，一点心意。祝你们新婚快乐，往后的日子都顺顺利利。",
    "lang": "zh",
    "note": "不去也不用编理由：一份真心的祝福加一个清楚的“不去”就够了，不追问新娘，也不提过去。"
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-035",
+   "situation": "My ex Josh and I broke up in April after two years. My friend Maddie says he keeps asking her to tell me he wants to talk, and yesterday he gave her a letter to pass on to me. I don't want to talk to him or read the letter, and I want to reply to Maddie so she can stop being in the middle.",
+   "reply": "Thanks for telling me, Maddie, and I'm sorry he's put you in the middle of this. My answer is no: I'm not going to talk to Josh, and I don't want the letter, so please hand it back to him or throw it away, whichever is easier for you. If he asks again, you can just tell him that and leave it there. You don't need to pass anything else on, and none of this changes anything between us.",
+   "lang": "en",
+   "note": "When an ex goes through a friend, answer the friend: a clear no she can repeat word for word, and permission to step out. If he keeps it up, keep a note of each contact, and contact the police if it starts to feel threatening."
   }
  ]
 }
