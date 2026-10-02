@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -246,6 +246,13 @@
    "reply": "Hi everyone, I'm Ruth Okonkwo, and I joined this week as CFO. I spent the last 12 years in finance at a hospital group, and the project I'm proudest of there was getting our suppliers paid in 30 days instead of 60. Outside work I play the cello, keenly rather than well. Over the next month I'd love to hear from anyone who's ever thought finance makes their job harder than it needs to be; my inbox is open, and no question is too small.",
    "lang": "en",
    "note": "A senior hello to a big room: one result people can picture, one human line, and an invitation that makes you easy to approach."
+  },
+  {
+   "id": "introduce-yourself-036",
+   "situation": "我叫何静，刚从上海总部调到成都分公司当市场部经理，部门二十来个人。周六部门聚餐，总经理让我举杯说几句，算是正式自我介绍。我在总部做了六年品牌，重庆人，特别能吃辣；下周想跟每位同事单独喝杯茶聊聊。",
+   "reply": "各位好，我是何静，这次从上海总部调过来，跟大家一起在市场部干活。之前我在总部做了六年品牌，来了以后最想先听听大家在一线碰到的真实情况。我是重庆人，吃辣应该不会给成都丢脸，好吃的馆子欢迎推荐。下周我想约每位同事单独喝杯茶，聊聊你们手上的事。先敬大家一杯，以后请多关照！",
+   "lang": "zh",
+   "note": "饭桌上的自我介绍要短：一个具体的工作背景、一个能接话的生活点、一个下周就能兑现的邀请，敬酒收尾。"
   }
  ]
 }

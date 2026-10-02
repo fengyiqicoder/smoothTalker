@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -246,6 +246,13 @@
    "reply": "Hi Nadia,\nFrom Tuesday 1 December, recurring invoices will only be available on the Pro plan, at $14 a month, and no longer on Basic. The automatic reminder emails behind them now cost more than Basic brings in for the customers who use them most. Everything else in Basic stays exactly the same, still at $8. If you already use recurring invoices on Basic, you keep them until 1 June 2027, so nothing changes for you before then. You can switch plans or cancel any time from your account page.\nRavi, Tallyhook",
    "lang": "en",
    "note": "Moving a feature to a higher plan is a price increase for the people who use it: name the feature in the first line and give them a long runway."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-036",
+   "situation": "Ich bin Katrin und habe die Fahrradwerkstatt Speiche in Freiburg. Ab Montag, 2. November, kostet ein Kostenvoranschlag 15 Euro, weil jede Prüfung etwa eine halbe Stunde Arbeit ist, die bisher unbezahlt blieb; wer die Reparatur dann bei uns machen lässt, bekommt die 15 Euro voll angerechnet. Die Reparaturpreise bleiben gleich, und ich schreibe es in den Newsletter und hänge es in der Werkstatt aus.",
+   "reply": "Hallo zusammen,\nab Montag, 2. November, kostet ein Kostenvoranschlag bei uns 15 Euro. Jede Prüfung ist etwa eine halbe Stunde Arbeit, und die blieb bisher unbezahlt. Wenn ihr die Reparatur dann bei uns machen lasst, rechnen wir die 15 Euro voll an, für euch ändert sich in dem Fall also nichts. Die Preise für Reparaturen bleiben genau gleich. Danke, dass ihr mit euren Rädern zu uns kommt!\nKatrin, Fahrradwerkstatt Speiche",
+   "lang": "de",
+   "note": "Eine neue Gebühr: Datum und Betrag zuerst, ein ehrlicher Grund, und gleich dazu der Weg, auf dem sie für die meisten nichts kostet."
   }
  ]
 }

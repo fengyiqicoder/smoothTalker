@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -246,6 +246,13 @@
    "reply": "Liebe Sandra, du hast es bestimmt schon gehört: Ich habe heute gekündigt und bin ab sofort freigestellt, deshalb konnte ich mich nicht richtig verabschieden. Meine Übergabenotizen zu meinen Kunden liegen im Teamordner. Danke für drei richtig gute Jahre enger Zusammenarbeit. Lass uns bald mal privat einen Kaffee trinken!",
    "lang": "de",
    "note": "Bei einer Freistellung bleibt die Nachricht privat und persönlich, ohne Firmen- oder Kundenthemen; was in der Freistellung erlaubt ist, steht im Arbeitsvertrag, im Zweifel nachfragen."
+  },
+  {
+   "id": "leave-or-quit-gracefully-036",
+   "situation": "Soy Lucía y coordino el equipo de soporte, seis personas, desde hace dos años. Echo de menos el trabajo técnico, así que le pedí a mi directora, Elena, volver a un puesto técnico y ya está aprobado: el cambio es efectivo el 1 de diciembre, Andrés asumirá la coordinación y le pasaré las reuniones individuales y la planificación de turnos. Me quedo en el equipo y quiero anunciarlo por correo; con ellos aprendí muchísimo, sobre todo en la migración del sistema de tickets en primavera.",
+   "reply": "Hola a todos:\nOs quería contar que, a partir del 1 de diciembre, dejo la coordinación del equipo y vuelvo a un puesto técnico; Elena ya lo sabe y está aprobado. Echo de menos el trabajo técnico, y es buen momento. Andrés asumirá la coordinación, y estas semanas le pasaré las reuniones individuales y la planificación de turnos. Gracias por estos dos años, sobre todo por cómo sacamos adelante la migración del sistema de tickets en primavera. Y no me voy a ningún sitio: sigo en el equipo, ahora con más tiempo para resolver tickets con vosotros.\nLucía",
+   "lang": "es",
+   "note": "Dejar un cargo sin dejar la empresa: la fecha, quién toma el relevo, un traspaso concreto y que quede claro que sigues en el equipo."
   }
  ]
 }

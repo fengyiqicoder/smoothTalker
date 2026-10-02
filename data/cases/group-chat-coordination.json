@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -246,6 +246,13 @@
    "reply": "Settling up the Peak District weekend: the cottage was £600 (I paid) and the food shop £150 (Maya paid), so £750 split six ways is £125 each.\n- Tom, Jo and Dev: £125 each to me.\n- Sara: £100 to me and £25 to Maya.\nThat squares everyone. Could you send it by Sunday 11 October and 👍 this message once you have? I'll post once when we're all square.",
    "lang": "en",
    "note": "Show the sum once and give each person one exact amount and payee; anyone still outstanding after Sunday gets a private message, not a group chase."
+  },
+  {
+   "id": "group-chat-coordination-036",
+   "situation": "我们社区合唱团的微信群有28个人。我昨天通知周日下午演出，把集合时间写成了2点，其实是1点半，要提前化妆和走台，地点还是社区文化中心二楼。怕有人没看到更正。",
+   "reply": "更正一下：周日演出的集合时间是下午1点半，不是我昨天写的2点，要提前化妆和走台，是我写错了，抱歉。地点不变，还是社区文化中心二楼。看到的请回个“收到”，周六晚上9点前没回的，我挨个私信确认。",
+   "lang": "zh",
+   "note": "更正单独发一条，新旧时间都写清；没回复说明不了谁看到了，所以按名单私下补问。"
   }
  ]
 }

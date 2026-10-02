@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -246,6 +246,13 @@
    "reply": "Dear Ms Doyle, I'm Zara Adeyemi's mum (Year 7). Zara told me that on Wednesday you asked her to take the beads out of her braids by Monday, as they break the uniform policy. She's been upset about it, as the braids took six hours to put in. I've read the policy on the school website, which says hair accessories must be plain and dark, and her beads are small and black, so I'd like to understand which part they don't meet. Could we have a quick call before Monday? I'm free after 4pm any day. Thank you, Simone Adeyemi",
    "lang": "en",
    "note": "Quote the policy and ask how it applies instead of arguing; if the answer still seems wrong, ask for the school's complaints process in writing."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-036",
+   "situation": "I'm Noor Haddad, 16, three weeks into Year 12. I want to switch from A-level Chemistry to Psychology: I've been getting E grades in the Chemistry topic tests, I'm hoping to study criminology at university, and my parents agree. I'm emailing the head of sixth form, Mr Brennan, myself, and I'm free in my study periods on Tuesday and Thursday mornings.",
+   "reply": "Dear Mr Brennan, I'm Noor Haddad in Year 12. I'd like to ask about switching from A-level Chemistry to Psychology. I've been getting E grades in the Chemistry topic tests, and I'm hoping to study criminology at university, so Psychology feels like a better fit; my parents agree with the change. Is it still possible to switch at this point, and if so, what's the process and is there a deadline? I'm free in my study periods on Tuesday and Thursday mornings if it would help to talk. Thank you, Noor",
+   "lang": "en",
+   "note": "When the student writes, the same shape applies: who you are, the facts, a question about the process, and when you're free."
   }
  ]
 }

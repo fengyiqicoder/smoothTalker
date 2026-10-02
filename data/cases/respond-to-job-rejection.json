@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -245,6 +245,13 @@
    "reply": "Hi Mr Patel, thank you for letting me know, and for showing me round the plant nursery during the interview. I understand you needed someone for Sundays too. You mentioned you take on extra Saturday staff before Christmas: could you keep me in mind for that? Thanks again,\nMaya",
    "lang": "en",
    "note": "A first-job rejection: one specific thank-you, no explaining your availability, and one concrete door to keep open."
+  },
+  {
+   "id": "respond-to-job-rejection-036",
+   "situation": "我叫许诺。面了三轮青岚科技的前端开发岗，今天HR赵女士发邮件说没通过，最后选了有支付系统经验的候选人。整个流程安排得很好，二面的面试官还专门给我讲了他们的组件规范，我收获挺大。想回一封邮件。",
+   "reply": "赵女士您好，谢谢您告知结果，也谢谢这三轮安排得这么周到，二面时面试官给我讲组件规范那一段让我收获很大。如果方便，想请您或面试官给我一句反馈，看我哪方面最需要加强。不方便也完全没关系，以后青岚科技如果有合适的岗位，很希望还能收到您的消息。\n许诺",
+   "lang": "zh",
+   "note": "被拒后只回一次：具体的感谢、请一句反馈、留个门，然后就停。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -246,6 +246,13 @@
    "reply": "Carol, you're right, the hem is uneven, and with the wedding on Saturday 10 October that's the last thing you need. That's my mistake: I pinned it with you in flat shoes and never asked about your wedding heels, and I'm sorry. I'll redo it free, with you in the heels, and have it ready by Wednesday. Could you come for a fitting on Monday at 6pm or Tuesday at 10am? I'm also refunding the £45 hem charge today.",
    "lang": "en",
    "note": "When the customer is practically family, keep the business shape: own the specific mistake, a fix with a date and a proportionate make-good, without leaning on the friendship to soften it."
+  },
+  {
+   "id": "respond-to-angry-customer-036",
+   "situation": "I'm Nadia, practice manager at Brookside Dental. On Wednesday Mr Osei waited 55 minutes past his 3pm appointment with no update from us, had to leave for his kids' school pickup, and then our system automatically charged him the $50 missed-appointment fee; he's emailed furious. I've refunded the $50 today, I can offer him the first appointment of the day, 8am on Tuesday or Thursday, and from this week reception tells anyone waiting more than 15 minutes how long the delay is; my number is 555-0124.",
+   "reply": "Dear Mr Osei,\nOn Wednesday you waited 55 minutes past your 3pm appointment with no update from us, had to leave for the school pickup, and were then charged our $50 missed-appointment fee on top. That's our failure, not yours, and I'm sorry. I've refunded the $50 today. So you don't have to wait again, I can offer you the first appointment of the day, 8am on Tuesday or Thursday; which would suit you? From this week, reception tells anyone waiting more than 15 minutes how long the delay is. I'm Nadia, the practice manager, and you can reach me directly on 555-0124.\nNadia",
+   "lang": "en",
+   "note": "Two failures, the wait and the wrong charge: name both, reverse the charge before he asks, and make the next visit the one with no wait."
   }
  ]
 }

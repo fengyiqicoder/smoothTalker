@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -246,6 +246,13 @@
    "reply": "小李，有件事想跟你聊一下，方便吗？上周五你在班级家长群里发了全班月考的排名表，周末有两位家长私信我，说孩子看到自己排在后面，哭了一晚。你当时发到群里是怎么考虑的？学校的规定是成绩只单独发给每位家长，以后就按这个来，排名表不进群。需要的话，我把我们组平时单独发成绩的做法发给你。下周我们再碰一下，看看这次月考讲评后家长那边的反应。",
    "lang": "zh",
    "note": "新老师碰了规定：说清具体的事和对学生的影响，先问她的考虑，把学校规定作为要求，而不是评价她这个人。"
+  },
+  {
+   "id": "give-feedback-to-colleague-036",
+   "situation": "I manage Ama, a junior account executive who joined six months ago. In the last two weeks she's sent me 14 client emails to approve before sending, including one-line meeting confirmations, and her Oakridge renewal email sat for a day waiting on me. Her emails are consistently good; I've barely changed one. I want to raise it in our 1:1 on Thursday: only emails about pricing or contract changes need to come to me.",
+   "reply": "Ama, can I give you some feedback on client emails? In the last two weeks you've sent me 14 to approve before sending, including one-line meeting confirmations, and the Oakridge renewal sat for a day waiting on me. Your emails are consistently good; I've barely changed one. What makes you want a check first? Going forward, send client emails yourself, and only bring me anything about pricing or contract changes. Let's see how it feels in our 1:1 in two weeks.",
+   "lang": "en",
+   "note": "Over-checking is a behaviour too: the impact is speed, and the ask hands her the authority she's already earned."
   }
  ]
 }

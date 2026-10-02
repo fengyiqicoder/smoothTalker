@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -246,6 +246,13 @@
    "reply": "Dear Aunty Meena,\nI wanted you to hear this from me properly, and in writing as our agreement asks: I'm giving notice to leave 11 Kestrel Court, Flat 5, with my tenancy ending on Monday 30 November 2026, in line with the one month's written notice in our agreement. I'm moving in with my fiancé. I'll pay November's £700 on the 1st as usual, and before I go I'd like to repaint the living room and help you find the next tenant. Could you reply to confirm you've received this?\nThank you for these three years, and for keeping the rent so low for me; it made a huge difference.\nWith love,\nPriya",
    "lang": "en",
    "note": "A family landlord still gets the exact date and the agreement's terms in writing; the gratitude goes at the end, not in place of the notice. Check local rules if the agreement is unclear."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-036",
+   "situation": "I'm Tom Price. Since 2023 I've rented lock-up garage No. 4 behind Wexley Court from my neighbour Mrs Holt for £60 a month, paid on the 1st; our one-page agreement says either side gives one month's written notice. I've sold my car and want to end it on 30 November. I'll empty it by then and can drop the key through her door that day.",
+   "reply": "Dear Mrs Holt, I'm writing to give notice that I'll be ending my rental of garage No. 4 behind Wexley Court on Monday 30 November 2026, in line with the one month's written notice in our agreement. I'll pay November's £60 on the 1st as usual, have the garage emptied by the 30th, and drop the key through your door that day. Could you reply to confirm you've received this? Best wishes, Tom Price",
+   "lang": "en",
+   "note": "A small rental still gets the exact date and the agreement's terms in writing; check the agreement for how notice must be served, and keep a copy."
   }
  ]
 }

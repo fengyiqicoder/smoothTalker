@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -246,6 +246,13 @@
    "reply": "Graham, I read it twice looking for something to tear apart, and honestly it's good. The bit about your wife planting the roses there is moving, and the ask couldn't be clearer: Saturday 17 October, 10am, bring gloves. My one small thought is to add who to contact for people who can't make Saturday but still want to help. Otherwise I'd send it exactly as it is.",
    "lang": "en",
    "note": "When it's genuinely good, say so plainly; don't invent a critique to look thorough."
+  },
+  {
+   "id": "give-feedback-kindly-036",
+   "situation": "闺蜜小芸今天剪了短发，比她想要的短了不少，明天要给表姐当伴娘，发自拍问我是不是剪坏了，让我说真话。其实我觉得短发很衬她的脖子，戴那对珍珠耳环更好看，只是刘海吹得太蓬，有点乱。她包里一直带着一小盒发蜡。",
+   "reply": "说真话：没剪坏。短发特别衬你的脖子，戴那对珍珠耳环更好看。我唯一会动的是刘海，现在吹得有点蓬，明天抹一点你包里那盒发蜡往侧边压一压就好。明天你一定是个好看的伴娘。",
+   "lang": "zh",
+   "note": "长度已经改不了就不评价，只说真实的好处和一个明天前能做的小调整。"
   }
  ]
 }

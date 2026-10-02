@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -246,6 +246,13 @@
    "reply": "Hi Mei, I'm sorry the result wasn't the 7.0 you were aiming for; after three months of work, that's really disappointing. The course is finished and, as our terms say, it doesn't come with a score guarantee, so I can't refund the $450. What I'd like to do is help you get there on the retake: speaking was your lowest band at 5.5, so I'll give you four free one-to-one speaking sessions before 14 November. Shall I send you some times this week?",
    "lang": "en",
    "note": "When the complaint is about results, aim the alternative at the gap; never argue about how much she studied."
+  },
+  {
+   "id": "handle-refund-request-036",
+   "situation": "I run Oakhollow, a two-person furniture workshop. A customer, Diane, received her $1,400 oak sideboard yesterday and found a 4cm scratch on one side panel; she loves it otherwise, wants to keep it, and has asked for 30% back. I can refund $210 today, or send our finisher to repair the scratch at her home next week at no charge.",
+   "reply": "Hi Diane, I'm sorry the sideboard arrived with a scratch on the side panel, and I'm glad you love it otherwise. I can't do 30%, but I can offer one of two things: a $210 refund today, or our finisher comes to your home next week and repairs the scratch at no charge. Which would you prefer?",
+   "lang": "en",
+   "note": "When they want to keep the item, offer a partial refund or a free repair, and don't debate how the scratch happened."
   }
  ]
 }

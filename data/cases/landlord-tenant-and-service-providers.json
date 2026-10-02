@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -246,6 +246,13 @@
    "reply": "孙姐您好，谢谢您昨天电话里抽时间跟我聊续租的事。我把说好的整理一下，您看对不对：一是续租一年，房租还是每月3600元；二是12月1日新合同开始前，把卧室那台漏水的空调换掉。这两条能不能都写进新合同里？这周六、周日我都在家，您看哪天方便过来签。",
    "lang": "zh",
    "note": "电话里谈好的事当天用文字确认，语气是核对而不是留证据；最稳妥的是把条款写进新合同。"
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-036",
+   "situation": "I'm Sam, renting flat 2B at 41 Alder Road from Mr Hughes, who's selling. His agent, Kerry, texted that she'll hold viewings on Mondays, Wednesdays and Saturdays, 10am to 4pm, and will let herself in if I don't reply. Clause 11 of my lease says the landlord gives 24 hours' written notice before entering; I'm happy with viewings on Wednesdays 5pm to 7pm and Saturdays 10am to 12pm, with me there.",
+   "reply": "Hi Mr Hughes and Kerry,\nThanks for letting me know about the sale; I'm happy to help with viewings. Clause 11 of the lease asks for 24 hours' written notice before anyone enters, so please don't treat a missed reply as agreement or let yourselves in without confirmed notice. Viewings on Wednesdays 5pm to 7pm and Saturdays 10am to 12pm work for me, and I'll be there to let people in. Could you confirm by Monday that we'll go with those slots?\nThanks,\nSam",
+   "lang": "en",
+   "note": "Offer real slots so you're not the obstacle to the sale; the lease clause is cited once, and local rules on access are worth checking too."
   }
  ]
 }

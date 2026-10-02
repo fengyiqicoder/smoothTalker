@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -246,6 +246,13 @@
    "reply": "您好，青帆报关10月8日（周四）至9日（周五）搬迁新办公室，这两天座机暂停使用。邮件照常接收，我们每天下午4点统一回复一次。当天必须放行的急件，请直接致电值班同事刘峰：13800000012。10月12日（周一）起在新地址恢复正常办公，座机号码不变。谢谢！何静",
    "lang": "zh",
    "note": "搬家不是停业：先说哪些暂停、哪些照常、什么时候回复，再给急件一个具体的人。"
+  },
+  {
+   "id": "out-of-office-and-away-messages-036",
+   "situation": "I'm Amira Hassan, a local councillor for Riverside ward. I'm away from Friday 16 October and back on Wednesday 28 October, and won't read email. My fellow ward councillor, Pete Lowe (pete.lowe@example.com), has agreed to pick up urgent casework, and constituents sometimes email me about things like a gas smell or a fallen tree blocking a road.",
+   "reply": "Thank you for your email. I'm away from Friday 16 October and back on Wednesday 28 October, and I won't be reading email until then. If anyone is in danger, for example from a gas smell or a fallen tree blocking a road, call the emergency services first. For urgent casework, please contact my fellow Riverside councillor, Pete Lowe, at pete.lowe@example.com. Everything else will get a reply in the week I'm back. Amira Hassan",
+   "lang": "en",
+   "note": "Constituents may write about danger, so that route goes first; casework goes to one named colleague who agreed to cover it."
   }
  ]
 }

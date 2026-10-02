@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -246,6 +246,13 @@
    "reply": "Hi Gary, it's Ben from number 12, and thanks for asking before getting the work done. Apart from the two leaning panels near our shed, the fence looks fine from our side, and we'd rather keep it at the current height than go up to 6ft. I'm happy to put £400 towards repairing those two panels like for like. I wouldn't be able to go halves on the £2,400, but if you'd still like a full replacement, could we talk about the height first? Happy to chat over the fence whenever suits.",
    "lang": "en",
    "note": "When the deeds don't settle ownership, offer a clear contribution rather than arguing about who owns it; check local rules on fence height before agreeing to anything."
+  },
+  {
+   "id": "neighbour-disputes-036",
+   "situation": "I'm Jo at number 6. Twice in the last two weeks I've seen our neighbour at number 8, Steve, put his rubbish bags in our wheelie bin the night before collection, so our own bags don't fit and the lid won't close. We only nod hello.",
+   "reply": "Hi Steve, it's Jo from number 6. A small thing: a couple of times lately your bags have gone into our bin the night before collection, and then ours don't fit and the lid won't close. Could you stick to your own bin from now on? If yours is often full, it might be worth checking with the council whether a bigger one is available. Thanks, and let me know if anything from our side ever bothers you.",
+   "lang": "en",
+   "note": "Say what you saw once, plainly, with a fix he can act on; a note stuck on the bin would be read by the whole street."
   }
  ]
 }

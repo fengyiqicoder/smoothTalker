@@ -60,8 +60,8 @@
   },
   {
    "id": "upsell-without-pushiness-009",
-   "situation": "我是健身房私教，学员小陈买的20节课还剩2节。两个月里他深蹲从40公斤练到了70公斤，腰也不疼了。再买20节课包是5400元，每节比单买便宜30元，我想提一下续课，但不想像在推销。",
-   "reply": "小陈，还剩两节课了。这两个月你深蹲从40公斤到了70公斤，腰也不疼了，进步真的很明显。如果接下来想继续练增肌，比较合适的是再买20节的课包，一共5400元，每节比单买便宜30元。说实话，现在动作你都掌握了，自己按计划练也完全可以，我可以把接下来两个月的计划写好发你。你考虑看看，不续也没关系。",
+   "situation": "我是健身房私教，学员小陈买的20节课还剩2节。两个月里他深蹲从40公斤练到了70公斤，腰也不疼了。再买20节课包是5400元，每节比单买便宜30元。他动作基本都掌握了，自己练也行，不续的话我可以免费给他写两个月的训练计划。想提一下续课，但不想像在推销。",
+   "reply": "小陈，还剩两节课了。这两个月你深蹲从40公斤到了70公斤，腰也不疼了，进步真的很明显。如果接下来想继续跟着练，比较合适的是再买20节的课包，一共5400元，每节比单买便宜30元。说实话，现在动作你都掌握了，自己按计划练也完全可以，我可以把接下来两个月的计划写好发你。你考虑看看，不续也没关系。",
    "lang": "zh",
    "note": "在效果最好的时候提，只提一个选项，价格说清楚，同时给出不花钱的选择；诚实的替代方案才让建议可信。"
   },
@@ -193,10 +193,10 @@
   },
   {
    "id": "upsell-without-pushiness-028",
-   "situation": "I run a small florist. Hannah ordered a $90 wreath for her grandfather's funeral on Saturday 10 October and mentioned her grandmother will be at home alone afterwards. We could deliver a small posy to her grandmother's house that afternoon for $35, and I don't want to sound like I'm selling to someone who's grieving.",
-   "reply": "Hi Hannah, I'm so sorry about your grandfather. The wreath is all set for Saturday 10 October. Since you mentioned your grandmother will be at home afterwards, we could take a small posy to her that afternoon for $35, if you'd like something waiting for her. Please don't feel you need to; the wreath is complete on its own, and you only need to reply if you'd like the posy.",
+   "situation": "I run a small florist. Hannah ordered a $90 wreath for her grandfather's funeral on Saturday 10 October. She's just messaged, clearly upset, asking if she should switch to our $180 large standing spray because 'he deserves the best'. The wreath is a good size for the small chapel she told me about.",
+   "reply": "Hi Hannah, I'm so sorry about your grandfather. Your wreath is all set for Saturday 10 October. Honestly, you don't need the larger spray: the wreath is a good size for the chapel, and it's a lovely tribute as it is. If you'd still like to change to the $180 spray, just tell me and I'll sort it, but there's no need.",
    "lang": "en",
-   "note": "With someone grieving, offer once, make silence the no, and never follow up on it."
+   "note": "Never upsell to someone grieving; when they reach for the bigger option out of guilt, tell them honestly that what they have is enough."
   },
   {
    "id": "upsell-without-pushiness-029",
@@ -235,17 +235,17 @@
   },
   {
    "id": "upsell-without-pushiness-034",
-   "situation": "我开手机维修店。顾客李阿姨来换碎了的屏幕，280元，下午4点能取。检测时看到她手机电池健康度只有72%，她自己也提过手机一天要充两次电。现在顺便换电池加120元，多等半小时；以后单独来换是150元。",
-   "reply": "李阿姨，屏幕下午4点就能换好，280元。检测时看到电池健康度只有72%，您也说一天要充两次电，所以顺便提一下：现在一起换电池加120元，多等半小时就行；以后单独来换是150元。要是一天充两次您觉得不麻烦，先不换也完全没问题，就按换屏幕来。",
+   "situation": "我开手机维修店。公司行政小林拿来5台员工手机换屏，每台280元，周五下午取。检测时看到其中3台电池健康度低于75%，换电池每台120元，要一起换的话周四前告诉我，我好订电池。她说多花钱要先报主管批。",
+   "reply": "小林你好，5台手机换屏周五下午能取，每台280元，一共1400元。检测时看到其中3台电池健康度低于75%，可以一起换电池，每台120元，3台一共360元。这段可以直接转给主管：“3台手机电池健康度低于75%，换电池每台120元，共360元，可和换屏一起做。”不换电池也完全不影响换屏，要换的话周四前告诉我就行。",
    "lang": "zh",
-   "note": "理由来自她自己说的充电次数，价格和多等的时间说清，不换也给足台阶。"
+   "note": "对方要报批时，把建议写成一段能直接转发的话：做什么、多少钱、为什么，主管一眼看懂，不批也不尴尬。"
   },
   {
    "id": "upsell-without-pushiness-035",
-   "situation": "I'm Ade, a freelance bookkeeper. My client Marisol runs a two-chair hair salon and pays me $150 a month for bookkeeping; on our call she mentioned she's hiring her first employee, starting Monday 2 November. I could run payroll for her for $60 a month more, but the accounting software she already uses has a payroll feature she could run herself, and I'd show her how in a free 30-minute session.",
-   "reply": "Hi Marisol, congratulations on hiring your first employee! Your bookkeeping carries on as usual. Since they start on Monday 2 November, one thing worth thinking about is payroll: I can run it for you for $60 a month on top of your $150. Honestly, the payroll feature in the software you already use is a perfectly good option too, and I'd happily show you how to run it yourself in a free 30-minute session. Either is fine, or neither if you've already got it covered.",
+   "situation": "I'm Ade, a freelance bookkeeper with about 40 small-business clients on my $150 monthly plan. From November I'm offering an optional quarterly cash-flow review, a one-hour call going through their numbers and the quarter ahead, for $90 a quarter. It mainly helps clients who've had a surprise tight month or are planning a big purchase or a hire. I want one email to all clients that doesn't read like a sales blast.",
+   "reply": "Hi everyone, a short note from Ade. Your monthly bookkeeping carries on exactly as it is. From November I'm also offering an optional quarterly cash-flow review: a one-hour call where we go through your numbers and the quarter ahead, for $90 a quarter. It's most useful if you've had a surprise tight month or you're planning a big purchase or a hire; if your cash flow feels steady, you don't need it. If you'd like one, just reply to this email; otherwise there's nothing to do.",
    "lang": "en",
-   "note": "The reason comes from the client's own news, and the free do-it-yourself route sits right next to the paid one."
+   "note": "A message to every client can't be tailored, so say plainly who it's for and who it isn't, and make doing nothing the no."
   }
  ]
 }

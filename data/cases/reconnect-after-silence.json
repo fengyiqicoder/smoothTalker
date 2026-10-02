@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -246,6 +246,13 @@
    "reply": "Kieran, it's been about three years, which is far too long. I just saw you're restoring a Vespa, the kind we always said we'd buy together, and I couldn't not message. I'll say this once: I've been sober a year now, and I'm sorry I missed your 30th after promising I'd be there. How's the Vespa coming along? No rush to reply.",
    "lang": "en",
    "note": "Name the reason for the drift once, own the one specific thing, then hand him an easy question; the rest of the story can wait until he asks."
+  },
+  {
+   "id": "reconnect-after-silence-036",
+   "situation": "大学时我在一个叫“末班车”的乐队弹吉他，鼓手是阿哲。毕业后他去了成都，我们七年没联系了，没吵过架。今天音乐App随机播放，居然放到我们大四录的那首《凌晨两点》demo，评论区还有人留言，想给他发个微信。",
+   "reply": "阿哲，好久不见，一晃七年了。今天音乐App随机播放，居然放到了咱们“末班车”大四录的那首《凌晨两点》，评论区还有人留言，我一个人笑了半天。你现在还打鼓吗？不急着回，就是想跟你打个招呼。",
+   "lang": "zh",
+   "note": "老乐队队友：一首共同录过的歌就是最好的理由，再问一个他好回答的问题，先不提重组或见面。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -246,6 +246,13 @@
    "reply": "方总您好，9月14日发您的代运营提案，想问一下目前进展到哪一步了？如果团队内部对报价或服务范围有疑问，我可以安排一个20分钟的电话，跟您和同事一起过一遍。也可以直接回我“在推进”“暂时不做”或“晚点再说”，我好安排时间。",
    "lang": "zh",
    "note": "别提“看到您打开了十几次”，那会让人觉得被盯着；把反复查看当作内部还在讨论的信号，主动给团队答疑，再给一个一句话就能回的出口。"
+  },
+  {
+   "id": "handle-being-ghosted-by-client-036",
+   "situation": "I'm Sven, a freelance app developer building a booking app for Kira's yoga studio on a fixed $12,000 contract, launching Friday 13 November. On Sept 18 she asked for a waitlist feature; on Sept 21 I quoted $1,400 and five extra working days, and she hasn't replied, though she's answered my other questions about the colour scheme. I need her answer by Friday 9 October to fit it in before launch; otherwise I could build it after launch.",
+   "reply": "Hi Kira, picking up the waitlist feature you asked about on September 18: my quote was $1,400 and five extra working days. To fit it in before the 13 November launch, I'd need your go-ahead by Friday 9 October; otherwise I can build it after launch. Until I hear a yes, I'll keep building the original scope only, so nothing changes on your bill or the launch date. A quick 'yes', 'after launch' or 'no thanks' is all I need.",
+   "lang": "en",
+   "note": "Silence on an add-on isn't a yes: stick to the signed scope so neither the bill nor the deadline moves without her say."
   }
  ]
 }

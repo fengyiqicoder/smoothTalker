@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -246,6 +246,13 @@
    "reply": "Hi Mei, thank you for coming back to us so clearly, and I'm glad you're keen on the role. I want to be straight with you: the band for this role tops out at $115k and I can't move it this year, so I can raise the base to $115k but not to $122k. On top of that, I can offer a $6,000 signing bonus and a formal salary review at six months, both in writing. Would that package work for you? Happy to talk it through on a call.",
    "lang": "en",
    "note": "From the hiring side the rules are the same: say honestly what's fixed, move what you can, and never invent other candidates to create pressure."
+  },
+  {
+   "id": "negotiate-price-or-salary-036",
+   "situation": "I'm a freelance developer and quoted Theo, founder of a startup called Plotline, $24,000 to build their MVP in eight weeks, including deployment and a month of bug fixes after launch. He's offered $8,000 cash plus 1% equity instead. I want this to stay mainly a cash project: I'd ask for $20,000 cash plus 0.5% equity, would accept $18,000 plus 0.5%, and I'm happy to split the fee into four milestone payments.",
+   "reply": "Hi Theo, thanks for the offer, I'm genuinely excited about Plotline and I'd love to build it. I price projects mainly in cash, though, and $8,000 is a long way from the $24,000 quote, which covers the full MVP in eight weeks, deployment and a month of bug fixes after launch. I can meet you partway at $20,000 cash plus 0.5% equity. To make that easier on cash flow, we could split the fee into four milestone payments. Would that work for you?",
+   "lang": "en",
+   "note": "Equity can sweeten a deal but it isn't a fee: anchor on cash, keep your floor to yourself, and use payment timing as the lever."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -246,6 +246,13 @@
    "reply": "Hi Jas, I know life gets busy. Picking up the annual boiler service at 3 Fenn Street: the engineer can come on the morning of Tuesday 13 or Thursday 15 October. Which suits you better? If neither works, tell me a morning that does and I'll check with him. Either way I'll confirm at least 24 hours ahead, as our tenancy agreement says.",
    "lang": "en",
    "note": "Make the reply one word; her silence isn't agreement to a visit, so don't book one she hasn't confirmed, and check local rules on access if it drags on."
+  },
+  {
+   "id": "follow-up-unanswered-036",
+   "situation": "Desde junio hago intercambio de idiomas por videollamada con Hana, una chica de Osaka que aprende español, los jueves a las 20:00. Hace dos semanas le pregunté por WhatsApp si seguimos en octubre; lo ha leído pero no contesta. Me contó que en otoño empezaba un trabajo nuevo.",
+   "reply": "¡Hola, Hana! Me imagino que el trabajo nuevo te tiene a tope. Te lo pregunto en una línea: ¿seguimos con las videollamadas de los jueves a las 20:00 en octubre? Un sí, un no o un «ahora no puedo» me valen igual, de verdad.",
+   "lang": "es",
+   "note": "Con alguien que no te debe nada, el primer recordatorio supone que está ocupada y hace el no tan fácil como el sí."
   }
  ]
 }

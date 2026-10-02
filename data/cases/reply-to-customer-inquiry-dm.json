@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -246,6 +246,13 @@
    "reply": "Hallo Lena, ja, das machen wir heute noch! Wir wechseln dafür den Schlauch: hinten 18 Euro inklusive Schlauch, mit Nabenschaltung 25 Euro. Wenn du vor 16 Uhr kommst, ist das Rad in etwa 30 Minuten fertig und du kannst einfach warten; offen haben wir bis 18 Uhr. Schaffst du es vor 16 Uhr?",
    "lang": "de",
    "note": "Eilige Anfrage: das Ja in die erste Zeile, der Preis mit der einen Variante, die ihn ändert, und eine Frage, die direkt zum Termin führt."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-036",
+   "situation": "我在微信上卖手工牛轧糖礼盒，一盒98元，50盒以上团购价每盒88元，可以免费印公司logo贴纸，要提前15天下单，春节前发货的最晚1月20日前下单。我是个体户，能开增值税普通发票，开不了专用发票。一家公司的行政私信：“我们过年想订80盒发给员工，能开发票吗？大概多少钱？”",
+   "reply": "可以开发票，不过我是个体户，只能开增值税普通发票，开不了专用发票，麻烦您先跟财务确认一下普票能不能报。80盒按团购价每盒88元，一共7040元，还可以免费印贵公司的logo贴纸。春节前要发的话，最晚1月20日前下单。要我先把开票信息表发给您吗？",
+   "lang": "zh",
+   "note": "公司采购最关心能不能报销：先把发票能开什么、不能开什么说清，再算好总价，最后一个问题推进下单。"
   }
  ]
 }

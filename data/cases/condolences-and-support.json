@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -253,6 +253,13 @@
    "reply": "Dear Claire,\nI was so sorry to hear about your mum. For two years she greeted me every morning with the crossword half done, saving the hardest clues for me, and those mornings were a real highlight of my work. It was a privilege to look after her. No need to reply to this card.\nWith warm wishes,\nSunita",
    "lang": "en",
    "note": "From a carer, the everyday memory only you have is the gift; no offer is needed, and the card asks nothing of the family."
+  },
+  {
+   "id": "condolences-and-support-037",
+   "situation": "闺蜜小林发微信说，怀孕10周的宝宝没保住，昨天做了手术，现在在家休息，除了她老公只告诉了我。我周末不上班，周六中午可以给她送一锅汤，放门口就走。",
+   "reply": "小林，谢谢你愿意告诉我，我真的很难过。你不用撑着，也不用跟我解释什么。这件事我不会跟任何人说。周六中午我给你送一锅汤，放门口就走，不打扰你休息。这条不用回。",
+   "lang": "zh",
+   "note": "流产也是失去：不问原因，不说“还会再有的”；把保密说出口，给一件不用见面的小事。"
   }
  ]
 }

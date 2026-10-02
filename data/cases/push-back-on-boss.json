@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -246,6 +246,13 @@
    "reply": "韩主任，明早按时发货我也想保证。只是没检过的货我不能在质检单上签字，签了就等于替没做过的检验担保，万一出问题，客户和厂里都说不清。两个办法：一是我今晚加班两小时把剩下800箱检完，检完就签，明早照常全部发货；二是明早先发已经检过的1200箱，剩下800箱中午前检完再发。我建议第一个。您看选哪个？",
    "lang": "zh",
    "note": "对签假单说不，对按时发货说是；如果他坚持要你先签，不要签，用文字留下记录，并向质量经理或公司的举报渠道反映。"
+  },
+  {
+   "id": "push-back-on-boss-036",
+   "situation": "I'm a line cook at a busy bistro. Head chef Marco wants me to run the new pressure fryer on Saturday dinner service tomorrow, but I've never been shown how to use it and the manual says operators need training first. Dani on our line has been trained and could run it tomorrow while I take her grill station, or Marco could give me a 30-minute walkthrough at 3pm before service.",
+   "reply": "Hi Marco, happy to take the fryer on, I know Saturdays are packed. The thing is I've never been shown how to use the new pressure fryer, and the manual says operators need training first, so I don't want my first go to be in the middle of dinner service. Two options: Dani, who's trained, runs it tomorrow while I take her grill station, or you give me a 30-minute walkthrough at 3pm before service and I run it from then. I'd suggest the walkthrough, so two of us can use it. Which works for you?",
+   "lang": "en",
+   "note": "Yes to the job, no to running dangerous kit untrained; if you're told to anyway, say no to that part and check the kitchen's health and safety procedure or raise it with the owner."
   }
  ]
 }

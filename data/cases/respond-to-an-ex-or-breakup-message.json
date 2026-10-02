@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -246,6 +246,13 @@
    "reply": "Thanks for telling me, Maddie, and I'm sorry he's put you in the middle of this. My answer is no: I'm not going to talk to Josh, and I don't want the letter, so please hand it back to him or throw it away, whichever is easier for you. If he asks again, you can just tell him that and leave it there. You don't need to pass anything else on, and none of this changes anything between us.",
    "lang": "en",
    "note": "When an ex goes through a friend, answer the friend: a clear no she can repeat word for word, and permission to step out. If he keeps it up, keep a note of each contact, and contact the police if it starts to feel threatening."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-036",
+   "situation": "分手一年的前女友小琳发微信问我：她和我大学室友阿涛最近走得很近，想正式在一起，问我会不会介意。说实话我心里有点别扭，但我们是和平分手，我不想拦着，也不想因此和阿涛闹僵；只是接下来几次朋友聚会，我想少去一点，给自己一段时间适应。",
+   "reply": "谢谢你先来问我，这一点我很感激。说实话我心里有点别扭，但你们的事你们自己决定，我不会拦着，也不会因此跟阿涛闹僵。只是我需要一段时间适应，接下来几次聚会我可能会少去一点，你们不用顾虑我。祝你们好。",
+   "lang": "zh",
+   "note": "前任问“你介意吗”：如实说一句感受，但把决定权还给他们，再说清自己需要的距离，不谈过去的感情。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -246,6 +246,13 @@
    "reply": "Hi, I'm on the plot next door. Your dahlias are the reason I slow down every time I walk past. Mine got eaten down to stumps, so how do you keep the slugs off yours?",
    "lang": "en",
    "note": "Said out loud, keep it to one breath and one question; if she's busy or brief, smile and carry on to your plot."
+  },
+  {
+   "id": "first-message-to-stranger-036",
+   "situation": "My name is Ellen Marsh, I'm a structural engineer in Bristol, and I just found another Ellen Marsh on LinkedIn who is also a structural engineer, in Melbourne. A recruiter emailed me this week congratulating me on the Yarra footbridge, which turns out to be her project. I want to send her a friendly first message.",
+   "reply": "Hi Ellen, this is the other Ellen Marsh, also a structural engineer, in Bristol. A recruiter emailed me this week to congratulate me on the Yarra footbridge, so I'm passing the congratulations on to the right Ellen. Do you ever get mail meant for me?",
+   "lang": "en",
+   "note": "A shared name and job is the hook; one light, easy question and no ask."
   }
  ]
 }

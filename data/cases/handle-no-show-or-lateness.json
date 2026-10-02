@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -246,6 +246,13 @@
    "reply": "Huge thanks to the five who came on Saturday, we filled 11 bags between us! Fourteen signed up and five made it, so most of the borrowed litter pickers went back unused. For the next one, Saturday 24 October at 10am, one small change: if your plans shift, just take your name off the list by Thursday evening, no explanation needed. And anyone free on the day is still welcome to turn up.",
    "lang": "en",
    "note": "A group no-show: thank who came, state the numbers once without naming anyone, and fix it with an easy drop-out step rather than a scolding."
+  },
+  {
+   "id": "handle-no-show-or-lateness-036",
+   "situation": "I'm a junior analyst, and Grace, a director in another team, agreed in August to mentor me with a 30-minute call once a month. Today's call was at 3pm and she didn't join or message; I know she's swamped with the year-end audit. I want to rebook without making her feel bad, and I'm free any lunchtime next week.",
+   "reply": "Hi Grace, we had our call at 3pm today and I didn't see you join, so I hope all's okay; I know the year-end audit is full on. Would any lunchtime next week work for 30 minutes? If the next few weeks are too packed, I'm very happy to pick it up once the audit's done, just say.",
+   "lang": "en",
+   "note": "When someone senior doing you a favour misses a slot: no guilt, an easy rebooking and an open offer to pause."
   }
  ]
 }

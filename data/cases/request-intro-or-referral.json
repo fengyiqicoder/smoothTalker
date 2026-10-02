@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -246,6 +246,13 @@
    "reply": "小雨，想请你帮个忙：能不能把我介绍给你表姐阿珍？我上个月确诊了1型糖尿病，还在适应，特别想跟一个过来人聊二十分钟，听听她平时怎么安排饮食和运动，不是要她给医疗建议。病情是很私人的事，她要是不想聊，或者你觉得不好开口，直接说就行，完全没关系。\n方便的话，这段可以直接转给她：“表姐，我闺蜜苏晴上个月确诊了1型糖尿病，28岁，还在适应打胰岛素。她听说你是过来人，还跑过半马，想加你微信聊二十分钟，问问日常饮食和运动是怎么安排的。你愿意的话我把她微信推给你。”\n不管成不成，我都跟你说一声。",
    "lang": "zh",
    "note": "请人引荐病友：退路要照顾到对方可能不想谈自己的病；用药和剂量仍以自己的医生为准。"
+  },
+  {
+   "id": "request-intro-or-referral-036",
+   "situation": "I'm Kemi Adeyemi, volunteer coach of the under-11s at Westfield Rovers, a community football club. We need £600 for new kits for our 18 players, and a sponsor gets their logo on the shirts for two seasons. Martin, whose son Jayden plays in the team, golfs every week with Paul Hendry, who owns Hendry's Hardware on the high street, and I'd like Martin to ask Paul for a 15-minute chat.",
+   "reply": "Hi Martin, could I ask a favour? Would you be comfortable asking Paul Hendry whether he'd have 15 minutes to talk about sponsoring the under-11s' new kits? It's £600 for 18 players, and Hendry's Hardware would have its logo on the shirts for two seasons. If it feels awkward bringing it up on the golf course, no problem at all, just say.\nIf you're up for it, here's something you can forward:\n\"Paul, Kemi Adeyemi coaches Jayden's under-11s team at Westfield Rovers. They need £600 for new kits for 18 players, and a sponsor gets their logo on the shirts for two seasons. She'd love 15 minutes to tell you more, no obligation at all.\"\nI'll let you know how it goes either way. Thanks, Martin.\nKemi",
+   "lang": "en",
+   "note": "A sponsorship intro: the blurb carries the price and what the sponsor gets, so Martin is passing on an offer, not asking his friend for money."
   }
  ]
 }

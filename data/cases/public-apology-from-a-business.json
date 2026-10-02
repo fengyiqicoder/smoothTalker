@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -246,6 +246,13 @@
    "reply": "Subject: Monday's late deliveries, and what we've changed\nHi all,\nOn Monday, 11 of you got your 7am delivery after 10am, well after your breakfast rush. That was our new delivery route, which we hadn't test-driven, and I'm sorry. If you were one of the 11, Monday's order is credited in full on your next invoice, with nothing to do on your side. From now on any route change gets a full test drive the week before, and if a delivery is running late you'll get a text by 7:15 with a new time. To reach me directly, call 0161 496 0418 or email rosa@example.com.\nRosa, owner, Millbrook Bakehouse",
    "lang": "en",
    "note": "Business customers get the same shape as the public: what happened, one sorry, an automatic credit, and changes they can see at their own door."
+  },
+  {
+   "id": "public-apology-from-a-business-036",
+   "situation": "I'm Farah, co-founder of Quillmark, a 12-person design studio. We advertised a junior designer role in August, about 210 people applied, and none of them heard back because the role was put on hold and nobody on our side owned closing the process; one applicant posted about it on LinkedIn. The role reopens on Monday 12 October, August applicants will be considered without reapplying unless they tell us to withdraw them, from now on every applicant gets a reply within two weeks even if it's a no, and questions can go to farah@example.com.",
+   "reply": "In August we advertised a junior designer role at Quillmark, about 210 of you applied, and not one of you heard back from us. Applying takes real time and you deserved an answer, so I'm sorry. The role was put on hold and nobody on our side owned telling you; that's on us as a studio. It reopens on Monday 12 October, and if you applied in August you'll be considered without reapplying; just email me if you'd rather we withdrew your application. From now on every applicant gets a reply within two weeks, even if it's a no. Questions: farah@example.com. Farah, co-founder, Quillmark",
+   "lang": "en",
+   "note": "The public here is job applicants, not customers: own the silence as the studio, name no one, and make the fix a reply time you can keep."
   }
  ]
 }
