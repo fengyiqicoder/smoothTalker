@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "small-talk-001",
@@ -260,6 +260,13 @@
    "reply": "¡Lucía, qué bien tenerte de vuelta! Se te echaba de menos en el café de las once. Oye, ¿sigues con el ukelele? Yo sigo sin saber tocar ni la pandereta.",
    "lang": "es",
    "note": "Tras una baja no se pregunta el motivo: dale un tema suyo y, si ella saca lo demás, escucha sin insistir."
+  },
+  {
+   "id": "small-talk-038",
+   "situation": "A plasterer, Marek, is redoing our living room walls all this week, and so far we've only said hello. He plays old jazz on a little radio all day, and I grew up with my grandad's jazz records. I work from home and want to chat a bit when I bring him a tea, without getting in his way.",
+   "reply": "Tea's here, Marek. I've been enjoying the jazz through the wall all week; my grandad had a stack of jazz records when I was a kid. Who's this playing?",
+   "lang": "en",
+   "note": "Ask about the thing he chose to bring into the room, share one line back, and let him get on with the wall if his answer is short."
   }
  ]
 }

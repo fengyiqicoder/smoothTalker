@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -260,6 +260,13 @@
    "reply": "Some news: our son Theo was born on Tuesday, eight weeks early. He's in the neonatal unit, and Hannah is recovering well. We're overjoyed and frightened at the same time. We're not up to visitors yet, and we'd rather not answer questions about his weight or how long he'll be in. If you'd like to help, home-cooked freezer meals left on our doorstep would mean a lot.",
    "lang": "en",
    "note": "Mixed news: name both feelings in one line, then say what not to ask and the one thing that helps."
+  },
+  {
+   "id": "share-personal-news-038",
+   "situation": "我和男朋友阿凯订婚了，明年4月办婚礼，下周想在大学宿舍群里宣布。闺蜜小雨三个月前刚离婚，我想先单独告诉她。我很想请她当伴娘，但不想给她压力，她只来参加婚礼我也一样高兴。",
+   "reply": "小雨，有件事想先单独跟你说，不想你在群里才看到：我和阿凯订婚了，明年4月办婚礼。我知道你这几个月不容易，这个消息听着可能五味杂陈，不用急着回我，怎么想都可以。我很想请你当伴娘，但一点压力都没有，你能来参加婚礼，我就一样高兴。",
+   "lang": "zh",
+   "note": "好消息对读的人可能刺痛时，先单独说，给她不回应、不答应的空间。"
   }
  ]
 }

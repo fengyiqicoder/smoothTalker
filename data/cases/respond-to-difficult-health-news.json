@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-difficult-health-news",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "respond-to-difficult-health-news-001",
@@ -260,6 +260,13 @@
    "reply": "Rachel, thank you for telling me, and I'm really sorry. Yes, Ella and Sam can stay with me for the two weeks after your surgery. I won't say anything to them; they'll hear it when and how you want. No need to reply tonight.",
    "lang": "en",
    "note": "With a co-parent, the practical yes is the support: keep the kids' side on her terms and ask nothing about the diagnosis."
+  },
+  {
+   "id": "respond-to-difficult-health-news-038",
+   "situation": "好友阿蕾确诊淋巴瘤，正在化疗。这两周我几乎每天发消息问她吃了没、睡得好不好。今天她回：“你别每天问了，搞得我像个病人，我就想跟以前一样跟你吐槽八卦。”我们以前每周四晚上一起追一部综艺，边看边聊。",
+   "reply": "收到，是我太紧张了，以后不天天问了。周四晚上照常一起追那部综艺、边看边吐槽？想聊什么都行，病的事你想说再说。这条不用急着回。",
+   "lang": "zh",
+   "note": "对方说你的关心太多时，一句认下就回到她要的样子，不长篇道歉，也不让她反过来安慰你。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -260,6 +260,13 @@
    "reply": "Bonjour Madame Bernard, votre inscription au cours collectif du jeudi soir est bien enregistrée. Comme vous avez un entretien en anglais le 23 octobre, une suggestion : le cours collectif n'aborde les simulations d'entretien qu'en novembre, alors deux cours particuliers de préparation, à 45 € l'heure, soit 90 € au total, vous y prépareraient plus directement. Ce n'est pas indispensable : dites-moi simplement si cela vous intéresse, sinon on en reste au cours collectif.",
    "lang": "fr",
    "note": "La suggestion vient de sa propre échéance, le coût total est donné, et le cours collectif seul reste une vraie option."
+  },
+  {
+   "id": "upsell-without-pushiness-038",
+   "situation": "I work in a phone shop. Mrs Doyle, 81, wants the top model at $1,099 because her grandson told her to 'get the best', but she only wants video calls with her grandchildren and to take photos, and the $399 model does both well. She mentioned she dropped and cracked her last phone twice; a case with a screen protector is $25.",
+   "reply": "Mrs Doyle, for video calls with your grandchildren and taking photos, the $399 model does both really well, so honestly you don't need the $1,099 one. Since you mentioned your last phone cracked twice, a case with a screen protector is $25 and would save you a lot of bother. It's entirely your choice, and the phone on its own is fine too.",
+   "lang": "en",
+   "note": "The honest downsell matters most when the customer would trust any advice; then one add-on, tied to what she told you."
   }
  ]
 }

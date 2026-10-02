@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -260,6 +260,13 @@
    "reply": "跟大家说个事～每个月的聚会我特别珍惜，会一直来。以后我就不每次都开车了，一年里我开两三次，其他时候跟大家一样打车，也陪你们喝两杯。哪次轮到我开，我提前在群里说。",
    "lang": "zh",
    "note": "说的是自己以后怎么做，不翻绕路送人的旧账；有人说“你就顺便嘛”，重复同一句，不加新理由。"
+  },
+  {
+   "id": "set-boundary-038",
+   "situation": "My friend and next-door neighbour Jess has started dropping her 5-year-old twins at my door 'for an hour' without asking, four times this month, sometimes while I'm on work calls. I work from home 9 to 5 on weekdays. I'm happy to have them on Saturday afternoons if she asks the day before, and in a real emergency she can call me.",
+   "reply": "Jess, I love your two and I love having you next door. I work from home 9 to 5, so on weekdays I'm not going to take the twins anymore, even for an hour. Saturday afternoons I'm happy to have them, just ask me the day before. If there's ever a real emergency, call me.",
+   "lang": "en",
+   "note": "If she knocks on a weekday anyway, repeat it shorter at the door: weekdays I'm working, Saturday's fine."
   }
  ]
 }

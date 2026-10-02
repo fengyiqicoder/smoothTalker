@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -260,6 +260,13 @@
    "reply": "Hi Rosa, your order #4672, the medium sage planter, is ready, but the new glaze batch came out noticeably bluer than the photo you ordered from, so I don't want to send it without checking with you first. I've attached a photo of your actual planter. Three options: if you like it, I'll ship it tomorrow; I can swap it for the medium cream planter, which is in stock; or I'll refund you in full. I'll hold it until Wednesday 7 October, and if I haven't heard by then I'll refund you in full. Ivy",
    "lang": "en",
    "note": "When the item has changed from what they saw, never ship it by default: their yes comes first, and silence means a refund."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-038",
+   "situation": "I'm Noor and I sell handmade perfume online. Siobhan in Ireland ordered the jasmine perfume oil (order #3075, $34), and this week our courier told me they no longer carry perfume oils on international routes; I have no other way to ship it. The jasmine solid perfume, same scent, is $28, the courier does carry it, and it could ship tomorrow with the $6 difference refunded. If I haven't heard by Wednesday 7 October I'll refund her in full.",
+   "reply": "Hi Siobhan, I can't send your order #3075, the jasmine perfume oil, to Ireland: our courier told me this week they no longer carry perfume oils on international routes, and I have no other way to ship it. Two options: swap it for the jasmine solid perfume, the same scent, which the courier does carry; it ships tomorrow and I'll refund the $6 difference. Or a full refund of $34. If I haven't heard from you by Wednesday 7 October, I'll refund you in full.\nNoor",
+   "lang": "en",
+   "note": "When the item can't reach them at all, there's no wait option, and the default is the refund, never a swap they didn't choose."
   }
  ]
 }

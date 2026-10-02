@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -260,6 +260,13 @@
    "reply": "As I said at our meeting: from Monday 2 November I'm stepping back from managing this team to a senior engineer role, right here on the same team. It was my choice; after two years leading, I want to get back to hands-on work. From that date Rafael, who leads the Lisbon QA team, manages both teams. Your roles, pay and projects stay the same; what changes is who you report to, and Rafael will hold a 1:1 with each of you in the first two weeks of November. Questions to me or Rafael anytime, and if you'd rather talk privately, grab me this week.",
    "lang": "en",
    "note": "Stepping down is still a reporting-line change: lead with it, say it was your choice so nobody guesses, then what changes for them."
+  },
+  {
+   "id": "team-announcements-as-a-manager-038",
+   "situation": "I run a 14-person design agency. Our biggest client, Calloway Homes, about 35% of our revenue, told us yesterday they're moving their design work in-house from Tuesday 1 December; they were happy with our work, it's a cost decision on their side. Nobody is losing their job now, but if we haven't replaced at least half that revenue by the end of March I'll have to look at costs. The four people on the account move to new-business pitches from December; I've told them individually, I'm telling everyone at Monday's all-hands, then posting in Slack.",
+   "reply": "As we covered at Monday's all-hands: Calloway Homes, our biggest client and about 35% of our revenue, is moving its design work in-house from Tuesday 1 December. They were happy with our work; it's a cost decision on their side. Nobody is losing their job now. To be straight with you, though: if we haven't replaced at least half of that revenue by the end of March, I'll need to look at costs, and you'll hear it from me first. From December, the four of you on the Calloway account move onto new-business pitches. Questions here, or grab me for a 1:1 this week.",
+   "lang": "en",
+   "note": "Losing a big client: give the number, what it means for jobs now, and the honest condition, instead of a vague 'we'll be fine'."
   }
  ]
 }

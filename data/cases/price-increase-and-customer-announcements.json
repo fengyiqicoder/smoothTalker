@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -260,6 +260,13 @@
    "reply": "林女士您好，我是彭师傅装修的老彭。正式跟您说一件事：这个月瓷砖供应商涨价8%，按您家的清单算，瓷砖要多出3200元。按合同第9条，主材涨价超过5%可以凭发票调价，但要您同意后才执行，涨价的发票我今天一并发给您。工期和人工费都不变。您有三个选择：按新价执行；换成同等级、不涨价的另一款砖，我把样品照片发您；或者瓷砖改由您自己买，我只收人工。您没点头之前，我不会按新价下单。",
    "lang": "zh",
    "note": "施工中途调价：第一句说清涨多少，按合同条款原文办并附发票，给出不涨价的路；没有她明确同意就不执行，不把没回复当成同意。"
+  },
+  {
+   "id": "price-increase-and-customer-announcements-038",
+   "situation": "I'm Hollie, a freelance web developer. About 40 small businesses, like Martin at Ferris Joinery, pay me £600 a year for a website care plan (updates, backups, and fixes within one working day) that renews on Tuesday 1 December. This year it goes to £720, my first increase in three years, because hosting and security tools cost me more. The plan stays the same; I won't renew anyone at the new price unless they reply to confirm, and anyone who'd rather leave gets a full backup of their site and help moving it.",
+   "reply": "Hi Martin,\nYour website care plan renews on Tuesday 1 December, and this year it goes from £600 to £720. It's my first increase in three years, and it covers what hosting and security tools now cost me. The plan itself stays the same: updates, backups, and fixes within one working day. I won't renew you at the new price unless you reply to confirm, so just let me know either way. If you'd rather leave, I'll give you a full backup of your site and help you move it.\nHollie",
+   "lang": "en",
+   "note": "An annual renewal at a new price waits for a yes: say plainly that nothing renews on silence, and make leaving as easy as staying."
   }
  ]
 }

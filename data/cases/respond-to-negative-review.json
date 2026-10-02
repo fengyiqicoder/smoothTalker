@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -260,6 +260,13 @@
    "reply": "Thank you, Sandra, and I'm so sorry. Your grandmother's mirror was broken by our crew during your move, and that's on us. For anyone reading: we haven't refused your claim; it's open, and I'd like to settle it with you directly. Since this week, every mirror over a metre travels in a wooden crate rather than blankets. Please email me at dave@example.com and I'll take it from there. Dave, owner, Two Oaks Removals",
    "lang": "en",
    "note": "Correct 'refusing to pay' once, calmly, and keep amounts and claim terms out of the public reply."
+  },
+  {
+   "id": "respond-to-negative-review-038",
+   "situation": "我叫小满，在家做私房蛋糕。一位顾客在小红书发笔记，说订的生日蛋糕晚送了两个小时，孩子的生日会都散了，评论区很多人跟着骂。那天确实是我出餐晚了，路上又耽误了一些；现在所有生日蛋糕都提前一小时出门，出发和送达都会微信告诉顾客。我想在她笔记下面回一条，不一条条回评论。",
+   "reply": "谢谢你把这件事写出来，真的很抱歉。蛋糕晚到两个小时，孩子的生日会都散了，这是我们的问题：那天我出餐就晚了，路上又耽误了一些。现在所有生日蛋糕都提前一小时出门，出发和送达都会微信告诉顾客。想私下跟你好好道歉、把这件事处理好，方便的话请私信我。小满",
+   "lang": "zh",
+   "note": "笔记被围观时只回一条，写给所有看的人：认错、说改了什么；不逐条回评论，补偿私下谈。"
   }
  ]
 }

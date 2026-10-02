@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -260,6 +260,13 @@
    "reply": "刘经理，周会上您提的问题我会后认真看了。第5页的退货率确实用错了月份，是我的疏忽，已经改好，改后的版本附在下面。说没用心这点我看法不太一样，这份PPT我是花了三天认真做的。您觉得还有哪些地方需要加强，能具体指一下吗？另外想提个请求：以后发现这类问题，能不能先私下跟我说，我会马上改。",
    "lang": "zh",
    "note": "被领导当众批评：私下回复，认下具体的错并说已改好，不同意的一句带过，再问一个问题，最后对方式提一个请求。"
+  },
+  {
+   "id": "respond-to-criticism-038",
+   "situation": "Ich singe im Alt eines Laienchors. Unser Chorleiter, Herr Albrecht, hat mir per E-Mail geschrieben, dass ich bei den letzten zwei Proben meine Noten vergessen hätte und die Altstimme offenbar nicht übe. Die Noten habe ich wirklich zweimal vergessen; geübt habe ich aber jede Woche mit der Übe-Datei, nur die Stelle ab Takt 48 sitzt noch nicht. Ich heiße Katrin, und die nächste Probe ist am Dienstag.",
+   "reply": "Lieber Herr Albrecht, danke für Ihre offene Nachricht. Mit den Noten haben Sie recht: Ich hatte sie zweimal nicht dabei, und ab Dienstag sind sie fest in meiner Chortasche. Beim Üben sehe ich es etwas anders, denn ich übe jede Woche mit der Übe-Datei; die Stelle ab Takt 48 sitzt allerdings noch nicht. Hätten Sie am Dienstag vor der Probe fünf Minuten, um sie kurz mit mir durchzugehen? Viele Grüße, Katrin",
+   "lang": "de",
+   "note": "Das Wahre ohne Aber zugeben, das Falsche in einem ruhigen Satz richtigstellen und die echte Lücke in eine Bitte verwandeln."
   }
  ]
 }

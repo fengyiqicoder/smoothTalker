@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -260,6 +260,13 @@
    "reply": "小敏，我知道你是看我着急，真心想帮我，谢谢你。风水改名这些我就不试了，我还是想踏踏实实投简历。你做HR这么多年，要真想帮我，周末帮我看看简历好不好？咖啡我请。",
    "lang": "zh",
    "note": "不评价她信的东西，立场说一次，再把她的好意引到她真正擅长的事上；她再提，就重复同一句。"
+  },
+  {
+   "id": "respond-to-unsolicited-advice-038",
+   "situation": "My coworker Gail found out I take antidepressants and keeps telling me to come off them and try running and cold showers instead, because 'that's what fixed her'. My GP and I agreed my treatment, and I don't want to discuss it at work. We sit in the same desk pod, and she's running a 10k on Saturday.",
+   "reply": "Thanks, Gail, I know you mean well. My treatment is something I've sorted with my GP, and I'd rather keep it out of work chat. Good luck with the 10k on Saturday!",
+   "lang": "en",
+   "note": "Medical advice at work gets one line of position and a new subject, never a debate; any question about the medication is for your GP."
   }
  ]
 }

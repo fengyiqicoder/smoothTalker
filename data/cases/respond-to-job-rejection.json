@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -259,6 +259,13 @@
    "reply": "周总监，谢谢您告诉我结果，也谢谢作品集环节您花了快一个小时给我提建议，我都记下了。结果我理解。说到B端设计师，我的前同事小苏正好在看机会，她也同意我推荐，我把她的作品集转给您。以后如果有适合我的岗位，希望还能跟您聊聊。\n林可",
    "lang": "zh",
    "note": "对方请你推荐人时，先征得被推荐人同意；自己的请求仍然只留一个。"
+  },
+  {
+   "id": "respond-to-job-rejection-038",
+   "situation": "I'm Denise, 52, going back to work after eight years caring for my mum. I did a two-hour trial morning for a receptionist job at Elmbank Dental, which gave me a real boost of confidence, and today the practice manager, Helen, emailed that they've gone with someone who already knows their booking system. On the trial morning she mentioned that their sister practice in Hadley sometimes needs reception cover.",
+   "reply": "Hi Helen, thank you for letting me know, and for the trial morning, which gave me a real boost after eight years away. I understand you needed someone who already knows the booking system. You mentioned that your sister practice in Hadley sometimes needs reception cover: would you be happy to pass my name on to them? Thanks again,\nDenise",
+   "lang": "en",
+   "note": "A returner doesn't need to explain the gap or argue the reason; one specific thanks and one small ask that uses what she already offered."
   }
  ]
 }

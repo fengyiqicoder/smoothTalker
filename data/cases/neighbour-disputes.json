@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -260,6 +260,13 @@
    "reply": "王阿姨您好，我是3栋201的小许。大家每天晚上跳舞锻炼身体挺好的，我不是来说不让跳的。就是音箱正对着我们楼，关着窗也听得很清楚，我儿子今年高三，晚上要在家复习。能不能麻烦您把音箱转个方向，朝着广场里面，8点以后声音再调小一点？谢谢您！我们家要是有什么打扰到大家的，也随时跟我说。",
    "lang": "zh",
    "note": "先当面跟领头的人说，只提两个她马上做得到的小调整，不提物业也不发业主群；没改善再找社区或物业，并提前跟她说一声。"
+  },
+  {
+   "id": "neighbour-disputes-038",
+   "situation": "I'm Rachel at number 3. Our neighbour Mr Doyle at number 5 burns garden waste on a bonfire most Saturday afternoons, and the smoke comes over our garden and into the house; our washing smells of it and our six-year-old, who has asthma, starts coughing. We chat now and then. I'd like him to text me on 07700 900562 before he lights one, and he's welcome to put some of his garden waste in our green bin, which goes out every other Tuesday.",
+   "reply": "Hi Mr Doyle, it's Rachel from number 3. You may not see it from your side, but when there's a bonfire on Saturday afternoons the smoke drifts right over our garden and into the house; our washing ends up smelling of it, and our six-year-old, who has asthma, starts coughing. Would you be willing to text me on 07700 900562 before you light one, so we can get the washing in and close the windows? And if it ever helps, our green bin goes out every other Tuesday and you're welcome to put some of your garden waste in it. Thanks, and do tell me if anything from our side ever bothers you.",
+   "lang": "en",
+   "note": "Ask for a heads-up he can easily give, not a ban; check local guidance on garden bonfires before mentioning any rules, and if the smoke sets off an asthma attack, follow her asthma plan and get medical help."
   }
  ]
 }

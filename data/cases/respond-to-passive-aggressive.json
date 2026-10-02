@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -260,6 +260,13 @@
    "reply": "Haha, tem razão, ela já estava se sentindo em casa aqui! Foi mal, esqueci completamente. Passo aí no sábado de manhã para devolver, pode ser? Valeu demais pelo empréstimo.",
    "lang": "pt",
    "note": "A alfinetada embrulha um pedido justo: responda ao conteúdo, assuma em meia frase e marque a devolução."
+  },
+  {
+   "id": "respond-to-passive-aggressive-038",
+   "situation": "Someone left a note on the office fridge: 'To whoever keeps \"borrowing\" my oat milk: hope you're enjoying it 🙂 K.' It was me, twice this week; I thought it was the communal milk. I'm Tom on the third floor, and I've just bought a replacement carton.",
+   "reply": "K, that was me, sorry! I thought it was the communal milk. There's a new carton in the fridge for you. Tom, 3rd floor",
+   "lang": "en",
+   "note": "The dig wraps a fair complaint: own it in the same place, replace what you used, and leave the smiley alone."
   }
  ]
 }

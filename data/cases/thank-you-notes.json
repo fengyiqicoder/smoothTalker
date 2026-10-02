@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -260,6 +260,13 @@
    "reply": "Cass, thank you for Sunday. Turning up an hour early to peel potatoes is the only reason lunch made it to the table on time, and I still can't believe you stayed till 7 doing the washing up. Your grandmother's apple crumble made the meal. I'll bring your dish back on Wednesday at climbing, and next time you host, I'm on washing-up duty.",
    "lang": "en",
    "note": "The host thanking a guest: name the unglamorous help, not just the food, and repay it in kind."
+  },
+  {
+   "id": "thank-you-notes-038",
+   "situation": "我是项目经理。组员小陈上周六主动远程排查，凌晨两点定位到支付接口的一个配置错误，周一新版本才顺利上线。我已经在周报里跟总监写明是她找到的问题，也想给她调休一天，日子她挑。想私下发微信谢谢她。",
+   "reply": "小陈，想私下跟你说声谢谢。上周六你主动远程排查，凌晨两点定位到支付接口的配置错误，周一新版本才能顺利上线。这个问题是你找到的，我已经在周报里跟总监写清楚了。周末占用了你的休息时间，给你调休一天，日子你挑。",
+   "lang": "zh",
+   "note": "上级谢下属：说清她具体做了什么、带来了什么，让她的功劳被上面看到，回报用她用得上的方式。"
   }
  ]
 }

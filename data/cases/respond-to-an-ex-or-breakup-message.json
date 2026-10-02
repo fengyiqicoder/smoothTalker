@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -260,6 +260,13 @@
    "reply": "Ha, small world indeed, and it's nice to see you're doing well. I'll pass on the drink, though; I think we're both better off keeping our searches separate. I'm going to unmatch after this, so don't read anything into it. Good luck out there, Gabe.",
    "lang": "en",
    "note": "A match isn't a door reopening: one light line, a clear no, and say you're unmatching so the disappearance doesn't read as a snub."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-038",
+   "situation": "我和前男友阿彬8月分手，在一起两年。他手机和网盘里有我的私密照片。昨晚他发微信说“我们以前的照片我都还留着”，让我很不安。他没有威胁我，但我想让他全部删掉，别的不想多聊。",
+   "reply": "阿彬，你说以前的照片都还留着，我想把话说清楚：你手机和网盘里我的私密照片，请全部删除，包括所有备份，也不要发给任何人。删完回我一句“已删”就行。别的我不想再聊。",
+   "lang": "zh",
+   "note": "保存好聊天记录。如果他拿照片威胁你，或者发给别人、传到网上，马上报警，也可以向平台举报要求删除；感到不安全时直接打110。"
   }
  ]
 }

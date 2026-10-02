@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -260,6 +260,13 @@
    "reply": "Thanks for your email. During Ramadan I'm working shorter hours, 8am to 2pm Gulf time, Sunday to Thursday. Anything that arrives after 2pm gets a reply from me the next working morning. For an urgent supplier issue in the afternoon, please contact Hana Ali (hana.ali@example.com). Yusuf",
    "lang": "en",
    "note": "Reduced hours, not away: the working window in the reader's time zone, when late messages get answered, and one named afternoon route."
+  },
+  {
+   "id": "out-of-office-and-away-messages-038",
+   "situation": "I'm Gareth, volunteer coach of the Under-9s at Millbrook Juniors, and parents message me in our team WhatsApp group. I'm not available from Saturday 10 October to Sunday 18 October and won't read the group. Assistant coach Priya Shah, who is also our first-aider, has agreed to run Tuesday 6pm training and both Saturday matches; parents can reach her on 07700 900734. I don't want the message to say I'm away from home.",
+   "reply": "Hi all, I'm not available from Saturday 10 to Sunday 18 October and won't be reading this group. Training on Tuesday at 6pm and both Saturday matches go ahead as usual, run by Priya Shah, who is also the first-aider on site. For anything about the team, including letting us know your child can't come, message or call her on 07700 900734. If a child is seriously hurt, call emergency services first. I'll pick up messages from Monday 19 October. Gareth",
+   "lang": "en",
+   "note": "Parents need to know sessions still run, who to tell about absences, and the emergency route; 'not available' is enough, with nothing about where you'll be."
   }
  ]
 }

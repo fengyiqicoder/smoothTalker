@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -260,6 +260,13 @@
    "reply": "Thanks for reaching out, Ms Patel, I'm interested in the graduate analyst programme. Before I apply, could you tell me when the programme starts and whether there's a Manchester intake? I graduate next June and I'd rather be based in Manchester than move to London. If that works, I'm free for a call on Wednesday after 1pm.",
    "lang": "en",
    "note": "Early in a career the shape is the same: the answer first, the one dealbreaker before the call, then a time."
+  },
+  {
+   "id": "respond-to-recruiter-038",
+   "situation": "A recruiter, Natalie, emailed about an IT service desk manager role and says the client is shortlisting today, so if I don't confirm I'm interested by 5pm 'the slot goes to someone else'. I am interested, but she hasn't told me the base range or whether the role includes weekend on-call, which would be a dealbreaker for me. I can reply within the hour once I know both.",
+   "reply": "Thanks, Natalie. Yes, I'm interested, and you're welcome to tell the client that today. Before I'm shortlisted, could you send the base range and confirm whether the role includes weekend on-call? That one's a dealbreaker for me, and I'll reply within the hour once I have both.",
+   "lang": "en",
+   "note": "Deadline pressure doesn't change the order: confirm interest, but get the range and the dealbreaker answered before you go further."
   }
  ]
 }

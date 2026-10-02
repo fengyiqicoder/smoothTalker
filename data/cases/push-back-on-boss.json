@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -260,6 +260,13 @@
    "reply": "钱总，店里的评分我也想尽快提上来。只是用我和家人的号刷好评这件事我做不了，这等于在骗看评价的顾客。两个办法：一是下周起在每张小票上印个二维码，请真实到店的顾客评价；二是我每天把差评逐条回复，写清楚我们整改了什么。我建议先做第一个。您看选哪个？",
    "lang": "zh",
    "note": "对造假说不，对提高评分说是。老板坚持的话也不要做，用文字留个记录，自己查一下平台规则；公司有举报渠道就向那里反映。"
+  },
+  {
+   "id": "push-back-on-boss-038",
+   "situation": "Sou a Carla, professora de matemática do 9º ano numa escola particular em Curitiba. A coordenadora, Sílvia, me pediu para subir a nota final do Pedro de 4,5 para 6,0, a média para passar, porque os pais reclamaram; ele não fez duas das quatro provas. Não quero mudar a nota sem base, mas posso aplicar a prova de recuperação que o regimento da escola prevê para todos os alunos abaixo de 6,0, na quinta, 8 de outubro, ou fazer uma reunião com ela e os pais para revisar as provas dele.",
+   "reply": "Sílvia, eu também quero que o Pedro tenha uma chance de passar e que isso se resolva bem com a família. Só não consigo subir a nota de 4,5 para 6,0 sem base: ele não fez duas das quatro provas, e uma nota alterada assim não seria justa com os outros alunos nem se sustentaria se alguém perguntasse. Duas opções: aplico a prova de recuperação que o regimento prevê para todos abaixo de 6,0, na quinta, 8 de outubro; ou fazemos uma reunião com você e os pais para revisar as provas dele juntos. Recomendo a primeira, porque dá ao Pedro uma chance real de chegar ao 6,0. Qual você prefere?",
+   "lang": "pt",
+   "note": "Sim ao objetivo, não à nota alterada. Se ela insistir, não altere a nota: registre o pedido por escrito e leve à direção ou ao canal de denúncias da escola."
   }
  ]
 }

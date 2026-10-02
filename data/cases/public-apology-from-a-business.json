@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -260,6 +260,13 @@
    "reply": "Samedi 26 septembre, notre autocar n'est pas venu vous chercher à l'aéroport de Lyon, et 34 d'entre vous ont attendu près de trois heures avant que nous envoyions des taxis. C'est notre erreur : nous avions transmis la mauvaise date au chauffeur. Je vous présente mes excuses. Chaque voyageur concerné sera remboursé de la première nuit du séjour, 95 €, d'ici le vendredi 9 octobre, sans aucune démarche. Désormais, chaque transfert est confirmé par téléphone avec le chauffeur la veille. Pour toute question, écrivez-moi à sophie@example.com.\nSophie Martin, Escapades Alpines",
    "lang": "fr",
    "note": "L'agence assume l'erreur de transmission sans accuser le chauffeur, s'excuse une fois, rembourse automatiquement et annonce un contrôle vérifiable."
+  },
+  {
+   "id": "public-apology-from-a-business-038",
+   "situation": "我是锦园小区的物业经理孙涛。9月30日上午9点到下午5点，因为更换2号楼和3号楼的供水总阀，我们停了水，却没有提前通知，200多户业主一整天没水用，其中不少是老人，业主群里很多人在骂。这两栋楼每户10月份的公共水电分摊费（约35元）全部免掉，直接在账单里减；以后计划停水至少提前48小时在业主群、单元门和电梯里同时通知，停水期间楼下放桶装水。物业值班电话是13800000086。",
+   "reply": "9月30日上午9点到下午5点，2号楼和3号楼停水，我们事先没有通知，200多户邻居一整天没水用，家里有老人的更不方便。对不起，这是物业的失职。停水是为了更换两栋楼的供水总阀，通知本该提前发，我们没有发。这两栋楼每户10月份的公共水电分摊费（约35元）全部免掉，直接在账单里减，不用申请。以后凡是计划停水，至少提前48小时在业主群、单元门和电梯里同时通知，停水期间楼下放桶装水。有任何问题，打物业值班电话13800000086，或者直接找我。物业经理 孙涛",
+   "lang": "zh",
+   "note": "物业对业主的道歉也按同一个顺序：先说停了多久、影响了谁，一句道歉，补偿自动到账，改进写成具体的通知时间和渠道。"
   }
  ]
 }

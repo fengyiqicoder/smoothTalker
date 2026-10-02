@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -260,6 +260,13 @@
    "reply": "Imogen, it's been about eight years, which seems impossible. Your novel is everywhere and I'm so pleased for you; I still think about us swapping chapters every week over cheap noodles. I saw you're reading in town on Thursday the 15th, so I'll be in the audience cheering quietly. How are you finding all of it? No need to reply, I know it must be a busy time.",
    "lang": "en",
    "note": "With a friend who's now well known, write to the person you knew: one shared memory, no ask, and an easy pass on replying."
+  },
+  {
+   "id": "reconnect-after-silence-038",
+   "situation": "I start a new job on the design team at Fenwick Labs on Monday, and I've just seen on the company's team page that my uni flatmate Priya is head of data there. We haven't talked in about six years, no falling out; in final year we survived exam season on her terrible microwave curry. I'd like to say hello before we bump into each other, without it looking like I'm after a leg-up.",
+   "reply": "Hi Priya, it's been about six years, which feels impossible. Funny news: I start on the design team at Fenwick Labs on Monday, and I've just spotted you on the team page. I'd rather say hello now than surprise you in the lift. I still think about surviving final-year exams on your terrible microwave curry. How are you finding it there? No rush to reply.",
+   "lang": "en",
+   "note": "When you're about to be colleagues, say hello before the corridor does it for you, and ask for nothing about the job; suggest a coffee only once she replies warmly."
   }
  ]
 }

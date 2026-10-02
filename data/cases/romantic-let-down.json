@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -260,6 +260,13 @@
    "reply": "Thanks for taking it so kindly, Ethan. Please don't wait for me, though: my answer isn't going to change, and I'd hate for you to put anything on hold for it. I wish you well.",
    "lang": "en",
    "note": "'I'll wait' brings the ambiguity back from their side: close it once, kindly, then stop replying."
+  },
+  {
+   "id": "romantic-let-down-038",
+   "situation": "相亲认识的老陈，离异，带着一个6岁的女儿。我们见了两次面，昨天我微信跟他说没感觉，不继续了。今天他问：“是不是因为我有孩子？”其实跟孩子没关系，就是没有那种感觉。",
+   "reply": "谢谢你直接问。跟孩子一点关系都没有，真的，就是我对我们之间没有那种感觉。我的想法不会变，祝你和女儿都好。",
+   "lang": "zh",
+   "note": "对方猜错原因时，只纠正这一句，不补一张理由清单；之后他再发，不必回复。"
   }
  ]
 }

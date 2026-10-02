@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -260,6 +260,13 @@
    "reply": "老吴，想请你帮个忙：听说远航仓储在招供应链计划经理，能不能帮我引荐一下宋姐，私下聊20分钟？我还在职，这事公司还不知道，所以麻烦你只跟宋姐一个人提。你要是觉得不方便开口，直接跟我说就行，完全没关系。\n方便的话，这段可以直接转给宋姐：“宋姐，介绍一下我前同事郑岚，做了五年供应链计划，主导的项目把库存周转天数从45天降到了32天。她目前在职，想私下跟您聊20分钟，了解一下供应链计划经理这个岗位，还请先帮她保密。”\n不管结果怎样，我都会跟你说一声。",
    "lang": "zh",
    "note": "在职找机会的引荐：把保密写进请求，也写进可转发的那段，老吴转发时就不用替你多解释。"
+  },
+  {
+   "id": "request-intro-or-referral-038",
+   "situation": "I'm Callum Reid, 24, retraining as an electrician; I finished my college course in July and need a placement with a qualified electrician to complete my apprenticeship. My mate Jordan's dad, Steve Harris, runs a three-person electrical firm in town. I've got my own basic tools and a full driving licence, and I'd like Jordan to ask Steve whether he'd have 15 minutes for a chat, no promises.",
+   "reply": "Hi Jordan, could I ask a favour? Would you be up for asking your dad if he'd have 15 minutes for a chat with me? I'm looking for an apprenticeship placement with a qualified electrician, and I'd love to hear whether his firm ever takes one on. If it feels awkward asking your dad, no problem at all, just say.\nIf you're happy to, here's something you can forward:\n\"Dad, my mate Callum Reid is 24 and retraining as an electrician. He finished his college course in July and needs a placement to complete his apprenticeship. He's got his own basic tools and a full driving licence, and he'd love 15 minutes to chat, no promises either way.\"\nI'll let you know how it goes either way. Cheers, Callum",
+   "lang": "en",
+   "note": "Asking through a friend's parent: the blurb is in the friend's own voice, carries the two practical facts a small firm checks first, and the ask stays a chat, not a job."
   }
  ]
 }

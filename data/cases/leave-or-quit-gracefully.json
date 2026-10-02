@@ -25,21 +25,21 @@
   },
   {
    "id": "leave-or-quit-gracefully-004",
-   "situation": "I'm Dev. I've done the books for Ferro's, a family bakery, on a $600/month retainer for five years, and the owner Carla brings me focaccia every Friday. I'm starting a full-time job in January and need to end it. I called her yesterday, now I want to put it in writing.",
-   "reply": "Hi Carla,\nThanks for taking my call yesterday. To confirm in writing: I'll be ending our bookkeeping arrangement, and December will be my last month. I'll close out the year-end accounts before I go, write up a handover for whoever takes over, and I'm happy to spend an hour with them in person. If it helps, I can recommend two bookkeepers I'd trust with Ferro's. Thank you for five really good years, and for all the Friday focaccia.\nBest,\nDev",
+   "situation": "I'm Dev. I've done the books for Ferro's, a family bakery, on a $600/month retainer for five years, and the owner Carla brings me focaccia every Friday. I'm starting a full-time job in January, so December will be my last month; I'll close out the year's books and write a handover first. I called her yesterday, now I want to put it in writing.",
+   "reply": "Hi Carla,\nThanks for taking my call yesterday. To confirm in writing: I'll be ending our bookkeeping arrangement, and December will be my last month. I'll close out the year's books before I go, write up a handover for whoever takes over, and I'm happy to spend an hour with them in person. Thank you for five really good years, and for all the Friday focaccia.\nBest,\nDev",
    "lang": "en",
    "note": "Ending a client relationship follows the same shape as a resignation: tell them by phone, then a written note with the date, a real handover and a specific thanks."
   },
   {
    "id": "leave-or-quit-gracefully-005",
    "situation": "I gave notice yesterday, last day is Friday Oct 23. My manager Dave just replied on Slack: 'Honestly didn't expect this from you, leaving right before the Q4 launch really puts us in a hole.' I've been there 3 years, and my colleague Leila will take over the launch checklist and vendor contacts.",
-   "reply": "I understand the timing is hard, Dave, and I'm sorry it lands right before the launch. My decision is made and my last day stays Friday 23 October. I want these weeks to be useful, so I've started a handover doc for the launch checklist and can walk Leila through the vendor contacts on Thursday. Tell me what you'd most like prioritised and I'll start there.",
+   "reply": "I understand the timing is hard, Dave, and I'm sorry it lands right before the launch. My decision is made and my last day stays Friday 23 October. I want these weeks to be useful, so I'll put together a handover doc for the launch checklist and can walk Leila through the vendor contacts on Thursday. Tell me what you'd most like prioritised and I'll start there.",
    "lang": "en",
    "note": "After a guilt-trip, hold the date, don't re-argue the reason, and turn the conversation into a handover question."
   },
   {
    "id": "leave-or-quit-gracefully-006",
-   "situation": "I started at a logistics startup in June and I'm quitting after 4 months; my contract says two weeks' notice. The role turned out to be mostly sales, which isn't what I signed up for. My manager Beth has been kind, and I have 23 open accounts plus the Harlow onboarding to hand over. Meeting her tomorrow, what do I say?",
+   "situation": "I started at a logistics startup in June and I'm quitting after 4 months; my contract says two weeks' notice, so my last day would be Wednesday 14 October. The role turned out to be mostly sales, which isn't what I signed up for. My manager Beth has been kind, and I have 23 open accounts plus the Harlow onboarding to hand over. Meeting her tomorrow, what do I say?",
    "reply": "Beth, I wanted to tell you in person: I've decided to leave, and I'm giving my two weeks' notice today, so my last day would be Wednesday 14 October. The role has turned out to be different from what I'm looking for, and I'd rather say that early than let it drag. Before I go I'll write up the status of all 23 open accounts and hand over the Harlow onboarding properly. Thank you for all the time you've put into getting me started.",
    "lang": "en",
    "note": "A short tenure needs less explanation, not more: one honest line about fit, a clear date that matches your contract's notice, a concrete handover, no apology tour."
@@ -53,7 +53,7 @@
   },
   {
    "id": "leave-or-quit-gracefully-008",
-   "situation": "Je suis Sophie, quatre ans chez Atelier Nova. Mon dernier jour est vendredi 9 octobre, ma manager le sait, et Camille reprend mes dossiers. Je veux envoyer un mot d'au revoir à l'équipe par mail ; j'ai surtout appris sur le lancement de l'appli l'an dernier.",
+   "situation": "Je suis Sophie, quatre ans chez Atelier Nova. Mon dernier jour est vendredi 9 octobre, ma manager le sait, et Camille reprend mes dossiers. Je veux envoyer un mot d'au revoir à l'équipe par mail et rester joignable sur LinkedIn ; j'ai surtout appris sur le lancement de l'appli l'an dernier.",
    "reply": "Bonjour à tous,\nVendredi 9 octobre sera mon dernier jour chez Atelier Nova. Merci pour ces quatre années, et en particulier pour le lancement de l'appli l'an dernier, où j'ai énormément appris. Mes dossiers sont repris par Camille, qui a tout en main. Vous pouvez me joindre sur LinkedIn, et je serais ravie de garder le contact. À très vite, j'espère.\nSophie",
    "lang": "fr",
    "note": "Le mot à l'équipe vient après la manager : la date, un merci précis, qui reprend vos dossiers et comment vous joindre. Ni raisons, ni règlements de comptes."
@@ -61,21 +61,21 @@
   {
    "id": "leave-or-quit-gracefully-009",
    "situation": "我大学毕业后在我爸的五金厂帮忙管账，已经三年了，跟着他学会了怎么跟老客户打交道。我想去深圳做设计，年底离开，厂里的会计小陈可以接手。我爸一直希望我以后接班，打算周末吃饭时当面跟他说。",
-   "reply": "爸，想跟您认真说件事：我决定年底离开厂里，12月31日是我最后一天。我想去深圳做设计，这是我一直想试的事，趁年轻去拼一拼。这三个月我会把账目理清楚，把会计小陈带出来，工资表和供应商对账都做成模板，尽量让厂里交接顺顺当当。这三年跟着您，学得最多的是怎么跟老客户打交道，这个我会一直带着。",
+   "reply": "爸，想跟您认真说件事：我决定年底离开厂里，12月31日是我最后一天。我想去深圳做设计。这三个月我会把账目理清楚，手上的活儿一样一样交给会计小陈，尽量让厂里交接顺顺当当。这三年跟着您，学得最多的是怎么跟老客户打交道，这个我会一直带着。",
    "lang": "zh",
    "note": "对家人也是同一个结构：当面说，先说决定和日期，理由一句，交接具体，最后是具体的感谢；接班的事不在这次辩论。"
   },
   {
    "id": "leave-or-quit-gracefully-010",
-   "situation": "I play bass in a covers band with three friends, Sam, Ollie and Kate. We gig about once a month. Our baby is due in December and I can't keep doing weekly rehearsals. I want to leave after our Halloween gig on Oct 31 without letting them down.",
-   "reply": "Guys, I'd rather tell you now than fade out: with the baby due in December I can't keep up with rehearsals, so the Halloween gig on the 31st will be my last. I'll have the new set properly learned for it, and I'm happy to sit in with whoever you try out and pass on all my charts. I've loved every minute of this band, and I'll be front row at your next gig.",
+   "situation": "I play bass in a covers band with three friends, Sam, Ollie and Kate. My company is relocating me to Singapore from Monday 19 October, so I'll miss the paid wedding gig we've booked for Saturday 31 October. My friend Ade, a session bassist, has said he could cover it; I'm telling the band in our group chat tonight.",
+   "reply": "Guys, I'd rather you heard this now than later: work is relocating me to Singapore from Monday 19 October, so I can't play the wedding on Saturday 31 October, and I'm leaving the band. I'm sorry to drop this on you with a booked gig coming up. Ade has said he could cover the wedding, and if you'd like, I'll send him the set list this week and set up a rehearsal with you before I fly. Shall I ask him? I've loved playing with you three.",
    "lang": "en",
-   "note": "Leaving a shared commitment with friends: a clear last date, a real handover, and warmth without over-explaining."
+   "note": "Short notice with a booked commitment: own the inconvenience once, don't over-explain, and bring a concrete fix for the gap."
   },
   {
    "id": "leave-or-quit-gracefully-011",
-   "situation": "I'm Paul, treasurer of our neighborhood association for two years; the term runs to next June and the insurance renewal is due in January. A new job means I can't keep doing it. I want to step down at the Nov 10 meeting and tell the chair, Linda, before the rest of the board.",
-   "reply": "Hi Linda, I wanted you to hear this from me before the rest of the board: I'm going to step down as treasurer at the Tuesday Nov 10 meeting. I've started a new job and can't give the books the attention they need, so I'd rather hand over cleanly than let things slip. Before then I'll reconcile the accounts through October and write up the bank access steps, vendor list and the insurance renewal due in January. I'm happy to spend two evenings with whoever takes over. Thank you for two good years.\nPaul",
+   "situation": "I'm Paul, treasurer of our neighborhood association for two years; the term runs to next June and the insurance renewal is due in January. A new job means I can't keep doing it. I want to step down at the Nov 10 meeting and tell the chair, Linda, before the rest of the board; before then I'll reconcile the accounts through October and write handover notes.",
+   "reply": "Hi Linda, I wanted you to hear this from me before the rest of the board: I'm going to step down as treasurer at the Tuesday Nov 10 meeting. I've started a new job and can't give the books the attention they need, so I'd rather hand over cleanly than let things slip. Before then I'll reconcile the accounts through October and write handover notes, including the insurance renewal due in January, and I'm happy to walk whoever takes over through them. Thank you for two good years.\nPaul",
    "lang": "en",
    "note": "Chair first, a fixed date, one line of reason and a handover concrete enough that nobody has to chase you."
   },
@@ -96,14 +96,14 @@
   {
    "id": "leave-or-quit-gracefully-014",
    "situation": "I'm resigning from my sales engineer job tomorrow, last day Friday Oct 30, and I look after six accounts. I'm going to a direct competitor and I'd rather not tell my manager Fiona where, at least until I've started. She taught me how to run a demo, and she will definitely ask.",
-   "reply": "Fiona, I wanted to tell you directly: I've decided to leave, and I'm giving my notice today. My last day will be Friday 30 October. I'd rather keep where I'm going to myself for now; it's nothing to do with you, I just want the focus on leaving well. I've started a handover doc for my six accounts and I'd like to walk you through it this week. You taught me how to run a demo, and I'm grateful for that.",
+   "reply": "Fiona, I wanted to tell you directly: I've decided to leave, and I'm giving my notice today. My last day will be Friday 30 October. I'd rather keep where I'm going to myself for now; it's nothing to do with you, I just want the focus on leaving well. I'll put together a handover doc for my six accounts and walk you through it before I go. You taught me how to run a demo, and I'm grateful for that.",
    "lang": "en",
    "note": "Declining to say where is fine: say it once, kindly, never invent a cover story, and check your contract for notice or non-compete terms before the meeting."
   },
   {
    "id": "leave-or-quit-gracefully-015",
    "situation": "I manage a team of five designers and my last day is Friday Oct 30. HR's exit form asks for honest feedback, and the main reason I'm leaving is that we've been two designers short since March and I've covered the gap with evenings. I want to say it without sounding bitter.",
-   "reply": "Thank you for asking. The main factor in my decision was workload: the team has been two designers short since March, and I've been covering the gap in the evenings. I'd suggest filling both roles before my successor starts, so they don't inherit the same gap. I've valued leading this team, and I'm grateful for the chance to do it.",
+   "reply": "Thank you for asking. The main factor in my decision was workload: the team has been two designers short since March, and I've been covering the gap in the evenings. I'd suggest filling both roles before someone takes over the team, so they don't inherit the same gap. I've valued leading this team, and I'm grateful for the chance to do it.",
    "lang": "en",
    "note": "Exit feedback stays factual: one cause, one concrete suggestion, no blame on named people, and a closing line that leaves the bridge intact."
   },
@@ -131,7 +131,7 @@
   {
    "id": "leave-or-quit-gracefully-019",
    "situation": "I gave two weeks' notice, as my contract requires, and my last day is Friday Oct 16. My manager Ines now wants me to stay until Oct 30 to cover the year-end audit prep, but I start my new job on Monday Oct 19 and can't move it. My colleague Tom is taking over the audit, and I'd be fine doing two short evening calls the week after if he gets stuck.",
-   "reply": "I understand the audit timing makes this hard, Ines, and I want to leave it in good shape. My last day stays Friday 16 October, because I start my new role on Monday the 19th and can't move it. Before I go I'll finish the audit prep folder and walk Tom through all of it, and if he gets stuck the week after, I'm happy to do two short evening calls with him. Which parts of the audit would you like me to cover first?",
+   "reply": "I understand the audit timing makes this hard, Ines, and I want to leave it in good shape. My last day stays Friday 16 October, because I start my new role on Monday the 19th and can't move it. Before I go I'll walk Tom through all of the audit prep, and if he gets stuck the week after, I'm happy to do two short evening calls with him. Which parts of the audit would you like me to cover first?",
    "lang": "en",
    "note": "When asked to stay longer, hold the date, offer one bounded extra you actually want to give, and turn the talk to handover priorities."
   },
@@ -147,12 +147,12 @@
    "situation": "I'm quitting my job at a small design agency after 18 months, mainly because the founder, Mark, yells at people in meetings. I've accepted another role, my contract says four weeks' notice so my last day is Friday Oct 30, and I look after three client accounts. I'm telling him on a call tomorrow; he'll ask why and I don't want to get into it.",
    "reply": "Mark, I wanted to tell you directly: I've decided to leave, and I'm giving my four weeks' notice today, so my last day will be Friday 30 October. I've accepted another role, and it's time for a change. I'll write up handover notes for my three client accounts by the end of next week so nothing drops. Thank you for the last 18 months.",
    "lang": "en",
-   "note": "Leaving because of problems: no reason owed. If he presses, repeat 'it's time for a change'; keep any honest feedback for an exit interview, factual."
+   "note": "Leaving because of problems: no reason owed. If he presses, repeat 'it's time for a change'; keep any honest feedback for an exit interview, factual. If the yelling is aimed at you or feels like bullying, keep dated notes and raise it with HR or an employment adviser."
   },
   {
    "id": "leave-or-quit-gracefully-022",
    "situation": "For two years I've walked my elderly neighbour Mr. Patel's dog, Bruno, every weekday lunchtime, just as a favour. I start an office job on Monday 2 November, so my last walk will be Friday 30 October. Aisha, the 15-year-old next door, has said she'd happily take it on for pocket money, and I'm telling Mr. Patel in person tomorrow.",
-   "reply": "Mr. Patel, I wanted to tell you myself: I'm starting an office job on Monday 2 November, so Friday 30 October will be my last lunchtime walk with Bruno. I've loved these two years with him. Aisha from next door has said she'd be happy to take over for a bit of pocket money; if you'd like, I'll bring her along on a few walks this month so Bruno gets to know her. And I'm just across the road, so I'll still pop in to say hello to him.",
+   "reply": "Mr. Patel, I wanted to tell you myself: I'm starting an office job on Monday 2 November, so Friday 30 October will be my last lunchtime walk with Bruno. I've loved these two years with him. Aisha from next door has said she'd be happy to take over for a bit of pocket money; if you'd like, I'll bring her along on a few walks this month so Bruno gets to know her. And I'll still be around, so I'll pop in to say hello to him.",
    "lang": "en",
    "note": "An unpaid favour still deserves a date and a handover; here the handover is the introduction."
   },
@@ -172,7 +172,7 @@
   },
   {
    "id": "leave-or-quit-gracefully-025",
-   "situation": "我在一家广告公司做了四年客户经理，8月底因为焦虑和失眠请了一个月病假，现在快到期了，我决定不回去了。合同写离职要提前30天书面通知；主管刘姐对我很好，去年手把手带我拿下了第一个年度大客户。我手上的三个客户已经由同事小吴临时接手，今天下午我先给刘姐打电话，再发书面通知，不想细说病情。",
+   "situation": "我在一家广告公司做了四年客户经理，8月底因为焦虑和失眠请了一个月病假，现在快到期了，我决定不回去了。合同写离职要提前30天书面通知，最后一天定在10月31日；主管刘姐对我很好，去年手把手带我拿下了第一个年度大客户。我手上的三个客户已经由同事小吴临时接手，今天下午我先给刘姐打电话，再发书面通知，不想细说病情。",
    "reply": "刘姐，谢谢您今天下午接我的电话。按电话里说的，这是我的正式辞职通知：按合同约定提前30天书面通知，我的劳动合同到2026年10月31日结束。出于健康原因，我决定不再回岗。三个客户现在由小吴接手，我会在10月9日周五前把客户资料和进行中的事项整理成交接文档，发给您和小吴，之后有问题也可以随时找我。这四年谢谢您，尤其是去年手把手带我拿下第一个年度大客户。",
    "lang": "zh",
    "note": "健康原因一句就够，不必交代病情；病假期间离职的具体手续对照合同或问人事。情绪撑不住时，找医生或当地心理援助热线。"
@@ -189,7 +189,7 @@
    "situation": "I'm Ravi, and for five years I've co-maintained an open-source date-parsing library with Jun. I'm burned out and want my evenings back, so I'm stepping down as a maintainer on 31 October; I told Jun on a call yesterday and he'll keep leading it. Before then I'll review the 12 open PRs tagged for the v3.2 release and hand my admin rights to Jun. I want to post it in the project's GitHub Discussions.",
    "reply": "Hi everyone, I'm stepping down as a maintainer on 31 October. After five years I need my evenings back, and I'd rather say so clearly than slowly go quiet. Before then I'll review the 12 open PRs tagged for v3.2 and hand my admin rights to Jun, who will keep leading the project. Thank you to everyone who has filed issues and sent fixes over the years. If you've ever thought about helping maintain, talk to Jun.\nRavi",
    "lang": "en",
-   "note": "A public exit from a volunteer project: co-maintainer first, then a date, a named successor and a concrete handover so nobody is left guessing."
+   "note": "A public exit from a volunteer project: co-maintainer first, then a date, a named successor and a concrete handover so nobody is left guessing. If burnout is affecting your sleep or health, talk to a doctor or a support line as well."
   },
   {
    "id": "leave-or-quit-gracefully-028",

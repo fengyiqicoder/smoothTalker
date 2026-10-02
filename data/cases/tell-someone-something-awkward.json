@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -260,6 +260,13 @@
    "reply": "小郑，小提醒：左袖口的商标还没拆，跟前台借一下剪刀，进会议室前剪掉就好。新西装谁都忘过，别在意。",
    "lang": "zh",
    "note": "对下属也一样：趁旁边没人小声说一句，附上马上能用的办法，会后不再提。"
+  },
+  {
+   "id": "tell-someone-something-awkward-038",
+   "situation": "I'm a hairdresser. My regular client, Mrs Hale, comes in every six weeks, and today I noticed a mole on the back of her scalp that's clearly bigger and darker than when I cut her hair in August. She can't see it herself, and it's just the two of us at the basin. I want to mention it once without frightening her.",
+   "reply": "Mrs Hale, can I mention something, just between us? There's a mole on the back of your scalp that looks bigger and darker than it did in August. It's probably nothing, but it's worth asking your doctor to take a quick look. I'd want someone to tell me. Now, same as usual on the length?",
+   "lang": "en",
+   "note": "Point to the doctor rather than guess what it is; if she asks, offer to take a photo of it on her phone so she can see it."
   }
  ]
 }

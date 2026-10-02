@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -260,6 +260,13 @@
    "reply": "Thanks for getting in touch, Claire. I can't open the flat without proof that you live there or a go-ahead from someone who does: people trust that a locksmith won't let anyone into their home just because they ask, and I hold that line for every door. If your boyfriend or the landlord calls me on 07700 900418 to confirm, I can be with you in about 40 minutes, and the callout is £85.",
    "lang": "en",
    "note": "Hold the no if she pushes; if she says she's unsafe or stuck somewhere dangerous, she should call emergency services."
+  },
+  {
+   "id": "say-no-to-a-customer-request-038",
+   "situation": "I'm Priyanka, a driving instructor. Mr Hale wants to book a 10-hour intensive for his son Leo, 17, before his test on 23 October, but only if I guarantee Leo will pass first time. I can't guarantee a pass, since the examiner decides on the day; I can do a full mock test in hour 8 and tell him honestly whether Leo looks ready, so there's time to think about moving the test if not.",
+   "reply": "Thanks for thinking of me for Leo's intensive, Mr Hale. I can't guarantee a first-time pass: the examiner makes that call on the day, not me. What I can do is a full mock test in hour 8 and give you an honest read on whether Leo looks ready, so there's still time to think about moving the test if he isn't. Would you like me to pencil in the 10 hours?",
+   "lang": "en",
+   "note": "Never sell a result you don't control; offer the honest checkpoint instead."
   }
  ]
 }
