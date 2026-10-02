@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -267,6 +267,13 @@
    "reply": "Claire, je dois corriger ce que je t'ai dit mardi en réunion : les rapprochements bancaires de septembre n'étaient pas terminés, il restait trois comptes sur douze. Je n'aurais pas dû les annoncer comme finis, et je suis désolé. Je termine les trois aujourd'hui avant 16 h et je t'envoie le fichier complet dès que c'est fait, pour que la clôture de lundi se fasse sur des chiffres complets. À partir de maintenant, je te donnerai l'état réel d'une tâche, même incomplet, plutôt que de la dire terminée trop tôt.",
    "lang": "fr",
    "note": "Corriger une fausse affirmation dès que possible, même si personne ne l'a remarquée : nommer ce qui était faux, sans excuse, puis le correctif avec une heure."
+  },
+  {
+   "id": "admit-mistake-at-work-039",
+   "situation": "I'm a self-employed dog walker. Yesterday afternoon I lost the spare key to my client Mrs Okafor's house somewhere on the walk with her spaniel, Pip; it was on a ring with only a paw-print tag, no address. I've retraced the route twice and left my number with the park café, and a locksmith quoted £95 to change her front door lock and can come on Monday; I'll pay if she wants it done. She's at work and I need to text her now.",
+   "reply": "Hi Mrs Okafor, I need to tell you about a mistake: I lost your spare house key yesterday afternoon on Pip's walk. It was on the ring with only the paw-print tag, so there's no address on it, but I'd completely understand if you'd rather not take the chance. I've retraced the route twice and left my number with the park café in case it's handed in. A locksmith can change your front door lock on Monday for £95, and I'll pay for it if you'd like it done. I'm sorry. From now on I'll keep client keys clipped inside a zipped pocket.",
+   "lang": "en",
+   "note": "A lost key is a security question, not just a lost object: say so plainly and leave the lock decision to her, with the cost already covered."
   }
  ]
 }

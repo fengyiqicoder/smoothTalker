@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -266,6 +266,13 @@
    "reply": "Subject: A 20-minute talk at Data Drinks Sheffield?\n\nHi Dr Achebe,\nYour post last month on cutting missed appointments with a simple reminder model is exactly the kind of practical work our members love. I run Data Drinks Sheffield, a free monthly meetup with about 60 people at each one. Would you consider giving a 20-minute talk on it on Thursday 19 November? It's unpaid, but we cover travel. If it's not for you, a quick no is genuinely helpful.\nTara Quinn",
    "lang": "en",
    "note": "Inviting a speaker is still a cold ask: her own work as the reason, the audience size as proof, and the terms up front so she can answer without a call."
+  },
+  {
+   "id": "cold-outreach-039",
+   "situation": "我叫李然，做免费的老年人智能手机课，上半年在翠苑社区办了4期，一共96位老人参加，主要教视频通话。桂花里社区居委会的公众号上说，辖区里不少独居老人不会用手机视频，想办相关活动，负责人是赵主任。课程不收费，只需要一间能坐20人的活动室，我想先问能不能发一页课程方案给她。",
+   "reply": "赵主任您好，看到居委会公众号上说，辖区里不少独居老人不会用手机视频通话。我叫李然，做免费的老年人智能手机课，上半年在翠苑社区办了4期，96位老人参加，主要就是教视频通话。课程不收费，只需要一间能坐20人的活动室。方便的话，我发一页课程方案给您看看？不合适的话，回一句“不用”也很有帮助。",
+   "lang": "zh",
+   "note": "公益合作也是冷启动：理由来自对方自己发的文章，一个数字做证明，说清需要对方出什么，再只问能不能发一页方案。"
   }
  ]
 }

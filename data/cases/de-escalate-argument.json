@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -267,6 +267,13 @@
    "reply": "No, I'm not leaving. I'm staying right here in the flat, and saying you always make everything a crisis was unfair, I'm sorry. I know forgetting your awards dinner made it feel like your work doesn't matter to me. I just need 30 minutes so I don't make this worse, and then I'll come and find you. I'm not going anywhere.",
    "lang": "en",
    "note": "When a pause sounds like abandonment, say where you'll be and when you'll be back; the return time is what makes the pause feel safe."
+  },
+  {
+   "id": "de-escalate-argument-039",
+   "situation": "装修超了预算3万，我和老公在微信上吵起来了。他说我“花钱没数”，我回了句“你就是窝囊，什么都不敢定”。他那句也挺伤人，但我想先把火灭了，不想变成互相要道歉。他今晚8点到家。",
+   "reply": "老公，我们先别在微信上吵了。“窝囊”那句是我说过头了，对不起。我知道超了3万，你是真着急，怕后面的钱不够。今晚8点你到家，我们把账摊开一起看。装修是为了我们俩的家，别让它把我们吵散了。",
+   "lang": "zh",
+   "note": "对方也说了伤人的话时，先只认自己那一句，不要求他回一句道歉；他那句话等冷静下来再提。"
   }
  ]
 }

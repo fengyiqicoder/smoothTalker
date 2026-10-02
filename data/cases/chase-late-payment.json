@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -267,6 +267,13 @@
    "reply": "孙先生您好，我是阿珍。10月17日（周六）您家30人寿宴的定金我这边还没收到：合同第3条约定30%定金2,700元，在活动前14天、也就是10月3日前支付，收款信息在合同里。麻烦明天10月3日前转一下，转好跟我说一声，我就开始订食材。按合同，逾期未付视为取消预订，我很希望这场照常办，如果有什么问题，今天跟我说就好。",
    "lang": "zh",
    "note": "活动前的定金：只讲合同写明的金额、期限和后果，不加码；他要是一直没回，打个电话确认他看到了消息。"
+  },
+  {
+   "id": "chase-late-payment-039",
+   "situation": "I'm Jade and I play in a four-piece covers band, The Late Trains. Steve, who runs the Fox & Anchor pub, agreed a £400 fee by WhatsApp on 2 September, payable in cash on the night, for our gig on Saturday 19 September; on the night he said the safe key wasn't there and he'd transfer it on the Monday. I texted on 24 September and he replied 'will sort it this week', but nothing has arrived; I sent him my bank details on 2 September, and he's asked us back for 31 October, which we haven't confirmed yet.",
+   "reply": "Hi Steve, following up on the £400 for The Late Trains' gig on Saturday 19 September, as agreed in your WhatsApp of 2 September. On the night you said you'd transfer it on the Monday, and on the 24th you said you'd sort it that week, but it hasn't come through yet. Could you send it by Friday 9 October, to the bank details I sent you on 2 September? We'd like to get it settled before we confirm 31 October. Thanks, Jade",
+   "lang": "en",
+   "note": "A chat message is still the agreement, so quote it with its date; holding off on confirming new work is fair, but don't go further than what was agreed."
   }
  ]
 }

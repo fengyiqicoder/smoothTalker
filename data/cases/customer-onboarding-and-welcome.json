@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -267,6 +267,13 @@
    "reply": "Hi Marcus, it's Kai at Fade Room, thanks for booking! You're in for Thursday at 6pm. We're above the bakery on Lane Street, entrance round the side. Need to move it? Text me here on 555-0147 up to 24 hours before. See you Thursday.",
    "lang": "en",
    "note": "In a single text, keep only the time, the way in and how to reach you; the side entrance is the detail that saves a lost first visit."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-039",
+   "situation": "I'm Isla and I rent out Glenbrae Cottage near Fort William. Kenji Mori from Osaka just booked 2 nights from Friday 16 October; his messages are in simple English, so I want mine to be easy to read or put through a translator. Check-in is from 4pm, the key is in a lockbox and I'll send the code on the morning of the 16th, I need his arrival time by Wednesday 14 October, and he can WhatsApp me on 07700 900233; I reply within a few hours.",
+   "reply": "Hello Kenji, thank you for booking Glenbrae Cottage. I am happy you are coming. Your stay is 2 nights, from Friday 16 October. Check-in is from 4pm. The key is in a lockbox, and I will send you the code on the morning of 16 October. Please tell me your arrival time by Wednesday 14 October. If you have a question, send me a WhatsApp message on 07700 900233. I reply within a few hours. Isla",
+   "lang": "en",
+   "note": "For a guest reading in a second language: short sentences, one fact each, dates and times in numbers, and no idioms."
   }
  ]
 }

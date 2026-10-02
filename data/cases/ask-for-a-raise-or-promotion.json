@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -267,6 +267,13 @@
    "reply": "Thanks for making the time, Bev. I love working here and I want to keep building my book at this salon. Over four years it's grown to about 120 regulars, I bring in around £6,500 a month in services, and since spring I've trained both juniors on colour. Senior stylists at salons around here are on 45%, so I'd like to move from 40% to 45% from November. If that's not possible now, what would it take, and when could we look at it again?",
    "lang": "en",
    "note": "Commission is pay too: the same shape, with your client book and takings as the evidence and one percentage as the ask."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-039",
+   "situation": "Sou desenvolvedora pleno há um ano e meio numa empresa de pagamentos em Recife, com salário de R$ 9.000. Desde março lidero a integração com o novo processador de pagamentos, que reduziu as falhas de 5% para 1%, e faço o code review dos dois juniores. Pedi à minha gestora, Renata, a promoção a sênior com R$ 12.500, dentro da faixa publicada de R$ 11.000 a R$ 14.000, e ela respondeu que \"sênior só depois de três anos de casa\".",
+   "reply": "Entendo, Renata, e obrigada por ser direta. Queria só entender melhor: três anos de casa é um critério escrito para sênior, ou o que conta é o escopo do trabalho? Desde março eu lidero a integração com o novo processador de pagamentos, que reduziu as falhas de 5% para 1%, e faço o code review dos dois juniores. Podemos olhar juntas os critérios de sênior, anotar o que ainda falta e combinar uma data para revisitar o pedido de R$ 12.500?",
+   "lang": "pt",
+   "note": "Quando a resposta é tempo de casa, pergunte se é critério escrito e leve a conversa para escopo e uma data, sem discutir."
   }
  ]
 }

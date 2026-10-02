@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -260,6 +260,13 @@
    "reply": "Hi Jo,\nThanks for getting in touch about Marcus. I managed Marcus Webb at Coldharbour Labs from 2023 to July 2025. His technical work was strong: he built our billing reconciliation service, which cut failed payments by 18%, and he wrote the on-call runbook our team still uses today. For a role built on careful backend engineering, I recommend him.\nBest regards,\nPriya Nair",
    "lang": "en",
    "note": "A personal clash is not evidence about someone's work: answer what was asked, keep to what you saw, and leave the falling-out out."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-038",
+   "situation": "我是一家连锁餐厅的运营总监宋丽。外包公司的项目经理赵磊2025年5月到12月负责我们的点餐小程序，期间我们改了三次需求，他每次都在两天内给出新的排期和报价，项目按期上线，上线后第一个月线上订单占比从12%升到30%。他们公司在投另一家企业的项目，对方采购郑女士请我写一段客户推荐；我只跟他对接项目管理，代码质量我判断不了，电话是138 0000 0156。",
+   "reply": "郑女士您好，我是宋丽，负责我们连锁餐厅的运营。2025年5月到12月，赵磊作为外包方的项目经理负责我们点餐小程序的开发，我是他在我们这边的直接对接人。项目期间我们改了三次需求，他每次都在两天内给出新的排期和报价，项目最后按期上线。上线后第一个月，线上订单占比从12%升到了30%。技术和代码质量不是我能判断的，这部分就不评价了；就项目管理和沟通而言，我非常推荐他。如需了解，欢迎致电138 0000 0156。",
+   "lang": "zh",
+   "note": "客户给乙方写推荐：说清你在项目里的位置，用需求变更和上线结果说话，看不懂的技术部分直接说明。"
   }
  ]
 }

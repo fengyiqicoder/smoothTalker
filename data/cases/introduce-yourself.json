@@ -11,7 +11,7 @@
   },
   {
    "id": "introduce-yourself-002",
-   "situation": "I'm Rohan, taking over a client account from my colleague Beth, who left on Friday. I've run paid search for retail brands for four years and I've read all her campaign notes. I play cricket in Leyton on Sundays. Need to introduce myself by email to the client's marketing team.",
+   "situation": "I'm Rohan, taking over as account manager on a client account from my colleague Beth, who left on Friday. I've run paid search for retail brands for four years and I've read all her campaign notes. I play cricket in Leyton on Sundays. I'm free Tuesday or Thursday afternoon next week. Need to introduce myself by email to the client's marketing team.",
    "reply": "Hi all, I'm Rohan, and I'm taking over as your account manager from Beth, who left on Friday. I've spent four years running paid search for retail brands, and I've read every campaign note Beth left, so nothing resets. Outside work I'm usually on a cricket pitch in Leyton on Sundays. Could we do 30 minutes next week so you can tell me what's working and what isn't? Tuesday or Thursday afternoon both suit me.",
    "lang": "en",
    "note": "For a handover, the reassurance that nothing resets is the one thing they most need to hear."
@@ -74,8 +74,8 @@
   },
   {
    "id": "introduce-yourself-011",
-   "situation": "我叫林晓，之前在城东中学带过两届初中生，刚接手初一（3）班当班主任，教语文，打算每周五留一篇短文。平时爱打羽毛球。第一次在班级家长群（45位家长）发自我介绍，想简短亲切，也让家长知道工作日下午4点后可以私信我。",
-   "reply": "各位家长好，我是初一（3）班的新班主任林晓，教语文，之前在城东中学带过两届初中生。我比较看重孩子的阅读习惯，每周五会留一篇短文，读完写三句话就行，不求长。课余我喜欢打羽毛球，孩子们估计很快会在操场上看到我。孩子有什么情况，工作日下午4点后可以直接私信我。",
+   "situation": "我叫林晓，之前在城东中学带过两届初中生，刚接手初一3班当班主任，教语文，打算每周五留一篇短文。平时爱打羽毛球。第一次在班级家长群（45位家长）发自我介绍，想简短亲切，也让家长知道工作日下午4点后可以私信我。",
+   "reply": "各位家长好，我是初一3班的新班主任林晓，教语文，之前在城东中学带过两届初中生。我比较看重孩子的阅读习惯，每周五会留一篇短文，读完写三句话就行，不求长。课余我喜欢打羽毛球，孩子们估计很快会在操场上看到我。孩子有什么情况，工作日下午4点后可以直接私信我。",
    "lang": "zh",
    "note": "老师面对家长：一件具体的教学安排加一个生活小爱好，再说清楚什么时间怎么联系，比一长串资历更让人放心。"
   },
@@ -88,15 +88,15 @@
   },
   {
    "id": "introduce-yourself-013",
-   "situation": "I'm Rosa, a physio. My partner Dev and I moved into flat 3B, in a 12-flat building, on Saturday with our 4-month-old, Isla, and she still cries a lot at night. There's a residents' WhatsApp group. I want to introduce us and give a heads-up about the noise without over-apologising.",
+   "situation": "I'm Rosa, a physio. My partner Dev and I moved into flat 3B, in a 12-flat building, on Saturday with our 4-month-old, Isla, and she still cries a lot at night. There's a residents' WhatsApp group. I want to introduce us and give a heads-up about the noise without over-apologising; we can move her cot to the back room if it bothers anyone.",
    "reply": "Hi everyone, I'm Rosa, and my partner Dev and I moved into 3B on Saturday with our daughter Isla, who's four months old. Fair warning that she's still working out the difference between night and day, so you may hear her through the walls for a while; if it's ever keeping you up, just tell me and we'll move her cot to the back room. I'm a physio, so feel free to ask me about stiff backs. And we'd love to know where the best bakery nearby is.",
    "lang": "en",
    "note": "A heads-up with a real fix beats an apology; the human hook is what neighbours will greet you with on the stairs."
   },
   {
    "id": "introduce-yourself-014",
-   "situation": "My old manager Tom introduced me by email to Dr. Aisha Bello, who runs the clinical data team at St Mary's Hospital, mentioning her team's work on outpatient no-shows. I'm Chris Yates, and for three years I've built demand forecasts for 140 stores at Harlow Retail; I want to move into healthcare. I volunteer as a timekeeper at a weekend 5k. I need to reply-all and introduce myself.",
-   "reply": "Thanks, Tom (moving you to bcc). Hi Dr. Bello, I'm Chris Yates, a data analyst at Harlow Retail, where for the last three years I've built the demand forecasts for our 140 stores. I'm hoping to move into healthcare data, and Tom mentioned your team's work on outpatient no-shows. Outside work I keep time at a weekend 5k, so I'm used to messy timing data in the rain. Would you have 20 minutes for a call in the next few weeks? Any Tuesday or Thursday afternoon works for me.",
+   "situation": "My old manager Tom introduced me by email to Dr. Aisha Bello, who runs the clinical data team at Northfield General Hospital, mentioning her team's work on outpatient no-shows. I'm Chris Yates, a data analyst, and for three years I've built demand forecasts for 140 stores at Harlow Retail; I want to move into healthcare. I volunteer as a timekeeper at a weekend 5k. I'm free Tuesday or Thursday afternoons. I need to reply-all and introduce myself.",
+   "reply": "Thanks, Tom, moving you to bcc. Hi Dr. Bello, I'm Chris Yates, a data analyst at Harlow Retail, where for the last three years I've built the demand forecasts for our 140 stores. I'm hoping to move into healthcare data, and Tom mentioned your team's work on outpatient no-shows. Outside work I keep time at a weekend 5k, so I'm used to messy timing data in the rain. Would you have 20 minutes for a call in the next few weeks? Any Tuesday or Thursday afternoon works for me.",
    "lang": "en",
    "note": "Replying to an introduction: thank the connector once, move them to bcc, and keep the ask small and easy to schedule."
   },
@@ -137,7 +137,7 @@
   },
   {
    "id": "introduce-yourself-020",
-   "situation": "我叫孙磊，是新调来的物业管家，从今天起负责5栋到8栋。业主群里有三百多人，之前的管家报修拖拉，大家意见很大。我干物业八年了，自己也住在这个小区的12栋，工作日早8点到晚6点在5栋一楼服务中心。想发个自我介绍。",
+   "situation": "我叫孙磊，是新调来的物业管家，从今天起负责5栋到8栋。业主群里有三百多人，之前的管家报修拖拉，大家意见很大。我干物业八年了，自己也住在这个小区的12栋，工作日早8点到晚6点在5栋一楼服务中心。我打算每单报修都当天回复处理时间。想发个自我介绍。",
    "reply": "各位业主好，我是新来的物业管家孙磊，从今天起负责5栋到8栋。我做物业八年，最看重的是报修有回音：每一单报修，我都会当天回复您处理时间。我自己也住在小区12栋，楼下碰见了随时叫我。工作日早8点到晚6点我在5栋一楼服务中心，报修可以在群里@我，也可以私信。",
    "lang": "zh",
    "note": "不提前任，也不承诺修好的速度，只承诺自己能做到的“当天回复”。"

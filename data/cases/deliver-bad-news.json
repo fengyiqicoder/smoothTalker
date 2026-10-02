@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -267,6 +267,13 @@
    "reply": "Tom, it's Sarah, Mia's gymnastics coach. Mia's talking and alert, but she's hurt her wrist. About ten minutes ago she fell from the beam and landed on it; it's swollen and she's in a lot of pain. Dev, our first-aider, has put it in a sling and thinks it needs an X-ray. Can you come to the sports hall now and take her to A&E? I'll stay with her until you get here, and if anything changes before then, we'll call 999 straight away.",
    "lang": "en",
    "note": "With an injured child, the parent hears 'she's alert' and the injury in one breath; if she gets worse before he arrives, call emergency services first and the parent second."
+  },
+  {
+   "id": "deliver-bad-news-039",
+   "situation": "I'm Hannah. In August we accepted an offer on our flat from Priya and Sam, but yesterday my husband's job transfer fell through, so we're not moving and have decided to withdraw from the sale. They've spent about £1,100 on their survey and legal fees, and we'll reimburse all of it within a week of getting their receipts through our estate agent. The agent is calling them this afternoon and I want to email them directly afterwards.",
+   "reply": "Dear Priya and Sam, following our agent's call this afternoon, I wanted to write to you myself, and I'm sorry it's with news you won't want: we're withdrawing from the sale of our flat. My husband's job transfer fell through yesterday, so we're no longer moving. I know you've been planning around this since August, and I'm truly sorry. We'll reimburse the £1,100 you've spent on the survey and legal fees in full, within a week of receiving your receipts through our agent. Hannah",
+   "lang": "en",
+   "note": "Withdrawing from a sale can have consequences under your contract or local rules, so check with your solicitor before sending."
   }
  ]
 }

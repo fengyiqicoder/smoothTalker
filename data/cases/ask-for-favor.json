@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -267,6 +267,13 @@
    "reply": "小棠，想请你帮个大忙：我12月12日（周六）在成都办婚礼，想请你当我的伴娘。先把要做的事说清楚：前一天下午彩排两个小时，当天早上6点到酒店化妆，一直陪到晚上9点左右，是挺累的一整天。伴娘服我来买，你从重庆过来的高铁票和前一晚的酒店也都我来出。你刚换工作，要是请假不方便，或者就是不想折腾，直接说就好，完全不影响我们的关系，你能来参加婚礼我就很开心了。",
    "lang": "zh",
    "note": "当伴娘是要占两天的大请求：时间、累的程度、谁出钱一次说清，退路要真，别让她为拒绝内疚。"
+  },
+  {
+   "id": "ask-for-favor-039",
+   "situation": "Last summer I spent two weekends helping my friend Marco build his garden deck. Now I need a second pair of hands to put together a flat-pack wardrobe on Saturday 10 October, about three hours, and it's a two-person job. I don't want him to feel he owes me; if he can't, I'll pay the shop's £60 assembly service, and pizza's on me if he comes.",
+   "reply": "Hi Marco, any chance you're free on Saturday 10 October to help me put together a flat-pack wardrobe? It's a two-person job, about three hours. If you've got plans or just fancy a lazy Saturday, no problem at all, the shop does assembly and I'll book that. Pizza's on me if you come.",
+   "lang": "en",
+   "note": "Leave the deck out of it: a favour you once did isn't a debt, and mentioning it makes a no feel costly."
   }
  ]
 }

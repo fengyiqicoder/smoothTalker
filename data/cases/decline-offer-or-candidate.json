@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -267,6 +267,13 @@
    "reply": "Tío Ramón, gracias de corazón por la oferta y por la confianza; que pienses en mí para el puesto de jefa de compras me hace mucha ilusión. Lo he pensado bien y te voy a decir que no: quiero seguir con mi trabajo de ingeniera en Madrid. La fábrica que fundó el abuelo merece a alguien que esté en Murcia al cien por cien. Si te sirve, sigo ayudándote con las fichas del catálogo online un sábado al mes, como hasta ahora.",
    "lang": "es",
    "note": "Con la familia, el no llega igual de pronto; la ayuda que se ofrece es la que ya das, no una promesa nueva."
+  },
+  {
+   "id": "decline-offer-or-candidate-039",
+   "situation": "I'm Rob, hiring a site supervisor at Ashby Builders. Our preferred candidate, Dean, did really well at interview, especially his answer on planning a concrete pour, but two of his references raised concerns about reliability, and we promised the referees confidentiality. We've decided not to offer him the role; I'm phoning him tomorrow and then emailing.",
+   "reply": "Hi Dean, following up on our call. Thank you for the time you gave us, and for your answer on planning a concrete pour, which was one of the best we heard. After completing our reference checks, we've decided not to offer you the role. References are given to us in confidence, so I can't go into what was said. I wish you the best with your search. Rob",
+   "lang": "en",
+   "note": "Don't invent a softer reason or hint at who said what; if he asks, repeat that references are confidential, and check your own process and local rules on what you must disclose."
   }
  ]
 }

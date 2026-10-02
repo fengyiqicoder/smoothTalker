@@ -4,8 +4,8 @@
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
-   "situation": "Plumber was booked for 8am to fix our leaking water heater. I took the morning off, it's 10 now and nobody showed or called. The company is Apex Plumbing, the scheduler was Tina.",
-   "reply": "Hi Tina, Apex was booked for 8am today to repair our water heater, and nobody arrived or called. I took the morning off for this. Can you confirm a new time by end of day tomorrow? If I don't hear back by then, I'll book another plumber.",
+   "situation": "Plumber was booked for 8am to fix our leaking water heater. I took the morning off, it's 10 now and nobody showed or called. The company is Pellow & Sons Plumbing, the scheduler was Tina.",
+   "reply": "Hi Tina, Pellow & Sons were booked for 8am today to repair our water heater, and nobody arrived or called. I took the morning off for this. Can you confirm a new time by end of day tomorrow? If I don't hear back by then, I'll book another plumber.",
    "lang": "en",
    "note": "Factual and dated, with the consequence stated once, not threatened."
   },
@@ -18,14 +18,14 @@
   },
   {
    "id": "handle-no-show-or-lateness-003",
-   "situation": "I completely forgot a 9am discovery call with a potential client, Amanda, who runs a group of dental clinics and wants her online booking page redone. She just emailed 'Did I have the wrong time?' I'm a freelance web designer.",
+   "situation": "I completely forgot a 9am discovery call with a potential client, Amanda, who runs a group of dental clinics and wants her online booking page redone. She just emailed 'Did I have the wrong time?' I'm a freelance web designer, free Thursday at 9 or Friday at 1.",
    "reply": "Hi Amanda, you had the right time. I missed our 9am call and I'm sorry, you set aside the start of your morning and I wasn't there. Could we do Thursday at 9 or Friday at 1? I'll bring a first-pass review of your online booking page so the time is well spent.",
    "lang": "en",
    "note": "Take the blame off her first, then offer two slots so she doesn't do the rescheduling work."
   },
   {
    "id": "handle-no-show-or-lateness-004",
-   "situation": "I'm a private math tutor. A parent, Mrs. Alvarez, cancelled her son Mateo's session 2 hours before the start, second time this month. My policy, which she signed, is 24 hours' notice or the full $60 is charged. She just texted that charging for a cancellation is ridiculous.",
+   "situation": "I'm a private math tutor. A parent, Mrs. Alvarez, cancelled her son Mateo's session 2 hours before the start, second time this month. My policy, which she signed, is 24 hours' notice or the full $60 is charged. I have Thursday at 5pm or Saturday at 10am open this week. She just texted that charging for a cancellation is ridiculous.",
    "reply": "Hi Mrs. Alvarez, I understand it's frustrating. The 24-hour policy is in the agreement you signed, and I apply it to every family, so today's $60 charge stands. I'd like to keep Mateo's momentum going: I have Thursday at 5pm or Saturday at 10am open this week. Which suits you better?",
    "lang": "en",
    "note": "When a client argues the fee: restate the policy once, apply it evenly, and move straight to rebooking. Waiving it for the loudest parent teaches everyone else."
@@ -60,21 +60,21 @@
   },
   {
    "id": "handle-no-show-or-lateness-009",
-   "situation": "Sou personal trainer. O Felipe, aluno novo, tinha treino comigo hoje às 7h no Parque da Cidade e não apareceu nem avisou. Esperei até 7h30. Nosso contrato diz que falta sem aviso de 12 horas é cobrada, mas foi a primeira vez.",
+   "situation": "Sou personal trainer. O Felipe, aluno novo, tinha treino comigo hoje às 7h no Parque da Cidade e não apareceu nem avisou. Esperei até 7h30. Nosso contrato diz que falta sem aviso de 12 horas é cobrada, mas foi a primeira vez. Posso remarcar para quinta, 1º de outubro, às 7h.",
    "reply": "Oi, Felipe, tudo bem? Tínhamos treino hoje às 7h no Parque da Cidade e te esperei até 7h30. Se aconteceu alguma coisa, sem problema. Posso te encaixar na quinta, 1º de outubro, às 7h, no mesmo lugar. Só lembrando que, pelo nosso contrato, falta sem aviso de 12 horas é cobrada normalmente a partir da próxima.",
    "lang": "pt",
    "note": "Falta profissional: fato com horário, uma opção concreta para remarcar e a regra para a próxima vez, dita uma vez e sem ameaça."
   },
   {
    "id": "handle-no-show-or-lateness-010",
-   "situation": "I was supposed to meet my sister Nadia at Central station on Sunday to help with her two suitcases after her trip. I overslept, she waited 40 minutes and ended up paying €35 for a taxi. I've been avoiding texting her because I feel terrible.",
+   "situation": "I was supposed to meet my sister Nadia at Central station on Sunday to help with her two suitcases after her trip. I overslept, she waited 40 minutes and ended up paying €35 for a taxi. I've just sent her the €35 and I'm free Friday evening, but I've been avoiding texting her because I feel terrible.",
    "reply": "Nadia, I left you waiting at Central for 40 minutes on Sunday with two suitcases, and I'm really sorry. I overslept, which is no excuse. You gave up your time and paid for a taxi you shouldn't have needed, so I've just sent you the €35. Can I take you to dinner on Friday, my treat, and hear about the trip properly?",
    "lang": "en",
    "note": "When you're the no-show: name it with the specifics, own it without a 'but', cover their real cost, and put a dated fix on the table so she doesn't do the rescheduling."
   },
   {
    "id": "handle-no-show-or-lateness-011",
-   "situation": "I told my friend Sam that three of our last four plans got cancelled on the day and suggested weekday coffees near her office instead. She replied 'wow, didn't realise you were keeping a tally.' I don't want a fight.",
+   "situation": "I told my friend Sam that three of our last four plans got cancelled on the day and suggested weekday coffees near her office instead. She replied 'wow, didn't realise you were keeping a tally.' I don't want a fight, and I'm free Wednesday at 12:30.",
    "reply": "I'm not keeping score to punish you, promise. I'd rather say it than quietly stop inviting you, because I like seeing you. Let's try the coffee idea: Wednesday at 12:30 near yours? If that doesn't suit, tell me what would.",
    "lang": "en",
    "note": "When they get defensive about the pattern, restate the intent once, don't argue the count, and move straight to a concrete plan."
@@ -88,35 +88,35 @@
   },
   {
    "id": "handle-no-show-or-lateness-013",
-   "situation": "I own a café, Hearth Coffee, and had an interview booked with a barista candidate, Jordan, yesterday at 3pm. He didn't show or message. His CV is strong and we're short-staffed, so I'm open to one more try.",
+   "situation": "I own a café, Hearth Coffee, and had an interview booked with a barista candidate, Jordan, yesterday at 3pm. I waited until 3:20 and he didn't show or message. His CV is strong and we're short-staffed, so I'm open to one more try, Friday 2 October at 10am.",
    "reply": "Hi Jordan, we had your interview at Hearth Coffee booked for 3pm yesterday, and I waited until 3:20. Hope everything's okay. I'm still keen to talk, and I can do Friday 2 October at 10am. If that works, reply to confirm by tomorrow evening, and if you've taken another job, a quick note is completely fine too.",
    "lang": "en",
    "note": "One second chance, one slot, no lecture. If he misses this one too, move on without another message."
   },
   {
    "id": "handle-no-show-or-lateness-014",
-   "situation": "University group project, four of us, presenting on Thursday October 8. Our teammate Ravi missed both rehearsals this week, Monday and yesterday, without a message, and he has the market analysis slides. I want to message him directly, not in the group chat.",
+   "situation": "University group project, four of us, presenting on Thursday October 8. Our teammate Ravi missed both rehearsals this week, Monday and yesterday, without a message, and he has the market analysis slides. We need them in the shared deck by Saturday 3 October at 6pm for a full run-through on Monday. I want to message him directly, not in the group chat.",
    "reply": "Hey Ravi, hope you're okay. You missed Monday's and yesterday's rehearsals without a message, and we still haven't seen the market analysis slides. We need them in the shared deck by Saturday 3 October at 6pm so we can run the full thing on Monday. If something's going on, tell me by tomorrow and we'll split it differently. If I haven't heard anything by Saturday, the rest of us will write that section ourselves so we're ready.",
    "lang": "en",
    "note": "Peer no-show: check they're okay, give a dated need, and say what you will do if you hear nothing, not what they must do."
   },
   {
    "id": "handle-no-show-or-lateness-015",
-   "situation": "我在二手平台上卖一台婴儿车，买家约好今天下午3点来小区门口自提。我抱着孩子等到3点半，人没来，消息也没回。还有别人问过想要。",
-   "reply": "你好，今天约的下午3点在小区门口提婴儿车，我等到3点半没见到你，也没收到消息，希望没出什么事。如果还想要，明天（10月1日）上午10点我可以再在门口等一次，麻烦今晚9点前回复确认。到时没收到回复，我就卖给其他问过的买家了。",
+   "situation": "我在二手平台上卖一台婴儿车，买家约好今天下午3点来小区门口自提。我抱着孩子等到3点半，人没来，消息也没回。还有别人问过想要。明天10月1日上午10点我还能再等一次，想让他今晚9点前确认。",
+   "reply": "你好，今天约的下午3点在小区门口提婴儿车，我等到3点半没见到你，也没收到消息，希望没出什么事。如果还想要，明天10月1日上午10点我可以再在门口等一次，麻烦今晚9点前回复确认。到时没收到回复，我就卖给其他问过的买家了。",
    "lang": "zh",
    "note": "陌生买家爽约：事实加时间，一个具体的改约时间和回复截止点，后果说一次，不指责。"
   },
   {
    "id": "handle-no-show-or-lateness-016",
-   "situation": "上周六（9月26日）上午10点约了摄影师阿杰在公园拍全家福，我们记错成周日，没去也没通知，他等了40分钟。合同写爽约不退300元定金。我想道歉并重新约。",
+   "situation": "上周六（9月26日）上午10点约了摄影师阿杰在公园拍全家福，我们记错成周日，没去也没通知，他等了40分钟。合同写爽约不退300元定金。我想道歉并重新约，10月10日周六或10月11日周日上午都行，新定金今天就能转。",
    "reply": "阿杰你好，上周六上午10点的全家福是我们记错了日子，没去也没提前说，让你在公园白等了40分钟，真的很抱歉。合同写的300元定金不退，这个我们认，不用退。想重新约一次，10月10日周六或10月11日周日上午，你看哪天方便？新的定金我今天就转给你。",
    "lang": "zh",
    "note": "自己爽约服务方：说清是哪一次、承认对方的时间成本，主动接受合同里的后果，再给具体日期。"
   },
   {
    "id": "handle-no-show-or-lateness-017",
-   "situation": "I was meant to collect my daughter Isla from her friend Maya's house at 5 yesterday. My meeting ran over, I only texted Maya's mum, Priya, at 5:30 and got there at 5:50, and she had to miss her gym class.",
+   "situation": "I was meant to collect my daughter Isla from her friend Maya's house at 5 yesterday. My meeting ran over, I only texted Maya's mum, Priya, at 5:30 and got there at 5:50, and she had to miss her gym class. I could have Maya over this Saturday afternoon, 3 October, and do the pickup and drop-off.",
    "reply": "Priya, I was 50 minutes late picking Isla up yesterday and only texted at 5:30, and I'm sorry. My meeting ran over, but that's on me. You missed your gym class because of it. Could I have Maya over this Saturday, 3 October, for the afternoon, so you get a few free hours? I'll do the pickup and drop-off.",
    "lang": "en",
    "note": "You were the late one: name the minutes, own it without a 'but', acknowledge her cost and offer a dated make-good she doesn't have to organise."
@@ -137,7 +137,7 @@
   },
   {
    "id": "handle-no-show-or-lateness-020",
-   "situation": "I'm a manager and I completely missed my 2pm 1:1 today with Lin, who reports to me. I got pulled into a budget review and didn't message her, and last week she told me she was bringing her promotion case to this one.",
+   "situation": "I'm a manager and I completely missed my 2pm 1:1 today with Lin, who reports to me. I got pulled into a budget review and didn't message her, and last week she told me she was bringing her promotion case to this one. I'm free tomorrow, Thursday, at 10.",
    "reply": "Lin, I missed our 2pm today and didn't let you know, and I'm sorry. I got pulled into the budget review and should have messaged you. I know you'd prepared your promotion case for it, and it deserves proper time. Can we do tomorrow, Thursday, at 10? I've blocked the hour and I'll protect it.",
    "lang": "en",
    "note": "When you're the senior one, the cost to them is bigger than it looks: name it, and make the new slot one you control."
@@ -186,7 +186,7 @@
   },
   {
    "id": "handle-no-show-or-lateness-027",
-   "situation": "上周六约好朋友阿琪早上8点在山脚一起爬山，她睡过头没来，电话也没接，我在山脚等了一个小时。今天她微信道歉，说想请我吃饭赔罪。这是她第一次放我鸽子。",
+   "situation": "上周六约好朋友阿琪早上8点在山脚一起爬山，她睡过头没来，电话也没接，我在山脚等了一个小时。今天她微信道歉，说想请我吃饭赔罪。这是她第一次放我鸽子，我这周六晚上有空。",
    "reply": "谢谢你专门来说，我收到了。那天在山脚等了一个小时，说不郁闷是假的，不过第一次嘛，说开了就好。吃饭我接受！这周六晚上怎么样？下次要是起不来，提前发个消息给我就行。",
    "lang": "zh",
    "note": "对方道歉时别只回“没事”：轻轻说出你的代价，接受弥补，再定一个具体时间。"
@@ -196,7 +196,7 @@
    "situation": "I'm Sophie. My uni friend Hattie RSVP'd yes for herself and her boyfriend Tom to our wedding last Saturday, 26 September, and neither of them came or messaged; we'd paid £85 a head for their meals. She hasn't said anything since, and I'm hurt but also worried something happened.",
    "reply": "Hattie, we missed you and Tom on Saturday, and I haven't heard from you since, so I wanted to check everything's okay. I'll be honest, it stung a bit to see your two seats empty with no word, which is why I'm asking rather than guessing. If something happened, I'd really like to know. Either way, I'd love to catch up properly; are you free for a coffee next week?",
    "lang": "en",
-   "note": "A friend's no-show at a big event: check they're okay first, name the effect in one line, and leave the meal cost out of the first message."
+   "note": "A friend's no-show at a big event: check they're okay first, name the effect in one line, and leave the meal cost out of the first message. If she stays unreachable, check with Tom or a mutual friend that she's safe."
   },
   {
    "id": "handle-no-show-or-lateness-029",
@@ -228,7 +228,7 @@
   },
   {
    "id": "handle-no-show-or-lateness-033",
-   "situation": "I'm Tom, and I'm meeting my girlfriend Aisha's parents for the first time at Sunday lunch at their house at 1pm. My train is delayed and I'll arrive around 1:40. Aisha is already there, and I have her mum Farida's number; it's 12:45 now.",
+   "situation": "I'm Tom, and I'm meeting my girlfriend Aisha's parents for the first time at Sunday lunch at their house at 1pm. My train is delayed and I'll arrive around 1:40. Aisha is already there, and I have her mum Farida Rahman's number; it's 12:45 now.",
    "reply": "Hi Mrs Rahman, it's Tom. My train is delayed, so I'll be about 40 minutes late and at your door around 1:40. I'm really sorry, especially for a first visit. Please don't hold lunch for me, and I'll text again if anything changes.",
    "lang": "en",
    "note": "Warn before the start time, give a real arrival time and release them from waiting; one apology is enough, save the rest for in person."
@@ -259,7 +259,7 @@
    "situation": "My friend Kenji offered to drive me to the airport this morning: pickup at 5am, and my flight is at 7:40. It's 5:15, he isn't here and isn't answering his phone. If he's not here by 5:25 I'll book a taxi on the app.",
    "reply": "Hey Kenji, all okay? I'm outside with my bag. If I haven't heard from you by 5:25 I'll grab a taxi so I don't miss the flight, so no need to rush if you've overslept. Text me when you see this.",
    "lang": "en",
-   "note": "With a hard deadline, set your cut-off early and say it out loud; the backup takes the pressure off both of you."
+   "note": "With a hard deadline, set your cut-off early and say it out loud; the backup takes the pressure off both of you. If he's still unreachable later in the morning, check on him through someone he lives with or nearby."
   },
   {
    "id": "handle-no-show-or-lateness-038",

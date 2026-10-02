@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -267,6 +267,13 @@
    "reply": "Hi Joy, thank you for yesterday's message, and all the best for what's next. Before you go, could I ask a favour? A testimonial of two or three sentences would help me a lot with future clients. Here's a line to start from, which you can edit or replace: \"Dan's six-week programme with our front desk team cut guest complaints from about 40 a month to 18.\" Would you be happy for me to sign it with your name and your title at Harlow? If you'd rather not, or need to check with Harlow first, that's completely fine. Thanks either way, Dan",
    "lang": "en",
    "note": "When your contact is leaving, ask before their last day, and leave room for them to check whether they can name the company."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-039",
+   "situation": "I'm Maya, volunteer coordinator at Northside Community Larder, a small food bank. Gordon, 71, has done the Tuesday morning shift for two years, and at last week's shift he told me volunteering got him out of the house after he retired. Our annual report goes to funders next month and I'd like a two-sentence quote from him signed with his first name; a photo would be optional.",
+   "reply": "Gordon, thank you for two years of Tuesday mornings at the larder. Could I ask a favour? Our annual report goes to funders next month, and a couple of sentences from a volunteer shows them what the larder means beyond the food parcels. You said last week that volunteering got you out of the house after you retired, so here's a draft along those lines you can change or bin: \"Volunteering on Tuesday mornings got me out of the house after I retired, and I've been coming for two years now.\" We'd sign it 'Gordon', with a photo only if you'd like one. If you'd rather not, that's completely fine, and thank you either way. Maya",
+   "lang": "en",
+   "note": "For a volunteer, frame the ask around what funders need to see, keep the draft to what he actually said, and make the photo a separate, optional yes."
   }
  ]
 }

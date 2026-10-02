@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -267,6 +267,13 @@
    "reply": "Hi Graham, no need to look at this until you're back on Tuesday. The appointment-letter mail merge stopped pulling in dates this morning. I've re-linked the data source and checked the field names match, and the dates still come out blank. Could you spare 20 minutes with me on Tuesday? The next batch goes out on Wednesday, so that's plenty of time, and if Tuesday is swamped, a pointer to where the date field is set up would already help.",
    "lang": "en",
    "note": "With a part-time colleague, say plainly you don't expect them on their day off, and fit the ask into the days they work."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-039",
+   "situation": "我是刚入职的初二语文老师，带的二班上课纪律一直管不住，调过座位、试过课堂积分，效果都不大。教研组的周老师带过十几届初二，想请她让我下周四第三节去听她的课，我坐最后一排不打扰，听完自己整理笔记。她不方便的话，我就先看学校存的公开课录像。",
+   "reply": "周老师，想请您帮个忙：我带的二班课堂纪律一直管不住，调过座位、试过课堂积分，效果都不大。您带过十几届初二，想向您取取经：下周四第三节能不能让我去听您的课？我坐最后一排，不打扰上课，听完自己整理笔记。您那节课要是不方便，完全没关系，我先去看学校存的公开课录像。",
+   "lang": "zh",
+   "note": "请资深同事让你观摩：先说自己试过什么，把请求缩成一节课、坐后排不打扰，再给一个真的退路。"
   }
  ]
 }

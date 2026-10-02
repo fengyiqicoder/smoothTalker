@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -266,6 +266,13 @@
    "reply": "Hi Joanna, thanks for thinking of me, I'd love my followers to have a chance at a Whiskwell mixer. A giveaway is still sponsored content for me, so my rate is $500 for one feed post plus a reminder story, labelled as a paid partnership. Whiskwell would ship the prize straight to the winner, and I'd need your written giveaway terms, such as who can enter and the closing date, to link in the caption. If that works, could you send me the dates you have in mind?",
    "lang": "en",
    "note": "A prize for followers is not a fee for the creator; giveaway rules differ by platform and country, so check the platform's promotion rules and who runs the draw."
+  },
+  {
+   "id": "creator-brand-deal-reply-039",
+   "situation": "一个护手霜品牌的抖音合作视频上周发了，标了“广告”和合作标签。对接人阿静说活动结束了，想让我把标注去掉，看起来更像自然推荐，还说愿意加1000元续投30天。我想接续投，但标注不去。",
+   "reply": "阿静你好，谢谢这次合作，也谢谢想续投。视频里的“广告”标注和合作标签我会一直保留，这一点没法调整：粉丝看到的应该是真实的合作关系。续投30天加1000元我可以接，标注照常保留。你看这样可以吗？",
+   "lang": "zh",
+   "note": "标注不会因为活动结束就失效：只拒绝去标这一点，续投照谈；具体要求以平台规则为准。"
   }
  ]
 }

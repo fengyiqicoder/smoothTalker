@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -267,6 +267,13 @@
    "reply": "郑哥，想跟你商量一下例会纪要的事：这两个月都是我在整理，每次大概要花一个小时。从下周起能不能大家轮流做？我拟好了轮值表放在共享文档里，按姓名拼音排，纪要模板也在里面，谁接手都很快。你看过觉得可以，我就发到群里。",
    "lang": "zh",
    "note": "拒绝的是“总是我”，不是纪要本身：说清花了多少时间，把替代方案做好摆出来，再请组长确认。"
+  },
+  {
+   "id": "decline-meeting-or-protect-time-039",
+   "situation": "Ich bin seit einem Jahr Mentorin von Jonas, einem Berufseinsteiger in unserer Firma; wir treffen uns jeden ersten Montag im Monat eine Stunde, das nächste Mal am Montag, 5. Oktober. Das Mentoringprogramm endet im Oktober, und danach möchte ich die festen Termine beenden. Er kann mir weiter jederzeit mailen, ich antworte innerhalb von zwei Tagen, und vor seinem Jahresgespräch im Januar biete ich ihm 30 Minuten zur Vorbereitung an.",
+   "reply": "Hallo Jonas, das Mentoringprogramm endet im Oktober, und unser Termin am Montag, 5. Oktober, wird unser letzter fester. Danach beende ich die monatlichen Termine, aber nicht den Kontakt: Wenn du eine Frage hast, schreib mir jederzeit eine Mail, ich antworte innerhalb von zwei Tagen. Vor deinem Jahresgespräch im Januar nehmen wir uns gern 30 Minuten zur Vorbereitung. Passt das für dich?",
+   "lang": "de",
+   "note": "Den festen Termin beenden, nicht die Unterstützung: ein klares Ende, ein Kanal für Fragen und ein Termin, wenn es wirklich zählt."
   }
  ]
 }

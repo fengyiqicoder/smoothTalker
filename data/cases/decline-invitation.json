@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -267,6 +267,13 @@
    "reply": "木子，谢谢你邀请我去成都，还想着让我住你家，这份心意我收到了。这次我就不去了。下周四晚上的读书会我照常来，咱们接着聊。",
    "lang": "zh",
    "note": "不想去就不用编理由；以后真想见网友，选白天的公共场所，住自己订的地方，并把行程告诉家人或朋友。"
+  },
+  {
+   "id": "decline-invitation-039",
+   "situation": "My cousin Hannah is organising Grandma's 90th birthday party on Saturday 7 November and invited me. Our uncle Phil will be there; I cut contact with him years ago because of how he treated me as a kid, and Hannah doesn't know why. I want to see Grandma, and I'm planning to visit her on my own on Sunday 8 November.",
+   "reply": "Thanks for organising this, Hannah, Grandma will love it. I won't be at the party on the 7th, but I'd really like to see her, so I'm going to visit her on Sunday the 8th. I hope it's a wonderful day.",
+   "lang": "en",
+   "note": "You don't owe anyone the reason; if being near him or family pressure brings things back up, a counsellor or a support line can help."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -267,6 +267,13 @@
    "reply": "Dom, I've been thinking about you. I'm not going to ask about any of it, and you never have to explain anything to me. I'm riding the reservoir loop on Sunday at 8, like old times, and I'd love the company. If you'd rather not, just reply 'not this week', and otherwise no need to reply at all.",
    "lang": "en",
    "note": "Keep the case out of every message and every ride, so he never has to refuse a question; advice on it is for his union or a lawyer. If he seems very low or talks about not wanting to be here, ask him directly and help him reach a crisis line or emergency services."
+  },
+  {
+   "id": "check-in-on-someone-struggling-039",
+   "situation": "大学好友阿哲上个月跟家里出柜，他爸妈让他先别回家，国庆也不让他回去。他在朋友圈发了句“今年国庆一个人过”，之后就没动静了。我们都在南京，我国庆在家，家里有间空房，10月4日（周日）中午我妈要包他以前最爱吃的荠菜饺子。",
+   "reply": "阿哲，看到你的朋友圈了，这几天一直惦记你。不用回我。10月4日周日中午我妈包荠菜饺子，就是你以前最爱吃的那种，要不要过来一起吃？想多住几天也行，空房间给你收拾好了。不想出门的话，回个“下次”就好。",
+   "lang": "zh",
+   "note": "不评论他的父母，也别说“他们总会想通”，只给一个具体、容易拒绝的去处；如果他流露出不想活的念头，直接问他是否安全，陪他打心理援助热线，有危险马上打120或110。"
   }
  ]
 }

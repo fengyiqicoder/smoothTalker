@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -267,6 +267,13 @@
    "reply": "陈经理您好，我们家90平的翻新，设计和施工都想交给木言来做。设计费报的是7,200元，施工18万，既然两样都在你们这边签，想问设计费能不能免掉？可以的话，这周我就签施工合同、付首期款。如果全免不好办，减半到3,600元也很感谢；实在不行也理解，我们照原价签。",
    "lang": "zh",
    "note": "筹码是把更大的施工单一起给对方：先要全免，再给一个减半的台阶，并说明不行也照常签。"
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-039",
+   "situation": "I've been on Brightleaf's meal kit plan for 14 months at $89 a week. It's more than I want to spend now, so I've decided to cancel unless they can do $70 a week, and at that price I'd stay for at least another six months. I don't have a competitor offer and don't want to pretend I do.",
+   "reply": "Hi, I've been on the meal kit plan for 14 months and I've really enjoyed it, but at $89 a week it's more than I want to spend now, so I'm planning to cancel. Before I do: if you could do $70 a week, I'd happily stay and commit to at least another six months. If that isn't possible, no problem at all, please cancel the plan from my next delivery.",
+   "lang": "en",
+   "note": "The lever is a real decision to leave plus a commitment to stay; only say you'll cancel if you will, and never invent a rival offer."
   }
  ]
 }

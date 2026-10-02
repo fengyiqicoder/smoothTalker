@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -266,6 +266,13 @@
    "reply": "I'm enjoying this and I'd like to keep it going in person. Since you still haven't walked the river path, how about Sunday afternoon along the stretch by the market, then a coffee on me? If walking isn't your thing, just the coffee works too, and no pressure at all if you'd rather keep chatting here for now.",
    "lang": "en",
    "note": "A cheap plan reads as thoughtful when it's specific and built on something they said; no need to mention money. First meeting from online: a busy public place in daylight, your own way there and back, and tell a friend where you'll be."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-039",
+   "situation": "Je m'appelle Hugo. Samedi dernier, à un speed dating à Lyon, Inès et moi nous sommes choisis mutuellement, et l'organisateur nous a envoyé nos numéros. En cinq minutes on a débattu pour savoir si la crêpe au sucre bat la crêpe au chocolat. Je voudrais lui proposer un verre jeudi soir ou un café dimanche après-midi.",
+   "reply": "Salut Inès, c'est Hugo, du speed dating de samedi. Cinq minutes, c'était trop court pour régler notre débat sur les crêpes. Ça te dirait de prendre un verre jeudi soir, ou un café dimanche après-midi ? Et si tu n'es pas partante, aucun souci.",
+   "lang": "fr",
+   "note": "Un choix mutuel ouvre la porte sans rien promettre : un détail de votre échange, deux créneaux et une sortie facile. Pour ce premier vrai rendez-vous, un lieu public, chacun rentre par ses propres moyens, et prévenir un ami de l'endroit."
   }
  ]
 }

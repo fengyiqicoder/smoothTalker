@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "apologize-001",
@@ -267,6 +267,13 @@
    "reply": "许静，你好，我是初中跟你同班的高原。有件事我欠你一个道歉：初中时是我带头给你起“许胖胖”这个外号，还在班里传你的作业本取笑你。那不是玩笑，是欺负人，你每天在班里要面对这些，我现在想起来很羞愧。对不起。以后不管在群里还是别的地方，我都不会再拿任何人的外貌开玩笑。这条不用回我。",
    "lang": "zh",
    "note": "多年后为欺凌道歉：点名具体做了什么，承认那是欺负而不是玩笑，不求原谅，也不要求回复。"
+  },
+  {
+   "id": "apologize-039",
+   "situation": "I'm 16. On Saturday I told my mum I was sleeping at Hannah's, but we actually went to a party in the next town, and she found out when Hannah's mum texted her. She's really upset and said she can't trust me right now. I want to text her an apology; from now on I'll tell her where I actually am, and I'm happy to share my location with her.",
+   "reply": "Mum, I'm sorry I lied to you on Saturday. I said I was staying at Hannah's when I was really at a party in the next town. You didn't know where I actually was all night, and then you found out from Hannah's mum, which must have been scary and horrible. I get why you can't trust me right now. From now on I'll tell you where I really am, and I'm happy to share my location with you so you don't have to wonder.",
+   "lang": "en",
+   "note": "Apologise for the lie, not for getting caught; trust comes back through what she sees, so don't ask for anything back in the same message."
   }
  ]
 }

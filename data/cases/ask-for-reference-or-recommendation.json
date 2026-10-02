@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -266,6 +266,13 @@
    "reply": "Hi Helen, I'm renting a new flat, and the letting agent, Fairway Lettings, needs a letter from my accountant confirming my income for the last two tax years. Would you be able to provide one by Friday 16 October? I can send you their reference form today so you can see exactly what they ask for. I assume it's billable work, so just let me know the fee. If the timing is too tight, tell me and I'll ask the agent for more time.",
    "lang": "en",
    "note": "When the referee is a paid professional, offer to pay up front and send the exact form, so it's a quick, ordinary job for them."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-039",
+   "situation": "I'm Callum. I was let go from Brindle Software in August after a three-month performance plan, so my manager there isn't the right referee. Mei Tanaka, a product manager on another team, worked with me for a year on the mobile app releases, and all six shipped on schedule. I'm in the final round for a QA engineer role at Pellham Tech, and they'll call references between Monday 12 and Friday 16 October.",
+   "reply": "Hi Mei, I hope things are good on your team. I'm in the final round for a QA engineer role at Pellham Tech, and they'll call references between Monday 12 and Friday 16 October. Before I ask, you should know I was let go from Brindle in August after a performance plan, so please only speak to what you saw yourself. Would you be willing to be a reference for the year we worked together on the mobile app releases? If it helps, the main thing is that all six shipped on schedule. If it doesn't feel right, no problem at all. Thanks, Callum",
+   "lang": "en",
+   "note": "Tell a referee about a hard exit before they agree, so nothing surprises them on the call, and scope the ask to what they saw."
   }
  ]
 }

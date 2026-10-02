@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 37,
+ "count": 38,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -260,6 +260,13 @@
    "reply": "Thanks for asking, Megan, and I'm glad you did. Your invitation didn't get lost: we've kept the wedding to family and close friends, 70 people, so we haven't invited anyone from work. I'd love to take you for a drink when we're back from the honeymoon in December.",
    "lang": "en",
    "note": "When someone asks outright, give the category honestly rather than a white lie about the post; every colleague gets the same answer."
+  },
+  {
+   "id": "wedding-and-event-host-messages-038",
+   "situation": "I'm maid of honour, organising my sister Grace's hen weekend at a rented cottage, Friday 13 to Sunday 15 November, for 10 people. The cottage is a fixed £1,200 for both nights however many stay, so we're splitting it evenly at £120 each, and Saturday's cooking class is £45, paid only by those who join. Bridesmaid Zoe asked if she can pay £60 since she can only come on Saturday night.",
+   "reply": "Thanks for asking, Zoe, and I'm so glad you can make Saturday. The cottage is a fixed £1,200 for both nights however many of us stay, so we're splitting it evenly at £120 each, and it's the same for everyone whichever nights they come. The cooking class on Saturday is £45 and only for those who want to join. If £120 for one night doesn't feel worth it, I completely understand, and we'll celebrate with you at the wedding.",
+   "lang": "en",
+   "note": "A fixed cost split by head is a rule for everyone; give an easy no rather than a per-night discount the other nine would then ask for."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -267,6 +267,13 @@
    "reply": "陈哥，听说阿姨走了，大家都很难过。每年端午阿姨包的碱水粽，我们部门都吃过，一直记得那个味道。这是部门十二个人的一点心意，我代大家转给你。我出差去不了送阿姨，下周三的晚班我来顶，工作上的事你都别管。不用回复。",
    "lang": "zh",
    "note": "帛金的金额、单双数和交法各地习俗不同，拿不准就问问懂的同事；消息里只写心意，不写数额。"
+  },
+  {
+   "id": "condolences-and-support-039",
+   "situation": "My friend Mel's partner of nine years, Jo, died suddenly last Friday. Jo's parents never accepted their relationship and left Mel's name out of the death notice, though she can still go to the funeral on Wednesday. Jo made pancakes shaped like everyone's initials at our Sunday brunches, and I can drive Mel to the funeral and sit next to her.",
+   "reply": "Mel, I'm so sorry about Jo. Nine years together, and you were Jo's family, whatever the notice says. I keep thinking of those initial-shaped pancakes at Sunday brunch. If you'd like, I'll drive you to the funeral on Wednesday and sit next to you the whole time. No need to reply to this.",
+   "lang": "en",
+   "note": "When a partner is left out by the family, say plainly that her loss counts, and leave any criticism of the family out of the message."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -267,6 +267,13 @@
    "reply": "Hi Nadia, a heads-up now rather than next Friday: our ridership data release has moved, so my final numbers won't be ready until Tuesday 13 October. Could I send the final slides on Wednesday 14 October instead of Friday 9 October? If you need something on the 9th for the programme or the AV checks, I'll send my title, abstract and an outline with placeholder charts that day. Would that work for you?",
    "lang": "en",
    "note": "With an event organiser, the partial delivery is whatever their own prep needs on the original date, so offer it and let them say."
+  },
+  {
+   "id": "ask-for-extension-039",
+   "situation": "我跟部门经理周姐申请把季度培训方案从10月16日（周五）延到10月21日（周三），只说了是个人原因。她回我：“什么原因？说具体点，我好跟上面交代。”其实是这两周我要去医院做几项检查，不想在工作里讲这些私事。16日我可以先交方案提纲和预算表。",
+   "reply": "周姐，理解您需要跟上面交代。是一些这两周必须我亲自处理的私事，具体的想先不展开，希望您理解。时间上我能保证：16日（周五）先把方案提纲和预算表交给您，完整方案21日（周三）交。您跟上面说进度时，可以直接用这两个日期。如果21日对您那边太晚，告诉我最晚哪天，我来调整。",
+   "lang": "zh",
+   "note": "被追问原因时，不必交代私事：承认对方的难处，用确定的日期和先交的部分代替细节。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -267,6 +267,13 @@
    "reply": "你好，说一下10月10日（周六）的安排。你妈妈发微信跟我说那天是她七十大寿，想让彤彤去吃饭。那个周末本来轮到我，我同意彤彤去：周六上午10点我送过去，晚上8点我去接。送到哪里，麻烦你10月7日（周三）前告诉我。以后彤彤的时间安排，我们俩直接商量就好。谢谢。",
    "lang": "zh",
    "note": "老人直接来问时，可以答应，但安排要落到孩子的爸爸身上；回奶奶一句“已经跟刘伟说好了”就够，不用解释更多。"
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-039",
+   "situation": "Our daughter Esme (13) splits the week between my place and her dad Neil's. We split her violin lessons 50/50, £180 a term, and this term is paid until the end of December. She's told both of us she wants to quit; I'd like her to finish the paid term and stop in January, and for Neil and me to tell her that together. I'd like his view by next Friday.",
+   "reply": "Hi Neil, about Esme's violin. She's told us both she wants to stop. This term's lessons are paid until the end of December, so my suggestion is that she finishes the term and stops in January, and that we tell her together so she hears the same answer from both of us. Does that work for you, or do you see it differently? Could you let me know by next Friday? Thanks.",
+   "lang": "en",
+   "note": "A joint decision about the child goes as one proposal and one question, so she isn't left negotiating with each house separately."
   }
  ]
 }

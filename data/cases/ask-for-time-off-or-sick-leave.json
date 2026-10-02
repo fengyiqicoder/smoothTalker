@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 38,
+ "count": 39,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -267,6 +267,13 @@
    "reply": "Bom dia, senhor Paulo. Queria pedir folga no sábado 7 e no domingo 8 de novembro, por causa dos exames da faculdade na semana seguinte. A Inês aceitou fazer os meus turnos nesses dois dias, e eu faço os dela nos dias 21 e 22. Pode aprovar a troca?",
    "lang": "pt",
    "note": "Num trabalho por turnos, a troca já combinada é a cobertura: o gerente só tem de dizer sim. Pedir com semanas de antecedência ajuda."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-039",
+   "situation": "I'm a lab technician and I've just received the invitation to my citizenship ceremony: Thursday 15 October at 10am at the town hall, on a date the council sets. I'd like the whole day off as a vacation day. I normally run the Thursday sample batch, and Ines has agreed to run it that day. Slack to my manager, Mark.",
+   "reply": "Hi Mark, I'd like to take Thursday 15 October off as a vacation day: I've been invited to my citizenship ceremony that morning, and the council sets the date. Ines has agreed to run the Thursday sample batch that day. Can you approve?",
+   "lang": "en",
+   "note": "A fixed-date event: say once that the date isn't yours to move, then the cover and a closed question; good news only needs one line."
   }
  ]
 }
