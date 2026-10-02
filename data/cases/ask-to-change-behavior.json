@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -239,6 +239,13 @@
    "reply": "阿琪，跟你说个小事，不是生气哈。这几次聚会你都会跟大家讲保险、发资料，上周你当着大家的面问我什么时候给爸妈买，我当时挺尴尬的。以后我们聚会的时候能不能不聊保险，就纯吃饭聊天？我真有需要，一定第一个私下找你。10号周六见！",
    "lang": "zh",
    "note": "只说聚会上推销这一件事和自己的感受，不替其他朋友表态；给她一个私下的渠道，请求就不像否定她的工作。"
+  },
+  {
+   "id": "ask-to-change-behavior-035",
+   "situation": "My wife Clara often corrects small details of my stories when we're out with friends, jumping in with things like 'it was Tuesday, not Wednesday' or 'forty, not fifty'. It happened three times at the Okafors' dinner on Saturday, and I lose the thread and feel a bit silly. I want to bring it up over coffee this morning.",
+   "reply": "Can I raise a small thing, not a big deal? At the Okafors' on Saturday you corrected a few details while I was telling stories, like the day or the number, and each time I lost the thread and felt a bit silly. Could you let the small details go while I'm telling it, and tell me afterwards if one really matters? I'll do the same for you.",
+   "lang": "en",
+   "note": "One behaviour, one recent example, and an ask that still lets her correct something that matters."
   }
  ]
 }

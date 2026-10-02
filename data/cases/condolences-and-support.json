@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -239,6 +239,13 @@
    "reply": "Dear Leo,\nI'm so sorry that your grandad Bill died. I will always remember him bringing you round on Sundays to see Pickle, and you giving Pickle his strawberry. Pickle and I would love you to keep visiting, any time your mum says it's okay. You don't need to write back.\nLove from next door, and from Pickle",
    "lang": "en",
    "note": "For a young child: short words, the real word 'died', one shared memory, and an offer that runs through the parent."
+  },
+  {
+   "id": "condolences-and-support-035",
+   "situation": "我叫周明，开一家小装修公司。跟了我八年的师傅老赵上周下班路上出车祸去世了。他每次干完活都把工地扫得干干净净，好多客户点名要他。我想给他爱人刘姐发条微信；他9月和10月这几天的工资我这周内一并转给她，公司这边要办的手续我来跑。",
+   "reply": "刘姐，我是周明。老赵走了，我心里一直过不去。他跟了我八年，每次干完活都把工地扫得干干净净，好多客户都点名要他。他9月和10月这几天的工资，我这周内一并转给您；公司这边要办的手续我来跑，您不用来回奔波。您不用回我。",
+   "lang": "zh",
+   "note": "雇主写给家属：一个具体的记忆，加上只有你能做的实际安排，不提事故细节，也不催她做任何事。"
   }
  ]
 }

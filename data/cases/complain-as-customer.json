@@ -1,6 +1,6 @@
 {
  "playbook": "complain-as-customer",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "complain-as-customer-001",
@@ -239,6 +239,13 @@
    "reply": "Hi,\nOrder BO-11873, collected on Saturday 26 September (£240). Since then my distance vision through the new glasses has been blurry. I've compared the lab sheet that came in the case with my prescription from the eye test on 12 September: the right lens was made at -1.50 instead of -2.50 (photos of both attached). I'd like the right lens remade to the correct prescription at no charge. Could you confirm by Thursday 8 October when it will be ready?\nThanks,\nBen Okafor, 07700 900131",
    "lang": "en",
    "note": "The lab sheet against the prescription is the whole case, so show it rather than describe the blur; don't drive in the wrong glasses while you wait."
+  },
+  {
+   "id": "complain-as-customer-035",
+   "situation": "Sou a Beatriz Lima (beatriz.lima@example.com). Em 3 de junho comprei uma bicicleta elétrica em pré-venda na loja online Pedalar, pedido PD-30881, R$ 4.200, com entrega prometida até 15 de agosto. A entrega já foi adiada duas vezes por e-mail, em 10 de agosto e em 25 de setembro, agora para 'dezembro, sem data garantida', e quero cancelar e receber o reembolso integral.",
+   "reply": "Olá,\nPedido PD-30881, feito em 3 de junho: uma bicicleta elétrica em pré-venda, R$ 4.200, com entrega prometida até 15 de agosto. A entrega já foi adiada duas vezes, pelos e-mails de 10 de agosto e de 25 de setembro, e agora está prevista para dezembro, sem data garantida. Por isso, peço o cancelamento do pedido e o reembolso integral dos R$ 4.200 no mesmo meio de pagamento. Podem confirmar até sexta-feira, 9 de outubro?\nObrigada,\nBeatriz Lima, beatriz.lima@example.com",
+   "lang": "pt",
+   "note": "Pré-venda atrasada: as datas prometidas e os adiamentos falam por si. Antes de enviar, confira as condições da pré-venda e as regras de consumo que se aplicam ao seu caso."
   }
  ]
 }

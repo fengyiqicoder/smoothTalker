@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -239,6 +239,13 @@
    "reply": "30 days in a row. That's a real habit now, nice work. Tally is built by one person, and ratings are how other people find it. If you have a minute, a quick rating in the app store would help a lot. Thanks either way, and keep going.",
    "lang": "en",
    "note": "Show it once at a real high point, ask everyone the same way rather than only users who say they're happy, and let 'Not now' mean not again soon."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-035",
+   "situation": "I run a small house-clearance business, Kindly Cleared. Three weeks ago we cleared the flat of Mrs. Abbott's late father, and we set aside his letters and medals for her. She emailed yesterday to thank us for treating his things with care, and I'd like to ask, gently and only once, for a review at example.com/kindly-cleared-reviews.",
+   "reply": "Dear Mrs. Abbott, thank you for your kind email. It meant a great deal to the team, and we were glad his letters and medals made it safely to you. If, at some point, you felt like writing a few lines at example.com/kindly-cleared-reviews, it would help other families find someone they can trust at a hard time. Please don't feel you need to; your message was thanks enough.",
+   "lang": "en",
+   "note": "When the job sits next to a loss, ask once, with no time pressure, and never send a reminder."
   }
  ]
 }

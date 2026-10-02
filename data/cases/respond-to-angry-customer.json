@@ -4,106 +4,106 @@
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
-   "situation": "We're a small airport shuttle company. A customer, Ms Alvarez, booked a $65 5am pickup Saturday, the driver never showed, she missed her flight to Denver and paid $340 to rebook. She's emailed furious. It was our scheduling error.",
+   "situation": "We're a small airport shuttle company. A customer, Ms Alvarez, booked a $65 5am pickup Saturday, the driver never showed, she missed her flight to Denver and paid $340 to rebook. She's emailed furious. It was our scheduling error. I'm Kevin, the owner (555-0142); I'll refund her $65 fare today and reimburse the $340 within two working days of getting her receipt.",
    "reply": "Hi Ms Alvarez,\nYou booked our 5am pickup on Saturday, no driver arrived, and you missed your flight to Denver and had to pay $340 to rebook. That's on us, and I'm sorry. I've refunded your $65 fare today, and I'll reimburse the $340 within two working days of you replying with the rebooking receipt. I'm Kevin, the owner; reply to me directly or call 555-0142.\nKevin",
    "lang": "en",
    "note": "Her whole cost is covered, not just the fare, and the internal cause stays out of it."
   },
   {
    "id": "respond-to-angry-customer-002",
-   "situation": "ネットで服を売っています。セール品のワンピースを買ったお客様が「返品できないなんて詐欺だ」と怒っています。返品不可は商品ページにも注文確認メールにも書いてあります。",
-   "reply": "楽しみにしていただいたワンピースが合わず、残念な思いをさせてしまいました。確認したところ、こちらはセール品で、商品ページと注文確認メールに「返品不可」と記載しておりました。返金はできかねますが、サイズ交換でしたら送料は当店負担で承ります。ご希望のサイズを返信でお知らせいただけますか。",
+   "situation": "ネットで服を売っている店長の森です。田中様がワンピースの裾のほつれについて問い合わせたところ、スタッフが「返品ポリシーをご確認ください」という定型文だけを返信し、田中様から「ちゃんと読んでいない」と怒りのメールが来ました。ほつれは不良品なので、交換品を明日発送でき、ほつれた品の返送は不要です。",
+   "reply": "田中様\n裾のほつれについてご連絡いただいたのに、返品ポリシーの定型文だけをお送りし、お問い合わせの中身にお答えしていませんでした。大変失礼いたしました。ほつれは当店の不良品ですので、交換品を明日発送いたします。ほつれた品はご返送いただかなくて結構です。お届け先がご注文時と同じでよいか、ご返信いただけますか。この件は最後まで私が担当いたします。\n店長　森",
    "lang": "ja",
-   "note": "事実の誤りは、気持ちを受け止めてから証拠で静かに正す。できないことより、できることを具体的に。"
+   "note": "最初の返信が火に油を注いだ場合は、その返信自体を店として詫びる。担当スタッフの名前は出さず、すぐに具体的な対応を示す。"
   },
   {
    "id": "respond-to-angry-customer-003",
-   "situation": "我开外卖店。顾客在平台上骂得很难听，说送到的酸菜鱼是凉的，要全额退款还要赔偿。确实比预计晚送了40分钟。",
+   "situation": "我是外卖店店长老周。顾客在平台聊天窗口里骂得很难听，说送到的酸菜鱼是凉的，要全额退款还要赔偿。确实比预计晚送了40分钟；我打算全额退款，再送一张30元无门槛券。",
    "reply": "您好，您的酸菜鱼晚到了40分钟，送到时已经凉了，这是我们的问题，对不起。这单我现在就全额退款，另外给您发一张30元无门槛券，下次可以用。我想把这件事处理好，也希望我们能好好沟通。后续有任何问题，直接在这里回复我就行，我是店长老周。",
    "lang": "zh",
    "note": "对骂人的话不接，只回应事实和补救。如果对方继续辱骂，说明你会解决，但需要保持文明沟通。"
   },
   {
    "id": "respond-to-angry-customer-004",
-   "situation": "I run a small bakery. A customer, Jess, commented on our latest Instagram post that the birthday cake she picked up Saturday said 'Happy Birthday Kayla' instead of 'Kaylee' and her daughter cried. Our order form says Kaylee. The comment has 20 likes.",
+   "situation": "I run a small bakery. A customer, Jess, commented on our latest Instagram post that the birthday cake she picked up Saturday said 'Happy Birthday Kayla' instead of 'Kaylee' and her daughter cried. Our order form says Kaylee. The comment has 20 likes. I'm Maria, the owner; I want to offer a fresh cake on us any day this week, and the shop number is 555-0142.",
    "reply": "Jess, we spelled Kaylee's name wrong on her birthday cake, and that's our mistake. I'm so sorry it happened on her day. I'd like to make it right with a fresh cake for Kaylee, on us, any day this week that suits you. I've sent you a DM to sort the details, or you can call me at the shop on 555-0142. Maria, owner",
    "lang": "en",
    "note": "Reply in public first so onlookers see it owned, then move the details to DMs. Name the exact mistake rather than 'any inconvenience'."
   },
   {
    "id": "respond-to-angry-customer-005",
-   "situation": "I run a furniture shop. I already apologised to a customer, Mr Brennan, for his sofa arriving with a torn cushion, and offered a free replacement cushion delivered Friday. He's replied that's not good enough and he wants a full refund AND to keep the sofa, or he'll leave a one-star review.",
+   "situation": "I run a furniture shop. I already apologised to a customer, Mr Brennan, for his sofa arriving with a torn cushion, and offered a free replacement cushion delivered Friday. He's replied that's not good enough and he wants a full refund AND to keep the sofa, or he'll leave a one-star review. I can add a $150 refund on top of the cushion, or collect the sofa and refund him in full.",
    "reply": "I hear you, Mr Brennan, and I know a torn cushion on a new sofa is a real letdown. A full refund while keeping the sofa isn't something I can do. What I can do is either the new cushion delivered Friday 2 October plus a $150 refund for the hassle, or collect the sofa and refund you in full. Which would you prefer?",
    "lang": "en",
    "note": "Ignore the review threat. Restate the fix, add one proportionate option, and hold the line on the unreasonable demand without matching his tone."
   },
   {
    "id": "respond-to-angry-customer-006",
-   "situation": "I'm head of support at a payroll software company. A bug in Monday's release meant 40 of a client's staff got paid a day late. Their HR director, Fiona Walsh, emailed our CEO in all caps saying her people couldn't pay rent. It's our fault. It's fixed and every payment landed this morning, and our CEO has approved covering staff late fees and waiving their October subscription.",
-   "reply": "Hi Fiona,\nOn Monday 40 of your people were paid a day late because of us, and some of them had to explain that to a landlord. That's ours: a bug in our Monday release caused it. It's fixed, and every payment landed this morning. We'll cover any late fees or overdraft charges your staff were hit with; they can send receipts straight to me and I'll reimburse within five working days. We're also waiving your October subscription. You'll have the full incident report from me by Friday. My direct line is 0161 496 0142.\nRuth Adeyemi, Head of Support",
+   "situation": "I'm head of support at a payroll software company. A bug in Monday's release meant 40 of a client's staff got paid a day late. Their HR director, Fiona Walsh, emailed our CEO in all caps saying her people couldn't pay rent. It's our fault. It's fixed and every payment landed this morning, and our CEO has approved covering staff late fees and waiving their October subscription. I'm Ruth Adeyemi; my direct line is 07700 900142.",
+   "reply": "Hi Fiona,\nOn Monday 40 of your people were paid a day late because of us, and some of them had to explain that to a landlord. That's ours: a bug in our Monday release caused it. It's fixed, and every payment landed this morning. We'll cover any late fees or overdraft charges your staff were hit with; they can send receipts straight to me and I'll reimburse within five working days. We're also waiving your October subscription. You'll have the full incident report from me by Friday. My direct line is 07700 900142.\nRuth Adeyemi, Head of Support",
    "lang": "en",
    "note": "B2B: the real impact is on her employees, so the make-good goes to them first, then to the account. Answer from a named person, not the CEO's inbox."
   },
   {
    "id": "respond-to-angry-customer-007",
-   "situation": "我在网上开店卖茶叶。一位顾客发消息骂人，说在我们店买的金骏眉是假货，要给差评。她发来的订单截图是另一家名字很像的店，我们后台没有这笔订单；东西不是我们卖的，但她确实花了冤枉钱，我愿意免费寄她一小罐我们的金骏眉。",
+   "situation": "我是阿秀，在网上开店卖茶叶。一位顾客发消息骂人，说在我们店买的金骏眉是假货，要给差评。她发来的订单截图是另一家名字很像的店，我们后台没有这笔订单；东西不是我们卖的，但她确实花了冤枉钱，我愿意免费寄她一小罐我们的金骏眉。",
    "reply": "您好，花了钱买到的茶和期待的不一样，换谁都窝火。我对照了您发来的订单截图，下单的是另一家名字和我们很像的店，我们后台没有这笔订单。您可以带着这张截图向平台申请售后，需要的话我帮您一起整理。另外我今天免费给您寄一小罐我们家的金骏眉，您尝尝看。方便把收货地址发我吗？我是店主阿秀，后面有任何问题直接找我。",
    "lang": "zh",
    "note": "不是你的错也先接住她的损失，再平静说一次事实，然后做你能做的；差评的威胁不用回应。"
   },
   {
    "id": "respond-to-angry-customer-008",
-   "situation": "I own a small plumbing company. Our tech, Rob, replaced Mrs Dunn's kitchen tap yesterday and she's left an angry voicemail: water's pooling under the sink this morning and she'd taken the day off for him. I'm calling her back now, what do I say?",
+   "situation": "I'm Alan Price and I own Price Plumbing. Our tech, Rob, replaced Mrs Dunn's kitchen tap yesterday and she's left an angry voicemail: water's pooling under the sink this morning and she'd taken the day off for him. I can get a plumber there by 11 today at no charge and come myself to check it, we'll cover any damage, and my mobile is 07700 900542; what do I say when I call her back?",
    "reply": "Hi Mrs Dunn, it's Alan Price, the owner of Price Plumbing, returning your call. Rob fitted your new tap yesterday and this morning you've got water under the sink, after you'd already taken a day off for us. That's our job not done properly, and I'm sorry. I can have a plumber with you by 11 today, no charge, and I'll come myself to check it's right. If anything under the sink got damaged, tell me and we'll cover it. This is my mobile, 07700 900542, so you can reach me directly.",
    "lang": "en",
    "note": "On the phone the sequence is the same, said out loud: her words back, own it, a fix with a time today, a make-good, and a direct number."
   },
   {
    "id": "respond-to-angry-customer-009",
-   "situation": "Last Tuesday a customer, Mr Haddad, was furious that his meal-prep box from us had the wrong allergen labels. I apologised, refunded the week, and promised I'd personally check his next box. It was delivered yesterday, and I checked every label on it myself before it went out. I want to follow up.",
-   "reply": "Hi Mr Haddad, Dana here from Greenfork. Just checking yesterday's box arrived and everything was right this time; I packed it and checked every label myself. If anything's off, reply to me directly or call 0161 496 0188 and I'll sort it the same day.",
+   "situation": "Last Tuesday a customer, Mr Haddad, was furious that his meal-prep box from us had the wrong allergen labels. I apologised, refunded the week, and promised I'd personally check his next box. It was delivered yesterday, and I checked every label on it myself before it went out. I want to follow up. I'm Dana at Greenfork, direct line 07700 900188.",
+   "reply": "Hi Mr Haddad, Dana here from Greenfork. Just checking yesterday's box arrived and everything was right this time; I packed it and checked every label myself. If anything looks off, please don't eat it: reply to me directly or call 07700 900188 and I'll sort it the same day.",
    "lang": "en",
-   "note": "Follow up when you said you would, keep it short, and don't reopen the apology; the direct line is the point."
+   "note": "Follow up when you said you would, keep it short, and don't reopen the apology. With allergens, a doubtful meal stays uneaten, and any reaction means emergency services first."
   },
   {
    "id": "respond-to-angry-customer-010",
-   "situation": "I run a small IT support firm. At 8:40 this morning Jo, the office manager at a client architecture practice, emailed in capitals: nobody can print since the update we pushed last night, and they have a tender to hand-deliver by noon. It's our update.",
-   "reply": "Hi Jo,\nNobody in your office has been able to print since our update last night, and your tender is due at noon. That's our fault and I'm sorry. I'm rolling the update back remotely now, and Sam is on his way to you, arriving by 9:30. If printing isn't back by 10:15, email me the tender files and we'll print and bind them here and get them to you by 11:15. I'm Priya and I'm on this until it's fixed: 020 7946 0321.\nPriya",
+   "situation": "I run a small IT support firm. At 8:40 this morning Jo, the office manager at a client architecture practice, emailed in capitals: nobody can print since the update we pushed last night, and they have a tender to hand-deliver by noon. It's our update. I'm Priya (07700 900321): I can roll the update back remotely now, Sam can be there by 9:30, and if printing isn't back by 10:15 we can print and bind the tender here and deliver it by 11:15.",
+   "reply": "Hi Jo,\nNobody in your office has been able to print since our update last night, and your tender is due at noon. That's our fault and I'm sorry. I'm rolling the update back remotely now, and Sam is on his way to you, arriving by 9:30. If printing isn't back by 10:15, email me the tender files and we'll print and bind them here and get them to you by 11:15. I'm Priya and I'm on this until it's fixed: 07700 900321.\nPriya",
    "lang": "en",
    "note": "When the clock is the problem, speed beats polish: own it in one line, then a timed fix plus a backup that protects their deadline. The make-good can come in the follow-up."
   },
   {
    "id": "respond-to-angry-customer-011",
-   "situation": "我是健身房店长。会员张先生周六早上7点的私教课，教练临时请假，我们没通知到他，他白跑一趟。他在微信上骂前台小王，话说得很难听。我要回复他。",
+   "situation": "我是健身房店长李伟。会员张先生周六早上7点的私教课，教练临时请假，我们没通知到他，他白跑一趟。他在微信上骂前台小王，话说得很难听。我打算把这节课补回他账户，再送一节，周二或周四晚上7点都能上。",
    "reply": "张先生，您周六早上7点的私教课，教练临时请假，我们没提前通知您，让您白跑一趟，这是我们的错，对不起。这节课已经给您补回账户，另外再送一节，周二或周四晚上7点您看哪个方便。前台小王是按我们的安排做事，请不要再对她说那样的话，有不满直接找我，我来解决。我是店长李伟，这件事我负责跟到底。",
    "lang": "zh",
-   "note": "对方辱骂员工时，先认错、给补救，再平静地划清界限，把火力引到负责的人身上。"
+   "note": "对方辱骂员工时，先认错、给补救，再平静地划清界限，把火力引到负责的人身上。如果对方发出威胁或扬言动手，保留聊天记录，告诉员工别单独应对，并报警。"
   },
   {
    "id": "respond-to-angry-customer-012",
-   "situation": "I manage a 40-room hotel. A guest, Mr Okonkwo, arrived at 11pm on Saturday with a confirmed booking, but we'd overbooked, so the night staff sent him to a hotel 15 minutes away. He's emailed furious that he had to take a taxi with his two kids at midnight.",
-   "reply": "Dear Mr Okonkwo,\nYou arrived at 11pm on Saturday with a confirmed room, we didn't have it for you, and you ended up in a taxi with your two children at midnight. That's our failure, and I'm sorry. I've refunded your booking in full today, and I'll reimburse the taxi and anything you paid at the other hotel as soon as you send me the receipts. If you'd like to stay with us again, your next two nights are on us, with the room guaranteed. I'm Clara Weiss, the general manager, and my direct line is 020 7946 0873.\nClara Weiss",
+   "situation": "I'm Clara Weiss, general manager of a 40-room hotel, direct line 07700 900873. Mrs Okonkwo, a guest in her eighties staying alone, rang the desk twice last night because her heating had failed, nobody went up until 7am, and she's furious: she slipped getting a blanket and her wrist hurts. I've moved her to a warm room and refunded both nights, her daughter's number is on the booking, and I'm going up to see her now; what do I say?",
+   "reply": "Mrs Okonkwo, I'm Clara Weiss, the general manager. You rang us twice last night with no heating, nobody came up until 7am, and you slipped and hurt your wrist. That's our failure, and I'm very sorry. First, your wrist: please let a doctor look at it today, and if the pain gets worse or it starts to swell, we'll call an ambulance straight away. You're now in a warm room, and I've refunded both nights in full. Would you like me to ring your daughter and let her know what happened? My direct line is 07700 900873.",
    "lang": "en",
-   "note": "Name the midnight taxi with the kids, because that's what he's angry about, and keep the overbooking mechanics out of it."
+   "note": "With an older guest who's been hurt, her health comes before anything else: point her to medical help, then own it, and ask before contacting family."
   },
   {
    "id": "respond-to-angry-customer-013",
-   "situation": "I'm a wedding photographer. I promised Priya and Tom their gallery by Sept 5, six weeks after their July 25 wedding. It's now over nine weeks, and Priya emailed furious that her mother-in-law keeps asking and my updates have been vague. The backlog is my fault.",
+   "situation": "I'm a wedding photographer. I promised Priya and Tom their gallery by Sept 5, six weeks after their July 25 wedding. It's now over nine weeks, and Priya emailed furious that her mother-in-law keeps asking and my updates have been vague. The backlog is my fault. I'm Anna (07700 900617); I can send 30 finished favourites tonight, the full gallery by 6pm Friday 9 October, and add a free 20-page printed album.",
    "reply": "Hi Priya,\nI promised your gallery by 5 September, it's now more than nine weeks since your wedding, and my updates have been vague while your family keeps asking. That's on me, and I'm sorry. Tonight I'll send you 30 finished favourites so you have something to share this weekend, and the full gallery will be in your inbox by 6pm on Friday 9 October. I'm also adding a 20-page printed album at no charge. If you'd like to talk, I'm on 07700 900617 any time.\nAnna",
    "lang": "en",
    "note": "Name the vagueness, since that is what made her furious, then a firm date plus something she can share now. Hit both deadlines."
   },
   {
    "id": "respond-to-angry-customer-014",
-   "situation": "Je gère des paniers de légumes bio à Nantes. Le panier passe de 18 € à 21 € au 1er octobre, annoncé par e-mail le 1er septembre ; il existe aussi un petit panier à 15 €. M. Leroy, abonné depuis quatre ans, m'écrit furieux qu'on l'a « mis devant le fait accompli » et qu'il n'a jamais été prévenu.",
-   "reply": "Bonjour Monsieur Leroy,\nDécouvrir une hausse de 3 € par panier au moment où elle s'applique, après quatre ans avec nous, ce n'est pas agréable. J'ai vérifié : l'annonce est partie le 1er septembre à votre adresse habituelle, je vous la renvoie ci-dessous, elle a peut-être atterri dans les indésirables. Comme vous ne l'avez pas vue, je vous laisse le panier à 18 € pour tout le mois d'octobre. Ensuite, si 21 € ne vous convient pas, vous pouvez passer au petit panier à 15 € ou arrêter sans frais. Je suis Claire, et vous pouvez m'appeler directement au 06 12 48 90 37.\nClaire",
+   "situation": "Je suis Claire, je gère des paniers de légumes bio à Nantes (claire@example.com). M. Leroy, abonné depuis quatre ans, m'écrit en majuscules qu'il manquait les œufs (3 €) dans son panier de jeudi et qu'« on se moque de lui ». C'est un oubli de notre part ; je peux lui rembourser les 3 € aujourd'hui ou ajouter une boîte d'œufs offerte dans son prochain panier.",
+   "reply": "Bonjour Monsieur Leroy,\nIl manquait les œufs dans votre panier de jeudi alors que vous les aviez payés : c'est un oubli de notre part à la préparation, et je vous prie de nous en excuser. Je vous propose deux solutions : je vous rembourse les 3 € aujourd'hui, ou j'ajoute une boîte d'œufs offerte dans votre prochain panier. Laquelle préférez-vous ? Vous pouvez m'écrire directement à claire@example.com.\nClaire",
    "lang": "fr",
-   "note": "Le fait est corrigé une seule fois, preuve à l'appui, puis un geste proportionné et des options claires, sans discuter de sa colère."
+   "note": "Petite erreur, grosse colère : on ne relève ni le ton ni les majuscules, on répare à la mesure de l'erreur, sans en faire trop."
   },
   {
    "id": "respond-to-angry-customer-015",
-   "situation": "I run a small yoga studio. Yesterday I sent our timetable email to all 212 members with every address visible in the To line instead of hidden. A member, Helen, replied furious that her personal email has been shared with 200 strangers without her permission.",
-   "reply": "Hi Helen,\nYesterday I sent our timetable email with every member's address visible, yours included, to more than 200 people, and you never agreed to that. That was my mistake, and I'm sorry. Today I'm emailing everyone on that list to ask them to delete the message and not reuse any addresses, and from now on every studio email goes out so that no one can see anyone else's address. I'm also checking whether this is something I need to report, and I'll tell you what I find by Friday 2 October. I'm Maya, the owner; reply to me directly or call 0161 496 0457.\nMaya",
+   "situation": "I run a small yoga studio. Yesterday I sent our timetable email to all 212 members with every address visible in the To line instead of hidden. A member, Helen, replied furious that her personal email has been shared with 200 strangers without her permission. I'm Maya, the owner (07700 900457); today I'll ask everyone to delete it, switch to hidden addresses, and check whether I have to report it.",
+   "reply": "Hi Helen,\nYesterday I sent our timetable email with every member's address visible, yours included, to more than 200 people, and you never agreed to that. That was my mistake, and I'm sorry. Today I'm emailing everyone on that list to ask them to delete the message and not reuse any addresses, and from now on every studio email goes out so that no one can see anyone else's address. I'm also checking whether this is something I need to report, and I'll tell you what I find by Friday 2 October. I'm Maya, the owner; reply to me directly or call 07700 900457.\nMaya",
    "lang": "en",
    "note": "A privacy slip: own it, fix the process, and check any reporting duty rather than guessing."
   },
@@ -117,7 +117,7 @@
   {
    "id": "respond-to-angry-customer-017",
    "situation": "我是小区团购的团长，群里有400人。邻居刘姐在群里发了照片，说9月29日团的水蜜桃一箱里烂了一半，骂我黑心只顾赚钱。那批桃确实到货晚了一天，好几户都说有坏果。我打算坏几个退几个的钱，明天中午前退到微信，以后到货先开箱抽查再分。我是3栋的小周。",
-   "reply": "刘姐，9月29日那批水蜜桃您那箱烂了一半，花了钱拿到这样的东西，换谁都生气，这是我这个团长没把好关，对不起。这批桃凡是有坏果的，今晚8点前在群里或私信发我照片，坏几个退几个的钱，明天中午前退到微信。以后每批到货我先开箱抽查再分给大家。刘姐，我现在私信您，您那箱我先来处理。我是3栋的小周，有问题随时找我。",
+   "reply": "刘姐，9月29日那批水蜜桃您那箱烂了一半，花了钱拿到这样的东西，换谁都生气，这是我这个团长没把好关，对不起。这批桃凡是有坏果的，今晚8点前在群里或私信发我照片，坏几个退几个的钱，明天中午前退到微信；坏了的桃子请别吃，拍完照就扔掉。以后每批到货我先开箱抽查再分给大家。刘姐，我现在私信您，您那箱我先来处理。我是3栋的小周，有问题随时找我。",
    "lang": "zh",
    "note": "群里公开回复先认错、给所有人同一个补救办法，再把刘姐的具体情况转到私聊；不在群里提供货商。"
   },
@@ -130,7 +130,7 @@
   },
   {
    "id": "respond-to-angry-customer-019",
-   "situation": "我开儿童美术培训班，我是负责人王老师。家长李女士在微信上发了一长段火，说女儿朵朵上了8节课画的还是乱涂乱画，钱白花了，要退剩下的课。她一共买了20节，每节150元，合同写了剩余课时可以按单价退；我们平时没怎么给家长发过进度，但每节课的作品都拍照存档了，我觉得朵朵进步挺明显。",
+   "situation": "我开儿童美术培训班，我是负责人王老师。家长李女士在微信上发了一长段火，说女儿朵朵上了8节课画的还是乱涂乱画，钱白花了，要退剩下的课。她一共买了20节，每节150元，合同写了剩余课时可以按单价在三个工作日内退；我们平时没怎么给家长发过进度，但每节课的作品都拍照存档了，我觉得朵朵进步挺明显。",
    "reply": "李女士，您花了钱，看朵朵的画又觉得没什么变化，着急是肯定的。平时没及时给您看进度，这是我们该做好却没做好的。我今晚8点前把朵朵这8节课的作品照片按时间整理好发给您，您可以对比一下第一节和第八节。看完如果还是想退，剩下12节按每节150元，一共1800元，按合同三个工作日内退给您。有任何问题直接找我，我是王老师。",
    "lang": "zh",
    "note": "不争论孩子有没有进步，用作品照片说话；同时把退款路径讲清楚，让家长自己选。"
@@ -165,8 +165,8 @@
   },
   {
    "id": "respond-to-angry-customer-024",
-   "situation": "I'm Joe, owner of Kettle & Crumb café. A customer, Mrs Nowak, emailed furious that on Tuesday morning our barista repeated her order back in a mocking imitation of her Polish accent, and people in the queue laughed. I've spoken to the barista and he doesn't deny it; I'll talk to the whole team this week, and I want to offer her free coffee for a month. My number is 0161 496 0712.",
-   "reply": "Dear Mrs Nowak,\nOn Tuesday morning one of our baristas repeated your order back in a mocking imitation of your accent, in front of a queue, and people laughed. That was humiliating, it should never happen in my café, and I'm sorry. I've spoken to him directly, and this week I'm telling the whole team that mocking anyone's accent has no place here. If you'd ever like to come back, your coffee is on us for the next month. I'm Joe, the owner, and you can reach me directly on 0161 496 0712.\nJoe",
+   "situation": "I'm Joe, owner of Kettle & Crumb café. A customer, Mrs Nowak, emailed furious that on Tuesday morning our barista repeated her order back in a mocking imitation of her Polish accent, and people in the queue laughed. I've spoken to the barista and he doesn't deny it; I'll talk to the whole team this week, and I want to offer her free coffee for a month. My number is 07700 900712.",
+   "reply": "Dear Mrs Nowak,\nOn Tuesday morning one of our baristas repeated your order back in a mocking imitation of your accent, in front of a queue, and people laughed. That was humiliating, it should never happen in my café, and I'm sorry. I've spoken to him directly, and this week I'm telling the whole team that mocking anyone's accent has no place here. If you'd ever like to come back, your coffee is on us for the next month. I'm Joe, the owner, and you can reach me directly on 07700 900712.\nJoe",
    "lang": "en",
    "note": "When the complaint is about how a staff member treated her, own it as the business, don't defend or name him, and keep any discipline out of the reply."
   },

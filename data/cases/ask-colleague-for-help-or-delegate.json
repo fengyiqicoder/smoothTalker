@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -239,6 +239,13 @@
    "reply": "苏航你好，我是北京办公室的吴悦，想请你帮个小忙：客户把一份签好的合同原件寄到了上海办公室，快递记录显示今天上午已在前台签收，但前台行政今天休假。能不能麻烦你去前台取一下，扫描发我，原件锁进前台的文件柜？大概十分钟。我下午4点前要提交盖章流程，所以最好3点半前能拿到扫描件；你今天走不开的话直接说，我再想别的办法。以后上海在北京这边有事，尽管找我。",
    "lang": "zh",
    "note": "请没见过面的异地同事帮忙：先说清已经确认过什么，再把事情缩小到十分钟和一个时间点，给退路，也给回报。"
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-035",
+   "situation": "I'm the senior engineer on our team. In a code review today, our junior developer Kofi asked why the inventory service uses optimistic locking instead of row locks, and I honestly don't know; the decision was made before I joined. Lin wrote that code and is now on the platform team, and I'd like Kofi to join when I ask her, since he raised it.",
+   "reply": "Great question, Kofi, and honestly I don't know. That choice was made before I joined. Lin wrote that code and she's on the platform team now, so I'll message her today and ask for 15 minutes this week. Want to join that chat? You spotted it, so you should hear the answer first-hand.",
+   "lang": "en",
+   "note": "A senior saying 'I don't know' to a junior shows it's safe to ask; the next step and an invite turn it into teaching."
   }
  ]
 }

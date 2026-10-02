@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -232,6 +232,13 @@
    "reply": "Hi Ellen, I'd like to suggest Kavya Rao as a first-time speaker for Northcharts. I run the monthly Data Visualization meetup in Leeds, and Kavya gave a 20-minute talk at our June meetup on making accessible charts. It drew 85 people, our biggest turnout so far, and 40 of the 52 people who filled in our feedback form rated it 5 out of 5. I've only seen her speak that once, so I can't say how she'd handle a longer slot, but for a short talk on accessibility I recommend her strongly. Happy to introduce you both. Best, Joel Park",
    "lang": "en",
    "note": "Putting someone forward unasked by the reader: say where you saw them, give the numbers, and scope the endorsement to that one talk."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-034",
+   "situation": "I'm Owen Reid, manager of Corner Shelf, a bookshop. Maya Patel worked for us part time from June 2024 to August 2026 and is applying to be a pharmacy assistant at Linwood Pharmacy; their reference form asks about customer service, reliability and punctuality, and whether I'd re-employ her. Regulars asked for her by name and she ran our stock system on her own through our busiest Christmas, but in her first six months she was late around ten times, which stopped once we moved her start time from 8am to 10am; I'd re-employ her on shifts starting at 10am or later.",
+   "reply": "Customer service: Maya was the strongest person on our till. Several regulars asked for her by name, and she ran our stock system on her own through our busiest Christmas.\nReliability and punctuality: in her first six months she was late around ten times. That stopped once we moved her start time from 8am to 10am, and she was on time from then on.\nWould you re-employ: yes, on shifts starting at 10am or later.\nOwen Reid, Manager, Corner Shelf",
+   "lang": "en",
+   "note": "A reservation goes in as one factual line with what changed after it; leave out reasons you weren't told or that are hers to share."
   }
  ]
 }

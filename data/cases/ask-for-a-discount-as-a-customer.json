@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -239,6 +239,13 @@
    "reply": "Hi Hugh, I'd like to go ahead with you for my first self-employed tax return. Your estimate was 4 to 6 hours at $120 an hour. My income and expenses are already sorted by category in a single spreadsheet, which I hope keeps it toward the lower end, so would you do it as a fixed fee of $500? If yes, I'll send everything over today. If a fixed fee doesn't work for you, no problem, I'll go ahead on your hourly rate.",
    "lang": "en",
    "note": "With hourly work, the ask can be a cap or fixed fee; the anchor is the prep you've done that saves them time."
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-035",
+   "situation": "家里3台空调想请刘师傅上门清洗，他报价每台150元。对门邻居王姐家有2台也想洗，我们商量好下周六上午一起做，两家都在家，现场付现金。想跟刘师傅谈每台120元。",
+   "reply": "刘师傅您好，下周六上午想请您来洗空调：我家3台，对门王姐家2台，两家挨着，一趟就能做完5台。您报的是每台150元，5台一起的话，能不能按每台120元算？那天两家都在家，做完当场付现金。如果这个价不好做也没关系，您说个能做的价，我们再商量。",
+   "lang": "zh",
+   "note": "跟邻居拼单的筹码是一趟活做两家、省路程；报一个具体数字，再给师傅说出自己价格的台阶。"
   }
  ]
 }

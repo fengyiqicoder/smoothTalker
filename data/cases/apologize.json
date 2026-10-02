@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "apologize-001",
@@ -239,6 +239,13 @@
    "reply": "Isla, I'm sorry I missed your violin solo on Wednesday. I promised I'd be there, and I stayed at work for a call instead, so I wasn't there for your very first solo. You're right that I've said I'll come before and then not made it, and that isn't fair on you. I've told work I'm leaving at 5 on concert days, so I'll be there for the winter concert in December. If you'd like to, I'd love to hear your solo at home tonight. Love, Dad",
    "lang": "en",
    "note": "With a child, agree with what they said, and make the change something they can see; hearing the solo is an offer, not a fix she owes you."
+  },
+  {
+   "id": "apologize-035",
+   "situation": "钟点工王阿姨在我们家做了三年，每周二、周五来。上周我找不到金手链，当面问她是不是拿了，她很委屈。昨天手链在沙发缝里找到了。想在她下周二来之前先发微信好好道歉。",
+   "reply": "王阿姨，手链昨天在沙发缝里找到了。上周我当面问您是不是拿了，冤枉了您，真的对不起。您在我们家做了三年，一直很尽心，我却没先好好找就怀疑您，换成谁都会委屈。以后东西找不到，我会先自己仔细找，不会再随便怀疑人。",
+   "lang": "zh",
+   "note": "冤枉了人：先说真相，再认错和对方受的委屈，不解释当时为什么着急，也不要求她马上说没事。"
   }
  ]
 }

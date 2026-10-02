@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -232,6 +232,13 @@
    "reply": "刘经理，读书会的推文看到了！小提醒一下：文中的报名二维码扫出来是去年的活动页面，显示“报名结束”。推文才发出二十分钟，换一下二维码就好。这种事谁都遇到过，需要的话新码我这边帮您核对。",
    "lang": "zh",
    "note": "对甲方也一样：马上能改的错，私下一句话说清，附上解决办法，不在评论区提。"
+  },
+  {
+   "id": "tell-someone-something-awkward-034",
+   "situation": "I'm Maya Chen, a second-year student. My lecturer Dr Okafor just uploaded this week's slides to the course page, and slide 14 has a spreadsheet screenshot showing several students' names and their midterm marks. About 200 of us can see the page, and I want to email him privately.",
+   "reply": "Hi Dr Okafor, a quick heads up about this week's slides on the course page: slide 14 has a spreadsheet screenshot that shows several students' names and midterm marks. It might be worth taking the file down and re-uploading it without that slide. Easy thing to miss in a long deck. Best wishes, Maya Chen",
+   "lang": "en",
+   "note": "Name the slide and the fix, not whose marks you saw, and don't mention it on the course forum."
   }
  ]
 }

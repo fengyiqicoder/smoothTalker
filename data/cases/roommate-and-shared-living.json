@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -232,6 +232,13 @@
    "reply": "跟大家商量个事～我女朋友下周五从成都过来看我，想在我房间住6晚，下周四走。这几天水电我多出50元，早上7点到8点大家用卫生间的时候，她会错开。你们觉得可以吗？有不方便的地方直接说，我们再调。",
    "lang": "zh",
    "note": "自己是带客人的一方时，提前问、带着补偿方案；群里没人回不等于同意，她来之前私下跟每个人再确认一下。"
+  },
+  {
+   "id": "roommate-and-shared-living-034",
+   "situation": "My housemate Ruth just tested positive for covid. Three of us share one bathroom and a small kitchen, and I'm visiting my 82-year-old gran on Sunday, so I really want to avoid catching it. I'd like to suggest Ruth uses the kitchen after 8pm once we're done, and I'm happy to do her grocery run and leave things outside her door.",
+   "reply": "Hey Ruth, sorry you've got it, rest up. Could we try a simple setup for the next few days: you stay in your room as much as you can, use the kitchen after 8pm once we're done, and give the bathroom handles a wipe after you use it? I'm seeing my 82-year-old gran on Sunday, so I'm being a bit careful. Send me a shopping list and I'll leave everything outside your door. Happy to tweak any of it.",
+   "lang": "en",
+   "note": "Make the plan about the house and offer help in return; if she gets much worse, she should call a doctor or emergency services."
   }
  ]
 }

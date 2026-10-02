@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -239,6 +239,13 @@
    "reply": "你说得对，先吼的是我，忘了接女儿的也是我，对不起。我知道你是觉得家里的事最后总落在你一个人身上。今晚7点你到家，我们好好聊接孩子怎么安排，我先听你说。你和女儿比我争这口气重要。",
    "lang": "zh",
    "note": "对方不接受“我们都”的说法时，别争这个词，把自己那部分认全，再给回来谈的时间。"
+  },
+  {
+   "id": "de-escalate-argument-035",
+   "situation": "My bandmate Kofi and I are arguing at rehearsal about whether to play his new song at Saturday's gig. I said it 'sounds like a jingle', and now he's packing up his guitar while the other two stand there. We've played together for ten years and I want to calm it down right now, in person; I'm free tomorrow at 11.",
+   "reply": "Kofi, hang on. We're both wound up, and the jingle comment was a cheap shot, I'm sorry. I can tell it felt like I binned something you've put a lot into. Can we get a coffee tomorrow at 11 and talk about the setlist properly? Ten years of this band matters more than one song.",
+   "lang": "en",
+   "note": "Own the one line in front of the people who heard it, and move the setlist decision to tomorrow instead of settling it while he's packing up."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -239,6 +239,13 @@
    "reply": "Thanks for making time, Jake. I'm asking you as my manager, not as my old teammate, so feel free to treat it that way. I like this team and want to keep growing here. Since June I've taken over the on-call scheduling and the two vendor integrations you used to own, and roles with that scope pay $100k to $108k. I'd like to move from $92k to $102k. What would you need from me to make that case, and when could we have an answer?",
    "lang": "en",
    "note": "With a former peer, name the role change once, then give the same evidence and number you'd give any manager; confirm in writing the same day."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-035",
+   "situation": "I'm a dental nurse on £26,500. In September I finished my radiography qualification, which the practice paid half of, and I now take about 40 X-rays a week so the dentists don't have to. Qualified dental nurses with radiography locally are advertised at £28,500 to £30,000; I have a review with our practice manager, Joanne, next Wednesday and want to ask for £29,000.",
+   "reply": "Thanks for making time, Joanne. I really like working here, and I'm grateful the practice paid half of my radiography course. Since I qualified in September I've been taking about 40 X-rays a week, which frees up the dentists' time. Local adverts for dental nurses with radiography are at £28,500 to £30,000, so I'd like to move from £26,500 to £29,000. If that's not possible now, what would it take, and when could we look at it again?",
+   "lang": "en",
+   "note": "A new qualification is evidence only once you're using it: show the work it now covers, then name one number."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -232,6 +232,13 @@
    "reply": "Rosa, small mix-up: I thanked you for the blanket, and that was Elena. Yours was the bath set, and thank you! The duck towel had its first outing last night after Noah's first bath at home, and he looked like a tiny duckling. Thank you for being there on Sunday, it meant a lot.",
    "lang": "en",
    "note": "Correct a mix-up lightly in one line, then give the right thanks with its own detail; send Elena her thanks separately."
+  },
+  {
+   "id": "thank-you-notes-034",
+   "situation": "私は高橋健です。昨夜、取引先の株式会社ミナト精工の森部長に会食でご馳走になりました。森部長が話してくれた新人時代の工場での失敗談がとても印象に残り、この春に営業へ異動したばかりの私には励みになりました。来週火曜日の打ち合わせでまたお会いするので、今日中にお礼のメールを送りたいです。",
+   "reply": "株式会社ミナト精工\n森部長\n\n昨夜は貴重なお時間をいただき、またすっかりご馳走になり、誠にありがとうございました。森部長が新人時代に工場で失敗されたお話が、とても心に残っております。この春に営業へ異動したばかりの私にとって、大きな励みになりました。来週火曜日のお打ち合わせでも、どうぞよろしくお願いいたします。\n\n高橋健",
+   "lang": "ja",
+   "note": "会食のお礼は翌日中に。ご馳走になったことに加え、相手の話の中で心に残った一点を具体的に書く。"
   }
  ]
 }

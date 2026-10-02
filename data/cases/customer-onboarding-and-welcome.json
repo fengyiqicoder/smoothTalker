@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -239,6 +239,13 @@
    "reply": "孙女士您好，我是铜光的阿哲，谢谢您预订我们的黄铜台灯，1,280元已经收到。先跟您说清时间：这一批是手工制作，预计11月20日前后发货，发出后马上把物流单号发给您。制作期间每两周我会发一次进度照片，第一次在10月16日（周五）。现在只需要您做一件事：10月15日（周四）前告诉我灯罩选白色还是米色。发货前如果想取消，可以全额退款。有问题直接微信我，一般两小时内回复。",
    "lang": "zh",
    "note": "预售付款后要等很久，最容易起疑：先说清发货时间和中间的节点，再说一次怎么退出。"
+  },
+  {
+   "id": "customer-onboarding-and-welcome-035",
+   "situation": "I'm Priya, a bookkeeper, and Tomasz, who owns a café, just signed up for monthly bookkeeping after leaving his previous bookkeeper. To start I need adviser access to his accounting software and a signed authority letter, which I'm attaching, so I can request his records from the previous bookkeeper myself, both by Friday 9 October. His first monthly report will be ready by Tuesday 10 November, and I reply to emails within one working day.",
+   "reply": "Hi Tomasz, thanks for choosing me for the café's bookkeeping, I'm glad to have you on board. To get started I need two things by Friday 9 October: adviser access to your accounting software, and the attached authority letter, signed. With the letter I'll request your records from your previous bookkeeper myself, so there's nothing for you to chase. Your first monthly report will be with you by Tuesday 10 November. Any questions, reply here; I answer within one working day. Priya",
+   "lang": "en",
+   "note": "When a client is switching providers, take the handover with the old one off their plate and say so in the welcome."
   }
  ]
 }

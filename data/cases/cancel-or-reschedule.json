@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -239,6 +239,13 @@
    "reply": "Hi Fiona, I need to change Tuesday's visit: a rail strike has just been announced for 6 October, so I can't get to Leeds. Sorry for the shuffle when you've set the morning aside. Two options: keep 10am on Tuesday as a video call, with you walking the line on a phone, or I come in person on Tuesday 13 or Wednesday 14 October. Which suits you better?",
    "lang": "en",
    "note": "Sometimes the alternative is a different format at the same time rather than a new date; offer both."
+  },
+  {
+   "id": "cancel-or-reschedule-035",
+   "situation": "My friend Ollie is already on the train from Oxford to meet me in London for lunch at 1, and he paid £34 for the return ticket. My manager has just pulled me into an emergency client call that will run until about 4. I could meet him at 4:30 near Paddington before his train home, or he could come to mine for dinner next Saturday, and I want to pay for his ticket.",
+   "reply": "Ollie, I'm so sorry, I have to bail on lunch: my manager has just pulled me into an emergency client call that will run until about 4. I know you're already on the train, which makes it worse. I'm sending you the £34 for the ticket now. If you're up for it, I can meet you at 4:30 near Paddington before your train home, or you come to mine for dinner next Saturday. Your call.",
+   "lang": "en",
+   "note": "When they're already travelling, tell them before they arrive, cover what it cost them, and give one option for today and one for later."
   }
  ]
 }

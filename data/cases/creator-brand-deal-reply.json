@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -238,6 +238,13 @@
    "reply": "Hi Paolo, thanks for reaching out, and for a generous offer. I'm under an exclusivity agreement for running footwear until 31 December, so I can't take on a shoe video in November. From January I'd be glad to talk: my rate for a dedicated video is $2,200 with 30 days of organic usage. Shall I get in touch in early January, or would you rather come back to me when you plan your spring campaigns?",
    "lang": "en",
    "note": "Say the exclusivity exists without naming the partner or its terms; check your contract for what you're allowed to disclose."
+  },
+  {
+   "id": "creator-brand-deal-reply-035",
+   "situation": "I host a weekly gardening podcast, Dirt Under Nails, averaging 6,000 downloads per episode in the first 30 days. Dev from a seed company, Sproutbox, offered $400 for a 60-second host-read ad in four episodes. My rate is $150 per episode for a host-read mid-roll, so four would be $600; as a first test I'd do three episodes for $400, and I always open the read with 'this episode is sponsored by'.",
+   "reply": "Hi Dev, thanks for reaching out, a seed company is a natural fit for our listeners. Dirt Under Nails averages 6,000 downloads per episode in the first 30 days, and my rate for a 60-second host-read mid-roll is $150 per episode, so four episodes would be $600. If $400 is the budget, I can do three episodes for $400 as a first test. Every read opens with 'this episode is sponsored by', so listeners always know. Could you share the timing and the key points you'd like covered?",
+   "lang": "en",
+   "note": "Quote from your real per-episode numbers, match a tight budget with fewer episodes rather than a cut rate, and state how the sponsorship is disclosed."
   }
  ]
 }

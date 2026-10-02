@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 33,
+ "count": 34,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -232,6 +232,13 @@
    "reply": "Rafa, desculpa pelo jeito que eu falei ontem. O dinheiro é seu e a decisão é sua, não vou ficar insistindo, e eu não vou entrar. Só te peço uma coisa antes de colocar os R$ 10.000: tenta sacar os R$ 5.000 que já estão lá. Mesmo que caia, espera uma semana antes de colocar mais, porque esses apps costumam pagar os primeiros saques. Se aparecer taxa, prazo ou desculpa para não liberar, me liga, e eu juro que não vou dizer que eu avisei.",
    "lang": "pt",
    "note": "Com quem ficou na defensiva, um teste concreto vale mais que discutir, mas um saque que funciona não prova que é seguro: promessa de 3% ao dia é sinal clássico de golpe. Se ele já perdeu dinheiro, ajude a ligar para o banco e registrar boletim de ocorrência."
+  },
+  {
+   "id": "suspicious-or-scam-message-034",
+   "situation": "I'm Tom Reyes. Last night I paid $240 by bank transfer to a seller called Jade in a fan group on social media for two concert tickets, and this morning she's blocked me and the post is gone. I'm calling my bank's fraud line on the number on the back of my card and want to know what to say.",
+   "reply": "Hi, my name is Tom Reyes and I'd like to report a fraudulent payment. Last night I sent $240 by bank transfer to a seller called Jade for two concert tickets she advertised in a fan group on social media. This morning she has blocked me and the post has been deleted, so I believe it was a scam. Can you try to recall the payment, and tell me what else you need from me?",
+   "lang": "en",
+   "note": "Call straight away, since speed improves the chance of a recall; then report it to the police and the platform, and ignore anyone who later offers to recover the money for a fee."
   }
  ]
 }

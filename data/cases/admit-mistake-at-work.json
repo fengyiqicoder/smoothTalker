@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -239,6 +239,13 @@
    "reply": "陈总，跟您报告一个我的失误：贵公司9月的增值税申报我漏报了，今天上午发现时已经逾期一天，税务局通知罚款200元。今天上午11点我已经补报完成。这200元罚款由我承担，下周一前交清，交完把凭证发您。对不起，这是我的疏忽。以后每个客户的申报，我都会在截止前三天做完，并在核对表上打勾确认。",
    "lang": "zh",
    "note": "替客户办事出错：先说错在哪和后果，再说已补救、谁承担、什么时候办完，不推给系统或工作量。"
+  },
+  {
+   "id": "admit-mistake-at-work-035",
+   "situation": "I'm a research technician in Dr Amara Osei's lab. Last Monday I swapped the labels on the control and treated plates in her drug-response run, so this week's data from that run can't be used; I found it today when I checked the plates against the freezer log. I can restart the run on Monday with results by Friday 16 October, and from now on I'll ask a colleague to double-check every label before plates go into the incubator.",
+   "reply": "Amara, I need to flag a mistake: last Monday I swapped the labels on the control and treated plates in your drug-response run, so this week's data from that run can't be used. I found it today when I checked the plates against the freezer log. I can restart the run on Monday and have results to you by Friday 16 October. I'm sorry, this one's mine. From now on I'll ask a colleague to double-check every label before plates go into the incubator.",
+   "lang": "en",
+   "note": "Flag it before anyone analyses the data, and say exactly which results are affected so none of them get used."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -239,6 +239,13 @@
    "reply": "Hi love, a small ask, and say no if your weekend's full. I've got my new phone and I'd like some help setting it up and moving my contacts and photos across from the old one. I think it's about an hour. Could you pop round Saturday or Sunday afternoon? If you're too busy, no problem at all, the shop does a paid setup and I'll book that. Either way, there's a lasagne with your name on it.",
    "lang": "en",
    "note": "Parents asking grown children need the same clear size and real out; it stops a small ask feeling like a duty."
+  },
+  {
+   "id": "ask-for-favor-035",
+   "situation": "I'm Owen in flat 2. Our remortgage deed has to be signed in front of a witness, and the lender's instructions say it must be an adult who isn't family or living with us, who watches me sign and then adds their own name, address and signature. I want to ask my neighbour Grace in flat 4; it takes about 10 minutes, any evening before Thursday, and if she can't I'll ask a colleague at work.",
+   "reply": "Hi Grace, it's Owen from flat 2. Could I ask a small favour? Our remortgage deed needs a witness who isn't family, which means watching me sign and then adding your name, address and signature. It takes about 10 minutes, any evening before Thursday that suits you. If you'd rather not, no problem at all, I'll ask someone at work.",
+   "lang": "en",
+   "note": "Say exactly what witnessing involves, including that their address goes on the form, so the yes is informed."
   }
  ]
 }

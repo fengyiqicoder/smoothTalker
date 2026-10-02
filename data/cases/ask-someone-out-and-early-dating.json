@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -238,6 +238,13 @@
    "reply": "Last night was great, and I'm still thinking about your greyhound plans. Thank you for being so easy about me heading home. I like to take things slowly, and it's not a lack of interest, quite the opposite. I'd really like to see you again: how about the food market on Saturday?",
    "lang": "en",
    "note": "Say your pace once, plainly, then make a concrete plan; it reassures without turning the text into a negotiation."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-035",
+   "situation": "I'm Felix. For two months I've done video language swaps every Thursday with Lena on a language-exchange app, my German for her English, and we've never met. She lives in Berlin and I'm moving there for work on Monday 19 October. I'd like to ask her on an actual date, not a language session: a drink at a café in Kreuzberg on Saturday 24 October.",
+   "reply": "Lena, I've really enjoyed our Thursday swaps, and since I'm moving to Berlin on Monday 19 October, I wanted to ask you something in plain English: would you like to go on a date with me? A drink at a café in Kreuzberg on Saturday 24 October, no grammar corrections allowed. And if you'd rather keep it to language swaps, that's completely fine, and I'll still see you on Thursday.",
+   "lang": "en",
+   "note": "Say 'date' so it can't be mistaken for another lesson. First meeting from online: a busy public place, your own way there and back, and tell a friend where you'll be."
   }
  ]
 }

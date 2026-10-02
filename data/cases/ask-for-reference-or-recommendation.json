@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -238,6 +238,13 @@
    "reply": "郑老师您好，我是许然，过去一年一直在给图表库提PR，您审过我的12个PR。想冒昧请您帮个忙：我在申请星河科技的前端实习，需要一位推荐人写一段推荐，不超过300字，10月16日（周五）前发到 hr@example.com。我们虽然没见过面，但您是最了解我写代码的人。如果方便，最希望您提两点：渲染性能优化那个PR让速度提升了30%，以及我平时按review意见改代码的情况。我可以先起草一段，您随意修改。如果您觉得不合适，完全理解，谢谢您。",
    "lang": "zh",
    "note": "只在线上合作过的人，请他只写亲眼看到的东西：具体的PR和数字，截止日期放在第一条消息里。"
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-035",
+   "situation": "Mon mari Mathieu et moi voulons devenir famille d'accueil, et le service de l'aide sociale à l'enfance de notre département demande deux références personnelles : une travailleuse sociale appellera puis rencontrera chaque référent, environ une heure, en octobre ou novembre. Je voudrais le demander à mon amie Aurélie, qui nous connaît depuis douze ans et nous confie souvent ses enfants le mercredi.",
+   "reply": "Aurélie, j'ai une demande un peu particulière. Avec Mathieu, on se lance pour devenir famille d'accueil, et on nous demande deux références personnelles. Tu nous connais depuis douze ans et tu nous confies tes enfants le mercredi, alors tu serais notre premier choix. Concrètement, une travailleuse sociale t'appellerait puis te rencontrerait, environ une heure, en octobre ou novembre. Si ça te paraît trop, ou si ce n'est pas le bon moment, dis-le-moi sans hésiter, ça ne change rien entre nous.",
+   "lang": "fr",
+   "note": "Pour une référence personnelle, dire ce qu'elle a vu de ses propres yeux et le vrai temps que ça demande avant qu'elle accepte."
   }
  ]
 }
