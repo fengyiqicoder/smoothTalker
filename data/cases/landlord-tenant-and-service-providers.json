@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -211,6 +211,13 @@
    "reply": "Hi Tariq, I've heard that someone may have been living at the flat with you since August. If so, that's fine with me in principle. Under clause 9 of the lease, anyone living there needs to be named with my written consent, so could you let me know by Friday 9 October? If she is living there, I'll send an addendum adding her, I'd just need one reference for her, and the rent stays at $1,500.\nThanks,\nGwen",
    "lang": "en",
    "note": "Landlord side: hearsay gets a question, not an accusation, and the yes path is spelled out. Check local rules on occupants before relying on the clause."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-031",
+   "situation": "Sou a Marina e alugo um T2 no Porto ao Sr. Costa há dois anos, sempre com a renda em dia. Quero pintar uma parede do quarto de verde-claro e fixar duas prateleiras na sala; a cláusula 8 do contrato diz que qualquer obra precisa de autorização escrita do senhorio. Pago tudo eu, ao sair repinto a parede de branco e tapo os furos, e posso mostrar-lhe uma amostra da cor antes.",
+   "reply": "Bom dia, Sr. Costa. Como prevê a cláusula 8 do contrato, venho pedir a sua autorização por escrito para pintar uma parede do quarto de verde-claro e fixar duas prateleiras na sala. Os custos ficam por minha conta e, quando sair, deixo a parede pintada de branco e os furos tapados. Se quiser, mostro-lhe antes uma amostra da cor. Pode responder-me por escrito até sexta-feira, 9 de outubro? Obrigada, Marina",
+   "lang": "pt",
+   "note": "Pedir antes e por escrito, com a reposição já oferecida, evita discussões na devolução da caução."
   }
  ]
 }

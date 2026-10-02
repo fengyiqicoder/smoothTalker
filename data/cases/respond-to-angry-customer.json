@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -211,6 +211,13 @@
    "reply": "Dear Mr Torres,\nOn Saturday Leo was left alone in the lobby when the class ended early, and nobody phoned you. That broke our own rule that every child is handed to a named adult, and I'm sorry. From this week, if a class ends early we phone every parent and a coach stays with the children until each one is collected. I've refunded Saturday's $22 lesson, and I'd like to offer Leo a free make-up lesson at a time that suits you. I'm Mia, the owner, and you can reach me directly on 555-0147.\nMia",
    "lang": "en",
    "note": "When a child's safety is involved, own the broken rule plainly and lead with the change, not the make-good."
+  },
+  {
+   "id": "respond-to-angry-customer-031",
+   "situation": "我叫阿梅，在大理开一家6间房的小民宿，我就住在店里。晚上11点，2号房的刘先生在微信上发火，说热水器坏了，带着70多岁的父母洗不了澡，问我“这是什么破店”。热水器今晚修不了；3号房空着、热水正常，我可以现在帮他们换过去，明早8点师傅来修，今晚的房费我退给他。",
+   "reply": "刘先生，带着70多岁的父母，晚上11点洗不了热水澡，换谁都着急，这是我们设备没保障好，对不起。3号房空着，热水是好的，我现在就过来帮您和叔叔阿姨把行李搬过去。今晚的房费我退给您，2号房的热水器明早8点师傅来修。我是店主阿梅，今晚有任何事直接微信找我。",
+   "lang": "zh",
+   "note": "客人还住在店里时，速度比措辞重要：先给今晚就能用上的办法，再说退款和维修时间。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -211,6 +211,13 @@
    "reply": "Lily您好，谢谢您告诉我们，东西不见了确实让人着急。我们非常重视，已经私下联系您，正在核实当天的情况。如果您决定报警，我们会全力配合，并提供当天的上门记录。有任何问题，请直接打我的电话138 0000 3721。净小家 小周",
    "lang": "zh",
    "note": "没查清之前，公开回复既不认定员工偷窃，也不反驳顾客，只写在做什么，细节私下处理。"
+  },
+  {
+   "id": "respond-to-negative-review-031",
+   "situation": "I'm Priya Nair and I sell an online spreadsheet course for small business owners. A 2-star review on the course page from 'Tom H.' says the course is 'out of date, the menus look nothing like the current version'. That's true for modules 1 and 2, recorded in 2023; I re-recorded modules 3 and 4 in September, and new versions of modules 1 and 2 will be up by 15 November, free for everyone enrolled. My email is priya@example.com.",
+   "reply": "Thank you, Tom, for pointing this out. You're right: modules 1 and 2 were recorded in 2023 and the menus have changed since, which makes them harder to follow than they should be. Modules 3 and 4 were re-recorded in September, and new versions of modules 1 and 2 will be up by 15 November, free for everyone already enrolled. If anything else tripped you up, I'd like to hear it at priya@example.com. Priya Nair",
+   "lang": "en",
+   "note": "For a digital product, the update date is the fix other readers need; state it once and keep any refund or extra in private."
   }
  ]
 }

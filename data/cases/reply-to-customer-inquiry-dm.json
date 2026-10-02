@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -211,6 +211,13 @@
    "reply": "Hi Mia! Thanks for asking first. We only tattoo people who are 18 or over with photo ID, even with a parent there, so I can't book you in yet. A small wrist moon like that is $90, and I can save your design idea for when you turn 18. Want me to?",
    "lang": "en",
    "note": "Answer the real question first, even when it's a no, and never sell around your own age policy."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-031",
+   "situation": "I sell refurbished film cameras on Instagram from my studio in Austin. The Canon AE-1 is $260 with a 90-day warranty, and payment only goes through the card checkout on my shop, never gift cards or crypto; local buyers can also pick up and pay at the studio on Saturdays, 10 to 2, and I'm happy to hold a camera until Saturday for them. Leo DMed: 'is this legit? got scammed on insta last month, lost $150'.",
+   "reply": "Hi Leo, totally fair question after that, and sorry it happened to you. Yes, the AE-1 is $260 with a 90-day warranty, and payment only ever goes through the card checkout on my shop, never gift cards or crypto. If you're near Austin, you're welcome to come by the studio on a Saturday between 10 and 2, see it in person and pay then. Want me to put it aside for you this Saturday?",
+   "lang": "en",
+   "note": "When trust is the question, answer with checkable facts and an in-person option, not reassurance."
   }
  ]
 }

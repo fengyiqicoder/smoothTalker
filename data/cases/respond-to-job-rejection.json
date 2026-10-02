@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-job-rejection",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "respond-to-job-rejection-001",
@@ -210,6 +210,13 @@
    "reply": "Hi Sophie, thanks for letting me know, and understood on the senior role. I really enjoyed the design critique with your team, so I'm glad you thought of me for the mid-level one. I'd be happy to hear more: could we have a short call next week where you walk me through the scope and the pay band? Thanks again.",
    "lang": "en",
    "note": "Accept the no in one line, then treat the other role as a fresh conversation: ask for scope and pay before committing to anything."
+  },
+  {
+   "id": "respond-to-job-rejection-031",
+   "situation": "Ich heiße Miriam und habe beim Vorsingen für den Kammerchor Vox Nova gesungen; das gemeinsame Einsingen mit der Gruppe hat mir sehr gefallen. Die Chorleiterin, Frau Keller, schreibt, dass es diesmal nicht geklappt hat, weil der Alt voll besetzt ist, und dass das nächste Vorsingen im März ist. Da will ich unbedingt wieder antreten.",
+   "reply": "Liebe Frau Keller, vielen Dank für Ihre Nachricht und für das Einsingen mit der Gruppe, das hat mir richtig Freude gemacht. Ich verstehe, dass der Alt gerade voll besetzt ist. Eine kurze Frage, nur wenn Sie eine Minute haben: Gibt es eine Sache, an der ich bis zum Vorsingen im März arbeiten sollte? Ein Satz genügt, und wenn Sie dazu nichts sagen möchten, ist das völlig in Ordnung. Viele Grüße, Miriam",
+   "lang": "de",
+   "note": "Absage nach einem Vorsingen: für etwas Konkretes danken, den Grund nicht anzweifeln und genau eine kleine Frage für das nächste Mal stellen."
   }
  ]
 }

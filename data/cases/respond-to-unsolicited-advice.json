@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -211,6 +211,13 @@
    "reply": "周总，谢谢您替我操心，我知道您是好意。产品图我拍得挺开心的，会一直做这个方向。下个月那批秋冬新品，您定好日子跟我说一声，我先把档期留出来。",
    "lang": "zh",
    "note": "对客户用阶梯里的低档：立场说一次，不解释收入，马上回到合作上；他再提，就重复同一句。"
+  },
+  {
+   "id": "respond-to-unsolicited-advice-031",
+   "situation": "I'm 17 and applying to art school, which my parents fully support. Every time I visit, my grandpa Walter tells me I should do engineering 'so you have a real job', even though he's the one who taught me to draw when I was little. I'm visiting him on Sunday and want to text him first.",
+   "reply": "Grandpa, I know you want me to have a steady future, and I love that you worry about me. I've decided on art school, and Mum and Dad are behind me. You're the one who taught me to draw, so it's partly your fault! Can I bring my portfolio on Sunday to show you?",
+   "lang": "en",
+   "note": "Name the decision once, warmly, and give him a way to be part of it instead of a debate about careers."
   }
  ]
 }

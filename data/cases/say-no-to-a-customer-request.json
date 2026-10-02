@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -211,6 +211,13 @@
    "reply": "Thanks, Sam, it's great having you work from here. We don't reserve tables during the day, and the big table is where groups sit at lunch, so I can't hold it 9 to 5. You and your colleagues are welcome at it any morning until 11:30, and the three window seats by the sockets are free all day.",
    "lang": "en",
    "note": "The reason is the lunch groups, not 'policy', and the alternative covers most of his day without promising a reservation."
+  },
+  {
+   "id": "say-no-to-a-customer-request-031",
+   "situation": "Ich bin Goldschmiedin in Hamburg. Frau Brandt hat auf Instagram den Verlobungsring gesehen, den ich für ein anderes Paar gemacht habe, und möchte eine genaue Kopie. Jedem Paar verspreche ich ein Einzelstück, aber ich kann ihr einen Ring im selben Stil entwerfen, mit gewellter Fassung und Saphir, und ein kostenloses Entwurfsgespräch von 30 Minuten am Dienstag, 6. Oktober, oder Donnerstag, 8. Oktober, anbieten.",
+   "reply": "Liebe Frau Brandt, vielen Dank, dass Ihnen der Ring so gut gefällt. Eine genaue Kopie fertige ich nicht an: Jedem Paar, das bei mir einen Ring in Auftrag gibt, verspreche ich ein Einzelstück, und dieses Versprechen gilt auch für die beiden. Gern entwerfe ich mit Ihnen einen Ring im selben Stil, mit gewellter Fassung und Saphir, aber mit Details, die nur zu Ihnen gehören. Für ein kostenloses Entwurfsgespräch von 30 Minuten hätte ich Dienstag, den 6. Oktober, oder Donnerstag, den 8. Oktober. Welcher Tag passt Ihnen?",
+   "lang": "de",
+   "note": "Der Grund ist das Versprechen an andere Kunden, nicht eine Regel; die Alternative gibt ihr den Stil, den sie eigentlich will."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "thank-you-notes",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "thank-you-notes-001",
@@ -204,6 +204,13 @@
    "reply": "Dear Professor Brandt, I wanted to thank you for the 11 pages of comments you wrote on my chapter 3 in June. I'll admit they stung at first, and they were exactly what the argument needed. I rewrote it from the ground up, and yesterday the Tidewater Review accepted it as an article. Thank you for giving up a weekend to be that honest with me. I hope December brings a wonderful start to your retirement. With gratitude, Daniel",
    "lang": "en",
    "note": "Thanks for tough feedback: name what it cost them, admit the sting in one clause, and show what it turned into."
+  },
+  {
+   "id": "thank-you-notes-030",
+   "situation": "去年6月我失业，好朋友小敏二话没说借了我两万块，没要利息，一年多也从没催过，那段时间我就靠这笔钱交房租、安心找工作。今天我把最后5000转给她，两万全部还清了。她下个月过生日，一直想去吃的那家火锅我想请她。",
+   "reply": "小敏，最后5000刚转过去了，两万块全部还清。去年6月我刚失业的时候，你二话没说就借给我，一年多从来没催过一句。那段时间我能交上房租、安心找工作，全靠你这份信任。下个月你生日，你一直想去的那家火锅我请，这次一定让我来。",
+   "lang": "zh",
+   "note": "还钱时的感谢说清这笔钱帮你撑过了什么，比反复说“不好意思”更让对方舒服。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -204,6 +204,13 @@
    "reply": "Hi, yesterday I deposited a cheque for $1,850 from Paul Grady, the father of a new piano student I've only dealt with by email. It was meant to cover ten lessons at $85, so it's $1,000 too much, and he's now asking me to send the difference today by bank transfer to his assistant. I haven't sent anything. Could you check whether the cheque is genuine and tell me when it has truly cleared, since the app already shows the money as available?",
    "lang": "en",
    "note": "'Available' can appear before a cheque has really cleared: send none of it on, stop replying to Paul and report the emails as fraud; if money has already gone, call the bank and the police straight away."
+  },
+  {
+   "id": "suspicious-or-scam-message-030",
+   "situation": "I lead a six-person marketing team. This morning our copywriter Ines Duarte's work email sent all of us a 'Q4 bonus review' link asking us to sign in to view it. IT has confirmed her account was compromised and asked me to warn the team in our Slack channel; Ines is on a flight until 6pm.",
+   "reply": "Heads up, team: the 'Q4 bonus review' email from Ines this morning didn't come from her. Her account was compromised, and IT has confirmed it. Please don't open the link or sign in. If you already did, change your password now and tell IT straight away, no blame at all. Ines is on a flight until 6pm, so no need to message her about it.",
+   "lang": "en",
+   "note": "Warn in a channel the team already trusts, make owning up blame-free, and forward the email to IT's phishing report route before deleting it."
   }
  ]
 }

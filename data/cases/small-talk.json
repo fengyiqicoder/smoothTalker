@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "small-talk-001",
@@ -211,6 +211,13 @@
    "reply": "Dona Célia, esse bolo de fubá está uma delícia, é receita de família? Eu entrei faz só duas semanas e ainda estou meio perdida por aqui. Vinte anos de coral, hein: como a senhora começou?",
    "lang": "pt",
    "note": "Comece pelo que está na mesa e deixe a próxima pergunta sair da resposta dela."
+  },
+  {
+   "id": "small-talk-031",
+   "situation": "Last month I asked my neighbour Frank to cut back his hedge because it was blocking our shared path. He did it within a week, but since then we just nod stiffly at each other. He's out most Saturday mornings polishing his old green convertible, and I'd like to break the ice this Saturday.",
+   "reply": "Morning, Frank! The path's been so much easier since you cut the hedge back, thank you. Is that convertible as much work as it looks, or is the Saturday polish the fun part?",
+   "lang": "en",
+   "note": "Thank him once for the hedge, then move straight to the thing he cares about; the thread to follow is the car, not the disagreement."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -211,6 +211,13 @@
    "reply": "Priya, you should have heard this from me, not from Ellie's post, and I'm sorry it went that way: Tom and I got engaged on Saturday! I was saving it for a proper call this weekend because of the time difference, and Facebook got there first. I'm so happy and I want to tell you all of it. Can I call you tomorrow, at whatever time suits you?",
    "lang": "en",
    "note": "When the order breaks, own it in one line and still give the closest person her own moment: a call, not a reply in the comments."
+  },
+  {
+   "id": "share-personal-news-031",
+   "situation": "我第二次考研还是没过，差了8分。这一年爸妈每个月给我2000元生活费，支持我在家备考。成绩出来后我想了很久，决定不再考了，下个月开始找运营方面的工作。想先给爸妈发微信，不想他们劝我再考一年。",
+   "reply": "爸、妈，想先跟你们说件事：第二次考研还是没过，差了8分。我挺难受的，但已经想清楚了，不再考了，下个月开始找运营方面的工作。这一年你们每个月给我2000块生活费撑着我，我都记着。不用劝我再考一年，我更希望你们支持我这个决定。周末我打电话跟你们细说。",
+   "lang": "zh",
+   "note": "坏消息和决定一起说：结果放第一句，一句感受，一句接下来做什么，再明说希望他们怎么回应。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -211,6 +211,13 @@
    "reply": "阿远，这件事本该当面说，但我不想等到你25号回来，所以现在告诉你：我想分手。我想得很清楚，这是我自己的决定，不是你做错了什么。我会在20号前搬到我姐家，10月和11月我那一半房租照付，之后的租约怎么处理，等你回来我们再商量。出差注意身体。",
    "lang": "zh",
    "note": "同居分手，消息里就把搬家和房租说清楚，对方不用猜接下来怎么办；租约后续按合同和房东一起处理。"
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-031",
+   "situation": "I broke up with Ethan ten days ago after two years. Tonight he texted 'I don't see the point of anything without you.' I'm not getting back together, but I'm scared he might hurt himself; his brother Ryan is close to him and I have Ryan's number.",
+   "reply": "Ethan, I'm worried about you after that message. My answer about us hasn't changed, and I still care whether you're safe. If you're thinking about hurting yourself, please call emergency services or a crisis line right now. I'm going to text Ryan so you're not on your own tonight.",
+   "lang": "en",
+   "note": "If he says he's in danger or stops replying, call emergency services yourself; caring about his safety doesn't mean reopening the relationship."
   }
  ]
 }

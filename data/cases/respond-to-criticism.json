@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-criticism",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "respond-to-criticism-001",
@@ -211,6 +211,13 @@
    "reply": "谢谢指出来。引用格式确实是我的问题，我混用了两种，今晚就统一成老师要求的格式。“凑字数”这点我看法不太一样，3000字是按老师的要求写的，我觉得内容不算凑数。不过你要是觉得哪几段可以删或者需要加强，能具体指一下吗？我私聊你，免得刷屏。",
    "lang": "zh",
    "note": "群里被公开批评：先认下对的部分并给出时间，不同意的部分平静说一句，具体讨论转私聊。"
+  },
+  {
+   "id": "respond-to-criticism-031",
+   "situation": "My friend Tamsin sent me a voice note saying my replies in our friends' group chat feel dismissive: I react with a thumbs-up to everything, including when she shared that she got her PhD place last week. She's right about the PhD news. For plans and logistics I think a thumbs-up is fine, and I'd like to take her out for a celebration dinner.",
+   "reply": "Tamsin, thanks for telling me rather than letting it build up. You're right about your PhD news: a thumbs-up was a lazy reply to something that big, and I'm sorry. For plans and logistics I think the thumbs-up still does the job, but I can see how it reads when that's all I ever send. Can I take you out for a proper celebration dinner? Pick a night next week.",
+   "lang": "en",
+   "note": "Own the moment that mattered in full, keep your view on the small stuff to one clause, and give the big news the reply it deserved."
   }
  ]
 }

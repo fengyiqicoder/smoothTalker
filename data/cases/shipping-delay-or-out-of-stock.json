@@ -1,6 +1,6 @@
 {
  "playbook": "shipping-delay-or-out-of-stock",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "shipping-delay-or-out-of-stock-001",
@@ -211,6 +211,13 @@
    "reply": "Hi Ms Okafor, your repeat order #8840, the 2kg bag of renal diet cat food, won't ship tomorrow: the manufacturer has a production delay, and my next delivery is Monday 19 October. Three options: I send three 400g bags of the same food tomorrow, $30 with free shipping, to tide you over; you wait for the 2kg bag on the 19th; or I refund the $46 today. If I don't hear back, I'll hold your order for the 19th and charge nothing extra. I don't stock an equivalent food, so please check any change of diet with your vet first.\nHugo",
    "lang": "en",
    "note": "With food a pet depends on, offer a bridge from the same product and never suggest a substitute diet; that's the vet's call."
+  },
+  {
+   "id": "shipping-delay-or-out-of-stock-031",
+   "situation": "I'm Kofi and I sell hand-printed T-shirts online. I swapped the labels on two parcels, so Ana (order #6120, two kids' T-shirts) received another customer's order, with that customer's name and address on the packing slip, and she's just emailed me a photo. I can send Ana's order today by express to arrive Tuesday 6 October, refund her $10 for the trouble, arrange a free courier pickup of the other parcel on Monday 5 October, or refund her in full if she prefers.",
+   "reply": "Hi Ana, thank you for telling me, and I'm sorry: I swapped the labels on two parcels, so you received another customer's order instead of your order #6120. Your two kids' T-shirts go out today by express and will arrive on Tuesday 6 October, and I've refunded $10 for the trouble. Could you keep the other parcel aside, unworn, and not share the packing slip, as it has the other customer's details on it? A courier will collect it from you on Monday 5 October at no cost; if you'd rather have a full refund instead of the reship, just say so.\nKofi",
+   "lang": "en",
+   "note": "A mix-up exposes someone else's details: fix her order first, then ask once, plainly, for the other parcel and slip to stay private."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -211,6 +211,13 @@
    "reply": "小美，直播间挂的链接是玫瑰款，不是你正在讲的薰衣草款，评论区已经有人在问了，换一下就好。直播手忙脚乱太正常了，讲得很好，继续！",
    "lang": "zh",
    "note": "她马上就能改，所以要快、私下、一句话说清，别在评论区提醒。"
+  },
+  {
+   "id": "tell-someone-something-awkward-031",
+   "situation": "My mum, 78, has always been really particular about her clothes, but the last few times I've visited, her cardigans have had food stains down the front. Her eyesight has got worse since the spring and she's on the waiting list for a cataract operation. I'm seeing her on Sunday and want to mention it gently, once.",
+   "reply": "Mum, can I mention something small, just between us? There are a few marks down the front of that cardigan, and they're easy to miss in this light. Shall I pop it in the wash while I'm here, and have a quick look through the others with you?",
+   "lang": "en",
+   "note": "Leave her eyesight out of it unless she raises it; if you notice other everyday things slipping, suggest a GP visit together."
   }
  ]
 }

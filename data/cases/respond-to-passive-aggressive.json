@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -211,6 +211,13 @@
    "reply": "Ha, guilty! You said you wanted to pick your own trail shoes, and I didn't trust myself to get the right ones. If you'd like company in the shop, I'll come along and buy the coffee after. And good luck for the half marathon on the 18th!",
    "lang": "en",
    "note": "A dig about a gift gets a face-value answer with the honest reason in one line; no defence of how much thought went into it."
+  },
+  {
+   "id": "respond-to-passive-aggressive-031",
+   "situation": "My best friend Ruby lives in Melbourne and I'm in London. I started a new job three weeks ago and missed our last two video calls, and she just texted 'Don't worry, I know I'm not a priority anymore 🙂'. She's right to be hurt, and I'm free to call on Sunday morning my time, which is her Sunday evening.",
+   "reply": "That's fair, Ruby. I've missed our last two calls since starting the job, and I hate that it's left you feeling that way, because you're not. Text is making this harder than it needs to be. Can I call you this Sunday, my morning, your evening?",
+   "lang": "en",
+   "note": "Someone close with a real grievance inside the dig: own it in one line and move to a voice call rather than a long text."
   }
  ]
 }

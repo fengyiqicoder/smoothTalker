@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 29,
+ "count": 30,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -204,6 +204,13 @@
    "reply": "森様\nお問い合わせいただきありがとうございます。田中裕子と申します。小林健太さんは2022年4月から2026年3月まで、私の課で直属の部下として勤務していました。在庫管理を任せてからの1年で、棚卸差異を半分に減らしてくれました。懸念点についてのご質問ですが、2024年に発注ミスで約80万円の損失を出したことがあります。ただ、本人がすぐに自分から報告し、再発防止のチェックリストを作成して、それ以降同じミスは一度もありません。機会があれば、また一緒に働きたいと思っている人です。\n田中裕子",
    "lang": "ja",
    "note": "懸念点を聞かれたら、事実を一つ短く述べ、その後の対応とセットで伝える。元社員の照会に答える前に社内規定も確認する。"
+  },
+  {
+   "id": "write-a-recommendation-or-reference-030",
+   "situation": "Last Monday I agreed to be a referee for my old teammate Leo Marsh. Today he told me the role is Head of Engineering at Fernhollow Health, managing 20 engineers and a budget, with reference calls next week. I only worked with him for 8 months as a fellow mobile developer; his manager then, Priyanka Shah, saw him lead the offline-sync project, and I'm still in touch with her.",
+   "reply": "Leo, now I know it's Head of Engineering, I've thought again and I'm not the right referee for this one. I only saw you as a fellow mobile dev for 8 months, so I can't speak to leading 20 engineers or running a budget, and a thin reference could hurt you more than help. Priyanka saw you lead the offline-sync project and would be far stronger. Would you like me to message her and say I think she'd be a great referee for you? Sorry for changing my answer.",
+   "lang": "en",
+   "note": "Backing out early, privately, with a better referee in hand is kinder than a vague call next week."
   }
  ]
 }

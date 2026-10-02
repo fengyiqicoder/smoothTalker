@@ -4,91 +4,91 @@
  "cases": [
   {
    "id": "set-boundary-001",
-   "situation": "My manager Jordan messages me on the work chat on weekends with 'quick questions'. I want to stop answering until Monday without it hurting my review.",
+   "situation": "My manager Jordan messages me on the work chat on weekends with 'quick questions'. I want to stop answering until Monday without it hurting my review. A phone call for a real emergency is fine.",
    "reply": "Hi Jordan, I want to be useful when you need me, and I also want to protect my weekends so I'm sharp on Monday. From now on I'll be offline on the work chat on Saturdays and Sundays and I'll pick everything up first thing Monday. If something is truly urgent, call my phone and I'll answer.",
    "lang": "en",
    "note": "The boundary is what you will do, with a real channel for emergencies, so it reads as reliable rather than unavailable."
   },
   {
    "id": "set-boundary-002",
-   "situation": "每次家庭聚会，我大姨都当着所有人的面问我什么时候结婚、一个月挣多少。我28岁，想提前私下跟她说清楚。",
-   "reply": "大姨，我知道您是关心我。结婚和工资这两件事，我不打算在饭桌上聊，下次问起我就换个话题。别的事您想聊什么，我都陪您。",
+   "situation": "我妈每周六来我家帮忙，每次都把我的衣柜和厨房重新整理一遍，上周还扔了我囤的一些东西，我找了好几天。我很欢迎她每周来，但柜子和厨房我想自己管。以后她来，我想跟她一起去买菜做饭。",
+   "reply": "妈，您每周六过来我特别高兴，也知道您是想帮我。以后我的衣柜和厨房我自己收拾，东西放哪儿我自己定。您来了，咱们一起去买菜、做顿饭，好好聊聊天。",
    "lang": "zh",
-   "note": "说的是\"我会怎么做\"，不是\"您不许问\"；她再问时，就照说的换话题。"
+   "note": "说的是“我自己管”，不翻扔东西的旧账；她再动手整理，就笑着说一句“这个我自己来”，不加新理由。"
   },
   {
    "id": "set-boundary-003",
-   "situation": "Told my best friend I can't do 1am phone calls about her ex anymore and offered to call on weekends. She replied 'wow, I thought you were my best friend, after everything I've done for you.'",
+   "situation": "Told my best friend I can't do 1am phone calls about her ex anymore and offered to call her on Saturday mornings instead. She replied 'wow, I thought you were my best friend, after everything I've done for you.'",
    "reply": "I know you're upset, and I love you. I'm still here for you, just not at 1am. I'll call you Saturday morning.",
    "lang": "en",
    "note": "Pushback means repeat it shorter, with no new reasons. Then call on Saturday as promised."
   },
   {
    "id": "set-boundary-004",
-   "situation": "Ma petite sœur Léa me demande de l'argent pour la troisième fois cette année, cette fois 400 euros pour son loyer. Je l'aime mais je ne veux plus prêter, les deux premières fois ne sont jamais revenues.",
+   "situation": "Ma petite sœur Léa me demande de l'argent pour la troisième fois cette année, cette fois 400 euros pour son loyer. Je l'aime mais je ne veux plus prêter, les deux premières fois ne sont jamais revenues. Je suis prête à regarder son budget avec elle ce week-end.",
    "reply": "Léa, je t'aime et je veux t'aider, vraiment. Mais je ne prête plus d'argent, à personne, c'est une décision ferme de mon côté. Par contre, si tu veux, on regarde ton budget ensemble ce week-end et on cherche ce qui peut se débloquer pour le loyer.",
    "lang": "fr",
    "note": "Pas de reproche sur les deux prêts précédents : la limite porte sur ce que tu fais, et l'aide proposée est réelle. Si elle insiste, répète la même phrase, plus courte."
   },
   {
    "id": "set-boundary-005",
-   "situation": "My mother-in-law, Linda, has a spare key and lets herself into our house 'just to drop things off', sometimes while we're still in bed. My husband agrees it has to stop. I want to text her kindly.",
+   "situation": "My mother-in-law, Linda, has a spare key and lets herself into our house 'just to drop things off', sometimes while we're still in bed. My husband agrees it has to stop. From now on we'll keep the door latched from the inside when we're home; she can text first or leave things on the porch bench, and she stays our emergency key holder. I want to text her kindly.",
    "reply": "Hi Linda, we love having you close by. From now on we're going to keep the door latched from the inside when we're home, so the key won't open it. Text before you come over and we'll let you in, or leave things on the porch bench. You're still our emergency key holder.",
    "lang": "en",
    "note": "The boundary is what you will do with the door, not a rule for her. If she pushes back, repeat the same line shorter: text first and we'll open up."
   },
   {
    "id": "set-boundary-006",
-   "situation": "我是儿科医生。表嫂经常半夜在微信上发孩子的照片问我该吃什么药，这周已经问了三次。我想以后不在微信上看病了，但不想得罪亲戚。",
+   "situation": "我是儿科医生。表嫂经常半夜在微信上发孩子的照片问我该吃什么药，这周已经问了三次。我想以后不在微信上看病了，但不想得罪亲戚。不知道去哪家医院、挂哪个号，我还是愿意帮她推荐。",
    "reply": "嫂子，孩子有事你第一个想到问我，我挺高兴的。想跟你说一下，以后我不在微信上看病了，隔着照片看不准，万一耽误了孩子我心里过不去。孩子不舒服就直接去医院挂儿科，如果不知道去哪家、挂哪个号，你随时问我，我帮你推荐。",
    "lang": "zh",
    "note": "边界说的是“我不在微信上看病”，是自己的做法，不是要求她别问；再问时重复同一句，不加新理由。"
   },
   {
    "id": "set-boundary-007",
-   "situation": "My boyfriend Josh and I moved in together in August. He wants to do something together every single evening and I'm running on empty; I need some nights alone. Nothing is wrong between us.",
+   "situation": "My boyfriend Josh and I moved in together in August. He wants to do something together every single evening and I'm running on empty; I want to keep Mondays and Wednesdays for myself. Nothing is wrong between us.",
    "reply": "I love living with you, and I want to keep loving it. I need a couple of evenings a week that are just mine, because that's how I recharge, not because anything's wrong. I'm going to keep Mondays and Wednesdays for myself, and the other nights I'm all yours.",
    "lang": "en",
    "note": "State it as what you will do, with one reason; if he pushes, repeat the same sentence rather than adding new ones."
   },
   {
    "id": "set-boundary-008",
-   "situation": "My dad keeps posting photos of my kids, 4 and 7, on his public social media profile, sometimes with their school uniform showing. He gets them from the photos I share in our family group chat. I've mentioned it twice casually and nothing changed. I want to say it properly.",
+   "situation": "My dad keeps posting photos of my kids, 4 and 7, on his public social media profile, sometimes with their school uniform showing. He gets them from the photos I share in our family group chat. I've mentioned it twice casually and nothing changed. We've decided we don't want their photos online, so I'll stop posting them in the group and send them to him directly. I want him to take down the ones already up.",
    "reply": "Dad, I love how proud you are of the kids, and I know the photos come from a good place. We've decided we don't want their pictures online, especially with the school visible. So I'm going to stop posting photos in the family group and send them to you directly, just for you. Could you take down the ones that are up now? Show them off on your phone as much as you like.",
    "lang": "en",
    "note": "The rule is about what you'll do with the photos, and there's one concrete ask. If he pushes back, repeat the same line shorter, with no new reasons."
   },
   {
    "id": "set-boundary-009",
-   "situation": "表弟在北京实习，这半年已经来我家住了三次，每次一住就是一个多星期。我家一室一厅，我和女朋友住，很不方便。他说下个月还要来。我想以后不留他在家住了，但不想伤感情。",
+   "situation": "表弟小凯在北京实习，这半年已经来我家住了三次，每次一住就是一个多星期。我家一室一厅，我和女朋友住，很不方便。他说下个月还要来。我想以后不留他过夜，可以帮他在附近找家快捷酒店，第一天请他吃烤鸭。",
    "reply": "小凯，你来北京我挺高兴的，吃饭逛街随时叫我。跟你说一声，以后我这儿不留人过夜了，一室一厅两个人住已经挺挤。你下个月来，我帮你在我家附近找家快捷酒店，第一天晚上我请你吃烤鸭。",
    "lang": "zh",
    "note": "说成自己的规矩（不留人过夜），而不是说他添麻烦；他再磨，就把同一句话缩短了再说一遍。"
   },
   {
    "id": "set-boundary-010",
-   "situation": "Two weeks ago I told my mom I'm not hosting Christmas this year, after doing it five years running. Now my brother Mark has texted: 'Mom's really hurt, would it kill you to host one more time?'",
+   "situation": "Two weeks ago I told my mom I'm not hosting Christmas this year, after doing it five years running. Now my brother Mark has texted: 'Mom's really hurt, would it kill you to host one more time?' I'll still be there all day wherever it's held, bring dessert and help plan the menu.",
    "reply": "I get that you're caught in the middle, Mark, and I know Mom's upset. I'm not hosting this year, and that part isn't changing. I'll be there all day wherever it ends up, and I'll bring dessert and help plan the menu.",
    "lang": "en",
    "note": "When others are recruited to push, repeat the same boundary with no new reasons, stay warm, and don't reopen it to win anyone back."
   },
   {
    "id": "set-boundary-011",
-   "situation": "我今年刚退休。女儿女婿都上班，想让我从下个月开始周一到周五全天去她家带两岁的外孙小满。我愿意帮忙，但天天全天带实在吃不消，我还报了老年大学的书法课。",
+   "situation": "我今年刚退休。女儿女婿都上班，想让我从下个月开始周一到周五全天去她家带两岁的外孙小满。我愿意帮忙，但天天全天带实在吃不消，我还报了老年大学周二周四的书法课。我能每周一、三、五白天带，周末也可以送来，周二周四可以一起看看托班或钟点工。",
    "reply": "闺女，我特别愿意帮你们带小满，能看着他长大我也高兴。不过周一到周五全天我身体顶不住，周二周四我还有书法课。我能做的是每周一、三、五白天过来带他，周末你们想出去也可以送来。周二周四怎么安排，咱们一起看看托班或者钟点工。",
    "lang": "zh",
    "note": "边界说成“我能做什么”，理由一句就够；她再劝，就重复“一三五我来”，不要加新理由。"
   },
   {
    "id": "set-boundary-012",
-   "situation": "A senior colleague, Greg, greets me with a hug most mornings and sometimes puts his hand on my shoulder in meetings. It feels friendly, not creepy, but I don't like being touched at work. I want to say something that sticks without making it a big deal.",
+   "situation": "A senior colleague, Greg, greets me with a hug most mornings and sometimes puts his hand on my shoulder in meetings. It feels friendly, not creepy, but I don't like being touched at work. I want to say something that sticks without making it a big deal; a wave or a handshake is fine with me.",
    "reply": "Greg, I like working with you and I don't want this to be awkward. I'm not a hugger at work, so from now on I'll stick to a wave or a handshake. The morning hellos are still very much on.",
    "lang": "en",
    "note": "Say it once, lightly, and step back if a hug comes anyway. If it keeps happening after you've said it, take it to your manager or HR."
   },
   {
    "id": "set-boundary-013",
-   "situation": "My ex-husband Dan and I share custody of our daughter Mia, who's 9. Lately he texts me late at night about his new job, his dating life and 'how we used to be'. I want to stay friendly for Mia's sake but only talk about her.",
+   "situation": "My ex-husband Dan and I share custody of our daughter Mia, who's 9. Lately he texts me late at night about his new job, his dating life and 'how we used to be'. I want to stay friendly for Mia's sake but only reply about her: school, pickups, health and plans, and he can call any time if something about her is urgent.",
    "reply": "Dan, I think we co-parent Mia well, and I want to keep it that way. From now on I'm going to keep our messages to Mia: school, pickups, health and plans. I'll answer those promptly, and anything else I'll leave unanswered. If something about Mia is urgent, call me any time.",
    "lang": "en",
    "note": "The boundary is what you will reply to, not a rule for him. If he pushes, repeat it shorter: I'll keep it to Mia."
@@ -102,7 +102,7 @@
   },
   {
    "id": "set-boundary-015",
-   "situation": "Minha amiga Carla sempre chega uns 40 minutos atrasada, e às vezes desmarca meia hora antes. No último sábado fiquei sozinha no restaurante esperando por 50 minutos. Gosto muito dela e quero continuar saindo com ela.",
+   "situation": "Minha amiga Carla sempre chega uns 40 minutos atrasada, e às vezes desmarca meia hora antes. No último sábado fiquei sozinha no restaurante esperando por 50 minutos. Gosto muito dela e quero continuar saindo com ela. Decidi que, se ela atrasar mais de 20 minutos sem avisar, eu peço e começo sem ela, ou vou embora.",
    "reply": "Carla, eu adoro nossos encontros e quero continuar tendo eles. Daqui pra frente, se você atrasar mais de 20 minutos sem avisar, eu vou pedir e começar sem você, ou vou embora, sem drama nenhum. Se o dia estiver corrido, é só me avisar e a gente remarca.",
    "lang": "pt",
    "note": "O limite é o que você vai fazer, não uma cobrança sobre os atrasos. Se ela reclamar, repita a mesma frase, mais curta."
@@ -130,7 +130,7 @@
   },
   {
    "id": "set-boundary-019",
-   "situation": "大学同学小林做保健品代理半年了，每周都私信给我推产品，上周又把我拉进了她的卖货群。我之前买过一次398元的，其实我本来就不吃保健品，以后不想再买了，但还想跟她做朋友。",
+   "situation": "大学同学小林做保健品代理半年了，每周都私信给我推产品，上周又把我拉进了她的卖货群。我之前买过一次398元的，其实我本来就不吃保健品，以后不想再买了，但还想跟她做朋友，周末约她吃饭。那个卖货群我打算退了。",
    "reply": "小林，看你做得这么拼，挺佩服的。跟你说一声：保健品我以后就不买了，我本来也不吃这类东西，那个群我也先退了哈。你这个朋友我是一直要的，找个周末一起吃饭吧？",
    "lang": "zh",
    "note": "她再推产品时，只重复一句“保健品我不买，吃饭随时约”，不加新理由。"
@@ -144,7 +144,7 @@
   },
   {
    "id": "set-boundary-021",
-   "situation": "我正在办离婚，家里只告诉了我姐。结果她转头就跟我妈和小姨都说了，上周末小姨打电话来问我房子怎么分。我姐是我最亲的人，我不想跟她闹翻，但以后这件事告诉谁、说多少，我想自己决定。",
+   "situation": "我正在办离婚，家里只告诉了我姐。结果她转头就跟我妈和小姨都说了，上周末小姨打电话来问我房子怎么分。我姐是我最亲的人，我不想跟她闹翻，但以后这件事告诉谁、说多少，我想自己决定，亲戚那边我自己去说。",
    "reply": "姐，这段时间你一直陪着我，我心里特别感激。离婚的事以后告诉谁、说多少，我想自己来决定，所以亲戚那边我会自己去说。有人问你，你就说让他们直接来问我。有什么进展，你还是我第一个打电话的人。",
    "lang": "zh",
    "note": "边界说的是自己以后怎么做，不翻她转述的旧账；她说“我是为你好”，就把同一句话缩短了再说一遍。"
@@ -186,10 +186,10 @@
   },
   {
    "id": "set-boundary-027",
-   "situation": "My brother-in-law Greg starts arguments about politics at every family dinner, and they've been getting heated. I've decided I'm not debating politics with him anymore: if it starts, I'll go and help in the kitchen or take the kids outside. I want to text him before Thanksgiving.",
-   "reply": "Greg, I like having you at family dinners and I want them to stay good for all of us. I'm not going to talk politics at the table anymore, with you or anyone, so if it comes up I'll head to the kitchen or take the kids outside. Anything else, I'm happy to chat. See you at Thanksgiving.",
+   "situation": "My family WhatsApp group (my parents, my two sisters and their partners) sends 80 or more messages a day, and my sister Kate gets annoyed when I don't reply fast. I'm a nurse on 12-hour shifts. From now on I'm muting the group on shift days and catching up in the evening; if something's urgent, they can call me.",
+   "reply": "Love you all, and keep the photos coming. Quick heads-up: I'm going to mute this chat on my shift days and catch up in the evening, so don't worry if I'm quiet. If something's urgent, call me.",
    "lang": "en",
-   "note": "The boundary is what you'll do when it starts, not a verdict on his views; if he pushes, repeat it shorter and step away as promised."
+   "note": "In a group, say it once, lightly and to everyone; if Kate presses about a slow reply, repeat it shorter in a private message."
   },
   {
    "id": "set-boundary-028",

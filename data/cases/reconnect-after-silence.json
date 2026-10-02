@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -211,6 +211,13 @@
    "reply": "Hi Hollie, it's been about seven years, which is wild. This is Alex; you'll remember me as Alexandra from school, and I go by Alex these days. I just found the mixtape CD you burned me for my 16th birthday and thought of you straight away. How are you doing? No rush to reply, I just wanted to say hello.",
    "lang": "en",
    "note": "When your name has changed, say both names once, plainly, so they can place you; no need to explain more unless they ask."
+  },
+  {
+   "id": "reconnect-after-silence-031",
+   "situation": "我叫周敏，是好朋友儿子乐天的干妈。乐天今年19岁，刚上大学读工科；他小时候跟我很亲，我在我家楼下教会他骑自行车。他12岁那年全家搬去广州后，我们只是过年通过他妈妈互相问好，已经七年没直接联系过了。他妈妈刚把他的微信推给我，说他会很高兴。",
+   "reply": "乐天，我是周敏干妈，你妈妈把你微信推给我的。一晃七年没直接聊过了，可我一想起你，还是你在我家楼下歪歪扭扭骑自行车的样子。听说你开始读工科了，开学这几周感觉怎么样？不着急回，就是想好好跟你打个招呼。",
+   "lang": "zh",
+   "note": "跟长大了的晚辈重新联系，先说明自己是谁、怎么拿到联系方式，再问一个容易回答的问题。"
   }
  ]
 }

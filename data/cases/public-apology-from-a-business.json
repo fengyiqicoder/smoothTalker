@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -211,6 +211,13 @@
    "reply": "Subject: A problem with our order-tracking page, and what we've done\nHi,\nFrom 21 September until yesterday, a fault in our order-tracking page meant that anyone who changed the number in a tracking link could see other customers' names, delivery addresses and phone numbers. About 2,600 orders could be viewed this way, and yours was one of them. No payment details or passwords were on that page. I'm sorry. A customer reported it to us yesterday and we fixed it within the hour; the tracking page now asks for the email address used on the order. Please be wary of texts or calls claiming to be from Fernleaf that ask for payment, and if one feels off, check with me at sam@example.com first.\nSam Okoro, founder, Fernleaf",
    "lang": "en",
    "note": "Check your legal notification duties in every region you sell to before sending; say exactly what was and wasn't exposed, and give the one precaution that matters."
+  },
+  {
+   "id": "public-apology-from-a-business-031",
+   "situation": "我们是两人小团队“微光工作室”，去年在众筹平台上众筹一款木制台灯，承诺今年6月发货，共1260位支持者。因为低估了模具开发，到现在还没发货，7月之后也一直没更新进度，评论区很多人在骂。现在模具已经通过，11月20日前能全部发出；不想等的支持者10月31日前私信申请可全额退款；以后每月15日发一次进度更新。我是创始人何川。",
+   "reply": "各位支持者，我是微光工作室的何川。我们承诺6月发货的木制台灯到今天还没有发出，而且7月以后一直没有更新进度，这两件事都是我们的错，对不起。延误的原因是我们低估了模具开发；现在模具已经通过，1260台会在11月20日前全部发出。不想再等的朋友，10月31日前私信我们申请，全额退款。从这个月起，每月15日我们都会发一次进度更新，有任何问题可以直接私信我。",
+   "lang": "zh",
+   "note": "众筹延期要连“沉默不更新”一起认，并给出能兑现的固定更新日期。"
   }
  ]
 }

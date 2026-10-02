@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -211,6 +211,13 @@
    "reply": "您好，10月12日至11月27日，我每天上午9点到12点上班，下午不查看邮件，下午收到的邮件我会在下一个工作日上午处理。下午如有急事，请联系何蕾（helei@example.com）。11月30日（周一）起恢复全天办公。谢谢！",
    "lang": "zh",
    "note": "阶段性半天上班：写清哪段时间在、什么时候回复、急事找谁，以及哪天恢复，原因不用写。"
+  },
+  {
+   "id": "out-of-office-and-away-messages-031",
+   "situation": "I'm Zoe and I sell my pottery through Instagram, about 40k followers. I'm taking a break from Instagram from Monday 12 October to Sunday 8 November and won't open DMs at all. My online shop stays open and my assistant Kit ships orders every Wednesday; brand and collab inquiries can go to zoe.studio@example.com, which I'll check on Mondays.",
+   "reply": "Hi! I'm taking a break from Instagram until Sunday 8 November and won't see DMs before then. The online shop is open as usual and orders ship every Wednesday. For collabs or brand work, email zoe.studio@example.com, which I check on Mondays. Talk soon, Zoe",
+   "lang": "en",
+   "note": "A creator's away message still answers the two real questions: can I buy, and where do business inquiries go."
   }
  ]
 }

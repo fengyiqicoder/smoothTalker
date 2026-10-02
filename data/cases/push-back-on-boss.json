@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -211,6 +211,13 @@
    "reply": "Elena, me parece muy buena idea atender a los clientes por WhatsApp, seguro que nos ayuda a vender más. Lo que no me encaja es hacerlo desde mi móvil personal y fuera de mi horario: mi número acabaría en manos de todos los clientes y no podría desconectar por las tardes. Dos opciones: usamos la tablet de la tienda con un número propio, yo contesto de 10 a 18 h y fuera de ese horario sale un mensaje automático diciendo que respondemos a la mañana siguiente; o, si quieres cubrir las tardes, la tablet se la lleva cada semana una persona del equipo, por turnos. Te recomiendo la primera. ¿Cuál prefieres?",
    "lang": "es",
    "note": "Sí a la tarea, no al móvil personal ni a estar localizable sin horario: propón el medio de la empresa y deja que ella elija."
+  },
+  {
+   "id": "push-back-on-boss-031",
+   "situation": "I'm the analyst who built the numbers for Monday's board meeting. My boss Carla wants the Q3 slide to say customer churn fell to 3%. That's only true if we leave out the 41 accounts that downgraded to the free plan; counting them, churn is 5.2%.",
+   "reply": "Carla, I want Monday's churn slide to land well too. The 3% only holds if we leave out the 41 accounts that downgraded to free; with them it's 5.2%, and if a board member asks how we define churn, the gap will be hard to explain in the room. Two options: show 5.2% with paid-plan churn of 3% beside it and a one-line definition, or show 3% clearly labelled as paid cancellations, with the 41 downgrades listed underneath. I'd go with the first. Which would you prefer?",
+   "lang": "en",
+   "note": "Both options are honest; the pushback is about the label, not the boss's goal, so keep the exchange in writing."
   }
  ]
 }

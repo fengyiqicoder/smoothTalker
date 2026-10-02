@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 30,
+ "count": 31,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -211,6 +211,13 @@
    "reply": "Hi Marcus, I'll be direct: I'm applying for the senior QA manager role at Fernway, and I wondered if you'd be comfortable referring me. Please don't feel any obligation because I used to be your manager; if it's awkward for any reason, a simple no is completely fine and changes nothing between us. If you're up for it, here's a line you can paste: \"Karen Liu ran QA at Ashgrove for 12 years and managed me for four. She's applying for the senior QA manager role.\" I'll let you know how it goes either way.\nKaren",
    "lang": "en",
    "note": "Asking someone you used to manage: take the old hierarchy off the table explicitly, because the power gap makes no harder to say."
+  },
+  {
+   "id": "request-intro-or-referral-031",
+   "situation": "Sou o Lucas Almeida, fotógrafo de casamentos em Porto Alegre há seis anos. Minha prima Fernanda topou me apresentar à Juliana Costa, dona do espaço de eventos Quinta das Videiras, e pediu um e-mail curto que ela possa só encaminhar. Quero pedir 20 minutos para mostrar meu portfólio e saber se posso entrar na lista de fornecedores indicados.",
+   "reply": "Fernanda, muito obrigado por topar! Aqui vai o texto para você só encaminhar, pode mexer no que quiser:\n\n\"Juliana, quero te apresentar o Lucas Almeida, meu primo, que fotografa casamentos em Porto Alegre há seis anos. Ele adoraria 20 minutos com você para mostrar o portfólio e saber se faz sentido entrar na lista de fornecedores indicados da Quinta das Videiras. Se você topar, eu passo o contato dele.\"\n\nSe depois de ler você preferir não mandar, tudo certo, sem problema nenhum. Te conto como foi, de qualquer jeito.\nLucas",
+   "lang": "pt",
+   "note": "Quando a pessoa já disse sim, o trabalho é entregar o texto pronto para encaminhar, com um pedido pequeno, uma saída e a promessa de dar retorno."
   }
  ]
 }
