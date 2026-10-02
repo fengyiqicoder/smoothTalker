@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -218,6 +218,13 @@
    "reply": "Leo, can I give you some feedback on client calls? On the 14th and again on the 29th you agreed extra revision rounds for free, beyond the two in our contracts, and Harbor Dental ended up 11 hours over. That's time neither of us gets paid for. What's your read on it? Going forward, I'd like us to quote any extra round before saying yes, and I'm happy to draft a one-line answer we can both use on calls.",
    "lang": "en",
    "note": "A co-founder is a peer with equal say: ask, then listen, then agree the rule together."
+  },
+  {
+   "id": "give-feedback-to-colleague-032",
+   "situation": "チームリーダーをしています。メンバーの佐藤さんが、先週火曜と今週月曜の企画会議で、新人の出した案にすぐ「それは無理ですね、前にやって失敗したので」と返し、その後は誰も案を出さなくなりました。佐藤さんは経験豊富で頼りにしています。明日の1on1で伝えたいです。",
+   "reply": "佐藤さん、少しフィードバックをしてもいいですか。先週火曜と今週月曜の企画会議で、新人の案が出たとき、最初の一言が「それは無理ですね、前にやって失敗したので」でした。経験からの大事な指摘だと思っていますが、そのあと誰も案を出さなくなったのが気になっています。佐藤さんとしてはどう感じていましたか。これからは、懸念を伝えるときに「こうすればできるかも」を一つ添えてもらえると助かります。再来週の企画会議のあとに、また少し話しましょう。",
+   "lang": "ja",
+   "note": "経験のある人の否定癖は、経験そのものを認めたうえで、会議への影響と具体的な言い方の工夫を一つだけ頼む。"
   }
  ]
 }

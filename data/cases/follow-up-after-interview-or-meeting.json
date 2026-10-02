@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -218,6 +218,13 @@
    "reply": "Hi Naomi, thanks for this morning. One correction to the figure I gave: the conference comes to £20,700, not £18,000, because venue hire is £14,500 and catering £6,200. I'll send the final budget with that breakdown by Wednesday 7 October. Let me know if the higher total changes anything before then.\nBen",
    "lang": "en",
    "note": "Correct a wrong number the same day, plainly and with the breakdown, before it ends up in someone else's plan."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-032",
+   "situation": "I'm Kofi Mensah, a final-year civil engineering student. At our university careers fair today I spoke for five minutes with Laura Chen, a graduate recruiter at Fernhill Rail; she said their graduate scheme closes on Friday 30 October, that they especially value site experience, and asked me to email my CV. I did a 10-week summer placement on a footbridge project and didn't get to mention it.",
+   "reply": "Subject: Kofi Mensah, CV following today's careers fair\n\nHi Laura,\nThank you for taking the time to talk at the careers fair today. You mentioned that Fernhill Rail especially values site experience, so I wanted to add one thing I didn't get to say: this summer I did a 10-week placement on a footbridge project. My CV is attached as you suggested, and I'll submit my application before the graduate scheme closes on Friday 30 October. I'm very interested in the scheme.\nBest regards,\nKofi Mensah",
+   "lang": "en",
+   "note": "She met hundreds of students today: a clear subject line and one detail tied to what she said are what make you findable."
   }
  ]
 }

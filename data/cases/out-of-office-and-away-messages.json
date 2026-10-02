@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -218,6 +218,13 @@
    "reply": "Hi! I'm taking a break from Instagram until Sunday 8 November and won't see DMs before then. The online shop is open as usual and orders ship every Wednesday. For collabs or brand work, email zoe.studio@example.com, which I check on Mondays. Talk soon, Zoe",
    "lang": "en",
    "note": "A creator's away message still answers the two real questions: can I buy, and where do business inquiries go."
+  },
+  {
+   "id": "out-of-office-and-away-messages-032",
+   "situation": "I'm Ben, a UX designer based in Toronto. From Monday 12 October to Friday 30 October I'll be working from Tokyo, 13 hours ahead, still full time, online 9am to 5pm Tokyo time, which is 8pm to 4am Toronto time. My teammate Ana Lima (ana.lima@example.com) has agreed to cover anything that needs a same-day answer during Toronto hours.",
+   "reply": "Thanks for your email. From Monday 12 October to Friday 30 October I'm working from Tokyo, 13 hours ahead of Toronto. I'm online 9am to 5pm Tokyo time, which is 8pm to 4am Toronto time, so you'll usually hear from me overnight. If you need an answer during Toronto hours the same day, please contact Ana Lima at ana.lima@example.com. Ben",
+   "lang": "en",
+   "note": "Not away, just shifted: give your hours in the reader's time zone so they know when to expect a reply."
   }
  ]
 }

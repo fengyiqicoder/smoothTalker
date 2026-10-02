@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -218,6 +218,13 @@
    "reply": "Printed, it's on my desk for you. The bit about rebuilding the stock system at Hallam's jumped out at me, that's a real result. Do you want a couple of thoughts on the rest, or are you happy with it as it is? Either's fine.",
    "lang": "en",
    "note": "Unasked: earn the opening with specific praise and ask permission; save the personal statement point for if he says yes."
+  },
+  {
+   "id": "give-feedback-kindly-032",
+   "situation": "Last Sunday my friend Hannah asked for honest thoughts on her wedding vows. I told her the line about her and Tom burning their first pancakes was perfect and that the middle section felt long to me. She replied 'ok thanks' and has been quiet for four days, which isn't like her. We usually go to yoga together on Thursdays.",
+   "reply": "Hey Hannah, no need to reply to any of my thoughts on the vows. Just missing you this week. Still on for yoga on Thursday?",
+   "lang": "en",
+   "note": "Don't retract the point or add to it; one warm line about the friendship, and let her bring the vows back up if she wants."
   }
  ]
 }

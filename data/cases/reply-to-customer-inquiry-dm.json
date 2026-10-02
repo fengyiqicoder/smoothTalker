@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -218,6 +218,13 @@
    "reply": "Hi Leo, totally fair question after that, and sorry it happened to you. Yes, the AE-1 is $260 with a 90-day warranty, and payment only ever goes through the card checkout on my shop, never gift cards or crypto. If you're near Austin, you're welcome to come by the studio on a Saturday between 10 and 2, see it in person and pay then. Want me to put it aside for you this Saturday?",
    "lang": "en",
    "note": "When trust is the question, answer with checkable facts and an in-person option, not reassurance."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-032",
+   "situation": "我在小红书开手冲咖啡器具小店。专业套装（电子秤、温控手冲壶、磨豆机、滤杯）899元；入门组合（滤杯、细口壶、100张滤纸）159元，可以先用买来的现磨咖啡粉。有人私信：“新手想试试手冲，一周就喝两三次，899那个套装值得买吗？”",
+   "reply": "说实话，一周喝两三次的话，先不用买899的套装。入门组合159元，有滤杯、细口壶和100张滤纸，先用买来的现磨粉就能冲，喜欢了再升级磨豆机也不迟。要我把入门组合的链接发你吗？",
+   "lang": "zh",
+   "note": "顾客问贵的值不值，诚实推荐更合适的入门款，长期信任比一单利润更值钱。"
   }
  ]
 }

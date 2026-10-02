@@ -1,6 +1,6 @@
 {
  "playbook": "reconnect-after-silence",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "reconnect-after-silence-001",
@@ -218,6 +218,13 @@
    "reply": "乐天，我是周敏干妈，你妈妈把你微信推给我的。一晃七年没直接聊过了，可我一想起你，还是你在我家楼下歪歪扭扭骑自行车的样子。听说你开始读工科了，开学这几周感觉怎么样？不着急回，就是想好好跟你打个招呼。",
    "lang": "zh",
    "note": "跟长大了的晚辈重新联系，先说明自己是谁、怎么拿到联系方式，再问一个容易回答的问题。"
+  },
+  {
+   "id": "reconnect-after-silence-032",
+   "situation": "My old uni friend Ruby lives in Melbourne, and we haven't talked in about five years, no falling out; in second year we shared a tiny flat above a chip shop. We're moving to Melbourne in January for my partner's job, and I'd love her tips on which suburbs to look at for renting. I want to be honest that's partly why I'm writing.",
+   "reply": "Hi Ruby, it's been about five years, which seems impossible. I'll be upfront: we're moving to Melbourne in January for my partner's job, and you were the first person I thought of, partly because I'd love your tips on which suburbs to look at for renting. Mostly, though, it would be lovely to have a friend there; I still think about our tiny flat above the chip shop. If you ever have 20 minutes for a call I'd be grateful, and if not, no hard feelings at all.",
+   "lang": "en",
+   "note": "When you need something, say so in the first message rather than hiding it behind small talk, and make no an easy answer."
   }
  ]
 }

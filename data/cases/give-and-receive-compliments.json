@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -217,6 +217,13 @@
    "reply": "Dan, watching you walk Ivy up and down the garden for 40 minutes on Sunday so Mei could eat a hot meal has stuck with me. That's the kind of dad she's got. Really proud of you.",
    "lang": "en",
    "note": "Name the choice he made, not a trait, and leave his worry unmentioned; the compliment answers it."
+  },
+  {
+   "id": "give-and-receive-compliments-032",
+   "situation": "I'm Ms Clarke and I teach Year 4. At lunch today Amir, who is usually very quiet, noticed our new pupil Lily sitting on her own, went over by himself and spent the whole break teaching her the playground clapping game. I want to email his parents, Mr and Mrs Haddad, just to tell them.",
+   "reply": "Dear Mr and Mrs Haddad,\nI wanted to share something lovely from today. At lunch, Amir noticed that our new pupil, Lily, was sitting on her own, and he went over all by himself and spent the whole break teaching her the playground clapping game. It was such a kind thing to do, and it made my day. You should be very proud of him.\nBest wishes,\nMs Clarke",
+   "lang": "en",
+   "note": "A note home with no 'but' and no ask: the specific act and its effect, so it gets read out at the dinner table."
   }
  ]
 }

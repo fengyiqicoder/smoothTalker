@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -217,6 +217,13 @@
    "reply": "田中様\nご連絡いただきありがとうございます。チャンネル登録者は約8万人で、視聴者の約7割が25〜44歳の女性です。YouTubeアナリティクスの画面が必要でしたら、スクリーンショットでお送りします。タイアップ動画は1本25万円で、30日間のオーガニック利用を含みます。広告での二次利用や競合排他をご希望の場合は、別途お見積りいたします。本数、公開時期、ご予算の目安を教えていただければ、1日以内にご提案をお送りします。",
    "lang": "ja",
    "note": "データは数字で短く渡し、料金は利用範囲とセットで示して、相手の条件を聞き返す。"
+  },
+  {
+   "id": "creator-brand-deal-reply-032",
+   "situation": "Sunscreen brand Solene paid me $1,000 flat for one Instagram reel that went live on 15 September, and the contract has no view guarantee. Their contact, Rhea, says it got 12,000 views against my usual 30,000 and wants a second reel for free to make up for it. I'm happy to send the reel's full insights and add a free story set of three resharing it, labelled as a paid partnership like the reel, but a second reel would be my normal $1,000.",
+   "reply": "Hi Rhea, thanks for being upfront about the numbers, and I understand 12,000 views is below what we both hoped for. Our contract was a flat fee with no view guarantee, so a free second reel isn't something I can do. What I can add at no extra cost is a story set of three resharing the reel, labelled as a paid partnership like the original, and I'll send you the reel's full insights today. If you'd like a second reel, it would be my usual $1,000. Would the story set help?",
+   "lang": "en",
+   "note": "A post that underperforms is not a breach: point to the flat fee once, offer a small goodwill extra with the same disclosure, and price any new work."
   }
  ]
 }

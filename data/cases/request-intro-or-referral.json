@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -218,6 +218,13 @@
    "reply": "Fernanda, muito obrigado por topar! Aqui vai o texto para você só encaminhar, pode mexer no que quiser:\n\n\"Juliana, quero te apresentar o Lucas Almeida, meu primo, que fotografa casamentos em Porto Alegre há seis anos. Ele adoraria 20 minutos com você para mostrar o portfólio e saber se faz sentido entrar na lista de fornecedores indicados da Quinta das Videiras. Se você topar, eu passo o contato dele.\"\n\nSe depois de ler você preferir não mandar, tudo certo, sem problema nenhum. Te conto como foi, de qualquer jeito.\nLucas",
    "lang": "pt",
    "note": "Quando a pessoa já disse sim, o trabalho é entregar o texto pronto para encaminhar, com um pedido pequeno, uma saída e a promessa de dar retorno."
+  },
+  {
+   "id": "request-intro-or-referral-032",
+   "situation": "I'm Sara Klein and I run Crumbwell Bakeries, four bakeries with 30 staff. I'm hiring an operations manager, £48,000, hybrid. My friend Alice mentioned that her former colleague Dev Patel ran operations for a coffee chain and might be open to a move; I'd like Alice to ask Dev whether he'd be up for a 20-minute chat with no commitment.",
+   "reply": "Hi Alice, could I ask a favour? You mentioned Dev Patel ran operations for a coffee chain and might be open to a move. Would you be comfortable asking him if he'd like a 20-minute chat about the operations manager role at Crumbwell? No commitment on his side, and if you'd rather not, or you think he isn't looking, just say.\nIf you're up for it, here's a blurb you can forward:\n\"Dev, my friend Sara Klein runs Crumbwell Bakeries, four bakeries with 30 staff, and she's hiring an operations manager, £48,000, hybrid. She'd love a 20-minute chat, no commitment, if you're curious. Shall I pass on your email?\"\nI'll let you know how it goes either way.\nSara",
+   "lang": "en",
+   "note": "When you're the one hiring, the blurb leads with the salary and setup so Dev can say no before anyone's time is spent."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -218,6 +218,13 @@
    "reply": "谢谢大家今晚来给我送行。下周五是我在社里的最后一天，之后我要去读研了。六年前我刚来的时候连校样都不会看，是陈老师一页一页带着我改出来的，这个我会一直记着。手上的三本书已经跟小林交接好了，之后有什么问题也随时找我。以后社里出了新书，记得给我留一本！",
    "lang": "zh",
    "note": "欢送会上的发言：不展开离开的理由，不翻旧账，说一件具体的感谢、交代好交接，再用一句轻松的话收尾。"
+  },
+  {
+   "id": "leave-or-quit-gracefully-032",
+   "situation": "I'm Jess, one of five bridesmaids for my friend Laura's wedding on 12 June 2027. I lost my job in August and can't afford the £600 for the dress, the hen weekend and travel. I want to step down as a bridesmaid but still come as a guest, and I'll still make the table plan I offered to do; I'm telling her on a call tonight.",
+   "reply": "Laura, I need to tell you something, and I'd rather say it now than let it drift: I'm going to step down as a bridesmaid. Since I lost my job in August, the dress, the hen weekend and the travel are more than I can afford, and I don't want to pretend otherwise. I'd still love to be there as a guest, and I'll still do the table plan I promised. I'm sorry to change things, and I'm so happy for you both.",
+   "lang": "en",
+   "note": "Early, in person and with what you'll still do. If she offers to cover your costs, decide before the call whether you'd want that, so you don't get talked round."
   }
  ]
 }

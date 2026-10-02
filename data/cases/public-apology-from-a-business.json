@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -218,6 +218,13 @@
    "reply": "各位支持者，我是微光工作室的何川。我们承诺6月发货的木制台灯到今天还没有发出，而且7月以后一直没有更新进度，这两件事都是我们的错，对不起。延误的原因是我们低估了模具开发；现在模具已经通过，1260台会在11月20日前全部发出。不想再等的朋友，10月31日前私信我们申请，全额退款。从这个月起，每月15日我们都会发一次进度更新，有任何问题可以直接私信我。",
    "lang": "zh",
    "note": "众筹延期要连“沉默不更新”一起认，并给出能兑现的固定更新日期。"
+  },
+  {
+   "id": "public-apology-from-a-business-032",
+   "situation": "I'm Leah, owner of Bloom Lane, a flower shop. In March we let customers opt out of Mother's Day emails, but the opt-out only covered emails sent in the weeks before Mother's Day, so on Thursday 1 October our 'Treat Mum' autumn promotion went to the 340 people who had opted out, and several replied hurt; some have lost their mothers. Opt-outs now cover every mum-themed email all year, and I want to email just those 340.",
+   "reply": "Subject: Yesterday's email, and an apology\nHi,\nYou asked us not to send you Mother's Day emails, and yesterday we sent you our 'Treat Mum' promotion anyway. Your opt-out only covered the weeks before Mother's Day, and we didn't think beyond that. I'm sorry; for some of you that email will have landed on something painful. Your opt-out now covers every mum-themed email we send, all year round. If you'd like to tell me anything, or stop hearing from us altogether, just reply and I'll read it myself.\nLeah, owner, Bloom Lane",
+   "lang": "en",
+   "note": "Write only to the people affected, own the gap in your own setup, and keep the sorry quiet and single, with no promotion attached."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -218,6 +218,13 @@
    "reply": "老周，每周三打球有你一起挺热闹的，想跟你说个小事。9月16日、23日和30日你都报了名，到点没来也没消息，我们三个只能轮着打，场地费也是三个人分的。不是怪你，就是想定个简单的规矩：以后报了名，当天下午5点前说不来就没事，没说的话那30块场地费还是照常AA。要是最近周三晚上不好排，直接跟我说，哪周想来再报就行。",
    "lang": "zh",
    "note": "用具体日期代替“老是”，说清你以后怎么做，再给他一个轻松退出的选项；不追问为什么。"
+  },
+  {
+   "id": "handle-no-show-or-lateness-032",
+   "situation": "Our regular babysitter, Ella, is 16 and our neighbour's daughter. She was booked for 6:30 last night so my husband Sam and I could go to his work dinner, but she didn't show or reply, and I ended up staying home. This morning she texted 'omg so sorry I totally forgot'; she's been great with the kids for a year, and our next booking is Saturday 10 October at 7pm.",
+   "reply": "Hi Ella, thanks for messaging this morning, I appreciate it. Last night was a tricky one: with no word by 6:30, I ended up missing Sam's work dinner. You've been brilliant with the kids for a year and we'd love to keep you. From now on, could you send me a quick text the day before each booking to confirm? The next one is Saturday 10 October at 7pm, so a message on Friday would be perfect, and if I haven't heard by Friday evening I'll find cover for that night, no hard feelings.",
+   "lang": "en",
+   "note": "A young, apologetic first slip: name the cost once, keep her, and fix it with a small system rather than a lecture."
   }
  ]
 }

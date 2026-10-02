@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -218,6 +218,13 @@
    "reply": "Bonjour à tous, comme vous le savez peut-être, le père d'Hélène est décédé mardi. Je propose qu'on envoie une gerbe pour les obsèques jeudi 8 octobre, 90 euros, soit 10 euros chacun si on participe tous, et une carte que je ferai circuler au bureau pour que chacun la signe. Un 👍 d'ici lundi soir si vous participez : je commande mardi matin et je partage le montant entre ceux qui auront répondu. Si vous préférez ne pas participer, aucun souci, dites-le-moi en privé.",
    "lang": "fr",
    "note": "Sujet délicat : une proposition complète, un délai, et le silence ne compte pas comme un oui."
+  },
+  {
+   "id": "group-chat-coordination-032",
+   "situation": "我们课程小组5个人（我、小王、阿美、子豪、思琪），市场调研报告10月16日周五要交，群里讨论分工三天了，大家都说“我都可以”。报告分五块：行业背景、问卷设计、数据分析、竞品对比、结论和PPT。我想直接把分工排好。",
+   "reply": "大家好，离10月16日周五交报告还有两周，分工我先排一版：小王负责行业背景，阿美负责问卷设计，子豪负责数据分析，思琪负责竞品对比，我负责结论和PPT汇总。同意的回个1，想换的直接说想换哪块，今晚10点前没人提意见就按这个来。各部分初稿10月12日周一晚上前发到群里，我来合稿。",
+   "lang": "zh",
+   "note": "“我都可以”等于没人拍板：直接给出完整分工、一键回复、截止时间和默认做法，再定一个合稿日期。"
   }
  ]
 }

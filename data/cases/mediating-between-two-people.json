@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -218,6 +218,13 @@
    "reply": "I understand the deadlines are worrying you, Karen, and I want the project to land too. I'd rather not report on Tomas privately, though: I work closely with both of you, and it would put me in the middle of something that's really between the two of you. What I can do is make the Friday status update more detailed, with every task's due date and where it stands, so you and Tomas are looking at the same picture. If deadlines are still a sticking point after that, it might help for the two of you to sit down with the update in front of you.",
    "lang": "en",
    "note": "When someone senior asks you to be their eyes, decline the private channel and offer something open that both sides see."
+  },
+  {
+   "id": "mediating-between-two-people-032",
+   "situation": "I'm hosting a coffee for my cousins Hannah and Grace, who fell out over visiting our grandma at her care home, and we agreed to talk only about a visiting rota; someone needs to go this Sunday. Twenty minutes in, Hannah has started bringing up Grace missing her wedding three years ago, and Grace is getting up to leave.",
+   "reply": "Can I pause us for a second? Grace, would you stay a few more minutes? Hannah, I can hear the wedding still really hurts, and it deserves its own conversation, just not today. We came here for Grandma's visits, so let's try to agree on one thing: who goes this Sunday. If you two want to talk about the wedding another time, I'm happy to help set that up.",
+   "lang": "en",
+   "note": "When old history hijacks a joint conversation, name it kindly, park it for another day and steer back to the one agreed topic."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -218,6 +218,13 @@
    "reply": "Carla, I want Monday's churn slide to land well too. The 3% only holds if we leave out the 41 accounts that downgraded to free; with them it's 5.2%, and if a board member asks how we define churn, the gap will be hard to explain in the room. Two options: show 5.2% with paid-plan churn of 3% beside it and a one-line definition, or show 3% clearly labelled as paid cancellations, with the 41 downgrades listed underneath. I'd go with the first. Which would you prefer?",
    "lang": "en",
    "note": "Both options are honest; the pushback is about the label, not the boss's goal, so keep the exchange in writing."
+  },
+  {
+   "id": "push-back-on-boss-032",
+   "situation": "我在外贸公司做行政，英语还行。老板周总让我把一份30页的英文供货合同翻成中文，10月12日（周一）签约前要用。我不是专业翻译，怕法律条款翻错出问题。问了一家翻译公司，3个工作日能交，报价2400元；我自己可以在10月9日（周五）前先把付款、违约和终止这几条关键条款整理成中文摘要。",
+   "reply": "周总，这份合同我也想让您签之前看得明明白白。问题是30页的法律条款，我不是专业翻译，万一哪句译错，签约时可能吃亏。两个办法：一是全文交给翻译公司，3个工作日能交，报价2400元；二是同样交翻译公司，另外我10月9日（周五）前先把付款、违约和终止几条关键条款整理成中文摘要给您，您先看重点。我建议第二个。您看选哪个？",
+   "lang": "zh",
+   "note": "超出能力范围的活，不是推掉，而是说清风险、给出靠谱的替代方案让老板选；合同条款最终以专业翻译或律师意见为准。"
   }
  ]
 }

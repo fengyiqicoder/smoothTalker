@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -218,6 +218,13 @@
    "reply": "Hey Marcus, thanks for trusting me with this, I know it's a big thing to ask anyone. I'm going to say no to being guarantor; I'm not comfortable taking on that kind of liability, and I'd rather be straight with you now than hesitate. What I can do is write you a reference for the landlord: we shared a flat for two years and you paid your share of the rent on time every month, and I'm happy to put that in writing. Want me to send it over this week?",
    "lang": "en",
    "note": "A clear no to the risk without explaining your finances, plus real help that vouches only for what you actually saw."
+  },
+  {
+   "id": "money-between-friends-032",
+   "situation": "Three weeks ago I bought my friend Nadia's old laptop for $350. The battery now dies after 20 minutes, and the repair shop says it had been swelling for a while; a replacement is $120. When I mentioned it, she said 'it was fine when I had it', and I'd like to ask her to split the battery cost; my Venmo is @jo-park.",
+   "reply": "Hey Nadia, I believe you that it was working fine for you, swelling batteries are easy to miss from the outside. The shop says it had been going for a while, and the replacement is $120. Would you be up for splitting it, $60 each? My Venmo is @jo-park. Either way, thanks for selling it to me, the rest of it is great.",
+   "lang": "en",
+   "note": "When you bought from a friend, don't argue about who knew what: accept her account, give the number, and propose a fair split."
   }
  ]
 }

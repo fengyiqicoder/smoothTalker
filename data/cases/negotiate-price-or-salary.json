@@ -25,10 +25,10 @@
   },
   {
    "id": "negotiate-price-or-salary-004",
-   "situation": "My landlord, Mr. Okafor, wants to raise my rent from $2,100 to $2,350 when my lease renews Dec 1. I've been there three years and always paid on time. Similar 1-bedrooms nearby list around $2,250. I'd be happy landing at $2,200.",
-   "reply": "Hi Mr. Okafor, thanks for the heads-up about the renewal. I'd really like to stay; this has been a great home for three years. The new rent is a jump of about 12%, and comparable one-bedrooms nearby are listing around $2,250. Would you take $2,175 on an 18-month lease? You'd keep a tenant who has paid on time every month, with no vacancy or turnover costs. If 18 months doesn't suit you, I'm open to a different lease length.",
+   "situation": "I'm Ravi. The recruiter at Brackwell Insurance, Dee, just called with a verbal offer for the claims analytics lead role: $88k base, and she asked if I could say yes today. The posting listed $85k to $100k, I have six years in claims analytics, and I'd accept $93k. I want the offer in writing first and to answer by Tuesday 6 October.",
+   "reply": "Hi Dee, thanks for the call this morning. I'm really pleased to get the offer and excited about the role. Before I answer, could you send the full offer in writing? I'll come back to you by Tuesday 6 October. So it isn't a surprise later: the base is at $88k, and with six years in claims analytics, which I'd bring to the team from day one, I was expecting closer to $96k, within the range in the posting. Is there flexibility there? Either way, I'm keen to make this work.",
    "lang": "en",
-   "note": "Anchor a little under your real target, tie it to their value (reliability, no vacancy), and keep lease length as the second lever if money doesn't move."
+   "note": "Never accept on the call: ask for it in writing, give a specific day, and put your number down now so the written offer can reflect it."
   },
   {
    "id": "negotiate-price-or-salary-005",
@@ -39,10 +39,10 @@
   },
   {
    "id": "negotiate-price-or-salary-006",
-   "situation": "我开咖啡店，现在的烘豆商刘经理报价每公斤128元，我每月大概用40公斤，客人很喜欢他家的埃塞豆子。另一家报115，但我更喜欢现在这家。想谈到118左右。",
-   "reply": "刘经理，您家的埃塞豆子客人一直很喜欢，我很想继续长期合作。现在每月大概40公斤，报价是每公斤128元；我这边看到的同类报价在115左右，所以想跟您商量能不能做到116。如果我签六个月的固定订单、每月1号提前付款，价格这边有没有空间？",
+   "situation": "我做手工陶瓷杯，零售价每只180元。一家买手店的陈老板想上架我的杯子，提出寄售，卖出后他抽40%，卖不掉退回给我。我更想让他按零售价的六折直接进货，首单30只；如果只能寄售，抽成30%我也能接受。",
+   "reply": "陈老板，谢谢您喜欢这批杯子，能在您店里上架我很开心。寄售抽40%对我来说偏高，想跟您商量直接进货：每只按零售价的六折，108元，首单30只，一共3240元。这样您的进货价是固定的，卖得越好利润越多。您看可以吗？如果您更想先寄售试一试，抽成30%我可以接受。",
    "lang": "zh",
-   "note": "买方开价略低于自己能接受的数，同时拿出对方在意的东西（固定量、提前付款）来换。"
+   "note": "卖给店铺时，条款和价格一起谈：先提自己想要的进货方式和具体数字，再把能接受的寄售抽成作为第二个选项。"
   },
   {
    "id": "negotiate-price-or-salary-007",
@@ -60,10 +60,10 @@
   },
   {
    "id": "negotiate-price-or-salary-009",
-   "situation": "我做短视频剪辑，一家健身房的王老板要做10条宣传短视频，我报价8000，每条800元，包括脚本梳理、剪辑、调色和两轮修改。他说太贵了，问能不能打个八折，6400。我不想降单价。",
-   "reply": "王老板，谢谢您的信任，这10条我很想给您做好。单价我这边不打折，每条800元包括脚本梳理、剪辑、调色和两轮修改。如果预算是6400，我建议先做8条，正好6400元，效果好了剩下两条下个月再做。您看这样可以吗？",
+   "situation": "我是自由插画师，作品集里有三本已出版的绘本。出版社编辑周老师想请我画一本24幅的绘本，但要求先免费画一张样稿看风格。我的报价是每幅1500元，不想免费画，但可以接受付费样稿，正式合作的话样稿费抵扣进总价。",
+   "reply": "周老师，谢谢您想到我，很高兴能参与这本绘本。样稿我很乐意画，不过我不画免费样稿，一张完整的样稿和正式稿的工作量差不多。我的报价是每幅1500元，样稿也按1500元收；确定合作的话，这1500元直接抵扣进24幅的总价。您也可以先看看我作品集里三本已出版的绘本，判断风格是否合适。您看这样可以吗？",
    "lang": "zh",
-   "note": "守住单价，调整范围：直接打折会让之后每次报价都从折后价开始谈。"
+   "note": "免费样稿也是价格谈判：给样稿报一个具体价格，再用抵扣降低对方的风险，而不是白做。"
   },
   {
    "id": "negotiate-price-or-salary-010",
@@ -89,14 +89,14 @@
   {
    "id": "negotiate-price-or-salary-013",
    "situation": "拿到一家互联网公司数据分析岗的offer，月薪25k我挺满意，但要求每天到岗。我住城北，单程通勤一个半小时，上一份工作是两年的混合办公，交付一直按时。想跟HR王女士争取每周两天远程，又怕把offer谈没了。",
-   "reply": "王女士您好，谢谢您发来的offer，我很期待加入团队，薪资这部分我没有问题。想跟您商量一点：能否安排每周两天远程办公，比如周二和周四？我在上一家公司远程和到岗结合工作了两年，报表和模型都按时交付，远程的日子反而更能整块时间做分析。如果一开始不方便，也可以先全勤到岗，试用期结束后再根据表现评估一次。您看团队那边有没有这个空间？",
+   "reply": "王女士您好，谢谢您发来的offer，我很期待加入团队，薪资这部分我没有问题。想跟您商量一点：能否安排每周两天远程办公，比如周二和周四？我在上一家公司远程和到岗结合工作了两年，交付一直按时。如果一开始不方便，也可以先全勤到岗，试用期结束后再根据表现评估一次。您看团队那边有没有这个空间？",
    "lang": "zh",
    "note": "非薪资条款也是谈判：说清要什么，理由讲工作效果而不是通勤辛苦，给一个退路，谈成后写进offer。"
   },
   {
    "id": "negotiate-price-or-salary-014",
-   "situation": "Last Thursday I countered Arden Analytics' offer ($94k, I asked for $104k). The recruiter, Dana, said she'd check with the hiring manager and I've heard nothing since. I told them I'd give an answer by this Friday, 2 October.",
-   "reply": "Hi Dana, just checking in on the compensation question from last Thursday so I can give you a firm answer by Friday 2 October. I'm still very keen on the role and the team. Happy to jump on a quick call if that's easier than email.",
+   "situation": "Last Thursday I countered Arden Analytics' offer ($94k, I asked for $104k). The recruiter, Dana, said she'd check with the hiring manager and I've heard nothing since. I told them I'd give an answer by Tuesday 6 October.",
+   "reply": "Hi Dana, just checking in on the compensation question from last Thursday so I can give you a firm answer by Tuesday 6 October. I'm still very keen on the role and the team. Happy to jump on a quick call if that's easier than email.",
    "lang": "en",
    "note": "After silence, one short nudge that keeps the offer warm; don't lower your number to fill the gap."
   },
@@ -133,7 +133,7 @@
    "situation": "フリーランスの日英翻訳者です。新規クライアントのゲーム会社の山本さんから、ゲーム内テキスト約5万字を1文字8円で依頼したいと連絡がありました。相場は10〜14円で、私はゲームローカライズの経験が5年あり、用語集の作成とキャラクターごとの口調の統一まで含めて納品するつもりです。12円を提示して、11円なら受けたいです。",
    "reply": "山本様\nご連絡ありがとうございます。ゲームのローカライズは5年ほど続けてきた分野で、ぜひお手伝いしたいと思っております。料金について一点ご相談させてください。ご提示の1文字8円に対し、ゲーム内テキストの日英翻訳は1文字12円で承っております。用語集の作成とキャラクターごとの口調の統一まで含め、そのまま実装いただける品質でお納めするための料金です。この金額でご検討いただくことは可能でしょうか。ご予算に上限がある場合は、納期や対象範囲の調整でもご相談に応じます。\nよろしくお願いいたします。",
    "lang": "ja",
-   "note": "Polite framing, but still one specific number and a value reason; the range stays private."
+   "note": "丁寧な言い回しでも、具体的な金額は一つだけ、理由は提供する価値で伝える。11円という下限は伝えない。"
   },
   {
    "id": "negotiate-price-or-salary-020",
@@ -214,10 +214,10 @@
   },
   {
    "id": "negotiate-price-or-salary-031",
-   "situation": "Soy Lucía y mi pareja Andrés y yo queremos casarnos en la finca Los Olivos. Carmen, la coordinadora, nos ha pasado un presupuesto de 12.000 € por 90 invitados para el sábado 15 de mayo de 2027, y nos comentó que los viernes tienen menos demanda. Nuestro tope es 10.000 €; podríamos hacerlo el viernes 14 de mayo y pagar una señal del 30 % esta misma semana.",
-   "reply": "Hola, Carmen:\nMuchas gracias por el presupuesto. A Andrés y a mí nos encanta la finca y nos haría mucha ilusión celebrar allí la boda. Los 12.000 € del sábado 15 de mayo quedan por encima de lo que podemos invertir. Como nos comentaste que los viernes tienen menos demanda, ¿podríais hacernos el viernes 14 de mayo, para 90 invitados, por 9.500 €? Si es así, pagamos la señal del 30 % esta misma semana. ¿Qué te parece?\nUn saludo,\nLucía",
+   "situation": "Soy Lucía Ferrer, ingeniera de datos. Datalún me ha ofrecido 52.000 € brutos al año, que me parecen bien, con incorporación el 1 de diciembre. Si me voy antes de marzo pierdo el bonus anual de mi empresa actual, unos 6.000 €, según mi contrato; también podría incorporarme el 1 de abril, después de cobrarlo. La responsable de selección es Carmen.",
+   "reply": "Hola, Carmen:\nMuchas gracias por la oferta, tengo muchas ganas de unirme al equipo y el salario me encaja. Quería plantearte un punto: si me incorporo el 1 de diciembre, pierdo el bonus anual de mi empresa actual, unos 6.000 €, que se cobra en marzo. ¿Podríais compensarlo con una prima de incorporación de 6.000 €? Si no es posible, otra opción sería incorporarme el 1 de abril, ya cobrado el bonus. Puedo enviarte la cláusula del contrato que lo recoge.\nUn saludo,\nLucía Ferrer",
    "lang": "es",
-   "note": "Como compradores: una cifra concreta algo por debajo del tope y, a cambio, algo que les sirve a ellos (llenar un viernes, señal inmediata). Pedid por escrito qué incluye el precio."
+   "note": "Lo que pierdes al cambiar de trabajo se negocia con una cifra concreta y la prueba; la fecha de incorporación es la segunda palanca."
   }
  ]
 }

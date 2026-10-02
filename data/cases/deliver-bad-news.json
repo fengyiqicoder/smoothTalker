@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -218,6 +218,13 @@
    "reply": "各位邻居，有个不好的消息要马上告诉大家：这次的阳光玫瑰葡萄发不了货了。供货商收钱后电话打不通，微信也把我拉黑了，我昨天已经报了警。钱是大家交到我这里的，这事我负责：32户一共4800元，我先自己垫付，10月9日前按大家当初的付款方式一一退回。让大家白等一场，真的很抱歉。有任何问题直接私信我。",
    "lang": "zh",
    "note": "钱的坏消息：前两句说清，再说谁负责、退多少、哪天退；群里如果有人自称能“帮忙追回”并发链接或要费用，别点也别付，保留报警回执。"
+  },
+  {
+   "id": "deliver-bad-news-032",
+   "situation": "I'm Josh, singer in our four-piece band, Low Tide. The other three of us have decided to part ways with our drummer, Callum, after four years, because we want to tour next year and he can't take time off his job; his playing isn't the issue. He can play our Halloween show on Saturday 31 October as his last gig if he wants, and he gets his equal quarter of the £1,200 in the band account. He's coming round tonight and I don't know how to open.",
+   "reply": "Callum, thanks for coming over. I've got news you won't like, and I'd rather just say it: the three of us have decided to carry on without you. It's because we want to tour next year and your job won't let you take that time off; it isn't about your playing. I know four years in this band means a lot, and this is a rotten thing to hear. If you want it, the Halloween show on Saturday 31 October is yours as your last gig, and your quarter of the band account, £300, is yours. Take whatever time you need, and ask me anything.",
+   "lang": "en",
+   "note": "A group decision delivered by one person: say 'we decided', give the one real reason, and put the last gig and the money on the table straight away."
   }
  ]
 }

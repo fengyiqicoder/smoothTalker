@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -218,6 +218,13 @@
    "reply": "Grandad, this has been lovely, and I'm going to say goodbye now. Next Sunday at 4 I'll show you my photos from Lisbon. I'll press the button to hang up on my end, so you don't need to do anything. Bye for now, love you.",
    "lang": "en",
    "note": "When someone struggles to end a call, close it for them: a warm recap, the next date, and you do the hanging up."
+  },
+  {
+   "id": "end-conversation-gracefully-032",
+   "situation": "I host a monthly book club on Zoom for ten people, scheduled 7 to 8pm. It's now 8:20, we finished discussing the book a while ago, side chats keep starting up, and nobody wants to be the first to leave. Next meeting is Thursday 5 November and the book is The Glass Orchard.",
+   "reply": "Okay everyone, I'm going to wrap us up there, we're well past eight. Thank you for a really good discussion tonight. Next time is Thursday 5 November, and we're reading The Glass Orchard. Night, all!",
+   "lang": "en",
+   "note": "In a group call, the host closes for everyone: a recap, the next date, then end the meeting for all instead of waiting for the last person to leave."
   }
  ]
 }

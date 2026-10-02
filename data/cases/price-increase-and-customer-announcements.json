@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -218,6 +218,13 @@
    "reply": "From Monday 2 November, Sharp Corner is appointments only, no more walk-ins. Saturday queues were hitting two hours and too many of you were giving up and leaving. A cut is still $28, same chairs, same chat. Book on our site or call 555-0147, and if you need a cut the same day, ring us: we keep the 9am slot open every morning for that. Thanks for sticking with us. Kofi",
    "lang": "en",
    "note": "A policy change still leads with the date, and the phone line plus a daily same-day slot keeps regulars who don't book online."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-032",
+   "situation": "我是“晨光酸奶”的小周，手工酸奶一直用青禾牧场的有机奶，详情页写着“有机”。牧场停了有机奶线，11月1日起改用同一家牧场的普通鲜奶，不再是有机的，价格从每杯15元降到13元，配方和做法不变，详情页的“有机”字样同一天删掉。已经买了10次卡的老客户，剩余次数每次退2元差价，11月底前微信转回。要在客户群里通知。",
+   "reply": "各位好，我是晨光酸奶的小周。跟大家说一个变化：从11月1日起，我们的酸奶改用青禾牧场的普通鲜奶，不再是有机奶，价格从每杯15元降到13元。原因是牧场停了有机奶线。配方和做法都不变，详情页的“有机”字样也会在同一天删掉。已经买了10次卡的朋友，剩余次数每次退2元差价，11月底前微信转给大家，不用做任何操作。有问题直接私信我。谢谢大家一直以来的支持。小周",
+   "lang": "zh",
+   "note": "原料变了就第一句说清，哪怕价格降了也不能悄悄换；已付钱的客户按新价自动退差。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -218,6 +218,13 @@
    "reply": "Bom dia, Sr. Costa. Como prevê a cláusula 8 do contrato, venho pedir a sua autorização por escrito para pintar uma parede do quarto de verde-claro e fixar duas prateleiras na sala. Os custos ficam por minha conta e, quando sair, deixo a parede pintada de branco e os furos tapados. Se quiser, mostro-lhe antes uma amostra da cor. Pode responder-me por escrito até sexta-feira, 9 de outubro? Obrigada, Marina",
    "lang": "pt",
    "note": "Pedir antes e por escrito, com a reposição já oferecida, evita discussões na devolução da caução."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-032",
+   "situation": "我9月15日搬进现在租的房子，床垫是房东刘哥配的。9月27日发现床垫缝里有臭虫，身上被咬了很多包，我拍了照片。除虫公司上门看过，说虫卵集中在床垫缝里，拖久了会扩散到沙发和衣柜，除虫报价800元，最快10月6日能做。合同第八条写房东配的家具家电非人为损坏由房东负责，刘哥在微信上说可能是我自己带进来的。",
+   "reply": "刘哥，臭虫的事我把情况整理一下：我9月15日搬进来，9月27日在床垫缝里发现臭虫，照片已经发您了。除虫公司上门看过，说虫卵集中在您配的那张床垫缝里，拖久了会扩散到沙发和衣柜。合同第八条写房东配的家具非人为损坏由房东负责，所以想请您承担800元除虫费，并换一张床垫。除虫公司最快10月6日周二能做，麻烦您10月4日周日前回我一下，我好跟他们约时间。",
+   "lang": "zh",
+   "note": "不争是谁带进来的，只摆时间线、除虫公司的判断和合同条款；谈不拢再咨询当地的租赁纠纷调解机构。"
   }
  ]
 }

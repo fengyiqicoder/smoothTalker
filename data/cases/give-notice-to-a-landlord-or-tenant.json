@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 31,
+ "count": 32,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -218,6 +218,13 @@
    "reply": "赵先生您好，我是租住您南京那套一居室的租客。按合同第9条，特此书面通知：我将于2026年11月30日提前退租。11月的房租我会照常支付，并按合同另付一个月租金3200元作为违约金。11月30日我会把全部钥匙交给小区物业，并拍下房屋现状和水电燃气表读数的照片发您邮箱。麻烦您回邮件确认收到这份通知，谢谢您。",
    "lang": "zh",
    "note": "按合同条款书面通知并留存邮件；房东在国外，交接靠物业和照片留证，押金事宜另行确认。"
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-032",
+   "situation": "I'm Hana Brooks. On 1 September I gave my landlord, Mr Fenwick, notice to leave Flat 3, 60 Rowan Street on 31 October, and he confirmed it in writing. My new flat's move-in date has slipped to 14 November, and as far as I know he hasn't found a new tenant yet. Rent is £1,100 a month, and I'd offer £550 for the extra two weeks.",
+   "reply": "Dear Mr Fenwick,\nThank you for confirming my notice to leave Flat 3, 60 Rowan Street on 31 October. The move-in date for my new flat has slipped to 14 November, so I'd like to ask whether I could stay on until Saturday 14 November. I'd pay £550 for the extra two weeks, and I'd do the check-out and hand back the keys that day. If you already have plans for the flat, I understand, and 31 October stands. Could you let me know by Wednesday 7 October, and if it's a yes, confirm the new end date in writing?\nKind regards,\nHana Brooks",
+   "lang": "en",
+   "note": "Staying past your notice date is a request: the original date stands until he agrees in writing. Check the lease and local rules on what an extension means for the tenancy."
   }
  ]
 }
