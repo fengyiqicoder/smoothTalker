@@ -35,7 +35,7 @@
    "situation": "Hago tortas por encargo en Montevideo: una torta temática para 40 personas sale $3.800 con decoración y cartel con el nombre, y pido una seña de $1.500. Me escribió Valentina por Instagram: '¿hacés tortas para 40 personas? Es para el sábado 10 de octubre, tema Frozen', y ese día lo tengo libre.",
    "reply": "¡Hola Valentina! Sí, tengo lugar para el sábado 10. Una torta temática de Frozen para 40 personas sale $3.800 e incluye la decoración y el cartel con el nombre. Para reservar la fecha pido una seña de $1.500; ¿te paso los datos para transferir?",
    "lang": "es",
-   "note": "Custom order with a date: confirm availability and price first, then make the deposit the single next step."
+   "note": "Encargo con fecha: primero confirmá que hay lugar y el precio, después la seña como único paso siguiente."
   },
   {
    "id": "reply-to-customer-inquiry-dm-006",
@@ -53,14 +53,14 @@
   },
   {
    "id": "reply-to-customer-inquiry-dm-008",
-   "situation": "我在成都开陶艺工作室，体验课每周六下午2点到5点，298元一位，含材料和烧制，最多6人，成品三周后到店取或包邮寄回；这周六10月3号还剩2个位置。有人在小红书私信：'你们的体验课是怎么上的？零基础可以吗'",
+   "situation": "我在成都开陶艺工作室，体验课每周六下午2点到5点，298元一位，含材料和烧制，老师手把手教拉坯做杯子或碗，最多6人，成品三周后到店取或包邮寄回；这周六10月3号还剩2个位置。有人在小红书私信：'你们的体验课是怎么上的？零基础可以吗'",
    "reply": "可以的，体验课就是给零基础准备的！每周六下午2点到5点，298元一位，含材料和烧制，老师手把手带你拉坯，做好的杯子或碗三周后来店里取，或者包邮寄给你。每场最多6个人。这周六10月3号还剩2个位置，要帮你留一个吗？",
    "lang": "zh",
    "note": "先答'可以'，再补上时间、价格和她会想知道的取件方式，最后只问一个问题推进报名。"
   },
   {
    "id": "reply-to-customer-inquiry-dm-009",
-   "situation": "I make hand-poured soy candles in 9 scents and sell them on Instagram for $32 each; wholesale is $16 a candle, 24-candle minimum mixed across scents, shipped within a week, and fig is my bestseller. A gift shop owner in Portland, Jenna, just DMed 'hi! do you do wholesale? love the fig one'.",
+   "situation": "I make hand-poured soy candles in 9 scents and sell them on Instagram for $32 each; wholesale is $16 a candle, 24-candle minimum mixed across scents, shipped within a week, fig is my bestseller, and I have a wholesale sheet listing all the scents. A gift shop owner in Portland, Jenna, just DMed 'hi! do you do wholesale? love the fig one'.",
    "reply": "Hi Jenna! Yes, wholesale is $16 a candle, with a 24-candle minimum that you can mix across scents. Orders ship within a week, and the fig one is our bestseller, so it's a good pick. Want me to send over the wholesale sheet with all 9 scents?",
    "lang": "en",
    "note": "Wholesale inquiry: answer with the price and minimum first, add the one fact a shop owner needs next, then one easy next step."
@@ -81,7 +81,7 @@
   },
   {
    "id": "reply-to-customer-inquiry-dm-012",
-   "situation": "Vendo luminárias de cerâmica feitas à mão pelo Instagram, aqui em Belo Horizonte, a R$ 290 cada; o frete para Portugal é R$ 180 por luminária, com rastreio, e leva 15 a 25 dias úteis. A Inês, de Lisboa, mandou DM: \"Olá! Enviam para Portugal?\"",
+   "situation": "Vendo luminárias de cerâmica feitas à mão pelo Instagram, aqui em Belo Horizonte, a R$ 290 cada; o frete para Portugal é R$ 180 por luminária, com rastreio, e leva 15 a 25 dias úteis; o imposto de importação, se houver, é cobrado na entrega pelas regras de Portugal, e posso mandar um link com o total já calculado. A Inês, de Lisboa, mandou DM: \"Olá! Enviam para Portugal?\"",
    "reply": "Olá, Inês! Enviamos, sim. O frete para Portugal sai R$ 180 por luminária, com rastreio, e chega em 15 a 25 dias úteis. Pode haver imposto de importação cobrado na entrega, conforme as regras de Portugal, então vale confirmar antes de comprar. Quer que eu te mande o link com o valor total já calculado?",
    "lang": "pt",
    "note": "Pedido internacional: sim ou não na primeira linha, depois frete e prazo, e o aviso sobre taxas para não haver surpresa."
@@ -103,7 +103,7 @@
   {
    "id": "reply-to-customer-inquiry-dm-015",
    "situation": "I'm a personal trainer: $70 an hour or $600 for ten, the first session starts with a movement check, and this week I have Friday 7am or Saturday 9am free. A guy named Ollie DMed me on Instagram last Friday: 'hey how much for 1 on 1 sessions? total beginner'. I only just saw it today, five days later.",
-   "reply": "Hi Ollie, sorry for the slow reply, your message got buried. One-to-one sessions are $70 an hour, or $600 for a pack of ten, and the first one starts with a relaxed movement check, so total beginner is exactly right. I've got Friday at 7am or Saturday at 9am this week, would either suit you?",
+   "reply": "Hi Ollie, sorry for the slow reply, I've only just seen this. One-to-one sessions are $70 an hour, or $600 for a pack of ten, and the first one starts with a relaxed movement check, so total beginner is exactly right. I've got Friday at 7am or Saturday at 9am this week, would either suit you?",
    "lang": "en",
    "note": "Replying days late: one line of ownership, then the answer straight away, so the apology doesn't become the message."
   },
@@ -138,14 +138,14 @@
   {
    "id": "reply-to-customer-inquiry-dm-020",
    "situation": "I make custom cookie gift boxes. Priya ordered 30 boxes for her team from me last December, and today she DMed on Instagram: 'hi again!! can we do the same as last year but 45 boxes, delivered Dec 11?' Dec 11 is free, my price is now $24 a box (it was $22), and I need orders confirmed by Nov 20.",
-   "reply": "Hi Priya, lovely to hear from you again! Yes, December 11 works, and 45 boxes are $24 each this year, so $1,080 in total. Same designs as last year, or would you like a festive twist? Once you confirm by November 20, the date is yours.",
+   "reply": "Hi Priya, lovely to hear from you again! Yes, December 11 works, and 45 boxes are $24 each this year, so $1,080 in total. Once you confirm by November 20, the date is yours. Shall I pencil you in now?",
    "lang": "en",
    "note": "A returning customer gets the new price stated plainly in the first answer, not discovered at checkout."
   },
   {
    "id": "reply-to-customer-inquiry-dm-021",
    "situation": "I run a pottery studio in a converted shop. Grace DMed: 'is your studio wheelchair accessible? want to book my mum's birthday class on oct 17'. There's one small step at the door and we have a portable ramp, one wheel table fits a wheelchair, but the toilet is up a flight of stairs; the 2pm class that Saturday still has space.",
-   "reply": "Hi Grace, mostly yes: there's one small step at the door and we have a portable ramp for it, and one of our wheel tables fits a wheelchair. The one thing that isn't accessible is the toilet, which is up a flight of stairs. The 2pm class on Saturday 17 October has space; shall I hold two spots with the accessible table for your mum?",
+   "reply": "Hi Grace, mostly yes: there's one small step at the door and we have a portable ramp for it, and one of our wheel tables fits a wheelchair. The one thing that isn't accessible is the toilet, which is up a flight of stairs. The 2pm class on Saturday 17 October has space; shall I hold a spot at the accessible table for your mum?",
    "lang": "en",
    "note": "Name the one thing that isn't accessible up front, so they decide now rather than discover it on the day."
   },
@@ -154,7 +154,7 @@
    "situation": "我在杭州做上门喂猫，一般一天上门一次，每次60元，含喂粮、换水、铲屎和发视频，两只猫不加价。有人微信问：“国庆5号到8号出门，能上门喂两只猫吗？”这几天我都还有空。",
    "reply": "可以的，5号到8号我都有空！每次60元，两只猫不加价，包括喂粮、换水、铲屎，每次上门都会给您发视频。一天上门一次的话，4天一共240元。您家在哪个小区？我确认一下路线，就帮您把这几天留出来。",
    "lang": "zh",
-   "note": "Do the total for them: a holiday booking question is really asking what the whole trip costs."
+   "note": "替对方把总价算好：问假期上门，其实是想知道这几天一共要花多少。"
   },
   {
    "id": "reply-to-customer-inquiry-dm-023",
@@ -214,8 +214,8 @@
   },
   {
    "id": "reply-to-customer-inquiry-dm-031",
-   "situation": "I sell refurbished film cameras on Instagram from my studio in Austin. The Canon AE-1 is $260 with a 90-day warranty, and payment only goes through the card checkout on my shop, never gift cards or crypto; local buyers can also pick up and pay at the studio on Saturdays, 10 to 2, and I'm happy to hold a camera until Saturday for them. Leo DMed: 'is this legit? got scammed on insta last month, lost $150'.",
-   "reply": "Hi Leo, totally fair question after that, and sorry it happened to you. Yes, the AE-1 is $260 with a 90-day warranty, and payment only ever goes through the card checkout on my shop, never gift cards or crypto. If you're near Austin, you're welcome to come by the studio on a Saturday between 10 and 2, see it in person and pay then. Want me to put it aside for you this Saturday?",
+   "situation": "I sell refurbished film cameras on Instagram from my studio in Austin. The Halden SL-2 is $260 with a 90-day warranty, and payment only goes through the card checkout on my shop, never gift cards or crypto; local buyers can also pick up and pay at the studio on Saturdays, 10 to 2, and I'm happy to hold a camera until Saturday for them. Leo DMed: 'is this legit? got scammed on insta last month, lost $150'.",
+   "reply": "Hi Leo, totally fair question after that, and sorry it happened to you. Yes, the SL-2 is $260 with a 90-day warranty, and payment only ever goes through the card checkout on my shop, never gift cards or crypto. If you're near Austin, you're welcome to come by the studio on a Saturday between 10 and 2, see it in person and pay then. Want me to put it aside for you this Saturday?",
    "lang": "en",
    "note": "When trust is the question, answer with checkable facts and an in-person option, not reassurance."
   },

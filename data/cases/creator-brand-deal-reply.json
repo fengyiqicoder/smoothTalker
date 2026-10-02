@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -252,6 +252,13 @@
    "reply": "小何你好，brief收到了，内容方向没问题。原始素材需要单独说一下：未剪辑的源文件不包含在8000元的定制视频里。如果需要，原始素材另加3000元，只能用在你们自己的渠道，授权90天。如果主要是想要更多尺寸方便剪广告，我也可以免费多导出一版竖屏成片。你们看选哪种？确认后我们把范围写进合同。",
    "lang": "zh",
    "note": "原始素材是比成片大得多的授权：单独定价、限定渠道和期限，再给一个不加钱的替代方案。"
+  },
+  {
+   "id": "creator-brand-deal-reply-037",
+   "situation": "I review e-bikes on YouTube, 60k subscribers. Last year I posted a critical review of Voltmile's V1 bike over battery problems, and now their marketing lead, Jade, is offering $2,500, my usual rate with 30 days of organic usage, for a sponsored video on the new V2, on condition that I take the V1 review down. I'd keep the V1 review up, but I'm happy to pin a comment on it linking to the V2 video and to let her team fact-check the script.",
+   "reply": "Hi Jade, thanks for reaching out about the V2, and $2,500 with 30 days of organic usage works for me. The one condition I can't accept is taking down the V1 review: my channel runs on honest reviews, so it stays up. What I can do is pin a comment on it linking to the V2 video, so viewers find the new model, and your team is welcome to fact-check the script before it goes live. Would that work for you?",
+   "lang": "en",
+   "note": "Refuse the condition, not the deal: an honest past review isn't something a sponsorship can buy, and the new video is labelled as sponsored like any other."
   }
  ]
 }

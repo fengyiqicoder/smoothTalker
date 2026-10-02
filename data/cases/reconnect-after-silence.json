@@ -63,11 +63,11 @@
    "situation": "My high school best friend Marco moved to Lisbon six years ago and we haven't really talked in about four. I'm in Lisbon for work from Friday Oct 16 to Monday Oct 19 and I'd love to see him. Messaging him on Instagram.",
    "reply": "Marco! It's been about four years, which is ridiculous. I'm in Lisbon for work from Friday 16 October to Monday 19 October, and my first thought was you. Any chance you're free for a coffee or a beer on the Saturday or Sunday? No pressure at all if the timing's bad.",
    "lang": "en",
-   "note": "A trip to their city is a natural reason to reach out: name the gap once, one shared memory, specific days, and an easy no."
+   "note": "A trip to their city is a natural reason to reach out: name the gap once, give the specific days, and make no an easy answer."
   },
   {
    "id": "reconnect-after-silence-010",
-   "situation": "Ich habe meiner alten Mitbewohnerin Katrin nach drei Jahren Funkstille geschrieben. Sie hat nur kurz geantwortet: 'Hey, lange nicht gehört! Alles gut hier, und bei dir?' Ich wohne seit März in Leipzig und arbeite in einer Buchhandlung; früher hat sie sonntags immer Pfannkuchen gemacht. Ich weiß nicht, ob sie überhaupt Lust auf Kontakt hat.",
+   "situation": "Ich habe meiner alten Mitbewohnerin Katrin nach drei Jahren Funkstille geschrieben. Sie hat nur kurz geantwortet: 'Hey, lange nicht gehört! Alles gut hier, und bei dir?' Ich wohne seit März in Leipzig und arbeite in einer Buchhandlung; früher hat sie sonntags immer Pfannkuchen gemacht, und inzwischen mache ich selbst welche. Ich weiß nicht, ob sie überhaupt Lust auf Kontakt hat.",
    "reply": "Bei mir alles gut, danke! Ich wohne seit März in Leipzig und arbeite jetzt in einer Buchhandlung, was mir erstaunlich gut gefällt. Machst du eigentlich noch deine Sonntagspfannkuchen? Ich denke jedes Mal an dich, wenn ich welche mache.",
    "lang": "de",
    "note": "Eine kurze Antwort ist kein Nein: Länge spiegeln, ein konkretes Detail, eine leichte Frage. Antwortet sie wärmer, im nächsten Schritt ein konkretes Telefonat oder Treffen vorschlagen."
@@ -110,14 +110,14 @@
   {
    "id": "reconnect-after-silence-016",
    "situation": "我叫林悦。大学摄影社的学长周航比我高两届，我们只一起去拍过几次外景，毕业后八年没联系，他可能都不记得我了。我刚搬到深圳，看他朋友圈也在深圳，想跟他打个招呼。",
-   "reply": "周航学长好，不知道你还记不记得我，我是摄影社比你低两届的林悦，以前跟你们一起去拍过几次外景。一晃八年没联系了。我刚搬来深圳，看到你也在这边，就想打个招呼。你在深圳待得久，周末有什么值得去拍的地方吗？不急着回。",
+   "reply": "周航学长好，不知道你还记不记得我，我是摄影社比你低两届的林悦，以前跟你们一起去拍过几次外景。一晃八年没联系了。我刚搬来深圳，看到你也在这边，就想打个招呼。你觉得深圳周末有什么值得去拍的地方吗？不急着回。",
    "lang": "zh",
    "note": "对方可能不记得你时，第一句先帮他想起你是谁，再问一个他好回答、又能聊下去的问题。"
   },
   {
    "id": "reconnect-after-silence-017",
    "situation": "I'm Hannah. Mrs. Hughes, now 84, was our neighbour when I was a kid; she had me over after school and taught me to make scones. We moved away 15 years ago and lost touch. I'm writing her a letter by post: my mum has her address in Cardiff, I made her scone recipe last week, and I had my first baby, Ellie, in August.",
-   "reply": "Dear Mrs. Hughes, It's been about fifteen years, which is far too long. I made your scones last week and thought of you, so I wanted to write. My big news is that I had a baby girl, Ellie, in August. How are you keeping, and are you still baking? No rush at all to write back, and Mum can pass on my number if a phone call is easier. With love, Hannah",
+   "reply": "Dear Mrs. Hughes, It's been about fifteen years, which is far too long. I made your scones last week and thought of you, so I wanted to write. My big news is that I had a baby girl, Ellie, in August. How are you keeping, and are you still baking? No rush at all to write back. With love, Hannah",
    "lang": "en",
    "note": "A paper letter to an older person can carry a little more warmth, but the shape is the same: one memory, one question, no pressure."
   },
@@ -166,7 +166,7 @@
   {
    "id": "reconnect-after-silence-024",
    "situation": "My old flatmate Callum turns 40 on Saturday 3 October. We shared a flat in Glasgow for four years in our twenties and haven't really spoken in about six years, no falling out. I still have the terrible orange armchair we dragged home off the street together, and I want to message him on WhatsApp.",
-   "reply": "Callum, happy almost-40th! It's been about six years, which is daft. I'm typing this from that terrible orange armchair we dragged home off the street in Glasgow; it has survived every move since. How are you marking Saturday? No rush to reply, I just wanted to say happy birthday.",
+   "reply": "Callum, happy almost-40th! It's been about six years, which is daft. I still have that terrible orange armchair we dragged home off the street in Glasgow. How are you marking Saturday? No rush to reply, I just wanted to say happy birthday.",
    "lang": "en",
    "note": "A birthday is a ready-made reason: name the gap once, one shared memory, one easy question, and save any meet-up idea for when he replies warmly."
   },

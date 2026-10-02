@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -253,6 +253,13 @@
    "reply": "Now that January's final: I'm with everyone on wanting a launch we're proud of, and that's what the extra time buys us. For the record, I still see it a little differently, mainly because Halden and Marlow asked for the feature before their year-end. I've said my piece, and I'm fully behind January. If anyone has ideas for keeping those two happy in the meantime, I'm all ears.",
    "lang": "en",
    "note": "Once the call is made, say your view once for the record, then commit out loud; don't reopen it in the thread."
+  },
+  {
+   "id": "disagree-without-conflict-037",
+   "situation": "我爸想按族谱给我刚出生的儿子取名“王承祖”，“承”是我们家的字辈。我和老婆一直喜欢“一然”，我们想要一个轻快些的名字，商量好最后由我们俩定，但也想尊重字辈。周六回家想当面跟我爸说，提议叫“王承然”。",
+   "reply": "爸，您想按族谱给孩子取名，让他记得自己是“承”字辈的，这份心意我们俩特别看重。名字这件事我们想法有点不一样：我们一直喜欢“一然”，想给孩子一个轻快些的名字。要不叫“王承然”，字辈留着，也有我们喜欢的那个“然”？您觉得这个名字怎么样？",
+   "lang": "zh",
+   "note": "跟长辈唱反调：先接住字辈背后的心意，只讲一个理由，给一个保留字辈的方案，再真心问他怎么看。"
   }
  ]
 }

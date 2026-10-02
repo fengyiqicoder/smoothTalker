@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -253,6 +253,13 @@
    "reply": "说真话：没剪坏。短发特别衬你的脖子，戴那对珍珠耳环更好看。我唯一会动的是刘海，现在吹得有点蓬，明天抹一点你包里那盒发蜡往侧边压一压就好。明天你一定是个好看的伴娘。",
    "lang": "zh",
    "note": "长度已经改不了就不评价，只说真实的好处和一个明天前能做的小调整。"
+  },
+  {
+   "id": "give-feedback-kindly-037",
+   "situation": "My friend Ines has spent a year designing a co-op board game about saving a flooding library, and four of us playtested it on Saturday. The art is gorgeous and the moment the water tiles flip was genuinely tense, but each turn took about five minutes, so I sat waiting nearly 20 minutes between my turns. She messaged me privately asking what I honestly thought before she sends it to a small publisher next month.",
+   "reply": "Honestly? The art is gorgeous, and the moment the water tiles flipped was genuinely tense. The one thing that got me was the waiting: each turn took about five minutes, so I sat for nearly 20 between mine and drifted out of the game a bit. Would it be worth timing a few turns and looking for steps you could cut, or that everyone could do at once? I'm only saying it because I think this is close, and I want the publisher to feel that tension the whole way through.",
+   "lang": "en",
+   "note": "One point, framed as what the wait felt like as a player, with the fix left to her as the designer."
   }
  ]
 }

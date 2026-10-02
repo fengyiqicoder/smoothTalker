@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -253,6 +253,13 @@
    "reply": "周经理，谢谢您还想着我。我在休产假，下周二的复盘会就不参加了。我负责的渠道数据已经交接给阿敏，她都清楚，会上有问题直接找她就行。1月12日我回来上班后，先把复盘的结论补看一遍。",
    "lang": "zh",
    "note": "休假中拒会不用再补一份交付：说明在休假、谁在接手、哪天回来，就够了。"
+  },
+  {
+   "id": "decline-meeting-or-protect-time-037",
+   "situation": "I run a small dental practice. Last week I told Brindle Print, a local print shop, that we're going with another quote for our new patient leaflets. Their sales manager, Neil, has now asked for a 30-minute call this week 'to understand where we fell short'. The decision is made and I don't want a call, but I'm happy to tell him in one line that the other quote was lower.",
+   "reply": "Hi Neil, thanks for following up, and I can see you'd like to know what tipped it. I'll skip the call: the short answer is that the other quote came in lower, and the decision is made. Thanks for the time you put into yours.",
+   "lang": "en",
+   "note": "After a decision, a call is a chance to reopen it; the one-line answer gives him what he asked for without that. If he pushes, repeat that the decision is made."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -253,6 +253,13 @@
    "reply": "妈，我知道您是为弟弟的婚事着急，想让他早点安个家。这20万我不出，这件事我想好了。弟弟结婚那天，我这个当姐姐的红包一定到。对了，您跟邻居学的太极打得怎么样了？",
    "lang": "zh",
    "note": "直接的要求要给明确的答复，但不解释存款和理由，理由一出口就会变成讨价还价；她再提，就用几乎一样的话再说一遍。"
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-037",
+   "situation": "My partner Sam and I got married at the registry office in August with just two witnesses. My aunt Bev keeps asking when we're having 'the proper wedding' and says this one 'doesn't really count'. We're not planning another one. She's hosting her own 40th anniversary party next month, and I'll see her at Sunday lunch.",
+   "reply": "Ha, Aunt Bev, it counted, I was there. Sam and I are married and very happy, and there's no second wedding planned. Now tell me about your fortieth, how are the party plans coming along?",
+   "lang": "en",
+   "note": "A direct question gets a clear answer with no reasons and no apology for the small wedding; if she says it again, repeat 'married and very happy' word for word."
   }
  ]
 }

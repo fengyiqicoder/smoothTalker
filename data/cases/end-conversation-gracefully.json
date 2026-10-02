@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -253,6 +253,13 @@
    "reply": "Margaret, I promised to keep this to 20 minutes and we're there, so I'm going to wrap us up. Thank you, this has been so useful, especially the advice to shadow our PMs for a month before I apply anywhere. I'm going to start on that this month. Thanks again, and have a great rest of your day.",
    "lang": "en",
    "note": "When you asked for the time, you close it on time; if she offers to keep going, take one more question at most, then close again."
+  },
+  {
+   "id": "end-conversation-gracefully-037",
+   "situation": "My son Arlo, 7, keeps saying 'just one more question' at bedtime; tonight we're 25 minutes past his 8pm lights-out and he's asking about volcanoes. I want to end it kindly instead of walking out mid-question, and we're going to the library after school tomorrow anyway.",
+   "reply": "Arlo, I love your volcano questions, and now it's time for sleep. Save your best one for tomorrow, and we'll look it up together at the library after school. Night night, I love you.",
+   "lang": "en",
+   "note": "With a child, close it yourself and give the question somewhere to go; if he asks again, one line, 'tomorrow at the library', and leave the room."
   }
  ]
 }

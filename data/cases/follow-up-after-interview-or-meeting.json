@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Mateo,\nThanks for the call today, and for taking the time to get the flood maps right. One correction before Thursday: the number of homes in the new flood zone is 612, not the 'about 400' I guessed on the phone. That figure is from our report, which is attached as you asked. If you'd like to check any other number before the story runs, I'm happy to answer by email.\nBest,\nHana Okafor",
    "lang": "en",
    "note": "After a press interview, the follow-up that matters is the correction, sent before publication, with the source attached."
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-037",
+   "situation": "I'm Elena Petrov. I auditioned yesterday for second violin in the Riverside Community Orchestra with the conductor, Mr Haas, who said the winter programme is Dvořák's Eighth and rehearsals are Thursdays, 7 to 9:30pm. I told him I could make every Thursday, then remembered I'm away for work on 12 and 19 November; I'd practise the parts at home to keep up. He said he'd let people know by Friday 9 October.",
+   "reply": "Hi Mr Haas,\nThank you for hearing me yesterday. Hearing that the winter programme is Dvořák's Eighth made me even keener to join. One correction to what I told you: I'm away for work on Thursday 12 and Thursday 19 November, so I'd miss those two rehearsals, and I'd rather you knew before you decide. I'd practise the parts at home to keep up. I'd love to play with the orchestra and look forward to hearing from you by Friday 9 October.\nBest wishes,\nElena Petrov",
+   "lang": "en",
+   "note": "The one thing a follow-up adds can be a correction about yourself; better now than at the first missed rehearsal."
   }
  ]
 }

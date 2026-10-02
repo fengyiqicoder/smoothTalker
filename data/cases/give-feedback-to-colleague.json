@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -253,6 +253,13 @@
    "reply": "Ama, can I give you some feedback on client emails? In the last two weeks you've sent me 14 to approve before sending, including one-line meeting confirmations, and the Oakridge renewal sat for a day waiting on me. Your emails are consistently good; I've barely changed one. What makes you want a check first? Going forward, send client emails yourself, and only bring me anything about pricing or contract changes. Let's see how it feels in our 1:1 in two weeks.",
    "lang": "en",
    "note": "Over-checking is a behaviour too: the impact is speed, and the ask hands her the authority she's already earned."
+  },
+  {
+   "id": "give-feedback-to-colleague-037",
+   "situation": "我是项目组长。组员小何给王总监写的周报邮件每封都一千多字，上周他把“供应商可能延期两周”写在最后一段，王总监没看到，周一开会才知道，当场有点不高兴。小何做事很细，明天一对一想跟他聊。",
+   "reply": "小何，想跟你聊聊周报邮件的事，方便吗？上周那封里，“供应商可能延期两周”写在最后一段，王总监没看到，周一开会才知道，当场有点不高兴。你做事细，这一点我一直放心，问题是最要紧的事被埋在了后面。你写的时候是怎么安排顺序的？以后周报开头先用三行写风险和需要领导决定的事，细节放后面。下一封发出去之前，我们一起看一眼。",
+   "lang": "zh",
+   "note": "说清是哪一封、造成了什么影响，先问他的考虑，再给一个下一封就能照做的格式。"
   }
  ]
 }

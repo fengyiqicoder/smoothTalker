@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -252,6 +252,13 @@
    "reply": "Hi Noor, I'll ask this once more and then leave it with you: would you like to get a drink with me sometime, just the two of us? The pub by the park on Saturday, if that works. If it's still not something you want, that's completely fine, and Sunday runs stay exactly as they are.",
    "lang": "en",
    "note": "A 'not right now' earns one re-ask after a real gap; if it's a no again, it's final."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-037",
+   "situation": "在Soul上和一个男生阿峰聊了三周，挺投缘。我提过两次见面，他都说“好啊，改天约”，但一直没定下来。想最后约一次，给具体时间：这周日下午3点，人民公园旁边那家“半糖”咖啡馆，他还是不定就算了。",
+   "reply": "阿峰，跟你聊天挺开心的，想当面见见你。这周日下午3点，人民公园旁边那家“半糖”咖啡馆，喝杯咖啡就好，怎么样？如果你更想先在线上聊着，或者没打算见面，直接说就好，我都理解。",
+   "lang": "zh",
+   "note": "“改天”说了两次，就给一个具体时间和一个容易说不的出口；他还是不定，那就是答案，不再追问。网友第一次见面：白天、人多的公共场所，自己去自己回，告诉朋友你在哪；感觉不对就离开，遇到危险打110。"
   }
  ]
 }

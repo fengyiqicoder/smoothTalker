@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "decline-request-001",
@@ -253,6 +253,13 @@
    "reply": "Danke, dass Sie einfach fragen, Herr Yilmaz, ohne Internet zu sein ist wirklich lästig. Mein WLAN teile ich aber nicht: Das Passwort bekommt bei mir niemand außerhalb der Familie, das halte ich bei allen so. Ich hoffe, Ihr Anschluss ist bald freigeschaltet. Willkommen im Haus!",
    "lang": "de",
    "note": "Eine Regel für alle statt technischer Gründe; ein kleineres Ja gibt es hier nicht, also wird keins erfunden."
+  },
+  {
+   "id": "decline-request-037",
+   "situation": "同事小郑的女儿参加市里的少儿绘画比赛，他让我每天在比赛小程序上给她投票，还要我把拉票链接转到我所有的微信群和朋友圈，投票到10月15日截止。群里和朋友圈的拉票链接我从来不转，对谁都一样；不过我愿意自己给她投一票。",
+   "reply": "小郑，看得出你特别想帮女儿拿个好名次。拉票链接我就不转了，群里和朋友圈的拉票我一向不转，对谁都一样。我自己给她投一票，祝她拿奖！",
+   "lang": "zh",
+   "note": "拒绝的是转发拉票，不是孩子；用一条对谁都一样的规矩，投一票是真心能给的小帮忙。"
   }
  ]
 }

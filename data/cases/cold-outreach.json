@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -252,6 +252,13 @@
    "reply": "Hi Linda, thanks for asking. It's £39 a month per store, sensors included, so £78 for both pharmacies, with no contract. You can try it free for 30 days first. Would you like me to set up a trial at one of the stores? A no is genuinely fine too.\nBen",
    "lang": "en",
    "note": "When they ask the price, give it in the first line with no hedging or call request, then one small yes/no next step."
+  },
+  {
+   "id": "cold-outreach-037",
+   "situation": "I'm Farah Qureshi and I make Ember Jar chilli oil, now stocked in 14 independent shops. At the Northern Fine Food Fair on Tuesday I spoke for two minutes with Greg Sutton, buyer for the nine-shop deli chain Larder & Loaf; he tried the smoked garlic one and said 'email me after the show'. I'd like to send him a sample case of six jars.",
+   "reply": "Subject: Ember Jar chilli oil, from Tuesday's fair\n\nHi Greg,\nWe spoke briefly at my stand at the Northern Fine Food Fair on Tuesday; you tried the smoked garlic chilli oil and asked me to email after the show. Ember Jar is now stocked in 14 independent shops. Could I send you a sample case of six jars for your team to try? If it's not one for Larder & Loaf, a quick no is genuinely helpful.\nFarah Qureshi",
+   "lang": "en",
+   "note": "A two-minute chat at a fair still needs reminding: the moment he asked you to write is your why-him, then one number and one small ask."
   }
  ]
 }

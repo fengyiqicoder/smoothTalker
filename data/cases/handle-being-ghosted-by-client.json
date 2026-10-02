@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Kira, picking up the waitlist feature you asked about on September 18: my quote was $1,400 and five extra working days. To fit it in before the 13 November launch, I'd need your go-ahead by Friday 9 October; otherwise I can build it after launch. Until I hear a yes, I'll keep building the original scope only, so nothing changes on your bill or the launch date. A quick 'yes', 'after launch' or 'no thanks' is all I need.",
    "lang": "en",
    "note": "Silence on an add-on isn't a yes: stick to the signed scope so neither the bill nor the deadline moves without her say."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-037",
+   "situation": "I'm Maya Lindgren, a freelance UX writer rewriting the app copy for Bramblefit for their product lead, Owen. He's had the onboarding screens for review since 4 September and hasn't answered that or my bump on 18 September. I start maternity leave on Monday 30 November; to finish it myself I'd need his notes by Friday 16 October, and otherwise my colleague Pia Hart, also a freelancer, could take over the rest, with me briefing her fully before I go.",
+   "reply": "Hi Owen, a heads-up that changes the timeline: I start maternity leave on Monday 30 November. To finish the app copy myself, I'd need your notes on the onboarding screens by Friday 16 October; if you're happy with them as they are, 'approved' is plenty. If that's too tight, my colleague Pia Hart, also a freelancer, could pick up the rest, and I'd brief her fully before I go. And if the project is on hold, just say so and I'll pause it. Which works best for you?",
+   "lang": "en",
+   "note": "A fixed date in your own life is a real deadline: say it once, offer the options, and don't start a handover until he picks one."
   }
  ]
 }

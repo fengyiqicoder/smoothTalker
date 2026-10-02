@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Gary, following up on the retention for the extension rewire: £620, the 5% held back, which clause 9 of our subcontract releases 30 days after practical completion. Sign-off was 14 August, so it was due on 13 September, and on the 20th you mentioned the end of the month. It hasn't come through yet. Could you send it by Friday 9 October, to the bank details on the original invoice, or tell me today if anything is holding it up? Thanks, Dev",
    "lang": "en",
    "note": "Retention is easy to forget on both sides: quote the clause and the sign-off date so the due date isn't up for debate, and save any firmer step for after the new date passes."
+  },
+  {
+   "id": "chase-late-payment-037",
+   "situation": "I'm Noor Haddad, a freelance illustrator. Oakfern Games cancelled their card-art project on 10 September after I'd delivered 12 of 30 sketches; clause 11 of our signed contract says that if the client cancels, a kill fee of 50% of the $6,000 total is due within 14 days, and it says nothing about whether the work is used. I sent invoice #0910 for $3,000 that day, due 24 September, and their producer, Marcus, has now replied that since they won't use any of the art, they don't think they owe anything.",
+   "reply": "Hi Marcus,\nThanks for letting me know where things stand. Clause 11 of our signed contract sets a kill fee of 50% of the $6,000 project fee if the client cancels, due within 14 days, and it doesn't depend on whether the art is used. That's invoice #0910 for $3,000, which was due on 24 September; I've attached it again with the contract. Could you confirm a payment date by Friday 9 October? If something is holding it up on your side, tell me and I'll help sort it.\nThanks,\nNoor Haddad",
+   "lang": "en",
+   "note": "A kill fee is money owed under the contract like any invoice: quote the clause once, attach it, and ask for a date rather than arguing about the art."
   }
  ]
 }

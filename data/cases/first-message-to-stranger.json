@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Ellen, this is the other Ellen Marsh, also a structural engineer, in Bristol. A recruiter emailed me this week to congratulate me on the Yarra footbridge, so I'm passing the congratulations on to the right Ellen. Do you ever get mail meant for me?",
    "lang": "en",
    "note": "A shared name and job is the hook; one light, easy question and no ask."
+  },
+  {
+   "id": "first-message-to-stranger-037",
+   "situation": "Comprei num sebo de Belo Horizonte um exemplar de Grande Sertão: Veredas com uma dedicatória escrita à mão: 'Para a minha Marina, leia devagar. Vó Dalva, 2009.' No Instagram achei uma Marina Teles, de BH, que posta resenhas de livros e já falou da avó Dalva. Quero perguntar se o livro é dela e oferecer mandar pelo correio, por minha conta, sem ser invasivo.",
+   "reply": "Oi, Marina! Comprei num sebo aqui de BH um Grande Sertão: Veredas com uma dedicatória à mão: 'Para a minha Marina, leia devagar. Vó Dalva, 2009.' Vi você falar da sua avó Dalva nas resenhas e fiquei pensando: esse livro é seu? Se for, adoraria te mandar pelo correio, por minha conta. Se não for, desculpa o engano e boas leituras!",
+   "lang": "pt",
+   "note": "Uma pergunta de sim ou não, nada pedido em troca e uma saída fácil; se ela não responder, não insista."
   }
  ]
 }

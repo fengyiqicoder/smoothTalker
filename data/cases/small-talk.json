@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 35,
+ "count": 36,
  "cases": [
   {
    "id": "small-talk-001",
@@ -246,6 +246,13 @@
    "reply": "爸，听妈说你阳台的辣椒结果了？结了多少个？把手机转过去让我看看呗。我在上海一盆植物都没养活过，你这手艺得教教我。",
    "lang": "zh",
    "note": "跟话少的长辈视频，问他正在用心的东西，最好让他拿给你看；接着顺着他的回答问“怎么种的”，别急着换话题。"
+  },
+  {
+   "id": "small-talk-036",
+   "situation": "I'm Jo. I met Zoe at a board game café night last Thursday and we swapped numbers; she texted 'great meeting you!', I replied 'you too!', and it's gone quiet. She'd mentioned she paints tiny figures for her games and was halfway through a dragon, and the most I've ever painted is my bedroom wall. I'd like to keep it going as friends, not as a date.",
+   "reply": "Hi Zoe, it's Jo from board game night. I've been wondering all week: did the dragon get finished? I'd love to see a photo. The most I've ever painted is my bedroom wall, so anything that small genuinely impresses me.",
+   "lang": "en",
+   "note": "Over text, pick up the thread she gave you and share one small thing back; if her reply is short, let it rest rather than sending more questions."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Joel, welcome to Hillside Community Garden, and thank you for taking on plot 17! I'll meet you at the main gate on Saturday 10 October at 10am for a walk round, and I'll hand over the shed key then. Before that, could you send me an emergency contact name and number by Wednesday 7 October, for our records? I'm a volunteer, so I usually reply to emails within a couple of days. One tip: there's an optional work party every Sunday from 10 to 12, a nice way to meet the other plot holders.\nBridget",
    "lang": "en",
    "note": "Volunteer-run membership: date, place and the one record you need, plus an honest reply time so a slow answer never reads as being ignored."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-037",
+   "situation": "I'm Leah, a newborn photographer. Sam and Joe just booked a home newborn session for their baby, due on 20 October; I shoot within the baby's first two weeks, and they text me when the baby arrives so we can fix a day. I need their address and where to park by Friday 16 October, and I'd love to use a few photos on my website and social media, but only with their written yes; without it nothing gets shared. I answer texts on 07700 900612 within a few hours.",
+   "reply": "Hi Sam and Joe, thank you for booking your newborn session, I'm so looking forward to meeting your little one. Here's how it works: once the baby arrives, text me and we'll pick a day within the first two weeks for me to come to you. Before then, could you send me your address and where I can park by Friday 16 October? I'd also love to share a few of your photos on my website and social media, but only if you say yes in writing; if I don't hear a yes, nothing gets shared, and that's completely fine. Any questions, text me on 07700 900612 and I'll reply within a few hours. Leah",
+   "lang": "en",
+   "note": "Permission to share photos is opt-in: no reply means no, so the default protects the family, not the business."
   }
  ]
 }

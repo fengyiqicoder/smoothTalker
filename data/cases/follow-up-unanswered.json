@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -253,6 +253,13 @@
    "reply": "¡Hola, Hana! Me imagino que el trabajo nuevo te tiene a tope. Te lo pregunto en una línea: ¿seguimos con las videollamadas de los jueves a las 20:00 en octubre? Un sí, un no o un «ahora no puedo» me valen igual, de verdad.",
    "lang": "es",
    "note": "Con alguien que no te debe nada, el primer recordatorio supone que está ocupada y hace el no tan fácil como el sí."
+  },
+  {
+   "id": "follow-up-unanswered-037",
+   "situation": "我11月21日周六在老家办婚宴，酒店要11月10日前报桌数。9月25日我在微信上问表叔一家三口能不能来，他一直没回，他平时不太看微信。想再问一次，不想让他觉得被催。",
+   "reply": "表叔好，知道您平时忙，微信消息一多就容易被刷下去。还是11月21日我婚宴的事，想问问您一家三口方便来吗？酒店要11月10日前报桌数，您回个“来”或者“来不了”就行，打字不方便发条语音也可以。来不了也完全没关系。",
+   "lang": "zh",
+   "note": "长辈不常看微信，就把回复缩成一两个字；这次还没回，就直接打电话问，别把沉默当成来或不来。"
   }
  ]
 }

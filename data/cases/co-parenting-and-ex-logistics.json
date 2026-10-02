@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -253,6 +253,13 @@
    "reply": "你好，说一下小米小升初填志愿的事，10月20日截止。两所学校都有开放日：实验中学是10月10日周六上午，十一中是10月11日周日上午。我想我们俩都带小米去这两个开放日，听听她自己的想法，然后在10月18日前一起定下来。你看可以吗？周三前回我一下就行。谢谢。",
    "lang": "zh",
    "note": "两人意见不同时，先不在消息里争哪所学校好，只提一个一起了解、一起决定的流程，让孩子的想法有地方说。"
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-037",
+   "situation": "Mein Ex-Mann Jens fragt unseren Sohn Paul (8) nach jedem Wochenende bei mir aus, mit wem ich mich treffe, und schreibt mir dann Nachrichten wie „Wer war Samstag bei dir?“. Er kontrolliert mich schon seit der Trennung, und das macht mir Angst. Ich möchte nur auf die Übergabe am Samstag um 10 Uhr bei mir antworten und ihm einmal klar sagen, dass mein Privatleben kein Thema ist und Paul nicht ausgefragt werden soll.",
+   "reply": "Hallo Jens, Samstag um 10 Uhr bei mir steht, Paul ist dann fertig. Fragen zu Paul beantworte ich gern, über mein Privatleben schreibe ich nicht. Bitte frag auch Paul nicht danach. Danke.",
+   "lang": "de",
+   "note": "Nur die Logistik und eine klare Grenze, ohne Rechtfertigung; Nachrichten mit Datum sichern. Ständige Kontrolle kann Teil häuslicher Gewalt sein: Eine Beratungsstelle gegen häusliche Gewalt kann helfen, und bei akuter Gefahr den Notruf 110 wählen."
   }
  ]
 }

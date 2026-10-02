@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -253,6 +253,13 @@
    "reply": "Thanks for asking me again, Ruth, I really do want to see you. I can't do Sunday, it's my nephew's christening. I know I've missed the last couple of things too, so let me sort the next one: dinner on Wednesday evening?",
    "lang": "en",
    "note": "After a run of no's, the concrete plan carries the message; name the pattern once and don't re-explain the earlier declines."
+  },
+  {
+   "id": "decline-invitation-037",
+   "situation": "Mi madre, Pilar, tiene alzhéimer avanzado y vive conmigo en Zaragoza. El coro en el que cantó treinta años la ha invitado al concierto de su 50 aniversario, el sábado 24 de octubre, y la directora, Montse, me ha escrito a mí para confirmar. Mi madre no irá, porque un sitio con tanta gente la altera mucho, y me gustaría que el coro supiera que hasta hace poco seguía cantando sus canciones en casa.",
+   "reply": "Querida Montse, muchas gracias por acordaros de mi madre para el 50 aniversario, me ha emocionado de verdad. Pilar no podrá ir al concierto del sábado 24 de octubre: con el alzhéimer, un sitio con tanta gente la altera mucho. Quiero que sepáis que hasta hace poco seguía cantando vuestras canciones en casa. Os deseo un concierto precioso.",
+   "lang": "es",
+   "note": "Al declinar en nombre de otra persona, basta un motivo breve y verdadero, sin más detalle médico del necesario; el cariño va a lo que el coro significó para ella."
   }
  ]
 }

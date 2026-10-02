@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -253,6 +253,13 @@
    "reply": "爷爷，您先坐下，我有件不好的事要跟您说。三爷爷昨天夜里在医院走了，今天早上堂叔打电话告诉我的。我知道您俩感情最好，上个月还视频过，这个消息太难受了。葬礼在这周日，您想回去的话，我开车带您去。您想问什么都行，我在这儿陪着您。",
    "lang": "zh",
    "note": "当面、慢慢说，先让他坐下；他听不清就原话再说一遍，别改成更含糊的说法。"
+  },
+  {
+   "id": "deliver-bad-news-037",
+   "situation": "My husband Rob and I have decided to separate after 31 years. He's moving into a flat in town in November and we'll sell the house in the spring; nobody else is involved, it's been coming for a while, and we've agreed our daughter Emma, 26, will still spend Christmas at the house with both of us this year. Emma lives in Glasgow and we're telling her together on a video call on Sunday; I'm doing the talking.",
+   "reply": "Emma, Dad and I have some news that's hard to hear, and we wanted to tell you together. We've decided to separate, after 31 years. It's been coming for a while, and nobody else is involved. Dad's moving into a flat in town in November, and we'll sell the house in the spring, which we know is your home too. Christmas this year will still be at the house with both of us, and you can ask us anything, now or whenever you're ready.",
+   "lang": "en",
+   "note": "Both parents, one voice: the news in the second line, the practical changes she'll wonder about, and no blame. Then stop and let her react."
   }
  ]
 }

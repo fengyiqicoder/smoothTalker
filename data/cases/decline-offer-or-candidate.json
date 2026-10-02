@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -253,6 +253,13 @@
    "reply": "Hi Kezia, thank you for applying for the project coordinator role, and for your scheduling exercise, which was one of the strongest we saw. We've decided to offer the role to another candidate who has run construction projects, which the role needs from day one. I wanted you to hear it from me before Saturday rather than have it hanging over the birthday. Nothing changes between us on my side, and if you'd rather not talk about it on Saturday, that's completely fine.",
    "lang": "en",
    "note": "A friend gets the same clear, specific no as any candidate; keep the hiring detail in the email and let her decide whether it comes up socially."
+  },
+  {
+   "id": "decline-offer-or-candidate-037",
+   "situation": "I'm Ana. Corvane Systems offered me a QA lead role on Wednesday, and their recruiter, Ben, wants a yes by 5pm today. I asked for until Monday evening because I have a final interview elsewhere on Monday morning, and he said the deadline can't move. I'm not willing to accept without being sure, so I'm declining; my conversation with their test manager, Grace, about how her team tests releases was a highlight.",
+   "reply": "Hi Ben, thank you for the offer, and for the time you and the team put into the process; my conversation with Grace about how her team tests releases was a real highlight. Since the deadline can't move past 5pm today, and I need until Monday to finish another process I'm in, I'm going to decline. I'd rather tell you clearly now than say yes without being sure. I'd be glad to stay in touch. Best, Ana",
+   "lang": "en",
+   "note": "When an offer comes with a deadline you can't meet, decline cleanly and say why; accepting and backing out later costs them far more."
   }
  ]
 }

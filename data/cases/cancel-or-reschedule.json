@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -253,6 +253,13 @@
    "reply": "王老师您好，下周三下午3点的进度汇报我需要改一下时间：实验数据还没跑完，现在汇报只能讲一半，我想等结果完整了再向您汇报。提前跟您说一声，免得占用您的时间。下周五下午2点或者下下周一上午10点，您看哪个方便？如果都不合适，您定一个时间，我来配合。谢谢老师！",
    "lang": "zh",
    "note": "对导师也是第一句说改期，理由说真话（数据没跑完），提前一周说，道歉就可以短，再给两个具体时间。"
+  },
+  {
+   "id": "cancel-or-reschedule-037",
+   "situation": "Last week my friend Leah moved our Thursday dinner at Nonna's to next Wednesday because of a work trip, and I said no problem. Now my landlord has booked a gas safety check for Wednesday evening that I have to be in for, so I need to move it again. I don't want it to feel like payback; I could do Thursday or Friday next week, same place, and I'll book.",
+   "reply": "Leah, I need to move Wednesday: my landlord has booked a gas safety check that evening and I have to be in for it. Genuinely just bad timing, nothing to do with last week. Could we do Thursday or Friday instead, same place at Nonna's? Tell me which and I'll book the table.",
+   "lang": "en",
+   "note": "When they were the one who moved it last time, say once that this isn't tit-for-tat, then take on the rebooking yourself."
   }
  ]
 }

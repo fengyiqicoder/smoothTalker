@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -253,6 +253,13 @@
    "reply": "I know you're working from the same system, and this isn't about you. This is my fourth call about file LHR-55821, my suitcase from flight 218 last Sunday; on Tuesday, Wednesday and Thursday I was told it's being traced, with no update. It has the dress for my sister's wedding next Saturday. Could you put me through to a supervisor who can tell me where the bag is and give me a delivery date? If nobody is free right now, could you book a supervisor callback for today and give me a reference for this call?",
    "lang": "en",
    "note": "On a live call, the agent is the person you're going past, so the 'not about you' line comes first; note their name and the call reference."
+  },
+  {
+   "id": "escalate-an-issue-037",
+   "situation": "I'm Sam Ortiz, a sales operations analyst. On Tuesday 29 September my manager, Derek, asked me in a Slack DM to enter the Brookfield order ($62k, signed by the customer on 1 October) with a 30 September date so it counts toward Q3; I said no in the same thread and kept the messages. Q3 books close on Tuesday 6 October, and our code of conduct says requests like this go straight to finance or the ethics line, so I'm emailing our financial controller, Ana Ruiz, without telling Derek first.",
+   "reply": "Subject: Guidance needed by Mon 5 Oct: Brookfield order date\nHi Ana, on Tuesday 29 September Derek asked me in a Slack DM to enter the Brookfield order ($62k) with a 30 September date so it counts toward Q3; the customer signed it on 1 October. I said no in the same thread and have kept the messages. I haven't raised this with Derek before writing, because our code of conduct says requests like this go straight to finance or the ethics line. Q3 books close on Tuesday 6 October. Could you confirm by Monday 5 October that the order is booked on its signed date, and tell me what you need from me? I can send the Slack messages today. Thanks, Sam Ortiz",
+   "lang": "en",
+   "note": "When the person you'd normally warn is the subject, say why you didn't; follow your company's reporting policy, and check it for any protection it gives people who report."
   }
  ]
 }

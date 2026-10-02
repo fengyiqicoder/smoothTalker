@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 36,
+ "count": 37,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -253,6 +253,13 @@
    "reply": "Dana, I'm going to stop, because I just made it worse. Saying you've already decided wasn't fair, and I'm sorry. I can hear that you feel I'm not really listening about Leeds. Can we try again tomorrow at 6:30, before the kids are up? I'm not walking away from this, or from you.",
    "lang": "en",
    "note": "When the talk after the pause flares up again, take a second, shorter pause and own the new line instead of restarting the original fight."
+  },
+  {
+   "id": "de-escalate-argument-037",
+   "situation": "老婆想让我这周末陪她回娘家，我不想去，在微信上吵起来了，我说了句“你妈就是事多”。她回：“你每次都这样，去年中秋你也是临时说不去。”中秋那次我确实是加班，但我不想翻旧账，只想先把火灭了。她今晚9点下班。",
+   "reply": "老婆，“你妈就是事多”那句是我说错了，对不起。我知道你是觉得一到你家的事，我就往后缩，留你一个人扛。去年中秋的事我们今天先不争。你今晚9点下班，我们打个电话，好好商量这周末怎么安排。我不想跟你争输赢，我想跟你站一边。",
+   "lang": "zh",
+   "note": "对方翻旧账时，别去辩解中秋那次，只认今天说错的那句话，旧账留到冷静下来再谈。"
   }
  ]
 }
