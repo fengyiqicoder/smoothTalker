@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-unanswered",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "follow-up-unanswered-001",
@@ -239,6 +239,13 @@
    "reply": "Hi Gwen, I know these apps get busy. Still keen on the bike trailer for $70: would Tuesday or Thursday evening next week work for pickup, any time after 6pm? I'll bring cash. If it's gone or you've changed your mind, no problem, a quick note is all I need.",
    "lang": "en",
    "note": "As the buyer, make the reply one word (a day) and give an easy out; if one more nudge gets nothing, assume it's sold."
+  },
+  {
+   "id": "follow-up-unanswered-035",
+   "situation": "I'm a small landlord and rent out 3 Fenn Street to Jas. I texted her on Sept 24 and Sept 29 asking when the engineer can come for the annual boiler service, and she hasn't replied. The engineer can do Tuesday 13 or Thursday 15 October, mornings, and our tenancy agreement says I give at least 24 hours' notice before any visit.",
+   "reply": "Hi Jas, I know life gets busy. Picking up the annual boiler service at 3 Fenn Street: the engineer can come on the morning of Tuesday 13 or Thursday 15 October. Which suits you better? If neither works, tell me a morning that does and I'll check with him. Either way I'll confirm at least 24 hours ahead, as our tenancy agreement says.",
+   "lang": "en",
+   "note": "Make the reply one word; her silence isn't agreement to a visit, so don't book one she hasn't confirmed, and check local rules on access if it drags on."
   }
  ]
 }

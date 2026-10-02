@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -239,6 +239,13 @@
    "reply": "Hannah, I can tell how stressed you are about next Thursday, and I get why. I'm not going to back either of you to Dr Reyes, though; I'm working with both of you and I don't want to take sides. What we all want is a presentation that comes together. Could the whole group get on a call tomorrow evening, just to agree who owns which slides and when each part is due, one person talking at a time? I'll say exactly the same to Kofi. Whether you contact Dr Reyes after that is your call.",
    "lang": "en",
    "note": "Declining to co-sign a complaint is still neutral; steer both towards the shared deadline and one practical agreement."
+  },
+  {
+   "id": "mediating-between-two-people-035",
+   "situation": "I introduced my friend Zoe, a photographer, to my old colleague Martin, and he hired her to shoot the new menu for his café for £600. Zoe says she delivered the photos two weeks ago and hasn't been paid; Martin says half the shots weren't usable and he'll pay £300. Martin has just messaged me: 'You recommended her, so can you sort this out?'",
+   "reply": "I'm sorry this has gone sideways, Martin, and I can see why you'd come to me, since I put you two in touch. I'm not going to rule on the photos or the invoice, though, and I won't pass messages between you; I care about you both, and things get muddled when they go through a third person. This one is best settled between you and Zoe directly, maybe by going through the shots together and agreeing which ones need redoing. I'll say the same to her if she asks, and I'd really like you both to come out of it on good terms.",
+   "lang": "en",
+   "note": "Making the introduction doesn't make you the guarantor: own the link, then hand the dispute back to the two people who made the deal."
   }
  ]
 }

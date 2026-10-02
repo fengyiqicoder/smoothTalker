@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -239,6 +239,13 @@
    "reply": "Hi all, I'm Leah, and I'm covering Sarah's role on the comms team until she's back in July. I've spent six years doing comms for a hospice, mostly press and fundraising appeals, so that side of the work is familiar ground. I've got Sarah's handover doc, and my aim is to keep things running the way she set them up, not to reinvent them. Outside work I swim in the sea all year round, yes, even in January. If there's something in Sarah's patch you rely on that might not be in the doc, I'd love to hear it.",
    "lang": "en",
    "note": "Maternity cover: say it's temporary and that you're keeping her work going, so the team doesn't brace for change."
+  },
+  {
+   "id": "introduce-yourself-035",
+   "situation": "I'm Ruth Okonkwo, and on Monday I start as CFO of Alder & Pine, a furniture maker with about 400 staff; the CEO wants me to say hello for about a minute on Thursday's all-hands video call. I spent 12 years in finance at a hospital group, where my proudest project was cutting the time we took to pay suppliers from 60 days to 30. I'm a keen but average amateur cellist, and I want people to feel they can bring me money questions without it being scary.",
+   "reply": "Hi everyone, I'm Ruth Okonkwo, and I joined this week as CFO. I spent the last 12 years in finance at a hospital group, and the project I'm proudest of there was getting our suppliers paid in 30 days instead of 60. Outside work I play the cello, keenly rather than well. Over the next month I'd love to hear from anyone who's ever thought finance makes their job harder than it needs to be; my inbox is open, and no question is too small.",
+   "lang": "en",
+   "note": "A senior hello to a big room: one result people can picture, one human line, and an invitation that makes you easy to approach."
   }
  ]
 }

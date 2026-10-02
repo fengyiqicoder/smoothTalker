@@ -1,6 +1,6 @@
 {
  "playbook": "neighbour-disputes",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "neighbour-disputes-001",
@@ -239,6 +239,13 @@
    "reply": "602的邻居您好，我是楼下502的小葛，一直没机会正式打招呼。这个月我在阳台上捡到好几个烟头，9月27日有一个还没灭，把藤椅坐垫烧了个洞，阳台上还晾着衣服，想想挺后怕的。看位置可能是从楼上落下来的，您可能也没注意到。以后在阳台抽烟时，能麻烦您用个烟灰缸吗？我们家要是有什么打扰到您的，也请直接跟我说。",
    "lang": "zh",
    "note": "涉及火灾隐患：阳台一旦冒烟起火马上打119。字条没用再找物业，并提前告诉对方。"
+  },
+  {
+   "id": "neighbour-disputes-035",
+   "situation": "I'm Ben at number 12. My neighbour at 14, Gary, wants to replace the whole fence between our back gardens with new 6ft panels and has asked me to pay half of the £2,400 quote. Our deeds don't say who owns that fence; apart from two leaning panels near our shed it looks fine from our side, and we'd rather keep it at the current height. I'd happily put £400 towards repairing those two panels like for like.",
+   "reply": "Hi Gary, it's Ben from number 12, and thanks for asking before getting the work done. Apart from the two leaning panels near our shed, the fence looks fine from our side, and we'd rather keep it at the current height than go up to 6ft. I'm happy to put £400 towards repairing those two panels like for like. I wouldn't be able to go halves on the £2,400, but if you'd still like a full replacement, could we talk about the height first? Happy to chat over the fence whenever suits.",
+   "lang": "en",
+   "note": "When the deeds don't settle ownership, offer a clear contribution rather than arguing about who owns it; check local rules on fence height before agreeing to anything."
   }
  ]
 }

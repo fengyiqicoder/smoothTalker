@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -239,6 +239,13 @@
    "reply": "小刘、老马，跟你们说一声：我11月搬到城东，以后上班就不顺路了，10月30日周五是我最后一次捎你们。提前一个月说，是想给你们留点时间安排。小区门口早上7点20分有一趟班车，直达公司附近，可以试试。10月的油费你们月初已经给过了，就到这儿，不用再给。这一年半每天早上一路聊着去上班，真挺舍不得的。",
    "lang": "zh",
    "note": "退出固定的顺路接送也是离开：提前说、给日期，交接就是告诉对方替代的路线，钱的事一句说清。"
+  },
+  {
+   "id": "leave-or-quit-gracefully-035",
+   "situation": "Ich bin Miriam und seit fünf Jahren Key-Account-Managerin bei einem Softwarehaus. Heute habe ich gekündigt, weil ich zu einem Wettbewerber wechsle, und mein Chef hat mich sofort bis zum Ende der Kündigungsfrist freigestellt; Laptop und Zugänge musste ich gleich abgeben, verabschieden konnte ich mich nicht. Meine Übergabenotizen zu meinen Kunden liegen schon im Teamordner, und ich möchte meiner Kollegin Sandra, mit der ich drei Jahre eng zusammengearbeitet habe, privat per WhatsApp ein paar Zeilen schicken.",
+   "reply": "Liebe Sandra, du hast es bestimmt schon gehört: Ich habe heute gekündigt und bin ab sofort freigestellt, deshalb konnte ich mich nicht richtig verabschieden. Meine Übergabenotizen zu meinen Kunden liegen im Teamordner. Danke für drei richtig gute Jahre enger Zusammenarbeit. Lass uns bald mal privat einen Kaffee trinken!",
+   "lang": "de",
+   "note": "Bei einer Freistellung bleibt die Nachricht privat und persönlich, ohne Firmen- oder Kundenthemen; was in der Freistellung erlaubt ist, steht im Arbeitsvertrag, im Zweifel nachfragen."
   }
  ]
 }

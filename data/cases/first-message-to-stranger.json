@@ -1,6 +1,6 @@
 {
  "playbook": "first-message-to-stranger",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "first-message-to-stranger-001",
@@ -239,6 +239,13 @@
    "reply": "Hi Mia, saw your post about needing a bassist. That walking line in the bridge of 'Low Tide' is the bit I keep replaying; I've played bass for five years in a covers band and would love to have a go at it with you. Would a quick recording of me playing it help before any audition?",
    "lang": "en",
    "note": "Proof you listened, one clause of relevant experience, and a tiny ask she can answer in a line."
+  },
+  {
+   "id": "first-message-to-stranger-035",
+   "situation": "I took on a plot at our town allotments in the spring. The woman on the next plot, who I've never spoken to, grows huge dahlias, and she's there weeding today. Slugs ate my first dahlias down to stumps, and I want to say something to her as I walk past.",
+   "reply": "Hi, I'm on the plot next door. Your dahlias are the reason I slow down every time I walk past. Mine got eaten down to stumps, so how do you keep the slugs off yours?",
+   "lang": "en",
+   "note": "Said out loud, keep it to one breath and one question; if she's busy or brief, smile and carry on to your plot."
   }
  ]
 }

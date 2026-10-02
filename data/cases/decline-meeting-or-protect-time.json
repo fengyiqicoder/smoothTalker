@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -239,6 +239,13 @@
    "reply": "Oi, Renata, que bom que você quer a girafa para o seu filho! Não faço videochamadas, mas dá para resolver as cores por aqui: hoje mesmo te mando pelo WhatsApp a cartela com as 12 cores disponíveis. Você escolhe com calma e me manda as que preferir; respondo todas as mensagens até as 18h. Pode ser assim?",
    "lang": "pt",
    "note": "Numa venda pequena, o que a cliente precisa é escolher as cores: ofereça a cartela por escrito, não a chamada."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-035",
+   "situation": "我是后端开发，同时在两个项目上。A项目的经理老韩约了下周二上午10点到12点的接口评审会，正好撞上B项目经理小王一个月前定的上线演练，演练必须我在。老韩那边要的是我对接口文档的意见，我周一下班前能写在文档评论里；周二下午2点以后我有空。",
+   "reply": "韩哥，下周二上午的接口评审我参加不了，正好撞上B项目一个月前定的上线演练，那边必须我在。你需要的是我对接口文档的意见，我周一下班前写在文档评论里，会上大家直接看就行。如果有哪个点需要当面过，周二下午2点以后我都可以。你看这样可以吗？",
+   "lang": "zh",
+   "note": "撞会时不用让两位经理比谁更重要：说清先定的那个，把这边要的东西提前交出去，再给一个能当面过的时间。"
   }
  ]
 }

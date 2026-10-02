@@ -1,6 +1,6 @@
 {
  "playbook": "decline-request",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "decline-request-001",
@@ -239,6 +239,13 @@
    "reply": "Nathan, thanks for thinking of me, and it's great to see Forkful getting to this stage. I'm going to say no to investing; I don't put money into friends' businesses, and that's the same for everyone. If it helps, send me your pitch deck by Friday and I'll give you written feedback on it. Rooting for you.",
    "lang": "en",
    "note": "A rule leaves nothing to negotiate on amount or terms; the deck feedback is the smaller yes, offered only because it's real."
+  },
+  {
+   "id": "decline-request-035",
+   "situation": "Mon ami Hugo me demande de lui prêter mon appartement le samedi 17 octobre pour fêter ses 30 ans avec une trentaine de personnes, pendant que je serai chez mes parents à Lyon. Je ne prête mon appartement pour des fêtes à personne. Par contre, je peux lui prêter mes guirlandes lumineuses et ma grosse enceinte.",
+   "reply": "Hugo, je vois que tu cherches un endroit pour tes 30 ans. Pour l'appart, ce sera non : je ne le prête pas pour des fêtes, et c'est pareil pour tout le monde. Par contre, je te prête volontiers mes guirlandes lumineuses et ma grosse enceinte, où que tu fasses la fête. Et bon anniversaire d'avance !",
+   "lang": "fr",
+   "note": "Une règle valable pour tous évite de débattre des risques ; le prêt du matériel est le petit oui, et seulement parce qu'il est réel."
   }
  ]
 }

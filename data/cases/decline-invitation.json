@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -239,6 +239,13 @@
    "reply": "Thanks so much for inviting us, Marcus. Dev will definitely be there, but I'm going to sit this one out. Have a brilliant night, and happy 50th!",
    "lang": "en",
    "note": "When your partner is going, their yes carries the friendship; your own no can be short, warm and reason-free."
+  },
+  {
+   "id": "decline-invitation-035",
+   "situation": "Our uni friends' WhatsApp group (six of us) is planning a ski week in February, and Tom, who's organising, asked everyone to say yes or no by Sunday so he can book the chalet. I started a new job last month and can't take a week off that soon. I'd love to see everyone at a dinner when they're back, and I'm replying in the group, not privately.",
+   "reply": "Thanks for organising, Tom. I'm a no for the ski week, the new job won't stretch to a week off in February. Have the best time, and count me in for dinner when you're all back.",
+   "lang": "en",
+   "note": "In a group chat, answer the organiser's question in one line so they can count heads; one short true reason, and the warmth goes into the dinner."
   }
  ]
 }

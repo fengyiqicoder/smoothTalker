@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -239,6 +239,13 @@
    "reply": "Dear Omar,\nI'm writing to let you know that I won't be renewing your tenancy at 5 Mill Lane, Flat 2, when it ends on 31 January 2027. This is more than the two months' written notice in clause 9 of the lease. The reason is that the building needs full rewiring, about three months of work, and it can't be done with anyone living there. You've been a great tenant for four years, so I'd like to offer you the flat back at the same rent of £950 once the work is done, and I'm very happy to give you references in the meantime. Could you confirm you've received this, and let me know whether you'd like to take up the offer?\nBest wishes,\nRuth Ellis",
    "lang": "en",
    "note": "Landlord ending a tenancy for works: date and clause first, the reason in one line, a real offer to return; check local rules on ending a tenancy for renovation before sending, and put any return agreement in writing."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-035",
+   "situation": "I'm Priya Desai. I've rented my aunt Meena's flat at 11 Kestrel Court, Flat 5, for three years at £700 a month, well under market. Our written agreement says one month's written notice, and rent is due on the 1st. I'm moving in with my fiancé and want to leave on 30 November; I'm worried she'll be hurt because she kept the rent low for me. I'd like to repaint the living room before I go and help her find the next tenant.",
+   "reply": "Dear Aunty Meena,\nI wanted you to hear this from me properly, and in writing as our agreement asks: I'm giving notice to leave 11 Kestrel Court, Flat 5, with my tenancy ending on Monday 30 November 2026, in line with the one month's written notice in our agreement. I'm moving in with my fiancé. I'll pay November's £700 on the 1st as usual, and before I go I'd like to repaint the living room and help you find the next tenant. Could you reply to confirm you've received this?\nThank you for these three years, and for keeping the rent so low for me; it made a huge difference.\nWith love,\nPriya",
+   "lang": "en",
+   "note": "A family landlord still gets the exact date and the agreement's terms in writing; the gratitude goes at the end, not in place of the notice. Check local rules if the agreement is unclear."
   }
  ]
 }

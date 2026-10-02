@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -239,6 +239,13 @@
    "reply": "李姐，谢谢您信任我，两个孩子我都很乐意教。我一对一的课时费是每小时300元，两个孩子一起报，我可以按每小时270元算，每月照样给您发一份两个孩子各自的学习反馈。每小时200元我做不到。如果预算已经定了，也可以每人每周改上一个半小时，总费用就下来了。您看哪种更合适？",
    "lang": "zh",
    "note": "多报一个孩子可以给一点优惠，但报略高于底线的具体数；预算卡住时动课时，不动单价，250的底线不说出口。"
+  },
+  {
+   "id": "negotiate-price-or-salary-035",
+   "situation": "I'm the hiring manager at Fenwick Labs. Our top candidate for a data engineer role, Mei, has countered our $112k offer at $122k. Our band tops out at $115k and I can't change that this year, but I can offer a $6,000 signing bonus and a formal salary review at six months. I really want her to join.",
+   "reply": "Hi Mei, thank you for coming back to us so clearly, and I'm glad you're keen on the role. I want to be straight with you: the band for this role tops out at $115k and I can't move it this year, so I can raise the base to $115k but not to $122k. On top of that, I can offer a $6,000 signing bonus and a formal salary review at six months, both in writing. Would that package work for you? Happy to talk it through on a call.",
+   "lang": "en",
+   "note": "From the hiring side the rules are the same: say honestly what's fixed, move what you can, and never invent other candidates to create pressure."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -239,6 +239,13 @@
    "reply": "Dev, I'm with you that we need the money, and $600 an episode would sort the new mics fast. Where I land differently is SpinLuck: a lot of our listeners have written in about recovering from gambling debt, and I'm not comfortable reading betting ads to them. What drew you to this one in particular? I'd like us to settle it together before Thursday's recording.",
    "lang": "en",
    "note": "The one reason is about the listeners, not Dev's judgement; if you still differ, agree how the two of you decide on sponsors."
+  },
+  {
+   "id": "disagree-without-conflict-035",
+   "situation": "In our friends' group chat, Kat wrote that Lena is 'obviously only with Tom for his money'. I don't think that's fair: Lena kept working two jobs while Tom was out of work for most of last year. Kat has known Tom since school and is protective of him; Lena isn't in the chat, and I want to push back without starting a fight.",
+   "reply": "I'd gently push back on that one, Kat. I know you've had Tom's back since school, and that's a good thing. I see Lena differently: she kept working two jobs while Tom was out of work for most of last year. Has something happened that I don't know about?",
+   "lang": "en",
+   "note": "Defending someone who isn't there: one fact you know first-hand, no attack on Kat, and if she digs in, say you see it differently and leave it."
   }
  ]
 }

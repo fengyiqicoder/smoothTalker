@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -239,6 +239,13 @@
    "reply": "Hi Tom, thanks for sending Leon our way, and please thank him for coming in on Tuesday. We've decided not to offer him the operations supervisor role. We've gone with a candidate who has already run a night shift, which this role needs from day one. Feedback you're welcome to pass on: his answer on the safety walk-through was the best we heard from anyone. Could you let him know today?",
    "lang": "en",
    "note": "Through an agency, write the decision, the one reason and one real positive in words the recruiter can pass on unchanged."
+  },
+  {
+   "id": "decline-offer-or-candidate-035",
+   "situation": "I've freelanced as a copy editor for Oakridge Books for a year, and their managing editor, Hannah, has offered me a full-time in-house editor job. I want to stay freelance, and I'd be glad to keep doing their monthly catalogue. My friend Tomás, an experienced editor, is looking for exactly this kind of in-house role and said I can pass on his name.",
+   "reply": "Hi Hannah, thank you for the offer; after a year of working together, it means a lot that you'd want me in-house. I'm going to say no, because I want to stay freelance. I'd be glad to keep doing the monthly catalogue for you, if you'd like that. And if it helps with the search, my friend Tomás is an experienced editor looking for exactly this kind of in-house role, and he's happy for me to pass on his name.",
+   "lang": "en",
+   "note": "When the working relationship carries on, say so plainly; pass on someone's name only with their agreement, as here."
   }
  ]
 }

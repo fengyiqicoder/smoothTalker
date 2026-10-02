@@ -1,6 +1,6 @@
 {
  "playbook": "family-pressure-and-nosy-questions",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "family-pressure-and-nosy-questions-001",
@@ -239,6 +239,13 @@
    "reply": "Ha, Paul, the tables have turned. Harold and I are happy, and that's all I'm sharing. Now tell me, how's the coaching going with the soccer team?",
    "lang": "en",
    "note": "No reassurance about the house or a wedding, since every detail becomes the next question; if he asks again, repeat the same line nearly word for word."
+  },
+  {
+   "id": "family-pressure-and-nosy-questions-035",
+   "situation": "Since my brother moved to Canada, my dad asks on every Sunday phone call when I'm going to take over his hardware shop, which has been his life for 30 years. I'm a nurse, I love my job, and I'm not taking the shop on, but I've never said so outright. He's been restoring his old motorbike since the summer.",
+   "reply": "Dad, I know how much the shop means to you. I'm staying in nursing, so it won't be me who takes it on, and I'd rather you hear that straight from me than keep wondering. Now, how's the motorbike coming along?",
+   "lang": "en",
+   "note": "A deflection here would keep him hoping, so give the answer once, plainly, with no reasons to argue with; if he asks again, repeat the same line."
   }
  ]
 }

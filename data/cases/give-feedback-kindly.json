@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -239,6 +239,13 @@
    "reply": "Rosa, the before-and-after photos are brilliant, you can see exactly what you'd get. The one thing that tripped me up was the prices: on my phone I gave up twice before I found them on page three, inside a PDF. Could you put a simple price list on the front page before Monday? I think it's the first thing people in the group will look for, and the photos will do the rest.",
    "lang": "en",
    "note": "One fix she can make before Monday, described as what happened when you used the site, not as a verdict."
+  },
+  {
+   "id": "give-feedback-kindly-035",
+   "situation": "My neighbour Graham, 70, wrote a short piece for the village newsletter asking for volunteers to tidy the memorial garden, and asked me to 'tear it apart'. Honestly it's good: the bit about his late wife planting the roses there is moving, and the ask is clear (Saturday 17 October, 10am, bring gloves). The only small gap is that it doesn't say who to contact if you can't come on the day but want to help.",
+   "reply": "Graham, I read it twice looking for something to tear apart, and honestly it's good. The bit about your wife planting the roses there is moving, and the ask couldn't be clearer: Saturday 17 October, 10am, bring gloves. My one small thought is to add who to contact for people who can't make Saturday but still want to help. Otherwise I'd send it exactly as it is.",
+   "lang": "en",
+   "note": "When it's genuinely good, say so plainly; don't invent a critique to look thorough."
   }
  ]
 }

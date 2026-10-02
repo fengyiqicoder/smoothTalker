@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -239,6 +239,13 @@
    "reply": "I'm away from Monday 19 October, back on Monday 26 October, and not reading email or Slack. If you're on my team and need a timesheet, expense or leave request approved, Kofi Mensah (kofi.mensah@example.com) is approving them while I'm away. Everything else will get a reply from me when I'm back. Dana",
    "lang": "en",
    "note": "When people need a sign-off from you, name exactly what the cover can approve, so nobody waits a week for a signature."
+  },
+  {
+   "id": "out-of-office-and-away-messages-035",
+   "situation": "我叫何静，在一家小型报关代理公司“青帆报关”做客服主管。公司10月8日（周四）到9日（周五）搬新办公室，这两天座机停用，邮件照常收，但只在每天下午4点统一回复一次；当天必须放行的急件，可以打值班同事刘峰的手机13800000012。10月12日（周一）起在新地址恢复正常，座机号码不变。想设一个邮件自动回复。",
+   "reply": "您好，青帆报关10月8日（周四）至9日（周五）搬迁新办公室，这两天座机暂停使用。邮件照常接收，我们每天下午4点统一回复一次。当天必须放行的急件，请直接致电值班同事刘峰：13800000012。10月12日（周一）起在新地址恢复正常办公，座机号码不变。谢谢！何静",
+   "lang": "zh",
+   "note": "搬家不是停业：先说哪些暂停、哪些照常、什么时候回复，再给急件一个具体的人。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -239,6 +239,13 @@
    "reply": "Olá, Tiago! Chegou-me hoje uma multa de estacionamento de sábado, 19 de setembro, às 15h10, quando tinhas o carro para a mudança: 60 €. Mando-te já a foto. Consegues transferir-me os 60 € até ao fim da próxima semana? Tem de estar paga até 16 de outubro e eu trato do pagamento. Espero que a casa nova esteja a correr bem!",
    "lang": "pt",
    "note": "A multa com data e hora é um facto, não uma acusação: o valor, a prova e um prazo ligado ao pagamento, sem sermão."
+  },
+  {
+   "id": "money-between-friends-035",
+   "situation": "上周末我们五个朋友在大理住了一家民宿，1000元押金是我付的。退房时房东说沙发被红酒弄脏，扣了400元，剩下600已经退给我了。那天晚上是阿涛打翻的红酒，他当时自己说了“算我的”。我想私聊阿涛，请他把400元微信转我。",
+   "reply": "阿涛，民宿押金的事跟你说一下：退房时房东说沙发被红酒弄脏，扣了400，剩下的600已经退给我了。那天你说红酒算你的，那这400就麻烦你方便的时候微信转我。这趟玩得真开心，下次再约！",
+   "lang": "zh",
+   "note": "只说房东扣了多少和他当时自己说的话，不评价打翻酒这件事；私聊说，不在群里提。"
   }
  ]
 }

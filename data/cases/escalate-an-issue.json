@@ -1,6 +1,6 @@
 {
  "playbook": "escalate-an-issue",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "escalate-an-issue-001",
@@ -239,6 +239,13 @@
    "reply": "Title: Review needed: PR #612, crash on empty header rows\nHi core team, I'm raising this under the contributing guide's two-week rule. PR #612, opened on 8 September, fixes a crash when a CSV file has an empty header row, and one contributor approved it on 12 September. I pinged Sven, who owns that module, on 18 and 25 September, and I've let him know in the PR thread that I'm posting here. The crash hits about 30 of our nightly imports, so we're running a patched copy until it's merged. Could someone with merge rights review it, or tell me what's blocking it, by Friday 9 October? I'm happy to make any changes needed.",
    "lang": "en",
    "note": "In a volunteer project there's no boss: use the project's own escalation route, tell the maintainer first, and ask for a review or the blocker, not a guaranteed merge."
+  },
+  {
+   "id": "escalate-an-issue-035",
+   "situation": "我是新入职两周的财务分析师孙悦，ERP系统权限到现在还没开通。9月21日提了IT工单IT-3087，9月24日和29日跟负责的IT同事小张确认过，都说在排队。我10月12日周一起要独立做月结，没权限就做不了；领导陈经理让我直接找IT主管杜经理，我也已经跟小张说了。",
+   "reply": "杜经理您好，我是财务部新入职的孙悦，想请您帮忙推动一下我的ERP系统权限。9月21日我提了IT工单IT-3087，9月24日和29日跟负责的小张确认过，都说还在排队；我已经跟小张说了会联系您，陈经理也知道。我从10月12日（周一）起要独立做月结，没有ERP权限就没法开展。能否请您在10月9日（周五）前安排开通，或者告诉我还缺哪些审批？谢谢！",
+   "lang": "zh",
+   "note": "新人找IT主管也按升级的写法：工单号、跟进过的日期、截止日和一个请求，并且先跟经手的同事打招呼。"
   }
  ]
 }

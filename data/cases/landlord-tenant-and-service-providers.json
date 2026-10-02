@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -239,6 +239,13 @@
    "reply": "Hi Mrs Okafor,\nOn Wednesday night the double socket behind the kitchen fridge smelled of burning, and there are now scorch marks around it; photos attached. I've unplugged everything and switched that circuit off at the fuse box, so for now the fridge is running off an extension lead from the hall. Under the lease electrical repairs are the landlord's responsibility, so could you arrange a qualified electrician by Tuesday 6 October? I'm home after 6pm, or I can leave a key with my neighbour in flat 3.\nThanks,\nCallum",
    "lang": "en",
    "note": "If it sparks, smokes or smells of burning again, switch off at the main fuse box, get out and call the fire service; for a power cut or exposed wiring, call your electricity network's emergency line."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-035",
+   "situation": "我叫小唐，租房东孙姐的房子三年，合同11月30日到期。昨天电话里她答应续租一年，房租还是每月3600元不涨，并且在12月1日新合同开始前把卧室那台漏水的空调换掉。我想发微信把电话里说的确认一下，最好这周末就签新合同，周六周日我都在家。",
+   "reply": "孙姐您好，谢谢您昨天电话里抽时间跟我聊续租的事。我把说好的整理一下，您看对不对：一是续租一年，房租还是每月3600元；二是12月1日新合同开始前，把卧室那台漏水的空调换掉。这两条能不能都写进新合同里？这周六、周日我都在家，您看哪天方便过来签。",
+   "lang": "zh",
+   "note": "电话里谈好的事当天用文字确认，语气是核对而不是留证据；最稳妥的是把条款写进新合同。"
   }
  ]
 }

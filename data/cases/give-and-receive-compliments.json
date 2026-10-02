@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -238,6 +238,13 @@
    "reply": "Lucía, gracias por decírmelo así, de frente y con tanto cariño. Sé que no era fácil, y me dice mucho de ti que prefirieras ser sincera antes que aceptar y agobiarte. Me hace muchísima ilusión que estés en la boda, y eso es lo que de verdad importa.",
    "lang": "es",
    "note": "Elogiar la sinceridad de un no: lo concreto que hizo y su efecto, sin pedirle nada ni intentar que cambie de idea."
+  },
+  {
+   "id": "give-and-receive-compliments-035",
+   "situation": "我在国外读书。我妈今年68岁，上个月自己报了社区老年大学的手机课，学会了视频通话，昨天第一次主动给我打了视频，还自己把美颜调好了。想发微信夸夸她，又怕说得像哄小孩。",
+   "reply": "妈，昨天您主动给我打视频，我高兴了一整晚。手机课是您自己报名、一节一节学下来的，连美颜都会自己调了，我真佩服您。以后想我了随时打，我都接。",
+   "lang": "zh",
+   "note": "夸长辈学新东西：说她付出的努力和对你的意义，别用“没想到”“真厉害呀”这种哄孩子的口气。"
   }
  ]
 }

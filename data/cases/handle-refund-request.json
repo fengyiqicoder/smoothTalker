@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -239,6 +239,13 @@
    "reply": "林小姐您好，收到的颜色比图片暗这么多，确实不是您想要的，抱歉。发簪不用寄回了，国际运费比发簪还贵，不值得折腾。两个选择您挑：全额退您128元，1到3个工作日原路到账；或者我免费给您补寄一支浅色款。告诉我选哪个，我今天就办。",
    "lang": "zh",
    "note": "寄回运费比商品还贵时直接免寄回；答案放在前两句，给退款和补寄两个选项，不争图片有没有色差。"
+  },
+  {
+   "id": "handle-refund-request-035",
+   "situation": "I run a small online IELTS prep course, three months for $450. A student, Mei, finished it, took the exam and got 6.0 overall instead of the 7.0 she was aiming for, with speaking her lowest band at 5.5; she wants a full refund. Our terms say refunds are only within 14 days of starting and there's no score guarantee. I'd like to offer her four free one-to-one speaking sessions before her retake on 14 November.",
+   "reply": "Hi Mei, I'm sorry the result wasn't the 7.0 you were aiming for; after three months of work, that's really disappointing. The course is finished and, as our terms say, it doesn't come with a score guarantee, so I can't refund the $450. What I'd like to do is help you get there on the retake: speaking was your lowest band at 5.5, so I'll give you four free one-to-one speaking sessions before 14 November. Shall I send you some times this week?",
+   "lang": "en",
+   "note": "When the complaint is about results, aim the alternative at the gap; never argue about how much she studied."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "follow-up-after-interview-or-meeting",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "follow-up-after-interview-or-meeting-001",
@@ -239,6 +239,13 @@
    "reply": "孙女士您好，我是今天参加管培生群面的何雨，谢谢您今天的组织和安排。补充一点讨论时没讲清楚的：我提议新品先在县城菜市场做试吃，是因为县城菜市场早上人流最集中，试吃最容易被看到。我很希望加入青禾食品，等您10月16日前的消息。",
    "lang": "zh",
    "note": "群面人多，感谢信只补一件事：把讨论里没讲清的那个理由说完整，不重复整场发言。"
+  },
+  {
+   "id": "follow-up-after-interview-or-meeting-035",
+   "situation": "Soy Lucía Ferrer, presidenta de la comunidad de vecinos de la calle Olmo 14. Hoy nos reunimos con el administrador, el Sr. Navarro, porque el ascensor lleva tres semanas parado: él pedirá dos presupuestos de reparación antes del viernes 9 de octubre, la junta extraordinaria para aprobar uno será el martes 13 de octubre a las 19:00 en el portal, y yo aviso a los vecinos por el grupo de WhatsApp. Quiero mandarle un resumen por correo.",
+   "reply": "Buenas tardes, Sr. Navarro:\nGracias por reunirse hoy con nosotros por el ascensor, que ya lleva tres semanas parado. Le resumo lo acordado para que todos tengamos lo mismo:\n- Usted: dos presupuestos de reparación antes del viernes 9 de octubre.\n- Junta extraordinaria para aprobar uno: martes 13 de octubre a las 19:00 en el portal.\n- Yo: aviso a los vecinos por el grupo de WhatsApp.\nSi he anotado algo mal, dígamelo y lo corrijo.\nUn saludo,\nLucía Ferrer, presidenta de la comunidad de Olmo 14",
+   "lang": "es",
+   "note": "Con un administrador, el resumen escrito convierte lo hablado en plazos que toda la comunidad puede seguir."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -239,6 +239,13 @@
    "reply": "Dear Mr Bell, I'm Arjun Shah's mum, from your Year 6 class. Ahead of the residential on Monday 12 October, I wanted to let you know privately that Arjun still sometimes wets the bed at night; our GP says it's common at his age. He's very worried the other children will find out. He'll pack disposable night pants and a sleeping bag liner he can manage on his own. Could you let me know how staff usually handle this discreetly on trips, and who will know? I'm free after 3:30 any day if a quick chat is easier. Thank you, Priti Shah",
    "lang": "en",
    "note": "Share only what staff need, ask about their usual approach rather than prescribing one, and ask who will be told."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-035",
+   "situation": "I'm Simone Adeyemi. On Wednesday the head of year, Ms Doyle, told my daughter Zara (Year 7) that the beads in her box braids break the uniform policy and must come out by Monday. The policy on the school website says 'hair accessories must be plain and dark', and Zara's beads are small and black; the braids took six hours to put in and she's been upset about it since. I'm free after 4pm any day.",
+   "reply": "Dear Ms Doyle, I'm Zara Adeyemi's mum (Year 7). Zara told me that on Wednesday you asked her to take the beads out of her braids by Monday, as they break the uniform policy. She's been upset about it, as the braids took six hours to put in. I've read the policy on the school website, which says hair accessories must be plain and dark, and her beads are small and black, so I'd like to understand which part they don't meet. Could we have a quick call before Monday? I'm free after 4pm any day. Thank you, Simone Adeyemi",
+   "lang": "en",
+   "note": "Quote the policy and ask how it applies instead of arguing; if the answer still seems wrong, ask for the school's complaints process in writing."
   }
  ]
 }

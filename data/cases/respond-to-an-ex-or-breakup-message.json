@@ -4,7 +4,7 @@
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
-   "situation": "Broke up 3 weeks ago. I still have my ex Jordan's guitar, bike helmet and a box of books. Want to hand it all back without a big conversation.",
+   "situation": "Broke up 3 weeks ago. I still have my ex Jordan's guitar, bike helmet and a box of books. I can leave them at my building's front desk Thursday after 5, or he can pick them up Saturday 10 to 12. Want to hand it all back without a big conversation.",
    "reply": "Hi Jordan, I've got your guitar, the bike helmet and the box of books ready. I can leave them with the front desk on Thursday after 5, or you can pick them up Saturday between 10 and 12. Which works?",
    "lang": "en",
    "note": "Belongings are logistics only: items, date, method, done."
@@ -25,10 +25,10 @@
   },
   {
    "id": "respond-to-an-ex-or-breakup-message-004",
-   "situation": "Been dating Sam for five months. He's on a research ship until mid-November with email only, no calls. I know I want to end it and I don't think it's fair to wait seven weeks.",
-   "reply": "Sam, I need to say this now rather than wait until you're back in November, and I'm sorry it's by email. I don't want to carry on the relationship. Being apart has shown me I want something more day to day than we can have, and that's about what I want, not anything you did. I'll box up the things you left here this week and send them wherever you tell me. I hope the rest of the voyage goes really well.",
+   "situation": "I've been with Nico for five months. Yesterday he admitted he's been seeing someone else, and he's away at a conference until Sunday. I want to end it now by text, without a big scene; he has my spare key, and his jacket is here, so he can collect it from my porch and leave the key in my letterbox.",
+   "reply": "Nico, I'm ending things. After what you told me yesterday, I don't want to carry on, and I'm not going to talk it through. When you're back, your jacket will be on my porch; please leave my spare key in the letterbox when you collect it.",
    "lang": "en",
-   "note": "Breakup in the first two lines, one true reason, belongings sorted, and no 'let's stay friends' unless it's true now."
+   "note": "Ended over a betrayal: one clear reason, no warmth required, no debate, and logistics that don't need a meeting."
   },
   {
    "id": "respond-to-an-ex-or-breakup-message-005",
@@ -49,7 +49,7 @@
    "situation": "Last week I told my ex Dylan I'm not in a place to be in touch. He's sent four long messages since, saying I never gave him a fair chance, listing things he's changed, and asking me to at least meet once to talk.",
    "reply": "Dylan, I've read what you sent and I've heard you. I'm not going to argue it point by point, and I won't be meeting up. My answer is the same. I won't reply further, and I do hope things go well for you.",
    "lang": "en",
-   "note": "Don't answer each point; points invite rebuttal. Restate once, then go quiet, and mute if the messages keep coming."
+   "note": "Don't answer each point; points invite rebuttal. Restate once, then go quiet. If the messages keep coming, mute or block and keep a record; if he turns up or it starts to feel threatening, contact the police."
   },
   {
    "id": "respond-to-an-ex-or-breakup-message-008",
@@ -88,14 +88,14 @@
   },
   {
    "id": "respond-to-an-ex-or-breakup-message-013",
-   "situation": "My ex Jamie and I broke up in May after four years. I kept our dog, Biscuit, and Jamie just texted asking if they could see her sometime because they miss her. I'm okay with that, but I don't want it turning into us hanging out.",
-   "reply": "Hi Jamie, of course you miss her, and she'd love to see you. Let's do a walk: I can bring Biscuit to Victoria Park on Sunday the 11th at 10, and you take her round the lake for an hour while I grab a coffee. If it goes well, we could make it a once-a-month thing. Does the 11th work?",
+   "situation": "My ex Jamie and I broke up in May after four years. I kept our dog, Biscuit, and Jamie just texted asking if they could see her sometime because they miss her. We both live near Victoria Park. I'm okay with that, but I don't want it turning into us hanging out.",
+   "reply": "Hi Jamie, of course you miss her, and she'd love to see you. Let's do a walk: I can bring Biscuit to Victoria Park on Sunday the 11th at 10, and you take her round the park for an hour while I grab a coffee. If it goes well, we could make it a once-a-month thing. Does the 11th work?",
    "lang": "en",
    "note": "A shared pet is logistics with feelings attached: yes to the dog, a clear shape for the visit, and you stay out of the hour."
   },
   {
    "id": "respond-to-an-ex-or-breakup-message-014",
-   "situation": "My ex Nadia and I broke up in January, mostly because she moved to Denver for work. She's moving back in November and texted that she'd like to try again. I'm open to it, but I want to go slowly and talk properly first.",
+   "situation": "My ex Nadia and I broke up in January, mostly because she moved to Denver for work. She's moving back on 7 November and texted that she'd like to try again. I'm open to it, but I want to go slowly and talk properly first.",
    "reply": "It means a lot that you asked, and I'm open to talking about it. I'd like to take it slowly and start with a proper conversation about what happened in January before we decide anything. Could we have dinner the weekend after you're back, say Saturday 14 November? No expectations either way until then.",
    "lang": "en",
    "note": "Even a yes to reopening gets a limit and a date: a conversation first, not a relationship restarted by text."
@@ -126,7 +126,7 @@
    "situation": "My ex Ryan was controlling: he went through my phone and turned up at my work uninvited. We split in May and I blocked him. Today he messaged from a new number saying he's 'done a lot of work on himself' and just wants one coffee to talk.",
    "reply": "Please don't contact me again. I won't be replying.",
    "lang": "en",
-   "note": "No warmth or reasons owed. Keep the messages, block this number too, and if he turns up or you ever feel unsafe, call emergency services; if even this line feels risky to send, just block."
+   "note": "No warmth or reasons owed. Keep every message and a note of each contact, block this number too, and report it to the police; call emergency services if he turns up or you feel unsafe, and a domestic abuse helpline can help you plan. If even this line feels risky to send, just block."
   },
   {
    "id": "respond-to-an-ex-or-breakup-message-019",
@@ -154,7 +154,7 @@
    "situation": "分手两个月了，前男友阿浩发微信说想把当初送我的金手镯要回去，说是他奶奶留下的。我本来就打算还，这周六可以用保价快递寄到他家，也可以周日下午放在我家小区的物业前台让他自己来取。不想多聊别的。",
    "reply": "阿浩，手镯我本来就打算还你。两种方式你选一个：这周六我用保价快递寄到你家，或者周日下午放在我家小区物业前台，你自己来取。告诉我哪个方便就行。",
    "lang": "zh",
-   "note": "Belongings are logistics only: no comment on the relationship, and the front desk option means no need to meet."
+   "note": "要回送出的礼物也只谈怎么还：不争论该不该还，不评论这段感情；放物业前台的选项让两人不用见面。"
   },
   {
    "id": "respond-to-an-ex-or-breakup-message-023",

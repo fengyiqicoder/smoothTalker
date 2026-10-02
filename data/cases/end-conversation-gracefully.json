@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -239,6 +239,13 @@
    "reply": "Tony老师，卡我就不办了，谢谢你介绍。我想闭眼歇一会儿，剪完你叫我就行。",
    "lang": "zh",
    "note": "走不开的时候，先一句话把推销关掉，再用闭眼这个动作结束聊天；他再提，就说“不办了，谢谢”，不解释。"
+  },
+  {
+   "id": "end-conversation-gracefully-035",
+   "situation": "I'm at the reception after the funeral of my colleague Raj's father, Vikram. Raj's aunt has been telling me family stories about Vikram for half an hour, and they're lovely, but I need to leave to collect my kids from school at 3:30, and I want to say goodbye to Raj before I go.",
+   "reply": "Thank you for sharing those stories about Vikram, it's been lovely to hear what he was like. I need to head off to collect my kids from school, and I'd like to find Raj before I go. Take care of yourself.",
+   "lang": "en",
+   "note": "At a funeral, a warm recap and a true reason are enough; the goodbye that matters most is the one to Raj."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "group-chat-coordination",
- "count": 34,
+ "count": 35,
  "cases": [
   {
    "id": "group-chat-coordination-001",
@@ -239,6 +239,13 @@
    "reply": "Airport rides for Kirsty's wedding, two options. A: two cars, one at 2:10pm and one at 4:45pm on Friday 16 October, £25 each. B: one 6-seater at 4:45pm for all of us, £20 each, which means the 2:10 group waits at the airport for a couple of hours. Vote A or B by Monday 9pm so I can confirm with Glen Cabs on Tuesday; if it's a tie or nobody votes, it's A.",
    "lang": "en",
    "note": "Turn logistics into two priced options with the trade-off spelled out, so people can choose in one tap."
+  },
+  {
+   "id": "group-chat-coordination-035",
+   "situation": "Six of us (me, Maya, Tom, Jo, Dev and Sara) just got back from a cottage weekend in the Peak District. I paid the cottage, £600, and Maya paid the food shop, £150, so £750 in total. I want to post one clear settle-up message in our WhatsApp group and have everything squared by Sunday 11 October.",
+   "reply": "Settling up the Peak District weekend: the cottage was £600 (I paid) and the food shop £150 (Maya paid), so £750 split six ways is £125 each.\n- Tom, Jo and Dev: £125 each to me.\n- Sara: £100 to me and £25 to Maya.\nThat squares everyone. Could you send it by Sunday 11 October and 👍 this message once you have? I'll post once when we're all square.",
+   "lang": "en",
+   "note": "Show the sum once and give each person one exact amount and payee; anyone still outstanding after Sunday gets a private message, not a group chase."
   }
  ]
 }
