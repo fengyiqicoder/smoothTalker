@@ -1,6 +1,6 @@
 {
  "playbook": "negotiate-price-or-salary",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "negotiate-price-or-salary-001",
@@ -274,6 +274,13 @@
    "reply": "Hi Fiona, thanks for passing on Sam and Priya's request. I'm keen to keep the sale moving and I'd like this to work for them. I had my own roofer price the same repairs, and his quote is £4,500, which I'm happy to share. On that basis I can reduce the price by £4,000, to £281,000. Could you put that to them? I can also work to completing before Christmas, if that's still what they'd like.",
    "lang": "en",
    "note": "Answer their quote with your own evidence, never a story about other buyers; the completion date is the second lever, and your £5,000 limit stays private."
+  },
+  {
+   "id": "negotiate-price-or-salary-040",
+   "situation": "I'm Ines, a contract business analyst placed at a logistics company through the agency Brookfield Talent at £450 a day. The client wants to extend me for six more months, and the agency consultant, Mark, says the rate stays the same. I delivered their warehouse system migration two weeks early, day rates for this role are around £500 to £550, and I'd accept £480.",
+   "reply": "Hi Mark, thanks for letting me know, and I'm glad the client wants to extend; I'd like to stay. Before I confirm, I'd like to discuss the rate. I delivered the warehouse system migration two weeks early, and day rates for this role are running at around £500 to £550, so for the extension I'm asking for £520 a day. Could you take that to the client, or see whether part of it can come from the agency margin? Happy to talk it through on a call.",
+   "lang": "en",
+   "note": "With an agency in the middle, make one clear ask and let them work out where it comes from; keep your £480 floor private and check your contract before turning anything down."
   }
  ]
 }

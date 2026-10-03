@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-angry-customer",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "respond-to-angry-customer-001",
@@ -274,6 +274,13 @@
    "reply": "Dear Mr Abbott,\nOn Tuesday our driver reversed into your front wall while delivering your compost, knocked down about a metre of brickwork, and drove off without telling you, so you found it yourself that evening. That's on us, and I'm sorry. A bricklayer, Dan Price, can rebuild it on Monday, at our cost; does Monday suit you? I've also refunded your $95 delivery charge today. I'm Owen, the owner, and you can reach me directly on 555-0152.\nOwen",
    "lang": "en",
    "note": "Own the damage and the driving off, since the silence is what turned an accident into 'vandals'; leave the driver unnamed."
+  },
+  {
+   "id": "respond-to-angry-customer-040",
+   "situation": "I'm Marco, manager at Olive & Ash restaurant. Mr and Mrs Haines have just arrived at 8pm for their 25th anniversary; they booked by phone two weeks ago, but there's no booking in our system, it's our mistake, and he's raising his voice at the host stand. A window table for two frees up at 8:30, and until then I can seat them at the bar with a glass of champagne each on the house; dessert is on us and I'll look after their table myself.",
+   "reply": "Mr Haines, you booked this table two weeks ago for your 25th anniversary, and we've lost the booking. That's our mistake, and I'm sorry, especially tonight. A window table for two frees up at 8:30 and I'm holding it for you. Until then, I'd like to seat you both at the bar with a glass of champagne each, on the house, and dessert tonight is on us. I'm Marco, the manager, and I'll look after your table myself.",
+   "lang": "en",
+   "note": "In person, say it quietly and fast: his words back, own it, a fix with a time. Don't ask him to prove the booking."
   }
  ]
 }

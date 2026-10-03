@@ -1,6 +1,6 @@
 {
  "playbook": "request-intro-or-referral",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "request-intro-or-referral-001",
@@ -274,6 +274,13 @@
    "reply": "Bonjour Patrick,\nJe peux te demander un service ? Accepterais-tu de me présenter à Mme Garnier, à la médiathèque ? Le repair café perd sa salle en décembre, et j'aimerais 15 minutes avec elle pour voir si la médiathèque pourrait nous accueillir. Si ça te gêne de lui demander, aucun souci, dis-le-moi simplement.\nSi tu es d'accord, voici un message que tu peux lui transférer :\n« Madame Garnier, je vous présente mon voisin Julien Morel, qui anime un repair café bénévole le deuxième samedi de chaque mois ; ils ont réparé 340 objets en un an. Ils cherchent une nouvelle salle à partir de décembre. L'association a sa propre assurance et rend toujours la salle propre. Julien aimerait 15 minutes pour vous présenter le projet, si vous êtes d'accord. »\nJe te tiens au courant dans tous les cas. Merci !\nJulien",
    "lang": "fr",
    "note": "Pour une salle prêtée, le message à transférer répond d'avance aux deux questions de la directrice : l'assurance et le ménage."
+  },
+  {
+   "id": "request-intro-or-referral-040",
+   "situation": "Ich bin Lea Brandt und arbeite als UX-Writerin, also für die Texte in Benutzeroberflächen. Mein früherer Kollege Felix hat mich gerade per Mail Dr. Sabine Kraus vorgestellt, Leiterin Digitales bei einem Versicherer, hat mich darin aber als UX-Designerin bezeichnet. Er hat erwähnt, dass sie die Schadensmeldung im Kundenportal überarbeiten will, und ich hätte gern 20 Minuten mit ihr dazu.",
+   "reply": "Danke, Felix, für die Vorstellung (ich setze dich in Bcc). Frau Dr. Kraus, schön, Sie kennenzulernen. Eine kleine Korrektur vorweg: Ich bin UX-Writerin, kümmere mich also um die Texte in Benutzeroberflächen, nicht um das Design. Felix hat erwähnt, dass Sie die Schadensmeldung im Kundenportal überarbeiten möchten. Hätten Sie in den nächsten Wochen 20 Minuten für ein Telefonat dazu? Wenn es gerade nicht passt, ist das völlig in Ordnung.",
+   "lang": "de",
+   "note": "Einen Fehler in der Vorstellung freundlich in einem Satz korrigieren, ohne Felix bloßzustellen; nach dem Gespräch ihm trotzdem kurz berichten."
   }
  ]
 }

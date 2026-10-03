@@ -1,6 +1,6 @@
 {
  "playbook": "money-between-friends",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "money-between-friends-001",
@@ -274,6 +274,13 @@
    "reply": "Thanks for asking! The hotel was 480,000 won, so your half is 240,000 won. At today's rate that's about £130, so let's just call it £130 to the bank details you already have, no need to chase the exact rate. Or, if a transfer from Japan is a hassle, you can get our dinners when I'm in Osaka in December instead, whichever is easier for you.",
    "lang": "en",
    "note": "Across currencies, convert once, round it and name an easy way to pay, so nobody ends up debating exchange rates."
+  },
+  {
+   "id": "money-between-friends-040",
+   "situation": "上周末我们四个朋友去露营，费用都是阿悦先垫的，她在群里发了明细，让每人转她650元，我已经转了。我对了一下明细，帐篷租金480元在“营地费”和“装备租赁”里各算了一次，相当于每人多给了120元。我想私聊跟她说一下，不想让她在群里难堪。",
+   "reply": "阿悦，露营的事辛苦你张罗啦！我对了一下明细，帐篷租金480好像在“营地费”和“装备租赁”里各算了一次，我把两处都截图圈出来了，你看看。要是确实重复了，每人应该是530，多出来的120，你方便的时候退给大家就行。群里怎么说你来定，我就私下跟你提一句。",
+   "lang": "zh",
+   "note": "朋友算错账、自己多付了：私聊、摆出截图和准确数字，把怎么跟大家说的主动权留给她，不评价、不在群里提。"
   }
  ]
 }

@@ -5,7 +5,7 @@
   {
    "id": "decline-meeting-or-protect-time-001",
    "situation": "Rosa from marketing sent a 1-hour 'brainstorm' invite for tomorrow with no agenda. I'm on the data team and figure she wants the Q3 signup numbers by channel. I'm slammed this week.",
-   "reply": "Hi Rosa, I'll skip the brainstorm tomorrow. If what you need from me is the signup numbers by channel for Q3, I can drop them in your doc by noon so they're there for the session. Does that cover it?",
+   "reply": "Hi Rosa, I'll skip the brainstorm tomorrow. If what you need from me is the signup numbers by channel for Q3, I can send them to you before the session. Does that cover it?",
    "lang": "en",
    "note": "Name what they likely need, decline the format, and give it another way with a time. No 'I'm swamped'."
   },
@@ -25,7 +25,7 @@
   },
   {
    "id": "decline-meeting-or-protect-time-004",
-   "situation": "I declined my director's one-hour 'sync' on the migration plan and offered a written update instead. She replied 'I'd really prefer to talk it through live.'",
+   "situation": "I declined my director's one-hour 'sync' on the migration plan and offered a written update covering the cutover timeline and the rollback plan instead. She replied 'I'd really prefer to talk it through live.'",
    "reply": "Sure, let's do it. Could you add the one or two decisions you need from me to the invite so I come prepared? And could we keep it to 30 minutes? I'll bring the cutover timeline and the rollback plan.",
    "lang": "en",
    "note": "When a senior person insists, go, but shape it: ask for the decision and cap the time. Raise the format again later with evidence."
@@ -46,14 +46,14 @@
   },
   {
    "id": "decline-meeting-or-protect-time-007",
-   "situation": "我是项目的产品负责人。市场部的小赵约了明天周三下午两点一小时的“上线沟通会”，拉了八个人。其实现在只剩上线日期一个问题没定。",
+   "situation": "我是项目的产品负责人。市场部的小赵约了明天周三下午两点一小时的“上线沟通会”，拉了八个人。其实现在只剩上线日期一个问题没定，我手上有两个备选日期。",
    "reply": "小赵，明天的会能不能改成20分钟？现在只剩上线日期这一个点没定。我今晚把两个备选日期和各自的风险写成一页发到群里，大家提前看一下，会上直接定下来就行。你看可以吗？",
    "lang": "zh",
    "note": "作为关键参会人，缩短比拒绝更好：点明只剩哪个问题，提前把材料给出去，最后请组织者确认。"
   },
   {
    "id": "decline-meeting-or-protect-time-008",
-   "situation": "I'm in Singapore and our team lead Kate is in Chicago. She's put the weekly planning call at 8am Chicago every Tuesday, which is 9pm for me, and it's been two months. The US folks don't seem to notice.",
+   "situation": "I'm in Singapore and our team lead Kate is in Chicago. She's put the weekly planning call at 8am Chicago every Tuesday, which is 9pm for me, and it's been two months. I could post my updates in the planning doc by my Monday end of day and join only when needed, or we could alternate weeks with a 7pm Chicago slot.",
    "reply": "Hi Kate, could we look at the Tuesday planning slot? 8am Chicago is 9pm here in Singapore. Two options: I put my updates and blockers in the planning doc by my end of day Monday so they're there before the call, and I join live only when something needs me; or we alternate weeks, with every other call at 7pm Chicago, which is 8am Wednesday for me. Which works better for the team?",
    "lang": "en",
    "note": "Time zones: name the cost once, without complaint, and give the organiser two workable alternatives rather than a bare no."
@@ -81,7 +81,7 @@
   },
   {
    "id": "decline-meeting-or-protect-time-012",
-   "situation": "Ich bin Einkäufer. Herr Wagner von unserem Verpackungslieferanten will das Quartalsgespräch zu den Preisen für 2027 persönlich bei sich in Stuttgart machen, am Donnerstag, 15. Oktober: zweieinhalb Stunden Fahrt pro Richtung für eine Stunde Gespräch. Im Frühjahr fahre ich ohnehin hin, um die neue Linie abzunehmen.",
+   "situation": "Ich bin Einkäufer. Herr Wagner von unserem Verpackungslieferanten will das Quartalsgespräch zu den Preisen für 2027 persönlich bei sich in Stuttgart machen, am Donnerstag, 15. Oktober: zweieinhalb Stunden Fahrt pro Richtung für eine Stunde Gespräch. Ich würde es lieber am selben Tag um 10 Uhr per Video führen; im Frühjahr fahre ich ohnehin hin, um die neue Linie abzunehmen.",
    "reply": "Hallo Herr Wagner, danke für die Einladung nach Stuttgart. Das Quartalsgespräch würde ich diesmal gern per Video führen, gleicher Tag, Donnerstag, 15. Oktober, um 10 Uhr. Wenn Sie mir Ihre Preisvorschläge für 2027 bis Dienstag, 13. Oktober schicken, komme ich mit konkreten Rückmeldungen statt nur mit Fragen. Für einen Besuch vor Ort nehme ich mir gern Zeit, wenn wir im Frühjahr die neue Linie abnehmen. Passt Ihnen das?",
    "lang": "de",
    "note": "Das Format ablehnen, nicht die Beziehung: gleicher Termin per Video, Unterlagen vorab und ein echter Anlass für den nächsten Besuch."
@@ -102,7 +102,7 @@
   },
   {
    "id": "decline-meeting-or-protect-time-015",
-   "situation": "我是设计公司的项目经理，在给客户做官网改版。客户方的刘总希望从下周起每周一上午9点开一小时进度会，双方拉六个人。其实大部分进度一份周报就能说清，但我不想让他觉得我们在躲。",
+   "situation": "我是设计公司的项目经理，在给客户做官网改版。客户方的刘总希望从下周起每周一上午9点开一小时进度会，双方拉六个人。我想改成每周五发一页周报，会改成隔周30分钟，但不想让他觉得我们在躲。",
    "reply": "刘总好，每周同步进度我们完全赞成，想跟您商量一个更省大家时间的方式：每周五下午5点前，我把本周进度、下周计划和需要您拍板的事整理成一页周报发给您；周一的会改成隔周一次、30分钟，只讨论周报里需要决定的事。下周一10月5日上午9点照常开第一次会，把这个节奏一起定下来。您看这样可以吗？",
    "lang": "zh",
    "note": "对客户不直接拒会：先认同他要的是掌握进度，用周报加更短更少的会替代，第一次会照开。"
@@ -154,7 +154,7 @@
    "situation": "今天周三晚上9点半，部门经理张姐在工作群里说“10点拉个语音会，对一下明天给客户的报价”。我负责报价表里物流成本那部分，已经核对过一遍，现在在哄孩子睡觉，10点上不了。",
    "reply": "张姐，10点的语音我就不上了，这会儿在哄孩子睡觉。物流成本那部分我已经核对过一遍，明早8点半前把最终版和计算依据发到群里，您9点前就能看到。如果今晚一定要定，您把需要确认的数字发我，我10点半前文字回复。您看这样可以吗？",
    "lang": "zh",
-   "note": "先给交付时间，再问一次是不是真的等不到明天；不去争下班后该不该开会。"
+   "note": "先给交付时间，再问一次是不是真的等不到明天；不去争下班后该不该开会。如果深夜拉会成了常态，或拒绝后受到施压，留好记录，向HR反映。"
   },
   {
    "id": "decline-meeting-or-protect-time-023",
@@ -252,7 +252,7 @@
    "situation": "我在休产假，明年1月12日才回去上班，手上的工作已经交接给同事阿敏。部门经理周经理今天在微信上拉我参加下周二下午的季度复盘会，说“就半小时，听听就行”。我不想在产假期间开会，我负责的渠道数据阿敏都清楚。",
    "reply": "周经理，谢谢您还想着我。我在休产假，下周二的复盘会就不参加了。我负责的渠道数据已经交接给阿敏，她都清楚，会上有问题直接找她就行。1月12日我回来上班后，先把复盘的结论补看一遍。",
    "lang": "zh",
-   "note": "休假中拒会不用再补一份交付：说明在休假、谁在接手、哪天回来，就够了。"
+   "note": "休假中拒会不用再补一份交付：说明在休假、谁在接手、哪天回来，就够了。如果休假期间仍被反复要求参会，可以找HR确认休假期间的安排。"
   },
   {
    "id": "decline-meeting-or-protect-time-037",
@@ -263,10 +263,10 @@
   },
   {
    "id": "decline-meeting-or-protect-time-038",
-   "situation": "我是组里的产品经理之一。每周二上午10点的项目例会，组长老郑这两个月每次都让我做会议纪要，整理一次大概要一个小时。我想提议大家轮流做，已经拟好轮值表放在共享文档里，按姓名拼音排，纪要模板也在里面。",
-   "reply": "郑哥，想跟你商量一下例会纪要的事：这两个月都是我在整理，每次大概要花一个小时。从下周起能不能大家轮流做？我拟好了轮值表放在共享文档里，按姓名拼音排，纪要模板也在里面，谁接手都很快。你看过觉得可以，我就发到群里。",
+   "situation": "我在运营部。隔壁部门新来的同事小郑想每周四下午约我半小时“交流一下”，没有具体议题。我不想每周固定聊，但愿意帮他：有具体问题可以在企业微信上问我，我当天回复；这周五中午可以一起吃个饭，先认识一下。",
+   "reply": "小郑，欢迎加入！每周固定的交流我就不排了。你有具体问题随时在企业微信上问我，我当天回复。这周五中午一起吃个饭，先认识一下？",
    "lang": "zh",
-   "note": "拒绝的是“总是我”，不是纪要本身：说清花了多少时间，把替代方案做好摆出来，再请组长确认。"
+   "note": "没有议题的固定会，其实是想要一个能找到你的渠道：给渠道，不给周会；午饭是一次性的，不是新的例会。"
   },
   {
    "id": "decline-meeting-or-protect-time-039",

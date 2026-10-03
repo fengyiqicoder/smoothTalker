@@ -1,6 +1,6 @@
 {
  "playbook": "leave-or-quit-gracefully",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "leave-or-quit-gracefully-001",
@@ -274,6 +274,13 @@
    "reply": "舅舅，想先跟您说一声：我今天上午已经当面跟王总提了离职，最后一天是10月30日，我接了另一家公司的offer。手上的线路排班我会交给同事小马，走之前一定交接清楚。王总那边我自己会处理好，您不用替我出面。当初是您介绍我进去的，这两年学了很多，真的谢谢您。",
    "lang": "zh",
    "note": "熟人介绍的工作：先当面告诉老板，再亲自告诉介绍人；理由一句，交接具体，不让介绍人夹在中间。"
+  },
+  {
+   "id": "leave-or-quit-gracefully-040",
+   "situation": "I'm Omar. I've accepted a new job and planned to tell my manager Claire on Monday; my contract says four weeks' notice, so my last day would be Friday 6 November. But a colleague I'd confided in let it slip, and Claire has just messaged me: 'Heard a rumour you're leaving? Would have liked to hear it from you.' She coached me through my first year as a team lead, and I want to reply tonight.",
+   "reply": "Claire, you should have heard it from me first, and I'm sorry you didn't. It's true: I've accepted another role, and I was planning to tell you on Monday. With four weeks' notice, my last day would be Friday 6 November. Could we talk first thing Monday? I'll bring a list of everything I own so we can plan the handover. You coached me through my first year as a team lead, and I'm grateful for that.",
+   "lang": "en",
+   "note": "When the news got there first: own the order once, don't blame the colleague who let it slip, confirm the date and move to the handover."
   }
  ]
 }

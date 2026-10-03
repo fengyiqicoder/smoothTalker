@@ -1,6 +1,6 @@
 {
  "playbook": "reply-to-customer-inquiry-dm",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "reply-to-customer-inquiry-dm-001",
@@ -274,6 +274,13 @@
    "reply": "Hi Tom! Yes, vouchers can be for any amount or for a set treatment, and they last 12 months. A 60-minute massage is £55 and 90 minutes is £75. With her birthday tomorrow, I'd go for the PDF voucher, which I can email you today; a printed card takes two to three days by post. Which would you like it for?",
    "lang": "en",
    "note": "When the question comes with a deadline, answer it, then steer them to the format that actually arrives in time."
+  },
+  {
+   "id": "reply-to-customer-inquiry-dm-040",
+   "situation": "我在小红书接手绘婚礼请柬定制，全定制每套设计费1200元，档期已经排到明年1月中旬；另外有8款现成模板，可以改名字、日期和地点，600元，一周出稿。印刷每张8元另算。有人私信：“11月底办婚礼，现在定全定制还来得及吗？”",
+   "reply": "说实话，全定制来不及了，我的档期已经排到明年1月中旬。如果想赶11月底，可以看看我的8款现成模板，改名字、日期和地点，600元，一周出稿，印刷每张8元另算。要我把8款模板发给你挑吗？",
+   "lang": "zh",
+   "note": "档期满了也先答能不能，再给一个赶得上的选项；不硬接，也不让对方空手走。"
   }
  ]
 }

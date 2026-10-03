@@ -1,6 +1,6 @@
 {
  "playbook": "messages-to-teachers-and-schools",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "messages-to-teachers-and-schools-001",
@@ -274,6 +274,13 @@
    "reply": "Dear Mrs Kaur, I'm Hana Brooks, Ivy's mum, in Mr Daley's Year 5 class. I know the class has had several supply teachers since mid-September, and that can't be easy to arrange. Ivy tells me her reading record hasn't been signed or her homework marked for about three weeks, and she's started saying school 'doesn't count right now'. Could you let me know how the class will be covered for the rest of term, and who Ivy should go to with her reading and homework in the meantime? I'm happy to talk any morning before 9. Thank you, Hana Brooks",
    "lang": "en",
    "note": "Ask about the plan, not about why the teacher is away, and don't fault the supply staff, who are working without a handover."
+  },
+  {
+   "id": "messages-to-teachers-and-schools-040",
+   "situation": "Ich bin Anna Schulz. Meine Zwillinge Mia und Paul sind seit August in der 1. Klasse und wurden auf zwei Klassen verteilt: Mia in die 1a, Paul in die 1b bei Herrn Krüger. Paul weint seit etwa drei Wochen fast jeden Morgen vor der Schule und sagt, er vermisst Mia; zu Hause lassen wir ihn abends erzählen, was in der Schule schön war, und ich kann nachmittags ab 15 Uhr.",
+   "reply": "Sehr geehrter Herr Krüger, ich bin Anna Schulz, die Mutter von Paul aus der 1b. Paul weint seit etwa drei Wochen fast jeden Morgen vor der Schule und sagt, dass er seine Zwillingsschwester Mia vermisst, die in die 1a geht. Wie erleben Sie ihn im Unterricht und in der Pause? Zu Hause lassen wir ihn abends erzählen, was in der Schule schön war. Hätten Sie in den nächsten Tagen Zeit für ein kurzes Gespräch? Ich kann nachmittags ab 15 Uhr. Vielen Dank, Anna Schulz",
+   "lang": "de",
+   "note": "Nicht gleich einen Klassenwechsel fordern: erst fragen, was der Lehrer beobachtet, dann gemeinsam überlegen, was Paul hilft."
   }
  ]
 }

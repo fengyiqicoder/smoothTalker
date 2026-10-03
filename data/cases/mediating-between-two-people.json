@@ -1,6 +1,6 @@
 {
  "playbook": "mediating-between-two-people",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "mediating-between-two-people-001",
@@ -274,6 +274,13 @@
    "reply": "I can tell this has really upset you, and I'm glad you reached out. I'm not going to go through the screenshots and rule on who's right, though; I care about you both, and I'd only ever be seeing part of it. I won't pass anything on to Tess either. If you want to sort it out with her, a call or a coffee will go further than more messages, and I'm happy to help you think about how to start it.",
    "lang": "en",
    "note": "Screenshots are an invitation to judge: acknowledge the feeling, decline the verdict, and point her back to Tess, ideally by voice rather than text."
+  },
+  {
+   "id": "mediating-between-two-people-040",
+   "situation": "我是高中同学会的组织者，毕业十年聚会定在10月24日周六，邀请上周已经在班级群里发了，老周也报了名。阿伟和老周十年前合伙开店闹翻了，阿伟刚私信我：“你要是请老周，我就不去了，你别请他。”我两边都不想得罪，座位可以不把他们排在一桌，以后他们想把话说开，我也愿意帮忙约。",
+   "reply": "阿伟，你直接跟我说，我挺感谢的，也知道那件事到现在还让你不舒服。不过这次聚会是全班的，邀请上周已经在群里发了，我不会把谁请出去；你们俩当年的事我不评对错，也不往中间传话。来不来你自己决定，我真心希望你来，座位上我不会把你们俩排在一桌。要是哪天你想跟老周把话说开，需要有人在场的话，我可以帮忙约。",
+   "lang": "zh",
+   "note": "组织者被要求二选一时，不撤邀请、不传话、不评对错，把来不来的决定还给他。"
   }
  ]
 }

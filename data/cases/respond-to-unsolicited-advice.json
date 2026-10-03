@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-unsolicited-advice",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "respond-to-unsolicited-advice-001",
@@ -274,6 +274,13 @@
    "reply": "Thanks, Ron, I know you're fond of Biscuit. His food is something my vet and I have sorted, so I'm sticking with it. Did Pepper get anything special for her 10th?",
    "lang": "en",
    "note": "One line of position and a new subject; any question about Biscuit's diet goes to the vet, not to a debate at the park."
+  },
+  {
+   "id": "respond-to-unsolicited-advice-040",
+   "situation": "I'm 52 and started doing stand-up at open mic nights this year. My 16-year-old daughter Mia keeps telling me to quit because it's 'cringe' and her friends might see a video. I'm keeping at it, it makes me really happy, I'd never put her in my set, and I've got a five-minute slot at an open mic on Friday.",
+   "reply": "Noted, Mia: your dad is officially cringe. I'm keeping at it though, because it makes me really happy. You will never, ever be in my set, I promise. Want to hear my new opener before Friday? Brutal honesty welcome.",
+   "lang": "en",
+   "note": "When the advice comes from your teenager, a light deflect works: keep the position, answer the real worry in one line, and give her a role that isn't 'stop'."
   }
  ]
 }

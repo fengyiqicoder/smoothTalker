@@ -1,6 +1,6 @@
 {
  "playbook": "push-back-on-boss",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "push-back-on-boss-001",
@@ -274,6 +274,13 @@
    "reply": "Hi Gary, I want Saturday's parcels out as much as you do. The catch is that 30 extra drops would put me at about 11 hours behind the wheel with no break, and my contract has me taking 45 minutes after four and a half hours of driving, so I won't skip it. Two options: Kerry takes the 30 drops, since her van only has a half load on Saturday, or I do them first thing Monday. I'd suggest Kerry, so they still go out on Saturday. Which would you prefer?",
    "lang": "en",
    "note": "Yes to the parcels, no to driving without a break; if you're told to skip it anyway, don't, put it in writing, check your local driving-hours rules, and raise it with HR or the company's whistleblowing channel."
+  },
+  {
+   "id": "push-back-on-boss-040",
+   "situation": "I lead a team of six. My director, Graham, wants me to send him a weekly list of anyone on my team who shows as active on Slack for less than seven hours a day. Two of my team work flexible hours agreed with HR, and Slack status doesn't show focused work or client calls. I'd rather send him a weekly one-page update on delivery against our sprint goals, or flag any specific delivery concerns in our fortnightly 1:1.",
+   "reply": "Hi Graham, I want you to have a clear view of how the team is doing. My worry with the Slack list is that it measures the wrong thing: status doesn't show focused work or client calls, and two of the team work flexible hours agreed with HR, so they'd look absent when they aren't. Two options: I send you a one-page update each week on delivery against our sprint goals, or I flag any specific delivery concerns in our fortnightly 1:1. I'd recommend the weekly update. Which would you prefer?",
+   "lang": "en",
+   "note": "Yes to visibility, no to the proxy: give him a better measure rather than a refusal. If he still wants the list, check with HR on monitoring before sending anything."
   }
  ]
 }

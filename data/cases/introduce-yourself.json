@@ -1,6 +1,6 @@
 {
  "playbook": "introduce-yourself",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "introduce-yourself-001",
@@ -274,6 +274,13 @@
    "reply": "大家好，我是这周六搬进次卧的周晴，苏州人。我在医院急诊科当护士，经常上夜班，所以白天有时在补觉，看到我房门关着，多半是在睡觉。周末我爱做点心，做多了就放在厨房，欢迎大家尝尝。以后住在一起，有什么习惯或者需要注意的，随时在群里跟我说就好。",
    "lang": "zh",
    "note": "合租群里的自我介绍：把会影响大家的作息说成信息而不是要求，再用一个生活爱好和开放的邀请拉近距离。"
+  },
+  {
+   "id": "introduce-yourself-040",
+   "situation": "I'm Fiona Grant, and from Monday I'm job-sharing the Head of Year 9 role with Ruth Adler, who has done it full-time for three years: I work Monday to Wednesday, she works Wednesday to Friday. I taught geography for eight years at another school, and I coach the netball team on Wednesdays. I need to email the Year 9 parents so they know who to contact when.",
+   "reply": "Dear Year 9 parents, I'm Fiona Grant, and from Monday I'm sharing the Head of Year 9 role with Ruth Adler, whom many of you already know. I'll be in Monday to Wednesday and Ruth Wednesday to Friday, so early in the week I'm your first contact, and later in the week it's Ruth. Before this I taught geography for eight years, and on Wednesdays you'll find me coaching the netball team. If there's anything you'd like me to know about your child as I get started, I'd be glad to hear it.",
+   "lang": "en",
+   "note": "In a job share, the most useful line is who to contact when; the human hook and the invitation still follow."
   }
  ]
 }

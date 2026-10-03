@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-recruiter",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "respond-to-recruiter-001",
@@ -274,6 +274,13 @@
    "reply": "Thanks for reaching out, Fiona, the role sounds interesting. I can confirm I have the right to work in the UK. I don't send passport scans or my home address at this stage, but I'm happy to provide documents once there's an offer, through the employer's own checks. Before we book a call, could you share the base range? If it lines up, I'm free Tuesday or Wednesday after 5pm.",
    "lang": "en",
    "note": "Confirm the fact, hold the documents back; if a recruiter insists on ID up front, check the agency is genuine before sending anything."
+  },
+  {
+   "id": "respond-to-recruiter-040",
+   "situation": "猎头王女士帮我拿到一家物流科技公司的数据产品经理offer，我上周在电话里口头说会接，还没签。我跟现公司提离职后，公司给我加薪并升组长，我考虑后决定留下。想尽快告诉王女士，她这一个多月一直很用心，以后还想保持联系。",
+   "reply": "王女士您好，有个不好的消息要尽快告诉您：这个offer我决定不接了。上周我在电话里口头答应会接，现在反悔，给您和对方都添了麻烦，真的很抱歉。我提离职后公司给了新的安排，考虑之后我决定留下。麻烦您帮我跟对方说一声，也替我谢谢面试官。这一个多月您一直很用心，以后有机会还希望保持联系。",
+   "lang": "zh",
+   "note": "口头答应后反悔：越早说越好，自己担下来，不拿新条件回头压价，也不编别的理由。"
   }
  ]
 }

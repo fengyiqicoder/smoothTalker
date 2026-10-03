@@ -1,6 +1,6 @@
 {
  "playbook": "handle-no-show-or-lateness",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "handle-no-show-or-lateness-001",
@@ -274,6 +274,13 @@
    "reply": "ルシアさん、こんばんは。大丈夫ですか？今夜は8時半まで通話で待っていましたが、今日はここで終わりにしますね。来週の火曜、同じ日本時間の夜8時でよければ、またお話ししましょう。都合が変わったら、気軽に教えてください。",
    "lang": "ja",
    "note": "まだ関係が浅い相手には、責めずにまず相手を気づかい、待った時間と次の予定だけを短く伝える。"
+  },
+  {
+   "id": "handle-no-show-or-lateness-040",
+   "situation": "My son Leo, 15, was meant to be home from his friend Jonah's by 9pm. It's 9:40, he hasn't texted, and his phone goes straight to voicemail; he's never been this late without a word. I have Jonah's mum Claire's number.",
+   "reply": "Leo, it's 9:40 and you said you'd be home by 9. Are you okay? Text me where you are, and if you need a lift I'll come and get you; we can talk about the time tomorrow. If I haven't heard from you by 10, I'm calling Claire.",
+   "lang": "en",
+   "note": "Check he's safe first and save the talk for tomorrow. If Claire doesn't know where he is either and you still can't reach him, call the police rather than waiting until morning."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-passive-aggressive",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "respond-to-passive-aggressive-001",
@@ -274,6 +274,13 @@
    "reply": "Hi Leanne, sorry, I missed your message on Monday, that's on me. The 24th is still free and I'd love to make the birthday cake. What flavour were you thinking, and how many people is it for? If you've already sorted someone else, no hard feelings at all.",
    "lang": "en",
    "note": "Face value with a small own: answer what she actually asked, skip the reasons you missed it, and leave the smiley alone."
+  },
+  {
+   "id": "respond-to-passive-aggressive-040",
+   "situation": "I opened a pull request for a new date parser, and our senior developer Marcus commented on it where the whole team can see: 'Interesting approach. I guess we're not doing tests anymore?' He's right that I didn't add tests; I meant to do them in a follow-up but never said so. I can add them to this pull request today.",
+   "reply": "Fair catch, Marcus. I meant to add the tests in a follow-up but didn't flag it, and a parser is exactly where they matter. I'll add them to this pull request today and tag you when they're in.",
+   "lang": "en",
+   "note": "A sarcastic review comment with a fair point inside: answer in the same thread, fix the substance, and leave 'interesting approach' alone."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "price-increase-and-customer-announcements",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "price-increase-and-customer-announcements-001",
@@ -274,6 +274,13 @@
    "reply": "Hi Leon,\nFrom Friday 1 January 2027 I'm moving from hourly billing to a fixed monthly fee. For you that's $310 a month, covering monthly reconciliation, payroll and quarterly tax prep; this year you averaged six hours a month, which came to $330. A few clients told me surprise bills were hard to budget for, and a fixed fee solves that. Anything outside those three I'll quote before I start. If you'd rather stay on hourly at $55, just tell me before Tuesday 1 December and nothing changes for you.\nPriyanka",
    "lang": "en",
    "note": "A change in how you charge goes out with each client's own numbers, old and new, so nobody has to work out whether it costs them more."
+  },
+  {
+   "id": "price-increase-and-customer-announcements-040",
+   "situation": "Je suis Sophie, je tiens un salon de thé à Rennes, Le Temps d'une Tasse. Depuis 2020, les étudiants ont 10 % de réduction sur les boissons ; à partir du lundi 4 janvier 2027, je la remplace par une carte de fidélité ouverte à tous, la dixième boisson offerte, parce que le lait et le loyer ont augmenté et que la réduction n'est plus tenable. Les prix de la carte ne changent pas, et je l'annonce sur une affiche au comptoir et sur notre Instagram.",
+   "reply": "À partir du lundi 4 janvier 2027, la réduction étudiante de 10 % sur les boissons s'arrête. Le lait et le loyer ont augmenté, et nous ne pouvons plus la tenir. Les prix de la carte, eux, ne changent pas. À la place, tout le monde, étudiants compris, aura une carte de fidélité : la dixième boisson est offerte. Merci de venir chez nous, carte d'étudiant ou pas. Sophie, Le Temps d'une Tasse",
+   "lang": "fr",
+   "note": "La fin d'une réduction est une hausse pour ceux qui en profitaient : la date en premier, une seule raison, et ce qu'ils gardent."
   }
  ]
 }

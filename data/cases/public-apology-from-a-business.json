@@ -1,6 +1,6 @@
 {
  "playbook": "public-apology-from-a-business",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "public-apology-from-a-business-001",
@@ -274,6 +274,13 @@
    "reply": "9月18日我们在公众号和小红书发的那篇空气炸锅“真实测评”，其实是厂家付费的合作，但我们没有标注“广告”。对不起，这是我们的问题，大家本该在下单前就知道这一点。两篇文章今天已经在开头补上“付费合作”标注。通过文章链接买了这款空气炸锅的朋友，如果觉得被误导，10月31日前都可以退货，全额退款，来回运费我们出。以后所有合作内容，第一行就会标明“广告”。有问题直接私信店铺，我本人回复。店主 赵宁",
    "lang": "zh",
    "note": "没标广告的道歉：先说清是付费合作，不辩解“内容都是真的”，退货不设门槛；发之前也查一下当地对广告标注的要求。"
+  },
+  {
+   "id": "public-apology-from-a-business-040",
+   "situation": "I'm Abi, owner of Crumb Theory bakery. Our oven broke on Friday morning and we had to cancel 25 pre-ordered birthday cakes; we posted an apology on Facebook, refunded all 25 in full that day, and offered each of them a free cake on any date in October. Under the apology, one of those customers has commented: 'Pathetic clowns, you ruined my kid's birthday, hope you go bust.'",
+   "reply": "I'm sorry we let you down on your child's birthday. That's a day you don't get back, and cancelling on the morning made it worse. Everyone affected was refunded in full on Friday, and the free cake on any date in October is yours whenever you'd like it. I've sent you a DM so we can sort the details. Abi",
+   "lang": "en",
+   "note": "One calm reply to an abusive comment, details moved to DM; don't match the tone, and if it carries on, stop replying. Delete only if it breaks the platform's rules or yours."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-an-ex-or-breakup-message",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "respond-to-an-ex-or-breakup-message-001",
@@ -274,6 +274,13 @@
    "reply": "Rhys, I'm sorry things are hard at home. I'm not going to meet up, and I won't be in touch in any way Clare couldn't know about. I hope you find someone good to talk it through with. Take care.",
    "lang": "en",
    "note": "Say no to the meeting and to the secrecy itself; don't counsel him on his marriage, and don't reply to the reply."
+  },
+  {
+   "id": "respond-to-an-ex-or-breakup-message-040",
+   "situation": "Two years ago I ended things with Mara, after eight months together, by simply not replying any more when I moved to Leeds. I've since realised how unfair that was. I'm not looking to get back together or start talking again; I just want to apologise once, by text, without asking her for anything.",
+   "reply": "Hi Mara, I'm not writing to reopen anything, and you don't need to reply. When I moved to Leeds I stopped answering you instead of ending things properly, and that was unfair. You deserved a clear answer from me, and I'm sorry I didn't give you one. I hope things are good for you.",
+   "lang": "en",
+   "note": "An apology to an ex names one specific thing and asks for nothing; send it once, and don't follow up if she stays silent or replies angrily."
   }
  ]
 }

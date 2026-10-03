@@ -1,6 +1,6 @@
 {
  "playbook": "respond-to-negative-review",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "respond-to-negative-review-001",
@@ -274,6 +274,13 @@
    "reply": "谢谢橙子把这件事说清楚。规则还没讲完就开始计时，等于让您少玩了一截，这是我们店员操作的问题，很抱歉。现在已经改了：关上门才开始计时，讲规则的时间不算在内。想跟您好好聊聊、把这件事处理好，方便的话请打138 0000 5217找我。店主 阿凯",
    "lang": "zh",
    "note": "认下具体环节的错，写清改了什么；不争论到底玩了多久，补偿只在私下谈。"
+  },
+  {
+   "id": "respond-to-negative-review-040",
+   "situation": "I'm Tom, owner of Boulder Barn, a climbing gym; my email is tom@example.com. 'Aisha R.' left a 2-star Google review saying she landed in a gap between two crash mats in the bouldering area on Tuesday evening, sprained her ankle, and staff 'just handed her an ice pack'. The gap was real; since Wednesday every mat in the bouldering area is joined with velcro strips and checked at opening and every two hours.",
+   "reply": "Thank you, Aisha, and I'm sorry you were hurt; I hope you're recovering well. Nobody should be able to land in a gap between two mats, and that gap was our failure. Since Wednesday every mat in the bouldering area is joined with velcro strips and checked at opening and every two hours. I'd like to talk with you personally about Tuesday evening; please email me at tom@example.com. Tom, owner, Boulder Barn",
+   "lang": "en",
+   "note": "An injury review: own the hazard and show the fix, but keep her injury, first aid and any insurance talk out of the public reply; if she mentions it getting worse, urge her to see a doctor."
   }
  ]
 }

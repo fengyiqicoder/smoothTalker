@@ -1,6 +1,6 @@
 {
  "playbook": "handle-being-ghosted-by-client",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "handle-being-ghosted-by-client-001",
@@ -274,6 +274,13 @@
    "reply": "Hola, Álvaro: tu traje está terminado y te espera en el taller. Al recogerlo quedan los 250 euros que acordamos. ¿Te viene bien pasar esta semana o la próxima? Con que me digas el día me basta. Si ha cambiado algo con la boda o con el traje, dímelo sin problema y lo hablamos. Te lo guardo en el taller hasta finales de octubre. Un saludo, Marta",
    "lang": "es",
    "note": "Con un encargo ya hecho, el silencio no cancela nada: recuerda qué falta, da una fecha real y deja una salida fácil; lo que pase después con el traje, según lo que acordasteis al encargarlo."
+  },
+  {
+   "id": "handle-being-ghosted-by-client-040",
+   "situation": "I'm Felix, a freelance video editor. Since August, Corinne, comms manager at a housing charity, has told me three times that they'd 'confirm next week' on a $3,200 annual report video; her last message, on Sept 15, said the same, and I've heard nothing since. I have editing time free in November, and I'd like to stop the loop without burning the bridge.",
+   "reply": "Hi Corinne, I know the annual report video keeps getting pushed, and that's completely normal with everything a charity juggles. Rather than keep it hanging on both our lists, I'll take it off my calendar for now. If it gets the green light, just reply to this thread; I have editing time free in November if the timing works. Best of luck with the report. Felix",
+   "lang": "en",
+   "note": "A repeated 'next week' is often a soft no: close the loop yourself so she doesn't have to keep apologising, and leave a one-line way back."
   }
  ]
 }

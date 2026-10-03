@@ -1,6 +1,6 @@
 {
  "playbook": "landlord-tenant-and-service-providers",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "landlord-tenant-and-service-providers-001",
@@ -274,6 +274,13 @@
    "reply": "Hi, I'm Dev Malhotra, account KB-55120. I've had an email saying my monthly price will go from £32 to £38 from 1 November. I signed an 18-month contract in March, and section 4 of the terms I signed says the monthly price is fixed for the minimum term. Could you confirm in writing that my price stays at £32 until the minimum term ends? A reply by email by Friday 9 October would be great. Thanks.",
    "lang": "en",
    "note": "Quote the clause you signed, not general consumer law; if they point to a different clause, ask to see it and check the terms before escalating."
+  },
+  {
+   "id": "landlord-tenant-and-service-providers-040",
+   "situation": "I'm Hana. I moved into flat 7 at 15 Birch Street on Thursday, renting from Mr Lowe. His inventory says the carpets and oven are clean, but the bedroom carpet has two large stains, the oven is greasy, and the bathroom extractor fan doesn't work. Clause 5 of my tenancy agreement says I return comments on the inventory within 7 days of moving in; I've taken dated photos and I'm home after 5:30 on weekdays.",
+   "reply": "Hi Mr Lowe,\nUnder clause 5 of the tenancy agreement, here are my comments on the move-in inventory, with dated photos attached. The inventory lists the carpets and oven as clean, but the bedroom carpet has two large stains and the oven is greasy, so please add both to the inventory. The bathroom extractor fan also doesn't work. Could you confirm in writing by Friday that the inventory has been updated, and let me know when someone can look at the fan? I'm home after 5:30 on weekdays.\nThanks,\nHana",
+   "lang": "en",
+   "note": "Move-in is when deposit disputes are won: dated photos, the clause once, and a written confirmation. Check the agreement on who repairs the fan."
   }
  ]
 }

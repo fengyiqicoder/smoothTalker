@@ -1,6 +1,6 @@
 {
  "playbook": "out-of-office-and-away-messages",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "out-of-office-and-away-messages-001",
@@ -274,6 +274,13 @@
    "reply": "Thanks for your email. I'm away from Monday 12 October and back on Monday 19 October, and I won't be reading email until then. If your animal is ill or injured and it can't wait, call Northgate Animal Hospital, open 24 hours, on 0161 496 0512. The clinic is open as usual for nurse appointments and for repeat prescriptions I've already signed; our nurse, Josh Patel, can help with those. Everything else gets a reply from me the week I'm back. Dr Ellie Marsh",
    "lang": "en",
    "note": "A solo clinician's auto-reply puts the route for a sick animal first, then says what still runs at the clinic without you."
+  },
+  {
+   "id": "out-of-office-and-away-messages-040",
+   "situation": "I'm Dr Rachel Okafor, a university lecturer. My union is holding strike action from Monday 12 October to Wednesday 14 October; I won't read or reply to email on those days and won't be catching up on messages sent during them. Students with a welfare concern should contact Student Support at studentsupport@example.com, and I'm back on Thursday 15 October.",
+   "reply": "Thank you for your email. I'm taking part in strike action from Monday 12 October to Wednesday 14 October and am not reading email on those days. Messages sent during the strike won't be picked up afterwards, so please resend anything that still matters from Thursday 15 October. If you're a student with a welfare concern, please contact Student Support at studentsupport@example.com. Dr Rachel Okafor",
+   "lang": "en",
+   "note": "When messages won't be caught up on, say so plainly and tell people when to resend; the one route left open is for welfare, not for work."
   }
  ]
 }

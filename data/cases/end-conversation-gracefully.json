@@ -1,6 +1,6 @@
 {
  "playbook": "end-conversation-gracefully",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "end-conversation-gracefully-001",
@@ -274,6 +274,13 @@
    "reply": "Thanks for remembering my birthday, Jordan, that was really kind, and it's been nice to laugh about the old stuff. I'm going to sign off now, and honestly I think it's better for me if we don't make this a regular thing. Take care of yourself.",
    "lang": "en",
    "note": "With an ex, the boundary is the reason: no 'let's catch up soon', and if they reply, one short 'you too' and leave it."
+  },
+  {
+   "id": "end-conversation-gracefully-040",
+   "situation": "我在开车，用车载蓝牙接了大学室友阿杰的电话，他刚拿到新offer，正跟我细说，已经聊了二十分钟，我挺替他高兴的。前面马上要上一段很绕的高架匝道，我想先挂，大概半小时后到家再给他发微信接着聊。",
+   "reply": "阿杰，我得先挂了，前面马上要上高架匝道，开车得专心。新offer这事我真替你高兴。我大概半小时后到家，到了给你发微信，咱们接着聊。先挂了，拜拜！",
+   "lang": "zh",
+   "note": "开车时用一句真实理由收尾，给一个具体的回头时间，说完拜拜就挂；别边开车边聊复杂的事。"
   }
  ]
 }

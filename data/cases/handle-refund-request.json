@@ -1,6 +1,6 @@
 {
  "playbook": "handle-refund-request",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "handle-refund-request-001",
@@ -274,6 +274,13 @@
    "reply": "Hi Mrs Okoro, you're right, the oven was on your booking and we missed it, and I'm sorry. Our terms cover exactly this: anything on the checklist that's missed and reported within 24 hours gets a free return visit, and you told us in time. So rather than refunding the whole clean, I can come back tomorrow between 9 and 11am and do the oven at no charge, or refund the $30 oven add-on today. Which would you prefer?",
    "lang": "en",
    "note": "Own the miss, tie the fix to your own terms, and put the remedy on the part that went wrong rather than the whole booking."
+  },
+  {
+   "id": "handle-refund-request-040",
+   "situation": "I run Lamplight Tales, a small storytelling night. We've moved the 10 October show to Friday 13 November because the venue flooded, and the ticket page says that if a show is postponed, tickets carry over automatically or are refunded in full on request before the new date. Greg bought four tickets at $25 each and says two of his friends can't make the new date; refunds to card take 3 to 5 working days on our side.",
+   "reply": "Hi Greg, sorry about the change of date, and thanks for still wanting to come. Yes, I'll refund the two tickets your friends can't use, $50, to your card today; it should show within 3 to 5 working days. Your other two tickets carry over to Friday 13 November automatically, so there's nothing else you need to do. See you both there!",
+   "lang": "en",
+   "note": "A postponement you caused: a partial refund of a group booking is a plain yes, tied to what the ticket page already promised."
   }
  ]
 }

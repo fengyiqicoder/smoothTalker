@@ -1,6 +1,6 @@
 {
  "playbook": "romantic-let-down",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "romantic-let-down-001",
@@ -274,6 +274,13 @@
    "reply": "Hi Liam, it was really good to catch up at the wedding, and thanks for asking. It's a no from me, though: I don't feel that way about you now, and it isn't payback for uni. Wishing you well.",
    "lang": "en",
    "note": "Shared history doesn't call for a softer or longer no; one line rules out the score-settling reading."
+  },
+  {
+   "id": "romantic-let-down-040",
+   "situation": "I've been on two dates with Priyanka, the second last Thursday. She leaves on Monday for a three-month work posting in Singapore and just texted: 'Can we keep in touch while I'm away and pick this up when I'm back in January?' I'm not feeling a romantic connection, and I don't want her spending three months thinking something is waiting.",
+   "reply": "Thanks for asking, Priyanka, and I really enjoyed our two dates. I'd rather be honest before you go: I'm not feeling a romantic connection, so I don't think we should pick this up in January. Better you head off with a clear answer than a maybe. I hope Singapore is a brilliant three months.",
+   "lang": "en",
+   "note": "A long pause invites a soft 'let's see': give the clear no before she leaves, so nothing hangs over the trip."
   }
  ]
 }
