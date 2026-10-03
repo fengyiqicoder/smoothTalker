@@ -25,8 +25,8 @@
   },
   {
    "id": "end-conversation-gracefully-004",
-   "situation": "我妈每次打电话都能聊一个多小时，今晚我还得赶一个方案。想挂电话，又怕她觉得我嫌她烦。",
-   "reply": "妈，我得挂了，今晚还有个方案要赶出来。挂之前跟您说一声，周六我回家吃饭，想吃您做的红烧肉。好啦，您早点休息，拜拜。",
+   "situation": "我妈每次打电话都能聊一个多小时，今晚我还得赶一个方案。周六本来就说好回家吃饭。想挂电话，又怕她觉得我嫌她烦。",
+   "reply": "妈，我得挂了，今晚还有个方案要赶出来。挂之前跟您说一声，周六我回家吃饭，到时候咱们慢慢聊。好啦，您早点休息，拜拜。",
    "lang": "zh",
    "note": "电话里先说要走，补一句最后的话，再说拜拜就挂，不用等她先挂，也不用反复道别。"
   },
@@ -39,7 +39,7 @@
   },
   {
    "id": "end-conversation-gracefully-006",
-   "situation": "Video call with a client, Martin. The agenda was done 15 minutes ago and he keeps telling stories about his sailing trip. I have another call at 3 and it's 2:52.",
+   "situation": "Video call with a client, Martin. The agenda was done 15 minutes ago and he keeps telling stories about his sailing trip. I owe him a revised timeline by Thursday, I have another call at 3, and it's 2:52.",
    "reply": "Martin, I need to jump off in a couple of minutes for a 3 o'clock. Great session today, and I'll send the revised timeline by Thursday. Enjoy the sailing. Talk soon, bye.",
    "lang": "en",
    "note": "A recap line signals the ending, the real reason is given because you're cutting in, and the last line is not a question."
@@ -60,7 +60,7 @@
   },
   {
    "id": "end-conversation-gracefully-009",
-   "situation": "Mein Nachbar Herr Becker (über 80, lebt allein) fängt mich fast jeden Abend im Treppenhaus ab und erzählt eine halbe Stunde. Ich mag ihn, aber heute habe ich schwere Einkaufstüten in der Hand, mit Tiefkühlsachen drin.",
+   "situation": "Mein Nachbar Herr Becker (über 80, lebt allein) fängt mich fast jeden Abend im Treppenhaus ab und erzählt eine halbe Stunde. Ich mag ihn und bringe ihm samstags immer die Zeitung mit hoch. Heute habe ich schwere Einkaufstüten mit Tiefkühlsachen in der Hand.",
    "reply": "Herr Becker, ich muss jetzt hoch, sonst tauen mir die Tiefkühlsachen weg. Am Samstag bringe ich Ihnen die Zeitung mit hoch, dann erzählen Sie mir den Rest. Einen schönen Abend!",
    "lang": "de",
    "note": "Ein echter Grund, ein warmer Satz und ein fester Anknüpfungspunkt statt einer Frage. Redet er weiter: einmal kurz antworten, dann wirklich gehen."
@@ -95,7 +95,7 @@
   },
   {
    "id": "end-conversation-gracefully-014",
-   "situation": "I agreed to a 30-minute Zoom with a grad student, Leo, who wants advice on getting into UX research. We're at 50 minutes, it's 6pm, and he keeps saying 'just one more question'. I have nothing after this, I'm just done for the day.",
+   "situation": "I agreed to a 30-minute Zoom with a grad student, Leo, who wants advice on getting into UX research; my main advice was to run two small studies for his portfolio before applying. We're at 50 minutes, it's 6pm, and he keeps saying 'just one more question'. I'm just done for the day.",
    "reply": "Leo, I'm going to wrap us up here, we're well past our half hour and I'm done for the day. The short version of everything: run two small studies for your portfolio before you apply anywhere. Once you've started the first one, email me one question and I'll reply within the week. Good luck, you're asking the right things.",
    "lang": "en",
    "note": "No invented next meeting: own the exit, recap in one line, and give one bounded way to follow up instead of 'reach out anytime'."
@@ -180,7 +180,7 @@
   {
    "id": "end-conversation-gracefully-026",
    "situation": "Vivo en Madrid y mi primo Rodrigo, que vive en Ciudad de México, me escribe por WhatsApp cada noche a las 7 de su hora, que aquí son las 3 de la madrugada. Ahora mismo me está contando lo de su nuevo piso y yo entro a trabajar a las 8.",
-   "reply": "Primo, qué bien lo del piso, me alegro mucho. Aquí son las 3 de la madrugada y entro a trabajar a las 8, así que me voy a dormir. El sábado te llamo a las 10 de tu mañana y me lo enseñas por videollamada. Un abrazo.",
+   "reply": "Primo, qué bien lo del piso, me alegro mucho. Aquí son las 3 de la madrugada y entro a trabajar a las 8, así que me voy a dormir. Si te viene bien, el sábado te llamo a las 10 de tu mañana y me lo enseñas por videollamada. Un abrazo.",
    "lang": "es",
    "note": "Con diferencia horaria, nombra tu hora y propone un momento que sirva a los dos; si sigue escribiendo, contesta mañana."
   },
@@ -203,7 +203,7 @@
    "situation": "First date with Daniel from a dating app at a wine bar. We've been here an hour and a half, there's no spark for me, and he just suggested ordering another bottle. I want to leave now without hinting we'll do it again.",
    "reply": "I'm going to call it a night. Thanks for the drink, Daniel, it was nice to meet you. Take care getting home.",
    "lang": "en",
-   "note": "No future hook and no fake excuse; if he asks about a second date, one honest line ('I don't think we're a match, but I enjoyed meeting you') and go."
+   "note": "No future hook and no fake excuse; if he asks about a second date, one honest line ('I don't think we're a match, but I enjoyed meeting you') and go. If he pushes or won't let you leave, ask the bar staff for help."
   },
   {
    "id": "end-conversation-gracefully-030",

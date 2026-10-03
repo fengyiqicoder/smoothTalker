@@ -1,6 +1,6 @@
 {
  "playbook": "customer-onboarding-and-welcome",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "customer-onboarding-and-welcome-001",
@@ -274,6 +274,13 @@
    "reply": "Hello Kenji, thank you for booking Glenbrae Cottage. I am happy you are coming. Your stay is 2 nights, from Friday 16 October. Check-in is from 4pm. The key is in a lockbox, and I will send you the code on the morning of 16 October. Please tell me your arrival time by Wednesday 14 October. If you have a question, send me a WhatsApp message on 07700 900233. I reply within a few hours. Isla",
    "lang": "en",
    "note": "For a guest reading in a second language: short sentences, one fact each, dates and times in numbers, and no idioms."
+  },
+  {
+   "id": "customer-onboarding-and-welcome-040",
+   "situation": "I'm Rhys and I run a two-person IT support firm, Corvid IT. Joanne, office manager at Hartley Family Dental, just signed up for monthly support starting Monday 12 October, and I'll visit on Thursday 8 October at 9am to check their 8 computers. In her sign-up email she offered to email me all their admin passwords, but I never take passwords by email; we'll set up my own admin login together at the visit. By Tuesday 6 October I need a list of the staff who use the computers, and our support line, 0161 496 0233, gets back to people within four working hours.",
+   "reply": "Hi Joanne, thanks for choosing Corvid IT for Hartley Family Dental, we're glad to have you. Here's what happens next: I'll visit on Thursday 8 October at 9am to check your 8 computers, and your monthly support starts on Monday 12 October. Please don't email me any passwords; at the visit we'll set up my own admin login together, so yours stay private. The one thing I need by Tuesday 6 October is a list of the staff who use the computers. Any questions, call our support line on 0161 496 0233 and we'll get back to you within four working hours. Rhys",
+   "lang": "en",
+   "note": "Turn down the offered passwords inside the welcome, kindly, with what happens instead; it sets the security habit from day one."
   }
  ]
 }

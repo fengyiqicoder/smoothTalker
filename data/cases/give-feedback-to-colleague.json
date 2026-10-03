@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-to-colleague",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "give-feedback-to-colleague-001",
@@ -274,6 +274,13 @@
    "reply": "老周，想跟你聊聊周二恒远那个会，方便吗？会上孙总两次点名问你物流方案，你都隔了几秒才说没听清，我看到你那会儿在打字回别的消息。会后孙总私下问我，你是不是不太重视这个项目。你那边当时是有什么急事吗？以后跟客户开会，能不能先把别的消息放一放，真有急事就跟我说一声，我先接着讲。下次跟恒远开完会，我们再碰一下。",
    "lang": "zh",
    "note": "平级同事：说具体的那两次和客户的原话，先问他有没有急事，再提一个具体做法，不给他贴“不上心”的标签。"
+  },
+  {
+   "id": "give-feedback-to-colleague-040",
+   "situation": "I lead the data team. In the last two cross-team planning meetings, on 22 and 29 September, Carla, the marketing lead at my level, told the room my team would turn round new dashboards by Friday without checking with me first. We hit the first one by working late and missed the second. I want to raise it with her one-on-one on Monday.",
+   "reply": "Carla, can I give you some feedback on the planning meetings? On 22 and 29 September you told the room my team would turn round dashboards by Friday, before checking with me. We hit the first by working late and missed the second, so the room heard a date we couldn't keep. What's your read on how those commitments came about? Going forward, could you check with me before promising my team's time, even with a quick Slack message during the meeting? Let's see how the next two planning meetings go.",
+   "lang": "en",
+   "note": "A peer committing your team's time: two dated examples and their cost, a real question, then a small ask she can do in the room."
   }
  ]
 }

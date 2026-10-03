@@ -1,6 +1,6 @@
 {
  "playbook": "decline-offer-or-candidate",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "decline-offer-or-candidate-001",
@@ -274,6 +274,13 @@
    "reply": "Hi Dean, following up on our call. Thank you for the time you gave us, and for your answer on planning a concrete pour, which was one of the best we heard. After completing our reference checks, we've decided not to offer you the role. References are given to us in confidence, so I can't go into what was said. I wish you the best with your search. Rob",
    "lang": "en",
    "note": "Don't invent a softer reason or hint at who said what; if he asks, repeat that references are confidential, and check your own process and local rules on what you must disclose."
+  },
+  {
+   "id": "decline-offer-or-candidate-040",
+   "situation": "我是高校副教授，今年只有一个硕士名额，已经给了另一位做过遥感项目的同学。外校学生小刘发邮件想来我的课题组读研，附了本科毕业论文，写得很扎实。同院赵老师的组今年还有名额，方向和我们接近，赵老师同意我把小刘推荐给她。",
+   "reply": "小刘同学你好，谢谢你对课题组的兴趣，也谢谢你发来的本科毕业论文，写得很扎实。今年我只有一个硕士名额，已经确定给了另一位做过遥感项目的同学，所以这次没办法接收你。同院赵老师的课题组今年还有名额，方向和我们很接近，我已经跟她打过招呼，你可以直接给她写邮件。祝你一切顺利。",
+   "lang": "zh",
+   "note": "名额已满就直说，不留“明年再看”之类的空门；转介绍只在对方确实同意时才给。"
   }
  ]
 }

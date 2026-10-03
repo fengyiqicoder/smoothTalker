@@ -1,6 +1,6 @@
 {
  "playbook": "ask-to-change-behavior",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "ask-to-change-behavior-001",
@@ -274,6 +274,13 @@
    "reply": "Hi Greg, small thing before Saturday, and thanks as always for the help with the kit. During matches you've been calling out instructions to Toby, like 'shoot!' or 'get forward!', and sometimes they clash with what I've asked the team to do, so Toby ends up looking over to the sideline instead of at the game. Cheer as loud as you like, that's brilliant. Could you leave the instructions to me during matches? See you Saturday.",
    "lang": "en",
    "note": "One behaviour and its effect on the child, not on you; keep the cheering welcome so the ask is only about the instructions."
+  },
+  {
+   "id": "ask-to-change-behavior-040",
+   "situation": "我和大学同学小雨合开了一家卖手工耳饰的网店，晚上的客服由她负责。她回复退换问题时经常只说“不退”“自己看详情页”，这个月两条差评都提到了客服态度。我想请她以后先说一句抱歉，再给具体办法，拿不准的转给我，今晚在微信上跟她说。",
+   "reply": "小雨，跟你说个店里的小事，不是怪你哈。最近遇到退换的问题，你有时会直接回“不退”“自己看详情页”，这个月两条差评都提到了客服态度，我看着挺着急的。以后遇到退换，能不能先跟客人说一句抱歉，再告诉他具体怎么办？拿不准的直接转给我，我来回。晚上的客服一直是你在扛，辛苦啦。",
+   "lang": "zh",
+   "note": "合伙人之间也只谈一个行为和它的影响，用差评这个事实代替评价她的态度，再给一个马上能用的做法。"
   }
  ]
 }

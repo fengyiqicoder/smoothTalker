@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -274,6 +274,13 @@
    "reply": "Hi Mark, I'd like to take Thursday 15 October off as a vacation day: I've been invited to my citizenship ceremony that morning, and the council sets the date. Ines has agreed to run the Thursday sample batch that day. Can you approve?",
    "lang": "en",
    "note": "A fixed-date event: say once that the date isn't yours to move, then the cover and a closed question; good news only needs one line."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-040",
+   "situation": "I'm in a reserve unit and it has confirmed my two weeks of annual training, Monday 2 to Friday 13 November; I have the joining letter, and the unit needs my confirmation by Monday 19 October. Our handbook says reservist training is unpaid leave that needs a manager's sign-off, and I'd like to use 3 vacation days to cover part of it. Ama has agreed to cover the weekly client report on the 5th and 12th. Email to my manager, Priyanka.",
+   "reply": "Hi Priyanka, I'd like to request Monday 2 to Friday 13 November off for my reserve unit's annual training, back on Monday 16 November. I've attached the joining letter. As the handbook sets out, it would be recorded as unpaid reservist leave, and I'd like to use 3 vacation days to cover part of it. Ama has agreed to cover the weekly client report on the 5th and 12th. Could you sign it off by Friday 16 October? My unit needs my confirmation by Monday 19 October.",
+   "lang": "en",
+   "note": "A fixed commitment with a document: dates, the handbook category and the cover; how pay is handled is a question for the handbook or HR, not a guess."
   }
  ]
 }

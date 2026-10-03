@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -274,6 +274,13 @@
    "reply": "Gordon, thank you for two years of Tuesday mornings at the larder. Could I ask a favour? Our annual report goes to funders next month, and a couple of sentences from a volunteer shows them what the larder means beyond the food parcels. You said last week that volunteering got you out of the house after you retired, so here's a draft along those lines you can change or bin: \"Volunteering on Tuesday mornings got me out of the house after I retired, and I've been coming for two years now.\" We'd sign it 'Gordon', with a photo only if you'd like one. If you'd rather not, that's completely fine, and thank you either way. Maya",
    "lang": "en",
    "note": "For a volunteer, frame the ask around what funders need to see, keep the draft to what he actually said, and make the photo a separate, optional yes."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-040",
+   "situation": "I'm Ravi and I run a one-man locksmith business, Keyright Locks. I changed the locks for Margaret, 74, after she lost her keys, and she says she'd love to leave a Google review but isn't confident online, so she's offered to give me her email password so I can write and post it for her. My review link is https://g.page/r/keyright-locks/review.",
+   "reply": "That's so kind of you, Margaret, thank you. Please keep your password to yourself, though, and don't give it to anyone, me included; a review should be in your own words, from your own account. If someone you trust ever helps you with it, the link is https://g.page/r/keyright-locks/review, and two sentences is plenty. And if it never happens, your thanks today is more than enough.",
+   "lang": "en",
+   "note": "Never take a customer's login or post a review for them: it misleads future customers and puts their account at risk."
   }
  ]
 }

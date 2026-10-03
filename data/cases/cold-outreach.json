@@ -1,6 +1,6 @@
 {
  "playbook": "cold-outreach",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "cold-outreach-001",
@@ -273,6 +273,13 @@
    "reply": "赵主任您好，看到居委会公众号上说，辖区里不少独居老人不会用手机视频通话。我叫李然，做免费的老年人智能手机课，上半年在翠苑社区办了4期，96位老人参加，主要就是教视频通话。课程不收费，只需要一间能坐20人的活动室。方便的话，我发一页课程方案给您看看？不合适的话，回一句“不用”也很有帮助。",
    "lang": "zh",
    "note": "公益合作也是冷启动：理由来自对方自己发的文章，一个数字做证明，说清需要对方出什么，再只问能不能发一页方案。"
+  },
+  {
+   "id": "cold-outreach-040",
+   "situation": "I'm Dina, a wedding florist in Bath. I'm fully booked for nine Saturdays next summer and have turned away 14 enquiries since August. Megan Hale, who runs Wildstem Flowers in Bristol, posted on Instagram that she still has June dates open next year. I'd like to offer to pass her my overflow couples, no referral fee, and ask if she'd do the same when she's full.",
+   "reply": "Hi Megan, I saw your post that you still have June dates open next year. I'm a wedding florist in Bath and I'm fully booked for nine Saturdays next summer; I've turned away 14 enquiries since August. Would you like me to send couples your way when I'm full? No referral fee, and if you're ever booked up, I'd be glad of the same. If it's not for you, a quick no is genuinely helpful. Dina",
+   "lang": "en",
+   "note": "Pitching a peer business: the proof is the overflow you can hand over, and the ask is one yes or no about a two-way swap."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "creator-brand-deal-reply",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "creator-brand-deal-reply-001",
@@ -273,6 +273,13 @@
    "reply": "阿静你好，谢谢这次合作，也谢谢想续投。视频里的“广告”标注和合作标签我会一直保留，这一点没法调整：粉丝看到的应该是真实的合作关系。续投30天加1000元我可以接，标注照常保留。你看这样可以吗？",
    "lang": "zh",
    "note": "标注不会因为活动结束就失效：只拒绝去标这一点，续投照谈；具体要求以平台规则为准。"
+  },
+  {
+   "id": "creator-brand-deal-reply-040",
+   "situation": "I make cosy reading videos on Instagram, 52k followers. A tea brand, Juniper Leaf, paid me $900 for one reel with 30 days of organic usage on their social accounts. Their contact, Ola, now wants to print stills from the reel on posters in their 40 cafés for six months. My rate for print and in-store usage is $250 per three months, limited to their own cafés, and I'd want it in writing first.",
+   "reply": "Hi Ola, lovely to hear the reel has landed well. Posters in your cafés are print and in-store usage, which sits outside our agreement, since that covered 30 days of organic use on your social accounts. My rate for it is $250 per three months, so $500 for six months, limited to your own 40 cafés. If that works, could you send a short written amendment covering the stills, the cafés and the dates? Once it's signed, you're good to print.",
+   "lang": "en",
+   "note": "Offline use is usage too: price it by time and place, and get the scope in writing before anything is printed."
   }
  ]
 }

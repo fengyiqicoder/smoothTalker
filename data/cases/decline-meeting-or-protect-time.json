@@ -1,6 +1,6 @@
 {
  "playbook": "decline-meeting-or-protect-time",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "decline-meeting-or-protect-time-001",
@@ -274,6 +274,13 @@
    "reply": "Hallo Jonas, das Mentoringprogramm endet im Oktober, und unser Termin am Montag, 5. Oktober, wird unser letzter fester. Danach beende ich die monatlichen Termine, aber nicht den Kontakt: Wenn du eine Frage hast, schreib mir jederzeit eine Mail, ich antworte innerhalb von zwei Tagen. Vor deinem Jahresgespräch im Januar nehmen wir uns gern 30 Minuten zur Vorbereitung. Passt das für dich?",
    "lang": "de",
    "note": "Den festen Termin beenden, nicht die Unterstützung: ein klares Ende, ein Kanal für Fragen und ein Termin, wenn es wirklich zählt."
+  },
+  {
+   "id": "decline-meeting-or-protect-time-040",
+   "situation": "Mon cousin Julien ouvre son cabinet de kiné et veut un appel visio d'une heure samedi pour me poser des questions sur la façon dont j'ai monté le mien. Le samedi, c'est ma journée avec mes enfants. Je peux répondre par écrit à ses trois questions principales d'ici mercredi, et on se voit de toute façon au déjeuner chez mamie le dimanche 11 octobre.",
+   "reply": "Salut Julien, super nouvelle pour le cabinet ! Je ne ferai pas la visio samedi, c'est ma journée avec les enfants. Envoie-moi tes trois questions principales par écrit et je te réponds d'ici mercredi. S'il reste des points, on en parle dimanche 11 chez mamie, avant ou après le déjeuner. Ça te va ?",
+   "lang": "fr",
+   "note": "En famille aussi, on refuse le format, pas la personne : une réponse écrite datée, et un moment déjà prévu pour la suite."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-feedback-kindly",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "give-feedback-kindly-001",
@@ -274,6 +274,13 @@
    "reply": "Lukas, die Geschichte von deiner Oma, die jeden Morgen im Garten gebetet hat, hat mich echt berührt. Was mir aufgefallen ist: Du hast fast alles vom Blatt abgelesen und kaum aufgeschaut, und ich hatte das Gefühl, du sprichst eher zu deinem Zettel als zu uns. Wie wäre es, wenn du es in zwei Wochen mit ein paar Stichwortkarten versuchst, wenigstens bei den Geschichten? Ich sage das, weil du etwas zu sagen hast, das ankommen soll.",
    "lang": "de",
    "note": "Ein Punkt, als eigener Eindruck beschrieben, und ein Vorschlag, den er bis zur nächsten Predigt ausprobieren kann; über den Inhalt des Glaubens kein Urteil."
+  },
+  {
+   "id": "give-feedback-kindly-040",
+   "situation": "老公想给我妈六十大寿买一台8000元的按摩椅，问我真实意见。他查了好几天，特意选了带腰部加热的，我妈腰确实不好。但我妈家客厅很小，按摩椅放进去走路都得侧身，她上次还说想要一个能放在床边的小按摩仪。",
+   "reply": "你为我妈查了好几天，还特意挑了带腰部加热的，她腰不好这事你记得比我还清楚，我真挺感动的。我唯一担心的是放在哪儿：我妈家客厅那么小，按摩椅一放，走路都得侧着身。她上次还说想要一个能放床边的小按摩仪，要不挑一款带腰部加热的？心意是你的，我只是想让她每天都用得上。",
+   "lang": "zh",
+   "note": "对伴侣的好主意也只提一个问题，依据用妈妈自己说过的话，最后决定留给他。"
   }
  ]
 }

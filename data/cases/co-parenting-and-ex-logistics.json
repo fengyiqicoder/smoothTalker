@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -274,6 +274,13 @@
    "reply": "Hi Neil, about Esme's violin. She's told us both she wants to stop. This term's lessons are paid until the end of December, so my suggestion is that she finishes the term and stops in January, and that we tell her together so she hears the same answer from both of us. Does that work for you, or do you see it differently? Could you let me know by next Friday? Thanks.",
    "lang": "en",
    "note": "A joint decision about the child goes as one proposal and one question, so she isn't left negotiating with each house separately."
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-040",
+   "situation": "离婚判决书写的是儿子小宇（10岁）随前妻生活，我每隔一周的周末探望，寒暑假各接两周。前妻刚发微信说她工作调动，明年2月要带小宇搬去成都，让我“配合一下”。我不想吵，但搬走会改变判决书定的探望安排，想先说明现在还不能同意，约她10月10日周六或11日周日下午当面谈，同时自己先去咨询律师。",
+   "reply": "你好，谢谢你提前告诉我。搬到成都会改变判决书里定的探望安排，所以这件事我现在还不能答应。我想我们先当面谈一次，具体说说搬过去以后小宇的周末和寒暑假怎么安排，10月10日周六或11日周日下午我都可以，你看哪天方便？新的安排定下来之前，现在的探望照常。谢谢。",
+   "lang": "zh",
+   "note": "涉及判决书的变更，先咨询律师或调解，按判决书和法院的程序走；消息里不争对错，只说清现在不同意和下一步。"
   }
  ]
 }

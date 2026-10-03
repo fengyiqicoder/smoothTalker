@@ -1,6 +1,6 @@
 {
  "playbook": "condolences-and-support",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "condolences-and-support-001",
@@ -274,6 +274,13 @@
    "reply": "Mel, I'm so sorry about Jo. Nine years together, and you were Jo's family, whatever the notice says. I keep thinking of those initial-shaped pancakes at Sunday brunch. If you'd like, I'll drive you to the funeral on Wednesday and sit next to you the whole time. No need to reply to this.",
    "lang": "en",
    "note": "When a partner is left out by the family, say plainly that her loss counts, and leave any criticism of the family out of the message."
+  },
+  {
+   "id": "condolences-and-support-040",
+   "situation": "I'm Joanna Price and I teach music at Elmfield High. My violin student Marcus Hale, 16, died last week after a long illness; at our spring concert he played the solo in Bach's Air and the whole hall went silent, and I have the recording. I want to write a card to his parents, Diane and Rob, and give them a copy of the recording at the funeral on Friday, which I'm attending.",
+   "reply": "Dear Diane and Rob,\nI'm so sorry about Marcus. I will always remember him playing the solo in Bach's Air at our spring concert, and the whole hall going silent while he played. I have the recording of that night, and I'll bring you a copy on Friday. It was a privilege to teach him. Please don't feel you need to reply to this card.\nWith love,\nJoanna Price",
+   "lang": "en",
+   "note": "From a teacher, the memory of the student at his best is the gift, and the recording is a concrete offer that asks nothing of them."
   }
  ]
 }

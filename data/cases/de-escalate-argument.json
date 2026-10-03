@@ -1,6 +1,6 @@
 {
  "playbook": "de-escalate-argument",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "de-escalate-argument-001",
@@ -274,6 +274,13 @@
    "reply": "老公，我们先别在微信上吵了。“窝囊”那句是我说过头了，对不起。我知道超了3万，你是真着急，怕后面的钱不够。今晚8点你到家，我们把账摊开一起看。装修是为了我们俩的家，别让它把我们吵散了。",
    "lang": "zh",
    "note": "对方也说了伤人的话时，先只认自己那一句，不要求他回一句道歉；他那句话等冷静下来再提。"
+  },
+  {
+   "id": "de-escalate-argument-040",
+   "situation": "My friend Maya called in sick on Friday and still came to my birthday drinks, and I posted a group photo with her in it on Instagram. Her manager saw it, she's furious with me on WhatsApp, and I replied 'it's just a photo, chill'. I've just taken the photo down, I want to calm this, and I'm free to call at 7 tonight.",
+   "reply": "Maya, I've taken the photo down. 'Chill' was a dismissive thing to say and I'm sorry. I get that it's put you in a really awkward spot at work, and that isn't small. Can I call you at 7 tonight? You matter way more to me than a post.",
+   "lang": "en",
+   "note": "When your own action caused the trouble, lead with the fix already done, own the one line, and leave whether she should have come out of it."
   }
  ]
 }

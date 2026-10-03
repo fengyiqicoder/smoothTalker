@@ -1,6 +1,6 @@
 {
  "playbook": "deliver-bad-news",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "deliver-bad-news-001",
@@ -274,6 +274,13 @@
    "reply": "Dear Priya and Sam, following our agent's call this afternoon, I wanted to write to you myself, and I'm sorry it's with news you won't want: we're withdrawing from the sale of our flat. My husband's job transfer fell through yesterday, so we're no longer moving. I know you've been planning around this since August, and I'm truly sorry. We'll reimburse the £1,100 you've spent on the survey and legal fees in full, within a week of receiving your receipts through our agent. Hannah",
    "lang": "en",
    "note": "Withdrawing from a sale can have consequences under your contract or local rules, so check with your solicitor before sending."
+  },
+  {
+   "id": "deliver-bad-news-040",
+   "situation": "I'm Grace Whitfield. Reversing out of a space in a supermarket car park just now, I scraped the rear bumper of a blue hatchback and left a dent about the size of my palm. I waited 20 minutes and nobody came, and I've photographed it. I'm leaving a note under the wiper with my number, 07700 900478, and email, grace.whitfield@example.com, and I'll pay for the repair myself or go through my insurer, whichever the owner prefers.",
+   "reply": "Hello, I'm sorry to be leaving you this note. Earlier today, reversing out of a space, I scraped your rear bumper and left a dent about the size of my palm. It was my fault. I waited 20 minutes in case you came back, and I've taken photos. I'll pay for the repair myself or go through my insurer, whichever you prefer. Please call or text me on 07700 900478, or email grace.whitfield@example.com. Grace Whitfield",
+   "lang": "en",
+   "note": "To a stranger, the damage and the ownership go first, then how to reach you. Check your local rules too: many places require you to report a collision to the police when you can't find the owner."
   }
  ]
 }

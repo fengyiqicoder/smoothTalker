@@ -1,6 +1,6 @@
 {
  "playbook": "decline-invitation",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "decline-invitation-001",
@@ -274,6 +274,13 @@
    "reply": "Thanks for organising this, Hannah, Grandma will love it. I won't be at the party on the 7th, but I'd really like to see her, so I'm going to visit her on Sunday the 8th. I hope it's a wonderful day.",
    "lang": "en",
    "note": "You don't owe anyone the reason; if being near him or family pressure brings things back up, a counsellor or a support line can help."
+  },
+  {
+   "id": "decline-invitation-040",
+   "situation": "部门同事小黄组了个周六早上打羽毛球的群，每周都打，今天在工位上邀请我加入，说“缺个人，来嘛”。我周末想留给自己，也不打算加入，但跟小黄平时关系挺好，偶尔一起吃午饭，这周四中午我有空。",
+   "reply": "谢谢你想着我！羽毛球群我就不加了，周末我想留给自己。你们打得开心，这周四中午一起吃饭？",
+   "lang": "zh",
+   "note": "拒绝的是长期活动，就一次说清“不加”，别说“有空就去”，否则每周都要再拒一次；午饭是真心想约才提。"
   }
  ]
 }

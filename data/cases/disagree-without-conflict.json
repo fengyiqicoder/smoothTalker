@@ -1,6 +1,6 @@
 {
  "playbook": "disagree-without-conflict",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "disagree-without-conflict-001",
@@ -274,6 +274,13 @@
    "reply": "姐，你想给爸妈风风光光办个七十大寿，这份心我特别赞成。我这边想法有点不一样：上个月妈跟我说过“不想再张罗大场面，累”，摆20桌我怕她反而累着。要不这周末咱俩一起回家，直接问问爸妈想怎么过？你觉得呢，是不是有我没想到的地方？",
    "lang": "zh",
    "note": "兄弟姐妹之间唱反调：理由用父母自己说过的话，再把决定交给过生日的人。"
+  },
+  {
+   "id": "disagree-without-conflict-040",
+   "situation": "My mentor Graham, a retired product director who's helped me a lot, says I should do an MBA before trying to move into product management. I see it differently: my company's internal PM rotation opens in January, I've been invited to interview, and I think I'd learn faster on the job. We're having coffee on Thursday and I want to say it out loud without seeming ungrateful.",
+   "reply": "Graham, you've helped me so much with this, and I agree I need a stronger grounding in the business side. Where I land differently is doing the MBA first: our internal PM rotation opens in January, I've been invited to interview, and I think I'd learn faster doing the job. What makes you see the MBA as the better route for someone in my position? I may be underrating it.",
+   "lang": "en",
+   "note": "Asking a mentor for advice doesn't oblige you to take it: credit what you agree with, give one reason, and ask what he sees that you don't."
   }
  ]
 }

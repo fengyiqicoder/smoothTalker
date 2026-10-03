@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -273,6 +273,13 @@
    "reply": "Salut Inès, c'est Hugo, du speed dating de samedi. Cinq minutes, c'était trop court pour régler notre débat sur les crêpes. Ça te dirait de prendre un verre jeudi soir, ou un café dimanche après-midi ? Et si tu n'es pas partante, aucun souci.",
    "lang": "fr",
    "note": "Un choix mutuel ouvre la porte sans rien promettre : un détail de votre échange, deux créneaux et une sortie facile. Pour ce premier vrai rendez-vous, un lieu public, chacun rentre par ses propres moyens, et prévenir un ami de l'endroit."
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-040",
+   "situation": "昨晚和朋友介绍认识的女生小珂第一次约会，吃了她挑的一家云南菜，聊得很开心，她说最近想去植物园看银杏。我明天开始去新疆出差两周，回来正好是周末。想今天发消息，让她知道我还想见她，约回来后的那个周末。",
+   "reply": "昨晚很开心，你挑的那家云南菜真不错。先跟你说一声：我明天开始去新疆出差两周，不是突然消失了。回来那个周末想再约你，一起去植物园看银杏怎么样？到时候不方便也没关系，我们再定。",
+   "lang": "zh",
+   "note": "两次见面隔得久时，先说清原因，再把下一次约在一个具体的时间点上，中间不必天天找话题。"
   }
  ]
 }

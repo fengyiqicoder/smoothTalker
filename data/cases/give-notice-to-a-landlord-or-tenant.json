@@ -1,6 +1,6 @@
 {
  "playbook": "give-notice-to-a-landlord-or-tenant",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "give-notice-to-a-landlord-or-tenant-001",
@@ -274,6 +274,13 @@
    "reply": "Dear Sophie,\nI wanted to tell you myself, and in writing as our agreement asks: my contract in Singapore is ending and I'm moving back, so I'm giving notice to end your tenancy at 9 Larch Walk, Flat 4, on 28 February 2027. That's well over the two months' written notice in our agreement, because I want you to have plenty of time. If you find somewhere sooner, just tell me, and you'll only pay rent up to the day you leave. I'm very happy to give you a reference too. Could you reply to confirm you've received this?\nYou've looked after the place brilliantly, and I'm sorry to be handing you a move to plan.\nBen",
    "lang": "en",
    "note": "A friend as tenant still gets the exact date and the agreement's terms in writing; check local rules on landlord notice before sending, and put any earlier end date in writing."
+  },
+  {
+   "id": "give-notice-to-a-landlord-or-tenant-040",
+   "situation": "I'm Owen Clarke, renting Flat 2, 40 Fernhill Road through Lisa at Brookfield Lettings. On Monday 14 September I emailed notice to leave on Saturday 31 October, in line with the one month's written notice in clause 8 of my lease, but I've had no confirmation, and two calls went to voicemail. October's rent is already paid; I want to resend the notice and post a copy by recorded delivery today.",
+   "reply": "Dear Lisa,\nI'm resending the notice I emailed on Monday 14 September, as I haven't had a confirmation. I'm giving notice to leave Flat 2, 40 Fernhill Road, with my tenancy ending on Saturday 31 October 2026, in line with the one month's written notice in clause 8 of my lease. A copy is also going to you today by recorded delivery. October's rent is already paid, and I'd like to arrange the check-out inspection and key return for the 31st. Please confirm in writing that you've received this notice.\nKind regards,\nOwen Clarke",
+   "lang": "en",
+   "note": "No reply is not a confirmation: resend in every form the lease allows, keep proof of each, and check the lease on how notice must be served."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "give-and-receive-compliments",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "give-and-receive-compliments-001",
@@ -273,6 +273,13 @@
    "reply": "Thank you, Pat. That means so much, especially coming from you. I rewrote it four times trying to get her right, so I'm really glad to hear it.",
    "lang": "en",
    "note": "Receiving praise while grieving: accept it plainly, no bounce-back, and no need to open a longer conversation than you have energy for."
+  },
+  {
+   "id": "give-and-receive-compliments-040",
+   "situation": "After our quarterly client review, the client's director, Helen, emailed me: 'Loved your redesign of the onboarding flow, brilliant work!' I presented it, but my colleague Ade designed the whole thing. I want to reply and copy Ade in.",
+   "reply": "Thank you, Helen, I'm really glad the new onboarding flow is working for you. The design is all Ade's work, so I've copied him in to hear it from you directly.",
+   "lang": "en",
+   "note": "When praise lands on the wrong person, accept the thanks for the shared result and pass the credit on in one plain line, with no self-deprecation."
   }
  ]
 }
