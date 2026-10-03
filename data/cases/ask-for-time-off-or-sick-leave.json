@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-time-off-or-sick-leave",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "ask-for-time-off-or-sick-leave-001",
@@ -281,6 +281,13 @@
    "reply": "Hi Priyanka, I'd like to request Monday 2 to Friday 13 November off for my reserve unit's annual training, back on Monday 16 November. I've attached the joining letter. As the handbook sets out, it would be recorded as unpaid reservist leave, and I'd like to use 3 vacation days to cover part of it. Ama has agreed to cover the weekly client report on the 5th and 12th. Could you sign it off by Friday 16 October? My unit needs my confirmation by Monday 19 October.",
    "lang": "en",
    "note": "A fixed commitment with a document: dates, the handbook category and the cover; how pay is handled is a question for the handbook or HR, not a guess."
+  },
+  {
+   "id": "ask-for-time-off-or-sick-leave-041",
+   "situation": "I'm a line cook and halfway through today's lunch shift I've started feeling really unwell and dizzy, so I need to go home. Dev has said he can take my grill station for the rest of lunch, and my dinner prep is done apart from the sauces, which are labelled in the walk-in. I'm on again tomorrow and I'm texting the head chef, Marco, who's in the office.",
+   "reply": "Marco, I'm unwell and need to go home now. Dev is taking the grill for the rest of lunch, and my dinner prep is done apart from the sauces, which are labelled in the walk-in. I'll message you by 9 tomorrow morning about my shift.",
+   "lang": "en",
+   "note": "Leaving mid-shift gets the same three lines as a sick day, no symptoms; if you're dizzy, don't drive yourself home, and call emergency services if it gets worse."
   }
  ]
 }

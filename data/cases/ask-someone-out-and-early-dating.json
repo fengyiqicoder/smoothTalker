@@ -1,6 +1,6 @@
 {
  "playbook": "ask-someone-out-and-early-dating",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "ask-someone-out-and-early-dating-001",
@@ -280,6 +280,13 @@
    "reply": "昨晚很开心，你挑的那家云南菜真不错。先跟你说一声：我明天开始去新疆出差两周，不是突然消失了。回来那个周末想再约你，一起去植物园看银杏怎么样？到时候不方便也没关系，我们再定。",
    "lang": "zh",
    "note": "两次见面隔得久时，先说清原因，再把下一次约在一个具体的时间点上，中间不必天天找话题。"
+  },
+  {
+   "id": "ask-someone-out-and-early-dating-041",
+   "situation": "I'm hard of hearing and wear hearing aids. First date last night with Cara at a busy bar: I had a great time, but I caught maybe half of her story about getting lost in Lisbon and kept asking her to repeat things. I want to text that I'd like a second date somewhere quieter, like the gallery on Sunday afternoon.",
+   "reply": "I had a really good time last night, even if that bar was so loud I caught about half of the Lisbon story. Quieter places work much better with my hearing aids, so how about the gallery on Sunday afternoon? I'd love the full version. And if Sunday doesn't suit, no worries at all.",
+   "lang": "en",
+   "note": "Mention the hearing once, as a practical reason for the venue, then make a specific plan with an easy out."
   }
  ]
 }

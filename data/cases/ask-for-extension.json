@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-extension",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "ask-for-extension-001",
@@ -281,6 +281,13 @@
    "reply": "Honest answer: not all of it. Handling large files turned out bigger than I scoped. Next Friday I can demo imports under 10MB, and the full feature will be done by Wednesday 14 October. Does that work for the demo, or should we grab five minutes after standup to decide what matters most for the client?",
    "lang": "en",
    "note": "Asked on the spot, say it out loud the moment you know, with the partial and a date; a hopeful 'should be fine' is the late extension in disguise."
+  },
+  {
+   "id": "ask-for-extension-041",
+   "situation": "大学室友小雅10月24日（周六）结婚，她让大家这周五前在微信上回复能不能去，好跟酒店定桌数。我公司的年假要下周二才批下来，批了我就能从上海飞成都参加，我特别想去。想请她宽限到下周二晚上；如果周五必须定，就先按我不去算，别为我多订一个位子。",
+   "reply": "小雅，先恭喜你！我特别想去，但公司的年假要下周二才批下来，批了我就从上海飞成都。能不能让我下周二晚上前给你准信？如果周五就得跟酒店定桌数，就先按我不去算，别为我多订一个位子，批下来我再问你还能不能加。",
+   "lang": "zh",
+   "note": "回复喜帖也有截止日：早说、给具体时间，再主动给一个不拖累主人安排的备选。"
   }
  ]
 }

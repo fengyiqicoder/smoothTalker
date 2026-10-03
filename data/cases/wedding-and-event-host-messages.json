@@ -1,6 +1,6 @@
 {
  "playbook": "wedding-and-event-host-messages",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "wedding-and-event-host-messages-001",
@@ -274,6 +274,13 @@
    "reply": "表舅好，我是小雨。10月24日（周六）我们的婚礼，酒店下周一要定最后的桌数，想跟您确认一下能不能来？方便的话这个周末回我一句就行。微信不方便的话，我周六晚上给您打个电话。",
    "lang": "zh",
    "note": "没回复既不等于来，也不等于不来：截止日过了就再直接问一次、换个渠道打电话，别替对方做决定，也别催出愧疚感。"
+  },
+  {
+   "id": "wedding-and-event-host-messages-040",
+   "situation": "I'm throwing a surprise 50th for my wife Helen on Saturday 7 November at the Willow Lane clubhouse. I'm bringing her in at 7:30pm, so guests need to arrive by 7:15 and park on Brook Street, out of sight; about 40 people are in a WhatsApp group she isn't in. I need everyone to keep it off social media and away from Helen, and the caterer needs final numbers by Friday 30 October.",
+   "reply": "Hi all, thank you for being part of Helen's surprise 50th! The details: Saturday 7 November at the Willow Lane clubhouse. I'm bringing her in at 7:30pm, so please arrive by 7:15 and park on Brook Street so she doesn't spot your cars. One ask for everyone: please keep it off social media and out of any chats or calls with Helen until the night. Could you reply here by Friday 30 October with how many of you are coming? The caterer needs final numbers.",
+   "lang": "en",
+   "note": "Secrecy is a rule for every guest, stated once in the group; a reply-by date with its reason turns the RSVP into simple admin."
   }
  ]
 }

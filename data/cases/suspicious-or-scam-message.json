@@ -1,6 +1,6 @@
 {
  "playbook": "suspicious-or-scam-message",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "suspicious-or-scam-message-001",
@@ -274,6 +274,13 @@
    "reply": "Dad, I've been thinking about that lottery letter, and I promise I'm not going to lecture. A real prize never asks you to pay a fee first or keep it quiet, and you never entered that lottery, so please don't send the €900. These letters are written by professionals and they fool clever people every day. If they ring you, just put the phone down. Let's look at the letter together on Sunday.",
    "lang": "en",
    "note": "Don't call the number on the letter; report it to the police or the national fraud reporting service, and if any money goes, call his bank on the number on his card straight away. Expect more calls now he's rung them."
+  },
+  {
+   "id": "suspicious-or-scam-message-040",
+   "situation": "I own a small café, Harbour Bean. At lunchtime my shift lead Marco got a call claiming to be our electricity supplier, saying we're £1,140 overdue and the power will be cut in 45 minutes unless he pays by card over the phone. Marco put them on hold and texted me, and nothing's been paid; our latest bill shows we're fully paid up, with the supplier's customer line printed on it.",
+   "reply": "Marco, hang up now and don't give them any card details. Our latest bill shows we're fully paid up, and a real supplier doesn't cut the power in 45 minutes over a phone call. If they ring back, just say we'll call the number on our bill, and put the phone down. I'm ringing the supplier on that number now to double-check, so carry on serving as normal.",
+   "lang": "en",
+   "note": "Verify on the number from your own bill, never one the caller gives; block and report the caller's number, and if any card details were given, call the bank straight away."
   }
  ]
 }

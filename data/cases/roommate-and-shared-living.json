@@ -1,6 +1,6 @@
 {
  "playbook": "roommate-and-shared-living",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "roommate-and-shared-living-001",
@@ -274,6 +274,13 @@
    "reply": "Hi Margaret, can I raise something small? Twice this month you've been into my room while I was out, for the radiator and to drop off post. I'd feel more settled if you could knock when I'm in, and text me a day ahead if you need to come in while I'm out. Post is fine left outside my door. Happy to talk it through if something else works better for you.",
    "lang": "en",
    "note": "When the housemate is also your landlord, ask for one simple rule in writing; check what your lodger agreement says about access before taking it further."
+  },
+  {
+   "id": "roommate-and-shared-living-040",
+   "situation": "My housemate Ellie adopted a rescue dog, Pip, three weeks ago. While Ellie's at work, Pip barks on and off for most of the day, I work from home in the next room, and yesterday our downstairs neighbour Mr Okafor knocked to mention it. I'd like to suggest Ellie tries a lunchtime dog walker for a couple of weeks, and I'm happy to take Pip for a quick walk on my Wednesday afternoons off.",
+   "reply": "Hey Ellie, small Pip thing. While you're at work he's been barking on and off for most of the day, and Mr Okafor from downstairs knocked yesterday to mention it. Could you try a lunchtime dog walker for a couple of weeks and see if it settles him? I'm happy to take him out for a quick walk on my Wednesday afternoons off. If another setup works better for you, let's figure it out.",
+   "lang": "en",
+   "note": "A house problem with a neighbour attached: say what happened, not a verdict on the dog, and offer a hand with the fix."
   }
  ]
 }

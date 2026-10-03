@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-review-or-testimonial",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "ask-for-review-or-testimonial-001",
@@ -281,6 +281,13 @@
    "reply": "That's so kind of you, Margaret, thank you. Please keep your password to yourself, though, and don't give it to anyone, me included; a review should be in your own words, from your own account. If someone you trust ever helps you with it, the link is https://g.page/r/keyright-locks/review, and two sentences is plenty. And if it never happens, your thanks today is more than enough.",
    "lang": "en",
    "note": "Never take a customer's login or post a review for them: it misleads future customers and puts their account at risk."
+  },
+  {
+   "id": "ask-for-review-or-testimonial-041",
+   "situation": "I run a two-person IT support company, Fernway IT. Marion Blake, office manager at Hart & Lowe Architects, has been a happy client for three years. A dental practice owner, Dr. Kim, is close to signing with us but nervous about switching providers and has asked to speak to an existing client; I'd like Marion to take a 15-minute call with her next week, I'd only pass on Dr. Kim's number if Marion agrees, and Marion is free to say anything, good or bad.",
+   "reply": "Hi Marion, could I ask a favour? A dental practice owner, Dr. Kim, is close to signing with us but nervous about switching IT providers, and she's asked to speak to an existing client. Would you be up for a 15-minute call with her sometime next week? You've seen three years of how we work, and you're completely free to tell her anything, good or bad. If you say yes, I'll send you her number; if it's not a good time, no problem at all, and thanks either way.",
+   "lang": "en",
+   "note": "A reference call costs more than a review: say who, how long, that they can be candid, and share contact details only after a yes."
   }
  ]
 }

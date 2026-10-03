@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-favor",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "ask-for-favor-001",
@@ -281,6 +281,13 @@
    "reply": "Hi Tom, it's Jess, Mia's mum. I start a new job on Tuesday 13 October that finishes at 5:30, so I can't do the 3:15 school pickup on Tuesdays. Could Mia walk home with you and Ruby on Tuesdays until the Christmas break? I'd collect her from yours at 6, so it's about two and a half hours each week. I'm off on Fridays, so I'd be happy to have Ruby then if that helps you. If it's too much, no problem at all, I'll book the after-school club.",
    "lang": "en",
    "note": "A recurring favour needs an end date and the weekly cost spelled out; if he says yes, tell the school in writing who is collecting Mia."
+  },
+  {
+   "id": "ask-for-favor-041",
+   "situation": "我叫小禾，10月17日（周六）想给女儿办个小生日会，大概10个小朋友，我家一居室太挤。好朋友阿敏家有个小院子，想借下午2点到5点，吃的和装饰我全带，结束后自己收拾，再请家政阿姨来做一次保洁，200元我出。她不方便的话，我就去预约小区活动室。",
+   "reply": "阿敏，想跟你借个地方：10月17日周六我想给女儿办个小生日会，大概10个小朋友，我家一居室实在太挤，想借你家小院子用一下，下午2点到5点。吃的和装饰我全带，结束后我自己收拾干净，再请家政阿姨来做一次保洁，费用我出。十个小朋友肯定会吵，你那天要是有安排或者不想被打扰，直接说就好，我去预约小区活动室。",
+   "lang": "zh",
+   "note": "借别人的家，代价是吵闹和收拾：先说清人数和时长，再把收拾的事全揽下，退路要真。"
   }
  ]
 }

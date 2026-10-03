@@ -1,6 +1,6 @@
 {
  "playbook": "cancel-or-reschedule",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "cancel-or-reschedule-001",
@@ -281,6 +281,13 @@
    "reply": "佐々木さん、お疲れさまです。10月7日（水）18時のお約束ですが、日程の変更をお願いしたくご連絡しました。アルバイト先で急にその日の夜のシフトに入ることになりました。私のために時間を空けてくださっていたのに、本当に申し訳ありません。10月9日（金）18時以降か、10月12日（月）の午後はいかがでしょうか。当日のコーヒーは私にご馳走させてください。",
    "lang": "ja",
    "note": "好意で時間をくれる先輩には、変更を最初に伝え、理由は一言、候補日を二つ。お詫びは長い言い訳より小さな具体的な形で。"
+  },
+  {
+   "id": "cancel-or-reschedule-041",
+   "situation": "I mentor Kwame, a junior designer at another company, every other Monday at 8am on video, unpaid. From November my daughter starts a new school and I do the Monday drop-off, so I need to move the slot for good. Our session this Monday, 5 October, stays as planned, and from the week of 2 November I could do every other Wednesday at 8am or every other Thursday at 5:30pm.",
+   "reply": "Hi Kwame, from November I need to move our Monday 8am sessions for good: my daughter starts a new school and Mondays are my drop-off. This Monday, 5 October, stays as planned. From the week of 2 November, could we switch to every other Wednesday at 8am or every other Thursday at 5:30pm? Sorry to shift something you've planned around; tell me which suits you and I'll update the invite.",
+   "lang": "en",
+   "note": "Moving a standing slot permanently: say what stays, when the change starts, and two recurring options, and do the calendar work yourself."
   }
  ]
 }

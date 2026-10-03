@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-reference-or-recommendation",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "ask-for-reference-or-recommendation-001",
@@ -280,6 +280,13 @@
    "reply": "Hi Aiko, I hope Tokyo is treating you well. I'm in the final round for a project coordinator role at Larchfield Engineering in Vancouver, and they'll call two references between Monday 12 and Friday 16 October. Would you be willing to be one? Their office hours fall overnight for you, so if you say yes, I'll ask their recruiter, Dana, to email you first and agree a time that suits your day. If it helps, the main thing they'll care about is the Eastgate hospital extension handover I coordinated. If the timing doesn't work, no problem at all. Thanks, Ben",
    "lang": "en",
    "note": "A referee abroad: solve the time zone in the ask itself, so saying yes doesn't mean a 2am phone call."
+  },
+  {
+   "id": "ask-for-reference-or-recommendation-041",
+   "situation": "I'm Rhea. My ex-partner Jonah and I ran a café together, Fig & Fern, for four years and split amicably last year; he still runs it and we're on friendly terms. I'm in the final round for an operations manager role at Calloway Foods, and they'll call two references between Monday 12 and Friday 16 October. Jonah saw me set up our supplier ordering system and cut food waste by about a quarter, and if he'd rather not, I can ask my old college tutor instead.",
+   "reply": "Hi Jonah, I've got a slightly awkward ask, so feel free to say no. I'm in the final round for an operations manager role at Calloway Foods, and they'll call two references between Monday 12 and Friday 16 October. You saw my work at Fig & Fern day to day for four years, so would you be willing to be one? It would just be about the business: mainly the supplier ordering system I set up and cutting food waste by about a quarter. If it feels too strange given our history, no problem at all, I have someone else I can ask. Thanks, Rhea",
+   "lang": "en",
+   "note": "When the referee is also an ex, name the awkwardness once, keep the ask strictly to the work, and make the no genuinely free."
   }
  ]
 }

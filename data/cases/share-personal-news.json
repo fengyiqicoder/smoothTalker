@@ -1,6 +1,6 @@
 {
  "playbook": "share-personal-news",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "share-personal-news-001",
@@ -274,6 +274,13 @@
    "reply": "Some news that affects the school run: I had a seizure last month and I've been diagnosed with epilepsy. I'm on medication and doing fine, but on my doctor's advice I can't drive for at least six months, so I need to come off the Wednesday and Friday rota. To pull my weight, I can walk the kids to the bus stop on those days, or chip in for fuel. I'd rather not get into the medical side, but I'm very happy to talk rota. Which would help more?",
    "lang": "en",
    "note": "News that changes a shared commitment: the fact, what it means for them, what you offer instead, and the one topic to leave alone. Questions about driving go to your doctor."
+  },
+  {
+   "id": "share-personal-news-040",
+   "situation": "Ich bin 29 und habe nach zwei Jahren Nachdenken entschieden, mich am 1. November in meiner Gemeinde in Leipzig taufen zu lassen; ich bin mir sicher und froh darüber. Meine Eltern sind überzeugte Atheisten, und ich will es ihnen per Nachricht vor unserem Telefonat am Sonntag sagen. Ich würde mich freuen, wenn sie zur Taufe kommen, will aber keine Grundsatzdebatte und keinen Druck.",
+   "reply": "Mama, Papa, ich möchte euch vor unserem Telefonat am Sonntag etwas erzählen, damit ihr Zeit habt, es sacken zu lassen: Ich lasse mich am 1. November in meiner Gemeinde in Leipzig taufen. Ich habe zwei Jahre darüber nachgedacht, bin mir sicher und froh darüber. Ich weiß, dass ihr das anders seht, und ich möchte darüber keine Grundsatzdebatte führen. Ich würde mich sehr freuen, wenn ihr dabei seid, aber das ist ganz eure Entscheidung.",
+   "lang": "de",
+   "note": "Nachricht vorab, damit das Telefonat kein Überfall wird: die Neuigkeit zuerst, ein Satz Gefühl, und klar sagen, welches Gespräch man nicht führen will."
   }
  ]
 }

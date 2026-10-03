@@ -1,6 +1,6 @@
 {
  "playbook": "tell-someone-something-awkward",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "tell-someone-something-awkward-001",
@@ -274,6 +274,13 @@
    "reply": "Neil, I've read it, and it's lovely. One small thing to fix before tomorrow: it says 'Geoff' in two places, and Uncle Graham's name was Graham. Easy slip when you've been up half the night. The rest I wouldn't touch.",
    "lang": "en",
    "note": "Fixable before the moment that matters, so say it now, privately, in one line, and don't turn it into a full edit of his speech."
+  },
+  {
+   "id": "tell-someone-something-awkward-040",
+   "situation": "部门微信群里有三十多人，部门领导也在。同事小林刚在群里发了周报PPT，文件名是“周报_改到吐版.pptx”，发出来才一分钟，她自己好像没发现。我们关系不错，想私聊提醒她。",
+   "reply": "小林，群里那个周报的文件名是“周报_改到吐版”，领导也在群里，趁现在还能撤回，赶紧撤回改个名再发一次。这种事谁都干过，哈哈。",
+   "lang": "zh",
+   "note": "马上能改的事要快、私聊、一句话说清并附上办法；不在群里提，之后也不再拿来开玩笑。"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-a-customer-request",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "say-no-to-a-customer-request-001",
@@ -274,6 +274,13 @@
    "reply": "Thanks, Theo, it's great that you want to stock it. I can't sell you 12 from Friday's batch: I only make about 200 jars a month, and I cap orders at two per person so my regulars aren't left out. You're welcome to two from this batch, and in November I'm starting a wholesale run of 60 jars at £7 a jar instead of £9. Shall I put you down for some of those?",
    "lang": "en",
    "note": "A per-customer limit protects the regulars, so say that; the wholesale run gives a reseller a real path instead of an exception."
+  },
+  {
+   "id": "say-no-to-a-customer-request-040",
+   "situation": "我在小区微信群里做水果团购，每周三晚上8点截单，周四早上按接龙数量向果园订货，果园当天就装车发出。邻居张阿姨周四中午在群里问能不能再加两箱沃柑，可这周的货已经发出，没有多余的箱数。下周照样周三晚上8点截单；这周要是有人退单，我可以私信告诉她。",
+   "reply": "张阿姨，谢谢您捧场！这周的沃柑加不了了：周四早上我已经按接龙数量跟果园订好货，车也发出了，没有多余的箱数。下周还是周三晚上8点截单，您到时候在接龙里报上就行。这周要是有人退单，我第一时间私信您。",
+   "lang": "zh",
+   "note": "群里公开回复：一句说清加不了，理由是货已按数量发出，而不是“规定”；给下次的路径，退单只说会告诉她，不保证有货。"
   }
  ]
 }

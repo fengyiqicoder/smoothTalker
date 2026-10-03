@@ -1,6 +1,6 @@
 {
  "playbook": "team-announcements-as-a-manager",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "team-announcements-as-a-manager-001",
@@ -274,6 +274,13 @@
    "reply": "跟大家说一件事：从今年年终考核起，公司要求每个团队最多30%评A，至少10%评C。我们组10个人，意味着最多3个A，至少1个C。原因是过去三年九成以上的人都是A或B，考核拉不开差距，这个决定我是同意的。评C的人当年不调薪，年终奖按50%发，但不会因为一次C被辞退。评分标准我10月16日（周五）前发给大家，11月我会跟每个人做一次一对一，把目标对清楚。有顾虑随时单独找我。",
    "lang": "zh",
    "note": "不受欢迎的考核规则：把比例换算成“我们组意味着什么”，C的后果和不会发生的事都说清楚，不用“优化”之类的词包装。"
+  },
+  {
+   "id": "team-announcements-as-a-manager-040",
+   "situation": "I manage a customer success team of 11. From Monday 12 October nobody may paste client data into external AI chat tools; we'll use the company's internal assistant, which IT has approved for client work. Last month a client contract with pricing was pasted into a public tool; we found no harm, but I agreed with closing the gap, and nobody is in trouble for past use. There's a training session on Thursday 8 October at 2pm, and I'm posting in team Slack.",
+   "reply": "From Monday 12 October, please don't paste any client data into external AI chat tools; use the company's internal assistant instead, which IT has approved for client work. The reason: last month a client contract with pricing was pasted into a public tool. We found no harm, but it showed a gap in our rules, and I agreed with closing it. Nobody is in trouble for how they used these tools before today. There's a training session on Thursday 8 October at 2pm, and if this slows down part of your work, tell me this week and I'll take it to IT with you.",
+   "lang": "en",
+   "note": "A rule triggered by one incident: give the reason without naming anyone, say plainly that past use is not being punished, and offer a route for real workflow problems."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "small-talk",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "small-talk-001",
@@ -274,6 +274,13 @@
    "reply": "おはようございます。半年前に3丁目に越してきた佐藤です。回覧板で、公園の花壇は田中さんがお世話されていると知りました。今の時期は何が咲いているんですか？",
    "lang": "ja",
    "note": "質問はひとつだけ。次の質問は田中さんの答えから拾い、家族や仕事のことは相手が話し出すまで聞かない。"
+  },
+  {
+   "id": "small-talk-040",
+   "situation": "I'm Dev, joining a local running club's Sunday 10k for the first time. The run leader has paired me with Fiona, who runs my pace, and she's wearing a T-shirt from the Hollow Peak Trail 50k. The furthest I've ever run is 10k, and I want something to say at the start that won't leave me gasping.",
+   "reply": "Hi Fiona, I'm Dev, first time with the club. Did you actually run the Hollow Peak 50k on that shirt? Ten k is my absolute limit, so I need to hear how that works.",
+   "lang": "en",
+   "note": "On the move, ask one question that lets her do the talking, and let quiet stretches be quiet once the pace picks up."
   }
  ]
 }

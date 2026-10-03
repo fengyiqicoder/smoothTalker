@@ -1,6 +1,6 @@
 {
  "playbook": "chase-late-payment",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "chase-late-payment-001",
@@ -281,6 +281,13 @@
    "reply": "Hi Tom, treasurer hat on for a second: your annual subs of £180 were due on 1 September and I haven't seen them come through yet. Could you pay by Friday 16 October? The bank details are in the membership email, and if it's easier, the committee allows two payments of £90. Under rule 6, anyone unpaid after 31 October can't be entered in races, so I'd like to get you sorted well before then. Thanks!",
    "lang": "en",
    "note": "Chasing a friend for a club: say which hat you're wearing, then the same facts as any invoice, and only the consequence the rules already set."
+  },
+  {
+   "id": "chase-late-payment-041",
+   "situation": "我给一家设计工作室做了预约小程序，发票XC-0820，金额15,000元，8月31日到期，一直没付。工作室有两个合伙人：李总9月5日在微信上确认了验收，现在李总说付款归周总管，周总说要李总签字确认才能付。我们三个人有个项目微信群，收款账户写在发票上。",
+   "reply": "李总、周总好，跟两位对一下小程序的款项：发票XC-0820，金额15,000元，8月31日到期，李总9月5日已在微信上确认验收，截图和发票都附在下面。想请两位定一下由哪位来安排付款；如果还需要签字确认，麻烦在10月9日（周五）前办好，并告诉我付款日期。收款账户写在发票上。",
+   "lang": "zh",
+   "note": "两人互相推的时候，在同一个群里同时发给两位，附上验收证据，请他们定一个负责人和一个日期。"
   }
  ]
 }

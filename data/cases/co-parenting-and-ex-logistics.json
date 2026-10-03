@@ -1,6 +1,6 @@
 {
  "playbook": "co-parenting-and-ex-logistics",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "co-parenting-and-ex-logistics-001",
@@ -281,6 +281,13 @@
    "reply": "你好，谢谢你提前告诉我。搬到成都会改变判决书里定的探望安排，所以这件事我现在还不能答应。我想我们先当面谈一次，具体说说搬过去以后小宇的周末和寒暑假怎么安排，10月10日周六或11日周日下午我都可以，你看哪天方便？新的安排定下来之前，现在的探望照常。谢谢。",
    "lang": "zh",
    "note": "涉及判决书的变更，先咨询律师或调解，按判决书和法院的程序走；消息里不争对错，只说清现在不同意和下一步。"
+  },
+  {
+   "id": "co-parenting-and-ex-logistics-041",
+   "situation": "My ex-husband Dev's mother, Asha, died on Wednesday, and our kids, Priya (12) and Rohan (9), were close to her. The funeral is on Saturday 10 October, which is my weekend. I want to say I'm sorry and offer that the kids stay with him from Friday after school until Sunday at 6pm, or, if that's too much this week, I bring them to the service and take them home afterwards; I'd like his answer by Wednesday.",
+   "reply": "Dev, I'm so sorry about your mum. Asha meant a lot to Priya and Rohan. The funeral is on Saturday 10 October, which is my weekend, so they're welcome to stay with you from Friday after school until Sunday at 6pm. If that's too much this week, I can bring them to the service and take them home afterwards instead. Which would you prefer? Could you let me know by Wednesday?",
+   "lang": "en",
+   "note": "Condolences in one line, then the children's plan with two options, so he can choose what he can manage this week without negotiating."
   }
  ]
 }

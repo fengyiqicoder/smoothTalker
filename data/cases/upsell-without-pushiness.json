@@ -1,6 +1,6 @@
 {
  "playbook": "upsell-without-pushiness",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "upsell-without-pushiness-001",
@@ -274,6 +274,13 @@
    "reply": "Hi all, Mateo here, looking forward to Saturday's 10am old-town tour! Since a couple of you mentioned you love food, there's an optional tapas stop at the end: €18 per person and about 45 minutes. It works person by person, so some of you can stay for it and others can head off, no need to decide as a group. If you'd like it, just message me privately before Saturday; the tour is complete without it.",
    "lang": "en",
    "note": "In a group chat, keep the opt-in private and individual so nobody feels pushed in front of friends; no reply means no."
+  },
+  {
+   "id": "upsell-without-pushiness-040",
+   "situation": "我开了一家猫咪寄养店。周小姐把猫年糕寄养在我这7天，10月10日到17日，每天60元，她说年糕第一次离家，她会很担心。我们有每天发两段视频的服务，每天15元；不加的话，我每天晚上也会免费发一张照片报平安。",
+   "reply": "周小姐您好，年糕10月10日到17日的寄养已经帮您排好了，每天60元。您说这是年糕第一次离家，如果想多看看它，我们有每天发两段视频的服务，每天15元，7天一共105元。不加也完全没问题，我每天晚上都会免费给您发一张照片报平安。需要的话回我一句就行。",
+   "lang": "zh",
+   "note": "建议来自她自己的担心，价格算好总数，免费的报平安放在旁边，不加也一样安心。"
   }
  ]
 }

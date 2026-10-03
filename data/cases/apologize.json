@@ -1,6 +1,6 @@
 {
  "playbook": "apologize",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "apologize-001",
@@ -281,6 +281,13 @@
    "reply": "小敏，昨天小雯拆的那条围巾，是去年你送我的，我拿去转送了，对不起。那是你挑给我的礼物，当着你的面被拆出来，你心里肯定不是滋味，还得笑着打圆场。以后别人送我的礼物，我不会再转送。",
    "lang": "zh",
    "note": "小事也要说清具体做了什么和她当时的处境；不解释为什么没用那条围巾，也不在同一条里求她原谅。"
+  },
+  {
+   "id": "apologize-041",
+   "situation": "Ayer, al aparcar en el garaje de la comunidad, rocé el coche de mi vecino Andrés y le dejé un arañazo largo en la puerta del conductor. Le dejé una nota con mi número y hoy me ha escrito, bastante molesto: su taller le ha presupuestado 320 euros. Quiero pagárselo yo directamente por transferencia, o dar parte al seguro si él lo prefiere.",
+   "reply": "Andrés, siento mucho lo de ayer. Al aparcar en el garaje te rocé el coche y te dejé un arañazo largo en la puerta del conductor; fue un descuido mío. Entiendo que estés molesto: ahora te toca llevarlo al taller por algo que no has causado tú. Los 320 euros del presupuesto los pago yo; dime cuándo te viene bien y te hago la transferencia, o si prefieres que lo gestionemos por el seguro, lo hacemos así.",
+   "lang": "es",
+   "note": "Con un vecino: el hecho sin excusas, el trastorno que le causa y el arreglo ya ofrecido, dejándole elegir cómo."
   }
  ]
 }

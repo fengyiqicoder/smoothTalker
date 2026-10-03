@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-raise-or-promotion",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "ask-for-a-raise-or-promotion-001",
@@ -281,6 +281,13 @@
    "reply": "Thanks for making time, Gareth. I really enjoy this job and want to keep growing it here. Since February I've run all our trade shows and negotiated our three new distributor agreements on my own, and distributors keep asking to speak to someone senior. My title is still Marketing Coordinator, so I'd like to move to Marketing Manager now, to match the work I'm already doing. I'm not asking to change my pay today, but I'd like us to look at it properly in the March review, in light of the new role. Could we agree that in writing?",
    "lang": "en",
    "note": "A title-only ask is still a promotion: get the title now and a written date for the pay talk, so the title doesn't quietly replace the money."
+  },
+  {
+   "id": "ask-for-a-raise-or-promotion-041",
+   "situation": "I'm Marcus, an operations analyst on $64k. Our company laid off 12% of staff in September, and since then I've taken over the weekly reporting that the two analysts who left used to run. Similar roles pay $68k to $75k, and budget planning for next year starts in November; I want to message my manager Priya now to book a talk in the first week of November, when I'm free any day, and ask for $70k.",
+   "reply": "Hi Priya, I know September was a hard month for the whole team, so I'm not asking for anything this month. Before next year's budget planning starts, could we book 30 minutes in the first week of November to talk about my role and pay? Since the restructure I've taken over the weekly reporting the two analysts used to run, and I'd like to make the case for moving from $64k to $70k in time for the budget. Any day that week works for me.",
+   "lang": "en",
+   "note": "Right after layoffs is the worst time to ask and a good time to book: aim the talk at budget planning, and bring the $68k to $75k market range to the meeting."
   }
  ]
 }

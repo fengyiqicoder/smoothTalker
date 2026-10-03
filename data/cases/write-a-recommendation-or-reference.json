@@ -1,6 +1,6 @@
 {
  "playbook": "write-a-recommendation-or-reference",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "write-a-recommendation-or-reference-001",
@@ -274,6 +274,13 @@
    "reply": "Recomiendo a Carmen Ruiz para la vacante de analista. La conozco de toda la vida como amiga personal y nunca hemos trabajado juntas, así que no puedo valorar su trabajo profesional. Lo que sí he visto es que desde hace tres años lleva las cuentas de la asociación de vecinos de nuestro barrio y las presenta cada año en la asamblea, a la que yo asisto. Os animo a entrevistarla y a valorar su perfil técnico en el proceso. Lucía Martín, equipo de datos",
    "lang": "es",
    "note": "En un referido interno de una amiga, declara la amistad y que no habéis trabajado juntas; avala solo lo que has visto y deja lo técnico al proceso."
+  },
+  {
+   "id": "write-a-recommendation-or-reference-040",
+   "situation": "I'm Rachel Kim, practice manager at Elmside Dental. Gail Monroe was our bookkeeper from January 2021 to March 2026: her bank reconciliations were always on time and she moved us onto monthly reporting, but in February 2026 our audit found she'd paid herself £3,200 in unapproved overtime; she repaid it in full and resigned before the disciplinary hearing. A care company, Hollins Care, has emailed asking whether I'd recommend her for a bookkeeper role handling client funds, which I can't, and HR has confirmed I can state those facts.",
+   "reply": "Dear Hollins Care team, thank you for your email about Gail Monroe. Gail was our bookkeeper at Elmside Dental from January 2021 to March 2026; her bank reconciliations were always on time, and she moved us onto monthly reporting. As the role involves client funds, you should know that in February 2026 our audit found she had paid herself £3,200 in unapproved overtime. She repaid it in full and resigned before the disciplinary hearing. For that reason I can't recommend her for a role handling client funds.\nKind regards,\nRachel Kim, Practice Manager, Elmside Dental",
+   "lang": "en",
+   "note": "A serious concern the reader has a right to know goes in as audited facts only, with no guesses about motive; clear the wording with HR before sending."
   }
  ]
 }

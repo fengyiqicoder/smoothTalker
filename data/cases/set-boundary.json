@@ -1,6 +1,6 @@
 {
  "playbook": "set-boundary",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "set-boundary-001",
@@ -274,6 +274,13 @@
    "reply": "Rosa, the kids adore you, and so do we. From now on, any sweets you bring I'll put in the cupboard for after Saturday lunch, so they don't fill up before dinner. If you'd like to bring something they can have straight away, fruit or a book always goes down well.",
    "lang": "en",
    "note": "The boundary is what you do with the sweets, not a rule for her; if she hands them over anyway, take them with a smile and put them in the cupboard, no new reasons."
+  },
+  {
+   "id": "set-boundary-040",
+   "situation": "闺蜜小婉这半年已经三次让我帮她跟老公说“那天晚上她跟我在一起”，其实她是去见别人。上周她老公真的打电话来问我，我含糊过去了，心里很难受。我以后不想再帮她圆谎，但她有什么心事，我还是愿意听。",
+   "reply": "婉婉，我们这么多年的感情，我一直很珍惜。以后你跟你老公之间的事，我不会再帮你说“你跟我在一起”了，他再来问我，我就请他直接问你。你心里有什么事想聊，随时找我，我都在。",
+   "lang": "zh",
+   "note": "边界说的是自己以后怎么做，不评判她的婚姻；她再求，就重复“这个我不帮了”，不加新理由。"
   }
  ]
 }

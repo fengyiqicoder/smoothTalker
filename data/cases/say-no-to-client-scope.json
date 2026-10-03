@@ -1,6 +1,6 @@
 {
  "playbook": "say-no-to-client-scope",
- "count": 39,
+ "count": 40,
  "cases": [
   {
    "id": "say-no-to-client-scope-001",
@@ -274,6 +274,13 @@
    "reply": "刘经理，大家这么积极提意见，说明都很重视这个小程序。按合同约定，每轮修改由您统一汇总后发我；现在群里的意见比较分散，有几条还互相矛盾，所以我先不逐条改。麻烦您把这一轮的意见汇总成一份清单，周三前发我，我收到后三个工作日内出修改稿。这一轮算合同里的第一轮，之后还有一轮。您看可以吗？",
    "lang": "zh",
    "note": "多人在群里提意见时，按合同回到一个对接人和一份清单，不要逐条照改，否则轮数和方向都会失控。"
+  },
+  {
+   "id": "say-no-to-client-scope-040",
+   "situation": "Ich bin Jana, freiberufliche virtuelle Assistentin, und arbeite für Herrn Brandt, einen Steuerberater, 20 Stunden im Monat für 700 €: Termine, E-Mails und Rechnungen seiner Kanzlei. Jetzt soll ich auch den Familienurlaub buchen und Geschenke für die Hochzeit seiner Tochter besorgen. Private Aufgaben würde ich nur zusätzlich übernehmen, zu 40 € pro Stunde, getrennt abgerechnet und vorher schriftlich bestätigt.",
+   "reply": "Hallo Herr Brandt, gern nehme ich Ihnen da etwas ab. Private Aufgaben wie die Urlaubsbuchung und die Geschenke für die Hochzeit gehören allerdings nicht zu unserer Vereinbarung, die 20 Stunden im Monat für Termine, E-Mails und Rechnungen der Kanzlei abdeckt. Ich kann sie zusätzlich übernehmen, zu 40 € pro Stunde, getrennt abgerechnet. Wenn Ihnen das passt, bestätigen Sie es mir kurz per Mail, dann lege ich los.\nViele Grüße\nJana",
+   "lang": "de",
+   "note": "Private Gefälligkeiten für den Kunden sind auch Umfang: freundlich annehmen, die Vereinbarung nennen, den Preis sagen und erst nach schriftlicher Zusage anfangen."
   }
  ]
 }

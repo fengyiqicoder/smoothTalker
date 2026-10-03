@@ -1,6 +1,6 @@
 {
  "playbook": "check-in-on-someone-struggling",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "check-in-on-someone-struggling-001",
@@ -281,6 +281,13 @@
    "reply": "Farida, I've been thinking about you and your family since Wednesday. No need to reply to this. I've cleared it with Sam, so I can take your Friday afternoon client calls and that time is yours for whatever you need. Just reply 'yes' or 'no thanks', both are completely fine.",
    "lang": "en",
    "note": "When the crisis is far away and in the news, don't ask for updates on her aunt; take something off her plate and let her share news when she wants to."
+  },
+  {
+   "id": "check-in-on-someone-struggling-041",
+   "situation": "好朋友小雯是急诊科护士，上周夜班抢救一个车祸受伤的孩子，没救回来。她跟我说了一句“我没事，干这行习惯了”，之后几天微信都没怎么回。她家附近有个湖，我们以前常去走，她最爱喝她家楼下那家椰子鸡汤，我周日下午有空。",
+   "reply": "小雯，这几天一直惦记你，这条不用回。那天的事你不用跟我讲，哪天想讲了，我随时听。周日下午我去湖边走走，想一起就说一声；不想出门的话，我买一份你家楼下的椰子鸡汤放你门口就走。回个“走”或者“汤”就行，都不想也完全没关系。",
+   "lang": "zh",
+   "note": "不追问细节，也别急着说“你已经尽力了”；低落持续的话，可以提一次找心理咨询或问问医院有没有职工心理支持；如果她流露出不想活的念头，直接问她是否安全，必要时打120或心理援助热线。"
   }
  ]
 }

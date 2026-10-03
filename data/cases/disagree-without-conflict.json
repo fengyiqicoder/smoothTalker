@@ -11,7 +11,7 @@
   },
   {
    "id": "disagree-without-conflict-002",
-   "situation": "老公想把家里30万存款全部拿去买理财，我觉得至少要留8万做应急。想跟他说清楚又不想吵架。",
+   "situation": "老公想把家里30万存款全部拿去买理财，我觉得至少要留8万做应急，万一谁工作有变动不至于手忙脚乱。想跟他说清楚又不想吵架。",
    "reply": "我明白你是想让钱多赚一点，这个我也想。我这边看法有点不一样：我觉得至少留8万做应急，万一谁工作有变动，不至于手忙脚乱。你是觉得放在理财里也能随时取出来吗？",
    "lang": "zh",
    "note": "先认同共同目标，只给一个理由，最后用真诚的问题听他的想法。"
@@ -42,39 +42,39 @@
    "situation": "My mother-in-law Linda, who raised three kids, keeps saying we should put our 4-month-old Leo on his tummy to sleep because 'all my kids were fine'. Our pediatrician, Dr. Shah, said back only, and we swaddle him so he settles. She's babysitting Saturday and I need to text her without starting a war.",
    "reply": "Linda, thank you for taking Leo on Saturday, it's a real gift to have you. I know you raised three kids who slept on their tummies and turned out great. Where we land differently is that Dr. Shah was very clear that for Leo it's back only, and we'd feel much better sticking to that for every nap. Is there anything that makes back sleeping tricky for you with him? I'm happy to show you how we swaddle him so he settles.",
    "lang": "en",
-   "note": "When the point isn't negotiable, aim the curiosity at practical obstacles, not at the rule itself."
+   "note": "When the point isn't negotiable, aim the curiosity at practical obstacles, not at the rule itself. If she still disagrees, ask Dr. Shah to explain safe sleep to her directly; it's medical advice, not your opinion."
   },
   {
    "id": "disagree-without-conflict-007",
-   "situation": "GitHub code review. A senior engineer, Sam, commented on my PR asking me to switch our date formatting to moment.js. I think native Intl.DateTimeFormat is better: moment is in maintenance mode and would add about 70 KB minified for the three date formats we use. I don't want to look like I'm fighting a senior dev in a public thread.",
-   "reply": "Thanks, Sam, and agreed that we want one consistent way to format dates across the app. Where I land differently is the library: I'd lean towards native Intl.DateTimeFormat, mainly because moment is in maintenance mode and would add around 70 KB minified for the three formats we use. Is there a case you have in mind that Intl handles badly? If so, I'm happy to switch, or we can talk it through on a quick call.",
+   "situation": "GitHub code review. A senior engineer, Sam, commented on my PR asking me to switch our date formatting to an older third-party date library. I think the browser's built-in Intl.DateTimeFormat is better: that library is in maintenance mode and would add about 70 KB minified for the three date formats we use. I don't want to look like I'm fighting a senior dev in a public thread.",
+   "reply": "Thanks, Sam, and agreed that we want one consistent way to format dates across the app. Where I land differently is the library: I'd lean towards native Intl.DateTimeFormat, mainly because that library is in maintenance mode and would add around 70 KB minified for the three formats we use. Is there a case you have in mind that Intl handles badly? If so, I'm happy to switch, or we can talk it through on a quick call.",
    "lang": "en",
    "note": "In a public review thread, the shared goal first, one reason with a number, then a real question that lets the senior person agree or correct you without losing face."
   },
   {
    "id": "disagree-without-conflict-008",
-   "situation": "My 17-year-old daughter Ava just told me she's not applying to college this fall; she wants a gap year teaching at a surf school in Portugal. I actually like the gap year idea, I just think she should apply now and defer. She gets defensive fast.",
+   "situation": "My 17-year-old daughter Ava just told me she's not applying to college this fall; she wants a gap year teaching at a surf school in Portugal. I actually like the gap year idea, I just think she should apply now and defer, while her teachers are around to help. She gets defensive fast.",
    "reply": "I love that you want to do something real before more school, and honestly I think a gap year could be great for you. Where I land differently is the timing of applications: I'd rather you apply this fall and defer, because doing it now, with your teachers around to help, is much easier than from Portugal next year. What worries you about applying now?",
    "lang": "en",
    "note": "With a teenager, agree with the part you genuinely support, disagree on one practical point, and end on a real question instead of a ruling."
   },
   {
    "id": "disagree-without-conflict-009",
-   "situation": "I'm on our community garden committee. At last night's meeting everyone liked Frank's idea of spraying weed killer on the paths to save weeding time. The paths run right beside the plots the local school's kids grow food in. I want to post in our committee group chat.",
+   "situation": "I'm on our community garden committee. At last night's meeting everyone liked Frank's idea of spraying weed killer on the paths to save weeding time. The paths run right beside the plots the local school's kids grow food in. I'd rather trial cardboard and wood chips on the two worst paths this month, and I want to post in our committee group chat.",
    "reply": "I'm with Frank on the goal, weeding the paths takes far too much of our time. Where I land differently is the spray: the paths run right alongside the school plots, and I'd rather not have weed killer anywhere near beds the kids eat from. Could we try cardboard and wood chips on the two worst paths this month and see if that does the job? If I've missed something about how it would be applied, tell me.",
    "lang": "en",
-   "note": "Shared goal first, one strong reason, and a small trial instead of a vote against Frank, so he can agree without losing face in the group."
+   "note": "Shared goal first, one strong reason, and a small trial instead of a vote against Frank, so he can agree without losing face in the group. Before anything is sprayed near the school plots, check the product label and ask the school what its own rules allow."
   },
   {
    "id": "disagree-without-conflict-010",
-   "situation": "我妈想把她和我爸住了三十年的老房子卖了，给我和老公凑首付。她说“反正以后也是你们的”。我们俩再攒一年半也能凑够，我不想让他们这么做，但不想让她觉得我不领情。",
+   "situation": "我妈想把她和我爸住了三十年的老房子卖了，给我和老公凑首付。她说“反正以后也是你们的”。那是他们养老的底。我们俩再攒一年半也能凑够，我不想让他们这么做，但不想让她觉得我不领情。",
    "reply": "妈，我知道您是想让我们早点有自己的家，这份心我特别感激。这件事我想法有点不一样：老房子是您和爸住了三十年的地方，也是你们养老的底，我不想为了首付让你们没了退路。我们俩再攒一年半，首付也能凑够。您是担心房价还会涨吗？",
    "lang": "zh",
    "note": "先接住她想帮忙的心意，只讲一个最重要的理由，最后用一个真心的问题了解她的顾虑。"
   },
   {
    "id": "disagree-without-conflict-011",
-   "situation": "I'm a freelance web designer. My client Marco, who owns an Italian restaurant, wants me to take the prices off the online menu so people 'come in and see'. I think it'll cost him bookings, but it's his call and I want to keep the relationship good. Email.",
+   "situation": "I'm a freelance web designer. My client Marco, who owns an Italian restaurant, wants me to take the prices off the online menu so people 'come in and see'. In my experience first-time diners pick places where they can see what dinner will cost, so I think it'll cost him bookings, but it's his call and I want to keep the relationship good. Email.",
    "reply": "Hi Marco, I'm with you on the goal, the whole point of the site is getting people through the door. Where I land differently is hiding the prices: in my experience people choosing a restaurant for the first time tend to pick one where they can see what dinner will cost. I could be wrong about your crowd, though. What's behind the change?",
    "lang": "en",
    "note": "With a client, disagree once with one reason and a real question, then build what they decide."
@@ -116,8 +116,8 @@
   },
   {
    "id": "disagree-without-conflict-017",
-   "situation": "好朋友阿琳想辞职开奶茶店，打算把攒了五年的20万全投进去，店面选在她家小区门口那条街。那条街上已经有4家奶茶店了。她问我怎么看，我觉得风险太大，但不想泼冷水。",
-   "reply": "你想自己干点事，这个我真心支持，也知道这20万是你攒了五年的。我这边的看法有点不一样：那条街上已经有4家奶茶店了，我担心新店很难抢到客人。我不懂这行，也可能想少了。这一点你之前琢磨过吗？要不要先去那几家门口数一个周末的客流再定？",
+   "situation": "好朋友阿琳想辞职开奶茶店，打算把攒了五年的20万全投进去，店面选在她家小区门口那条街。那条街上已经有4家奶茶店了。她问我怎么看，我觉得风险太大，想建议她先去那几家门口数一个周末的客流，但不想泼冷水。",
+   "reply": "你想自己干点事，这个我真心支持，也知道这20万是你攒了五年的。我这边的看法有点不一样：那条街上已经有4家奶茶店了，我担心新店很难抢到客人。我也可能想少了。这一点你之前琢磨过吗？要不要先去那几家门口数一个周末的客流再定？",
    "lang": "zh",
    "note": "朋友问意见时，一个最强的理由加一个她能自己去验证的问题，比一串风险清单更容易被听进去。"
   },
@@ -154,14 +154,14 @@
    "situation": "爷爷82岁，打算春节自己开车回河北老家，单程四百公里，他说开了五十年车没问题，到了老家用车也方便。上个月他倒车时刮了两次邻居的车。我想周末当面提议这次我来开，但不想伤他面子。",
    "reply": "爷爷，您开了五十年车，这个我一直佩服，也知道您想自己开回去，到了老家用车方便。我这边想法有点不一样：单程四百公里，上个月倒车还刮了两次邻居的车，我担心您路上太累。这次换我来开，您坐副驾帮我看路，您看行吗？要是有我没想到的地方，您跟我说。",
    "lang": "zh",
-   "note": "跟长辈唱反调：先肯定他的经验，理由只讲他自己经历过的事，再给一个保住他面子的替代办法，最后请他补充。"
+   "note": "跟长辈唱反调：先肯定他的经验，理由只讲他自己经历过的事，再给一个保住他面子的替代办法，最后请他补充。如果担心的是他的视力或反应，建议陪他去医院做一次驾驶相关的体检，让医生给意见。"
   },
   {
    "id": "disagree-without-conflict-023",
    "situation": "In our hiring debrief, the hiring manager Laura wants to pass on Omar because he 'wasn't a culture fit', mainly because he was quiet at the team lunch. I ran his technical interview and scored him the strongest of the five candidates. I'm a peer interviewer and want to say this in the meeting without putting Laura on the spot.",
    "reply": "Laura, I'm with you that we want someone who'll work well with the team. Where I land differently is on Omar: his technical interview was the strongest of the five candidates, and I'm wary of reading too much into him being quiet at one lunch. What else did you see that made you think he wouldn't fit? I could be missing something.",
    "lang": "en",
-   "note": "One reason, and a real question; if she holds her view, it's her call as hiring manager."
+   "note": "One reason, and a real question; if she holds her view, it's her call as hiring manager. If 'fit' starts standing in for something like age, background or disability, raise it with HR."
   },
   {
    "id": "disagree-without-conflict-024",
@@ -173,21 +173,21 @@
   {
    "id": "disagree-without-conflict-025",
    "situation": "I'm a hairdresser. My regular client Bea is booked for this Saturday and texted that she wants to go from her dark brown to platinum blonde in one session for a wedding on the 17th. Her hair's been bleached twice this year and snapped at the ends last time, so I'd rather take her to a soft caramel blonde on Saturday and finish the platinum in a second session three weeks later.",
-   "reply": "Bea, I love that you want to go bold for the wedding, and platinum would really suit you. Where I land differently is doing it all on Saturday: your hair's been bleached twice this year and it snapped at the ends last time, so I'm worried about breakage two weeks before the 17th. Could we take you to a soft caramel blonde on Saturday and finish the platinum in a second session three weeks later? What's drawing you to platinum for this wedding in particular?",
+   "reply": "Bea, I love that you want to go bold for the wedding. Where I land differently is doing it all on Saturday: your hair's been bleached twice this year and it snapped at the ends last time, so I'm worried about breakage two weeks before the 17th. Could we take you to a soft caramel blonde on Saturday and finish the platinum in a second session three weeks later? What's drawing you to platinum for this wedding in particular?",
    "lang": "en",
    "note": "Your professional judgement is the one reason; the question leaves room for what matters to her before you agree a plan."
   },
   {
    "id": "disagree-without-conflict-026",
    "situation": "部门同事群里，小刘提议给下个月退休的张师傅凑钱买礼物，每人500元，已经有三四个人回了“好”。我觉得心意到了就行，500元对刚来的几个实习生压力太大，想在群里提议每人随意、上限200元。",
-   "reply": "给张师傅送份礼物这个主意特别好，他带了我们这么多年，我也想表示一下。我这边有个小想法：每人500元对刚来的几个实习生可能压力有点大，要不改成每人随意、上限200元？心意到了就好。小刘，你定500元是已经看中了哪件礼物吗？有的话我们一起看看怎么凑。",
+   "reply": "给张师傅送份礼物这个主意特别好，他要退休了，我也想表示一下。我这边有个小想法：每人500元对刚来的几个实习生可能压力有点大，要不改成每人随意、上限200元？心意到了就好。小刘，你定500元是已经看中了哪件礼物吗？有的话我们一起看看怎么凑。",
    "lang": "zh",
    "note": "在群里唱反调：先认同提议本身，只讲一个理由，再问发起人的考虑，给对方留台阶。"
   },
   {
    "id": "disagree-without-conflict-027",
-   "situation": "My son Theo, 10, swims in a club squad. Coach Danielle announced in the parents' WhatsApp group that from November the squad trains five mornings a week at 6am instead of three. Theo is already worn out on the three early mornings, and I'd like him to stay on three; I want to message her privately, not in the group.",
-   "reply": "Hi Danielle, thanks for all the work you put into the squad, and I can see the extra sessions are about helping the kids improve. Where I land differently is for Theo: he's already worn out on three 6am mornings, and I'd rather he stayed on three for now. Could that work within the squad, or is five a requirement? I'd also like to hear what you're seeing in the pool that I might not be.",
+   "situation": "My son Theo, 10, swims in a club squad. Coach Danielle announced in the parents' WhatsApp group that from November the squad trains five mornings a week at 6am instead of three, to help the kids improve. Theo is already worn out on the three early mornings, and I'd like him to stay on three; I want to message her privately, not in the group.",
+   "reply": "Hi Danielle, thanks for all the work you put into the squad, and I know the extra sessions are about helping the kids improve. Where I land differently is for Theo: he's already worn out on three 6am mornings, and I'd rather he stayed on three for now. Could that work within the squad, or is five a requirement? I'd also like to hear what you're seeing in the pool that I might not be.",
    "lang": "en",
    "note": "Parent to coach: disagree only about your own child, in private, and leave room for what she sees at training."
   },
@@ -238,7 +238,7 @@
    "situation": "My co-host Dev wants our comedy podcast to take a $600-an-episode sponsorship from SpinLuck, a sports betting app. I agree we need money for new mics, but a lot of our listeners have written in about recovering from gambling debt, and I don't want to read betting ads to them. We record on Thursday.",
    "reply": "Dev, I'm with you that we need the money, and $600 an episode would sort the new mics fast. Where I land differently is SpinLuck: a lot of our listeners have written in about recovering from gambling debt, and I'm not comfortable reading betting ads to them. What drew you to this one in particular? I'd like us to settle it together before Thursday's recording.",
    "lang": "en",
-   "note": "The one reason is about the listeners, not Dev's judgement; if you still differ, agree how the two of you decide on sponsors."
+   "note": "The one reason is about the listeners, not Dev's judgement; if you still differ, agree how the two of you decide on sponsors. Gambling ads also come with advertising rules, so check what applies where you publish before you sign anything."
   },
   {
    "id": "disagree-without-conflict-035",
@@ -249,7 +249,7 @@
   },
   {
    "id": "disagree-without-conflict-036",
-   "situation": "On Thursday our team debated moving the product launch from November to January, and our manager, Lucy, made January final. I argued for November because our two biggest customers, Halden and Marlow, asked for the feature before their year-end; I lost. I want to post in our team Slack that I still see it differently but I'm fully behind January.",
+   "situation": "On Thursday our team debated moving the product launch from November to January, and our manager, Lucy, made January final so we'd have time to launch something we're proud of. I argued for November because our two biggest customers, Halden and Marlow, asked for the feature before their year-end; I lost. I want to post in our team Slack that I still see it differently but I'm fully behind January.",
    "reply": "Now that January's final: I'm with everyone on wanting a launch we're proud of, and that's what the extra time buys us. For the record, I still see it a little differently, mainly because Halden and Marlow asked for the feature before their year-end. I've said my piece, and I'm fully behind January. If anyone has ideas for keeping those two happy in the meantime, I'm all ears.",
    "lang": "en",
    "note": "Once the call is made, say your view once for the record, then commit out loud; don't reopen it in the thread."
@@ -277,7 +277,7 @@
   },
   {
    "id": "disagree-without-conflict-040",
-   "situation": "My mentor Graham, a retired product director who's helped me a lot, says I should do an MBA before trying to move into product management. I see it differently: my company's internal PM rotation opens in January, I've been invited to interview, and I think I'd learn faster on the job. We're having coffee on Thursday and I want to say it out loud without seeming ungrateful.",
+   "situation": "My mentor Graham, a retired product director who's helped me a lot, says I should do an MBA before trying to move into product management. I agree I need a stronger grounding in the business side, but I see the route differently: my company's internal PM rotation opens in January, I've been invited to interview, and I think I'd learn faster on the job. We're having coffee on Thursday and I want to say it out loud without seeming ungrateful.",
    "reply": "Graham, you've helped me so much with this, and I agree I need a stronger grounding in the business side. Where I land differently is doing the MBA first: our internal PM rotation opens in January, I've been invited to interview, and I think I'd learn faster doing the job. What makes you see the MBA as the better route for someone in my position? I may be underrating it.",
    "lang": "en",
    "note": "Asking a mentor for advice doesn't oblige you to take it: credit what you agree with, give one reason, and ask what he sees that you don't."

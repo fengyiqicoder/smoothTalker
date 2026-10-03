@@ -1,6 +1,6 @@
 {
  "playbook": "admit-mistake-at-work",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "admit-mistake-at-work-001",
@@ -281,6 +281,13 @@
    "reply": "Rhea, I got Monday's brief wrong: I built the price comparison for the six national chains, not the six regional ones, so the version you asked for isn't done. That's on me; I didn't check the scope back with you before I started. I can have the regional comparison to you by Tuesday noon. If there's a part you need sooner, tell me and I'll do that first. From now on I'll send you a two-line summary of any new brief before I start on it.",
    "lang": "en",
    "note": "When you misread a brief, don't hint it was unclear: own the scope miss, give the new time, and fix the step that let it happen."
+  },
+  {
+   "id": "admit-mistake-at-work-041",
+   "situation": "I was on call last night and missed a page: the payments queue alert fired at 2:10am and I didn't respond until 2:55. Tomás, the backup, restarted the worker at 2:30, so about 300 payments were delayed by up to 45 minutes and none failed. My phone's do-not-disturb overrode the on-call app; I've set the app to bypass it and tested it with a page this morning, and I'll add an alert test to the on-call checklist. Posting to my manager, Hana, in the incident channel.",
+   "reply": "Hana, I missed last night's page: the payments queue alert fired at 2:10am and I didn't respond until 2:55. Tomás picked it up as backup and restarted the worker at 2:30, so about 300 payments were delayed by up to 45 minutes and none failed. The cause was on my side: my phone's do-not-disturb overrode the on-call app. I've set the app to bypass do-not-disturb and tested it with a page this morning. Sorry, and thanks to Tomás for covering. I'll add an alert test to the on-call checklist so everyone checks theirs at the start of a shift.",
+   "lang": "en",
+   "note": "A missed page: timeline, impact and who covered, then the fix already tested; thank the backup and skip the story of the night."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-colleague-for-help-or-delegate",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "ask-colleague-for-help-or-delegate-001",
@@ -281,6 +281,13 @@
    "reply": "Hi Ayesha, could I ask for your honest read on something? I've drafted a two-page proposal to move on-call from weekly to four-day shifts, and it goes to our director on Thursday. You've run on-call longer than anyone here and it affects you more than most, so I'd rather hear where it breaks from you now than find out later. About 20 minutes with the doc by Tuesday would be plenty. If your week's too full, just say, no problem at all, and any changes you suggest will be credited to you in the doc.",
    "lang": "en",
    "note": "Asking a report to critique your own work: say why them, cap the time, and make it clear that pushback and a no are both welcome."
+  },
+  {
+   "id": "ask-colleague-for-help-or-delegate-041",
+   "situation": "I'm a second-year PhD student in Dr. Lindqvist's lab on the second floor. Our plate reader broke and won't be repaired until later this month, and I need to read three assay plates by Friday for my committee meeting next Wednesday. Dr. Okafor's lab on the fourth floor has the same model; I've never met their lab manager, Priya Desai, but I'm trained on that model, each run takes about 40 minutes, and I can take any free slot, early mornings included, bring my own plates and clean up after.",
+   "reply": "Hi Priya, I'm a second-year PhD student in Dr. Lindqvist's lab on the second floor. Our plate reader has broken and won't be repaired until later this month, and I need to read three assay plates by Friday for my committee meeting next Wednesday. Could I book time on your reader before then, three runs of about 40 minutes each? I'm trained on that model, I can take any free slot, early mornings included, and I'll bring my own plates and clean up after. If this week is too full, no problem at all, just say and I'll look elsewhere.",
+   "lang": "en",
+   "note": "Asking a stranger in another team for kit: who you are, the exact time cost, proof you won't create work for them, and an easy no."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "playbook": "ask-for-a-discount-as-a-customer",
- "count": 40,
+ "count": 41,
  "cases": [
   {
    "id": "ask-for-a-discount-as-a-customer-001",
@@ -281,6 +281,13 @@
    "reply": "阿琳你好，谢谢你愿意给我换。窗帘收到了，就是颜色不对：我下单选的是米白色，收到的是浅灰色，下单截图附上。拆下来寄回去再等新的，来回要一周多，其实浅灰跟我家也挺搭。如果能退我100元，我就留下不换了。不方便的话也没关系，我就按你说的寄回去换。",
    "lang": "zh",
    "note": "筹码是替对方省下的退换麻烦：报一个具体金额，事实说清，并表明不行也照常走换货。"
+  },
+  {
+   "id": "ask-for-a-discount-as-a-customer-041",
+   "situation": "Ollie has tuned my piano every year for $140. This year three of my friends, Ana, Ben and Chloe, booked him on my recommendation. I'd like to ask if he'd do mine for $110 this time, and I can take whichever date he has free in November.",
+   "reply": "Hi Ollie, I'd like to book my piano tuning for November, whichever date you have free. I've been glad to send a few friends your way this year, Ana, Ben and Chloe, so I wondered if you'd do mine for $110 instead of $140. If that's not how you work, no problem at all, just book me in at the usual price.",
+   "lang": "en",
+   "note": "Referrals are a real lever, but mention them lightly and book either way, so it reads as a thank-you he can offer, not a bill for the favour."
   }
  ]
 }
